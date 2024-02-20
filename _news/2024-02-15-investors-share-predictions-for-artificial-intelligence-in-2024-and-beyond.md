@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI and Robotics to Play Key Roles in Space Exploration"
+    excerpt: "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us."
+    publishedDateTime: 2024-02-19T14:52:00Z
+    webUrl: "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 69
+    images:
+      - url: "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Insights into how AI and wearable technologies are impacting the future of healthcare"
     excerpt: "Imagine a world in which the digital watch on your wrist tracks not only your step count, but also your blood sugar, heart rate, blood pressure and respiration."
     publishedDateTime: 2024-02-15T18:07:00Z

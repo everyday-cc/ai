@@ -58,6 +58,20 @@ related:
       name: FOX 32
       domain: fox32chicago.com
     quality: 29
+  - title: "AI-generated voices of 6 young people who died by gun violence are sending pleas to lawmakers"
+    excerpt: "The audio is one of six AI-generated voice messages from young people killed by gun violence, part of a new campaign launched last week by two groups, March For Our Lives and Change the Ref, to urge lawmakers to act on gun control."
+    publishedDateTime: 2024-02-19T17:14:00Z
+    webUrl: "https://www.ksl.com/article/50882104/ai-generated-voices-of-6-young-people-who-died-by-gun-violence-are-sending-pleas-to-lawmakers"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 28
+    images:
+      - url: "https://img.ksl.com/slc/2971/297121/29712112.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
 secured: "+2l1B7UzGY0zABT+Z6uYKR/6BzxqRBzvJEMy1y+5S7tOb3w7NYugM43725qgFDMm6rnAoTWPrz2rHUeTKB8bn6o2MSIaRFsJl8uaOUXQfh0tRirIGcKHnWpbd2pp00bSW509TNpDTmhNSS8OUbfkS4+fqMZt0PyFW5lz1XqEP7H70GVL6bkrRWc+M1OpCimeeywwpO5KmlSGmHgB+sOcU6Ix7vd8/yWeB8lItJTe2lEcwimftUiQRMToyzUnHP2+htUqE/xgIKNmWVcj1hFqC3B320gAirzAUxo33KYBG6cK59yEFFthzMkiL54D/c8lB069DVqb7oQolOkKFF/TI1VUJ2Kis/9GFgD3k3rrGHogJEC0i5KTzzwwfTZ19mBQqQ2nWo3O3z0X5S1TFZDj2x5mMBM9+B05NLLKUE+ylFtjlsZ8PnrTbwSVDGneK4KoJFnHswZP888dSU921Y7AwZtt2CRTVNNaC70xh1GMtEWR8j9Z8eM6cKO3NKvNBz+EkKRK8ZsZD1iovPSYshO9FQ==;DXnv1Ko+HX8f8PGCV6c5Vg=="
 ---

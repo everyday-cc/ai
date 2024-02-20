@@ -2,6 +2,212 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-07-ais-future-could-be-open-source-or-closed.md",
+      "title": "AI’s future could be ‘open-source’ or closed",
+      "excerpt": "Tech leaders have been vocal proponents of the need to regulate artificial intelligence, but they’re also lobbying hard to make sure the new rules work in their favor. That’s not to say they all want the same thing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thealpenanews.com/news/national-news-apwire/2023/12/ais-future-could-be-open-source-or-closed/",
+      "originalUrl": "https://www.thealpenanews.com/news/national-news-apwire/2023/12/ais-future-could-be-open-source-or-closed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://d14e0irai0gcaa.cloudfront.net/www.thealpenanews.com/images/2016/11/15143024/fblike.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T22:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Alpena News",
+        "domain": "thealpenanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators.md",
+      "title": "AP: AI’s future could be ‘open-source’ or closed. Tech giants are divided as they lobby regulators",
+      "excerpt": "SummaryTech leaders have been vocal proponents of the need to regulate artificial intelligence, but they're also lobbying hard to make sure the new rules work in their favor. That's not to say they al",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/",
+      "originalUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2047/2023/05/22095947/GETTY_52223_Meta436760.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/?amp=1",
+      "cdnAmpWebUrl": "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/?amp=1",
+      "publishedDateTime": "2023-12-06T18:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "92.7 WMAY",
+        "domain": "wmay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-tech-giants-debate-ais-future-open-or-closed.md",
+      "title": "Tech giants debate AI’s future: open or closed?",
+      "excerpt": "These two diverging camps -- the open and the closed -- disagree about whether to build AI in a way that makes the underlying technology widely accessible. Safety is at the heart of the debate, but so is who gets to profit from AI's advances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arkansasonline.com/news/2023/dec/06/tech-giants-debate-ais-future-open-or-closed/",
+      "originalUrl": "https://www.arkansasonline.com/news/2023/dec/06/tech-giants-debate-ais-future-open-or-closed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205970895_4Dtech1206_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "width": 600,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T08:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arkansas Democrat-Gazette",
+        "domain": "arkansasonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-join-llama-legion-earths-elite-soldiers-in-training.md",
+      "title": "Join Llama legion – Earth's elite soldiers in training",
+      "excerpt": "Llama Land, a blockchain-based game on the BSC chain, offers a relaxing universe where players are rewarded for their engagement, featuring contests, summoning, trading, and llama army-building to def",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/press-releases/join-llama-legion-earths-elite-soldiers-in-training",
+      "originalUrl": "https://cointelegraph.com/press-releases/join-llama-legion-earths-elite-soldiers-in-training",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T10:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-the-7-best-artificial-intelligence-ai-stocks-to-buy-now.md",
+      "title": "The 7 Best Artificial Intelligence (AI) Stocks to Buy Now",
+      "excerpt": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research ... AI. Improved ad targeting through AI should help power sales growth across its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/05/the-7-best-artificial-intelligence-ai-stocks-to-bu/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/05/the-7-best-artificial-intelligence-ai-stocks-to-bu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T08:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide.md",
       "title": "AI Poised to Enhance Student and Faculty Experiences: Info-Tech Research Group Publishes New Industry Guide",
       "excerpt": "The newly published resource includes use cases on the topic of AI in the classroom and covers the technology involved, the benefits to the",

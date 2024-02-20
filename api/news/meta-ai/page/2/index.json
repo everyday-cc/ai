@@ -2,6 +2,240 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-06-forget-nvidia-these-2-artificial-intelligence-ai-stocks-are-still-historically-cheap.md",
+      "title": "Forget Nvidia: These 2 Artificial Intelligence (AI) Stocks Are Still Historically Cheap",
+      "excerpt": "Artificial intelligence (AI) could add $15.7 trillion ... For now, Meta's social media sites are its bread and butter. Facebook, Instagram, WhatsApp, and Facebook Messenger are consistently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/06/forget-nvidia-2-ai-stocks-still-historically-cheap/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/06/forget-nvidia-2-ai-stocks-still-historically-cheap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T04:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-ai-moving-fast-uk-to-spend-125m-on-ai-hubs-regulation.md",
+      "title": "‘AI moving fast’: UK to spend $125m on AI hubs, regulation",
+      "excerpt": "The United Kingdom has unveiled plans to spend over 100 million pounds ($125m) on research and training related to artificial intelligence (AI). Under the plans announced on Tuesday, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
+      "originalUrl": "https://www.aljazeera.com/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2024/02/2023-11-02T162052Z_1550215641_RC2454A1KFX0_RTRMADP_3_AI-BRITAIN-SUMMIT-1707180555.jpg?resize=1920%2C1440",
+          "width": 1920,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent.md",
+      "title": "Facebook rules allowing fake Biden “pedophile” video deemed “incoherent”",
+      "excerpt": "A fake video manipulated to falsely depict President Joe Biden inappropriately touching his granddaughter has revealed flaws in Facebook's \"deepfake\" policies, Meta's Oversight Board concluded Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2024/02/facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2024/02/facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-870668326-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T18:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-a-baby-llama-has-possibly-been-stolen-from-maine-farm.md",
+      "title": "A baby llama has possibly been stolen from Maine farm",
+      "excerpt": "Mainers should be on the lookout for a baby llama that was possibly stolen from a farm in Acton. Acton Animal Control Officer Jim Driscoll was notified Sunday about a possibly stolen llama. He is asking farmers and neighbors in the area of Foxes Ridge and County roads to look out for the animal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
+      "originalUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdn-data.s3.amazonaws.com/uploads/2024/02/Acton-Llama-Missing.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T15:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangor Daily News",
+        "domain": "bangordailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-apples-new-ai-research-promises-high-performance-without-the-high-price-tag.md",
+      "title": "Apple’s new AI research promises high performance without the high price tag",
+      "excerpt": "For instance, Hugging Face, a company that provides open-source tools and models for natural language processing, recently launched an initiative with Google that makes it easier for users to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/apples-new-ai-research-promises-high-performance-without-the-high-price-tag/",
+      "originalUrl": "https://venturebeat.com/ai/apples-new-ai-research-promises-high-performance-without-the-high-price-tag/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_an_apple_surrounded_by_data_and_money_118ed9fb-d58c-4b58-940c-f1d0ec5bddd4-1-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T12:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-microsoft-in-deal-with-semafor-to-create-news-stories-with-aid-of-ai-chatbot.md",
       "title": "Microsoft in deal with Semafor to create news stories with aid of AI chatbot",
       "excerpt": "Semafor co-founder Ben Smith emphasised that Signals will be written entirely by journalists, with artificial intelligence providing a research tool to inform posts. Microsoft on Monday was also ...",
@@ -1209,213 +1443,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-mark-zuckerberg-announces-new-open-source-agi-under-development.md",
-      "title": "Mark Zuckerberg announces new open source AGI under development",
-      "excerpt": "To achieve this, Meta, the parent company of Facebook, is investing heavily ... AGI represents a frontier in AI research, blending the power of machine learning with the adaptability of human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/open-source-artificial-general-intelligence-agi/",
-      "originalUrl": "https://www.geeky-gadgets.com/open-source-artificial-general-intelligence-agi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-meta-to-develop-artificial-general-intelligence.md",
-      "title": "Meta To Develop Artificial General Intelligence",
-      "excerpt": "The Facebook founder said that Meta had built ... He further said that two of the company's AI research teams - FAIR and GenAI are working together to accelerate this project.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/meta-to-develop-artificial-general-intelligence-1032981000",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/meta-to-develop-artificial-general-intelligence-1032981000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-attackers-could-eavesdrop-on-ai-conversations-on-apple-amd-imagination-and-qualcomm-gpus.md",
-      "title": "Attackers Could Eavesdrop on AI Conversations on Apple, AMD, Imagination and Qualcomm GPUs",
-      "excerpt": "Security researchers from Trail of Bits identified a GPU memory vulnerability they called LeftoverLocals. Some affected GPU vendors have issued fixes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/",
-      "originalUrl": "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/01/leftoverlocals-logo-jan-24-hero.jpeg",
-          "width": 1090,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T03:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.md",
-      "title": "Mark Zuckerberg wants to build Artificial General Intelligence (AGI)",
-      "excerpt": "Mark Zuckerberg is planning more AI as the focus of global tech majors ... known for creating Facebook, the first widely used social media platform. It’s still in operation today and continues ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2024/01/mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.html",
-      "originalUrl": "https://www.androidheadlines.com/2024/01/mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-the-generative-ai-future-will-not-be-free.md",
-      "title": "The generative AI future will not be free",
-      "excerpt": "I asked Oren Etzioni, an AI expert and a veteran of the online Search business. He shared a few thoughts: The broad services (Search, Facebook, WhatsApp) are still free/ad-supported (if the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/generative-ai-future-will-not-be-free-2024-1",
-      "originalUrl": "https://www.businessinsider.com/generative-ai-future-will-not-be-free-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -33,6 +33,20 @@ related:
         width: 1410
         height: 806
         isCached: true
+  - title: "Accelerated HPC for Energy Efficiency with AWS and NVIDIA"
+    excerpt: "As HPC users are increasingly integrating artificial intelligence (AI) and machine learning (ML ... more HPC simulations and AI/ML applications at scale using on-demand AWS compute infrastructure. Drug discovery, protein target identification, structure ..."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://insidehpc.com/2024/02/accelerated-hpc-for-energy-efficiency-with-aws-and-nvidia/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2024/02/AWS-Nvidia-sponsored-content-box-image-2-1-0224-1.png"
+        width: 508
+        height: 255
+        isCached: true
 
 secured: "FcQ3JDNGcST5W9mKejUfnPlPwJ9sqSzPtsXAaNO09QgwsCPXkem8PN9ygx8gBJyHEFWRzJZEha2zOuYizPVtING1ZHQGRG4cf6C3Dr66EK1xEE/f7hvced+EeUYcRcVlcpXOTtaaobbHG8yP6UbZ0iFlG7Z7N+eSEBAvEcxpP1ub70crOT4QoUCtVha5moxjLPEQBfixLz68Axfaf2IFvLTtML+EyA9RIvBho9S2OeVFZGGpCMuPHO2MaosgVJ9wy/h0uUyEEuJYXeJs+d3sH9+4RWGOzmk9Lj2JlP+PlRr3X23OtcE3P2iH8v1u76JExeQOQ1+wb5XQNUCdsXod335aoQWVSTVmmTM4tJMcL2HTiAJ4bpRe9BIV/h5SGtn/qOrOuJ7ddJh+9eaqAnuDUKvAkv2E1rAtwA9WSkbKZo84WUvMyZDiV0Rl8w8c+nkjV6HUyORee47cdj3ASHQTs9/LZmnj+4VZJ8an14ZFvupR9KAYEm5iIDmmAuRDVwHzX6XQl+6pcG4yEo56IWekkw==;DYodIwRqr81Lq6wxmoeeVQ=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT's been acting weird — and it's probably our fault"
-    excerpt: "OpenAI relies on interactions with users to train ChatGPT; their responses could be causing the chatbot to change in unpredictable ways, an AI researcher says."
-    publishedDateTime: 2024-02-15T12:49:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/65573f134ca513d8242b3050?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "ChatGPT vs Gemini: Which AI Chatbot Subscription Is Right for You?"
     excerpt: "Everyone wants your $20 per month for access to their best AI chatbot. Who gets it depends on what features are important to you."
     publishedDateTime: 2024-02-15T22:17:00Z

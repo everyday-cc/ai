@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GoldPickaxe Mobile Trojan Malware Captures Facial Data, Intercepts Text Messages to Access Financial Accounts"
+    excerpt: "The new GoldPickaxe evolution of the GoldDigger trojan malware takes things a step further, retaining the prior functionality but adding the ability to capture facial data for the purpose of creating a deepfake to defeat biometric logins."
+    publishedDateTime: 2024-02-20T11:00:00Z
+    webUrl: "https://www.cpomagazine.com/cyber-security/goldpickaxe-mobile-trojan-malware-captures-facial-data-intercepts-text-messages-to-access-financial-accounts/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 5
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2024/02/goldpickaxe-mobile-trojan-malware-captures-facial-data-intercepts-text-messages-to-access-financial-accounts_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
 
 secured: "t/EQL9ucN5cHaB8oqLA9I54sBgWHJ7MeVnBXlZs/LNL8tXadaZjyWm/Nz+xEyyWPpKOkEXVt8AcSG3kpXFAOmfFW1DSWuiSGts5lTU4gu+BIcdQI70ywwRSqMVbv9BeSKdUKTj8yjCzQ6/i066Nsw3xnC7RYqgynKtuO1OrRCAyNg/3pMNTHvQpl8pXNuWDyCvbHl3tQQD6wWuyZCnhlL1o+afqUFf3SoJIxTclN0YZoRxj+7ZNr8KTwDW637rXhUjDFRvoKRTasvMiVRS/ez7G1tm56HSTrY1MZnou6XctIfI0xC5SUodGWatV7iR8tsCni7DgU0uve6JldA2BUzKJ+yCFiknToy42D1aStXNCq1TkKmq4X9lJJDM0CXSOVWbfeSnu0tHo9PU2Sv59E8rzh8S7wZxfyj7ec0NxIhU1M/jAbHJwXddl746D92tIT6/ALcGRNjx98CarOcf7I0Swws7FFCFqH3edRnVgXf9Pf0o2Hrg2SGYI40R7w5TuCNVp2FXjkp/jVfU6SYyG4jw==;hqj+E11K167nguF4LRKHpg=="
 ---

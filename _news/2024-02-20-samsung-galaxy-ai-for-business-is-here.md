@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Samsung S24 Ultra's intelligent Galaxy AI features are redefining the future of productivity"
+    excerpt: "The Samsung Galaxy S24 Ultra is a game-changer for professionals, offering innovative features and cutting-edge technology. From Circle to Search to the S Pen, this smartphone enhances productivity, communication,"
+    publishedDateTime: 2024-02-20T12:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/cons-products/electronics/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity/articleshow/107854885.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/cons-products/electronics/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity/amp_articleshow/107854885.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/cons-products/electronics/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity/amp_articleshow/107854885.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 46
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-32116,msid-107855087/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "W+lbfAga89d9VLv3GiotbMsOSMfcmLxeGf+mnNOlXcptaGQdRIOWAGqP61OgwrTW4z2fLw6w/liNul8crkIvbNeGbZizRhpRNv45WGCGG7sAOQNaIX05yIAhGdrDjxc7iHa+FGpC6hEPiH+WYoM4O7iw9dXAxenmCmQTDCD8Wz9BYeMHVBCLhdXOIvQsaA2dkT+FnqnYbmmZUNA9NE2Rvo/iBPiZ27KKLT489rl9fZdOvU8W4Iy0SWDq8NJE4bFVsObnW/uvgFtIsUSpPQMxNVQuvNNz6w6UFZJd0Q1Ezukofe4De+PbrCSq6g1cvMZkzwGfu170iaIlZtk0SE4AoEtqyCp+ywslD5SSGLRWgjMfl9QK1gaek99tcIoRII2BHlzNPobvrGkgblJQtgLSSeIeRKYcPe9W26yRk+C224zxE8f+WQhgiSXW82sM9N3ZL2r+64P6zoekH5e5pB4j+YiTHPpi573OScT1nDWPG+4RzLa2YZnFvrjnUE5ypOuCMJrNGZyx1ZD4/Nn6VB9euw==;UhDcYQvWHZLTuvpK9pMxNg=="
 ---

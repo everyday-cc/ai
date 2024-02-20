@@ -51,6 +51,20 @@ related:
       domain: fox32chicago.com
     quality: 29
   - title: "AI-generated voices of 6 young people who died by gun violence are sending pleas to lawmakers"
+    excerpt: "The audio is one of six AI-generated voice messages from young people killed by gun violence, part of a new campaign launched last week by two groups, March For Our Lives and Change the Ref, to urge lawmakers to act on gun control."
+    publishedDateTime: 2024-02-19T17:14:00Z
+    webUrl: "https://www.ksl.com/article/50882104/ai-generated-voices-of-6-young-people-who-died-by-gun-violence-are-sending-pleas-to-lawmakers"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 28
+    images:
+      - url: "https://img.ksl.com/slc/2971/297121/29712112.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
+  - title: "AI-generated voices of 6 young people who died by gun violence are sending pleas to lawmakers"
     excerpt: "\"It does seem to kind of straddle the line between a good use of AI and something that's questionable,\" says Robert Wahl, an associate professor of computer science at Concordia University Wisconsin and an expert on the ethics of AI technology. Creating AI ..."
     publishedDateTime: 2024-02-19T12:14:00Z
     webUrl: "https://www.ksl.com/article/50882104/these-6-young-people-died-by-gun-violence-now-their-ai-generated-voices-are-sending-gun-control-pleas-to-lawmakers"

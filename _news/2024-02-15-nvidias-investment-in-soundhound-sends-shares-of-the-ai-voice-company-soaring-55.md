@@ -65,6 +65,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Nvidia Earnings Are Coming. Why It’s Time to Think About AI Chip Competition."
+    excerpt: "It’s not an exaggeration to say that the tech sector's recent rally might depend on Nvidia beating expectations for its earnings report this week. However, stockholders in the chip maker should be looking beyond the immediate horizon and particularly at potential competitive threats."
+    publishedDateTime: 2024-02-20T09:37:00Z
+    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-022024/card/nvidia-earnings-are-coming-why-it-s-time-to-think-about-ai-chip-competition--t3L1dFwwER6wORkYouvd"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 51
+    images:
+      - url: "https://images.barrons.com/im-92074206/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI Boom Drives Nvidia To Overtake Alphabet In Market Value"
     excerpt: "Chipmaker Nvidia (NVDA) surpassed Alphabet Inc. (GOOG) to become the third most valuable company in the U.S. on Wednesday, trailing"
     publishedDateTime: 2024-02-15T21:36:00Z
@@ -73,6 +87,15 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 49
+  - title: "High-Flying Nvidia’s Earnings Could Test US Stock Market’s AI Dreams"
+    excerpt: "Excitement over the business potential of AI has boosted Nvidia’s shares by more than 46% since Jan. 1. Its $570 billion increase in market capitalization is more than triple the market value of Intel. Shares of Nvidia, whose chips are considered the ..."
+    publishedDateTime: 2024-02-16T17:32:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-16/high-flying-nvidias-earnings-could-test-us-stock-markets-ai-dreams"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 49
   - title: "Nvidia reveals its Eos supercomputer for AI processing sporting 4,608 H100 GPUs"
     excerpt: "Nvidia has given enthusiasts their first look at Eos, a data-center scale supercomputer designed for AI applications. It first introduced Eos at the Supercomputing Conference in"

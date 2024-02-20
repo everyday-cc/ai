@@ -32,7 +32,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 47
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "9wgvUj24NUXV6r6yEifqHyn3g4vOIsxYMbSaGHnX4rFReEOoEyizZCUJiqNRjPuZwCyjHHVnEbnHmpLITXHhxDgb/hYLNbSq5hiWce4Mi9JTnnRnHO0OFWCGYqGwJfaXBcJwO9SQYJ+g1Hr7O/fCMX9jd0hDA7nw100opGST+amJ1olxbGxNfiBp2xAIJRazVEvMUts9Urtezrx37wjMkPLjIjE4K991VdisxfDytnnXQDmhvZN9VzMLzzOXPvPYN+BicBJmq4zS0nP/WjlcWXG31oXsnMzqjfS026Tm+b8JRA3Yi6Y1etVKQWTrNXZN3DBpD7zAc2g7Z74O+15NATjuQj1o75tAfCuDgdPtBDumf57sKTOA+hogUK/iZgg3M0W6iH1x8eBeosTHICdescw7A/jKM7HaiyL7KJr1k0p+5V12nKBSE7zqCAMSbGXwj3FK+kksYn7ArxOeZbyT7vXV3LP2X3FP3Cg1oJTyfhBWXQAZ3K8Q5VSDVopaYdsQpmI+IcDIc7mWa1qhPiI2zQ==;IU5b7mkRFSHOhol2oh5XLQ=="
 ---

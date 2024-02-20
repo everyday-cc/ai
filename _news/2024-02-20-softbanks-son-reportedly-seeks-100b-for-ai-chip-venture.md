@@ -75,6 +75,22 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Softbank wants $100 billion to compete with Nvidia for AI chips"
+    excerpt: "SoftBank's Masayoshi Son aims to raise $100 billion for a chip venture named Izanagi, focused on AI computing and artificial general intelligence. The project plans to challenge Nvidia's dominance, collaborate with OpenAI, and achieve AGI through Arm's ..."
+    publishedDateTime: 2024-02-20T12:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/articleshow/107856097.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107856061,width-1280,height-720,resizemode-4/107856061.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "SoftBank's Son is seeking about USD 100 billion for AI chip venture, Bloomberg reports"
     excerpt: "The company would inject USD 30 billion in the project, with an additional USD 70 billion potentially coming from Middle Eastern institutions, according to the report."
     publishedDateTime: 2024-02-17T09:50:00Z

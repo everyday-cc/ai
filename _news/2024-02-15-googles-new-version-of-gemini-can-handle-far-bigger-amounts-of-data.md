@@ -89,15 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google upstages itself with Gemini 1.5 AI launch, one week after Ultra 1.0"
-    excerpt: "which supposedly represented the best AI language model Google could muster—available as part of the renamed \"Gemini\" AI assistant (formerly Bard). Today, Google announced Gemini Pro 1.5, which it says \"achieves comparable quality to 1.0 Ultra ..."
-    publishedDateTime: 2024-02-15T12:45:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/02/google-upstages-itself-with-gemini-1-5-ai-launch-one-week-after-ultra-1-0/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
   - title: "Google Gemini 1.5 Pro AI video analysis performance tested"
     excerpt: "Google has committed to extensive ethics and safety testing in line with AI Principles and robust safety policies. This includes conducting evaluations on content safety, representational harms, and developing tests for the novel long-context capabilities ..."
     publishedDateTime: 2024-02-20T07:46:00Z

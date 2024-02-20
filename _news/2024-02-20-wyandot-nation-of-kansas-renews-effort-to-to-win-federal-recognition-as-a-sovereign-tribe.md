@@ -39,19 +39,21 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Google Photos could let you fix incorrect AI document recognition"
-    excerpt: "Google Photos categorizes images of documents automatically, but sometimes it misidentifies them, hamstringing the user experience. A feature in development will allow users to manually recategorize images in the Documents section of Google Photos. Manual correction could contribute to improving Google's automatic categorization system too."
-    publishedDateTime: 2024-02-15T11:43:00Z
-    webUrl: "https://www.androidpolice.com/google-photos-fix-incorrect-ai-document-recognition-wip/"
+  - title: "Self-Driving Startup Recogni Nabs $102 Million to Design AI Chip"
+    excerpt: "Recogni Inc., an artificial intelligence startup that builds technology to support autonomous vehicles, has raised $102 million in funding after expanding into designing chips for generative AI."
+    publishedDateTime: 2024-02-20T10:19:00Z
+    webUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
+    ampWebUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+    cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 39
+      name: winnipegsun
+      domain: winnipegsun.com
+    quality: 74
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/08/google-photos-psychedelic-hero.jpg"
-        width: 1850
-        height: 1000
+      - url: "https://dcs-static.gprod.postmedia.digital/15.4.1/websites/images/canada/fallback.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Croydon support for Met Police facial recognition operation"
     excerpt: "The Mayor of Croydon has shown support for the Met Police’s facial recognition operations, saying ‘if you’ve got nothing to hide you’ve"
@@ -91,6 +93,6 @@ related:
       domain: biometricupdate.com
     quality: 12
 
-secured: "bp4yYLwC8UHVpWdY8jvv08QgN1w+IO1PrzrFeAc/gUThiruIJH/EYDJaciOw/FuVvNfB44A9O3p3i1D2AWZDMTo8Wq1VOeUfMqeIZPxT73rlAZFTtSPSaWK0/7cDomyZgB0Hy9isQeaf9dp5Ku5U2YJWQp4/3HZNUwijnEUZgyzvJdJmyIGWxO1aTLUWZ2PHAYgHblr3bbx0Nyqa+5noj6TDdvRaCfU/e1x7tBPk7NtRVglNO0fUl37mSkVhXPi21PiH8KCFuCCdG5zq3HVgyq7Bt2aulOd2Wj1zLKkX16nqcr0tB+C7NltxvOCzdy0eeVXWwfdVcuSY6PEzD+MUN7O2nj/E7HR3cnJ/6DvwNk0=;c6azXjHnH4HZ4+iuma6V3A=="
+secured: "MFUUF3oyFjGVZ+kRyxrMcB/izMeftnIx5Vy+xGsFA5wN2FJTirPDSG7DAFy6iztC75mxyWwsHnyhu9pBxIWepnVkqCWDVx+jHlYd00cTvOfkLm9Q2xRY+NVsLvZTkkqRK4Pjj+60jTYzQiJqUL0JanMBG9Z+/o7T4kTYLgPzt2kcr1SemT4fzpoabh7q2k58ropv7u0YO6kaFKJnvRWh27Y/L/HaP4Mq76/gwfv5IulGv6C0y6ho9MFParQDxaclgfWOlPAJTBtRRRahLUymSJr0PX4gFwgaTI1WREoUXesbf4isUeW0mjS59fmlPGcbxbvItLeVK2g2/OTK35xlESgHdet8ykXh3eNqwq6WkScLJ7dA3YSBhmZxx8p65CwAftlGw97G/Lt3UWtgJfmrU6JljZZmSBxZs+QOnB+8M2xYUiUumNngz+JdOw5ybiQfHvRKAp1oLpt/t95T9quD8TaEUJaJIude48jMCe3fa/G8QlzGfGgoIm8BvOatkd0JYuGLycuTHc/Eq4EHPXxyAA==;FftGZ3HnNlHLVHaWBgdZzA=="
 ---
 

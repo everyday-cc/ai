@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Alphabet's Waymo recalled vehicles to update automated driving software"
-    excerpt: "The ADS systems, which had versions released prior to Dec. 20, may inaccurately predict the movement of a towed vehicle, according to the agency. Waymo has updated the software free of charge and all affected vehicles were repaired by Jan."
-    publishedDateTime: 2024-02-15T11:09:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-200252,msid-107723122/file-photo-waymo-rider-only-robotaxi-test-ride-in-san-francisco.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Waymo issues recall after 2 of its self-driving vehicles strike the same pickup truck in Arizona"
     excerpt: "In December, a Waymo vehicle struck a pickup truck being towed. A few minutes after the crash, another Waymo vehicle struck the same pickup."
     publishedDateTime: 2024-02-15T16:23:00Z
@@ -50,6 +34,22 @@ related:
       - url: "https://media.newscentermaine.com/assets/CCT/images/d1ebbb21-7507-4b4f-8345-451edd7ba817/d1ebbb21-7507-4b4f-8345-451edd7ba817_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "No Waymo! TWO of Google's self driving taxis crash into a pickup truck in Arizona within MINUTES of each other - forcing company to issue recall"
+    excerpt: "In what appears to be a vehicle recall epidemic, the self-driving car service Waymo has issued a software recall after two of its vehicles collided with a tow truck in December. A tow truck was ..."
+    publishedDateTime: 2024-02-15T21:44:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-13088161/waymo-issues-recall-self-driving-cars-collide.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-13088161/amp/waymo-issues-recall-self-driving-cars-collide.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-13088161/amp/waymo-issues-recall-self-driving-cars-collide.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 37
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2024/02/15/21/81327349-0-image-a-29_1708031174581.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "sqxfGstD3ntVOlOuD7Gg7cVUu6pcLP9fyK0PtfOn3q7XVGgKoSvLcYxlnBakGidJI6o5Kgc63e3bAdGfLR8EN78H7124/YDWxfVU1K5WNfkskbzDv1YvuHZzFQqmJEv9Cbs9ZmCMmc+/2tkDj2WXP+xcJMsxePZ7Tv0luxjjp1o9+LjB3VenhNX0WaR4QVdD20kfmHLa8CxcKHs3d3wnCKTHcJ69r7JJXU6AJKs26JYwpPrejLaVHSwu93ul00pkLb1n2EDTnWTvHq0cmO625Zebafq1xx2pv/j4TfOjCqchkRHGqJOd54d70WdA3/zAMRA/fQ0678NCbjfEZH2NhCNfdSHWXDSxfsvGdI0JunQ=;K1RmW42L+vdqE2UcsEg4Qg=="

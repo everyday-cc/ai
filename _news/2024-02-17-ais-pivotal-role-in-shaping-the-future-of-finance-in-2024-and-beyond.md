@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ais
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
 type: article
 quality: 76
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI and Robotics to Play Key Roles in Space Exploration"
+    excerpt: "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us."
+    publishedDateTime: 2024-02-19T14:52:00Z
+    webUrl: "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 69
+    images:
+      - url: "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Investors Share Predictions for Artificial Intelligence in 2024 and Beyond"
     excerpt: "Entrepreneurs and venture capitalists shared predictions for the year ahead in a at the World Governments Summit."
     publishedDateTime: 2024-02-15T13:59:00Z

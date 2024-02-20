@@ -54,6 +54,112 @@
       ]
     },
     {
+      "path": "_news/2024-02-20-embracing-ai-transforming-fear-into-opportunity-for-your-teams.md",
+      "title": "Embracing AI: Transforming Fear Into Opportunity For Your Teams",
+      "excerpt": "Open communication about your company's AI strategy and its implications for the workforce can build trust and engagement among employees. It's essential for us corporate leaders to navigate this transition responsibly, embracing AI while investing in upskilling and reskilling employees to work alongside these technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/",
+      "originalUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3afc79a5bb99433115e55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/amp/",
+      "publishedDateTime": "2024-02-19T19:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-google-lengthens-mixes-broadens-ai-with-gemini-toolset.md",
+      "title": "Google Lengthens, Mixes, Broadens AI With Gemini Toolset",
+      "excerpt": "The need to mix, broaden and lengthen our use of AI with fluid tokenization control and Mixture-of-Experts (MoE) architectures is very of the moment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3469af364a6540e831a99/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1484,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/",
+      "publishedDateTime": "2024-02-19T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good.md",
       "title": "I tested Meta's Code Lama with 3 AI coding challenges that ChatGPT aced - and it wasn't good",
       "excerpt": "Meta CEO Mark Zuckerberg recently unveiled Code Llama, a 70B parameter AI designed for coding. But how does it stack up against giants like ChatGPT? I put it to the test.",
@@ -62,7 +168,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -607,6 +713,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-12-does-facebook-instagram-have-measures-against-ai-misuse-what-to-know-in-tennessee.md",
+      "title": "Does Facebook, Instagram have measures against AI misuse? What to Know in Tennessee",
+      "excerpt": "Last Tuesday, the social technology company announced it would begin labeling AI-generated images on Facebook, Instagram and Threads. Currently, if an image is generated using Meta's AI image generator, a watermark appears on the image signaling it has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jsonline.com/story/money/tech/2024/02/12/does-facebook-have-measures-against-ai-misuse-what-to-know-in-tn/72508136007/",
+      "originalUrl": "https://www.jsonline.com/story/money/tech/2024/02/12/does-facebook-have-measures-against-ai-misuse-what-to-know-in-tn/72508136007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T13:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation.md",
       "title": "The Role Of Humans And AI In Social Media's Battle Against Misinformation",
       "excerpt": "With artificial intelligence increasingly helping to proliferate false claims, wide access to accurate information is more difficult.",
@@ -882,6 +1022,92 @@
         "Meta AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-meta-says-it-will-label-ai-generated-images-on-facebook-and-instagram.md",
+      "title": "Meta says it will label AI-generated images on Facebook and Instagram",
+      "excerpt": "SIGN UP TO CONTINUEPrint Subscriber? Sign Up for Full Access!Please sign up for as low as 36 cents per day to continue viewing our website.Digital subscribers receiveUnlimited access to all stories from nashuatelegraph.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nashuatelegraph.com/news/business/2024/02/07/meta-says-it-will-label-ai-generated-images-on-facebook-and-instagram/",
+      "originalUrl": "https://www.nashuatelegraph.com/news/business/2024/02/07/meta-says-it-will-label-ai-generated-images-on-facebook-and-instagram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ogden_images.s3.amazonaws.com/www.nashuatelegraph.com/images/2024/02/07052720/Meta_AI_Labels_24037688587142.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T11:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "nashuatelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-meta-to-label-ai-generated-images-on-facebook-instagram-threads.md",
+      "title": "Meta to Label AI Generated Images on Facebook Instagram Threads",
+      "excerpt": "Meta already labels images generated by its AI as “Imagined with AI” It is working with other AI firms to build a unified detection tool Meta is developing an invisible watermarking tool called Stable",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/ai/news/meta-to-label-ai-generated-images-on-facebook-instagram-threads-5010866",
+      "originalUrl": "https://www.gadgets360.com/ai/news/meta-to-label-ai-generated-images-on-facebook-instagram-threads-5010866",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/meta_ai_image_label_1707293801341.jpg",
+          "width": 345,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/ai/news/meta-to-label-ai-generated-images-on-facebook-instagram-threads-5010866/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/meta-to-label-ai-generated-images-on-facebook-instagram-threads-5010866/amp",
+      "publishedDateTime": "2024-02-07T08:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     },
     {
@@ -1192,240 +1418,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-forget-nvidia-these-2-artificial-intelligence-ai-stocks-are-still-historically-cheap.md",
-      "title": "Forget Nvidia: These 2 Artificial Intelligence (AI) Stocks Are Still Historically Cheap",
-      "excerpt": "Artificial intelligence (AI) could add $15.7 trillion ... For now, Meta's social media sites are its bread and butter. Facebook, Instagram, WhatsApp, and Facebook Messenger are consistently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/06/forget-nvidia-2-ai-stocks-still-historically-cheap/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/06/forget-nvidia-2-ai-stocks-still-historically-cheap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T04:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-moving-fast-uk-to-spend-125m-on-ai-hubs-regulation.md",
-      "title": "‘AI moving fast’: UK to spend $125m on AI hubs, regulation",
-      "excerpt": "The United Kingdom has unveiled plans to spend over 100 million pounds ($125m) on research and training related to artificial intelligence (AI). Under the plans announced on Tuesday, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
-      "originalUrl": "https://www.aljazeera.com/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2024/02/2023-11-02T162052Z_1550215641_RC2454A1KFX0_RTRMADP_3_AI-BRITAIN-SUMMIT-1707180555.jpg?resize=1920%2C1440",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent.md",
-      "title": "Facebook rules allowing fake Biden “pedophile” video deemed “incoherent”",
-      "excerpt": "A fake video manipulated to falsely depict President Joe Biden inappropriately touching his granddaughter has revealed flaws in Facebook's \"deepfake\" policies, Meta's Oversight Board concluded Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2024/02/facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2024/02/facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-870668326-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T18:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-a-baby-llama-has-possibly-been-stolen-from-maine-farm.md",
-      "title": "A baby llama has possibly been stolen from Maine farm",
-      "excerpt": "Mainers should be on the lookout for a baby llama that was possibly stolen from a farm in Acton. Acton Animal Control Officer Jim Driscoll was notified Sunday about a possibly stolen llama. He is asking farmers and neighbors in the area of Foxes Ridge and County roads to look out for the animal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
-      "originalUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdn-data.s3.amazonaws.com/uploads/2024/02/Acton-Llama-Missing.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T15:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangor Daily News",
-        "domain": "bangordailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-apples-new-ai-research-promises-high-performance-without-the-high-price-tag.md",
-      "title": "Apple’s new AI research promises high performance without the high price tag",
-      "excerpt": "For instance, Hugging Face, a company that provides open-source tools and models for natural language processing, recently launched an initiative with Google that makes it easier for users to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/apples-new-ai-research-promises-high-performance-without-the-high-price-tag/",
-      "originalUrl": "https://venturebeat.com/ai/apples-new-ai-research-promises-high-performance-without-the-high-price-tag/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_an_apple_surrounded_by_data_and_money_118ed9fb-d58c-4b58-940c-f1d0ec5bddd4-1-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T12:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

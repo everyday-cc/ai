@@ -2,6 +2,352 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-02-08-the-ethics-of-ai-balancing-innovation-with-responsibility.md",
+      "title": "The Ethics Of AI: Balancing Innovation With Responsibility",
+      "excerpt": "If you don’t follow the news of new AI products even for one day, you might miss something important. As a seasoned entrepreneur with more than 15 years of experience in IT consulting, I have noticed that we should delve into the ethics of AI implementation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c3a7e6d64deeeba6f83f98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/amp/",
+      "publishedDateTime": "2024-02-08T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning.md",
+      "title": "D-Wave and Zapata AI Announce Strategic Technical and Commercial Collaboration to Advance Quantum-Enabled Machine Learning",
+      "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS) (“D-Wave”), a leader in quantum computing systems, software, and services and the world’s first commercial supplier of quantum computers, and Zapata Computing, Inc. (operating as Zapata AI ),",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T12:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment.md",
+      "title": "Simpson Associates become the key delivery partner for newly launched TOEX Capabilities Environment",
+      "excerpt": "Simpson Associates, leading data transformation consultancy and managed service provider, are thrilled that the Tackling Organised Exploitation (TOEX)",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61355944-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61355944-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T11:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-gpu-prices-and-availability-q1-2024-how-much-are-gpus-today.md",
+      "title": "GPU prices and availability (Q1 2024): How much are GPUs today?",
+      "excerpt": "The only current-gen GPU that suffers from some stock and pricing issues is the RTX 4090. Due to the high demand for AI chips, as well as scalpers buying the card out to export to China ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "originalUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/02/amd-radeon-rx-6500-xt-review-10.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "publishedDateTime": "2024-02-08T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-daedalus-which-is-building-precision-manufacturing-factories-powered-by-ai-raises-21m.md",
+      "title": "Daedalus, which is building precision-manufacturing factories powered by AI, raises $21M",
+      "excerpt": "A fledgling startup founded by one of OpenAI’s first engineering hires is looking to “redefine manufacturing,” with AI-powered factories ... “At one point, the robot hand broke down ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/",
+      "originalUrl": "https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/62d95484b9c434922879bf26_A6_00110_05-07-22_Daedalus_F2-p-1600-e1707214708909.jpg?resize=1200,674",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/amp/",
+      "publishedDateTime": "2024-02-08T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-diagnosing-attention-deficit-hyperactivity-disorder-using-artificial-intelligence.md",
+      "title": "Diagnosing Attention Deficit Hyperactivity Disorder Using Artificial Intelligence",
+      "excerpt": "Cutting-edge research utilising artificial intelligence has shed light on the potential for a revolutionary diagnostic approach ADHD.",
+      "sourceUrl": null,
+      "webUrl": "https://www.emjreviews.com/innovations/news/diagnosing-attention-deficit-hyperactivity-disorder-using-artificial-intelligence/",
+      "originalUrl": "https://www.emjreviews.com/innovations/news/diagnosing-attention-deficit-hyperactivity-disorder-using-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.emjreviews.com/wp-content/uploads/2024/02/pexels-cottonbro-studio-5723883-1.jpg",
+          "width": 821,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T08:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "emjreviews.com",
+        "domain": "emjreviews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-pune-woman-53-teaches-marathi-to-microsoft-ai-tools-earns-400-an-hour.md",
+      "title": "Pune Woman, 53, Teaches Marathi To Microsoft AI Tools, Earns ₹400 An Hour",
+      "excerpt": "At the core of this initiative lies Karya, an organisation born as a Microsoft Research Project in Bengaluru back in 2017. Karya focusses on creating datasets in various Indian languages to train AI models and conduct research, while also generating employment opportunities for Indians, particularly in rural regions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/pune/pune-woman-53-teaches-marathi-to-microsoft-ai-tools-earns-400-an-hour",
+      "originalUrl": "https://www.freepressjournal.in/pune/pune-woman-53-teaches-marathi-to-microsoft-ai-tools-earns-400-an-hour",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T08:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts.md",
+      "title": "Machine learning dominates AI job market; high demand for mid, senior-level experts",
+      "excerpt": "Among the hottest artificial intelligence (AI) skills, machine learning (ML) tops the chart with the most number of active jobs, according to data shared by staffing companies and employment platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/Machine-Learning-ML-Engineer.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "publishedDateTime": "2024-02-08T08:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-artificial-intelligence-101-its-evolution-implications-and-possibilities.md",
       "title": "Artificial Intelligence 101: Its Evolution, Implications And Possibilities",
       "excerpt": "Explore the evolution and impact of AI from its conceptual origins to its current role in 2024, how the advancements in generative AI are democratizing technology.",
@@ -767,333 +1113,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-doxai-perpetual-corporate-trust-microsoft-team-to-fuel-financial-services.md",
-      "title": "DoxAI, Perpetual Corporate Trust & Microsoft team to fuel financial services",
-      "excerpt": "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space.",
-      "sourceUrl": null,
-      "webUrl": "https://ibsintelligence.com/ibsi-news/doxai-perpetual-corporate-trust-microsoft-team-to-fuel-financial-services/",
-      "originalUrl": "https://ibsintelligence.com/ibsi-news/doxai-perpetual-corporate-trust-microsoft-team-to-fuel-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ibsintelligence.com/wp-content/uploads/2024/01/Launch_MPU.png",
-          "width": 600,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T10:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBS",
-        "domain": "ibsintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-researchers-predict-more-autonomous-vehicles-by-2030-better-adas-tech-needed.md",
-      "title": "Researchers predict more autonomous vehicles by 2030, better ADAS tech needed",
-      "excerpt": "ABI Research has reviewed the current state of autonomous driving technology within the automotive industry in conjunction with artificial intelligence (AI), high-performance computing, mapping,",
-      "sourceUrl": null,
-      "webUrl": "https://www.repairerdrivennews.com/2024/02/07/researchers-predict-more-autonomy-use-by-2030-better-adas-tech-needed/",
-      "originalUrl": "https://www.repairerdrivennews.com/2024/02/07/researchers-predict-more-autonomy-use-by-2030-better-adas-tech-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.repairerdrivennews.com/wp-content/uploads/2024/02/iStock-1437737518.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Repairer Driven News",
-        "domain": "repairerdrivennews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-70-fascinating-baidu-statistics-and-facts-2024-trends.md",
-      "title": "70+ Fascinating Baidu Statistics and Facts [2024 Trends]",
-      "excerpt": "Instead of relying on Google and other foreign solutions, the government provided Baidu for its citizens to help them navigate the Chinese web. The question in your mind will probably be ...",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/statistics/baidu-statistics/",
-      "originalUrl": "https://techreport.com/statistics/baidu-statistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2024/01/Baidu-Statistics-and-Facts.png?_t=1707326810",
-          "width": 994,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T09:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-3-health-systems-share-their-apple-vision-pro-plans.md",
-      "title": "3 health systems share their Apple Vision Pro plans",
-      "excerpt": "Cedars-Sinai Medical Center, Boston Children’s Hospital and Sharp Healthcare are testing Apple's virtual and augmented reality set.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernhealthcare.com/digital-health/apple-vision-pro-vr-boston-childrens-cedars-sinai-uc-san-diego",
-      "originalUrl": "https://www.modernhealthcare.com/digital-health/apple-vision-pro-vr-boston-childrens-cedars-sinai-uc-san-diego",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T09:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Healthcare",
-        "domain": "modernhealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth.md",
-      "title": "New Zealand telco 2degrees selects Totogi Charging-as-a-Service to expedite market growth",
-      "excerpt": "Totogi’s Charging-as-a-Service platform will enable the mobile operator to accelerate revenue growth in the MVNO wholesale segment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/digital-platforms-services/new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth-49583/",
-      "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth-49583/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/digital-platforms-services/new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth-49583/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth-49583/amp/",
-      "publishedDateTime": "2024-02-07T08:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-adopt-ai-dont-sit-on-sidelines-microsofts-satya-nadella-to-ceos.md",
-      "title": "Adopt AI, don't sit on sidelines: Microsoft's Satya Nadella to CEOs",
-      "excerpt": "“I think it is imperative especially for India and the United States to be able to cooperate – what are the norms, what are the regulations even, instead of fracturing them,” said Nadella in his address to the CEO Connection in Mumbai. He is in India for two days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/technology/tech-news/us-india-must-cooperate-in-ai-regulation-microsoft-chief-satya-nadella-124020700498_1.html",
-      "originalUrl": "https://www.business-standard.com/technology/tech-news/us-india-must-cooperate-in-ai-regulation-microsoft-chief-satya-nadella-124020700498_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.business-standard.com/amp/technology/tech-news/us-india-must-cooperate-in-ai-regulation-microsoft-chief-satya-nadella-124020700498_1.html",
-      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/us-india-must-cooperate-in-ai-regulation-microsoft-chief-satya-nadella-124020700498_1.html",
-      "publishedDateTime": "2024-02-07T07:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-meta-to-label-ai-generated-images-from-google-openai-and-adobe.md",
-      "title": "Meta to label AI-generated images from Google, OpenAI and Adobe",
-      "excerpt": "Meta has also added a feature for people to disclose when they share AI-generated video or audio and failing to do so would attract penalties, the company said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.html",
-      "originalUrl": "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/03/shutterstock_2259188619-100938589-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html",
-      "publishedDateTime": "2024-02-07T05:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates.md",
-      "title": "Village by village, creating the building blocks for AI tools with work that also educates",
-      "excerpt": "Karya is employing rural Indians to build AI datasets for low-resourced languages in India, verified with Microsoft's Azure OpenAI Service.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/source/asia/features/village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates/",
-      "originalUrl": "https://news.microsoft.com/source/asia/features/village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T05:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

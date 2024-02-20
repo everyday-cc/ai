@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthe
 ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
 type: article
-quality: 91
-heat: 141
+quality: 93
+heat: 143
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Google AI
   - AI
   - AI Ethics
+  - Meta AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65d3469af364a6540e831a99/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

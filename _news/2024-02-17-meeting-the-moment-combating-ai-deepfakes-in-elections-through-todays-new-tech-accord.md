@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Taylor Swift, the pope, Putin: in the age of AI and deepfakes, who do you trust?"
+    excerpt: "Rumours and gossip changed the course of French history. Now they’re weapons for ‘newsfluencers’ and dictators in the 21st-century information wars, says Guardian Europe columnist Alexander Hurst"
+    publishedDateTime: 2024-02-20T11:19:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 52
+    images:
+      - url: "https://i.guim.co.uk/img/media/00c7a3193fea3250fe6c30f206c7be0f31629e09/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=cf0b54c2ff3c77c1833ce44629b652a8"
+        width: 620
+        height: 372
+        isCached: true
   - title: "New Era of AI Deepfakes Complicates 2024 Elections"
     excerpt: "The explosion of artificial-intelligence technology makes it easier than ever to deceive people on the internet, and is turning the 2024 U.S. presidential election into an unprecedented test on how to police deceptive content."
     publishedDateTime: 2024-02-16T08:50:00Z
@@ -64,33 +80,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Hackers ‘steal your face’ to create deepfakes that rob bank accounts"
-    excerpt: "As hacking techniques evolve to capture video recognition data, security pros say the industry will need more AI-based tools that focus on zero-trust, threat detection, and MFA."
-    publishedDateTime: 2024-02-15T17:42:00Z
-    webUrl: "https://www.scmagazine.com/news/hackers-steal-your-face-to-create-deepfakes-that-rob-bank-accounts"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 21
-  - title: "Could AI sway the 2024 election? Here's what's being done nationally to stop deepfakes."
-    excerpt: "Craig Holman, a Capitol Hill lobbyist who works in governmental ethics for the nonprofit Public Citizen, believes 2024 will become the first deepfake election cycle, where AI will influence voters and impact election results. “Artificial intelligence has ..."
-    publishedDateTime: 2024-02-19T10:06:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/elections/2024/02/19/ai-deepfakes-2024-election/72486000007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 11
-  - title: "How This VC-Backed Startup Is Fighting Deepfakes"
-    excerpt: "The artificial intelligence-powered cybersecurity startup Clarity just raised $16 million to fight back against deepfakes."
-    publishedDateTime: 2024-02-16T19:40:00Z
-    webUrl: "https://www.inc.com/chloe-aiello/how-this-vc-backed-startup-is-fighting-deepfakes.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 2
 
 secured: "306nTd+mQtEAxIy+SK/ZWEuQOYcvlw5tlzSI/3VPhJz7ALJ2gKR09rpYcPL5ul0rMokSdXiYFgqSDS3POMB8MgFufNRVOwt62yOMH1gy4ByunYDctWEkx/GTb/AdV3caBF3NrNFJ+s6Vp4dv1r4/REQSECkNcyX4MoR5psO4s0q9OHdK61EtT8UkA8vCWA07bq2xU6LjC7f3c2FyPXaflEyetM3/1wpBkLfS62TBDELzUV4Z0uAmN8uG/OSFck30W8QiRh/iVk5UwPlSNuO9SaXA4v9EmuQ3s42Szs+7xLdLtE6XiRvZKAzD8flxq296ymM9ZEX6jwIlMYmKohkE+q5PcX71qFODwOfW1dJM1R2QJRVFdhw2uvMsenHldIt6K86xy9slJW1rn8mdg8OJaiJTG+MjUlUmA9XTm/l0gNDynNzprfj+a0UU0tJK3g9wXVFU+P7WKdTSMtKWQPmkIRoJ8PD+4WgdKfgPKUqOJoXqYRaerdouCQdhlHjNO705WmngZUpT5rA94uesPKRk5Q==;I48joC8Ud9MjRjphgSKZ7Q=="
 ---

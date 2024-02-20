@@ -54,22 +54,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Bringing Generative AI To The Enterprise With Safety And Trust"
-    excerpt: "Few technologies have caught the imagination of people worldwide like what generative AI has done in the recent past."
-    publishedDateTime: 2024-02-15T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd63cbe166a4a6d9f2b75b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How Fractal is Leveraging Generative AI for Insurance"
     excerpt: "The global insurance industry is undergoing a profound transformation powered by a cutting-edge technology: generative AI."
     publishedDateTime: 2024-02-16T08:30:00Z

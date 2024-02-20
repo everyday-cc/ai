@@ -1,15 +1,15 @@
 ---
 category: news
 title: "University of York: Institute to research benefits of AI"
-excerpt: "The £45m Institute for Safe Autonomy (ISA) is being launched as a space to provide research and evidence on how AI is \"safe for everyday use\". Director of ISA Professor Miles Elsden said the technology is already \"a big part of our daily lives\"."
+excerpt: "The University of York has set up a living lab to reassure people about Artificial Intelligence (AI) The £45m Institute for Safe Autonomy (ISA) is being launched as a space to provide research and evidence on how AI is \"safe for everyday use\"."
 publishedDateTime: 2024-02-20T06:16:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68343086?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68343086?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68343086"
+webUrl: "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68343086"
 ampWebUrl: "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68343086.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-york-north-yorkshire-68343086.amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
   domain: bbc.co.uk
 
 topics:
+  - Meta AI
   - AI
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 576
     isCached: true
 
-secured: "sX95KbO8cc15eXjnK/eLnYZxXGEOo5FsrkhFlPNTS1A121R1K6EBa3E/5R5sP1BUrE1L7W6TllSoyBw8XcOmwQqyVXHGMpFqOzYCXwj/ox7qqM4gRE3Bcjx3ekqU7jOQ4n8If4K4+iGZxVgQ7F0BFjgvmf8/LX37DU9EiEf6zTgdoPV9n2PuZcz9b7GKePet09vrzvBBaeKzAqLfXerxmM/68fsxjS0XKM/Qj2h/VHkUF58F6V8x8GTlpukn+3+y3E2/UlIyWYW1fjrOSRn38oDivpnOnWEK8VHMMfl/wp1eMUlo4IH+v+G6hOen3L5ZrXceM0c330JoQmNY5FkDEwGAtYLPlrelx/BYffkbCSu894NW2VJJcw4pNOrA411QdwGjTHZgH6C3yt041ns2Oz/vrcM+pHaVmHE1hiiYeEVcTIf/pPH5HkIC7dKXaJ34tbkJsd9JYeiz4nzcsl0VCwLsy1Gb5oZ+LEFPFv9ZlRY38ie1aUfkp+37Vnf1K6J5BDvfRXLNxRZ9OxPtb+2VgQ==;Cd+C00R9Yf7KohbSWGGiXA=="
+secured: "1v49nAGaxjScjwgFpQa+pUZ2oSk/AR7QeASEpQgVHVJm+XGjxMwoXmEQoc45bH/Z0OdfGGPMFWrmUOaa9hELBif6tCoX5JHy8HMaFJbsPwBWncWXWC5QC5yG8ouWtKjZ9cSyZ0AFiElWCK3uTNWKQcy7jRb2V0X9BFArZ5QIdXEWXyHHQtck80E+T9Mkx1La6XA5gesohGCUmWHRZ77Zs2AhLoaNWrj3n19wRsBrwW/VuOU7gL3RaRnC55os0a8FBUtkP1fa0HV9xoqqUZjVuLzILc1icqhWjgSpNbOeFZY51p8GdE8K4+erhJUVmh+HN0KArsVnqTaVv4CX4jMJlIYFEbTXzxMX5TbABQeHBsg=;JH6MuaKw++E+v6o+uszhfA=="
 ---
 

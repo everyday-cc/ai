@@ -39,20 +39,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "AI is the only reason I care about the iPhone 16’s huge A18 chip upgrade"
-    excerpt: "A new report claims the A18 chips that will power the iPhone 16 phones will feature big Neural Engine upgrades - what you need to know."
-    publishedDateTime: 2024-02-15T11:50:00Z
-    webUrl: "https://bgr.com/tech/ai-is-the-only-reason-i-care-about-the-iphone-16s-chip/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 53
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/09/iphone-15-pro-max-5.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "iOS 18 might bring AI to the iPhone search and I’m ready for it"
     excerpt: "A report says that the iPhone's Spotlight search will get AI features like ChatGPT, and I hope it'll happen in time for the iOS 18 release."
     publishedDateTime: 2024-02-16T11:50:00Z

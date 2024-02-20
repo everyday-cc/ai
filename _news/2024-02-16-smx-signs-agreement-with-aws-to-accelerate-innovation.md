@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Accelerated HPC for Energy Efficiency with AWS and NVIDIA"
+    excerpt: "As HPC users are increasingly integrating artificial intelligence (AI) and machine learning (ML ... more HPC simulations and AI/ML applications at scale using on-demand AWS compute infrastructure. Drug discovery, protein target identification, structure ..."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://insidehpc.com/2024/02/accelerated-hpc-for-energy-efficiency-with-aws-and-nvidia/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2024/02/AWS-Nvidia-sponsored-content-box-image-2-1-0224-1.png"
+        width: 508
+        height: 255
+        isCached: true
   - title: "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions"
     excerpt: "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),"
     publishedDateTime: 2024-02-15T16:28:00Z

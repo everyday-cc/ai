@@ -6,9 +6,9 @@ publishedDateTime: 2024-02-19T19:12:00Z
 originalUrl: "https://venturebeat.com/ai/hear-your-imagination-elevenlabs-to-launch-model-for-ai-sound-effects/"
 webUrl: "https://venturebeat.com/ai/hear-your-imagination-elevenlabs-to-launch-model-for-ai-sound-effects/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +20,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "If you thought Sora was impressive now watch it with AI generated sound from ElevenLabs"
@@ -37,6 +43,6 @@ related:
         height: 240
         isCached: true
 
-secured: "gQ00YD9K/jW2XsSL2O95m4Hw9YXQFt8valDosKUSu6j8EjcShgK9a6R/f00jwoInOEoXYb554BXhYIuVxf/ZK3q8UnI1dh3+yIWkPnZ665+q1xAzBGiScDtL5eMvGlu1gFZItVKPh9I5epy/1fE06suJdMitnkSEYa0WPJVGpndYktnbqoGSpsVoj4DjmW2rDwCpx7XJmg70Tr9HgI/9qo1QOOL1OLqT6DmAEIn19Wqzleqk9Sl1uZyPE6f7PIg3+wwf7IHc+cJc0wVg+qVp2ZNVh4AQBbb186wB1jG6PKC5MFgR79V6bwRlZ3j5V7yvUzO1E10mSMmaIUB8scvWhQrtHUoM4YEsDKEkh2hzRUs=;ZdVwRSO/ihZly/+OgR4OPQ=="
+secured: "uhTfOOptlQhYMBZ8diavkWCT/21GCWrUoP8B/L891RZ7C+BZlHw7rtvXhtQqPQ/sGQYIZ/ctM53ga2Y00BTGaR/+cn/lbfqnsPO7WeQQv702sJOq0xH09Kap2JZ0nFPN3N3zH+VjhKsyxVvixszc1+AKeb8p0I5WxwWdugo6JnalXi7eeDyv0LQpU1h8OZG6KY42ApVjOfZH6SjXNDpU7HP/LPnUpp2riW8ryMlC1AGXdCovIzHMlTlZDV0Oj/3y2Nbuy0jz5I4VZIB7a5NRUN71aU5xNBgjPJz1kEJ/7nEg0tGMlwfkB84fD7Gfpn7TxxgNG6g9FCIUqO9E8TOL4CoYToarSj7V51sbwEMucN8=;dO1OemiEtWgXkdx9Ct7Myw=="
 ---
 

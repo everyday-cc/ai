@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT's been acting weird — and it's probably our fault"
-    excerpt: "OpenAI relies on interactions with users to train ChatGPT; their responses could be causing the chatbot to change in unpredictable ways, an AI researcher says."
-    publishedDateTime: 2024-02-15T12:49:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/65573f134ca513d8242b3050?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Nvidia’s “Chat With RTX” is a ChatGPT-style app that runs on your own GPU"
     excerpt: "On Tuesday, Nvidia released Chat With RTX, a free personalized AI chatbot similar to ChatGPT that can run locally on a PC with an Nvidia RTX graphics card. It uses Mistral or Llama open-weights LLMs and can search through local files and answer questions about them."
     publishedDateTime: 2024-02-15T16:54:00Z

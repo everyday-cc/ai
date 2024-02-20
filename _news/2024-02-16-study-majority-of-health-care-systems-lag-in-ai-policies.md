@@ -24,17 +24,6 @@ images:
     height: 676
     isCached: true
 
-related:
-  - title: "Health Systems Prioritize Artificial Intelligence Governance, Oversight"
-    excerpt: "New Center for Connected Medicine report highlights that oversight of artificial intelligence tools is of growing interest to healthcare executives."
-    publishedDateTime: 2024-02-15T13:00:00Z
-    webUrl: "https://healthitanalytics.com/news/health-systems-prioritize-artificial-intelligence-governance-oversight"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
-
 secured: "PFovtt8/8/5gUXtZ5wgwV2Z943qXGpBOkrQ5OHUpzTvE5jLp2hJD1BEMZu9X1dIwRK+cesmBnyKcs15++RP5Igu2akknXoOEffXw7GHR5b28zDLNRuCmYYlDfKM4kA1qYVh0RHlGvuao834qyyrqZm7eBMGtHrGGscwhZ4IQWuPi/y7vibTXDDnwqGyqlRBJoghz12Ex1dmQmy3wKKqeRu1P11oB8uWHl+mo5T7AUpbupZlwFKo8E0OEUCJ06aY9d/fgtxw7SMd577qg6+xak49BW+SSv1lFr6dJSBnkXqr10fN6WfYR5iYwvtL//JcXtq5/U4rKjWfeXef53K9QsyufOHhi6FW+B3NJ9Sg0YNebR5LT/DipZh+7WkM5QYgUOSUu/kt6OTRyYs46jsPYP08fjUG/Rq2fdIh6z2OCN71BEYG6GzXyWiaJFsev78ntDKRjGLqJzybF9Fhka50eZ3zLkrTeOW16hOkocxSuDUnIqgSNvHe99mdHnUBJCGU9P5bEriDjFAZoGnWZFXnRHA==;MQAblfjywdcGiZdrBKa4ww=="
 ---
 

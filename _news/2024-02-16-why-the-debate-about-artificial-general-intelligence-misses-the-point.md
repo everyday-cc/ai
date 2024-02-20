@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-de
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-AGI-advancements.jpg"
         width: 1280
         height: 818
+        isCached: true
+  - title: "How close is OpenAI to creating Artificial General Intelligence (AGI)?"
+    excerpt: "Artificial General Intelligence (AGI) is a class of artificial intelligence that is capable of understanding and applying knowledge across"
+    publishedDateTime: 2024-02-20T10:33:00Z
+    webUrl: "https://www.geeky-gadgets.com/when-will-agi-arrive/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-Artificial-General-Intelligence-AGI.jpg"
+        width: 1280
+        height: 803
         isCached: true
 
 secured: "uVIHbv0XEVQTPI1nBV8iDz3EA3uWw6Rvd6BF77xFIgcba7oXprcBB3cTT7p82r0v6Jcs+mPRADLfLLqq2VobAjAFaWcJxH7IFHcHvztneFJotwEUvNR8psR6+JQgc0i0E0kXDbaV9isFmReFem3XGPf9HnqzjcR3Am59wDAwUSGrR4C0qTGtSjinqUZg3NkRiQZs609j9r6wBfef25oCEp35rGwTg6gvwtYJ/7/ii/T6oSAIH/1Uh4K8Ku0MZx0aHzIe8QwXQ950SPhNrPU2oPzzj7PdWdnkh/mnlh5tyhIKzi/+QovCd6ulRE4QH3El3nDsoqyFO6eAhQP4WhfuDwzZBEnARWFeGsWf/3nfWla8QJFKz6+WsUDofVRpbzzh80YL0rVFvmUUjlTJbJBCUWkWOBHVQdyGEsQjjSQu3V6I2bmCCTMNse2f5rssxBY7hwe7/aJg/fjynvAFVEUVm5rTYsrWP9taTpgPCy/i96Kjmqo0CbiVVc34OcNji1ooalM43dgoBOr6jV/Saw6qFw==;mTkwzqojmmPpUd/bgTF62Q=="

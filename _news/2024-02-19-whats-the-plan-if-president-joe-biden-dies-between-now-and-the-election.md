@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Could AI sway the 2024 election? Here's what's being done nationally to stop deepfakes."
+    excerpt: "Craig Holman, a Capitol Hill lobbyist who works in governmental ethics for the nonprofit Public Citizen, believes 2024 will become the first deepfake election cycle, where AI will influence voters and impact election results. “Artificial intelligence has ..."
+    publishedDateTime: 2024-02-19T10:06:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/elections/2024/02/19/ai-deepfakes-2024-election/72486000007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 11
+
 secured: "wHBNqoOEdEpw9A/BilQn9q8f6tIPkyga+oIpZDqqL0Lr3AMMXodHTJZjeb402OkiPTifzTlejwzJKCXdol4sUCm4WJ1iutiBzHKMhBKx50pmWxHTlI4Pp7gstXaLadi+A98rgG+RPGOgWY02M+Ia1/EG9yLHwat0WWpsQjJMT5PEao0E7jE4oIL7jGLOyQVN8RHmEXsck7z+lqGl33a00aaaD4Ifc68mFpiEgITpR7DaN/KDGcXMB7IzR2J/0xYvQBwVfI8Uo0a/0ym3+7/R3c6xjx8Lvi7aZeL7aiTDVWW18xMySYA1wkhvJJgywk1AqhixOa0oy++lkpEo03Yx5AwYsDf3KAvpGJ6DIhx5Jzn2DUmf3Lsvyp/S2hHee8nsQu4lGFTud5XC6n7Q8/91eIm+97ai6/idgN9K02c0kKbOLvSfw5/NDXuN7Kf7IagW7S4gkzjhq7KpjqaBO/7CFesX/paqWASEELrl8kGG2mCZHPZWaUXDw3QH8zPt3PoLtsE6o3kyOOlZDo+gsFs71A==;TDWHto5ugUoRFbwOqsSElA=="
 ---
 

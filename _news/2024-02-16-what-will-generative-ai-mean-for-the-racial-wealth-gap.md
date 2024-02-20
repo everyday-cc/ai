@@ -57,22 +57,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Bringing Generative AI To The Enterprise With Safety And Trust"
-    excerpt: "Few technologies have caught the imagination of people worldwide like what generative AI has done in the recent past."
-    publishedDateTime: 2024-02-15T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd63cbe166a4a6d9f2b75b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "What Are AI Text Generators? 8 Best Tools To Improve Writing"
     excerpt: "Learn the various types of AI text generators and how they are transforming content creation. Unleash the potential of AI text generators in automating crafting copy."
     publishedDateTime: 2024-02-17T19:01:00Z

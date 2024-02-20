@@ -200,6 +200,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Baylor vs. Texas March 4 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. Monday's Big 12 schedule includes the Baylor ... Jackson State March 2 Tickets & Start Time Texas A&M-Commerce vs. Houston Christian March 2 Tickets & Start Time UT Rio Grande Valley vs. Cal Baptist March 2 Tickets ..."
+    publishedDateTime: 2024-02-20T11:25:00Z
+    webUrl: "https://www.kwtx.com/sports/betting/2024/03/04/baylor-vs-texas-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KWTX
+      domain: kwtx.com
+    quality: 22
+    images:
+      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/CX56WMHIPRLETHG7PCIJPRVP2Y.jpg?auth=fc2b4bacca1dd6ad9fa7048fda4f01ad6b9c7040af77d27c45df673c4535767c&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Colorado vs. Washington State March 2 Women's Basketball Tickets & Start Time"
     excerpt: "Colorado Buffaloes vs. Washington State Cougars women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-18T12:21:00Z
@@ -225,6 +239,20 @@ related:
     quality: 17
     images:
       - url: "https://gray-wlox-prod.cdn.arcpublishing.com/resizer/v2/XOAXIPHH3BIVLEBV4UX544NMUI.jpg?auth=52a13e4ac90c0404977adbe93fd70b681b8eb7e607f821ad2008d72267d746f1&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Northern Colorado vs. Northern Arizona March 4 Women's Basketball Tickets & Start Time"
+    excerpt: "Northern Colorado Bears vs. Northern Arizona Lumberjacks women's basketball game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-20T12:20:00Z
+    webUrl: "https://www.kktv.com/sports/betting/2024/03/04/northern-colorado-vs-northern-arizona-buy-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KKTV11
+      domain: kktv.com
+    quality: 14
+    images:
+      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/GK432CLSK5K7ZOYDRHK6MZJZJY.jpg?auth=c0b541ca16a422c62e8738be47889a290243a33cd420d8f965365d8324b615e4&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

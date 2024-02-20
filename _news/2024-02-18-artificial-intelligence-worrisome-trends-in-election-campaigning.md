@@ -75,6 +75,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
+  - title: "The 3 biggest misconceptions about AI"
+    excerpt: "A trio of experts share the most common misunderstandings they’ve heard with it comes to AI and students—and reveal the truth behind them."
+    publishedDateTime: 2024-02-19T09:59:00Z
+    webUrl: "https://www.eschoolnews.com/digital-learning/2024/02/19/misconceptions-ai-students/"
+    type: article
+    provider:
+      name: eSchool News
+      domain: eschoolnews.com
+    quality: 39
+    images:
+      - url: "https://www.eschoolnews.com/files/2024/02/misconceptions-AI-classroom-students-learning.jpeg"
+        width: 500
+        height: 331
+        isCached: true
   - title: "Uptrends.AI Releases AI-Powered Platform To Streamline Stock Market News Monitoring"
     excerpt: "The Uptrends v3 release focuses on providing investors with actionable and personalized insights to help them make informed decisions sans information overload."
     publishedDateTime: 2024-02-20T00:58:00Z

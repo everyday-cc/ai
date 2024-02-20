@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-19-use-amazon-titan-models-for-image-generation-editing-and-searching.md",
-      "title": "Use Amazon Titan models for image generation, editing, and searching",
-      "excerpt": "Amazon Bedrock provides a broad range of high-performing foundation models from Amazon and other leading AI companies, including Anthropic, AI21, Meta, Cohere, and Stability AI, and covers a wide range of use cases, including text and image generation, searching, chat, reasoning and acting agents, and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-titan-models-for-image-generation-editing-and-searching/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-titan-models-for-image-generation-editing-and-searching/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/19/thumb-dogs_1000x500.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T17:53:04Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-19-build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock.md",
       "title": "Build a contextual chatbot application using Knowledge Bases for Amazon Bedrock",
       "excerpt": "Modern chatbots can serve as digital agents, providing a new avenue for delivering 24/7 customer service and support across many industries. Their popularity stems from the ability to respond to customer inquiries in real time and handle multiple queries simultaneously in different languages. Chatbots",
@@ -1347,6 +1295,49 @@
       "provider": {
         "name": "The Globe and Mail",
         "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence.md",
+      "title": "AWS has its mojo back thanks in part to artificial intelligence",
+      "excerpt": "The tech giant's cloud computing unit is back to re-accelerating growth after seven straight quarters of flat sales, due in part to rapidly rising benefits from artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence",
+      "originalUrl": "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1245247564/image_1245247564.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T13:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

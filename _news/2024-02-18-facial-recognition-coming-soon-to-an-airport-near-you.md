@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google Photos could let you fix incorrect AI document recognition"
-    excerpt: "Google Photos categorizes images of documents automatically, but sometimes it misidentifies them, hamstringing the user experience. A feature in development will allow users to manually recategorize images in the Documents section of Google Photos. Manual correction could contribute to improving Google's automatic categorization system too."
-    publishedDateTime: 2024-02-15T11:43:00Z
-    webUrl: "https://www.androidpolice.com/google-photos-fix-incorrect-ai-document-recognition-wip/"
+  - title: "Self-Driving Startup Recogni Nabs $102 Million to Design AI Chip"
+    excerpt: "Recogni Inc., an artificial intelligence startup that builds technology to support autonomous vehicles, has raised $102 million in funding after expanding into designing chips for generative AI."
+    publishedDateTime: 2024-02-20T10:19:00Z
+    webUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
+    ampWebUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+    cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 39
+      name: winnipegsun
+      domain: winnipegsun.com
+    quality: 74
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/08/google-photos-psychedelic-hero.jpg"
-        width: 1850
-        height: 1000
+      - url: "https://dcs-static.gprod.postmedia.digital/15.4.1/websites/images/canada/fallback.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Croydon support for Met Police facial recognition operation"
     excerpt: "The Mayor of Croydon has shown support for the Met Police’s facial recognition operations, saying ‘if you’ve got nothing to hide you’ve"

@@ -2,6 +2,231 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-21-apples-ai-research-signals-ambition-to-catch-up-with-big-tech-rivals.md",
+      "title": "Apple’s AI research signals ambition to catch up with Big Tech rivals",
+      "excerpt": "While Microsoft and Google have largely focused on delivering chatbots and other generative AI services over the internet from their vast cloud computing platforms, Apple’s research suggests ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027",
+      "originalUrl": "https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-no-dr-oz-isnt-promoting-a-diabetes-cure-in-ads-on-facebook.md",
+      "title": "No, Dr. Oz isn’t promoting a diabetes cure in ads on Facebook",
+      "excerpt": "Manipulated ads on Facebook falsely claim former TV host Dr. Oz developed a diabetes cure. But these ads are deepfakes; there is no cure for diabetes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstcoastnews.com/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb",
+      "originalUrl": "https://www.firstcoastnews.com/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.firstcoastnews.com/assets/VERIFY/images/e9c5abaa-1cc5-441e-96da-88d883e1276e/e9c5abaa-1cc5-441e-96da-88d883e1276e_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.firstcoastnews.com/amp/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb",
+      "cdnAmpWebUrl": "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb",
+      "publishedDateTime": "2023-12-20T23:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "First Coast News",
+        "domain": "firstcoastnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-study-shows-ai-image-generators-being-trained-on-explicit-photos-of-children.md",
+      "title": "Study shows AI image-generators being trained on explicit photos of children",
+      "excerpt": "Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of child sexual abuse",
+      "sourceUrl": null,
+      "webUrl": "https://sentinelcolorado.com/nation-world/nation/study-shows-ai-image-generators-being-trained-on-explicit-photos-of-children/",
+      "originalUrl": "https://sentinelcolorado.com/nation-world/nation/study-shows-ai-image-generators-being-trained-on-explicit-photos-of-children/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sentinelcolorado.com/wp-content/uploads/2023/12/AP23354573212179.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T21:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sentinel Colorado",
+        "domain": "sentinelcolorado.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before.md",
+      "title": "A free AI image dataset, removed for child sex abuse images, has come under fire before",
+      "excerpt": "This isn't the first time the massive open source AI dataset, LAION-5B, has had to defend itself against problematic images.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before/",
+      "originalUrl": "https://venturebeat.com/ai/a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-20-09.41.42-An-abstract-conceptual-illustration-that-portrays-a-dataset-containing-hundreds-of-images.-The-image-should-give-a-sense-of-a-moderately-large-collec.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T15:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-the-top-12-people-in-artificial-intelligence-policy-ethics-and-research.md",
+      "title": "The top 12 people in artificial-intelligence policy, ethics, and research",
+      "excerpt": "Insider identified the top 100 people who make AI intelligent. Here are our picks for policy, ethics, and research. Ali Alkhatib Alkhatib, who's trained as a cultural anthropologist, served as the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-100-top-12-people-policy-ethics-and-research-2023-11",
+      "originalUrl": "https://www.businessinsider.com/ai-100-top-12-people-policy-ethics-and-research-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6554f18f36d588dc55d0d9cf?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-100-top-12-people-policy-ethics-and-research-2023-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-100-top-12-people-policy-ethics-and-research-2023-11?amp",
+      "publishedDateTime": "2023-12-20T11:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-meta-and-ibm-hold-hands-to-launch-the-ai-alliance.md",
       "title": "Meta and IBM hold hands to launch the AI Alliance",
       "excerpt": "Other founding members of the AI Alliance include AMD, Dell, Hugging Face, Intel, The Linux Foundation, Oracle, Red Hat, ServiceNow, and Sony. Research institutions belonging to the AI Alliance include Berkeley, CERN and Imperial College. But leading AI ...",
@@ -1163,212 +1388,6 @@
         "name": "SiliconANGLE",
         "domain": "siliconangle.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-ais-future-could-be-open-source-or-closed.md",
-      "title": "AI’s future could be ‘open-source’ or closed",
-      "excerpt": "Tech leaders have been vocal proponents of the need to regulate artificial intelligence, but they’re also lobbying hard to make sure the new rules work in their favor. That’s not to say they all want the same thing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thealpenanews.com/news/national-news-apwire/2023/12/ais-future-could-be-open-source-or-closed/",
-      "originalUrl": "https://www.thealpenanews.com/news/national-news-apwire/2023/12/ais-future-could-be-open-source-or-closed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://d14e0irai0gcaa.cloudfront.net/www.thealpenanews.com/images/2016/11/15143024/fblike.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T22:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Alpena News",
-        "domain": "thealpenanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators.md",
-      "title": "AP: AI’s future could be ‘open-source’ or closed. Tech giants are divided as they lobby regulators",
-      "excerpt": "SummaryTech leaders have been vocal proponents of the need to regulate artificial intelligence, but they're also lobbying hard to make sure the new rules work in their favor. That's not to say they al",
-      "sourceUrl": null,
-      "webUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/",
-      "originalUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2047/2023/05/22095947/GETTY_52223_Meta436760.jpg",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/?amp=1",
-      "cdnAmpWebUrl": "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/?amp=1",
-      "publishedDateTime": "2023-12-06T18:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "92.7 WMAY",
-        "domain": "wmay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-tech-giants-debate-ais-future-open-or-closed.md",
-      "title": "Tech giants debate AI’s future: open or closed?",
-      "excerpt": "These two diverging camps -- the open and the closed -- disagree about whether to build AI in a way that makes the underlying technology widely accessible. Safety is at the heart of the debate, but so is who gets to profit from AI's advances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arkansasonline.com/news/2023/dec/06/tech-giants-debate-ais-future-open-or-closed/",
-      "originalUrl": "https://www.arkansasonline.com/news/2023/dec/06/tech-giants-debate-ais-future-open-or-closed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205970895_4Dtech1206_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
-          "width": 600,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T08:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arkansas Democrat-Gazette",
-        "domain": "arkansasonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-join-llama-legion-earths-elite-soldiers-in-training.md",
-      "title": "Join Llama legion – Earth's elite soldiers in training",
-      "excerpt": "Llama Land, a blockchain-based game on the BSC chain, offers a relaxing universe where players are rewarded for their engagement, featuring contests, summoning, trading, and llama army-building to def",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/join-llama-legion-earths-elite-soldiers-in-training",
-      "originalUrl": "https://cointelegraph.com/press-releases/join-llama-legion-earths-elite-soldiers-in-training",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T10:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-the-7-best-artificial-intelligence-ai-stocks-to-buy-now.md",
-      "title": "The 7 Best Artificial Intelligence (AI) Stocks to Buy Now",
-      "excerpt": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research ... AI. Improved ad targeting through AI should help power sales growth across its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/05/the-7-best-artificial-intelligence-ai-stocks-to-bu/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/05/the-7-best-artificial-intelligence-ai-stocks-to-bu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T08:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

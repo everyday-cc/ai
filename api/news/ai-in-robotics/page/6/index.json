@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-26-how-artificial-intelligence-is-snatching-away-our-jobs.md",
+      "title": "How Artificial Intelligence Is Snatching Away Our Jobs",
+      "excerpt": "It's happening, the worst nightmare for anyone working in the corporate world is becoming true. Artificial Intelligence is slowly taking away jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
+      "originalUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.oneindia.com/img/2023/12/artificial-intelligence-1703561220.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
+      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
+      "publishedDateTime": "2023-12-26T03:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oneindia",
+        "domain": "oneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-12-26-coinrobotai-launched-an-ai-based-crypto-trading-robot.md",
       "title": "CoinRobot.AI launched an AI based crypto trading robot",
       "excerpt": "CoinRobot is an artificial intelligence research project that aims to develop intelligent trading robots. The project launched its first",
@@ -1332,49 +1377,6 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-scientist-develop-first-mind-reading-helmet-that-can-write-what-you-think.md",
-      "title": "Scientist Develop First Mind-Reading Helmet That Can Write What You Think",
-      "excerpt": "The scientists also stated that this advancement is non-invasive, relatively inexpensive and easily transportable as compared to Elon Musk's Neuralink",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/science/scientist-develop-first-mind-reading-helmet-that-can-write-what-you-think-4675048",
-      "originalUrl": "https://www.ndtv.com/science/scientist-develop-first-mind-reading-helmet-that-can-write-what-you-think-4675048",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-12/gvck1f7g_cap-mind-reading_625x300_14_December_23.jpeg?ver-20231203.06",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/science/scientist-develop-first-mind-reading-helmet-that-can-write-what-you-think-4675048/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/scientist-develop-first-mind-reading-helmet-that-can-write-what-you-think-4675048/amp/1",
-      "publishedDateTime": "2023-12-14T17:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
         "images": null,
         "publishers": null,
         "authors": null

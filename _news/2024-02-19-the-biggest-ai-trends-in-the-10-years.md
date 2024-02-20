@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/"
 type: article
 quality: 87
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
+  - title: "The 3 biggest misconceptions about AI"
+    excerpt: "A trio of experts share the most common misunderstandings they’ve heard with it comes to AI and students—and reveal the truth behind them."
+    publishedDateTime: 2024-02-19T09:59:00Z
+    webUrl: "https://www.eschoolnews.com/digital-learning/2024/02/19/misconceptions-ai-students/"
+    type: article
+    provider:
+      name: eSchool News
+      domain: eschoolnews.com
+    quality: 39
+    images:
+      - url: "https://www.eschoolnews.com/files/2024/02/misconceptions-AI-classroom-students-learning.jpeg"
+        width: 500
+        height: 331
+        isCached: true
   - title: "Artificial Intelligence | Worrisome trends in election campaigning"
     excerpt: "JOHANNESBURG - The emergence of artificial intelligence-generated content is changing the landscape of election campaigns. Artificial intelligence programs can produce realistic images and voices in a matter of few minutes and people have long tried to misrepresent media to influence an election."
     publishedDateTime: 2024-02-17T20:06:00Z

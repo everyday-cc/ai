@@ -28,17 +28,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Google Assistant is a mess, but is Gemini really the answer?"
-    excerpt: "Now, nearly eight years after Google Assistant was released, Google is offering up another AI tool for users in Gemini, formerly called Bard. Obviously, Google didn't just suddenly decide that it was going to create a new digital product."
-    publishedDateTime: 2024-02-15T13:00:00Z
-    webUrl: "https://www.androidpolice.com/google-gemini-answer-for-assistant/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 4
-
 secured: "FGWJEz0NcoF1C/ZYkougTDTn+Q0ADFu8Z5VzymVUgf1VBF36cjJe6Wi+cqDbRPS+NnG6+Lb0k3PSY/nUVR3OBEc+ug4+u/Rfjn/J9zVH4lgacQ8sU/zaWuPJT/uXjvb+vNGyOpjUeciLBBKkTioT4SXNRn9LVkPp8tqNJ3ZE39GvlviE3X211HHONQDlMU3JqUUNlPcUPJd6lRtkpi2vO/fmjVKU1q1NVWVxhwJaWHSz859P/lgHhppIf+ERtBKCtBnWhLQf3YTKKQpdxspl3LZbWOMXfIuqNh08KOcXK2rPua06IEeBcJJdDIwiPE0HI1zUJiIrJEpYYdRTjEY1PoaKxp+Iat+ZZPPSLtHGPsX3aisQRM7OYEGOxehCw2aK6tyP3SdPA/5KdpMa+SohyvtwhIzwLTn7ckqGouadXGg3cTuT6S8m+lpZyCJEPDcc3RJpta5FsMnZwM5/wwcuHBwOOjt38kh7354+Rk4emysR4v6ELjViJ/CF8RqNJ7mk87TYRpFWpxxIB4QUYl3umA==;Nx2H53yy6GYfhcaxJkSlUQ=="
 ---
 
