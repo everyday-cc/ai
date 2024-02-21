@@ -2,6 +2,558 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2024-02-02-ai-chatbot-google-bard-with-gemini-pro-now-available-in-sa.md",
+      "title": "AI chatbot Google Bard with Gemini Pro now available in SA",
+      "excerpt": "Google Bard with Gemini has now equalled ChatGPT’s performance on a popular chatbot arena, coming second on the leaderboard",
+      "sourceUrl": null,
+      "webUrl": "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/",
+      "originalUrl": "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.citizen.co.za/wp-content/uploads/2024/02/Google-Gemini-Bard.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/",
+      "cdnAmpWebUrl": "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/",
+      "publishedDateTime": "2024-02-01T17:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Citizen",
+        "domain": "citizen.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports.md",
+      "title": "TSA sparks privacy concerns amid plans to install facial recognition systems at 400 US airports",
+      "excerpt": "The Transportation Security Administration (TSA) sparked privacy concerns after unveiling plans to roll out controversial facial recognition tech in over 400 US airports soon. “TSA is in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2024/02/01/lifestyle/tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports/",
+      "originalUrl": "https://nypost.com/2024/02/01/lifestyle/tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/02/transportation-security-administrations-new-75760627.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2024/02/01/lifestyle/tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/02/01/lifestyle/tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports/amp/",
+      "publishedDateTime": "2024-02-01T17:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-a-new-way-to-discover-places-with-generative-ai-in-maps.md",
+      "title": "A new way to discover places with generative AI in Maps",
+      "excerpt": "We’re incorporating generative AI in Maps, to help you discover things to do. Select U.S. Local Guides begin testing the feature this week.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/google-maps-generative-ai-local-guides/",
+      "originalUrl": "https://blog.google/products/maps/google-maps-generative-ai-local-guides/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-in-Maps_SocialShare.width-1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/google-maps-generative-ai-local-guides/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-generative-ai-local-guides/amp/",
+      "publishedDateTime": "2024-02-01T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-artificial-intelligence-in-practice-ebook-worth-24-free-for-your-email.md",
+      "title": "Artificial Intelligence in Practice eBook (worth $24) free for your email",
+      "excerpt": "Artificial Intelligence in Practice is a fascinating look into how companies use AI and machine learning to solve problems. Presenting 50 case studies of actual situations, this book demonstrates practical applications to issues faced by businesses around ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/sponsored/artificial-intelligence-in-practice-ebook-worth-24-free-for-your-email/",
+      "originalUrl": "https://www.neowin.net/sponsored/artificial-intelligence-in-practice-ebook-worth-24-free-for-your-email/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2024/02/1706796417_w_wile497c82_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/artificial-intelligence-in-practice-ebook-worth-24-free-for-your-email/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/artificial-intelligence-in-practice-ebook-worth-24-free-for-your-email/",
+      "publishedDateTime": "2024-02-01T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-i-tested-a-next-gen-ai-assistant-it-will-blow-you-away.md",
+      "title": "I Tested a Next-Gen AI Assistant. It Will Blow You Away",
+      "excerpt": "WIRED experimented with a new form of voice assistant that can browse the web and perform tasks online. Siri, Alexa, and other virtual helpers could soon be much more powerful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65baf73038f4406f11e1a29c/191:100/w_1280,c_limit/business_ai_voice_assistant.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn.md",
+      "title": "Probabl is a new AI company built around popular library scikit-learn",
+      "excerpt": "Probabl isn’t your average AI startup as this new French company is an Inria spin-off company that revolves around an open-source data science library called scikit-learn — Inria is a well-known French technology research institute. As for scikit-learn ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/",
+      "originalUrl": "https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1261360140.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/amp/",
+      "publishedDateTime": "2024-02-01T16:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-marketing-powered-by-ai-how-marketingbiz-changed-the-game-forever.md",
+      "title": "Marketing Powered by AI: How Marketing.biz Changed The Game Forever",
+      "excerpt": "Marketing.biz, a pioneering force in the digital marketing landscape, has consistently provided exceptional, free marketing resources to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/marketing-powered-by-ai-how-marketing-biz-changed-the-game-forever-1033021576",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/marketing-powered-by-ai-how-marketing-biz-changed-the-game-forever-1033021576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/jmhb0yuLYbf1hqXstoOd2g2l0mP2/1706701733367-0.jpg",
+          "width": 800,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T16:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development.md",
+      "title": "First ‘truly’ open source LLM from AI2 to drive ‘critical shift’ in AI development",
+      "excerpt": "The non-profit Allen Institute for AI (AI2) announced today that it has introduced OLMo, which it calls the first 'truly' open source LLM.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development/",
+      "originalUrl": "https://venturebeat.com/ai/first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-01T100255.565.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T15:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-google-bards-latest-update-turns-your-words-into-ai-images.md",
+      "title": "Google Bard's latest update turns your words into AI images",
+      "excerpt": "The latest update to Bard also brings Google’s Gemini Pro AI model, previously available only in English, to over 40 languages and more than 230 countries and territories, marking a significant milestone in Bard’s accessibility worldwide. Google says Gemini Pro enhances Bard’s understanding, reasoning, summarizing, and coding abilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-bard-update-image-generation-3409958/",
+      "originalUrl": "https://www.androidauthority.com/google-bard-update-image-generation-3409958/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-google-launches-an-ai-powered-image-generator.md",
+      "title": "Google launches an AI-powered image generator",
+      "excerpt": "Google has launched a new image generation tool, ImageFX, powered by its recently released Imagen 2 GenAI model.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/",
+      "originalUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1337404394.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/",
+      "publishedDateTime": "2024-02-01T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-new-and-better-ways-to-create-images-with-imagen-2.md",
+      "title": "New and better ways to create images with Imagen 2",
+      "excerpt": "We’re rolling out Imagen 2, a major update to our image generation technology. Try it out today in Bard, Image FX, Search and Vertex AI.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-imagen-2/",
+      "originalUrl": "https://blog.google/technology/ai/google-imagen-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Imagen_SocialShare.width-1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-imagen-2/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-imagen-2/amp/",
+      "publishedDateTime": "2024-02-01T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-try-imagefx-and-musicfx-our-newest-generative-ai-tools-in-labs.md",
       "title": "Try ImageFX and MusicFX, our newest generative AI tools in Labs",
       "excerpt": "ImageFX, MusicFX and TextFX help you bring your most creative ideas to life with Google’s latest AI capabilities.",
@@ -654,515 +1206,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-how-indian-farmers-are-using-ai-to-increase-crop-yield.md",
-      "title": "How Indian Farmers Are Using AI To Increase Crop Yield",
-      "excerpt": "Saagu Baagu shows AI's growing role in agriculture, helping developing-world farmers achieve sustainable and profitable practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bb73f8a637e4b346f8873d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/amp/",
-      "publishedDateTime": "2024-02-01T10:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-carpl-picks-up-6-million-for-its-one-stop-shop-for-healthcare-ai.md",
-      "title": "CARPL Picks Up $6 Million For Its One-Stop-Shop For Healthcare AI",
-      "excerpt": "Doctors believe that artificial intelligence (AI ... But as innovation continues at pace worldwide, how will individual healthcare providers identify the most exciting new tools and analyse what will work best for their individual patients?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2024/02/01/carpl-picks-up-6-million-for-its-one-stop-shop-for-healthcare-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2024/02/01/carpl-picks-up-6-million-for-its-one-stop-shop-for-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b91f127c849b6829196d77/0x0.jpg?format=jpg&crop=1280,720,x0,y220,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2024/02/01/carpl-picks-up-6-million-for-its-one-stop-shop-for-healthcare-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2024/02/01/carpl-picks-up-6-million-for-its-one-stop-shop-for-healthcare-ai/amp/",
-      "publishedDateTime": "2024-02-01T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-rise-of-the-machines-openai-microsoft-to-invest-in-robots-that-think-independently.md",
-      "title": "Rise Of The Machines? OpenAI, Microsoft To Invest In Robots That Think Independently",
-      "excerpt": "If rumours turn out to be true, Microsoft and OpenAI might be putting up to $500 million (£394.92 million) in Figure AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.uk/rise-machines-openai-microsoft-invest-robots-that-think-independently-1723144",
-      "originalUrl": "https://www.ibtimes.co.uk/rise-machines-openai-microsoft-invest-robots-that-think-independently-1723144",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.co.uk/en/full/1722763/humanoid-robot.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T08:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-how-did-ford-get-artificial-intelligence-ai-so-right.md",
-      "title": "How Did Ford Get Artificial Intelligence (AI) So Right?",
-      "excerpt": "Regulators have suspended Cruise's driverless testing and deployment permits. Ford ending its investment in Argo AI cost the company $2.7 billion. GM's Cruise subsidiary plans to restart ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/01/how-did-ford-get-artificial-intelligence-ai-so-rig/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/01/how-did-ford-get-artificial-intelligence-ai-so-rig/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/763067/cruise-first-riders-cheddar.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T06:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-wekas-sustainable-data-platform-for-nexgen-clouds-gpu-as-a-service.md",
-      "title": "WEKA’s Sustainable Data Platform For NexGen Cloud’s GPU-As-A-Service",
-      "excerpt": "WekaIO partners with NexGen Cloud, the leading UK-based sustainable IAAS provider, to establish a high-performance foundation for NexGen Cloud's upcoming AI Supercloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/01/wekas-sustainable-data-platform-for-nexgen-clouds-gpu-as-a-service/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/01/wekas-sustainable-data-platform-for-nexgen-clouds-gpu-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T06:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-robots-and-ai-tools-set-to-revolutionise-real-estate.md",
-      "title": "Robots And AI Tools Set To Revolutionise Real Estate",
-      "excerpt": "TRIPLER, the world's leading PropTech company, is going to revolutionise the real estate landscape by introducing robots and Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107794781/Robots-And-AI-Tools-Set-To-Revolutionise-Real-Estate",
-      "originalUrl": "https://menafn.com/1107794781/Robots-And-AI-Tools-Set-To-Revolutionise-Real-Estate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2024-01/31/KT_bd395image_story.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T04:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-mastercard-jumps-into-generative-ai-race-with-model-it-says-can-boost-fraud-detection-by-up-to-300.md",
-      "title": "Mastercard jumps into generative AI race with model it says can boost fraud detection by up to 300%",
-      "excerpt": "Payments giant Mastercard has built its own proprietary generative AI model to help its bank network detect and root out fraudulent transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/01/mastercard-launches-gpt-like-ai-model-to-help-banks-detect-fraud.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/01/mastercard-launches-gpt-like-ai-model-to-help-banks-detect-fraud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107335423-1700186666155-gettyimages-647053464-_jcg2290.jpeg?v=1706735841",
-          "width": 3315,
-          "height": 2207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/01/mastercard-launches-gpt-like-ai-model-to-help-banks-detect-fraud.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/01/mastercard-launches-gpt-like-ai-model-to-help-banks-detect-fraud.html",
-      "publishedDateTime": "2024-02-01T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales.md",
-      "title": "Tesla upgrades Model Y self-driving hardware to lift China sales",
-      "excerpt": "The Model Y will now carry Tesla’s HW 4.0 autonomous driving function hardware, such as upgraded cameras and on-board computer, at no added cost, Tesla said on its official WeChat account Thursday. The SUV,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm",
-      "originalUrl": "https://www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2022/05/tesla.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm/amp",
-      "publishedDateTime": "2024-02-01T03:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-artificial-intelligence-ai-i-yai-yai-where-do-i-do-start.md",
-      "title": "Artificial Intelligence: AI, I Yai Yai – Where Do I Do Start?",
-      "excerpt": "Do not worry, you are not the only one not fully understanding the depth and scope of \"AI\" or what it does for that matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/philkafarakis/2024/01/31/artificial-intelligence-ai-i-yaiyai--where-do-i-do-start/",
-      "originalUrl": "https://www.forbes.com/sites/philkafarakis/2024/01/31/artificial-intelligence-ai-i-yaiyai--where-do-i-do-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bb11d2d3622599e4139bbf/0x0.jpg?format=jpg&crop=750,422,x0,y13,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T02:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-deep-learning-for-natural-language-processing.md",
-      "title": "Deep Learning for Natural Language Processing",
-      "excerpt": "Get access to the full version of this content by using one of the access options below. (Log in options will check for institutional or personal access. Content may require purchase if you do not have access.) To save this book to your Kindle, first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/contents/97E4B73A906829547FA99687331552EA",
-      "originalUrl": "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/contents/97E4B73A906829547FA99687331552EA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T02:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-one-of-google-deepminds-lead-developer-quits-to-launch-ai-startup.md",
-      "title": "One of Google DeepMind’s lead developer quits to launch AI startup",
-      "excerpt": "One of Google DeepMind’s lead developers, Ioannis Antonoglou, has quit the company to launch his own AI startup. This comes as several other lead developers have also left DeepMind recently. The departure of employees to start their own AI startups is seen as a healthy trend by Alphabet and Google CEO Sundar Pichai.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/articleshow/107303112.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/articleshow/107303112.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107303118,width-1280,height-720,resizemode-4/107303118.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms",
-      "publishedDateTime": "2024-02-01T02:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

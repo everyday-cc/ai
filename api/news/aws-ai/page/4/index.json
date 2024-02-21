@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-21-overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas.md",
+      "title": "Overcoming common contact center challenges with generative AI and Amazon SageMaker Canvas",
+      "excerpt": "Great customer experience provides a competitive edge and helps create brand differentiation. As per the Forrester report, The State Of Customer Obsession, 2022, being customer-first can make a sizable impact on an organization’s balance sheet, as organizations embracing this methodology are surpassing",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/16/wisdom-s3-sync-diagram-1260x431.png",
+          "width": 1260,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-21T16:29:44Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-reply-storm-reply-launches-rag-based-ai-chatbot-for-audi-revolutionising-internal-documentation.md",
       "title": "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation",
       "excerpt": "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its",
@@ -1359,49 +1411,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-10-final-four-thoughts-from-aws-reinvent-2023.md",
-      "title": "Final four thoughts From AWS re:Invent 2023",
-      "excerpt": "It’s back. Like all re:Invents, there was plenty of news ranging from compute to generative artificial intelligence to visionary stuff, such as Project Kuiper, AWS’ low Earth orbit satellites ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/12/09/final-four-thoughts-aws-reinvent-2023/",
-      "originalUrl": "https://siliconangle.com/2023/12/09/final-four-thoughts-aws-reinvent-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/selipskyreinvent2023-world.jpg",
-          "width": 4896,
-          "height": 3672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-10T04:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

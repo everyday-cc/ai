@@ -43,6 +43,15 @@ related:
         width: 900
         height: 675
         isCached: true
+  - title: "Novity grabs $7.8M in funding to streamline industrial predictive maintenance with AI"
+    excerpt: "Novity’s TruPrognostics AI platform gets around these issues using a combination of machine learning, physics-based models of common machine faults and internet of things sensors. According to the startup, this unique combination enables it to predict ..."
+    publishedDateTime: 2024-02-21T14:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/21/novity-grabs-7-8m-funding-streamline-industrial-predictive-maintenance-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 10
   - title: "Watch this eerily silent vision of the future — where offices are filled with weird, AI-powered robots"
     excerpt: "In a new video, 1X's EVE robots work together in silence in a test environment, performing actions such as sorting mail, handling objects and tidying up a child's toys."
     publishedDateTime: 2024-02-19T12:30:00Z

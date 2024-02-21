@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 685
         isCached: true
+  - title: "EXCLUSIVE: SoundHound's AI Voice Technology Revolutionizes Restaurant, Automotive Industries"
+    excerpt: "\"Spatial computing also undoubtedly needs to look to voice and conversational AI to fully unlock its ... We feel like we’ve earned the recognition we’re getting,\" he said."
+    publishedDateTime: 2024-02-21T10:28:00Z
+    webUrl: "https://www.benzinga.com/top-stories/24/02/37238490/exclusive-soundhounds-ai-voice-technology-revolutionizes-restaurant-automotive-industries"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37238490"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37238490"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/July-18--2023--Brazil--In-This-Photo-Ill.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "xjLjECdIRzYIpQRc4cU3SRkvDweEwDIkwQVMHYJ8jFsIMIDWKM0vmYYjFOG79LbnsIJVc6qslhccgR0xZCI/sqKZCcmZL4zaGpG6Tcwf2cIpYv8r/yMzoxno78hpoBmeaivaKWY38Km+Q6FDRuI3A+8VEVidPd/W5bkg6nei40Py0AA070bFCLGZZ03IiALTUFkCBwuR4w/K1bNmUFZmkZUqA8wKalmHIdl9Avrr6aujX0Cs6dNR6rFB9WTTe62LYOB0PIoZtI2lEpizklMyNqcRXmP9u4Z4AjlyVaLu/8ihGic6IrVtc9Z3QcSalB/HDnAUPL7jmVsdjwyl4UVAndXGvjaxFsMhLyBa4CxYMdM=;KGyoJuq/GrhAdoO5q6q9SQ=="
 ---

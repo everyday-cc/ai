@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-05-artificial-intelligence-ai-in-healthcare-market-worth-1484-billion-by-2029-exclusive-report-by-marketsandmarketstm.md",
+      "title": "Artificial Intelligence (AI) In Healthcare Market Worth $148.4 Billion By 2029 - Exclusive Report By Marketsandmarketstm",
+      "excerpt": "(MENAFN- PR Newswire) CHICAGO, Feb. 5, 2024 /PRNewswire/ -- The AI in Healthcare market is projected to grow from USD 20.9 billion in 2024 and is estimated to reach USD 148.4 billion by 2029 ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107811446/Artificial-Intelligence-AI-In-Healthcare-Market-Worth-1484-Billion-By-2029-Exclusive-Report-By-Marketsandmarketstm",
+      "originalUrl": "https://menafn.com/1107811446/Artificial-Intelligence-AI-In-Healthcare-Market-Worth-1484-Billion-By-2029-Exclusive-Report-By-Marketsandmarketstm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229",
+          "width": 445,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T10:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-the-impact-of-artificial-intelligence-on-the-art-world.md",
       "title": "The Impact Of Artificial Intelligence On The Art World",
       "excerpt": "AI is also allowing art experts to interpret market developments, track the activities of relevant public figures and understand and analyze collecting behaviors and patterns. As Boll alludes to, AI can interpret vast amounts of data at record speeds, which makes the analysis of market developments faster and easier than ever before.",
@@ -1351,49 +1394,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-who-weighs-up-ai-risks-and-benefits-for-health-care.md",
-      "title": "WHO weighs up AI risks and benefits for health care",
-      "excerpt": "Generative artificial intelligence could transform health care through things like drug development and quicker diagnoses, but the World Health Organization warned Thursday of the potential pitfalls in rushing to embrace AI.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-01-ai-benefits-health.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-01-ai-benefits-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/healthcare-assistant-r.jpg",
-          "width": 1280,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2024-01-ai-benefits-health.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-ai-benefits-health.amp",
-      "publishedDateTime": "2024-01-18T16:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

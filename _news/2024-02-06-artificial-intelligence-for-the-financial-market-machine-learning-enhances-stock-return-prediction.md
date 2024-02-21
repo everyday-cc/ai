@@ -6,9 +6,6 @@ publishedDateTime: 2024-02-06T09:58:00Z
 originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/242382"
 webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/242382"
 type: article
-quality: 42
-heat: 42
-published: false
 
 provider:
   name: AlphaGalileo
@@ -25,6 +22,6 @@ images:
     height: 531
     isCached: true
 
-secured: "yteBCIe5y2bo3gB7z5a3eVdzpKBVeJGDkuknvQfTrHUN0tKQrpkIbfRR1XBnnji4TPEteqxcx609cGDSW7St7L+b+6eOwijdaD6aJH3+FRI0bYkT1RHwiLco3AXa76VtP0lvK8zPgHA4BaE3UocR9FT1wz/oyvT1Z+IR8ab8Xq5EXmXAHWLx5SzgCH4Lyvzr3YYD3x8H8Yem6rVAHMzMZFg9Q86FZop2yzAjIyKK8B+2Q7Ra1hJDmZYI96IkJSsasUq2Fa72BRk6PqHwWBPxEB7I7CvqzLXHLn/RzZS1piiCTkJ3bIl54WBTzlLHFT15T6NQt7thjjZZ94Vy0p2WjYXgO5mptnyczGxmFGCYCE4=;U5/JotdYsZK7WOOMz21MWg=="
+secured: "ErQ67D5F+Yn3AfQssYUT6DBIBWJib8wMaHdJ1Y1et+UoGrOywuV/G09htj/nvsbEaLkld8k7siOmK59Zfv9a0v+GSbdrBW00Q6PVoyVKqVP7JwnhbO/BxrRy7HnePGowVAA0U/nCI636peUlf5rRaDCOUxaYk8nVGSuAL03YopiH0t18R8XXK9kz5S2lf5VkDUnxjmtwQkz0frkXhhlG9owuxYJ9PmoEsrUpmnkA1mxENsEvuu8EpZu6s+mbiDM13IGtCVthqJ/OiV4mnbixdMsJ0H7IgXLTWDkrMlR+QUuodM39wMiiylgK0TK1ahPgbp9mU0moxVvFBIKwG5rZzbMY4xiVd5WUJ4AMhRbt4RA=;UjIR6MrzxO4xLRvls399Fg=="
 ---
 

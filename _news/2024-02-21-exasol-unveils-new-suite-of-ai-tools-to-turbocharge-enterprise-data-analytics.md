@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-21T00:00:00Z
 originalUrl: "https://www.01net.it/exasol-unveils-new-suite-of-ai-tools-to-turbocharge-enterprise-data-analytics/"
 webUrl: "https://www.01net.it/exasol-unveils-new-suite-of-ai-tools-to-turbocharge-enterprise-data-analytics/"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 related:
   - title: "EQS-News: Exasol Unveils New Suite of AI Tools to Turbocharge Enterprise Data Analytics"

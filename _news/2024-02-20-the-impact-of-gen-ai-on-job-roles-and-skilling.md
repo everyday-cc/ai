@@ -19,19 +19,104 @@ topics:
   - AI
 
 related:
-  - title: "The impact of Artificial Intelligence on the global economy and job market"
-    excerpt: "In an increasingly connected world, artificial intelligence (AI) is emerging as a catalyst for change, revolutionizing sectors and"
-    publishedDateTime: 2024-02-16T17:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-impact-of-artificial-intelligence-on-the-global-economy-and-job-market-1033076951"
+  - title: "The Intersection of Artificial Intelligence and Society"
+    excerpt: "AI won’t replace people; instead, people with AI will replace people without AI. According to experts, the increasing prevalence of artificial intelligence is expected to improve the lives of the majority of people in the next decade."
+    publishedDateTime: 2024-02-18T15:52:00Z
+    webUrl: "https://dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/"
+    ampWebUrl: "https://dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 61
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/JWCf3hd96gY1gRkT5qBPAQm2QWo1/1708097809119.png"
-        width: 1597
-        height: 1060
+      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "New mission to set standards for use of AI"
+    excerpt: "Tamil Nadu is establishing an AI mission directly under chief minister M K Stalin to develop guidelines for “constructively leveraging” AI in areas such as education, employment, industry, and medicine."
+    publishedDateTime: 2024-02-20T02:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/articleshow/107836525.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg"
+        width: 1280
+        height: 854
+        isCached: true
+  - title: "Welcome to the Era of Mobile AI"
+    excerpt: "One of the most welcomed AI features is Circle to Search with Google, an incredible new tool for intuitive discovery. Our communication tools for removing language barriers, such as Live Translate, Chat Assist and Interpreter, have captured the imagination ..."
+    publishedDateTime: 2024-02-20T10:33:00Z
+    webUrl: "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 59
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/TM%20Roh_Editorial.jpg?itok=Ir3q2Fow"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "AI And Computer Vision To Be Major Trends In The Retail Sector In 2024"
+    excerpt: "Within the growing suite of AI-powered applications, Computer Vision utilises technology to interpret visual information similar to humans."
+    publishedDateTime: 2024-02-21T09:43:00Z
+    webUrl: "https://www.esmmagazine.com/features/ai-and-computer-vision-to-be-major-trends-in-the-retail-sector-in-2024-259826"
+    type: article
+    provider:
+      name: esmmagazine.com
+      domain: esmmagazine.com
+    quality: 54
+    images:
+      - url: "https://img.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvZXNtbWFnYXppbmUtcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDJcXFwvMTkxNjQxMDNcXFwvMjE4MzU3NDA2X2xfbm9ybWFsX25vbmUtc2NhbGVkLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC9pbWcucmVzaXplZC5jb1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZDJkMGM5ZTAzNWZmNjY2NWFlMDcyNDU2ZmJiYThlOWMyYjQwMGIwZSJ9/ai-and-computer-vision-to-be-major-trends-in-the-retail-sector-in-2024.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "AI's Current And Future Impacts On Construction"
+    excerpt: "As we've been hearing across the media landscape, AI is here to stay. While most people are aware of the digital-first uses of AI for things like ChatGPT and NFL analytics, AI has and will continue to transform traditional industries like construction as well."
+    publishedDateTime: 2024-02-21T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/ais-current-and-future-impacts-on-construction/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AI and the classroom"
+    excerpt: "The News spoke with members of the University’s English and Computer Science departments, along with faculty associated with Poorvu and the Executive Committee, to recap the University’s evolving response to the rise of artificial intelligence."
+    publishedDateTime: 2024-02-20T04:58:00Z
+    webUrl: "https://yaledailynews.com/blog/2024/02/19/ai-and-the-classroom/"
+    type: article
+    provider:
+      name: Yale Daily News
+      domain: yaledailynews.com
+    quality: 41
+    images:
+      - url: "https://yaledailynews.com/wp-content/uploads/2024/02/writingai_hm_SurbhiBharadwaj_SeniorPhotographer-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "AI and data centers - Why AI is so resource hungry"
+    excerpt: "Headlines tend towards guesstimates of “5x, 10x, 30x power needed for AI” and “Enough power to run 100,000s of homes” etc. Meanwhile reports in specialist publications such as the data center press talk of power densities rising to 50kW or 100kW per rack."
+    publishedDateTime: 2024-02-20T17:36:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/opinions/ai-and-data-centers-why-ai-is-so-resource-hungry/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Ed-Ansett1.original_wide_mono.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "1vwgIQ3vSaxZmorDDbLrCyAQEMURElbISira71upZeY1cp9AoCyzGZXxXmkEVjeK4dhqZ1wmrsgMuUABECxBoF9DOrz6Xcx/W0+caXxDPxSyv6tctLhafM67Ve2aI/BxHP4JUEaipzwlhdZp58E6dKQE3kDzqRaG+dm5R7yF8RttryQ711uQ7QsvGGQgaMb/qtwt5ie9NBq5S1UVMYJHxdVe+QhDVj07skauad6ZErVOAvg8NNpKAEbhZIfwEtYkwcQnwX0yeQv+TYOTN/TNKPtA5s5dOgVfBZDJyp8m49bSVQkB5B7ZT813oeaxRoNF+7FnfolQoJ+3Yex7Ed28yn43xCOgCMcui5arksXqw2XqyvjQP/88+MvSLsdYP6UX4i/d6ZcJzr8WgI++NyFB09lLnMCVceKDqClysrBfTQkAybkskMoO6aw5X6SaAxnqP1Ld+eoIkPqNtJJopmfSjRGTmpVnf0Fp5c4jMBaZh+FOCoiTOdXe3yuo9e4s5dhSPNSZRRcJ6fCY9e1KnAxIhw==;VP38TdZM+akZmM31OSASxw=="

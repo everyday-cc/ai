@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-leng
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
 type: article
 quality: 93
-heat: 173
+heat: 223
 published: true
 
 provider:
@@ -48,6 +48,34 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/12/google-bard-gemini-v2.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google Launches Two Free 'Gemma' AI Models Inspired by Gemini"
+    excerpt: "Google has launched two new open AI models, Gemma 2B and Gemma 7B, with the goal of supporting AI use in third-party applications. The Gemma models vary in size, meaning the simpler Gemma 2B may be better for less intensive AI applications, while Google data suggests that Gemma 7B could outperform other AI models like Mistral or Meta's LLAMA-2."
+    publishedDateTime: 2024-02-21T15:58:00Z
+    webUrl: "https://www.pcmag.com/news/google-launches-two-free-gemma-ai-models-inspired-by-gemini"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/035OJKlW9wJhW9L0j1OcXpo-1.fit_lim.size_1200x630.v1708530102.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Gemini is rolling out to Google One AI Premium subscribers, here's what you can use it for"
+    excerpt: "Google is rolling out Gemini to Google One AI Premium subscribers, letting them use generative AI across Gmail, Docs, Sheets, and more."
+    publishedDateTime: 2024-02-21T15:01:00Z
+    webUrl: "https://www.androidauthority.com/google-gemini-rolling-out-google-one-ai-premium-subscribers-3417482/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 59
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/12/Gemini-Google-Logo.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Google Teases Innovative New Android Abilities With Gemini AI"
     excerpt: "Update February 19th: Google could be building a new Chromebook with a built-in Assistant hardware key according to a new report by Chrome Unboxed. The site discovered a file in the Chromium Repositories that references an Assistant key for a yet-be-released Chromebook codenamed “Xol.”"
@@ -100,6 +128,48 @@ related:
         width: 1600
         height: 816
         isCached: true
+  - title: "Duet AI is now Google Gemini, ready to help in Gmail, Docs, and other Workspace apps"
+    excerpt: "Continue to check back with us as we will be adding more information as it becomes available. Google Bard is now Google Gemini. Google Assistant is in the process of being replaced by Google Gemini. If you're in the Google ecosystem, it seems there's no ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.androidpolice.com/duet-ai-google-gemini-rebrand-workspace-apps-b/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 32
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-1-ap-hero.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google rebrands Duet AI in Workspace to Gemini with new Business and Enterprise plans"
+    excerpt: "As teased earlier this month, the Gemini rebrand is now coming to Duet AI in Gmail, Drive, Docs, and other Google Workspace apps."
+    publishedDateTime: 2024-02-21T15:01:00Z
+    webUrl: "https://9to5google.com/2024/02/21/google-workspace-gemini/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 32
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/google-workspace-gemini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Google enhances Workspace productivity suite with new Gemini generative AI capabilities"
+    excerpt: "In addition, it adds AI-powered meeting capabilities such as the ability to translate captions across more than 100 language pairs, and soon it will also be able to take notes of every meeting. It costs a bit more, at $30 per user per month. In both cases ..."
+    publishedDateTime: 2024-02-21T15:01:00Z
+    webUrl: "https://siliconangle.com/2024/02/21/google-enhances-workspace-productivity-suite-new-gemini-generative-ai-capabilities/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Untitled.png"
+        width: 512
+        height: 252
+        isCached: true
   - title: "Google AI Chief Touts Ultra Low Resource Machine Translation in Gemini 1.5 Pro Launch"
     excerpt: "Google promotes its latest large language model, Gemini 1.5 Pro, with a case study on low-resource translation using just one book."
     publishedDateTime: 2024-02-19T08:10:00Z
@@ -109,6 +179,20 @@ related:
       name: Slator
       domain: slator.com
     quality: 27
+  - title: "Google Renames Bard to Gemini"
+    excerpt: "A monthly overview of things you need to know as an architect or aspiring architects."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://www.infoq.com/news/2024/02/google-bard-gemini/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 24
+    images:
+      - url: "https://res.infoq.com/news/2024/02/google-bard-gemini/en/headerimage/generatedHeaderImage-1708182945608.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google App Adds Toggle Between Search & Gemini"
     excerpt: "The popular Google app, the Google Search app, now has a toggle at the top to quickly switch between Google Search and Gemini (formerly Google Bard). It shows up at the top and is defaulted to Google Search with the super G logo but you can see the Gemini logo that you can tap on to switch to Gemini."
     publishedDateTime: 2024-02-21T07:11:00Z
@@ -123,15 +207,6 @@ related:
         width: 1456
         height: 832
         isCached: true
-  - title: "Google Announces Gemini 1.5 Pro AI That Dwarfs All Other Models"
-    excerpt: "Google only just announced Gemini as its new AI branding, rolling out models in several sizes and levels of complexity. Gemini 1.0 Pro, the mid-tier version of the model, is already being replaced. Google says Gemini 1."
-    publishedDateTime: 2024-02-16T14:03:00Z
-    webUrl: "https://www.extremetech.com/computing/google-announces-gemini-15-pro-ai-that-dwarfs-all-other-models"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "iMOQRYd4663dyUFQhg2XwKt1I67NClsTrHMT61uYzKtQvQrBpZlsAA/f2H87nEgBEAZ20brvENZDpRCFYHEr1O37HgiWXuBXlIFVbkf6GcGmlQZwxi7D1944oVn+5JteBExljBYa7YY5bEnH3AfcrmAl4mKpVJ7xr011RjdaBGKBoC4k+425GLlrlVI0b6+VTeqVGVkQatbIrkuVRvzunFw+O1iI5/nVfbD63/ETuNCLHLUHVsiRkcA6Qg4J+/g+iSiCiFhIWurQxa36Mv+aEHdfuLQoLbMaQ9QBBj89x9W/BI8U1phyGiI/qjkPm819CNUJPUxSwFmrkDCqppu8juzWJtVIifm81FFBuS4CbXeoJt7zHbhE1uIfJPr3QrRSl+ip/xaaSec2uuItEW0gvRKDDz6lsiZcNyAl6GCiIaEX+RiAR2z0f5NVvjgGwie4ePCmUhFK3olDzH0ldSfgwCPXsE11WBtfq3dzs+ng3SQ+un7n2m9MVVysS80B8yk6XjzmadUQSBgifOl2ILzL8w==;/2HSXJSwrURxDeb7G6IVOw=="
 ---

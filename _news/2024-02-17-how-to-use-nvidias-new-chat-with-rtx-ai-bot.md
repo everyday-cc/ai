@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?am
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?amp"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -169,6 +169,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
+  - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
+    excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."
+    publishedDateTime: 2024-02-21T15:23:00Z
+    webUrl: "https://www.barrons.com/livecoverage/nvidia-earnings-stock-price/card/nvidia-teams-up-with-google-to-offer-a-new-ai-model-for-consumers-xHzURJMOboThgiNhSXT5"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
   - title: "Nvidia’s Q4 earnings will be a referendum on the AI trade. Revenue expected to jump 234%"
     excerpt: "Shares of the AI chip darling have skyrocketed 184% over the last 12 months, easily outpacing rivals AMD (AMD) and Intel (INTC), which saw their shares rise 91% and 67%, respectively. Nvidia’s incredible run briefly pushed its market capitalization past ..."
     publishedDateTime: 2024-02-20T14:02:00Z

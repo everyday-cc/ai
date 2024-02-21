@@ -2,6 +2,351 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-20-ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman.md",
+      "title": "AI regulation will be required in 5-10 years: DeepMind's Mustefa Suleyman",
+      "excerpt": "Suleyman stressed the importance of regulating AI to prevent misuse of information and its impact on nation states.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-9502,msid-107852095/mustefa-suleyman.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms",
+      "publishedDateTime": "2024-02-20T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond.md",
+      "title": "Navigating Retail's New Reality: Omnichannel, Hyper-Personalization And Beyond",
+      "excerpt": "While AI has been touted by many as a silver bullet for addressing key challenges, it is not the only solution available and may not work for every retail company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f105d41e465530006d5ac69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/amp/",
+      "publishedDateTime": "2024-02-20T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-watch-out-workers-this-billionaires-ai-is-coming-for-blue-collar-jobs.md",
+      "title": "Watch Out, Workers: This Billionaire’s AI Is Coming For Blue Collar Jobs",
+      "excerpt": "John Fish built Boston’s largest construction firm, Suffolk, on the backs of laborers. Now, fighting a never-ending worker shortage, he’s betting the future is filled with hardwired hard hats and AI foremen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnhyatt/2024/02/20/watch-out-workers-john-fish-and-his-ai-is-coming-for-blue-collar-jobs-too/",
+      "originalUrl": "https://www.forbes.com/sites/johnhyatt/2024/02/20/watch-out-workers-john-fish-and-his-ai-is-coming-for-blue-collar-jobs-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cf6450dd61f42d45dca929/0x0.jpg?format=jpg&crop=1786,1005,x134,y75,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-making-cloud-infrastructure-programmable-for-developers.md",
+      "title": "Making cloud infrastructure programmable for developers",
+      "excerpt": "AWS CloudFormation and Azure Resource Management were two other top contenders ... As an industry, we’ve moved beyond single machine application servers and single machine operating systems to distributed computing in the cloud, orchestrated by Kubernetes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html",
+      "originalUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/developer_programmer-100946133-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html",
+      "publishedDateTime": "2024-02-20T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-this-new-ai-assistant-from-adobe-lets-you-chat-with-your-pdfs-at-no-additional-cost.md",
+      "title": "This new AI Assistant from Adobe lets you chat with your PDFs at no additional cost",
+      "excerpt": "Getting started is easy. All Acrobat and Reader users will have to do is open the applications, where they will find the AI Assistant in beta, which they can then use for a range of tasks, including providing answers to recommended or user-generated questions through a chatbot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/",
+      "originalUrl": "https://www.zdnet.com/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0551db9716d6cec71a6e47019995b146b120ebd6/2024/02/19/66af0daa-4e89-472c-92ff-221a0f127dba/a249585c-e21d-4694-bd61-6384a61dfe26.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/",
+      "publishedDateTime": "2024-02-20T06:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-how-is-india-ramping-up-use-of-ai-in-the-military.md",
+      "title": "How is India ramping up use of AI in the military?",
+      "excerpt": "India in 2023 deployed AI systems to keep an eye on its borders with Pakistan and China. The Indian Army has procured a slew of hi-tech weapons and its developing military grade AI along with the MeiTy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html",
+      "originalUrl": "https://www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/uploads/2024/02/ai-2024-02-7e36e8e23545dc74b14ec939839ba44c.jpg?im=FitAndFill=(1200,675)",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html/amp",
+      "publishedDateTime": "2024-02-20T05:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david.md",
+      "title": "Ultrathin, energy-efficient facial recognition can identify Michelangelo’s David",
+      "excerpt": "Packing in all those optical components like lasers makes commercial dot projectors rather bulky, so it can be harder to integrate for some applications such as robotics and augmented reality, as well as the next generation of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
+      "originalUrl": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/david1CROP-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T22:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-qloo-leading-ai-advances-culture-and-taste-intelligence.md",
       "title": "Qloo Leading AI Advances Culture And Taste Intelligence",
       "excerpt": "3. Rigorous Legal Compliance: Qloo engages external legal counsel to review all its data practices, ensuring they align with the highest standards of intellectual property laws and data privacy regulations. This guarantees that all of their AI development processes are legally sound and ethically responsible.",
@@ -10,7 +355,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -148,6 +493,59 @@
       ]
     },
     {
+      "path": "_news/2024-02-19-run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints.md",
+      "title": "Run ML inference on unplanned and spiky traffic using Amazon SageMaker multi-model endpoints",
+      "excerpt": "Amazon SageMaker multi-model endpoints (MMEs) are a fully managed capability of SageMaker inference that allows you to deploy thousands of models on a single endpoint. Previously, MMEs pre-determinedly allocated CPU computing power to models statically regardless the model traffic load, using Multi Model",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/30/ML-15023-image001-1260x460.png",
+          "width": 1260,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T18:13:45Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-openai-sora-video-footage-brought-to-life-by-ai-generated-sounds.md",
       "title": "OpenAI Sora video footage brought to life by AI-generated sounds",
       "excerpt": "OpenAI released a new AI model called Sora that could generate high-resolution video clips from text prompts. But they're all essentially clever silent films. Now ElevenLabs has added background sounds to Sora-created footage.",
@@ -156,7 +554,7 @@
       "originalUrl": "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -612,7 +1010,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -666,7 +1064,7 @@
       "originalUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -699,48 +1097,6 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development.md",
-      "title": "MBZUAI and UNDP partnership to advance use of artificial intelligence for sustainable development",
-      "excerpt": "As part of the collaboration, the university becomes the founding knowledge partner for the UNDP’s AI for Sustainable Development Platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/Y2RhYzNkNWUtNmE0MC00/0/jji-mbzuai-jpg.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc?amp=1",
-      "publishedDateTime": "2024-02-19T10:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -838,363 +1194,6 @@
         "Meta AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-googles-ai-boss-says-scale-only-gets-you-so-far.md",
-      "title": "Google’s AI Boss Says Scale Only Gets You So Far",
-      "excerpt": "In recent months, Hassabis has overseen a dramatic shift in pace of research and releases with the rapid development of Gemini, a ”multimodal” AI model that already powers Google’s answer to ChatGPT and a growing number of Google products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/",
-      "originalUrl": "https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65cff9cd4172e5e20e48edbb/191:100/w_1280,c_limit/Demis-Hassabis-Q&A-Business-1487212367.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year.md",
-      "title": "Tech giants promise to combat fraudulent AI content in mega elections year",
-      "excerpt": "Tech companies like Google, Meta, and OpenAI have signed an accord to filter through deceptive AI-generated content in 2024, a year with more elections than any other in history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
-      "originalUrl": "https://www.zdnet.com/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/75dbdf1f3a53cc19d05a2a68eed3479af024822e/2024/02/19/063d36af-d818-451b-8d0a-916c7feb57f1/gettyimages-1415754429.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
-      "publishedDateTime": "2024-02-19T07:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-the-biggest-ai-trends-in-the-10-years.md",
-      "title": "The Biggest AI Trends In The 10 Years",
-      "excerpt": "Let’s look ahead just 10 years to 2034. Halfway through the next decade, a lot will have changed, but what will AI look like? Here’s what I think!",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d2fc479802aab1c9b744d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/",
-      "publishedDateTime": "2024-02-19T06:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-kakao-ventures-backs-korean-startup-that-makes-ai-models-faster-and-cheaper-to-run.md",
-      "title": "Kakao Ventures Backs Korean Startup That Makes AI Models Faster And Cheaper To Run",
-      "excerpt": "Two-year-old startup SqueezeBits recently raised a $2 million pre-Series A round from investors including Kakao Ventures, Samsung Next and Posco Venture Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkang/2024/02/19/kakao-ventures-backs-korean-startup-that-makes-ai-models-faster-and-cheaper-to-run/",
-      "originalUrl": "https://www.forbes.com/sites/johnkang/2024/02/19/kakao-ventures-backs-korean-startup-that-makes-ai-models-faster-and-cheaper-to-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d1fd7d30c64345a507f9d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T05:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential.md",
-      "title": "ChatGPT Stock Predictions: 3 Cybersecurity Companies the AI Bot Thinks Have 10X Potential",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence becoming increasingly ingrained in our daily",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential-1033078342",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential-1033078342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T20:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-moxie-how-this-ai-robot-is-designed-to-teach-kids-emotional-intelligence.md",
-      "title": "Moxie: How This AI Robot Is Designed To Teach Kids Emotional Intelligence",
-      "excerpt": "Developed by Embodied, Moxie is an AI-powered robot that can accompany, interact with and teach five-to-10 year old kids problem-solving and emotional intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/",
-      "originalUrl": "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d249717feeada5f565af34/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1326,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/amp/",
-      "publishedDateTime": "2024-02-18T20:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-why-artificial-general-intelligence-lies-beyond-deep-learning.md",
-      "title": "Why artificial general intelligence lies beyond deep learning",
-      "excerpt": "Many believe deep learning will continue to advance and play a crucial role in achieving AGI — but it does have its limitations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-artificial-general-intelligence-lies-beyond-deep-learning/",
-      "originalUrl": "https://venturebeat.com/ai/why-artificial-general-intelligence-lies-beyond-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/an_artificial_intelligence_brain_vibrant_3d_re-transformed.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T19:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

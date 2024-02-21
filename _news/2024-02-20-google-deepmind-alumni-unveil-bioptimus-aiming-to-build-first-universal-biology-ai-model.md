@@ -62,6 +62,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google DeepMind has a new family of open AI models for devs: Gemma"
+    excerpt: "Google DeepMind's new open AI models, Gemini, are available now to researchers and developers — but only if they're responsible"
+    publishedDateTime: 2024-02-21T15:34:00Z
+    webUrl: "https://thenextweb.com/news/google-deepmind-unveils-gemma-open-models-ai-research"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-2-2.jpg&signature=6bbfa0e5bba21649e161de4317908ce6"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nothing special about human mind that can't be reproduced by AI: DeepMind co-founder"
     excerpt: "AI would be very useful without consciousness and not with it because it will be quite a slippery concept, said Mustafa Suleyman"
     publishedDateTime: 2024-02-20T07:03:00Z
@@ -78,6 +92,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Google DeepMind debuts Gemma open models, offers developer alternative to Gemini API"
+    excerpt: "Google DeepMind announced it had released Gemma — new 2B and 7B open models built from the same R&D used to create Gemini."
+    publishedDateTime: 2024-02-21T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/google-deepmind-debuts-gemma-open-models-offers-developer-alternative-to-gemini-api/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
   - title: "AI hallucinations will largely be eliminated by next year, says DeepMind’s Mustafa Suleyman"
     excerpt: "Suleyman said eliminating hallucination would have a dramatic impact on education because these conversational AI's are friendly and fluent."
     publishedDateTime: 2024-02-20T14:35:00Z

@@ -24,38 +24,43 @@ images:
     isCached: true
 
 related:
-  - title: "Supermicro: Cooling The AI Boom"
-    excerpt: "Supermicro’s stock has gone off the handle because anyone planning to run AI needs the sort of systems it produces to cool their country’s worth of electric space heaters down."
-    publishedDateTime: 2024-02-16T14:54:00Z
-    webUrl: "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/"
-    ampWebUrl: "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/"
+  - title: "Robot inventor: 'We had to adapt to the AI revolution'"
+    excerpt: "Sandy Enoch, the founder of Scottish tech firm Robotical, explains how he had to adapt his educational robots, designed for the classroom, to reflect the revolution taking place in artificial intelligence."
+    publishedDateTime: 2024-02-21T00:17:00Z
+    webUrl: "https://www.bbc.com/news/business-68348353"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: BBC
+      domain: bbc.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cf5c2b87d81eacee1f70c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Supermicro Expands AI Solutions For Enhanced Edge Computing Powered By Nvidia GPUs"
-    excerpt: "Supermicro (SMCI) introduces cutting-edge AI solutions, enabling real-time decision-making at the edge with NVIDIA GPU support. The advanced edge servers, featuring dual socket CPUs and powerful GPUs, position Supermicro as a leader in AI-driven edge ..."
-    publishedDateTime: 2024-02-20T11:09:00Z
-    webUrl: "https://www.benzinga.com/top-stories/24/02/37216276/supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37216276"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37216276"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 68
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/Super-Micro-Computer_0.jpeg?width=1200&height=800&fit=crop"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1413F/production/_132693228_p0hcyy8v.jpg"
         width: 1024
-        height: 683
+        height: 576
         isCached: true
+  - title: "China must embrace new era of AI revolution"
+    excerpt: "The artificial intelligence leader OpenAI has unveiled a new AI model named Sora, which it asserts can generate \"realistic\" and \"imaginative\" 60-second videos based on brief text prompts."
+    publishedDateTime: 2024-02-20T05:37:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202402/20/WS65d42bf2a31082fc043b81cf.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 41
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202402/20/65d446c8a31082fc2b68d6a0.jpeg"
+        width: 1078
+        height: 718
+        isCached: true
+  - title: "Generative AI revolutionising banking sector: Fintech Surge 2023"
+    excerpt: "Day one of Fintech Surge 2023, the global gathering for the entire fintech ecosystem, commenced today at the iconic Dubai Harbour. The event is uniting regional and global players from across the fintech industry – from banks and financial institutions to regulators,"
+    publishedDateTime: 2024-02-20T21:20:00Z
+    webUrl: "https://wam.ae/en/article/3unfjb-generative-revolutionising-banking-sector-fintech"
+    type: article
+    provider:
+      name: wam.ae
+      domain: wam.ae
+    quality: 34
 
 secured: "I7VpgE2KewzS4cNgN57HQKpT0q9s8u8MDDBIlipe9OJYSCjNB5usfX4RKM59u5/a16UV+hV/f07oCfZYAvFVTrozzAh6xRgfRsEE3CFxu8YhcxASnPVRVsSEtTyd5lTEkDfH1haY7N9WAYj8yPF6qEK41UMmivcLwl2DhsU5cx9nK2ssWn2TUq/FxGeo0TTy2wu7vzU+z8jDhsn422vBzdjc+C4FOX499EVij0Ey1JBXR0XasBEIa1zD9pbMLrTKXpwlU/1wfJ5ni8FA3fzZZILF6ABVVLWNMA6kyDAErgDw0xJ++maFnf56FwRUQy9lIT2R+K7vMeV+8/F7FVYP4XBxIdRGFWdkHLnMYHSWAgc=;3mNL1GwO6Q/mMZft8u3a9A=="
 ---

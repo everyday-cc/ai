@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Vision Pro Travel Case review: too-expensive precision cushioning"
-    excerpt: "Apple made one accessory that wasn't included in the Apple Vision Pro box — an impractically large $200 Travel Case that isn't great at what it claims to do."
-    publishedDateTime: 2024-02-16T14:43:00Z
-    webUrl: "https://appleinsider.com/articles/24/02/16/apple-vision-pro-travel-case-review-too-expensive-precision-cushioning"
-    ampWebUrl: "https://appleinsider.com/articles/24/02/16/apple-vision-pro-travel-case-review-too-expensive-precision-cushioning/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/02/16/apple-vision-pro-travel-case-review-too-expensive-precision-cushioning/amp/"
+  - title: "Apple Confirms 1,000+ Vision Pro Native Apps Now Available"
+    excerpt: "Need a floating calculator on your living room wall? There’s an app for that. Well, actually there are now several apps for that on Vision Pro, as the company confirmed its first mixed reality headset is now packing over a thousand visionOS-native apps."
+    publishedDateTime: 2024-02-19T16:43:00Z
+    webUrl: "https://www.roadtovr.com/apple-vision-pro-1000-apps/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
+      name: Road to VR
+      domain: roadtovr.com
+    quality: 39
     images:
-      - url: "https://photos5.appleinsider.com/gallery/58570-119445-VP-TC-1-xl.jpg"
-        width: 1312
-        height: 738
-        isCached: true
-  - title: "The five reasons people give for returning the Vision Pro"
-    excerpt: "Friday was the day when the 14-day return period expired for those who bought their spatial computer on day one, and Apple is reportedly taking a keen interest in reasons people give for returning the Vision Pro. A new report over the weekend didn’t ..."
-    publishedDateTime: 2024-02-19T11:58:00Z
-    webUrl: "https://9to5mac.com/2024/02/19/returning-the-vision-pro/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/Reasons-for-returning-the-Vision-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2023/06/avp-2.jpg"
+        width: 1800
+        height: 1100
         isCached: true
 
-secured: "ALU4oL4rJm2e5AaFMqIPWOyO+UQsnHuhBOyTwcafjGMDhX99rtsHWEkrqjQDrfg9sQ+eu7K/3rveG1RLVF9Vbi4TaxDw2PkqW32GmYMf0tA2RL8oVxsvch7d8L6OQ4kLTwYCLyluIjCD2KrbnQziWxWLmLkBqV3WJFZaUW+mpH6HJVJ/IudzHHYybAcR8zaDqcO0vVbXRSxtflz9rl+0QCFIL0KTGiGMMwfH6mT29UAcT8lvyzaU0MhxV6mhgAx56q0gg1Z8cP9C/6HvD8NJpAhms387cgcvQDVntiJ3m520HYnbbpUg/kJGs6Ao9znYvrW8AZSChpGjXMPeJlR+9+nlhkcpmub9Q3T0hijfvF4=;8xV91MS+pE/AtMQW0ylIgw=="
+secured: "HwqlEK3kwVu8UHZWofL8CmWm7no2qE194MbWFcD4SKR1KO+hd+wTa6dICU2mS0tPekWUY5SbwBYZvheuBvAQJG40WDJf+C8wWktp05Lg51nEsJ6/Psw0Wlzv3L1SN1MyOTs6qD0VeVWd0djUASSNy8j8jp2th7oRRxx4KEkfJ+nU6LMqIQfzoRFC82uJbHA27QYYUTSDl6SJxwyTDRW7aoaGSPHvn5FeijGz2qa7U5769yPCHp1kMgMm+WA+A9itS6N1E0nGgJNln8N9DXf6aFb1vRxck9q9HSjKFdwx4N7moY2Vd4xX3OmqZS52AY+3ylHbKbJhFv1EoElMs1U4zW78In9obbSXQrNiYmboVF6QPB8VawMxCLNjNArVSuMBG5rrbH69v36poLVl0/kYGlSKXxTpZ6zpPF4zpReP5DxjLh1iPNU2phi0gMZf6sSWlRxDcIN8xBcAOrVRCcC7XMwkizzIAieyQ1H3iC+9iD1D8Jns+vUTMsvPMogmxkf9Ct3E6WQOjEZwJjRMT+NVpg==;hgoTKeftdFEkdmBscZxJgQ=="
 ---
 

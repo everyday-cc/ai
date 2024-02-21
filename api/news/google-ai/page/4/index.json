@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-05-google-bard-advanced-found-in-the-wild.md",
+      "title": "Google 'Bard Advanced' Found In The Wild",
+      "excerpt": "Google seems to be testing a \"Bard Advanced\" upgraded version made available through a paid subscription to cloud storage platform Google One. The discovery was made by a couple of developers and shared on X.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/392422/google-bard-advanced-found-in-the-wild.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/392422/google-bard-advanced-found-in-the-wild.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2024/01/07/image_NgKCmyV.png",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-2023-the-year-of-ai-chatgpt-bard-google-gemini-deepfakes-and-ai-laws.md",
+      "title": "2023 the Year of AI: ChatGPT, Bard, Google Gemini, Deepfakes and AI Laws",
+      "excerpt": "AI, if these two letters didn’t dominate your 2023, what did? It was the year Google, Microsoft, Meta and Amazon went into an AI arms race, investing heavily in it. ChatGPT, Bard, Google Gemini have made AI a household name.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/newsmo/video/2023-the-year-of-ai-chatgpt-bard-google-gemini-deepfakes-and-ai-laws-2481957-2023-12-29",
+      "originalUrl": "https://www.indiatoday.in/newsmo/video/2023-the-year-of-ai-chatgpt-bard-google-gemini-deepfakes-and-ai-laws-2481957-2023-12-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202312/ai-290524479-16x9_0.png?VersionId=sFeq08YDZRHmCBumxNESofNjCKtLBkZ3",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/newsmo/video/2023-the-year-of-ai-chatgpt-bard-google-gemini-deepfakes-and-ai-laws-2481957-2023-12-29",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/newsmo/video/2023-the-year-of-ai-chatgpt-bard-google-gemini-deepfakes-and-ai-laws-2481957-2023-12-29",
+      "publishedDateTime": "2023-12-29T11:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-googles-chatgpt-competitor-bard-is-nearly-as-good-just-slower.md",
       "title": "Google’s ChatGPT competitor Bard is nearly as good — just slower",
       "excerpt": "Earlier this month, Google announced the release of Gemini, what it considers its most powerful AI model yet. It integrated Gemini immediately into its flagship generative AI chatbot, Bard ...",
@@ -1294,93 +1381,6 @@
       "provider": {
         "name": "NextBigFuture",
         "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-how-google-deepminds-ai-breakthrough-could-revolutionise-chip-battery-development.md",
-      "title": "How Google DeepMind’s AI breakthrough could revolutionise chip, battery development",
-      "excerpt": "AI researchers have predicted the structures of more than 2 million new materials, and published a list of the 381,000 most stable ones. They say their work is currently equivalent to nearly 800 years of knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/google-AI-deepmind.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/lite/",
-      "publishedDateTime": "2023-12-08T06:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-google-gemini-ai-outperforms-gpt-35-to-be-integrated-into-google-bard.md",
-      "title": "Google Gemini AI Outperforms GPT 3.5, to Be Integrated Into Google Bard",
-      "excerpt": "Google has unveiled Gemini AI, a powerful AI model that has surpassed ChatGPT 3.5 and several other AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/news/google-gemini-ai-outperforms-gpt-3-5-to-be-integrated-into-google-bard/",
-      "originalUrl": "https://techreport.com/news/google-gemini-ai-outperforms-gpt-3-5-to-be-integrated-into-google-bard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2023/12/Google-gemini-AI.jpg?_t=1701943717",
-          "width": 1872,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T10:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
         "images": null,
         "publishers": null,
         "authors": null

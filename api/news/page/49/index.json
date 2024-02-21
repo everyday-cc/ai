@@ -2,6 +2,481 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2024-01-13-ces-2024-everything-revealed-so-far-from-nvidia-and-sony-to-the-weirdest-reveals-and-helpful-ai.md",
+      "title": "CES 2024: Everything revealed so far, from Nvidia and Sony to the weirdest reveals and helpful AI",
+      "excerpt": "CES 2024 has begun in Las Vegas, and we're keeping track of the biggest reveals from press day as a wave of AI and hardware news is revealed.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/",
+      "originalUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1246002029.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/amp/",
+      "publishedDateTime": "2024-01-12T20:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
+      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
+      "excerpt": "Latte art is a skill that can take months if not years of practice to master — but not for this barista powered by artificial intelligence ... founder of food tech startup Artly Coffee, one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/",
+      "originalUrl": "https://www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wkrg.com/wp-content/uploads/sites/49/2024/01/65a1e1f62a0759.01554617.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-wkrg-com.cdn.ampproject.org/c/s/www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/amp/",
+      "publishedDateTime": "2024-01-12T20:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRG",
+        "domain": "wkrg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-nec-achieves-tx-ramp-level-2-certification-for-suite-of-biometric-and-face-recognition-solutions.md",
+      "title": "NEC Achieves TX-RAMP Level 2 Certification for Suite of Biometric and Face Recognition Solutions",
+      "excerpt": "NEC Corporation of America (NEC), a leading provider and integrator of advanced IT, biometrics, communications, and networking solutions today announc",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240112069729/en/NEC-Achieves-TX-RAMP-Level-2-Certification-for-Suite-of-Biometric-and-Face-Recognition-Solutions/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240112069729/en/NEC-Achieves-TX-RAMP-Level-2-Certification-for-Suite-of-Biometric-and-Face-Recognition-Solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T19:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-the-state-of-microsoft-data-part-2.md",
+      "title": "The State of Microsoft Data Part 2",
+      "excerpt": "While Microsoft's latest offering, Fabric, is a viable option for many, it's not the only player out there.",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/Articles/2024/01/12/The-State-of-Microsoft-Data-Part-2.aspx",
+      "originalUrl": "https://redmondmag.com/Articles/2024/01/12/The-State-of-Microsoft-Data-Part-2.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/analyticdataabstract.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T19:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-timekettles-x1-makes-language-translation-effortless-with-ai-driven-interpretation.md",
+      "title": "Timekettle's X1 Makes Language Translation Effortless With AI-Driven Interpretation",
+      "excerpt": "The AI powering the X1 will mimic the voice ... lets up to 20 people have a conversation in five different languages with real-time translation. Notably, it works for both in-person and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1490692/timekettle-x1-voice-language-translator-ai/",
+      "originalUrl": "https://www.slashgear.com/1490692/timekettle-x1-voice-language-translator-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/timekettles-x1-makes-language-translation-effortless-with-ai-driven-interpretation/l-intro-1704989646.jpg",
+          "width": 1600,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T18:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship.md",
+      "title": "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship",
+      "excerpt": "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republic-online.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_91538c37-4441-5db5-b764-db893897c54f.html",
+      "originalUrl": "https://www.republic-online.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_91538c37-4441-5db5-b764-db893897c54f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/republic-online.com/content/tncms/assets/v3/editorial/2/69/26994866-02ca-5fa5-b0df-e47730d34ef6/65a24a7597ea5.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T17:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami County Republic",
+        "domain": "republic-online.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-laboratory-automation-leverages-artificial-intelligence.md",
+      "title": "Laboratory Automation Leverages Artificial Intelligence",
+      "excerpt": "From liquid handling to image analysis, laboratory tasks are being performed more easily and accurately with the help of artificial intelligence–driven platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/topics/artificial-intelligence/laboratory-automation-leverages-artificial-intelligence/",
+      "originalUrl": "https://www.genengnews.com/topics/artificial-intelligence/laboratory-automation-leverages-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T16:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-abb-acquires-sevensense-expanding-leadership-in-next-generation-ai-enabled-mobile-robotics.md",
+      "title": "ABB Acquires Sevensense, Expanding Leadership in Next-generation AI-enabled Mobile Robotics",
+      "excerpt": "The acquisition underlines ABB’s strategic investment focus on innovative AI solutions transforming industries, such as logistics and manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/january-2024/abb-acquires-sevensense-leadership-ai-robotics? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/january-2024/abb-acquires-sevensense-leadership-ai-robotics? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/fbc920be-6374-44d4-bd7d-a10ae4823436/ABB-news-Jan-12-2024-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T15:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-abb-expands-stake-in-next-gen-ai-powered-robotics-with-acquisition-of-sevensense.md",
+      "title": "ABB Expands Stake in Next-Gen AI-Powered Robotics with Acquisition of Sevensense",
+      "excerpt": "Swiss start-up Sevensense's 3D vision navigation technology to boost ABB's AMR portfolio and drive smarter factories and warehouses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/machinery/robotics/news/22883815/abb-abb-acquires-sevensense-to-expand-stake-in-nextgen-aipowered-robotics",
+      "originalUrl": "https://www.packworld.com/machinery/robotics/news/22883815/abb-abb-acquires-sevensense-to-expand-stake-in-nextgen-aipowered-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2024/01/ABB_Sevensense.65a0777131390.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 862,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-sams-club-deploys-ai-powered-computer-vision-to-speed-payment-confirmation.md",
+      "title": "Sam’s Club Deploys AI-Powered Computer Vision to Speed Payment Confirmation",
+      "excerpt": "Sam’s Club is piloting tech designed to address a big customer pain point: waiting for an associate to check their receipt against the items in their cart.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retailtouchpoints.com/features/news-briefs/sams-club-deploys-ai-powered-computer-vision-to-speed-payment-confirmation",
+      "originalUrl": "https://www.retailtouchpoints.com/features/news-briefs/sams-club-deploys-ai-powered-computer-vision-to-speed-payment-confirmation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.retailtouchpoints.com/wp-content/uploads/2024/01/Sams-Club-cart_JohnHansonPye.jpg",
+          "width": 999,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T14:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-application-development-software-market-2024-size-industry-shares-revenue-business-opportunities-and-forecast-till-2032.md",
+      "title": "Application Development Software Market 2024 Size, Industry Shares, Revenue, Business Opportunities And Forecast Till 2032",
+      "excerpt": "Report Ocean published the latest research report on the  Application Development Software Market  . In order to comprehend a market holistica",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107713581/Application-Development-Software-Market-2024-Size-Industry-Shares-Revenue-Business-Opportunities-And-Forecast-Till-2032",
+      "originalUrl": "https://menafn.com/1107713581/Application-Development-Software-Market-2024-Size-Industry-Shares-Revenue-Business-Opportunities-And-Forecast-Till-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?319528",
+          "width": 258,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T14:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-how-to-pick-a-name-for-your-ai-startup.md",
       "title": "How to pick a name for your AI startup",
       "excerpt": "Where should you be driving brand attribution and awareness long-term? Should you use “AI” in your product or company name? Let’s start with “AI” itself. In this world of exploding innovation in the AI industry, a great name paired with a great ...",
@@ -599,445 +1074,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-tusimples-self-driving-trucks-up-for-auction-following-us-exit.md",
-      "title": "TuSimple’s self-driving trucks up for auction following US exit",
-      "excerpt": "Ten of TuSimple’s autonomous big rigs are set to be auctioned off later this month, just a few weeks after the self-driving trucking startup that went public in 2021 announced it was exiting the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/",
-      "originalUrl": "https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/TuSimple-Self-Drving-Truck-5.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/amp/",
-      "publishedDateTime": "2024-01-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition.md",
-      "title": "Robot vendor ABB adds AI-based navigation technology with latest acquisition",
-      "excerpt": "The Swiss industrial robotics vendor ABB Ltd. is continuing to grow its footprint as a provider of mobile robotic solutions, announcing today that it has acquired Sevensense, a Swiss start-up that provides AI-based navigation technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/59594-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition",
-      "originalUrl": "https://www.dcvelocity.com/articles/59594-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T21:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-microsofts-ai-found-a-new-material-to-replace-li-ion-batteries.md",
-      "title": "Microsoft's AI found a new material to replace li-ion batteries",
-      "excerpt": "Microsoft collaborated with the Department of Energy's Pacific Northwest National Laboratory (PNNL) to discover a novel material that could alleviate the global dependence on lithium in",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101486-microsoft-ai-found-new-material-replace-lithium-li.html",
-      "originalUrl": "https://www.techspot.com/news/101486-microsoft-ai-found-new-material-replace-lithium-li.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T18:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-awss-hidden-threat-ambersquid-cloud-native-cryptojacking-operation.md",
-      "title": "AWS’s Hidden Threat: AMBERSQUID Cloud-Native Cryptojacking Operation",
-      "excerpt": "AMBERSQUID tactically exploits less-known AWS services (Amplify, Fargate, SageMaker), costing victims $10,000+/day.",
-      "sourceUrl": null,
-      "webUrl": "https://cloudsecurityalliance.org/articles/aws-s-hidden-threat-ambersquid-cloud-native-cryptojacking-operation/",
-      "originalUrl": "https://cloudsecurityalliance.org/articles/aws-s-hidden-threat-ambersquid-cloud-native-cryptojacking-operation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2d1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35003ea1a59ccbb4e062cb2818e3b3d7dc4a1540/Rise-of-Cloud-Computing-Adoption-and-Cybercrimes.jpg/",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T18:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Security Alliance",
-        "domain": "cloudsecurityalliance.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-kodiak-robotics-unveils-driverless-semitruck-slated-to-hit-texas-highways-in-2024.md",
-      "title": "Kodiak Robotics unveils driverless semitruck slated to hit Texas highways in 2024",
-      "excerpt": "Kodiak Robotics Inc. unveiled what it calls the world’s first driverless-ready semi-truck designed for scaled deployment at the Consumer Electronics Show in January 2024. The truck will run various driverless operations between Dallas and Houston starting in 2024, according to the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
-      "originalUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-intersystems-introduces-two-new-cloud-native-smart-data-services-to-accelerate-database-and-machine-learning-application-development.md",
-      "title": "InterSystems Introduces Two New Cloud-Native Smart Data Services to Accelerate Database and Machine Learning Application Development",
-      "excerpt": "InterSystems, a creative data technology provider dedicated to helping customers solve their most critical scalability, interoperability, and speed pr",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240111610851/en/InterSystems-Introduces-Two-New-Cloud-Native-Smart-Data-Services-to-Accelerate-Database-and-Machine-Learning-Application-Development",
-      "originalUrl": "https://www.businesswire.com/news/home/20240111610851/en/InterSystems-Introduces-Two-New-Cloud-Native-Smart-Data-Services-to-Accelerate-Database-and-Machine-Learning-Application-Development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T17:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-tensorflow-cloud-is-a-library-to-connect-your-local-environment-to-google-cloud.md",
-      "title": "TensorFlow Cloud is a library to connect your local environment to Google Cloud.",
-      "excerpt": "import tensorflow_cloud as tfc TF_GPU_IMAGE = \"tensorflow/tensorflow:latest-gpu\" run_parameters = { distribution_strategy='auto', requirements_txt='requirements.txt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/cloud",
-      "originalUrl": "https://www.tensorflow.org/cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T17:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-intersystems-introduces-two-new-cloud-native-smart-data-services.md",
-      "title": "InterSystems introduces two new cloud-native smart data services",
-      "excerpt": "InterSystems, a creative data technology provider dedicated to helping customers solve their most critical scalability, interoperability, and speed problems, today announced general availability of the InterSystems IRIS® Cloud SQL and InterSystems IRIS® Cloud IntegratedML® services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.silverliningsinfo.com/newswire/intersystems-introduces-two-new-cloud-native-smart-data-services",
-      "originalUrl": "https://www.silverliningsinfo.com/newswire/intersystems-introduces-two-new-cloud-native-smart-data-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/quartz/qcloud4/media/image/MicrosoftTeams-image%20%2831%29_1.png?VersionId=Cbn_y6LTOv_tbk_8AsA2ykcCaWtlTUTR",
-          "width": 1410,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T16:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "silverliningsinfo",
-        "domain": "silverliningsinfo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-the-top-3-stocks-shaping-the-future-of-autonomous-driving.md",
-      "title": "The Top 3 Stocks Shaping the Future of Autonomous Driving",
-      "excerpt": "This marked an important step towards a fully driverless service, reinforcing the company ... and continuing investments in artificial intelligence and other growth projects. This makes it one of those autonomous driving stocks to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-top-3-stocks-shaping-the-future-of-autonomous-driving",
-      "originalUrl": "https://www.nasdaq.com/articles/the-top-3-stocks-shaping-the-future-of-autonomous-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-sas-intelligent-planning-suite-now-available-on-aws.md",
-      "title": "SAS Intelligent Planning Suite now available on AWS",
-      "excerpt": "SAS, a global leader in AI and analytics, has launched SAS Intelligent Planning Suite powered by Amazon Web Services (AWS). The",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/sas-intelligent-planning-suite-now-available-on-aws/",
-      "originalUrl": "https://www.datanami.com/this-just-in/sas-intelligent-planning-suite-now-available-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T16:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-william-sitwell-reviews-llama-inn-london-the-best-thing-to-come-out-of-peru-since-paddington.md",
-      "title": "William Sitwell reviews Llama Inn, London: ‘The best thing to come out of Peru since Paddington’",
-      "excerpt": "My pal Adam got the wrong animal. If he was playing a game of word association and he’d yelled out “alpaca”, then someone else might have replied, “llama”, and the game would have been won.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/food-and-drink/restaurants/william-sitwell-reviews-llama-inn-london/",
-      "originalUrl": "https://www.telegraph.co.uk/food-and-drink/restaurants/william-sitwell-reviews-llama-inn-london/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/food-and-drink/2024/01/08/TELEMMGLPICT000361981409_17047242113440_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

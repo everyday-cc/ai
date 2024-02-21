@@ -23,19 +23,6 @@ images:
     height: 330
     isCached: true
 
-related:
-  - title: "The government wants to scan your face in the name of security, but who is watching the government?"
-    excerpt: "Americans deserve to know more about how images of their faces will be stored and shared by the federal government."
-    publishedDateTime: 2024-02-16T15:59:00Z
-    webUrl: "https://thehill.com/opinion/technology/4472579-the-government-wants-to-scan-your-face-in-the-name-of-security-but-who-is-watching-the-government/"
-    ampWebUrl: "https://thehill.com/opinion/technology/4472579-the-government-wants-to-scan-your-face-in-the-name-of-security-but-who-is-watching-the-government/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4472579-the-government-wants-to-scan-your-face-in-the-name-of-security-but-who-is-watching-the-government/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 27
-
 secured: "UyhqhrRtRFktEl1ZeTtqiMjw6XwoVotPS0Raw3tMt5AAGG4MMLTS8KOR31pFTYwED3cPnpEIKWDDUDB+VOBW+XL4nZDeR44Cj/C6POBRP5JOPsPkjcmQh6/lT2u6uv+WIJbsQeP1AJDx5Y5jgfJATvQsOZeyHzV3D3oH3xJHJSc4ZVxUCojDzRUn2yGtSm4QruX3c0MxAxPKOxJTZJHGhT5vJu7hd84hMgJhx1azji1YCIyWmVOQNnz8f79y1gPFuLK3AnGfO1mxDySv3KDVORsHv9TPnA3LxxB0kU8YClEBynUp30QWDoz7s4cF7jf6iaIu70f3Fh0FBHc3WXtEbN77AFSzum8Scn+yEbAkQJ4=;Gbtmai9u3OiL64n47O9WkQ=="
 ---
 

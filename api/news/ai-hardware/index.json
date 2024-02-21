@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-21-dividend-investors-can-cash-in-on-ai-with-10-yields.md",
+      "title": "Dividend Investors Can Cash In On AI With 10%+ Yields",
+      "excerpt": "If you’re a dividend investor, you’ve likely taken a look at the big gains folks are reaping on AI stocks … and resigned yourself to missing out on the whole thing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/",
+      "originalUrl": "https://www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ce2b44ff9348284e5eb8d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/amp/",
+      "publishedDateTime": "2024-02-21T15:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips.md",
       "title": "Mark Zuckerberg To Meet Samsung Chief In South Korea, Discuss AI Chips",
       "excerpt": "Zuckerberg is expected to meet Samsung Electronics chairman Jay Y. Lee as early as later this month to discuss AI chip supply and other generative AI issues, South Korean newspaper Seoul Economic Daily reported earlier on Wednesday, citing unnamed sources ...",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires-sold-way-too-early/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -148,7 +200,7 @@
       "originalUrl": "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -200,7 +252,7 @@
       "originalUrl": "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -296,7 +348,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -348,7 +400,7 @@
       "originalUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -365,6 +417,49 @@
       "ampWebUrl": "https://www.benzinga.com/amp/content/37218987",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987",
       "publishedDateTime": "2024-02-20T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus.md",
+      "title": "Supermicro Expands AI Solutions For Enhanced Edge Computing Powered By Nvidia GPUs",
+      "excerpt": "Supermicro (SMCI) introduces cutting-edge AI solutions, enabling real-time decision-making at the edge with NVIDIA GPU support. The advanced edge servers, featuring dual socket CPUs and powerful GPUs, position Supermicro as a leader in AI-driven edge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/top-stories/24/02/37216276/supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus",
+      "originalUrl": "https://www.benzinga.com/top-stories/24/02/37216276/supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/Super-Micro-Computer_0.jpeg?width=1200&height=800&fit=crop",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/37216276",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37216276",
+      "publishedDateTime": "2024-02-20T11:09:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -479,7 +574,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1347,101 +1442,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars.md",
-      "title": "3 Blue-Chip Stocks to Buy for the Upcoming AI Wars",
-      "excerpt": "The United Kingdom has promised to pour $1.3 billion over the next five years into AI and supercomputing, while China will put in double that amount. If you include government subsidies of chip factories (the most capital-intensive part of AI investment ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T06:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-how-ai-and-software-can-improve-semiconductor-chips-accenture-interview.md",
-      "title": "How AI and software can improve semiconductor chips | Accenture interview",
-      "excerpt": "Thanks to AI, one of these days we'll be talking about chips with trillions of transistors on them, according to Accenture.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-and-software-can-improve-semiconductor-chips-accenture-interview/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-and-software-can-improve-semiconductor-chips-accenture-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/accenture-Tech-Vision-2024-Infographic_v5-01.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T16:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

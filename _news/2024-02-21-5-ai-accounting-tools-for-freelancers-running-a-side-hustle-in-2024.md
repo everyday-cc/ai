@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -53,7 +53,16 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
+  - title: "Perplexity AI's Indian-origin CEO has this advice for freshers looking to start up in artificial intelligence"
+    excerpt: "Aravind Srinivas, the Indian-origin CEO of Perplexity AI (an artificial intelligence-powered search startup), believes in following his heart when it comes to career decisions. In fact, while he was studying electrical engineering in IIT Madras in 2014 ..."
+    publishedDateTime: 2024-02-21T13:40:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/perplexity-ais-indian-origin-ceo-has-this-advise-for-freshers-looking-to-start-up-in-artificial-intelligence-12325501.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 13
 
-secured: "+yf6vgNWas7sjlZxOfhqylFwBostbERC9gfNOLsl7Gk1/gkTlDjGSPqHOQ4bCsIaDIljYO92tVGrqc3c8y8hzSA0XTtwQYZHk6amDMNEKRyv1N97YbbZ8VaBtM3+DiS9c8JIfLQuUXm9DcWfK43BUPj6O1m1duWushhE5dWbWlbV1f9Q4EkfYxBvFs5w/wLlhRUJEYC1OcgOF3XFz+3cMTr/6hxoNYasRtebMFmadsIulAWD0ZKR69XpY4BwMhf3iI5Go5u2Bil2B2pdeiCPVlEmQBq3suHyDuACtGUiI2+6HsIcapq9A4Y7r1F32+W2UzXvKNBdOwIOU3Bb+McnMzQR6/oB89otbwZHFJwN14k=;2ScSDJ5pI/4SgyYxZ2LzpA=="
+secured: "2R5TN4kE38cZG/Un0ih+CATxcvUhChlGUjiCoCMu81SqvVZzPXwYhEoMlURBvAaP9HQIMRWqzFmtCJbDmTG9mLSvQPK/PTLnKYPy23ehQXTBnOzA7caE5RpYSnliUrNEF+6Gf3yv+h40y6RLRp7ZjwtqZOiZBr2mUkOsUCRcIhPlXgjc0/QT9vuW/n67S/aX2FchsYzctmYAm1+IEVzO/Xg8uUgU3Q+3UriLC2/zbk0kCfB8YIXPK35EQR0QPclQa3wHFqoPzy0nsw+NJIK+ipzPzRvJo456EFHfeHv0/v2uLNeV8Icx6Y2KlBACs8EcP3r8jhHvjuxcqYIBk/E0gbMKQNGkKhxGHhoLKaMBJSA=;slmbLPHVjpLFDtnUe6SExg=="
 ---
 

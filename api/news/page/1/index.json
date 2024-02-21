@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-21-upgrad-using-ai-to-translate-certs-bootcamps-into-local-languages-know-why.md",
-      "title": "upGrad using AI to translate Certs & Bootcamps into local languages: Know-why?",
-      "excerpt": "upGrad, an edtech platform founded by Ronnie Screwvala said that it plans to enhance its product diaspora by translating popular Certs & Bootcamps into local languages using artificial intelligence (AI) for freshers and working professionals ...",
+      "path": "_news/2024-02-22-10-ai-bootcamps-taught-by-top-schools-companies-and-tech-experts.md",
+      "title": "10 AI bootcamps taught by top schools, companies, and tech experts",
+      "excerpt": "In the AI and Machine Learning Bootcamp, lectures will touch on how to build a machine learning model and test its effectiveness, neural networks, NLP best practices, and the role of AWS, Microsoft’s Azure AI, and SQL in machine learning. Upon completing ...",
       "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/upgrad-using-ai-to-translate-certs-bootcamps-into-local-languages-know-why-2024-02-21-917954",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/upgrad-using-ai-to-translate-certs-bootcamps-into-local-languages-know-why-2024-02-21-917954",
+      "webUrl": "https://fortune.com/education/articles/ai-bootcamps/",
+      "originalUrl": "https://fortune.com/education/articles/ai-bootcamps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/02/upgrad-1708518642.jpg",
-          "width": 360,
-          "height": 202,
+          "url": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1517344698-e1708531258991.jpg?resize=1200,600",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/upgrad-using-ai-to-translate-certs-bootcamps-into-local-languages-know-why-2024-02-21-917954",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/upgrad-using-ai-to-translate-certs-bootcamps-into-local-languages-know-why-2024-02-21-917954",
-      "publishedDateTime": "2024-02-21T12:43:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T16:28:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,311 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now.md",
+      "title": "Driving Value From AI Copilots: 3 Trends That C-Suite Executives Need To Act On Now",
+      "excerpt": "New research shows that 92% of business and IT leaders agree their organizations need to shift to an AI-first operating model over the next 12 months to stay competitive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/avanade/2024/02/21/driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now/",
+      "originalUrl": "https://www.forbes.com/sites/avanade/2024/02/21/driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d6137fe02d960e7e721f11/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/avanade/2024/02/21/driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/avanade/2024/02/21/driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now/amp/",
+      "publishedDateTime": "2024-02-21T15:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-dividend-investors-can-cash-in-on-ai-with-10-yields.md",
+      "title": "Dividend Investors Can Cash In On AI With 10%+ Yields",
+      "excerpt": "If you’re a dividend investor, you’ve likely taken a look at the big gains folks are reaping on AI stocks … and resigned yourself to missing out on the whole thing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/",
+      "originalUrl": "https://www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ce2b44ff9348284e5eb8d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/amp/",
+      "publishedDateTime": "2024-02-21T15:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-google-reveals-another-smaller-ai-model-gemma-for-researchers.md",
+      "title": "Google reveals another smaller AI model, Gemma, for researchers",
+      "excerpt": "In a blog post, Google stated that Gemma was developed by its UK-based DeepMind along with other teams at the company. Gemma does share some \"technical and infrastructure components\" with its bigger brother Gemini. There are two specific models available ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/google-reveals-another-smaller-ai-model-gemma-for-researchers/",
+      "originalUrl": "https://www.neowin.net/news/google-reveals-another-smaller-ai-model-gemma-for-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2024/02/1708523960_google-gemma_story.jpg",
+          "width": 760,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/google-reveals-another-smaller-ai-model-gemma-for-researchers/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-reveals-another-smaller-ai-model-gemma-for-researchers/",
+      "publishedDateTime": "2024-02-21T14:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-content-creators-face-uncomfortable-accounting-during-tax-season.md",
+      "title": "Content Creators Face Uncomfortable Accounting During Tax Season",
+      "excerpt": "What Content Creators and Content Creation Companies should consider for tax season and ither accounting areas such as revenue recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/",
+      "originalUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/659ad6221834d9b6fb2041d4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/amp/",
+      "publishedDateTime": "2024-02-21T14:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-how-to-handle-the-ai-ethics-dilemma-in-your-business-development.md",
+      "title": "How To Handle The AI Ethics Dilemma In Your Business Development",
+      "excerpt": "The Role Of AI Ethics In Sales & Business Pulling from my vast experience in this area, I'd like to chat about what AI ethics means in the world of sales and business. First off, there's the big deal about data privacy. Sales AI tools are like sponges ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/21/how-to-handle-the-ai-ethics-dilemma-in-your-business-development/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/21/how-to-handle-the-ai-ethics-dilemma-in-your-business-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T13:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-gemma-introducing-new-state-of-the-art-open-models.md",
+      "title": "Gemma: Introducing new state-of-the-art open models",
+      "excerpt": "Gemma is built for responsible AI development from the same research and technology used to create Gemini models.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.google/discover/blog/gemma-introducing-new-state-of-the-art-open-models/",
+      "originalUrl": "https://deepmind.google/discover/blog/gemma-introducing-new-state-of-the-art-open-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemma-social-share.width-1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T13:06:16Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -93,6 +405,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience.md",
+      "title": "Robots and happy workers: Productivity surge helps explain US economy's surprising resilience",
+      "excerpt": "Artificial intelligence, they note, is only beginning to penetrate ... Some workers supplanted by robots do often struggle to find new work and end up settling for lower pay. Yet history suggests that in the long run, technological improvements actually ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/robots-happy-workers-productivity-surge-helps-explain-us-107404185",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/robots-happy-workers-productivity-surge-helps-explain-us-107404185",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_3abfb471535a3a2277a346b2480f8ed7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/robots-happy-workers-productivity-surge-helps-explain-us-107404185",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/robots-happy-workers-productivity-surge-helps-explain-us-107404185",
+      "publishedDateTime": "2024-02-21T11:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -210,7 +565,7 @@
       "originalUrl": "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -261,7 +616,7 @@
       "originalUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -441,49 +796,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-21-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform.md",
-      "title": "Assert AI Unveils Pratham: World's First No-code Computer Vision Platform",
-      "excerpt": "Pratham, which translates to first in Hindi, employs an innovative framework that places the power of computer vision directly into the hands of users, allowing them to analyze and utilize video data effortlessly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp",
-      "publishedDateTime": "2024-02-21T05:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-21-3-artificial-intelligence-ai-stocks-billionaires-sold-way-too-early.md",
       "title": "3 Artificial Intelligence (AI) Stocks Billionaires Sold Way Too Early",
       "excerpt": "It designs central processing units (CPUs), and major chip companies pay Arm for the right to use its designs. It's a fantastic gig that generates incredibly high margins. A number of major AI players, including Nvidia (which has invested directly in Arm ...",
@@ -492,7 +804,7 @@
       "originalUrl": "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires-sold-way-too-early/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -630,7 +942,7 @@
       "originalUrl": "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -734,7 +1046,7 @@
       "originalUrl": "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -786,7 +1098,7 @@
       "originalUrl": "https://www.bbc.com/news/business-68348353",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -838,7 +1150,7 @@
       "originalUrl": "https://www.gizmochina.com/2024/02/21/ai-powered-robots-shanghai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -890,7 +1202,7 @@
       "originalUrl": "https://www.cnn.com/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -929,309 +1241,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-upenn-develops-optical-chip-to-process-complex-math-for-ai.md",
-      "title": "UPenn develops optical chip to process complex math for AI",
-      "excerpt": "Computing optically could cut the cost of AI: Prof. Nader Engheta. Engineers at the University of Pennsylvania (UPenn) have developed a new optical chip to perform the complex math essential to training AI. Its developers say that the chip has the ...",
-      "sourceUrl": null,
-      "webUrl": "https://optics.org/news/15/2/28",
-      "originalUrl": "https://optics.org/news/15/2/28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://optics.org/objects/news/thumb/15/2/28/UpennmanM.jpg",
-          "width": 476,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Optics",
-        "domain": "optics.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-employers-are-failing-women-on-healthcare-uk-research-shows.md",
-      "title": "Employers Are Failing Women On Healthcare, U.K. Research Shows",
-      "excerpt": "women workers being absent. Employers are sabotaging their own productivity and competitiveness by failing to provide female workers with adequate care and support for certain health conditions, according to new research based on the experiences of more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
-      "originalUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fea49561f16b8426cbcbc4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/amp/",
-      "publishedDateTime": "2024-02-20T23:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-house-punts-on-ai-with-directionless-new-task-force.md",
-      "title": "House punts on AI with directionless new task force",
-      "excerpt": "The House of Representatives has founded a Task Force on artificial intelligence that will \"ensure America Keeps leading in this strategic area,\" as",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/",
-      "originalUrl": "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/capitol-congress-hearing-government-techcrunch-bryce-durbin.jpeg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/amp/",
-      "publishedDateTime": "2024-02-20T22:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-ai-as-startup-catalyst-what-it-can-and-cannot-deliver.md",
-      "title": "AI As Startup Catalyst: What It Can And Cannot Deliver",
-      "excerpt": "There is little doubt that artificial intelligence (AI) is and will continue to be a significant asset to existing businesses and a driver of new business creation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/20/ai-as-startup-catalyst-what-it-can-and-cannot-deliver/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/20/ai-as-startup-catalyst-what-it-can-and-cannot-deliver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d522ab8a87e06bb1fc93e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 563,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/20/ai-as-startup-catalyst-what-it-can-and-cannot-deliver/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/20/ai-as-startup-catalyst-what-it-can-and-cannot-deliver/amp/",
-      "publishedDateTime": "2024-02-20T22:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16.md",
-      "title": "Working On Those Obscure Verticals: More From The AI For Impact Class Feb. 16",
-      "excerpt": "I wrote about last week’s special guests in the previous posts, but here’s more on what happened in our class Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d520094dc046145061ba84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1456,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/20/working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16/amp/",
-      "publishedDateTime": "2024-02-20T22:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-the-ai-craze-is-highlighting-the-cooling-crunch.md",
-      "title": "The AI Craze Is Highlighting The Cooling Crunch",
-      "excerpt": "Direct-to-chip and immersion cooling come in two subtypes ... But it’s coming. Until then, all the AI and HPC workloads flying around require alternative cooling methods—now, today, already. So what are you going to do? Moor Insights & Strategy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d526d643a30a9ca3ffb4c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/",
-      "publishedDateTime": "2024-02-20T21:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

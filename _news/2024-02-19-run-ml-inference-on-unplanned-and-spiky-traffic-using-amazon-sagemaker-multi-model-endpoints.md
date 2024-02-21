@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints/"
 type: article
 quality: 95
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: AWS
@@ -28,22 +28,6 @@ images:
     width: 1260
     height: 460
     isCached: true
-
-related:
-  - title: "Code Llama 70B is now available in Amazon SageMaker JumpStart"
-    excerpt: "Today, we are excited to announce that Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. Code Llama is a state-of-the-art large language model (LLM) capable of generating code and natural language"
-    publishedDateTime: 2024-02-16T16:32:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/ML-16262-image005-1137x630.jpg"
-        width: 1137
-        height: 630
-        isCached: true
 
 secured: "IxYyYqjoufEwrUnXr95kk9w6fcnv7M6gut9vZjY9sC2Y6SxGrd9LB/h9xOx5bNQDBwW4ywg9gyX0pwgTU/Ed5RoICW7PmWg4teu2J/eTVM58iUDigaI8H0OmB10t2KR5EJpMq4Sjj2UVbvrtZHTXHjc4aGRhhXA9ZLMvIdoELZpNmANkD7CXW8rQTgA69nm5dlnOceBAzxG/mTmWcPFf4t2YxGkMZRecKv3TNg2cCA5ng9A4MyNfxkneQ7cEFC6QQ893gZcBC2p/MV0ur28zP2tM2eik7avS2jodYakozThUX3U6m1vMKbd+9ULrULdOTTZOUSahtt7+ur33SsaPGlRlGG5wSHQWqCSLJ43bT+w=;+pXpyqVhT42VhfjUQF3hPw=="
 ---

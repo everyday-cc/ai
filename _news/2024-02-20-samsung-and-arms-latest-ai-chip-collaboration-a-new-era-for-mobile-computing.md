@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/37218987"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Features Are Coming to Samsung Wearables and Tablets"
+    excerpt: "Samsung's mobile president says the tech giant will add AI-powered tools to more of its devices, but it's currently unclear when such features might hit the market."
+    publishedDateTime: 2024-02-21T13:46:00Z
+    webUrl: "https://www.pcmag.com/news/ai-features-coming-to-samsung-wearables-tablets"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "Collaboration delivers AI-as-a-service platform"
     excerpt: "The combination of Supermicro’s Nvidia MGX-based servers and Vapor IO’s 5G- and AI-as-a-Service brings AI and 5G to the intelligent edge."
     publishedDateTime: 2024-02-20T19:13:00Z

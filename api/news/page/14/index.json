@@ -2,6 +2,419 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2024-02-10-see-artificial-intelligence-in-the-economy-ask-the-trademark-office.md",
+      "title": "See Artificial Intelligence In The Economy? Ask The Trademark Office",
+      "excerpt": "One of the ways to measure the importance of a term in the business world is to see how many people are jumping to register trademarks for this product.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jesscollen/2024/02/10/see-artificial-intelligence-in-the-economy-ask-the-trademark-office/",
+      "originalUrl": "https://www.forbes.com/sites/jesscollen/2024/02/10/see-artificial-intelligence-in-the-economy-ask-the-trademark-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c72a403e99b796a77d8b0f/0x0.jpg?format=jpg&crop=5742,3230,x0,y290,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jesscollen/2024/02/10/see-artificial-intelligence-in-the-economy-ask-the-trademark-office/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jesscollen/2024/02/10/see-artificial-intelligence-in-the-economy-ask-the-trademark-office/amp/",
+      "publishedDateTime": "2024-02-10T06:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test.md",
+      "title": "(Video) Inaugural competition puts high school students robotics skills to the test",
+      "excerpt": "Building on the success of its annual “drone wars” competition, which pits Cullman County Schools’ 7th graders against each other as they maneuver remote-controlled drones through an obstacle",
+      "sourceUrl": null,
+      "webUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.html",
+      "originalUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/cullmantimes.com/content/tncms/assets/v3/editorial/d/58/d58ae388-c776-11ee-9cbd-7b97034b20fc/65c66bc092aa0.image.jpg?resize=1024%2C684",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.amp.html",
+      "cdnAmpWebUrl": "https://www-cullmantimes-com.cdn.ampproject.org/c/s/www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.amp.html",
+      "publishedDateTime": "2024-02-10T05:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Cullman Times",
+        "domain": "cullmantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-latest-windows-build-boosts-copilot-with-advanced-ai-functions.md",
+      "title": "Latest Windows build boosts Copilot with advanced AI functions",
+      "excerpt": "The release notes for Windows Insider build 26052 include notable information and updates in several areas. Chief among them is Copilot, which Microsoft hopes to use",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101837-windows-copilot-updates-tease-further-ai-integration.html",
+      "originalUrl": "https://www.techspot.com/news/101837-windows-copilot-updates-tease-further-ai-integration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-18-image-10.jpg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T00:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything.md",
+      "title": "Meet Goody-2, the AI too ethical to discuss literally anything",
+      "excerpt": "Every company or organization putting out an AI model has to make a decision on what, if any, boundaries to set on what it will and won’t discuss. Goody-2 takes this quest for ethics to an ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/",
+      "originalUrl": "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/goody2.jpg?resize=1200,630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/amp/",
+      "publishedDateTime": "2024-02-09T23:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-self-checkout-walmart-wegmans-target-pull-back-as-ai-promises-upgrades-to-combat-shoplifting.md",
+      "title": "Self-checkout: Walmart, Wegmans, Target pull back, as AI promises upgrades to combat shoplifting",
+      "excerpt": "Shoppers like the speed but dislike the chore, while retailers like the efficiency but worry about a rise in shoplifting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/business/self-checkout-shoplifting-stew-leonards-holiday-farms-wus4aed2",
+      "originalUrl": "https://www.newsday.com/business/self-checkout-shoplifting-stew-leonards-holiday-farms-wus4aed2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/business/self-checkout-shoplifting-stew-leonards-holiday-farms-wus4aed2",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/self-checkout-shoplifting-stew-leonards-holiday-farms-wus4aed2",
+      "publishedDateTime": "2024-02-09T19:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-microsoft-collaborates-with-indian-startup-sarvam-ai-for-voice-tools.md",
+      "title": "Microsoft collaborates with Indian startup Sarvam AI for voice tools",
+      "excerpt": "Microsoft collaborates with Indian startup Sarvam AI for voice tools - Microsoft has revealed its collaboration with Indian startup Sarvam AI to facilitate the advancement",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconindia.com/news/general/microsoft-collaborates-with-indian-startup-sarvam-ai-for-voice-tools-nid-227806-cid-1.html",
+      "originalUrl": "https://www.siliconindia.com/news/general/microsoft-collaborates-with-indian-startup-sarvam-ai-for-voice-tools-nid-227806-cid-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconindia.com/news/newsimages/MG95of64.jpg",
+          "width": 570,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T18:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconIndia",
+        "domain": "siliconindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-ai-is-getting-boring-and-thats-pretty-exciting.md",
+      "title": "AI Is Getting Boring, And That’s Pretty Exciting",
+      "excerpt": "Ironically, AI will hit its full stride only when it disappears into the software and tasks that run our businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c65aa027388edae3f3cdef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/amp/",
+      "publishedDateTime": "2024-02-09T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-this-overlooked-ai-stock-pick-is-still-surprisingly-cheap.md",
+      "title": "This Overlooked AI Stock Pick Is Still Surprisingly Cheap",
+      "excerpt": "Charting, Price Performance, News & Related Contracts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/32ade0c7bf3356428e9be73445857021/cicy4cfrjvgmgrgo.png",
+          "width": 1875,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T15:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-should-ai-be-used-in-health-care-risks-regulations-ethics-and-benefits-of-ai-in-medicine.md",
+      "title": "Should AI be used in health care? Risks, regulations, ethics and benefits of AI in medicine",
+      "excerpt": "The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about how is AI being used in health care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ama-assn.org/practice-management/digital/should-ai-be-used-health-care-risks-regulations-ethics-and-benefits-ai",
+      "originalUrl": "https://www.ama-assn.org/practice-management/digital/should-ai-be-used-health-care-risks-regulations-ethics-and-benefits-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ama-assn.org/sites/ama-assn.org/files/2024-02/au-social-020924.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ama-assn.org",
+        "domain": "ama-assn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-60-of-all-pcs-sales-in-2027-will-be-equipped-with-an-ai-chip-forecasts-idc.md",
       "title": "60% of all PCs sales in 2027 will be equipped with an AI chip forecasts IDC",
       "excerpt": "Imagine a world where your computer not only understands your commands but also anticipates your needs, learns from your habits, and protects your privacy",
@@ -682,392 +1095,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-google-is-rebranding-its-bard-ai-service-as-gemini-heres-what-it-means.md",
-      "title": "Google is rebranding its Bard AI service as Gemini. Here's what it means.",
-      "excerpt": "The advent of Gemini, named after an AI project unveiled late last year, means that Google is retiring the Bard brand that it introduced a year ago. Bard, a chatbot, was an effort to compete with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/google-gemini-ai-bard/",
-      "originalUrl": "https://www.cbsnews.com/news/google-gemini-ai-bard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T19:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-google-bard-transitions-to-gemini-what-to-know-about-the-ai-upgrade.md",
-      "title": "Google Bard transitions to Gemini: What to know about the AI upgrade",
-      "excerpt": "\"It’s a moment of maturation for our approach to AI.\" But the name change is the \"least important part,\" according to Krawczyk, as Google announced that Gemini will also be released as an app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade",
-      "originalUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp",
-      "publishedDateTime": "2024-02-08T19:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-6-of-the-best-ai-etfs-to-buy-now.md",
-      "title": "6 of the Best AI ETFs to Buy Now",
-      "excerpt": "Rather, the ETF takes a “meta” approach by using AI to power its investment selection and management process. This ETF is powered by IBM Watson, which uses machine learning, sentiment analysis and natural language processing to select the holdings of ...",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2024/02/6-of-the-best-ai-etfs-to-buy-now-5/",
-      "originalUrl": "https://wtop.com/news/2024/02/6-of-the-best-ai-etfs-to-buy-now-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far.md",
-      "title": "Not Science Fiction Anymore: What Happens When Machine Learning Goes Too Far?",
-      "excerpt": "Every piece of fiction carries a kernel of truth, and now is about the time to get a step ahead of sci-fi dystopias and determine what the risk in machine sentience can be for humans. Although people have long pondered the future of intelligent machinery,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far/",
-      "originalUrl": "https://scitechdaily.com/not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Robot-Thinking-Colorful.jpg",
-          "width": 2000,
-          "height": 1143,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T18:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-3-dow-stocks-to-buy-for-the-next-bull-run-february-2024.md",
-      "title": "3 Dow Stocks to Buy for the Next Bull Run: February 2024",
-      "excerpt": "Microsoft Cloud revenue surged to $33.7 billion compared to $27.1 billion in the same period last year. Clearly, cloud revenues are accelerating with growth at 24% YOY compared to 22% in Q2 FY2023. Azure AI suite of cloud-based AI services and cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-dow-stocks-to-buy-for-the-next-bull-run%3A-february-2024",
-      "originalUrl": "https://www.nasdaq.com/articles/3-dow-stocks-to-buy-for-the-next-bull-run%3A-february-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T17:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock.md",
-      "title": "Automate the insurance claim lifecycle using Agents and Knowledge Bases for Amazon Bedrock",
-      "excerpt": "Generative AI agents are a versatile and powerful tool for large enterprises. They can enhance operational efficiency, customer service, and decision-making while reducing costs and enabling innovation. These agents excel at automating a wide range of routine and repetitive tasks, such as data entry,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/05/ML-15921-kb-embeddings-960x630.png",
-          "width": 960,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T17:37:14Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-fcc-bans-ai-generated-voices-in-robocalls.md",
-      "title": "FCC bans AI-generated voices in robocalls",
-      "excerpt": "The Federal Communications Commission (FCC) banned the use of artificial intelligence (AI) generated voices in robocalls on Thursday just weeks after a message imitating President Biden went out ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/",
-      "originalUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/amp/",
-      "publishedDateTime": "2024-02-08T17:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher.md",
-      "title": "A Secretive Breakthrough Will Send AI Chip Stocks Even Higher",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI chip stocks are on fire right now. And over the next few months, some will",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher-1033047834",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher-1033047834",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/VHB65XuS_x0VfXMZBAFX-2PmmZJ-ZabjP9TQSNQaR7TunfoW1OsGw2JDZQAYWcwGbiY6C2kEVuYJ9MJiEBxAOORYss-Ei8kmWqWE1hWYN0JbbUNLWnC3toUz4MkBHfqmf-Vu7o0e-mt8m0KdHLDhiQ",
-          "width": 1600,
-          "height": 846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T17:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-the-history-of-climate-change.md",
-      "title": "The history of climate change",
-      "excerpt": "The understanding and awareness of climate change mitigation that inspired urgency took some two centuries to develop.\nThe post The history of climate change appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/climate-change-history/",
-      "originalUrl": "https://www.ibm.com/blog/climate-change-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

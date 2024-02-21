@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/automation/exclusive-hummingbird-launches-
 webUrl: "https://venturebeat.com/automation/exclusive-hummingbird-launches-ai-powered-automation-platform-for-financial-crime-investigations/?n=@"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: VentureBeat
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "EXCLUSIVE: SoundHound's AI Voice Technology Revolutionizes Restaurant, Automotive Industries"
+    excerpt: "\"Spatial computing also undoubtedly needs to look to voice and conversational AI to fully unlock its ... We feel like we’ve earned the recognition we’re getting,\" he said."
+    publishedDateTime: 2024-02-21T10:28:00Z
+    webUrl: "https://www.benzinga.com/top-stories/24/02/37238490/exclusive-soundhounds-ai-voice-technology-revolutionizes-restaurant-automotive-industries"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37238490"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37238490"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/July-18--2023--Brazil--In-This-Photo-Ill.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Exclusive: Hummingbird launches AI-powered automation platform for financial crime investigations"
     excerpt: "But even as the threats multiply thanks to gen AI — and the losses pile-up, with an estimated $485.6 billion lost to fraud globally in 2024, according to research from Nasdaq — there are technologists working on new ways to use AI and machine learning ..."
     publishedDateTime: 2024-02-20T05:54:00Z

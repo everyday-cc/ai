@@ -2,6 +2,103 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-20-augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai.md",
+      "title": "Augmentive Artificial Intelligence: Rommell Martínez on Valmiz™, Multi-Agent, Human-Centric AI",
+      "excerpt": "A Novel Multi-Agent Human-Centric Approach By: Dawn Zoldi (Colonel USAF Ret.) ASTN Group™, creators of the Valmiz™ Augmentive Artificial Intelligence (AAI) recently cap",
+      "sourceUrl": null,
+      "webUrl": "https://dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/",
+      "originalUrl": "https://dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dronelife.com/wp-content/uploads/2023/12/Artificial-Intelligence-e1703017244404.jpg",
+          "width": 612,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/amp/",
+      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/amp/",
+      "publishedDateTime": "2023-12-19T19:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dronelife",
+        "domain": "dronelife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-mercedes-adds-a-new-car-light-color-blue-for-self-driving.md",
+      "title": "Mercedes adds a new car light color: Blue for self-driving",
+      "excerpt": "All other driving assistance systems, including Tesla’s so-called Full Self Driving and General Motor’s Super Cruise, require the driver to pay attention to what’s happening around the vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html",
+      "originalUrl": "https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231218143215-01-mercedes-turquoise-lights.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html",
+      "publishedDateTime": "2023-12-19T14:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-nitin-gadkari-takes-a-firm-stand-against-autonomous-vehicles-tesla-imports.md",
       "title": "Nitin Gadkari Takes A Firm Stand Against Autonomous Vehicles & Tesla Imports",
       "excerpt": "Nitin Gadkari strongly opposes the introduction of autonomous cars in India, citing potential job losses for around 80 lakh drivers when questioned about the introduction of driverless vehicles to reduce road accidents in India.",
@@ -1303,92 +1400,6 @@
       "provider": {
         "name": "The Taipei Times",
         "domain": "taipeitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-22-investigates-the-ways-artificial-intelligence-can-affect-you.md",
-      "title": "22 Investigates: The ways Artificial Intelligence can affect you",
-      "excerpt": "Artificial Intelligence is getting a lot of attention - from hospital systems to local classrooms. While many people view AI as revolutionary with positive effe",
-      "sourceUrl": null,
-      "webUrl": "https://wsbt.com/news/22-investigates/ai-affecting-our-lives-artificial-intelligence-ai-computers-robots-hospitals-marketing-advancements-cell-phones-revolutionary-concerns-technology-humans-generative",
-      "originalUrl": "https://wsbt.com/news/22-investigates/ai-affecting-our-lives-artificial-intelligence-ai-computers-robots-hospitals-marketing-advancements-cell-phones-revolutionary-concerns-technology-humans-generative",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wsbt.com/resources/media/1767ad9b-d104-4ab1-a721-a18a8d63259b-medium16x9_PAIEffectSpecialReport.transferxcodemix74_frame_2798.jpeg",
-          "width": 648,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wsbt.com/amp/news/22-investigates/ai-affecting-our-lives-artificial-intelligence-ai-computers-robots-hospitals-marketing-advancements-cell-phones-revolutionary-concerns-technology-humans-generative",
-      "cdnAmpWebUrl": "https://wsbt-com.cdn.ampproject.org/c/s/wsbt.com/amp/news/22-investigates/ai-affecting-our-lives-artificial-intelligence-ai-computers-robots-hospitals-marketing-advancements-cell-phones-revolutionary-concerns-technology-humans-generative",
-      "publishedDateTime": "2023-12-07T22:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wsbt",
-        "domain": "wsbt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-can-artificial-intelligence-be-regulated.md",
-      "title": "Can Artificial Intelligence be regulated?",
-      "excerpt": "We then had US President Biden’s Executive Order on “Safe, Secure and Trustworthy Development and Use of Artificial Intelligence\" on October 30, 2023. That was followed by the UK Bletchley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/can-artificial-intelligence-be-regulated-11701927112996.html",
-      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/can-artificial-intelligence-be-regulated-11701927112996.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/12/07/1600x900/GERMANY-US-INTERNET-AI-ARTIFICIAL-INTELLIGENCE-2_1701063682799_1701927872945.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/can-artificial-intelligence-be-regulated/amp-11701927112996.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/can-artificial-intelligence-be-regulated/amp-11701927112996.html",
-      "publishedDateTime": "2023-12-07T16:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null

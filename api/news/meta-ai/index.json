@@ -159,6 +159,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-21-exclusive-hummingbird-launches-ai-powered-automation-product-for-financial-crime-investigations.md",
+      "title": "Exclusive: Hummingbird launches AI-powered automation product for financial crime investigations",
+      "excerpt": "It's aimed at eliminating the manual, repetitive tasks that bog down investigators and compliance teams at large financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/automation/exclusive-hummingbird-launches-ai-powered-automation-platform-for-financial-crime-investigations/?n=@",
+      "originalUrl": "https://venturebeat.com/automation/exclusive-hummingbird-launches-ai-powered-automation-platform-for-financial-crime-investigations/?n=@",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-20-00.08.12-Create-a-minimalist-and-vector-art-style-scene-reminiscent-of-a-golden-age-sci-fi-publication.-The-image-should-showcase-a-robotic-hummingbird-design.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T20:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-microsoft-to-invest-21-bln-in-spain-to-expand-ai-infrastructure.md",
       "title": "Microsoft To Invest $2.1 Bln In Spain To Expand AI Infrastructure",
       "excerpt": "Tech major Microsoft Corp. announced its plans to expand its artificial intelligence or AI and cloud infrastructure in Spain with an",
@@ -315,7 +367,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -1385,49 +1437,6 @@
       "provider": {
         "name": "Computerworld",
         "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says.md",
-      "title": "Facebook and Instagram to label all images on their platforms created by AI, Meta says",
-      "excerpt": "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855?dcmp=snt-sf-twitter",
-      "originalUrl": "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855?dcmp=snt-sf-twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/23/12/1600x900/skynews-ai-fake-donald-trump_6390696.jpg?20231213064536",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855",
-      "publishedDateTime": "2024-02-06T17:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
         "images": null,
         "publishers": null,
         "authors": null

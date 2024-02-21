@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/37216276"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37216276"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,36 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Supermicro: Cooling The AI Boom"
-    excerpt: "Supermicro’s stock has gone off the handle because anyone planning to run AI needs the sort of systems it produces to cool their country’s worth of electric space heaters down."
-    publishedDateTime: 2024-02-16T14:54:00Z
-    webUrl: "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/"
-    ampWebUrl: "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/"
+  - title: "Microsoft develops AI server gear to lessen reliance on Nvidia, The Information reports"
+    excerpt: "Microsoft CEO Satya Nadella has tapped Pradeep Sindhu, who co-founded networking gear developer Juniper Networks, to spearhead the network card effort, the report said citing a person with knowledge of the matter."
+    publishedDateTime: 2024-02-20T18:30:00Z
+    webUrl: "https://www.aol.com/news/microsoft-develops-ai-server-gear-163026760.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: AOL
+      domain: aol.com
+    quality: 46
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cf5c2b87d81eacee1f70c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://media.zenfs.com/en/aol_reuters_29/48d82f19bb621e96dabc6afe0e2885c1"
+        width: 800
+        height: 499
         isCached: true
-  - title: "Super Micro: Riding The AI Revolution"
-    excerpt: "Super Micro Computer is experiencing significant growth in sales, with a surge of over 100% reported recently. The company is forecasting EPS growth of ~250% in the current quarter, driven by increased demand for infrastructure solutions, warranting the ..."
-    publishedDateTime: 2024-02-19T00:02:00Z
-    webUrl: "https://seekingalpha.com/article/4671278-super-micro-riding-ai-revolution"
+  - title: "Nvidia reveals its Eos supercomputer for AI processing sporting 4,608 H100 GPUs"
+    excerpt: "Nvidia has given enthusiasts their first look at Eos, a data-center scale supercomputer designed for AI applications. It first introduced Eos at the Supercomputing Conference in"
+    publishedDateTime: 2024-02-17T15:26:00Z
+    webUrl: "https://www.techspot.com/news/101926-nvidia-finally-reveal-specs-eos-supercomputer-ai-processing.html"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2024/2/17/234751-17082323014345374.png"
-        width: 640
-        height: 358
-        isCached: true
+      name: TechSpot
+      domain: techspot.com
+    quality: 45
 
 secured: "dj0FqqmimLTBo+vObeJ5vnWKY1zivH+QmAN8cihYIADtYSEBCugJoJLHTWj5XOgWa/0Ed+Y+zZGVK1TFIECvbnUxi35JekG3TZffOgrDvyHuAW7tT4b+fqXTInzw9GkidKl4K/AuZ+FxLmMIrdBCrSM5tqH9bNTQ4bDiCVaTIm2c0Q683iwzv66RmzdZ6EQhvgnDUcjTk/wrr3gbl0schMyOOTl5Czn69BXeQYci5zBbI2PUGihKtlnVK6SW2gAb5+8rOmO90VHW4+rL+iIDC/jN9qFa2gIZ2SxEN4eN8lpipD2K4pLOXy2HkB9EuwDEyO+/ICqI47yf7+q5vi9jTn7fnDlnVg++0k6vFGBOn/M=;Kr38Pa4FeNlt90pJUMxL1g=="
 ---

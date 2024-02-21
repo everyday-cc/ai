@@ -73,6 +73,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How AI is affecting students in high school"
+    excerpt: "Some students might see AI as a “cheat code” of sorts and a way to avoid doing original work or fully embracing the learning process. Address the issue of ethics and AI with your student regularly. Acknowledge the ways that students could use AI ..."
+    publishedDateTime: 2024-02-21T09:41:00Z
+    webUrl: "https://www.dailyherald.com/20240221/submitted-content/how-ai-is-affecting-students-in-high-school/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
   - title: "How Artificial Intelligence is affecting the college process"
     excerpt: "Artificial Intelligence is changing the world – and possibly the way your child attends college. Teen Life Coach Desiree Panlilio joins Gayle Guyardo the host of the"
     publishedDateTime: 2024-02-19T18:20:00Z

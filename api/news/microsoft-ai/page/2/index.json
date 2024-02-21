@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-09-google-renames-bard-chatbot-to-gemini-what-chatgpt-rival-can-do-and-how-much-it-costs.md",
+      "title": "Google renames Bard chatbot to Gemini: What ChatGPT rival can do and how much it costs",
+      "excerpt": "Google on Thursday renamed its Bard chatbot after the new artificial intelligence that is powering it, called Gemini, and said consumers can pay for better reasoning capabilities as it vies with ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2024/02/08/business/googles-chatgpt-rival-renamed-as-gemini-heres-what-it-will-cost/",
+      "originalUrl": "https://nypost.com/2024/02/08/business/googles-chatgpt-rival-renamed-as-gemini-heres-what-it-will-cost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/02/google-gemini-chatgpt.jpg?quality=75&strip=all&1707391714&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2024/02/08/business/googles-chatgpt-rival-renamed-as-gemini-heres-what-it-will-cost/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/02/08/business/googles-chatgpt-rival-renamed-as-gemini-heres-what-it-will-cost/amp/",
+      "publishedDateTime": "2024-02-08T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-assosia-and-simpson-associates-team-up-to-unlock-product-matching-potential-with-machine-learning.md",
       "title": "Assosia And Simpson Associates Team Up To Unlock Product Matching Potential With Machine Learning",
       "excerpt": "The Assosia-Simpson Associates POC explores the potential of ML to revolutionise product matching. By creating, training, and fine-tuning multiple models based on specific datasets, this project aims to unlock hidden connections and deliver tangible benefits, such as:",
@@ -1296,58 +1340,6 @@
         "AI",
         "Microsoft AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-microsoft-enjoys-first-mover-advantage-as-ai-revenue-doubles-5-analysts-explore-q2-print.md",
-      "title": "Microsoft Enjoys 'First-Mover Advantage' As AI Revenue Doubles, 5 Analysts Explore Q2 Print",
-      "excerpt": "Check out other analyst stock ratings. BMO Capital Markets: Microsoft delivered another “solid” quarter, highlighted by Azure growth of 28% year-on-year in constant currency terms, “including 6 points from AI workload,” Bachman said in a note.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-enjoys-first-mover-advantage-as-ai-revenue-doubles-5-analysts-explore-q2-print-1033016391",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-enjoys-first-mover-advantage-as-ai-revenue-doubles-5-analysts-explore-q2-print-1033016391",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/01/31/msft_microsoft_shutterstock_2325970865.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T12:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

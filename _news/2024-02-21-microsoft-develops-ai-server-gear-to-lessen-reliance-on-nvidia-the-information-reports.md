@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Microsoft developing custom network card for its GPU servers"
-    excerpt: "Microsoft Corp.’s engineers are working on a custom network card for its data centers, The Information reported today. A source told the publication that the development effort could take more than a year."
-    publishedDateTime: 2024-02-20T23:15:00Z
-    webUrl: "https://siliconangle.com/2024/02/20/report-microsoft-developing-custom-network-card-gpu-servers/"
+  - title: "Supermicro Expands AI Solutions For Enhanced Edge Computing Powered By Nvidia GPUs"
+    excerpt: "Supermicro (SMCI) introduces cutting-edge AI solutions, enabling real-time decision-making at the edge with NVIDIA GPU support. The advanced edge servers, featuring dual socket CPUs and powerful GPUs, position Supermicro as a leader in AI-driven edge ..."
+    publishedDateTime: 2024-02-20T11:09:00Z
+    webUrl: "https://www.benzinga.com/top-stories/24/02/37216276/supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37216276"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37216276"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 68
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/azure.jpg"
-        width: 960
-        height: 542
+      - url: "https://cdn.benzinga.com/files/images/story/2024/Super-Micro-Computer_0.jpeg?width=1200&height=800&fit=crop"
+        width: 1024
+        height: 683
         isCached: true
+  - title: "Nvidia reveals its Eos supercomputer for AI processing sporting 4,608 H100 GPUs"
+    excerpt: "Nvidia has given enthusiasts their first look at Eos, a data-center scale supercomputer designed for AI applications. It first introduced Eos at the Supercomputing Conference in"
+    publishedDateTime: 2024-02-17T15:26:00Z
+    webUrl: "https://www.techspot.com/news/101926-nvidia-finally-reveal-specs-eos-supercomputer-ai-processing.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 45
 
 secured: "YcoZIJ3EBvLHmR1e410uO3CAqAfWoIosSDu2LkQ1WcD8qnjCimYfJBc3Uoy7zKD7t2ajYpmOdVuYtu5j23GLcA1d7tnJxaeDDNVPNsbgbuWwKVkr3MJNpF65hCUi5UkQ3BFdDcW7mykp2mgyITSQbLOi031f7WeCS87NpmHsAbox+n8x42TGT0slr6ld6xHqIrqxQtBMatGjCbsf7FJQ8wIWwcrHNSBs4oHSRlOp7uO7+A5zR/8ti6mSSl1sp1+O23QMNEhBYo3O3PWkVnhBTT6I7uxPGgeI/bjCh6uT5UhEPHcCkPBgvoueOWUgpTzX7VtH8UTY+TEW1NABYfIS8ePpkqcVZCrzFvHzJZ7D1iM=;9eGP9TiI5PpgftNOOtC7iA=="
 ---

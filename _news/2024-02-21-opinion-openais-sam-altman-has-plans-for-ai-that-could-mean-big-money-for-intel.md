@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/openais-sam-altman-has-plans-f
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -118,6 +118,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Opinion: Artificial intelligence must reflect the diversity of humanity. New technology can help."
+    excerpt: "On my last visit to La Jolla Cove, this scenic corner of San Diego sparked a question for me: What does artificial intelligence, AI, think about places like La Jolla Cove? Whose opinions and voices shape what an AI system believes? It highlights the ..."
+    publishedDateTime: 2024-02-21T14:08:00Z
+    webUrl: "https://www.sandiegouniontribune.com/opinion/commentary/story/2024-02-21/opinion-artificial-intelligence-ai-diversity-humanity-bespoke-model"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 4
 
 secured: "YbTbCNYITPHGXG2Tha5kuKkHPSUV3RhUTt1IwsF0iCOZA6lbOT3jfi8L3bQcfzSkQWwPR0ds3V3K/ZsAL2FMLf9qKBBoFFAKEn/45/JaMHQhq71ad7xLc0Uf9l/SKsz+28BTGTnj0zIzC0NSyVptGyLELukzoavIMY8zX+EkgjJVbTrUas0k0ZaJTvDE93B5SU8VA4ks+H8ktHbyv2sIt79+8Q3t6QqjcsgLlQ/xrm8cYIH07wIzAZWlmD9QaqlMIil8fhOyxDXGpui1lpmlSTkX+Qs/REbZ2qUeoK/b+Q6Rd4yJqodokOL2qmL1IvjceqvgtbghVz40E5i/Y5JGuMLw64k5FCOervAp1g7FbGU=;2phPtqtVuZjBzFM6x6Pc5Q=="
 ---

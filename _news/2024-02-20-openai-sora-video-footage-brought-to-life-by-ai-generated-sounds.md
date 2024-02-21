@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/
 webUrl: "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/"
 type: article
 quality: 69
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -144,20 +144,6 @@ related:
       - url: "https://www.provideocoalition.com/wp-content/uploads/Sora-home-Cropped-trim-sm2.gif"
         width: 720
         height: 405
-        isCached: true
-  - title: "Weekly AI recap: OpenAI unveils Sora, ChatGPT now has a ‘memory’"
-    excerpt: "Altman has long floated the idea of starting his own GPU venture amid chip scarcity and cost. The market is currently dominated by US chip manufacturer Nvidia, which is both credited with inventing the term “GPU” and has seen its market value skyrocket in recent years as demand for its chips has steadily increased."
-    publishedDateTime: 2024-02-16T16:14:00Z
-    webUrl: "https://www.thedrum.com/news/2024/02/16/weekly-ai-recap-openai-unveils-sora-chatgpt-now-has-memory"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 56
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2024-02-16t101400.946.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
     excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."

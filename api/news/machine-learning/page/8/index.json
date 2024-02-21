@@ -2,6 +2,135 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-29-ai-unleashed-scientists-use-machine-learning-to-decode-origins-of-life.md",
+      "title": "AI unleashed: Scientists use machine learning to decode origins of life",
+      "excerpt": "Scientists use cutting-edge AI and machine-learning tools to unravel the mysteries of life's origins. Researchers employ AI to navigate the complex pathways from chemical soups to living cells. AI analysis and prediction of patterns accelerate discoveries ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/science/ai-unleashed-scientists-use-machine-learning-to-decode-origins-of-life/articleshow/105570316.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/science/ai-unleashed-scientists-use-machine-learning-to-decode-origins-of-life/articleshow/105570316.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-105570379,width-1070,height-580,imgsize-47558,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/science/ai-unleashed-scientists-use-machine-learning-to-decode-origins-of-life/amp_articleshow/105570316.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/science/ai-unleashed-scientists-use-machine-learning-to-decode-origins-of-life/amp_articleshow/105570316.cms",
+      "publishedDateTime": "2023-11-28T16:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-artificial-neural-network-market-to-reach-14-billion-by-2032-at-199-cagr-allied-market-research.md",
+      "title": "Artificial Neural Network Market to Reach $1.4 Billion by 2032 at 19.9% CAGR: Allied Market Research",
+      "excerpt": "Allied Market Research published a report, titled, \"Artificial Neural Network Market by Component (Solution and Service), Deployment",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-neural-network-market-to-reach-1-4-billion-by-2032-at-19-9-cagr-allied-market-research-301999358.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-neural-network-market-to-reach-1-4-billion-by-2032-at-19-9-cagr-allied-market-research-301999358.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook",
+          "width": 2000,
+          "height": 1046,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T15:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-launch-of-altair-rapidminer-2023-platform-delivers-next-generation-generative-ai-capabilities.md",
+      "title": "Launch of Altair® RapidMiner® 2023 Platform Delivers Next-Generation Generative AI Capabilities",
+      "excerpt": "Altair (Nasdaq: ALTR), a global leader in computational science and artificial intelligence (AI) announced that Altair® RapidMiner®, its data analytics and AI platform, is becoming more integrated, more powerful,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aap.com.au/aapreleases/cision20231128ae77927/",
+      "originalUrl": "https://www.aap.com.au/aapreleases/cision20231128ae77927/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2286046/Upgrades_to_Altair_RapidMiner.jpg",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T12:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Associated Press",
+        "domain": "aap.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-28-dataiku-awarded-2023-aws-global-isv-aiml-partner-of-the-year-award.md",
       "title": "Dataiku Awarded 2023 AWS Global ISV AI/ML Partner of the Year Award",
       "excerpt": "Dataiku, the platform for Everyday AI, today announced that it received the 2023 AWS Global ISV AI/ML Partner of the Year Award at AWS re:Invent 2023. This recognition, alongside the 2023 AWS Geo ISV Partner of the Year Award in France,",

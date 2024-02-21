@@ -7,7 +7,7 @@ originalUrl: "https://gazette.com/news/local/shaping-tomorrow-a-colorado-convers
 webUrl: "https://gazette.com/news/local/shaping-tomorrow-a-colorado-conversation-on-artificial-intelligence/article_ef87b044-cd2b-11ee-958b-b38db754b987.html"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Driving into Tomorrow: How Emerging Automotive Technologies are Shaping the Future"
-    excerpt: "Buckle up and get ready to shift into high gear as we explore how cutting-edge automotive technologies are steering us toward a bold new era of transportation. From self-driving cars to electric vehicles,"
-    publishedDateTime: 2024-02-19T08:14:00Z
-    webUrl: "https://techbullion.com/driving-into-tomorrow-how-emerging-automotive-technologies-are-shaping-the-future/"
+  - title: "From Code To Conversation: Can AI Teach Robots Arabic?"
+    excerpt: "The problem is, you will get to the point where there is no more data that's naturally created and the moment we start generating artificial data and training AI systems on that, it's like creating monsters,” says Habash, previously a research scientist ..."
+    publishedDateTime: 2024-02-19T23:32:00Z
+    webUrl: "https://menafn.com/1107872689/From-Code-To-Conversation-Can-AI-Teach-Robots-Arabic"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 18
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/Automotive-Technology-1.jpg"
-        width: 1000
-        height: 500
+      - url: "https://menafn.com/updates/pr/2024-02/19/KT_70ff5image_story.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "1O6jxdMDz2RfbeQ6rZSYpMgqOltTA/BljjNv5KvnSd81HJTvKXXQfJAepV1c0g7cAjpCv7klR+y517+Fwar/BWI3jo27gHp48f59xvqYdcE3Xws6PlnZUxI5dB5vjetyiGLxtpQHDMkqUcrB2E88HFIyEKFIZQU5Tjq5xEj9mC3dRXtC5lohZwJIxJnwHNtMCBpLTNb5VVIISgCD54hVSuomJTHgfVVrcHaliWHqijz+ui3LbbZ8thjdocZNJvIqbYRPYirtWfQv0UtqiAKVUgSvBZExuAsyx4R6ymhOnmP6TmcMO0yITEpvQ/+zJ46JSJOLAz2c5XEozQNcPHWLDeguZlmnx1fOd8z/WO0Ywz9A3BgfB7NNRs8WPoRXxRvmrWgadBiqUoHzz0ClYHYFLZnN/6o4t9KIMFL7gFewl2XGUJq+pKeWGnCPRpvGGWGIUFd6m0D2WIAZsEtP+lb4QAqNg2gLSsMgFJn0GV8tpW40UGGY4w3c6Wlbp41c1iswGzwyGxGTg1SBPRs41FgpdQ==;cRzxZmuSmd8PGR6nNUKbag=="

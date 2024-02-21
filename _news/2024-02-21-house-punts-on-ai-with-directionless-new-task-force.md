@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionle
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/amp/"
 type: article
 quality: 87
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "U.S. Rep. French Hill picked for bipartisan House artificial intelligence task force"
+    excerpt: "WASHINGTON -- U.S. Rep. French Hill, R-Ark., has been selected to join a bipartisan congressional task force to study artificial intelligence and possible actions for protecting the United States from potential threats."
+    publishedDateTime: 2024-02-20T23:40:00Z
+    webUrl: "https://www.arkansasonline.com/news/2024/feb/20/us-rep-french-hill-picked-for-bipartisan-house/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 10
 
 secured: "4uDqkBzcjF9at0mNperqG4IWPtNiiBKZC9pHIE0cb2XxY9ttTXPkKQRC/AGUo4HfIn5OUsl+MTC06hFW/fGmcfMP/ZbjHn93aQ2gDSyGpxQv8SA/NFOpwGM/PUg/gyND4LH3BwWbXYy+lyDaOZIAB/yrMTN8yGJxj2zlvI5foFDLlU+x0tRlIDs+2t1mfybBonI6zYXND5RJUoc5xDWMxZocMMBqMgpCpIcmqMK85TBA5BsTq0K3PAizqe3pphSn6mD+/H2mG/DSGm6KZeeMgUCxU/iQRvOBJKUwVXfsjQmRMznhl0m/yoIkSOAmwME/X8FXiy74MymkwpS28tMOXZ8c7QirJ77/D5xlJPxQg/+MeE4CMigBgvp3wECT7CLNa3lEHE69AwHwuXp5+RDgy1xw0/pD8jBrTW93KpmmCniBjF38UJmx9PC4ROCbcWirUorkTLw0Nx6SSm6bUk3azvsN6oRdnIcgz86DQyAdHPCW585ZMyaOjsfkHtq8S2GuxftnhVezh8mbCWrN701hug==;DkEDrRwV6yvXFghxSv+ULQ=="
 ---

@@ -38,6 +38,24 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Hartford HealthCare Launches Center for AI Innovation"
+    excerpt: "Hartford HealthCare’s Center for AI Innovation will support the research and development of artificial intelligence technologies to improve patient care."
+    publishedDateTime: 2024-02-21T13:00:00Z
+    webUrl: "https://healthitanalytics.com/news/hartford-healthcare-launches-center-for-ai-innovation"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
+  - title: "Patient Trust in Healthcare AI Relies on Use Case, But Familiarity Is Lacking"
+    excerpt: "A recent athenahealth/Dyanata poll showed that patient trust in AI for healthcare depends on the use case, but many patients don't know what their providers are using AI for."
+    publishedDateTime: 2024-02-21T12:00:00Z
+    webUrl: "https://patientengagementhit.com/news/patient-trust-in-healthcare-ai-relies-on-use-case-but-familiarity-is-lacking"
+    type: article
+    provider:
+      name: patientengagementhit
+      domain: patientengagementhit.com
+    quality: 33
 
 secured: "ownJ9Ld3gXrpyYAeKCbqcDjCIMJDS4+QV6DN97HN98siRqJgS2mKi32wvcuLMrdIXLfneID6X0eA4JPFmQTh21BRN51pIvwmp6mhiuWHo6/JOkhSogwRbXBqmtqbOTlSi89Nq0xACzAMRsl3zU5DdvfzYXLTiaVV4ymvk3cTpxKu8uqQvjs3q8PiafZnsZRo17ehsfx3Q18MKgMMmV7/+pehtGQ/uVyksFawVDucAr6ejxwH1u7gVOKrTfAVpAsRM5u8S88H8TjFVH/o79/a2HvqxpxfIPFD6aA1I3kP9f5VC/bFEHyvvQAEnvsv/D5qf9yW4HH7CLFT/ZSk9WrO/P5f7xD87/Ajs2jM9kCqkf8=;DueqF6F5rxNvvk6zVqgLYQ=="
 ---

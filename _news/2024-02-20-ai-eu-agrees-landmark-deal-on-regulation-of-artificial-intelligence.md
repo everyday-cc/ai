@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prse
 webUrl: "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Australia takes new step towards AI regulation, EU inches closer to AI Act"
-    excerpt: "Australia has this week established a new AI Expert Group gathering scientists alongside legal, ethics and governance experts."
-    publishedDateTime: 2024-02-16T15:33:00Z
-    webUrl: "https://www.biometricupdate.com/202402/australia-takes-new-step-towards-ai-regulation-eu-inches-closer-to-ai-act"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
   - title: "Commerce Department Launches Cross-Sector Consortium on AI Safety — AI: The Washington Report"
     excerpt: "To achieve the objectives set out by the AI EO, the AISIC has convened leading AI developers, research institutions, and civil society groups. At launch, the AISIC has over 200 members, and that number will likely grow in the coming months. According to ..."
     publishedDateTime: 2024-02-19T00:00:00Z

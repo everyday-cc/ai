@@ -43,6 +43,15 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "AI Features Are Coming to Samsung Wearables and Tablets"
+    excerpt: "Samsung's mobile president says the tech giant will add AI-powered tools to more of its devices, but it's currently unclear when such features might hit the market."
+    publishedDateTime: 2024-02-21T13:46:00Z
+    webUrl: "https://www.pcmag.com/news/ai-features-coming-to-samsung-wearables-tablets"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "Collaboration delivers AI-as-a-service platform"
     excerpt: "The combination of Supermicro’s Nvidia MGX-based servers and Vapor IO’s 5G- and AI-as-a-Service brings AI and 5G to the intelligent edge."
     publishedDateTime: 2024-02-20T19:13:00Z
@@ -53,6 +62,6 @@ related:
       domain: electronicproducts.com
     quality: 19
 
-secured: "w/DOrkZW6dNfokOKeMkQqcj9DoeA3PdbIpdc0KPj6R63S/XvO55BQPJk5QdATSuU0R6qUwXIO4JU220uQinkPYYFI64ig5MHIoExuAeLChuMpTEzFazOizs+9lA7pC0kEqaaPNmf028CB0eTX+N/yvu9rTk9bPGRieQa9HRxCP/Tkl06oBP6/iQDXhUc7I6AJF+b60kkaPEHlBMxLAeOk2DgRlDafNxzdqgFbeiul8dQf3nZlQg7pec9B23FokCTOliDoOwBznno/AyAGrcdvz5iTXinGHwYyEpYs3ZXTSBNXf8gdtcu67mnbjBTzMbi8Qay2A3RBXnCKjYiT7mv/qgbB4tIX8EkJQf79T1l1zI=;uwUfzUoq9TFZhE9N3fh/NA=="
+secured: "qbwMPT/dE4w5FYY4PKOWY/JXQ2xRDbueX/aHsg3jVdET1E5RqvUKRfan+41/rc15Vjgvirt7rh3PN12ohI9NiKybD4J4I3sdPlW/BpC4OP/CkHPzPQ9lnT+UfpuoUFMGzQBsH2KHgLMnOCYO/4RzrGpaCVtYhZD0uEQbZntvgoMHQdN9szcYlhh4PxB5ACo47jDW5+zinuZ5z8j/urMCnjA/XZfnkEJMn1Lswuf6GJaWJy1+fZv9hGAwhbhfJHukPyn/r9udZ8Y1szrmp+LFtTxyc9cGYj6s9lIwZ0pBuDbWeXB/sxs/F7QymMEsnWLc9tFdOwLOB5iiUJDZN4uJ7I36bzDGWmBv1FM9ihlz9HsPubq6HjNh9zx/mcJoWdjbNVJ4GvFs4eUeKK2V8Vqp9aKHci/bXZwcg8efCQL2tIfZ+nASPKdry2h9MXCbsjpo6ii0ahoR6J13PmlR7tpP7LI2tTrtfJu/77a+3TVrS/eP3d+Te8+hA2vNQss+gppK/yHZ4nsGisGoIB4XPA3cwg==;WaVTOc1UW6trPX8DX8G/mw=="
 ---
 

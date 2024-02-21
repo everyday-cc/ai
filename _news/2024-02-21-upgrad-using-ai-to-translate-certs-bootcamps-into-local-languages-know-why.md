@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/upgrad-using-ai-to-t
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/upgrad-using-ai-to-translate-certs-bootcamps-into-local-languages-know-why-2024-02-21-917954"
 type: article
 quality: 70
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: India TV
@@ -27,6 +27,34 @@ images:
     isCached: true
 
 related:
+  - title: "10 AI bootcamps taught by top schools, companies, and tech experts"
+    excerpt: "In the AI and Machine Learning Bootcamp, lectures will touch on how to build a machine learning model and test its effectiveness, neural networks, NLP best practices, and the role of AWS, Microsoft’s Azure AI, and SQL in machine learning. Upon completing ..."
+    publishedDateTime: 2024-02-21T16:28:00Z
+    webUrl: "https://fortune.com/education/articles/ai-bootcamps/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 71
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1517344698-e1708531258991.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Where To Attend An Online AI Bootcamp In 2024"
+    excerpt: "If you want to work in a specific AI niche, such as machine learning engineering or natural language processing, make sure your prospective program’s course offerings, hands-on components and curriculum align with your goals. Current tech professionals ..."
+    publishedDateTime: 2024-02-20T13:58:00Z
+    webUrl: "https://www.forbes.com/advisor/education/bootcamps/best-online-ai-bootcamps/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://www.forbes.com/advisor/wp-content/uploads/2024/02/Where-To-Attend-An-Online-AI-Bootcamp-In-year-EDU-FI.jpg"
+        width: 958
+        height: 539
+        isCached: true
   - title: "Upgrad Uses AI To Translate Certs & Bootcamps Into Local Languages"
     excerpt: "(MENAFN- IANS) New Delhi, Feb 21 (IANS) Ronnie Screwvala-founded edtech platform upGrad on Wednesday said that it plans to enhance its product diaspora by translating popular Certs & Bootcamps into local languages using artificial intelligence (AI ..."
     publishedDateTime: 2024-02-21T00:45:00Z

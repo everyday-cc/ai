@@ -76,15 +76,6 @@ related:
         width: 800
         height: 557
         isCached: true
-  - title: "The Future Of AI Might Not Be Chat-Based"
-    excerpt: "Businesses will need to soon start looking beyond the appeal of conversational interfaces and understand how task-oriented models can be integrated into their operations."
-    publishedDateTime: 2024-02-16T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/16/the-future-of-ai-might-not-be-chat-based/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "W9AO3nOrL7idBeBhyxJW9MPCCtZCCe0QIiftmc/sc/YVy+wgho9+CBpH0W10SdO0C4kuCctbmnnaEKmOLV0nwwjaPWjJSrBRaZCpZ+muTHZ9OkY1gbQKFUU+9lE/l0PpWVWPIhM1GHZiVSzgNQOq3ZsHnXGGP4iK00mMNTY4rUXhprMlhaXF8bVxYmpOcAvkCA0NynbZeUS+PY7JEbzOMt3+Mj9Xbu9rGZUE59amane46G3bqkOZBMtYVMPrS+4EI70Cwu95LVWSInUllm7/Chpc3lqufq7ZouMWqgEQJnlG9kV5Ot7Gx4JST7WiCR+g4SyH9pjVTFBdJl9VBwItaSpZIy4OH7pS9F5VBlBwhsY=;N+0or0jXZI+E6doJJvz51g=="
 ---

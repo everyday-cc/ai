@@ -154,20 +154,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Weekly AI recap: OpenAI unveils Sora, ChatGPT now has a ‘memory’"
-    excerpt: "Altman has long floated the idea of starting his own GPU venture amid chip scarcity and cost. The market is currently dominated by US chip manufacturer Nvidia, which is both credited with inventing the term “GPU” and has seen its market value skyrocket in recent years as demand for its chips has steadily increased."
-    publishedDateTime: 2024-02-16T16:14:00Z
-    webUrl: "https://www.thedrum.com/news/2024/02/16/weekly-ai-recap-openai-unveils-sora-chatgpt-now-has-memory"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 56
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2024-02-16t101400.946.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "OpenAI begins testing its text-to-video AI Sora with creatives"
     excerpt: "OpenAI has unveiled its latest AI model, although it's not being released to the public just yet. Sora is a text-to-video model."
     publishedDateTime: 2024-02-19T14:55:00Z

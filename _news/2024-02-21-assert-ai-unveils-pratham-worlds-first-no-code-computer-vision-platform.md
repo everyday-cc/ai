@@ -1,31 +1,39 @@
 ---
 category: news
 title: "Assert AI Unveils Pratham: World's First No-code Computer Vision Platform"
-excerpt: "Pratham, which translates to first in Hindi, employs an innovative framework that places the power of computer vision directly into the hands of users, allowing them to analyze and utilize video data effortlessly."
-publishedDateTime: 2024-02-21T05:13:00Z
-originalUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform"
-webUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform"
-ampWebUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp"
+excerpt: "In a pioneering move, Assert AI proudly announces the launch of Pratham, a groundbreaking platform that is patented for its innovative approach to democratizing computer vision and artificial intelligence."
+publishedDateTime: 2024-02-21T07:40:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/assert-ai-unveils-pratham-world-s-first-no-code-computer-vision-platform-124022100398_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/assert-ai-unveils-pratham-world-s-first-no-code-computer-vision-platform-124022100398_1.html"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 33
+heat: 33
+published: false
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280"
-    width: 1280
-    height: 853
-    isCached: true
+related:
+  - title: "Discover the World’s First AI Watch: Where Cutting-Edge Innovation Meets Everyday Comfort and Ease"
+    excerpt: "Gaia AI Lab, a pioneering force in artificial intelligence based in Silicon Valley, is excited to announce the launch of a groundbreaking product that is set to redefine our daily lives: ChatUni One AI Watch."
+    publishedDateTime: 2024-02-19T06:40:00Z
+    webUrl: "https://techbullion.com/discover-the-worlds-first-ai-watch-where-cutting-edge-innovation-meets-everyday-comfort-and-ease/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 25
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/IMG_9617-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
-secured: "Enf+mHu0wAb/fZM9+ejBI92kykxj1tgEvFmxI39EA1L1UIXtMnnCb4IJSTzReh2TKl/SCSIrsVVSTAJjqTB7TkAOByi3SClsdrDZDRpbxkv6h1hBg2UQWJoNichhhdI4alqewgB8M0zVuTPAy8Rx4m8xgMj4vVtOmL3KQPQnXtU1v3eb5FdH6EroQywGSR/fbq74dC6yOE+wsxec6hqw8/gwdc0YE0p83kZyMsnuJDpCo/T9yqpCnNMxDNuWO4JZc2NsjpJqN2tEUTPUu28NpY9p94Mj0WZgfGgcCp+OSVtHC49Cq4UJvoEQ9r4Az6dIH3BvbjpM+dHI4wbYFRf2flTzynwv7exwv2ROagBetGM=;gkm5kXOCyLgEI2cz/7aDMg=="
+secured: "65unIcDic0bzFA3/DFlGprqTDVUBix42Jns+VIOqhj4V0b7Sd9kl+GD230y5BrgSQUFTbb0hKMdJemAOhmUmHMM52FPMVyZk5xisqmv3dd61J577Razfa6JHG/S2+RJYz2NXvmtCzcApwg2cg0hTr8NepVd8QbhaBt0P+dW0kNnuMpnAZRBvtjcys2jhwXvEscIadWWFEEI8b/hdW6XFmr22+4/QLYkDbqoLesyDP6Ql231oF3Nt9tiBSnBfxCbCgILpU77fJRLd0Lw4zW1i0Th063ZtHTrQ0C0QiaM6djAABsPOb/pR0EJvLihzLkeAH1jY4Fmpo3UsDA0fKGrxJTviLTmn64Geth8Y4CkmVxQYk45ubQOP2WEyp38ZUO/yvgmbafArc4yNhZD3rMZqzmERIkHN59nIHxT9ZkZ/fLYjCgCZsTUSGMmIl1+VsRiHVTg5zORJxoG1F35BPRuA7QppkfnKjRWppHUQs+6D6EUZqLBLofRZj8TbEusCUvpXYVX9+TP/tdTklFWSrVU5AA==;NnYpd08J7MSzpmxtC+idvg=="
 ---
 

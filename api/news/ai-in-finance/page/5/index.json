@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-24-open-banking-will-grow-the-whole-economy-not-only-fintech.md",
+      "title": "Open Banking Will Grow The Whole Economy Not Only Fintech",
+      "excerpt": "The spread of open banking means a real revolution in consumer finance and this time it will be a revolution that will make life better for the average consumer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/",
+      "originalUrl": "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/656091809e5873159ceef16f/0x0.jpg?format=jpg&crop=2830,1591,x0,y11,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/",
+      "publishedDateTime": "2023-11-24T12:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-aimreplys-new-ai-assistant-set-to-revolutionize-email-for-busy-professionals.md",
       "title": "AImReply's New AI Assistant Set to Revolutionize Email for Busy Professionals",
       "excerpt": "AImReply announces the launch of an AI-powered email assistant to help professionals save time crafting email responses. The new product",

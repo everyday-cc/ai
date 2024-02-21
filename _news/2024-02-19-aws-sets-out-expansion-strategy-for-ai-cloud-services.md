@@ -7,7 +7,7 @@ originalUrl: "https://www.bangkokpost.com/business/general/2744454"
 webUrl: "https://www.bangkokpost.com/business/general/2744454"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1000
     height: 1352
     isCached: true
-
-related:
-  - title: "AWS expands free AI training course catalog"
-    excerpt: "The cloud titan added LLM deployment, fine-tuning and chatbot development courses to its upskilling portfolio."
-    publishedDateTime: 2024-02-16T13:55:00Z
-    webUrl: "https://www.ciodive.com/news/generative-ai-training-AWS-free-course/707695/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 34
 
 secured: "0omcnnxC9hkcHkb/CnujvcC377BPLD+zgpFumN20LaeD4wLzFguF1XynFKauTu1uKDbZRZKQPT0xVtULfDlSNxIKgMj7jL3hFjAThFvbzkvnmvhkmxtLDl9XqmV8ClTmmlNzlq5r38ziORF4ig4fInO2cKw/0O6MiO9AwfLVYneLFFvN5rcuQd1+RN6CLyzD+JC7+bTrvZJj0/uJZ+47eCiorLffoyAvgm5ULJlAaNuRMgNbo809mmX8O2k1XnjoxVnLff9kwfIPf+MqVizNHC2zV0jCDjqVMZBttrj39LFrcc4/kEDarbTNEemGu8UsMUz3xRQlk+fG6gZ0BRbwThlGFM8OAvt5bM/jdlPyshAlc5ykdBGwwcxi6bxNDH03uhaGdEL78JAcsdRFZobKFiN2HZT13aa5D5BZ2hMR7PwYmZ8cG2a6zxf3dxy7mxAHfAvbiV7y2cYDmyO3wHlXS3r87ZezuCjwmcNIKHBU9o/LnV8IEXwJmLdVPRxyjvzEN9pZp1m7JbEm/dT6Voyf3w==;SMzQZiwi9iuonxTkwDdQ5A=="
 ---

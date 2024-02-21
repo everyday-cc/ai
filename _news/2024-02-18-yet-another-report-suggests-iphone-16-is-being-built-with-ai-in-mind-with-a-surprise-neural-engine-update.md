@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Can AI create the perfect photo? How to use powerful editing tools to enhance and overhaul iPhone pictures"
+    excerpt: "However, if we step away from these headline-dominating, potentially society-altering AI tools, we discover a whole other world of AI applications. These don't conjure new images"
+    publishedDateTime: 2024-02-21T14:03:00Z
+    webUrl: "https://www.imore.com/apps/iphone-apps/can-ai-create-the-perfect-photo-how-to-use-powerful-editing-tools-to-enhance-and-overhaul-iphone-pictures"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 1
 
 secured: "VEZVd2RPZd72hQa/xIs2hFwqP858YsVoE5dviWPJOP0QPNrU/DiLPlig5OZReNZPBr/Pi7g1a/kHrq6L85juq+5rAIPwXGHnhDVgH72tpS/8X1Sw1yeqAByIZ+4awnw8CiwjK4HF5Ibln052n+F3e2V2AQQdxC+7Fw2/gyt2fzd7p4tJlNhEYEDdeKYsGvCZTltCrbQ7VoCAaO1JJt/fC6xK0fOx3btqFieHKo13FGVFq1Mf83BGLnR5JPXzHnDKvxc0y4vRIrpGZHJSG45AfhReIeUE64tkVK0ilt3ARyOaFrNsZ041kTW26zgJKe9MAGaKBPELqpbFVGB4/2eZgUn/v+e8DOhWam/jVa5URYw=;ugMwRLUXjGRv1idC5mRBJg=="
 ---

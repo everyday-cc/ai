@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-23-ai-is-helping-the-healthcare-industry-and-could-transform-the-way-patients-get-drugs-and-treatments.md",
+      "title": "AI is helping the healthcare industry and could transform the way patients get drugs and treatments",
+      "excerpt": "But advancements in artificial-intelligence technology are starting to show promise in medicine, potentially transforming how doctors, nurses, and other healthcare professionals conduct their day-to-day jobs and ultimately saving lives. In the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12",
+      "originalUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65849e48a79e5746976c78dc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp",
+      "publishedDateTime": "2023-12-22T20:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-23-apple-is-working-on-running-ai-on-iphones-and-ipads.md",
       "title": "Apple is Working on Running AI on iPhones and iPads",
       "excerpt": "Both papers show that, while Apple may not have generative AI products today that are as high-profile as Microsoft’s Copilot or OpenAI’s ChatGPT, Apple still has a hand in the generative AI space. These findings could eventually be incorporated into Siri, Apple’s voice-based assistant that resides on laptops, tablets and phones.",
@@ -1338,58 +1391,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-early-gen-ai-adopters-beware-info-tech-research-group-publishes-how-to-approach-unauthorized-use-and-governance-concerns.md",
-      "title": "Early Gen AI Adopters Beware: Info-Tech Research Group Publishes How to Approach Unauthorized Use and Governance Concerns",
-      "excerpt": "The firm's latest research highlights the critical data security risks posed by generative AI, emphasizing the importance for organizations to proactively identify these risks and implement ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/early-gen-ai-adopters-beware-info-tech-research-group-publishes-how-to-approach-unauthorized-use-and-governance-concerns-1032886579",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/early-gen-ai-adopters-beware-info-tech-research-group-publishes-how-to-approach-unauthorized-use-and-governance-concerns-1032886579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2296687/Info_Tech_Research_Group_Early_Gen_AI_Adopters_Beware__Info_Tech.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T13:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

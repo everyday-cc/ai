@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple Vision Pro is about to enable fully immersive 3D music production"
+    excerpt: "Producing music these days can be something of a flat experience, undertaken using powerful software running on a computer. With the sales launch of the Apple Vision Pro, DAW maker Hit'n'Mix is planning to immerse musicians in their creations."
+    publishedDateTime: 2024-02-21T13:57:00Z
+    webUrl: "https://newatlas.com/music/hitnmix-ripx-ai-daw-apple-vision-pro/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 34
   - title: "The next Apple Vision Pro could be at least 18 months away, report suggests"
     excerpt: "Anyone waiting for the second-generation Apple Vision Pro before taking the plunge could be waiting another 18 months at least, a new report claims."
     publishedDateTime: 2024-02-19T19:04:00Z
@@ -55,6 +64,15 @@ related:
         width: 1500
         height: 999
         isCached: true
+  - title: "What Apple’s New Vision Pro Headset Might Do to Our Brain"
+    excerpt: "Apple released its long-awaited Vision Pro mixed-reality headset this month. The company describes the device, which has a starting price of $3,500, as a “spatial computer,” an alternative to a standard laptop or desktop. Apple’s ads have shown ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.scientificamerican.com/article/what-apples-new-vision-pro-headset-might-do-to-our-brain/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 19
 
 secured: "1twfWPkzWZG0oYKOBx6Ar8ALdKxVMTSaA0QyLluK1tmore7JNmfiWXMk+9/5JDSGh7w0B9MVrKb5rj69lRAS4VRqedkOTHTXIs7lHgvIXos8TrQO1Q2USkkNX42mBTVhn3d7SxD3PubRBHIkvPMQHktowpDWFgYMyP6/xmBvmWw2hxl+toSIycvV+8ZdydfOg5zB/ekx96jw0CqTbg5ngAW+GvN/tpQmK7XziaZ4cFvRlaD+vp0aMEMCgpxDtO3Cwimia1DFNEtCz9MoFTYmYP5SDwXgfFg5sLFtX7L9VZHC1c2Dfrk3ydXRnn+bGg36yKxYQthW8tbWjsnUcCF1U2FjJfJ/od3xJZxAAZb6nZY9N8QQjH3cGAORXwkvgInPGxa6UTSk2PYzqDuTmxItT+kloLnWcMEbf/DiFe+smkykVAvi/Ant7/d5LjKYxxgduAQVmfA0u9i5gF5cl0MTXkpPyPU3WWNoIxuHGsO6F6ZeQi9s89PdsVca1Qx55yASIFmHbntjWyM4olmTPw42Pg==;8s+rbLL1PB3FriZYW5DNsA=="
 ---

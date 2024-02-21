@@ -34,20 +34,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 62
-  - title: "Australia takes new step towards AI regulation, EU inches closer to AI Act"
-    excerpt: "Australia has this week established a new AI Expert Group gathering scientists alongside legal, ethics and governance experts."
-    publishedDateTime: 2024-02-16T15:33:00Z
-    webUrl: "https://www.biometricupdate.com/202402/australia-takes-new-step-towards-ai-regulation-eu-inches-closer-to-ai-act"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
 
 secured: "ByST+Fm6f+fZFYI/wvRx2dV8SLhhSRVcnd6MjUMJGxsKGmxwLj07gMxrRKEZbUKHKZvbrInpIW0orZDWbB1tmNXB1VVt7VWCSOliVukQ82GDEnrsVjrPBL2cd45+vxEz2a+PMf/goFCTy8Plkr01OA6WRapu73311mOhdoUudHIl9CyQVqaEf+7AEyYvUkGPuUoi/KpR3Nx5UkpDJKT71raloygFWmQJyePMb4+8f0riH2/8BlEx/xlOmYOgvTj5IBRrPyN/8+R8uZqvBHRCnmxb4Hfn0TUSiuEJZqPtiiVNi4bXN0/QxLEcjD7cUXhXtLdA4UM4n9OuZQd0v0C2loDPOOUxPAlqZJ0SLTVLURg=;kybrsTeLMG0RtowNR7la4A=="
 ---

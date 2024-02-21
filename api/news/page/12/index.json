@@ -2,12 +2,12 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2024-02-12-cloudcadi-a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "CloudCADI-A One-Stop Cloud FinOps Product is Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Amadis specializes in Cloud FinOps, offering targeted solutions to optimize customers' cloud spend. Their product CloudCADI [Cognitive and Actionable Data Insights] enables enterprises to SPEND RIGHT on cloud with key features like, Cloud-Native Development using Platform-Based Observability Components.",
+      "path": "_news/2024-02-13-during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research.md",
+      "title": "During Edmonds College talk, virologist explains how AI is changing gene therapy research",
+      "excerpt": "If artificial intelligence can help physicians predict who is more or less likely to get a medical condition, it may also help molecular biologists predict which gene or gene",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cloudcadi-a-one-stop-cloud-finops-product-now-/2024/02/12/9960895.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cloudcadi-a-one-stop-cloud-finops-product-now-/2024/02/12/9960895.htm",
+      "webUrl": "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
+      "originalUrl": "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -17,11 +17,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T15:21:00Z",
+      "publishedDateTime": "2024-02-12T17:52:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "My Edmonds News",
+        "domain": "myedmondsnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -31,7 +31,351 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation.md",
+      "title": "Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation",
+      "excerpt": "Businesses are increasingly turning to event-driven architecture (EDA) as a strategic approach to harness real-time data.\nThe post Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation/",
+      "originalUrl": "https://www.ibm.com/blog/maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/amv-textilebusinessa141011.blog-lead-space-40x21-1-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:46:31Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-the-customer-experience-evolution-todays-data-driven-real-time-discipline.md",
+      "title": "The customer experience evolution: Today’s data-driven, real-time discipline",
+      "excerpt": "The future of customer experience is bright. Providing a positive customer experience can become a competitive advantage.\nThe post The customer experience evolution: Today’s data-driven, real-time discipline appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/evolution-customer-experience/",
+      "originalUrl": "https://www.ibm.com/blog/evolution-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:32:36Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-the-rise-of-the-bank-chief-ai-officer.md",
+      "title": "The rise of the bank chief AI officer",
+      "excerpt": "The escalated interest in artificial intelligence that OpenAI started over a year ago when it made its ChatGPT public has led to a relatively new C-suite role at banks: The chief AI officer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer",
+      "originalUrl": "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/48d7485/2147483647/strip/true/crop/600x315+0+12/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F02%2Fe1%2Ff57a9b8b40cb9b303029d0308944%2Fventuro-dominic-us-bank.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-how-the-australian-government-sees-ai-accelerating-productivity.md",
+      "title": "How the Australian Government Sees AI Accelerating Productivity",
+      "excerpt": "Regulation could inhibit the productivity gains of AI, according to the Australian Productivity Commission in a new, lengthy and wide-ranging research report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
+      "originalUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/02/tr_20240212-australian-government-ai-productivity.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T16:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-nvidia-launches-ada-generation-gpu-with-199b-transistors.md",
+      "title": "Nvidia launches Ada Generation GPU with 19.9B transistors",
+      "excerpt": "Nvidia unveiled its RTX 2000 Ada Generation GPU, a graphics processing unit designed to meet the demands of AI-based design and visualization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/RTX-2000-Ada-Generation-GPU.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-ai-will-boil-the-oceans.md",
+      "title": "AI Will Boil The Oceans",
+      "excerpt": "My article, “AMD And Nvidia Will Boil The Oceans ” got a lot of attention, and now Sam Altman, CEO of OpenAI, has confirmed that by reportedly looking for $7 trillion dollars to go to the next level in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
+      "originalUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637def592ce2893446588243/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
+      "publishedDateTime": "2024-02-12T15:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire.md",
+      "title": "AI field trips and why we should stop setting self-driving cars on fire",
+      "excerpt": "This morning, we have an interesting mix of stories that bring technology, politics and AI together in unique ways that's well worth diving deep into.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/",
+      "originalUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741",
+          "width": 1200,
+          "height": 741,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/",
+      "publishedDateTime": "2024-02-12T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -628,6 +972,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-12-cloudcadi-a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "CloudCADI- A One-Stop Cloud FinOps Product Is Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "BusinessWire India Chennai Tamil Nadu [India] February 12 Amadis Technologies Pvt Ltd today announced the availability of CloudCADI in the Microsoft Azure Marketplace the Microsoft online store that p",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/274123695/cloudcadi--a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace",
+      "originalUrl": "https://www.bignewsnetwork.com/news/274123695/cloudcadi--a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T06:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service.md",
       "title": "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service",
       "excerpt": "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft.",
@@ -763,405 +1141,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-car-on-fire-they-couldnt-even-recognize-the-vehicle.md",
-      "title": "Crowd Sets Waymo Self-Driving Car on Fire: ‘They Couldn’t Even Recognize the Vehicle’",
-      "excerpt": "A crowd in San Francisco vandalized a Waymo self-driving car carrying no passengers on Saturday night, breaking its windshield and setting it ablaze. Once firefighters got the situation under ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/waymo-fire-self-driving-car-san-francisco-vandals-1851247725",
-      "originalUrl": "https://gizmodo.com/waymo-fire-self-driving-car-san-francisco-vandals-1851247725",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/facc5f53913b22dd05684a50e8899ff4.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-the-language-of-ai-defining-the-most-common-terms.md",
-      "title": "The Language of AI: Defining the Most Common Terms",
-      "excerpt": "Natural Language Processing: A branch of AI that uses machine learning to process and interpret text and data. Neural Network: A computer system made up of interconnected \"artificial neurons\" that help computers learn from data and recognize patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/special-reports/features/108692",
-      "originalUrl": "https://www.medpagetoday.com/special-reports/features/108692",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/108xxx/108692.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-for-350-you-too-can-have-glasses-with-ai-superpowers-and-look-like-a-modern-day-gandhi.md",
-      "title": "For $350, you too can have glasses with 'AI superpowers' (and look like a modern-day Gandhi)",
-      "excerpt": "The glasses are powered by a series of AI models, including OpenAI’s GPT-4 and speech recognition technology Whisper, Stability AI’s Stable Diffusion, and Perplexity, the company told Business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/brilliant-labs-ai-glasses-translate-speech-gandhi-steve-jobs-lennon-2024-2",
-      "originalUrl": "https://www.businessinsider.com/brilliant-labs-ai-glasses-translate-speech-gandhi-steve-jobs-lennon-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65c8ee766fcb546d2d4e5129?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/brilliant-labs-ai-glasses-translate-speech-gandhi-steve-jobs-lennon-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brilliant-labs-ai-glasses-translate-speech-gandhi-steve-jobs-lennon-2024-2?amp",
-      "publishedDateTime": "2024-02-11T19:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.md",
-      "title": "Crowd sets Waymo self-driving car ablaze in San Francisco",
-      "excerpt": "A crowd vandalized a Waymo self-driving vehicle and set it on fire in San Francisco on Saturday, said Waymo, which is owned by Alphabet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107371968-17076799512024-02-11t184546z_1479943353_rc2a06a3oscq_rtrmadp_0_waymo-san-francisco.jpeg?v=1707679980",
-          "width": 2200,
-          "height": 1238,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "publishedDateTime": "2024-02-11T17:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-how-ai-and-software-can-improve-semiconductor-chips-accenture-interview.md",
-      "title": "How AI and software can improve semiconductor chips | Accenture interview",
-      "excerpt": "Thanks to AI, one of these days we'll be talking about chips with trillions of transistors on them, according to Accenture.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-and-software-can-improve-semiconductor-chips-accenture-interview/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-and-software-can-improve-semiconductor-chips-accenture-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/accenture-Tech-Vision-2024-Infographic_v5-01.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T16:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-maybe-well-finally-see-a-fintech-ipo-in-2024.md",
-      "title": "Maybe we’ll finally see a fintech IPO in 2024",
-      "excerpt": "This week, we're looking at Plaid's latest step towards an IPO, one BNPL company's financial results, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/",
-      "originalUrl": "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 384,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/05/iposign.jpg?resize=1200,894",
-          "width": 1200,
-          "height": 894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/amp/",
-      "publishedDateTime": "2024-02-11T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-6-ai-apps-for-android-that-are-actually-useful.md",
-      "title": "6 AI Apps For Android That Are Actually Useful",
-      "excerpt": "That means developers can integrate AI applications much deeper into your device, and we're already seeing prominent chip manufacturers like Qualcomm integrating AI cores into their most powerful Snapdragon chips to compliment those new functionalities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
-      "originalUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/6-ai-apps-for-android-that-are-actually-useful/l-intro-1707186688.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T12:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-new-ai-feature-in-instagram-coming-soon-heres-what-it-will-do.md",
-      "title": "New AI feature in Instagram coming soon: Here’s what it will do",
-      "excerpt": "Discover the latest AI feature coming to Instagram and learn how it will enhance your experience on the platform. Find out everything you need to know about this exciting update.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/articleshow/107602791.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/articleshow/107602791.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107602791,width-1280,height-720,resizemode-4/107602791.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms",
-      "publishedDateTime": "2024-02-11T12:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

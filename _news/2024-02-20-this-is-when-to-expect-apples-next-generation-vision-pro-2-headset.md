@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Vision Pro is about to enable fully immersive 3D music production"
+    excerpt: "Producing music these days can be something of a flat experience, undertaken using powerful software running on a computer. With the sales launch of the Apple Vision Pro, DAW maker Hit'n'Mix is planning to immerse musicians in their creations."
+    publishedDateTime: 2024-02-21T13:57:00Z
+    webUrl: "https://newatlas.com/music/hitnmix-ripx-ai-daw-apple-vision-pro/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 34
   - title: "Apple Vision Pro 2 could launch sooner than we all expected"
     excerpt: "With Vision Pro now available for a couple of weeks, the next iteration of Apple's spatial computer might launch sooner than we all realized."
     publishedDateTime: 2024-02-19T11:54:00Z
@@ -55,6 +64,15 @@ related:
         width: 1500
         height: 999
         isCached: true
+  - title: "What Apple’s New Vision Pro Headset Might Do to Our Brain"
+    excerpt: "Apple released its long-awaited Vision Pro mixed-reality headset this month. The company describes the device, which has a starting price of $3,500, as a “spatial computer,” an alternative to a standard laptop or desktop. Apple’s ads have shown ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.scientificamerican.com/article/what-apples-new-vision-pro-headset-might-do-to-our-brain/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 19
 
 secured: "AVNjwr0v2s5Hb1RCiBgj9sZ9MDLP2wZSLdt+fvEzOUcnlFHpWdyuWmXKewZ5/fWf09zgIvWn82kZR2k0d4TTJP8TJGFjked5pBJacuG+pevq+OBUNoskXJ25tr9KekhhFllintgQVBTJo6EyPb8y0D5A8J6RPC1BmoQvSsbwD+ZynnHx0AbayWEHwAP51w7Jw1UeUSnksYJ4uWZJDXrJpT4dVKcUm0z7x/DLAzZFVAAAEI+/As2M5qZHph274BufufUvHM2/9VrXa+cDkYHdY6yIkPqgfHeLIw5K1qHRkK8pFYEPFvjwejsL5HDw3s67MyLdRWBFW8LmYc4Ne+6EEY0/mASmPFL6uH7pWPTz7Ss=;oMK+yEcsfQgOfdTiUVfVmw=="
 ---

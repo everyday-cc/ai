@@ -72,6 +72,22 @@ related:
         width: 1280
         height: 871
         isCached: true
+  - title: "Ohio continues facial-recognition searches using controversial photo-collection firm Clearview AI"
+    excerpt: "COLUMBUS, Ohio—State crime investigators’ use of facial-recognition software, once put on hold because of civil-liberties concerns, could now continue through at least 2025 with the help of a company that has faced multiple lawsuits over claims it ..."
+    publishedDateTime: 2024-02-21T10:08:00Z
+    webUrl: "https://www.cleveland.com/news/2024/02/ohio-continues-facial-recognition-searches-using-controversial-photo-collection-firm-clearview-ai.html"
+    ampWebUrl: "https://www.cleveland.com/news/2024/02/ohio-continues-facial-recognition-searches-using-controversial-photo-collection-firm-clearview-ai.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2024/02/ohio-continues-facial-recognition-searches-using-controversial-photo-collection-firm-clearview-ai.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 46
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
+        width: 1680
+        height: 971
+        isCached: true
   - title: "AI hardware startup Recogni raises $102M for self-driving solutions"
     excerpt: "Object detection requires a great deal of data taken from video and other sensors and Recogni’s hardware allows for more rapid recognition. The company said that its chips allow for higher computational power at lower energy use, meaning higher efficiency."
     publishedDateTime: 2024-02-20T17:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp"
 type: article
 quality: 84
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "What to Know About OpenAI’s New AI Video Generator Sora"
-    excerpt: "Now you can. OpenAI’s latest generative artificial intelligence offering, Sora, can generate breathtakingly realistic videos that are up to a minute long from text prompts. OpenAI CEO Sam Altman announced the model’s creation on X on Thursday."
-    publishedDateTime: 2024-02-16T16:10:00Z
-    webUrl: "https://time.com/6695938/sora-openai-video-generator-ai/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-2006246625.jpg?quality=85"
-        width: 4000
-        height: 3000
-        isCached: true
   - title: "101 on OpenAI's new text to video AI model, Sora"
     excerpt: "Sora is OpenAI's newest AI model that can create realistic and imaginative scenes simply with text instructions. Here's a breakdown of exactly what you need to know about Sora and how it can help industry professionals in the space."
     publishedDateTime: 2024-02-19T03:43:00Z
@@ -59,15 +45,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OpenAI’s Altman Seeks US Blessing to Raise Billions for AI Chips"
-    excerpt: "OpenAI Chief Executive Officer Sam Altman is working to secure US government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national security and antitrust concerns in Washington,"
-    publishedDateTime: 2024-02-16T16:20:00Z
-    webUrl: "https://news.bloomberglaw.com/antitrust/openais-altman-seeks-us-blessing-to-raise-billions-for-ai-chips"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 34
 
 secured: "K/4BYuAMbIVweW3M17St1uyUNLRpK3gTx+RsfCxRmHzKMlhAAowFQqb7JtTMO/DxzjXORGyo07n8frRIQHWvxkgij+XUKLExfVsAWMu0Z5s2e2hpnhu/7w9Dwzu2NbT1eXsXuOizERFC/J1jofSJwDIFNepZR3VLWcPaXrwqyhgUvf+Bnc4VMc8f+BTbi0eKlyP5XIHpGDotR7svCxJbRx1TpCeHAb2cJwXvIvBPggLiq/w02XSy5slalD/vu1TiKM4n8RbXqKuIgOcPHKtCulTqN1W+NDbVRJ3rZ5q/ogXOZTjoU3QlXQdaKooMg6ZVGA7fHfvRd0prKovk/8FDuDOfSR2Bbt5gO9YnaeHVlh3Eqb0ehBBgO6qBPIObKx4OQ7VLEfc5Zlz7T8dL721te7pMveCtdVRil5wzM7I9R919g9MUL2nrdebVi6UgR65LXdiKmNG4ZN6BWG1edM12B2rrVHIGcT0h7YYXQ5XwSECSgYFbzPbSZOcvtD7lYujGV3TGHWK9ZX0tyt/Xaz+Lqg==;TyDX4YVFp3tQ7G+zkbHUFQ=="
 ---

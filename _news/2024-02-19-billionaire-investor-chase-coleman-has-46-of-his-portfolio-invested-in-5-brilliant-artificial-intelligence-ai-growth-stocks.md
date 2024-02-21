@@ -52,6 +52,15 @@ related:
         width: 509
         height: 339
         isCached: true
+  - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
+    excerpt: "So, here are two AI stocks that could set you up for life. Nvidia has become a Wall Street darling since the start of last year after snapping up an estimated 80% to 95% market share in AI graphics processing units (GPUs), the chips necessary for training and running AI models."
+    publishedDateTime: 2024-02-21T14:20:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/24233681/2-artificial-intelligence-ai-stocks-that-could-help-set-you-up-for-life/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 33
   - title: "Forget Nvidia: These 3 Artificial Intelligence (AI) Stocks Can Be the Next Stock-Split Stocks"
     excerpt: "At the moment, nothing is garnering the attention of professional and everyday investors quite like artificial intelligence (AI). AI, which involves the use of software and systems to oversee tasks normally overseen by humans, has application across almost ..."
     publishedDateTime: 2024-02-20T20:40:00Z

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-12-ces-2024-older-seniors-are-happily-living-with-aiin-the-form-of-chatty-robot-elliq.md",
+      "title": "CES 2024: Older seniors are happily living with AI—in the form of chatty robot ElliQ",
+      "excerpt": "But it's probably not the generation that would first come to mind. ElliQ, a voice-operated, AI-enabled care companion robot, is gaining traction with ... This is primarily used to better control the context and flow of the conversation, decide when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercehealthcare.com/ai-and-machine-learning/ces-2024-older-seniors-are-happily-living-ai-form-chatty-robot-elliq",
+      "originalUrl": "https://www.fiercehealthcare.com/ai-and-machine-learning/ces-2024-older-seniors-are-happily-living-ai-form-chatty-robot-elliq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/quartz/qcloud5/media/image/ElliQ%203.0%20D.jpg?VersionId=MA8l7w6puA0nUMFm4f41g8svtQC1uMoa",
+          "width": 2835,
+          "height": 1890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fierce Healthcare",
+        "domain": "fiercehealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
       "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
       "excerpt": "Latte art is a skill that can take months if not years of practice to master — but not for this barista powered by artificial intelligence ... founder of food tech startup Artly Coffee, one ...",
@@ -1236,40 +1279,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024.md",
-      "title": "Shift Robotics to Unveil Moonwalkers X at CES 2024",
-      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / January 3, 2024 / Significantly lighter, quicker, and smarter than the original Moonwalkers model introduced in the spring of 2023, Moonwalkers X have six wheels instead o",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61050400-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61050400-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T14:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

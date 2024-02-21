@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Perplexity AI's Indian-origin CEO has this advice for freshers looking to start up in artificial intelligence"
+    excerpt: "Aravind Srinivas, the Indian-origin CEO of Perplexity AI (an artificial intelligence-powered search startup), believes in following his heart when it comes to career decisions. In fact, while he was studying electrical engineering in IIT Madras in 2014 ..."
+    publishedDateTime: 2024-02-21T13:40:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/perplexity-ais-indian-origin-ceo-has-this-advise-for-freshers-looking-to-start-up-in-artificial-intelligence-12325501.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 13
 
 secured: "q67WE6k5FFcGOR/tc+Hy5ddgRYuO8AGbgeSrjmgT/F6OhGeP8+HA1N3oF+xgtlVEyfzKt2ML7kk+lx7OeqbCa+iI13V5sm0CwX9xLbXP8A4WkzoqM5hNGUbpzJTmdOadiLBVnlEXl+u6DhaYrp8MFtlhE3uSwr74tP4q/p1neJQxrUdLUOnr7iTeOvH+PQwiJBWZbKd+eg8GOk2HTqJEuS2D6Os9lMZNgsM6tUCDjGVOKGC1ISDTt0QDrVGcLFdUhHyIRiVSxMMv8yqyctWAM4ONeCWkK3qsXr2Q4dYT4GUmtHHrvaqMNYx/ekUTBTbaScU7JgvE0TptQgX+F1hzyjDhthCimk7Pt3rJvoYsuYU=;nWm8H3Mv6T8e8IhVzgUv8w=="
 ---

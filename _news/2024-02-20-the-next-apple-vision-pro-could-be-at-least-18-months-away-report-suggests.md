@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple Vision Pro is about to enable fully immersive 3D music production"
+    excerpt: "Producing music these days can be something of a flat experience, undertaken using powerful software running on a computer. With the sales launch of the Apple Vision Pro, DAW maker Hit'n'Mix is planning to immerse musicians in their creations."
+    publishedDateTime: 2024-02-21T13:57:00Z
+    webUrl: "https://newatlas.com/music/hitnmix-ripx-ai-daw-apple-vision-pro/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 34
   - title: "Apple Vision Pro 2 could launch sooner than we all expected"
     excerpt: "With Vision Pro now available for a couple of weeks, the next iteration of Apple's spatial computer might launch sooner than we all realized."
     publishedDateTime: 2024-02-19T11:54:00Z
@@ -55,6 +64,15 @@ related:
         width: 1812
         height: 900
         isCached: true
+  - title: "What Apple’s New Vision Pro Headset Might Do to Our Brain"
+    excerpt: "Apple released its long-awaited Vision Pro mixed-reality headset this month. The company describes the device, which has a starting price of $3,500, as a “spatial computer,” an alternative to a standard laptop or desktop. Apple’s ads have shown ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.scientificamerican.com/article/what-apples-new-vision-pro-headset-might-do-to-our-brain/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 19
 
 secured: "idYyYen9/Xh3nftd2AaYAz6wZCyKod9m8OH6WTQ/cZjl0BpnmGNuV8jLMaXOI5KteYg1+60YRrmbpaCc3feJCCwMNEIVKzwOGHiHmJ3MpDRcVg/BtAXx3PJDH46ALw2PJDBVgB5qBePnUobQl64dETOaMSu39fjX+lO0Q3rIzZtjNW+6ElXk8Qi46jew4hLLquokaY9V2cKeCqgxqnrvOG4NRIgAHtON1Va4U5t28E+lO2YDDkPCeSlUUkM0l1D5KMcAMPV32cT0zwJ/ASNJoCm4v49PJ7KWmcHpSroCtCCAPDth4gnPYMQ3HrGPXNHpRL7+yg0neItJUoFfoc2NMa9JzFrVFhAROk7XQkOvAUI=;D9RzcuPSNfOD7qyXV3BSjQ=="
 ---

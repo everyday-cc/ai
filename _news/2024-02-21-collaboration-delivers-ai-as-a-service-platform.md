@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Features Are Coming to Samsung Wearables and Tablets"
+    excerpt: "Samsung's mobile president says the tech giant will add AI-powered tools to more of its devices, but it's currently unclear when such features might hit the market."
+    publishedDateTime: 2024-02-21T13:46:00Z
+    webUrl: "https://www.pcmag.com/news/ai-features-coming-to-samsung-wearables-tablets"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
 
 secured: "7mBft5rGdDkQLdcylv1FsRAq6QvPmOOoOHhy/F/LBZnoLP8vpEUdrm5QR9NadPwrq6TE7X1cHR/3q4VFGH5Tu16bKPKxZyhiXqDpQKX1+HxSbc6n3OidSYIvumBvRlCAdiSfANl6CDfVfsYzX771fF03z4DZQhtv1S2DfA8KKc+kQMBsBr/nk+p7Ow+i452W+bS+UstJel2XE3kVxc7yx2mH3iaKJjxO52a4dkdRHtrLexVwN1CuQcZWegJXSy53FyZUDsiXbHVIsxwyRcNDbaY7FkJqYVM4GWInTjERpupgJaF43uyhP5+ChkEELwgxwUeyfmDOVBEkFHROYIVw7DWC5gdt2tPHy9yM8H4JoPQhlmStPT5sMzB+hbwfttmFT6bM2Qg+obz6ngay3UR+CgPD3d5utZG+rrRSAQPaHRaLmmSBrsm1FPyRKo/UUIHKF960YLRsqwVYfJnitNp1Yx4IqhlZeFEf+agGJKI4Q+aQE1nxCChkmgpumuJxfMOCPbtrvdTUlZuOUb6AXIPblA==;h1oAwroa0EDouyr3f3MPHA=="
 ---

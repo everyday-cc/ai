@@ -114,6 +114,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Opinion: Artificial intelligence must reflect the diversity of humanity. New technology can help."
+    excerpt: "On my last visit to La Jolla Cove, this scenic corner of San Diego sparked a question for me: What does artificial intelligence, AI, think about places like La Jolla Cove? Whose opinions and voices shape what an AI system believes? It highlights the ..."
+    publishedDateTime: 2024-02-21T14:08:00Z
+    webUrl: "https://www.sandiegouniontribune.com/opinion/commentary/story/2024-02-21/opinion-artificial-intelligence-ai-diversity-humanity-bespoke-model"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 4
 
 secured: "tFbYtuh93w1OFBwnxLFOoM4LLvSlBhj1JkaKe0EGxVraVMx4jmqPChrikVOoHbZLKvI9g6IVKX7wJuGCjlbiM4rwdetYSY2TlQrUYcIXzVDWZvmy+t+q0GiKqlJP4fJ2OdwZufBusvvZ1CdTLzHJXqqF2HbVo7ENs4L8Uvr641Dm1TdNxlAKrkF3KW/lZeWyCAwK1gkH2VYvyJKyPDd0oAOOcbBaqBHgrvf1PY4ofYlUMGzIL1SUQE7CLXIqx0WcxTpU5LiKmB9xpU/+KHuPFll1vpivUKrC1Oo9FA/BI28d907jKFN8ljXfOW7mPL1FgwMjFF9MmSdnJ2d9Dhram9LNhFt4B5gkbdDCWhnGPuM=;AWs9xbaY8zaW5nUWOrd2hA=="
 ---

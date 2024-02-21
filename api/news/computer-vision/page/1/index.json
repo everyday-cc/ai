@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-21-content-creators-face-uncomfortable-accounting-during-tax-season.md",
+      "title": "Content Creators Face Uncomfortable Accounting During Tax Season",
+      "excerpt": "What Content Creators and Content Creation Companies should consider for tax season and ither accounting areas such as revenue recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/",
+      "originalUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/659ad6221834d9b6fb2041d4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/amp/",
+      "publishedDateTime": "2024-02-21T14:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-how-this-ex-apple-guys-ai-glasses-invention-works.md",
       "title": "How this ex-Apple guy’s AI glasses invention works",
       "excerpt": "Here are some examples. Visual recognition: You can ask Frame glasses to identify any object, person or place that you see. For example, you can say, \"What is this?\" and Frame glasses will tell you what it is, how it works or where it comes from.",
@@ -52,49 +104,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform.md",
-      "title": "Assert AI Unveils Pratham: World's First No-code Computer Vision Platform",
-      "excerpt": "Pratham, which translates to first in Hindi, employs an innovative framework that places the power of computer vision directly into the hands of users, allowing them to analyze and utilize video data effortlessly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp",
-      "publishedDateTime": "2024-02-21T05:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -158,7 +167,7 @@
       "originalUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -202,7 +211,7 @@
       "originalUrl": "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {

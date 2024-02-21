@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-30-google-deepmind-adds-nearly-400000-new-compounds-to-open-access-database.md",
+      "title": "Google DeepMind adds nearly 400,000 new compounds to open-access database",
+      "excerpt": "New technology often calls for new materials—and with supercomputers and simulations, researchers don't have to wade through inefficient guesswork to invent them from scratch.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-11-google-deepmind-compounds-open-access-database.html",
+      "originalUrl": "https://phys.org/news/2023-11-google-deepmind-compounds-open-access-database.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/google-deepmind-adds-n.jpg",
+          "width": 1280,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-11-google-deepmind-compounds-open-access-database.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-google-deepmind-compounds-open-access-database.amp",
+      "publishedDateTime": "2023-11-29T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-google-deepminds-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them.md",
+      "title": "Google DeepMind's AI Dreamed Up 380,000 New Materials. The Next Challenge Is Making Them",
+      "excerpt": "Google DeepMind researchers say they’ve expanded the number of known stable materials tenfold. Some could be useful for everything from batteries to superconductors—if they make it out of the lab.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them/",
+      "originalUrl": "https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65668a6df0f200d31c380ec9/191:100/w_1280,c_limit/Google-Deepmind-Materials-Research-Business-XBD-202304-064-009.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-google-bard-lead-debunks-natural-fear-of-ais-development-computers-do-things-with-you.md",
       "title": "Google Bard lead debunks ‘natural fear’ of AI's development: 'Computers do things with you’",
       "excerpt": "Jack Krawczyk discusses how Google Bard helps users connect and communicate — and what the future holds for the platform. The emergence of artificial intelligence has sparked a fear of the ...",

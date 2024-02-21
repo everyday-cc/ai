@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2024/02/21/exp-attuned-ai-ca
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "This startup is using AI to discover new materials"
+    excerpt: "While the world fixates on text-, image- and movie-generating AI, a startup headed by a former DeepMind senior researcher is developing GenAI tech to support the manufacturing of new physical materials. Orbital Materials — founded by Jonathan Godwin ..."
+    publishedDateTime: 2024-02-21T14:00:00Z
+    webUrl: "https://techcrunch.com/2024/02/21/this-startup-is-using-ai-to-discover-new-materials/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
 
 secured: "B+XKqrR/htJk2Ig2WSK5HXCTM8LhkwAWSlCyMpLvLQVYeOvKb6/cZR2m6DpdmtdMaLCKcv/WzqB9woP4xV0mdfaiNR6b6iUbX5laZHUog5OUy/MNfmvM8K0LuXQAq3usPx+/ApNlGBzIQipV6oWdqHHYWA5FJFlvY40mKwCOHhY9bFchSfyfFuE4Zw1ZKVyVnQO9QqKwaqKhbLkwdwcubpawESIhaQHf0ud5AWO47iCWWulwogLPdn577sub4TmW/wb9LMf+J/edDaQEUR7OXbCFfY4uQsBb5AsAdVqX+6/bMiQNoq+FOAAiYVsZE+ZDF/bV//5qYv/+ELpO6omU3yFEy4Oy0CaWvvDPFqMdYew=;WdT+baw3VvsImf5AIFyEAQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-06-singapore-ai-fintech-investment-surges-in-h2-despite-global-funding-winter-kpmg.md",
+      "title": "Singapore AI fintech investment surges in H2 despite global funding winter: KPMG",
+      "excerpt": "FUNDING for artificial intelligence (AI) technologies in Singapore’s fintech sector surged 77 per cent in the second half of 2023, despite a global decline in fintech investments amid economic uncertainties.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstimes.com.sg/startups-tech/startups/singapore-ai-fintech-investment-surges-h2-despite-global-funding-winter-kpmg",
+      "originalUrl": "https://www.businesstimes.com.sg/startups-tech/startups/singapore-ai-fintech-investment-surges-h2-despite-global-funding-winter-kpmg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/06/kpmg13_6.jpg",
+          "width": 880,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T04:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Times",
+        "domain": "businesstimes.com.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-funding-for-ai-in-fintech-in-singapore-grow-77-h-o-h-to-us33113-mil-amid-soft-year-for-investments-in-2023.md",
       "title": "Funding for AI in fintech in Singapore grow 77% h-o-h to US$331.13 mil; amid 'soft' year for investments in 2023",
       "excerpt": "Singapore accounted for 21% of all fintech deals in the region, making it the “leader” in the APAC region, says KPMG.",
@@ -1317,49 +1360,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-01-14T21:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement.md",
-      "title": "Fintech Professional Shares Feedback After Testing Digital Bank bunq’s AI Features, which Need A Lot of Improvement",
-      "excerpt": "European Fintech platform bunq, a Dutch digital banking platform, has started describing itself as \"the first AI-powered bank in Europe.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/",
-      "originalUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/amp/",
-      "publishedDateTime": "2024-01-14T21:14:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Crowdfund Insider",

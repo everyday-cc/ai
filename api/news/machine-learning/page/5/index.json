@@ -2,6 +2,136 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-23-how-machine-learning-might-unlock-earthquake-prediction.md",
+      "title": "How machine learning might unlock earthquake prediction",
+      "excerpt": "Researchers are applying artificial intelligence and other techniques in the quest to forecast quakes in time to help people find safety.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/12/29/1084699/machine-learning-earthquake-prediction-ai-artificial-intelligence/",
+      "originalUrl": "https://www.technologyreview.com/2023/12/29/1084699/machine-learning-earthquake-prediction-ai-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/Namazu-e.png?w=2350",
+          "width": 2350,
+          "height": 1322,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/12/29/1084699/machine-learning-earthquake-prediction-ai-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/29/1084699/machine-learning-earthquake-prediction-ai-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-12-22T22:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-expect-a-deepfakes-boom-as-hackers-master-use-of-ai-machine-learning.md",
+      "title": "Expect A Deepfakes Boom As Hackers Master Use Of AI, Machine Learning",
+      "excerpt": "With the growth of Large Language Models (LLMs) like OpenAI's ChatGPT, Artificial Intelligence (AI) exploded in the public a",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107646232/Expect-A-Deepfakes-Boom-As-Hackers-Master-Use-Of-AI-Machine-Learning",
+      "originalUrl": "https://menafn.com/1107646232/Expect-A-Deepfakes-Boom-As-Hackers-Master-Use-Of-AI-Machine-Learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-12/22/I_20e52image_story.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T10:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-machine-learning-can-predict-aggressive-behaviors-in-youth-with-autism.md",
+      "title": "Machine Learning Can Predict Aggressive Behaviors in Youth With Autism",
+      "excerpt": "For inpatient youths with autism, machine learning analyses of preceding changes in peripheral physiology can predict imminent aggressive behaviors before they occur, according to a study published online Dec.",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/machine-learning-can-predict-aggressive-behaviors-in-youth-with-autism/",
+      "originalUrl": "https://www.physiciansweekly.com/machine-learning-can-predict-aggressive-behaviors-in-youth-with-autism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2023/12/image1703226618.jpg",
+          "width": 800,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T06:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-five-machine-learning-types-to-know.md",
       "title": "Five machine learning types to know",
       "excerpt": "Explore the five major machine learning types, including their unique benefits and capabilities, that teams can leverage for different tasks.\nThe post Five machine learning types to know appeared first on IBM Blog.\n",
@@ -1220,119 +1350,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-nokia-and-celesta-capital-announce-major-strategic-partnership-for-acceleration-of-deep-technologies.md",
-      "title": "Nokia and Celesta Capital Announce Major Strategic Partnership for Acceleration of Deep Technologies",
-      "excerpt": "Nokia Bell Labs and Celesta to collaborate in commercializing emerging technologies, including AI, advanced communications, semiconductors, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931563.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931563.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T15:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-artificial-intelligence-detects-brain-tumors-in-90-seconds.md",
-      "title": "Artificial intelligence detects brain tumors in 90 seconds",
-      "excerpt": "ALBAWABA - Researchers at the University of Michigan have developed an artificial intelligence (AI) system that can detect genetic mutations in cancerou",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/editors-choice/artificial-intelligence-detects-brain-tumors-90-seconds-1544683",
-      "originalUrl": "https://www.albawaba.com/editors-choice/artificial-intelligence-detects-brain-tumors-90-seconds-1544683",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-12/shutterstock_2136963829%20%281%29.jpg?itok=Vnn7oHk-",
-          "width": 6937,
-          "height": 2943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/editors-choice/artificial-intelligence-detects-brain-tumors-90-seconds-1544683",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/artificial-intelligence-detects-brain-tumors-90-seconds-1544683",
-      "publishedDateTime": "2023-12-11T08:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning.md",
-      "title": "Google's Billion-Dollar Cloud Business Takes On AWS, Azure With AI, Machine Learning",
-      "excerpt": "\"Anytime any customer talks cloud, they talk AWS, Azure, and Google ... Google's portfolio of artificial intelligence (AI) and machine learning technologies are standing out and giving the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning",
-      "originalUrl": "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T03:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

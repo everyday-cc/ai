@@ -65,6 +65,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "How AI is affecting students in high school"
+    excerpt: "Some students might see AI as a “cheat code” of sorts and a way to avoid doing original work or fully embracing the learning process. Address the issue of ethics and AI with your student regularly. Acknowledge the ways that students could use AI ..."
+    publishedDateTime: 2024-02-21T09:41:00Z
+    webUrl: "https://www.dailyherald.com/20240221/submitted-content/how-ai-is-affecting-students-in-high-school/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
   - title: "Navigating the AI Career Maze"
     excerpt: "Recent college graduates who missed the AI revolution need to start over before they've even begun and acquire additional knowledge, training and education. Established professionals who work in a field ripe for AI disruption need to adapt, compete and ..."
     publishedDateTime: 2024-02-16T20:18:00Z

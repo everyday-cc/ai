@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires
 webUrl: "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires-sold-way-too-early/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 509
         height: 339
         isCached: true
+  - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
+    excerpt: "So, here are two AI stocks that could set you up for life. Nvidia has become a Wall Street darling since the start of last year after snapping up an estimated 80% to 95% market share in AI graphics processing units (GPUs), the chips necessary for training and running AI models."
+    publishedDateTime: 2024-02-21T14:20:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/24233681/2-artificial-intelligence-ai-stocks-that-could-help-set-you-up-for-life/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 33
   - title: "Billionaire Investor Chase Coleman Has 46% of His Portfolio Invested in 5 Brilliant Artificial Intelligence (AI) Growth Stocks"
     excerpt: "Billionaire investor Chase Coleman is one of Wall Street's original whiz kids. When he was just 24 years old, he founded Tiger Global Management with starting capital from his former boss and mentor, the iconic hedge fund manager Julian Robertson, Jr ..."
     publishedDateTime: 2024-02-18T18:19:00Z

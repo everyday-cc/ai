@@ -82,6 +82,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "U.S. Rep. French Hill picked for bipartisan House artificial intelligence task force"
+    excerpt: "WASHINGTON -- U.S. Rep. French Hill, R-Ark., has been selected to join a bipartisan congressional task force to study artificial intelligence and possible actions for protecting the United States from potential threats."
+    publishedDateTime: 2024-02-20T23:40:00Z
+    webUrl: "https://www.arkansasonline.com/news/2024/feb/20/us-rep-french-hill-picked-for-bipartisan-house/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 10
 
 secured: "E87I2ZEzFU0wYv4iq45qjqVgmR01hYeOpO4Vtk/5hNIDgWrDWAygG7DX5qyVM0Yor1lJJtJKEj2TNdx2iGq7e4lKCMB5Oo8jxoUUZjbD5qWtbEfWuNu19W0K39XzBLFHXgRW5rAVuKbaKQ998wFGaedSYKoKhZLSQNzoaqQOhWfyTJsmYpYADEFnsmvcKG79XfR360pFpv632mprPKyjyWzcXC5cftc8aXRmFxqY4xCtEN1cgKw+HWK/vMLXQXM7bn700RNLuZRaD6iZvH1g4YznHtYjYf2f99j0HszTUXnHiOg0MpriDvbkIVsrtNSueYYYGrH4mQEV4q0sJLk0EceWCGe7fhue8HUDMhOD8JU=;Xv2vZsOmf4l9fjT3QgviQw=="
 ---

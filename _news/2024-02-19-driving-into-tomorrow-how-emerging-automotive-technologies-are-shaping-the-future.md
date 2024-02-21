@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Shaping Tomorrow: A Colorado Conversation on Artificial Intelligence"
-    excerpt: "In a little over a year since ChatGPT was launched on an unsuspecting world, artificial intelligence has begun to transform every walk of life. AI is making it possible for"
-    publishedDateTime: 2024-02-19T06:00:00Z
-    webUrl: "https://gazette.com/news/local/shaping-tomorrow-a-colorado-conversation-on-artificial-intelligence/article_ef87b044-cd2b-11ee-958b-b38db754b987.html"
+  - title: "Unveiling the Hottest Automotive Tech Gadgets and Features"
+    excerpt: "Rev up your engines and get ready to hit the road with the latest and greatest in automotive technology! From cutting-edge gadgets to innovative features, we’re here to uncover all the hottest trends that are revolutionizing the way we drive."
+    publishedDateTime: 2024-02-19T08:03:00Z
+    webUrl: "https://techbullion.com/unveiling-the-hottest-automotive-tech-gadgets-and-features/"
     type: article
     provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 41
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/8/ab/8abbb8c4-5d3a-586f-a29c-1157a85da412/624626c1c63dd.image.png?crop=1366%2C717%2C0%2C25&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/Automotive-Technology.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "mPhwCjOW/9xKwF/pkQKMbl+GwHIbkgB5vrnbtEoA2frcJHLY5GHt0l5vew7BCBeabnne3n358wRl1u2twn1BCh/keERFqpiHu0psXbFMpbIhK0pRNL5HX/q5ipCVXSNlzkcwbDulmvrrQGuJIGhOgPb5cl+g9thD5XQEOh0zTu3ONQPFW56dcSWCdiY8WxFeC+UY10qRdxL/UsC4iMWg/7uAFgSb0BPDVlZut3xyUdEDKeEC8o99W4iAgA/RDgcBlt6JifI3VPjk66DXSU76Y5Yxq8UQzFIQ9L4vpKuDiDcYfL+TMhUpQYZ5ZOvSI67a9krSMn1JUxSRbqThdqQ9+pkB30PiHFzboocXsvA04WH4a07XWJQULXcW1TPF25jEkkQ2HsWBxvHQe4s8lFlzu6ZZKBFt9kmk+ZBe9diGWJIpt/eMoeElkARweSwSSe9ISnkoVdRmWrAy4D6igDlHaGENBgIsoa137Z1QYcf7FQXWyI0qU8FEwdFZdMXh3h/ivT2K21JUs56fWX1uQQyb+w==;DLHsYejkfsygY1DLPZvPHQ=="

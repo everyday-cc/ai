@@ -33,20 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
-  - title: "Deep Dive into the Complexities of Modern Cybersecurity"
-    excerpt: "In the unspoken conflict that unfolds within the digital realms of our world, experts like Senthilkumar Chandrasekaran stand vigilant. These guardians confront formidable foes armed with the predictive might of artificial intelligence (AI) and the analytical capabilities of machine learning (ML)."
-    publishedDateTime: 2024-02-16T15:03:00Z
-    webUrl: "https://techbullion.com/deep-dive-into-the-complexities-of-modern-cybersecurity/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/image1-2024-02-16T200242.474-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Can Unicorns Save Us? Investors Pour Money Into Cybersecurity and AI Companies as Threats Mount"
     excerpt: "Unicorn companies in cybersecurity and AI defied fundraising challenges to achieve growth, driven by hype over generative AI and ongoing data privacy concerns."
     publishedDateTime: 2024-02-20T20:18:00Z

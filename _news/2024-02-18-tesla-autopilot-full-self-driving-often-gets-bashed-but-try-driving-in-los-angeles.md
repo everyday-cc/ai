@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autop
 webUrl: "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1600
     height: 559
     isCached: true
+
+related:
+  - title: "Watch Tesla Full Self-Driving Beta v12 autonomously look for a parking spot"
+    excerpt: "A Tesla driver using the new Full Self-Driving (FSD) Beta v12 software managed to showcase a new behavior: FSD Beta autonomously looking for a parking spot. The Tesla v12 software update is expected to introduce what CEO Elon Musk has been calling “end ..."
+    publishedDateTime: 2024-02-21T16:24:00Z
+    webUrl: "https://electrek.co/2024/02/21/tesla-full-self-driving-beta-v12-autonomously-look-parking-spot/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 67
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/Tesla-FSD-Beta-v12-auto-look-for-parking.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "TkMMkO+0CatY95ZhmVcmSLSdeFu6atuU/ZifVR/I9sS1KGjcdjpCxuAhDNzq75VuyYeBn0pdDe3rbUcM2DpE31BG02rojPMQ4kS54ZfIHBVRtBHL8hJbC5TN8IyS++07G/I+HioQsjZ+pUXY31zDzalYpuc6iZhq0VMx1xiFlmMc6m2RbeYwv1r5hF3JYSPyQ6DGn0+E49oC39R3o4jv40awcAOYfPsdAj81kh0DiLf9hT64ufGC0jKDh33FAXrVL37tH1uF6sFSY7g+HfBdUQQFW6PMxebGfSAx2FevK2pAET5xV3zhD3slY9+PIxmxKTZb7mo4Hwj5RIMIb/BvNqOfIS1qHvEHmQkaU9yIPm0lgFRTQwJUdT6b1Xus2XDsENDMfZCmXce5SzJO6aOT4MYoHHuFzu4oHplH0kb3HyX1qmRU5zgqxSaDADXGRJfVpqIShrcGQqmngi7tk1l2pFAoIOb8r/Z79ivIgXgbyjTT/y7p1kBWFTX5plc07zfx4PEzH3mdjRlSUgBY3XKJdw==;YZKdoID0kGo7/YYihC3T2Q=="
 ---

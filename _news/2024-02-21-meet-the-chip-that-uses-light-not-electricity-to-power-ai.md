@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/"
 webUrl: "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -80,15 +80,6 @@ related:
         width: 800
         height: 557
         isCached: true
-  - title: "The Future Of AI Might Not Be Chat-Based"
-    excerpt: "Businesses will need to soon start looking beyond the appeal of conversational interfaces and understand how task-oriented models can be integrated into their operations."
-    publishedDateTime: 2024-02-16T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/16/the-future-of-ai-might-not-be-chat-based/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "CvS7EC+FGu78z4xGJz2Jrf+45O8VesisrodtdtBSkrsWVAI9vIF600Hd9d/3yT3eZgLAeFHFtRppfuTVreIRv1HpVYn3Ge9KQIuIe4CpC7KFdFCcYu8ZP1tKliCKeJms9PQzNE0thSfciC85ukKccr28aBqXeAoGW+y4bHEdowo2mwHh/YuAOrcJ+aS4utTU/VkeEYHY4HNIrK0mWwwLWqZzWL96tTRGlCFKQ0USVwrMl6c0dWP91alsEyZmjp3BjD/hD2eB9vbVB7rny8LdyBAdCvJGOBHHj7MZ9Lfyewkis1V0JFLT8U00JgcxSrUWCFhovCFBXPnvXDqIY5OPgqPDkP9lOA0g1WblSPBl2ng=;MdPmJmUA94GnkG23Slqm+g=="
 ---

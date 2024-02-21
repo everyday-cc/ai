@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-19T17:01:00Z
 originalUrl: "https://www.politico.com/news/2024/02/18/artificial-intelligence-health-care-fda-00141768"
 webUrl: "https://www.politico.com/news/2024/02/18/artificial-intelligence-health-care-fda-00141768"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://static.politico.com/91/5b/94900b7b4055b5d14f2637ade97e/https-delivery-gettyimages.com/downloads/1689928795"

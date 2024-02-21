@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft and iCreate launch iMPEL-AI program to catalyze AI startups in India"
+    excerpt: "Microsoft and iCreate, in the presence of Minister Chandrasekhar launched iMPEL-AI (iCreate-Microsoft programme for Emerging Leaders in Artificial Intelligence) programme."
+    publishedDateTime: 2024-02-21T15:56:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2835938-microsoft-and-icreate-launch-impel-ai-program-to-catalyze-ai-startups-in-india"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2835938-microsoft-and-icreate-launch-impel-ai-program-to-catalyze-ai-startups-in-india?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835938-microsoft-and-icreate-launch-impel-ai-program-to-catalyze-ai-startups-in-india?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 70
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_02_2024_20_19_09_0335102.jpg?width=1280"
+        width: 1280
+        height: 861
+        isCached: true
   - title: "Microsoft is investing in more powerful AI tech to save company cash, here’s how"
     excerpt: "Microsoft is developing server network cards to replace the ones offered by Nvidia, which will help the company save some cash and improve the performance of its Nvidia chip servers. Read more to know the details."
     publishedDateTime: 2024-02-21T10:56:00Z
@@ -56,6 +72,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft is developing a network card that improves AI performance"
+    excerpt: "The Information has learned that Microsoft is developing a new network card that could improve the performance of its Maia AI server chip. As an added"
+    publishedDateTime: 2024-02-21T14:23:00Z
+    webUrl: "https://www.techspot.com/news/101960-microsoft-developing-network-card-improves-ai-performance.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 68
   - title: "Microsoft tinkers with Windows for AMD AI"
     excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
     publishedDateTime: 2024-02-20T09:06:00Z

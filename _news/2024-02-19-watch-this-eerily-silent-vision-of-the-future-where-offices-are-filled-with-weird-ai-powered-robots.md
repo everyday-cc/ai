@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Novity grabs $7.8M in funding to streamline industrial predictive maintenance with AI"
+    excerpt: "Novity’s TruPrognostics AI platform gets around these issues using a combination of machine learning, physics-based models of common machine faults and internet of things sensors. According to the startup, this unique combination enables it to predict ..."
+    publishedDateTime: 2024-02-21T14:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/21/novity-grabs-7-8m-funding-streamline-industrial-predictive-maintenance-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 10
 
 secured: "Nsn7OJc9rgtQaa3/kvOSrJUKwJqx4mp56de68nmQppUXhe+5QyfsCc2ahywF8MSm+7oTnh6jiUAXlcEzStTo3k6fSwaRyonYQqzf4mU56scDzJeDzBiGx1omRnBXGJAW7zdLuSwMhLPj/jPb2j0nttT4+rWPacfv4I8McSju3vMsmAFtXdVMGAkEexsoHavruYKrvccNAUb1bPDizPqEQIwb2h3+ckNf/jqQqAZPKC4QEdaZ7o1UHuuagoY9ki+HjCF/ttw1FYe0SdsH2ngh7554GAMue8SXPdH7ErPR6ecEewKm7eBdK30+R6E+pblqXAM9N+9nx2a/0uVfJ2QmikYETWdgVTnAKU0TIazGrdi2EI8Fk//LFwmHPkbUTi4tK7NSsKOnBNCoQa8KqosbjhFDi5DeGeegbgVgVpZCHKTuSfpijlB/ecVh0ladmjuEGpAtX4RuM/Fs5n/XIO+VXBT5EGPWuJHvT4l67m9xfxOIhyYCfisTcPYuqLvsr8H76kLj39EHFS25m9ew+CSLHQ==;LksE56mK6tIlC21Ds2/OIw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/ios-trojan-collects-face-and-other-data
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 71
 published: true
 
 provider:
@@ -28,38 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "iPhone Devices Under Threat as New iOS Trojan That Targets Facial Recognition Data Reported"
-    excerpt: "The trojan affecting iPhone devices was discovered by cybersecurity firm Group-IB, which also named the malware."
-    publishedDateTime: 2024-02-16T15:11:00Z
-    webUrl: "https://www.gadgets360.com/mobiles/news/iphone-ios-trojan-malware-reported-targets-steals-facial-recognition-data-face-id-5070953"
-    ampWebUrl: "https://www.gadgets360.com/mobiles/news/iphone-ios-trojan-malware-reported-targets-steals-facial-recognition-data-face-id-5070953/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/iphone-ios-trojan-malware-reported-targets-steals-facial-recognition-data-face-id-5070953/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 49
-    images:
-      - url: "https://i.gadgets360cdn.com/large/iphone_apps_pic_1708096164615.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "First ever iOS trojan discovered and can steal Face ID data"
-    excerpt: "The first ever iOS trojan has been discovered — and it’s stealing Face ID data to break into bank accounts, according to Tom’s Guide. According to a new report from Group-IB, the Android trojan GoldDi"
-    publishedDateTime: 2024-02-16T14:19:00Z
-    webUrl: "https://www.mactech.com/2024/02/16/first-ever-ios-trojan-discovered-and-can-steal-face-id-data/"
-    ampWebUrl: "https://www.mactech.com/2024/02/16/first-ever-ios-trojan-discovered-and-can-steal-face-id-data/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/02/16/first-ever-ios-trojan-discovered-and-can-steal-face-id-data/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 44
-    images:
-      - url: "https://www.mactech.com/wp-content/uploads/2024/02/Trojan-1024x864.jpg"
-        width: 1024
-        height: 864
-        isCached: true
   - title: "GoldPickaxe Mobile Trojan Malware Captures Facial Data, Intercepts Text Messages to Access Financial Accounts"
     excerpt: "The new GoldPickaxe evolution of the GoldDigger trojan malware takes things a step further, retaining the prior functionality but adding the ability to capture facial data for the purpose of creating a deepfake to defeat biometric logins."
     publishedDateTime: 2024-02-20T11:00:00Z
