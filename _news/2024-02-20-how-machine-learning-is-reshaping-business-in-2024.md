@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Smiling is the secret to seeing happiness, new research reveals"
+    excerpt: "Smiling for just a split second makes people more likely to see happiness in expressionless faces, new research has revealed. The study shows that even a brief weak grin makes faces appear more joyful."
+    publishedDateTime: 2024-02-21T02:48:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/02/240220144340.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+
 secured: "4YhVi+kzu1VSFOet9hTWiT+NqNSod4dxwJuuVwTLlttVV7EWB60zGyfm6kfcpUcllnncFMWMdKVHXfxrExQHsZ+z24kV7hwqUgwAsUCEJH4aFoC8mE6D/pcZ6BaLvT+zoM+qJm3APCOPeMmgo5FnqXwpbOxmtpLj7DNhuXzLt9B7vaL0xj30MdvHJhcxh7QkaCzzplg6a8vk7BbqFJ97pnc/K6OL3/1pTU2UbKJRpOV8ViPJt4ZYXT9tqmt//Uo7VOePYCvNgbnlSaW/AYY+0gfodi3RvSyjE24aO6RzK0VMLvaPjO95X9uinG0ajM9rf36S66LSfgOOaCJVSVwsnNzXwDkSbw7c9wUKQ4yWAO4=;kLr7iovpkohtfuK/SKOJJg=="
 ---
 

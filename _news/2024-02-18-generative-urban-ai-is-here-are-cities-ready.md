@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1353
     height: 900
     isCached: true
-
-related:
-  - title: "3 Ways We're Already Using AI in Mental Health Care"
-    excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
-    publishedDateTime: 2024-02-16T23:16:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 19
 
 secured: "BVAC3rQompMM5rs+xf4SRvnhSo1cGYfDLwqNhcYmlhFHGClmD+VcDdATMQoiVjvc3TDuAazeRVYTZYcSBxaxHW8BR9AHwdQ0z6chHTiC7pxLhsyguBE3U2tGo/uaWzXjxHsSWsnqh8bG7VItE6uo0R3tuVwYsvE4b02Uke8MbOEPUXzy3XjcOIXMIDITa0pFtvzZUBt6wu8TlBxz1S3n8pZ/7IdBeGrlvLiEUGdH4yFu2LiVOQPugFo9FxkXC6LL71yjyP0RdzlfN/shIPFKVrKTdyygSvRA6MTI1W1AOR7HlS2s7OdpuvcT5ysfTmdgI9Wf1Mkka7ktZtgL3kntgEJ450x4tWvyl8l/BxDKKnYiQUsuA2skkGIWQtVxgxTcakJix0gbEDadGGnlPUrMX2kMUn9a3zmmHEEDZ316nPRU9Sqk7FwCgn2J4kUumzL6neJEjeMBkf9sruJoEWA6PntC8tpXVooYgUO1uZ6U8OMKXuRmIv44kqlYDhYCAyUhl/Cql/c7CE9h0bcSK5Bcyg==;ZT5iYu+UAhdtScfQWAhHDw=="
 ---

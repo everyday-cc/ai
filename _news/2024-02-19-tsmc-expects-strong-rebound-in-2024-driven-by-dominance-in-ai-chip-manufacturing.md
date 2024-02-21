@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20240219PD200/tsmc-ic-manufacturin
 webUrl: "https://www.digitimes.com/news/a20240219PD200/tsmc-ic-manufacturing-2024-ai.html"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "SK Hynix reportedly plans AI chip alliance with TSMC"
-    excerpt: "SK Hynix is rumored to be establishing an Artificial Intelligence (AI) semiconductor alliance with TSMC, investing in the development of next-generation high-bandwidth memory (HBM) such as HBM4, and strengthening its packaging technology capabilities to solidify its respective positions in the AI semiconductor market,"
-    publishedDateTime: 2024-02-16T02:14:00Z
-    webUrl: "https://www.digitimes.com/news/a20240216PD204/sk-hynix-tsmc-ai-chip-alliance.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240216pd204_files/4_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "n9pGSNzueUn4U350SfmBujoOZ7lw0EdFB3PrJ8x1V2Iqw9vpub9K8KCPkDHentzV14XTRO/+L9QCjWCngxQ7s+7cH11Nb9/opy5SYVfi0sLMzVrIhZUD/S+salH1o2iIeEj3/nQ5z2cQHkHN0sK+g3pBMrauhqnHpN2BBOQ7+oJd/3qEp/iQKaYNI6Iy5WiVcxRYAZeEf2oyOVsQYj6gGoyOj+JcQSDGiL/s3gpOv94lUHbY9Ue34n7PMJhoiSAUCBI6YnPmgjJgnmLIm0uy3KTmk6+RleqNcX7+XhdMQlVPGqyLB/8zodO/ox0KTqlSWClDE4VbEZEXFBf3mXFeC0koyeoFtxUJ4nZmxaYiSOo7KCeXpNrERGrKGnmhY6Fl9eytPXlL3pnEfHE9TC84zjbfYAaw2+qSpIpbmXUvdGGJShlKPg34CpeDfTRTU+F5f5coNLv5MkrY+xWde6K9CF8IfEEymyGOi09TEURBCyToH1xr+fT6Z+Lt2gWFQK07M/gjx8i3CoyB/9qdPV81nA==;y3o3tw1b7ocUdd7M9nM/vQ=="
 ---

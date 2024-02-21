@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "How empathetic Artificial General Intelligence can be?"
+    excerpt: "“AGI can potentially revolutionise psychological care by augmenting diagnosis, personalised treatment, and therapy delivery ... highlighted. The Artificial General Intelligence (AGI) market size was $2.17 billion in 2023 and is expected to reach $ ..."
+    publishedDateTime: 2024-02-21T02:31:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-how-empathetic-artificial-general-intelligence-can-be-3400342/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-how-empathetic-artificial-general-intelligence-can-be-3400342/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-how-empathetic-artificial-general-intelligence-can-be-3400342/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design441.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How close is OpenAI to creating Artificial General Intelligence (AGI)?"
     excerpt: "Artificial General Intelligence (AGI) is a class of artificial intelligence that is capable of understanding and applying knowledge across"
     publishedDateTime: 2024-02-20T10:33:00Z

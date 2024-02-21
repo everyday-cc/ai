@@ -41,38 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI’s Sam Altman seeks blessing to raise billions for AI chips"
-    excerpt: "OpenAI’s CEO is working to secure U.S. government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national"
-    publishedDateTime: 2024-02-17T21:42:00Z
-    webUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/"
-    ampWebUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 74
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2024/02/BIZ-CPT-ALTMAN-AI-CHIPS-GET.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Sam Altman's new AI chip startup awaiting US approval: reports"
-    excerpt: "Sam Altman, CEO of OpenAI, the parent company of ChatGPT, is awaiting approval from the US government for his new AI chips startup, according to a recent report by Bloomberg News. The report suggests that this emerging venture has the potential to trigger concerns related to national security and antitrust issues."
-    publishedDateTime: 2024-02-18T08:26:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/sam-altmans-new-ai-chip-startup-awaiting-us-approval-reports-3546751"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/sam-altmans-new-ai-chip-startup-awaiting-us-approval-reports-3546751?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/sam-altmans-new-ai-chip-startup-awaiting-us-approval-reports-3546751?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 74
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/02/18/sam_altman.jpg"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Softbank’s Son reportedly seeks $100B for AI chip venture"
     excerpt: "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia."
     publishedDateTime: 2024-02-19T16:18:00Z
@@ -187,20 +155,6 @@ related:
       - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=6333bf6a-b549-5589-8178-8668be8928ed&type=preview&function=original"
         width: 1600
         height: 1067
-        isCached: true
-  - title: "Zuck backs Altman's £5.5 trillion AI chip plan"
-    excerpt: "It is not bonkers Meta Platforms boss Mark Zuckerberg gave his views on the £5.5 trillion AI chipmaking plan by OpenAI chief Sam Altman last week. .While he called the number \"sky-high\", Zuckerberg also said he believed in the need for such a plan for the future of artificial intelligence."
-    publishedDateTime: 2024-02-19T10:36:00Z
-    webUrl: "https://www.fudzilla.com/news/pc-hardware/58472-zuck-backs-altman-s-5-5-trillion-ai-chip-plan"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/fe80dc7fc24c7d1357f3aefa8ac33b93_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "SoftBank stock rises on CEO Masayoshi Son’s plan for $100 billion AI chip project"
     excerpt: "Shares in the Tokyo-based tech investor SoftBank gained as much as 3.2% reports that 66-year-old billionaire CEO Masayoshi Son is seeking funding for a foray into AI chips to compete with Nvidia Corp."

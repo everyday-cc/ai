@@ -8,9 +8,9 @@ webUrl: "https://www.mauldineconomics.com/editorial/2024-will-be-AIs-breakout-ye
 ampWebUrl: "https://www.mauldineconomics.com/editorial/amp/2024-will-be-AIs-breakout-year"
 cdnAmpWebUrl: "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/2024-will-be-AIs-breakout-year"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: MauldinEconomics.com
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Meta AI
 
 images:
   - url: "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20240216_feature.jpg"
@@ -44,6 +45,6 @@ related:
         height: 900
         isCached: true
 
-secured: "lphO8xe1hHOBkkQU3GPmq2yRcR7YclYqpnIhJOdocB/je1VSC6xpmwS9yoHiIE/fJUz/mUJfM8ExPEtJ/ikPTsnvnkBEAIVLgkl0IBy4ENzzsvcrChZIhLm/53QRROvRNfTS/y5FoXw2gVQf6HEHOdeBJJEQy28ivFDEdJxoD0MZNQBHLKp/87QTPfxY+0d7dDZBTD37losQ4qxNNeyf1A3ycld6KOG9R+rtMRMN/s7xPQ4o4wIIdeesV1Fc5GJEb3MA1if66hOwr7k6Jk86IK/ijPhbDE5WS2nJgr9XfWtI3jA0kNLcBjIguY8ztypoKT/xGCkR1RChfy4te5dV6cGaVaWgtrn0mccYty3/NSY=;a4V1g4JNb7LXwUMtCEL0hg=="
+secured: "/gnCWJ1gZHWIHC4sR2GdN4U5V08WltLvuG6rp4Z9tLXQ+kPYzAu/q6YPNUHNQRRkKwrMXxzFk4NNdTNjafx8KnaOfLag02um6vH9QgS8oFGfVZ00m7drKhxctdLHOZkzYXGudUzZ8hUcXSHJKjSEtLrq86J1ncbVBYeDku/QrON4c5zTGM3fsk/PD2q2xey0ZRD6gQbk2gpPPDAaFcDUnJpnTaO1k8TVJLTgXWTe2t6RmT54B6PiWo2QtKzr6K4cNZ3cUIUXML+A4auB24JmOeTrNiOUKMskI8cOr8v3HYrKHNf0CjqYyuundic4b3qR/g0V6fXIjbGdAx+DI/7sSus5IWaYE+S7e/EX9gc9v1kVQ54BEEslii8AIk+y+4r9BB8sJk6GTaCnUfYNGZMmQ+zPRnCS7KDHWRjvxyntDRI7c4ufyEg1eIDGwuf3hYYwmM1sDxg/R4qOvpriWA9GpqyTFjGEZowia+HP2n+r1A4ODxLiQLxo2EZHJR+yCWtJIdw4U5ClDinD9xayJGg7Ug==;jI/1zZpikHXc4mkP2VyBLQ=="
 ---
 

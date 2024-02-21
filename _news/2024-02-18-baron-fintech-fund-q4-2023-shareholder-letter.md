@@ -78,6 +78,20 @@ related:
         width: 1280
         height: 866
         isCached: true
+  - title: "Sameer Nigam talks all things fintech; Paytm’s shares surge 5% again"
+    excerpt: "The caller identification app's AI assistant in India led to a 19% increase in paying ... In the wake of the developments, Finance Minister Nirmala Sitharaman has decided to meet heads of fintech companies next week to persuade them to strictly follow ..."
+    publishedDateTime: 2024-02-21T02:41:00Z
+    webUrl: "https://yourstory.com/2024/02/sameer-nigam-talks-all-things-fintech-paytm-one97-tamil-nadu"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/CopyofImageTaggingnoframesEditorialTeamMaster41-1708449485937.jpg?fm=png&auto=format"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "3 Under-the-Radar Fintech Stocks Ready to Make a Move"
     excerpt: "The word \"in\". A play button in the shape of a television screen. A stylized camera. InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks continue to lead the way with groundbreaking innovations in payments and customer services."
     publishedDateTime: 2024-02-18T13:00:00Z

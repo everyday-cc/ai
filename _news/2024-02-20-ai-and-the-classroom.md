@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-20T04:58:00Z
 originalUrl: "https://yaledailynews.com/blog/2024/02/19/ai-and-the-classroom/"
 webUrl: "https://yaledailynews.com/blog/2024/02/19/ai-and-the-classroom/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Meta AI
 
 images:
   - url: "https://yaledailynews.com/wp-content/uploads/2024/02/writingai_hm_SurbhiBharadwaj_SeniorPhotographer-1024x683.jpg"

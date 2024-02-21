@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-leng
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
 type: article
 quality: 93
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-1.jpg?quality=82&strip=all"
         width: 1600
         height: 809
-        isCached: true
-  - title: "Duet AI rolls out to more Google accounts as the Gemini rebrand is imminent"
-    excerpt: "Duet AI offers features like reply suggestions and summarization, which vary depending on the Google product you are using. Google is still figuring out how to introduce Gemini to the world, but it is expanding access outside of the US and plans to explain its capabilities as it rolls out."
-    publishedDateTime: 2024-02-16T01:47:00Z
-    webUrl: "https://www.androidpolice.com/duet-ai-google-gemini-rebrand-workspace/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 37
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/02/google-gemini-google-assistant-lifestyle-4.jpg"
-        width: 3874
-        height: 2583
         isCached: true
   - title: "Google AI Chief Touts Ultra Low Resource Machine Translation in Gemini 1.5 Pro Launch"
     excerpt: "Google promotes its latest large language model, Gemini 1.5 Pro, with a case study on low-resource translation using just one book."

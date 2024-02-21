@@ -22,52 +22,38 @@ topics:
   - AI
 
 related:
-  - title: "Retrieval augmented generation (RAG): The open-book test for generative AI"
-    excerpt: "The release of ChatGPT in November 2022 marked a groundbreaking moment for AI, introducing the world to an entirely new realm of possibilities created by the fusion of generative AI (genAI) and machine learning foundation models, or large language models (LLMs)."
-    publishedDateTime: 2024-02-20T16:37:00Z
-    webUrl: "https://www.infoworld.com/article/3713062/retrieval-augmented-generation-rag-the-open-book-test-for-generative-ai.html"
+  - title: "MBZUAI and UNDP partnership to advance use of artificial intelligence for sustainable development"
+    excerpt: "As part of the collaboration, the university becomes the founding knowledge partner for the UNDP’s AI for Sustainable Development Platform"
+    publishedDateTime: 2024-02-19T10:01:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc?amp=1"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 67
+      name: Zawya
+      domain: zawya.com
+    quality: 59
     images:
-      - url: "https://images.idgesg.net/images/article/2024/02/istock-1398462038-100961413-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/Y2RhYzNkNWUtNmE0MC00/0/jji-mbzuai-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 599
         isCached: true
-  - title: "What Are AI Text Generators? 8 Best Tools To Improve Writing"
-    excerpt: "Learn the various types of AI text generators and how they are transforming content creation. Unleash the potential of AI text generators in automating crafting copy."
-    publishedDateTime: 2024-02-17T19:01:00Z
-    webUrl: "https://www.forbes.com/sites/technology/article/ai-text-generators/"
+  - title: "New mission to set standards for use of AI"
+    excerpt: "Tamil Nadu is establishing an AI mission directly under chief minister M K Stalin to develop guidelines for “constructively leveraging” AI in areas such as education, employment, industry, and medicine."
+    publishedDateTime: 2024-02-20T02:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/articleshow/107836525.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "What will generative AI mean for the racial wealth gap?"
-    excerpt: "Tech shifts have a history of keeping Black and other groups at the bottom of economic opportunities. Will generative AI be different?"
-    publishedDateTime: 2024-02-16T12:30:00Z
-    webUrl: "https://publicintegrity.org/inside-publici/newsletters/watchdog-newsletter/generative-ai-racial-wealth-gap/"
-    type: article
-    provider:
-      name: Center for Public Integrity
-      domain: publicintegrity.org
-    quality: 39
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://i0.wp.com/publicintegrity.org/wp-content/uploads/2024/02/GettyImages-1355305689-scaled.jpg?fit=2560%2C1350&ssl=1"
-        width: 2560
-        height: 1350
+      - url: "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg"
+        width: 1280
+        height: 854
         isCached: true
-  - title: "Appy Pie launches AI Animation Generator with a Range of New AI Tools"
-    excerpt: "The AI animation generator from Appy Pie is backed with features like natural language processing, real-time previews and edits, background music integration, voice over capabilities, and much more, making it easy for users to create animations for their ..."
-    publishedDateTime: 2024-02-18T21:10:00Z
-    webUrl: "https://www.palmbeachpost.com/story/special/contributor-content/2024/02/18/appy-pie-launches-ai-animation-generator-with-a-range-of-new-ai-tools/72653531007/"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 19
 
 secured: "coHf0LkGB+OTtFk0UnEbLQP3hurE0vjkadAZU1rnWtBlEQa42fA16By4Nnf5yohArm9sQtg+EAFXsS4tl0uukEr5R3q8Ffg0j0gKfAKdy9yVDCkUc+8G3iTtGgn5VsTgRy4Ybo8Dif1pirUT7DTLEsd2LKoICi6hJyUxjKnS6kJRvp1nRNzOQNzYKVdkLoghENKqLGGPcvTXW6HKl2B5tNMnb0/w5OzI6WGi9WGRfVMd/3R90rs2/LzBmzcaG+nD1AdF7k+w4ynGGPCWo87oXzLrWatASLdI0MhUpDF9MzpPWKilVnZEaz/NtRXlf0zaXp7dvqEeKpkg7fa+aZrwBhQ9uG5cmqJtoPId7R+TGaExeywQ5PON75SF9Up+cQBzJyJfM9TjmXhOnf5CMem8aiWkHS2RWC4e0F7GfdTdv7+zmYsyMynlOKsPfDdl8qbdx0AxK/JSIJ7CkqGzaDclT2UWEYZZR0UojFyYi9Q1+z+aKzQV9uN2as0XlDPkwNudZcu/rUmlW3og0HioOi1V5w==;Ne0S+R6LiMKnimJB+rxCUw=="
 ---

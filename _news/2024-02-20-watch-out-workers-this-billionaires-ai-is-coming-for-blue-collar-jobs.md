@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/johnhyatt/2024/02/20/watch-out-worker
 webUrl: "https://www.forbes.com/sites/johnhyatt/2024/02/20/watch-out-workers-john-fish-and-his-ai-is-coming-for-blue-collar-jobs-too/"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Forbes
@@ -27,6 +27,22 @@ images:
     width: 1599
     height: 900
     isCached: true
+
+related:
+  - title: "Is AI coming for your bank job?"
+    excerpt: "Is artificial intelligence coming for your banking job? That depends, experts say. The more senior you are, the less likely your role will see an impact"
+    publishedDateTime: 2024-02-21T02:01:00Z
+    webUrl: "https://www.cuinsight.com/is-ai-coming-for-your-bank-job/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 56
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/09/bigstock-Futuristic-Robot-Artificial-In-452602145.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "5pI4QJMLcgEjE2C5tehVUmfJ4a7Myr5K3gVqM7MaSCbKvRfN5k7l30YZ4o/s5ZvnCUIn1uIeCaoxMb74LxKp/5IVK0Fbv0l38sEHfVwsoHbhInr/UMWaxT5kQBQcXBedKNahQ0dylBrsgBVf3LPrHYDPrATZHy23IfY2oubnG+JvIYgh+/I1262RAsiqDUYLQqGCAy2H2cE7AZtEnl7DdU5fqAm1g2/PUikE+rwZTLqpVSKUsU6/qBYHbmUmnt6vYwRDyqWNnx4MHV3VNcioKd7KJDS6fyaHrpPQEOZ4zdIlaXc1xGuq/YK+IonV3E5NMp7Ig/4osJZnwlmaTFUBBOcgcPvyOE1AD1Dk4LrzJ7pY7WULDWgPrdzDXA8S/YWLcpZgWoVmXqF830MKzSdXbo35DQcfTRAzCIlbv5+lzGTS+qk8vwfY0jHrgXa9vCK59U4isOfl1y2XFZeMZzdAYPT7bK6NB4sHcWkO/dMxks/dynk7oEHe8YnlMqqw668yw7afJkjcYZSB+4zpSOJ3FA==;2nFh7Ndmgw1mJJhT9PWbyg=="
 ---

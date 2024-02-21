@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/kt-network/transforming-healthcare-bhar
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca?amp=1"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
-    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
-    publishedDateTime: 2024-02-17T16:00:00Z
-    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+  - title: "Usual approach 'not enough': 8 healthcare execs rethinking financial health"
+    excerpt: "Virtual care and sophisticated patient engagement tools are now standard for most healthcare organizations. Further investment in artificial intelligence, machine learning and automation can make clinicians and administrative teams more efficient while ..."
+    publishedDateTime: 2024-02-20T22:31:00Z
+    webUrl: "https://www.beckershospitalreview.com/finance/usual-approach-not-enough-8-healthcare-execs-rethinking-financial-health.html"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 67
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
     images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
-        width: 361
-        height: 203
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Hartford HealthCare launches Center for AI Innovation in Healthcare"
     excerpt: "HARTFORD, Conn., Feb. 19, 2024 /PRNewswire/ -- Seeking to harness the transformative power of Artificial Intelligence (AI) to safely enhance patient care, Hartford HealthCare has unveiled its Center for AI Innovation in Healthcare. The Center is the first of its kind in New England, and one of only a few in the United States."

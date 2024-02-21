@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Integrates Galaxy AI With Bixby; Adds Voice-Enabled Artificial Intelligence Features"
-    excerpt: "Bixby is the native virtual assistant for Samsung devices Galaxy AI was launched alongside the Galaxy S24 series in January Samsung’s Galaxy AI adds features such as Call Assist, Interpreter mode"
-    publishedDateTime: 2024-02-20T08:33:00Z
-    webUrl: "https://www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690"
-    ampWebUrl: "https://www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690/amp"
+  - title: "Will Smith parodies viral AI-generated video by actually eating spaghetti"
+    excerpt: "Will Smith posted a video on his official Instagram feed that parodied an AI-generated video of the actor eating spaghetti that went viral last year. With the recent announcement of OpenAI's Sora video synthesis model,"
+    publishedDateTime: 2024-02-20T14:50:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/02/will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti/"
     type: article
     provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 61
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 66
     images:
-      - url: "https://i.gadgets360cdn.com/large/samsung_galaxy_s24series_1708417812133.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bixby now lets you launch key Galaxy AI features with just your voice"
-    excerpt: "Samsung has made a splash with the debut of its Galaxy AI features, which include everything from Live Translate to Circle to Search. If you’ve already managed to get your hands"
-    publishedDateTime: 2024-02-16T18:17:00Z
-    webUrl: "https://www.androidpolice.com/bixby-galaxy-ai-samsung-voice/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 39
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/01/galaxy-s24-ai-hero.jpg"
-        width: 2100
-        height: 1400
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/will_smith_parody_hero-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
 
 secured: "4XX1ry3VHtWMGDqxwZxSg6e8LzB5hMFTuZamM57qxytNZqo0+lD9zR+tVFG8PWMPVO9YsEYciQ/PsPDQAAILK/NDG4Viu6fRjw/E468bRgABhSUdKsdxDo6rhZ0k/8CXQW65KS7O9iSJ9dhUn4nZ2Yzm5rl2nnpZmOHP90n1LNlmQM+NGg5wK3t6H2CfIrxFo5Q8GrmAHD6CBa9FMZz3OT3BB5xVNPnBxl+xuvD9Aqb0YY8yzG8FS1PlVD9JkiY7L9EX32PqoAN4OS3W0DuOZfe03/7Joih0fjOFFxe5MxY9N+N4/I6ZSr1IMU847+41bEibREZwBjdMbY8Ugh2DgGvJ4hOPp9UVXkJFVvcc9CkuzJQ2e1Te5d4h9wwtz8x292F4twP8oCuew3Aym3MPFXFyJLTKee3JjTHxdqvWAdnaJjcrk1lP6sT897+4c27j+fkMRjo0nPb8ONbTruuOpNZqGWgjfm7/jB04oFMXigZmRCR0OYwuzSJ+s5jOEgzkLO6g4GRDf1/AbZ75bGFZAA==;YqLKrTFVDZXker0uHoLABA=="

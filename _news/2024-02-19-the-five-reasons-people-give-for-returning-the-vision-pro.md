@@ -41,6 +41,20 @@ related:
         width: 1312
         height: 738
         isCached: true
+  - title: "visionOS 1.1 beta 3 now available with several improvements for Apple Vision Pro"
+    excerpt: "Apple is seeding visionOS 1.1 beta 3 to Vision Pro developers. Here's everything we know about this upcoming update."
+    publishedDateTime: 2024-02-20T18:14:00Z
+    webUrl: "https://bgr.com/tech/visionos-1-1-beta-3-now-available-with-several-improvements-for-apple-vision-pro/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 34
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/11/apple-vision-pro-visionos-bgr-2.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
 
 secured: "L7u/2OdglClDTK4uwdyjUcDRX9nUBs8p00sqM2mOJAHNdSLZ1Faj27OSDB3Rnmq1o5mZ0Oc6M8TUew9inI7yvLbPcNK1kme8exMkYvaMhjE7TZhYEVEn536VK6rFgpniSDRlXzrUWOdNvY2EVMknxck4sgZtKGCUAQkeD215jvHLcImslVJGBi996Py+6Tk/nscb4xJ/RO1bGnjm69J9Cl/3h27mSmymFBG3pmq5kbtbmPysNDoUDXOSoenpCiubXipueFx1miybI7k/umUmVELo4+NH0m9OfzoEX8xDIi1OwOJzFeROd4pdpwTLxs/QgzsZEHHHlUGstl+2RZsIukwGAPVK04Dj1uMh7/DkfatT6YvD4ixcMlPfw20pn6QYrprJ2iVsHIS8iQvTFvvs6tOnxvG5ZkThyCyRodqpcXx+009RRwQe5uNDuQtGnlBHB9u5nLzvI31PpN4PC19tq4ro/+BXHMr1fCu74gkNqHGPABv2kMUHCYaGoShfy8HagAf39HYWubvmt2HP61oHQw==;QYuBMkjy32mEjAEpUeOe0A=="
 ---

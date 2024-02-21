@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How to Watch the Fresh From Florida 250: TV Schedule, Live Stream and Start Time - Friday, February 16"
-    excerpt: "See how to watch the 2024 Fresh From Florida 250 on Friday, February 16 live streaming or on TV, with channel info, start time and more."
-    publishedDateTime: 2024-02-16T02:31:00Z
-    webUrl: "https://www.kwch.com/sports/betting/2024/02/16/fresh-from-florida-250-nascar-live-stream-tv/"
-    type: article
-    provider:
-      name: KWCH
-      domain: kwch.com
-    quality: 6
-    images:
-      - url: "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/v2/MMBJ7O3S7RJQXMRP3SNSCPD5JM.jpg?auth=0de80fa2d553a359c0a9128495a1d8a2883722c909d18a77716f7354990c34c2&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "KCwUMiSFB7N8P/koVfU4xVfG1Z4uLW8LqHvT8R+7GLy46Iy/2+IEFVdVn68QENqacqlXNyHi6o4Wkc3IoFK8QSXLpeR7FUQ5AhwnIGo+DG+0SftMlBRJPhpQeEhiIAe3zu3XX7oowRNrMdmqn/4u47ol31yO1NSAEcauDW1efKhegTkaNduL067kJJVhFUdNfKyu4prnVqBe+CaG2epe06rVBpoHr/mBLU0ZmYYN/WRrKUUw2SR4URu4qfg/eO+PLVZ5tv3y77LBxpgjF7llQy16YgZmKUjhXtRqwcxv8XRtHnZYKsBrbNfHQOEUsLBAHIOWMPj6k5q3oLa73KgeM2IAnpVVEnPpi11Ll70VRXU=;hWzMwdjVmx0BWgP7tE9mWw=="
 ---

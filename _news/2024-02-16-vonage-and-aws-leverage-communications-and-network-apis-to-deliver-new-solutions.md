@@ -1,53 +1,20 @@
 ---
 category: news
 title: "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions"
-excerpt: "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),"
-publishedDateTime: 2024-02-15T16:28:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm"
+excerpt: "and its Verify and Number Insights APIs paired with Amazon Rekognition. With this new update, Vonage will further build additional solutions like this that will accelerate bringing the power of ..."
+publishedDateTime: 2024-02-15T17:06:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61418954-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-new-solutions-004.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61418954-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-new-solutions-004.htm"
 type: article
-quality: 14
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "SMX signs agreement with AWS to accelerate innovation"
-    excerpt: "SMX, a leader in next-generation mission support, digital transformation, and information technology (IT) solutions, is excited to announce a three-year global Strategic Collaboration Agreement (SC | Expanding on the SMX and AWS 15+ year relationship to accelerate client missions and innovation using AWS."
-    publishedDateTime: 2024-02-15T17:43:00Z
-    webUrl: "https://www.silverliningsinfo.com/newswire/smx-signs-agreement-aws-accelerate-innovation"
-    type: article
-    provider:
-      name: silverliningsinfo
-      domain: silverliningsinfo.com
-    quality: 39
-    images:
-      - url: "https://qtxasset.com/quartz/qcloud4/media/image/MicrosoftTeams-image%20%2831%29_1.png?VersionId=Cbn_y6LTOv_tbk_8AsA2ykcCaWtlTUTR"
-        width: 1410
-        height: 806
-        isCached: true
-  - title: "Accelerated HPC for Energy Efficiency with AWS and NVIDIA"
-    excerpt: "As HPC users are increasingly integrating artificial intelligence (AI) and machine learning (ML ... more HPC simulations and AI/ML applications at scale using on-demand AWS compute infrastructure. Drug discovery, protein target identification, structure ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://insidehpc.com/2024/02/accelerated-hpc-for-energy-efficiency-with-aws-and-nvidia/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2024/02/AWS-Nvidia-sponsored-content-box-image-2-1-0224-1.png"
-        width: 508
-        height: 255
-        isCached: true
-
-secured: "FcQ3JDNGcST5W9mKejUfnPlPwJ9sqSzPtsXAaNO09QgwsCPXkem8PN9ygx8gBJyHEFWRzJZEha2zOuYizPVtING1ZHQGRG4cf6C3Dr66EK1xEE/f7hvced+EeUYcRcVlcpXOTtaaobbHG8yP6UbZ0iFlG7Z7N+eSEBAvEcxpP1ub70crOT4QoUCtVha5moxjLPEQBfixLz68Axfaf2IFvLTtML+EyA9RIvBho9S2OeVFZGGpCMuPHO2MaosgVJ9wy/h0uUyEEuJYXeJs+d3sH9+4RWGOzmk9Lj2JlP+PlRr3X23OtcE3P2iH8v1u76JExeQOQ1+wb5XQNUCdsXod335aoQWVSTVmmTM4tJMcL2HTiAJ4bpRe9BIV/h5SGtn/qOrOuJ7ddJh+9eaqAnuDUKvAkv2E1rAtwA9WSkbKZo84WUvMyZDiV0Rl8w8c+nkjV6HUyORee47cdj3ASHQTs9/LZmnj+4VZJ8an14ZFvupR9KAYEm5iIDmmAuRDVwHzX6XQl+6pcG4yEo56IWekkw==;DYodIwRqr81Lq6wxmoeeVQ=="
+secured: "RdpRhZv/EThlPVwJ22VXpoHWfVA5yFC+bqSOoLutWCnh4DRluBNQyuer6RH6+m75pSsWmWm5MeQTjYXb4mvrSDmUWYSs4j8BTMnU/7B1jtaHmRWVsE65GgdVf+t2/El9dcnHgKAqglBY8yWHpEu1qJzW4Id1S9bpI+MS3SEXf9QQCT4E4CdrBWrc1INNiFLXQDY8Ufl1aSbGZwdV/PoRM1f73JiGn0qPvVI8AKJLd//tRV5Tkp1JE3r30G33PCMCHfEz/ljVOeOY2g+xYj/5P79ubC7ox/UErS2wEshUwbDsnNQB8/6h54J9q70jontXqUd/03eI5RXIbgwsVSzpMf6k3QkH0pA3j/lM5Re0RDo=;h+iArxd/0ElIcJ/fD63/8w=="
 ---
 

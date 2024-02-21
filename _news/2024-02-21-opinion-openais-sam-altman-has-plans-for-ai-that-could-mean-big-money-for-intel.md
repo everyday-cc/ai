@@ -1,0 +1,122 @@
+---
+category: news
+title: "Opinion: OpenAI’s Sam Altman has plans for AI that could mean big money for Intel"
+excerpt: "Open AI CEO Sam Altman drew widespread attention recently when he appealed for up to $7 trillion to develop silicon-chip manufacturing capacity that can power artificial intelligence. The unprecedented scope of this vision, equal to more than 20% of U.S ..."
+publishedDateTime: 2024-02-21T01:54:00Z
+originalUrl: "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
+webUrl: "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
+ampWebUrl: "https://www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
+cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
+type: article
+quality: 84
+heat: 144
+published: true
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://images.mktw.net/im-806855/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+related:
+  - title: "OpenAI’s Sam Altman seeks blessing to raise billions for AI chips"
+    excerpt: "OpenAI’s CEO is working to secure U.S. government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national"
+    publishedDateTime: 2024-02-17T21:42:00Z
+    webUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/"
+    ampWebUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 74
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2024/02/BIZ-CPT-ALTMAN-AI-CHIPS-GET.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Sam Altman's new AI chip startup awaiting US approval: reports"
+    excerpt: "Sam Altman, CEO of OpenAI, the parent company of ChatGPT, is awaiting approval from the US government for his new AI chips startup, according to a recent report by Bloomberg News. The report suggests that this emerging venture has the potential to trigger concerns related to national security and antitrust issues."
+    publishedDateTime: 2024-02-18T08:26:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/sam-altmans-new-ai-chip-startup-awaiting-us-approval-reports-3546751"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/sam-altmans-new-ai-chip-startup-awaiting-us-approval-reports-3546751?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/sam-altmans-new-ai-chip-startup-awaiting-us-approval-reports-3546751?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 74
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/02/18/sam_altman.jpg"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
+    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
+    publishedDateTime: 2024-02-17T16:00:00Z
+    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 67
+    images:
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
+        width: 361
+        height: 203
+        isCached: true
+  - title: "OpenAI hits $80 billion valuation, CEO Altman eyes AI chip manufacturing"
+    excerpt: "OpenAI hits $80B valuation, ventures into AI chips and unveils Sora, a video-gen service, amid AI tech exploration and safety measures."
+    publishedDateTime: 2024-02-17T22:35:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/17/openai-hits-80-billion-usd-valuation/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 63
+  - title: "Zuck backs Altman's £5.5 trillion AI chip plan"
+    excerpt: "It is not bonkers Meta Platforms boss Mark Zuckerberg gave his views on the £5.5 trillion AI chipmaking plan by OpenAI chief Sam Altman last week. .While he called the number \"sky-high\", Zuckerberg also said he believed in the need for such a plan for the future of artificial intelligence."
+    publishedDateTime: 2024-02-19T10:36:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58472-zuck-backs-altman-s-5-5-trillion-ai-chip-plan"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/fe80dc7fc24c7d1357f3aefa8ac33b93_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Google's new AI model is 700x more powerful than OpenAI's flagship"
+    excerpt: "Google claims that Gemini 1.5 can handle up to 1 million tokens of input, equivalent to about 4 million characters or 800,000 words."
+    publishedDateTime: 2024-02-16T03:24:00Z
+    webUrl: "https://interestingengineering.com/innovation/googles-new-ai-model-is-700x-more-powerful-than-openais-flagship"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/Zjg0jX8diJJZkpICBBYzySEP3oHJTc4fQqUHGyg7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "lO+eBdkWJvT6a1JNzDDXfKH1FKFMiKerKvDnZHR6uTu/45hcHgUVRIBAdXdzYfWpAbY8syk1uyHRPKkXVNpGV25qANPB4QreRK/dP3OsfovkRu6q8wvUyT0IDQnriJTtzwtHhpZRc0zX47CKUGitJXxO2puc0/X2TQbws2J5S2gxxKlAn2gTVsI9nx4Zi9Fcl7QMMhyrKgswtYs4JE0LnmEPpKZyCaL/ZFipsvtlaw4JWJxykZW8X4GlpqZ339irLauGkI5fN7Szm8ezCS6+9TQJawTa5KLbUgQV+QWNcpFIH3rDkAYU3wjabZ2lJC7uMLDkas4+4Pt5rXCK81CvkAHrVCzCi3Jg9ysgFej6LNI=;ga6mVd0bwj1IcfcBo6xr/g=="
+---
+

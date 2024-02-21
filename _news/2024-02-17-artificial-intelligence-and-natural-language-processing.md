@@ -33,7 +33,7 @@ related:
     provider:
       name: Yale Daily News
       domain: yaledailynews.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://yaledailynews.com/wp-content/uploads/2024/02/writingai_hm_SurbhiBharadwaj_SeniorPhotographer-1024x683.jpg"
         width: 1024

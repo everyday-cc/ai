@@ -37,7 +37,7 @@ related:
     provider:
       name: MauldinEconomics.com
       domain: mauldineconomics.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20240216_feature.jpg"
         width: 725

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionle
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 119
 published: true
 
 provider:
@@ -70,6 +70,6 @@ related:
         height: 600
         isCached: true
 
-secured: "BPfMvHcrSWVX0UgXJ+ZU+AEHOpvDTYjWy5GAuUzLrptaD0zvP6QkPSuWeJ/M+LVkrLnngsPVP/EMUcIQgwx+POffY1mAtyv8arhmhLtABE93Qwd/aO0nvxVRQ9VxqHZfHZB+O4p/7Fbioc91AnEVWtXilexwfkI7SQLw+T5veWiQu89HUUkPChthvqm4KD/x6s4C6CWnj1BIpKdnIoJ5mmFqAMjoJY/M1aoeNJmQY6KyUApUQXTzmfl/WQNy7sxFQ96Pj+pi7TpmZIgDQKfqV9zDa/vGFSxKTfDpalj50uBa2OKd8bkEWrHTz1W6I0JKWWaQQ+5ai14+54sGYkkzYzox1lVc8MDC9/HgIY+vhA4=;GnB17gru0Rx4G4EMKKXMJg=="
+secured: "4uDqkBzcjF9at0mNperqG4IWPtNiiBKZC9pHIE0cb2XxY9ttTXPkKQRC/AGUo4HfIn5OUsl+MTC06hFW/fGmcfMP/ZbjHn93aQ2gDSyGpxQv8SA/NFOpwGM/PUg/gyND4LH3BwWbXYy+lyDaOZIAB/yrMTN8yGJxj2zlvI5foFDLlU+x0tRlIDs+2t1mfybBonI6zYXND5RJUoc5xDWMxZocMMBqMgpCpIcmqMK85TBA5BsTq0K3PAizqe3pphSn6mD+/H2mG/DSGm6KZeeMgUCxU/iQRvOBJKUwVXfsjQmRMznhl0m/yoIkSOAmwME/X8FXiy74MymkwpS28tMOXZ8c7QirJ77/D5xlJPxQg/+MeE4CMigBgvp3wECT7CLNa3lEHE69AwHwuXp5+RDgy1xw0/pD8jBrTW93KpmmCniBjF38UJmx9PC4ROCbcWirUorkTLw0Nx6SSm6bUk3azvsN6oRdnIcgz86DQyAdHPCW585ZMyaOjsfkHtq8S2GuxftnhVezh8mbCWrN701hug==;DkEDrRwV6yvXFghxSv+ULQ=="
 ---
 

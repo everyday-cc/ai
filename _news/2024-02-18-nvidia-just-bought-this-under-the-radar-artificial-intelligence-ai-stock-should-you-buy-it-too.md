@@ -50,20 +50,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Nvidia Unveils Eos Supercomputer to Push the Boundaries of Artificial Intelligence"
-    excerpt: "Nvidia emphasizes that Eos is finely tuned for AI tasks, requiring ultra-low latency and high throughput in massive computing clusters"
-    publishedDateTime: 2024-02-16T02:44:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/16/nvidia-supercomputer-eos-artificial-intelligence/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 61
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/NVIDIA-Eos-Image.jpg"
-        width: 1280
-        height: 680
-        isCached: true
   - title: "NVIDIA Eos DGX AI supercomputer designed for artificial intelligence"
     excerpt: "In the fast-paced world of technology, NVIDIA has made a significant leap with the introduction of Eos, a new supercomputer that has quickly secured a"
     publishedDateTime: 2024-02-19T07:48:00Z

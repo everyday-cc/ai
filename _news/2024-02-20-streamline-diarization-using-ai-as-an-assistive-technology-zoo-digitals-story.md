@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/streamline-diarizati
 webUrl: "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/"
 type: article
 quality: 65
-heat: 75
+heat: 77
 published: true
 
 provider:

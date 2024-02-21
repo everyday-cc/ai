@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "visionOS 1.1 beta 3 now available with several improvements for Apple Vision Pro"
+    excerpt: "Apple is seeding visionOS 1.1 beta 3 to Vision Pro developers. Here's everything we know about this upcoming update."
+    publishedDateTime: 2024-02-20T18:14:00Z
+    webUrl: "https://bgr.com/tech/visionos-1-1-beta-3-now-available-with-several-improvements-for-apple-vision-pro/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 34
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/11/apple-vision-pro-visionos-bgr-2.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
   - title: "The five reasons people give for returning the Vision Pro"
     excerpt: "Friday was the day when the 14-day return period expired for those who bought their spatial computer on day one, and Apple is reportedly taking a keen interest in reasons people give for returning the Vision Pro. A new report over the weekend didn’t ..."
     publishedDateTime: 2024-02-19T11:58:00Z

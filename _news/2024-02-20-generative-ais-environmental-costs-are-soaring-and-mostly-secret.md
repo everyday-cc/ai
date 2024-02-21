@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-20T00:00:00Z
 originalUrl: "https://www.nature.com/articles/d41586-024-00478-x"
 webUrl: "https://www.nature.com/articles/d41586-024-00478-x"
 type: article
-quality: 19
-heat: 19
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Meta AI
 
-secured: "Fgl5uzgo9rWJrnuT0VzUqwnE24jO/7rRsi1Tv9pZ2ol6pobds7+Fef9qTLjed5x73Z8vRCfa/WQKrm5dZ8oXsqDU8TU8oTOjNvjzqCHNQbDA1TftOIRdLpwUehF2l00UeN+g8ljU8pxOVW124e1dEvPPlrfrtSIhj9+b0b8+dp0aXb1Km03e2MzXmNrWrIHDLBed+grfaRsNjTf57M1hA5dE1bnJ//bsRPCM4iBDP0vdaWykAkMw1/bnGUmn/D9w44YN6zVFqTJJo4sK1LGMoPJvzpPpGYkq/63DH7jn2lJgBbCOMZ/lnB6Oq/Qb7ItGg7m4Wjsf+y2r2URUICzBWr5B6cEJcwFmf57lwK2CC+dRt9MQHS6ISxkBdMuXtKDc3JiiJTcsfZ3YihcCRdYbEtaIz6AgOfAOVQxDA7Kwh0Lqh60CHQ5eTDBlnFIQt6156MvezqMH1nWUrzX5WVWBCGbfMsuO52p8JNXDx2WVO03jkhf2nSckRDU17iQX5AJC5mDCXfMdz0hd1rMhpBrTqg==;wBNW62CzMBzijFOJ88UPFw=="
+images:
+  - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00478-x/d41586-024-00478-x_26723576.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "ZCw9nBt1hkMHjBEi5Z8eAHDDVioQMjo+tWZzaiMn6G/aiPFLvQcYfDwiOSp7A2FCH0kEmoOpzZXKph6e1iCaUabeQATasl10VO7RrSZd1DUcIvzk65QDe8FaH6QsMfKsVWaLhVtqhGa/IiutlWvPIzZYShXs2C2VAPnMamdJVMsfDlKfxTW2LBfp1lE3ghynKt7dnJVOFJxkTXT74KVhj6TEduC0mNIBimZ+cQ9HxK+arlBVkS0pqiS004fIvtnC0s0x/mJpfq4jdmJsCVp04Jc24zCUw4LrHFSiKIDDLHKK3oZnT4Fe0I+M1HLN+6XqWJGktSz6QZ+NtgW3MuyJGmwl4H1+2q2xBxAoSNzltSw=;E5zS3oKkojoqQj+Iyf4kVA=="
 ---
 

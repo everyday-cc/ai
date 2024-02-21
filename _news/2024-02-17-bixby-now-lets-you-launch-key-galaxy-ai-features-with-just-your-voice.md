@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Samsung Bixby Integrated with Galaxy AI features"
-    excerpt: "Samsung has announced that its Bixby voice-activated assistant now works with a range of Galaxy AI features, These features were launched recently with"
-    publishedDateTime: 2024-02-20T12:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/samsung-bixby-integrated-with-galaxy-ai-features-20-02-2024/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Samsung-Bixby.jpg"
-        width: 1000
-        height: 720
-        isCached: true
 
 secured: "4a+qSqEvQk1JE65W8P4POEJmZvHynNfJvNNPsL1MGGGTgGawtWDQH8lWYyeFYhOZngL48XNEUqYdkiXhkd2/bZ7wabeXNmS88EKG4pNPCkA9UPQ/cSgCjs4akg6fHZ8UEwS6jy/hG9jq+vVDDV+IedmIfY3Y8NMevtOXSnDVlud4fh8tg+qBaZ9lITHpjTb+oHZRBlGMzDzdYeIVbGws3vR5yuJYvwIf2PIKRd6QzpLPMsKWjtOe6mjc81j14eX++1DZ/q7yqtOMLYeUh11CdruAuKIvSmW9DY2OqYK9m30Glhu0aOrfl4lhrOjcLjhx0W16V5KaXD/PgaRwFlrH80aeLOiyZckgbQGC5MkphWmDUn5WgIUNujh803+nJPk28+FLSEI70zYe+ArWANM9pbX3Cqqd9s1cqQz2fiDtRKZ3vYazDWT7ceOUFpbZjW8vojEl2qPkAkaGa/HujL0m0DdLIEpPy8MtuLmoorhvxlp1wAwwDqyS93RgHWPh8L7n+Vy+T4Vu8HtRQwzIDuRS7w==;Yi7R7cqnpRvfRu7J8Sj0kQ=="
 ---

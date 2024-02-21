@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/health-fitness/150963/elon-musk-claims-neural
 webUrl: "https://uk.pcmag.com/health-fitness/150963/elon-musk-claims-neuralinks-first-human-patient-can-control-cursor-with-thoughts"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk claims first human brain implant Neuralink is a SUCCESS with ‘Patient Zero’s’ mind control powers unveiled"
+    excerpt: "ELON Musk has announced the first Neuralink brain chip implant has been successful. The tech mogul revealed the human subject implanted with the ambitious chip has fully recovered – and"
+    publishedDateTime: 2024-02-20T14:33:00Z
+    webUrl: "https://www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 36
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2024/02/elon-musk-billionaire-chief-executive-837875240.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Neuralink's First Human Patient Able to Control Computer Mouse With His Mind, Says Musk"
     excerpt: "The study uses a robot to surgically place a brain-computer interface implant in a region of the brain that controls the intention to move, Neuralink has said, adding that the initial goal is to enable people to control a computer cursor or keyboard using ..."
     publishedDateTime: 2024-02-20T00:00:00Z

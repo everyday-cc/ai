@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "How to Build Generative AI Agents with Joon Sung Park"
+    excerpt: "Joon’s research seeks to answer this question by applying LLMs to a long-standing challenge in computer science: the creation of AI agents that can authentically simulate human behavior. This ambition traces back to the earliest days of AI in the 1950s ..."
+    publishedDateTime: 2024-02-20T12:19:00Z
+    webUrl: "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/"
+    ampWebUrl: "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d560ded33037465f55d4ad/0x0.png?format=png&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
   - title: "Retrieval augmented generation (RAG): The open-book test for generative AI"
     excerpt: "The release of ChatGPT in November 2022 marked a groundbreaking moment for AI, introducing the world to an entirely new realm of possibilities created by the fusion of generative AI (genAI) and machine learning foundation models, or large language models (LLMs)."
     publishedDateTime: 2024-02-20T16:37:00Z
@@ -35,29 +51,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2024/02/istock-1398462038-100961413-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Accelerating Product Development For The AI Age"
-    excerpt: "The sudden emergence of ChatGPT kicked off a race to create new products powered by generative artificial intelligence."
-    publishedDateTime: 2024-02-20T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/accelerating-product-development-for-the-ai-age/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "What will generative AI mean for the racial wealth gap?"
-    excerpt: "Tech shifts have a history of keeping Black and other groups at the bottom of economic opportunities. Will generative AI be different?"
-    publishedDateTime: 2024-02-16T12:30:00Z
-    webUrl: "https://publicintegrity.org/inside-publici/newsletters/watchdog-newsletter/generative-ai-racial-wealth-gap/"
-    type: article
-    provider:
-      name: Center for Public Integrity
-      domain: publicintegrity.org
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/publicintegrity.org/wp-content/uploads/2024/02/GettyImages-1355305689-scaled.jpg?fit=2560%2C1350&ssl=1"
-        width: 2560
-        height: 1350
         isCached: true
   - title: "Appy Pie launches AI Animation Generator with a Range of New AI Tools"
     excerpt: "The AI animation generator from Appy Pie is backed with features like natural language processing, real-time previews and edits, background music integration, voice over capabilities, and much more, making it easy for users to create animations for their ..."
