@@ -1,0 +1,79 @@
+---
+category: news
+title: "You can now use your voice to launch Galaxy AI features"
+excerpt: "You can activate live translation, summarization functionality ... Bixby’s support for Galaxy AI features is available in all the assistant’s supported languages, including English, Chinese, French, German, Korean, and Spanish."
+publishedDateTime: 2024-02-21T07:51:00Z
+originalUrl: "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/"
+webUrl: "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/"
+type: article
+quality: 69
+heat: 99
+published: true
+
+provider:
+  name: Android Authority
+  domain: androidauthority.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-GalaxyAI-Transcription-Summary.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "Samsung Integrates Galaxy AI With Bixby; Adds Voice-Enabled Artificial Intelligence Features"
+    excerpt: "Bixby is the native virtual assistant for Samsung devices Galaxy AI was launched alongside the Galaxy S24 series in January Samsung’s Galaxy AI adds features such as Call Assist, Interpreter mode"
+    publishedDateTime: 2024-02-20T08:33:00Z
+    webUrl: "https://www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690"
+    ampWebUrl: "https://www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 61
+    images:
+      - url: "https://i.gadgets360cdn.com/large/samsung_galaxy_s24series_1708417812133.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Bixby now lets you launch key Galaxy AI features with just your voice"
+    excerpt: "Samsung has made a splash with the debut of its Galaxy AI features, which include everything from Live Translate to Circle to Search. If you’ve already managed to get your hands"
+    publishedDateTime: 2024-02-16T18:17:00Z
+    webUrl: "https://www.androidpolice.com/bixby-galaxy-ai-samsung-voice/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 39
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/01/galaxy-s24-ai-hero.jpg"
+        width: 2100
+        height: 1400
+        isCached: true
+  - title: "Samsung Bixby Integrated with Galaxy AI features"
+    excerpt: "Samsung has announced that its Bixby voice-activated assistant now works with a range of Galaxy AI features, These features were launched recently with"
+    publishedDateTime: 2024-02-20T12:10:00Z
+    webUrl: "https://www.geeky-gadgets.com/samsung-bixby-integrated-with-galaxy-ai-features-20-02-2024/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Samsung-Bixby.jpg"
+        width: 1000
+        height: 720
+        isCached: true
+
+secured: "WDRLT94nn6F7s0P6n0yXbgC8W+lGh+shPYxo5m/kqaGMfb4UBNBCs6aWI2VjRJEbzAkzLARsxo6Jckc31GwJGoMC9bQW8VI09PlyVrPqqdjifnQWbxEJjRs0+wZiG3kK52iu3IxL8CE8UuX6cTqQcGUroCHuRnFrwTQSdgeaYPAVjIrWLLd5nTRe30ZN7z2JLfUVPIreeWENyFXO96rGBpQmOcyqGgIMDMgoHNrIm6Dvcs/KCnlIOb+X3Y+JnqT2Vk5nS5NZDjpkKbpn8WexHUTjKUYSsC7EwUEgTauK+K738Y0VKssAVT0Puv1jHNmmhKINX0gbu4qEaABaR28X666ILLbBJiylq65ErhztAPY=;wE/u4njUUciZDK03M3zlBw=="
+---
+

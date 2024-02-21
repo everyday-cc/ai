@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Will AI one day replace Colorado teachers? Here’s what experts say."
-    excerpt: "Colorado schools are experimenting with artificial intelligence in the classroom, figuring out how to use the technology to enhance — not replace — student learning."
-    publishedDateTime: 2024-02-20T10:36:00Z
-    webUrl: "https://coloradosun.com/2024/02/20/colorado-ai-artificial-intelligence-schools/"
-    type: article
-    provider:
-      name: coloradosun
-      domain: coloradosun.com
-    quality: 41
-    images:
-      - url: "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/02/AI-st-vrain-schools-eb-14.jpg?fit=2203%2C1466&ssl=1"
-        width: 2203
-        height: 1466
-        isCached: true
 
 secured: "mPhwCjOW/9xKwF/pkQKMbl+GwHIbkgB5vrnbtEoA2frcJHLY5GHt0l5vew7BCBeabnne3n358wRl1u2twn1BCh/keERFqpiHu0psXbFMpbIhK0pRNL5HX/q5ipCVXSNlzkcwbDulmvrrQGuJIGhOgPb5cl+g9thD5XQEOh0zTu3ONQPFW56dcSWCdiY8WxFeC+UY10qRdxL/UsC4iMWg/7uAFgSb0BPDVlZut3xyUdEDKeEC8o99W4iAgA/RDgcBlt6JifI3VPjk66DXSU76Y5Yxq8UQzFIQ9L4vpKuDiDcYfL+TMhUpQYZ5ZOvSI67a9krSMn1JUxSRbqThdqQ9+pkB30PiHFzboocXsvA04WH4a07XWJQULXcW1TPF25jEkkQ2HsWBxvHQe4s8lFlzu6ZZKBFt9kmk+ZBe9diGWJIpt/eMoeElkARweSwSSe9ISnkoVdRmWrAy4D6igDlHaGENBgIsoa137Z1QYcf7FQXWyI0qU8FEwdFZdMXh3h/ivT2K21JUs56fWX1uQQyb+w==;DLHsYejkfsygY1DLPZvPHQ=="
 ---

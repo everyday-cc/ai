@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will AI one day replace Colorado teachers? Here’s what experts say."
-    excerpt: "Colorado schools are experimenting with artificial intelligence in the classroom, figuring out how to use the technology to enhance — not replace — student learning."
-    publishedDateTime: 2024-02-20T10:36:00Z
-    webUrl: "https://coloradosun.com/2024/02/20/colorado-ai-artificial-intelligence-schools/"
-    type: article
-    provider:
-      name: coloradosun
-      domain: coloradosun.com
-    quality: 41
-    images:
-      - url: "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/02/AI-st-vrain-schools-eb-14.jpg?fit=2203%2C1466&ssl=1"
-        width: 2203
-        height: 1466
-        isCached: true
   - title: "Driving into Tomorrow: How Emerging Automotive Technologies are Shaping the Future"
     excerpt: "Buckle up and get ready to shift into high gear as we explore how cutting-edge automotive technologies are steering us toward a bold new era of transportation. From self-driving cars to electric vehicles,"
     publishedDateTime: 2024-02-19T08:14:00Z

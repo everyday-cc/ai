@@ -1,31 +1,31 @@
 ---
 category: news
-title: "Assert AI unveils Pratham: World’s first no-code computer vision platform"
-excerpt: "As Assert AI introduces Pratham to the market, it marks a significant stride toward the future of video analytics. By putting the power of AI in the hands of users, the platform not only meets the current demands for accessible analytics but also sets the stage for continued innovation and integration in diverse industries."
-publishedDateTime: 2024-02-21T06:14:00Z
-originalUrl: "https://www.financialexpress.com/business/digital-transformation-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform-3400673/"
-webUrl: "https://www.financialexpress.com/business/digital-transformation-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform-3400673/"
-ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform-3400673/lite/"
-cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform-3400673/lite/"
+title: "Assert AI Unveils Pratham: World's First No-code Computer Vision Platform"
+excerpt: "Pratham, which translates to first in Hindi, employs an innovative framework that places the power of computer vision directly into the hands of users, allowing them to analyze and utilize video data effortlessly."
+publishedDateTime: 2024-02-21T05:13:00Z
+originalUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform"
+webUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform"
+ampWebUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp"
 type: article
 quality: 73
 heat: 73
 published: true
 
 provider:
-  name: The Financial Express
-  domain: financialexpress.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-21T110918.059.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280"
+    width: 1280
+    height: 853
     isCached: true
 
-secured: "DSjg/p/X5HAjUN3jhbD0G8srArUSZZnD4gboDVQHVx6BEsw+ID1Oo6PqAqt+YdReBy8DyCHWfU1pcfTgFQdkCOT2KXFAqcVbr6b72fCfn4vuhtwfuqwUB2P58Xkq5EXe4pXW4g6QW/4QdDimQvXLto2wvlzTdKnoqcQvEMuo/rquLcPL/3ipiLovW1jrOo5tJMrheGtwAULSO/y7vk3OHeKQZALgSLgmmQ0MmMXeC+M/TzxWi70TDcdgAI5Y3t6sSKhvIF8OCxzSBBFgixeXjZL24iQAOPTYM48kBYlAW0F9lquDlVJgtU9lx4TrYUjRchIIWEYgBSU5y85XFPYStojPPUojbYhUJErDnEdXh/s=;csX5xepMrrcW7KfIpmkuWw=="
+secured: "Enf+mHu0wAb/fZM9+ejBI92kykxj1tgEvFmxI39EA1L1UIXtMnnCb4IJSTzReh2TKl/SCSIrsVVSTAJjqTB7TkAOByi3SClsdrDZDRpbxkv6h1hBg2UQWJoNichhhdI4alqewgB8M0zVuTPAy8Rx4m8xgMj4vVtOmL3KQPQnXtU1v3eb5FdH6EroQywGSR/fbq74dC6yOE+wsxec6hqw8/gwdc0YE0p83kZyMsnuJDpCo/T9yqpCnNMxDNuWO4JZc2NsjpJqN2tEUTPUu28NpY9p94Mj0WZgfGgcCp+OSVtHC49Cq4UJvoEQ9r4Az6dIH3BvbjpM+dHI4wbYFRf2flTzynwv7exwv2ROagBetGM=;gkm5kXOCyLgEI2cz/7aDMg=="
 ---
 

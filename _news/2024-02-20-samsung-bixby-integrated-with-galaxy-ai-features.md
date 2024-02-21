@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung, UK's Arm team up to produce advanced AI chips"
-    excerpt: "Samsung Foundry, Samsung Electronics' chip manufacturing arm, is teaming up with the UK's Arm to adopt the firm's design assets for Samsung's most advanced chip-making process technology, Gate-All-Around, which aims to boost the company's edge in the ..."
-    publishedDateTime: 2024-02-21T06:27:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20240221050610"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240221050610"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240221050610"
+  - title: "You can now use your voice to launch Galaxy AI features"
+    excerpt: "You can activate live translation, summarization functionality ... Bixby’s support for Galaxy AI features is available in all the assistant’s supported languages, including English, Chinese, French, German, Korean, and Spanish."
+    publishedDateTime: 2024-02-21T07:51:00Z
+    webUrl: "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/"
     type: article
     provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 74
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
     images:
-      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F02%2F21%2F20240221050593_0.jpg"
-        width: 616
-        height: 366
-        isCached: true
-  - title: "Samsung and Arm's Latest AI Chip Collaboration: A New Era for Mobile Computing"
-    excerpt: "Arm Holdings' value skyrockets to $130 billion amid AI boom, despite recent 8.39% share price dip. This partnership, built on a long history of millions of devices featuring Arm CPU intellectual property on Samsung’s process nodes, aims to introduce ..."
-    publishedDateTime: 2024-02-20T13:08:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37218987"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 70
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/ARM_1.png?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-GalaxyAI-Transcription-Summary.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Samsung Integrates Galaxy AI With Bixby; Adds Voice-Enabled Artificial Intelligence Features"
     excerpt: "Bixby is the native virtual assistant for Samsung devices Galaxy AI was launched alongside the Galaxy S24 series in January Samsung’s Galaxy AI adds features such as Call Assist, Interpreter mode"
@@ -72,6 +54,20 @@ related:
       - url: "https://i.gadgets360cdn.com/large/samsung_galaxy_s24series_1708417812133.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Bixby now lets you launch key Galaxy AI features with just your voice"
+    excerpt: "Samsung has made a splash with the debut of its Galaxy AI features, which include everything from Live Translate to Circle to Search. If you’ve already managed to get your hands"
+    publishedDateTime: 2024-02-16T18:17:00Z
+    webUrl: "https://www.androidpolice.com/bixby-galaxy-ai-samsung-voice/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 39
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/01/galaxy-s24-ai-hero.jpg"
+        width: 2100
+        height: 1400
         isCached: true
 
 secured: "4XX1ry3VHtWMGDqxwZxSg6e8LzB5hMFTuZamM57qxytNZqo0+lD9zR+tVFG8PWMPVO9YsEYciQ/PsPDQAAILK/NDG4Viu6fRjw/E468bRgABhSUdKsdxDo6rhZ0k/8CXQW65KS7O9iSJ9dhUn4nZ2Yzm5rl2nnpZmOHP90n1LNlmQM+NGg5wK3t6H2CfIrxFo5Q8GrmAHD6CBa9FMZz3OT3BB5xVNPnBxl+xuvD9Aqb0YY8yzG8FS1PlVD9JkiY7L9EX32PqoAN4OS3W0DuOZfe03/7Joih0fjOFFxe5MxY9N+N4/I6ZSr1IMU847+41bEibREZwBjdMbY8Ugh2DgGvJ4hOPp9UVXkJFVvcc9CkuzJQ2e1Te5d4h9wwtz8x292F4twP8oCuew3Aym3MPFXFyJLTKee3JjTHxdqvWAdnaJjcrk1lP6sT897+4c27j+fkMRjo0nPb8ONbTruuOpNZqGWgjfm7/jB04oFMXigZmRCR0OYwuzSJ+s5jOEgzkLO6g4GRDf1/AbZ75bGFZAA==;YqLKrTFVDZXker0uHoLABA=="

@@ -152,15 +152,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
-  - title: "Second-Hand Nvidia RTX 2080 Ti GPU modded with 22GB VRAM for AI Market at $499"
-    excerpt: "The Nvidia RTX 2080 Ti graphics card, now with 22GB of video memory, is available for purchase on secondary markets like eBay, aimed primarily at the AI industry for a price of $499."
-    publishedDateTime: 2024-02-16T07:54:00Z
-    webUrl: "https://www.guru3d.com/story/secondhand-nvidia-rtx-2080-ti-gpu-modded-with-22gb-vram-for-ai-market-at/"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 30
   - title: "Nvidia’s Q4 earnings will be a referendum on the AI trade. Revenue expected to jump 234%"
     excerpt: "Shares of the AI chip darling have skyrocketed 184% over the last 12 months, easily outpacing rivals AMD (AMD) and Intel (INTC), which saw their shares rise 91% and 67%, respectively. Nvidia’s incredible run briefly pushed its market capitalization past ..."
     publishedDateTime: 2024-02-20T14:02:00Z

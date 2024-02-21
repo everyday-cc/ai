@@ -42,17 +42,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "New Era of AI Deepfakes Complicates 2024 Elections"
-    excerpt: "The explosion of artificial-intelligence technology makes it easier than ever to deceive people on the internet, and is turning the 2024 U.S. presidential election into an unprecedented test on how to police deceptive content."
-    publishedDateTime: 2024-02-16T08:50:00Z
-    webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/new-era-of-ai-deepfakes-complicates-2024-elections/news-story/3408b75e4c325cbf20727bce0f45e824"
-    ampWebUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/new-era-of-ai-deepfakes-complicates-2024-elections/news-story/3408b75e4c325cbf20727bce0f45e824?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/the-wall-street-journal/new-era-of-ai-deepfakes-complicates-2024-elections/news-story/3408b75e4c325cbf20727bce0f45e824?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
   - title: "How AI deepfakes threaten the 2024 elections"
     excerpt: "It may be the narrative around deepfakes -- rather than the deepfakes themselves -- that most undermines election integrity."
     publishedDateTime: 2024-02-16T19:04:00Z

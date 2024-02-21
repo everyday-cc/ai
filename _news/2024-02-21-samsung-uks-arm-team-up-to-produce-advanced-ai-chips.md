@@ -9,8 +9,8 @@ ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240221050610"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240221050610"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Korea Herald
@@ -27,53 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung and Arm's Latest AI Chip Collaboration: A New Era for Mobile Computing"
-    excerpt: "Arm Holdings' value skyrockets to $130 billion amid AI boom, despite recent 8.39% share price dip. This partnership, built on a long history of millions of devices featuring Arm CPU intellectual property on Samsung’s process nodes, aims to introduce ..."
-    publishedDateTime: 2024-02-20T13:08:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37218987"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987"
+  - title: "Mark Zuckerberg To Meet Samsung Chief In South Korea, Discuss AI Chips"
+    excerpt: "Zuckerberg is expected to meet Samsung Electronics chairman Jay Y. Lee as early as later this month to discuss AI chip supply and other generative AI issues, South Korean newspaper Seoul Economic Daily reported earlier on Wednesday, citing unnamed sources ..."
+    publishedDateTime: 2024-02-21T08:28:00Z
+    webUrl: "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939"
+    ampWebUrl: "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 70
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/ARM_1.png?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
-        isCached: true
-  - title: "Samsung Integrates Galaxy AI With Bixby; Adds Voice-Enabled Artificial Intelligence Features"
-    excerpt: "Bixby is the native virtual assistant for Samsung devices Galaxy AI was launched alongside the Galaxy S24 series in January Samsung’s Galaxy AI adds features such as Call Assist, Interpreter mode"
-    publishedDateTime: 2024-02-20T08:33:00Z
-    webUrl: "https://www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690"
-    ampWebUrl: "https://www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 61
-    images:
-      - url: "https://i.gadgets360cdn.com/large/samsung_galaxy_s24series_1708417812133.jpg"
+      - url: "https://c.ndtvimg.com/2024-02/86jsk76g_mark-zuckerberg-bloomberg_625x300_02_February_24.jpeg"
         width: 1200
-        height: 675
+        height: 738
         isCached: true
-  - title: "Samsung Bixby Integrated with Galaxy AI features"
-    excerpt: "Samsung has announced that its Bixby voice-activated assistant now works with a range of Galaxy AI features, These features were launched recently with"
-    publishedDateTime: 2024-02-20T12:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/samsung-bixby-integrated-with-galaxy-ai-features-20-02-2024/"
+  - title: "Mark Zuckerbeg Explains Why Tech Layoffs Are Happening. It's Not Because Of AI"
+    excerpt: "Meta announced several rounds of layoffs as part of Mark Zuckerberg's \"year of efficiency\" in which thousands of employees lost their jobs in the past few months."
+    publishedDateTime: 2024-02-19T05:57:00Z
+    webUrl: "https://www.ndtv.com/feature/mark-zuckerbeg-explains-why-tech-layoffs-are-happening-its-not-because-of-ai-5085495"
+    ampWebUrl: "https://www.ndtv.com/feature/mark-zuckerbeg-explains-why-tech-layoffs-are-happening-its-not-because-of-ai-5085495/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/mark-zuckerbeg-explains-why-tech-layoffs-are-happening-its-not-because-of-ai-5085495/amp/1"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
+      name: NDTV
+      domain: ndtv.com
+    quality: 55
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Samsung-Bixby.jpg"
-        width: 1000
-        height: 720
+      - url: "https://c.ndtvimg.com/2023-01/21mqmg78_mark-zuckerberg-getty_625x300_30_January_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Mark Zuckerberg Shared a Hands-On Review of the Apple Vision Pro in This Week's Tech Roundup"
+    excerpt: "Mark Zuckerberg took to Instagram to give his hands-on review of the Apple Vision Pro headset. While Zuckerberg praised Apple ’s eye-tracking technology and higher-resolution screen, Meta ’s Quest 3 seems to have Zuck’s heart."
+    publishedDateTime: 2024-02-18T23:00:00Z
+    webUrl: "https://hypebeast.com/2024/2/weekly-tech-roundup-mark-zuckerberg-review-apple-vision-pro"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 13
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F02%2Fweekly-tech-roundup-mark-zuckerberg-review-apple-vision-pro-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+        width: 1080
+        height: 540
         isCached: true
 
-secured: "+C4VbPjZpi64hFfv/7H6xwk88Y0nF/3Sc9WJYzg02B53HC+tfXCh0n9c2H40k6/bJv5B0pp3jNg9JAdBusjHk9B995vKyWoaDPSJQEP5vi9Z7NEQUj1cYFNHKQU8MYTxX8LYxJl+ug9fewWSI01lWLsAAw79aA69WSGFyZL5K5rdXI2oKZg/tA1IdyJzxumj4nxqSWCV6AY8z4afLQS61AbELVnMPprCMwqMTL49HskvvCmOaFOQEINmdEjD4+g8UQDKJ1ZG6o5T6G4MY+hWqgmzm0Kw85BeKEWsceqqpWIYkOATaprxV0upaUiCEBAk3SkiBlAZVgMMHBTvNHJzGtYdt3DNlM9eTu4XBefi2hM=;9IVmUw85OntibBl0h6GjXA=="
+secured: "1INVGdj9PXtcel4TWGFN1egYJnRr9vjoDSQTDo1KgYbr99HlMdoEYpue3Dz/0X4yzvpObGxS2UP/1BXhVoZpXDz9e9s4ji7UWinsIIKDkZW5bIS5SpU0IAiBwY7WrAU4lBh3h4/eUyB1+7HUH26ivOJNJ63R1NUW/QWzIEILKBiLRSvNsFTofwYRBF89lrRqWQjcNIUAliGT4b4nOk+IObqaQf/aSJqJsMY2WJK1UfTmr0+PDjo+xn2lnT+dPEFol9qrD5rhFb0z/7dIDRKq7VFAL0iqFQ5M/SEvhCnMhrBv8qaSbu4sWJL0cgB08j729k3J1zDtAp1jf2t91uxbfEhqWw1BWuBmDrMEKPdDdlvFKXVRI/kRTjqJobT4Lqtql6Q9xGKyN0hbL6H+KgZ5CRBXyygIJBdS6oz3gK0IiorcVyEqVG3R1ukEnVgzxEts8jZWQypPtbEszKlVA4v7BK4kzI9pNYnk9KNLkaBZP2beIMKghs1y27+3xfEaehEKsuZ8scEUtPBZCVQrCRyW6w==;SVxsfnvD0WxBTSyeDb0Xqw=="
 ---
 

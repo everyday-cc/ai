@@ -48,6 +48,38 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "RBI ups scrutiny of fintechs with more inspections"
+    excerpt: "India's financial regulator, the Reserve Bank of India (RBI), is intensifying oversight of fintech firms after inspections revealed lapses in customer due diligence. The RBI has increased meetings with executives and invested in better technology to monitor regulatory compliance."
+    publishedDateTime: 2024-02-21T08:21:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-ups-scrutiny-of-fintechs-with-more-inspections/articleshow/107877756.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/banking/rbi-ups-scrutiny-of-fintechs-with-more-inspections/amp_articleshow/107877756.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/banking/rbi-ups-scrutiny-of-fintechs-with-more-inspections/amp_articleshow/107877756.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-263014,msid-107877905/rbi-fintech-sro.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Tech-Driven Efficiency: How Automation is Reshaping Fintech Operations"
+    excerpt: "Backed by these enablers, the fintech market in India is projected to reach $150 billion by 2025. Artificial intelligence: AI is a core component of the fintech world that is used for better loan decision-making, credit risk assessment, fraud detection ..."
+    publishedDateTime: 2024-02-21T07:19:00Z
+    webUrl: "https://www.dqindia.com/news/tech-driven-efficiency-how-automation-is-reshaping-fintech-operations-3872791"
+    ampWebUrl: "https://www.dqindia.com/news/tech-driven-efficiency-how-automation-is-reshaping-fintech-operations-3872791"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/tech-driven-efficiency-how-automation-is-reshaping-fintech-operations-3872791"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/6Sn3FzcPTAGFkaKUbre7.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The Role of “Fintech” in Healthcare in 2024"
     excerpt: "Technological advancements are rapidly transforming various sectors, including the healthcare industry. Since 2020, an astounding $53 billion has been invested in the healthcare industry related to fintech solutions."
     publishedDateTime: 2024-02-17T15:56:00Z
@@ -99,20 +131,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Carbon acquires fintech firm to empower SMEs"
-    excerpt: "Carbon, a digital financial service firm, has acquired Vella Finance, a Nigerian fintech company, to empower Small and Medium-sized Enterprises (SMEs)."
-    publishedDateTime: 2024-02-16T08:36:00Z
-    webUrl: "https://businessday.ng/companies/article/carbon-acquires-fintech-firm-to-empower-smes/"
+  - title: "3 Under-the-Radar Fintech Stocks Ready to Make a Move"
+    excerpt: "The post 3 Under-the-Radar Fintech Stocks Ready to Make a Move appeared first on InvestorPlace."
+    publishedDateTime: 2024-02-18T18:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-under-the-radar-fintech-stocks-ready-to-make-a-move"
     type: article
     provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 24
-    images:
-      - url: "https://cdn.businessday.ng/2023/09/nigerian-fintechs-1.jpeg"
-        width: 700
-        height: 350
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Fintech Firm to Lease San Francisco Space Vacated by Pinterest"
     excerpt: "In 2022, when Pinterest announced that it was adopting a hybrid work model the company called “PinFlex” that permitted its employees to “choose where they work best,” the tech company vacated a SoMa building at 410 Townsend, where the lease on two floors it was occupy was expiring, the Chronicle reported."
     publishedDateTime: 2024-02-16T11:58:00Z

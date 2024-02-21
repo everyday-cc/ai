@@ -87,6 +87,15 @@ related:
       name: Midland Daily News
       domain: ourmidland.com
     quality: 34
+  - title: "Microsoft to Invest $2.1 Billion in AI and Cloud Growth in Spain"
+    excerpt: "Over the next two years to significantly scale up its artificial intelligence (AI) development and cloud computing capacities in Spain."
+    publishedDateTime: 2024-02-21T07:59:00Z
+    webUrl: "https://techreport.com/news/microsoft-to-invest-2-1-billion-in-ai-and-cloud-growth-in-spain/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
 
 secured: "/q0KrU5FEV/eS6iRf/am6JF0V2nxcwg3//CwXKuwT51PW4U5J48bCVSl0GyZqV/ew5fUVpYaePATn/iILbyOKmpXarnokJ/lomQHrMPBpezMkDkUktEXQ5dKQFRU0aV7RrvbYeEuRlQjnLAubheYKj4GHzWBL/AKv43tvA0UrRmB2iEi11Hj01FGB0ft1mfcuL7VTiwQNllNK5Pv3WcUXXiuKpJ8+SCo3AAjDZEzse+0yTWRNfdQswQUyY8/jM8MH3FdLYSk3hvZH/UQbdflRPuCZ4ps3qiBLzIqDV2DHCJFwVDKYtj0Ig/TJ9dHWchs0djp/wuyP9lm+UrR9i0/vEp5XkOzcTlPTx5dp3pW/54=;L1D6DzyqhQfiuY3bVf+ROg=="
 ---

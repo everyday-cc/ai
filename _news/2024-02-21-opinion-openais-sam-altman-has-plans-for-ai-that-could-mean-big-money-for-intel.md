@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/openais-sam-altman-has-plans-f
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 63
+  - title: "Opinion: AI, Elections And Law - Why No Country Can Tackle AI Alone"
+    excerpt: "Talks between EU and India on tackling the threat of online disinformation reflect the need for collective global action against the risks posed by generative AI."
+    publishedDateTime: 2024-02-21T08:30:00Z
+    webUrl: "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192"
+    ampWebUrl: "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2023-08/295nvsms_deepfake-generic_625x300_22_August_23.jpg?ver-20240117.06"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "Zuck backs Altman's £5.5 trillion AI chip plan"
     excerpt: "It is not bonkers Meta Platforms boss Mark Zuckerberg gave his views on the £5.5 trillion AI chipmaking plan by OpenAI chief Sam Altman last week. .While he called the number \"sky-high\", Zuckerberg also said he believed in the need for such a plan for the future of artificial intelligence."
     publishedDateTime: 2024-02-19T10:36:00Z

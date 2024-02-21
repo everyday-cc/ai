@@ -50,6 +50,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Adobe adds AI assistant to Acrobat, Reader in effort to maintain relevance in PDF market"
+    excerpt: "Adobe has introduced an AI Assistant to Reader and Acrobat, aiming to modernize document management and maintain its edge in a market evolving with large language model technologies."
+    publishedDateTime: 2024-02-21T08:04:00Z
+    webUrl: "https://venturebeat.com/ai/adobe-adds-ai-assistant-to-acrobat-reader-in-effort-to-maintain-relevance-in-pdf-market/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Vector_art_of_PDF_documents_shown_in_the_color_of_Ado_9a02f824-942c-4598-b478-c817bd8af268-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 671
+        isCached: true
   - title: "Adobe's New AI Assistant Is Designed to Read PDFs for You"
     excerpt: "Adobe is getting into the AI assistant game. The assistant, which is rolling out in beta today as a part of Adobe Acrobat and Adobe Reader, is a new tool that \"reads\" through documents and can answer questions related to their content,"
     publishedDateTime: 2024-02-20T14:20:00Z

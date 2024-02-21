@@ -98,6 +98,22 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 63
+  - title: "Opinion: AI, Elections And Law - Why No Country Can Tackle AI Alone"
+    excerpt: "Talks between EU and India on tackling the threat of online disinformation reflect the need for collective global action against the risks posed by generative AI."
+    publishedDateTime: 2024-02-21T08:30:00Z
+    webUrl: "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192"
+    ampWebUrl: "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2023-08/295nvsms_deepfake-generic_625x300_22_August_23.jpg?ver-20240117.06"
+        width: 1200
+        height: 738
+        isCached: true
 
 secured: "0Px7SehzPpcZ13dMwfKcR1hy8SzZettZriTYWobH2PpdumKaONEh1ZC+RvJW7gUMuMsP0rWFDbMqkTbVDIt9BfPMDLS6Z2CtZ9rM1KIea9aE+57TwpTU4r6fES9BcF8GUxyDORqEM/VEDAXTmAxJh5wCC+m5F1oUrXaU+lL39U+mXElvBsrnc+2IdYGsBnN/sUtGhMJiAROneepW+83jvsR4mf7jzDdI/LzbWVrGG75j60nQhJPPwvOwFlpVOacbvvZLaVRhSaPZ2J1Dpq5veCmxBy3S7JC5euc76drVrpKIPscLHFFN99AAJ6gMrPkLanQH9xgeGpwnllnomJMRBCMck50zz7qJJhEtdy9l/Ho=;Y1aY9A2DGlik3ZFnUhZdCA=="
 ---

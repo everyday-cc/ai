@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-20T22:31:00Z
 originalUrl: "https://www.beckershospitalreview.com/finance/usual-approach-not-enough-8-healthcare-execs-rethinking-financial-health.html"
 webUrl: "https://www.beckershospitalreview.com/finance/usual-approach-not-enough-8-healthcare-execs-rethinking-financial-health.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"

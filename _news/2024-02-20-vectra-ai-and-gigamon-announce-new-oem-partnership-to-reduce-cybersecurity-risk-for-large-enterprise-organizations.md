@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
+  - title: "Redefining Cyber Security: Check Point Unveils Quantum Force Gateway Series - The Ultimate AI-Powered Cloud Delivered Security Solution"
+    excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading AI-powered, cloud-delivered cyber security platform provider, introduces Check Point Quantum Force series: an innovative lineup of ten high-performance firewalls designed to meet and exceed the stringent security demands of enterprise data centers,"
+    publishedDateTime: 2024-02-21T08:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/redefining-cyber-security-check-point-unveils-quantum-force-gateway-series-the-ultimate-ai-powered-cloud-delivered-security-solution-1033086311"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Deep Dive into the Complexities of Modern Cybersecurity"
     excerpt: "In the unspoken conflict that unfolds within the digital realms of our world, experts like Senthilkumar Chandrasekaran stand vigilant. These guardians confront formidable foes armed with the predictive might of artificial intelligence (AI) and the analytical capabilities of machine learning (ML)."
     publishedDateTime: 2024-02-16T15:03:00Z

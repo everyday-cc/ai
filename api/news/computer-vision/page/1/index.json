@@ -3,20 +3,20 @@
   "value": [
     {
       "path": "_news/2024-02-21-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform.md",
-      "title": "Assert AI unveils Pratham: World’s first no-code computer vision platform",
-      "excerpt": "As Assert AI introduces Pratham to the market, it marks a significant stride toward the future of video analytics. By putting the power of AI in the hands of users, the platform not only meets the current demands for accessible analytics but also sets the stage for continued innovation and integration in diverse industries.",
+      "title": "Assert AI Unveils Pratham: World's First No-code Computer Vision Platform",
+      "excerpt": "Pratham, which translates to first in Hindi, employs an innovative framework that places the power of computer vision directly into the hands of users, allowing them to analyze and utilize video data effortlessly.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform-3400673/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform-3400673/",
+      "webUrl": "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform",
       "featuredContent": null,
       "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-21T110918.059.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280",
+          "width": 1280,
+          "height": 853,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform-3400673/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform-3400673/lite/",
-      "publishedDateTime": "2024-02-21T06:14:00Z",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp",
+      "publishedDateTime": "2024-02-21T05:13:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -569,6 +569,49 @@
       "provider": {
         "name": "IFLScience",
         "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-scientists-discover-how-oxytocin-influences-memory-in-animals.md",
+      "title": "Scientists discover how oxytocin influences memory in animals",
+      "excerpt": "The cognitive function of mice was then evaluated using the Novel Object Recognition Task (NORT),\" explains Prof. Saitoh. The research emphasizes the significant role of OXT in regulating social ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20240213/Scientists-discover-how-oxytocin-influences-memory-in-animals.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20240213/Scientists-discover-how-oxytocin-influences-memory-in-animals.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hormone-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1389,49 +1432,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports.md",
-      "title": "TSA sparks privacy concerns amid plans to install facial recognition systems at 400 US airports",
-      "excerpt": "The Transportation Security Administration (TSA) sparked privacy concerns after unveiling plans to roll out controversial facial recognition tech in over 400 US airports soon. “TSA is in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2024/02/01/lifestyle/tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports/",
-      "originalUrl": "https://nypost.com/2024/02/01/lifestyle/tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/02/transportation-security-administrations-new-75760627.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2024/02/01/lifestyle/tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/02/01/lifestyle/tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports/amp/",
-      "publishedDateTime": "2024-02-01T17:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

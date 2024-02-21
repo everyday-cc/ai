@@ -95,20 +95,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "How Fractal is Leveraging Generative AI for Insurance"
-    excerpt: "The global insurance industry is undergoing a profound transformation powered by a cutting-edge technology: generative AI."
-    publishedDateTime: 2024-02-16T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-fractal-is-leveraging-generative-ai-for-insurance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/Fractal_1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How RAG makes generative AI tools even better"
     excerpt: "Patrick Lewis, a natural language processing research scientist with start-up Cohere, originally coined the term RAG in a paper published in 2020. Lewis pointed out that LLMs cannot easily expand or revise their memory, and they can’t straightforwardly ..."
     publishedDateTime: 2024-02-20T11:00:00Z

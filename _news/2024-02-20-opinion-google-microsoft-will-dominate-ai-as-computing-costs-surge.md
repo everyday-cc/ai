@@ -86,6 +86,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Microsoft to Invest $2.1 Billion in AI and Cloud Growth in Spain"
+    excerpt: "Over the next two years to significantly scale up its artificial intelligence (AI) development and cloud computing capacities in Spain."
+    publishedDateTime: 2024-02-21T07:59:00Z
+    webUrl: "https://techreport.com/news/microsoft-to-invest-2-1-billion-in-ai-and-cloud-growth-in-spain/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
 
 secured: "2AYbN91bYpbeS3ml5JZqGkGsQnv2xazhyw1qENhpPKDkOM+u/x6HIztEPtRX9YdjlaUrhGhGJMWGqZojK3D3Bo+EDoNl18FuYg++jzqx5OAg3Vj+4I90FIb/bIYR9QxYdooNeYzAZiRCmefv9TuIVpjqR8egbrFukXjIEjO47Yq5MIBpjTfX4flTJZZr3zFNaj/IJcNQrlivN2xkrk8tb4XokDFpSHlJqzFFpqV3QnpW9HqwzHazbG9+t0T6L3fUmZSQ16pl+fHTHax286x5e/sws6nFvhC9m3vHIXli8BQcGw8XEl7wgioRrDoTXwou8V+a+3DWWgr9M/BxBYvWhe3Vaau17ijbjoYMrSQ8mgc=;2HEX2dX/hAosHX8hb7GgtQ=="
 ---

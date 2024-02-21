@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-google-are-pr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
 type: article
 quality: 100
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -90,6 +90,15 @@ related:
     provider:
       name: Midland Daily News
       domain: ourmidland.com
+    quality: 34
+  - title: "Microsoft to Invest $2.1 Billion in AI and Cloud Growth in Spain"
+    excerpt: "Over the next two years to significantly scale up its artificial intelligence (AI) development and cloud computing capacities in Spain."
+    publishedDateTime: 2024-02-21T07:59:00Z
+    webUrl: "https://techreport.com/news/microsoft-to-invest-2-1-billion-in-ai-and-cloud-growth-in-spain/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
     quality: 34
 
 secured: "rPdrECLqDxtZZtywbAYATO4uGrS3rq/uOV/KLgWKnFrPCYB81Hdd/gxzkedS1oGIi+Vicz/0UJ9G9s9F9jRtMDRVlc7NZFG8OM6NM3z1zP7Lz5bYcJNRYpcc+COOo23DfN8d6e3A0oqiogg7//SKZF0VjxNS8FxIOmy1ZySuu7l4+Gi632ZKKw5fNhEskdMMFwYivf32nLdlxQkf3ZtQCz7XL15zuVWuTkw/U298Cyda5WVJ7Wf7yKM+D797AhrCxBiw3qLS35g9HUg/DWTUtlnj4uugsE0hSCDbSwvTwluiojGFp41LP2+djEqbifN4zk5zsKB9MwdvbsJypLjKVPlTXA0wUhERJZfaRz0wWJg=;INUBnfzWNHWt7Isq0cN+9w=="

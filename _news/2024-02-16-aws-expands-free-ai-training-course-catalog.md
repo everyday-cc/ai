@@ -33,15 +33,6 @@ related:
         width: 1000
         height: 1352
         isCached: true
-  - title: "Collaboration delivers AI-as-a-service platform"
-    excerpt: "The combination of Supermicro’s Nvidia MGX-based servers and Vapor IO’s 5G- and AI-as-a-Service brings AI and 5G to the intelligent edge."
-    publishedDateTime: 2024-02-20T19:13:00Z
-    webUrl: "https://www.electronicproducts.com/collaboration-delivers-ai-as-a-service-platform/"
-    type: article
-    provider:
-      name: Electronic Products
-      domain: electronicproducts.com
-    quality: 19
 
 secured: "QCsNOyX1PJwyAhb5bTCdJWmOA9tXDWb1lZNjWH+DheZ4EbCh14OJHEF8diEEnU49SoU+9U7pDdsqC7QK9pDqgoguW57dONzMrKrLwrp6Jrk2yPXndvAY6ki9HIJdjpRChoIul65loP5mnx3e+nFYDI74kPErivOxXKOt3LTCRmXkwAm3jh5HixpyMA0Nuf8TnIoRtzDTSJ0tIBX+lLu7PXK+x6XdFKBI/HvZNF3FkgWPDA7K4wFB8a6NtcF1AJS1sV47o63FcQaWP9dlkZetESL9bFCdCsYQJ4OyLwXOYoQiPy1WFUYjOHtwz6HpKF+9SvNVlJKYkJm0qcDlervPR3+PB+QZGSFv05wMTCVGTrA=;LdQIC+2cWKj6RvoM3mLoHQ=="
 ---

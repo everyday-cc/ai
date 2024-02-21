@@ -26,33 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Shaping Tomorrow: A Colorado Conversation on Artificial Intelligence"
-    excerpt: "In a little over a year since ChatGPT was launched on an unsuspecting world, artificial intelligence has begun to transform every walk of life. AI is making it possible for"
-    publishedDateTime: 2024-02-19T06:00:00Z
-    webUrl: "https://gazette.com/news/local/shaping-tomorrow-a-colorado-conversation-on-artificial-intelligence/article_ef87b044-cd2b-11ee-958b-b38db754b987.html"
+  - title: "Will AI Replace Consultants? Here’s What Business Owners Say."
+    excerpt: "The rise of AI in business has started a debate on which roles will be replaced. Here’s what entrepreneurs, consultants and AI experts think will happen to consultants."
+    publishedDateTime: 2024-02-20T11:59:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2024/02/20/will-ai-replace-consultants-heres-what-business-owners-say/"
     type: article
     provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/8/ab/8abbb8c4-5d3a-586f-a29c-1157a85da412/624626c1c63dd.image.png?crop=1366%2C717%2C0%2C25&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Driving into Tomorrow: How Emerging Automotive Technologies are Shaping the Future"
-    excerpt: "Buckle up and get ready to shift into high gear as we explore how cutting-edge automotive technologies are steering us toward a bold new era of transportation. From self-driving cars to electric vehicles,"
-    publishedDateTime: 2024-02-19T08:14:00Z
-    webUrl: "https://techbullion.com/driving-into-tomorrow-how-emerging-automotive-technologies-are-shaping-the-future/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 18
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/Automotive-Technology-1.jpg"
-        width: 1000
-        height: 500
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d450f3103b2d30639ad358/0x0.jpg?format=jpg&crop=1270,714,x0,y35,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "33DSNWP8nwq+beNP2eu8Sp3KrGI9Rz0JfccbVo6yZPQ62eMpSrB5+Si+PtLvnzC5p6CkLY96YYKj+VeGA0e5KepxIjgBKsuthsKMpwJzXwVJzD+9iy0PpbRX9pfGDlGTikKGMdTC49eRfyNKKlUiYybAz6JEIi1jWrBD2V8PCTy+MGlMwcI40NrKWapsK+7UJJawnFFlgIinzlm9O/R+qdXR4V1cJNOieJ1pWMkfTm5qU8oq3hKJHq8AenfbLRMZaC9gT6gRpNA6jL4hOeolZTa7VincYn2M9fP2g6XPEPLb+ZkUZPr80BZ81HMz/hrVekTlKRYYDUdgFNV3GUY0PPUdMdGsAv3uXCNlewu3VyM=;/fyfgXnakK6shjaYqqc3LA=="

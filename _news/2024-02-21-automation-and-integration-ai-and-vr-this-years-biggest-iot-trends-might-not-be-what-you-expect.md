@@ -80,6 +80,34 @@ related:
         width: 500
         height: 331
         isCached: true
+  - title: "Expert warn how AI could destroy humankind in just two years"
+    excerpt: "An artificial intelligence researcher has said that if they were forced to give probabilities, AI will become so sophisticated humanity could be wiped out."
+    publishedDateTime: 2024-02-21T06:47:00Z
+    webUrl: "https://www.tweaktown.com/news/96346/expert-warn-how-ai-could-destroy-humankind-in-just-two-years/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96346_561516615_researchers-warn-how-ai-could-destroy-humankind-in-just-two-years_full.png"
+        width: 1500
+        height: 862
+        isCached: true
+  - title: "Experts warn how AI could destroy humankind in just two years"
+    excerpt: "In a new article published by The Guardian, Tom Lamont, the author of the piece, set out to talk to as many AI doomsayers as possible ... researcher at a nonprofit called Machine Intelligence Research Institute in Berkeley, California, and according ..."
+    publishedDateTime: 2024-02-20T17:14:00Z
+    webUrl: "https://www.tweaktown.com/news/96346/experts-warn-how-ai-could-destroy-humankind-in-just-two-years/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96346_561516615_researchers-warn-how-ai-could-destroy-humankind-in-just-two-years_full.png"
+        width: 1500
+        height: 862
+        isCached: true
   - title: "Artificial Intelligence | Worrisome trends in election campaigning"
     excerpt: "JOHANNESBURG - The emergence of artificial intelligence-generated content is changing the landscape of election campaigns. Artificial intelligence programs can produce realistic images and voices in a matter of few minutes and people have long tried to misrepresent media to influence an election."
     publishedDateTime: 2024-02-17T20:06:00Z

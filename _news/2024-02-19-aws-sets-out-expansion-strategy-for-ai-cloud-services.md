@@ -7,8 +7,8 @@ originalUrl: "https://www.bangkokpost.com/business/general/2744454"
 webUrl: "https://www.bangkokpost.com/business/general/2744454"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Bangkok Post
@@ -34,15 +34,6 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 34
-  - title: "Collaboration delivers AI-as-a-service platform"
-    excerpt: "The combination of Supermicro’s Nvidia MGX-based servers and Vapor IO’s 5G- and AI-as-a-Service brings AI and 5G to the intelligent edge."
-    publishedDateTime: 2024-02-20T19:13:00Z
-    webUrl: "https://www.electronicproducts.com/collaboration-delivers-ai-as-a-service-platform/"
-    type: article
-    provider:
-      name: Electronic Products
-      domain: electronicproducts.com
-    quality: 19
 
 secured: "0omcnnxC9hkcHkb/CnujvcC377BPLD+zgpFumN20LaeD4wLzFguF1XynFKauTu1uKDbZRZKQPT0xVtULfDlSNxIKgMj7jL3hFjAThFvbzkvnmvhkmxtLDl9XqmV8ClTmmlNzlq5r38ziORF4ig4fInO2cKw/0O6MiO9AwfLVYneLFFvN5rcuQd1+RN6CLyzD+JC7+bTrvZJj0/uJZ+47eCiorLffoyAvgm5ULJlAaNuRMgNbo809mmX8O2k1XnjoxVnLff9kwfIPf+MqVizNHC2zV0jCDjqVMZBttrj39LFrcc4/kEDarbTNEemGu8UsMUz3xRQlk+fG6gZ0BRbwThlGFM8OAvt5bM/jdlPyshAlc5ykdBGwwcxi6bxNDH03uhaGdEL78JAcsdRFZobKFiN2HZT13aa5D5BZ2hMR7PwYmZ8cG2a6zxf3dxy7mxAHfAvbiV7y2cYDmyO3wHlXS3r87ZezuCjwmcNIKHBU9o/LnV8IEXwJmLdVPRxyjvzEN9pZp1m7JbEm/dT6Voyf3w==;SMzQZiwi9iuonxTkwDdQ5A=="
 ---

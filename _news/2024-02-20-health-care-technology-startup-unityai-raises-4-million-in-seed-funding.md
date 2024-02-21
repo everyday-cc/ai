@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/nashville/inno/stories/fundings/2024/0
 webUrl: "https://www.bizjournals.com/nashville/inno/stories/fundings/2024/02/20/unityai-seed-funding-capital-healthcare-technology.html"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "‘Need another technology leap for AI to start reasoning like humans’"
+    excerpt: "Having built a successful company, what’s your advice to budding entrepreneurs who are trying to build an AI or GenAI startup? I’m seeing hundreds of companies, especially in AI, that don’t bring any value. They just add a thin layer on the top of GPT."
+    publishedDateTime: 2024-02-21T08:21:00Z
+    webUrl: "https://www.livemint.com/technology/this-founder-s-looking-to-another-technology-leap-for-ai-to-start-reasoning-like-humans-11708501385439.html"
+    ampWebUrl: "https://www.livemint.com/technology/this-founder-s-looking-to-another-technology-leap-for-ai-to-start-reasoning-like-humans/amp-11708501385439.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/this-founder-s-looking-to-another-technology-leap-for-ai-to-start-reasoning-like-humans/amp-11708501385439.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/02/21/1600x900/Daniel_Dines_1708501854177_1708501865168.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "YewplWdZZGhNVFuToToDxt68WVX0x22j1QNJ2Hwf3nPQCnoK9Z+NYBPrmoIQTvTYacdsoHTfUP0yrl2FlKm+6/NlHHgPM+63ZADnDmH56UOQ1wGIPZ7a7peV8hvbCkINHAmjZHAXQe85KHPQv7jdliOFzDTld2tiKLMBUaTViCZ+p7evHNyhzhWzLwjZ8L8Y9ZeHcdWutYGbwKOg6Ihy4FhqEqFCBm1joY5bkJXsPKxuD+L/3W1eBpikYWco1fK5OWpEWuBvgs2EvTpGBAT4b6V9ux4YQ8/A/4zcZgKd9982gg7HoCPFOYyy9ZKtlyFALPLCe2POAmIDslT1wsam4ozcTplVgtgYZiML1Bs3jjFjZT/OoHiXxsb5zQtoNOnSo15547E/1enYPVQw+DcsXIEUSIbqks2Qs7wrK9zcyG8SR/s1B7b1baT31ASl1YQm3qWKCA1kWjHSZGj/WRNBvAmPP2oVqM1GCBpjcXJd0tj8cBIPJ+ECE29MRYqXD0hiOps24cHk3nJ+wY+OxnlUew==;BfoBI+2ehpFEmoR1/R5yNg=="
 ---
