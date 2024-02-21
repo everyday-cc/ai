@@ -43,6 +43,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "AI hallucination will get minimised by next year"
+    excerpt: "“I’m very convinced that we’re going to largely eliminate hallucinations over the next year,” said Mustafa Suleyman, co-founder, Inflection AI and DeepMind, in a virtual interaction with Debjani Ghosh, president, Nasscom. Regulatory norms for ..."
+    publishedDateTime: 2024-02-21T05:43:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-hallucination-will-get-minimised-by-next-year-3400576/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-hallucination-will-get-minimised-by-next-year-3400576/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-hallucination-will-get-minimised-by-next-year-3400576/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-21T095107.508.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "iJx/ZrgZQfCA+/qXwIWu9hWsIKsjMbIzLARqI5G7SoHtrxX7JYVnd0DOsQPR7ygPQ4/z2E7IwuJWpECmhU5oWEVzkDnpxlZeMGtCdBm2UvatdFHzql0PfVtZNLmSLr0c5s4CUfsSOjifyR0Zl9QlKnySZ4r4ueyi66DHLgSUMkW2HaGVdIn23df1UC8SJR7snn0s52t6AzmPPJBadGMKCiXyZFhDPMD5ceJyKzqFbGyDIZzZ8yksv9Kait/rZoLWg7cwCNJtxVaUoal632FEfDexc55h29L4un6wJPTGvbrEI/3WswhWBE9nnAI6gsDh9EsPFvH3nMQqq4LoUFsVHydjoqluIhLXxrgYeaYhzh/PeBDsDuTlB8p0EQnxwiQsNx27Yg0hzOGbfYF7q7q9F39q1sWOZSus3aHE3MKiBN2+Tk1EJb/6m6nUd158XwNanMpjLFsEhDXWkFry5O0adKf5GVadmd6bNIK/xXNQU5bpaiw7Ism1rqg1WmRuFo8Mw8pS9X9gT7yitmnIey4sWw==;A3wgyfLMxaHOijKmVOjiow=="
 ---

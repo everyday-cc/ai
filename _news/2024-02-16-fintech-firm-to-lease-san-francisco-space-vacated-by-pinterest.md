@@ -124,20 +124,6 @@ related:
         width: 700
         height: 350
         isCached: true
-  - title: "How the UAE is cementing its fintech hub status"
-    excerpt: "Jason Hughes, senior executive officer of eToro Middle East tells us that the UAE offers a supportive business ecosystem that drives growth."
-    publishedDateTime: 2024-02-16T06:28:00Z
-    webUrl: "https://gulfbusiness.com/how-the-uae-is-fostering-fintech-innovation/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 24
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2024/02/GettyImages-1231917794-e1708064794310.jpg"
-        width: 930
-        height: 620
-        isCached: true
   - title: "Baron FinTech Fund Q4 2023 Shareholder Letter"
     excerpt: "[1]The FactSet Global FinTech Index™ is an unmanaged and equal-weighted index ... well positioned to capitalize on increasing adoption of artificial intelligence ('AI') given its vast data sets. The company recently launched Intuit Assist, a generative ..."
     publishedDateTime: 2024-02-18T10:15:00Z

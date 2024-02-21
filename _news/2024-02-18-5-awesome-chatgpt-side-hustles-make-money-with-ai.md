@@ -76,15 +76,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "Advisory Firm Ankura Launches Generative AI Tool Crafted With ChatGPT Developer"
-    excerpt: "DUBAI (Reuters) - Advisory and forensic accounting firm Ankura Consulting said on Friday it had launched a custom, generative Artificial Intelligence (AI) tool developed in partnership with Microsoft-backed firm and ChatGPT creator OpenAI."
-    publishedDateTime: 2024-02-16T06:50:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-16/advisory-firm-ankura-launches-generative-ai-tool-crafted-with-chatgpt-developer"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
   - title: "I used ChatGPT to create AI images — this is how you can do it yourself"
     excerpt: "Creating AI images with ChatGPT is quick and easy ... With ChatGPT 4 selected, you’ll see an option to start a new conversation or if you’re a returning user, you can resume one that’s already started. Creating images works with either option."
     publishedDateTime: 2024-02-19T00:00:00Z
@@ -122,20 +113,6 @@ related:
       name: Scientific American
       domain: scientificamerican.com
     quality: 44
-  - title: "Google Gemini Ultra 1.0 vs ChatGPT 4"
-    excerpt: "In the rapidly evolving world of artificial intelligence, Google has taken a bold step forward with the introduction of Gemini Ultra 1.0. This new AI"
-    publishedDateTime: 2024-02-16T05:30:00Z
-    webUrl: "https://www.geeky-gadgets.com/google-gemini-ultra-1-0-vs-chatgpt-4/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Gemini-Ultra.png"
-        width: 1280
-        height: 712
-        isCached: true
   - title: "ChatGPT vs. Google Gemini"
     excerpt: "The landscape of large language models (LLMs) is heating up, with titans like Google and OpenAI throwing their hats into the ring. Google’s latest iteration, Gemini, formerly known as Bard, promises to challenge the reigning champion,"
     publishedDateTime: 2024-02-16T20:38:00Z

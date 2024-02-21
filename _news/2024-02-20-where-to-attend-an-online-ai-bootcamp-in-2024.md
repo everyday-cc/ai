@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/advisor/education/bootcamps/best-online-ai-
 webUrl: "https://www.forbes.com/advisor/education/bootcamps/best-online-ai-bootcamps/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Forbes
@@ -27,6 +27,22 @@ images:
     width: 958
     height: 539
     isCached: true
+
+related:
+  - title: "Upgrad Uses AI To Translate Certs & Bootcamps Into Local Languages"
+    excerpt: "(MENAFN- IANS) New Delhi, Feb 21 (IANS) Ronnie Screwvala-founded edtech platform upGrad on Wednesday said that it plans to enhance its product diaspora by translating popular Certs & Bootcamps into local languages using artificial intelligence (AI ..."
+    publishedDateTime: 2024-02-21T00:45:00Z
+    webUrl: "https://menafn.com/1107878024/Upgrad-Uses-AI-To-Translate-Certs-Bootcamps-Into-Local-Languages"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/21/I_b6eb2image_story.png"
+        width: 500
+        height: 261
+        isCached: true
 
 secured: "CIuSTY31NVXGppdpWi5jrJHr0kX+nq7VPzyYGCsthrbo2qKt+W0aNJt/5ZxUq1tUbHlWUipfG+3BTPKiWtSS05XM+9vrOEL77W8kNBnFssUcYW7mbcEt5Qs/U5RitDFzMgxSLwk0W7nyuaEvnBIv7mpDc0Jp11T19KlLplAYtpKd4/oimJ+GhuaHJde5pfPxDLvcg77QwzjYvKFVOxW84rbUzzAjAgqBnsYJeOfgZMoJ1Ua8TAibNnVxyiG21bvUQSJliuJAve/V7jsWoG/Vl7YYjXHhFOgvErIDo3kr0Qy2vVTqDkqRQGEukru8Z6vES6o/eKXOQl6jGhtJwFxXDtHneFID4/ja5r03il3+9IE=;PTCUxCXLovzG6GX2egH5dQ=="
 ---

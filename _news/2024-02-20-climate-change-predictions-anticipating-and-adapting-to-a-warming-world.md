@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/climate-change-predictions-anticipating-a
 webUrl: "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -22,6 +22,15 @@ topics:
   - IBM AI
 
 related:
+  - title: "ChatGPT Stock Predictions: 3 Electric Vehicle Companies the AI Bot Thinks Have 10X Potential"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Electric vehicle stocks stand out as a beacon of innovation and possibility in"
+    publishedDateTime: 2024-02-20T18:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-electric-vehicle-companies-the-ai-bot-thinks-have-10x-potential-1033084668"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
   - title: "Widespread machine learning methods behind 'link prediction' are performing very poorly"
     excerpt: "New research establishes that the metric used to measure link prediction performance is missing crucial information, and link prediction tasks are performing significantly worse than popular literature indicates."
     publishedDateTime: 2024-02-16T19:50:00Z

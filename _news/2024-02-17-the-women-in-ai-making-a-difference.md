@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Best AI gaming laptops"
-    excerpt: "The ROG Zephyrus G14 is a compact powerhouse. There's no other words to describe it really. It comes with a top-of-the-line Ryzen AI powered AMD Ryzen 9 7940HS processor which is paired with an NVIDA RTX 4080 Laptop GPU."
-    publishedDateTime: 2024-02-16T05:39:00Z
-    webUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html"
-    ampWebUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 59
-    images:
-      - url: "https://static.digit.in/Best-AI-gaming-laptops.jpeg"
-        width: 1280
-        height: 675
-        isCached: true
   - title: "The 3 biggest misconceptions about AI"
     excerpt: "A trio of experts share the most common misunderstandings they’ve heard with it comes to AI and students—and reveal the truth behind them."
     publishedDateTime: 2024-02-19T09:59:00Z
@@ -107,6 +91,20 @@ related:
       - url: "https://siliconprairienews.com/wp-content/uploads/2024/02/Uptrends_AI.jpeg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Automation and integration, AI and VR – this year’s biggest IOT trends might not be what you expect"
+    excerpt: "Among the applications of generative AI and large language models were live translator devices and pocket-sized AI devices designed to manage tasks through interactions with typical mobile apps. Urban mobility is taking off too, quite literally ..."
+    publishedDateTime: 2024-02-21T06:54:00Z
+    webUrl: "https://www.itweb.co.za/article/automation-and-integration-ai-and-vr-this-years-biggest-iot-trends-might-not-be-what-you-expect/lLn147mQpYV7J6Aa"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 25
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2024/02/iONLINE-Trends-2024-1.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "d1bh/VChCfOYKBv5MXtONZszUnskHnoKCw4mM0vx5GMfNVBr1G5ZxIPXDtDsiru1g0l59WnzfRzsMc5E6on6nF9CDS7TIykX9lMN1bDDaHRhbTbgYYR146qliCTJpchOfYuCI+Rq339jZ0K4AkLE2b31FyAzuWm8ncsdgi2Acn4/gpL+fbVHobzHVNsTpRCJsSmxydcFBiSKkTyRm0Jcb9b0zSC9ky2OVlNHGh6w4fuKwwno0ihUSlv7OSoW0JEvf1AeDjDzRkw79ERstj0E6L91c5uiqUfJHkz1tJSpxVGoHdehUfc48f++hduVCCszmtGskAC7Ik7bRzb3dBCTov461+p3RAYwtNm1sw1kBgE=;P7J8wsMa38AE2Ct0WFxnow=="

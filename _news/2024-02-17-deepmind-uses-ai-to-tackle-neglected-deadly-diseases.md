@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2024/01/Mustafa-Suleyman-Twitter-MustafaSuleyman.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Google DeepMind Unveils Gemini 1.5: 5 Key Highlights the Latest LLM"
-    excerpt: "Google's Gemini 1.5, the newest addition to its Large Language Models, brings enhanced processing capabilities and multimodal understanding."
-    publishedDateTime: 2024-02-16T06:44:00Z
-    webUrl: "https://www.thehansindia.com/tech/google-deepmind-unveils-gemini-15-5-key-highlights-the-latest-llm-858913"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 39
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2024/02/16/1423413-google.jpg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "AI hallucinations will largely be eliminated by next year, says DeepMind’s Mustafa Suleyman"
     excerpt: "Suleyman said eliminating hallucination would have a dramatic impact on education because these conversational AI's are friendly and fluent."

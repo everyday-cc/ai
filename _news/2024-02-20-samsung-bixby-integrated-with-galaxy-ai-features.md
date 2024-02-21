@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Galaxy AI will soon power 'intelligent health experiences' on Samsung's Wearables"
-    excerpt: "Samsung has announced that Galaxy AI will soon power intelligent health features on its wearables. Here's what's new."
-    publishedDateTime: 2024-02-21T03:09:00Z
-    webUrl: "https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/"
+  - title: "Samsung, UK's Arm team up to produce advanced AI chips"
+    excerpt: "Samsung Foundry, Samsung Electronics' chip manufacturing arm, is teaming up with the UK's Arm to adopt the firm's design assets for Samsung's most advanced chip-making process technology, Gate-All-Around, which aims to boost the company's edge in the ..."
+    publishedDateTime: 2024-02-21T06:27:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20240221050610"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240221050610"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240221050610"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 62
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 74
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Samsung-Galaxy-Watch-6-Wear-OS-4-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F02%2F21%2F20240221050593_0.jpg"
+        width: 616
+        height: 366
+        isCached: true
+  - title: "Samsung and Arm's Latest AI Chip Collaboration: A New Era for Mobile Computing"
+    excerpt: "Arm Holdings' value skyrockets to $130 billion amid AI boom, despite recent 8.39% share price dip. This partnership, built on a long history of millions of devices featuring Arm CPU intellectual property on Samsung’s process nodes, aims to introduce ..."
+    publishedDateTime: 2024-02-20T13:08:00Z
+    webUrl: "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37218987"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 70
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/ARM_1.png?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
         isCached: true
   - title: "Samsung Integrates Galaxy AI With Bixby; Adds Voice-Enabled Artificial Intelligence Features"
     excerpt: "Bixby is the native virtual assistant for Samsung devices Galaxy AI was launched alongside the Galaxy S24 series in January Samsung’s Galaxy AI adds features such as Call Assist, Interpreter mode"

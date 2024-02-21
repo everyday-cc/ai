@@ -138,20 +138,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "How the UAE is cementing its fintech hub status"
-    excerpt: "Jason Hughes, senior executive officer of eToro Middle East tells us that the UAE offers a supportive business ecosystem that drives growth."
-    publishedDateTime: 2024-02-16T06:28:00Z
-    webUrl: "https://gulfbusiness.com/how-the-uae-is-fostering-fintech-innovation/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 24
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2024/02/GettyImages-1231917794-e1708064794310.jpg"
-        width: 930
-        height: 620
-        isCached: true
   - title: "72% fewer Indian fintech startups incorporated in 2023 than in 2021: Report"
     excerpt: "There have been around 30 acquisition deals in the Indian fintech space in 2023 and 20 out of these were done by large companies with over 1,000 employees or funding of over $50 million"
     publishedDateTime: 2024-02-20T07:39:00Z

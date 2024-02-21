@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/"
 type: article
 quality: 74
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -127,20 +127,6 @@ related:
       - url: "https://images.globest.com/contrib/content/uploads/sites/296/2023/07/San-Francisco-Skyline-Article-202307210817.jpg"
         width: 620
         height: 372
-        isCached: true
-  - title: "How the UAE is cementing its fintech hub status"
-    excerpt: "Jason Hughes, senior executive officer of eToro Middle East tells us that the UAE offers a supportive business ecosystem that drives growth."
-    publishedDateTime: 2024-02-16T06:28:00Z
-    webUrl: "https://gulfbusiness.com/how-the-uae-is-fostering-fintech-innovation/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 24
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2024/02/GettyImages-1231917794-e1708064794310.jpg"
-        width: 930
-        height: 620
         isCached: true
   - title: "Baron FinTech Fund Q4 2023 Shareholder Letter"
     excerpt: "[1]The FactSet Global FinTech Index™ is an unmanaged and equal-weighted index ... well positioned to capitalize on increasing adoption of artificial intelligence ('AI') given its vast data sets. The company recently launched Intuit Assist, a generative ..."

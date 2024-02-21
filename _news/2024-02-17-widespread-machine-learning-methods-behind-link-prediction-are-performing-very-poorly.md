@@ -32,6 +32,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 81
+  - title: "ChatGPT Stock Predictions: 3 Electric Vehicle Companies the AI Bot Thinks Have 10X Potential"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Electric vehicle stocks stand out as a beacon of innovation and possibility in"
+    publishedDateTime: 2024-02-20T18:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-electric-vehicle-companies-the-ai-bot-thinks-have-10x-potential-1033084668"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
 
 secured: "b/WOjoTm445O2wONSldmOs6tjuKRmRkVyW1twDu9kY5V4ItcDwtfaJet9n4nIfp7zO307rahSXndBsjbpExXC4psYL3JcW4AYue1HEUSUv8Q4rSMHS0GPIqT/yCW79G3f4SHhVWB9oKw0xO9Hye5GDTYhuj1rQ6h0wRigeILESLs7X3elgrwBUuq+DmCDRnJFISX5rwlU6fliOmuAd5zUjd5ISqmsTSTpiAzmDGCDZ4kegWmiLDVV6iJURKPoQEcFafL50Gr4fGUKvns65I3um1fedbzgA7wcuF+7f3vQauO+6zsBOVZYISxicCZAoD6quHIRoYj7ep/Z3Jc16iEaB2HWGRelBVJUaDysAdp7cc=;rBtj4DdGJAscq8ejCEiFvg=="
 ---
