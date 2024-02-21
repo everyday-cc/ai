@@ -19,6 +19,22 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "IAEA designates Collaborating Centre on artificial intelligence for nuclear power"
+    excerpt: "Collaborating Centre agreement will support IAEA programmatic activities and knowledge sharing on advancements and innovation in AI for nuclear power."
+    publishedDateTime: 2024-02-21T06:12:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2835405-iaea-designates-collaborating-centre-on-artificial-intelligence-for-nuclear-power"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2835405-iaea-designates-collaborating-centre-on-artificial-intelligence-for-nuclear-power?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835405-iaea-designates-collaborating-centre-on-artificial-intelligence-for-nuclear-power?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 52
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/30_01_2019_17_12_13_1544156.jpg?width=1280"
+        width: 1280
+        height: 746
+        isCached: true
   - title: "How artificial intelligence empowers contact centre agents and supervisors for CX success"
     excerpt: "Technology evolution has always received a mixed reception of enthusiasm and scepticism, especially when it comes to artificial intelligence (AI). The vast possibilities of AI can be daunting to those unacquainted with the reality,"
     publishedDateTime: 2024-02-20T03:55:00Z

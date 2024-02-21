@@ -60,20 +60,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "My Top 5 AI Stocks"
-    excerpt: "2024 is getting off to a hot start. The major averages are up nicely, with the S&P 500 and the Nasdaq composite up by about 5%. Moreover, these advances were over significant gains last year. Thus, it should be a solid year for many high-quality stocks."
-    publishedDateTime: 2024-02-20T08:25:00Z
-    webUrl: "https://seekingalpha.com/article/4671505-my-top-five-ai-stocks"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://media.gettyimages.com/id/1778176333/photo/digital-eye.jpg?b=1&s=170667a&w=0&k=20&c=BWRANR8iHY3-bvgU3JwChDell5OR4izzYAwhiQKHQhY="
-        width: 509
-        height: 339
-        isCached: true
   - title: "Wild vs. Canucks February 19 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Quinn Hughes and Matthew Boldy will be two of the most exciting players to keep an eye on when the Vancouver Canucks face the Minnesota Wild at Xcel Energy Center on Monday, February 19 at 2:00 PM ET. Kirill Kaprizov is ..."
     publishedDateTime: 2024-02-18T08:01:00Z

@@ -41,6 +41,20 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "Wipro and Intel Foundry Partner for Innovate AI Chip Manufacturing"
+    excerpt: "Wipro and Intel Foundry Partner for Innovate AI Chip Manufacturing - Wipro Limited , a leading technology services and consulting firm, has revealed an enhanced partnership"
+    publishedDateTime: 2024-02-21T08:40:00Z
+    webUrl: "https://www.siliconindia.com/news/general/wipro-and-intel-foundry-partner-for-innovate-ai-chip-manufacturing-nid-227989-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/2NEZSVXJ.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Wipro and Intel Foundry Partners for Innovate AI Chip Manufacturing"
     excerpt: "Wipro and Intel Foundry Partners for Innovate AI Chip Manufacturing - Wipro Limited , a leading technology services and consulting firm, has revealed an enhanced partnership"
     publishedDateTime: 2024-02-21T03:10:00Z

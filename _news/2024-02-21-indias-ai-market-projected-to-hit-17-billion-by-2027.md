@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ind
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-indias-ai-market-projected-to-hit-17-billion-by-2027-3400551/lite/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Express
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "India’s tech leaders jockey for slice of $300 billion AI market"
+    excerpt: "India too can become a formidable contestant in that race, industry experts say. From DeepMind Technologies co-founder Mustafa Suleyman to Stanford researcher Fei-Fei Li, some of the field’s biggest names debated this week in Mumbai how India — the ..."
+    publishedDateTime: 2024-02-21T10:45:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/indias-tech-leaders-lockey-for-slice-of-300-billion-ai-market-12324571.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/indias-tech-leaders-lockey-for-slice-of-300-billion-ai-market-12324571.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/indias-tech-leaders-lockey-for-slice-of-300-billion-ai-market-12324571.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/407862046-653x435.jpg"
+        width: 653
+        height: 435
+        isCached: true
   - title: "India's Artificial Intelligence market to touch USD 17-billion by 2027: Nasscom-BCG report"
     excerpt: "Globally, investments in AI have seen 24 per cent CAGR since 2019, with 2023 seeing close to USD 83-billion investment"
     publishedDateTime: 2024-02-20T16:04:00Z

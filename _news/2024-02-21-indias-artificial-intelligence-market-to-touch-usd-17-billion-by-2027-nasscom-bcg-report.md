@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "India’s tech leaders jockey for slice of $300 billion AI market"
+    excerpt: "India too can become a formidable contestant in that race, industry experts say. From DeepMind Technologies co-founder Mustafa Suleyman to Stanford researcher Fei-Fei Li, some of the field’s biggest names debated this week in Mumbai how India — the ..."
+    publishedDateTime: 2024-02-21T10:45:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/indias-tech-leaders-lockey-for-slice-of-300-billion-ai-market-12324571.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/indias-tech-leaders-lockey-for-slice-of-300-billion-ai-market-12324571.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/indias-tech-leaders-lockey-for-slice-of-300-billion-ai-market-12324571.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/407862046-653x435.jpg"
+        width: 653
+        height: 435
+        isCached: true
 
 secured: "kDDgni2DuxmfnJ5/pBx3VYhSv4DMh1exWm/8Of2dUiKA/SoEEUOd3gdEMsnMlSgtqw6rwdk5Pt5k318SDZ47UyRflw9N0C5XuGy57WDZoCneVr8VYp+ih9x50yDU6mjNKeceU5+AEphZ3rmd8kaAnGmJJthYYDDcOC8Ak0/a2x6DiCUdItXLpyzoezvQRv6VB9cgsOH5V76l9CJK2+nFmsMTzsjcsCx7Av2jYz6QpzbB5lPpsOP0pPHa+77szH3/dOAqMs7I2aGNqB1eMInSw6/9ORtFQ6tMA+71il8sKwEoUOrr7XlaBkifBGocQFmeOa+eR1caToENObremO6oHDIENH5ts5Rqqmcr/I8vvAk=;UPy5hZ2h83XwerT4VltFxw=="
 ---

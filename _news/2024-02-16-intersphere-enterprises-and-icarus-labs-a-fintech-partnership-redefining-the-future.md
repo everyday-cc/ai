@@ -179,6 +179,20 @@ related:
         width: 509
         height: 339
         isCached: true
+  - title: "Bud joins forces with Fintech Galaxy"
+    excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. This collaboration is all about bringing tangible ..."
+    publishedDateTime: 2024-02-21T09:57:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99729/bud-joins-forces-with-fintech-galaxy"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "72% fewer Indian fintech startups incorporated in 2023 than in 2021: Report"
     excerpt: "There have been around 30 acquisition deals in the Indian fintech space in 2023 and 20 out of these were done by large companies with over 1,000 employees or funding of over $50 million"
     publishedDateTime: 2024-02-20T07:39:00Z

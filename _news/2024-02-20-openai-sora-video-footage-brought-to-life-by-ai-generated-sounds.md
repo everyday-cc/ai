@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/
 webUrl: "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/"
 type: article
 quality: 69
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -158,20 +158,6 @@ related:
       - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2024-02-16t101400.946.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Visual Studio adds AI-generated Git commits, previews AI chat"
-    excerpt: "while Visual Studio 17.10 brings AI-powered chat into the IDE. Other productivity enhancements in Visual Studio 17.9 include the ability to open a GitHub or Azure DevOps pull request from either Visual Studio or a web browser, the ability to switch between ..."
-    publishedDateTime: 2024-02-16T11:00:00Z
-    webUrl: "https://www.reseller.co.nz/article/710095/visual-studio-adds-ai-generated-git-commits-previews-ai-chat/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_visual_studio_26.jpg"
-        width: 505
-        height: 315
         isCached: true
   - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
     excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."

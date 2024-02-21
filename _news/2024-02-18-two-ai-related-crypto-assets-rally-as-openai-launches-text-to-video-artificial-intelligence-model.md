@@ -168,20 +168,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Visual Studio adds AI-generated Git commits, previews AI chat"
-    excerpt: "while Visual Studio 17.10 brings AI-powered chat into the IDE. Other productivity enhancements in Visual Studio 17.9 include the ability to open a GitHub or Azure DevOps pull request from either Visual Studio or a web browser, the ability to switch between ..."
-    publishedDateTime: 2024-02-16T11:00:00Z
-    webUrl: "https://www.reseller.co.nz/article/710095/visual-studio-adds-ai-generated-git-commits-previews-ai-chat/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_visual_studio_26.jpg"
-        width: 505
-        height: 315
-        isCached: true
   - title: "OpenAI begins testing its text-to-video AI Sora with creatives"
     excerpt: "OpenAI has unveiled its latest AI model, although it's not being released to the public just yet. Sora is a text-to-video model."
     publishedDateTime: 2024-02-19T14:55:00Z

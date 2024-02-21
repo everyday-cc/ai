@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VCs are clamoring to back 'screaming hot' startups using AI for medical records"
+    excerpt: "Most recently, Ambience Healthcare announced a $70 million Series B round in February, co-led by Kleiner Perkins and Open AI Startup Fund and including existing investors Andreessen Horowitz and Optum Ventures. Medical-scribe startup Nabla raised a Series ..."
+    publishedDateTime: 2024-02-21T10:00:00Z
+    webUrl: "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/65cf847ef533b039a884865f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Use Artificial Intelligence to Create Forms, Surveys, and Quizzes With involve.me"
     excerpt: "Software as a service (SaaS) company involve.me is launching its innovative AI-powered form builder, allowing users to create business forms"
     publishedDateTime: 2024-02-19T18:30:00Z

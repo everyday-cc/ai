@@ -64,6 +64,29 @@ related:
         width: 1200
         height: 671
         isCached: true
+  - title: "Adobe's new AI assistant for Acrobat and Reader can summarize PDFs and answer questions"
+    excerpt: "Read our ethics statement. What just happened? With PDFs being the preferred format for documents used by organizations, it shouldn't come as too much of a surprise to learn that Adobe has launched an artificial intelligence assistant for its Reader and ..."
+    publishedDateTime: 2024-02-21T05:17:00Z
+    webUrl: "https://www.techspot.com/news/101959-adobe-new-ai-acrobat-reader-can-summarize-pdfs.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 41
+  - title: "First there were AI chatbots. Now AI assistants can order Ubers and book vacations"
+    excerpt: "A new batch of AI-powered devices known as AI agents are all the rage in Silicon Valley. They're devices with a voice assistant that can complete real-world tasks for you."
+    publishedDateTime: 2024-02-21T10:25:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1232561606"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 31
+    images:
+      - url: "https://media.npr.org/assets/img/2024/02/20/stellakalinina_rabbitr1_30_3981-7ce1580c8a503e314ae6d3f6207c96de5052868a.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
   - title: "Adobe's New AI Assistant Is Designed to Read PDFs for You"
     excerpt: "Adobe is getting into the AI assistant game. The assistant, which is rolling out in beta today as a part of Adobe Acrobat and Adobe Reader, is a new tool that \"reads\" through documents and can answer questions related to their content,"
     publishedDateTime: 2024-02-20T14:20:00Z

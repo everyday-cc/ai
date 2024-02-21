@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-21T02:42:00Z
 originalUrl: "https://venturebeat.com/ai/early-adopters-fast-tracking-gen-ai-into-production-according-to-new-report/"
 webUrl: "https://venturebeat.com/ai/early-adopters-fast-tracking-gen-ai-into-production-according-to-new-report/"
 type: article
-quality: 64
-heat: 84
+quality: 66
+heat: 86
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/02/image_6d423f.jpeg?resize=690%2C516&#038;strip=all"

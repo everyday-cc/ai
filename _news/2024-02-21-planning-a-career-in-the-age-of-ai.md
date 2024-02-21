@@ -49,36 +49,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI Is Already Making Us More Productive"
-    excerpt: "Instead, the productivity winners will be the companies that deeply integrate customized AI into their enterprise software and business systems, pairing it with automation whenever possible. Despite all the chatter, Nitin Mittal and Thomas H. Davenport note in their book All in on AI that only a handful of major companies have already done this."
-    publishedDateTime: 2024-02-16T10:01:00Z
-    webUrl: "https://www.mauldineconomics.com/global-macro-update/ai-is-already-making-us-more-productive"
-    ampWebUrl: "https://www.mauldineconomics.com/global-macro-update/amp/ai-is-already-making-us-more-productive"
-    cdnAmpWebUrl: "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/global-macro-update/amp/ai-is-already-making-us-more-productive"
-    type: article
-    provider:
-      name: MauldinEconomics.com
-      domain: mauldineconomics.com
-    quality: 59
-    images:
-      - url: "https://images.mauldineconomics.com/uploads/newsletters/FEATURE_20240216_GMU.jpg"
-        width: 825
-        height: 413
-        isCached: true
-  - title: "At the Speed of Light: Unveiling the Chip That’s Reimagining AI Processing"
-    excerpt: "An innovative new chip uses light for fast, efficient AI computations, promising a leap in processing speeds and privacy. Penn Engineers have developed a new chip that uses light waves, rather than electricity,"
-    publishedDateTime: 2024-02-16T10:01:00Z
-    webUrl: "https://scitechdaily.com/at-the-speed-of-light-unveiling-the-chip-thats-reimagining-ai-processing/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 52
-    images:
-      - url: "https://scitechdaily.com/images/Photonic-Processor-Chip-Art-Concept.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Ai for Alpha Integrates New Generative Artificial Intelligence into Its Investment Process"
     excerpt: "Ai for Alpha, a leading fintech company specializing in leveraging machine learning for advanced investment strategies, announces the integration of Gen AI into its asset management models. “We are excited by this innovative approach as it represents a significant advancement in optimizing investment processes through the application of generative AI technologies,"
     publishedDateTime: 2024-02-16T12:12:00Z

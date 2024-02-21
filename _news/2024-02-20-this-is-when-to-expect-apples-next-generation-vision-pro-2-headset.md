@@ -41,6 +41,20 @@ related:
         width: 1812
         height: 900
         isCached: true
+  - title: "The next Apple Vision Pro could be at least 18 months away, report suggests"
+    excerpt: "Anyone waiting for the second-generation Apple Vision Pro before taking the plunge could be waiting another 18 months at least, a new report claims."
+    publishedDateTime: 2024-02-19T19:04:00Z
+    webUrl: "https://www.tweaktown.com/news/96298/the-next-apple-vision-pro-could-be-at-least-18-months-away-report-suggests/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 22
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96298_02_the-next-apple-vision-pro-could-be-at-least-18-months-away-report-suggests_full.jpg"
+        width: 1500
+        height: 999
+        isCached: true
 
 secured: "AVNjwr0v2s5Hb1RCiBgj9sZ9MDLP2wZSLdt+fvEzOUcnlFHpWdyuWmXKewZ5/fWf09zgIvWn82kZR2k0d4TTJP8TJGFjked5pBJacuG+pevq+OBUNoskXJ25tr9KekhhFllintgQVBTJo6EyPb8y0D5A8J6RPC1BmoQvSsbwD+ZynnHx0AbayWEHwAP51w7Jw1UeUSnksYJ4uWZJDXrJpT4dVKcUm0z7x/DLAzZFVAAAEI+/As2M5qZHph274BufufUvHM2/9VrXa+cDkYHdY6yIkPqgfHeLIw5K1qHRkK8pFYEPFvjwejsL5HDw3s67MyLdRWBFW8LmYc4Ne+6EEY0/mASmPFL6uH7pWPTz7Ss=;oMK+yEcsfQgOfdTiUVfVmw=="
 ---

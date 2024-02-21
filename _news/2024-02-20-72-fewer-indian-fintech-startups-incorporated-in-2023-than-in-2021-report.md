@@ -175,6 +175,20 @@ related:
         width: 509
         height: 339
         isCached: true
+  - title: "Bud joins forces with Fintech Galaxy"
+    excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. This collaboration is all about bringing tangible ..."
+    publishedDateTime: 2024-02-21T09:57:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99729/bud-joins-forces-with-fintech-galaxy"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Intersphere Enterprises and Icarus Labs: A Fintech Partnership Redefining the Future"
     excerpt: "The dynamic landscape of financial technology is witnessing a pivotal moment with the strategic partnership of Intersphere Enterprises (ISE) and Icarus Labs. This collaboration is an amalgamation of Intersphere’s extensive financial expertise and Icarus Labs’ groundbreaking technological innovation."
     publishedDateTime: 2024-02-16T11:49:00Z

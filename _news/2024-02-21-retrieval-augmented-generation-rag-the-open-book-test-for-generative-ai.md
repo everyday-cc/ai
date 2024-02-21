@@ -54,6 +54,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Adobe’s Market Resilience and Growth Potential Amidst Generative AI Advancements"
+    excerpt: "Analyst Kash Rangan of Goldman Sachs reiterated a Buy rating on Adobe (ADBE – Research Report), with a price target of ... In a similar vein, Rangan anticipates that generative AI will expand the sector further by lowering the barriers to content ..."
+    publishedDateTime: 2024-02-21T05:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/adobe-s-market-resilience-and-growth-potential-amidst-generative-ai-advancements-1033086827"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "Appy Pie launches AI Animation Generator with a Range of New AI Tools"
     excerpt: "The AI animation generator from Appy Pie is backed with features like natural language processing, real-time previews and edits, background music integration, voice over capabilities, and much more, making it easy for users to create animations for their ..."
     publishedDateTime: 2024-02-18T21:10:00Z

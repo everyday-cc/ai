@@ -56,6 +56,20 @@ related:
         width: 900
         height: 675
         isCached: true
+  - title: "VCs are clamoring to back 'screaming hot' startups using AI for medical records"
+    excerpt: "Most recently, Ambience Healthcare announced a $70 million Series B round in February, co-led by Kleiner Perkins and Open AI Startup Fund and including existing investors Andreessen Horowitz and Optum Ventures. Medical-scribe startup Nabla raised a Series ..."
+    publishedDateTime: 2024-02-21T10:00:00Z
+    webUrl: "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/65cf847ef533b039a884865f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "V0G271JO0Gfj5iBwcqqwYK3JPjaMrPAX0lI5VakshL17Q54hWpXIYeMJwo9gehrE9CNA+4+QPMGIJDfQyNhU3nXahQ+3gSRSWYzRCo84yhmkk/PFn4IA0FmcGSwUyDyZbfNsaERLFXTYNwDzp6fJ+YkNkWaYYFwVuOj9YqUKI9dZ18M0Neg2QWoAG4OZ6ZbjFRtfxvuXIL69SWIVfWYd1YpEYAkeAVmmX2melvVZxP4OKxFSDgCoc5AsQqBKi8NrE9igvrHmE5lX3W3ZuXDgwhycCfpfS2WyQGG9Ym+wnblww0v5uJvgCQa1uWhJgg9NPu5KnzWpzxhBQ2FkE9MdEjlqg27DLooh03df1BgI+halvJC14hKwA9qid6XVHOsngd5+i1nHTznZtASbDORxIPYBf4EDtNuW2QWioqpLAYe8azvujycroW0SJf3z/tdPOp4CF43oDi/nCMQVMKN82Ld9fDtjQvvXablDB0p2lC3FY++OIbcG0RccfBfEBV5hSVAPL+YYwJO+rn9lhBHBPw==;ThKjLF3vHr4fn+lmb7frMA=="
 ---

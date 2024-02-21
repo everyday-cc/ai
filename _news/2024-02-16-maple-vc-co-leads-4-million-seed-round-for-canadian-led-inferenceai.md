@@ -7,7 +7,7 @@ originalUrl: "https://betakit.com/maple-vc-co-leads-4-million-seed-round-for-can
 webUrl: "https://betakit.com/maple-vc-co-leads-4-million-seed-round-for-canadian-led-inference-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1050
     height: 700
     isCached: true
-
-related:
-  - title: "Chipping In: Billionaire-Founded Unicorn Startup Makes Semiconductor ‘Chiplets’ For The AI Boom"
-    excerpt: "Singapore-based Silicon Box specializes in chiplets, an increasingly popular way of making high-performing chips. To help ramp up production, the startup recently raised $200 million in a Series B round."
-    publishedDateTime: 2024-02-16T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/catherinewang/2024/02/16/chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65c055520d5f42441db193dd/0x0.jpg?format=jpg&crop=2357,1325,x0,y594,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 899
-        isCached: true
 
 secured: "PGwxlefid8KyspVIqYkh3uhodGdcRZpp8+shvG3HKT7rOzKyUdoNLT38zmiporohimR8Zl/TR3Zps8OBbUAvHsuTO0hM1fd49zro3ahrvehDxn3Ush0dJ7yLLQIr6+c59nHld/eqy/xWTfyOw/k2mbsAdH1Yc3RYS4OIfN1sMBetity6rgOCdJEXHTO5qYHWFkCvKKJOFs/NSEIjqnOm5P3KOd6vssKV0jEB8kUlaupVZsZkboymIoohXc2VH6lI4Z14KlFVwtxn6iUTfEZ+Uj+YlXxQMGoWTBYqsbo2iSSh1QEw7pU/CoQb+NtvT93dcqa3zpTDPYItOnUr5jBGDZuoODsfS6gGWiNphyB24oY=;LELbwDH+yyGomyUSpfymSw=="
 ---

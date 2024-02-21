@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/wipro-intel-foundry-ann
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/wipro-intel-foundry-announce-collaboration-to-advance-chip-design-innovation-12316961.html/amp"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Wipro and Intel Foundry Partner for Innovate AI Chip Manufacturing"
+    excerpt: "Wipro and Intel Foundry Partner for Innovate AI Chip Manufacturing - Wipro Limited , a leading technology services and consulting firm, has revealed an enhanced partnership"
+    publishedDateTime: 2024-02-21T08:40:00Z
+    webUrl: "https://www.siliconindia.com/news/general/wipro-and-intel-foundry-partner-for-innovate-ai-chip-manufacturing-nid-227989-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/2NEZSVXJ.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Wipro and Intel Foundry Partner to Innovate AI Chip Manufacturing"
     excerpt: "According to a press release, the worldwide AI chip market is projected to experience a compound annual growth rate (CAGR) of 38 percent from 2023 to 2032. The collaboration between Wipro and Intel Foundry aims to meet the increasing demand for AI chip ..."
     publishedDateTime: 2024-02-21T03:13:00Z

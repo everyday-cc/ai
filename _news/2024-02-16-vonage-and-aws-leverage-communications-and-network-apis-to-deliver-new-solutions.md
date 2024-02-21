@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions"
-excerpt: "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),"
-publishedDateTime: 2024-02-15T16:28:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm"
+excerpt: "and its Verify and Number Insights APIs paired with Amazon Rekognition. With this new update, Vonage will further build additional solutions like this that will accelerate bringing the power of ..."
+publishedDateTime: 2024-02-15T17:06:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61418954-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-new-solutions-004.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61418954-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-new-solutions-004.htm"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AWS AI
   - AI
 
-secured: "sc1aT8uNGNwsIKfgZCaxG5h368rtp4Kw/FyjkVqGUc3JujLVwX7d0wHwWY06gL2+Gxq27I3nkYAZer5vbm+SVHBVm0s42IlY/UIhpovbOjTtQuYfBWH/bgDXmvBTi8ZLCf4ZLfSl9QjAwTpX+XV+BxBi9uAsmwXqCW/e4uLI7rCz19XLqWOMM3s46QyZMDTjoMEtQEFnadf8wK9HH5or4QopHhRIHXNVgTaspPN5E+3yahqUSay32Mr3vgU0ySvTsEJGhNk77BkrUBUhE8jAyT2rpzy6pP1QU0dBOHl8d3xT00wgDH1TMZM94Few+EqNVSvVA1bGBU9tWY3I9yDYAbX59Tb3Bmvr6dlFskjq7pJ3I6m2yDpoYa4i+UR2gtOQhkOREnVsMiBaErhqZ+nknJB0icefi66YwOMrGQSIV9TAadI61Kjl/Fc5/r0lPll80ztEG6xJ3RNJroBkqYcoheBFJcvSPXB4h45Br8coLcOqZz3VtOcW3+KfhO0yZjucHPdiXZAcJJEHAM3/wRhh2w==;JQ4FoA8bt360P77/dP01hA=="
+secured: "BfZn94MqjT5oTmbgawd5vZe9fp0wbHgzqTldDkif+3qUD1EtrYYaFcLu3zwAK1nHY7fZMTdbcbs2KNIbQLoXv9h4vPT63VJDi8haDnFxSpLMj9q+pT+7IB+b/5Igzm8iXwqKWwbPPozcdqSuoxTwRNvG1pAeDHiqYMgSuGUWoiL87KLkTRcpoy0ohRlB0ziQFinVPhnjKIH7et8cGcJ4d/4cAw6xP1NyClX0agDEmbTeTWEvtKeR4yvTr7z7ZL1Tl56rYLNf8tdID642RYrxtlToSLyaSQpPcZHa5loaAiRw2ievqsCy5y2xSrEMwDqf3UBm8I1nnRzOMX4Cdj2jRvPRRg/wWf6ZL7CwXabyBEE=;vjkrlr1xgzvvpuhcMLSkig=="
 ---
 
