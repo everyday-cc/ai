@@ -54,20 +54,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "Acquiring Workplace Safety in the Data Age Via AI Innovations"
-    excerpt: "Chatbots, equipped with natural language processing and trained on safety procedures and manuals, serve as invaluable tools for addressing employees' safety inquiries. These intelligent systems can understand and interpret natural language, enabling ..."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://ohsonline.com/Articles/2024/02/16/Acquiring-Workplace-Safety-in-the-Data-Age-Via-AI-Innovations.aspx"
-    type: article
-    provider:
-      name: Ohsonline.com
-      domain: ohsonline.com
-    quality: 39
-    images:
-      - url: "https://ohsonline.com/-/media/OHS/OHS/Images/2024/02/02,-d-,16,-d-,24aidata.jpg"
-        width: 650
-        height: 300
-        isCached: true
   - title: "Sift Ushers in Era of AI-Powered Fraud Decisioning Amid Surging Company Momentum and Evolving Market Dynamics"
     excerpt: "“As fraud actors embrace AI to inflict harm at unprecedented scale, digital businesses must respond with equal force,” said Armen Najarian, Chief Marketing Officer at Sift. “Sift is proud to lead the era of AI-powered fraud decisioning, empowering the global digital business community to fight fire with fire and grow fearlessly.”"
     publishedDateTime: 2024-02-20T17:36:00Z

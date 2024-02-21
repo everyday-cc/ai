@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-19-moxie-how-this-ai-robot-is-designed-to-teach-kids-emotional-intelligence.md",
+      "title": "Moxie: How This AI Robot Is Designed To Teach Kids Emotional Intelligence",
+      "excerpt": "Developed by Embodied, Moxie is an AI-powered robot that can accompany, interact with and teach five-to-10 year old kids problem-solving and emotional intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/",
+      "originalUrl": "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d249717feeada5f565af34/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1326,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/amp/",
+      "publishedDateTime": "2024-02-18T20:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-dor-brothers-rock-cinematic-ai.md",
+      "title": "Dor Brothers Rock Cinematic AI",
+      "excerpt": "His comapny, Dor Brothers, developed deep expertise in generative AI by using it for the production of more than 200 music videos. One of the things I’ve been tracking for Forbes is the rapid development of cinematic AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2024/02/18/dor-brothers-rock-cinematic-ai/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/02/18/dor-brothers-rock-cinematic-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d237e271930a6d4d000a98/0x0.jpg?format=jpg&crop=1280,720,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2024/02/18/dor-brothers-rock-cinematic-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/02/18/dor-brothers-rock-cinematic-ai/amp/",
+      "publishedDateTime": "2024-02-18T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-18-ethiopias-250-million-tech-expansion-in-bitcoin-and-ai.md",
+      "title": "Ethiopia's $250 Million Tech Expansion In Bitcoin And AI",
+      "excerpt": "Aiming to become a global digital economy leader, Ethiopia is leveraging its renewable energy sources to power the advancement of bitcoin mining and AI development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d2341d5d5e9962346adb36/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/amp/",
+      "publishedDateTime": "2024-02-18T15:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-18-paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week.md",
       "title": "PayPal Ventures’ first AI investment, a credit-based dating app and Robinhood’s good week",
       "excerpt": "FlowFi, a startup creating a marketplace of finance experts for entrepreneurs ... Rasa, an enterprise-focused conversational generative AI platform with financial services companies as clients, raised $30 million in a Series C round co-led by StepStone ...",
@@ -409,6 +564,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-18-microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much.md",
+      "title": "Microsoft and Google are proud AI is helping you (other companies not so much)",
+      "excerpt": "Google, too, showed an exceptionally touching example of AI overtly improving someone's life. Here, the company revealed how, with the new AI-powered Pixel 8, those with blindness or low vision can now frame photographs beautifully, as the phone's AI assistant guides them to the optimum framing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/06ade7ecff079e652b414b009a1ae646986bf62f/2024/02/13/42b45f78-34b0-4a2c-8453-3ce03951d473/screenshot-2024-02-13-at-3-13-34pm.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/",
+      "publishedDateTime": "2024-02-18T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-18-reddit-is-licensing-content-to-an-unnamed-ai-company.md",
       "title": "Reddit Is Licensing Content to an Unnamed AI Company",
       "excerpt": "The moves comes after Reddit irked developers by charging for access to its API, in part because large language models were scraping its content.",
@@ -520,7 +727,7 @@
       "originalUrl": "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -711,7 +918,7 @@
       "originalUrl": "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -962,7 +1169,7 @@
       "originalUrl": "https://www.darkreading.com/cyber-risk/what-using-security-to-regulate-ai-chips-could-look-like",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1046,197 +1253,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-monumental-raises-25m-for-bricklaying-robots.md",
-      "title": "Monumental raises $25M for bricklaying robots",
-      "excerpt": "Monumental said its robots can move freely around building sites to help contractors address labor shortages and rising costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/monumental-raises-25m-for-bricklaying-robots/",
-      "originalUrl": "https://www.therobotreport.com/monumental-raises-25m-for-bricklaying-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/monumental-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T21:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-new-computer-chip-enables-ai-computing-at-the-speed-of-light.md",
-      "title": "New computer chip enables AI computing at the speed of light",
-      "excerpt": "Engineers have introduced a novel computer chip that could redefine the landscape of artificial intelligence (AI) development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.earth.com/news/new-computer-chip-enables-ai-computing-at-the-speed-of-light/",
-      "originalUrl": "https://www.earth.com/news/new-computer-chip-enables-ai-computing-at-the-speed-of-light/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cff2.earth.com/uploads/2024/02/16140217/AI-computing_new-computer-chip_speed-of-light_1m.jpg",
-          "width": 2500,
-          "height": 1756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T21:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "earth",
-        "domain": "earth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams.md",
-      "title": "How Gong’s AI tools are increasing win rates for sales teams",
-      "excerpt": "Gong's proprietary AI for sales is driving transformative growth, with data showing teams using features like Smart Trackers and Ask Anything achieve over 25% higher win rates.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/",
-      "originalUrl": "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-ux6NpxqlJ-transformed.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-the-ai-alliance-how-to-make-friends-and-influence-ai-policy.md",
-      "title": "The AI Alliance: How To Make Friends And Influence AI Policy",
-      "excerpt": "Goodson discusses the work of the AI Alliance and considers the possible outcomes of several companies being notably absent from its membership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cfcb347d195aa4fef03729/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 870,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/",
-      "publishedDateTime": "2024-02-16T20:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

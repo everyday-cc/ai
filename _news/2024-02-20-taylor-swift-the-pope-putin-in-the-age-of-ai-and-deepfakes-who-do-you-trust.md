@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin"
 type: article
 quality: 52
-heat: 92
+heat: 94
 published: true
 
 provider:

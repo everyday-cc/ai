@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "‘GoldDigger’ trojan targets iOS users to steal facial recognition data and bank accounts"
-    excerpt: "Apple constantly updates its operating systems with security patches, which are often exploited by hackers to attack users in"
-    publishedDateTime: 2024-02-16T00:13:00Z
-    webUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 47
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/iPhone-generic-trojan.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "GoldPickaxe Mobile Trojan Malware Captures Facial Data, Intercepts Text Messages to Access Financial Accounts"
     excerpt: "The new GoldPickaxe evolution of the GoldDigger trojan malware takes things a step further, retaining the prior functionality but adding the ability to capture facial data for the purpose of creating a deepfake to defeat biometric logins."
     publishedDateTime: 2024-02-20T11:00:00Z

@@ -25,52 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft To Invest $2.1 Bln In Spain To Expand AI Infrastructure"
-    excerpt: "Tech major Microsoft Corp. announced its plans to expand its artificial intelligence or AI and cloud infrastructure in Spain with an"
-    publishedDateTime: 2024-02-20T14:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457"
+  - title: "Microsoft and Google are proud AI is helping you (other companies not so much)"
+    excerpt: "Google, too, showed an exceptionally touching example of AI overtly improving someone's life. Here, the company revealed how, with the new AI-powered Pixel 8, those with blindness or low vision can now frame photographs beautifully, as the phone's AI assistant guides them to the optimum framing."
+    publishedDateTime: 2024-02-18T04:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 100
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/06ade7ecff079e652b414b009a1ae646986bf62f/2024/02/13/42b45f78-34b0-4a2c-8453-3ce03951d473/screenshot-2024-02-13-at-3-13-34pm.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
+    excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
+    publishedDateTime: 2024-02-19T05:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-19/artificial-intelligence-microsoft-google-nvidia-win-as-computing-costs-surge"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
     quality: 66
-  - title: "Microsoft to Expand Its AI Infrastructure in Spain With $2.1 Billion Investment"
-    excerpt: "U.S. software giant Microsoft will expand its artificial intelligence (AI) and cloud infrastructure in Spain through an investment of $2.1 billion in the next two years, the company's Vice Chair and President Brad Smith said in a post on social media site X."
-    publishedDateTime: 2024-02-19T22:31:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment"
+  - title: "Microsoft tinkers with Windows for AMD AI"
+    excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
+    publishedDateTime: 2024-02-20T09:06:00Z
+    webUrl: "https://www.fudzilla.com/news/58478-microsoft-tinkers-with-windows-for-amd-ai"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
-  - title: "Microsoft to invest €3.2bn in doubling AI infrastructure and cloud capacity in Germany"
-    excerpt: "Microsoft has committed to investing €3.2 billion ($3.44bn) to double its AI infrastructure and cloud computing capacity in Germany. The investment will span the next two years and focus on the expansion of Microsoft's cloud region in Frankfurt and newly planned infrastructure in North Rhine-Westphalia."
-    publishedDateTime: 2024-02-16T12:20:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-32bn-in-doubling-ai-infrastructure-and-cloud-capacity-in-germany/"
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bcdf324bedc9fc853b785e501196a623_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Microsoft to invest $2.1bn in cloud and AI infrastructure in Spain"
+    excerpt: "Microsoft has committed to investing $2.1 billion in cloud computing and artificial intelligence (AI) infrastructure in Spain over the next two years. The planned investment was shared by the vice chair and president of Microsoft Brad Smith via a post on X following a meeting with the Prime Minister of Spain, Pedro Sanchez."
+    publishedDateTime: 2024-02-20T14:56:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-21bn-in-cloud-and-ai-infrastructure-in-spain/"
     type: article
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 46
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Lambda Raises $320M in Series C Funding to Expand Its AI Cloud Business and Scale GPU Infrastructure"
-    excerpt: "Lambda, the GPU cloud company founded by AI engineers and powered by NVIDIA GPUs, has announced it has raised a $320"
-    publishedDateTime: 2024-02-16T12:55:00Z
-    webUrl: "https://www.datanami.com/this-just-in/lambda-raises-320m-in-series-c-funding-to-expand-its-ai-cloud-business-and-scale-gpu-infrastructure/"
+    quality: 34
+  - title: "Opinion: Google, Microsoft will dominate AI as computing costs surge"
+    excerpt: "Technology writer Parmy Olson says Google and Microsoft will dominate artificial intelligence as computing costs surge"
+    publishedDateTime: 2024-02-19T18:30:00Z
+    webUrl: "https://www.ourmidland.com/opinion/voices/article/opinion-google-microsoft-dominate-artificial-18676153.php"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-        width: 2560
-        height: 1336
-        isCached: true
+      name: Midland Daily News
+      domain: ourmidland.com
+    quality: 34
 
 secured: "/q0KrU5FEV/eS6iRf/am6JF0V2nxcwg3//CwXKuwT51PW4U5J48bCVSl0GyZqV/ew5fUVpYaePATn/iILbyOKmpXarnokJ/lomQHrMPBpezMkDkUktEXQ5dKQFRU0aV7RrvbYeEuRlQjnLAubheYKj4GHzWBL/AKv43tvA0UrRmB2iEi11Hj01FGB0ft1mfcuL7VTiwQNllNK5Pv3WcUXXiuKpJ8+SCo3AAjDZEzse+0yTWRNfdQswQUyY8/jM8MH3FdLYSk3hvZH/UQbdflRPuCZ4ps3qiBLzIqDV2DHCJFwVDKYtj0Ig/TJ9dHWchs0djp/wuyP9lm+UrR9i0/vEp5XkOzcTlPTx5dp3pW/54=;L1D6DzyqhQfiuY3bVf+ROg=="
 ---

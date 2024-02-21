@@ -24,17 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Researchers develop implantable artificial heart"
-    excerpt: "Researchers from the Academic Medical Center (AMC) University of Amsterdam are seeking protection for their invention of a total artificial heart which is compact, durable and mimics the natural movement of human tissue."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://www.bioworld.com/articles/705903-researchers-develop-implantable-artificial-heart"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 4
-
 secured: "Z6yZDRmYWSZ5s5bWTv762zzLatXeLnYKTIsoRDdhiUhwu3vUk+ZAF9XWzRIhlb2/lJ9kCp8ETb++ffW89Tb0o1QNDnjIgIHRgHtj5jYuQnxOwP1sHFCPNmNkhznRZGCxkNWs2QrCTI9gg2HWbmJ3gPN8/BaYzVb0NzDRG8yLjXkf7elPDwyps557lsS4yPeC/NFSnEr5faGhV696BU6Q6qfkEo0z6ggtVfL/XWmvsfQ7eHwqASEszqWPuIdDgmFvkHHYZmvIwdPFxDIym0bOwlXOdrHfF3IPrZ9+LyrrDZWosoz7+1QtWk4mk7oomsLwg172VXW+Z/Z+Vn5Jsk5HLE7Yy69NWvD20MnQmQoNH450tAW+ALG9byBU+cTAYXSnee0dik2N8NazAgYjoqniECuN8SceBFhShSrgdfATrwEx9UjUNFHGmO9iU5A2UxUdmGYOlWL95x7jsxmT16kwCMN/wyGLa/bzqOVgrC25+NYRaDEGITQxI/AcgZQ9m2fc0v+zWGrJsQnns2KuaRuWPA==;nFlz2fXozF3zlI9khSOhQg=="
 ---
 

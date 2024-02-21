@@ -19,36 +19,68 @@ topics:
   - AI
 
 related:
-  - title: "Making cloud infrastructure programmable for developers"
-    excerpt: "AWS CloudFormation and Azure Resource Management were two other top contenders ... As an industry, we’ve moved beyond single machine application servers and single machine operating systems to distributed computing in the cloud, orchestrated by Kubernetes."
-    publishedDateTime: 2024-02-20T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html"
-    ampWebUrl: "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html"
+  - title: "Microsoft and Google are proud AI is helping you (other companies not so much)"
+    excerpt: "Google, too, showed an exceptionally touching example of AI overtly improving someone's life. Here, the company revealed how, with the new AI-powered Pixel 8, those with blindness or low vision can now frame photographs beautifully, as the phone's AI assistant guides them to the optimum framing."
+    publishedDateTime: 2024-02-18T04:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 74
+      name: ZDNet
+      domain: zdnet.com
+    quality: 100
     images:
-      - url: "https://images.idgesg.net/images/article/2023/09/developer_programmer-100946133-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.zdnet.com/a/img/resize/06ade7ecff079e652b414b009a1ae646986bf62f/2024/02/13/42b45f78-34b0-4a2c-8453-3ce03951d473/screenshot-2024-02-13-at-3-13-34pm.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Oracle Cloud Infrastructure Positioned For Growth, But High Liabilities Persist"
-    excerpt: "Oracle has proven to be highly profitable and has a strong net income margin vs. its peers in the industry. Read why ORCL stock is a Buy."
-    publishedDateTime: 2024-02-19T06:43:00Z
-    webUrl: "https://seekingalpha.com/article/4671333-oracle-stock-cloud-infrastructure-positioned-for-growth-but-high-liabilities-persist-cautious-buy"
+  - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
+    excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
+    publishedDateTime: 2024-02-19T05:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-19/artificial-intelligence-microsoft-google-nvidia-win-as-computing-costs-surge"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 20
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 66
+  - title: "Microsoft tinkers with Windows for AMD AI"
+    excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
+    publishedDateTime: 2024-02-20T09:06:00Z
+    webUrl: "https://www.fudzilla.com/news/58478-microsoft-tinkers-with-windows-for-amd-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
     images:
-      - url: "https://media.gettyimages.com/id/1689131337/photo/25-september-2023-bavaria-munich-the-logo-of-the-software-and-hardware-manufacturer-oracle.jpg?b=1&s=594x594&w=0&k=20&c=Fa2ahXUJpCsuXM0t_9d-bye_81NI5vLE8qg-8vda2C8="
-        width: 594
-        height: 395
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bcdf324bedc9fc853b785e501196a623_L.jpg"
+        width: 620
+        height: 465
         isCached: true
+  - title: "Microsoft will invest $2.1bn in Spain to expand cloud and AI"
+    excerpt: "The focus on AI helped Microsoft briefly hit the $3trn valuation and challenge Apple for the title of the most valuable company in the world. Revenue from the company’s Intelligent Cloud division – which includes Azure – grew by 20pc to $25.9bn."
+    publishedDateTime: 2024-02-20T09:35:00Z
+    webUrl: "https://www.siliconrepublic.com/business/microsoft-ai-investment-spain-cloud-infrastructure-europe"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-21.jpeg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Opinion: Google, Microsoft will dominate AI as computing costs surge"
+    excerpt: "Technology writer Parmy Olson says Google and Microsoft will dominate artificial intelligence as computing costs surge"
+    publishedDateTime: 2024-02-19T18:30:00Z
+    webUrl: "https://www.ourmidland.com/opinion/voices/article/opinion-google-microsoft-dominate-artificial-18676153.php"
+    type: article
+    provider:
+      name: Midland Daily News
+      domain: ourmidland.com
+    quality: 34
 
 secured: "F1BuVmceg/Py3CTqdc2JZAnNTnRDd+KjGSIJsk5UuzcHB7KrCW3MJfN0EXL9o/eBXXM7d59uTGWdm/Wvlws01Pqfb14PlWvJTOElwT48jWgDdZH5NKT9iU92UvIG2Cf8zZ7UBnCI3SAXD/hEfxi5oIO2C+GsVGWa10QhLOqdA/7DLflBHge3qvdAQP6zduMB00W2cZjpNso0pFZILzcoepr4UGN+Cud75Kfr34VxSq+brH9/yNlWl73C1oYhSxYDAx98UQsmy9hiWBhDhX5t/e1fwRUVGJwmoVTqYgCYrNh1unPPGXrQmaFIVvw53LmQVB60tdfKWjwyyKufV0m9UbhvE0+MW+UdNsoA2BlK72+sGzC/Qua+QJyEuTP3Rx74zOqRseGZ55DZ+7VzC6gyns3F6cPNl97Ou6njzRaO9vkR7NyiAqPBn+gSU6LcSrIUmuFpC17HHqXYSwXH6aBMU8EOavCgn8FGGZlfptKJPNuSxHIDSNYnCSDsdzHeqL4omvpw+sOphr5Qxf9G/a8U/w==;pr7BHEgFEDI4g+sS+XlSog=="
 ---

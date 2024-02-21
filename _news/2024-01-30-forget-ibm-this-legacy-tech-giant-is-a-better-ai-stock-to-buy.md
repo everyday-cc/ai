@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Forget IBM, This Legacy Tech Giant Is a Better AI Stock to Buy"
-excerpt: "With regard to AI, IBM looked like an early winner with Watson but struggled to monetize the advanced technology. While IBM now appears to be capitalizing on it, Oracle seems to have a more ..."
-publishedDateTime: 2024-01-30T13:45:00Z
-originalUrl: "https://www.nasdaq.com/articles/forget-ibm-this-legacy-tech-giant-is-a-better-ai-stock-to-buy"
-webUrl: "https://www.nasdaq.com/articles/forget-ibm-this-legacy-tech-giant-is-a-better-ai-stock-to-buy"
+excerpt: "Detailed price information for International Business Machines (IBM-N) from The Globe and Mail including charting and trades."
+publishedDateTime: 2024-01-30T07:45:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/IBM/pressreleases/23699620/forget-ibm-this-legacy-tech-giant-is-a-better-ai-stock-to-buy/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/IBM/pressreleases/23699620/forget-ibm-this-legacy-tech-giant-is-a-better-ai-stock-to-buy/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Globe and Mail
+  domain: theglobeandmail.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "GH/Ik5K5YEpccrISZqIw5xS7/FWaS6H/HdqtUTJAGTeee1C0E37t+L6ZKxA5Iwxa43LIuzpbIlC1OtpjyGBhec1lrcv+V9tjcj6GCjqqQT6HjpkbOJVNlFAcrirGoAnpR4LAQcatZeKzo9+w+cbxjwtvmtQARJmYBbG96kZDGkxaZOmj661emR0cRIaOa9B1wbTXb3NFa19k9WENhDiLSxxGOXB2C40kfq+xhQDA4BVRP3OyzqXMxznsQ1PcTKGujSc1wZ8cz1EiZgaJPDH8B/pU8drtz84M9fknlp5yNTb9oOhFBI4MOwjDTRJ2CjhSReU/QUcGM3+xkyzUMsVVr6zBYmDrxRiMRWpvyv6Tb8Y=;AJjR4Sygt7EbjU6AcS5m5A=="
+images:
+  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/03c69cba2626745b7a80577d3403cb1a/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f762785%252fartificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg%26amp%3Bw%3D700"
+    width: 2121
+    height: 1414
+    isCached: true
+
+secured: "BeyFFVrYLfgjfaFAO4l2HT+GImtk4NwYVlfH6Mk0I13DlCoTWTjzOx3Mc7JBREuPqi0Lux0TKg1l/2KNdN5tx8aEmCIWPgZPectOuX2UgpBKteR2IKAkgdlNzLIKB/SfxhfotIKVzQnq8BQOjpR+TiEUI7YdbyXXMbqgwl4SlJBZJTZJi/49etGG0zyU/ErsZEkC8MrMmwPrW+nLvgkmZ/093zpcBTv9OsYTnANNif7F4Dc61b6u2YK6btv7gsyMhVgNdWXY2TbIAcnqoRsCU59oDUemSqoHbN6MuO7T3LgWip2o8UzSIM7uxmyVk62i5mAq0jjH2EVrWVqkuVMI+sv4IOQz4s3FDQyopwgkf84=;zZQmcRdRR9GXRrO8S7xPBA=="
 ---
 

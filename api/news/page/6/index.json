@@ -2,6 +2,175 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-15-the-top-esg-trends-in-2024.md",
+      "title": "The top ESG trends in 2024",
+      "excerpt": "Learn four trends that have been taking shape as of late, and what they may mean for your business in the near future.\nThe post The top ESG trends in 2024 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-top-esg-trends-in-2024/",
+      "originalUrl": "https://www.ibm.com/blog/the-top-esg-trends-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-jeffrey-katzenberg-joe-montana-firms-back-ai-marketing-startup.md",
+      "title": "Jeffrey Katzenberg, Joe Montana Firms Back AI Marketing Startup",
+      "excerpt": "Alembic Technologies Inc., a startup that uses artificial intelligence to help companies tell whether their marketing campaigns are working, has raised $14 million from investors including DreamWorks co-founder Jeffrey Katzenberg’s VC firm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-15/jeffrey-katzenberg-joe-montana-firms-back-ai-marketing-startup",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-15/jeffrey-katzenberg-joe-montana-firms-back-ai-marketing-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology.md",
+      "title": "How Kubota is changing the status quo in agriculture and sustainability with technology",
+      "excerpt": "“It is no exaggeration to say that this initiative has just begun. With IBM, we hope to develop it into a standard in Japan and globally.\"\nThe post How Kubota is changing the status quo in agriculture and sustainability with technology appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
+      "originalUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-retail-technology-and-frontline-workers-delivering-unforgettable-customer-experiences.md",
+      "title": "Retail technology and frontline workers: Delivering unforgettable customer experiences",
+      "excerpt": "The retail industry employs millions of people, and next-generation retail employees will be impacted by the rise of generative AI.\nThe post Retail technology and frontline workers: Delivering unforgettable customer experiences appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
+      "originalUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-dataiku-defines-development-routes-to-user-centric-ai.md",
       "title": "Dataiku Defines Development Routes To User-Centric AI",
       "excerpt": "We need to consider how an AI service will be actually be used by users and then construct and feed it with the ingredients it needs to suit the exact recipe.",
@@ -1010,195 +1179,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck.md",
-      "title": "Waymo recalls software after two self-driving cars hit the same truck",
-      "excerpt": "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its vehicles hit the same truck minutes apart.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html",
-      "originalUrl": "https://edition.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1470596477.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html",
-      "publishedDateTime": "2024-02-14T17:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-7-tech-stocks-to-buy-amid-the-flying-pink-slips.md",
-      "title": "7 Tech Stocks to Buy Amid the Flying Pink Slips",
-      "excerpt": "The post 7 Tech Stocks to Buy Amid the Flying Pink Slips appeared first on InvestorPlace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-tech-stocks-to-buy-amid-the-flying-pink-slips",
-      "originalUrl": "https://www.nasdaq.com/articles/7-tech-stocks-to-buy-amid-the-flying-pink-slips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T17:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-equity-bret-taylor-has-a-brand-new-ai-startup.md",
-      "title": "Equity: Bret Taylor has a brand new AI startup",
-      "excerpt": "The AI agent space is busy, but Sierra has already raised $110 ... and it’s working on payments in Latin America. So this is a big FinTech round in a region that was once absolutely bonkers for FinTech and given the venture pullback we’ve seen in ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/",
-      "originalUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/",
-      "publishedDateTime": "2024-02-14T16:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-slack-rolls-out-generative-ai-search-and-summarization.md",
-      "title": "Slack Rolls Out Generative AI Search and Summarization",
-      "excerpt": "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/slack-generative-ai-search/",
-      "originalUrl": "https://www.techrepublic.com/article/slack-generative-ai-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/tr_20240214-slack-generative-ai-search.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T16:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "With Sora, OpenAI highlights the mystery and clarity of its mission | The AI Beat"
+    excerpt: "Sora, OpenAI's new text-to-video model, may be a black-box mystery, but the company's unwavering mission to develop AGI is not."
+    publishedDateTime: 2024-02-19T15:23:00Z
+    webUrl: "https://venturebeat.com/ai/with-sora-openai-highlights-the-mystery-and-clarity-of-its-mission-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-18-at-7.20.26-PM.png?w=1200&strip=all"
+        width: 1199
+        height: 674
+        isCached: true
   - title: "OpenAI's new text-to-video tool, Sora, has one artificial intelligence expert \"terrified\""
     excerpt: "Another groundbreaking generative artificial intelligence tool from the company behind ChatGPT unveiled Thursday is expected to accelerate the proliferation of deepfake videos and have implications for virtually every industry. Sora, an AI application that ..."
     publishedDateTime: 2024-02-16T22:19:00Z

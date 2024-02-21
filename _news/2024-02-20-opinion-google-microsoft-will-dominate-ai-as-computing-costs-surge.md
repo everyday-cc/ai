@@ -19,20 +19,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Google, Microsoft, OpenAI make AI pledges ahead of Munich Security Conference"
-    excerpt: "Google today launched an 'AI Cyber Defense Initiative and made several AI-related commitments, following a charge by Microsoft and OpenAI."
-    publishedDateTime: 2024-02-16T00:01:00Z
-    webUrl: "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/google_logo_with_a_giant_lock_and_data_vibrant-transformed.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Microsoft and Google are proud AI is helping you (other companies not so much)"
     excerpt: "Google, too, showed an exceptionally touching example of AI overtly improving someone's life. Here, the company revealed how, with the new AI-powered Pixel 8, those with blindness or low vision can now frame photographs beautifully, as the phone's AI assistant guides them to the optimum framing."
     publishedDateTime: 2024-02-18T04:00:00Z
@@ -58,50 +44,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 66
-  - title: "With Sora, OpenAI highlights the mystery and clarity of its mission | The AI Beat"
-    excerpt: "Sora, OpenAI's new text-to-video model, may be a black-box mystery, but the company's unwavering mission to develop AGI is not."
-    publishedDateTime: 2024-02-19T15:23:00Z
-    webUrl: "https://venturebeat.com/ai/with-sora-openai-highlights-the-mystery-and-clarity-of-its-mission-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-18-at-7.20.26-PM.png?w=1200&strip=all"
-        width: 1199
-        height: 674
-        isCached: true
-  - title: "OpenAI introduces AI model that turns text into video"
-    excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"
-    publishedDateTime: 2024-02-16T10:05:00Z
-    webUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/"
-    ampWebUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
-    cdnAmpWebUrl: "https://www-ariananews-af.cdn.ampproject.org/c/s/www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
-    type: article
-    provider:
-      name: Ariana News
-      domain: ariananews.af
-    quality: 59
-    images:
-      - url: "https://g7t9m5v9.stackpathcdn.com/wp-content/uploads/2024/02/openAI.jpg"
-        width: 999
-        height: 599
-        isCached: true
-  - title: "Microsoft, IBM, Meta and More Sign AI Election Pact"
-    excerpt: "On Friday, 20 technology giants announced they have signed the \"Tech Accord to Combat Deceptive Use of AI in 2024 Elections\" as part of the Munich Security Conference. The accord, the signing of which appears to be a purely symbolic gesture so far ..."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://redmondmag.com/Articles/2024/02/16/AI-Election-Pact.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 56
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/AIElectionpact.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft tinkers with Windows for AMD AI"
     excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
     publishedDateTime: 2024-02-20T09:06:00Z
@@ -116,43 +58,29 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "AI security initiatives comparison: Microsoft and OpenAI vs. Google"
-    excerpt: "The principles are built on Microsoft’s Responsible AI practices and the Azure OpenAI Code of Conduct. Google introduced its Secure AI Framework last June, which is a conceptual framework for secure AI systems. The framework includes six core ..."
-    publishedDateTime: 2024-02-16T00:11:00Z
-    webUrl: "https://www.sdxcentral.com/articles/feature/ai-security-initiatives-comparison-microsoft-and-openai-vs-google/2024/02/"
+  - title: "Microsoft will invest $2.1bn in Spain to expand cloud and AI"
+    excerpt: "The focus on AI helped Microsoft briefly hit the $3trn valuation and challenge Apple for the title of the most valuable company in the world. Revenue from the company’s Intelligent Cloud division – which includes Azure – grew by 20pc to $25.9bn."
+    publishedDateTime: 2024-02-20T09:35:00Z
+    webUrl: "https://www.siliconrepublic.com/business/microsoft-ai-investment-spain-cloud-infrastructure-europe"
     type: article
     provider:
-      name: SDxCentral
-      domain: sdxcentral.com
-    quality: 51
-  - title: "Google's new AI model is 700x more powerful than OpenAI's flagship"
-    excerpt: "Google claims that Gemini 1.5 can handle up to 1 million tokens of input, equivalent to about 4 million characters or 800,000 words."
-    publishedDateTime: 2024-02-16T03:24:00Z
-    webUrl: "https://interestingengineering.com/innovation/googles-new-ai-model-is-700x-more-powerful-than-openais-flagship"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/Zjg0jX8diJJZkpICBBYzySEP3oHJTc4fQqUHGyg7.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-21.jpeg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "101 on OpenAI's new text to video AI model, Sora"
-    excerpt: "Sora is OpenAI's newest AI model that can create realistic and imaginative scenes simply with text instructions. Here's a breakdown of exactly what you need to know about Sora and how it can help industry professionals in the space."
-    publishedDateTime: 2024-02-19T03:43:00Z
-    webUrl: "https://www.marketing-interactive.com/101-sora-openai-video-text"
+  - title: "Microsoft to invest $2.1bn in cloud and AI infrastructure in Spain"
+    excerpt: "Microsoft has committed to investing $2.1 billion in cloud computing and artificial intelligence (AI) infrastructure in Spain over the next two years. The planned investment was shared by the vice chair and president of Microsoft Brad Smith via a post on X following a meeting with the Prime Minister of Spain, Pedro Sanchez."
+    publishedDateTime: 2024-02-20T14:56:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-21bn-in-cloud-and-ai-infrastructure-in-spain/"
     type: article
     provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 39
-    images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/article_images/101-sora-openai-video-text/1708314097_artificial%20intelligence%20%281%29.png?auto_optimize=medium"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
 
 secured: "2AYbN91bYpbeS3ml5JZqGkGsQnv2xazhyw1qENhpPKDkOM+u/x6HIztEPtRX9YdjlaUrhGhGJMWGqZojK3D3Bo+EDoNl18FuYg++jzqx5OAg3Vj+4I90FIb/bIYR9QxYdooNeYzAZiRCmefv9TuIVpjqR8egbrFukXjIEjO47Yq5MIBpjTfX4flTJZZr3zFNaj/IJcNQrlivN2xkrk8tb4XokDFpSHlJqzFFpqV3QnpW9HqwzHazbG9+t0T6L3fUmZSQ16pl+fHTHax286x5e/sws6nFvhC9m3vHIXli8BQcGw8XEl7wgioRrDoTXwou8V+a+3DWWgr9M/BxBYvWhe3Vaau17ijbjoYMrSQ8mgc=;2HEX2dX/hAosHX8hb7GgtQ=="
 ---

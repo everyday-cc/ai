@@ -53,15 +53,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI computing sees advancement with ecofriendly light-based computer chip"
-    excerpt: "(CN) — A silicon-photonic chip that leverages light rather than electricity would ... especially in reducing the energy consumption associated with AI's training processes. \"By utilizing light for computations, we can achieve a substantial reduction ..."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://www.courthousenews.com/ai-computing-sees-advancement-with-ecofriendly-light-based-computer-chip/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 33
 
 secured: "e7DVELJxdVadIMGOZp1/imU/CzzoyfDFhJbSjagPXrHbaV79OaVVesrIW2mA5NxhcrcCyCkiwgLqv9/8qXVisP192uSWNHX5lhh2OuCMN/m5WUInsrsh2uQb2DvKbK/hG9SXNGcT3UN/WM9hSMLOuetubTS/8oHhtzldfNZqbYsiXsuOGlzOVvgmzSnw4JW6T+pgrzAv9BQ0XAS4JVC5B8k4wDPTBKm3Lw3eu9guuDjsV7MuydviEZBb8suYkVocayqnJ2ktzeRrn1sx85nEF+rTv2lvpsIBAlUWqrWH43NqOYy5Nv6PKvkW2dkCmMNvX5o6m6r96so2pdO6uPeWQkYok0GwGUk97Hkx+Do0eIHXmtFRadCn05VaNySKysGd7Ex9VWtSlwpBh6zCnWPh1Ih4nRsMOBUutBwhGh5Nyyw7TlGcZK5JZwTE8WkmtSTExDy8pBq19VDjXraG34sBrcrkw2tgPLye5gwaNC3/oxae/mxbjWyx+B68vjVFoG3x9cpmIO0Vn3OxMcz/Snnw1Q==;hLWYduIaBNV8/W7vmLp3Cw=="
 ---

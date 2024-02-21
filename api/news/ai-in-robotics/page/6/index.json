@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-29-2023-the-year-in-robotics.md",
+      "title": "2023 - the year in Robotics",
+      "excerpt": "Conquering physical movement is one of AI's biggest challenges/opportunities. Talk about generative AI all you want, but plant managers everywhere might prefer to talk robots. Finding the right mix between effective robotics and ever-scarce human labor is a shop-floor obsession.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/2023-year-robotics",
+      "originalUrl": "https://diginomica.com/2023-year-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-27%20at%2010.27.44.png",
+          "width": 1840,
+          "height": 1054,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/2023-year-robotics?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2023-year-robotics?amp",
+      "publishedDateTime": "2023-12-29T12:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-29-manufacturers-grapple-with-ai-and-robotics.md",
       "title": "Manufacturers Grapple with AI and Robotics",
       "excerpt": "In findings that are perhaps surprising, the manufacturing industry has been slow to implement artificial intelligence. PwC finds that 60 ... VP of innovation and strategy at Universal Robots, to get his view on several issues facing manufacturers ...",
@@ -1345,49 +1388,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-global-artificial-intelligence-ai-robots-market-strategic-insights-2024-2031-analyzing-business-growth-dynamics-and-challenges.md",
-      "title": "Global Artificial Intelligence (AI) Robots Market [Strategic Insights] 2024-2031 | Analyzing Business Growth, Dynamics and Challenges",
-      "excerpt": "Short Description about Artificial Intelligence (AI) Robots Market: Artificial Intelligence (AI) Robots Market Research Report 2023 is spread across 114 pages with Detailed TOC, Charts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/global-artificial-intelligence-ai-robots-market-strategic-insights-2024-2031-analyzing-business-growth-dynamics-and-challenges",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/global-artificial-intelligence-ai-robots-market-strategic-insights-2024-2031-analyzing-business-growth-dynamics-and-challenges",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thedigitalresearch.files.wordpress.com/2023/06/cagr.png?w=500",
-          "width": 499,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

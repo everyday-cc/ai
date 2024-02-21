@@ -44,6 +44,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI introduces AI model that turns text into video"
+    excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"
+    publishedDateTime: 2024-02-16T10:05:00Z
+    webUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/"
+    ampWebUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
+    cdnAmpWebUrl: "https://www-ariananews-af.cdn.ampproject.org/c/s/www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
+    type: article
+    provider:
+      name: Ariana News
+      domain: ariananews.af
+    quality: 59
+    images:
+      - url: "https://g7t9m5v9.stackpathcdn.com/wp-content/uploads/2024/02/openAI.jpg"
+        width: 999
+        height: 599
+        isCached: true
+  - title: "101 on OpenAI's new text to video AI model, Sora"
+    excerpt: "Sora is OpenAI's newest AI model that can create realistic and imaginative scenes simply with text instructions. Here's a breakdown of exactly what you need to know about Sora and how it can help industry professionals in the space."
+    publishedDateTime: 2024-02-19T03:43:00Z
+    webUrl: "https://www.marketing-interactive.com/101-sora-openai-video-text"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 39
+    images:
+      - url: "https://marketing-interactive-assets.b-cdn.net/article_images/101-sora-openai-video-text/1708314097_artificial%20intelligence%20%281%29.png?auto_optimize=medium"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "F1rZRcfdACh5jTGqFU8BQ3eTS/q4oy04kTQE2dayBtewna5pO4GkFrTXHurSNw1u03bjbAgWhSuc2MjfejxqEHFFJwt2PWzeQxTRiKuHy6+dNv2mUOFBSqS2FhZgJTIvnJnRz9HZsxiYVVTaabxZDrowH4MCwcze1evQPTRaBgBOMGrSOyhs42QFrihxZcwXpMUZ+xkQYGtb2Nd0Ns+L9Na1LwRFp0Bt0Z3jwM3HLDRqWwRQEbBJV/M2Ize2WSRHjBb4PJ5+o/Paxkgeh6jzeELs63IxgzLTrlqse/GNUewPBwPRrkH9zeHuJXbpNR5IHuap9QgRCcJqmmF3jjBY/BMymXFXrtSMb/7xW6GFrKQjUR5kWLpX9PFIV2rsOtrdrk+DNoLG4VQO8rtgYGNfKbpNRfLcR/9aCcN4jCoqUwbtw1wjqs1p1stIE2g8Qmk6EnQXX7j9+tXz5BY0PWmAVdl0nx+pNWi6w4kvB+qBRAoXiziQzcn2tITAN2HTuWqPoOZJedHiSi3mqJSvJf0oog==;YMcAYbBlii14Gax7K/mdSA=="
 ---

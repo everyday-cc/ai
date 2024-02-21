@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65d4ca166995204ec823cdea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1036
         height: 691
+        isCached: true
+  - title: "ARTIFICIAL INTELLIGENCE: MATTERS ARISING"
+    excerpt: "“Understanding emotions and interpreting personal touches are quintessential human traits that arise from our complex neural networks and emotional intelligence. AI might be able to recognise fa­cial expressions, but it cannot understand the depth of emo­tions that underlie them.”"
+    publishedDateTime: 2024-02-20T23:46:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising?amp=1"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising?amp=1"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 59
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/ARTIFICIAL-INTELLIGENCE.jpg"
+        width: 1440
+        height: 742
         isCached: true
   - title: "Rethinking AI: From playing around to strategic business transformation"
     excerpt: "leveraging platforms like Microsoft Azure, facilitates swift, scalable and cost-effective solutions. Integration into workflow: Identifying workflows for AI implementation is pivotal. Opt for use-cases with ample data available for machine learning and ..."

@@ -53,17 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Families advocate for artificial intelligence to restore voices of gun violence victims"
-    excerpt: "If the idea of getting a call from someone killed in a mass shooting makes you uncomfortable, families across the U.S. say that's the point. Artificial intelligence is now restoring the voices of people lost to gun violence."
-    publishedDateTime: 2024-02-15T23:18:00Z
-    webUrl: "https://www.fox32chicago.com/video/1411844"
-    ampWebUrl: "https://www.fox32chicago.com/video/1411844.amp"
-    cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/video/1411844.amp"
-    type: article
-    provider:
-      name: FOX 32
-      domain: fox32chicago.com
-    quality: 29
   - title: "AI-generated voices of 6 young people who died by gun violence are sending pleas to lawmakers"
     excerpt: "\"It does seem to kind of straddle the line between a good use of AI and something that's questionable,\" says Robert Wahl, an associate professor of computer science at Concordia University Wisconsin and an expert on the ethics of AI technology. Creating AI ..."
     publishedDateTime: 2024-02-19T12:14:00Z

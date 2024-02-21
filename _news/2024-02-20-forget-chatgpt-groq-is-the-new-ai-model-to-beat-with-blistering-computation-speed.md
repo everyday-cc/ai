@@ -99,20 +99,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "What the EU’s tough AI law means for research and ChatGPT"
-    excerpt: "The EU AI Act is the world’s first major legislation on artificial intelligence and strictly regulates general-purpose models."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-024-00497-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00497-8/d41586-024-00497-8_26738548.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "I used ChatGPT to create AI images — this is how you can do it yourself"
     excerpt: "Creating AI images with ChatGPT is quick and easy ... With ChatGPT 4 selected, you’ll see an option to start a new conversation or if you’re a returning user, you can resume one that’s already started. Creating images works with either option."
     publishedDateTime: 2024-02-19T00:00:00Z
@@ -126,20 +112,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/UTmP5HMxmYERz3CxgNA467-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google's Gemini Chatbot, A Mixed Bag of Reviews as It Takes on OpenAI's ChatGPT"
-    excerpt: "Google's Gemini chatbot receives mixed reviews, with noted limitations and integration into Google's product ecosystem."
-    publishedDateTime: 2024-02-15T23:37:00Z
-    webUrl: "https://hoodline.com/2024/02/google-s-gemini-chatbot-a-mixed-bag-of-reviews-as-it-takes-on-openai-s-chatgpt/"
-    type: article
-    provider:
-      name: Hoodline
-      domain: hoodline.com
-    quality: 52
-    images:
-      - url: "https://img.hoodline.com/2024/2/googles-gemini-chatbot-a-mixed-bag-of-reviews-as-it-takes-on-openais-chatgpt.webp"
-        width: 1640
-        height: 924
         isCached: true
   - title: "Scientists Are Putting ChatGPT Brains Inside Robot Bodies. What Could Possibly Go Wrong?"
     excerpt: "As a dinner-handling robot formulates its “policy”—the plan of action it will follow to fulfill its instructions—it will have to be knowledgeable about not just the partic"

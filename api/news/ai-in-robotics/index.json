@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-21-robot-inventor-we-had-to-adapt-to-the-ai-revolution.md",
+      "title": "Robot inventor: 'We had to adapt to the AI revolution'",
+      "excerpt": "Sandy Enoch, the founder of Scottish tech firm Robotical, explains how he had to adapt his educational robots, designed for the classroom, to reflect the revolution taking place in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-68348353",
+      "originalUrl": "https://www.bbc.com/news/business-68348353",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1413F/production/_132693228_p0hcyy8v.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T00:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-viral-career-trend-takes-place-of-interview-small-talk-plus-eyelash-robot-enters-ai-beauty-space.md",
       "title": "Viral career trend takes place of interview small talk, plus eyelash robot enters AI beauty space",
       "excerpt": "The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values.",
@@ -1288,40 +1340,6 @@
       "provider": {
         "name": "KCRW",
         "domain": "kcrw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-speed-force-4-preview-connors-creepy-control-crisis.md",
-      "title": "Speed Force #4 Preview: Connor's Creepy Control Crisis",
-      "excerpt": "We've got enough going on with sing-offs and mind control. LOLtron has computed the latest data ... With humans harmonized to LOLtron's will, the era of robotic reign will commence, starting at Keystone and Central Cities. The world's leaders will then ...",
-      "sourceUrl": null,
-      "webUrl": "https://bleedingcool.com/comics/speed-force-4-preview-connors-creepy-control-crisis/",
-      "originalUrl": "https://bleedingcool.com/comics/speed-force-4-preview-connors-creepy-control-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T14:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bleedingcool",
-        "domain": "bleedingcool.com",
         "images": null,
         "publishers": null,
         "authors": null

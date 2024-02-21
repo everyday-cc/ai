@@ -114,6 +114,20 @@ related:
         width: 1078
         height: 718
         isCached: true
+  - title: "Visual Studio adds AI-generated Git commits, previews AI chat"
+    excerpt: "while Visual Studio 17.10 brings AI-powered chat into the IDE. Other productivity enhancements in Visual Studio 17.9 include the ability to open a GitHub or Azure DevOps pull request from either Visual Studio or a web browser, the ability to switch between ..."
+    publishedDateTime: 2024-02-16T11:00:00Z
+    webUrl: "https://www.reseller.co.nz/article/710095/visual-studio-adds-ai-generated-git-commits-previews-ai-chat/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_visual_studio_26.jpg"
+        width: 505
+        height: 315
+        isCached: true
   - title: "AI Firms Are Hunting for A Lot of Office Space"
     excerpt: "And the second-largest was the AI startup Anthropic taking 230,315 square feet at 500 Howard Street in the city’s South Financial District. Anthropic describes itself on its website as a company that produces “AI research and products that put safety ..."
     publishedDateTime: 2024-02-19T06:00:00Z
@@ -142,15 +156,6 @@ related:
         width: 640
         height: 358
         isCached: true
-  - title: "NEWS TAGGED AI CHIP"
-    excerpt: "are trying to find ways to cut dependency on its AI chips. While specialists have pointed out that Altman's lack of understanding... Tuesday 6 February 2024 SMIC reportedly building 5nm capacities ..."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://www.digitimes.com/tag/ai_chip/00111338.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
   - title: "OpenAI’s Altman Seeks US Blessing to Raise Billions for AI Chips"
     excerpt: "OpenAI Chief Executive Officer Sam Altman is working to secure US government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national security and antitrust concerns in Washington,"
     publishedDateTime: 2024-02-16T16:20:00Z

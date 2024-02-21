@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "With Sora, OpenAI highlights the mystery and clarity of its mission | The AI Beat"
+    excerpt: "Sora, OpenAI's new text-to-video model, may be a black-box mystery, but the company's unwavering mission to develop AGI is not."
+    publishedDateTime: 2024-02-19T15:23:00Z
+    webUrl: "https://venturebeat.com/ai/with-sora-openai-highlights-the-mystery-and-clarity-of-its-mission-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-18-at-7.20.26-PM.png?w=1200&strip=all"
+        width: 1199
+        height: 674
+        isCached: true
   - title: "OpenAI Sora's Breaks Our Brains, Vision Pro Loses Its Luster, and More Big Tech News"
     excerpt: "Apple Vision Pro was supposed to be that reality-changing tech but instead, tech bros wanted to return the headset before the return policy expired. Check out the rest of this week’s biggest tech news stories."
     publishedDateTime: 2024-02-17T19:01:00Z

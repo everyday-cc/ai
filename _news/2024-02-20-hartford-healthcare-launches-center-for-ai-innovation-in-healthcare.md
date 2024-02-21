@@ -35,20 +35,6 @@ related:
         width: 361
         height: 203
         isCached: true
-  - title: "VA Can Be a Leader in Healthcare AI, Lawmakers Say"
-    excerpt: "Worthington outlined the VA's six principles for ensuring a measured approach to AI, including that any new AI tools are purposeful, effective, private, equitable, transparent, and accountable. Worthington also emphasized the department's history with technology in healthcare."
-    publishedDateTime: 2024-02-16T00:01:00Z
-    webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/108771"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 56
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/108xxx/108771.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Transforming healthcare: Bhargavi Posinasetty's exemplary contributions to innovation and patient care"
     excerpt: "This isn't science fiction; it's the power of artificial intelligence (AI) and machine learning (ML) revolutionising healthcare. Exceptional minds like Bhargavi Posinasetty are behind in developing a few of the most technologically advanced and ..."
     publishedDateTime: 2024-02-20T10:54:00Z

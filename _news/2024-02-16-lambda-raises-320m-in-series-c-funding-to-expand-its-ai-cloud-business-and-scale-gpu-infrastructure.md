@@ -43,20 +43,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
-  - title: "Microsoft will invest $2.1bn in Spain to expand cloud and AI"
-    excerpt: "The focus on AI helped Microsoft briefly hit the $3trn valuation and challenge Apple for the title of the most valuable company in the world. Revenue from the company’s Intelligent Cloud division – which includes Azure – grew by 20pc to $25.9bn."
-    publishedDateTime: 2024-02-20T09:35:00Z
-    webUrl: "https://www.siliconrepublic.com/business/microsoft-ai-investment-spain-cloud-infrastructure-europe"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-21.jpeg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Microsoft to invest €3.2bn in doubling AI infrastructure and cloud capacity in Germany"
     excerpt: "Microsoft has committed to investing €3.2 billion ($3.44bn) to double its AI infrastructure and cloud computing capacity in Germany. The investment will span the next two years and focus on the expansion of Microsoft's cloud region in Frankfurt and newly planned infrastructure in North Rhine-Westphalia."
     publishedDateTime: 2024-02-16T12:20:00Z

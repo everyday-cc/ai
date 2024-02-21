@@ -29,135 +29,173 @@ images:
     isCached: true
 
 related:
-  - title: "Google, Microsoft, OpenAI make AI pledges ahead of Munich Security Conference"
-    excerpt: "Google today launched an 'AI Cyber Defense Initiative and made several AI-related commitments, following a charge by Microsoft and OpenAI."
-    publishedDateTime: 2024-02-16T00:01:00Z
-    webUrl: "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/"
+  - title: "‘Game on’ for video AI as Runway, Stability react to OpenAI’s Sora leap"
+    excerpt: "Runway CEO Cristóbal Valenzuela posted two words on X in response to today's demo drop of OpenAI's Sora video AI model: 'game on.'"
+    publishedDateTime: 2024-02-16T04:04:00Z
+    webUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 100
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/google_logo_with_a_giant_lock_and_data_vibrant-transformed.jpeg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-15-16.03.59-A-futuristic-scene-showcasing-five-different-digital-animals-in-a-running-race-designed-with-a-high-tech-cybernetic-aesthetic.-The-setting-is-a-neon.webp?w=1200&strip=all"
         width: 1200
-        height: 750
+        height: 685
         isCached: true
-  - title: "Microsoft and Google are proud AI is helping you (other companies not so much)"
-    excerpt: "Google, too, showed an exceptionally touching example of AI overtly improving someone's life. Here, the company revealed how, with the new AI-powered Pixel 8, those with blindness or low vision can now frame photographs beautifully, as the phone's AI assistant guides them to the optimum framing."
-    publishedDateTime: 2024-02-18T04:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
+  - title: "OpenAI Sora video footage brought to life by AI-generated sounds"
+    excerpt: "OpenAI released a new AI model called Sora that could generate high-resolution video clips from text prompts. But they're all essentially clever silent films. Now ElevenLabs has added background sounds to Sora-created footage."
+    publishedDateTime: 2024-02-19T17:26:00Z
+    webUrl: "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
+      name: New Atlas
+      domain: newatlas.com
+    quality: 69
     images:
-      - url: "https://www.zdnet.com/a/img/resize/06ade7ecff079e652b414b009a1ae646986bf62f/2024/02/13/42b45f78-34b0-4a2c-8453-3ce03951d473/screenshot-2024-02-13-at-3-13-34pm.png?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://assets.newatlas.com/dims4/default/7df3253/2147483647/strip/true/crop/1903x999+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc0%2F79%2F292b13454764b891a7d395388ef8%2F01.jpg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Is This Real? OpenAI's Sora Creates Eerie Videos, Fueling Debate On Ethics And Regulation In AI Content"
+    excerpt: "OpenAI's latest creation, Sora, is causing quite a stir among creators and tech enthusiasts alike. Announced by CEO Sam Altman, Sora marks a significant advancement in artificial intelligence, particularly in the realm of video generation."
+    publishedDateTime: 2024-02-19T08:39:00Z
+    webUrl: "https://in.mashable.com/tech/69881/is-this-real-openais-sora-creates-eerie-videos-fueling-debate-on-ethics-and-regulation-in-ai-content"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 68
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/6cover_3kry.1200.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
-    excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
-    publishedDateTime: 2024-02-19T05:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-19/artificial-intelligence-microsoft-google-nvidia-win-as-computing-costs-surge"
+  - title: "OpenAI's new text-to-video tool, Sora, has one artificial intelligence expert \"terrified\""
+    excerpt: "Another groundbreaking generative artificial intelligence tool from the company behind ChatGPT unveiled Thursday is expected to accelerate the proliferation of deepfake videos and have implications for virtually every industry. Sora, an AI application that ..."
+    publishedDateTime: 2024-02-16T22:19:00Z
+    webUrl: "https://www.cbsnews.com/news/openai-sora-text-to-video-tool/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/openai-sora-text-to-video-tool/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-sora-text-to-video-tool/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 66
-  - title: "OpenAI introduces AI model that turns text into video"
-    excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"
-    publishedDateTime: 2024-02-16T10:05:00Z
-    webUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/"
-    ampWebUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
-    cdnAmpWebUrl: "https://www-ariananews-af.cdn.ampproject.org/c/s/www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
-    type: article
-    provider:
-      name: Ariana News
-      domain: ariananews.af
-    quality: 59
+      name: CBS News
+      domain: cbsnews.com
+    quality: 63
     images:
-      - url: "https://g7t9m5v9.stackpathcdn.com/wp-content/uploads/2024/02/openAI.jpg"
-        width: 999
-        height: 599
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/02/16/06bdbde2-d331-421b-9b02-dfcb40887307/thumbnail/1200x630/68b8f18388648d7a0794e56790213d64/gettyimages-2006246488.jpg?v=2a01790210e495d24a119503c08f840d"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Microsoft, IBM, Meta and More Sign AI Election Pact"
-    excerpt: "On Friday, 20 technology giants announced they have signed the \"Tech Accord to Combat Deceptive Use of AI in 2024 Elections\" as part of the Munich Security Conference. The accord, the signing of which appears to be a purely symbolic gesture so far ..."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://redmondmag.com/Articles/2024/02/16/AI-Election-Pact.aspx"
+  - title: "OpenAI Sora's Breaks Our Brains, Vision Pro Loses Its Luster, and More Big Tech News"
+    excerpt: "Apple Vision Pro was supposed to be that reality-changing tech but instead, tech bros wanted to return the headset before the return policy expired. Check out the rest of this week’s biggest tech news stories."
+    publishedDateTime: 2024-02-17T19:01:00Z
+    webUrl: "https://gizmodo.com/open-ai-sora-apple-vision-pro-cybertruck-1851264576"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 62
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8dc4004c26a81bbaca534bc11abc9231.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI Tools: OpenAI Reveals Sora and Shocks the AI Video Industry"
+    excerpt: "Sam Altman, CEO of OpenAI (ChatGPT, DALL-E) released a sneak peek into our not-to-distant future of realistic AI generated text-to-video content with the announcement of their new model, Sora on a “Xitter” post: here is sora,"
+    publishedDateTime: 2024-02-17T23:06:00Z
+    webUrl: "https://www.provideocoalition.com/ai-tools-openai-reveals-sora/"
+    ampWebUrl: "https://www.provideocoalition.com/ai-tools-openai-reveals-sora/amp/"
+    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/ai-tools-openai-reveals-sora/amp/"
+    type: article
+    provider:
+      name: provideocoalition.com
+      domain: provideocoalition.com
+    quality: 57
+    images:
+      - url: "https://www.provideocoalition.com/wp-content/uploads/Sora-home-Cropped-trim-sm2.gif"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Weekly AI recap: OpenAI unveils Sora, ChatGPT now has a ‘memory’"
+    excerpt: "Altman has long floated the idea of starting his own GPU venture amid chip scarcity and cost. The market is currently dominated by US chip manufacturer Nvidia, which is both credited with inventing the term “GPU” and has seen its market value skyrocket in recent years as demand for its chips has steadily increased."
+    publishedDateTime: 2024-02-16T16:14:00Z
+    webUrl: "https://www.thedrum.com/news/2024/02/16/weekly-ai-recap-openai-unveils-sora-chatgpt-now-has-memory"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
     quality: 56
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/AIElectionpact.jpg"
-        width: 647
-        height: 450
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2024-02-16t101400.946.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Microsoft tinkers with Windows for AMD AI"
-    excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
-    publishedDateTime: 2024-02-20T09:06:00Z
-    webUrl: "https://www.fudzilla.com/news/58478-microsoft-tinkers-with-windows-for-amd-ai"
+  - title: "OpenAI debuts Sora, a tool to make instant videos from written prompts"
+    excerpt: "The maker of ChatGPT on Thursday unveiled its next leap into generative artificial intelligence with a tool that instantly makes short videos in response to written commands."
+    publishedDateTime: 2024-02-16T03:38:00Z
+    webUrl: "https://scrippsnews.com/stories/openai-debuts-sora-a-tool-to-make-instant-videos-from-written-prompts/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/bcdf324bedc9fc853b785e501196a623_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "AI security initiatives comparison: Microsoft and OpenAI vs. Google"
-    excerpt: "The principles are built on Microsoft’s Responsible AI practices and the Azure OpenAI Code of Conduct. Google introduced its Secure AI Framework last June, which is a conceptual framework for secure AI systems. The framework includes six core ..."
-    publishedDateTime: 2024-02-16T00:11:00Z
-    webUrl: "https://www.sdxcentral.com/articles/feature/ai-security-initiatives-comparison-microsoft-and-openai-vs-google/2024/02/"
-    type: article
-    provider:
-      name: SDxCentral
-      domain: sdxcentral.com
-    quality: 51
-  - title: "Google's new AI model is 700x more powerful than OpenAI's flagship"
-    excerpt: "Google claims that Gemini 1.5 can handle up to 1 million tokens of input, equivalent to about 4 million characters or 800,000 words."
-    publishedDateTime: 2024-02-16T03:24:00Z
-    webUrl: "https://interestingengineering.com/innovation/googles-new-ai-model-is-700x-more-powerful-than-openais-flagship"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
+      name: scrippsnews
+      domain: scrippsnews.com
     quality: 39
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/Zjg0jX8diJJZkpICBBYzySEP3oHJTc4fQqUHGyg7.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.scrippsnews.com/images/videos/m/1708054555_ELyXGW.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "101 on OpenAI's new text to video AI model, Sora"
-    excerpt: "Sora is OpenAI's newest AI model that can create realistic and imaginative scenes simply with text instructions. Here's a breakdown of exactly what you need to know about Sora and how it can help industry professionals in the space."
-    publishedDateTime: 2024-02-19T03:43:00Z
-    webUrl: "https://www.marketing-interactive.com/101-sora-openai-video-text"
+  - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
+    excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
+    publishedDateTime: 2024-02-18T00:59:00Z
+    webUrl: "https://dailyhodl.com/2024/02/17/two-ai-related-crypto-assets-rally-as-openai-launches-text-to-video-artificial-intelligence-model/"
     type: article
     provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
+      name: The Daily Hodl
+      domain: dailyhodl.com
     quality: 39
     images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/article_images/101-sora-openai-video-text/1708314097_artificial%20intelligence%20%281%29.png?auto_optimize=medium"
-        width: 1600
-        height: 900
+      - url: "https://dailyhodl.com/wp-content/uploads/2024/02/two-rally-text-video.jpg"
+        width: 1365
+        height: 800
         isCached: true
-  - title: "Opinion: Google, Microsoft will dominate AI as computing costs surge"
-    excerpt: "Technology writer Parmy Olson says Google and Microsoft will dominate artificial intelligence as computing costs surge"
-    publishedDateTime: 2024-02-19T18:30:00Z
-    webUrl: "https://www.ourmidland.com/opinion/voices/article/opinion-google-microsoft-dominate-artificial-18676153.php"
+  - title: "OpenAI begins testing its text-to-video AI Sora with creatives"
+    excerpt: "OpenAI has unveiled its latest AI model, although it's not being released to the public just yet. Sora is a text-to-video model."
+    publishedDateTime: 2024-02-19T14:55:00Z
+    webUrl: "https://musically.com/2024/02/19/openai-begins-testing-its-text-to-video-ai-sora-with-creatives/"
     type: article
     provider:
-      name: Midland Daily News
-      domain: ourmidland.com
-    quality: 34
+      name: Music Ally
+      domain: musically.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2024/02/Screenshot-2024-02-19-at-11.38.08.png?fit=739%2C397&ssl=1"
+        width: 739
+        height: 397
+        isCached: true
+  - title: "Sora's AI-generated video reaches scary levels of realism - and this is just the start"
+    excerpt: "Will we soon be watching AI-generated movies? Looking at these new videos made by Sora, it's only a matter of time!"
+    publishedDateTime: 2024-02-19T10:25:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/soras-ai-generated-video-reaches-scary-levels-of-realism-and-this-is-just-the-start"
+    type: article
+    provider:
+      name: digitalcameraworld
+      domain: digitalcameraworld.com
+    quality: 29
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/saj5mXt5zp6UBeKygyazDE-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Sora is ChatGPT maker OpenAI’s new text-to-video generator. Here’s what we know about the new tool"
+    excerpt: "Meet Sora — OpenAI’s new text-to-video generator. The tool, which the San Francisco company unveiled Thursday, uses generative artificial intelligence to instantly create short videos based on written commands."
+    publishedDateTime: 2024-02-16T17:54:00Z
+    webUrl: "https://www.seattletimes.com/business/sora-is-chatgpt-maker-openais-new-text-to-video-generator-heres-what-we-know-about-the-new-tool/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
 
 secured: "LBYqS5d0FLlTQSQIpD2MmmipebHpcm+4mXFrpknEI0Rk9/17Ed4GziIUllhh2Zb12AHIBo2VPntI7lBoRS4Cp+W5t0Ivsq2HiZ/Ms1g04HrbpvetstKZwpXTNXv0wKu2BSWKlK0Xkr35pV5WIXbw7oyGBuWrduJgiUBm4mG9S+OqhDRXwZeURh5BgCF63in2Oe4gtLy2iYUoAc7kR52dJjNUBnnT8VMNrP+JYFfe7GauCht1GhQnwXK6BithN7dbHDiU/RHLZbfb57KMBiFjVBuuq6MX6T72MbYnds6sSIuutrrP5szZ2a0Zivd2opK9uLpJUWY/E875OwnGQXElW1Zvpr1k60p6l6Ec9xBGhLc=;duQCLYFvHhbSG1RIm313Vw=="
 ---

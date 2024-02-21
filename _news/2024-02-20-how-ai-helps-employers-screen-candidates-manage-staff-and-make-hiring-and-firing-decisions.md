@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-helps-emplo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2024/02/20/how-ai-helps-employers-screen-candidates-manage-staff-and-make-hiring-and-firing-decisions/amp/"
 type: article
 quality: 77
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://ychef.files.bbci.co.uk/624x351/p0hbx9q4.jpg"
         width: 624
         height: 351
-        isCached: true
-  - title: "Acquiring Workplace Safety in the Data Age Via AI Innovations"
-    excerpt: "Chatbots, equipped with natural language processing and trained on safety procedures and manuals, serve as invaluable tools for addressing employees' safety inquiries. These intelligent systems can understand and interpret natural language, enabling ..."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://ohsonline.com/Articles/2024/02/16/Acquiring-Workplace-Safety-in-the-Data-Age-Via-AI-Innovations.aspx"
-    type: article
-    provider:
-      name: Ohsonline.com
-      domain: ohsonline.com
-    quality: 39
-    images:
-      - url: "https://ohsonline.com/-/media/OHS/OHS/Images/2024/02/02,-d-,16,-d-,24aidata.jpg"
-        width: 650
-        height: 300
         isCached: true
   - title: "AI hiring tools may be filtering out the best job applicants"
     excerpt: "As firms increasingly rely on artificial intelligence-driven hiring platforms, many highly qualified candidates are finding themselves on the cutting room floor."

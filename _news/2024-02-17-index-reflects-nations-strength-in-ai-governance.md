@@ -26,33 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can strengthen digital security"
-    excerpt: "We’re launching the AI Cyber Defense Initiative to help transform cybersecurity and use AI to reverse the dynamic known as the “Defender’s Dilemma”"
-    publishedDateTime: 2024-02-16T00:01:00Z
-    webUrl: "https://blog.google/technology/safety-security/google-ai-cyber-defense-initiative/"
+  - title: "China willing to join global efforts on AI ethics, governance – China Daily"
+    excerpt: "China is willing to participate in global efforts to promote the ethics and governance of artificial intelligence so that it will - Kenya breaking news | Kenya news today | Capitalfm.co.ke"
+    publishedDateTime: 2024-02-17T12:04:00Z
+    webUrl: "https://www.capitalfm.co.ke/news/2024/02/china-willing-to-join-global-efforts-on-ai-ethics-governance-china-daily/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 106
+      name: Capital FM
+      domain: capitalfm.co.ke
+    quality: 52
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MSC_Keyword_Cover_3.width-1300.png"
-        width: 1300
-        height: 733
-        isCached: true
-  - title: "Visual Studio adds AI-generated Git commits, previews AI chat"
-    excerpt: "while Visual Studio 17.10 brings AI-powered chat into the IDE. Other productivity enhancements in Visual Studio 17.9 include the ability to open a GitHub or Azure DevOps pull request from either Visual Studio or a web browser, the ability to switch between ..."
-    publishedDateTime: 2024-02-16T11:00:00Z
-    webUrl: "https://www.reseller.co.nz/article/710095/visual-studio-adds-ai-generated-git-commits-previews-ai-chat/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_visual_studio_26.jpg"
-        width: 505
-        height: 315
+      - url: "https://www.capitalfm.co.ke/news/files/2024/02/China-AI-e1708171440161.jpeg"
+        width: 630
+        height: 473
         isCached: true
 
 secured: "yiZL6aJfnNcU90AiMxz1srTmps7FrTbf5yxxJjzebaAvdyQfGVj1nEcppuYJuiwkIphugQkX3SUnVzRsW1Jocaei1dWWUd3gRbyIE5iVm+lFWRK19/z4Uo2gFauo3rI6EUeUZDWclI5Qw00THDWudIemBAPidQMZrGL3Z4PkIcTBFlACngU8B4O3k8ZqZI8KQswXKJLa99OUoQcSLWMWsG+lzq3AYSaDIdq0J+W3cmDCZLoikfhonoG66EmB5nbeT0qbm0y0tQIyAqXNlzpE3kurztDeZkW2C92O5myfAD2piYlVJIICX5n9CMjXEvhbL5HVAj/2jZUxurcpCenyzPkr89HiXYz6JScGSEnpafM=;dBsoZXT5QCGguYpOyvsjlg=="

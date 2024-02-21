@@ -43,20 +43,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
-  - title: "Microsoft will invest $2.1bn in Spain to expand cloud and AI"
-    excerpt: "The focus on AI helped Microsoft briefly hit the $3trn valuation and challenge Apple for the title of the most valuable company in the world. Revenue from the company’s Intelligent Cloud division – which includes Azure – grew by 20pc to $25.9bn."
-    publishedDateTime: 2024-02-20T09:35:00Z
-    webUrl: "https://www.siliconrepublic.com/business/microsoft-ai-investment-spain-cloud-infrastructure-europe"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-21.jpeg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Lambda Raises $320M in Series C Funding to Expand Its AI Cloud Business and Scale GPU Infrastructure"
     excerpt: "Lambda, the GPU cloud company founded by AI engineers and powered by NVIDIA GPUs, has announced it has raised a $320"
     publishedDateTime: 2024-02-16T12:55:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/ifs-and-micros
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024-kp9wfahk?amp=1"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Zawya
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft develops AI server gear to lessen reliance on Nvidia, The Information reports"
-    excerpt: "Microsoft CEO Satya Nadella has tapped Pradeep Sindhu, who co-founded networking gear developer Juniper Networks, to spearhead the network card effort, the report said citing a person with knowledge of the matter."
-    publishedDateTime: 2024-02-20T18:30:00Z
-    webUrl: "https://www.aol.com/news/microsoft-develops-ai-server-gear-163026760.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 46
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/48d82f19bb621e96dabc6afe0e2885c1"
-        width: 800
-        height: 499
-        isCached: true
   - title: "Snowflake to showcase telco AI innovations and enhanced ecosystem partnerships at MWC 2024"
     excerpt: "on Amazon SageMaker. Snowflake worked with AWS to build GenTwin, an innovative Network Operations solution blending private 5G, generative AI using Amazon Bedrock, and digital twins using AWS IoT TwinMaker to empower industries with unparalleled ..."
     publishedDateTime: 2024-02-20T04:42:00Z

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-19-global-artificial-intelligence-ai-robots-market-strategic-insights-2024-2031-analyzing-business-growth-dynamics-and-challenges.md",
+      "title": "Global Artificial Intelligence (AI) Robots Market [Strategic Insights] 2024-2031 | Analyzing Business Growth, Dynamics and Challenges",
+      "excerpt": "Short Description about Artificial Intelligence (AI) Robots Market: Artificial Intelligence (AI) Robots Market Research Report 2023 is spread across 114 pages with Detailed TOC, Charts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/global-artificial-intelligence-ai-robots-market-strategic-insights-2024-2031-analyzing-business-growth-dynamics-and-challenges",
+      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/global-artificial-intelligence-ai-robots-market-strategic-insights-2024-2031-analyzing-business-growth-dynamics-and-challenges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thedigitalresearch.files.wordpress.com/2023/06/cagr.png?w=500",
+          "width": 499,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-15-robots-powered-by-ai-and-their-insane-demo-videos.md",
       "title": "15 robots powered by AI and their insane demo videos",
       "excerpt": "Elon Musk, recently showcased his latest creation, the Optimus Gen-1. Following advancements in large language models, it seems the race to create the most powerful AI-backed robot is intensifying. The Tesla Optimus account shared a demo video of Optimus Gen-1, which triggered a conversation around AI robots.",
@@ -1283,49 +1326,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai.md",
-      "title": "Liquid AI, a new MIT spinoff, wants to build an entirely new type of AI",
-      "excerpt": "An MIT spinoff co-founded by robotics luminary Daniela Rus aims to build general ... So what exactly does Liquid AI the startup hope to achieve with this powerful new(ish) architecture? Plain and simple, commercialization. One presumes work will continue ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/",
-      "originalUrl": "https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

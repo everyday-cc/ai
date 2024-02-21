@@ -25,58 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Google, Microsoft, OpenAI make AI pledges ahead of Munich Security Conference"
-    excerpt: "Google today launched an 'AI Cyber Defense Initiative and made several AI-related commitments, following a charge by Microsoft and OpenAI."
-    publishedDateTime: 2024-02-16T00:01:00Z
-    webUrl: "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/"
+  - title: "AI security infrastructure needed after 'malicious' foreign actors use OpenAI to train operatives, expert says"
+    excerpt: "OpenAI named five hacker groups affiliated with governments in China, Russia, North Korea and Iran who used their artificial intelligence tools for training and research purposes."
+    publishedDateTime: 2024-02-17T09:00:00Z
+    webUrl: "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says"
+    ampWebUrl: "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
+      name: Fox News
+      domain: foxnews.com
+    quality: 84
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/google_logo_with_a_giant_lock_and_data_vibrant-transformed.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "Microsoft and Google are proud AI is helping you (other companies not so much)"
-    excerpt: "Google, too, showed an exceptionally touching example of AI overtly improving someone's life. Here, the company revealed how, with the new AI-powered Pixel 8, those with blindness or low vision can now frame photographs beautifully, as the phone's AI assistant guides them to the optimum framing."
-    publishedDateTime: 2024-02-18T04:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/06ade7ecff079e652b414b009a1ae646986bf62f/2024/02/13/42b45f78-34b0-4a2c-8453-3ce03951d473/screenshot-2024-02-13-at-3-13-34pm.png?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451d7a28-5ceb-42ad-b0e1-c8f9bd7377b7/b53347c0-06fb-4863-9de7-c0ae58861e24/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
         isCached: true
-  - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
-    excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
-    publishedDateTime: 2024-02-19T05:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-19/artificial-intelligence-microsoft-google-nvidia-win-as-computing-costs-surge"
+  - title: "What to Know About OpenAI’s New AI Video Generator Sora"
+    excerpt: "Now you can. OpenAI’s latest generative artificial intelligence offering, Sora, can generate breathtakingly realistic videos that are up to a minute long from text prompts. OpenAI CEO Sam Altman announced the model’s creation on X on Thursday."
+    publishedDateTime: 2024-02-16T16:10:00Z
+    webUrl: "https://time.com/6695938/sora-openai-video-generator-ai/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 66
-  - title: "With Sora, OpenAI highlights the mystery and clarity of its mission | The AI Beat"
-    excerpt: "Sora, OpenAI's new text-to-video model, may be a black-box mystery, but the company's unwavering mission to develop AGI is not."
-    publishedDateTime: 2024-02-19T15:23:00Z
-    webUrl: "https://venturebeat.com/ai/with-sora-openai-highlights-the-mystery-and-clarity-of-its-mission-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-18-at-7.20.26-PM.png?w=1200&strip=all"
-        width: 1199
-        height: 674
+      - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-2006246625.jpg?quality=85"
+        width: 4000
+        height: 3000
         isCached: true
   - title: "OpenAI introduces AI model that turns text into video"
     excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"
@@ -94,66 +71,6 @@ related:
         width: 999
         height: 599
         isCached: true
-  - title: "Microsoft, IBM, Meta and More Sign AI Election Pact"
-    excerpt: "On Friday, 20 technology giants announced they have signed the \"Tech Accord to Combat Deceptive Use of AI in 2024 Elections\" as part of the Munich Security Conference. The accord, the signing of which appears to be a purely symbolic gesture so far ..."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://redmondmag.com/Articles/2024/02/16/AI-Election-Pact.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 56
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/AIElectionpact.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Microsoft tinkers with Windows for AMD AI"
-    excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
-    publishedDateTime: 2024-02-20T09:06:00Z
-    webUrl: "https://www.fudzilla.com/news/58478-microsoft-tinkers-with-windows-for-amd-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/bcdf324bedc9fc853b785e501196a623_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "AI security initiatives comparison: Microsoft and OpenAI vs. Google"
-    excerpt: "The principles are built on Microsoft’s Responsible AI practices and the Azure OpenAI Code of Conduct. Google introduced its Secure AI Framework last June, which is a conceptual framework for secure AI systems. The framework includes six core ..."
-    publishedDateTime: 2024-02-16T00:11:00Z
-    webUrl: "https://www.sdxcentral.com/articles/feature/ai-security-initiatives-comparison-microsoft-and-openai-vs-google/2024/02/"
-    type: article
-    provider:
-      name: SDxCentral
-      domain: sdxcentral.com
-    quality: 51
-  - title: "Google's new AI model is 700x more powerful than OpenAI's flagship"
-    excerpt: "Google claims that Gemini 1.5 can handle up to 1 million tokens of input, equivalent to about 4 million characters or 800,000 words."
-    publishedDateTime: 2024-02-16T03:24:00Z
-    webUrl: "https://interestingengineering.com/innovation/googles-new-ai-model-is-700x-more-powerful-than-openais-flagship"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/Zjg0jX8diJJZkpICBBYzySEP3oHJTc4fQqUHGyg7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Opinion: Google, Microsoft will dominate AI as computing costs surge"
-    excerpt: "Technology writer Parmy Olson says Google and Microsoft will dominate artificial intelligence as computing costs surge"
-    publishedDateTime: 2024-02-19T18:30:00Z
-    webUrl: "https://www.ourmidland.com/opinion/voices/article/opinion-google-microsoft-dominate-artificial-18676153.php"
-    type: article
-    provider:
-      name: Midland Daily News
-      domain: ourmidland.com
-    quality: 34
 
 secured: "XePY9wt/9mYw0NiUnLmmkWF8qEhClg2ydxE67+jyZw0eaZrAocGwnrNAP6Twn7Qf/l6mcmja98diQcW6ppUfjTIGIrkDfButBfvqZ0iQknLvqbqQdC1+YSsEVAGVdpq79gJcSqWIlA0WcWNoPUJBOU83wjT4TDJOrPvHPe5ZueE59Fl4V4L4Q0D2gp5wh5wfOgJEdxUkcx59wZVJjB6hLUlOah7JamMwGcn4vnFWR6rrMn6WkLj1AwtYSOoiAkVUbjBzBC5KL18jgoWarn6XQSB1/QhvfW6BTmDSAvABp7Z4jlq7MMe47lN8JKixxCrmJnWix6z6u8xIYKY1l8sewD5XNnGngYUNcv/VA1SJzxTVoqvlo1RasCKBDKIBHWS3EA+wmMfsNaS6gmhFf8FintzWlYHCotIUsVBcdaxpdXci9YdwgZjvBk9GYYDY2UnupCpFhZx3nSfZWcO5HmmZLgb18pU9sb67WdfYMAufcgGiSyhfjIQAkbY3FUh6qzc8txrJNjMZ3urmMKETx6ZAEQ==;nDU671GLzZU95PToNipqQg=="
 ---

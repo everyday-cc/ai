@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "House punts on AI with directionless new task force"
+    excerpt: "The House of Representatives has founded a Task Force on artificial intelligence that will \"ensure America Keeps leading in this strategic area,\" as"
+    publishedDateTime: 2024-02-20T22:53:00Z
+    webUrl: "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/"
+    ampWebUrl: "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/capitol-congress-hearing-government-techcrunch-bryce-durbin.jpeg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2 WMass experts on a new statewide task force to explore use of AI technology in all industries"
     excerpt: "WNE President Robert Johnson and MassMutual's Sears Merritt among the 26 person task force that will tackle how industries can introduce artificial intelligence to their workforce."
     publishedDateTime: 2024-02-16T23:02:00Z
@@ -41,6 +57,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "US House Forms AI Task Force as Legislative Push Stalls"
+    excerpt: "Earlier this month, Commerce Secretary Gina Raimondo said leading AI companies were among more than 200 entities joining a new U.S. consortium to support safe AI deployment including OpenAI, Alphabet's Google, Anthropic, Microsoft, Meta Platforms, Apple, Amazon.com and Nvidia."
+    publishedDateTime: 2024-02-20T13:08:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2024-02-20/us-house-forms-ai-task-force-as-legislative-push-stalls"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "E87I2ZEzFU0wYv4iq45qjqVgmR01hYeOpO4Vtk/5hNIDgWrDWAygG7DX5qyVM0Yor1lJJtJKEj2TNdx2iGq7e4lKCMB5Oo8jxoUUZjbD5qWtbEfWuNu19W0K39XzBLFHXgRW5rAVuKbaKQ998wFGaedSYKoKhZLSQNzoaqQOhWfyTJsmYpYADEFnsmvcKG79XfR360pFpv632mprPKyjyWzcXC5cftc8aXRmFxqY4xCtEN1cgKw+HWK/vMLXQXM7bn700RNLuZRaD6iZvH1g4YznHtYjYf2f99j0HszTUXnHiOg0MpriDvbkIVsrtNSueYYYGrH4mQEV4q0sJLk0EceWCGe7fhue8HUDMhOD8JU=;Xv2vZsOmf4l9fjT3QgviQw=="
 ---

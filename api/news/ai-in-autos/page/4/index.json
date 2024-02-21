@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-16-baidu-recoups-some-losses-as-analysts-see-selloff-overdone.md",
+      "title": "Baidu Recoups Some Losses as Analysts See Selloff Overdone",
+      "excerpt": "Baidu Inc. climbed as much as 4.3% on Tuesday, regaining some of its losses after analysts labeled excessive a selloff triggered by a report of links to Chinese military AI research. China’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-01-16/baidu-recoups-some-losses-after-denying-report-on-pla-ai-links",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-01-16/baidu-recoups-some-losses-after-denying-report-on-pla-ai-links",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-elon-musk-gives-tesla-ultimatum-another-12-of-shares-or-no-ai-robotics.md",
       "title": "Elon Musk gives Tesla ultimatum: Another 12% of shares or no AI, robotics",
       "excerpt": "Click to expand... And because of course he fucking is: \"Musk is attempting to recover control that has been lost from his stock sales to fund Twitter,\" CFRA Research analyst Garrett Nelson said. \"We view Musk's demands as posturing ahead of the Delaware ...",
@@ -1224,49 +1267,6 @@
         "name": "AOL",
         "domain": "aol.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-waymos-robotaxis-head-for-the-highway.md",
-      "title": "Waymo’s robotaxis head for the highway",
-      "excerpt": "After several years of testing its autonomous vehicles on city streets without a human engineer behind the wheel, Waymo will send its fully driverless cars onto freeways for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/waymos-robotaxis-head-for-the-highway/",
-      "originalUrl": "https://www.digitaltrends.com/cars/waymos-robotaxis-head-for-the-highway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-06-bofe-to-review-ai-risk-to-financial-stability.md",
+      "title": "BofE to review AI risk to financial stability",
+      "excerpt": "The Bank of England is launching a review of artificial intelligence and machine learning amid concerns that its use could pose financial stability risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/newsarticle/43396/bofe-to-review-ai-risk-to-financial-stability",
+      "originalUrl": "https://www.finextra.com/newsarticle/43396/bofe-to-review-ai-risk-to-financial-stability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/andrew-bailey-front.png",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T15:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-wimi-developed-deep-reinforcement-learning-based-task-scheduling-algorithm-in-cloud-computing.md",
       "title": "WiMi Developed Deep Reinforcement Learning-Based Task Scheduling Algorithm in Cloud Computing",
       "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that it developed a deep reinforcement learning-based task scheduling algorithm in cloud computing to improve the performance and resource utilization of cloud computing systems.",
@@ -1298,59 +1341,7 @@
         "AI in Finance",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2023-11-20-whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions.md",
-      "title": "What’s In Store For 2024? Innovations In B2C And B2B Fintech Solutions",
-      "excerpt": "To excel in the dynamic fintech landscape of 2024, businesses must prioritize innovation and customer-centricity while embracing automation and adaptability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6557c6c8274bff58c483c9d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1178,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/",
-      "publishedDateTime": "2023-11-20T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 5
 }

@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient
 webUrl: "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/"
 type: article
 quality: 64
-heat: 77
+heat: 80
 published: true
 
 provider:

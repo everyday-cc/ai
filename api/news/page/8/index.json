@@ -2,6 +2,240 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-02-14-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape.md",
+      "title": "Growing Need for AI and Machine Learning Talent: An Unavoidable Shift in the Tech Landscape",
+      "excerpt": "The demand for AI and Machine Learning talent is skyrocketing due to the rapid integration of these technologies in various industries. Despite the challenges in meeting this demand, the future is bright for professionals entering this field,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_02_2024_18_22_46_5632179.png?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp",
+      "publishedDateTime": "2024-02-14T04:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws.md",
+      "title": "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS",
+      "excerpt": "US], February 14: Sonata Software (NSE: SONATSOFTW), (BSE: 532221), a leader in Modernization Engineering, today announced the integration of Amazon Bedrock and related services as an integral part of its Harmoni.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/",
+      "originalUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2024/02/ANI-20240214044355.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp",
+      "publishedDateTime": "2024-02-14T04:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-wife-of-tesla-employee-who-died-in-what-may-have-been-the-first-full-self-driving-crash-said-she-and-her-husband-were-guinea-pigs.md",
+      "title": "Wife of Tesla employee who died in what may have been the first 'full self-driving' crash said she and her husband were 'guinea pigs'",
+      "excerpt": "Tesla hasn't acknowledged the death of an employee driving one of its cars in what may have been the first fatality linked to its self-driving feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2",
+      "originalUrl": "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65cc35d194aa8ee8e84b2027?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp",
+      "publishedDateTime": "2024-02-14T04:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning.md",
+      "title": "The Future of Tech Jobs: Ethical AI and the Quest for Fairness in Machine Learning",
+      "excerpt": "In an era where technology is advancing at an unprecedented pace, the quest for ethical AI and fairness in machine learning is not just a technical challenge but a crucial societal concern. This blog explores the future of tech jobs in the context of ethical AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_02_2024_17_27_44_5920723.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp",
+      "publishedDateTime": "2024-02-14T04:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-language-of-love-lets-use-ai-to-find-the-heart-of-human-potential.md",
+      "title": "Language Of Love: Let’s Use AI to Find the Heart Of Human Potential",
+      "excerpt": "AI can serve as a bridge to clarity across different and also within the same languages, building bridges between cultures through mastering language and reducing bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc31fd62e34c5e08f238e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
+      "publishedDateTime": "2024-02-14T03:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-10-ai-tools-for-australian-businesses-in-2024.md",
       "title": "10 AI Tools For Australian Businesses In 2024",
       "excerpt": "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,",
@@ -938,248 +1172,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-14-best-robotics-stocks-to-buy-now.md",
-      "title": "14 Best Robotics Stocks To Buy Now",
-      "excerpt": "The robotics market’s expansion is attributed to significant technological advancements in artificial intelligence and machine learning, a surge in demand for automation due to increasing labor shortages and rising labor costs, government initiatives and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/",
-      "originalUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/11/15152835/HHGC-insidermonkey-1700080113045.jpg?auto=format&expires=1739318400&w=400&h=225&fit=crop",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/?amp=1",
-      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/?amp=1",
-      "publishedDateTime": "2024-02-13T14:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-generative-ai-use-cases-for-the-enterprise.md",
-      "title": "Generative AI use cases for the enterprise",
-      "excerpt": "In this post, we demystify generative AI to help businesses harness the value of gen AI through use-case-driven approaches.\nThe post Generative AI use cases for the enterprise appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/generative-ai-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/generative-ai-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 379,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-leveraging-ai-a-global-growth-roadmap-for-smes-in-2024.md",
-      "title": "Leveraging AI: A Global Growth Roadmap For SMEs In 2024",
-      "excerpt": "As we move into 2024, it is time for SMEs to get back to business fundamentals and focus on cashflow, more money coming in than going out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca81b41b3e14dd8bde218b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1075,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/amp/",
-      "publishedDateTime": "2024-02-13T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-cohere-for-ai-launches-open-source-llm-for-101-languages.md",
-      "title": "Cohere for AI launches open source LLM for 101 languages",
-      "excerpt": "Cohere For AI launched an open source LLM covering 101 languages — more than double the number covered by existing open source models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/",
-      "originalUrl": "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-21.26.49-A-creative-representation-of-a-large-language-model-that-covers-over-100-languages.-The-image-should-depict-a-futuristic-digital-brain-like-structure.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T13:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to.md",
-      "title": "ChatGPT will now remember its past conversations with you (if you want it to)",
-      "excerpt": "ChatGPT is getting the ability to recall snippets of information you ask it to remember. Here's how the feature works and how to opt in (or out!).",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0158482f6f193a8a559fa7321f542920f39da6ab/2024/02/09/898f9e84-a9f2-4253-bf86-0010c41b58d4/chatgpt1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "publishedDateTime": "2024-02-13T13:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
