@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/artificial-intelligence-clone-voices-v
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp"
 type: article
 quality: 76
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Why some video game voice actors are letting AI clone their voices"
+    excerpt: "Although AI's reputation among artists isn't strong, video game voice actors are finding ways to combine ethical practices with their artistry."
+    publishedDateTime: 2024-02-21T03:22:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/some-video-game-actors-are-letting-ai-clone-their-voices-they-just-dont-want-it-to-replace-them/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
   - title: "Some video game actors are letting AI clone their voices, with positive results"
     excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker’s permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
     publishedDateTime: 2024-02-19T15:27:00Z

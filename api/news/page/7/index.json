@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-15-microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks.md",
+      "title": "Microsoft Says Foreign Adversaries Are Using Generative AI For Cyberattacks",
+      "excerpt": "Microsoft Co. (MSFT) and OpenAI recently disclosed that cybercriminals are utilizing large language models like ChatGPT to refine and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T20:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-ai-investors-are-wooing-startups-with-massive-computing-clusters.md",
       "title": "AI Investors Are Wooing Startups With Massive Computing Clusters",
       "excerpt": "Nat Friedman and Daniel Gross built a 4,000-chip supercomputer. Andreessen Horowitz is in talks to secure tens of thousands of GPUs for an offering of its own, a source said.",
@@ -1143,58 +1187,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-chinese-tech-startups-quietly-stop-testing-driverless-cars-on-californian-roads.md",
-      "title": "Chinese tech startups quietly stop testing driverless cars on Californian roads",
-      "excerpt": "Chinese autonomous vehicle companies have scaled back testing of driverless cars in California, a BI analysis found. These companies face growing scrutiny from US lawmakers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2",
-      "originalUrl": "https://www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65cb4d046fcb546d2d4eee2d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp",
-      "publishedDateTime": "2024-02-14T10:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

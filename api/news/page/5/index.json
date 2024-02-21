@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-16-chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom.md",
+      "title": "Chipping In: Billionaire-Founded Unicorn Startup Makes Semiconductor ‘Chiplets’ For The AI Boom",
+      "excerpt": "Singapore-based Silicon Box specializes in chiplets, an increasingly popular way of making high-performing chips. To help ramp up production, the startup recently raised $200 million in a Series B round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/catherinewang/2024/02/16/chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom/",
+      "originalUrl": "https://www.forbes.com/sites/catherinewang/2024/02/16/chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c055520d5f42441db193dd/0x0.jpg?format=jpg&crop=2357,1325,x0,y594,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-into-the-looking-glass-cloud-and-video-surveillance-technology-in-2024.md",
       "title": "Into The Looking Glass: Cloud And Video Surveillance Technology In 2024",
       "excerpt": "The convergence of advancements in cloud and video surveillance technology with broader AI trends heralds an era of substantial change.",
@@ -1021,10 +1073,10 @@
     {
       "path": "_news/2024-02-16-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-new-solutions.md",
       "title": "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions",
-      "excerpt": "and its Verify and Number Insights APIs paired with Amazon Rekognition. With this new update, Vonage will further build additional solutions like this that will accelerate bringing the power of ...",
+      "excerpt": "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61418954-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-new-solutions-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61418954-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-new-solutions-004.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1034,11 +1086,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T17:06:00Z",
+      "publishedDateTime": "2024-02-15T16:28:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1188,58 +1240,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-our-next-generation-model-gemini-15.md",
-      "title": "Our next-generation model: Gemini 1.5",
-      "excerpt": "The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
-      "originalUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_gemini_1.5_blog_social_share_800x418.width-1300.png",
-          "width": 800,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/",
-      "publishedDateTime": "2024-02-15T15:00:50Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

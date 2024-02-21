@@ -8,7 +8,7 @@ webUrl: "https://www.financialexpress.com/business/digital-transformation-how-em
 ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-how-empathetic-artificial-general-intelligence-can-be-3400342/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-how-empathetic-artificial-general-intelligence-can-be-3400342/lite/"
 type: article
-quality: 44
+quality: 48
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design441.jpg"
@@ -86,6 +88,6 @@ related:
         height: 803
         isCached: true
 
-secured: "4aSMfY3xAgevlAgi3DhH9RsyLub74zBuRt/oLHv8kVzyDCrnZMaCezfYiCN6PFi00yx+FTUHgTYWo8RIa9iMa7x974UBl3HvVrTaA3/LdTvbMCG8xqljNTFih1oWxwpk61C4Be90Wt5IWSG6NZbzo6QoIi93cBosjeOo66umGCfVlKn5sIwyU8SBbASKkwjZGTIM/ncXTTPE25rteBYQ4zkOdWbSKhm3L4LwFWLo4CT9TorKPAz0CAClpGlFR1GkT+N6IG4aXJrKvMzWi0+oosopFY06/ISmzcl9+RhdMLl/UqI0IyNXzKYccy7/JnTmsOn2d4ApCc5C+l3f3S134PwE0TkhGqQSlPuICP0WOl8=;Qtj3CocuXaOep2Q8Mm4UhA=="
+secured: "8l9giouI4Lg7KFGDjN4vDGqi9DT+iN3SyikU/kHMyKT197nlWd2atwWq/Bfyuf5kqSbsgHbs7LdLlOqUVqdUQ6zu8DLz0uDqHSOLVfXmqcLhQ40yUNMdHddoHALl+x18NHiFIBl5NhcP7ag0WqyOsfpciRWiAVPVFshKdAXpZydv2KLGZk6ZRtEEsGtdcE9tB46ArnRS5AgeWU+kq/d/+NaZRVTBe62SQgyNaEVVe7d2KsRnDfizX3vCiUBVItMuYrwalt8Igh5QoqvZLdYEqmWZZ1ntLntBMEfcINthbbjsCqMCAzDkqA+xbF3aB6u6Xm6EfQBIvc2GAvCP/9odQjavQSpRS5UqDVQ9WcW67vecu+N93l8fUCQcYTGBYnBMzFrkSb3l3jE6L/HvHnHJtOk4AONVnjDOxfcy2sEii9fm1CZ6/tpH1bTCBEClaRUqYPeDQzFm41Wlna/MXRWOcWWP7y1Mrc2THzRixoYm3coZLnaFsQZt4Ufn9UfoRkof2fVOIvDJx1jqpYIRP/tgdg==;qrA7nvjzh+rYHWVmuUUFXQ=="
 ---
 

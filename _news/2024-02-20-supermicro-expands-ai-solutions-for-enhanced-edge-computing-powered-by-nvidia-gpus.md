@@ -43,6 +43,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Super Micro: Riding The AI Revolution"
+    excerpt: "Super Micro Computer is experiencing significant growth in sales, with a surge of over 100% reported recently. The company is forecasting EPS growth of ~250% in the current quarter, driven by increased demand for infrastructure solutions, warranting the ..."
+    publishedDateTime: 2024-02-19T00:02:00Z
+    webUrl: "https://seekingalpha.com/article/4671278-super-micro-riding-ai-revolution"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2024/2/17/234751-17082323014345374.png"
+        width: 640
+        height: 358
+        isCached: true
 
 secured: "dj0FqqmimLTBo+vObeJ5vnWKY1zivH+QmAN8cihYIADtYSEBCugJoJLHTWj5XOgWa/0Ed+Y+zZGVK1TFIECvbnUxi35JekG3TZffOgrDvyHuAW7tT4b+fqXTInzw9GkidKl4K/AuZ+FxLmMIrdBCrSM5tqH9bNTQ4bDiCVaTIm2c0Q683iwzv66RmzdZ6EQhvgnDUcjTk/wrr3gbl0schMyOOTl5Czn69BXeQYci5zBbI2PUGihKtlnVK6SW2gAb5+8rOmO90VHW4+rL+iIDC/jN9qFa2gIZ2SxEN4eN8lpipD2K4pLOXy2HkB9EuwDEyO+/ICqI47yf7+q5vi9jTn7fnDlnVg++0k6vFGBOn/M=;Kr38Pa4FeNlt90pJUMxL1g=="
 ---

@@ -95,6 +95,20 @@ related:
         width: 1600
         height: 809
         isCached: true
+  - title: "You can use Google Gemini AI on your iPhone without installing an app"
+    excerpt: "It turns out you don’t have to be an iPhone 15 owner to get that sort of speedy generative AI experience. There’s an iPhone shortcut for Google Gemini that lets you use the chatbot without installing the Google app in the first place. iPhone shortcut developer ProCreations came up with the shortcut called Gemini Chat."
+    publishedDateTime: 2024-02-21T01:47:00Z
+    webUrl: "https://bgr.com/tech/you-can-use-google-gemini-ai-on-your-iphone-without-installing-an-app/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-3.jpg?quality=82&strip=all"
+        width: 1600
+        height: 816
+        isCached: true
   - title: "Google AI Chief Touts Ultra Low Resource Machine Translation in Gemini 1.5 Pro Launch"
     excerpt: "Google promotes its latest large language model, Gemini 1.5 Pro, with a case study on low-resource translation using just one book."
     publishedDateTime: 2024-02-19T08:10:00Z

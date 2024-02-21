@@ -99,20 +99,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Croydon support for Met Police facial recognition operation"
-    excerpt: "The Mayor of Croydon has shown support for the Met Police’s facial recognition operations, saying ‘if you’ve got nothing to hide you’ve"
-    publishedDateTime: 2024-02-16T05:00:00Z
-    webUrl: "https://www.yourlocalguardian.co.uk/news/24122082.croydon-support-met-police-facial-recognition-operation/"
-    type: article
-    provider:
-      name: Your Local Guardian
-      domain: yourlocalguardian.co.uk
-    quality: 39
-    images:
-      - url: "https://www.yourlocalguardian.co.uk/resources/images/17755422/?type=og-image"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "More airports are using facial recognition technology"
     excerpt: "The Transportation Security Administration is planning to widen its use of facial recognition technology, hoping to speed up the boarding process. More than 30 airports across the country are already using such technology. The TSA plans to roll it out to ..."
     publishedDateTime: 2024-02-20T00:00:00Z

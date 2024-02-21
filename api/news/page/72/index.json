@@ -2,6 +2,265 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2023-12-14-robotics-in-the-engineroom.md",
+      "title": "Robotics in the EngineRoom",
+      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be conducted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
+      "originalUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.marinelink.com/images/maritime/w800h600pad/image-courtesy-fmd-146221.jpg",
+          "width": 800,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marinelink.com/amp/news/robotics-engineroom-510133",
+      "cdnAmpWebUrl": "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/robotics-engineroom-510133",
+      "publishedDateTime": "2023-12-14T11:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marine Link",
+        "domain": "marinelink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-3-machine-learning-stocks-to-turn-10000-into-1-million-december-2023.md",
+      "title": "3 Machine Learning Stocks to Turn $10,000 Into $1 Million: December 2023",
+      "excerpt": "The post 3 Machine Learning Stocks to Turn $10,000 Into $1 Million: December 2023 appeared first on InvestorPlace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-to-turn-%2410000-into-%241-million%3A-december-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-to-turn-%2410000-into-%241-million%3A-december-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T10:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds.md",
+      "title": "Surprise! AI chatbots don't increase student cheating afterall, new research finds",
+      "excerpt": "The rise of generative AI tools has many worried about the future integrity of the educational system. After all, if you can get math, writing, and coding help from one free tool like ChatGPT, what's stopping students from using it to cheat on every assignment? Stanford researchers tackle the question in a Q+A published by the university.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
+      "originalUrl": "https://www.zdnet.com/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2b1341ca204a101f5087138fc26e5232f57a0cc0/2023/12/14/7a9eba33-8a87-476b-929e-6d135b343fed/handcheat-gettyimages-181866634.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
+      "publishedDateTime": "2023-12-14T09:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-worlds-first-mind-reading-helmet-is-revealed-as-eerie-ai-tech-can-tell-what-youre-thinking-turn-it-into-written-text.md",
+      "title": "World’s first mind-reading helmet is revealed as eerie AI tech can tell what you’re thinking & turn it into written text",
+      "excerpt": "THE world’s first ever mind-reading helmet has finally been revealed but the creepy AI tech has left many worried as it can turn your thoughts into written text. Despite the eerie new device",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/",
+      "originalUrl": "https://www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/12/newspress-collage-crvvq3fuz-1702547748208.jpg?1702548474&strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/amp/",
+      "publishedDateTime": "2023-12-14T09:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-aws-rolls-out-amazon-q-an-ai-assistant-for-businesses.md",
+      "title": "AWS rolls out Amazon Q, an AI assistant for businesses",
+      "excerpt": "Amazon Web Services (AWS) is rolling out a new generative artificial intelligence (AI) assistant called Amazon Q that is built for businesses to help boost their efficiency. AWS announced Amazon Q at its recent re:Invent conference and has begun the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/aws-rolls-amazon-q-ai-140038731.html",
+      "originalUrl": "https://www.aol.com/finance/aws-rolls-amazon-q-ai-140038731.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/bN7g0esGxR1PXq9E9aXmwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/58836082e0516b9f3d79e4b008fefb2d",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition.md",
+      "title": "Scientists Combine Lab-Grown Brain Tissues With Computer, Test Speech Recognition",
+      "excerpt": "This research paves the way for potential advancements in bio-computing, hinting at the prospect of more efficient systems compared to traditional computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577",
+      "originalUrl": "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ndtvimg.com/i/2016-01/brain-generic_650x400_51453283827.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1",
+      "publishedDateTime": "2023-12-14T06:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-gpai-meet-adopts-new-delhi-ai-declaration.md",
       "title": "GPAI meet adopts New Delhi AI declaration",
       "excerpt": "Further, the declaration also saw participating nations agree upon using the GPAI platform to create a global framework on AI trust and safety, and make AI solutions and benefits available for all. India also pitched to host a GPAI Global Governance Summit to finalize the proposed framework, in six months.",
@@ -855,283 +1114,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-tesla-unveils-its-latest-humanoid-robot-optimus-gen-2-in-demo-video.md",
-      "title": "Tesla unveils its latest humanoid robot, Optimus Gen 2, in demo video",
-      "excerpt": "On Tuesday, Tesla released a demo video showing the latest version of its prototype humanoid robot, Optimus Gen 2. Over one year after Tesla's first public Optimus robot demonstration, which showcased shaky robots that waved and slumped over, things have apparently progressed quite a bit, assuming that the video accurately reflects the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/12/teslas-latest-humanoid-robot-optimus-gen-2-can-handle-eggs-without-cracking-them/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/12/teslas-latest-humanoid-robot-optimus-gen-2-can-handle-eggs-without-cracking-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/tesla_optimus_gen2_hero2-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T16:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe.md",
-      "title": "Create summaries of recordings using generative AI with Amazon Bedrock and Amazon Transcribe",
-      "excerpt": "Meeting notes are a crucial part of collaboration, yet they often fall through the cracks. Between leading discussions, listening closely, and typing notes, it’s easy for key information to slip away unrecorded. Even when notes are captured, they can be disorganized or illegible, rendering them useless.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/13/create-summaries-of-recordings.jpg",
-          "width": 1001,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T16:41:20Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-ray-ban-meta-smart-glasses-the-ai-stuff-meta-promised-is-finally-here-apparently.md",
-      "title": "Ray-Ban Meta Smart Glasses: The AI stuff Meta promised is finally here, apparently",
-      "excerpt": "Up to this point, Meta's smart glasses venture has felt mostly like a dud because the glasses were primarily used for taking social media photos and videos. The newer ones did come packaged with a Meta AI voice assistance, but prior to this update, it was mostly just a Siri clone.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/meta-ray-ban-glasses-ai-features",
-      "originalUrl": "https://mashable.com/article/meta-ray-ban-glasses-ai-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mashable.com/images/group-black-logo-purple.png",
-          "width": 2420,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T16:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs.md",
-      "title": "Elon Musk Shares Video Of Tesla's New Humanoid Robot That Can Dance And Boil Eggs",
-      "excerpt": "A video shared by Elon Musk shows significant improvements made to the robot since its prototype was first unveiled at the Tesla AI Day earlier this year ... The company said that it plans to soon start using the robot in its manufacturing operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028",
-      "originalUrl": "https://www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-12/28ue0i3g_tesla-optimus-robot_625x300_13_December_23.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028/amp/1",
-      "publishedDateTime": "2023-12-13T15:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-how-to-build-a-successful-procurement-strategy.md",
-      "title": "How to build a successful procurement strategy",
-      "excerpt": "Here are ten steps for building a procurement strategy to achieve operational efficiency, faster procurement cycles and greater cost savings.\nThe post How to build a successful procurement strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/procurement-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/procurement-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T15:17:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-the-three-main-types-of-cryptography.md",
-      "title": "The three main types of cryptography",
-      "excerpt": "A look at three main categories of encryption—symmetric cryptography algorithms, asymmetric cryptography algorithms, and hash functions.\nThe post The three main types of cryptography appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/cryptography-types/",
-      "originalUrl": "https://www.ibm.com/blog/cryptography-types/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T15:14:26Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Meet the Chip That Uses Light, Not Electricity, to Power AI"
+    excerpt: "The new chip operates on an entirely different principle, performing calculations at the unparalleled speed of light."
+    publishedDateTime: 2024-02-21T02:55:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/compare-fibre-PAOv9-7VBMI-unsplash-scaled.jpg"
+        width: 2560
+        height: 1793
+        isCached: true
+  - title: "Google’s Chess Experiments Reveal How to Boost the Power of AI"
+    excerpt: "By rewarding computers that combined different approaches to solve chess puzzles, Google created an enhanced AI that could defeat its existing champion, AlphaZero."
+    publishedDateTime: 2024-02-18T13:00:00Z
+    webUrl: "https://www.wired.com/story/google-artificial-intelligence-chess/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/65cf8b0dbdfe2a615c153428/191:100/w_1280,c_limit/Quanta-CreativeChess-byNashWeerasekera-Lede-scaled.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "New computer chip enables AI computing at the speed of light"
     excerpt: "Engineers have introduced a novel computer chip that could redefine the landscape of artificial intelligence (AI) development."
     publishedDateTime: 2024-02-16T21:17:00Z
@@ -39,20 +67,15 @@ related:
         width: 2500
         height: 1756
         isCached: true
-  - title: "US researchers develop 'unhackable' computer chip that works on light"
-    excerpt: "Researchers at the University of Pennsylvania have developed a new computer chip that uses light instead of electricity. This could improve the training of artificial intelligence (AI) models by improving the speed of data transfer."
-    publishedDateTime: 2024-02-16T10:01:00Z
-    webUrl: "https://interestingengineering.com/innovation/unhackable-computer-chip-works-on-light"
+  - title: "The Future Of AI Might Not Be Chat-Based"
+    excerpt: "Businesses will need to soon start looking beyond the appeal of conversational interfaces and understand how task-oriented models can be integrated into their operations."
+    publishedDateTime: 2024-02-16T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/16/the-future-of-ai-might-not-be-chat-based/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/OMlBQFqjPN0Q0G1EdsoOtoOjLydOMngbsllhZnR1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "e7DVELJxdVadIMGOZp1/imU/CzzoyfDFhJbSjagPXrHbaV79OaVVesrIW2mA5NxhcrcCyCkiwgLqv9/8qXVisP192uSWNHX5lhh2OuCMN/m5WUInsrsh2uQb2DvKbK/hG9SXNGcT3UN/WM9hSMLOuetubTS/8oHhtzldfNZqbYsiXsuOGlzOVvgmzSnw4JW6T+pgrzAv9BQ0XAS4JVC5B8k4wDPTBKm3Lw3eu9guuDjsV7MuydviEZBb8suYkVocayqnJ2ktzeRrn1sx85nEF+rTv2lvpsIBAlUWqrWH43NqOYy5Nv6PKvkW2dkCmMNvX5o6m6r96so2pdO6uPeWQkYok0GwGUk97Hkx+Do0eIHXmtFRadCn05VaNySKysGd7Ex9VWtSlwpBh6zCnWPh1Ih4nRsMOBUutBwhGh5Nyyw7TlGcZK5JZwTE8WkmtSTExDy8pBq19VDjXraG34sBrcrkw2tgPLye5gwaNC3/oxae/mxbjWyx+B68vjVFoG3x9cpmIO0Vn3OxMcz/Snnw1Q==;hLWYduIaBNV8/W7vmLp3Cw=="
 ---

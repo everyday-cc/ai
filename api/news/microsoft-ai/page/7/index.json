@@ -2,6 +2,180 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-09-chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare.md",
+      "title": "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?",
+      "excerpt": "The new Gemini-powered Bard keeps the same spirit (\"He envisioned a sport that would unite people...\") with more concision and focus. Interestingly, GPT-3.5 is the only model we tested to imagine Lincoln as a youth instead of a restless president sitting in the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid",
+      "originalUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T19:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-former-microsoft-product-leader-to-help-launch-verses-ai-developer-platform.md",
+      "title": "Former Microsoft Product Leader to Help Launch VERSES AI Developer Platform",
+      "excerpt": "VERSES AI Inc. (CBOE:VERS) (OTCQX:VRSSF) (\"VERSES'' or the \"Company”), a cognitive computing company specializing in next-generation of intelligent software systems, welcomes",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/former-microsoft-product-leader-to-help-launch-verses-ai-developer-platform/article_1b3ef768-5434-52ee-9d8b-67817d1c3bb3.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/former-microsoft-product-leader-to-help-launch-verses-ai-developer-platform/article_1b3ef768-5434-52ee-9d8b-67817d1c3bb3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T13:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-round-2-we-test-the-new-gemini-powered-bard-against-chatgpt.md",
+      "title": "Round 2: We test the new Gemini-powered Bard against ChatGPT",
+      "excerpt": "While Google Bard has been able to generate code since June and Google has touted Gemini's ability to help coders with its AlphaCode 2 system, that system utterly failed in this test. Repeated ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=mobile",
+      "originalUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=mobile",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-ms-driven-transparity-ai-services-promise-intelligence-over-artifice.md",
+      "title": "MS-driven Transparity AI Services promise Intelligence over Artifice",
+      "excerpt": "Using Transparity to explore AI use cases that will improve team efficiency and employee experience, BMT is now \"actively engaged in exploring bespoke AI solutions built in the Microsoft Cloud alongside Microsoft's co-pilot offerings\", says Simon Willmore, Head of Digital Strategy at BMT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ms-driven-transparity-ai-services-promise-intelligence-over-/2023/12/08/9930657.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ms-driven-transparity-ai-services-promise-intelligence-over-/2023/12/08/9930657.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T09:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-microsoft-exec-hints-at-new-llms-beyond-openais.md",
       "title": "Microsoft exec hints at new LLMs beyond OpenAI’s",
       "excerpt": "In a wide ranging interview about enterprise readiness for generative AI, Eric Boyd asserts that Microsoft plans to stay competitive on the choice front. He said the company's generative AI applications and the LLMs that power them,",
@@ -1201,189 +1375,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-deepmind-tortured-chatgpt-to-reveal-sources.md",
-      "title": "DeepMind tortured ChatGPT to reveal sources",
-      "excerpt": "We ask the questions A team of boffins from Google's DeepMind used a torture method on ChatGPT until it revealed the snippets of the data it was trained on. The boffins used a new type of attack prompt which asked a production model of the chatbot to repeat specific words forever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/ai/58034-deepmind-tortured-chatgpt-to-reveal-sources",
-      "originalUrl": "https://www.fudzilla.com/news/ai/58034-deepmind-tortured-chatgpt-to-reveal-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T10:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-chatgpt-turns-1-ai-chatbots-success-says-as-much-about-humans-as-tech.md",
-      "title": "ChatGPT turns 1: AI chatbot's success says as much about humans as tech",
-      "excerpt": "Dec. 1 (UPI) --ChatGPT was launched on Nov. 30, 2022, ushering in what many have called artificial intelligence's breakout year. Within days of its release, ChatGPT went viral. Screenshots of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Voices/2023/12/01/ChatGPT-turns-1-technology-human-behavior/3581701436876/",
-      "originalUrl": "https://www.upi.com/Voices/2023/12/01/ChatGPT-turns-1-technology-human-behavior/3581701436876/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/3581701436876/2023/1/35e16663e22a99e3478ac8e4028d8a49/v1.5/ChatGPT-turns-1-AI-chatbots-success-says-as-much-about-humans-as-tech.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Voices/2023/12/01/ChatGPT-turns-1-technology-human-behavior/3581701436876/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Voices/2023/12/01/ChatGPT-turns-1-technology-human-behavior/3581701436876/",
-      "publishedDateTime": "2023-12-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-meta-ai-chief-yann-lecun-on-his-open-source-mission-and-the-surprise-of-chatgpt.md",
-      "title": "Meta AI Chief Yann LeCun On His Open Source Mission And The ‘Surprise’ Of ChatGPT",
-      "excerpt": "Launched as Facebook AI Research in 2013 (the F was later changed to “Fundamental” after the company rebranded as Meta two years ago), the unit set out to pioneer scientific breakthroughs in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardnieva/2023/11/30/meta-ai-yann-lecun-fair-10th-anniversary/",
-      "originalUrl": "https://www.forbes.com/sites/richardnieva/2023/11/30/meta-ai-yann-lecun-fair-10th-anniversary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6568bd595b086434ff875bef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T18:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-teleperformance-helps-clients-create-and-modernize-applications-with-microsoft-azure-solutions-partner-status-for-data-ai.md",
-      "title": "Teleperformance helps clients create and modernize applications with Microsoft Azure Solutions Partner status for Data & AI",
-      "excerpt": "NEW YORK, Nov. 30, 2023 /PRNewswire/ -- Teleperformance, a global leader in digital business services, today announced it has received Microsoft Azure Solutions Partner status for Data & AI.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/teleperformance-helps-clients-create-and-modernize-applications-with-microsoft-azure-solutions-partner-status-for-data-ai-1032863788",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/teleperformance-helps-clients-create-and-modernize-applications-with-microsoft-azure-solutions-partner-status-for-data-ai-1032863788",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2286428/MS_Solutions_Partner_Data_and_AI_logo.jpg",
-          "width": 400,
-          "height": 245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T18:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

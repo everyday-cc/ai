@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "India's Artificial Intelligence market to touch USD 17-billion by 2027: Nasscom-BCG report"
-    excerpt: "Globally, investments in AI have seen 24 per cent CAGR since 2019, with 2023 seeing close to USD 83-billion investment"
-    publishedDateTime: 2024-02-20T16:04:00Z
-    webUrl: "https://www.telegraphindia.com/business/indias-artificial-intelligence-market-to-touch-usd-17-billion-by-2027-nasscom-bcg-report/cid/2001808"
-    ampWebUrl: "https://www.telegraphindia.com/amp/business/indias-artificial-intelligence-market-to-touch-usd-17-billion-by-2027-nasscom-bcg-report/cid/2001808"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/indias-artificial-intelligence-market-to-touch-usd-17-billion-by-2027-nasscom-bcg-report/cid/2001808"
+  - title: "Computer Vision Market Size Reach USD 82.1 Billion By 2032, Influencing Factors Leading The Industry Around The Globe"
+    excerpt: "The application of computer vision systems in self-driving cars is expected to boost the growth of the computer vision market. PORTLAND, PORTLAND, OR, UNITED STATE, February 19, 2024 /EINPresswire / -- According to the report published by Allied Market ..."
+    publishedDateTime: 2024-02-19T12:45:00Z
+    webUrl: "https://menafn.com/1107871148/Computer-Vision-Market-Size-Reach-USD-821-Billion-By-2032-Influencing-Factors-Leading-The-Industry-Around-The-Globe"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 49
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
     images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Aug/1691457943_newartificialinteligence.jpg"
-        width: 900
-        height: 600
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?605457"
+        width: 348
+        height: 249
         isCached: true
 
 secured: "wNZh1PFX3DkKrok7Cvul25JoISuM3f4GYTbK4w5EDztpTEBGkp81AZYGOB/d7y5UKSF/Si6vxxM+xUKcclDfHpgbnqoxm93aThPiEztwhz7jGm7NDdsRGXPdA2BRYe7SCEAligsxGysDQM8rxkKz6l9H+VemrBaKTtNL6Ub6nJ1kFTB7A89Fwni4SzI1GYuaD+MUZYvBbsoqvOEuEMYIgfogKzhKfMQ/OQZNKUscFwR6KRwjBktFqTprjsGqmrth07GKWs7/yipVb88OdwxIUbz45BcWwNyhWsUBDqkmFjzaGXB2Aiuhenm/FU1Wek7mvToaUEiHBMclbAkeuBBgUDjTbfpPIC806YZCZXO1sgU=;qVeJaIIzPJ3hrwCeTU00Kg=="

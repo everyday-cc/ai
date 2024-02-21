@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/business-68348353"
 webUrl: "https://www.bbc.com/news/business-68348353"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "China must embrace new era of AI revolution"
+    excerpt: "The artificial intelligence leader OpenAI has unveiled a new AI model named Sora, which it asserts can generate \"realistic\" and \"imaginative\" 60-second videos based on brief text prompts."
+    publishedDateTime: 2024-02-20T05:37:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202402/20/WS65d42bf2a31082fc043b81cf.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 41
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202402/20/65d446c8a31082fc2b68d6a0.jpeg"
+        width: 1078
+        height: 718
+        isCached: true
   - title: "Generative AI revolutionising banking sector: Fintech Surge 2023"
     excerpt: "Day one of Fintech Surge 2023, the global gathering for the entire fintech ecosystem, commenced today at the iconic Dubai Harbour. The event is uniting regional and global players from across the fintech industry – from banks and financial institutions to regulators,"
     publishedDateTime: 2024-02-20T21:20:00Z

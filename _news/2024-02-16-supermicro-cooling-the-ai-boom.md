@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2024/Super-Micro-Computer_0.jpeg?width=1200&height=800&fit=crop"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Super Micro: Riding The AI Revolution"
+    excerpt: "Super Micro Computer is experiencing significant growth in sales, with a surge of over 100% reported recently. The company is forecasting EPS growth of ~250% in the current quarter, driven by increased demand for infrastructure solutions, warranting the ..."
+    publishedDateTime: 2024-02-19T00:02:00Z
+    webUrl: "https://seekingalpha.com/article/4671278-super-micro-riding-ai-revolution"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2024/2/17/234751-17082323014345374.png"
+        width: 640
+        height: 358
         isCached: true
 
 secured: "iLSReghei1yTxtitE0mCJFUI38XZ8zCGWD35D7gzWMIinkpQwu8CWa1xlJoEMRvq/bVFAbfGuvNHlbKeAEBvZD1JecnOtJsg7BWlR4tXDZYsnghBsTTc/ShV9utTiYAHqoAb1Q2G5/4MnJnwrRfS8HHOOFgwCvnqGuxtxg4Hv2iM/1xXxgq+x1PxzrE77YARntacm81coqhM/sZmEyFdbzHuMLr//hNovTMSL7WOrr3fU+SPaU4/6etmsPNygqVOwmicZlS6TANYn2Yz8PfJiWdg0yNAWrYu13KmUUwWZkZXQ4sxca0NsjNOC75F4VrSpmAwl8IfN5JXY2gcRwQTc4kXPqbbu0XUNY4yctdBTTppI4Cl2Oc2tL+7KwTL0p16GHEkGCNv0HDn8z0EHz2IbZ4aGCEZF/+0fHB33BwaCOd5928Hlrf0lb2yG4AyytJziTkCl7xGtw1gm1JT3JZw5xiGUR7VMwmCQzLCYKPxYv4j36uu5mYhHRmPWHaN1pZg6SH4XOHaqYlXgQNQk2SFjw==;6POdnXEKNfePiyUXxFbQmw=="

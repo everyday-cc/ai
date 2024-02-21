@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/openais-sam-altman-has-plans-f
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -102,21 +102,7 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Google's new AI model is 700x more powerful than OpenAI's flagship"
-    excerpt: "Google claims that Gemini 1.5 can handle up to 1 million tokens of input, equivalent to about 4 million characters or 800,000 words."
-    publishedDateTime: 2024-02-16T03:24:00Z
-    webUrl: "https://interestingengineering.com/innovation/googles-new-ai-model-is-700x-more-powerful-than-openais-flagship"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/Zjg0jX8diJJZkpICBBYzySEP3oHJTc4fQqUHGyg7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
-secured: "lO+eBdkWJvT6a1JNzDDXfKH1FKFMiKerKvDnZHR6uTu/45hcHgUVRIBAdXdzYfWpAbY8syk1uyHRPKkXVNpGV25qANPB4QreRK/dP3OsfovkRu6q8wvUyT0IDQnriJTtzwtHhpZRc0zX47CKUGitJXxO2puc0/X2TQbws2J5S2gxxKlAn2gTVsI9nx4Zi9Fcl7QMMhyrKgswtYs4JE0LnmEPpKZyCaL/ZFipsvtlaw4JWJxykZW8X4GlpqZ339irLauGkI5fN7Szm8ezCS6+9TQJawTa5KLbUgQV+QWNcpFIH3rDkAYU3wjabZ2lJC7uMLDkas4+4Pt5rXCK81CvkAHrVCzCi3Jg9ysgFej6LNI=;ga6mVd0bwj1IcfcBo6xr/g=="
+secured: "YbTbCNYITPHGXG2Tha5kuKkHPSUV3RhUTt1IwsF0iCOZA6lbOT3jfi8L3bQcfzSkQWwPR0ds3V3K/ZsAL2FMLf9qKBBoFFAKEn/45/JaMHQhq71ad7xLc0Uf9l/SKsz+28BTGTnj0zIzC0NSyVptGyLELukzoavIMY8zX+EkgjJVbTrUas0k0ZaJTvDE93B5SU8VA4ks+H8ktHbyv2sIt79+8Q3t6QqjcsgLlQ/xrm8cYIH07wIzAZWlmD9QaqlMIil8fhOyxDXGpui1lpmlSTkX+Qs/REbZ2qUeoK/b+Q6Rd4yJqodokOL2qmL1IvjceqvgtbghVz40E5i/Y5JGuMLw64k5FCOervAp1g7FbGU=;2phPtqtVuZjBzFM6x6Pc5Q=="
 ---
 

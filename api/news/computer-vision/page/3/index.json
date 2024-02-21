@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-13-nec-achieves-tx-ramp-level-2-certification-for-suite-of-biometric-and-face-recognition-solutions.md",
+      "title": "NEC Achieves TX-RAMP Level 2 Certification for Suite of Biometric and Face Recognition Solutions",
+      "excerpt": "NEC Corporation of America (NEC), a leading provider and integrator of advanced IT, biometrics, communications, and networking solutions today announc",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240112069729/en/NEC-Achieves-TX-RAMP-Level-2-Certification-for-Suite-of-Biometric-and-Face-Recognition-Solutions/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240112069729/en/NEC-Achieves-TX-RAMP-Level-2-Certification-for-Suite-of-Biometric-and-Face-Recognition-Solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T19:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-sams-club-deploys-ai-powered-computer-vision-to-speed-payment-confirmation.md",
       "title": "Sam’s Club Deploys AI-Powered Computer Vision to Speed Payment Confirmation",
       "excerpt": "Sam’s Club is piloting tech designed to address a big customer pain point: waiting for an associate to check their receipt against the items in their cart.",
@@ -1307,50 +1341,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-bank-of-america-stadium-introduces-facial-recognition-for-express-entry.md",
-      "title": "Bank of America Stadium introduces facial recognition for express entry",
-      "excerpt": "New technology at Bank of America Stadium will allow certain fans to enter the stadium without having to scan their tickets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
-      "originalUrl": "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wfmynews2.com/assets/WCNC/images/f916cab2-7809-4606-a90a-02908ceed316/f916cab2-7809-4606-a90a-02908ceed316_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
-      "cdnAmpWebUrl": "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
-      "publishedDateTime": "2023-12-15T10:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMY News2",
-        "domain": "wfmynews2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

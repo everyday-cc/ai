@@ -141,6 +141,15 @@ related:
       name: Undark
       domain: undark.org
     quality: 19
+  - title: "Planning a Career in the Age of AI"
+    excerpt: "After decades of industrial robots, factory layoffs, and outsourcing, automation has finally arrived in the cubicle. A recent Wall Street Journal article spotlighted how the new “robots for the mind”—the complex algorithms and language models of generative AI—are creating rising uncertainty in the professional class."
+    publishedDateTime: 2024-02-20T19:16:00Z
+    webUrl: "https://www.aei.org/articles/planning-a-career-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "EUjSaZfm1/01vDmFkrQhBF+mnFkMUdOn1DUxSc9HFyszAtbq/xae/OJw8055TksfGAO5nWp5KC6Ktpc7ePPGNjeYd1+13l+/XcGeJRR6osRj64eOxVkom5qU3ThdEYuHnilwIAlJXnXyYUAhKYG/V+OEpjXlKS7EFumIQpHUupaRIkKR34n39SbmVS/Zio1h6LYZbRjciY3zL4NDH1mDgz6pOARTvAcb9mPzdaZP9vwTgSvq/VPerRvh7GYCifqRwQztSq6VSf7m33wfNMd7ol5xWGhSscRT1vat4G4g0lVTwcasJ7No9myIje9skVt1pJIrCrihYEfCmt/FSj0e5kT4lVW/vG10oNmxtARls9fVea3qq62kgqsIQAf2DCab3PiVweb2SCOj6u0U4s2jFrjS6M1gyOtuDzlJODcBchOxK1eJD9npzFv87dNaTUSeIz3Yjmn3rNsIKNYzQGjvxYIg2Oi6Oird7dldjXvMQplleI0W1Kd6dCe3cUlnDqZoLZFd6QmmKAJ3eu2JK6XHQw==;1Kw5zo9B7DR9ajKesvzcGw=="
 ---

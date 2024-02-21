@@ -2,6 +2,257 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2023-12-04-landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models.md",
+      "title": "Landing AI Announces New Capability to Build Domain-Specific Large Vision Models",
+      "excerpt": "LVMs enable enterprises to solve computer vision problems more quickly; Landing AI to help enterprises build and run LVMs at the edge, on-prem, and in the cloud PALO ALTO, Calif. , Dec. 4, 2023 /PRNewswire/ -- Landing AI, the leading computer vision cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2291237/LVMs.jpg",
+          "width": 400,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T08:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-seismic-therapeutic-closes-121-million-series-b-financing-to-advance-immunology-pipeline-optimized-by-its-machine-learning-platform.md",
+      "title": "Seismic Therapeutic Closes $121 Million Series B Financing to Advance Immunology Pipeline Optimized by its Machine Learning Platform",
+      "excerpt": "CAMBRIDGE, Mass.--(BUSINESS WIRE)--Seismic Therapeutic, Inc., the machine learning immunology company, today announced that it has closed a $121 million Series B financing. The Series B was led by new investor Bessemer Venture Partners with participation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231204060594/en/Seismic-Therapeutic-Closes-121-Million-Series-B-Financing-to-Advance-Immunology-Pipeline-Optimized-by-its-Machine-Learning-Platform/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231204060594/en/Seismic-Therapeutic-Closes-121-Million-Series-B-Financing-to-Advance-Immunology-Pipeline-Optimized-by-its-Machine-Learning-Platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare.md",
+      "title": "Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare.",
+      "excerpt": "In 2020, the U.S. Department of Defense officially disclosed a set of ethical principles to guide the use of Artificial Intelligence (AI) technologies on future battlefields. Despite stark differences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare/",
+      "originalUrl": "https://www.physiciansweekly.com/adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2023/08/allergy-allergist-skin-text-allergen-patient-doctor-office.jpg",
+          "width": 2384,
+          "height": 1257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-ai-machine-learning-change-how-first-responders-handle-emergencies.md",
+      "title": "AI, machine learning change how first responders handle emergencies",
+      "excerpt": "Researchers within the University of Pittsburgh Medical Center health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG) readings to better identify",
+      "sourceUrl": null,
+      "webUrl": "https://www.enidnews.com/news/ai-machine-learning-change-how-first-responders-handle-emergencies/article_552e3202-90c2-11ee-a637-0b89461d78dd.html",
+      "originalUrl": "https://www.enidnews.com/news/ai-machine-learning-change-how-first-responders-handle-emergencies/article_552e3202-90c2-11ee-a637-0b89461d78dd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/a/6c/a6cf7a5c-90c3-11ee-b3ee-af83f4856540/656aa60569b8e.image.jpg?crop=1331%2C699%2C65%2C420&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Enid News & Eagle",
+        "domain": "enidnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week.md",
+      "title": "Xiao-I Showcases Hua Zang Universal Large Language Model and Its Cutting-Edge Applications at Abu Dhabi Finance Week",
+      "excerpt": "Mr. Hui Yuan, Chairman of the Board and CEO of Xiao-I Corporation (NASDAQ: AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, recently took the stage at the Abu Dhabi Finance Week (\"ADFW\") alongside distinguished speakers to share a practical application of Hua Zang Universal Large Language Model (\"LLM\").",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week-1032868782",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week-1032868782",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T02:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-in-digital-era-experts-push-for-use-of-handwriting-for-mental-health-therapy.md",
+      "title": "In digital era, experts push for use of handwriting for mental health therapy",
+      "excerpt": "Kolkata: In the age of artificial intelligence and electronic gadgets, psychologists are adopting handwriting as a therapeutic tool for the treatment .",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/kolkata/in-digital-era-experts-push-for-use-of-handwriting-for-mental-health-therapy/articleshow/105712611.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/kolkata/in-digital-era-experts-push-for-use-of-handwriting-for-mental-health-therapy/articleshow/105712611.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T02:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-can-broadcoms-latest-silicon-ai-chip-revolutionize-network-efficiency.md",
       "title": "Can Broadcom’s latest silicon AI chip revolutionize network efficiency?",
       "excerpt": "Broadcom's Trident 5-X12 chip revolutionizes AI cluster networking with advanced AI and neural network technology.",
@@ -795,237 +1046,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-turner-says-us-is-exercising-caution-in-sharing-intelligence-with-israel.md",
-      "title": "Turner says US is exercising caution in sharing intelligence with Israel",
-      "excerpt": "House Intelligence Committee Chair Mike Turner (R-Ohio) said Sunday the United States is helping Israel’s intelligence community track down Hamas leaders but is being selective about what ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/international/4339908-us-israel-caution-sharing-intelligence/",
-      "originalUrl": "https://thehill.com/policy/international/4339908-us-israel-caution-sharing-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/international/4339908-us-israel-caution-sharing-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/4339908-us-israel-caution-sharing-intelligence/amp/",
-      "publishedDateTime": "2023-12-03T11:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-how-artificial-intelligence-is-redefining-health-care-in-india.md",
-      "title": "How artificial intelligence is redefining health care in India",
-      "excerpt": "But now, it has come down to just four of them as everything is done by artificial intelligence (AI).” Now all they have to do is simply tell the machine orally that they need to do an MRI, say, of the knee for trauma.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.html",
-      "originalUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/magazine/theweek/cover/images/2023/12/2/48-eye.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.amp.html",
-      "publishedDateTime": "2023-12-03T01:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-ego-fear-and-money-how-the-ai-fuse-was-lit.md",
-      "title": "Ego, Fear and Money: How the A.I. Fuse Was Lit",
-      "excerpt": "Still, some scientists and thinkers had become fixated on the downsides of A.I. Many, like the three young men from Britain, had a connection to Eliezer Yudkowsky, an internet philosopher and self-taught ... started working for Baidu, the giant Chinese ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html",
-      "originalUrl": "https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/11/21/business/00tech-AI/00tech-AI-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-03T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-3-artificial-intelligence-ai-stocks-to-buy-with-1000-and-hold-for-10-years.md",
-      "title": "3 Artificial Intelligence (AI) Stocks to Buy With $1,000 and Hold for 10 Years",
-      "excerpt": "Investors will likely remember 2023 as the year artificial intelligence (AI ... as Verily Life Sciences and autonomous driving company Waymo. Furthermore, it holds about $120 billion in cash ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-ai-stocks-to-buy-with-$1000-and-hold-for-10-years",
-      "originalUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-ai-stocks-to-buy-with-$1000-and-hold-for-10-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-02T21:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your-portfolio.md",
-      "title": "1 Artificial Intelligence (AI) Stock to Buy Hand Over Fist and 1 to Make Disappear From Your Portfolio",
-      "excerpt": "Both are using artificial intelligence (AI ... that competes with the Amazon's AWS and Microsoft's Azure. But the vast majority of Alphabet's revenue and profits are derived from advertising ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your",
-      "originalUrl": "https://www.nasdaq.com/articles/1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-02T19:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-amazons-290-very-best-cyber-monday-2023-deals-you-cannot-miss.md",
-      "title": "Amazon’s 290+ Very Best Cyber Monday 2023 Deals You Cannot Miss",
-      "excerpt": "Laneige lip masks, Apple AirTags, and more holiday gifts are up to 80 percent off We independently evaluate all recommended products and services. If you click on links we provide, we may receive ...",
-      "sourceUrl": null,
-      "webUrl": "https://people.com/best-amazon-cyber-monday-deals-2023-live-8391275",
-      "originalUrl": "https://people.com/best-amazon-cyber-monday-deals-2023-live-8391275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-02T17:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People",
-        "domain": "people.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -58,6 +58,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Microsoft to invest $2.1bn in cloud and AI infrastructure in Spain"
+    excerpt: "Microsoft has committed to investing $2.1 billion in cloud computing and artificial intelligence (AI) infrastructure in Spain over the next two years. The planned investment was shared by the vice chair and president of Microsoft Brad Smith via a post on X following a meeting with the Prime Minister of Spain, Pedro Sanchez."
+    publishedDateTime: 2024-02-20T14:56:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-21bn-in-cloud-and-ai-infrastructure-in-spain/?ref=runtime.news"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GGt2TbkWIAAO9R7.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft will invest $2.1bn in Spain to expand cloud and AI"
     excerpt: "The focus on AI helped Microsoft briefly hit the $3trn valuation and challenge Apple for the title of the most valuable company in the world. Revenue from the company’s Intelligent Cloud division – which includes Azure – grew by 20pc to $25.9bn."
     publishedDateTime: 2024-02-20T09:35:00Z
@@ -72,15 +86,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Microsoft to invest $2.1bn in cloud and AI infrastructure in Spain"
-    excerpt: "Microsoft has committed to investing $2.1 billion in cloud computing and artificial intelligence (AI) infrastructure in Spain over the next two years. The planned investment was shared by the vice chair and president of Microsoft Brad Smith via a post on X following a meeting with the Prime Minister of Spain, Pedro Sanchez."
-    publishedDateTime: 2024-02-20T14:56:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-21bn-in-cloud-and-ai-infrastructure-in-spain/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 34
 
 secured: "2AYbN91bYpbeS3ml5JZqGkGsQnv2xazhyw1qENhpPKDkOM+u/x6HIztEPtRX9YdjlaUrhGhGJMWGqZojK3D3Bo+EDoNl18FuYg++jzqx5OAg3Vj+4I90FIb/bIYR9QxYdooNeYzAZiRCmefv9TuIVpjqR8egbrFukXjIEjO47Yq5MIBpjTfX4flTJZZr3zFNaj/IJcNQrlivN2xkrk8tb4XokDFpSHlJqzFFpqV3QnpW9HqwzHazbG9+t0T6L3fUmZSQ16pl+fHTHax286x5e/sws6nFvhC9m3vHIXli8BQcGw8XEl7wgioRrDoTXwou8V+a+3DWWgr9M/BxBYvWhe3Vaau17ijbjoYMrSQ8mgc=;2HEX2dX/hAosHX8hb7GgtQ=="
 ---

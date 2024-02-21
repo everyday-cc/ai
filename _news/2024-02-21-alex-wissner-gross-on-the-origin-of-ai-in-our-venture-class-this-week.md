@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/02/20/alex-wissner-gros
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/20/alex-wissner-gross-on-the-origin-of-ai-in-our-venture-class-this-week/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 91
 published: true
 
 provider:

@@ -27,20 +27,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 51
-  - title: "3 Ways Top Marketers Are Putting AI Into Action"
-    excerpt: "ChatGPT may have sparked the revolution, but a year later, marketers are discovering endless possibilities with AI. Here's how it can boost your efficiency, accuracy--and creativity."
-    publishedDateTime: 2024-02-19T08:36:00Z
-    webUrl: "https://www.inc.com/amanda-pressner-kreuser/3-ways-top-marketers-are-putting-ai-into-action.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1953449102_537414_uofog6.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "iw9GZjNdh0YnpC+yDT0Ci3iFrAW1JMBKMO6ArQ7EPq9vALFXT2o51FOibCNCgGMugPGRNGnkcyj5D0Wn6o8iARE1PJyf7stE67COPKNPEMiRHCCLBgPUEeCz2Z3KhnX968rMbJLwE/c6JLGQId2iwwnqKb9lBCSM2mlIklrPvxfxojYXdr2l3DiFct3dd6j9qFqMkgzTTbsTiaBUmtdPsRDw+IUQMUvq5corSjCTUr6HdjDU6NE1Sza8SAuTMlzbYYuH6/tUCmfn9EE557GalX4yprblua0upQnboosP0iaIZicXZmiO269oOBWqG/lNrHRppPHmA2B+RopRlRegRbP+exbL9s70fBYabCNER84FNyakp6mgJ3pKUBvQCFqvt4/e9azgkMIH7cEEE3K50e/UJp/lVr0y3nWC0CZv7KW3pXbXlTSKjmwusI8YLv+qRaXLD+D/z1bZ27VMjTX6CtuC7/5pdE7efQHCVv+CkU1rQ4PFPgNG603EIDMzBIZnlNXyWVqPnOt3L4Z5UPZJMA==;0StrURsg+zdE6q+UoZOOlw=="
 ---

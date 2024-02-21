@@ -56,7 +56,7 @@ related:
     provider:
       name: The Financial Express
       domain: financialexpress.com
-    quality: 44
+    quality: 48
     images:
       - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design441.jpg"
         width: 1200

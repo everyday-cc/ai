@@ -2,6 +2,265 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2024-01-18-farm-ng-raises-series-a-funding-to-scale-amiga-robot-and-ai-for-small-to-midsize-farms.md",
+      "title": "farm-ng raises Series A funding to scale Amiga robot and AI for small to midsize farms",
+      "excerpt": "Since the first industrial revolution two centuries ago, workers have moved into cities, even as population growth has challenged farmers to be increasingly productive. Today, farm-ng said it has completed its Series A funding round, raising more than $10 million to further develop the Amiga robot for agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/farm-ng-raises-10m-series-a-scale-amiga-robot-ai-small-midsize-farms/",
+      "originalUrl": "https://www.therobotreport.com/farm-ng-raises-10m-series-a-scale-amiga-robot-ai-small-midsize-farms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/farm_ng_amiga.jpeg",
+          "width": 770,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T14:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-meta-ceo-mark-zuckerberg-pledges-to-build-out-artificial-general-intelligence.md",
+      "title": "Meta CEO Mark Zuckerberg pledges to build out artificial general intelligence",
+      "excerpt": "The company also plans to grow and bring its two major AI research groups – called FAIR ... has soured considerably since the days that Facebook became Meta, and so it is no surprise that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wral.com/story/meta-ceo-mark-zuckerberg-pledges-to-build-out-artificial-general-intelligence/21243202/",
+      "originalUrl": "https://www.wral.com/story/meta-ceo-mark-zuckerberg-pledges-to-build-out-artificial-general-intelligence/21243202/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wralnews_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wral.com/amp/21243202/",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21243202/",
+      "publishedDateTime": "2024-01-18T13:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL",
+        "domain": "wral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-bmw-will-put-humanoid-robots-from-figure-in-us-manufacturing-facility.md",
+      "title": "BMW will put humanoid robots from Figure in U.S. manufacturing facility",
+      "excerpt": "Car makers have been experimenting with humanoid robots to perform repetitive and dangerous work in assembly lines for years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
+      "originalUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.aolcdn.com/images/dims3/GLOB/crop/2916x1640+222+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2024/01/18082637/Screenshot-2024-01-18-at-8.25.58-AM.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
+      "publishedDateTime": "2024-01-18T13:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-john-deere-puts-ag-tech-center-stage-at-ces-24.md",
+      "title": "John Deere Puts Ag Tech Center Stage at CES 24",
+      "excerpt": "John Deere has maintained a notable presence at CES since 2019. This year it dubbed its massive CES exhibit “Dirt to Shirt,” presenting a full technology-enabled cotton production cycle. The main highlight was a fully autonomous 8R tractor that attendees controlled themselves with an iPhone. All from 1,300 miles away, over exhibit hall Wi-Fi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.agweb.com/news/machinery/new-machinery/john-deere-puts-ag-tech-center-stage-ces-24",
+      "originalUrl": "https://www.agweb.com/news/machinery/new-machinery/john-deere-puts-ag-tech-center-stage-ces-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AgWeb",
+        "domain": "agweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-when-ai-meets-infrastructure-top-considerations-for-it-leaders.md",
+      "title": "When AI Meets Infrastructure: Top Considerations For IT Leaders",
+      "excerpt": "IT leaders to take a step back and evaluate all of the implications before jumping headfirst into an AI investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a82955de744c06334cfd41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/",
+      "publishedDateTime": "2024-01-18T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-academic-intelligence-the-evolution-of-education-through-ai.md",
+      "title": "Academic Intelligence: The Evolution of Education Through AI",
+      "excerpt": "The pandemic had devastating impacts on education all over the world, especially in poorer countries that already struggled with education systems. The pandemic also helped kickstart adoption of AI—which is now poised to bolster our education systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.diplomaticourier.com/posts/evolution-education-through-ai",
+      "originalUrl": "https://www.diplomaticourier.com/posts/evolution-education-through-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/65a8fbb1d47231c17416bf65_Evolution%20of%20Education%20Through%20AI.jpg",
+          "width": 2311,
+          "height": 1300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T12:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diplomatic Courier",
+        "domain": "diplomaticourier.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-deepminds-cofounder-mustafa-suleyman-warns-that-ai-is-a-fundamentally-labor-replacing-tool.md",
       "title": "DeepMind's cofounder Mustafa Suleyman warns that AI is a 'fundamentally labor-replacing' tool",
       "excerpt": "Mustafa Suleyman said AI will make us smarter and more productive, but in the long term, it could replace us.",
@@ -855,291 +1114,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-google-planning-to-add-ai-image-generator-directly-to-bard.md",
-      "title": "Google planning to add AI image generator directly to Bard",
-      "excerpt": "Following the Search Generative Experience (SGE) and Slides, Google Bard is set to get its own image generator. As shared by Dylan Roussel on X/Twitter, an unreleased Google Bard changelog — dated for January 18 — reveals how you can “Create images ...",
-      "sourceUrl": null,
-      "webUrl": "https://9to5google.com/2024/01/17/google-bard-image-generator/",
-      "originalUrl": "https://9to5google.com/2024/01/17/google-bard-image-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-bard-icon-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T22:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5google",
-        "domain": "9to5google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-amd-stock-reaches-almost-unprecedented-value-thanks-to-ai-chip-demand.md",
-      "title": "AMD stock reaches almost unprecedented value thanks to AI chip demand",
-      "excerpt": "Analysts from major financial institutions have increased their price targets for AMD stock, which reached a 52-week high of $158.74 on Tuesday. Reports from Barclays, KeyBanc",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101554-amd-stock-reaches-almost-unprecedented-value-thanks-ai.html",
-      "originalUrl": "https://www.techspot.com/news/101554-amd-stock-reaches-almost-unprecedented-value-thanks-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-17-image-33.jpg",
-          "width": 2500,
-          "height": 1282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T20:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium.md",
-      "title": "Fine-tune and deploy Llama 2 models cost-effectively in Amazon SageMaker JumpStart with AWS Inferentia and AWS Trainium",
-      "excerpt": "Today, we’re excited to announce the availability of Llama 2 inference and fine-tuning support on AWS Trainium and AWS Inferentia instances in Amazon SageMaker JumpStart. Using AWS Trainium and Inferentia based instances, through SageMaker, can help users lower fine-tuning costs by up to 50%, and lower",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/17/fine-tune-deploye-llama-2.jpg",
-          "width": 1022,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T19:46:02Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities.md",
-      "title": "Use mobility data to derive insights using Amazon SageMaker geospatial capabilities",
-      "excerpt": "Geospatial data is data about specific locations on the earth’s surface. It can represent a geographical area as a whole or it can represent an event associated with a geographical area. Analysis of geospatial data is sought after in a few industries. It involves understanding where the data exists from",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/17/ml-15318-image004-1138x630.png",
-          "width": 1138,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T19:38:49Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-galaxy-ai-3-samsung-galaxy-s24-features-for-monolingual-travelers.md",
-      "title": "Galaxy AI: 3 Samsung Galaxy S24 features for monolingual travelers",
-      "excerpt": "Galaxy AI frees you from needing a third-party app to communicate with others who don't speak your language. Translations and transcriptions happen right on the device, the new Galaxy S24 series to be precise, so you can enjoy a native experience without cluttering your home screen with various apps.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
-      "originalUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/04lR797zwN3HWWHcL9znOEh/hero-image.fill.size_1200x675.v1705518088.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T19:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-utas-opts-for-isesco-research-chair-in-ai-ethics.md",
-      "title": "UTAS opts for ISESCO research chair in AI ethics",
-      "excerpt": "JEDDAH: The University of Technology and Applied Sciences (UTAS) on Wednesday signed a cooperation agreement with the Islamic World",
-      "sourceUrl": null,
-      "webUrl": "https://www.omanobserver.om/article/1148403/oman/utas-opts-for-isesco-research-chair-in-ai-ethics",
-      "originalUrl": "https://www.omanobserver.om/article/1148403/oman/utas-opts-for-isesco-research-chair-in-ai-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.omanobserver.om/omanobserver/uploads/images/2024/01/17/2553251.jpg",
-          "width": 1000,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.omanobserver.om/ampArticle/1148403",
-      "cdnAmpWebUrl": "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1148403",
-      "publishedDateTime": "2024-01-17T18:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "omanobserver",
-        "domain": "omanobserver.om",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

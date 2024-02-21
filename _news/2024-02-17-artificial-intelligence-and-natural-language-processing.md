@@ -7,7 +7,7 @@ originalUrl: "https://www.cambridge.org/core/browse-subjects/computer-science/ar
 webUrl: "https://www.cambridge.org/core/browse-subjects/computer-science/artificial-intelligence-and-natural-language-processing/listing"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 600
     isCached: true
-
-related:
-  - title: "AI and the classroom"
-    excerpt: "The News spoke with members of the University’s English and Computer Science departments, along with faculty associated with Poorvu and the Executive Committee, to recap the University’s evolving response to the rise of artificial intelligence."
-    publishedDateTime: 2024-02-20T04:58:00Z
-    webUrl: "https://yaledailynews.com/blog/2024/02/19/ai-and-the-classroom/"
-    type: article
-    provider:
-      name: Yale Daily News
-      domain: yaledailynews.com
-    quality: 41
-    images:
-      - url: "https://yaledailynews.com/wp-content/uploads/2024/02/writingai_hm_SurbhiBharadwaj_SeniorPhotographer-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "q/agna6SZwUCmaWuTqYZavKu5gVQ48uFwLRg18SsngQWeghaf6bMze/t75K4v8Flin97vIY/S90FWvsniEZlNa3TPzEWJVrREd41NjAqUR1YzE17dafpfEETuNztZjncI1RNTYkv8s4AYRtDeClfnY7amZdenBCJplVqfc1VFOzsDYQ0cF4OcESPGf2ecFO4jitMWYzD1KOjkT5JnGMMBc/UTxi2/Ds1VSo30wquH0sd3E/ePKbTkZAagwHjSM5gjzzAxvcaIgblwUcDSrWqurm1c5mv8FM/svr1W5sHb+f8+lMGqlh6QhU3zaY40c4qJbTcaLQzJ/NuI722CdMBEqJa+SirTuK7rR32r8aSYhM=;j8ROao4fFhUbdlGuejGDbA=="
 ---

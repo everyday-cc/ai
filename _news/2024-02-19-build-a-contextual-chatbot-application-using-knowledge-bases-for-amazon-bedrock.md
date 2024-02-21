@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-c
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock/"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1260
     height: 571
     isCached: true
-
-related:
-  - title: "Chatbot formerly known as Bard shares free AI image capabilities like it’s 1999"
-    excerpt: "Google's chatbot, Gemini (formerly Bard), is offering a free AI image generation upgrade."
-    publishedDateTime: 2024-02-16T04:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20240216PD210/google-gemini-google-bard-ai-ai-image-generation.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 35
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240216pd210_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "ixzLounloXk7UR5ts7HStDzsElK+jaEs09STDzxVa1KAtWzbVeZb6gVmxVEf1LlyflFBw/nOM9eACdOvXVPGLzDMsI89ItIw65XrsS3dAsKTbo/M+GMrGP81y6eGyQDPu5tja4rC/wxWpnBRywoea8fxt7lecRIkGSPZdpGJL8xp2xKMw2Zy5hlA6HIrYX7tzcYzAWVvhgR8fyCHeGKG/eJrqBcVk1mDCmIUGJk89v5KdBx0TvWatOctsYvHNTxBQLopnYxZuMI6yR0qtofbVSkDOnUKKSHN3yRauxhMIZAudGtJobCbm4sjhXOQOi2ydAVxhUn8vEJj6AIv5uldxLIeMX8+okkQHwTZG3K3aRI=;Bi943rEGffwmU9t7HiOXfg=="
 ---

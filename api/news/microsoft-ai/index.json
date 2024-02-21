@@ -582,6 +582,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-14-eu-finds-imessage-three-microsoft-products-dont-qualify-as-core-platform-services.md",
+      "title": "EU finds iMessage, three Microsoft products don’t qualify as core platform services",
+      "excerpt": "Certain provisions of the DMA only apply to products that are designated as “core platform services” by regulators. The decision the EU published today specifies iMessage and three Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/02/13/eu-finds-imessage-three-microsoft-products-dont-qualify-core-platform-services/",
+      "originalUrl": "https://siliconangle.com/2024/02/13/eu-finds-imessage-three-microsoft-products-dont-qualify-core-platform-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/photo-3.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T22:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-microsoft-cloud-for-sustainability-gains-data-ai-capabilities.md",
       "title": "Microsoft Cloud For Sustainability Gains Data & AI Capabilities",
       "excerpt": "Microsoft introduced new data and AI solutions for its Cloud for Sustainability to assist organizations transitioning from pledges to progress.",
@@ -687,6 +730,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-13-eu-says-apple-imessage-3-microsoft-services-are-not-digital-gatekeepers.md",
+      "title": "EU says Apple iMessage, 3 Microsoft services are not digital 'gatekeepers'",
+      "excerpt": "Feb. 13 (UPI) --The European Commission said the four platform services by Apple and Microsoft should not be considered \"gatekeepers\" as defined by the Digital Markets Act after an investigation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/5401707846789/2024/1/033a3a5736c93029032c750c2036488e/v1.5/EU-says-Apple-iMessage-3-Microsoft-services-are-not-digital-gatekeepers.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
+      "publishedDateTime": "2024-02-13T14:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to.md",
       "title": "ChatGPT will now remember its past conversations with you (if you want it to)",
       "excerpt": "ChatGPT is getting the ability to recall snippets of information you ask it to remember. Here's how the feature works and how to opt in (or out!).",
@@ -719,6 +805,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-apple-wont-be-forced-to-open-imessage-to-rivals-eu-decides-as-it-also-lets-three-microsoft-services-off-dma-hook.md",
+      "title": "Apple won’t be forced to open iMessage to rivals, EU decides, as it also lets three Microsoft services off DMA hook",
+      "excerpt": "So the decisions mean there’s no expansion of the initial list of 22 core platform services the Commission announced last year. Apple and Microsoft were both confirmed as DMA “gatekeepers ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/13/apple-wont-be-forced-to-open-imessage-to-rivals-eu-decides-as-it-also-lets-three-microsoft-services-off-dma-hook/",
+      "originalUrl": "https://techcrunch.com/2024/02/13/apple-wont-be-forced-to-open-imessage-to-rivals-eu-decides-as-it-also-lets-three-microsoft-services-off-dma-hook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1395137091.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/13/apple-wont-be-forced-to-open-imessage-to-rivals-eu-decides-as-it-also-lets-three-microsoft-services-off-dma-hook/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/13/apple-wont-be-forced-to-open-imessage-to-rivals-eu-decides-as-it-also-lets-three-microsoft-services-off-dma-hook/amp/",
+      "publishedDateTime": "2024-02-13T12:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -781,6 +919,49 @@
         "AI",
         "Microsoft AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-four-apple-and-microsoft-services-to-be-left-out-of-digital-markets-act.md",
+      "title": "Four Apple and Microsoft services to be left out of Digital Markets Act",
+      "excerpt": "Apple and Microsoft will not be designated as gatekeepers for certain platform services under the Digital Markets Act, according to an announcement from the European Commission on Tuesday (13 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euractiv.com/section/digital/news/four-apple-and-microsoft-services-to-be-left-out-of-digital-markets-act/",
+      "originalUrl": "https://www.euractiv.com/section/digital/news/four-apple-and-microsoft-services-to-be-left-out-of-digital-markets-act/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.euractiv.com/wp-content/uploads/sites/2/2024/02/shutterstock_2187517321-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T01:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EURACTIV",
+        "domain": "euractiv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1212,153 +1393,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-assosia-and-simpson-associates-team-up-to-unlock-product-matching-potential-with-machine-learning.md",
-      "title": "Assosia And Simpson Associates Team Up To Unlock Product Matching Potential With Machine Learning",
-      "excerpt": "The Assosia-Simpson Associates POC explores the potential of ML to revolutionise product matching. By creating, training, and fine-tuning multiple models based on specific datasets, this project aims to unlock hidden connections and deliver tangible benefits, such as:",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
-      "originalUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T12:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment.md",
-      "title": "Simpson Associates become the key delivery partner for newly launched TOEX Capabilities Environment",
-      "excerpt": "Simpson Associates, leading data transformation consultancy and managed service provider, are thrilled that the Tackling Organised Exploitation (TOEX)",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61355944-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment-399.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61355944-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment-399.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T11:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-pune-woman-53-teaches-marathi-to-microsoft-ai-tools-earns-400-an-hour.md",
-      "title": "Pune Woman, 53, Teaches Marathi To Microsoft AI Tools, Earns ₹400 An Hour",
-      "excerpt": "At the core of this initiative lies Karya, an organisation born as a Microsoft Research Project in Bengaluru back in 2017. Karya focusses on creating datasets in various Indian languages to train AI models and conduct research, while also generating employment opportunities for Indians, particularly in rural regions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/pune/pune-woman-53-teaches-marathi-to-microsoft-ai-tools-earns-400-an-hour",
-      "originalUrl": "https://www.freepressjournal.in/pune/pune-woman-53-teaches-marathi-to-microsoft-ai-tools-earns-400-an-hour",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T08:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-research-shows-that-offering-tips-to-chatgpt-improves-responses.md",
-      "title": "Research Shows That Offering Tips To ChatGPT Improves Responses",
-      "excerpt": "A research paper titled, Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4,” details an in-depth exploration into optimizing Large Language Model prompts. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/research-chatgpt-prompts/507535/",
-      "originalUrl": "https://www.searchenginejournal.com/research-chatgpt-prompts/507535/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/tipping-chatgpt-65c4ab526c7e7-sej.png",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Searchenginejournal.com",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI",
         "Microsoft AI"
       ]

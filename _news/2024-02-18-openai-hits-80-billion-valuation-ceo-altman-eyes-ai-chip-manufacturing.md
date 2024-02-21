@@ -101,20 +101,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Google's new AI model is 700x more powerful than OpenAI's flagship"
-    excerpt: "Google claims that Gemini 1.5 can handle up to 1 million tokens of input, equivalent to about 4 million characters or 800,000 words."
-    publishedDateTime: 2024-02-16T03:24:00Z
-    webUrl: "https://interestingengineering.com/innovation/googles-new-ai-model-is-700x-more-powerful-than-openais-flagship"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/Zjg0jX8diJJZkpICBBYzySEP3oHJTc4fQqUHGyg7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "BRuSUTibFEItAmijOQBkf4rGZo3NLLv6Wzw+J6DBJVRHVdlw8IX532iZrJ+idkuWG4lecuRF8+SgMDDTX30OQONfU4r+kM/IpQ1GUSlSw8v4vK6JSPLJYxyC7chLxvZl9tUYcmQZ7bisN60wDdqtr67elcMJggFJlblDIDQyVbIv14FCQgq4iJcK9vIpBSIv62LrKtk/nrWW+18Taa3RjfGlC2Zqp2o3MgPTo1xnzdAkDvfPCbrxLTj7bOHXYI+3YJvieHzzbxujqieMqlOxVUuBSJ8lz/7hOB/5hsn2tz1pHQ4iFmD6Dl98LVl5/c2c/jK1gGjwr/6sjoIemMHV2IixVFHck5QBtimOVyJDVsA=;DzClh+Wwk+ItqH/qbTkl8g=="
 ---

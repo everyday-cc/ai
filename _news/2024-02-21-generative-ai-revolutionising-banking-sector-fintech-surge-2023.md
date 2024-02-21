@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "China must embrace new era of AI revolution"
+    excerpt: "The artificial intelligence leader OpenAI has unveiled a new AI model named Sora, which it asserts can generate \"realistic\" and \"imaginative\" 60-second videos based on brief text prompts."
+    publishedDateTime: 2024-02-20T05:37:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202402/20/WS65d42bf2a31082fc043b81cf.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 41
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202402/20/65d446c8a31082fc2b68d6a0.jpeg"
+        width: 1078
+        height: 718
+        isCached: true
 
 secured: "p2JDeF9dsbdfzfEuhJtwr1538G6HHXXJ2ySdBfJ6vZI72KwAKhjPpAK5diDN0aMcCeWeNp1k7C1AZ3vw7AhnFIPMqcZ/Spex0sgnFuQhvIHWCWVaa0S8xJN1QuVsq4qx7PxkNvkNVO3iMtvxJ1EXWUQIjHP8gC2YRZzl9iV3LNJrN9Gfcm7ghM579/JP4HC/4hnRjUD8owkRgUgigulgpn4SygtBNv/CtY+iFFsGcpciYlrWNutdHwMaH0ABtXgbNoQwmXVc3BO0fGL8SLQbYNeeHAaxF77hu/ysdNzcus7ILbmIv899Ir2iQlHraCxQTECEtYf4F8E4WdzBq8DT6EK0t5/iGtmfMJDAmiEXuIU=;d93ARwP85Mda+xT6sPmZDg=="
 ---

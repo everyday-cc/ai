@@ -7,8 +7,8 @@ originalUrl: "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-s
 webUrl: "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 63
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -24,20 +24,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "3 Ways Top Marketers Are Putting AI Into Action"
-    excerpt: "ChatGPT may have sparked the revolution, but a year later, marketers are discovering endless possibilities with AI. Here's how it can boost your efficiency, accuracy--and creativity."
-    publishedDateTime: 2024-02-19T08:36:00Z
-    webUrl: "https://www.inc.com/amanda-pressner-kreuser/3-ways-top-marketers-are-putting-ai-into-action.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1953449102_537414_uofog6.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "VW partner Xpeng to hire 4,000, invest in artificial intelligence"
     excerpt: "Xpeng, which has VW Group as a partner, plans to release around 30 new products or revised models within three years."
     publishedDateTime: 2024-02-19T13:14:00Z

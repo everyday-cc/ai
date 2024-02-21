@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-15-our-next-generation-model-gemini-15.md",
+      "title": "Our next-generation model: Gemini 1.5",
+      "excerpt": "The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
+      "originalUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_gemini_1.5_blog_social_share_800x418.width-1300.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/",
+      "publishedDateTime": "2024-02-15T15:00:50Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-responsible-technology-use-in-the-ai-age.md",
       "title": "Responsible technology use in the AI age",
       "excerpt": "AI presents distinct social and ethical challenges, but its sudden rise presents a singular opportunity for responsible adoption.",
@@ -1114,50 +1166,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks.md",
-      "title": "Microsoft Says Foreign Adversaries Are Using Generative AI For Cyberattacks",
-      "excerpt": "Microsoft Co. (MSFT) and OpenAI recently disclosed that cybercriminals are utilizing large language models like ChatGPT to refine and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T20:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

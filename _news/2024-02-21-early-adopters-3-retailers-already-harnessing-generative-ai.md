@@ -23,21 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "Fraudsters Are Leveraging Generative AI to Dupe Consumers and Businesses – Research Report"
-    excerpt: "Experian released its 2024 Future of Fraud Forecast, which identifies five fraud threats consumers and businesses should be cautious of this year."
-    publishedDateTime: 2024-02-17T20:05:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221601-fraudsters-are-leveraging-generative-ai-to-dupe-consumers-and-businesses-research-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221601-fraudsters-are-leveraging-generative-ai-to-dupe-consumers-and-businesses-research-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221601-fraudsters-are-leveraging-generative-ai-to-dupe-consumers-and-businesses-research-report/amp/"
+  - title: "Early adopters’ fast-tracking gen AI into production, according to new report"
+    excerpt: "Healthcare, manufacturing and education industries see the greatest potential for gen AI and lead all others in their interest to become early adopters."
+    publishedDateTime: 2024-02-21T02:42:00Z
+    webUrl: "https://venturebeat.com/ai/early-adopters-fast-tracking-gen-ai-into-production-according-to-new-report/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 49
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/11/Pick-Pocket-Theft-Steal-Crook-Criminal-Fraud.jpg"
-        width: 1144
-        height: 876
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/image_6d423f.jpeg?resize=690%2C516&#038;strip=all"
+        width: 690
+        height: 516
+        isCached: true
+  - title: "3 Ways Top Marketers Are Putting AI Into Action"
+    excerpt: "ChatGPT may have sparked the revolution, but a year later, marketers are discovering endless possibilities with AI. Here's how it can boost your efficiency, accuracy--and creativity."
+    publishedDateTime: 2024-02-19T08:36:00Z
+    webUrl: "https://www.inc.com/amanda-pressner-kreuser/3-ways-top-marketers-are-putting-ai-into-action.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1953449102_537414_uofog6.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "XsGZ0upBoqy1O3Z4ag9DgCVzLcic0jI5bwzf3N8WkMptlLO2AAoYC5J8v2f2XS8eovI+q/xRSjXsvud7jjSXH7kLuqTJlPdXdrZf9xIi0xErMaBTN3bOxmhYpM/jcNT0iBiLzJPHTKfH2I4WMpJb6P9ud/zPuH5v21Zhe86eSPYiQcbqdq1xonzRY6/GRuRW2UavKBSIlXIDikQ2xqfKhrLJv+OSWF+jVaUuTn616qEIQAayqYXscrf/GlQ8TbkicsSXGQauy4ck+lMEn8Ng3tDutE3GwLAFZ1doo1mNcHAbcSLdLq6mlBBfJR6tEE/1kJQLjMkrbbl0bgQmJc0edga0fPxd760lUYkiHIowGok2VZnibmaw/zRPeomaRYnnxO48TW2FGkki69CSk0ykI7N7+/mNHvAAIuLx9nUX4kCq5jgCDhb0L0FaFZIgvdo8ToJVFQ7M14k8dDE0sVJvhP3bmh6bp69dwWcnNByhqZ0fyBKKnVKO8ThrqghwfKCsx18rIpaGhEbPzAG5C41sqQ==;9x8oPIjv382tCKsY9PY9dg=="

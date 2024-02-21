@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-r
 webUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI-powered Robots Are Changing the Game in Rural Shanghai"
+    excerpt: "navigating the terrain with crawler feet and making decisions with their advanced AI brains. The simplicity of operating these robots is astonishing. Farmers, using just their smartphones, can awaken these mechanical helpers to start their day. Wang Jinyue ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/21/ai-powered-robots-shanghai/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/65d54dd3a31082fc2b68df48.jpeg"
+        width: 900
+        height: 675
+        isCached: true
   - title: "Use Artificial Intelligence to Create Forms, Surveys, and Quizzes With involve.me"
     excerpt: "Software as a service (SaaS) company involve.me is launching its innovative AI-powered form builder, allowing users to create business forms"
     publishedDateTime: 2024-02-19T18:30:00Z

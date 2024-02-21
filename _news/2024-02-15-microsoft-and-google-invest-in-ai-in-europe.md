@@ -5,6 +5,8 @@ excerpt: "The big investments by big tech could be intended to reshape their AI 
 publishedDateTime: 2024-02-15T14:58:00Z
 originalUrl: "https://www.computerworld.com/article/3712941/microsoft-and-google-invest-in-ai-in-europe.html"
 webUrl: "https://www.computerworld.com/article/3712941/microsoft-and-google-invest-in-ai-in-europe.html"
+ampWebUrl: "https://www.computerworld.com/article/3712941/microsoft-and-google-invest-in-ai-in-europe.amp.html"
+cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712941/microsoft-and-google-invest-in-ai-in-europe.amp.html"
 type: article
 quality: 34
 heat: -1
@@ -17,6 +19,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://images.techhive.com/images/article/2017/03/p1240491-19-100715058-large.jpg?auto=webp&quality=85,70"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Google, Microsoft, OpenAI make AI pledges ahead of Munich Security Conference"
@@ -216,6 +224,6 @@ related:
       domain: ourmidland.com
     quality: 34
 
-secured: "65mbA3zlsOE1SrCp9uZMwDI3TUrB3EQtWmnl1jEu0A+T7mTgJC1HXF4UrQbqmlWH0MrDxzxtZh8+mzESl+CQdeglrxNDH9oOST4tIHwA50FbyRAUuQ9hawU4ItBeF1klnZN+kjvrZPoLqVD9OHl7TirIBLNJj1DV6Nsl4SuDYYtvVMLWcy+5BfIjy1wspa7rvkyq0wOJhXE3tQB7X+RwoRl0wATVRXxGrjPljgJbM9wwCmYoxPmsr4Brc0bxKsLNb3JiUrl4h4/B6W3WUDjQ9dLT9InHns+n7gR0rj3SXKkSsy9X3yU7jJJSpmwHDyaJ6R8sq6eB//kQTft0bNhfixRoM4l8nwGiJxLLB8U1+/U=;KbgrnApxU5cRjhwkjxnX4A=="
+secured: "9iCFAq6yHrASaqFx7hixyNN3+S8+WwrK88Uh5wem6a/4S1/6pRA15kB8DlszMruiQO7W/4h2r1r2G+5IG7zPBm9KyoVyI121NXRG3wDnap5EwPyBAmifBS2lj0sWdRbgFb/hUaq3K+/ANTPjHrJVkY/sQj1pek8R7nB70B3WExW1j0B0q0tSp9eyjJlwyeUiexjUOpZWVA/K3AppWf8TOjboyFJseHP1TUutiCDb6j6Iv/urki8xaDBbWw5qMYSrVAA0lDL40y0XIKDOdUmw5YW+kTVxulN2ACYAckD/eUn+uRqr+IP5F+eZDPJjtSIEiODABYyKPIc0CDieNloRJGuxAYd8GG9TMLdE4Z1xaHQ=;9erjMbs3TkUEkunE/3pczA=="
 ---
 

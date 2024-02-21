@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI-powered Robots Are Changing the Game in Rural Shanghai"
+    excerpt: "navigating the terrain with crawler feet and making decisions with their advanced AI brains. The simplicity of operating these robots is astonishing. Farmers, using just their smartphones, can awaken these mechanical helpers to start their day. Wang Jinyue ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/21/ai-powered-robots-shanghai/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/65d54dd3a31082fc2b68df48.jpeg"
+        width: 900
+        height: 675
+        isCached: true
 
 secured: "V0G271JO0Gfj5iBwcqqwYK3JPjaMrPAX0lI5VakshL17Q54hWpXIYeMJwo9gehrE9CNA+4+QPMGIJDfQyNhU3nXahQ+3gSRSWYzRCo84yhmkk/PFn4IA0FmcGSwUyDyZbfNsaERLFXTYNwDzp6fJ+YkNkWaYYFwVuOj9YqUKI9dZ18M0Neg2QWoAG4OZ6ZbjFRtfxvuXIL69SWIVfWYd1YpEYAkeAVmmX2melvVZxP4OKxFSDgCoc5AsQqBKi8NrE9igvrHmE5lX3W3ZuXDgwhycCfpfS2WyQGG9Ym+wnblww0v5uJvgCQa1uWhJgg9NPu5KnzWpzxhBQ2FkE9MdEjlqg27DLooh03df1BgI+halvJC14hKwA9qid6XVHOsngd5+i1nHTznZtASbDORxIPYBf4EDtNuW2QWioqpLAYe8azvujycroW0SJf3z/tdPOp4CF43oDi/nCMQVMKN82Ld9fDtjQvvXablDB0p2lC3FY++OIbcG0RccfBfEBV5hSVAPL+YYwJO+rn9lhBHBPw==;ThKjLF3vHr4fn+lmb7frMA=="
 ---

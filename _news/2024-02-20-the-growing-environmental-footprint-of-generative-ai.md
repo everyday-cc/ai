@@ -136,6 +136,15 @@ related:
       name: Pluralsight
       domain: pluralsight.com
     quality: 19
+  - title: "Planning a Career in the Age of AI"
+    excerpt: "After decades of industrial robots, factory layoffs, and outsourcing, automation has finally arrived in the cubicle. A recent Wall Street Journal article spotlighted how the new “robots for the mind”—the complex algorithms and language models of generative AI—are creating rising uncertainty in the professional class."
+    publishedDateTime: 2024-02-20T19:16:00Z
+    webUrl: "https://www.aei.org/articles/planning-a-career-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "W/T0H2cRSTZTrtanXoqpANi9TDtRH8YQaE8JcqU2OQKk1RI5RhGKFIOc1iunAGWqiiBcNagvMMaXee7R83uY2QWX4qrypytD2yL7ryQWyiT4Lq30xONz4dcW/h2xqkCYlVSTkqunFsGAVSEjMQngTfI6TPSPDP50CYPXPjuXR4gdaPeyTLqZAyUb439cXbHN5I5FHO/VGZ0ldAEqM0FxqQNtbYbzWWWbb+Xkut2ER6nOAs67VXxYIrfS+tPpWYYZsD4ULrCixdqIsx/RO2r8D3yYMlHcnpPIhqfA7D/2mN2AfqNxIp24wO2kKk9daXaAJvREr7ciYvx9aGpb7PjV+noXJ7RN0IC4pidleGG7zSX3MElQCM8cKOSu3XvjAqKZlbR25ihcaZiPInfjAJ4J4cjP9llPRMKwjgMTHZA6f34NhwoB9kZ+rzj00+BUeX8TnfvJIjiruNi7Y4Qf6Lzb7CdS5JU+e5/+GGLFFMED4hnqXR+pBDm7mlcHvSDgmKw8jisuc5WfJXOjzzSALBurhQ==;doedGBqH/TxpDNYry57C5w=="
 ---

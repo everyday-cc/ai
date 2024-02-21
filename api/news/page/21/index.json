@@ -2,6 +2,281 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2024-02-02-from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024.md",
+      "title": "From IT Staff To The Boardroom: Top Generative AI Predictions For 2024",
+      "excerpt": "Expect to see a surge in new GenAI deployments as more enterprises rapidly turn their AI POCs into pilots using the latest models, patterns and cloud services in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe35cac1252d2fac45417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/amp/",
+      "publishedDateTime": "2024-02-02T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence.md",
+      "title": "AWS has its mojo back thanks in part to artificial intelligence",
+      "excerpt": "The tech giant's cloud computing unit is back to re-accelerating growth after seven straight quarters of flat sales, due in part to rapidly rising benefits from artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence",
+      "originalUrl": "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1245247564/image_1245247564.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T13:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-bell-and-mila-to-study-how-deep-learning-ai-can-improve-business-performance.md",
+      "title": "Bell and Mila to study how deep learning AI can improve business performance",
+      "excerpt": "Mila researchers will work alongside Bell's Machine Learning and AI teams to build on those investments by using cutting-edge deep learning neural network techniques to identify opportunities for improving business performance and customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/02/9956506.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/02/9956506.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T13:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-4-questions-to-consider-when-youre-selecting-an-external-dns-provider.md",
+      "title": "4 questions to consider when you’re selecting an external DNS provider",
+      "excerpt": "Considering moving to a managed DNS provider? Here are a few things to keep in mind when comparing your options.\nThe post 4 questions to consider when you’re selecting an external DNS provider appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/4-questions-to-consider-when-youre-selecting-an-external-dns-provider/",
+      "originalUrl": "https://www.ibm.com/blog/4-questions-to-consider-when-youre-selecting-an-external-dns-provider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-the-impact-of-artificial-intelligence-on-the-art-world.md",
+      "title": "The Impact Of Artificial Intelligence On The Art World",
+      "excerpt": "AI is also allowing art experts to interpret market developments, track the activities of relevant public figures and understand and analyze collecting behaviors and patterns. As Boll alludes to, AI can interpret vast amounts of data at record speeds, which makes the analysis of market developments faster and easier than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe77a697c21ebc498ac84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
+      "publishedDateTime": "2024-02-02T12:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond.md",
+      "title": "What’s Next For AI: The Next Wave Of Use Cases In 2024 And Beyond",
+      "excerpt": "The journey into AI's next era is an exciting venture that demands a balance between pushing the boundaries of technological capabilities and safeguarding our well-being.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6426d9b7a6e4117a2deb47c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1416,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/amp/",
+      "publishedDateTime": "2024-02-02T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-ai-is-driving-the-future-of-seo-how-to-adapt.md",
       "title": "AI Is Driving The Future Of SEO: How To Adapt",
       "excerpt": "SEO will remain one of the most effective strategies in digital marketing, and AI is here to help make it even more impactful.",
@@ -888,311 +1163,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-dynatrace-extends-unified-observability-to-generative-ai-apps.md",
-      "title": "Dynatrace Extends Unified Observability To Generative AI Apps",
-      "excerpt": "We need to make sure we look at AI functions to look at their provenance, observe their state and status, watch their behavior and scrutinize the validity of the decisions they take.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-extends-unified-observability-to-generative-ai-apps/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-extends-unified-observability-to-generative-ai-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bad7f1cb6fca11c8f10f6a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1355,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-extends-unified-observability-to-generative-ai-apps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-extends-unified-observability-to-generative-ai-apps/amp/",
-      "publishedDateTime": "2024-02-01T21:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-amazon-cloud-unit-speeds-up-revenue-growth-as-clients-adopt-ai-services.md",
-      "title": "Amazon cloud unit speeds up revenue growth as clients adopt AI services",
-      "excerpt": "Amazon pointed to artificial intelligence traction in the cloud during the fourth quarter. Acceleration of cloud growth should continue, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/01/aws-q4-earnings-report-2023.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/01/aws-q4-earnings-report-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107260563-1687390716921-gettyimages-1247865087-CERAWEEK_2023.jpeg?v=1706824464",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/01/aws-q4-earnings-report-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/01/aws-q4-earnings-report-2023.html",
-      "publishedDateTime": "2024-02-01T21:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-i-just-tried-apple-vision-pro-heres-what-i-think-of-this-3500-headset-so-far.md",
-      "title": "I just tried Apple Vision Pro — here’s what I think of this $3,500 headset so far",
-      "excerpt": "The Apple Vision Pro offers some truly impressive entertainment and multitasking capabilities, but will it be worth $3,500? Here’s what we think after going hands-on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/electronics/apple-vision-pro-hands-on",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/electronics/apple-vision-pro-hands-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/240201150423-apple-vision-pro-preview-cnnu-1.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/electronics/apple-vision-pro-hands-on",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/electronics/apple-vision-pro-hands-on",
-      "publishedDateTime": "2024-02-01T20:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-ai-learns-language-like-a-child.md",
-      "title": "AI Learns Language Like a Child",
-      "excerpt": "Researchers made a significant breakthrough by training a multimodal AI system using only the input one child received from birth through their second birthday, challenging the notion that AI requires vast data to learn language.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/ai-child-language-25551/",
-      "originalUrl": "https://neurosciencenews.com/ai-child-language-25551/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2024/02/ai-child-language-neurosicnce.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T20:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-fcc-to-declare-ai-generated-voices-in-robocalls-illegal-under-existing-law.md",
-      "title": "FCC to declare AI-generated voices in robocalls illegal under existing law",
-      "excerpt": "FCC Chairwoman Jessica Rosenworcel's proposed Declaratory Ruling would rule that \"calls made with AI-generated voices are 'artificial' voices under the Telephone Consumer Protection Act (TCPA), which would make voice cloning technology used in common robocalls scams targeting consumers illegal,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2024/02/fcc-to-declare-ai-generated-voices-in-robocalls-illegal-under-existing-law/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2024/02/fcc-to-declare-ai-generated-voices-in-robocalls-illegal-under-existing-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T20:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-why-its-time-for-a-chief-ai-officer.md",
-      "title": "Why It’s Time For A Chief AI Officer",
-      "excerpt": "Does your company need a CAIO? Artificial intelligence has the potential to impact every areas of business. Early adopters include the Mayo Clinic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/",
-      "originalUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbf5bbdc2b3980a75d196e/0x0.jpg?format=jpg&crop=2151,1210,x0,y146,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/",
-      "publishedDateTime": "2024-02-01T19:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

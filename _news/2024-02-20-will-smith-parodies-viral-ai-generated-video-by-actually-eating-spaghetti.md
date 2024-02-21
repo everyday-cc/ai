@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/information-technology/2024/02/will-smith-
 webUrl: "https://arstechnica.com/information-technology/2024/02/will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti/"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -28,21 +28,216 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Bixby Integrated with Galaxy AI features"
-    excerpt: "Samsung has announced that its Bixby voice-activated assistant now works with a range of Galaxy AI features, These features were launched recently with"
-    publishedDateTime: 2024-02-20T12:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/samsung-bixby-integrated-with-galaxy-ai-features-20-02-2024/"
+  - title: "OpenAI Sora video footage brought to life by AI-generated sounds"
+    excerpt: "OpenAI released a new AI model called Sora that could generate high-resolution video clips from text prompts. But they're all essentially clever silent films. Now ElevenLabs has added background sounds to Sora-created footage."
+    publishedDateTime: 2024-02-19T17:26:00Z
+    webUrl: "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
+      name: New Atlas
+      domain: newatlas.com
+    quality: 69
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Samsung-Bixby.jpg"
-        width: 1000
+      - url: "https://assets.newatlas.com/dims4/default/7df3253/2147483647/strip/true/crop/1903x999+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc0%2F79%2F292b13454764b891a7d395388ef8%2F01.jpg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Stunning new AI adds realistic sound effects to any video"
+    excerpt: "OpenAI released a new AI model called Sora that could generate high-resolution video clips from text prompts. But they're all essentially clever silent films. Now ElevenLabs has added background sounds to Sora-created footage."
+    publishedDateTime: 2024-02-19T17:26:00Z
+    webUrl: "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 69
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/7df3253/2147483647/strip/true/crop/1903x999+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc0%2F79%2F292b13454764b891a7d395388ef8%2F01.jpg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Is This Real? OpenAI's Sora Creates Eerie Videos, Fueling Debate On Ethics And Regulation In AI Content"
+    excerpt: "OpenAI's latest creation, Sora, is causing quite a stir among creators and tech enthusiasts alike. Announced by CEO Sam Altman, Sora marks a significant advancement in artificial intelligence, particularly in the realm of video generation."
+    publishedDateTime: 2024-02-19T08:39:00Z
+    webUrl: "https://in.mashable.com/tech/69881/is-this-real-openais-sora-creates-eerie-videos-fueling-debate-on-ethics-and-regulation-in-ai-content"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 68
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/6cover_3kry.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "With Sora, OpenAI highlights the mystery and clarity of its mission | The AI Beat"
+    excerpt: "Sora, OpenAI's new text-to-video model, may be a black-box mystery, but the company's unwavering mission to develop AGI is not."
+    publishedDateTime: 2024-02-19T15:23:00Z
+    webUrl: "https://venturebeat.com/ai/with-sora-openai-highlights-the-mystery-and-clarity-of-its-mission-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-18-at-7.20.26-PM.png?w=1200&strip=all"
+        width: 1199
+        height: 674
+        isCached: true
+  - title: "Open AI powered Web3 App AGII To Support Sora AI Text to Video Model Integration"
+    excerpt: "February 20, 2024) - AGII, the Open AI powered Web3 application, announces the integration of Sora AI's advanced video modeling capabilities into its platform. Powering the next generation of AI innovation!"
+    publishedDateTime: 2024-02-20T06:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/open-ai-powered-web3-app-agii-to-support-sora-ai-text-to-video-model-integration-1033081651"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://images.newsfilecorp.com/files/8833/198415_77_550.jpg"
+        width: 550
+        height: 309
+        isCached: true
+  - title: "OpenAI's new text-to-video tool, Sora, has one artificial intelligence expert \"terrified\""
+    excerpt: "Another groundbreaking generative artificial intelligence tool from the company behind ChatGPT unveiled Thursday is expected to accelerate the proliferation of deepfake videos and have implications for virtually every industry. Sora, an AI application that ..."
+    publishedDateTime: 2024-02-16T22:19:00Z
+    webUrl: "https://www.cbsnews.com/news/openai-sora-text-to-video-tool/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/openai-sora-text-to-video-tool/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-sora-text-to-video-tool/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 63
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/02/16/06bdbde2-d331-421b-9b02-dfcb40887307/thumbnail/1200x630/68b8f18388648d7a0794e56790213d64/gettyimages-2006246488.jpg?v=2a01790210e495d24a119503c08f840d"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "OpenAI Sora's Breaks Our Brains, Vision Pro Loses Its Luster, and More Big Tech News"
+    excerpt: "Apple Vision Pro was supposed to be that reality-changing tech but instead, tech bros wanted to return the headset before the return policy expired. Check out the rest of this week’s biggest tech news stories."
+    publishedDateTime: 2024-02-17T19:01:00Z
+    webUrl: "https://gizmodo.com/open-ai-sora-apple-vision-pro-cybertruck-1851264576"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 62
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8dc4004c26a81bbaca534bc11abc9231.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI Tools: OpenAI Reveals Sora and Shocks the AI Video Industry"
+    excerpt: "Sam Altman, CEO of OpenAI (ChatGPT, DALL-E) released a sneak peek into our not-to-distant future of realistic AI generated text-to-video content with the announcement of their new model, Sora on a “Xitter” post: here is sora,"
+    publishedDateTime: 2024-02-17T23:06:00Z
+    webUrl: "https://www.provideocoalition.com/ai-tools-openai-reveals-sora/"
+    ampWebUrl: "https://www.provideocoalition.com/ai-tools-openai-reveals-sora/amp/"
+    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/ai-tools-openai-reveals-sora/amp/"
+    type: article
+    provider:
+      name: provideocoalition.com
+      domain: provideocoalition.com
+    quality: 57
+    images:
+      - url: "https://www.provideocoalition.com/wp-content/uploads/Sora-home-Cropped-trim-sm2.gif"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Weekly AI recap: OpenAI unveils Sora, ChatGPT now has a ‘memory’"
+    excerpt: "Altman has long floated the idea of starting his own GPU venture amid chip scarcity and cost. The market is currently dominated by US chip manufacturer Nvidia, which is both credited with inventing the term “GPU” and has seen its market value skyrocket in recent years as demand for its chips has steadily increased."
+    publishedDateTime: 2024-02-16T16:14:00Z
+    webUrl: "https://www.thedrum.com/news/2024/02/16/weekly-ai-recap-openai-unveils-sora-chatgpt-now-has-memory"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 56
+    images:
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2024-02-16t101400.946.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
         height: 720
         isCached: true
+  - title: "Visual Studio adds AI-generated Git commits, previews AI chat"
+    excerpt: "while Visual Studio 17.10 brings AI-powered chat into the IDE. Other productivity enhancements in Visual Studio 17.9 include the ability to open a GitHub or Azure DevOps pull request from either Visual Studio or a web browser, the ability to switch between ..."
+    publishedDateTime: 2024-02-16T11:00:00Z
+    webUrl: "https://www.reseller.co.nz/article/710095/visual-studio-adds-ai-generated-git-commits-previews-ai-chat/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_visual_studio_26.jpg"
+        width: 505
+        height: 315
+        isCached: true
+  - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
+    excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
+    publishedDateTime: 2024-02-18T00:59:00Z
+    webUrl: "https://dailyhodl.com/2024/02/17/two-ai-related-crypto-assets-rally-as-openai-launches-text-to-video-artificial-intelligence-model/"
+    type: article
+    provider:
+      name: The Daily Hodl
+      domain: dailyhodl.com
+    quality: 39
+    images:
+      - url: "https://dailyhodl.com/wp-content/uploads/2024/02/two-rally-text-video.jpg"
+        width: 1365
+        height: 800
+        isCached: true
+  - title: "OpenAI begins testing its text-to-video AI Sora with creatives"
+    excerpt: "OpenAI has unveiled its latest AI model, although it's not being released to the public just yet. Sora is a text-to-video model."
+    publishedDateTime: 2024-02-19T14:55:00Z
+    webUrl: "https://musically.com/2024/02/19/openai-begins-testing-its-text-to-video-ai-sora-with-creatives/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2024/02/Screenshot-2024-02-19-at-11.38.08.png?fit=739%2C397&ssl=1"
+        width: 739
+        height: 397
+        isCached: true
+  - title: "If you thought Sora was impressive now watch it with AI generated sound from ElevenLabs"
+    excerpt: "Artificial intelligence speech startup ElevenLabs offered an insight into what its planning to release in the future, adding sound effects to AI generated video for the first time. Best known for its near human-like text-to-speech and synthetic voice ..."
+    publishedDateTime: 2024-02-19T00:00:00Z
+    webUrl: "https://www.tomsguide.com/ai/if-you-thought-sora-was-impressive-now-watch-it-with-ai-generated-sound-from-elevenlabs"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 29
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/mFtgTn7sbFRH7hsCYS3DN8-1200-80.gif"
+        width: 426
+        height: 240
+        isCached: true
+  - title: "Sora's AI-generated video reaches scary levels of realism - and this is just the start"
+    excerpt: "Will we soon be watching AI-generated movies? Looking at these new videos made by Sora, it's only a matter of time!"
+    publishedDateTime: 2024-02-19T10:25:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/soras-ai-generated-video-reaches-scary-levels-of-realism-and-this-is-just-the-start"
+    type: article
+    provider:
+      name: digitalcameraworld
+      domain: digitalcameraworld.com
+    quality: 29
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/saj5mXt5zp6UBeKygyazDE-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Sora is ChatGPT maker OpenAI’s new text-to-video generator. Here’s what we know about the new tool"
+    excerpt: "Meet Sora — OpenAI’s new text-to-video generator. The tool, which the San Francisco company unveiled Thursday, uses generative artificial intelligence to instantly create short videos based on written commands."
+    publishedDateTime: 2024-02-16T17:54:00Z
+    webUrl: "https://www.seattletimes.com/business/sora-is-chatgpt-maker-openais-new-text-to-video-generator-heres-what-we-know-about-the-new-tool/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
 
-secured: "53Sd4ydFDUHYbo7Y89oTLw7UY0qAwQ4C9to5i39eIziAVW5umNG6zQgm+3LxEaOPKOl/rXsbZym1998AO+Mry+pXcRS7HMix71PFjDsFyQDlDHjofKkqxFtIP1Ox7HUFW2HQUZTVCd6iGpysYQC4OzpPoRgbcJuqn89s5mKd8z2jXg+8mZc9QiglFzYuws/3eZcPfrq5XktU+X1lmidEzfuDDY+gY4pnKrhSTHFsqweGqyaTTHe/u51jYdHXskWSqVDm1QLdwJo3fMs8Kzgw5SApk1xCHleN+wd/bE8UDfSfB/Nw+sqZJ7yMSkLTUZJNoNycOo6EwudapAY3AMdDqvtetxgTCmX8KBBpxvtagUU=;d92LcUYxVGWHebIYEhNjJg=="
+secured: "x0hFFq+CbMk64oEyYXqdI03TsvIEMaixPB0Wm1yNcTF5VdeOemrq25gEwzafD/AYRRDwcccnkD7AmCUSrbzcCD79jLQ75ih0gr3KJMCQ+8HvGuluzVVZY7Q+CG4nvA5Ev04ksWKgyDs2BxwPnGX48i0wOVfec77Bvho440IPS8afi6ycKPWwvk74u6XIHrojPEKBG5ukVGkn9ktBync/Bztaz0nP3NvsZ5Ifp4KflDmRciwTtN4D39rqd8qHqquQg9oQDTg8dLSqzdJarGZWm4e9QdZIWDQMTTLuuv5WauKUgUewIzTP29hzAU4awfZyV5ScbnN16+AyfuJwcncIAn3QV6VeglUOLOUoyMCksJksaj1wr9jC7DsFOqiZRpt3YJtDP+XLUMf+arM7/Tiils95ir6hVv5vHcOl4o0u1qODldwp0KNENpp2B+eDGLqxo0eVEgl/KX2jliufzF1FX2lKcylfHSYWpXsiGsK9Sm66QjII8J2uyORRRjksZYuIBWHkW9upM51WsZeQcsLtUA==;ywhFRhJauOmn+yJ5EjpDew=="
 ---
 

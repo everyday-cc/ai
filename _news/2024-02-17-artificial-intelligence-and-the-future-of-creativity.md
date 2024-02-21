@@ -24,156 +24,59 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise Of The Chief AI Officer: Powering AI’s Corporate Revolution"
-    excerpt: "Explore the critical role of Chief AI Officers (CAIO) in steering companies through the AI revolution, transforming strategies, and securing a competitive edge"
-    publishedDateTime: 2024-02-16T04:22:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
+  - title: "AI’s pivotal role in shaping the future of finance in 2024 and beyond"
+    excerpt: "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points"
+    publishedDateTime: 2024-02-17T10:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 76
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cee0a23b56402c7e6cf6fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-16T181908.967.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Google’s Chess Experiments Reveal How to Boost the Power of AI"
-    excerpt: "By rewarding computers that combined different approaches to solve chess puzzles, Google created an enhanced AI that could defeat its existing champion, AlphaZero."
-    publishedDateTime: 2024-02-18T13:00:00Z
-    webUrl: "https://www.wired.com/story/google-artificial-intelligence-chess/"
+  - title: "AI and Robotics to Play Key Roles in Space Exploration"
+    excerpt: "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us."
+    publishedDateTime: 2024-02-19T14:52:00Z
+    webUrl: "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: Electropages
+      domain: electropages.com
     quality: 69
     images:
-      - url: "https://media.wired.com/photos/65cf8b0dbdfe2a615c153428/191:100/w_1280,c_limit/Quanta-CreativeChess-byNashWeerasekera-Lede-scaled.jpg"
-        width: 1280
-        height: 670
+      - url: "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The Intersection of Artificial Intelligence and Society"
-    excerpt: "AI won’t replace people; instead, people with AI will replace people without AI. According to experts, the increasing prevalence of artificial intelligence is expected to improve the lives of the majority of people in the next decade."
-    publishedDateTime: 2024-02-18T15:52:00Z
-    webUrl: "https://dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/"
-    ampWebUrl: "https://dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/amp/"
+  - title: "People find romance with AI"
+    excerpt: "Similar to general-purpose AI chatbots, companion bots use vast amounts of training ... how to get along with people that are different from us,” said Dorothy Leidner, professor of business ethics at the University of Virginia. “And so, all these ..."
+    publishedDateTime: 2024-02-17T06:05:00Z
+    webUrl: "https://www.columbian.com/news/2024/feb/17/people-find-romance-with-ai/"
     type: article
     provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 61
-    images:
-      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Welcome to the Era of Mobile AI"
-    excerpt: "One of the most welcomed AI features is Circle to Search with Google, an incredible new tool for intuitive discovery. Our communication tools for removing language barriers, such as Live Translate, Chat Assist and Interpreter, have captured the imagination ..."
-    publishedDateTime: 2024-02-20T10:33:00Z
-    webUrl: "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 59
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/TM%20Roh_Editorial.jpg?itok=Ir3q2Fow"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Graphcore reportedly explores sale amid tough competition in AI chip market"
-    excerpt: "U.K. artificial intelligence chip startup Graphcore Ltd. is reportedly exploring a sale as it has struggled to compete with the likes of Nvidia Corp. in the booming AI chip market. The Telegraph reported Saturday that Graphcore has been discussing a potential deal with major tech companies to raise new funding to cover heavy losses."
-    publishedDateTime: 2024-02-18T23:49:00Z
-    webUrl: "https://siliconangle.com/2024/02/18/graphcore-reportedly-explores-sale-amid-tough-competition-ai-chip-market/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/graphcore.jpg"
-        width: 500
-        height: 261
-        isCached: true
-  - title: "China must embrace new era of AI revolution"
-    excerpt: "The artificial intelligence leader OpenAI has unveiled a new AI model named Sora, which it asserts can generate \"realistic\" and \"imaginative\" 60-second videos based on brief text prompts."
-    publishedDateTime: 2024-02-20T05:37:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202402/20/WS65d42bf2a31082fc043b81cf.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 41
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202402/20/65d446c8a31082fc2b68d6a0.jpeg"
-        width: 1078
-        height: 718
-        isCached: true
-  - title: "Visual Studio adds AI-generated Git commits, previews AI chat"
-    excerpt: "while Visual Studio 17.10 brings AI-powered chat into the IDE. Other productivity enhancements in Visual Studio 17.9 include the ability to open a GitHub or Azure DevOps pull request from either Visual Studio or a web browser, the ability to switch between ..."
-    publishedDateTime: 2024-02-16T11:00:00Z
-    webUrl: "https://www.reseller.co.nz/article/710095/visual-studio-adds-ai-generated-git-commits-previews-ai-chat/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: The Columbian
+      domain: columbian.com
     quality: 39
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_visual_studio_26.jpg"
-        width: 505
-        height: 315
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2024/02/AI_Girlfriends_Boyfriends_81908-e9266.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "AI Firms Are Hunting for A Lot of Office Space"
-    excerpt: "And the second-largest was the AI startup Anthropic taking 230,315 square feet at 500 Howard Street in the city’s South Financial District. Anthropic describes itself on its website as a company that produces “AI research and products that put safety ..."
-    publishedDateTime: 2024-02-19T06:00:00Z
-    webUrl: "https://commercialobserver.com/2024/02/ai-firms-office-leasing/"
+  - title: "Top Technology Trends Shaping the Future of Business in 2024"
+    excerpt: "Introduction: In the dynamic landscape of business, staying ahead of technological trends is crucial for sustained growth and competitiveness. As we step into 2024, the intersection of innovation and business is marked by transformative technologies that promise to reshape industries and redefine the way organizations operate."
+    publishedDateTime: 2024-02-18T13:46:00Z
+    webUrl: "https://techbullion.com/top-technology-trends-shaping-the-future-of-business-in-2024/"
     type: article
     provider:
-      name: Commercial Observer
-      domain: commercialobserver.com
-    quality: 37
-    images:
-      - url: "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2024/02/Ai_Office_Commercial_Observer_illo_web.jpg?quality=80&w=768\t"
-        width: 768
-        height: 521
-        isCached: true
-  - title: "Super Micro: Riding The AI Revolution"
-    excerpt: "Super Micro Computer is experiencing significant growth in sales, with a surge of over 100% reported recently. The company is forecasting EPS growth of ~250% in the current quarter, driven by increased demand for infrastructure solutions, warranting the ..."
-    publishedDateTime: 2024-02-19T00:02:00Z
-    webUrl: "https://seekingalpha.com/article/4671278-super-micro-riding-ai-revolution"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2024/2/17/234751-17082323014345374.png"
-        width: 640
-        height: 358
-        isCached: true
-  - title: "OpenAI’s Altman Seeks US Blessing to Raise Billions for AI Chips"
-    excerpt: "OpenAI Chief Executive Officer Sam Altman is working to secure US government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national security and antitrust concerns in Washington,"
-    publishedDateTime: 2024-02-16T16:20:00Z
-    webUrl: "https://news.bloomberglaw.com/antitrust/openais-altman-seeks-us-blessing-to-raise-billions-for-ai-chips"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 34
-  - title: "Planning a Career in the Age of AI"
-    excerpt: "After decades of industrial robots, factory layoffs, and outsourcing, automation has finally arrived in the cubicle. A recent Wall Street Journal article spotlighted how the new “robots for the mind”—the complex algorithms and language models of generative AI—are creating rising uncertainty in the professional class."
-    publishedDateTime: 2024-02-20T19:16:00Z
-    webUrl: "https://www.aei.org/articles/planning-a-career-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
 
 secured: "Bhb8UICZKV+PO5Tda1vIB4mhfDY4SERxst0oUIJERQoj//cyRRdpeTFIXezHF5wPO3ipfmkal+DHU7A88pEMWeNMFGZ5y5xbTH0vs/DN/teIznO4C7TzslkJSVHYAkAbC8OSx39SnXicLG+6OdZa33XlnudhjYt65+bh4CjAK/Z6BEoXPyifFWBS0dE82k/bh26OjtZV3RVlGEWWWqX9TGFZ2CbGcDlJe6Z2A4XAqBXr4BhyD40vJe+Hi4CyTNDJT7kAzQr7omgXttRMrIEpQsK/CaEB5xZdNqbLPzqWGnmel1j7nPvQ4oHkYovfy8dGUzQxZ6gaTT0o0JoEn4GP2B12HxVoH6STKOQJp0JN/wQ=;waYO0DPvxJzsYVT0Ibv14A=="
 ---

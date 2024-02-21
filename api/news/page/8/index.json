@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-02-14-chinese-tech-startups-quietly-stop-testing-driverless-cars-on-californian-roads.md",
+      "title": "Chinese tech startups quietly stop testing driverless cars on Californian roads",
+      "excerpt": "Chinese autonomous vehicle companies have scaled back testing of driverless cars in California, a BI analysis found. These companies face growing scrutiny from US lawmakers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2",
+      "originalUrl": "https://www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65cb4d046fcb546d2d4eee2d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp",
+      "publishedDateTime": "2024-02-14T10:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-it-looks-like-russias-automated-killer-drones-did-not-work-as-planned.md",
       "title": "It Looks Like Russia’s Automated Killer Drones Did Not Work As Planned",
       "excerpt": "Russia's Lancet kamikaze drones were recently upgraded to locate targets without human involvement — but this automated mode now seems to have been disabled.",
@@ -662,6 +714,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-14-draculas-chivito-is-this-years-best-name-for-a-newly-found-astronomical-object.md",
+      "title": "“Dracula's Chivito” Is This Year's Best Name For A Newly Found Astronomical Object",
+      "excerpt": "IFLScience needs the contact information you provide to us to contact you about our products and services. You may unsubscribe from these communications at any time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/draculas-chivito-is-this-years-best-name-for-a-newly-found-astronomical-object-72931",
+      "originalUrl": "https://www.iflscience.com/draculas-chivito-is-this-years-best-name-for-a-newly-found-astronomical-object-72931",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.iflscience.com/assets/articleNo/72931/aImg/74152/dracula-s-bun-meta.png",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-robotics-and-artificial-intelligence-revolutionizing-energy-infrastructure-maintenance.md",
       "title": "Robotics and artificial intelligence revolutionizing energy infrastructure maintenance",
       "excerpt": "the University of Houston is offering a timely micro-credential course focused on artificial intelligence and robotics for energy integrity and maintenance. The course, titled \"AI & Robotics for ...",
@@ -735,6 +830,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-eu-finds-imessage-three-microsoft-products-dont-qualify-as-core-platform-services.md",
+      "title": "EU finds iMessage, three Microsoft products don’t qualify as core platform services",
+      "excerpt": "Certain provisions of the DMA only apply to products that are designated as “core platform services” by regulators. The decision the EU published today specifies iMessage and three Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/02/13/eu-finds-imessage-three-microsoft-products-dont-qualify-core-platform-services/",
+      "originalUrl": "https://siliconangle.com/2024/02/13/eu-finds-imessage-three-microsoft-products-dont-qualify-core-platform-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/photo-3.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T22:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1045,126 +1183,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-the-enduring-absurdity-of-artificial-intelligence.md",
-      "title": "The Enduring Absurdity of Artificial Intelligence",
-      "excerpt": "The narrative of Sisyphus, as reimagined by Albert Camus, offers curious insights into this juncture, inviting us to contemplate the essence of our technological pursuits and the inherent absurdity they may entail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T19:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression.md",
-      "title": "Machine learning can predict eyes at risk for diabetic retinopathy progression",
-      "excerpt": "Automated machine learning models may help identify eyes at risk for diabetic retinopathy (DR) progression based on ultra-widefield retinal images, according to a study published online Feb. 8 in JAMA Ophthalmology.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-02-machine-eyes-diabetic-retinopathy.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-02-machine-eyes-diabetic-retinopathy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T19:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024.md",
-      "title": "AI Chip Vendors: A Look At Who’s Who In The Zoo In 2024",
-      "excerpt": "Intel Gaudi3 is starting to look like a late-2024 event, which will virtually assure AMD a strong 2nd place in the market. Meanwhile, Intel still enjoys a significant advantage over AMD in the AI performance of its Xeon server CPUs for inference processing, a gap AMD will likely attempt to close later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c3dc989cb174ce82b81de6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1542,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/amp/",
-      "publishedDateTime": "2024-02-13T18:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

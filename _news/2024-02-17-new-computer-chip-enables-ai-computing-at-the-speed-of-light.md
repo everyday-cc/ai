@@ -7,8 +7,8 @@ originalUrl: "https://www.earth.com/news/new-computer-chip-enables-ai-computing-
 webUrl: "https://www.earth.com/news/new-computer-chip-enables-ai-computing-at-the-speed-of-light/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: earth
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Meet the Chip That Uses Light, Not Electricity, to Power AI"
+    excerpt: "The new chip operates on an entirely different principle, performing calculations at the unparalleled speed of light."
+    publishedDateTime: 2024-02-21T02:55:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/compare-fibre-PAOv9-7VBMI-unsplash-scaled.jpg"
+        width: 2560
+        height: 1793
+        isCached: true
+  - title: "Google’s Chess Experiments Reveal How to Boost the Power of AI"
+    excerpt: "By rewarding computers that combined different approaches to solve chess puzzles, Google created an enhanced AI that could defeat its existing champion, AlphaZero."
+    publishedDateTime: 2024-02-18T13:00:00Z
+    webUrl: "https://www.wired.com/story/google-artificial-intelligence-chess/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/65cf8b0dbdfe2a615c153428/191:100/w_1280,c_limit/Quanta-CreativeChess-byNashWeerasekera-Lede-scaled.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Penn Engineers Develop Chip That Uses Light to Power AI"
     excerpt: "University of Pennsylvania engineers have developed a new chip that uses light waves, rather than electricity, to perform the complex math essential to training AI."
     publishedDateTime: 2024-02-20T06:23:00Z
@@ -39,20 +67,15 @@ related:
         width: 800
         height: 557
         isCached: true
-  - title: "US researchers develop 'unhackable' computer chip that works on light"
-    excerpt: "Researchers at the University of Pennsylvania have developed a new computer chip that uses light instead of electricity. This could improve the training of artificial intelligence (AI) models by improving the speed of data transfer."
-    publishedDateTime: 2024-02-16T10:01:00Z
-    webUrl: "https://interestingengineering.com/innovation/unhackable-computer-chip-works-on-light"
+  - title: "The Future Of AI Might Not Be Chat-Based"
+    excerpt: "Businesses will need to soon start looking beyond the appeal of conversational interfaces and understand how task-oriented models can be integrated into their operations."
+    publishedDateTime: 2024-02-16T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/16/the-future-of-ai-might-not-be-chat-based/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/OMlBQFqjPN0Q0G1EdsoOtoOjLydOMngbsllhZnR1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "W9AO3nOrL7idBeBhyxJW9MPCCtZCCe0QIiftmc/sc/YVy+wgho9+CBpH0W10SdO0C4kuCctbmnnaEKmOLV0nwwjaPWjJSrBRaZCpZ+muTHZ9OkY1gbQKFUU+9lE/l0PpWVWPIhM1GHZiVSzgNQOq3ZsHnXGGP4iK00mMNTY4rUXhprMlhaXF8bVxYmpOcAvkCA0NynbZeUS+PY7JEbzOMt3+Mj9Xbu9rGZUE59amane46G3bqkOZBMtYVMPrS+4EI70Cwu95LVWSInUllm7/Chpc3lqufq7ZouMWqgEQJnlG9kV5Ot7Gx4JST7WiCR+g4SyH9pjVTFBdJl9VBwItaSpZIy4OH7pS9F5VBlBwhsY=;N+0or0jXZI+E6doJJvz51g=="
 ---

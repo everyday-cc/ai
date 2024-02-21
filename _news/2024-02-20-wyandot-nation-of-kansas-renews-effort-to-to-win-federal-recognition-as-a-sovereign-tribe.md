@@ -99,20 +99,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Croydon support for Met Police facial recognition operation"
-    excerpt: "The Mayor of Croydon has shown support for the Met Police’s facial recognition operations, saying ‘if you’ve got nothing to hide you’ve"
-    publishedDateTime: 2024-02-16T05:00:00Z
-    webUrl: "https://www.yourlocalguardian.co.uk/news/24122082.croydon-support-met-police-facial-recognition-operation/"
-    type: article
-    provider:
-      name: Your Local Guardian
-      domain: yourlocalguardian.co.uk
-    quality: 39
-    images:
-      - url: "https://www.yourlocalguardian.co.uk/resources/images/17755422/?type=og-image"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Gardaí and facial recognition — are we becoming a surveillance society?"
     excerpt: "The use of facial recognition technology is set to become more widespread in society — in many ways, it is already used as part of routine police work — but how far is too far? A compromise too far? A new bill is going through the Dáil to allow ..."
     publishedDateTime: 2024-02-17T00:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -140,6 +140,15 @@ related:
     provider:
       name: Undark
       domain: undark.org
+    quality: 19
+  - title: "Planning a Career in the Age of AI"
+    excerpt: "After decades of industrial robots, factory layoffs, and outsourcing, automation has finally arrived in the cubicle. A recent Wall Street Journal article spotlighted how the new “robots for the mind”—the complex algorithms and language models of generative AI—are creating rising uncertainty in the professional class."
+    publishedDateTime: 2024-02-20T19:16:00Z
+    webUrl: "https://www.aei.org/articles/planning-a-career-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
     quality: 19
 
 secured: "HCXzu8dij6C/C73gBeseqtM+bFUHcXKJJ4PAw20Kb9jgQ8/H9v0ivAaKQo1oGi6rmuKWl0jj3RDBq7Zvg01yIJmiAACW0GZK188NdnGZCE7S34y1bJIEIWRYO+x9rGTzwECXfaWdjBB2uxYo75lhZ+X6icW0swJhTIzwCc+wTxCNhvcAGijfkV9GAbV7BFas4SKIAHyr9/otxlps2asm1g2TIG5RCeV7laJ85x2HhkRKIGzRa9ptftfucEIVTa7Ul6KgND63FRSp/OM6TEa8zF+EbHr2cbI7YxdCTMH6QCdMXTuAwMCx26Bdb6+9910UT/qEYaJR2cT1eOCCn0UIgT5Ax5I5P+rcwYfbLhnpHbHhPJTd5LYluEVEYzSYk0nOK2Irj6vByYKjZb/wGC/Szy8A4MAtig5XAzgmd82SOMAhOMpr2tcixeoe/FM/mEyeBT7JxPEXmszHll1+adeocuKXXHLphgbBb9H+i/F+QZcHNbRW2KX6U7c1KOusjdZYvIGWKuPfmCVLejP3jCMhHQ==;YdKkOjcSurVICdsM8o5koQ=="

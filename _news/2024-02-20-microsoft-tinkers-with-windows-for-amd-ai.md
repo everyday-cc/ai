@@ -51,6 +51,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 66
+  - title: "Microsoft to invest $2.1bn in cloud and AI infrastructure in Spain"
+    excerpt: "Microsoft has committed to investing $2.1 billion in cloud computing and artificial intelligence (AI) infrastructure in Spain over the next two years. The planned investment was shared by the vice chair and president of Microsoft Brad Smith via a post on X following a meeting with the Prime Minister of Spain, Pedro Sanchez."
+    publishedDateTime: 2024-02-20T14:56:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-21bn-in-cloud-and-ai-infrastructure-in-spain/?ref=runtime.news"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GGt2TbkWIAAO9R7.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft will invest $2.1bn in Spain to expand cloud and AI"
     excerpt: "The focus on AI helped Microsoft briefly hit the $3trn valuation and challenge Apple for the title of the most valuable company in the world. Revenue from the company’s Intelligent Cloud division – which includes Azure – grew by 20pc to $25.9bn."
     publishedDateTime: 2024-02-20T09:35:00Z
@@ -65,15 +79,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Microsoft to invest $2.1bn in cloud and AI infrastructure in Spain"
-    excerpt: "Microsoft has committed to investing $2.1 billion in cloud computing and artificial intelligence (AI) infrastructure in Spain over the next two years. The planned investment was shared by the vice chair and president of Microsoft Brad Smith via a post on X following a meeting with the Prime Minister of Spain, Pedro Sanchez."
-    publishedDateTime: 2024-02-20T14:56:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-21bn-in-cloud-and-ai-infrastructure-in-spain/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 34
   - title: "Opinion: Google, Microsoft will dominate AI as computing costs surge"
     excerpt: "Technology writer Parmy Olson says Google and Microsoft will dominate artificial intelligence as computing costs surge"
     publishedDateTime: 2024-02-19T18:30:00Z

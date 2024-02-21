@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-20-taylor-swift-the-pope-putin-in-the-age-of-ai-and-deepfakes-who-do-you-trust.md",
+      "title": "Taylor Swift, the pope, Putin: in the age of AI and deepfakes, who do you trust?",
+      "excerpt": "Rumours and gossip changed the course of French history. Now they’re weapons for ‘newsfluencers’ and dictators in the 21st-century information wars, says Guardian Europe columnist Alexander Hurst",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/00c7a3193fea3250fe6c30f206c7be0f31629e09/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=cf0b54c2ff3c77c1833ce44629b652a8",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin",
+      "publishedDateTime": "2024-02-20T11:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman.md",
+      "title": "AI regulation will be required in 5-10 years: DeepMind's Mustefa Suleyman",
+      "excerpt": "Suleyman stressed the importance of regulating AI to prevent misuse of information and its impact on nation states.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-9502,msid-107852095/mustefa-suleyman.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms",
+      "publishedDateTime": "2024-02-20T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-welcome-to-the-era-of-mobile-ai.md",
+      "title": "Welcome to the Era of Mobile AI",
+      "excerpt": "One of the most welcomed AI features is Circle to Search with Google, an incredible new tool for intuitive discovery. Our communication tools for removing language barriers, such as Live Translate, Chat Assist and Interpreter, have captured the imagination ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928",
+      "originalUrl": "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/TM%20Roh_Editorial.jpg?itok=Ir3q2Fow",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928",
+      "publishedDateTime": "2024-02-20T10:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-watch-out-workers-this-billionaires-ai-is-coming-for-blue-collar-jobs.md",
       "title": "Watch Out, Workers: This Billionaire’s AI Is Coming For Blue Collar Jobs",
       "excerpt": "John Fish built Boston’s largest construction firm, Suffolk, on the backs of laborers. Now, fighting a never-ending worker shortage, he’s betting the future is filled with hardwired hard hats and AI foremen.",
@@ -102,48 +239,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-samsung-integrates-galaxy-ai-with-bixby-adds-voice-enabled-artificial-intelligence-features.md",
-      "title": "Samsung Integrates Galaxy AI With Bixby; Adds Voice-Enabled Artificial Intelligence Features",
-      "excerpt": "Bixby is the native virtual assistant for Samsung devices Galaxy AI was launched alongside the Galaxy S24 series in January Samsung’s Galaxy AI adds features such as Call Assist, Interpreter mode",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690",
-      "originalUrl": "https://www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/samsung_galaxy_s24series_1708417812133.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690/amp",
-      "publishedDateTime": "2024-02-20T08:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -440,21 +535,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-20-hear-your-imagination-elevenlabs-to-launch-model-for-ai-sound-effects.md",
-      "title": "Hear your imagination: ElevenLabs to launch model for AI sound effects",
-      "excerpt": "After mastering the art of machine learning (ML) based voice cloning and synthesis, ElevenLabs, the two-year-old AI startup founded by former Google and Palantir employees, is moving to expand its portfolio with a new text-to-sound model.",
+      "path": "_news/2024-02-20-openai-sora-video-footage-brought-to-life-by-ai-generated-sounds.md",
+      "title": "OpenAI Sora video footage brought to life by AI-generated sounds",
+      "excerpt": "OpenAI released a new AI model called Sora that could generate high-resolution video clips from text prompts. But they're all essentially clever silent films. Now ElevenLabs has added background sounds to Sora-created footage.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hear-your-imagination-elevenlabs-to-launch-model-for-ai-sound-effects/",
-      "originalUrl": "https://venturebeat.com/ai/hear-your-imagination-elevenlabs-to-launch-model-for-ai-sound-effects/",
+      "webUrl": "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/",
+      "originalUrl": "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 219,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all",
+          "url": "https://assets.newatlas.com/dims4/default/7df3253/2147483647/strip/true/crop/1903x999+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc0%2F79%2F292b13454764b891a7d395388ef8%2F01.jpg&na.image_optimisation=0",
           "width": 1200,
-          "height": 600,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -464,14 +559,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T19:12:00Z",
+      "publishedDateTime": "2024-02-19T17:26:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "New Atlas",
+        "domain": "newatlas.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -487,6 +582,7 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -541,7 +637,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -680,7 +776,7 @@
       "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -778,8 +874,8 @@
       "title": "Employing your cloud data warehouse to scale up AI/ML",
       "excerpt": "AI can unlock the power of enterprise data, providing companies can get it to the right place in the right state",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/",
-      "originalUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/",
+      "webUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/?td=rt-9bq",
+      "originalUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/?td=rt-9bq",
       "featuredContent": null,
       "highlight": null,
       "heat": 76,
@@ -945,7 +1041,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -1074,103 +1170,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-2024-will-be-ais-breakout-year.md",
-      "title": "2024 will be AI’s breakout year",
-      "excerpt": "Despite all the artificial intelligence (AI) hype we saw last year, Stephen McBride believes 2024 will be AI’s breakout year. According to Stephen, two things will wash away the AI skepticism this",
-      "sourceUrl": null,
-      "webUrl": "https://www.mauldineconomics.com/editorial/2024-will-be-AIs-breakout-year",
-      "originalUrl": "https://www.mauldineconomics.com/editorial/2024-will-be-AIs-breakout-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20240216_feature.jpg",
-          "width": 725,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.mauldineconomics.com/editorial/amp/2024-will-be-AIs-breakout-year",
-      "cdnAmpWebUrl": "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/2024-will-be-AIs-breakout-year",
-      "publishedDateTime": "2024-02-19T09:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MauldinEconomics.com",
-        "domain": "mauldineconomics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good.md",
-      "title": "I tested Meta's Code Lama with 3 AI coding challenges that ChatGPT aced - and it wasn't good",
-      "excerpt": "Meta CEO Mark Zuckerberg recently unveiled Code Llama, a 70B parameter AI designed for coding. But how does it stack up against giants like ChatGPT? I put it to the test.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "originalUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1ccf148eef076cac3e9b8d3a9942ad0f45134b0b/2024/02/19/91f4a2a2-3674-4726-9ea0-825a6c9f6629/gettyimages-699283090.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "publishedDateTime": "2024-02-19T08:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

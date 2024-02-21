@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-19T23:15:00Z
 originalUrl: "https://omaha.com/life-entertainment/nation-world/ai-girlfriend-boyfriend-replika-paradot/article_5e614013-1c26-5898-812a-bec73052eaed.html"
 webUrl: "https://omaha.com/life-entertainment/nation-world/ai-girlfriend-boyfriend-replika-paradot/article_5e614013-1c26-5898-812a-bec73052eaed.html"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/e6/5e614013-1c26-5898-812a-bec73052eaed/65d377c08f90a.preview.jpg?crop=1534%2C805%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"

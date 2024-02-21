@@ -109,6 +109,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Why some video game voice actors are letting AI clone their voices"
+    excerpt: "Although AI's reputation among artists isn't strong, video game voice actors are finding ways to combine ethical practices with their artistry."
+    publishedDateTime: 2024-02-21T03:22:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/some-video-game-actors-are-letting-ai-clone-their-voices-they-just-dont-want-it-to-replace-them/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "YVZ0N3VBK1E80fZacUodPRNXasX9flrd9FEOxZ4EiKUGUjr5H1ZL7bmo9WfCvJeGVr/RBU8dSmQ1U6JKZGlXjuwAxOXRsjga35AA8V298CABMOfO6sEZuSAUrQLlcWhfeRvJHE43oaTkYM53nVuc/WV9SDW3RV6SnJKVQp/C0LXHcH10FdEwPOpaHrKSfp4E12VbgHF3M8jUHSQsCAVJ4ZxGovGCkFckGlSd071RM+BdDRjFVUwvMmyi7pKxyf7sl/OVx0O+6bUPjngw0ZgGLgl+CRTE2/nAAR1OMqipiAQoZ8i0/WJXdFTaMEgsdivfgHJlSr4Cryjnz/Asq5WPOgianJ3OtozQLymwUlMvZIgBPg1RqmR4hnRnDBdtlqV4Gb9XG8wf4hJt3fR6Ur0GX3Z7TE0gtFx7ihYbqE09TvjXr4ZWL/aDzyWZd2Z93T1NpBTJONqmXGW2g2mY3SSkR0aMPp9vLPALPlYKZffhlUNAD9AuuDfrlXbUQzCCbj+2vfwAx61XfaV76jDbJbVB4g==;qzfWcyz1F0g2LToPFr7+nQ=="
 ---
