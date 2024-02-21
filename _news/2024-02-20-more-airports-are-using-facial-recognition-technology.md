@@ -123,6 +123,20 @@ related:
         width: 629
         height: 419
         isCached: true
+  - title: "UB computer science professor weighs in on bias in facial recognition software"
+    excerpt: "Despite many upsides, AI has a disturbing element: bias in facial recognition technology that seeps into the criminal justice system, health care and other areas of daily life. For example, a number of people of color have been falsely identified as ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.buffalo.edu/news/tipsheets/2024/ub-ai-expert-facial-recognition-expert-ifeoma-nwogu.html"
+    type: article
+    provider:
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 35
+    images:
+      - url: "https://www.buffalo.edu/content/shared/university/news/expert-tipsheets/2024/ub-ai-expert-facial-recognition-expert-ifeoma-nwogu/_jcr_content/teaser.img.512.auto.jpg/1708552815410.jpg"
+        width: 512
+        height: 768
+        isCached: true
   - title: "Wyandot Nation of Kansas renews effort to to win federal recognition as a sovereign tribe"
     excerpt: "Federal recognition entails the United States acknowledging a tribe as a separate government entity — denoting their right to self-governance. Currently, the U.S. recognizes 574 tribal nations. For the Wyandot Nation of Kansas to join them,"
     publishedDateTime: 2024-02-20T10:00:00Z

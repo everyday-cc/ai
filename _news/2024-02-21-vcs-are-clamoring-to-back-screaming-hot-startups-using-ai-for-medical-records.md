@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/vcs-clamoring-invest-medical-scrib
 webUrl: "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 36
-  - title: "Artificial intelligence is starting to help federal weather forecasting"
-    excerpt: "Few endeavors have engaged the world's best minds than predicting the weather. Forecasting has improved since the days of sailing ships. Now artificial intelligence is blowing in like a Category 5 hurricane."
-    publishedDateTime: 2024-02-16T20:22:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2024/02/artificial-intelligence-is-starting-to-help-federal-weather-forecasting/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 17
 
 secured: "FR8XHrmxvkg5cAoh7BDhWRi7aPAifshIoGU+L+Ab2huBx+bvX2Uhmj+f7knGaWhSn3SyUWpqgGm5/bxTTMRwwfyjVrmMA1I6ugZNDyim8YC51AYI7LP0qUCKNE2IScpQk1F/hjYG3gffMN7ZTE4BT4GWECk3rH0rcba41SxhuwTmxHayOYxP0Y2vLWkzYItPnBoU5OIG2AGFv3p7pFmuDMrW6j15I+OalSqH906pU+tVl7rvl8QDQMBMcbL0zp/Gd9ioZG8cG+ZR0/99rcYheyCqWJzRYIVUvXaRglzV/1F8jhCGLoNwIFDDuLUP5875Hq/ObQmmMa2b1Wh+48pv6TrMWyuU/1NRGLJJ+m+sD8k=;7LjN1skpGMuh0RaQ3CCrZQ=="
 ---

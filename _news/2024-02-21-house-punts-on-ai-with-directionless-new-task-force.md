@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionle
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/amp/"
 type: article
 quality: 87
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "2 WMass experts on a new statewide task force to explore use of AI technology in all industries"
-    excerpt: "WNE President Robert Johnson and MassMutual's Sears Merritt among the 26 person task force that will tackle how industries can introduce artificial intelligence to their workforce."
-    publishedDateTime: 2024-02-16T23:02:00Z
-    webUrl: "https://www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html"
-    ampWebUrl: "https://www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 47
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BBRIVXTRZBH6ZN6VN2EYOYBC54.png"
-        width: 1000
-        height: 600
         isCached: true
   - title: "US House Forms AI Task Force as Legislative Push Stalls"
     excerpt: "Earlier this month, Commerce Secretary Gina Raimondo said leading AI companies were among more than 200 entities joining a new U.S. consortium to support safe AI deployment including OpenAI, Alphabet's Google, Anthropic, Microsoft, Meta Platforms, Apple, Amazon.com and Nvidia."

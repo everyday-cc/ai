@@ -129,6 +129,20 @@ related:
         width: 629
         height: 419
         isCached: true
+  - title: "UB computer science professor weighs in on bias in facial recognition software"
+    excerpt: "Despite many upsides, AI has a disturbing element: bias in facial recognition technology that seeps into the criminal justice system, health care and other areas of daily life. For example, a number of people of color have been falsely identified as ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.buffalo.edu/news/tipsheets/2024/ub-ai-expert-facial-recognition-expert-ifeoma-nwogu.html"
+    type: article
+    provider:
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 35
+    images:
+      - url: "https://www.buffalo.edu/content/shared/university/news/expert-tipsheets/2024/ub-ai-expert-facial-recognition-expert-ifeoma-nwogu/_jcr_content/teaser.img.512.auto.jpg/1708552815410.jpg"
+        width: 512
+        height: 768
+        isCached: true
   - title: "More airports are using facial recognition technology"
     excerpt: "The Transportation Security Administration is planning to widen its use of facial recognition technology, hoping to speed up the boarding process. More than 30 airports across the country are already using such technology. The TSA plans to roll it out to ..."
     publishedDateTime: 2024-02-20T00:00:00Z

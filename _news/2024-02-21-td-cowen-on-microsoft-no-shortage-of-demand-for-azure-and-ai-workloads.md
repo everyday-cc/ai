@@ -5,10 +5,12 @@ excerpt: "TD Cowen analysts reiterated an Outperform rating on Microsoft (NASDAQ
 publishedDateTime: 2024-02-21T13:16:00Z
 originalUrl: "https://www.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986"
 webUrl: "https://www.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986"
+ampWebUrl: "https://m.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986?ampMode=1"
+cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986?ampMode=1"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 87
+heat: 97
+published: true
 
 provider:
   name: Investing
@@ -17,6 +19,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://i-invdn-com.investing.com/news/LYNXMPED0P1G8_L.jpg"
+    width: 800
+    height: 533
+    isCached: true
 
 related:
   - title: "Cushman & Wakefield working with Microsoft on AI"
@@ -34,6 +42,6 @@ related:
         height: 385
         isCached: true
 
-secured: "LLO5s/lIuKPmPq7jQ2lGahieImeSrwbYdjiGYRZSURNlTwZFlqRrxOc74ncoIDPBZJOAQKHa5k5DIn8rT06o3ij1WyzbQKj29uyENbmvvFsLYxBDOFfHTE3D2Kd88KTTD5GkmrQFuu54M/742WUsHmvocYXpeQaLy+oif5Uhe35PgenF1QI4pIP4x5Eh/vX1DxN9+bsycwnsiOsiaaYL+LYx5CxPRBv03HXEY7q5/i+bTDYd5wlMHfqfuXZlFZYxjG7zrzyiYCiqlOBaRnCiQYBfw0qZuF3UPIpgjDDIlH0ptFUlDaXqodvnp9HWk8QCBbxgkVuNBvDo7wH61s+HDSFO/Lw+QNf1ngjPMXksVi2GK1B0QGbd/IkNOc4xJuNlsZmqkkZN0VejluLcpyQruFatYvUg324pg24BEFOQfmdpLldVl5Z+M2VguEp7bHH+2URCerU0YCvKVSQPQSL6Pbng+sdEEk3sYq1/m7ufNPu7Fxyysaml0UbdNSyj+UGNE5p+zgepYPYfk7LqdJmTnw==;d4sEVxUGWq+PsLWPEoLvrA=="
+secured: "PVdt6SayAh2QFRbrdFhcPjFwBKQCebO728e/o1iNRu5fG8LoGQwfVX3vHm5A7PRc2AojmSNHihCFKOYPLq0Mix7q1fJBtzEPTeiMgzeHZJEfWBZ+9erEpMzupyzuU9oHdLInGHVOiurJC3mpkcJqyI98jtz3N8YqDDJAjWlqAFGPKARmZHhvYJG0Q3QkDd5cg5tyLcKAupJDXGrZoAkfL6sgKBr4UNSOw1Coi4egg48OUVhADs/YlX0JAmVOx7RclyfGTICKFP2al+KKC15LxLkBS2zO1xEp6Fz0/66veOKBudu/KfjK0wKFddFdzKeT/BRZhpY04sAgbF+GJTSBHBTrcKsXdVkPblz96V1cm70=;A7HwSoP1JhWF0AR5+JyrWQ=="
 ---
 

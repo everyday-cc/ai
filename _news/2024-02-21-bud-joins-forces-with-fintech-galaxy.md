@@ -165,6 +165,20 @@ related:
         width: 509
         height: 339
         isCached: true
+  - title: "Fintech Giant Black Banx Boasts Highest Annual Profit since 2015"
+    excerpt: "Where traditional banks have huge efforts and manual labor costs to identify and do background checks on their non-resident clients, Black Banx uses Server Power and AI to run a fully automated and scalable identification process in real-time. Black Banx ..."
+    publishedDateTime: 2024-02-21T21:08:00Z
+    webUrl: "https://www.latimes.com/b2bpublishing/business-partnerships/story/2024-02-21/fintech-giant-black-banx-boasts-highest-annual-profit-since-2015"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 24
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f5f3a64/2147483647/strip/true/crop/800x420+0+62/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6f%2Fc8%2Fe32bb09c4e55931357a21446f73e%2Fimage1.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "72% fewer Indian fintech startups incorporated in 2023 than in 2021: Report"
     excerpt: "There have been around 30 acquisition deals in the Indian fintech space in 2023 and 20 out of these were done by large companies with over 1,000 employees or funding of over $50 million"
     publishedDateTime: 2024-02-20T07:39:00Z

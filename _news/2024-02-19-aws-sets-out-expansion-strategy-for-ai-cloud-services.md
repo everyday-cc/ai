@@ -7,7 +7,7 @@ originalUrl: "https://www.bangkokpost.com/business/general/2744454"
 webUrl: "https://www.bangkokpost.com/business/general/2744454"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1000
     height: 1352
     isCached: true
+
+related:
+  - title: "Lightning AI Collaborates with AWS to Offer Enterprises Optimized Performance for Building and Deploying AI Products"
+    excerpt: "The SCA allows Lightning AI to leverage AWS compute services to power generative artificial intelligence (AI) services and to provide first-class support for Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances, powered by AWS Trainium accelerators ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/lightning-ai-collaborates-with-aws-to-offer-enterprises-optimized-performance-for-building-and-deploying-ai-products/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 11
 
 secured: "0omcnnxC9hkcHkb/CnujvcC377BPLD+zgpFumN20LaeD4wLzFguF1XynFKauTu1uKDbZRZKQPT0xVtULfDlSNxIKgMj7jL3hFjAThFvbzkvnmvhkmxtLDl9XqmV8ClTmmlNzlq5r38ziORF4ig4fInO2cKw/0O6MiO9AwfLVYneLFFvN5rcuQd1+RN6CLyzD+JC7+bTrvZJj0/uJZ+47eCiorLffoyAvgm5ULJlAaNuRMgNbo809mmX8O2k1XnjoxVnLff9kwfIPf+MqVizNHC2zV0jCDjqVMZBttrj39LFrcc4/kEDarbTNEemGu8UsMUz3xRQlk+fG6gZ0BRbwThlGFM8OAvt5bM/jdlPyshAlc5ykdBGwwcxi6bxNDH03uhaGdEL78JAcsdRFZobKFiN2HZT13aa5D5BZ2hMR7PwYmZ8cG2a6zxf3dxy7mxAHfAvbiV7y2cYDmyO3wHlXS3r87ZezuCjwmcNIKHBU9o/LnV8IEXwJmLdVPRxyjvzEN9pZp1m7JbEm/dT6Voyf3w==;SMzQZiwi9iuonxTkwDdQ5A=="
 ---

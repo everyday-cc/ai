@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/tech-firm
 cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -18,33 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Big Tech unites to fight misleading AI"
-    excerpt: "Welcome to The Hill’s Technology newsletter {beacon} Technology Technology The Big Story Big Tech pledges to fight deceptive AI in 2024 elections Several major technology"
-    publishedDateTime: 2024-02-16T21:34:00Z
-    webUrl: "https://thehill.com/newsletters/technology/4473558-big-tech-unites-to-fight-misleading-ai/"
-    ampWebUrl: "https://thehill.com/newsletters/technology/4473558-big-tech-unites-to-fight-misleading-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4473558-big-tech-unites-to-fight-misleading-ai/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 39
-  - title: "Feds tap artificial intelligence to boost recycling"
-    excerpt: "The technology could help plug data gaps key to EPA's goal to improve the nation's recycling rate to 50 percent by 2030."
-    publishedDateTime: 2024-02-21T17:31:00Z
-    webUrl: "https://www.eenews.net/articles/feds-tap-artificial-intelligence-to-boost-recycling/"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 37
-    images:
-      - url: "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/f2/e4/f0aaa5ab47a9b6bb4534790c2f8f/eed-0701-crunden-recycling-1160-01.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "U4ypaxMcBGUkKq5rHfOFC6bbtJmgiXs5aWutljbwFTcP3sivhXMUchSU+6syX61Q58EMFvQXJiTABUYfhA7PsiRZWkzYaOPxb3HbYPJXeNfR1qId5jQLGrKcVB2lMFKZ+lXQCW6rnRiCl0yJcRyG8zc5ljBv7Je19t2e0yByuNSypYCnykddTQLDtJbljrAJhY9TbehwYCscdsQXKE884C75I4Z6/pHkrQIlJ+Hv3slbM1go27wVKlO8IWMOwiIrQybUrJrCRg+MQgaeXVbpn7XDFojhnd+wrCzZngAvvcEfterpTL6t4hXt48fNmQvqHGMyNEqFDzOX4l/9/Qfc2EibTkbJQWf6P9Wvhiza3N2iIA+s9Y4JDCAC6o1bwrWOKIzI9YrxLeZ6XVjLTR9VMvfGD9/Fatukom28jrrpNLy3UNV6Sz9PDbTa0bScofZ3rmw9+E6qtYiXWB6/v3CNzIEyJ6JS14rWrHjgSb2yEkMy1A3se0Q8WivjI1LObVPmpxNg0JCNBuwm1Q83vUiGwQ==;mTRAlV9PUx/D5bNuqVM4tw=="
 ---

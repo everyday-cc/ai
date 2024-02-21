@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial intelligence is starting to help federal weather forecasting"
-    excerpt: "Few endeavors have engaged the world's best minds than predicting the weather. Forecasting has improved since the days of sailing ships. Now artificial intelligence is blowing in like a Category 5 hurricane."
-    publishedDateTime: 2024-02-16T20:22:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2024/02/artificial-intelligence-is-starting-to-help-federal-weather-forecasting/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 17
 
 secured: "hTHpvsWArOeH38lZAUIl6nVkMh5X8noAErqfZ/HbSpRmoD92erGnlJ6VWr4hmFegCt5fiiKSz9GPTPDnnthqcx7NglNvdvF+j6BfWyCyfj1Px4EkFB9+M/8yBmbeC7xeOBGGQwfPKyJbtLBnfLLUn8tfYe4wWq7VoTKTRo0vOUw3w62Mtl68Q+j/nghIyayqP33gHnY7+nIXnYT3+ynBy93SjoYAS50hu+h0pNkY0hT7ciU7E1uaAL1Nd7l/I00bqplPFGO/1MN+n6OXeRVixFPrwW75X/HYNNw82sWCuJcfjxFaFRN4fzDw1ipVI7TrWFaokQWdCLB518yPScfz2gjvr/nUbYAEkQvQnQjFVUIvyNXV4ebUTUf1BHw0Y92QOO1RUODxrYv2RfeRCmtdUEpKKi8x/7eDq1NmACB8iPNnMZ3KBJaYf4+nH2uAhddQSUybnapuYTQqMd3cY34JH/+TDsEBen/Bcs8a/6eminZqFYCFGnoLKj6N2n/hXYxnOfLfAIn2qClRQx+dM6sbeA==;/3/9lIlXGSqV3f5b8j3d7g=="
 ---

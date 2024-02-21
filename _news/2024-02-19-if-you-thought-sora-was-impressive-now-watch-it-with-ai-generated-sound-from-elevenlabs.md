@@ -108,22 +108,6 @@ related:
         width: 550
         height: 309
         isCached: true
-  - title: "OpenAI's new text-to-video tool, Sora, has one artificial intelligence expert \"terrified\""
-    excerpt: "Another groundbreaking generative artificial intelligence tool from the company behind ChatGPT unveiled Thursday is expected to accelerate the proliferation of deepfake videos and have implications for virtually every industry. Sora, an AI application that ..."
-    publishedDateTime: 2024-02-16T22:19:00Z
-    webUrl: "https://www.cbsnews.com/news/openai-sora-text-to-video-tool/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/openai-sora-text-to-video-tool/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-sora-text-to-video-tool/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 63
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/02/16/06bdbde2-d331-421b-9b02-dfcb40887307/thumbnail/1200x630/68b8f18388648d7a0794e56790213d64/gettyimages-2006246488.jpg?v=2a01790210e495d24a119503c08f840d"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI Sora's Breaks Our Brains, Vision Pro Loses Its Luster, and More Big Tech News"
     excerpt: "Apple Vision Pro was supposed to be that reality-changing tech but instead, tech bros wanted to return the headset before the return policy expired. Check out the rest of this week’s biggest tech news stories."
     publishedDateTime: 2024-02-17T19:01:00Z
@@ -196,6 +180,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI’s new generative tool Sora could revolutionize marketing and content creation"
+    excerpt: "As with any technological advancement, professionals will need to adapt and find ways to integrate Sora into their workflows, leveraging its strengths to complement their own skills and creativity."
+    publishedDateTime: 2024-02-21T19:44:00Z
+    webUrl: "https://theconversation.com/openais-new-generative-tool-sora-could-revolutionize-marketing-and-content-creation-223806"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 29
 
 secured: "9wgvUj24NUXV6r6yEifqHyn3g4vOIsxYMbSaGHnX4rFReEOoEyizZCUJiqNRjPuZwCyjHHVnEbnHmpLITXHhxDgb/hYLNbSq5hiWce4Mi9JTnnRnHO0OFWCGYqGwJfaXBcJwO9SQYJ+g1Hr7O/fCMX9jd0hDA7nw100opGST+amJ1olxbGxNfiBp2xAIJRazVEvMUts9Urtezrx37wjMkPLjIjE4K991VdisxfDytnnXQDmhvZN9VzMLzzOXPvPYN+BicBJmq4zS0nP/WjlcWXG31oXsnMzqjfS026Tm+b8JRA3Yi6Y1etVKQWTrNXZN3DBpD7zAc2g7Z74O+15NATjuQj1o75tAfCuDgdPtBDumf57sKTOA+hogUK/iZgg3M0W6iH1x8eBeosTHICdescw7A/jKM7HaiyL7KJr1k0p+5V12nKBSE7zqCAMSbGXwj3FK+kksYn7ArxOeZbyT7vXV3LP2X3FP3Cg1oJTyfhBWXQAZ3K8Q5VSDVopaYdsQpmI+IcDIc7mWa1qhPiI2zQ==;IU5b7mkRFSHOhol2oh5XLQ=="
 ---

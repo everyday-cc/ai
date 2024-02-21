@@ -28,6 +28,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 65
+  - title: "Elevating Legal Workflows with AI-Driven Text Summarization"
+    excerpt: "The generative AI capabilities include natural language processing and natural language generation that create new sentences in the summary going beyond the source text. The ability to better understand language and infer context is what makes the ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/elevating-legal-workflows-with-ai-4655636/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 19
 
 secured: "ga73G0Uqd2QBZRFdXmkq6r6LX4/RBcW9J/BLLptHXAXbA2Ai6S5CCnO75DEYb+2zkzDFNoTTWabdO5VrmYh5rmwqH7lOzgKvWyDZ2lLW0Hkvixq9ZjZemESE5aXKlV4BEr6+mMJI8vIt8fkqdnW31jmWnvjXKRjjevzBOGnPKW4W03GFEgEue+e+mlFGFx1FURnz7AuaapJXjXD7bIgjSgqWWLMpn9rGeM9FMJsZSaE4YQSLCpWbF7SBpUnSuwzB2xRbQaBBthQIwmP/veSCRmITJ+jfzHUB8b9Vy4x6SydrI3Ddr/zx1t8NhQlt2ifHvhAV528SFuddtpx6WUQKHtiPhPP0sOPoA0NLj6STAq3BHCvKv/PchkrjfSGYG6LhiIjXKEKNG2kzhDcqhQX7RBjmae0EGSje0i+267kVq4jI6ChLvD+Kl8SViDia9y+rdZHCDtHD/6+XWP1HPH7LxDw7OAAenG5kPCAS46oVhjHSuoGLFNgvcr6DRt0mqtjBx5G1fS6TDfvdMJmrUPs7vg==;uFa0hhIkJwxzhpEIaKrv/g=="
 ---

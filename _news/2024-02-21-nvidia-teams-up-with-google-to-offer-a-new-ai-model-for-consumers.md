@@ -51,6 +51,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia just proved the AI boom has room to run"
+    excerpt: "Nvidia announced it made $22.1 billion in revenue, beating Wall Street's estimates on the strength of its AI business."
+    publishedDateTime: 2024-02-21T21:58:00Z
+    webUrl: "https://www.businessinsider.com/nvidia-ai-sales-q4-beat-estimates-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/nvidia-ai-sales-q4-beat-estimates-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ai-sales-q4-beat-estimates-2024-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/65d6596da3bd891424f90933?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Softbank wants $100 billion to compete with Nvidia for AI chips"
     excerpt: "SoftBank's Masayoshi Son aims to raise $100 billion for a chip venture named Izanagi, focused on AI computing and artificial general intelligence. The project plans to challenge Nvidia's dominance, collaborate with OpenAI, and achieve AGI through Arm's ..."
     publishedDateTime: 2024-02-20T12:30:00Z
@@ -66,6 +82,38 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-107856061,width-1280,height-720,resizemode-4/107856061.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Nvidia's Q4 revenue, profit soar on demand for AI chips"
+    excerpt: "Nvidia’s revenue for its fiscal fourth quarter was US$22.1 billion, up from US$6.05 billion. The company based in Santa Clara, California, earned US$12.29 billion, compared to a profit of US$1.41 billion a year ago."
+    publishedDateTime: 2024-02-21T22:30:00Z
+    webUrl: "https://financialpost.com/investing/nvidia-q4-revenue-profit-soar-demand-ai-chips"
+    ampWebUrl: "https://financialpost.com/investing/nvidia-q4-revenue-profit-soar-demand-ai-chips/wcm/9c69506b-d8ad-4347-95d1-dad6c95d49a9/amp/"
+    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/investing/nvidia-q4-revenue-profit-soar-demand-ai-chips/wcm/9c69506b-d8ad-4347-95d1-dad6c95d49a9/amp/"
+    type: article
+    provider:
+      name: Financial Post
+      domain: financialpost.com
+    quality: 74
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/02/no0221Nvidia-1.jpg"
+        width: 1000
+        height: 750
+        isCached: true
+  - title: "Nvidia shares surge past $700 as demand for AI chips shows no signs of slowing"
+    excerpt: "Nvidia stock has gained more than 30% so far this year as it jockeys with Amazon and Alphabet for a spot among the most valuable companies."
+    publishedDateTime: 2024-02-21T21:47:00Z
+    webUrl: "https://nypost.com/2024/02/21/business/nvidia-shares-surge-past-700-as-demand-for-ai-chips-shows-no-signs-of-slowing/"
+    ampWebUrl: "https://nypost.com/2024/02/21/business/nvidia-shares-surge-past-700-as-demand-for-ai-chips-shows-no-signs-of-slowing/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/02/21/business/nvidia-shares-surge-past-700-as-demand-for-ai-chips-shows-no-signs-of-slowing/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 70
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2024/02/nvidia-q4-earnings.jpg?quality=75&strip=all&1708532974&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "NVIDIA Eos DGX AI supercomputer designed for artificial intelligence"
     excerpt: "In the fast-paced world of technology, NVIDIA has made a significant leap with the introduction of Eos, a new supercomputer that has quickly secured a"
@@ -95,6 +143,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia projects better-than-expected revenue on AI chip demand"
+    excerpt: "One of the most closely watched companies in the AI supply chain, Nvidia projected quarterly revenue of $24.0 billion for February-April, plus or minus 2%, compared with analyst estimates of about $22 billion."
+    publishedDateTime: 2024-02-21T22:18:00Z
+    webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Nvidia-projects-better-than-expected-revenue-on-AI-chip-demand"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F3%2F47313386-7-eng-GB%2FCropped-1708549707illust_SXM2024022100000552.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Nvidia Earnings Are Coming. Why It’s Time to Think About AI Chip Competition."
     excerpt: "It’s not an exaggeration to say that the tech sector's recent rally might depend on Nvidia beating expectations for its earnings report this week. However, stockholders in the chip maker should be looking beyond the immediate horizon and particularly at potential competitive threats."
     publishedDateTime: 2024-02-20T09:37:00Z
@@ -118,15 +180,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
-  - title: "Lead times for Nvidia's AI GPUs narrow, suggesting expanded production capacity"
-    excerpt: "In a note to investors, analysts with UBS said lead times – how long a customer has to wait for delivery after placing an order –"
-    publishedDateTime: 2024-02-16T19:33:00Z
-    webUrl: "https://www.techspot.com/news/101919-lead-times-nvidia-ai-gpus-narrow-suggesting-expanded.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 45
   - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
     excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
     publishedDateTime: 2024-02-20T05:59:00Z
@@ -155,6 +208,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Nvidia data center revenues up 409%, AI earnings beat Wall Street expectations"
+    excerpt: "Revenues across the company were up 256 percent over the same quarter last year to $22.10 billion, while data center-specific revenues jumped 409 percent to $18.4bn. Analysts expected Nvidia’s data center unit to record $17.06bn in sales for its fiscal fourth quarter."
+    publishedDateTime: 2024-02-21T22:47:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-data-center-revenues-up-409-ai-gpu-earnings-beat-wall-street-expectations/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/nvidia_jensen_huang.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Buy the New NVIDIA GeForce RTX 4070 Ti SUPER GPU, Get a Bonus $100 Dell Gift Card"
     excerpt: "NVIDIA's new GeForce RTX 4070 Ti SUPER was recently released and Dell is already offering a great deal for President's Day. Right now, you can get a bonus $100 Dell promotiona; egift card when you purchase a PNY GEFORCE RTX 4070 Ti SUPER 16GB VERTO Overclocked Edition GPU for $849."
     publishedDateTime: 2024-02-19T15:55:00Z
@@ -178,6 +245,17 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
+  - title: "Nvidia’s 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
+    excerpt: "(AP) — Nvidia Corp., which has seen its value skyrocket over the past year thanks to soaring demand for its graphics chips used for artificial intelligence ... based on analysts surveyed by FactSet Research. Analysts had expected revenue of $20.4 ..."
+    publishedDateTime: 2024-02-21T22:09:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 26
   - title: "Nvidia’s Q4 earnings will be a referendum on the AI trade. Revenue expected to jump 234%"
     excerpt: "Shares of the AI chip darling have skyrocketed 184% over the last 12 months, easily outpacing rivals AMD (AMD) and Intel (INTC), which saw their shares rise 91% and 67%, respectively. Nvidia’s incredible run briefly pushed its market capitalization past ..."
     publishedDateTime: 2024-02-20T14:02:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-21T16:21:00Z
 originalUrl: "https://www.nytimes.com/2024/02/21/technology/china-united-states-artificial-intelligence.html"
 webUrl: "https://www.nytimes.com/2024/02/21/technology/china-united-states-artificial-intelligence.html"
 type: article
-quality: 50
-heat: -1
+quality: 52
+heat: 62
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static01.nyt.com/images/2024/02/21/business/21CHINA-AI/21CHINA-AI-facebookJumbo.jpg"
@@ -44,6 +45,6 @@ related:
         height: 550
         isCached: true
 
-secured: "og4T3YsDU4nglQiFT/PsAkA2F9PVPNT4KoP3TvlNTfU5cmIKePqDF8Xa/Menc5AAFD0fu6gTHbQUkbkgY1PVnoioSWU1nR+vhHcvephSMQQWZddaeZNM3I+j6NYDOZcQ/U8au2GHdKrf181dyeJHPyIHhXZbzIi1n056C9SxdqCNh1WsSW6lg4ZWs8+gmkoaTDd3gIfArI4Z2pFVV/fzFB/LNqk+T27mUzHVrv1vXlYxx/OZ/2q7KP3Jyuhnkpj2KYEU9bUX/X1AYL5YKQCB4+jpdCNj5lhUu1Jc/3CZgCGVEg9cNCQiIDNoGmsk5Yq8md93BhRf1mfsIfbKcKCucgYkWEAR1q3xbEmYOOLeJVw=;srtI5JY1f5GPDBShultNEw=="
+secured: "fo5d2YWrlwN1sJ+F//WtxaD8ic47PfShLPqpd5MD1YrUBhzSK07UeroAWXGu57f0OaNrcF/6fZCY0JPL9cOQAgfYuvVC23AkNcPrBGVbrglWKDlEaaDMBjpPAGNNZFP6uZENskTm56vqdGdXzuqIoF4GZXwcXNNgONqaxtX7NVdwwaW1gDrzDmfXxBA3DNlJ6eUtvudZ4Cjb6SVAnecISy4zisJFU5CfzUs4HQivKgdUzzNGbvcdqlnJ6tNHF6m/F15+lsjDpTcPxGgBkHirmQwCvk0qaD8jqYEDizcsTOJHe3tqSXzcMt1BV3epupvXTlfuHiOohgy59fNmeAJQhvUETziLep6YGeWA9YUYYdUg+AVs46N1IPQEUpHQ7ehxACWDyvyba+yC8TEpCuK/MEFZUSgNTP979FUycoIoOG9co4Ndcon+ZhYqeQsPaVwOVazgx3azvMbdhd/xgykiaE6GvZ5auJ8o2vghwx4sO6O7sie1mDu7bGzmAwn0LmnjWIyv7nO4zpptLMbJk8mNkA==;1+Qe9cxzKbXuepi6XGOpDA=="
 ---
 

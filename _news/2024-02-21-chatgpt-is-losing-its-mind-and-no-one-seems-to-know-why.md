@@ -137,6 +137,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hackers Could Use ChatGPT to Target 2024 Elections"
+    excerpt: "T he rise of generative AI tools like ChatGPT has increased the potential for a wide range of attackers to target elections around the world in 2024, according to a new report by cybersecurity giant Crowdstrike."
+    publishedDateTime: 2024-02-21T19:35:00Z
+    webUrl: "https://time.com/6717129/hackers-ai-2024-elections/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 49
   - title: "Scientists Are Putting ChatGPT Brains Inside Robot Bodies. What Could Possibly Go Wrong?"
     excerpt: "As a dinner-handling robot formulates its “policy”—the plan of action it will follow to fulfill its instructions—it will have to be knowledgeable about not just the partic"
     publishedDateTime: 2024-02-20T14:22:00Z
@@ -146,20 +155,6 @@ related:
       name: Scientific American
       domain: scientificamerican.com
     quality: 44
-  - title: "ChatGPT vs. Google Gemini"
-    excerpt: "The landscape of large language models (LLMs) is heating up, with titans like Google and OpenAI throwing their hats into the ring. Google’s latest iteration, Gemini, formerly known as Bard, promises to challenge the reigning champion,"
-    publishedDateTime: 2024-02-16T20:38:00Z
-    webUrl: "https://techbullion.com/chatgpt-vs-google-gemini/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-16-at-11.07.52-AM-1-1000x600.jpeg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
     excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"
     publishedDateTime: 2024-02-21T17:56:00Z
@@ -193,6 +188,6 @@ related:
       domain: techopedia.com
     quality: 21
 
-secured: "w8pxeCy3phTOmqSPzJcjTyURLKsDxY6Z4q00w1mjOKzl4AfLnJAjAAvfOOwSoe2BxBPyBAFvJwUpk3vKw2Amx+GX1HODGbko3qMrcl8Vx7u7qhYG/BXBuYDT+gqcXXhjkz06YpYNfXaOJWhhGPh30HoYUOrSpeZDazhpj8d+rnFESTAtpjo6dZv5ylWPIfITE4w4DfgGJEXOzjSk1lWkBUtNSYX/82Yj/Lo3zwsehYkKQ/VNI3P7R4MzMhy6UsCIUSi9HT/nC7/csOft++IdMvXrJaL/yrjWB9eBP+n3fpGXg9reJ5lohKIMAkM8r3JTX1bQdaXYU5jZz+ahxcYa8o8r6CIpffHQNg37Q5KWa5U=;57vq4iqKSTxLboDECOeVPA=="
+secured: "yfXpyr8/SJt6u5UxShMsvrzxjDYTmYztdWBdN280Zbtc5Oksrkra88xcMY0N+cUgGhKBmN3824DqWKhIsAb0swp7YNKDjb3EPqV8+pcX04c09ytmDa6845EwNrPiU3wN/VhHTSPKoZFXV0Er/0DxvvgoviNPuLmk3x22/eiluPS2nSdtWg1RFZmLMyYnItqb1AgZyzMAuaI/oW+UqQhdtaY3TgLr7vj2HFK5hsZafEmuWccmFcTaXi6zNdM26SMkwnQnpCsM7UUp9l3rUWuaCM2kpBdl+MUv4MebLkkucjLa0L1BdXDVSobjshAf6aS39DTbgOqOstrzkBspQkgBfAgBXJzDXDK+JKYLabZ7Vx0E6RNf3g7B/So2wdBCIbN6ZH0ryNJTyKHsuOMQomsQ+wYcxZeoe0STlmoQQw96ZzQyKl8TLYdKvWXLpcqiVf5t0qeg3lIP2Ujg2pT9de85UMF7nNkQ9VYLATTnNMWp6pRSQ3ozjK8TFL5dItsRUr+Zf2tI5zU6y+2YDCDcdoMDRQ==;mAMktKz2e2fqx6MOCfg5Sg=="
 ---
 

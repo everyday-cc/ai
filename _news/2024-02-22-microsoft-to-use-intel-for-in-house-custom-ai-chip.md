@@ -102,6 +102,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Intel to manufacture chips for Microsoft as AI drives demand"
+    excerpt: "Since Gelsinger took the helm three years ago, Intel has been attempting to reinvent itself as a foundry business, building chips designed by other companies, regaining an edge in making the most advanced semiconductors. Demand for them is soaring, driven by the rise of generative AI."
+    publishedDateTime: 2024-02-21T19:34:00Z
+    webUrl: "https://www.ft.com/content/be22fa9d-d5ff-415d-b7d0-1b756751e344"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 51
   - title: "Icreate, Microsoft, IT Ministry To Skill 11K Innovators, Startups In AI In India"
     excerpt: "Microsoft India and iCreate (the International Centre for Entrepreneurship and Technology) will provide AI skilling opportun"
     publishedDateTime: 2024-02-21T18:15:00Z

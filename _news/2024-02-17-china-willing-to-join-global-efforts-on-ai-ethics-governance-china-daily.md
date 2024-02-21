@@ -7,8 +7,8 @@ originalUrl: "https://www.capitalfm.co.ke/news/2024/02/china-willing-to-join-glo
 webUrl: "https://www.capitalfm.co.ke/news/2024/02/china-willing-to-join-global-efforts-on-ai-ethics-governance-china-daily/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Capital FM
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "UB joins AI Alliance, a global group promoting safe artificial intelligence"
+    excerpt: "Led by IBM, Meta and others, AI Alliance aims to accelerate responsible innovation in AI while ensuring trust, diversity and economic competitiveness."
+    publishedDateTime: 2024-02-21T16:55:00Z
+    webUrl: "https://www.buffalo.edu/news/releases/2024/02/university-at-buffalo-ai-alliance.html"
+    type: article
+    provider:
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 50
+    images:
+      - url: "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2024/02/university-at-buffalo-ai-alliance/_jcr_content/par/image.img.512.auto.jpg/1708532427058.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Index reflects nation's strength in AI governance"
     excerpt: "The AGILE Index score demonstrates a positive correlation with the per capita GDP of the evaluated countries. China's scores are significantly higher than its per capita GDP, thanks to its superior quality AI development and effective AI governance."
     publishedDateTime: 2024-02-16T23:38:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-21T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/richardnieva/2024/02/20/google-gemma/"
 webUrl: "https://www.forbes.com/sites/richardnieva/2024/02/20/google-gemma/"
 type: article
-quality: 51
+quality: 71
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ topics:
   - Meta AI
   - AI
   - Google AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65d55ad7bfa4295a4a8bf111/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1351
+    height: 900
+    isCached: true
 
 related:
   - title: "Google reveals another smaller AI model, Gemma, for researchers"
@@ -40,6 +46,48 @@ related:
         width: 760
         height: 450
         isCached: true
+  - title: "Google Enters the Lightweight AI Market With Gemma"
+    excerpt: "Google has released Gemma, a family of AI models based on the same research as Gemini. Developers can’t quite get their hands into the engine of Google Gemini yet, but what the tech giant released on Feb. 21 is a smaller, open source model for ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.techrepublic.com/article/google-gemma-chat-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240221-google-gemma-chat-ai.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Google goes “open AI” with Gemma, a free, open-weights chatbot family"
+    excerpt: "Developed by Google DeepMind and other Google AI teams, Gemma pulls from techniques learned during the development of Gemini, which is the family name for Google's most capable (public-facing) commercial LLMs, including the ones that power its Gemini AI assistant. Google says the name comes from the Latin gemma, which means \"precious stone.\""
+    publishedDateTime: 2024-02-21T22:00:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemma_header_1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Google employees are posting internal memes poking fun at how many AI models and names the company launched"
+    excerpt: "In the last three months, Google has launched Gemini, killed Bard and renamed it Gemini, launched a better version called Gemini Advanced (not to be confused with Gemini Ultra, which is the name of the model), launched another improved version called ..."
+    publishedDateTime: 2024-02-21T20:25:00Z
+    webUrl: "https://www.businessinsider.com/google-employees-memes-ai-brand-strategy-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/65d636c5a3bd891424f8f4e7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google announces Gemma, its open models for AI research"
     excerpt: "Gemma was developed by Google DeepMind and other teams across the company, and is “built from the same research and technology used to create the Gemini models,” including technical and infrastructure components. Name-wise, it’s Latin for “precious ..."
     publishedDateTime: 2024-02-21T13:00:00Z
@@ -50,6 +98,6 @@ related:
       domain: 9to5google.com
     quality: 19
 
-secured: "0xWmSaGBFsj69y9/gLEex99sKCBTuysOTdrhKdTUrb0YEXQnscXauR1+M9yKDqRuzOVnGBnZbBs1XABSSKVDwlbkQIzB+5lNYfkrdQwZlOQ0WEOJZfeikTHdehtTy02RJ88ji892jFvC/CD9VsMhG3BeTgreuXo9izkrAimX8cy2HYa9AxPTVPgCM6xCaoCj57vfOlAwGYh4YzbY2DKftSa/KOm9Rx7q4b0LE4FYUg9W6FwWKNwB2j0KWTE1HmwJt53WVKF4gPnYX/T1TumD1xVQhWXC/Wsp6XxjEGEKLXti7UCqEhb+WeJgEtTXYEUpiVq4ayNFGuXqg0ECAbcIgFIiiQVykYugxeBM2AdTmco=;uSceDD1wh7I23sM3Wumpng=="
+secured: "NqMDWIDLj+luMKlt1+nGcsoKi7qpkgP/wTqPNMl6n0LZZR2Nd7mNBfav9b8duyqpWChFuM8vaOhy8Gn2Ezrtd5iUytiqhmOHI2KF7cHf3qt+PJbWNP+xMzERvQXyD8EOu/OindHudiM4j2V78N7rcIKdeXcKEJeG+kLTVsq3jac6cnqysAKwqAP16imp+lc42PobbmGOYGtOeJ+BWMaWLkmt/b52+VklLGznGEY7gHxWlBXLuGIFC5trghhd6L/ZeGW3gq1o00pIXUjEKoNfhEACCzYbIOLAEP10lPzNdSOdc59pIqMtMRjh8WteJ/FMk6Ae+vGuO8i1AissUG9d5jrdJQTLtoGiCF9UWxDPOw8=;GzevONZTVe7GoumPiv8P+A=="
 ---
 

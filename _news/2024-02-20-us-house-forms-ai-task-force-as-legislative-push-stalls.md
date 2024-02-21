@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "2 WMass experts on a new statewide task force to explore use of AI technology in all industries"
-    excerpt: "WNE President Robert Johnson and MassMutual's Sears Merritt among the 26 person task force that will tackle how industries can introduce artificial intelligence to their workforce."
-    publishedDateTime: 2024-02-16T23:02:00Z
-    webUrl: "https://www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html"
-    ampWebUrl: "https://www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 47
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BBRIVXTRZBH6ZN6VN2EYOYBC54.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Bipartisan task force to explore artificial intelligence"
     excerpt: "House Speaker Mike Johnson, R-La., and Hakeem Jeffries, D-N.Y., minority leader of the House, unveiled efforts to develop a task force that will examine how the U.S. can lead in AI innovation while also keeping important guardrails to protect against cyberattacks, deep fakes and job replacement, according to the report."
     publishedDateTime: 2024-02-20T16:15:00Z

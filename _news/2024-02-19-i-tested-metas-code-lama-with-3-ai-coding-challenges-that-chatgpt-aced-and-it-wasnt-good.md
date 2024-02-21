@@ -138,6 +138,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hackers Could Use ChatGPT to Target 2024 Elections"
+    excerpt: "T he rise of generative AI tools like ChatGPT has increased the potential for a wide range of attackers to target elections around the world in 2024, according to a new report by cybersecurity giant Crowdstrike."
+    publishedDateTime: 2024-02-21T19:35:00Z
+    webUrl: "https://time.com/6717129/hackers-ai-2024-elections/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 49
   - title: "Scientists Are Putting ChatGPT Brains Inside Robot Bodies. What Could Possibly Go Wrong?"
     excerpt: "As a dinner-handling robot formulates its “policy”—the plan of action it will follow to fulfill its instructions—it will have to be knowledgeable about not just the partic"
     publishedDateTime: 2024-02-20T14:22:00Z
@@ -147,20 +156,6 @@ related:
       name: Scientific American
       domain: scientificamerican.com
     quality: 44
-  - title: "ChatGPT vs. Google Gemini"
-    excerpt: "The landscape of large language models (LLMs) is heating up, with titans like Google and OpenAI throwing their hats into the ring. Google’s latest iteration, Gemini, formerly known as Bard, promises to challenge the reigning champion,"
-    publishedDateTime: 2024-02-16T20:38:00Z
-    webUrl: "https://techbullion.com/chatgpt-vs-google-gemini/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-16-at-11.07.52-AM-1-1000x600.jpeg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
     excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"
     publishedDateTime: 2024-02-21T17:56:00Z

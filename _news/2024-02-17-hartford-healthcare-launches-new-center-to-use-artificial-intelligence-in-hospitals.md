@@ -6,9 +6,6 @@ publishedDateTime: 2024-02-16T18:17:00Z
 originalUrl: "https://www.stamfordadvocate.com/recordjournal/article/hartford-healthcare-ai-artificial-intelligence-18668344.php"
 webUrl: "https://www.stamfordadvocate.com/recordjournal/article/hartford-healthcare-ai-artificial-intelligence-18668344.php"
 type: article
-quality: 28
-heat: 28
-published: false
 
 provider:
   name: StamfordAdvocate
@@ -18,6 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "/oTxgHD9MR3ODHS2BAaCkayZ8m8g19vK5sbxmwJRZvxH1Th2Srx3hoSqfqnO1A3TfEGzswyoV0LHsy4WicdhOhirSYTSpzOq16ectwseY7OcxQSuHHSJ2xKlr/gu4Uij9vEPlp1Zc4p1LoE/NsceGYPmJZoc1asbO0RjxKJbK2zNd97PJ+mXybsmXphWv7vTKjGlTIOAlfgAsl7WuPRTVSfad5qQ837PC71fYPCSyiT0w66svsvDJGC3KBq6vD/NpUpvrEq0pKHEfm7qVBIXyXswZvRQ+8WRW2FCsZiuPrWMD3wNtuwGY/DYlBpBXyVurp40lYdIq/7URX0mV/cZXNf7xPR4nAQVfkBGhQJ2HVuIu2LubX3BhJacJXa8Xe1Wfh2VEJI5TPCtafFtQwRB0292hL0TN3ZVCdbv67kwsUejpokxG6zN1+idXC/nnPB7DTT6VHwYJWbAu5Z9mqdtjDmOJzlXKq8kdzn1A5gMDDdYnVyisXgLzgfYoKb60SD9qmnRzf5ypqbv8Rgo/bAqgA==;ZIHtwIiOgDJgw+I0qHpl6Q=="
+secured: "7NIm0B8bXC5fd5D7ChwxI/PV8WBsSX2ug75yz7Ix94wMG6KcjWeNeGqLdF/Y67e/ywE4vPZ6hMeCEnqSCIfgmUM2r/73TnDHIMEJl1BqkOnmpAqFYDX7jMPQlOZTC/PfqnbwEe2WgwHznX5N92za2EPdL8qv0SKsD1mhVhr466hhtPOMiat71vRGoypfs1kDGQFItgkYqVCRREWSOQzslfqIwP5Qbl/PmzM2eL2rQF4X6BUCGlmt4uqhuv/dcHY+mOPlfBf4Pnvcsh5Xig6b+yYMkPd7YPv1qONYMOoxYTs4S50/rROIhiEyvR+zm2CvXYz/ntDEVFoVdUdFIDrcJikeW+JtNS+yL5lsQW+iR0LXlMvOpu/u9y3UjiXedQs5IqtgeNRpsYNx+UrL4YW6Jyqky4W8PWp/iSn6EpfFlZe/Qo44gfVc5tph5XgwAq85UeIG0tTCl0aSzo0JkE7deMC0Fjr/YkuLJ18cq+cZmdmhwhRhDFgxYjCZY4lnCx1s4YNEe84AO22JB2sCthQg3w==;nXjTCqRzqwi55Np0z+oNgQ=="
 ---
 

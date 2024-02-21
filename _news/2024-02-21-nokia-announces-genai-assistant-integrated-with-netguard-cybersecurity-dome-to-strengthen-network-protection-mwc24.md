@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Nokia announces GenAI assistant integrated with NetGuard Cybersecurity Dome to strengthen network protection #MWC24"
-excerpt: "Press ReleaseNokia announces GenAI assistant integrated with NetGuard Cybersecurity Dome to strengthen network protection #MWC24Nokia NetGuard"
-publishedDateTime: 2024-02-21T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nokia-announces-genai-assistant-integrated-with-netguard-cybersecurity-dome-to-strengthen-network-protection-mwc24-1033087484"
-webUrl: "https://markets.businessinsider.com/news/stocks/nokia-announces-genai-assistant-integrated-with-netguard-cybersecurity-dome-to-strengthen-network-protection-mwc24-1033087484"
+excerpt: "Nokia announces GenAI assistant integrated with NetGuard Cybersecurity Dome to strengthen network protection #MWC24 Nokia NetGuard Cybersecurity Dome integrated with telco-centric GenAI assistant helps customers more quickly detect and eliminate cyber threats."
+publishedDateTime: 2024-02-21T13:30:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965414.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965414.htm"
 type: article
-quality: 27
-heat: 27
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "KAGwBLcWvGwvqIsldxwnTWO8xH7VmAJmc1S50nsxD69PIsXd8/TYzYX1P1/G7GQInrq1t/QSp8v/wKUTS1uEll6I8pP0QzcCZGzx8HfBCHb+QioUNbOsWuS94Q1ODMyZ3X+sSt3EVyJYswO4/Pg+YliP9/bLt7eC6Gdk5/PXiMyjkvaVGsjRQgFkNI7113+Slxtu0Pgk5kdrsQZydp44Ck7DB8iELpQdy63uQX93RXaM1uMJWqXKPEV3ejVGkdQTzXTfGWdfVT92mnW62HSejrlglrV3SHSV8fqjnbits72DsXTkQ+pocaeOVRyy278YWx0mxMR4zo4Y6lt0RtwrgK3GQm/MDvDaJArtp0GvaKk=;dmDQvQkdASjXN6sMAE+K7g=="
+images:
+  - url: "https://images.tmcnet.com/tmc/world.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "5u27v42af8xwKijkp7mq4/jnpelhUKGj5CijSnBogA3kYpAe6kfCHWeVKNKskLGsR4RB8LCDyyY9o3iwM5ynlTp4N3S5mHz2AFHJeDDn+/QB+CuxwOtEqto00S4KYT5Ewex9mf5tO+C/rMS70UderGILuSb6ZvsMtSLuC1n23P1CEt9Xtk+UNLLb1hgclOPvE8xP1Azc5cI0hgMCNaLDsx5H0vEPqYi3FPjJ5caka7rZyWxHecFOyksZJqIrsVLnYqFRggFfWA9BYXap2uwVICOxhPZZuJB7qvCHByGB9VESne5JCXyBkTEWMaO1gcRecgPL27P5X9z6g8IDKGiDJ6nFQLJmLiIL86miAHvdiMI=;DQanpsU4AfTddyV/TFkMbw=="
 ---
 

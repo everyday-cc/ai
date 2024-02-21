@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "Deep Learning Model Can Predict Single-Molecule Magnets"
-    excerpt: "In response, scientists are increasingly turning to deep learning methods which involve developing and training machine learning models to recognize patterns and relationships in data that include information about material properties, compositions ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.technologynetworks.com/applied-sciences/news/deep-learning-model-can-predict-single-molecule-magnets-384009"
+    excerpt: "The method identifies magnetic materials solely based on their crystal structure, eliminating the need for time-consuming experiments and simulations."
+    publishedDateTime: 2024-02-20T10:33:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/deep-learning-model-can-predict-single-molecule-magnets-384009"
     type: article
     provider:
       name: technologynetworks

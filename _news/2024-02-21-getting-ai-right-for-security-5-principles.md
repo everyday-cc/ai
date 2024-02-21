@@ -7,8 +7,8 @@ originalUrl: "https://www.cyberdefensemagazine.com/getting-ai-right-for-security
 webUrl: "https://www.cyberdefensemagazine.com/getting-ai-right-for-security-5-principles/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Cyber Defense Magazine
@@ -26,20 +26,24 @@ images:
     isCached: true
 
 related:
-  - title: "What Using Security to Regulate AI Chips Could Look Like"
-    excerpt: "An exploratory research proposal is recommending regulation of AI chips and stronger governance measures to keep up with the rapid technical innovations in artificial intelligence."
-    publishedDateTime: 2024-02-16T22:28:00Z
-    webUrl: "https://www.darkreading.com/cyber-risk/what-using-security-to-regulate-ai-chips-could-look-like"
+  - title: "CPKC Stadium will use artificial intelligence for Security Screenings"
+    excerpt: "Pillars using AI technology will help fans seamlessly walk into CPKC Stadium while screening people for weapons."
+    publishedDateTime: 2024-02-19T11:33:00Z
+    webUrl: "https://www.kmbc.com/article/cpkc-stadium-will-use-artificial-intelligence-for-security-screenings/46852044"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 71
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0b7c955babca975e/65cfe038761e9f040a6e1d6c/chipcheck-Science_Photo_Library-alamy.png?disable=upscale&width=1200&height=630&fit=crop"
-        width: 1200
-        height: 630
-        isCached: true
+      name: KMBC Kansas City
+      domain: kmbc.com
+    quality: 34
+  - title: "Redefining Cyber Security: Check Point Unveils Quantum Force Gateway Series - The Ultimate AI-Powered Cloud Delivered Security Solution"
+    excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading AI-powered, cloud-delivered cyber security platform provider, introduces Check Point Quantum Force series: an innovative lineup of ten high-performance firewalls designed to meet and exceed the stringent security demands of enterprise data centers,"
+    publishedDateTime: 2024-02-21T08:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/redefining-cyber-security-check-point-unveils-quantum-force-gateway-series-the-ultimate-ai-powered-cloud-delivered-security-solution-1033086311"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "lWirubcj2cWT8ilI2ANgvXmGHFf1E+CeT4mGhSI/3KdpJEQXCM1LUqbIeH7TfvYrIJ0v7gsf3aMqlG2lj3SMH4+kBo6oH7teq/9JLNYO7SesRN1EfJjYcrZvzmjdN6BAY86KRuOeDVTVS4TkcaaNENal8d8OXINxiwscf+Xhp46dAsHigWsqMM0uKEeSIgzyIo5cLvpC+V/cmmfiwgurSxOlpof8UQnngl2AtmQ/ew65kReGHWSkE1XUuSAz80C4NmJR+wcGw8+Bpuc6ZdYdNFhqfIdkr9+lfFTw2vJR/lg3Ss2URg/B7KQkY27zmhnxc070djeoo0TMDEsPJi8bL24+9mjjcle7jsIMyuDF5wzKggbFwNrm97DZVc2PZpEH8EhfBHe/JXYwaBl/IztQvgwbDo0tvWg8CQeONxYSff/MGqs1jTBJOdm5vockx4N1lk4veX7ugUngFD200mRSsLyWUBJfo+zgKnhPqmhbY6Km+VRbDvOdXEiuoQBhr+ud/6CUYs0ogIdFj5TfQuOZoA==;yoz/qp7P/po+e8Q4gyt8gQ=="
 ---

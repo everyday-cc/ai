@@ -28,15 +28,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
-  - title: "Redefining Cyber Security: Check Point Unveils Quantum Force Gateway Series - The Ultimate AI-Powered Cloud Delivered Security Solution"
-    excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading AI-powered, cloud-delivered cyber security platform provider, introduces Check Point Quantum Force series: an innovative lineup of ten high-performance firewalls designed to meet and exceed the stringent security demands of enterprise data centers,"
-    publishedDateTime: 2024-02-21T08:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/redefining-cyber-security-check-point-unveils-quantum-force-gateway-series-the-ultimate-ai-powered-cloud-delivered-security-solution-1033086311"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Vectra AI and Gigamon Announce New OEM Partnership to Reduce Cybersecurity Risk for Large Enterprise Organizations"
     excerpt: "The Vectra AI Platform leverages the integration with Gigamon GigaVUE Cloud Suite and is available now through Vectra AI, Vectra AI Reseller Partners, and the AWS, Microsoft Azure, and Google Cloud marketplace. For more information, visit: https://www.vectra.ai/products/platform."
     publishedDateTime: 2024-02-20T15:29:00Z

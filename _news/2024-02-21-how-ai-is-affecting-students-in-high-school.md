@@ -74,15 +74,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Navigating the AI Career Maze"
-    excerpt: "Recent college graduates who missed the AI revolution need to start over before they've even begun and acquire additional knowledge, training and education. Established professionals who work in a field ripe for AI disruption need to adapt, compete and ..."
-    publishedDateTime: 2024-02-16T20:18:00Z
-    webUrl: "https://www.govinfosecurity.com/blogs/navigating-ai-career-maze-p-3564"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 17
   - title: "How Artificial Intelligence is affecting the college process"
     excerpt: "Artificial Intelligence is changing the world – and possibly the way your child attends college. Teen Life Coach Desiree Panlilio joins Gayle Guyardo the host of the"
     publishedDateTime: 2024-02-19T18:20:00Z

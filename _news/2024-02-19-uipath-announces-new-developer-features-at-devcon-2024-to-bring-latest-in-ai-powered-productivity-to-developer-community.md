@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "UiPath Announces New Developer Features at DevCon 2024 to Bring Latest in AI-powered Productivity to Developer Community"
-    excerpt: "UiPath, a leading enterprise automation software company, announced at the UiPath DevCon 2024 event a host of new"
-    publishedDateTime: 2024-02-16T19:37:00Z
-    webUrl: "https://www.datanami.com/this-just-in/uipath-announces-new-developer-features-at-devcon-2024-to-bring-latest-in-ai-powered-productivity-to-developer-community/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
   - title: "UiPath Announces New Developer Features at DevCon 2024, Two Data Centres Announced"
     excerpt: "UiPath Automation Cloud goes global with India data centers by April 2024, providing strategic infrastructure placement for public and private sectors"
     publishedDateTime: 2024-02-17T20:02:00Z

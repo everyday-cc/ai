@@ -128,6 +128,20 @@ related:
         width: 1600
         height: 816
         isCached: true
+  - title: "Google debuts Gemini for Business as tech firms seek to monetize AI investments"
+    excerpt: "So far, Microsoft has managed to illustrate that point to investors, saying AI services contributed 6 percentage points of growth to Azure revenue in its latest quarter. That's an increase from 3 percentage points in the prior period. Revenue for the ..."
+    publishedDateTime: 2024-02-21T10:00:00Z
+    webUrl: "https://www.aol.com/finance/google-debuts-gemini-business-tech-150044844.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 35
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Z7HaBhbctZHrI8.YHsL56A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1769aab6fe9ba6d4e7ddbd553254d06a"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Duet AI is now Google Gemini, ready to help in Gmail, Docs, and other Workspace apps"
     excerpt: "Continue to check back with us as we will be adding more information as it becomes available. Google Bard is now Google Gemini. Google Assistant is in the process of being replaced by Google Gemini. If you're in the Google ecosystem, it seems there's no ..."
     publishedDateTime: 2024-02-21T00:00:00Z
@@ -208,6 +222,6 @@ related:
         height: 832
         isCached: true
 
-secured: "D4tR1+2ZJ5Mio+3wHT2Gk0ddw9WG4z040HGsxYdZyxDSXnymsM7hWcGSTyMqRuVunUArStpEoGUIqn6osFufBTOvlMAFVZu7W3yT1I8vCXq2/4ERRcmcaUaL/NP/ICl3Q4ih1UA4wqCZXSdTFJO4MFyhwJ20IjiT9rVhPcHo53ivDI4FXX57EadABwLkX9qCAPeAzRGTldqy30rn0wRz7fi2rlEYCLxEtRMmJnRv+tMiFVqKRHdZLhyL3HnXgBcI8Ma3141JgnhpLv8PCSf7Qy3VhlWSplcy9I/Px2flMYsq9vVgqn1+eeky4tCauGdCSrziXroH5ZrazGk/7tr2h7BZjsnCOxseNHb8GK13LiQ=;gLp3GK80CozSs7F5WoKvPQ=="
+secured: "Jru/H3GCVz4nLsOczda6xXgzFd+7vA8Z/sexEpI80piLvLmK9Vn5Qw6Zda3ENl+5iI86Un8aeBu0f2w/qxzV1sJPNUCpAJ3smQVNPBXzJZ+JMym6Emm1h+zHpGz3XBnpDfVtoryeFwN4zWwf9xC2qBFvzZZK+GV5uiXcnMjrFbiselVO47uz79VImO3O8bFralgw3Nrk/AQw0w3ALSrsGA/3Ux8iDlz3cc785rShWYNxfbq1yprHqy1Fy2xAygBkZldg4um5q1narJ3XSlKb+SgkWBdKZ9hxG0qismxNULRv5V8yiG4dU+DzIxJlALoYW8/LfdWl3Pn2AecVV/7UyNMZM+zIB5UpdDBzVg2Qi2dMpVtm+a2X6pi4yCN7ldSVHwf5FGa8whsR2JeozbEAlMtbi/bNmQxomFIkcCwN1btSmfPt/JAJlGqZrgJFywijg9M8TF4UFQJihFvTLTfLmNwK0qASg6/uXg+YwiZOANZ5nC2yJvdTz/fivCmE7KfqTcEwXu9L8hkUBZKYxsz08g==;YJ1OPs8RyprHl6j2yrziAw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/21/technology/chinas-united-states
 webUrl: "https://www.nytimes.com/2024/02/21/technology/chinas-united-states-artificial-intelligence.html"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: The New York Times
       domain: nytimes.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://static01.nyt.com/images/2024/02/21/business/21CHINA-AI/21CHINA-AI-facebookJumbo.jpg"
         width: 1050

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-19T23:15:00Z
 originalUrl: "https://omaha.com/life-entertainment/nation-world/ai-girlfriend-boyfriend-replika-paradot/article_5e614013-1c26-5898-812a-bec73052eaed.html"
 webUrl: "https://omaha.com/life-entertainment/nation-world/ai-girlfriend-boyfriend-replika-paradot/article_5e614013-1c26-5898-812a-bec73052eaed.html"
 type: article
-quality: 27
+quality: 25
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-  - Computer Vision
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/e6/5e614013-1c26-5898-812a-bec73052eaed/65d377c08f90a.preview.jpg?crop=1534%2C805%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"
@@ -43,6 +42,6 @@ related:
         height: 427
         isCached: true
 
-secured: "yFn9kWdzHc1YGLrjAKYmcI2L0H4OoSgaFFKjRtakmWVj1NPB5xXokwo5YRsSTkJryrrSzbp4fewQs4a7hGXLtdU54ItImhe10Kh3n6W9e9Iu3J2hR8f5AfrTc+8XrD437qxhly1TVXhcP9JA9SpHUvXLeYb/BtO5+9uvbpdD/Ju5B2HwldwGPAXS7M9nDrTfAjOjzAUuxKFGCp1w7mmz82q8Q9YJitCMJz1W2wmft1dtqRY0Qmrd7oIUovxRmPJG3E32BjIN33AeEkH4kWL6KGK426a097p+PzeX0b6UZyFaBias2wlbdBUgi/OX+XfaKCPWUN6VMudlkj5lidBVwdU0wx8z3118QFdLYwVUlZkS1IsTdeATcFxz8fkb6ZCSdmJ0a5eW13jUnlK3jYti2dcpKeK99ac9SCoRH5xlMvDVMjumA1sB2rSnS6bUXO07XDlY0mU54MmgWebIRlqRFggB2bdrPoP5vlycvaVE8E7odZI4RPUEepGkwmJrBA/BV3HKR+lc9cx37A54Py4HEQ==;g6ajtD1M2RT30iD5D9Q5yA=="
+secured: "abaFJd28fcigyTBaoZdER7JlFOWEB8clRor0Auq9tDhND1qeTMJUEHxYjORtWDPZpv1uoi4yPXsTO7glo169lEaNVvca0L8mzTMP2TIi37ki9fPiM5cRk1Zj4kDbiN6bXDf1ruxgtP5BWLZZCwPPQKOgC3iwxx/iZnVcz9Xf1mYc/DIgU2N4dq3SaZxwq+5mesgAXI82YZiPMvXA0+IFmtXi66RA/grrOA/W9rsL6ltEWK5Lm/llDqBkvWLxU9qZFzGUMfa83LifPxWIsa4DdUpA7VJFM2dGDMRIvfd3LWO7dV6/zr1iV3gt6COaeU6n7D8mdWZLpMD1nEsQcpb7g3gsmZnYxKghLLxKoFKNfzo=;qPuEoqz9GjF/kiuMELU7uA=="
 ---
 

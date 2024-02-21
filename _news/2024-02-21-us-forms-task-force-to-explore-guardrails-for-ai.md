@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2 WMass experts on a new statewide task force to explore use of AI technology in all industries"
-    excerpt: "WNE President Robert Johnson and MassMutual's Sears Merritt among the 26 person task force that will tackle how industries can introduce artificial intelligence to their workforce."
-    publishedDateTime: 2024-02-16T23:02:00Z
-    webUrl: "https://www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html"
-    ampWebUrl: "https://www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 47
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BBRIVXTRZBH6ZN6VN2EYOYBC54.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "US House Forms AI Task Force as Legislative Push Stalls"
     excerpt: "Earlier this month, Commerce Secretary Gina Raimondo said leading AI companies were among more than 200 entities joining a new U.S. consortium to support safe AI deployment including OpenAI, Alphabet's Google, Anthropic, Microsoft, Meta Platforms, Apple, Amazon.com and Nvidia."
     publishedDateTime: 2024-02-20T13:08:00Z

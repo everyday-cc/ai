@@ -43,6 +43,20 @@ related:
         width: 1600
         height: 559
         isCached: true
+  - title: "Can Tesla’s Full Self-Driving mode be trusted?"
+    excerpt: "In May of 2022, Hans von Ohain and his friend Erik Rossiter went golfing in Evergreen, Colo. Hans showed off his Tesla’s new Full Self-Driving mode. The friends shared drinks and played 21 holes of golf. But Hans never made it home."
+    publishedDateTime: 2024-02-21T22:37:00Z
+    webUrl: "https://www.washingtonpost.com/podcasts/post-reports/can-teslas-full-selfdriving-mode-be-trusted/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fpodcast.posttv.com%2Fseries%2F20240221%2Ft_1708554757914_name_musk0221.jpeg&w=1400"
+        width: 1400
+        height: 788
+        isCached: true
 
 secured: "xmDd+1doaxbu7IxtnfdB5Rdsq5FtE2CoOhgudpGQcPh5J9/vVEkA84g5KGUkkxyPunOICYle7tR24QIGKEwITJAsQZB78Ur/hXXeZWgk2RZ0hqltyXYg5C7UebO/4uiR2SdfUrLq3lgnLb4T/+V9cB1ovBRPThwO1zH26j0lpFC5JirIit9HJ/zzgfnSa2QbdYDCQAkOykUbzXE9uwsOdRP9ns1S1AEMP+5eZC1XoB7uX3eMqO7QB5QhYHAw0qgw0jYeA846XQ1kQSLk2dxC8r/r32pFDXgi5PiPY28I708JIVn5SdY56pyHxV9dv2YlLlMPC/UEVu3K+qWG9E/hZIuonfuWH1KXvYWQ9WxI3xOsqL8cd+njJ7yESb2SlQEXzYCP01Dz/NYlDRxlmft9zhfPzJcOUG+/3JqzAqxCKywcMNgSHQedauxMpBIWT85n8IJ0IORHdS/sx/+dPOXe/ph+uKvdvm0IzJz0zHVOqVI65nd7s7ZJXAmuxvohxNsZn7oE5c6QAT1A6k9HvhEC8g==;X9XdJ91ItZKMZrDbEEM8ow=="
 ---

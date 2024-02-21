@@ -82,15 +82,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 19
-  - title: "Navigating the AI Career Maze"
-    excerpt: "Recent college graduates who missed the AI revolution need to start over before they've even begun and acquire additional knowledge, training and education. Established professionals who work in a field ripe for AI disruption need to adapt, compete and ..."
-    publishedDateTime: 2024-02-16T20:18:00Z
-    webUrl: "https://www.govinfosecurity.com/blogs/navigating-ai-career-maze-p-3564"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 17
 
 secured: "ucFEBlzEC28yDWaK8t3YPjgexAGJbAD4F9QGsKQHScxYNJmhrCJAXzmgW5uo3LFirs1nwGqXJZabMAdKQVgEMfTVQyOSHgTm33rK4smnx0Cs1npmpwU4EOUZ+qCdSzSjsPrx5yjvDQ3503ZRhjDNht6K1yu50BhoW1hRcnctDFev0WH2etYE4kYsvp1krnGcqI5O1pmKR2lXk/7o0Hoz5dCZDrL5V5nVDd/mwd3Gdi9/RSBEKXCkcJTv+ucbiEPotLj5fmp9Keiw4brtp9SerljZMADcMK9UnadZNfOtzFgxaMMcxb/Hzmtti2623lHXoLd8HClkFYKLxTOC8zJAdmgBBtmsh2LBNdQASMXEXYfeN1DCVg9+HCNlRqqvtQA2z9kvUiHjMogbSQcGEQSNoOWVUmmH/aEhU2WU35jgqqGZrdK8sOufJvv6bs0cUcPzH08T1u1j5PDlMm7uZizQ7fJPAcvDTA90eKc5gwaVfA7i5KMIuS8v2WPIR4yTn6+XeCIeD7CLjsdJIKzgOc18jw==;wXoiPMk7OoGZ336TJePIvQ=="
 ---

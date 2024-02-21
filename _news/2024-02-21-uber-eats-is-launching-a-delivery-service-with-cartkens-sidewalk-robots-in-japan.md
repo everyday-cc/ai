@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 375
         height: 225
         isCached: true
+  - title: "Uber Eats to roll out self-driving robot chefs in Tokyo!"
+    excerpt: "Uber Eats is set to launch autonomous food delivery robots in Tokyo in partnership with Cartken and Mitsubishi Electric. The robots, called Model C, can carry up to 27 litres of cargo and navigate sidewalks at a walking pace."
+    publishedDateTime: 2024-02-21T14:57:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/tech/uber-eats-to-roll-out-self-driving-robot-chefs-in-tokyo/articleshow/107889521.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 21
 
 secured: "pXjjSU3osEt4hjOgC6VRWhEsj7Ea4I5BcmOpDaK08QxVsOQK8rzVooHYmDAWtMxYZNzOrYjjUHJDyAPaC44VDaISK47ept8/QI/+McTgXM5O+t87QzdgxM07S7lZA7GtAwx+NtskQBPNwXkETElXFf5L65H5As2lgvSwxdd2HZ5+JRrGFibgTvrkAN1uQ7HvScJ72+IsQN+Vzz7MMZMXu35GtU196qz9QXqBBfvva8Jq6WkxXz64OUAJWyhS+cQR6SlyuzfG13EVZlqjMHeIhakUzQdC0BzPXYOPe6yJ5Ce1tr97KzPQRLdDGBMDHrNb9rXTPV2dJ4h46AQZm1tAxsm+JiVUTu8DMY+1IG8aVNA=;w6Q9tVcEaJNTWoxo8qyJbw=="
 ---

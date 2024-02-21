@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Alliance: How To Make Friends And Influence AI Policy"
-    excerpt: "Goodson discusses the work of the AI Alliance and considers the possible outcomes of several companies being notably absent from its membership."
-    publishedDateTime: 2024-02-16T20:06:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/"
+  - title: "China willing to join global efforts on AI ethics, governance – China Daily"
+    excerpt: "China is willing to participate in global efforts to promote the ethics and governance of artificial intelligence so that it will - Kenya breaking news | Kenya news today | Capitalfm.co.ke"
+    publishedDateTime: 2024-02-17T12:04:00Z
+    webUrl: "https://www.capitalfm.co.ke/news/2024/02/china-willing-to-join-global-efforts-on-ai-ethics-governance-china-daily/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Capital FM
+      domain: capitalfm.co.ke
+    quality: 52
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cfcb347d195aa4fef03729/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 870
-        height: 580
+      - url: "https://www.capitalfm.co.ke/news/files/2024/02/China-AI-e1708171440161.jpeg"
+        width: 630
+        height: 473
+        isCached: true
+  - title: "Index reflects nation's strength in AI governance"
+    excerpt: "The AGILE Index score demonstrates a positive correlation with the per capita GDP of the evaluated countries. China's scores are significantly higher than its per capita GDP, thanks to its superior quality AI development and effective AI governance."
+    publishedDateTime: 2024-02-16T23:38:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202402/17/WS65cfee5fa31041d387d6e014.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 41
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202402/17/65cff2a4a31041d30dec454d.jpeg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "/zPZSf84NLtigqaEH8dzyhd51fqHadwjwRQPIwVO3b2JR3j0VbuvGzAgYRjPkGsiQ6tJLBaV18v37o+jJgCMmzfW1MSSBiyfz/ZTMN81wdsC+jWV4C+doGq7d8Rf+/eCP9DHzKdJ/e/V+tEqSxL4hTqczBWTIomf+FhhQATWg0IKUhf1sbjwYyNKzwjhGltUxJl9NmSX7MmtNJGXDPquNhlnPPrls65TqbSBc8YZATkZGlBTYPeb5XnjgopgsTbZj+0udDLqfQlfhUjqBgEu6hv9rEGybY6/mxGvbN0Yfu4bkEkBRDgvP6tMMhhLCVqT8G07QeBoA9XJ1CbvG8d4ATK5RksK6Eo8a3Y9F8MLU8TKUEhXfSZJy/6OmLV/F7O1beITxWSSX/tyU/jXVA3sCfh5jIOogMfdJB8NF8LeaRGzQuPdgqcehHfFeAx2u+VrbDLIFVIirRHjGwZ8p9fCREajD526JdRRZemlZU5BnH6C5qdSBPtTmmQGG9iogiR5U10BTrtojhJ8XremvWE8oQ==;kiGsNNgQgTtw6VIu1NyDXw=="

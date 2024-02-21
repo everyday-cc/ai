@@ -35,20 +35,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How Gong’s AI tools are increasing win rates for sales teams"
-    excerpt: "Gong's proprietary AI for sales is driving transformative growth, with data showing teams using features like Smart Trackers and Ask Anything achieve over 25% higher win rates."
-    publishedDateTime: 2024-02-16T21:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-ux6NpxqlJ-transformed.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Perplexity AI's Indian-origin CEO has this advice for freshers looking to start up in artificial intelligence"
     excerpt: "Aravind Srinivas, the Indian-origin CEO of Perplexity AI (an artificial intelligence-powered search startup), believes in following his heart when it comes to career decisions. In fact, while he was studying electrical engineering in IIT Madras in 2014 ..."
     publishedDateTime: 2024-02-21T13:40:00Z

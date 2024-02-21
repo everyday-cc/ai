@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2024/02/21/arm-neoverse-roadmap-brings-cpu
 ampWebUrl: "https://www.nextplatform.com/2024/02/21/arm-neoverse-roadmap-brings-cpu-designs-but-no-big-fat-gpu/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2024/02/21/arm-neoverse-roadmap-brings-cpu-designs-but-no-big-fat-gpu/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "http://www.nextplatform.com/wp-content/uploads/2024/02/arm-neoverse-logo-6.jpg"

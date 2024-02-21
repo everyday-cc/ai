@@ -24,33 +24,29 @@ topics:
   - AI in Security
 
 related:
-  - title: "ChatGPT Stock Predictions: 3 Cybersecurity Companies the AI Bot Thinks Have 10X Potential"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence becoming increasingly ingrained in our daily"
-    publishedDateTime: 2024-02-18T20:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential-1033078342"
+  - title: "Getting AI Right for Security: 5 Principles"
+    excerpt: "By Kevin Kennedy, SVP Products, Vectra AI Now more than ever, companies need effective security solutions. The cost of global cybercrime is projected to grow by seventeen percent each year, reaching a"
+    publishedDateTime: 2024-02-20T17:21:00Z
+    webUrl: "https://www.cyberdefensemagazine.com/getting-ai-right-for-security-5-principles/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-  - title: "Can Unicorns Save Us? Investors Pour Money Into Cybersecurity and AI Companies as Threats Mount"
-    excerpt: "Unicorn companies in cybersecurity and AI defied fundraising challenges to achieve growth, driven by hype over generative AI and ongoing data privacy concerns."
-    publishedDateTime: 2024-02-20T20:18:00Z
-    webUrl: "https://www.inc.com/chloe-aiello/ai-cybersecurity-lead-unicorn-charge-in-2023-amid-challenging-market.html"
+      name: Cyber Defense Magazine
+      domain: cyberdefensemagazine.com
+    quality: 56
+    images:
+      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2024/02/Getting-AI-Right-for-Security-5-Principles.jpg"
+        width: 780
+        height: 588
+        isCached: true
+  - title: "CPKC Stadium will use artificial intelligence for Security Screenings"
+    excerpt: "Pillars using AI technology will help fans seamlessly walk into CPKC Stadium while screening people for weapons."
+    publishedDateTime: 2024-02-19T11:33:00Z
+    webUrl: "https://www.kmbc.com/article/cpkc-stadium-will-use-artificial-intelligence-for-security-screenings/46852044"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 7
-  - title: "Vectra AI and Gigamon Announce New OEM Partnership to Reduce Cybersecurity Risk for Large Enterprise Organizations"
-    excerpt: "The Vectra AI Platform leverages the integration with Gigamon GigaVUE Cloud Suite and is available now through Vectra AI, Vectra AI Reseller Partners, and the AWS, Microsoft Azure, and Google Cloud marketplace. For more information, visit: https://www.vectra.ai/products/platform."
-    publishedDateTime: 2024-02-20T15:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964831.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: KMBC Kansas City
+      domain: kmbc.com
+    quality: 34
 
 secured: "fvA6fXDdR0Feft1esPD74ebfMWOZMAFDSemGYVAkA0uzyD4z3TS5LgdJEAo7VJpCOHto7QfbT2/jArP0f/pOku7WFsh1fUfZJyTIbGZGgQTALFpVV1oFNMFDTiVaeF49ouTSD9BSXj2fdnYzdfAer9DuHX4lE/XqTloOdyXwkNSW+NtHz2ANUyBapOBwk2G4WAHSko0GoNVlZ4iX9SR6GK51eqBGg3AsvlJxfrVwOx8q+wE4cTFnMr9hryFQSyiXIMe6kDdNmp+23egTxBYOFHU2T4ap+HgXdnKUuy6N7UEFMM+qQQ0hllBpb0qZPOhTxuRN9TAHVECrPY+KVPVfWXAhdvgRK79JI8Z5u9Y/XaQ=;5tIsTNl0W8hwPilat6hlyg=="
 ---

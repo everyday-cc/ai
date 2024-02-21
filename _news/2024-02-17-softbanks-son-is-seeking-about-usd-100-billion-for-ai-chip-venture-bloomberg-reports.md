@@ -59,38 +59,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "SoftBank's Son is seeking about $100 bln for AI chip venture, Bloomberg reports"
-    excerpt: "SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp , Bloomberg News reported on Friday, citing people with knowledge of the matter."
-    publishedDateTime: 2024-02-16T20:02:00Z
-    webUrl: "https://www.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
-  - title: "SoftBank's Son Is Seeking About $100 Billion for AI Chip Venture - Bloomberg News"
-    excerpt: "(Reuters) - SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp, Bloomberg News reported on Friday, citing people with knowledge of the matter."
-    publishedDateTime: 2024-02-16T19:56:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-16/softbanks-son-is-seeking-about-100-billion-for-ai-chip-venture-bloomberg-news"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
-  - title: "Softbank’s founder Son seeks to build US$100 billion AI chip venture"
-    excerpt: "SOFTBANK Group founder Masayoshi Son is seeking as much as US$100 billion to bankroll a chip venture to compete with Nvidia and supply semiconductors essential for AI, according to people with knowledge of the matter."
-    publishedDateTime: 2024-02-16T23:08:00Z
-    webUrl: "https://www.businesstimes.com.sg/international/global/softbanks-founder-son-seeks-build-us100-billion-ai-chip-venture"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 54
-    images:
-      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/17/2024-02-08t033513z792143449rc2dl3ahz344rtrmadp3softbank-group-results_0.jpg"
-        width: 880
-        height: 587
-        isCached: true
   - title: "Project Izanagi: Masayoshi Son plans $100bn AI chip venture"
     excerpt: "SoftBank founder Masayoshi Son hopes to raise $100 billion so that he can build an AI chip venture that can compete with Nvidia. Bloomberg reports that project 'Izanagi' could see $30bn invested by SoftBank, and $70bn put in by Middle Eastern investors."
     publishedDateTime: 2024-02-18T12:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/amp/"
 type: article
 quality: 89
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "AI-driven ad targeting startup Qloo raises $25M"
+    excerpt: "Qloo Inc ., a startup that claims to be a pioneer in “cultural AI,” said today it has closed on a new funding round worth $25 million."
+    publishedDateTime: 2024-02-21T14:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/21/ai-driven-ad-targeting-startup-qloo-raises-25m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/target-arrow-hitting-bullseye-office-desk-table.jpg"
+        width: 2000
+        height: 1335
+        isCached: true
 
 secured: "8CejyKwEeiIT1/lKtdmvOlHA5Yor9Ycmz6+55N4qn/7dSuXrziTPg4n3iDHMdXxzPZLdlCCITax/D5MUOlGxvvAyuDcXBXcCNgzOgdU4duAzDPeF7iNBhZOeJLeCb6P6VYQ0p0T/YPRJOfi1F/sWQJ3P8jMz1KlEHU9+R9z/cackPYI2BAMdy7SMut64KiDH35H93hPVGA8FljlWzbx52wCm5sM46Ld0wCi2kVHwPXOQB9KAV/XWn0e0IOh7bAQm0kjFzFCv75nYJnyo7buuSDI5AqnMn8DYaCpuHg7pgIaVYJQtIoVrmzjNoCyeSBhZZCwVPp0zg042moLdcKPl/0rW5YXB0vxhjzK6dMhfvwT0N/OOMNP+Oe+/I6wLnAq03cBfP8LK5bZH84VK279+b7IMCCnFKj5wpXkEDt1ohzi5w0CpGEX6zZwlTLRb3rctVqiZlSp3QMXbhn5OtD7FAnDM/+oY0/irqiPGAbQWbxjMinc2RogvdWdF2vRjLGb1OYjbq9r4abcEhEIne3weKA==;e37UyyIfLsLM7TIIxWmxBQ=="
 ---

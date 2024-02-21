@@ -103,7 +103,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 42
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-20T211417.437.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
 
 secured: "+f+lA3e8V3MlqAMyNnZqoOZrW1aQV0tUbgPf8siaX9vpSomOxKyWY1qf+JWNY56aR8Cq7TlfVAcYsRdfsIoLuULceGg6yx4AWhx+1jQcJsD44Aka4yKKUs7qd++NqjphyKmkAzYUM9j0YsggQ289prskDmy8Z0kt64QAjyPpffgOIEVIom+TzccFGH4o4LRuy3w8Dtd38zSRpQhPgWvTRtucV8AcSb0HPff03fBQYfxCZXD7QJKynxbBmo4kx3q+kk2rSdq1it30gzq08RkuIyA8KM5FE2jI9kcm3SDDZn6NRBZj7er7Yx0+xdSyVU3LTan175uAT9rkBY7mk9Jvmqt28D8UTU1DlKomFUA4CISt3MS0rzM6KC9A8UKRtrHrrQozpEROv/F8aif/bn1MK2Z1cJa1FUJc8K1uH2F27PCsCDagYXiKukIXA/PPsaBYxHsbszmUMyDXYersmKv+nEuTYmwrPxu6rc6CvbblwxGHG9LMXbYQ0hDU+uHaDlYIihYMXFkt6pSv+sBjjPkkTQ==;4/Biqk7qPlZrtrBB3bNrmg=="
 ---

@@ -52,20 +52,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "New computer chip enables AI computing at the speed of light"
-    excerpt: "Engineers have introduced a novel computer chip that could redefine the landscape of artificial intelligence (AI) development."
-    publishedDateTime: 2024-02-16T21:17:00Z
-    webUrl: "https://www.earth.com/news/new-computer-chip-enables-ai-computing-at-the-speed-of-light/"
-    type: article
-    provider:
-      name: earth
-      domain: earth.com
-    quality: 54
-    images:
-      - url: "https://cff2.earth.com/uploads/2024/02/16140217/AI-computing_new-computer-chip_speed-of-light_1m.jpg"
-        width: 2500
-        height: 1756
-        isCached: true
   - title: "Penn Engineers Develop Chip That Uses Light to Power AI"
     excerpt: "University of Pennsylvania engineers have developed a new chip that uses light waves, rather than electricity, to perform the complex math essential to training AI."
     publishedDateTime: 2024-02-20T06:23:00Z

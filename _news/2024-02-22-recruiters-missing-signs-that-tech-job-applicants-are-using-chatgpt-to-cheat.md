@@ -147,6 +147,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hackers Could Use ChatGPT to Target 2024 Elections"
+    excerpt: "T he rise of generative AI tools like ChatGPT has increased the potential for a wide range of attackers to target elections around the world in 2024, according to a new report by cybersecurity giant Crowdstrike."
+    publishedDateTime: 2024-02-21T19:35:00Z
+    webUrl: "https://time.com/6717129/hackers-ai-2024-elections/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 49
   - title: "Scientists Are Putting ChatGPT Brains Inside Robot Bodies. What Could Possibly Go Wrong?"
     excerpt: "As a dinner-handling robot formulates its “policy”—the plan of action it will follow to fulfill its instructions—it will have to be knowledgeable about not just the partic"
     publishedDateTime: 2024-02-20T14:22:00Z
@@ -156,20 +165,6 @@ related:
       name: Scientific American
       domain: scientificamerican.com
     quality: 44
-  - title: "ChatGPT vs. Google Gemini"
-    excerpt: "The landscape of large language models (LLMs) is heating up, with titans like Google and OpenAI throwing their hats into the ring. Google’s latest iteration, Gemini, formerly known as Bard, promises to challenge the reigning champion,"
-    publishedDateTime: 2024-02-16T20:38:00Z
-    webUrl: "https://techbullion.com/chatgpt-vs-google-gemini/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-16-at-11.07.52-AM-1-1000x600.jpeg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Groq AI model goes viral and rivals ChatGPT, challenges Elon Musk’s Grok"
     excerpt: "Groq AI model goes viral on social media after public demos emerge showcasing its rapid computation speed, outperforming ChatGPT and sparking discussions about its potential to revolutionize AI applications."
     publishedDateTime: 2024-02-19T13:35:00Z
@@ -189,6 +184,6 @@ related:
       domain: techopedia.com
     quality: 21
 
-secured: "JbCaGLSP805ZTg/af5/UQAV3ZmSOWVwY5jxRJtqAVrgU6g3d/5v/iNhFF62UzeT0BPiZP20xwaF80R7Ov8i1IV8otjulsIcUFpy5IzjpfK4UrE9nltvimxQ6gZ1t6OgxGlF0c48JfnbGOdn2LtVNETZj5oAiebmMVOcVUNoKXkVABnUt+oIa8IVNx2IHG/YV7CBZ48Fo5alRzGlIb9sYSLuTCDMKcXZragOQpULtNQmKjzLnpg8adIqNKOZvVvoJTiv8StICjHog+a7X1i5diV1GgvqyeRyWj3UmH4odVyd5585kYR09A/3/VVcdD4vG0TvmCGHekLCwM2heEn1Od2m0DhMlnivOokRkaiyV8Ks=;OF0OpQ5rIfRDPCnTImhnFA=="
+secured: "Z8D0Po+oySXeFPKMbAU+xvupUhtXubFtFj7edKI+X+Dk1k6anukwM/cgCfm+hdwSJpyIPBkC5s/RBhdiMsoZe6JkZqUVpUixN4Juf+H/v/Sbx1hyutmjGUY7qsWqCToPqqUY5GG/OaaPhIOLzMGecZf0zu0dCD5vMoxWqqQsj4aK0WqmL25/IRowi0ISog9c0JYBZBc+zHpTrtiUd4WBGP7GX5sC8SgMzy1sYvNdzNiAGFvKZddYqYaWf38NZ3EaL/d10+i2qHZNYf/78eBoS1sRAmTAPikVgD2wYiZsYqp6skjcFfZEFdUZsSTGtSh1CFdXticiVOYGDtegBdo4RgNbXbdC+zW7pFnzKdB+Os8c+PYoxT5xUvH9QcFhrsWwD7gWAQoWASW5/QjT4RDFYvAr24jY4voM0qWT44hR4YOIwrddELQ5nXHLuwknj83FeHdA0uoEeVr8Yp9JQi65m/kGMawNrl8EPBlqrbUxt+q+66vAZbr74FCbq+RxyQoTnrXRF1T/s5IG7QmEJQjSLA==;Ob2FIvQJhp2V09PYtqDF2Q=="
 ---
 

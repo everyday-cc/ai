@@ -99,7 +99,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 42
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-20T211417.437.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "AI hallucinations will largely be eliminated by next year, says DeepMind’s Mustafa Suleyman"
     excerpt: "Suleyman said eliminating hallucination would have a dramatic impact on education because these conversational AI's are friendly and fluent."
     publishedDateTime: 2024-02-20T14:35:00Z

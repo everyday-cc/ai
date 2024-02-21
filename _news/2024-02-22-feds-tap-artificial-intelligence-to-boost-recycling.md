@@ -7,7 +7,7 @@ originalUrl: "https://www.eenews.net/articles/feds-tap-artificial-intelligence-t
 webUrl: "https://www.eenews.net/articles/feds-tap-artificial-intelligence-to-boost-recycling/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,30 +23,6 @@ images:
     height: 773
     isCached: true
 
-related:
-  - title: "Big Tech unites to fight misleading AI"
-    excerpt: "Welcome to The Hill’s Technology newsletter {beacon} Technology Technology The Big Story Big Tech pledges to fight deceptive AI in 2024 elections Several major technology"
-    publishedDateTime: 2024-02-16T21:34:00Z
-    webUrl: "https://thehill.com/newsletters/technology/4473558-big-tech-unites-to-fight-misleading-ai/"
-    ampWebUrl: "https://thehill.com/newsletters/technology/4473558-big-tech-unites-to-fight-misleading-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4473558-big-tech-unites-to-fight-misleading-ai/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 39
-  - title: "Tech firms sign effort to fight artificial intelligence's poll interference"
-    excerpt: "Signatories of the tech accord, which was announced at the Munich Security Conference, include companies that are building generative AI models used to create content, including OpenAI"
-    publishedDateTime: 2024-02-18T16:15:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 35
-
-secured: "20dfCIwp0xxW+VxuQZJBsSRkYBEVxrrhRpbfSpLXAUNasTQIaM8OKLMNJNcJmWzLuD4SDSximoUwW55tGxtsoTPYgohC1bsIzk7kf++egVaDkvg2pw9hHXOb5q+x+tN00z1j1nhiTTCr/5r3Rtu+hQR4PIwpjMExZOKFj5wSejMW0LByPz+3SX+oc8GDfLuHqqtyPlYYYBMXryMRvIjMWuP3NCnpOT6Om+A68aCmI0a/V8bv3nK8iO9JEFXITxnQeYpX3vIJM7HUxtOAWGlN4Sq52np/tBv35aDrImaB1hKOmim36a9EeMsU5y5geUso4+j/pKmueFXX/CzkVRnyepKqvspWR6yjEBt035/RsDY=;SHLkunRdaU1GQ+TcdMZEzA=="
+secured: "a5AepIXSTDkHZDEflQP8D5Rkw+AXTKVztw7kQYbnBms78PazkQM8a6J6NzMYhN+XMpqtf1FiqtrXbr4nRI2zr8hutP0AyInx9TnEKmcoS6GdtO9zJ9KqAed3Rzr1vA3HiNoI1rQlK5RRRmRDPSNGJ99DcTkTcJIhZU98QZHa37iWZqFkeEFra5B+RVVsqpOvRaU9n2WzkOqNhf4T+OHJ2egvJlqH8EO9Z9WG4Rb/imlrStl75vqiHEQedUg/s5ANL1aizmRZgLt+oRHlORvwol2+N5XB3S8VcEsSCXV3O9irJYlSBgojKH4lh7YLqswa7rdN/Ppabt39Fnjz/cZ6LbPuGIo6vGWiF4FS6Q4/4Na925XovZ3IE3Uq5heNYpBQMYwmtEhnsCeArOrE6gyyfjdGKcr/LZPCCXhz6AmT2eROlgsOZ28aPMDzX7J68UERAYRrjgX7UQUdSPdDx1S/1gUwDjAgzP3T9FUofbeJsDSCM5QyBfzjzMLAOfSimlZ8jfNgYtLM7Kw0npClCXXLyQ==;aHlxaHuhjdvHfcGqXEzR6g=="
 ---
 

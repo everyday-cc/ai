@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-21T13:00:00Z
 originalUrl: "https://venturebeat.com/ai/google-deepmind-debuts-gemma-open-models-offers-developer-alternative-to-gemini-api/"
 webUrl: "https://venturebeat.com/ai/google-deepmind-debuts-gemma-open-models-offers-developer-alternative-to-gemini-api/"
 type: article
-quality: 42
+quality: 64
 heat: -1
 published: false
 
@@ -21,6 +21,13 @@ provider:
 topics:
   - Google AI
   - AI
+  - Meta AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-20T211417.437.png?w=1200&strip=all"
+    width: 1200
+    height: 750
+    isCached: true
 
 related:
   - title: "DeepMind uses AI to tackle neglected deadly diseases"

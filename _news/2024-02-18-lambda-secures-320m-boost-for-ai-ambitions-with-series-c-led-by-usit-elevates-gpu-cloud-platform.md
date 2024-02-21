@@ -24,17 +24,6 @@ images:
     height: 924
     isCached: true
 
-related:
-  - title: "Lambda Snags $320 Million To Grow Its Rent-A-GPU Cloud"
-    excerpt: "Riding high on the AI hype cycle, Lambda – formerly known as Lambda Labs and well known to readers of The Next Platform – has received a $320 million cash"
-    publishedDateTime: 2024-02-16T19:20:00Z
-    webUrl: "https://www.nextplatform.com/2024/02/16/lambda-snags-320-million-to-grow-its-rent-a-gpu-cloud/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 19
-
 secured: "jV6Im821PCfu7X29t14LRF1NCkL6itXLRh4WfaIFE63OWN8CV/kAj8nqUUv91z+HL+9ovx+to4I3nN4MPmR1Ku976cGk5T+fQNkS8QqmmrN3LsPTdZ1U1+KGZP0HqZjcZrvBwwktLYx5nhrzdPNzGeDT2R+Cy7rl5oeXfkCXUk6ltQwOXs6iTjfUrZpxzAlm4BKhlhXK5JXMmxKE1jSv6tajqqJ+gqdTAErHd3ypN7KohBb1i7INH6M12DDLJAbpQj5vRO5jubGA0ib0g3uC7wzVpsuPReZ2acpcdt4iRbKdX9XOuwfGIRRmy/HNCTSf7o0DZIvRE7GPDasVDRMo44iyIFwLlPxzMXYtrIdVU3QZlB1PmRm9Y+BvweHCZMD0OGsYiBz5LNQqzcCLSBfX7lAafIoiKF8r++N+K9HdYT7fEJWkFtSOIcCT2lht78uh6bmANkZqC4UacCWurbEwcZfcwD2TxhyxdMAZklqWtxT/DtqTaByov52QiwnjUrl3GJQgbDOztUoNYediDLQVng==;vC0nMcBcX000Vnm6Eii5Zg=="
 ---
 

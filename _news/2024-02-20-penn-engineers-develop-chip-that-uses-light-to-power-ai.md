@@ -62,20 +62,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "New computer chip enables AI computing at the speed of light"
-    excerpt: "Engineers have introduced a novel computer chip that could redefine the landscape of artificial intelligence (AI) development."
-    publishedDateTime: 2024-02-16T21:17:00Z
-    webUrl: "https://www.earth.com/news/new-computer-chip-enables-ai-computing-at-the-speed-of-light/"
-    type: article
-    provider:
-      name: earth
-      domain: earth.com
-    quality: 54
-    images:
-      - url: "https://cff2.earth.com/uploads/2024/02/16140217/AI-computing_new-computer-chip_speed-of-light_1m.jpg"
-        width: 2500
-        height: 1756
-        isCached: true
 
 secured: "e7DVELJxdVadIMGOZp1/imU/CzzoyfDFhJbSjagPXrHbaV79OaVVesrIW2mA5NxhcrcCyCkiwgLqv9/8qXVisP192uSWNHX5lhh2OuCMN/m5WUInsrsh2uQb2DvKbK/hG9SXNGcT3UN/WM9hSMLOuetubTS/8oHhtzldfNZqbYsiXsuOGlzOVvgmzSnw4JW6T+pgrzAv9BQ0XAS4JVC5B8k4wDPTBKm3Lw3eu9guuDjsV7MuydviEZBb8suYkVocayqnJ2ktzeRrn1sx85nEF+rTv2lvpsIBAlUWqrWH43NqOYy5Nv6PKvkW2dkCmMNvX5o6m6r96so2pdO6uPeWQkYok0GwGUk97Hkx+Do0eIHXmtFRadCn05VaNySKysGd7Ex9VWtSlwpBh6zCnWPh1Ih4nRsMOBUutBwhGh5Nyyw7TlGcZK5JZwTE8WkmtSTExDy8pBq19VDjXraG34sBrcrkw2tgPLye5gwaNC3/oxae/mxbjWyx+B68vjVFoG3x9cpmIO0Vn3OxMcz/Snnw1Q==;hLWYduIaBNV8/W7vmLp3Cw=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "AI-driven ad targeting startup Qloo raises $25M"
+    excerpt: "Qloo Inc ., a startup that claims to be a pioneer in “cultural AI,” said today it has closed on a new funding round worth $25 million."
+    publishedDateTime: 2024-02-21T14:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/21/ai-driven-ad-targeting-startup-qloo-raises-25m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/target-arrow-hitting-bullseye-office-desk-table.jpg"
+        width: 2000
+        height: 1335
+        isCached: true
 
 secured: "Sa45DQuUFC6sJAImgSOu05s5bn4xnkwB/NVDYniIxKoZNrpBXXlx17vuRO1xupzrQsHDP6Zf1yOqdPi24NFQWEIQ9gAI1NuRv9Ryc3mGqtwo1/Qd9DPdoWxmHs5YRojmsW2PXoKVVplMdtR7qYPF3VHjlDAyTzz01cw8F9MI58Wa0PBYWraRSECBGKrETlxU6dlGwWHfqcoYlXBmLIPxWd7h47ZwYCm9C6fthSoWeDgWqE2ENTNriiI1HAXDDuEeBACxJCXwk302SSqT0yfyMZVMQasPhRxNZHh5+gQMpFUELXJgPAXunmPDaHZ+PRR1qQ6z9c9N+InfTfCnvfT6+P4866oR8TX9QW4oU7sADxQdh28iHrHpbfenF1PUU9g8Jz7CUlwlQTk9nFafBoahVAjYY98FPIf93Z7GNIREX/xow4WsV1+dSj7XQuukC2EbjCH6oNPnRo/eGk18r0GF/Q4v35fsJnXPS6uMhJE13o/+E5ztU75guufEUZNsyF8yoXJQLrtO1YV+eY4srLs8UA==;j1tSgpeZ39RcJI7XgwnN4g=="
 ---

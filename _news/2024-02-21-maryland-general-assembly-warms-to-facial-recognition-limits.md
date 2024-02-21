@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Zealand grocery stores adding facial recognition, police want open discussion"
-    excerpt: "Facial recognition is entering New Zealand’s grocery stores and the rapid expansion of the technology has been filling the country’s newspaper headlines."
-    publishedDateTime: 2024-02-16T22:58:00Z
-    webUrl: "https://www.biometricupdate.com/202402/new-zealand-grocery-stores-adding-facial-recognition-police-want-open-discussion"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
-        width: 1454
-        height: 800
-        isCached: true
   - title: "Northland news in brief: Former cop up for national sports award; first local supermarket to get facial recognition"
     excerpt: "He has won the national championship held at Waipu 18 times which led to him represent New Zealand in overseas championships. He has competed in games and gatherings in Finland, US, Australia, Malaysia,"
     publishedDateTime: 2024-02-20T17:00:00Z

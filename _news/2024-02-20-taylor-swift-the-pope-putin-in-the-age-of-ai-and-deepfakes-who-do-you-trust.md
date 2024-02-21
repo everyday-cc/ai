@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord"
-    excerpt: "Today, the tech sector has come together at the Munich Security Conference to take a vital step forward in combating video, audio, and images that fake or alter the appearance, voice, or actions of political candidates and election officials."
-    publishedDateTime: 2024-02-16T20:04:00Z
-    webUrl: "https://blogs.microsoft.com/on-the-issues/2024/02/16/ai-deepfakes-elections-munich-tech-accord/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 11
 
 secured: "tnerJtI6x0+YEOHDNPUEXSFdmyprg7zyrcpaBEjwnrDdQJ69RSZ7dIU5Fa3VfM0J9VPCIUmlgiJap5STIQnqBWd4PU4RMUTdzvu+RLxBnKeNK3wD+B4KEm1sdgVddoev1xDEII+0KMNkZQQK3hvejN7HydNm0OOapa7t1g6mlj3fmbFrC9O7aaWKPxJdrEJ9xnT4rHHD764OEbUyXVQNFDdFzap4gKQguPKyTnB6unexZ9yIGvNHNuCaKbpKKgTbN6i+Jsn1LpXgf57hRxvGShu2e1kLGhPT2oPppZ391AnUJdrzHXu1kYVXyFFS7m6iJttWvYero0DAyGLOMMTG/d2CXnonj38Plk0lRESE+8xFq86Vv0+K2SPjcdihsFU0HPOiim4nrlFjnpVfcWwceeTpIymH9+9tih3yZxJw8iyrE71mAGROpv3K18ZaQDBBUeyob1+NiQMRGWWJ/EXVponAlktWAO0qHbJ6CfFjutHdzbxrAa+tuVTJo1fD8YX+IDFzlgt1d66JijxQ0dp2qw==;Q1M3yl6glXv0CU46O8JOYg=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1440
         height: 700
         isCached: true
-  - title: "New Zealand grocery stores adding facial recognition, police want open discussion"
-    excerpt: "Facial recognition is entering New Zealand’s grocery stores and the rapid expansion of the technology has been filling the country’s newspaper headlines."
-    publishedDateTime: 2024-02-16T22:58:00Z
-    webUrl: "https://www.biometricupdate.com/202402/new-zealand-grocery-stores-adding-facial-recognition-police-want-open-discussion"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
-        width: 1454
-        height: 800
-        isCached: true
 
 secured: "zcn1VbZ9lJCv8VDhfWspdnqcScLSaRrPWjHlDVfZRWAEbOQlNVAYEbR8rw+gwz/3xLCRIlbgDCoXF/e5VUZIst0y3nj3KuquV+QADHxxukgbSj6n2Bf/vf0KzssycKdW+hCOSMh9BGuRY6kjwaXIjay6JGY6oo5QfgXm8YTdUy8VorGT9AfZ6Bn4gPi+y9BMS1+JuT8tZnpkQFk7z2OLm28XOWfI+aK7j+F8nLDlrqw0JsJ8d5t4NLowW58QWXeMEKv+fG9Pm5IweaC7eNkUV5zDD53duoO7Kxd1nZIvI0gE/67hNTJokfWp+tcHe0Ds0kEzOoSrZ+JzGFB+t6qPFTy7Co2Uy5U9tk62U1HdOVE=;jYdnll/Qev2yzjXvw/aNaA=="
 ---
