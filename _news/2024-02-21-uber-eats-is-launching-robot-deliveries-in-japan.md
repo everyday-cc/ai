@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Uber Eats is launching a delivery service with Cartken’s sidewalk robots in Japan"
+    excerpt: "Uber, Mitsubishi Electric and autonomous robotics startup Cartken are launching a service in Japan using self-driving sidewalk robots."
+    publishedDateTime: 2024-02-21T06:03:00Z
+    webUrl: "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/"
+    ampWebUrl: "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2024/02/cartken-uber.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "No tip required: Self-driving robots will now deliver Uber Eats orders in Tokyo"
     excerpt: "These robots are equipped with artificial intelligence and advanced sensors to navigate sidewalks and detect any obstacles in their path. These robots have six wheels and can carry up to 27 litres of cargo. They travel at a walking pace of up to 3.3 miles ..."
     publishedDateTime: 2024-02-21T10:55:00Z

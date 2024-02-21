@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/21/technology/chinas-united-states
 webUrl: "https://www.nytimes.com/2024/02/21/technology/chinas-united-states-artificial-intelligence.html"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "China’s Rush to Dominate A.I. Comes With a Twist: It Depends on U.S. Technology"
+    excerpt: "In interviews, Mr. Lee presented his A.I. system as an alternative to options like Meta’s generative A.I. model, called LLaMA. There was just one twist: Some of the technology in 01.AI’s system came from LLaMA. Mr. Lee’s start-up then built on Meta ..."
+    publishedDateTime: 2024-02-21T16:21:00Z
+    webUrl: "https://www.nytimes.com/2024/02/21/technology/china-united-states-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 50
+    images:
+      - url: "https://static01.nyt.com/images/2024/02/21/business/21CHINA-AI/21CHINA-AI-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "zPl6ew/Ljjg6qVD4IL2wb5h8g/09Cd/WJ/nFfHYNyXyqgGmbFiTB0LpLGn/4tpl2/5lbt0cSy7rXz9+HvHoSuMo9L0TEmnDyUDtbH8o+6l0zByzTyrGaYME38lZOk9NfWt/pujnBs0CZy/uKNxIR1h5XoNIT0fDAozKElIFzQUJJFnnGMMVF83wexTZyttxgcIV0cEcIKGDdGugAMakhkte7AiBs3dKAs9X3hSoVsiBgehts79MhdyCvCz0fgvWivhL3IYHFEWkids32sVY/aVepSPcJmozoERGg7jTIHg6zYiZwfLvV7S5QPI7K+HSggqmtB+9GeaLxuEVkm3hAim7OBu0ODiuT4WtGHxy5RDo=;zducPiUY1Nb4TC31ct1AxQ=="
 ---

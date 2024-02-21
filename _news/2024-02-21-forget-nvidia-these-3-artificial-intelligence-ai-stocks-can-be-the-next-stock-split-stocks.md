@@ -32,6 +32,20 @@ related:
         width: 4000
         height: 3000
         isCached: true
+  - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
+    excerpt: "A boom in artificial intelligence (AI ... AI can potentially boost countless industries, from healthcare to consumer tech, education, e-commerce, cloud computing, autonomous vehicles, and much more. With growth catalysts across multiple sectors, it ..."
+    publishedDateTime: 2024-02-21T18:20:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/24233681/2-artificial-intelligence-ai-stocks-that-could-help-set-you-up-for-life/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 53
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8c8a7cbccab823193093a641261da5e5/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f1f92897a92b71053db3792cf336284b1.png%26amp%3Bw%3D700"
+        width: 720
+        height: 456
+        isCached: true
   - title: "My Top 5 AI Stocks"
     excerpt: "2024 is getting off to a hot start. The major averages are up nicely, with the S&P 500 and the Nasdaq composite up by about 5%. Moreover, these advances were over significant gains last year. Thus, it should be a solid year for many high-quality stocks."
     publishedDateTime: 2024-02-20T08:25:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://optics.org/news/15/2/28"
 webUrl: "https://optics.org/news/15/2/28"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-107878759,width-1280,height-720,resizemode-4/107878759.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "UPenn to Launch Bachelor's Degree in Artificial Intelligence"
-    excerpt: "The University of Pennsylvania will offers coursework in topics including machine learning, computing algorithms, data analytics, and advanced robotics, with electives in AI ethics and trustworthy AI."
-    publishedDateTime: 2024-02-16T18:06:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/upenn-to-launch-bachelors-degree-in-artificial-intelligence"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 43
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/6d588da/2147483647/strip/true/crop/1000x486+0+90/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fcd%2F01%2F5f898d9b4d8fb7064e830695e97c%2Funiversity-of-pennsylvania.jpg"
-        width: 1440
-        height: 700
         isCached: true
   - title: "Inside UPenn's new Artificial Intelligence degree program debuting fall 2024"
     excerpt: "University of Pennsylvania attendees will soon be able to earn a degree in artificial intelligence (AI) through its School of Engineering beginning this upcoming fall."

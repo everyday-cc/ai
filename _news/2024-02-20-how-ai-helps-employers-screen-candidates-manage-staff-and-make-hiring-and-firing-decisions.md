@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-helps-emplo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2024/02/20/how-ai-helps-employers-screen-candidates-manage-staff-and-make-hiring-and-firing-decisions/amp/"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI hiring tools may be filtering out the best job applicants"
-    excerpt: "As firms increasingly rely on artificial intelligence-driven hiring platforms, many highly qualified candidates are finding themselves on the cutting room floor."
-    publishedDateTime: 2024-02-16T17:31:00Z
-    webUrl: "https://www.bbc.co.uk/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0hbx9q4.jpg"
-        width: 624
-        height: 351
-        isCached: true
   - title: "Sift Ushers in Era of AI-Powered Fraud Decisioning Amid Surging Company Momentum and Evolving Market Dynamics"
     excerpt: "“As fraud actors embrace AI to inflict harm at unprecedented scale, digital businesses must respond with equal force,” said Armen Najarian, Chief Marketing Officer at Sift. “Sift is proud to lead the era of AI-powered fraud decisioning, empowering the global digital business community to fight fire with fire and grow fearlessly.”"
     publishedDateTime: 2024-02-20T17:36:00Z

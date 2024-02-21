@@ -113,15 +113,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "High-Flying Nvidia’s Earnings Could Test US Stock Market’s AI Dreams"
-    excerpt: "Excitement over the business potential of AI has boosted Nvidia’s shares by more than 46% since Jan. 1. Its $570 billion increase in market capitalization is more than triple the market value of Intel. Shares of Nvidia, whose chips are considered the ..."
-    publishedDateTime: 2024-02-16T17:32:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-16/high-flying-nvidias-earnings-could-test-us-stock-markets-ai-dreams"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Nvidia Just Bought This Under-the-Radar Artificial Intelligence (AI) Stock. Should You Buy It, Too?"
     excerpt: "According to Nvidia 's 13F filing for the fourth quarter of 2023, it purchased 1,730,883 shares in SoundHound AI. It doesn't specify what price Nvidia paid, but the position is worth $6.5 million at SoundHound's current stock price of $3.76."
     publishedDateTime: 2024-02-18T15:40:00Z
@@ -144,6 +135,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96310_01_nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai_full.jpg"
         width: 1500
         height: 796
+        isCached: true
+  - title: "Wall St retreats ahead of AI-darling Nvidia's results, Fed minutes"
+    excerpt: "Wall Street dipped on Wednesday as investors braced for chip designer Nvidia's high-stakes earnings report that could hinder this year's AI euphoria if results are not stellar, and awaited minutes from the Federal Reserve's latest policy meeting."
+    publishedDateTime: 2024-02-21T17:14:00Z
+    webUrl: "https://www.aol.com/news/wall-st-retreats-ahead-ai-105533050.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/cb8446fb41cef426813d3f931845e258"
+        width: 800
+        height: 533
         isCached: true
   - title: "Buy the New NVIDIA GeForce RTX 4070 Ti SUPER GPU, Get a Bonus $100 Dell Gift Card"
     excerpt: "NVIDIA's new GeForce RTX 4070 Ti SUPER was recently released and Dell is already offering a great deal for President's Day. Right now, you can get a bonus $100 Dell promotiona; egift card when you purchase a PNY GEFORCE RTX 4070 Ti SUPER 16GB VERTO Overclocked Edition GPU for $849."

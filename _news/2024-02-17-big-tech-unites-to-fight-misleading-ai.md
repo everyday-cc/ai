@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Feds tap artificial intelligence to boost recycling"
+    excerpt: "The technology could help plug data gaps key to EPA's goal to improve the nation's recycling rate to 50 percent by 2030."
+    publishedDateTime: 2024-02-21T17:31:00Z
+    webUrl: "https://www.eenews.net/articles/feds-tap-artificial-intelligence-to-boost-recycling/"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 37
+    images:
+      - url: "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/f2/e4/f0aaa5ab47a9b6bb4534790c2f8f/eed-0701-crunden-recycling-1160-01.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Tech firms sign effort to fight artificial intelligence's poll interference"
     excerpt: "Signatories of the tech accord, which was announced at the Munich Security Conference, include companies that are building generative AI models used to create content, including OpenAI"
     publishedDateTime: 2024-02-18T16:15:00Z

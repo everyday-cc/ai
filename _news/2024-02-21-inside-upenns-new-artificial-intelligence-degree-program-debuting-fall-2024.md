@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "UPenn to Launch Bachelor's Degree in Artificial Intelligence"
-    excerpt: "The University of Pennsylvania will offers coursework in topics including machine learning, computing algorithms, data analytics, and advanced robotics, with electives in AI ethics and trustworthy AI."
-    publishedDateTime: 2024-02-16T18:06:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/upenn-to-launch-bachelors-degree-in-artificial-intelligence"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 43
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/6d588da/2147483647/strip/true/crop/1000x486+0+90/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fcd%2F01%2F5f898d9b4d8fb7064e830695e97c%2Funiversity-of-pennsylvania.jpg"
-        width: 1440
-        height: 700
-        isCached: true
 
 secured: "MtqbcBpbp7d8YTe84qnI2WPcHkMSGJ09ZOSK7ssBFsqm932dcvovxkSt7QxMQ+lICtke/gT4ohxoKE2PKH2sh/xUJId/ar9GsSN7oJsmNJG7fJKyOCKDtMl0f6bvgBxsxVip7p/0BXMZMlgkPiKFlVrPI0v7UEoZzqXJ7Bi0V+OYEWuJ3rs1kUBEyoOKCHJobQioBI9Mq9yNpkV9CDwjl+Q2T5tajqWb0sndsXY73RKX/NCk5tveYU+Z6i/KqyyL5+9+0RaisM2oexVCPyXx9gOVJ+h/Nd4WMEMeJAuzPmOAMoP83QCKMyXeXHmDKQl1tAG5TyJ6SsAmgq5jkWsM+d1+0ye5qjvF7VjsaU5FvRI=;kYMSU3dY6lfvRcv+g5xv6w=="
 ---

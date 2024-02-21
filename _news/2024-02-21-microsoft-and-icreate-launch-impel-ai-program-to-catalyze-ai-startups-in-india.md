@@ -68,15 +68,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 68
-  - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
-    excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
-    publishedDateTime: 2024-02-19T05:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-19/artificial-intelligence-microsoft-google-nvidia-win-as-computing-costs-surge"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 66
   - title: "Microsoft tinkers with Windows for AMD AI"
     excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
     publishedDateTime: 2024-02-20T09:06:00Z
@@ -138,6 +129,6 @@ related:
       domain: techreport.com
     quality: 34
 
-secured: "YUZul013gpRa46tQcUOFFrCgjLqUBu7sLd5aalt2PnQb9/W7cdIpsXNfM9P2F8m2RAzpwruKyPKmx915Loji+o4y9A7bZTml6/7VNHIOUoZXJIiQUqwc0Ca7vK7M+kKnem7UlmhMk6Cwv1p3HmrA5do4u+9IjMzjydS3UKVRcvgnf25h2JhTLQbvczq7QfVLtYX6aSg2Se9MGCmVewRqjxN9+qvFL2ohmaDz8eDPADziIE51WFbirAg1TdX3Uvd4bw8p4yDFjSqsk7qJ03WuaKHkTEx+Jh4fBIH1GFKdniz3H+TMcK8ed1V4Dfcf9iOZGGVLhQlk0KMlL0Rve9FI0j+7KoS4/P/oLRJPCJShAhA=;toDKiQ6srkZHCneO57rLiA=="
+secured: "DBUgU/3UfzPbMZsOVxsvqQRiCajfHz89+R7+15MVN6B08wPXsF1tRup8pRlHX+CrjYTpNGHhf90YDJlVVW48qDivGrUPrPVQzkRMAVSoNctcgXRf/Y30sUf+m7jOrWDylw/fupwgUMpQy2jpBSRKtEEIegz0c07d/IrGqWgCEDG9AESw2+EzV/7I4skMOsSnEcgh5u6+xAiDjK5FOVWxpJv5JEmjFvewY5k6vajQax+smt3CWH9pbfgpasMSVnQrOThEqGRtTdIR+aYb2PnIV0Zpb0r1tp3t0/rLNihVGuMyRWHjXsUJX5F6Cr9PZR8JhqIVPQe/bdZH/76iveGk6Fs+RKTZVSwNcY2KXPWo6nFf7Cv0pDQXFumqu9riddEj3MZTzA/azFLF8PU5TJgJRox1+drnSV/5o5Ps6JeN7AnQvhYy8k6YXVRuMfkLV1FR5rj/rtUG13eNCYa+/Fe70DnL8+Q2AWeP9rSCXY9UmdeTRz023ErWI+QT6LEcMioQra5K4UrshoSMFSyFS5MBYA==;v4J42/epF6LD38eSu8jgXw=="
 ---
 

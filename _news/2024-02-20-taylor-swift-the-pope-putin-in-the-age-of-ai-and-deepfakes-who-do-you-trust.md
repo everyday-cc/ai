@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: 62
+published: false
 
 provider:
   name: The Guardian
@@ -30,36 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI deepfakes threaten the 2024 elections"
-    excerpt: "It may be the narrative around deepfakes -- rather than the deepfakes themselves -- that most undermines election integrity."
-    publishedDateTime: 2024-02-16T19:04:00Z
-    webUrl: "https://journalistsresource.org/home/how-ai-deepfakes-threaten-the-2024-elections/"
-    type: article
-    provider:
-      name: Journalist's Resource
-      domain: journalistsresource.org
-    quality: 39
-    images:
-      - url: "https://journalistsresource.org/wp-content/uploads/2024/02/artificial-intelligence-4115193_1920-1.jpg"
-        width: 1920
-        height: 1082
-        isCached: true
-  - title: "Tech executives sign new voluntary pact for how they'll respond to AI-generated deepfakes that deliberately trick voters"
-    excerpt: "Tech executives sign new voluntary pact for how they'll respond to AI-generated deepfakes that deliberately trick voters"
-    publishedDateTime: 2024-02-16T17:18:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 32
-    images:
-      - url: "https://s.abcnews.com/images/International/alexei_navalny_file_nr_240216_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord"
     excerpt: "Today, the tech sector has come together at the Munich Security Conference to take a vital step forward in combating video, audio, and images that fake or alter the appearance, voice, or actions of political candidates and election officials."
     publishedDateTime: 2024-02-16T20:04:00Z

@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT is losing its mind and no one seems to know why"
+    excerpt: "Users of ChatGPT have shared screenshots of their interactions with the chatbot on social media after it started responding with nonsense."
+    publishedDateTime: 2024-02-21T15:12:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/65d62092a3bd891424f8e2e6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "New AI-video Tool By Maker Of ChatGPT Worries Media Creators"
     excerpt: "A new artificial intelligence tool that promises to create short videos from simple text commands has raised concerns along with questions from artists and media professionals."
     publishedDateTime: 2024-02-17T01:30:00Z
@@ -143,6 +159,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-16-at-11.07.52-AM-1-1000x600.jpeg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
+    excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"
+    publishedDateTime: 2024-02-21T17:56:00Z
+    webUrl: "https://www.inc.com/kit-eaton/recuriters-missingsigns-that-tech-job-applicants-are-using-chatgpt-to-cheat.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 36
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1817371209_537674_a49pzl.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Groq AI model goes viral and rivals ChatGPT, challenges Elon Musk’s Grok"
     excerpt: "Groq AI model goes viral on social media after public demos emerge showcasing its rapid computation speed, outperforming ChatGPT and sparking discussions about its potential to revolutionize AI applications."

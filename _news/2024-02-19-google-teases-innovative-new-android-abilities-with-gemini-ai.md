@@ -38,21 +38,37 @@ related:
         width: 1484
         height: 900
         isCached: true
-  - title: "Google Gemini: Everything you need to know about the new generative AI platform"
-    excerpt: "Google, proving once again that it lacks a knack for branding, didn’t make it clear from the outset that Gemini is separate and distinct from the Gemini apps on the web and mobile (formerly Bard). The Gemini apps are simply an interface through which ..."
-    publishedDateTime: 2024-02-16T18:25:00Z
-    webUrl: "https://techcrunch.com/2024/02/16/what-is-google-gemini-ai/"
-    ampWebUrl: "https://techcrunch.com/2024/02/16/what-is-google-gemini-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/16/what-is-google-gemini-ai/amp/"
+  - title: "First Gemini, now Gemma: Google's new, open AI models target developers"
+    excerpt: "On Wednesday, Google unveiled Gemma, a family of lightweight, open models developed by DeepMind and other teams across Google that are charged with AI development and research. Introducing Gemma: a family of lightweight, state-of-the-art open models for ..."
+    publishedDateTime: 2024-02-21T17:40:00Z
+    webUrl: "https://www.zdnet.com/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/12/google-bard-gemini-v2.jpg?resize=1200,675"
+      - url: "https://www.zdnet.com/a/img/resize/19d439c154585632ba0a2af6f0b59b09165842fc/2024/02/21/99f54a4d-e622-4973-bb1d-68f9ce9f9971/woman-glkasses3gettyimages-1469706451.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google replaces Duet AI with Gemini for Workspace, brings Business and Enterprise plans"
+    excerpt: "Duet AI customers will be upgraded to the Gemini Enterprise plans automatically. Gemini Enterprise comes with language translation for closed captions in AI-powered meetings. This means that Gemini can translate content in over 100 language pairs."
+    publishedDateTime: 2024-02-21T16:38:00Z
+    webUrl: "https://www.neowin.net/news/google-replaces-duet-ai-with-gemini-for-workspace-brings-business-and-enterprise-plans/"
+    ampWebUrl: "https://www.neowin.net/amp/google-replaces-duet-ai-with-gemini-for-workspace-brings-business-and-enterprise-plans/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-replaces-duet-ai-with-gemini-for-workspace-brings-business-and-enterprise-plans/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 81
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/12/1702484980_gemini-770x435_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Google Launches Two Free 'Gemma' AI Models Inspired by Gemini"
     excerpt: "Google has launched two new open AI models, Gemma 2B and Gemma 7B, with the goal of supporting AI use in third-party applications. The Gemma models vary in size, meaning the simpler Gemma 2B may be better for less intensive AI applications, while Google data suggests that Gemma 7B could outperform other AI models like Mistral or Meta's LLAMA-2."
@@ -95,20 +111,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/video-analysis-using-Google-Gemini-1.5-Pro-AI-model-.jpg"
         width: 1280
         height: 723
-        isCached: true
-  - title: "A new Gemini AI shortcut was just found hiding in Google Chrome"
-    excerpt: "If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. Google gave Bard an official upgrade and rebrand to Gemini, its most powerful ChatGPT rival so far. Gemini is available for free online."
-    publishedDateTime: 2024-02-16T17:54:00Z
-    webUrl: "https://bgr.com/tech/a-new-gemini-ai-shortcut-was-just-found-hiding-in-google-chrome/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-1.jpg?quality=82&strip=all"
-        width: 1600
-        height: 809
         isCached: true
   - title: "You can use Google Gemini AI on your iPhone without installing an app"
     excerpt: "It turns out you don’t have to be an iPhone 15 owner to get that sort of speedy generative AI experience. There’s an iPhone shortcut for Google Gemini that lets you use the chatbot without installing the Google app in the first place. iPhone shortcut developer ProCreations came up with the shortcut called Gemini Chat."

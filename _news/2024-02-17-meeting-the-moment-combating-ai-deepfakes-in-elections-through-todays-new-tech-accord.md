@@ -39,36 +39,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "How AI deepfakes threaten the 2024 elections"
-    excerpt: "It may be the narrative around deepfakes -- rather than the deepfakes themselves -- that most undermines election integrity."
-    publishedDateTime: 2024-02-16T19:04:00Z
-    webUrl: "https://journalistsresource.org/home/how-ai-deepfakes-threaten-the-2024-elections/"
-    type: article
-    provider:
-      name: Journalist's Resource
-      domain: journalistsresource.org
-    quality: 39
-    images:
-      - url: "https://journalistsresource.org/wp-content/uploads/2024/02/artificial-intelligence-4115193_1920-1.jpg"
-        width: 1920
-        height: 1082
-        isCached: true
-  - title: "Tech executives sign new voluntary pact for how they'll respond to AI-generated deepfakes that deliberately trick voters"
-    excerpt: "Tech executives sign new voluntary pact for how they'll respond to AI-generated deepfakes that deliberately trick voters"
-    publishedDateTime: 2024-02-16T17:18:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 32
-    images:
-      - url: "https://s.abcnews.com/images/International/alexei_navalny_file_nr_240216_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "306nTd+mQtEAxIy+SK/ZWEuQOYcvlw5tlzSI/3VPhJz7ALJ2gKR09rpYcPL5ul0rMokSdXiYFgqSDS3POMB8MgFufNRVOwt62yOMH1gy4ByunYDctWEkx/GTb/AdV3caBF3NrNFJ+s6Vp4dv1r4/REQSECkNcyX4MoR5psO4s0q9OHdK61EtT8UkA8vCWA07bq2xU6LjC7f3c2FyPXaflEyetM3/1wpBkLfS62TBDELzUV4Z0uAmN8uG/OSFck30W8QiRh/iVk5UwPlSNuO9SaXA4v9EmuQ3s42Szs+7xLdLtE6XiRvZKAzD8flxq296ymM9ZEX6jwIlMYmKohkE+q5PcX71qFODwOfW1dJM1R2QJRVFdhw2uvMsenHldIt6K86xy9slJW1rn8mdg8OJaiJTG+MjUlUmA9XTm/l0gNDynNzprfj+a0UU0tJK3g9wXVFU+P7WKdTSMtKWQPmkIRoJ8PD+4WgdKfgPKUqOJoXqYRaerdouCQdhlHjNO705WmngZUpT5rA94uesPKRk5Q==;I48joC8Ud9MjRjphgSKZ7Q=="
 ---

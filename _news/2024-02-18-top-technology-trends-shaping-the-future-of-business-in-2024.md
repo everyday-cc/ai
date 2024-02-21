@@ -63,20 +63,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Artificial Intelligence And The Future Of Creativity"
-    excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
-    publishedDateTime: 2024-02-17T10:10:00Z
-    webUrl: "https://menafn.com/1107863606/Artificial-Intelligence-And-The-Future-Of-Creativity"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/17/DNE_b7162image_story.jpeg"
-        width: 715
-        height: 429
-        isCached: true
 
 secured: "pU8e0BhgtOGAsxOxsG0Gh4+lzJ+mUmocPRdw5X8vk1efQOfld4kI+bwFFJkdtS5gGXOVFZZqZ4MVL8u25fmZFXD+k/xf7O65J9VD8Bv+qVFDxUkOzeu5zy6doW9jyHgWTUBQ/PyMtWajJIlOyes/4ErKsPn3xhIFKbprHTi30trGQ73KigHY62nQefTLBFU6t+I3GINfZYG62YnZ9jP1n1lDdwaQX5AIXyxnMYSEWtRei1YdXIfzvKoUbZeMts06giuqa8CHuqbiy+4SLz3WGlmhCQpeduR7SnxbYaa3J9v/MxjzCqRWQxE6ciZXVxNmRojCrjvxwG0WHiJyE4UjxO3BISb6zVbcPPZCaK9rdJSkqBfDx+eytmsb5nXBUFD3gXtxx4xoRsQXE8FJAvIPaKZa71/7gpX+NSKL/xkzy6423tsJYgJLh+I4vi1SaXfDcgblg61ExrvNIZuXGazfQA+3679oCChaRpdaMX8VVVQ3K3Clnk6w8xB+djy7vWrVdwK7zeMCe/HgMrY/Tljeig==;2a2LcA8rmbc12zny295uSQ=="
 ---

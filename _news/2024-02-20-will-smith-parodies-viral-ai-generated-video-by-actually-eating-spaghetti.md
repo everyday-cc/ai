@@ -200,15 +200,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sora is ChatGPT maker OpenAI’s new text-to-video generator. Here’s what we know about the new tool"
-    excerpt: "Meet Sora — OpenAI’s new text-to-video generator. The tool, which the San Francisco company unveiled Thursday, uses generative artificial intelligence to instantly create short videos based on written commands."
-    publishedDateTime: 2024-02-16T17:54:00Z
-    webUrl: "https://www.seattletimes.com/business/sora-is-chatgpt-maker-openais-new-text-to-video-generator-heres-what-we-know-about-the-new-tool/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 20
 
 secured: "x0hFFq+CbMk64oEyYXqdI03TsvIEMaixPB0Wm1yNcTF5VdeOemrq25gEwzafD/AYRRDwcccnkD7AmCUSrbzcCD79jLQ75ih0gr3KJMCQ+8HvGuluzVVZY7Q+CG4nvA5Ev04ksWKgyDs2BxwPnGX48i0wOVfec77Bvho440IPS8afi6ycKPWwvk74u6XIHrojPEKBG5ukVGkn9ktBync/Bztaz0nP3NvsZ5Ifp4KflDmRciwTtN4D39rqd8qHqquQg9oQDTg8dLSqzdJarGZWm4e9QdZIWDQMTTLuuv5WauKUgUewIzTP29hzAU4awfZyV5ScbnN16+AyfuJwcncIAn3QV6VeglUOLOUoyMCksJksaj1wr9jC7DsFOqiZRpt3YJtDP+XLUMf+arM7/Tiils95ir6hVv5vHcOl4o0u1qODldwp0KNENpp2B+eDGLqxo0eVEgl/KX2jliufzF1FX2lKcylfHSYWpXsiGsK9Sm66QjII8J2uyORRRjksZYuIBWHkW9upM51WsZeQcsLtUA==;ywhFRhJauOmn+yJ5EjpDew=="
 ---

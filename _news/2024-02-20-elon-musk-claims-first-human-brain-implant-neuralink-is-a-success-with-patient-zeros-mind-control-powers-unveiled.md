@@ -3,25 +3,23 @@ category: news
 title: "Elon Musk claims first human brain implant Neuralink is a SUCCESS with ‘Patient Zero’s’ mind control powers unveiled"
 excerpt: "ELON Musk has announced the first Neuralink brain chip implant has been successful. The tech mogul revealed the human subject implanted with the ambitious chip has fully recovered – and"
 publishedDateTime: 2024-02-20T14:33:00Z
-originalUrl: "https://www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/"
-webUrl: "https://www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/"
-ampWebUrl: "https://www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/amp/"
+originalUrl: "https://www.thesun.ie/tech/12246611/elon-musk-neuralink-successful-human-trial/"
+webUrl: "https://www.thesun.ie/tech/12246611/elon-musk-neuralink-successful-human-trial/"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: Irish Sun
+  domain: thesun.ie
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2024/02/elon-musk-billionaire-chief-executive-837875240.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2024/02/elon-musk-billionaire-chief-executive-837875240.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
     width: 1920
     height: 1080
     isCached: true
@@ -41,6 +39,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "First Human To Receive Neuralink Chip Can Control Mouse With Mind, Claims Musk"
+    excerpt: "Earlier, in January, Musk revealed that Neuralink had managed to implant its wireless brain chip in a human for the first time. In a post on X, Musk said that \"promising\" brain activity was detected in the human after the procedure and that the person was \"recovering well\"."
+    publishedDateTime: 2024-02-21T06:58:00Z
+    webUrl: "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 52
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1722345/elon-musk.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Elon Musk claims 1st Neuralink implant patient can already control a mouse with their thoughts"
+    excerpt: "During a livestreamed Spaces event with journalist Katherine Brodsky on Monday night, according to Reuters, Musk reported that Neuralink’s technology has enabled the first implantee to control a computer ... the company’s R1 robot."
+    publishedDateTime: 2024-02-20T12:37:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/elon-musk-claims-1st-neuralink-implant-patient-can-already-control-mouse-their-thoughts"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 27
+    images:
+      - url: "https://qtxasset.com/quartz/qcloud5/media/image/neuralink-musk.jpg?VersionId=8wZ.M0IgsRAZXjocvfvTrmHiSfaLEaZ2"
+        width: 1024
+        height: 625
+        isCached: true
   - title: "Neuralink's First Human Patient Able to Control Computer Mouse With His Mind, Says Musk"
     excerpt: "The study uses a robot to surgically place a brain-computer interface implant in a region of the brain that controls the intention to move, Neuralink has said, adding that the initial goal is to enable people to control a computer cursor or keyboard using ..."
     publishedDateTime: 2024-02-20T00:00:00Z
@@ -51,6 +77,6 @@ related:
       domain: inc.com
     quality: 0
 
-secured: "cM1ezQfrIvvdLVuvJnqy6DFcwNrtKvE6f5mSAqZncFpDmSKCaDyhnJCgUu8hMEKDLwh8pqplRC8+2u+qjAyYemM+G/ZOIqlwd2pdMeu7p+6DP5DBmlueNUlR9cXLIb+xbZqdvc731x69iy+wiEDNzzEbPqyn3BDv1RjXW0VulFXo+2d/FyYzP7xB3p1gRK3jJ1asdK4T3siVHnTJDYHL9N/meCi87p3aj5J1huj0VTimLiRBkTYvpKARhFgiNGCn4lrehdPDsYqSbB3Jjdc0WmKrfJacZtFj1ECTtCKQ5RLFpie5Gzpi59FOeFXu1CAI61lUXg7OzQG9PB5BmPaRjgJxJFgzRM8s3STZbkqvu24=;QsN5pCqHrbt/vFGox3Z1gQ=="
+secured: "G6G+t7A6jbijEwXJhcfE8Lm9/U7TDSgG5x53/VzHv5l1wnK2ppw8xgeoyDLGPJ9Ru9y0/l3vQMqXeey9Xa8g0sgqzkN9K9D8FkHKkQbtOEp+lFCpzMd/QEAf7B2md8ZXDi2qfm2AAXU3UxNR96r5ucH1HRf4ED5Fgs+rSVJDQd2KuQaQ/Q4LFTu7+/0gf5MDi1FL6ygPF+eT46kKznEvx5nAnseijeqmKvULeO95fW408msM9Cv8V1DGNjquB2slKzZTxRgnM8aYSq+MSvUeXbD0xxSw37Pcw9OQJv2nhsHgVJ83QPkNfaZJywL8Gnfkgkp9kMNpvZuKihndsXirnTMO7Fv7nELGQS0Jr7a6D58=;j440nHmVTvcUMIG8kePhtw=="
 ---
 

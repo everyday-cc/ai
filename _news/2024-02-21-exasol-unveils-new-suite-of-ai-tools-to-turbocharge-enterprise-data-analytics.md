@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Exasol Unveils New Suite of AI Tools to Turbocharge Enterprise Data Analytics"
-excerpt: "Azure ML, Jupyter, and more. With this new feature, data scientists can easily use Exasol for AI-related tasks such as data loading, data preparation, model training, model optimization, and model deployment. “Exasol’s new AI capabilities reflect our ..."
-publishedDateTime: 2024-02-21T00:00:00Z
-originalUrl: "https://www.01net.it/exasol-unveils-new-suite-of-ai-tools-to-turbocharge-enterprise-data-analytics/"
-webUrl: "https://www.01net.it/exasol-unveils-new-suite-of-ai-tools-to-turbocharge-enterprise-data-analytics/"
+excerpt: "Espresso AI makes AI more affordable and accessible, enabling customers to leapfrog expensive, time-consuming experimentation and achieve immediate ROILAS"
+publishedDateTime: 2024-02-21T10:27:00Z
+originalUrl: "https://www.01net.it/exasol-unveils-new-suite-of-ai-tools-to-turbocharge-enterprise-data-analytics-2/"
+webUrl: "https://www.01net.it/exasol-unveils-new-suite-of-ai-tools-to-turbocharge-enterprise-data-analytics-2/"
 type: article
-quality: 18
+quality: 16
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: 01net.it
 
 topics:
-  - Microsoft AI
-  - AI
   - AWS AI
+  - AI
 
 related:
   - title: "EQS-News: Exasol Unveils New Suite of AI Tools to Turbocharge Enterprise Data Analytics"
@@ -30,6 +29,6 @@ related:
       domain: businessinsider.com
     quality: 45
 
-secured: "MDl5+NjgQXIHuGXuGqpcXocVn002cBvGw/zROiVrbnG+u8YLGjsRdlp36JDyPeUDEXAATDIp7M0a0KZBLcqigk6oH1EApnUL8iyveIZNw0mKwzaPVBm7vbPmb6P9Z/YgKeLS6OjtYCCLtURY1PHW69k4PmcO4yuwZLDX7NQZvNOmXGIsYk53KS+y6pyUqEXmSaRR3N6al9waZ+uXp+yPEQq9Y89Aq9UP5eRZFqzqxsFgtCzEhqFrlT9b4w7ADCM4x9gs8lirO0kSky+aq9nqjGWRorgdS1A18IV6nfqgbSX3d+Dlg3beCMRWiB0fFmHyLs/SbiH6izVVf9CiZNTlHu4MyF9PbyiiqVrI+dSLnDHGeRbJkp7vS731v86OiMwRUSCdKIbyORly5W1ZrxFCLhGMT8BCffdTY7ME3Y4F2k8pM2oImJ7SJ5Nvu400L42IxDqMjFJuiA4kzvBMlOYTrV62o7X9D07CXYAjpHQgeSFlhN1dt93zvQ0NMWgxglKQjMNLUIsjf95BJLuVZEq0MQ==;HZfu+wjFIxQdzmDZzfq2yA=="
+secured: "pL4ShoVt18yBidCZkJIgH7z919hLT12eDREFtHx1SWP0XDzutbzd3QDr9CuXdxbz82brlLTRTfg/N2Ykbig7oFzfJsjCZk/kqRPWdPZHQIDMXxGSlkaU+HBtg9HlUY1JtJqsBMpE3sh4Vy+v5lYaQZ7nyg7EgkB28qeaidjj5MhYu5S+f0KjVDgXUunDAqmx4GdyYziZrVw+Um4+yUUFw4SrpVi9gx8BmQpKhIntvKBPulGAyOfsDJIkkUpVL0DTqSWOTMeMN6rpYmQ51jMRxp7liYf2emdobzDMu2MTQ3vjQy7b3r8U4I3BK6aipl9etZ92vapbtNE/wWR0bhZmr9XYxJJK3Pq97ajUs9xB1SEsyi4ntCx0jpnm7fkeoIdeF9CdnNc7A5vXucffP1BSIAFWII4tFxX0DogWzOuRU1d1d5CQZWQSMke9/3fcfdm7eTWodbR90KN12f47qTHfy/uiJFZHTxb7g/F8TxmIl0kXNm/dyLtDo5bAJet6AyF5zLxv0VDhrJ1JirRFZQiktQ==;HvtYn5bubMBfjbny8pK7pA=="
 ---
 

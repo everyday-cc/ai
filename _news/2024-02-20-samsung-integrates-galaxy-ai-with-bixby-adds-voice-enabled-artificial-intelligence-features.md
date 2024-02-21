@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Bixby now lets you launch key Galaxy AI features with just your voice"
-    excerpt: "Samsung has made a splash with the debut of its Galaxy AI features, which include everything from Live Translate to Circle to Search. If you’ve already managed to get your hands"
-    publishedDateTime: 2024-02-16T18:17:00Z
-    webUrl: "https://www.androidpolice.com/bixby-galaxy-ai-samsung-voice/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 39
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/01/galaxy-s24-ai-hero.jpg"
-        width: 2100
-        height: 1400
-        isCached: true
   - title: "Samsung Bixby Integrated with Galaxy AI features"
     excerpt: "Samsung has announced that its Bixby voice-activated assistant now works with a range of Galaxy AI features, These features were launched recently with"
     publishedDateTime: 2024-02-20T12:10:00Z

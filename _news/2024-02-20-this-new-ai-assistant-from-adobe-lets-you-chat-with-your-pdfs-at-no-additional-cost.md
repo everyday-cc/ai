@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/"
 type: article
 quality: 81
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04FOeQe1PQMSVO52EUTBJk2-1.fit_lim.size_1200x630.v1708450480.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "New Adobe 'AI Assistant' will tackle your long, dense PDFs"
+    excerpt: "AI Assistant also provides citations and clickable links ... Before that, she co-founded a startup consulting business for emerging entrepreneurial hubs in South America, Europe, and Asia. You can find her on Twitter at @cecily_mauran."
+    publishedDateTime: 2024-02-21T18:04:00Z
+    webUrl: "https://mashable.com/article/adobe-ai-assistant-summarize-edit-pdfs"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/03RxUKgIX9M8PDtGsMArUdH/hero-image.fill.size_1200x675.v1708536414.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Adobe adds AI assistant to Acrobat, Reader in effort to maintain relevance in PDF market"
     excerpt: "Adobe has introduced an AI Assistant to Reader and Acrobat, aiming to modernize document management and maintain its edge in a market evolving with large language model technologies."

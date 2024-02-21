@@ -24,123 +24,115 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft and Google are proud AI is helping you (other companies not so much)"
-    excerpt: "Google, too, showed an exceptionally touching example of AI overtly improving someone's life. Here, the company revealed how, with the new AI-powered Pixel 8, those with blindness or low vision can now frame photographs beautifully, as the phone's AI assistant guides them to the optimum framing."
-    publishedDateTime: 2024-02-18T04:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
+  - title: "Microsoft will use Intel Foundry to make its own chip using the Intel 18A process"
+    excerpt: "Today, Intel announced its renamed chip-making business as Intel Foundry. Formerly known as Intel Foundry Services, the company claims the revamped business is the \"world’s first systems foundry for the AI era.\" However, this announcement was somewhat ..."
+    publishedDateTime: 2024-02-21T18:24:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
+      name: Neowin
+      domain: neowin.net
+    quality: 101
     images:
-      - url: "https://www.zdnet.com/a/img/resize/06ade7ecff079e652b414b009a1ae646986bf62f/2024/02/13/42b45f78-34b0-4a2c-8453-3ce03951d473/screenshot-2024-02-13-at-3-13-34pm.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.neowin.com/news/images/uploaded/2024/02/1708537672_intel-foundry-ifdc-1.jpg.rendition.intel.web.1920.1080_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "Microsoft and iCreate launch iMPEL-AI program to catalyze AI startups in India"
-    excerpt: "Microsoft and iCreate, in the presence of Minister Chandrasekhar launched iMPEL-AI (iCreate-Microsoft programme for Emerging Leaders in Artificial Intelligence) programme."
-    publishedDateTime: 2024-02-21T15:56:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2835938-microsoft-and-icreate-launch-impel-ai-program-to-catalyze-ai-startups-in-india"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2835938-microsoft-and-icreate-launch-impel-ai-program-to-catalyze-ai-startups-in-india?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835938-microsoft-and-icreate-launch-impel-ai-program-to-catalyze-ai-startups-in-india?amp"
+  - title: "Microsoft to Use Intel for In-House Custom AI Chip"
+    excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
+    publishedDateTime: 2024-02-21T17:21:00Z
+    webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 70
+      name: Thurrott
+      domain: thurrott.com
+    quality: 71
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_02_2024_20_19_09_0335102.jpg?width=1280"
-        width: 1280
-        height: 861
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/intel-soc.jpg"
+        width: 1066
+        height: 600
         isCached: true
-  - title: "Microsoft is investing in more powerful AI tech to save company cash, here’s how"
-    excerpt: "Microsoft is developing server network cards to replace the ones offered by Nvidia, which will help the company save some cash and improve the performance of its Nvidia chip servers. Read more to know the details."
-    publishedDateTime: 2024-02-21T10:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/articleshow/107883223.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
+  - title: "Microsoft to Expand Its AI Infrastructure in Spain With $2.1 Billion Investment"
+    excerpt: "U.S. software giant Microsoft will expand its artificial intelligence (AI) and cloud infrastructure in Spain through an investment of $2.1 billion in the next two years, the company's Vice Chair and President Brad Smith said in a post on social media site X."
+    publishedDateTime: 2024-02-19T22:31:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107883190,width-1280,height-720,resizemode-4/107883190.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft is developing a network card that improves AI performance"
-    excerpt: "The Information has learned that Microsoft is developing a new network card that could improve the performance of its Maia AI server chip. As an added"
-    publishedDateTime: 2024-02-21T14:23:00Z
-    webUrl: "https://www.techspot.com/news/101960-microsoft-developing-network-card-improves-ai-performance.html"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
+  - title: "Wipro and Intel Foundry Partner for Innovate AI Chip Manufacturing"
+    excerpt: "Wipro and Intel Foundry Partner for Innovate AI Chip Manufacturing - Wipro Limited , a leading technology services and consulting firm, has revealed an enhanced partnership"
+    publishedDateTime: 2024-02-21T08:40:00Z
+    webUrl: "https://www.siliconindia.com/news/general/wipro-and-intel-foundry-partner-for-innovate-ai-chip-manufacturing-nid-227989-cid-1.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
-  - title: "Microsoft tinkers with Windows for AMD AI"
-    excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
-    publishedDateTime: 2024-02-20T09:06:00Z
-    webUrl: "https://www.fudzilla.com/news/58478-microsoft-tinkers-with-windows-for-amd-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/bcdf324bedc9fc853b785e501196a623_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Microsoft to invest $2.1bn in cloud and AI infrastructure in Spain"
-    excerpt: "Microsoft has committed to investing $2.1 billion in cloud computing and artificial intelligence (AI) infrastructure in Spain over the next two years. The planned investment was shared by the vice chair and president of Microsoft Brad Smith via a post on X following a meeting with the Prime Minister of Spain, Pedro Sanchez."
-    publishedDateTime: 2024-02-20T14:56:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-21bn-in-cloud-and-ai-infrastructure-in-spain/?ref=runtime.news"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
+      name: SiliconIndia
+      domain: siliconindia.com
     quality: 54
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/GGt2TbkWIAAO9R7.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.siliconindia.com/news/newsimages/2NEZSVXJ.jpg"
+        width: 570
+        height: 367
         isCached: true
-  - title: "Microsoft will invest $2.1bn in Spain to expand cloud and AI"
-    excerpt: "The focus on AI helped Microsoft briefly hit the $3trn valuation and challenge Apple for the title of the most valuable company in the world. Revenue from the company’s Intelligent Cloud division – which includes Azure – grew by 20pc to $25.9bn."
-    publishedDateTime: 2024-02-20T09:35:00Z
-    webUrl: "https://www.siliconrepublic.com/business/microsoft-ai-investment-spain-cloud-infrastructure-europe"
+  - title: "Wipro and Intel Foundry Partner to Innovate AI Chip Manufacturing"
+    excerpt: "According to a press release, the worldwide AI chip market is projected to experience a compound annual growth rate (CAGR) of 38 percent from 2023 to 2032. The collaboration between Wipro and Intel Foundry aims to meet the increasing demand for AI chip ..."
+    publishedDateTime: 2024-02-21T03:13:00Z
+    webUrl: "https://www.siliconindia.com/news/general/wipro-and-intel-foundry-partner-to-innovate-ai-chip-manufacturing-nid-227989-cid-1.html"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
+      name: SiliconIndia
+      domain: siliconindia.com
     quality: 54
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-21.jpeg"
-        width: 2000
-        height: 1333
+      - url: "https://www.siliconindia.com/news/newsimages/2NEZSVXJ.jpg"
+        width: 570
+        height: 367
         isCached: true
-  - title: "Opinion: Google, Microsoft will dominate AI as computing costs surge"
-    excerpt: "Technology writer Parmy Olson says Google and Microsoft will dominate artificial intelligence as computing costs surge"
-    publishedDateTime: 2024-02-19T18:30:00Z
-    webUrl: "https://www.ourmidland.com/opinion/voices/article/opinion-google-microsoft-dominate-artificial-18676153.php"
+  - title: "Wipro and Intel Foundry Partners for Innovate AI Chip Manufacturing"
+    excerpt: "Wipro and Intel Foundry Partners for Innovate AI Chip Manufacturing - Wipro Limited , a leading technology services and consulting firm, has revealed an enhanced partnership"
+    publishedDateTime: 2024-02-21T03:10:00Z
+    webUrl: "https://www.siliconindia.com/news/general/wipro-and-intel-foundry-partners-for-innovate-ai-chip-manufacturing-nid-227989-cid-1.html"
     type: article
     provider:
-      name: Midland Daily News
-      domain: ourmidland.com
-    quality: 34
-  - title: "Microsoft to Invest $2.1 Billion in AI and Cloud Growth in Spain"
-    excerpt: "Over the next two years to significantly scale up its artificial intelligence (AI) development and cloud computing capacities in Spain."
-    publishedDateTime: 2024-02-21T07:59:00Z
-    webUrl: "https://techreport.com/news/microsoft-to-invest-2-1-billion-in-ai-and-cloud-growth-in-spain/"
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/2NEZSVXJ.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Icreate, Microsoft, IT Ministry To Skill 11K Innovators, Startups In AI In India"
+    excerpt: "Microsoft India and iCreate (the International Centre for Entrepreneurship and Technology) will provide AI skilling opportun"
+    publishedDateTime: 2024-02-21T18:15:00Z
+    webUrl: "https://menafn.com/1107880779/Icreate-Microsoft-IT-Ministry-To-Skill-11K-Innovators-Startups-In-AI-In-India"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 34
+      name: Mena FN
+      domain: menafn.com
+    quality: 49
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/21/I_0a5d1image_story.jpg"
+        width: 299
+        height: 201
+        isCached: true
+  - title: "Competition in the cloud: Microsoft's ‘unfair’ licensing tactics go under the microscope"
+    excerpt: "Microsoft's share of the global cloud infrastructure market is on the grow at a time when its customer recruitment and retention techniques are coming under increased regulatory scrutiny"
+    publishedDateTime: 2024-02-20T05:12:00Z
+    webUrl: "https://www.computerweekly.com/news/366570212/Competition-in-the-cloud-Microsofts-unfair-licensing-tactics-under-the-microscope"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 45
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/cloud-threat-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "mWvThJ1iA3sNfHe+hPqumWJeHEZF6CHQFz/497xL76zWDBO9NeL02fBpOWs0csDXQWBVp46TvmsYbTFnfprI/L2lkPbjK6+rZHv79pWocMKzUz8I4RYFoQTq08BmjRek/wxhn5RQCgdYtg1W89uVGG6gE9Rh1qy8F+8xvFjCMwTuo9hTM3qP6RtJm/o6dNprXf4bq89kBjTWT+6l6FOe/hCvLCGWlG0SKbSXmDDFAsNthrcBP3oZjmh8ZZRLSlSNIwGZd446cb8tB/TN/GshQEVH606SctU1amsZNadY0BaplwjmsVz5k8NxYqJsWpExZ03nhz08q0jfTjiX7DqPeAwUjcPk3aqkEaTpuwtpI32D6rxYiUJTYQGXtrhdq9wx6IIIcFj9zjJ4oxacShh8oAtFU+XFDZ9DuFtilnalQVFNGalsKcKJ0o/WAflhgXE95FbbulRASw/cSeek2hGmrTq+C/S2wmZJH0JHQXHv/YYD7G6mudiU2zCEPEh80g1fSgDkkkePBjX97YIbIP8WDQ==;X6j1HnIDO8orvw8tEfXotw=="
 ---

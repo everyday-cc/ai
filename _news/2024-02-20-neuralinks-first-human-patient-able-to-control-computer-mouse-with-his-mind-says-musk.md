@@ -33,19 +33,45 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "First Human To Receive Neuralink Chip Can Control Mouse With Mind, Claims Musk"
+    excerpt: "Earlier, in January, Musk revealed that Neuralink had managed to implant its wireless brain chip in a human for the first time. In a post on X, Musk said that \"promising\" brain activity was detected in the human after the procedure and that the person was \"recovering well\"."
+    publishedDateTime: 2024-02-21T06:58:00Z
+    webUrl: "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 52
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1722345/elon-musk.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Elon Musk claims 1st Neuralink implant patient can already control a mouse with their thoughts"
+    excerpt: "During a livestreamed Spaces event with journalist Katherine Brodsky on Monday night, according to Reuters, Musk reported that Neuralink’s technology has enabled the first implantee to control a computer ... the company’s R1 robot."
+    publishedDateTime: 2024-02-20T12:37:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/elon-musk-claims-1st-neuralink-implant-patient-can-already-control-mouse-their-thoughts"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 27
+    images:
+      - url: "https://qtxasset.com/quartz/qcloud5/media/image/neuralink-musk.jpg?VersionId=8wZ.M0IgsRAZXjocvfvTrmHiSfaLEaZ2"
+        width: 1024
+        height: 625
+        isCached: true
   - title: "Elon Musk claims first human brain implant Neuralink is a SUCCESS with ‘Patient Zero’s’ mind control powers unveiled"
     excerpt: "ELON Musk has announced the first Neuralink brain chip implant has been successful. The tech mogul revealed the human subject implanted with the ambitious chip has fully recovered – and"
     publishedDateTime: 2024-02-20T14:33:00Z
-    webUrl: "https://www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/amp/"
+    webUrl: "https://www.thesun.ie/tech/12246611/elon-musk-neuralink-successful-human-trial/"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 36
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 16
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2024/02/elon-musk-billionaire-chief-executive-837875240.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2024/02/elon-musk-billionaire-chief-executive-837875240.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
         isCached: true

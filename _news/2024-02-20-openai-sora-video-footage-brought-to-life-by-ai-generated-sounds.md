@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/
 webUrl: "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/"
 type: article
 quality: 69
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -201,15 +201,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sora is ChatGPT maker OpenAI’s new text-to-video generator. Here’s what we know about the new tool"
-    excerpt: "Meet Sora — OpenAI’s new text-to-video generator. The tool, which the San Francisco company unveiled Thursday, uses generative artificial intelligence to instantly create short videos based on written commands."
-    publishedDateTime: 2024-02-16T17:54:00Z
-    webUrl: "https://www.seattletimes.com/business/sora-is-chatgpt-maker-openais-new-text-to-video-generator-heres-what-we-know-about-the-new-tool/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 20
 
 secured: "6ucXLOUYgPqiLDyxJLCNdectMjcPu6fCeIEuFnAfoVni/GnqwqeqtMzDGhgxExLFcvsdvCv8b/fQrOJEGm61gLPCMYvfD5a4LREsMQ+4wwacD9v2017/9jbP4Zza71T9sn7QcQP8/Ij+tS9JCic6u0bzR/OXicS2WuGGywYLAQfzj+cyW/Kr8ZVo0a0831sTzTAxKb9Pmg2Ihi05chDoSBZwH+hFRaffWD+IyslAJ8eb7hr213XS/pSareuSX6kCrgufPvZMKhLlZgZRFtM0SDaciBNlYAhiYqcSFp0VSMrLgvTPZbMEUW5Is/yBYxZXUhgYsBmtEyktPxNEsO9qEk53cvMsSbKKSbw25Fg/XZYvFTK/C7EZ6SZnIVZx5phTmW73U+DfZMgsuV91bjRiTB/0SslPjTSmKJiQgIHGK4GY69U62vHrhNkgmvLNfvTywIRTMTLDoNfBw6aaZk+fh7+Ug26Dn0iW6Mu2EVzflxcsjdyJgD4fsMrfaLSyyMPwnhecQBowMPQXjZacwTHPYw==;En5odS8PkY2qJZ5cKF2B9g=="
 ---

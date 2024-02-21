@@ -39,6 +39,20 @@ related:
         height: 3000
         isCached: true
   - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
+    excerpt: "A boom in artificial intelligence (AI ... AI can potentially boost countless industries, from healthcare to consumer tech, education, e-commerce, cloud computing, autonomous vehicles, and much more. With growth catalysts across multiple sectors, it ..."
+    publishedDateTime: 2024-02-21T18:20:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/24233681/2-artificial-intelligence-ai-stocks-that-could-help-set-you-up-for-life/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 53
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8c8a7cbccab823193093a641261da5e5/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f1f92897a92b71053db3792cf336284b1.png%26amp%3Bw%3D700"
+        width: 720
+        height: 456
+        isCached: true
+  - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
     excerpt: "So, here are two AI stocks that could set you up for life. Nvidia has become a Wall Street darling since the start of last year after snapping up an estimated 80% to 95% market share in AI graphics processing units (GPUs), the chips necessary for training and running AI models."
     publishedDateTime: 2024-02-21T14:20:00Z
     webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/24233681/2-artificial-intelligence-ai-stocks-that-could-help-set-you-up-for-life/"

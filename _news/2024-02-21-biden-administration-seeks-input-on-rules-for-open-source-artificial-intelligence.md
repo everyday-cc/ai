@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration enters debate on ‘open’ versus ‘closed’ artificial-intelligence systems"
+    excerpt: "President Joe Biden signs an executive order on artificial intelligence in the East Room of the White House in Washington on Oct. 30, 2023. The Biden administration is wading into a contentious debate about whether the most powerful artificial ..."
+    publishedDateTime: 2024-02-21T18:33:00Z
+    webUrl: "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://images.mktw.net/im-66491774/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Intel wants another $10 billion from the CHIPS Act and Biden administration"
     excerpt: "Intel has reportedly demanded more subsidies from the Biden administration under the CHIPS Act, as it ramps up new facilities in the USA."
     publishedDateTime: 2024-02-20T04:08:00Z
@@ -39,6 +55,6 @@ related:
         height: 857
         isCached: true
 
-secured: "E637s4yH63ZL9D4SxWZlDN1flgjeNyP3asrakAhtpRrGV+7No7rp0HQd0xGnkZt/t4/n75SQj7kIaJLecBnrjNnYlXcEniKW6U2sWMGIlvhMHanbgZeQSnwaL07PZCpo9cp1j0to+j8RNeMRup46N05UcZrhUddnFGLBAyyckxILsAlN3AAI9siSlBtABwHYwKQjDm82SIK6GDjtHF4FwCQuC/RUepV4MFhxvcsQQ6tBj3TRqAuf3Vq+j4qnrB+96+3VopL1ZM7/PQBxhAZJEHbu48/GWfT05zqnHfEyTnpAz2Ue9vWjVpWUkjcQRVcLQ+7K177LhxPwAh/ZgEANiiDsevRWj8WU38nb4toLfRM=;8XcIBCNZ3gkf5u4YvUunIA=="
+secured: "73NN+sHt/PGUj+MN0iZX71qbP8VnnPiz5BOF0k5wXD0aZNaOu2YZdFf9Ni4bEQcyH9A4Y/N2kVTrfdJkF9NFOzAYFjcBME43e7gFKxSoRmMRyyLiqCIxfdcBQ1laXhIf9Tw+deJUoHI7XqKRrq9uLilisJhY8890q1M/SEellk0RtykExbiX9uCCKV54ZDW3TyPboprKd7BkgaicDFGrnY0lWXycFqnCsLN3v1P2keNutELpTNBooBPcsmhy8PDuce9FTgGB+hR7cfxoSpmwqvYvxqdAKfE2qVZjwecIvJJb6jegSUC5r2WGD61oGQEuWaycE+gUbaXX/H9Cc37gvjW/9WpoTXvqmbaIHVscpLlnaVSP1JHu4irvctXpKH+uhBtw3T2EFWZWQi88Syrn9ih67ItuIXX5fJExDvObIicVDbpPVaUFBh8RHFCFY3rw0moJVbh/nOhFY6dvXASEWkquxl88+e8VD6hn/D7uXBhIYLvr6x1UuJ0N0KbFOFJeyLSD+E6m+Z3owpuXG8xTgQ==;9+/Gd+wXZeOHaLgTh7G+Vg=="
 ---
 
