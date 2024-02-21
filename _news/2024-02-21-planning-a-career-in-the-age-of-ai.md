@@ -19,88 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Four Steps To Ride The Generative AI Wave, Instead Of Drowning Under It"
-    excerpt: "Finally, there is one element that underpins all four of these steps and is a huge factor in successful GAI deployment—executive sponsorship. Business leaders must be committed to embracing change at an organizational level while ensuring objective measurement processes are embedded and that they do not lose sight of the company mission."
-    publishedDateTime: 2024-02-16T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/"
+  - title: "5 AI Accounting Tools For Freelancers Running A Side Hustle In 2024"
+    excerpt: "Tracking expenses is not exactly what you set out to do as a freelancer. But with these AI-powered accounting tools, you'll be able to get back to doing what you love."
+    publishedDateTime: 2024-02-21T08:52:00Z
+    webUrl: "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a95c17e3fb61b42aff12c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d5b9044c575d8bd5bc0be8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "How to stand out from the crowd when everyone uses generative AI"
-    excerpt: "The way to do this is by transforming your proprietary data — structured and unstructured — into vector embeddings, which capture the semantic meaning and contextual information of data, making them suitable for various tasks like text classification, machine translation, sentiment analysis, and more."
-    publishedDateTime: 2024-02-20T16:48:00Z
-    webUrl: "https://www.infoworld.com/article/3713060/how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.html"
+  - title: "How Gong’s AI tools are increasing win rates for sales teams"
+    excerpt: "Gong's proprietary AI for sales is driving transformative growth, with data showing teams using features like Smart Trackers and Ask Anything achieve over 25% higher win rates."
+    publishedDateTime: 2024-02-16T21:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
     images:
-      - url: "https://images.idgesg.net/images/article/2024/02/istock-1886529055-100961409-large.jpg?auto=webp&quality=85,70"
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-ux6NpxqlJ-transformed.jpeg?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Ai for Alpha Integrates New Generative Artificial Intelligence into Its Investment Process"
-    excerpt: "Ai for Alpha, a leading fintech company specializing in leveraging machine learning for advanced investment strategies, announces the integration of Gen AI into its asset management models. “We are excited by this innovative approach as it represents a significant advancement in optimizing investment processes through the application of generative AI technologies,"
-    publishedDateTime: 2024-02-16T12:12:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/ai-alpha-integrates-new-generative-artificial-intelligence-its"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 44
-    images:
-      - url: "https://financialit.net/sites/default/files/ai-for-alpha.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "How Generative AI Is Reshaping Online Trading"
-    excerpt: "Generative AI empowers traders to stay ahead of the curve and make informed decisions in a dynamic market environment"
-    publishedDateTime: 2024-02-19T02:30:00Z
-    webUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/"
-    ampWebUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 39
-  - title: "How RAG makes generative AI tools even better"
-    excerpt: "Patrick Lewis, a natural language processing research scientist with start-up Cohere, originally coined the term RAG in a paper published in 2020. Lewis pointed out that LLMs cannot easily expand or revise their memory, and they can’t straightforwardly ..."
-    publishedDateTime: 2024-02-20T11:00:00Z
-    webUrl: "https://www.computerworld.com/article/3712789/how-rag-makes-generative-ai-tools-even-better.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 21
-  - title: "How to prepare for generative AI and the future of work"
-    excerpt: "Tony Holmes explains how generative AI will transform the workplace and provides tips to prepare employees and use AI for collaboration and innovation."
-    publishedDateTime: 2024-02-20T15:48:00Z
-    webUrl: "https://www.pluralsight.com/resources/blog/data/generative-ai-future-of-work"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 19
-  - title: "The Growing Environmental Footprint Of Generative AI"
-    excerpt: "AI runs on power-hungry equipment that uses millions of gallons of fresh water. Policymakers are weighing the costs."
-    publishedDateTime: 2024-02-20T08:25:00Z
-    webUrl: "https://undark.org/2024/02/20/ai-environmental-footprint/"
-    type: article
-    provider:
-      name: Undark
-      domain: undark.org
-    quality: 19
 
 secured: "q67WE6k5FFcGOR/tc+Hy5ddgRYuO8AGbgeSrjmgT/F6OhGeP8+HA1N3oF+xgtlVEyfzKt2ML7kk+lx7OeqbCa+iI13V5sm0CwX9xLbXP8A4WkzoqM5hNGUbpzJTmdOadiLBVnlEXl+u6DhaYrp8MFtlhE3uSwr74tP4q/p1neJQxrUdLUOnr7iTeOvH+PQwiJBWZbKd+eg8GOk2HTqJEuS2D6Os9lMZNgsM6tUCDjGVOKGC1ISDTt0QDrVGcLFdUhHyIRiVSxMMv8yqyctWAM4ONeCWkK3qsXr2Q4dYT4GUmtHHrvaqMNYx/ekUTBTbaScU7JgvE0TptQgX+F1hzyjDhthCimk7Pt3rJvoYsuYU=;nWm8H3Mv6T8e8IhVzgUv8w=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US forms task force to explore guardrails for AI"
+    excerpt: "it will substantially foster AI advancement in terms of security, privacy, ethics, and sustainability, which will be critical for the public trust on AI in the long run.” According to Counterpoint Research Senior Analyst, Akshara Bassi, “AI regulation ..."
+    publishedDateTime: 2024-02-21T12:16:00Z
+    webUrl: "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "US House Forms AI Task Force as Legislative Push Stalls"
     excerpt: "Earlier this month, Commerce Secretary Gina Raimondo said leading AI companies were among more than 200 entities joining a new U.S. consortium to support safe AI deployment including OpenAI, Alphabet's Google, Anthropic, Microsoft, Meta Platforms, Apple, Amazon.com and Nvidia."
     publishedDateTime: 2024-02-20T13:08:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://9to5google.com/2024/02/20/galaxy-buds-ai-update/"
 webUrl: "https://9to5google.com/2024/02/20/galaxy-buds-ai-update/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,50 +23,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Reducing defects and downtime with AI-enabled automated inspections"
-    excerpt: "IBM harnesses the power of data and AI to drive real-time, predictive business insights to help clients make intelligent decisions.\nThe post Reducing defects and downtime with AI-enabled automated inspections appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-16T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/reducing-defects-and-downtime-with-ai-enabled-automated-inspections/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/02/190328_19003_industrial_red_frames_102.blog-lead-space-40x21-1.jpg"
-        width: 2400
-        height: 1260
-        isCached: true
-  - title: "Easily build no-code AI Agent automations using drag-and-drop with Flowise"
-    excerpt: "Flowise lets you easily build no code AI agent automations using its drag-and-drop user interface. Connect open source LLMs to your app."
-    publishedDateTime: 2024-02-19T10:40:00Z
-    webUrl: "https://www.geeky-gadgets.com/no-code-ai-agent-automations/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 35
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/create-AI-Agent-automations-using-no-code-building-platform.jpg"
-        width: 1280
-        height: 717
-        isCached: true
-  - title: "UiPath Debuts Expansive Updates for Developer-Centered Automations"
-    excerpt: "UiPath, the enterprise automation software company, is announcing a variety of new features for its Business Automation Platform, designed to enhance developer productivity in the realm of building and testing automations."
-    publishedDateTime: 2024-02-16T18:53:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/UiPath-Debuts-Expansive-Updates-for-Developer-Centered-Automations-162634.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 24
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WLhc6RcQQSz7s0jnaKBIaKtbNP9jR+8+IdfBF82cp02b7Txm/XGJUn3CaaPiRtkBViOuucgZie4YZsGXq5L/4OwKeV0VfDuA/x4CjKtHaOlvpdcah2kL9rweLwtaxxhYdpQhP9P3IDfYZkNerB90QZujT2caFD3XaB+Kh4/t6IHPEcfO/3K0huX0dlQADHzN1Ne91gzj43aHSz/RHmYQu/tVMwBuUL2yNmfPECv6HnhTDr1xC3sUXTE8wKur7gaUHxCUJVoRw7K7aHZnGIVsjdWyK0VpZhvOaVXMKlkb05FLURfJFFPbfM6oC5daBL4FBX795rCUsMU0UD+g78qn3ECzJfqmzEX9M1+ItB2x0ChbqEr1RgqFmIYcooJNLkMMQs79dQj6ljicPvS9d27qoQJTCASIlCOQvkoOMbiZRuNjjkrUzerTX1/xVA66xjHBToEHOxVYGK0SH984vVcG5Ao18m+Sz4RL+V4pPrqzNeUkryiL7QtumHtAlhqJL4YvwENfFrF2GpP7MslMCkFg0A==;TBpuVYWK7/olXPrVwTogsg=="
 ---

@@ -40,20 +40,6 @@ related:
         width: 1036
         height: 691
         isCached: true
-  - title: "AI hiring tools may be filtering out the best job applicants"
-    excerpt: "As firms increasingly rely on artificial intelligence-driven hiring platforms, many highly qualified candidates are finding themselves on the cutting room floor."
-    publishedDateTime: 2024-02-16T12:00:00Z
-    webUrl: "https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/624x351/p0hbx9q4.jpg"
-        width: 624
-        height: 351
-        isCached: true
   - title: "Sift Ushers in Era of AI-Powered Fraud Decisioning Amid Surging Company Momentum and Evolving Market Dynamics"
     excerpt: "“As fraud actors embrace AI to inflict harm at unprecedented scale, digital businesses must respond with equal force,” said Armen Najarian, Chief Marketing Officer at Sift. “Sift is proud to lead the era of AI-powered fraud decisioning, empowering the global digital business community to fight fire with fire and grow fearlessly.”"
     publishedDateTime: 2024-02-20T17:36:00Z

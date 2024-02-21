@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-19-anomaly-detection-in-machine-learning-finding-outliers-for-optimization-of-business-functions.md",
+      "title": "Anomaly detection in machine learning: Finding outliers for optimization of business functions",
+      "excerpt": "Powered by AI, machine learning techniques are leveraged to detect anomalous behavior through three different detection methods.\nThe post Anomaly detection in machine learning: Finding outliers for optimization of business functions appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/anomaly-detection-machine-learning/",
+      "originalUrl": "https://www.ibm.com/blog/anomaly-detection-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-ibm-aims-to-boost-ai-offerings-with-23b-acquisition.md",
       "title": "IBM aims to boost AI offerings with $2.3B acquisition",
       "excerpt": "IBM announced on Monday its plans to buy Software AG's StreamSets and webMethods platforms for $2.3 billion cash in a move aimed at bolstering the tech giant's artificial intelligence and hybrid ...",
@@ -1299,40 +1342,6 @@
       "provider": {
         "name": "Yakima Herald-Republic",
         "domain": "yakimaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-ibm-goes-big-on-data-observability-with-databandai-acquisition.md",
-      "title": "IBM Goes Big On Data Observability With Databand.ai Acquisition",
-      "excerpt": "IBM expects that Databand.ai, along with IBM Observability by Instana APM and IBM Watson Studio, will help position IBM to address the full spectrum of IT data observability to find bad data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/data-center/ibm-goes-big-on-data-observability-with-databand-ai-acquisition",
-      "originalUrl": "https://www.crn.com/news/data-center/ibm-goes-big-on-data-observability-with-databand-ai-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T22:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
         "images": null,
         "publishers": null,
         "authors": null

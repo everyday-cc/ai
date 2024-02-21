@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/tech-giants-promise-to-comb
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://www.globalgovernmentforum.com/wp-content/uploads/Untitled-1240-x-828-px-1-620x414.png"
         width: 620
         height: 414
-        isCached: true
-  - title: "Tech companies sign accord to combat AI-generated election trickery"
-    excerpt: "Major technology companies signed a pact Friday to voluntarily adopt “reasonable precautions” to prevent artificial intelligence tools from being used to disrupt democratic elections around the world"
-    publishedDateTime: 2024-02-16T11:24:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2024/02/16/ai-generated-election-deepfakes-munich-accord-meta-google-microsoft-tiktok-x/9fe5a30c-ccef-11ee-aa8e-1e5794a4b2d6_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TQ45YCWM54I65KUODZLZJJFS2Y.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Tech giants pledge action against deceptive AI in elections"
     excerpt: "Fears over how AI could be used to mislead voters are escalating in a year that will see hundreds of millions of people around the world cast ballots. As a result, tech giants are pledging action."

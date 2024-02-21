@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-12-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
+      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
+      "excerpt": "Latte art is a skill that can take months if not years of practice to master — but not for this barista powered by artificial intelligence ... founder of food tech startup Artly Coffee, one ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/robot-baristas-ai-chefs-caused-stir-ces-2024-106334129",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/robot-baristas-ai-chefs-caused-stir-ces-2024-106334129",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_8bd3fd4f404a0cda90e69e539a19fb01_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/robot-baristas-ai-chefs-caused-stir-ces-2024-106334129",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/robot-baristas-ai-chefs-caused-stir-ces-2024-106334129",
+      "publishedDateTime": "2024-01-12T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-industrial-tech-giant-abb-buys-ai-powered-robot-navigation-startup-sevensense.md",
       "title": "Industrial tech giant ABB buys AI-powered robot navigation startup Sevensense",
       "excerpt": "said today it has acquired a startup called Sevensense Robotics AG that specializes in improving the mobility and awareness of industrial robots. Sevensense is said to combine artificial intelligence smarts with 3D vision capabilities to enable robots to ...",
@@ -1217,58 +1260,6 @@
         "name": "Finanznachrichten",
         "domain": "finanznachrichten.de",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-02-the-13-best-cat-litter-boxes-of-2024-tested-and-reviewed.md",
-      "title": "The 13 best cat litter boxes of 2024, tested and reviewed",
-      "excerpt": "If you're looking for an automatic litter box with all the bells and whistles, the Whisker Litter-Robot 4 is a pricey ... Best for odor control: Catit Jumbo Hooded Pan - See at Chewy The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/guides/pets/best-litter-box",
-      "originalUrl": "https://www.businessinsider.com/guides/pets/best-litter-box",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63cad3f725e32e00190c7c3e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-02T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

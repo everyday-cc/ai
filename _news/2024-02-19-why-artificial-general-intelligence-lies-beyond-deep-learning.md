@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/why-artificial-general-intelligence-lie
 webUrl: "https://venturebeat.com/ai/why-artificial-general-intelligence-lies-beyond-deep-learning/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why The Debate About Artificial General Intelligence Misses The Point"
-    excerpt: "The world will never achieve artificial general intelligence, but it won’t be due to technological limitations."
-    publishedDateTime: 2024-02-16T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ce48d9e14de6b124d410c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "How empathetic Artificial General Intelligence can be?"
     excerpt: "“AGI can potentially revolutionise psychological care by augmenting diagnosis, personalised treatment, and therapy delivery ... highlighted. The Artificial General Intelligence (AGI) market size was $2.17 billion in 2023 and is expected to reach $ ..."
     publishedDateTime: 2024-02-21T02:31:00Z

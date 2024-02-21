@@ -46,19 +46,19 @@
       ]
     },
     {
-      "path": "_news/2024-02-18-how-ai-is-redefining-data-based-roles.md",
-      "title": "How AI is redefining data-based roles",
-      "excerpt": "AI will replace few if any data-related roles. Instead, AI-powered software will enhance their capabilities and encourage AI proficiency.",
+      "path": "_news/2024-02-19-why-artificial-general-intelligence-lies-beyond-deep-learning.md",
+      "title": "Why artificial general intelligence lies beyond deep learning",
+      "excerpt": "Many believe deep learning will continue to advance and play a crucial role in achieving AGI — but it does have its limitations.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-is-redefining-data-based-roles/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-is-redefining-data-based-roles/",
+      "webUrl": "https://venturebeat.com/ai/why-artificial-general-intelligence-lies-beyond-deep-learning/",
+      "originalUrl": "https://venturebeat.com/ai/why-artificial-general-intelligence-lies-beyond-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/data_pipelines_moving_in_different_directions_v-transformed.jpeg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/an_artificial_intelligence_brain_vibrant_3d_re-transformed.jpeg?w=1200&strip=all",
           "width": 1200,
           "height": 750,
           "title": null,
@@ -70,7 +70,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T02:15:00Z",
+      "publishedDateTime": "2024-02-18T19:14:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -94,7 +94,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

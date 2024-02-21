@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-11-24-best-ai-tools-for-2024-optimize-entrepreneurial-success.md",
+      "title": "24 Best AI Tools For 2024: Optimize Entrepreneurial Success",
+      "excerpt": "Jasper AI is an advanced writing assistant leveraging AI models for efficient content creation, language translation, and diverse creative outputs. In development, it proves valuable for crafting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/best-ai-tools-optimize-entrepreneurial-success",
+      "originalUrl": "https://www.ibtimes.com/best-ai-tools-optimize-entrepreneurial-success",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4501328/chatgpt-became-fastest-adopted-app-history-since-taken-over-metas-threads-users-marveled.jpg",
+          "width": 768,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T14:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-illini-insider-speech-accessibility-project-now-includes-als-and-cerebral-palsy.md",
       "title": "Illini Insider | Speech Accessibility Project now includes ALS and cerebral palsy",
       "excerpt": "From left, UI professors Mark Hasegawa-Johnson, Laura Mattie, Marie Moore Channell are working on expanding a database being used to train speech-recognition software to include people whose speech is affected by various conditions, including Parkinson's disease and Down syndrome.",
@@ -1325,58 +1368,6 @@
         "name": "edmontonsun",
         "domain": "edmontonsun.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season.md",
-      "title": "Santa gets a behind-the-scenes boost from AI this holiday season",
-      "excerpt": "From using chatbots to predicting demand for items, retailers are experimenting with and expanding use of generative AI this holiday season.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/12/21/santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season-.html",
-      "originalUrl": "https://www.cnbc.com/2023/12/21/santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107348867-1702909922507-gettyimages-1273719565-conveyorgiftboxcopy.jpeg?v=1702909976",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/12/21/santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/21/santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season-.html",
-      "publishedDateTime": "2023-12-21T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

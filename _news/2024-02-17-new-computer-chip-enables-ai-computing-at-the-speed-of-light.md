@@ -53,6 +53,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "New chip opens door to AI computing at light speed"
+    excerpt: "Engineers have developed a new chip that uses light waves, rather than electricity, to perform the complex math essential to training AI. The chip has the potential to radically accelerate the processing speed of computers while also reducing their energy consumption."
+    publishedDateTime: 2024-02-21T00:02:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/02/240216135820.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "Penn Engineers Develop Chip That Uses Light to Power AI"
     excerpt: "University of Pennsylvania engineers have developed a new chip that uses light waves, rather than electricity, to perform the complex math essential to training AI."
     publishedDateTime: 2024-02-20T06:23:00Z

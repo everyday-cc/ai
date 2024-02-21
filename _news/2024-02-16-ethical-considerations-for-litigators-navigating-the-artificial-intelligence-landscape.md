@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/legaltechnews/2024/02/16/ethical-consideration
 webUrl: "https://www.law.com/legaltechnews/2024/02/16/ethical-considerations-for-litigators-navigating-the-artificial-intelligence-landscape/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating The AI Wave: A Strategic Approach To Adoption"
-    excerpt: "While the adoption of AI continues to evolve, strategically building AI solutions incrementally facilitates smoother user adoption."
-    publishedDateTime: 2024-02-16T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/"
+  - title: "Navigating Through The Mobile Controlled Robots Market Landscape"
+    excerpt: "Mobile Controlled Robots Market Research Report: 2024. ResearchVise has published a new report titled, “Global Mobile Controlled Robots Market”, segme"
+    publishedDateTime: 2024-02-20T08:58:00Z
+    webUrl: "https://www.opprairie.com/news/navigating-through-the-mobile-controlled-robots-market-landscape/80221/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Orland Park Prairie
+      domain: opprairie.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6172b77891b88a52e85adc7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://www.opprairie.com/wp-content/uploads/2024/02/Most-Advanced-Vertical-Farms.png"
+        width: 766
+        height: 450
         isCached: true
 
 secured: "SG0uzjKfMlixf6KosupKWyoCS90ZFy3ttB6OAfjQPobEDVCegy3EXBwzXCBsNRrH7h4NAyztWUXqsFMfocGnFaDBK81YKzGBjr8Xhi0nziEXXXeWiEOzAcasE03Cc36iLOKJrOqUQMmIdlNsgYwKrKG37PAXm6OTsJY+Lml7gLmcPdyvn5McUnKP9T9cbh2DnonitFPrUK+0wiRC4az9NeiGinAcITHoB42/kR74XImCcIP5BF3FHf3Rtyjeud+CCK0uaO4iFOPssTgA7SXFwi07Y58ChMj9/kFix/pMZM9+beH17yYYw1KQjUVcTGzceD40EuisrgBLkfvsBSujQXQCqZAOJ6Tepbdt9hrqZzTzfTX0E8RtD3KWOLjSmyzfAehmZPd0kRFVmz2j8m31EYoLpLEXOyzHx41T8E8o++6evBSauaz+JBmWCGjhrrfkE5lVdDW/kKR9hYPjD0+U0jrmLRQxDnzl2qPo6UUGUWYI8gk6EKGjr8np95pPNAR89mGsvnqeVlByahJ/b/53Eg==;zJgpljYrGuBwuLSutVDPMA=="

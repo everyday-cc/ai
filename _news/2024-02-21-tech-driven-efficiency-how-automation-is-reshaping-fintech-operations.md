@@ -137,20 +137,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Fintech Firm to Lease San Francisco Space Vacated by Pinterest"
-    excerpt: "In 2022, when Pinterest announced that it was adopting a hybrid work model the company called “PinFlex” that permitted its employees to “choose where they work best,” the tech company vacated a SoMa building at 410 Townsend, where the lease on two floors it was occupy was expiring, the Chronicle reported."
-    publishedDateTime: 2024-02-16T11:58:00Z
-    webUrl: "https://www.globest.com/2024/02/16/fintech-firm-to-lease-san-francisco-space-vacated-by-pinterest/"
-    type: article
-    provider:
-      name: GlobeSt.com
-      domain: globest.com
-    quality: 24
-    images:
-      - url: "https://images.globest.com/contrib/content/uploads/sites/296/2023/07/San-Francisco-Skyline-Article-202307210817.jpg"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Baron FinTech Fund Q4 2023 Shareholder Letter"
     excerpt: "[1]The FactSet Global FinTech Index™ is an unmanaged and equal-weighted index ... well positioned to capitalize on increasing adoption of artificial intelligence ('AI') given its vast data sets. The company recently launched Intuit Assist, a generative ..."
     publishedDateTime: 2024-02-18T10:15:00Z
@@ -190,20 +176,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 22
-  - title: "Intersphere Enterprises and Icarus Labs: A Fintech Partnership Redefining the Future"
-    excerpt: "The dynamic landscape of financial technology is witnessing a pivotal moment with the strategic partnership of Intersphere Enterprises (ISE) and Icarus Labs. This collaboration is an amalgamation of Intersphere’s extensive financial expertise and Icarus Labs’ groundbreaking technological innovation."
-    publishedDateTime: 2024-02-16T11:49:00Z
-    webUrl: "https://techbullion.com/intersphere-enterprises-and-icarus-labs-a-fintech-partnership-redefining-the-future/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 17
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/ICA0018-media-banner-02.jpg"
-        width: 720
-        height: 455
-        isCached: true
   - title: "Why KYB Should Be a Priority for Fintech Startups Right From the Start"
     excerpt: "Fintech startups are disrupting the financial services industry in exciting new ways. However, with innovation comes risk. As fintech companies enable speedy, paperless transactions and expand access to financial services,"
     publishedDateTime: 2024-02-20T13:55:00Z

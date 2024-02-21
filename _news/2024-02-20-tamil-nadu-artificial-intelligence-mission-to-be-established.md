@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-artific
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/tamil-nadu-artificial-intelligence-mission-to-be-established/article67864691.ece/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Hindu
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "TN To Establish Artificial Intelligence Mission For Leveraging AI"
-    excerpt: "(MENAFN- IANS) Chennai, Feb 19 (IANS) Tamil Nadu Finance Minister Thangam Thennarasu on Monday said that the state would establish an Artificial Intelligence (AI) Mission to develop guidelines for constructively leveraging AI in education, employment ..."
-    publishedDateTime: 2024-02-19T05:30:00Z
-    webUrl: "https://menafn.com/1107869958/TN-To-Establish-Artificial-Intelligence-Mission-For-Leveraging-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 52
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/19/I_25023image_story.jpg"
-        width: 300
-        height: 321
-        isCached: true
   - title: "Tamil Nadu Budget 2024: Welfare of women and transgender people, promotion of Tamil and other highlights"
     excerpt: "The announcements aimed at achieving the “7 grand Tamil dream” foucssing on social justice, welfare of the marginalised, transforming Tamil youth as global achievers, knowledge-based economy, equality focused on the welfare of women, sustainable future, and Tamil language and culture."
     publishedDateTime: 2024-02-19T12:34:00Z

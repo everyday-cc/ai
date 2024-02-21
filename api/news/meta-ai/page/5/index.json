@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-08-meta-publicly-launches-ai-image-generator-trained-on-your-facebook-instagram-photos.md",
+      "title": "Meta publicly launches AI image generator trained on your Facebook, Instagram photos",
+      "excerpt": "Meta's Imagine service was built on its own AI model called Emu, which was trained on 1.1 billion Facebook and Instagram user photos.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-publicly-launches-ai-image-generator-trained-on-your-facebook-instagram-photos/",
+      "originalUrl": "https://venturebeat.com/ai/meta-publicly-launches-ai-image-generator-trained-on-your-facebook-instagram-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-07-at-2.50.56-PM.png?w=1200&strip=all",
+          "width": 982,
+          "height": 715,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T03:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-llama-antibodies-could-pave-the-way-for-new-norovirus-treatments.md",
       "title": "Llama Antibodies Could Pave the Way for New Norovirus Treatments",
       "excerpt": "The unexpected findings reveal that nanobodies could be developed as a therapeutic agent against human norovirus. Llama nanobodies may give an upper hand Llamas and related animals such as camels and alpacas, produce antibodies for protection against ...",

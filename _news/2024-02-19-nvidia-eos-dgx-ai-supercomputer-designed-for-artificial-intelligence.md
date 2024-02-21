@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nokia, Nvidia collaborate on AI for mobile networks"
+    excerpt: "Nokia will also use Nvidia chips for AI applications and RAN acceleration, which will pave the way for “AI-RAN.” The idea is to remove complexity and provide flexibility, to allow customers to get their Cloud RAN services up and running much faster."
+    publishedDateTime: 2024-02-21T12:44:00Z
+    webUrl: "https://www.marketwatch.com/story/nokia-nvidia-collaborate-on-ai-for-mobile-networks-a8ceace9"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nokia-nvidia-collaborate-on-ai-for-mobile-networks-a8ceace9"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nokia-nvidia-collaborate-on-ai-for-mobile-networks-a8ceace9"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://images.mktw.net/im-47039978/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Softbank wants $100 billion to compete with Nvidia for AI chips"
     excerpt: "SoftBank's Masayoshi Son aims to raise $100 billion for a chip venture named Izanagi, focused on AI computing and artificial general intelligence. The project plans to challenge Nvidia's dominance, collaborate with OpenAI, and achieve AGI through Arm's ..."
     publishedDateTime: 2024-02-20T12:30:00Z

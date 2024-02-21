@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "TN To Establish Artificial Intelligence Mission For Leveraging AI"
-    excerpt: "(MENAFN- IANS) Chennai, Feb 19 (IANS) Tamil Nadu Finance Minister Thangam Thennarasu on Monday said that the state would establish an Artificial Intelligence (AI) Mission to develop guidelines for constructively leveraging AI in education, employment ..."
-    publishedDateTime: 2024-02-19T05:30:00Z
-    webUrl: "https://menafn.com/1107869958/TN-To-Establish-Artificial-Intelligence-Mission-For-Leveraging-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 52
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/19/I_25023image_story.jpg"
-        width: 300
-        height: 321
-        isCached: true
 
 secured: "Ja9SqHrrzy1cazHg7tyBm1Sh+DQOzcxMT6D/Q3y7POm55gloSHsWgxP7Ouiu6VWZ11GBdDNQO5JfZ7F04k6xf1A7fg5qtKcWF96yso5upTnfLgdZWftwpHTCbdirIJqTMBkQmaO5/MaO2J8r3VSf7K4yLjZRw26eYBE2NO9X+2xG76A40ljEgittzYF3YIV2C57wuZBxLOdCACNvorRT1O+dj5hDMs9pfozY94Wb30JWbZWbBD+xbu5BxlGegGyfIoMD11tZ0ko8V3866uk0D44Ttk8LMAFaI4W6pkma/mtn4+wlELgaqU1ZawYTCXytH51zy2JkdWKIgBF1Qr6IluDjk/BV6+2FabqB5TgRm2A=;ZFs7SCF/Ok3FYjt4vr2Vgg=="
 ---

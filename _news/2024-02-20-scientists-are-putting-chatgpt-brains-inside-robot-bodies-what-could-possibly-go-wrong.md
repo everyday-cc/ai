@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The 7 Best Free AI Logo Generators That Aren’t ChatGPT"
+    excerpt: "Some AI logo generators will automate the entire process from start to finish based on a single prompt, while others will ask you a few supplementary questions to ensure you’re on the same page. There are also some logo generators we’ve tried that ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://tech.co/news/best-free-ai-logo-generators"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 54
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2024/02/20074049/AdobeStock_583862221-1.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
   - title: "Forget ChatGPT — Groq is the new AI model to beat with blistering computation speed"
     excerpt: "Groq (not to be confused with Elon Musk’s Grok chatbot — and no they aren’t too happy with the similar names) specializes in developing high-performance processors and software solutions for AI, machine learning (ML), and high-performance computing applications."
     publishedDateTime: 2024-02-20T15:54:00Z

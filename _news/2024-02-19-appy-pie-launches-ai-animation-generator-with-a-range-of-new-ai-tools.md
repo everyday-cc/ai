@@ -35,6 +35,20 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "How to stand out from the crowd when everyone uses generative AI"
+    excerpt: "The way to do this is by transforming your proprietary data — structured and unstructured — into vector embeddings, which capture the semantic meaning and contextual information of data, making them suitable for various tasks like text classification, machine translation, sentiment analysis, and more."
+    publishedDateTime: 2024-02-20T16:48:00Z
+    webUrl: "https://www.infoworld.com/article/3713060/how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 69
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/02/istock-1886529055-100961409-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Retrieval augmented generation (RAG): The open-book test for generative AI"
     excerpt: "The release of ChatGPT in November 2022 marked a groundbreaking moment for AI, introducing the world to an entirely new realm of possibilities created by the fusion of generative AI (genAI) and machine learning foundation models, or large language models (LLMs)."
     publishedDateTime: 2024-02-20T16:37:00Z
@@ -67,6 +81,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "How RAG makes generative AI tools even better"
+    excerpt: "Patrick Lewis, a natural language processing research scientist with start-up Cohere, originally coined the term RAG in a paper published in 2020. Lewis pointed out that LLMs cannot easily expand or revise their memory, and they can’t straightforwardly ..."
+    publishedDateTime: 2024-02-20T11:00:00Z
+    webUrl: "https://www.computerworld.com/article/3712789/how-rag-makes-generative-ai-tools-even-better.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 21
+  - title: "The Growing Environmental Footprint Of Generative AI"
+    excerpt: "AI runs on power-hungry equipment that uses millions of gallons of fresh water. Policymakers are weighing the costs."
+    publishedDateTime: 2024-02-20T08:25:00Z
+    webUrl: "https://undark.org/2024/02/20/ai-environmental-footprint/"
+    type: article
+    provider:
+      name: Undark
+      domain: undark.org
+    quality: 19
 
 secured: "iCOZ31YZL/OE/eOlc2Dq4gQQ2YhOrMKuFs6oOrd13gTWn+umE7/4G2d3jUBgNv2VMUiMHYSLszlGjlpkmzGYhi3d4L1mEejOgdyvtHhL0hjN4v24CR59mVSGC8ShZaxkUzHrB6YLL17ZetaaEfuUkBee8zC6Mh0hOyp5F0vqU4bQesY9owUdGHBDl9AdhKSYuZFQ1JDxTWzP3bq0/F8phP8DpNfGZdx9IcOqW8PW6W7wSsfT24iVBXlBCGxwUm9A4B51SESLicLuAXaiwfkw7iBcxUmS5uwCHfFubIoi8n/X2nAXwg0T34GuvJ8g9LwYSv8EeKNpPUAAJljFD9c42v05CEs1dYnrCdNN+GU8L45HeAj7QwvHwXCNrGCI2JbC0WhHV616Bk9BI6+Dvw/fyupZiRmKkp11xOPgvfG752gv6WponAmAijPShkDsaoAnT5PnxrbJ3HgAAUlP4k/I44rCx8cGMHo/cIhIvQe4+gfR3UTuyCZmqYBTlggfFeSJwmogD+EbR91wWIgsTwM9qg==;q0tnSmfdqCp0D6vRa7mk3A=="
 ---

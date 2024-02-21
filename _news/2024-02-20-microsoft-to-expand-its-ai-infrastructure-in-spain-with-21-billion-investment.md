@@ -32,34 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Microsoft to invest €3.2bn in doubling AI infrastructure and cloud capacity in Germany"
-    excerpt: "Microsoft has committed to investing €3.2 billion ($3.44bn) to double its AI infrastructure and cloud computing capacity in Germany. The investment will span the next two years and focus on the expansion of Microsoft's cloud region in Frankfurt and newly planned infrastructure in North Rhine-Westphalia."
-    publishedDateTime: 2024-02-16T12:20:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-32bn-in-doubling-ai-infrastructure-and-cloud-capacity-in-germany/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 46
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Lambda Raises $320M in Series C Funding to Expand Its AI Cloud Business and Scale GPU Infrastructure"
-    excerpt: "Lambda, the GPU cloud company founded by AI engineers and powered by NVIDIA GPUs, has announced it has raised a $320"
-    publishedDateTime: 2024-02-16T12:55:00Z
-    webUrl: "https://www.datanami.com/this-just-in/lambda-raises-320m-in-series-c-funding-to-expand-its-ai-cloud-business-and-scale-gpu-infrastructure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-        width: 2560
-        height: 1336
-        isCached: true
 
 secured: "UUVQjSJd7HJmxgB0yyXxIHFwFIpTbTMnEwP1fGE04bF05p1rsj2TG+XZVmtNJnTE75ss/Cp0P5X4PS4/LeiWJBi2wIp1lRdjSjPQDnHE469CvIF60+AH22GoyXFNVDECHPjmuvmCSsHB8WdDYznluTxZBZ8H6NrjVXxA/BmBCYKPWGH7ZlmLyXyGmd6VIK6GdUY3HpP19XPNxFZuAgMAHic3k1UacK1GW0Rg5ERibDPUa1/YuOc1oMMyiWHXez6zKZxCylZgnf6P9syEC3hvqYL9dH+yk05mcDUAkx/8S8Klw6dCD10UboCmJb/yP6h4Ehvcfm7nTa/zOS7l8XNUAk2SwdnDKLFO4doZO7glb8WPXAc9NY6jVt6RAHXuyqyoEyZpl/hOAuLQQEhd0gzkrjqs2rZt6Rl8byUfrJDYc42vMvtEsZNiAfZLgL+g/KAL0E8lvtRt11SOay9OsYAJeBVLMYzrBE6WwBD4YeDV5frwpFd34Qo8sml7+nyzTs/vwnIo9/35wdSGjN8wct69BA==;NmvyqjvCwTDfGUF9rWXvqg=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-ai-is-redefining-data-based-roles/"
 webUrl: "https://venturebeat.com/ai/how-ai-is-redefining-data-based-roles/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,22 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is affecting social media"
-    excerpt: "The transformative power of Artificial Intelligence (A.I.) is reshaping our world, offering both unprecedented benefits and complex challenges, particularly in the realm of"
-    publishedDateTime: 2024-02-19T14:54:00Z
-    webUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/"
-    ampWebUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/"
-    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/"
+  - title: "How AI-powered Robots Are Changing the Game in Rural Shanghai"
+    excerpt: "navigating the terrain with crawler feet and making decisions with their advanced AI brains. The simplicity of operating these robots is astonishing. Farmers, using just their smartphones, can awaken these mechanical helpers to start their day. Wang Jinyue ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/21/ai-powered-robots-shanghai/"
     type: article
     provider:
-      name: WFLA News Channel 8
-      domain: wfla.com
-    quality: 57
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
     images:
-      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2024/02/B-Block-How-Artificial-Intelligence-is-affecting-social-media.jpg?w=1280"
-        width: 640
-        height: 360
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/65d54dd3a31082fc2b68df48.jpeg"
+        width: 900
+        height: 675
         isCached: true
+  - title: "Watch this eerily silent vision of the future — where offices are filled with weird, AI-powered robots"
+    excerpt: "In a new video, 1X's EVE robots work together in silence in a test environment, performing actions such as sorting mail, handling objects and tidying up a child's toys."
+    publishedDateTime: 2024-02-19T12:30:00Z
+    webUrl: "https://www.livescience.com/technology/robotics/watch-this-eerily-silent-vision-of-the-future-where-offices-are-filled-with-weird-ai-trained-robots"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 1
 
 secured: "17vw1iQsZ79gxqEgfw891RyimfDWE1eGLS1pd0qwF+Q86m8uSZ8yQpO+znBIZXYh8ZieCvZm8e2lM2uqQwNgjEybMRj5sOLsCnUJdTTlF/r/8bqnN4qMw25HOY8b2jGEvJlihoD/JKWLcqkaau33ZqPTn6+14nGRx2SqYQRRzuG+sF5+AifVLIC9cavLefbvOJSq3HhKFfnDuHtb2IvpYh+8+OvEi5FbwStf+zRQZF+yPueYz3X7Xmz5k6t5QZ/rxs32X4RGuqX4tiJhxrEuordaKOuiu6Y8NugCZiQhRgtDoagZlyEOQngsarWU4nYPqiBywirkYM+/UbqNgVeLj7Z3bV2yEFsKndfozEGPC0U=;nhwvQxbSChiG2sc93W9kKQ=="
 ---

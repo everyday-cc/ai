@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-19T10:40:00Z
 originalUrl: "https://www.geeky-gadgets.com/no-code-ai-agent-automations/"
 webUrl: "https://www.geeky-gadgets.com/no-code-ai-agent-automations/"
 type: article
-quality: 35
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/create-AI-Agent-automations-using-no-code-building-platform.jpg"
@@ -24,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Reducing defects and downtime with AI-enabled automated inspections"
-    excerpt: "IBM harnesses the power of data and AI to drive real-time, predictive business insights to help clients make intelligent decisions.\nThe post Reducing defects and downtime with AI-enabled automated inspections appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-16T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/reducing-defects-and-downtime-with-ai-enabled-automated-inspections/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/02/190328_19003_industrial_red_frames_102.blog-lead-space-40x21-1.jpg"
-        width: 2400
-        height: 1260
-        isCached: true
-  - title: "Galaxy Buds update brings live translation with AI and Android’s auto switching for calls"
-    excerpt: "Samsung’s Galaxy Buds series has been a go-to for Galaxy users because they simply work better within the ecosystem."
-    publishedDateTime: 2024-02-20T15:44:00Z
-    webUrl: "https://9to5google.com/2024/02/20/galaxy-buds-ai-update/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 30
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/samsung-galaxy-buds-fe-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "UiPath Debuts Expansive Updates for Developer-Centered Automations"
     excerpt: "UiPath, the enterprise automation software company, is announcing a variety of new features for its Business Automation Platform, designed to enhance developer productivity in the realm of building and testing automations."
     publishedDateTime: 2024-02-16T18:53:00Z
@@ -67,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bVOjeG8bcm1yQJxZPXY1EI/3atOPMuy8Ouy7wmQ7KE3H3sLXR+qWg795e4dJKcXATkGqzkVQSDPys0AJpDu0dxJhTJ4gOzcwOI8XM/HNpor3E1TLQvl8spvSDwK1im6Znz6nl/Isj0AbHHHNKQ1eQxrfDbEqRYqbDWAt6v7EroWO8V5rNuT6hpfY+C35pEVj7CRksiixMQMqNtyjGplv4TDgxKtphN3g+BZheXQKFzPmtF5ssg+jQBx8tL8EthJbuAIW+gtHdhyGIShNHyQzUIzrdNz3+BNhkFiYl+B590sg8GfSfZucEYGhR3f0JgZar81nahJDHrp4Rg3XtX7xWeu2hNdaxqWqbdpymYDRpNI=;tRznYdDWY4EhUabvxvt/8w=="
+secured: "PADv+qMU4ZgaJ/q/O9t/MEum3PJfuLKTufQqinYEs4q/5MkdE8v4BbpI192CRvHGIQGb0VmuvQ9BGkxYi60V2TmrrBhNRv57b19JtgPQw/ffgt6zTmMMXcAwVH/e6t/8/Xjom6QZ60joIoThHUul6t0CKjSDBLZgI3zJx85gqu9OJsydxweHtCYx1bbq0qyopgKmyNvclVzyIHKiynDyUHeDWhOM4crPRj0tBYLpRMzm+k+HELIse6nZyFgaIVPVBDgi5bwubhEX3dgOUZa5tA5GisHxgpQnq/wjGukRg4PLC3OCxNQw4RHMs3U6PuyRcsOGylLLuLeDFg00r6fR1aBgHa4vCdcYGDgzDAhkHsgkTuu86NIeAYWoogoEHRVVU7+UdQfAoj4yn+X57qaD4RI69d64jEfKoElBIOHk6dO35URayxaBTFKXLsXNoxROx/DdKXteHVTaffdkxI/90ofRZ8iMuJRN+uH70L4A7MuP0SRT6NhjU8fbUs4XsJZEOZG36T5MJnkoPLLl9/atcQ==;LnzgapSsB/SHqyL5nEUbHQ=="
 ---
 

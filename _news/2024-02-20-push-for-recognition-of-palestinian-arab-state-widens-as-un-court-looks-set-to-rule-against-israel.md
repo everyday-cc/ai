@@ -39,17 +39,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Netanyahu: Recognition of Palestinian State Would Reward Terrorism"
-    excerpt: "Israel asked the World Court to reject South Africa's request, which was filed Tuesday. In that filing, South Africa said there had been a \"significant development\" since the court's January ruling, meaning Israeli Prime Minister Benjamin Netanyahu's announced offensive on Rafah."
-    publishedDateTime: 2024-02-16T11:28:00Z
-    webUrl: "https://www.voanews.com/a/netanyahu-recognition-of-palestinian-state-would-reward-terrorism/7490219.html"
-    ampWebUrl: "https://www.voanews.com/amp/netanyahu-recognition-of-palestinian-state-would-reward-terrorism/7490219.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/netanyahu-recognition-of-palestinian-state-would-reward-terrorism/7490219.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 24
 
 secured: "a5RW0iI/T93NNx0/1fR6F2X0pMq9SLNpq6vMu0IwCMXHmBHE1O30Vwp+i0gdZ7ws7gw6UnGIimuXWQBCbKZc4XxIQZVLZbjvumBuSWbkGudbDtI5szYeASVpA9YLlM8BFRyOTbXs67GZkOFRHQdKmie1tGSY7jfGb6B5IeUM7XpKRo0B8g+v9WKrUb8xi3e9mJJ0PaLFrwd25IDosWD2JibNIJIEvPuc/FIvRk3gc+6L8gO/pZDLBeTaTxIWM0shoE3p6xN+njVq3tm6M48AdipUommh7FM8y3Wvr/MJpZ8+skw/sCqJIHbl/UmYWBimTd5n1Km24zD6nM9iXx/W4c80FOMHiwR2y4lIn+6v3M8p8T7Sz0bAgOp8VblTSAflSvKb/ZWCqrNupLmKKV55lsyQbwIQh8FXWSEExaM74LSvASW9Rw/0JFLZANiqr+YAvQzh8tJIwoy86gYl5zojWeMMQTL9Vs4VrTbJkUvxpfioR1fvS9G/C+e21VWVFveIRv5voIB1Rhw7hFwNe3/pbw==;DgpqmImIDxVWx092CVuM+g=="
 ---

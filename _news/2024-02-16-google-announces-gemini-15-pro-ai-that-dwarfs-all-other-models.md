@@ -111,15 +111,20 @@ related:
       name: Slator
       domain: slator.com
     quality: 27
-  - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
-    excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
-    publishedDateTime: 2024-02-16T12:15:00Z
-    webUrl: "https://www.tomsguide.com/ai/i-test-ai-for-a-living-and-googles-new-version-of-gemini-is-a-turning-point-for-the-industry"
+  - title: "Google App Adds Toggle Between Search & Gemini"
+    excerpt: "The popular Google app, the Google Search app, now has a toggle at the top to quickly switch between Google Search and Gemini (formerly Google Bard). It shows up at the top and is defaulted to Google Search with the super G logo but you can see the Gemini logo that you can tap on to switch to Gemini."
+    publishedDateTime: 2024-02-21T07:11:00Z
+    webUrl: "https://www.seroundtable.com/google-app-toggle-between-search-gemini-36930.html"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 8
+      name: Search Engine Roundtable
+      domain: seroundtable.com
+    quality: 24
+    images:
+      - url: "https://s3.amazonaws.com/images.seroundtable.com/google-toggles-1708514122.jpg"
+        width: 1456
+        height: 832
+        isCached: true
 
 secured: "Lzljlg8R6bPVZe/2fMZtx3tVh5JNAvaK/RzV9Giv7ZaTvb/R4F3JrhPU1ry1P9FjFjM8+zPQvwmEZfyUnKlPH8yObdqN0toumasSeqUXC7EjMezdWZUpUevDTdfplW6oTR55Qw36ak0YTRXmo0FPD0ubW4p+VTpRJ2wfRcyRKrHseUVinZvWJZ+aWro78p791BAfvRPeaKdUBowEFqFSAixAOyDCBLT3pjU9hhtj4jxEQdOC8pJZeYLzy65OiivBWl2FCFjbpnklVbvsX5DC+IjEzPFgctR9ArhnV1ueotvwdXOlxuhtR1Cdf8kUC2Ch8D75ZRvNkQhqHiLdkc3uScuAXZbeCGsSbU7Gr3R35Xk=;FNnIvDFB5BiPCLMW67M0/Q=="
 ---

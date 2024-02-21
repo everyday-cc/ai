@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/37218987"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung Galaxy AI Confirmed to Come to Galaxy Wearables"
+    excerpt: "In other words, get ready to see Galaxy AI soar across Samsung’s wearable ecosystem. The support could possibly bring smarter health monitoring, seamless language translation, and who knows what other surprises to your wrist (and finger) soon!"
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/"
+    ampWebUrl: "https://www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/04/Samsung-Galaxy-Watch5-Pro-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Collaboration delivers AI-as-a-service platform"
     excerpt: "The combination of Supermicro’s Nvidia MGX-based servers and Vapor IO’s 5G- and AI-as-a-Service brings AI and 5G to the intelligent edge."
     publishedDateTime: 2024-02-20T19:13:00Z

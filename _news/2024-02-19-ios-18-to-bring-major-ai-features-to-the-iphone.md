@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/ios-18-to-bring-major-ai-features-to
 webUrl: "https://www.geeky-gadgets.com/ios-18-to-bring-major-ai-features-to-the-iphone-19-02-2024/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The iPhone 16 could feature major Neural Engine upgrade for on-device generative AI tasks"
-    excerpt: "Apple's future generation of iPhone, iPad, and MacBook chips, the M4 and A18, will have an increased number of cores in their improved Neural Engines, writes"
-    publishedDateTime: 2024-02-16T11:55:00Z
-    webUrl: "https://www.techspot.com/news/101910-iphone-16-could-feature-major-neural-engine-upgrade.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 60
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-04-image-20.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "iOS 18 might bring AI to the iPhone search and I’m ready for it"
-    excerpt: "A report says that the iPhone's Spotlight search will get AI features like ChatGPT, and I hope it'll happen in time for the iOS 18 release."
-    publishedDateTime: 2024-02-16T11:50:00Z
-    webUrl: "https://bgr.com/tech/ios-18-might-bring-ai-to-the-iphone-search-and-im-ready-for-it/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/12/iphone-15-plus-6.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Yet another report suggests iPhone 16 is being built with AI in mind with a surprise Neural Engine update"
     excerpt: "While generative AI remains controversial for leveraging existing assets to produce something 'new', a new report from Taiwan (thanks, GSMArena) suggests that the iPhone 16 will lean into it with a new Neural Engine that packs \"significantly\" more cores."
     publishedDateTime: 2024-02-18T11:20:00Z

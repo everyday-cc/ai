@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/monumental-raises-25m-for-bricklayi
 webUrl: "https://www.therobotreport.com/monumental-raises-25m-for-bricklaying-robots/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Monumental's AI-powered robot builders get a massive funding boost"
-    excerpt: "Monumental raises $25M to advance construction robotics, addressing labor shortages and boosting productivity with AI-driven innovation."
-    publishedDateTime: 2024-02-16T12:39:00Z
-    webUrl: "https://interestingengineering.com/innovation/monumental-robot-builders-get-funding-boost"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/kxpSU5zsXt7xpTdpDXfubLgI8dhfwAQaJteLjlRZ.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Monumental raises funding to scale its robotics technology"
     excerpt: "Robotics startup firm Monumental has raised $25 million in funding, led by Plural and Hummingbird Ventures, with participation from Northzone, Foundamental, NP-Hard Ventures, as well as high-profile angel investors."
     publishedDateTime: 2024-02-19T20:51:00Z

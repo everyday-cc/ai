@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The 7 Best Free AI Logo Generators That Aren’t ChatGPT"
+    excerpt: "Some AI logo generators will automate the entire process from start to finish based on a single prompt, while others will ask you a few supplementary questions to ensure you’re on the same page. There are also some logo generators we’ve tried that ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://tech.co/news/best-free-ai-logo-generators"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 54
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2024/02/20074049/AdobeStock_583862221-1.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
   - title: "Scientists Are Putting ChatGPT Brains Inside Robot Bodies. What Could Possibly Go Wrong?"
     excerpt: "As a dinner-handling robot formulates its “policy”—the plan of action it will follow to fulfill its instructions—it will have to be knowledgeable about not just the partic"
     publishedDateTime: 2024-02-20T14:22:00Z

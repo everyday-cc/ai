@@ -45,6 +45,20 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "How to stand out from the crowd when everyone uses generative AI"
+    excerpt: "The way to do this is by transforming your proprietary data — structured and unstructured — into vector embeddings, which capture the semantic meaning and contextual information of data, making them suitable for various tasks like text classification, machine translation, sentiment analysis, and more."
+    publishedDateTime: 2024-02-20T16:48:00Z
+    webUrl: "https://www.infoworld.com/article/3713060/how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 69
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/02/istock-1886529055-100961409-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "What Are AI Text Generators? 8 Best Tools To Improve Writing"
     excerpt: "Learn the various types of AI text generators and how they are transforming content creation. Unleash the potential of AI text generators in automating crafting copy."
     publishedDateTime: 2024-02-17T19:01:00Z
@@ -63,6 +77,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "How RAG makes generative AI tools even better"
+    excerpt: "Patrick Lewis, a natural language processing research scientist with start-up Cohere, originally coined the term RAG in a paper published in 2020. Lewis pointed out that LLMs cannot easily expand or revise their memory, and they can’t straightforwardly ..."
+    publishedDateTime: 2024-02-20T11:00:00Z
+    webUrl: "https://www.computerworld.com/article/3712789/how-rag-makes-generative-ai-tools-even-better.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 21
   - title: "Appy Pie launches AI Animation Generator with a Range of New AI Tools"
     excerpt: "The AI animation generator from Appy Pie is backed with features like natural language processing, real-time previews and edits, background music integration, voice over capabilities, and much more, making it easy for users to create animations for their ..."
     publishedDateTime: 2024-02-18T21:10:00Z
@@ -71,6 +94,15 @@ related:
     provider:
       name: Palm Beach Post
       domain: palmbeachpost.com
+    quality: 19
+  - title: "The Growing Environmental Footprint Of Generative AI"
+    excerpt: "AI runs on power-hungry equipment that uses millions of gallons of fresh water. Policymakers are weighing the costs."
+    publishedDateTime: 2024-02-20T08:25:00Z
+    webUrl: "https://undark.org/2024/02/20/ai-environmental-footprint/"
+    type: article
+    provider:
+      name: Undark
+      domain: undark.org
     quality: 19
 
 secured: "1YNQ6Z8oW+6naKodJ3qH3z6TgMEU1IJHhUJyHGd5kpccJYYxs+zvczeoc4m8O55LM70SFfZVnrGdzmxFuh+nj26J5l+3ZULNXyI8AO3DB0Vb+zpJauBZElagAbwUO9ACHCXqXdL/CbpyJ2AX3SiAAHsQJ7tKh/SBjdiD5/65OZYTMM9AYyhMxFpcnxL0zwaEmtMSClP/SWP0A3KPXaXPsS+L/RI0H8KKmNLEadYUN1vljyS9ZX41iA2Q+DWI2Sr9pPp+YwKmH1mgG+QrRkvkvM0qvH9WbCa1SaQAyFcYwNcN3dxmhCPa2Q1HIsh2yXi2IZv/AwnsBPVDujAbmhS0ysn9y1mvaneLof/s8q9X2ZOvV+eSs8mOhODC/Wg+LPe9cq7ot9xvjgWaVb3YW2tFEsv6YqMfwmc60KmZsri8IJq8UHfWp0alzjVREJ0fgA2rworPvHXOqKQnCKe/Oz9h1J3iBlIm/nb+5u7+uf0xEqvMFsgNcpI1ar0fT0wCBDJOPN+b/qZc3NTreRJmsvLXAw==;wHCPiNQrxsI6zYp+JAW/Nw=="

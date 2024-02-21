@@ -102,6 +102,20 @@ related:
       name: Slator
       domain: slator.com
     quality: 27
+  - title: "Google App Adds Toggle Between Search & Gemini"
+    excerpt: "The popular Google app, the Google Search app, now has a toggle at the top to quickly switch between Google Search and Gemini (formerly Google Bard). It shows up at the top and is defaulted to Google Search with the super G logo but you can see the Gemini logo that you can tap on to switch to Gemini."
+    publishedDateTime: 2024-02-21T07:11:00Z
+    webUrl: "https://www.seroundtable.com/google-app-toggle-between-search-gemini-36930.html"
+    type: article
+    provider:
+      name: Search Engine Roundtable
+      domain: seroundtable.com
+    quality: 24
+    images:
+      - url: "https://s3.amazonaws.com/images.seroundtable.com/google-toggles-1708514122.jpg"
+        width: 1456
+        height: 832
+        isCached: true
   - title: "Google Announces Gemini 1.5 Pro AI That Dwarfs All Other Models"
     excerpt: "Google only just announced Gemini as its new AI branding, rolling out models in several sizes and levels of complexity. Gemini 1.0 Pro, the mid-tier version of the model, is already being replaced. Google says Gemini 1."
     publishedDateTime: 2024-02-16T14:03:00Z
@@ -111,15 +125,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
-    excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
-    publishedDateTime: 2024-02-16T12:15:00Z
-    webUrl: "https://www.tomsguide.com/ai/i-test-ai-for-a-living-and-googles-new-version-of-gemini-is-a-turning-point-for-the-industry"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 8
 
 secured: "y73aI+VM82d8dO2xRApwvHvaf9fYi9Z7dBXdYZcsdCuH2jVCX5usi2k57L+ffwl/j8Nqy7MBXT3iMks/dVjrn8yhdB/DPA3sfIADmu57fi1+74o2n0qT9n+tGHNR15LektO5ZYxBDM7B8JB1TnmFQf+FAV16I0ibgdjwII33mlJFNyTtL05q7prWMu+dv2/dJ0mHulDUFQHn0NWe/vY/hzfyACEiwUK/aoEPguLRMNnbvQuA0kXiTogFsV6t3XfGvmBVidEKjATfjxZFOWOQljm+aW4iGSEsmtZqw8vnJ+4nLLUL6EFxu2GCuvWELlZD9CT6FoLw67cPpezmH7asxvZLeoEgHUu64RC4qCgl/CQ=;tTjxMopjZNEd6QgkVGeFSw=="
 ---

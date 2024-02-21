@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US forms task force to explore guardrails for AI"
+    excerpt: "it will substantially foster AI advancement in terms of security, privacy, ethics, and sustainability, which will be critical for the public trust on AI in the long run.” According to Counterpoint Research Senior Analyst, Akshara Bassi, “AI regulation ..."
+    publishedDateTime: 2024-02-21T12:16:00Z
+    webUrl: "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "2 WMass experts on a new statewide task force to explore use of AI technology in all industries"
     excerpt: "WNE President Robert Johnson and MassMutual's Sears Merritt among the 26 person task force that will tackle how industries can introduce artificial intelligence to their workforce."
     publishedDateTime: 2024-02-16T23:02:00Z

@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft is investing in more powerful AI tech to save company cash, here’s how"
+    excerpt: "Microsoft is developing server network cards to replace the ones offered by Nvidia, which will help the company save some cash and improve the performance of its Nvidia chip servers. Read more to know the details."
+    publishedDateTime: 2024-02-21T10:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/articleshow/107883223.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107883190,width-1280,height-720,resizemode-4/107883190.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft tinkers with Windows for AMD AI"
     excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
     publishedDateTime: 2024-02-20T09:06:00Z

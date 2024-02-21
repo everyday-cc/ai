@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-21-engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks.md",
-      "title": "Engineers develop chip that uses ‘fastest means of communication’ for AI tasks",
-      "excerpt": "Read More Engineers from the University of Pennsylvania have developed a silicon-photonic chip that uses light to perform complex math for AI tasks. This chip manipulates materials at the nanoscale and enables brain-like processing, while offering ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107878759,width-1280,height-720,resizemode-4/107878759.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
-      "publishedDateTime": "2024-02-21T09:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-21-mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips.md",
       "title": "Mark Zuckerberg To Meet Samsung Chief In South Korea, Discuss AI Chips",
       "excerpt": "Zuckerberg is expected to meet Samsung Electronics chairman Jay Y. Lee as early as later this month to discuss AI chip supply and other generative AI issues, South Korean newspaper Seoul Economic Daily reported earlier on Wednesday, citing unnamed sources ...",
@@ -191,7 +148,7 @@
       "originalUrl": "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -287,6 +244,50 @@
       ]
     },
     {
+      "path": "_news/2024-02-21-upenn-develops-optical-chip-to-process-complex-math-for-ai.md",
+      "title": "UPenn develops optical chip to process complex math for AI",
+      "excerpt": "Computing optically could cut the cost of AI: Prof. Nader Engheta. Engineers at the University of Pennsylvania (UPenn) have developed a new optical chip to perform the complex math essential to training AI. Its developers say that the chip has the ...",
+      "sourceUrl": null,
+      "webUrl": "https://optics.org/news/15/2/28",
+      "originalUrl": "https://optics.org/news/15/2/28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://optics.org/objects/news/thumb/15/2/28/UpennmanM.jpg",
+          "width": 476,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Optics",
+        "domain": "optics.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-the-ai-craze-is-highlighting-the-cooling-crunch.md",
       "title": "The AI Craze Is Highlighting The Cooling Crunch",
       "excerpt": "Direct-to-chip and immersion cooling come in two subtypes ... But it’s coming. Until then, all the AI and HPC workloads flying around require alternative cooling methods—now, today, already. So what are you going to do? Moor Insights & Strategy ...",
@@ -347,7 +348,7 @@
       "originalUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -478,7 +479,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {

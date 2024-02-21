@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why The Debate About Artificial General Intelligence Misses The Point"
-    excerpt: "The world will never achieve artificial general intelligence, but it won’t be due to technological limitations."
-    publishedDateTime: 2024-02-16T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ce48d9e14de6b124d410c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Why artificial general intelligence lies beyond deep learning"
     excerpt: "Many believe deep learning will continue to advance and play a crucial role in achieving AGI — but it does have its limitations."
     publishedDateTime: 2024-02-18T19:14:00Z

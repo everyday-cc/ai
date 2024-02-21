@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2024/02/21/ai-powered-robots-shanghai/"
 webUrl: "https://www.gizmochina.com/2024/02/21/ai-powered-robots-shanghai/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Gizmochina
@@ -29,48 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "How Gong’s AI tools are increasing win rates for sales teams"
-    excerpt: "Gong's proprietary AI for sales is driving transformative growth, with data showing teams using features like Smart Trackers and Ask Anything achieve over 25% higher win rates."
-    publishedDateTime: 2024-02-16T21:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/"
+  - title: "How AI is redefining data-based roles"
+    excerpt: "AI will replace few if any data-related roles. Instead, AI-powered software will enhance their capabilities and encourage AI proficiency."
+    publishedDateTime: 2024-02-18T02:15:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-redefining-data-based-roles/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 86
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-ux6NpxqlJ-transformed.jpeg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/data_pipelines_moving_in_different_directions_v-transformed.jpeg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 750
         isCached: true
-  - title: "VCs are clamoring to back 'screaming hot' startups using AI for medical records"
-    excerpt: "Most recently, Ambience Healthcare announced a $70 million Series B round in February, co-led by Kleiner Perkins and Open AI Startup Fund and including existing investors Andreessen Horowitz and Optum Ventures. Medical-scribe startup Nabla raised a Series ..."
-    publishedDateTime: 2024-02-21T10:00:00Z
-    webUrl: "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2"
+  - title: "Watch this eerily silent vision of the future — where offices are filled with weird, AI-powered robots"
+    excerpt: "In a new video, 1X's EVE robots work together in silence in a test environment, performing actions such as sorting mail, handling objects and tidying up a child's toys."
+    publishedDateTime: 2024-02-19T12:30:00Z
+    webUrl: "https://www.livescience.com/technology/robotics/watch-this-eerily-silent-vision-of-the-future-where-offices-are-filled-with-weird-ai-trained-robots"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/65cf847ef533b039a884865f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Use Artificial Intelligence to Create Forms, Surveys, and Quizzes With involve.me"
-    excerpt: "Software as a service (SaaS) company involve.me is launching its innovative AI-powered form builder, allowing users to create business forms"
-    publishedDateTime: 2024-02-19T18:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/use-artificial-intelligence-to-create-forms-surveys-and-quizzes-with-involve-me-1033080843"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/89121331-1708310952-1.jpg"
-        width: 800
-        height: 450
-        isCached: true
+      name: Live Science
+      domain: livescience.com
+    quality: 1
 
 secured: "BKDh9vubIhZNKf+Mity7v8LJsD4dXn+/99pMxEUPR0M0s7iT5dzYxqVGwp3BbSne+/qg924st2knmYv8OmYc4tQZFXjySjl9AhmyWci86dBSgtQbSjLv/uw5QTaDuibh65lMjoFFK2Tumlgt7DfLnT2FFbqZH5fzuiZQ1KrTP2WIu/tx8wYm9eZDVzUZttbWAdSZZ0nBDh7tNoRTt6lYem1f/5fjtABdQSrSZL7D1k6kzDIlF0dlrZ8hjSwJAWB0iDcWEOhErSDIssKBukdHRs9g3x6mbIy/WyjcXjM5TABBJRf44deQIR0ftbKkgeWaJy+4/0Mwj33Ld0vnEX9jAkw1b66c5Dh/JhtsPoqJ2NxQEtoOSXCuz6tZcsCq8SPPmbm2r4aIjkCVyjDmHSv8y4Vr6Lj9rbmhv0L8ohX2RZmqV3JArtNU6fbifNscWOoYYQ0FdIKJbHi6+niIU1KbvTKbAP/OQ/oTnODDYGbFCVxUf6O5UaTICg7wWu+L6mgN6yHhRCxuHAKxDI9sS4CnzQ==;DX6obOGXXNRlghruNrgL7Q=="
 ---
