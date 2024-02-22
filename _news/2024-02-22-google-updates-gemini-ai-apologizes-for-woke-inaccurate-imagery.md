@@ -95,6 +95,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google’s Gemini for Workspace expands genAI access to SMBs"
+    excerpt: "This reflects a similar change to Google’s general purpose Bard chatbot, which switched to Gemini earlier this month. Gemini for Workspace is available via two pricing plans. Gemini Enterprise replaces Duet AI for Workspace Enterprise, which launched ..."
+    publishedDateTime: 2024-02-22T16:53:00Z
+    webUrl: "https://www.computerworld.com/article/3713181/googles-gemini-for-workspace-expands-genai-access-to-smbs.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713181/googles-gemini-for-workspace-expands-genai-access-to-smbs.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713181/googles-gemini-for-workspace-expands-genai-access-to-smbs.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/02/gemini-emailpoc_light_mode_x4.max-1700x1700-100961521-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 697
+        isCached: true
   - title: "Google Teases Innovative New Android Abilities With Gemini AI"
     excerpt: "Update February 19th: Google could be building a new Chromebook with a built-in Assistant hardware key according to a new report by Chrome Unboxed. The site discovered a file in the Chromium Repositories that references an Assistant key for a yet-be-released Chromebook codenamed “Xol.”"
     publishedDateTime: 2024-02-19T13:06:00Z
@@ -104,6 +120,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Google pauses AI image generation of people after Gemini creates questionable content"
+    excerpt: "After Google's Gemini created woefully inaccurate historical imagery, Google pressed \"pause\" on AI image generation of people."
+    publishedDateTime: 2024-02-22T14:46:00Z
+    webUrl: "https://www.androidauthority.com/google-pauses-ai-image-generation-3418096/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 42
   - title: "Google Gemini 1.5 Pro AI video analysis performance tested"
     excerpt: "Google has committed to extensive ethics and safety testing in line with AI Principles and robust safety policies. This includes conducting evaluations on content safety, representational harms, and developing tests for the novel long-context capabilities ..."
     publishedDateTime: 2024-02-20T07:46:00Z
@@ -236,6 +261,33 @@ related:
         width: 1456
         height: 832
         isCached: true
+  - title: "Google pauses Gemini AI image generator after it created inaccurate historical pictures"
+    excerpt: "Google on Thursday said it is pausing its Gemini artificial intelligence image generation feature after saying it offers \"inaccuracies\" in historical pictures. Users on social media had been complaining that the AI tool generates images of historical ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/google-pauses-gemini-ai-image-generator-after-it-created-inaccurate-historical-pictures/5159372/"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 11
+  - title: "Google to pause Gemini image generation after AI refuses to show images of White people"
+    excerpt: "Jack Krawczyk discusses how Google Bard helps users connect and communicate — and what the future holds for the platform. Google will pause the image generation feature of its artificial intelligence (AI) tool, Gemini, after the model refused to create ..."
+    publishedDateTime: 2024-02-22T12:26:00Z
+    webUrl: "https://www.foxbusiness.com/fox-news-tech/google-pause-gemini-image-generation-ai-refuses-show-images-white-people.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 11
+  - title: "Google paused Gemini's ability to generate images of people"
+    excerpt: "Not too long ago, Google gave Bard the ability to generate images along with text. That functionality remained during the switch over to Gemini. You’re able to ask Gemini to generate images of pretty much anything. However, people are finding that ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.androidheadlines.com/2024/02/gemini-paused-image-creation.html"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 4
 
 secured: "NFfPe6kPYiHanM9/t7qsV8GJ4Z+JdbAutsNUy0q7BRWxCpQoMAouR5zPKDaB5g/nkVb8cVG/qYs49MUv56H9Clyb8B0PToP6NiY93Urga8pIH44EXjf3tqhME6m2vxGK26hClMGdachLJkz8PA6XBLTfSu02Rh2xr3urUO1aUMYsNa4g8NprzpmKGtKB5dzlJATJlOCA2rzpdmT/YKjb3rujagWvSGdWlKxByo76/IlJQBLo8eB2dFQFjKAHWfVD1PsXp7ORJyeklvkFWvj85YLPjob3uXFP04QHR4fGL/BvdjwyikOr4LaKN3eazB2CJCBsF8XnJDO6ThmeuLoPKiwHSUPZa2LhesnrcecSitI7BtfTPVaPlmsSzgydxmNgZxGXx5AFFWkk9C0JLgzGfGsr/PCUvAAzdwG0WtojE9wcgfgQaUyXaN49f2Ncy63uDkJRNe8Ye0TIK2VQ7Q3qmmKZl6cGIeB2ULccDkUAtBf9MZ5S0ZOTtfIF/38/phG6JTDSfg5dPLTiCeCwxRrE5A==;LPVaIYc9tm7BwygyfUendg=="
 ---

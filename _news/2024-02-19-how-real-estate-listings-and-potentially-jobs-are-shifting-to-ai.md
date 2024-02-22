@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-p
 cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "How renaissance technologists are connecting the dots between AI and business"
+    excerpt: "\"Courses in AI and machine learning are fundamental, of course, but studies in psychology, human behavior, and ethics are also really relevant to the evolution of technology work.\" Training programs \"should focus on developing a holistic understanding of ..."
+    publishedDateTime: 2024-02-22T13:15:00Z
+    webUrl: "https://www.zdnet.com/article/how-renaissance-technologists-are-connecting-the-dots-between-ai-and-business/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 46
   - title: "These Are the Jobs That AI Is Actually Replacing in 2024"
     excerpt: "The Impact of Technology on the Workplace study from Tech.co found which jobs and tasks were most at risk for AI replacement."
     publishedDateTime: 2024-02-18T12:00:00Z

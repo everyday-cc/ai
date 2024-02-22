@@ -71,7 +71,7 @@ related:
     provider:
       name: This Day
       domain: thisdaylive.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/ARTIFICIAL-INTELLIGENCE.jpg"
         width: 1440
@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Transforming broadcasting with artificial intelligence and machine learning"
+    excerpt: "In common with industries across the modern economy, the broadcast media industry is currently on its own artificial intelligence (AI) and machine learning (ML) journey, with organisations at various stages of evaluation and implementation. But in ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/transforming-broadcasting-with-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 32
 
 secured: "muojlg0Qv/Fke6hEHS1WT9gW4EnX3TwIdQLnEhuogXfcfiGBdbhOXWJ8xDKCXi+cO1FM9KJd42HFlqik1QgrDwNuZErYYH4jBO/vE7nsjHEbPpT4RDeKOkJ7wbeztK8I17XV3p/vMcy9jsnUOcOtZnU3kO7irOY6VuJxlIdnSwGIA2AWd5Ej9f46LxYYyIvxOtb/1kbqrjUznkaSZxeet10NEyiOgaeI8XupGM+s1U9b0a4pirtw3dsDmgtymDm67n8RQxXOCeKQREfpdvFcw8XEd8vRQGAy5sKXCr/a9oQ67Hp+3u4+XrBRsTkSlbqTtj/7O86s/6FbynpABhSFszyTrf2UQstqCqqsa9y5jiY=;j521kcqM2qNvwdR8g6l8IA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -71,7 +71,7 @@ related:
     provider:
       name: This Day
       domain: thisdaylive.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/ARTIFICIAL-INTELLIGENCE.jpg"
         width: 1440
@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Transforming broadcasting with artificial intelligence and machine learning"
+    excerpt: "In common with industries across the modern economy, the broadcast media industry is currently on its own artificial intelligence (AI) and machine learning (ML) journey, with organisations at various stages of evaluation and implementation. But in ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/transforming-broadcasting-with-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 32
 
 secured: "jE07hXS1ItMa1AIFgBnRpiDbyzAXetGGz3aWv0vxh4Ni2v9CjhMn69SNU3Nc/HuUM6r2xjRevTda1Zl8kZgt+iZe6BZNc2htO9mWAWrp3MBCBeQkqa8taXZqGu0IFUVuDx5kZZ6o9Ls57OkCjwM+sFj0cjCbTAx+fZopBUWYmzTVDlgAYK+9lRCRH7st88WKe8lomGpZWqDLEDP3iGcbYloLOx8Dr3NvW2BZ7KhozMGbHFjmXr3kmJ/7WQIv6IYoJeO+LjCxiQoM26vf2Lqc8zT/95PRCSeod57xlMvdXvGOjaA8+eNKupM7fLXvmV4XtwrVaoCBhw32+FxiRhwxLFz/lFlEj94d4SfDuPPsDJk=;NRZgpMfd90IhBAWQKBnkYQ=="
 ---

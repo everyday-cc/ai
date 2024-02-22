@@ -1,23 +1,21 @@
 ---
 category: news
-title: "How AI health care chatbots learn from the questions of an Indian women’s organization"
-excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
-publishedDateTime: 2024-02-22T05:05:00Z
-originalUrl: "https://thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/"
-webUrl: "https://thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/"
-ampWebUrl: "https://thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/amp/"
+title: "How AI health care chatbots learn from the questions of an Indian women's organization"
+excerpt: "Recommended Videos The app she uses is powered by artificial intelligence running on OpenAI ... represents what many hope will be part of the impact of AI on health care around the globe: to deliver accurate medical information in personalized responses ..."
+publishedDateTime: 2024-02-22T00:05:00Z
+originalUrl: "https://www.wsls.com/business/2024/02/22/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/"
+webUrl: "https://www.wsls.com/business/2024/02/22/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: WSLS 10
+  domain: wsls.com
 
 topics:
-  - Natural Language Processing
+  - AI in Healthcare
   - AI
 
 related:
@@ -54,6 +52,6 @@ related:
       domain: siliconangle.com
     quality: 31
 
-secured: "0A65oL1k2ld5NW4LQMIZAkGNs6T3g/owKuPE9lOPeRIauHG61zzVXpvEWx1jfys1TDa/FV6lhvJ757h6Y7nN18ZdHaXVqcEAGMA6Xn/ra68dV3feklhswce6/ypYteZ4YvsHRGvvLO9TLFY29FP/skDfA0jA953KhE4hODeti0h6UPlwe/a8VOr4ava/WcppZcgt2qdRxpXeA7KJIN07tPVTrcdjbC3oDyOl6E4xP4XxXwbIDgYZNJDX12QKFYasGuV5+Rr/RTonV4gqYIg4nEo469fE46JL9nkwn0EKqbeCMHC8invKJens3splMs5FYIEw8Wa/r7rIzRt7NGaFPwCT1QmB4TTGW+HSKXaQqhEm2jAo85K6gmvPvG1uw/1/yFH6DtQfBWrDq8Jrl+tppA51WJF+i61HV2uz7En+7VvdKZp3nPrFQATynFu9qof+yC12ikWsDm5JJ/YP9qXLAP9gu3SxFwzLJG7bASZim4YYgORsP1884cHw/8hceAZ8CX0mHXfYvGgeyOiEkbaQ3g==;NnqWwSOBiRCsS29D5EaEFQ=="
+secured: "+VcWjjRra8jASAM1B8azJvCkUuBms5KkO9P60qGN8U8fM5n9QevLcARTmdq6OG9Sq+sdg8M4xb6t/iF/rF/o7bnJQvOwwxcwueTa0vWJ+81o4CWkZGiaCKE/jaO5NMqI1zyTBYF9smvI5TmLoX3oC8019hZncGWUgItgfPz4Ps6+r3yUk/PBPWtBW9NSDUnN5OCkgoU5oW7Xg6vZipYwFvkRGC/BLcJ/aEvl0DkgEpHE0KwOqSLyeU6d8EYfTyss2Ppos8/ytvoacFqeBhqT2npKBJ+94G9mqVu8AklHrZZIj2BV/lPofPmrPqt8tz/aORWgCbY9YiIbB655v0nAJdOEmERbateT0V3P3zX7YYnfJL3pmzcXdsJGRdQeTJF30JaAwNP3N1o+o9aNKU/L1ixcwmoRU1ueNxhSSWo4nE0DYWJyoOvGz4t7WRWDujOmHfPySD2Q0ANyQHwnb4cZx6TOWFrmqJHCfDlQCO8D+WPBbZdbs3rj3rB5iFjVpH5ZLfjEHb+qRyF413Y7IWDW3g==;ptA+ngk0dlAzqsHLNHOUVA=="
 ---
 

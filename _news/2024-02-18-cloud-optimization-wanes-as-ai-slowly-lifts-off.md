@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/02/17/cloud-optimization-wanes-ai-sl
 webUrl: "https://siliconangle.com/2024/02/17/cloud-optimization-wanes-ai-slowly-lifts-off/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Snowflake: AI Is A Major Tailwind Even As 'Optimization Hangover' Lingers"
+    excerpt: "JPMorgan's conversation with a Snowflake partner reveals that AI and associated technologies are driving Snowflake's growth. Stock up 8.65% YTD."
+    publishedDateTime: 2024-02-22T14:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/snowflake-ai-is-a-major-tailwind-even-as-optimization-hangover-lingers-1033093219"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
 
 secured: "qFHpHwzEBoV6b+eNlKidUAxDjXwOnpLCyp7jDdX/FwjVBNJns28Xm8MW8j6YMMZto8kuK4QFiCyVodSsmeBY4/YUY2v0VoOoIl49q9Pqng7a5PnQYkKHoIVtTH72qg9vFPU9kkLxEONcBE/W6jiKNayE5XlkBzDok5YwA+TYVErm0GQJQEfYsQxugptRegHoxl7OGMBKIs0Kg6Qnv8jOfImv4RJX2kTEvOf+qCOT18kEv9/x93Ibqi3MbsCllCXymAzr2wlb3lnEx5tlT1m9KQR7QhlxK/mh0FqUFlJdXstcO9HqhVU4cNKtbTUCI4fVRgwMDitjHWqyWvxJEtxAW4DewLPGC2aesN61L6YkKHl1+RZB0bG8es3geO5XQMiSw2T6SysLcXFieCkcAvAFfPYaFS/9Vaeqdxwui54JYsAFg3YeP9z91UI5FNx8v2haxllygCMd1DkkdLCysG1m7Ox0YChDdY6hBvi8HQcaZR3+ecR9tfoEBMAG9lD48GP+k2Lv53uLSsIyocgitxDehQ==;Ibt/0uYPkxjUddqagOGhwQ=="
 ---

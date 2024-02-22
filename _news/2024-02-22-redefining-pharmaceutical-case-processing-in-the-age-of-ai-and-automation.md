@@ -25,36 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is redefining data-based roles"
-    excerpt: "AI will replace few if any data-related roles. Instead, AI-powered software will enhance their capabilities and encourage AI proficiency."
-    publishedDateTime: 2024-02-18T02:15:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-redefining-data-based-roles/"
+  - title: "Driving the Future: AI, Ethics and Jobs in the Age of Automation"
+    excerpt: "Venture into the epicenter of innovation with Jonathan Campos as we dissect the titans of tech, steer through the self-driving revolution and grapple with AI's impact on jobs."
+    publishedDateTime: 2024-02-22T15:00:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/data_pipelines_moving_in_different_directions_v-transformed.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 750
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1708458393-AIEthicsandJobsintheAgeofAutomation.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "How Artificial Intelligence is affecting social media"
-    excerpt: "The transformative power of Artificial Intelligence (A.I.) is reshaping our world, offering both unprecedented benefits and complex challenges, particularly in the realm of"
-    publishedDateTime: 2024-02-19T14:54:00Z
-    webUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/"
-    ampWebUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/"
-    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/"
+  - title: "AI's Current And Future Impacts On Construction"
+    excerpt: "As we've been hearing across the media landscape, AI is here to stay. While most people are aware of the digital-first uses of AI for things like ChatGPT and NFL analytics, AI has and will continue to transform traditional industries like construction as well."
+    publishedDateTime: 2024-02-21T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/ais-current-and-future-impacts-on-construction/"
     type: article
     provider:
-      name: WFLA News Channel 8
-      domain: wfla.com
-    quality: 57
-    images:
-      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2024/02/B-Block-How-Artificial-Intelligence-is-affecting-social-media.jpg?w=1280"
-        width: 640
-        height: 360
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "UMwUgxGMPOL/GIqKAe7WWQGOFKA6nUnMobXr0g+dM3cyiOKblGajZrnEE4/BQ2I4/exrqhCbvf4736XYDOmvAcmC+RQ+JRVA/9j6YBFfFNZAGhrSfFCtU/Weu2uSCFpwsBn/FRm4an+DKCe3N1QPEG+/Xs0+tejhxp/+1quBhq61QWele1vSqBVwrXQeKdfwJ8K2h/A3Xv4WZj26nH/l+XCibB/KcP9pLb7oyIHYQP0uh0keqalJRhQmBX0SukDYPo8eAcOcS4/tz0lguuD3HxzmKUk2r/XR4VbSE2Wddr/dLHeKOclp9aiuYvc1FgXDDWVNureL+Vj1D64iCy9Xnpy5Pw3GY3WRnrLJpPXjdzfV84BOey/Z2oChsYfJAZktNW4OAWrEz2iiwPrssCy73D2U2U9wPRLnyLrzszd8XhPlRmG+Fj1dfFLMvgGfMe8OmBmYkjTNVg8u/VFzZzubC2ArXY79NZkaxI8g5iGC5GiEgjNxz/277z9SN/iYERx1As5lItOf8SGz9JU12qorxg==;ndlBTaQxPhTbFdsjUPrDfw=="
 ---

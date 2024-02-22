@@ -47,17 +47,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 31
-  - title: "How AI health care chatbots learn from the questions of an Indian women’s organization"
-    excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
-    publishedDateTime: 2024-02-22T05:05:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/amp/"
+  - title: "How AI health care chatbots learn from the questions of an Indian women's organization"
+    excerpt: "Recommended Videos The app she uses is powered by artificial intelligence running on OpenAI ... represents what many hope will be part of the impact of AI on health care around the globe: to deliver accurate medical information in personalized responses ..."
+    publishedDateTime: 2024-02-22T00:05:00Z
+    webUrl: "https://www.wsls.com/business/2024/02/22/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 31
+      name: WSLS 10
+      domain: wsls.com
+    quality: 11
 
 secured: "BdX9jI0yuQKrWmu4fB/nakuGPD+N66zIAL31Ww5mRQeXYbaAHU46t6J9KASzd4GSQix2fxe0uNRneqwGKBTQVEhHgLo2W7TSh0n0sOb4xXWF+bBSklNa4bHTJ1wytwPBh/nOn1k8NtjO00lG/5aaBmhX3VPPjaDNOLI5sGNe99jigxBEws0njlhokWepGZViIeMITgnejZjxhMhCS4jcbaZRaUoralcCmzRcLsXAyZHFBTJCgmLSigAmd1IpMqcWOXrkTjI9xcmfEpe5IoCsHVrL5aqCsAjyCeDeGdF7iobW4RCqhVUHQbg4ci2gYObm64vTqhI5DfNm4OkJS6yxsbj4TFk92z/dwdhIJKj7Qb0=;py3y4ACn/zsn77dGJrqwRg=="
 ---

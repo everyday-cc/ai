@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-01-aws-improves-sagemaker-studio-ai-development-tool-with-new-web-based-interface-code-editor.md",
+      "title": "AWS improves SageMaker Studio AI-development tool with new web-based interface, code editor",
+      "excerpt": "Amazon Web Services Inc. has released an improved version of its SageMaker Studio, a development interface that provides access to purpose-built artificial intelligence and machine learning development tools from preparing data, building training ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/11/30/aws-improves-sagemaker-studio-ai-development-tool-new-web-based-interface-code-editor/",
+      "originalUrl": "https://siliconangle.com/2023/11/30/aws-improves-sagemaker-studio-ai-development-tool-new-web-based-interface-code-editor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/2023-sm-studio-01.png",
+          "width": 1789,
+          "height": 1283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T20:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-why-ai-is-like-infinite-interns.md",
       "title": "Why AI Is Like ‘Infinite Interns’",
       "excerpt": "EU AI Regulations Hit A Potential Snag, AWS Unveils New AI Integrations ... Outside of the drama at OpenAI, the actual governance of artificial intelligence has been front and center in recent ...",
@@ -1233,40 +1276,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-aws-announces-amazon-q-to-reimagine-the-future-of-work.md",
-      "title": "AWS Announces Amazon Q to Reimagine the Future of Work",
-      "excerpt": "vice president of Data and Artificial Intelligence. “AWS is helping customers harness generative AI with solutions at all three layers of the stack, including purpose-built infrastructure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/aws-announces-amazon-q-to-reimagine-the-future-of-work-2023-11-28",
-      "originalUrl": "https://www.nasdaq.com/press-release/aws-announces-amazon-q-to-reimagine-the-future-of-work-2023-11-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T18:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

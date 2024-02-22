@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-22-operationalizing-responsible-ai-principles-for-defense.md",
+      "title": "Operationalizing responsible AI principles for defense",
+      "excerpt": "Curating responsible AI is a multifaceted challenge that demands that human values be reliably and consistently reflected in our technology.\nThe post Operationalizing responsible AI principles for defense appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/",
+      "originalUrl": "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/coding_1-2-1.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T15:35:50Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-from-script-to-distribution-ais-role-in-the-film-world.md",
+      "title": "From Script To Distribution: AI's Role In The Film World",
+      "excerpt": "AI is also playing a role in trailer creation. For instance, in 2016, IBM Watson used AI to craft a trailer for Morgan by analyzing key film moments, suggesting soundtracks and refining edits. In 2019, Adobe Sensei analyzed past Sundance Film Festival ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d4eb02bedc583914bd11fe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1542,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/amp/",
+      "publishedDateTime": "2024-02-21T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-climate-change-predictions-anticipating-and-adapting-to-a-warming-world.md",
       "title": "Climate change predictions: Anticipating and adapting to a warming world",
       "excerpt": "In an era of accelerating climate change, evolving technologies can help people predict the near-future and adapt.\nThe post Climate change predictions: Anticipating and adapting to a warming world appeared first on IBM Blog.\n",
@@ -1235,92 +1339,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-this-overlooked-ai-stock-pick-is-still-surprisingly-cheap.md",
-      "title": "This Overlooked AI Stock Pick Is Still Surprisingly Cheap",
-      "excerpt": "Charting, Price Performance, News & Related Contracts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/32ade0c7bf3356428e9be73445857021/cicy4cfrjvgmgrgo.png",
-          "width": 1875,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T15:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-the-most-important-ai-trends-in-2024.md",
-      "title": "The most important AI trends in 2024",
-      "excerpt": "Adapting to emerging trends is essential to maximizing potential, minimizing risk and responsibly scaling generative AI adoption.\nThe post The most important AI trends in 2024 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-trends/",
-      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

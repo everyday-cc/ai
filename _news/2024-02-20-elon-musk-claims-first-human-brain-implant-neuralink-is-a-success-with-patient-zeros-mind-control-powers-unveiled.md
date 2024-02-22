@@ -3,26 +3,20 @@ category: news
 title: "Elon Musk claims first human brain implant Neuralink is a SUCCESS with ‘Patient Zero’s’ mind control powers unveiled"
 excerpt: "ELON Musk has announced the first Neuralink brain chip implant has been successful. The tech mogul revealed the human subject implanted with the ambitious chip has fully recovered – and"
 publishedDateTime: 2024-02-20T14:33:00Z
-originalUrl: "https://www.thesun.ie/tech/12246611/elon-musk-neuralink-successful-human-trial/"
-webUrl: "https://www.thesun.ie/tech/12246611/elon-musk-neuralink-successful-human-trial/"
+originalUrl: "https://www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/"
+webUrl: "https://www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/"
 type: article
-quality: 16
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Irish Sun
-  domain: thesun.ie
+  name: The Sun
+  domain: thesun.co.uk
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2024/02/elon-musk-billionaire-chief-executive-837875240.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Elon Musk Claims Neuralink's First Human Patient Can Control Cursor With Thoughts"
@@ -67,6 +61,15 @@ related:
         width: 1024
         height: 625
         isCached: true
+  - title: "Elon Musk says Neuralink’s trial patient has mind control"
+    excerpt: "\"Patient is able to move a mouse around the screen by just thinking,\" Musk said. \"We are trying to get as many button presses as possible by thinking.\""
+    publishedDateTime: 2024-02-21T13:20:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/02/21/neuralink-patient-moves-computer-mouse-with-mind.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
   - title: "Neuralink's First Human Patient Able to Control Computer Mouse With His Mind, Says Musk"
     excerpt: "The study uses a robot to surgically place a brain-computer interface implant in a region of the brain that controls the intention to move, Neuralink has said, adding that the initial goal is to enable people to control a computer cursor or keyboard using ..."
     publishedDateTime: 2024-02-20T00:00:00Z
@@ -77,6 +80,6 @@ related:
       domain: inc.com
     quality: 0
 
-secured: "vsvBT+LC31LPDLwlqzyHNYRPMvll+LjWag1RwIaqEmNGUir7JtBTVcO2ZrRO9/FRBYqK7PlP5QRGJZeRXFTURcCnytRC8dyZ8SbIOmduwQxUyMJmxqJobsQ/ylLeDwnlQUUT7HgAYR0rbJOIn+UwTzyujQ7y0NTH6ekDO3zkrb+1ESAFmT6CZVjVGV+OY5mJOrKVjzfoDqBkVb/H9aYwzfyXxySzf3T9mYS2MjC57D05hR55WNlYfpM4hK11xhczr8i4h6Xy2kHsLcIqH0pXtouq6S38aMRmbEPGNStyE73bYAnjp9UxzRUSKdkvUhLIH5jAudNfiWgFoPK2NVz3h7DRUKQ80ZB/VEz4I0xhoSsEP795yKkK+9pZewDy/d0EWOpkoVezETNtiPRNnysiLgbsYUInB8gin4sxU653SdOo0G2roKyjZ1teGnk6eBw4KQSm9J2E0cCUTKhERpLaFGHi0umFGtKIKTCuYf4sfGiV03jRVN9GtkF8AlkrMNYiM6fkU0Ypfrq0YS0WnbMhxg==;vMYPN38Ni7M+zNJMm50WPQ=="
+secured: "kP2YULzUCWWgQclt6GjDJkkY64XiJuM31Rlwn9O7S8SxN6x8dAsE5KNWozDGIagvC80NjTVfOa/fKfUCG6736vmE49EsFgrOZJHNQ8gtnTI6xGI4/8wgkBK4aSzb6MjfJAETzSL3QH7hiZAby33V4yRocnWu9qtdotE849X/T27yzSEGDIX/Uk1+OZ9HM/X2rqUIQkRsWBgcLG+Q6Sx4H/7WTwlFhUy3cNAXVhJ9WHYx9YHbUkWyr74kyfJCiFtuAKDMB3cz4uVvLqa77XAIcKkPSSFzE2wRfO/DY//i6BnKsztbKeCkQmL/4cwpsi5MdihRS1BDY8ATVnR4Zn6er6pnPEWg0tsbuC0bz2ELtwU/1HwwepIF/LKkE7fCzirCUfDvXgCSMdaGcmzh/e+LSF35PUUgySTB12gGYOmqeGrqvbfxMOxHWFlX2nw1TDqgaLEWjVfBxMziCC8PWov4qIQdK59H70Mm4IabAnMbpkYUorLzff/+4BdX1UzX5fWaZwTdx3QkRxYZ1DRnUWXORw==;bPOGuCE99vL5LMAL3QeRzw=="
 ---
 

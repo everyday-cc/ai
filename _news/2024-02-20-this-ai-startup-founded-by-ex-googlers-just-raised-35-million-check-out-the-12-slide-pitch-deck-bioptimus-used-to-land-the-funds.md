@@ -54,15 +54,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
-  - title: "Levr.ai closes $1-million seed round for AI-powered loan platform for small businesses"
-    excerpt: "Vancouver-based FinTech startup Levr.ai has secured $1 million CAD in seed financing to continue scaling its artificial intelligence (AI)-powered loan software for small businesses. The seed round comes a year after Levr.ai raised $1-million in pre-seed ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://betakit.com/levr-ai-closes-1-million-seed-round-for-ai-powered-loan-platform-for-small-businesses/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 11
 
 secured: "D7DqCvLyVsvyjoJjFj/VRKSGPHmR7mpdjpObhXt/+GlsFPrjmurmpTM61EXoeGopYdZM6AEZu5GJetopGnWRuo5tJypqOfQKabQ/tmDIIK/Sh2pP5QUp9ymB7CDdKcogOx68+fQJ2y1t8GaCh37vw9NuS8ZYINtIJzINDXPNjoCtY+bLrep0gL6Uw+kV+43UNlJFM/MqaaCI01FEv1gFXui3X5eL5tGHsP9fP6Tz3NJQlcFzNgJLcIzswVZ2TFHvU1d6ntsH/vbT17k4uRKKTr8zAdi6xbaPfJuNwx8OtCN2QFh6lqNgR/UufwjDFeCuF7HYAJpo+pP8xLPJEJrCkbDSfvvl9zJYPndCf1qcp06hzkVRniMgmE+yOhmVih39xN3fxXC1mOgyyaMDVNFPAIeETdR4b1MJRUTpAHAUH+vMZLIAhiObXdG42DwxFIKyrqXEslqubQVndo0xdZIuTmnkLqhhqB0stSz7593Y424o+pWhKPcM8eXXr2cLjnZvQenWinsol+Uyh9jvQxutjg==;Kf9lhDglDGl4RjdCCXzNlA=="
 ---

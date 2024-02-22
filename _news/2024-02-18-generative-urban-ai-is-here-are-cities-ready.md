@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -40,17 +40,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "How Generative AI Is Reshaping Online Trading"
-    excerpt: "Generative AI empowers traders to stay ahead of the curve and make informed decisions in a dynamic market environment"
-    publishedDateTime: 2024-02-19T02:30:00Z
-    webUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/"
-    ampWebUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 39
 
 secured: "BVAC3rQompMM5rs+xf4SRvnhSo1cGYfDLwqNhcYmlhFHGClmD+VcDdATMQoiVjvc3TDuAazeRVYTZYcSBxaxHW8BR9AHwdQ0z6chHTiC7pxLhsyguBE3U2tGo/uaWzXjxHsSWsnqh8bG7VItE6uo0R3tuVwYsvE4b02Uke8MbOEPUXzy3XjcOIXMIDITa0pFtvzZUBt6wu8TlBxz1S3n8pZ/7IdBeGrlvLiEUGdH4yFu2LiVOQPugFo9FxkXC6LL71yjyP0RdzlfN/shIPFKVrKTdyygSvRA6MTI1W1AOR7HlS2s7OdpuvcT5ysfTmdgI9Wf1Mkka7ktZtgL3kntgEJ450x4tWvyl8l/BxDKKnYiQUsuA2skkGIWQtVxgxTcakJix0gbEDadGGnlPUrMX2kMUn9a3zmmHEEDZ316nPRU9Sqk7FwCgn2J4kUumzL6neJEjeMBkf9sruJoEWA6PntC8tpXVooYgUO1uZ6U8OMKXuRmIv44kqlYDhYCAyUhl/Cql/c7CE9h0bcSK5Bcyg==;ZT5iYu+UAhdtScfQWAhHDw=="
 ---

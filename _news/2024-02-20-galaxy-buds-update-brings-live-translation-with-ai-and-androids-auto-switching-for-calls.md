@@ -24,6 +24,17 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "New One UI 6.1 Update Brings Galaxy AI To More Galaxy Devices"
+    excerpt: "Samsung accelerates the global expansion of mobile AI by enabling users to experience Galaxy AI on previous models. SEOUL, Korea– Samsung E"
+    publishedDateTime: 2024-02-22T14:33:00Z
+    webUrl: "https://menafn.com/1107886207/New-One-UI-61-Update-Brings-Galaxy-AI-To-More-Galaxy-Devices"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+
 secured: "WLhc6RcQQSz7s0jnaKBIaKtbNP9jR+8+IdfBF82cp02b7Txm/XGJUn3CaaPiRtkBViOuucgZie4YZsGXq5L/4OwKeV0VfDuA/x4CjKtHaOlvpdcah2kL9rweLwtaxxhYdpQhP9P3IDfYZkNerB90QZujT2caFD3XaB+Kh4/t6IHPEcfO/3K0huX0dlQADHzN1Ne91gzj43aHSz/RHmYQu/tVMwBuUL2yNmfPECv6HnhTDr1xC3sUXTE8wKur7gaUHxCUJVoRw7K7aHZnGIVsjdWyK0VpZhvOaVXMKlkb05FLURfJFFPbfM6oC5daBL4FBX795rCUsMU0UD+g78qn3ECzJfqmzEX9M1+ItB2x0ChbqEr1RgqFmIYcooJNLkMMQs79dQj6ljicPvS9d27qoQJTCASIlCOQvkoOMbiZRuNjjkrUzerTX1/xVA66xjHBToEHOxVYGK0SH984vVcG5Ao18m+Sz4RL+V4pPrqzNeUkryiL7QtumHtAlhqJL4YvwENfFrF2GpP7MslMCkFg0A==;TBpuVYWK7/olXPrVwTogsg=="
 ---
 

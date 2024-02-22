@@ -1,26 +1,20 @@
 ---
 category: news
 title: "During Edmonds College talk, virologist explains how AI is changing gene therapy research"
-excerpt: "If artificial intelligence can help physicians predict who is more or less likely to get a medical condition, it may also help molecular biologists"
+excerpt: "If artificial intelligence can help physicians predict who is more or less likely to get a medical condition, it may also help molecular biologists predict which gene or gene"
 publishedDateTime: 2024-02-12T17:52:00Z
-originalUrl: "https://mltnews.com/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/"
-webUrl: "https://mltnews.com/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/"
+originalUrl: "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/"
+webUrl: "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/"
 type: article
 
 provider:
-  name: Mountlake Terrace News
-  domain: mltnews.com
+  name: My Edmonds News
+  domain: myedmondsnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mltnews.com/wp-content/uploads/2024/02/IMG_7313.jpg"
-    width: 1024
-    height: 575
-    isCached: true
-
-secured: "9ndTvlFJpSPd09N8UyDylKOqq1qYjS/aHtRqzYqUFA+rzw8ZKonXe2GlDsNU3zCanULwRmVvahtr1YRQ/DZoI+Gw3/hDEpfCb4WtQfP/gDobjkBjMzx4QbswmnKdqm7DGwo7EeTJR2nGFH4iOWa59QFUXL2kBmDTxpnn+ETXwSMf7dGc0t31oLOmDa/pJ6X1uSbNzUQz3wMoqzqGz+hj12lHpg4LtyK8ynzi8Tc+9Kl18RKF7n2Ls07nys52tRmK6buQ5Ucx1U58UkhZgkFoEDCTbJkurXRElKQH6lSwNQEsnrRqK+gAKzewxLoucKJjrgnkhap+FIPlgJSLMWotSxVoLb6pQyNlMXiptq9cR10=;IOqtuPHR4/22cBhaBBCrfQ=="
+secured: "baf+Sa7sOHksMsGrrxdE8Iebpx99iqpJ1e3VrEBjOod98mzwvAt43XVDMGcF3714QHIApLYoi/HGm/OAmpq+lhBeptAiBHQmLBxNrWssFW2Pv3upnhhSnmaNDo5+Btg+QIoHwJnXVTRKgXH2JihGURWJoae9eAsOynSplCCeMKgix+2P4DjJugjqgNlNLaiXfdescGlSwzCqTRybrR8vsOO2rAzumvfNYPf9Jwj8GYsC4ER8oMqd7iMk/YFWY+jgdS9nvfS3SIptwxJ37DLHf1rSF+CPDWrVdB+1ofGPl4z9g7d+EUo1kdlOls271Se7zhYPDsHTj53HUADXAeLMt1jk15097mS6xfp8giW3cU4IcGugdbpq1BYacDAJidoexTpbdx+ljw24s6n4jUUfBrdu2VpHnDrKIiEMMV+3ZsvdyCp5Q7ZA8gkHkL5n9JmHNSeBJh6A4Sr5PwYKhe10DTMqN3/j+pve3QGnD/fq6XTfZNG7v5erGcCJ68KAhTtuIpbgSjzEX93/1LxrsmHHtQ==;ggZIBHSsjl+DuhLn9OiiiA=="
 ---
 

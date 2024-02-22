@@ -8,7 +8,7 @@ webUrl: "https://www.thisdaylive.com/index.php/2024/02/21/artificial-intelligenc
 ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising?amp=1"
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising?amp=1"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/ARTIFICIAL-INTELLIGENCE.jpg"
@@ -87,6 +88,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Transforming broadcasting with artificial intelligence and machine learning"
+    excerpt: "In common with industries across the modern economy, the broadcast media industry is currently on its own artificial intelligence (AI) and machine learning (ML) journey, with organisations at various stages of evaluation and implementation. But in ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/transforming-broadcasting-with-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 32
 
 secured: "eMo4+EOJIscl/w5tAyq29TArBChki8el0v11LvtI+4/lDBsOp2LzQ9Lq0ta38hiaLIAhYYorFiIyC89nhj5fZGboCSBnck++AodCGNeYfYQEbOT0N8mB+Dy561Lrmmb7fKhMe8aM2ZlTeMtcbRRbPFtnLrBVkO/vmwVuuQyn3Rcxmz9YnRjSdcQlmpeAlto3rl5qiAEasQMzhsYyhTzOhdNvTheWz+k7ftAGRZMk0L0bWYoj8RUBTtoCu+fyCSyYpZBcVSAT5iEgjWGNhVMfVon51amwBcv25iV9v+CzQDDpSYwV+pRIbP+Jkc8e1iUjy9BacA7Nw1E89gSIBTrfoG1eQuemUp6f44oWPOAxUuJnCspLH+IsK8AzvignMVX/IuFv1ngBCzVOQq8wKAQUvTIRUsP9BwGr5FJ3fo6vfb8qNzx+O94zivJwgoiYAeNTX515NffdUmFmHyCqClPioNmKPNZvjmAmqa7MktDKgia2BWRdOhBvzr9abF9az0OXzrFjmdLFIcfsID3MtorBBg==;VfXs8ZucD/d6BJTFv4IFjQ=="
 ---

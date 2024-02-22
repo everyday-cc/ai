@@ -76,6 +76,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 66
+  - title: "Intel will make chips for Microsoft"
+    excerpt: "US chip company Intel will make high-end semiconductors for Microsoft, the companies announced, as it seeks to compete with TSMC and Samsung to supply the next generation of silicon used in artificial intelligence for customers around the world."
+    publishedDateTime: 2024-02-22T14:35:00Z
+    webUrl: "https://arstechnica.com/gadgets/2024/02/intel-will-make-chips-for-microsoft/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 66
   - title: "Wipro and Intel Foundry Partner for Innovate AI Chip Manufacturing"
     excerpt: "Wipro and Intel Foundry Partner for Innovate AI Chip Manufacturing - Wipro Limited , a leading technology services and consulting firm, has revealed an enhanced partnership"
     publishedDateTime: 2024-02-21T08:40:00Z

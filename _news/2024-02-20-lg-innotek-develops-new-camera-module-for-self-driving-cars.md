@@ -26,6 +26,22 @@ images:
     height: 428
     isCached: true
 
+related:
+  - title: "Self-Driving Cars Demand Caution, Not Complacency"
+    excerpt: "Autonomous vehicles, often referred to as self-driving cars, have rapidly emerged as a groundbreaking technology in the transportation industry. With advancements in artificial intelligence and sensor technology, autonomous vehicles hold the potential to ..."
+    publishedDateTime: 2024-02-22T16:06:00Z
+    webUrl: "https://www.law.com/texaslawyer/2024/02/22/self-driving-cars-demand-caution-not-complacency/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/401/2024/02/Kevin-Vice-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
+
 secured: "ZEsbghJkS1iyjFNaRlvlw9cV741Rbr91Dkc48/k0RRu6tCXZVhRK3uIBRDHmJbqGqfm9Pwuf4lNtGy3Px/Ccx0O1QDoEgbfwTv3DJF8zYn+Y20GxMkE3v8U+vAUEv9n0/GjveOO/o91/OHZcFcs+vuctxWWiHc2oBGzQSGY7N00R5sgJjvLU2OGcqPXT8cxZAG8aM+HhUb/xzwUF9dNrQAc1Pwj7Y4Hn8Vu1YB5/D7VSNMcW+y9gaOs5GRFp9F4I/BBy1VVpXcjC++3+6ADGJ4RJbzU2m8Pk1R9hjawztlvkNtE6eUMoMTR9qKSuBBHVekrWd0Tuuf9+pZSIQjxOTa3bQDZ+/GcdTIKD3FwVJS0=;AnDBIYE4y5kQuxoRMvYdGA=="
 ---
 

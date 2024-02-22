@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/37216276"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37216276"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1500
         height: 796
         isCached: true
+  - title: "Intel, NVIDIA & Ohio Supercomputer Center double AI processing power"
+    excerpt: "The Ohio Supercomputer Center (OSC) has recently doubled AI processing power with Intel and NVIDIA. The Cardinal HPC cluster has 756 CPUs"
+    publishedDateTime: 2024-02-22T12:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-processing-power/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "dj0FqqmimLTBo+vObeJ5vnWKY1zivH+QmAN8cihYIADtYSEBCugJoJLHTWj5XOgWa/0Ed+Y+zZGVK1TFIECvbnUxi35JekG3TZffOgrDvyHuAW7tT4b+fqXTInzw9GkidKl4K/AuZ+FxLmMIrdBCrSM5tqH9bNTQ4bDiCVaTIm2c0Q683iwzv66RmzdZ6EQhvgnDUcjTk/wrr3gbl0schMyOOTl5Czn69BXeQYci5zBbI2PUGihKtlnVK6SW2gAb5+8rOmO90VHW4+rL+iIDC/jN9qFa2gIZ2SxEN4eN8lpipD2K4pLOXy2HkB9EuwDEyO+/ICqI47yf7+q5vi9jTn7fnDlnVg++0k6vFGBOn/M=;Kr38Pa4FeNlt90pJUMxL1g=="
 ---

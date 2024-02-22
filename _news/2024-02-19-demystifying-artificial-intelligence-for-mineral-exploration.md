@@ -19,17 +19,42 @@ topics:
   - AI
 
 related:
-  - title: "AI and Robotics to Play Key Roles in Space Exploration"
-    excerpt: "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us."
-    publishedDateTime: 2024-02-19T14:52:00Z
-    webUrl: "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space"
+  - title: "Operationalizing responsible AI principles for defense"
+    excerpt: "Curating responsible AI is a multifaceted challenge that demands that human values be reliably and consistently reflected in our technology.\nThe post Operationalizing responsible AI principles for defense appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-22T15:35:50Z
+    webUrl: "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/"
     type: article
     provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 69
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg"
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/02/coding_1-2-1.blog-lead-space-40x21-1.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
+  - title: "How Generative AI Is Reshaping Online Trading"
+    excerpt: "Generative AI empowers traders to stay ahead of the curve and make informed decisions in a dynamic market environment"
+    publishedDateTime: 2024-02-19T02:30:00Z
+    webUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/"
+    ampWebUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 39
+  - title: "AI-Powered Analytics Drives Real-Time Personalization"
+    excerpt: "Securing the right talent is pivotal to any AI initiative. Employing data scientists and AI specialists is a good start, but organizations should also look for ways to upskill current employees to work with AI systems. Ensure high levels of data quality."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=162694"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/151712-CRM_0323_feature_analytics-ORG.jpg"
         width: 1200
         height: 630
         isCached: true

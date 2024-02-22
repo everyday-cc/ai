@@ -86,6 +86,15 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 19
+  - title: "Samsung One UI 6.1 update brings AI to more Galaxy smartphones"
+    excerpt: "Samsung has announced that it is bringing its AI tools to more Samsung Galaxy devices with the release of the new Samsung One UI 6.1 software update. This"
+    publishedDateTime: 2024-02-22T14:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/samsung-one-ui-6-1-update-brings-ai-to-more-galaxy-smartphones-22-02-2024/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
   - title: "Mark Zuckerberg Shared a Hands-On Review of the Apple Vision Pro in This Week's Tech Roundup"
     excerpt: "Mark Zuckerberg took to Instagram to give his hands-on review of the Apple Vision Pro headset. While Zuckerberg praised Apple ’s eye-tracking technology and higher-resolution screen, Meta ’s Quest 3 seems to have Zuck’s heart."
     publishedDateTime: 2024-02-18T23:00:00Z

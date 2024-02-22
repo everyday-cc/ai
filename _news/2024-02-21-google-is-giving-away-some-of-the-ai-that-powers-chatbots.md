@@ -46,17 +46,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 31
-  - title: "How AI health care chatbots learn from the questions of an Indian women’s organization"
-    excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
-    publishedDateTime: 2024-02-22T05:05:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/amp/"
+  - title: "How AI health care chatbots learn from the questions of an Indian women's organization"
+    excerpt: "Recommended Videos The app she uses is powered by artificial intelligence running on OpenAI ... represents what many hope will be part of the impact of AI on health care around the globe: to deliver accurate medical information in personalized responses ..."
+    publishedDateTime: 2024-02-22T00:05:00Z
+    webUrl: "https://www.wsls.com/business/2024/02/22/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 31
+      name: WSLS 10
+      domain: wsls.com
+    quality: 11
 
 secured: "nGAGYHc/G9yfM5lX8LR1tn8F87K1SJt3Jpiwcqa6+ikxz0KrOthb2E8I++6BiHMfPtoEODID7msYMoGAgY1WhVZP0OWQA37rkmcd3l8fbiC2AcWNWKSdx30dnn0Re2AotmkSImfxidvLnN/3ZmZZfm7T26Y6ozs85jh0QBk74VLOJ3Kwv86nEJEpNRjZWeIqjWpgf0929jn2mVTV2m+4xTzsjGouUGoPACWi8LEEm0HM5mFwetsdZmyGClXiLONcyfnWtrHqsHGRBo6pmViW1qPjbXtyto3tU6YvmtEnw3mAFttrSsiRcQ0eZxmPdq+GezL+d0AUpK9vdxThki05s11/ep0jMLV42KbYbmAfLQnuc2mKPtjgK/uzQKkKMRCAIHIoKTdYXYXv4bxib+0+DF6hg+ehB3lePIaU96T5qSmC1G31/6Xwpbw+8sC6jife0ORqPJSP/rB2rE6spai+Y9VPO1ey2vQTZMRjGWk1+kwURyVnmy6UxGL9Iilh0+0Us2IwyLR58kLjl/JS5onaoA==;ULC8NJtfsPsmgWNzh2ayNA=="
 ---

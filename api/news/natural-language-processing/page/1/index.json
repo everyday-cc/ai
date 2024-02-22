@@ -264,6 +264,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-20-welcome-to-the-era-of-mobile-ai.md",
+      "title": "Welcome to the Era of Mobile AI",
+      "excerpt": "One of the most welcomed AI features is Circle to Search with Google, an incredible new tool for intuitive discovery. Our communication tools for removing language barriers, such as Live Translate, Chat Assist and Interpreter, have captured the imagination ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928",
+      "originalUrl": "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/TM%20Roh_Editorial.jpg?itok=Ir3q2Fow",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928",
+      "publishedDateTime": "2024-02-20T10:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond.md",
       "title": "Navigating Retail's New Reality: Omnichannel, Hyper-Personalization And Beyond",
       "excerpt": "While AI has been touted by many as a silver bullet for addressing key challenges, it is not the only solution available and may not work for every retail company.",
@@ -272,7 +315,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1401,49 +1444,6 @@
       "provider": {
         "name": "techtimes",
         "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-language-services-market-size-share-growth-analysis-and-global-industry-trends-2024-2032.md",
-      "title": "Language Services Market Size, Share, Growth Analysis And Global Industry Trends 2024-2032",
-      "excerpt": "Natural Language Processing (NLP) technologies enhance the understanding of linguistic nuances, improving the quality of automated translations. Cloud-based platforms facilitate seamless collaboration among global teams, ensuring consistency and quality in ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107814140/Language-Services-Market-Size-Share-Growth-Analysis-And-Global-Industry-Trends-2024-2032",
-      "originalUrl": "https://menafn.com/1107814140/Language-Services-Market-Size-Share-Growth-Analysis-And-Global-Industry-Trends-2024-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229",
-          "width": 445,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T02:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

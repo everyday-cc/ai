@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2024-01-13-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
-      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
-      "excerpt": "Latte art is a skill that can take months if not years of practice to master — but not for this barista powered by artificial intelligence ... founder of food tech startup Artly Coffee, one ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/",
-      "originalUrl": "https://www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wkrg.com/wp-content/uploads/sites/49/2024/01/65a1e1f62a0759.01554617.jpeg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/amp/",
-      "cdnAmpWebUrl": "https://www-wkrg-com.cdn.ampproject.org/c/s/www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/amp/",
-      "publishedDateTime": "2024-01-12T20:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKRG",
-        "domain": "wkrg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-12-abb-acquires-sevensense-expanding-leadership-in-next-generation-ai-enabled-mobile-robotics.md",
       "title": "ABB Acquires Sevensense, Expanding Leadership in Next-generation AI-enabled Mobile Robotics",
       "excerpt": "The acquisition underlines ABB’s strategic investment focus on innovative AI solutions transforming industries, such as logistics and manufacturing.",
@@ -1269,6 +1226,49 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-05-nku-professors-students-are-building-a-robotic-hand-controlled-by-brain-waves.md",
+      "title": "NKU professors, students are building a robotic hand controlled by brain waves",
+      "excerpt": "Inside a lab at Northern Kentucky University, students and professors from are working on a project to help arm amputees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcpo.com/news/local-news/finding-solutions/nku-professors-students-are-building-a-robotic-hand-controlled-by-brain-waves",
+      "originalUrl": "https://www.wcpo.com/news/local-news/finding-solutions/nku-professors-students-are-building-a-robotic-hand-controlled-by-brain-waves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/d231ca4/2147483647/strip/true/crop/632x332+0+22/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F53%2F84%2Fc6a0c9944857afec23ff9b29c007%2Fscreen-shot-2024-01-01-at-10-13-55-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T01:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCPO Cincinnati",
+        "domain": "wcpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

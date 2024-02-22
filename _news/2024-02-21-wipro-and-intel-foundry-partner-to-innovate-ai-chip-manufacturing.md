@@ -78,6 +78,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 66
+  - title: "Intel will make chips for Microsoft"
+    excerpt: "US chip company Intel will make high-end semiconductors for Microsoft, the companies announced, as it seeks to compete with TSMC and Samsung to supply the next generation of silicon used in artificial intelligence for customers around the world."
+    publishedDateTime: 2024-02-22T14:35:00Z
+    webUrl: "https://arstechnica.com/gadgets/2024/02/intel-will-make-chips-for-microsoft/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 66
   - title: "Microsoft to Expand Its AI Infrastructure in Spain With $2.1 Billion Investment"
     excerpt: "U.S. software giant Microsoft will expand its artificial intelligence (AI) and cloud infrastructure in Spain through an investment of $2.1 billion in the next two years, the company's Vice Chair and President Brad Smith said in a post on social media site X."
     publishedDateTime: 2024-02-19T22:31:00Z

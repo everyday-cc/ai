@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-13-the-class-of-2024-is-tasked-with-honing-the-natural-ability-to-craft-effective-prompts.md",
+      "title": "The Class of 2024 is tasked with honing the natural ability to craft effective prompts",
+      "excerpt": "As the Class of 2024 prepares to navigate the dynamic job market, resilience and adaptability are paramount. In today’s VUCA world, continuous learning and anticipating future leadership demands are crucial for success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-top-skills-that-class-of-2024-aspiring-to-build-a-career-in-tech-needs-to-add-to-their-new-years-resolutions-list-3363182/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-top-skills-that-class-of-2024-aspiring-to-build-a-career-in-tech-needs-to-add-to-their-new-years-resolutions-list-3363182/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/01/Untitled-design-47.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-top-skills-that-class-of-2024-aspiring-to-build-a-career-in-tech-needs-to-add-to-their-new-years-resolutions-list-3363182/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-top-skills-that-class-of-2024-aspiring-to-build-a-career-in-tech-needs-to-add-to-their-new-years-resolutions-list-3363182/lite/",
+      "publishedDateTime": "2024-01-13T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-timekettles-x1-makes-language-translation-effortless-with-ai-driven-interpretation.md",
       "title": "Timekettle's X1 Makes Language Translation Effortless With AI-Driven Interpretation",
       "excerpt": "The AI powering the X1 will mimic the voice ... lets up to 20 people have a conversation in five different languages with real-time translation. Notably, it works for both in-person and ...",
@@ -1334,49 +1377,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-a-look-back-us-diplomatic-recognition-of-ukraine.md",
-      "title": "A Look Back: US Diplomatic Recognition of Ukraine",
-      "excerpt": "Former US Ambassador to Ukraine recalls the day the United States granted diplomatic recognition to independent Ukraine 32 years ago, on December 25, 1991.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wilsoncenter.org/article/look-back-us-diplomatic-recognition-ukraine",
-      "originalUrl": "https://www.wilsoncenter.org/article/look-back-us-diplomatic-recognition-ukraine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wilsoncenter.org/sites/default/files/styles/embed_text_block/public/media/uploads/images/IMG_0122.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wilson Center",
-        "domain": "wilsoncenter.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -128,6 +128,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Sam Altman Brushes Off $7 Trillion AI Chip Project Speculation: 'Don't Pay Too Much Attention To That'"
+    excerpt: "OpenAI CEO Sam Altman denies reports of seeking $7 trillion for AI chip project, urges not to pay attention. Project estimated to cost $5-7 trillion."
+    publishedDateTime: 2024-02-22T13:01:00Z
+    webUrl: "https://www.benzinga.com/news/24/02/37261076/sam-altman-brushes-off-7-trillion-ai-chip-project-speculation-dont-pay-too-much-attention-to-that"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
   - title: "Opinion: Artificial intelligence must reflect the diversity of humanity. New technology can help."
     excerpt: "On my last visit to La Jolla Cove, this scenic corner of San Diego sparked a question for me: What does artificial intelligence, AI, think about places like La Jolla Cove? Whose opinions and voices shape what an AI system believes? It highlights the ..."
     publishedDateTime: 2024-02-21T14:08:00Z

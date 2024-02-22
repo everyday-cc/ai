@@ -22,19 +22,33 @@ topics:
   - AI
 
 related:
-  - title: "AI for construction: What kind of tool can artificial intelligence become for AEC teams?"
-    excerpt: "Last October, Turner Construction held its annual Innovation Summit in New York. The theme of the three-day event was “From Artificial Intelligence to Intelligence Augmentation.” Among the AI solutions and practices presented, Turner demonstrated an AI ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.bdcnetwork.com/ai-construction-what-kind-tool-can-artificial-intelligence-become-aec-teams"
+  - title: "Driving the Future: AI, Ethics and Jobs in the Age of Automation"
+    excerpt: "Venture into the epicenter of innovation with Jonathan Campos as we dissect the titans of tech, steer through the self-driving revolution and grapple with AI's impact on jobs."
+    publishedDateTime: 2024-02-22T15:00:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006"
     type: article
     provider:
-      name: Bdcnetwork.com
-      domain: bdcnetwork.com
-    quality: 47
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
     images:
-      - url: "https://www.bdcnetwork.com/sites/default/files/Scanning%20%28NavViz%29%20of%20buildings%20to%20create%20digital%20models%20and%20digital%20twin%20copy.jpg"
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1708458393-AIEthicsandJobsintheAgeofAutomation.jpg?format=pjeg&auto=webp"
         width: 2000
-        height: 1125
+        height: 1333
+        isCached: true
+  - title: "Redefining pharmaceutical case processing in the age of AI and automation"
+    excerpt: "Incorporating artificial intelligence (AI) in the form of natural language processing (NLP) using large language models (LLM) and automation into pharmaceutical case processing marks a turning point for the industry. AI's ability to analyse vast ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://pharmaphorum.com/digital/redefining-pharmaceutical-case-processing-age-ai-and-automation"
+    type: article
+    provider:
+      name: pharmaphorum
+      domain: pharmaphorum.com
+    quality: 38
+    images:
+      - url: "https://pharmaphorum.com/sites/default/files/2024-02/data-and-artificial-intelligence-technologies.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "QEAfwufeK6B2IHxbrVIivGuVUCcOetZCA5MA37jJDr63xY0N2yiynW642Y4+ueJ7QD+sPXPhHppQJPP9P7Uz3X0bYtoEz+Za7vfhiWj8dbLjhsEwzJz75+cuUbhj4gdg5buXY/GPXvW3vCS+tATHwLGUPreqrbnQc5go0u9Hks92KRg/MtlkxIHTA4vKZU2AYLlvyq3Rf35VG3C0PjMBvaONOcPbpEa/CgpfukT0/VexJ/c51EXYTQPvdNI/0N2F4X2maaJhRG5zeMOZJA0psBGdo+fYeT0YARQGvU+l0yagmO0YS0atI67tOeuvtjtJEPMJoJ6qlSIkLv++iQ3Vd0dv0gygetr8LUe43hKNM1sd8hkH+dPGIE40wu2UB/F0Xwf/2p9QZytUS2iEQ4o8CCUngSUAazApwp87AtrCvhGLjKcaswELWIthjweq+0veJJegdJY/54pet/9jNwsSUOfAd238ZmYw/aBqkvAWdbVxBlyEqSk65J2r/0z4Lh6PNnOuqS9M9Oh/Ts0Y/rFndw==;cLrTlc+VWpbYB3k+m6X/YQ=="

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "A tiny robot on the space station will simulate remote-controlled surgery up there"
-excerpt: "A robotic assistant recently arrived at the International Space Station to perform a simulated surgery that will be controlled by a surgeon 250... The robot is small in size but its aspirations ..."
-publishedDateTime: 2024-02-10T19:33:00Z
-originalUrl: "https://www.northcountrypublicradio.org/news/npr/1230628268/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there"
-webUrl: "https://www.northcountrypublicradio.org/news/npr/1230628268/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there"
+excerpt: "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a surgeon directing its movements 250 miles away from Nebraska."
+publishedDateTime: 2024-02-10T19:38:00Z
+originalUrl: "https://www.kcrw.com/news/shows/npr/npr-story/1230628268"
+webUrl: "https://www.kcrw.com/news/shows/npr/npr-story/1230628268"
 type: article
 
 provider:
-  name: Northcountrypublicradio.org
-  domain: northcountrypublicradio.org
+  name: KCRW
+  domain: kcrw.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2024/02/10/20240129-miramain-02-c1fb57efe552ac467f377091bdc7c8e63690c969.jpg?s=6"
-    width: 948
-    height: 709
+  - url: "https://media.npr.org/assets/img/2024/02/10/20240129-miramain-02_wide-271e2c37c0248888d9e595d273e223b17e03375b.jpg"
+    width: 739
+    height: 416
     isCached: true
 
-secured: "hhEuL9it2Ut1A5EIVWPuJ+/054f/3Teg+Xb0/XLvtn8VhYtE0WuI7m5tUl6KoQXJ6lqi+VoIGx32tkcQQrzUZR5UCcQ6iv1K/DMpD29KAchmJzbKy7iDllXzGXaqyZcrFi0lUlJhr8T6H87aDHznQEZy2NhCvZa33v4BZcyTEFchyewlNjq9JDmBymGPVd4zHalonpxkoUDTzEV+VSneA/asPG2hOrGP6pa7IV2JGpqtCl0u4ZMKwmFw31R8+QzFt4Gb0YF2txu9VIo/ftlf4++V7gv6drQE5/ygyRA6KddjY5XLf8vxFaqAkk9ZFjygYmmgNeeWpYpsNHq0VcOX/LynZ3gStsPgmHc4QwXjkdY=;IBS2poNrftyo6IsNTv0+IA=="
+secured: "Y1p8HQS5x3ujkZ44WafmSEYrxrYTOYpJTTzU9+X3aTA12tsUNeUC88nYYDiMa9WlBshedfebnHiHnUtU/DSgEwNePnjn9mKoSfWojSBEFqZKF4pNy7PRcof0jQN2EMBUpj8ADADTeMtGhR65IMThdegpT1OQK+tsl/2loAyQiocgLlG66lrGCzTkNzYYr3amAkc/Gg7rnn4Ik4geeLLshOE/lThk7UrXH+lxHkgz55NxFUpfqiCTYSUc/2YhhTEwKpbdCX+rPiED5XD8brcHzrhXsxJThjisTs5a0dKZhifa5UWoh5gBivd1VSMEPZJEFRVbzQsM7fW9n/df6IyCHFMs6MuaH+qqWWGrQYndPwI=;iA+O98vtCTY4Y5LJz0/ePw=="
 ---
 

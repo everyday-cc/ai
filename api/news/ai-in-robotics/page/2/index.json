@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2024-02-13-automotive-industry-likely-to-continue-leading-robotics-growth-says-a3.md",
-      "title": "Automotive industry likely to continue leading robotics growth, says A3",
-      "excerpt": "The automotive industry will keep driving North American robotics adoption despite the current economic slowdown, according to A3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/automotive-industry-continues-leading-robotics-growth-says-a3/",
-      "originalUrl": "https://www.therobotreport.com/automotive-industry-continues-leading-robotics-growth-says-a3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/ABB_Automotive_Manufacturing.jpg",
-          "width": 770,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T17:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-12-the-future-is-now-building-the-infrastructure-to-power-ais-promise.md",
       "title": "The Future Is Now: Building The Infrastructure To Power AI’s Promise",
       "excerpt": "Building an efficient AI infrastructure will mean automating assembly, inspection and data management to eliminate human error and speed up labor-intensive tasks.",
@@ -221,19 +178,19 @@
     {
       "path": "_news/2024-02-11-a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there.md",
       "title": "A tiny robot on the space station will simulate remote-controlled surgery up there",
-      "excerpt": "A robotic assistant recently arrived at the International Space Station to perform a simulated surgery that will be controlled by a surgeon 250... The robot is small in size but its aspirations ...",
+      "excerpt": "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a surgeon directing its movements 250 miles away from Nebraska.",
       "sourceUrl": null,
-      "webUrl": "https://www.northcountrypublicradio.org/news/npr/1230628268/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there",
-      "originalUrl": "https://www.northcountrypublicradio.org/news/npr/1230628268/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there",
+      "webUrl": "https://www.kcrw.com/news/shows/npr/npr-story/1230628268",
+      "originalUrl": "https://www.kcrw.com/news/shows/npr/npr-story/1230628268",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.npr.org/assets/img/2024/02/10/20240129-miramain-02-c1fb57efe552ac467f377091bdc7c8e63690c969.jpg?s=6",
-          "width": 948,
-          "height": 709,
+          "url": "https://media.npr.org/assets/img/2024/02/10/20240129-miramain-02_wide-271e2c37c0248888d9e595d273e223b17e03375b.jpg",
+          "width": 739,
+          "height": 416,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -243,11 +200,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T19:33:00Z",
+      "publishedDateTime": "2024-02-10T19:38:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Northcountrypublicradio.org",
-        "domain": "northcountrypublicradio.org",
+        "name": "KCRW",
+        "domain": "kcrw.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1316,6 +1273,49 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-engineers-unveil-new-patch-that-can-help-people-control-robotic-exoskeletons.md",
+      "title": "Engineers unveil new patch that can help people control robotic exoskeletons",
+      "excerpt": "In lab experiments, the researchers showed that humans could use these devices to operate robotic exoskeletons ... outside equipment to give people more control,\" said Jianliang Xiao, associate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240131144439.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240131144439.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Startup launches AI-backed education, health, edutainment content service"
-    excerpt: "A start-up has recently announced that it will provide curated education, health, and edutainment services targeting specific needs using artificial intelligence."
-    publishedDateTime: 2024-02-18T14:18:00Z
-    webUrl: "https://www.business-standard.com/companies/start-ups/startup-launches-ai-backed-education-health-edutainment-content-service-124021800332_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 33
 
 secured: "Z4GXOy2Kue9nm7wx4wTjWnT6L+5YE7cWI8YMk9IVWbin4jtoGIUffuTroBBtFzzT0Nm7gSbZ5/0yMAG20l1K3xNCQod4xv7s6T6rW4/jnuHavA/yFN+nKGVbDV0AWuHTYjuSjbMJbjuuj0W+ZI5cHQmxxfcxn5SO1GDEleB/WK7rnmKw+Khqaf+9L/Z00L7y84fZCz2Q+J3+V2hRwscKxllCOMWRQJa4MbWddYMyFyZAuBbRbdWvj7DkfuPRttaqpd1T/X/XbULd1XR+lh7lF/rG97TW5snP0Ug01Q8845MNCcaz4OVRC8YUbFkw72TXrlkKeO5yaYGc1B6tQY6VL27igWhnIAwE09MIZDYgd+LlYd99qzgquM5l2rKUXBw7ahrX+3socBx0HX0+Xl8Gx96leOqq7l9cCHEuamvZK6yH+BeqK0MvGyaAL3LkawSNGOAKKaWLXeDO7fc/cNyYVEpJnYe8jWGDWWqbVKj/DIqwfS/U7VatZ+FJiHzu1Ort4ASr/OwpGG1O99pBx/taiA==;+RW7WiCiqxaodalrS1sydg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-21T22:37:00Z
 originalUrl: "https://www.datanami.com/this-just-in/exasol-unveils-new-suite-of-ai-tools-to-turbocharge-enterprise-data-analytics/"
 webUrl: "https://www.datanami.com/this-just-in/exasol-unveils-new-suite-of-ai-tools-to-turbocharge-enterprise-data-analytics/"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - AWS AI
+  - Machine Learning
 
 images:
   - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"

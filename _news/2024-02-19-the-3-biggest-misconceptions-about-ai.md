@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-02-17T15:23:00Z
-    webUrl: "https://techcrunch.com/2024/02/17/the-women-in-ai-making-a-difference/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
   - title: "Expert warn how AI could destroy humankind in just two years"
     excerpt: "An artificial intelligence researcher has said that if they were forced to give probabilities, AI will become so sophisticated humanity could be wiped out."
     publishedDateTime: 2024-02-21T06:47:00Z

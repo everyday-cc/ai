@@ -135,6 +135,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Sam Altman Brushes Off $7 Trillion AI Chip Project Speculation: 'Don't Pay Too Much Attention To That'"
+    excerpt: "OpenAI CEO Sam Altman denies reports of seeking $7 trillion for AI chip project, urges not to pay attention. Project estimated to cost $5-7 trillion."
+    publishedDateTime: 2024-02-22T13:01:00Z
+    webUrl: "https://www.benzinga.com/news/24/02/37261076/sam-altman-brushes-off-7-trillion-ai-chip-project-speculation-dont-pay-too-much-attention-to-that"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
 secured: "XT2bla70fY2Ntdm5IsRRVRqu0NngaMArcSSHDcf2hU5hSgOXn4QuRj3+qQfWNAqoEsnEvRmDkYT/3DN2cy1AxfabvaVqfMbjjahy0SOTe/qHCOgRxxKanb6VOltpoa9CJPYOLSIi2J+6i2UvuA5VQdb1UjfrjenJXK0PPh5q0Nis9nNz2jO75uKM1g2e0EvBbtXQ71cxQBHUeduD3OYnyXx9sQsHRgL5XLKIM51dQSlAUtDj8OIFYztUrPuUXmcsU0+NkV63e7DH6tiEz00jg4J9ZTWs9svwHB2DJXA9A7NJTUV0Aq5j6X4InHOjbywrLat8blXxQzVmb1ym1PzzhyiuVEmNBTP4KXCFdUW06hgYdQUiCZj9+UqwX2P7UMxQ338tZ1thmB89/i0fjeP5zmXo4QoulW18eOLqiUjka+G0BZ3aF9lvayxMUlNtF64NqPwwLpdUdNG7DfnYdZgIV6BwwY6meCii6XaGE2NZv6N6LlQZ5c4Rr9WYTRKtMlOBs7TWMls13VaZYpmW4BYGIg==;RBaRX1XMPRAXlzmA/1IxJQ=="
 ---

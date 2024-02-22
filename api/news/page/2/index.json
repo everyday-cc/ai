@@ -2,6 +2,466 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-22-10-ai-bootcamps-taught-by-top-schools-companies-and-tech-experts.md",
+      "title": "10 AI bootcamps taught by top schools, companies, and tech experts",
+      "excerpt": "In the AI and Machine Learning Bootcamp, lectures will touch on how to build a machine learning model and test its effectiveness, neural networks, NLP best practices, and the role of AWS, Microsoft’s Azure AI, and SQL in machine learning. Upon completing ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/education/articles/ai-bootcamps/",
+      "originalUrl": "https://fortune.com/education/articles/ai-bootcamps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1517344698-e1708531258991.jpg?resize=1200,600",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T16:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now.md",
+      "title": "Driving Value From AI Copilots: 3 Trends That C-Suite Executives Need To Act On Now",
+      "excerpt": "New research shows that 92% of business and IT leaders agree their organizations need to shift to an AI-first operating model over the next 12 months to stay competitive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/avanade/2024/02/21/driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now/",
+      "originalUrl": "https://www.forbes.com/sites/avanade/2024/02/21/driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d6137fe02d960e7e721f11/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/avanade/2024/02/21/driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/avanade/2024/02/21/driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now/amp/",
+      "publishedDateTime": "2024-02-21T15:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-dividend-investors-can-cash-in-on-ai-with-10-yields.md",
+      "title": "Dividend Investors Can Cash In On AI With 10%+ Yields",
+      "excerpt": "If you’re a dividend investor, you’ve likely taken a look at the big gains folks are reaping on AI stocks … and resigned yourself to missing out on the whole thing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/",
+      "originalUrl": "https://www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ce2b44ff9348284e5eb8d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/amp/",
+      "publishedDateTime": "2024-02-21T15:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-google-reveals-another-smaller-ai-model-gemma-for-researchers.md",
+      "title": "Google reveals another smaller AI model, Gemma, for researchers",
+      "excerpt": "In a blog post, Google stated that Gemma was developed by its UK-based DeepMind along with other teams at the company. Gemma does share some \"technical and infrastructure components\" with its bigger brother Gemini. There are two specific models available ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/google-reveals-another-smaller-ai-model-gemma-for-researchers/",
+      "originalUrl": "https://www.neowin.net/news/google-reveals-another-smaller-ai-model-gemma-for-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2024/02/1708523960_google-gemma_story.jpg",
+          "width": 760,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/google-reveals-another-smaller-ai-model-gemma-for-researchers/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-reveals-another-smaller-ai-model-gemma-for-researchers/",
+      "publishedDateTime": "2024-02-21T14:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-content-creators-face-uncomfortable-accounting-during-tax-season.md",
+      "title": "Content Creators Face Uncomfortable Accounting During Tax Season",
+      "excerpt": "What Content Creators and Content Creation Companies should consider for tax season and ither accounting areas such as revenue recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/",
+      "originalUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/659ad6221834d9b6fb2041d4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/amp/",
+      "publishedDateTime": "2024-02-21T14:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-from-script-to-distribution-ais-role-in-the-film-world.md",
+      "title": "From Script To Distribution: AI's Role In The Film World",
+      "excerpt": "AI is also playing a role in trailer creation. For instance, in 2016, IBM Watson used AI to craft a trailer for Morgan by analyzing key film moments, suggesting soundtracks and refining edits. In 2019, Adobe Sensei analyzed past Sundance Film Festival ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d4eb02bedc583914bd11fe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1542,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/amp/",
+      "publishedDateTime": "2024-02-21T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-google-launches-gemini-business-ai-adds-20-to-the-6-workspace-bill.md",
+      "title": "Google launches “Gemini Business” AI, adds $20 to the $6 Workspace bill",
+      "excerpt": "Enterprise is $30 per user per month, and it \"includes additional capabilities for AI-powered meetings, where Gemini can translate closed captions in more than 100 language pairs, and soon even take meeting notes.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/google/2024/02/google-launches-gemini-business-ai-adds-20-to-the-6-workspace-bill/",
+      "originalUrl": "https://arstechnica.com/google/2024/02/google-launches-gemini-business-ai-adds-20-to-the-6-workspace-bill/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/ebUFWGby60-980x676.png",
+          "width": 980,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T14:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-td-cowen-on-microsoft-no-shortage-of-demand-for-azure-and-ai-workloads.md",
+      "title": "TD Cowen on Microsoft : 'No shortage of demand for Azure and AI workloads'",
+      "excerpt": "TD Cowen analysts reiterated an Outperform rating on Microsoft (NASDAQ: MSFT) and the price target of $455, citing continued demand for Azure and AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207",
+      "originalUrl": "https://au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXMPED0P1G8_L.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207?ampMode=1",
+      "cdnAmpWebUrl": "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207?ampMode=1",
+      "publishedDateTime": "2024-02-21T14:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-intels-ai-reboot-is-the-future-of-us-chipmaking.md",
+      "title": "Intel's AI Reboot Is the Future of US Chipmaking",
+      "excerpt": "Rival Nvidia, which mints chips with TSMC, became the AI industry’s workhorse and has seen its business soar. But Gelsinger argues that with AI still growing fast and millions of AI chips expected to be needed, Intel can become a major player.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/",
+      "originalUrl": "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65d6409e2a66db9b96a0d09c/191:100/w_1280,c_limit/Intel-Foundry-IFDC-7.jpg.rendition.intel.web.1920.1080.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T13:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-how-to-handle-the-ai-ethics-dilemma-in-your-business-development.md",
       "title": "How To Handle The AI Ethics Dilemma In Your Business Development",
       "excerpt": "The Role Of AI Ethics In Sales & Business Pulling from my vast experience in this area, I'd like to chat about what AI ethics means in the world of sales and business. First off, there's the big deal about data privacy. Sales AI tools are like sponges ...",
@@ -416,7 +876,7 @@
       "originalUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -784,466 +1244,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-galaxy-ai-will-soon-power-intelligent-health-experiences-on-samsungs-wearables.md",
-      "title": "Galaxy AI will soon power 'intelligent health experiences' on Samsung's Wearables",
-      "excerpt": "Samsung has announced that Galaxy AI will soon power intelligent health features on its wearables. Here's what's new.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/",
-      "originalUrl": "https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/09/Samsung-Galaxy-Watch-6-Wear-OS-4-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T03:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-meet-the-chip-that-uses-light-not-electricity-to-power-ai.md",
-      "title": "Meet the Chip That Uses Light, Not Electricity, to Power AI",
-      "excerpt": "The new chip operates on an entirely different principle, performing calculations at the unparalleled speed of light.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/compare-fibre-PAOv9-7VBMI-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T02:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-early-adopters-fast-tracking-gen-ai-into-production-according-to-new-report.md",
-      "title": "Early adopters’ fast-tracking gen AI into production, according to new report",
-      "excerpt": "Healthcare, manufacturing and education industries see the greatest potential for gen AI and lead all others in their interest to become early adopters.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/early-adopters-fast-tracking-gen-ai-into-production-according-to-new-report/",
-      "originalUrl": "https://venturebeat.com/ai/early-adopters-fast-tracking-gen-ai-into-production-according-to-new-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/image_6d423f.jpeg?resize=690%2C516&#038;strip=all",
-          "width": 690,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T02:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-opinion-openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel.md",
-      "title": "Opinion: OpenAI’s Sam Altman has plans for AI that could mean big money for Intel",
-      "excerpt": "Open AI CEO Sam Altman drew widespread attention recently when he appealed for up to $7 trillion to develop silicon-chip manufacturing capacity that can power artificial intelligence. The unprecedented scope of this vision, equal to more than 20% of U.S ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
-      "originalUrl": "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-806855/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
-      "publishedDateTime": "2024-02-21T01:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-robot-inventor-we-had-to-adapt-to-the-ai-revolution.md",
-      "title": "Robot inventor: 'We had to adapt to the AI revolution'",
-      "excerpt": "Sandy Enoch, the founder of Scottish tech firm Robotical, explains how he had to adapt his educational robots, designed for the classroom, to reflect the revolution taking place in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-68348353",
-      "originalUrl": "https://www.bbc.com/news/business-68348353",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1413F/production/_132693228_p0hcyy8v.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T00:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-iflytek-launches-ai-powered-x3-sweeping-and-mopping-robot-in-china.md",
-      "title": "iFlytek launches AI-powered X3 sweeping and mopping robot in China",
-      "excerpt": "The chip delivers the necessary processing power for obstacle avoidance, navigation, and stain recognition, while the lidar ensures accurate mapping and object detection. Furthermore, the X3 can navigate obstacles up to 2cm high and boasts automatic night ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/21/iflytek-x3-sweeping-and-mopping-rob-launch/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/21/iflytek-x3-sweeping-and-mopping-rob-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/iFlytek-X3-653x1024.jpeg",
-          "width": 653,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-indeeds-10-highest-paid-tech-skills-generative-ai-tops-the-list.md",
-      "title": "Indeed’s 10 Highest-Paid Tech Skills: Generative AI Tops the List",
-      "excerpt": "It is used for applications such as computer vision and natural language processing. The ML framework was developed by Meta AI and is now part of the Linux Foundation umbrella. 6. Computer vision, $166,873: Computer vision is a field of computer science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/indeed-highest-paid-tech-skills/",
-      "originalUrl": "https://www.techrepublic.com/article/indeed-highest-paid-tech-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_222596740.jpeg",
-          "width": 1400,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-tokyo-startup-attuned-is-trying-to-use-ai-to-motivate-workers.md",
-      "title": "Tokyo startup Attuned is trying to use AI to motivate workers.",
-      "excerpt": "Over 27 million California residents are under flood watches. CNN meteorologist explains",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
-      "originalUrl": "https://www.cnn.com/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/240221072734-exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business-00002001.png?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-upenn-develops-optical-chip-to-process-complex-math-for-ai.md",
-      "title": "UPenn develops optical chip to process complex math for AI",
-      "excerpt": "Computing optically could cut the cost of AI: Prof. Nader Engheta. Engineers at the University of Pennsylvania (UPenn) have developed a new optical chip to perform the complex math essential to training AI. Its developers say that the chip has the ...",
-      "sourceUrl": null,
-      "webUrl": "https://optics.org/news/15/2/28",
-      "originalUrl": "https://optics.org/news/15/2/28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://optics.org/objects/news/thumb/15/2/28/UpennmanM.jpg",
-          "width": 476,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Optics",
-        "domain": "optics.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

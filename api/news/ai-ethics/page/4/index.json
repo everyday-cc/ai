@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-20-patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems.md",
+      "title": "Patronus AI finds ‘alarming’ safety gaps in leading AI systems",
+      "excerpt": "Patronus AI releases SimpleSafetyTests, a new diagnostic test suite for large language models that found critical safety gaps and vulnerabilities across popular AI systems like ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems/",
+      "originalUrl": "https://venturebeat.com/ai/patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_abstract_painting_of_a_yellow_triangle_caution_sign_w_bc525096-1280-41a0-adf7-04d30fe92758-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T17:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation.md",
       "title": "Pioneering Students From Swiss Boarding School Issue Global AI Charter Calling For AI Regulation",
       "excerpt": "Artificial intelligence is disrupting the way we live, work, and learn, and our students understand the profound impact this powerful technology will have on our society.",
@@ -1327,49 +1380,6 @@
       "provider": {
         "name": "The Tufts Daily",
         "domain": "tuftsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-ai-ethics-is-there-a-necessity-for-the-us-to-field-lethal-autonomous-weapon-systems-laws.md",
-      "title": "AI ethics - is there a necessity for the US to field Lethal Autonomous Weapon Systems (LAWS)?",
-      "excerpt": "The primary ethical argument in favor of Lethal Autonomous Weapon Systems (LAWS) been results-oriented: their potential precision and reliability might enable better respect for international law and human ethical values, resulting in fewer adverse humanitarian consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws",
-      "originalUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg",
-          "width": 640,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws?amp",
-      "publishedDateTime": "2023-12-04T15:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-04-ai-ethics-is-there-a-necessity-for-the-us-to-field-lethal-autonomous-weapon-systems-laws.md",
+      "title": "AI ethics - is there a necessity for the US to field Lethal Autonomous Weapon Systems (LAWS)?",
+      "excerpt": "The primary ethical argument in favor of Lethal Autonomous Weapon Systems (LAWS) been results-oriented: their potential precision and reliability might enable better respect for international law and human ethical values, resulting in fewer adverse humanitarian consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws",
+      "originalUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg",
+          "width": 640,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws?amp",
+      "publishedDateTime": "2023-12-04T15:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare.md",
       "title": "Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare.",
       "excerpt": "In 2020, the U.S. Department of Defense officially disclosed a set of ethical principles to guide the use of Artificial Intelligence (AI) technologies on future battlefields. Despite stark differences,",

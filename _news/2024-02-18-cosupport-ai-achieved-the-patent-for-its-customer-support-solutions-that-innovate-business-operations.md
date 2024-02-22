@@ -45,22 +45,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
-    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
-    publishedDateTime: 2024-02-17T16:00:00Z
-    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 67
-    images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
-        width: 361
-        height: 203
-        isCached: true
   - title: "With the Rise of AI, What IP Disputes in Healthcare Are Likely to Emerge?"
     excerpt: "Click here to view an example of this. Most of these uses of AI do not require FDA approval. There will be some ethics issues raised by physicians using this for assisting in diagnoses, but that will be at a different level. For devices, the trained AI ..."
     publishedDateTime: 2024-02-20T12:35:00Z

@@ -36,7 +36,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
         width: 2560

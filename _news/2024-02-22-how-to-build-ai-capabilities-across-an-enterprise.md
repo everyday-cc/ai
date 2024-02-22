@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Cloud delivers enterprise sovereign cloud capabilities"
+    excerpt: "As we see enterprises increasingly face geographic requirements around sovereignty, IBM Cloud&#174; is committed to helping clients navigate beyond the complexity so they can drive true transformation with innovative hybrid cloud technologies. We believe this is particularly important with the rise of"
+    publishedDateTime: 2024-02-22T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-cloud-delivers-enterprise-sovereign-cloud-capabilities/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
   - title: "The AI capabilities you need to power your AI transformation"
     excerpt: "Learn how your organization can use Microsoft Copilot and the Microsoft Cloud to unlock productivity, build your AI capability, and innovate safely."
     publishedDateTime: 2024-02-20T16:00:00Z
@@ -59,6 +68,6 @@ related:
         height: 743
         isCached: true
 
-secured: "UsLSZO2Lw/vV33TjqJLO51L7aQ3n5JBNOWKhttPllxAeIV6tknRci7zjxE8FjWUGuNlkFAtxTGFlAyJo3TZamqH+9MnNA+U6Vx/noG+BGrLUSz2wqJCjdEAVT9GsGkHNP/5c7QSiG0W/X41w0S8FtpmkPJj7niKl3qKt02zeXkdHfrhuU28XgpCiyr7Mn/ofuGMjdZPx6Jzs8TV888+GNQyme0olExWDiseJooDTc6O0068fMnOgA8DKPINUIshiPRb341Ji8Niy87UprSSWdgWqGMSDHD0454r1sSQeP1lW3GvGIdkTUJgyaUecYd+K0F1zD8idb23FZ/3LNIz7f4BeurfKMWprZbOnpCZNl1M=;z4PAfsi7aiLeDzTM7nebZg=="
+secured: "uScB2+MJW1gcwnWUdkD1RV1F71RcLSp/AqjjXe9j0rgc8nvB86LTmeJ8SN2J8pERTTqx7z3DudXILFuO09RAezvcgzRFhcOtsFIZI6WBW7C59q9dhK+OznyuadVELRKgzaVKV2WeCqss+fjwX2mjLXhy/p221FZ+hCTBzkdOfaf90mkinGahG0OydA0TK5r7yCe7ttl3SUYrz3Rtrs5Y6Qap8UAo8+XXYZKpYP1ZOx6hi0FCjKB4pCT/ESafPwF/L+cbPZp4OX2pQkidhEwsYMWRM+R0W9Xq0nBklNyklMU/KEDiRRSJlwYoWar90PNplrwE3SLY9tESwTa6qSLbzKn1K/lYhLJZJu+qCi5Ckaw6hyHF8JoPvbXaXRo2WeEu0HCJK7LaH4XhkGLuFp9tr/2sGIiaBAJVtDt2GsneLvyiW72lkIeAfdOEqXdco07hkTE5YBsr24sIIPXfD0HU/pwO6mFXWG5U0JFUVEgSp9qmTlxQc9VTHEAoIxAHFSRvSRZaT52R0ZcSv4UP0dDyaQ==;zHQbQLOt6zz3+YUQjijWVA=="
 ---
 

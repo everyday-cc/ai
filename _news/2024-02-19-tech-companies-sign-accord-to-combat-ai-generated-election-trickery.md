@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Major tech companies sign agreement to combat AI's use in election interference"
-    excerpt: "This year will be a big year for elections worldwide. An estimated 40 countries and 4 billion people will head to the polls to vote for"
-    publishedDateTime: 2024-02-17T16:15:00Z
-    webUrl: "https://www.techspot.com/news/101927-major-tech-companies-sign-agreement-combat-ai-use.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 45
   - title: "Tech firms sign pact to counter AI deepfakes as elections near"
     excerpt: "Companies that signed the Tech Accord to Combat Deceptive Use of AI at the Munich Security Conference on 16 February include Google, IBM, Amazon, Microsoft, Facebook and Instagram’s parent company Meta, OpenAI, and X (formerly Twitter)."
     publishedDateTime: 2024-02-19T15:31:00Z

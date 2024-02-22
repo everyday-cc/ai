@@ -152,6 +152,22 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 34
+  - title: "Rage, relief and recognition: the TV version of my book Breathtaking has opened a floodgate"
+    excerpt: "During the Covid pandemic, NHS staff were treated as expendable, says Rachel Clarke, a palliative care doctor and the author of Breathtaking"
+    publishedDateTime: 2024-02-22T15:46:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2024/feb/22/tv-breathtaking-covid-pandemic-nhs-staff"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2024/feb/22/tv-breathtaking-covid-pandemic-nhs-staff"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/22/tv-breathtaking-covid-pandemic-nhs-staff"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 34
+    images:
+      - url: "https://i.guim.co.uk/img/media/4ef37542c3cc2ff649810ff60e33df053916a1e0/0_154_5606_3364/master/5606.jpg?width=620&quality=85&auto=format&fit=max&s=36f6ccc3adc05e89802428d4ecc9cf12"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "MFUUF3oyFjGVZ+kRyxrMcB/izMeftnIx5Vy+xGsFA5wN2FJTirPDSG7DAFy6iztC75mxyWwsHnyhu9pBxIWepnVkqCWDVx+jHlYd00cTvOfkLm9Q2xRY+NVsLvZTkkqRK4Pjj+60jTYzQiJqUL0JanMBG9Z+/o7T4kTYLgPzt2kcr1SemT4fzpoabh7q2k58ropv7u0YO6kaFKJnvRWh27Y/L/HaP4Mq76/gwfv5IulGv6C0y6ho9MFParQDxaclgfWOlPAJTBtRRRahLUymSJr0PX4gFwgaTI1WREoUXesbf4isUeW0mjS59fmlPGcbxbvItLeVK2g2/OTK35xlESgHdet8ykXh3eNqwq6WkScLJ7dA3YSBhmZxx8p65CwAftlGw97G/Lt3UWtgJfmrU6JljZZmSBxZs+QOnB+8M2xYUiUumNngz+JdOw5ybiQfHvRKAp1oLpt/t95T9quD8TaEUJaJIude48jMCe3fa/G8QlzGfGgoIm8BvOatkd0JYuGLycuTHc/Eq4EHPXxyAA==;FftGZ3HnNlHLVHaWBgdZzA=="
 ---

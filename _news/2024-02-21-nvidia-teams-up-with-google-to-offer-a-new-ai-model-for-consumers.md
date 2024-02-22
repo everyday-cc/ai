@@ -160,15 +160,6 @@ related:
         width: 800
         height: 499
         isCached: true
-  - title: "Nvidia reveals its Eos supercomputer for AI processing sporting 4,608 H100 GPUs"
-    excerpt: "Nvidia has given enthusiasts their first look at Eos, a data-center scale supercomputer designed for AI applications. It first introduced Eos at the Supercomputing Conference in"
-    publishedDateTime: 2024-02-17T15:26:00Z
-    webUrl: "https://www.techspot.com/news/101926-nvidia-finally-reveal-specs-eos-supercomputer-ai-processing.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 45
   - title: "SoftBank stock rises on CEO Masayoshi Son’s plan for $100 billion AI chip project"
     excerpt: "Shares in the Tokyo-based tech investor SoftBank gained as much as 3.2% reports that 66-year-old billionaire CEO Masayoshi Son is seeking funding for a foray into AI chips to compete with Nvidia Corp."
     publishedDateTime: 2024-02-19T14:41:00Z

@@ -45,6 +45,15 @@ related:
         width: 1141
         height: 760
         isCached: true
+  - title: "IBM Cloud delivers enterprise sovereign cloud capabilities"
+    excerpt: "As we see enterprises increasingly face geographic requirements around sovereignty, IBM Cloud&#174; is committed to helping clients navigate beyond the complexity so they can drive true transformation with innovative hybrid cloud technologies. We believe this is particularly important with the rise of"
+    publishedDateTime: 2024-02-22T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-cloud-delivers-enterprise-sovereign-cloud-capabilities/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
   - title: "Interoperability is not AI"
     excerpt: "But interoperability is not AI. John Ameriks, head of Vanguard’s Quantitative Equity Group, explains the rationale behind dataset selection and how the group has been using machine learning. Research management system providers are building on their AI capabilities using LLMs to improve the research process, but challenges remain."
     publishedDateTime: 2024-02-19T04:57:00Z

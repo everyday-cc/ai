@@ -114,20 +114,6 @@ related:
         width: 870
         height: 580
         isCached: true
-  - title: "The Role of “Fintech” in Healthcare in 2024"
-    excerpt: "Technological advancements are rapidly transforming various sectors, including the healthcare industry. Since 2020, an astounding $53 billion has been invested in the healthcare industry related to fintech solutions."
-    publishedDateTime: 2024-02-17T15:56:00Z
-    webUrl: "https://financialit.net/blog/role-fintech-healthcare-2024"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 41
-    images:
-      - url: "https://financialit.net/sites/all/themes/fin/img/android-btn.png"
-        width: 646
-        height: 250
-        isCached: true
   - title: "Sameer Nigam talks all things fintech; Paytm’s shares surge 5% again"
     excerpt: "The caller identification app's AI assistant in India led to a 19% increase in paying ... In the wake of the developments, Finance Minister Nirmala Sitharaman has decided to meet heads of fintech companies next week to persuade them to strictly follow ..."
     publishedDateTime: 2024-02-21T02:41:00Z

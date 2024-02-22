@@ -43,17 +43,15 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 34
-  - title: "How AI health care chatbots learn from the questions of an Indian women’s organization"
-    excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
-    publishedDateTime: 2024-02-22T05:05:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-health/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization-2/amp/"
+  - title: "How AI health care chatbots learn from the questions of an Indian women's organization"
+    excerpt: "Recommended Videos The app she uses is powered by artificial intelligence running on OpenAI ... represents what many hope will be part of the impact of AI on health care around the globe: to deliver accurate medical information in personalized responses ..."
+    publishedDateTime: 2024-02-22T00:05:00Z
+    webUrl: "https://www.wsls.com/business/2024/02/22/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 31
+      name: WSLS 10
+      domain: wsls.com
+    quality: 11
 
 secured: "OQqGYvkuPPqEgMrD3aeITEkKsGmzw9GgVpXHyhE+BGOsDNxNM8S+uWkxcgZTL6bdNPU7CTXnhjiP4HTiTY1kk9tcrx85zvhNAFkLLSOOv/SbfdkHLzlBUL01vHFw9bbhM42r1O9F6x7r2hLwOjaug7DdFJCyruRwm3pLXUD/UfcR3pTnTodD95G6bnbXY8VmjOCEYCJp9rfHmvBqq2Am5iK/PtZYouYj+sZDaJWCajecu/ku+IFALG2sZ5ZHmOM0oD4/cEkUei6S6G51Whng3ySRz+jAVUwHP3sP+D/bG2mLfoZccG003PizadwMWizS39Rqtpx+6yYn+7Pgmi2w6aPrMchSrEdkIoiqZDzuM7+VKgVT72+lUPa6lDf9JBzdnjowhRkMysA34/2rKikqe+BhVm2CxfUXRres9P3A0vN35IPjj12YcU5xtTLeyeBeDCUG/pwNxGU1ufe5cs1gfErfe06TBJFyr4tDJKFtOiLkGs0K3Xbr8qpL/uJa5khvVvKrFbWuHM38R95tciHANA==;gYJLg9LycYJSxfkNWMLe5Q=="
 ---

@@ -306,6 +306,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-21-google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family.md",
+      "title": "Google goes “open AI” with Gemma, a free, open-weights chatbot family",
+      "excerpt": "Gemma chatbots can run locally, and they reportedly outperform Meta's Llama 2.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/civis/threads/google-goes-“open-ai”-with-gemma-a-free-open-weights-chatbot-family.1499024/page-2",
+      "originalUrl": "https://arstechnica.com/civis/threads/google-goes-“open-ai”-with-gemma-a-free-open-weights-chatbot-family.1499024/page-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65d512ac5503edf560835d2c/191:100/w_1280,c_limit/politics_gab_chatbot_extreme_racist.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-employers-are-failing-women-on-healthcare-uk-research-shows.md",
       "title": "Employers Are Failing Women On Healthcare, U.K. Research Shows",
       "excerpt": "women workers being absent. Employers are sabotaging their own productivity and competitiveness by failing to provide female workers with adequate care and support for certain health conditions, according to new research based on the experiences of more ...",
@@ -515,7 +567,7 @@
       "originalUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -567,7 +619,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 253,
+      "heat": 303,
       "tags": null,
       "images": [
         {
@@ -1441,40 +1493,6 @@
         "Microsoft AI",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-uruguay-llama-a-consultas-a-su-embajador-en-venezuela-por-hechos-que-harian-inviable-elecciones-libres.md",
-      "title": "Uruguay Llama A Consultas A Su Embajador En Venezuela Por Hechos \"Que Harían Inviable\" Elecciones Libres",
-      "excerpt": "El gobierno de Uruguay llamó a consultas a su embajador en Venezuela para que informe de manera urgente sobre hechos que según las autoridades uruguayas \"harían inviable\" la celebración de elecciones libres en el país caribeño.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/uruguay-llama-a-consultas-a-su-embajador-en-venezuela-por-hechos-que-harian-inviable-elecciones-libres-3e68f212",
-      "originalUrl": "https://www.barrons.com/articles/uruguay-llama-a-consultas-a-su-embajador-en-venezuela-por-hechos-que-harian-inviable-elecciones-libres-3e68f212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T22:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

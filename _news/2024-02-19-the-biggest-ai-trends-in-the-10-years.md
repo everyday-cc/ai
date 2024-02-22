@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-02-17T15:23:00Z
-    webUrl: "https://techcrunch.com/2024/02/17/the-women-in-ai-making-a-difference/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
   - title: "The 3 biggest misconceptions about AI"
     excerpt: "A trio of experts share the most common misunderstandings they’ve heard with it comes to AI and students—and reveal the truth behind them."
     publishedDateTime: 2024-02-19T09:59:00Z

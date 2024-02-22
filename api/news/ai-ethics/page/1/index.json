@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-22-driving-the-future-ai-ethics-and-jobs-in-the-age-of-automation.md",
+      "title": "Driving the Future: AI, Ethics and Jobs in the Age of Automation",
+      "excerpt": "Venture into the epicenter of innovation with Jonathan Campos as we dissect the titans of tech, steer through the self-driving revolution and grapple with AI's impact on jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1708458393-AIEthicsandJobsintheAgeofAutomation.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-nonprofits-and-ai-determining-governance-and-corporate-structures.md",
       "title": "Nonprofits And AI: Determining Governance And Corporate Structures",
       "excerpt": "When it comes to emerging technologies like AI, innovative governance models are needed to ensure ... Impartial governance boards overseeing and certifying various dimensions like data practices, ethics reviews, model integrity assessments and adherence ...",
@@ -305,7 +357,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 253,
+      "heat": 303,
       "tags": null,
       "images": [
         {
@@ -359,7 +411,7 @@
       "originalUrl": "https://www.zdnet.com/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -463,7 +515,7 @@
       "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1399,50 +1451,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.md",
-      "title": "Microsoft, Lenovo, Big Tech Companies Sign UNESCO AI Ethics Recommendation",
-      "excerpt": "The tech giants will be required to safeguard human rights in all stages of AI development, design, acquisition, sale, and usage under the terms of a new agreement signed by the tech corporations GSMA, INNIT, Lenovo Group, LG AI Research, Mastercard, Microsoft, Salesforce, and Telefonica.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "originalUrl": "https://www.techtimes.com/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/435738/unesco-unveils-first-ever-global-guidance-on-generative-ai-in-education-research.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "publishedDateTime": "2024-02-06T03:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

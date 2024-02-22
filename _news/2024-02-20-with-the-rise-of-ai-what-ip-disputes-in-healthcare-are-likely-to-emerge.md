@@ -43,22 +43,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
-    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
-    publishedDateTime: 2024-02-17T16:00:00Z
-    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 67
-    images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
-        width: 361
-        height: 203
-        isCached: true
   - title: "CoSupport AI Achieved the Patent for Its Customer Support Solutions That Innovate Business Operations"
     excerpt: "Three years of practice and research resulted in two major advancements. In the fall of 2023, the team introduced the beta version of the constellation of AI solutions for customer support; by the beginning of 2024, there were three products in the company ..."
     publishedDateTime: 2024-02-18T00:00:00Z

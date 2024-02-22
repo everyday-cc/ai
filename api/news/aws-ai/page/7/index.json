@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-11-29-aws-announces-amazon-q-to-reimagine-the-future-of-work.md",
+      "title": "AWS Announces Amazon Q to Reimagine the Future of Work",
+      "excerpt": "vice president of Data and Artificial Intelligence. “AWS is helping customers harness generative AI with solutions at all three layers of the stack, including purpose-built infrastructure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/aws-announces-amazon-q-to-reimagine-the-future-of-work-2023-11-28",
+      "originalUrl": "https://www.nasdaq.com/press-release/aws-announces-amazon-q-to-reimagine-the-future-of-work-2023-11-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T18:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-28-these-60-extended-amazon-cyber-monday-are-still-available-airpods-to-ninja.md",
       "title": "These 60+ extended Amazon Cyber Monday are still available: AirPods to Ninja",
       "excerpt": "Amazon has a widespread collection of extended Cyber Monday offers still available for an unforeseeable (we’re going to bet very little) amount of time. To commemorate one of the biggest — if ...",
@@ -1356,50 +1390,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-build-well-architected-idp-solutions-with-a-custom-lens-part-2-security.md",
-      "title": "Build well-architected IDP solutions with a custom lens – Part 2: Security",
-      "excerpt": "Building a production-ready solution in AWS involves a series of trade-offs between resources, time, customer expectation, and business outcome. The AWS Well-Architected Framework helps you understand the benefits and risks of decisions you make while building workloads on AWS. By using the Framework,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-2-security/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-2-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T14:41:07Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Security"
       ]
     }
   ],

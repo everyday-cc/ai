@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
-    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
-    publishedDateTime: 2024-02-17T16:00:00Z
-    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 67
-    images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
-        width: 361
-        height: 203
-        isCached: true
   - title: "With the Rise of AI, What IP Disputes in Healthcare Are Likely to Emerge?"
     excerpt: "Click here to view an example of this. Most of these uses of AI do not require FDA approval. There will be some ethics issues raised by physicians using this for assisting in diagnoses, but that will be at a different level. For devices, the trained AI ..."
     publishedDateTime: 2024-02-20T12:35:00Z
@@ -117,6 +101,6 @@ related:
       domain: aei.org
     quality: 19
 
-secured: "TENZqwwxPD+LnC29LF/TUXrANFT+OizGA8K/QXLqENuvKqOEyjexnIyUZ8IJSsbEdoAuG1wob5oQ5MVuU4Z17CcgrdjCFPlv/iuwVtMCztGr7Vd3szELH/zx8D7IxA4syGSSnktGJO+6GxCP7taxj6v5ZNlELq/AIpdsmmHZyXc+r0l+IyrTE9nhj+JWZSeenRJVCAU3u3I1s2X0uWBFoTXEGgZsiryVAcvf+DNQqKa2lq3EHphZJ98OR5fAfWyhRFKFCnV/1sW8T9Av4u1CGmyB7/vlmbpwm6GHcTCOV+QCdsVYRY0w4lIuBUsprkOH5PFDuKIlZXDu/5NJUGnoe6G4VmNqN/pUIkwxoZn+tqU=;mnAp/p+QFE2XoJ6q37TcRQ=="
+secured: "QJwdS+07qoIM6g75bQ1zI9mUYdjN4ADl5f/M/xPpBqX8AkHRaR82uCGGWJWghzKE4QqSjkleefxZGtvU/Hf+Lji12WYwG/SsU9hvU9dBrtYi5BPLHo1m/3/lehnk9cSBAkZfCrTt6Q+NNQHvZ7w5XmUQ3axjB1dxjM+VG18f1nqVGewJw/pp+n+YhdBjCuLPiPkSa4aqhAfrSZzJVROCesAv9tOByIVQmpWmjs23ZVYro/D3pXtfUBG16a2/AJ4nlM85mpE3SmDU8ql2jLHojrrv0Iv2w3I/5d79phjr8N4u4wKoOzqHkECgbwnQ/KDge2KtU09hTZbs9I+HwwJcStno/JzW99BFVI68GtMacs8n1mx861BH+A9Nb4mpyNCadMX6YL+orDLnb2Fh2zEqqjl3l7ilLp8t+cpUa3XFLrulh3lPu55TA3aqC9/LDbIREgroZtLnZQB2rPCWJe8wG0FXjS1khtDYUiCzxZZn1Mg7FDpj08UAL7itYry971mq42mwUhyLbObNN5RSrsk6DA==;aM4KTzS2mS01Ehyb8zeZkQ=="
 ---
 

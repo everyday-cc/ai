@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-22-mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart.md",
+      "title": "Mixtral-8x7B is now available in Amazon SageMaker JumpStart",
+      "excerpt": "Today, we are excited to announce that the Mixtral-8x7B large language model (LLM), developed by Mistral AI, is available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. The Mixtral-8x7B LLM is a pre-trained sparse mixture of expert model, based on a 7-billion",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/22/mistral-sagemaker-jumpstart.jpg",
+          "width": 1005,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T17:15:59Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-deploy-foundation-models-with-amazon-sagemaker-iterate-and-monitor-with-truera.md",
       "title": "Deploy foundation models with Amazon SageMaker, iterate and monitor with TruEra",
       "excerpt": "This blog is co-written with Josh Reini, Shayak Sen and Anupam Datta from TruEra Amazon SageMaker JumpStart provides a variety of pretrained foundation models such as Llama-2 and Mistal 7B that can be quickly deployed to an endpoint. These foundation models perform well with generative tasks, from crafting",
@@ -1393,49 +1445,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-aws-indias-interim-country-head-vaishali-kasture-quits.md",
-      "title": "AWS India’s interim country head Vaishali Kasture quits",
-      "excerpt": "Amazon Web Services (AWS) India and South Asia’s interim country head for commercial business Vaishali Kasture has resigned from her role, seven months after taking over from former president of commercial business Puneet Chandok, sources in the know told Moneycontrol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/aws-indias-interim-country-head-vaishali-kasture-quits-11885851.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/aws-indias-interim-country-head-vaishali-kasture-quits-11885851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/12/Vaishali-Kasture-AWS.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/aws-indias-interim-country-head-vaishali-kasture-quits-11885851.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/aws-indias-interim-country-head-vaishali-kasture-quits-11885851.html/amp",
-      "publishedDateTime": "2023-12-11T06:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

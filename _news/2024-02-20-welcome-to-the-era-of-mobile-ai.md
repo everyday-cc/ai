@@ -9,8 +9,8 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-15539
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Al Bawaba News
@@ -36,6 +36,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Five of the Top Artificial Intelligence Stocks to Invest in Immediately"
+    excerpt: "With artificial intelligence impacting just about every industry in the world, the market could be worth about $594 billion by 2032, according to Precedence Research. All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE ..."
+    publishedDateTime: 2024-02-22T16:57:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BAC/pressreleases/24275348/five-of-the-top-artificial-intelligence-stocks-to-invest-in-immediately/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 17
 
 secured: "FrfGKKVRBVYYc1z8cVOGWDv60/BMbSuoHsZdh26AppMHOI17dMmdRxr1EK9E+uU57fEDBapJsORQhlcu3yMNelz6wOI/9t0rf6W+LIKg3oYMPULNQJofOLsgFsxKIW3hU6twDv3O/M+oZKlayOwImUUvxeRBYsPdmx/MK2/GmnqHyktIDgdFwkEbecWspYNY2vcehPLmBz7EfJxlWIqLu460BUyoV6pqQVPvfLKmXoTTVx6cBOy2KpWtgbgPULltZKyTOD7iXMpzMIva7LzUFf29zE+zp7lv5ZUM5SB1MBQ4MFnBALWNfKuAJdFCgctJpzsHAs9ZmFe7yVnNGW7aZHgbEUfWbwR1mWnDab576OY=;B/OXaROi9m1T07FvQ9sXXA=="
 ---

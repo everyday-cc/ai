@@ -57,6 +57,15 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "How renaissance technologists are connecting the dots between AI and business"
+    excerpt: "\"Courses in AI and machine learning are fundamental, of course, but studies in psychology, human behavior, and ethics are also really relevant to the evolution of technology work.\" Training programs \"should focus on developing a holistic understanding of ..."
+    publishedDateTime: 2024-02-22T13:15:00Z
+    webUrl: "https://www.zdnet.com/article/how-renaissance-technologists-are-connecting-the-dots-between-ai-and-business/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 46
 
 secured: "65p4lqOJxNLA7jON5t9M6iiWvLZpOteBfasYKRZxhe3Jkr3G2MnzEZ9iKBx4d0sObt/ZqSilxb0tFz7PfbSEM1O56M+Fu1KGLJ6XLnQc1PpcAqPqw+vw8xYjYkAPqv/K5TmxXwurnn509T4iSBA6F5NA3kT/RngS5TgprDvClFirHBSEbWcILo+Cx3jHQ4ExhUai3WLVkkUpS+jtQAjikRXm4I3h6ABwen2TBd9IocWk91PF8NVqMd5u1rZFjqUpNQXbuArVV5u43Y+V++xajbWb8bURQDlhkYWItwqC7GBkE7mYuyrjSQJJXiGTuD3KyaCxIV7rkI1uHHFUwZ7K6zOoD18RqCBgqv90rUU7wNfimgWJJF4hlZucFFzvthXK35i1C/DOVME76TNGIue3dw0GCyeM7fxYW2EXsr2ylTuCQ90bJA3zNRIeKyOtUBmaEjtLWaOd8/jXIorqMsCScL0tvo1x2/4IftHWP1ZwkcvxRivljO92AZfYHhhoTLtLfJbJeT46WJ7Ws78F8hcvoQ==;SBJMtMQUWpod0xhs8StZhQ=="
 ---

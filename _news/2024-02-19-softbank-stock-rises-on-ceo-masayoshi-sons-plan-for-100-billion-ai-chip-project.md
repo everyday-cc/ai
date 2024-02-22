@@ -160,15 +160,6 @@ related:
         width: 800
         height: 499
         isCached: true
-  - title: "Nvidia reveals its Eos supercomputer for AI processing sporting 4,608 H100 GPUs"
-    excerpt: "Nvidia has given enthusiasts their first look at Eos, a data-center scale supercomputer designed for AI applications. It first introduced Eos at the Supercomputing Conference in"
-    publishedDateTime: 2024-02-17T15:26:00Z
-    webUrl: "https://www.techspot.com/news/101926-nvidia-finally-reveal-specs-eos-supercomputer-ai-processing.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 45
   - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
     excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."
     publishedDateTime: 2024-02-21T15:23:00Z

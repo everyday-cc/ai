@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
-  - title: "Levr.ai closes $1-million seed round for AI-powered loan platform for small businesses"
-    excerpt: "Vancouver-based FinTech startup Levr.ai has secured $1 million CAD in seed financing to continue scaling its artificial intelligence (AI)-powered loan software for small businesses. The seed round comes a year after Levr.ai raised $1-million in pre-seed ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://betakit.com/levr-ai-closes-1-million-seed-round-for-ai-powered-loan-platform-for-small-businesses/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 11
 
 secured: "bope5C4bjZGmrcEpfTZYD2cburUZ2x/wC/5904L9aXjpSpItFlnNma5V7JRlUCahjIfwcm4UQf4tXuNUVbvpt6GKvM2GDRZBuVyujbGd5ST3QhEs+L+1BqC/3eYIyBx0mNOREFP/zo+aoEfmmo9xIWZf+gsOmb9l9wzfjyZ+R+N5YFIgEfOjEd+aVke07dsKKn2kU9E236YriAfzmb92epp44QkQQSp6HFaDW7DUgI2yFEEXGvuCuzBbd2qeDwxo/eStmlInkuatD/rswNxmgFixv5GiZcVH3QoQP+rZUqm4fTC/L30fHXWY1ZmCUFcXEJ4gOgqXO4ZVvniJlT7mqJpR0seTkTRzbhuHi8dxmZ8=;0dpbAeEo+xnDmFyLIJqByw=="
 ---

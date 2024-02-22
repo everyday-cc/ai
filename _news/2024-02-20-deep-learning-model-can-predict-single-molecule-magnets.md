@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Deep Learning Model Can Predict Single-Molecule Magnets"
-excerpt: "The method identifies magnetic materials solely based on their crystal structure, eliminating the need for time-consuming experiments and simulations."
-publishedDateTime: 2024-02-20T10:33:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/deep-learning-model-can-predict-single-molecule-magnets-384009"
-webUrl: "https://www.technologynetworks.com/tn/news/deep-learning-model-can-predict-single-molecule-magnets-384009"
+excerpt: "In response, scientists are increasingly turning to deep learning methods which involve developing and training machine learning models to recognize patterns and relationships in data that include information about material properties, compositions ..."
+publishedDateTime: 2024-02-20T00:00:00Z
+originalUrl: "https://www.technologynetworks.com/applied-sciences/news/deep-learning-model-can-predict-single-molecule-magnets-384009"
+webUrl: "https://www.technologynetworks.com/applied-sciences/news/deep-learning-model-can-predict-single-molecule-magnets-384009"
 type: article
 quality: 39
 heat: 39
@@ -35,6 +35,6 @@ related:
       domain: genengnews.com
     quality: 19
 
-secured: "+hU4lspFhxbOqYBQUy/R9tPqyYUUud6ul1idL/rr2yrI1ls90fbRBqYdD6P87bsxqye7x1pE06Dw+i9ak98ug6yB290nNjezWrPppFuhNeTmXcNzR6mzbQ4nRd+3kreI4l2RO2pqe/nbg7cc8+L7oESJvM5Y1C+31pcwnXRRqau5Q67LX0r4XXdQ2PP18ZqE/M9yKJKRCoYMjFFdkfDKnw/tLOVHeCS2abd8QGXaI6MXxHeQ/HnC32fLi2VfeH+VQRuU8X84ai6RMGgc073kcHqVLp7Ii7s5fxHfF6qwR0OKF9gPmbgHfs0TURVZS4upuAoCqS/cfCg3jGPpNRMmeF2d6pVe0CdSxeiI+P1zJcBdMS9DBu9d96vC2L1bqcve+mwUUaMpDMPmwUhptoMQisqGyAuOFAK91bTiTxWCi/mIskb1043CLbn5ezHG70Yg/2/YJCSZxKli0NeYdsEYb2XxjDYUfrKC0YARFuTReaime/ZgCOls8cci9gm/nDCMpudtNnRDUNjnz06/0R4HMw==;5Rnyu+jerYsiYCT9RBhFTA=="
+secured: "5R0Cde4IGol1bl2I/el8zvG/j30ckgDgdDSGAeLjopEDQlykxZZllavR4KAwdCzlIL1+IHzl8tQJ2mnwyTpt8uBCauP0PmdGohUxwosjU5Ohmer/00NZujLBnkb9aMI4cTVZIft1hrnsVuABSWMzY9rdBb0ILtiz1B8DzV/Xw4YZWHZGy7iUuq/snBP35Y9uhypBGBgNC5KbhdmJxEkQja9Uvv4oXaysYLea1G0/7lH+2NqJxkiM+jp45HWERnbfFGhleSbApbv+dLIhAhCFRrtXvz1ucX1C7mCf4pOOP6ncr2EzL+7tYu3M1sVDyawCZTaGrUhbiMKtcyPy+o5sNzzAyswgdR7x2GqsExLmMlQ=;3AaEW59X7JyLC9iUHtCweA=="
 ---
 

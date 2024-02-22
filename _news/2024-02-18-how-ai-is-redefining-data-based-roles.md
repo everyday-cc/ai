@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-ai-is-redefining-data-based-roles/"
 webUrl: "https://venturebeat.com/ai/how-ai-is-redefining-data-based-roles/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.wfla.com/wp-content/uploads/sites/71/2024/02/B-Block-How-Artificial-Intelligence-is-affecting-social-media.jpg?w=1280"
         width: 640
         height: 360
-        isCached: true
-  - title: "Redefining pharmaceutical case processing in the age of AI and automation"
-    excerpt: "Incorporating artificial intelligence (AI) in the form of natural language processing (NLP) using large language models (LLM) and automation into pharmaceutical case processing marks a turning point for the industry. AI's ability to analyse vast ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://pharmaphorum.com/digital/redefining-pharmaceutical-case-processing-age-ai-and-automation"
-    type: article
-    provider:
-      name: pharmaphorum
-      domain: pharmaphorum.com
-    quality: 38
-    images:
-      - url: "https://pharmaphorum.com/sites/default/files/2024-02/data-and-artificial-intelligence-technologies.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "17vw1iQsZ79gxqEgfw891RyimfDWE1eGLS1pd0qwF+Q86m8uSZ8yQpO+znBIZXYh8ZieCvZm8e2lM2uqQwNgjEybMRj5sOLsCnUJdTTlF/r/8bqnN4qMw25HOY8b2jGEvJlihoD/JKWLcqkaau33ZqPTn6+14nGRx2SqYQRRzuG+sF5+AifVLIC9cavLefbvOJSq3HhKFfnDuHtb2IvpYh+8+OvEi5FbwStf+zRQZF+yPueYz3X7Xmz5k6t5QZ/rxs32X4RGuqX4tiJhxrEuordaKOuiu6Y8NugCZiQhRgtDoagZlyEOQngsarWU4nYPqiBywirkYM+/UbqNgVeLj7Z3bV2yEFsKndfozEGPC0U=;nhwvQxbSChiG2sc93W9kKQ=="

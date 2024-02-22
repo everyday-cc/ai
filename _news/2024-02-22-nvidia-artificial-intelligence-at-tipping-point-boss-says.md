@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How to use Nvidia’s new Chat with RTX AI bot"
-    excerpt: "Nvidia has a local AI chatbot called Chat with RTX, allowing you to use AI completely free from the cloud. Here's how to use it."
-    publishedDateTime: 2024-02-17T15:00:00Z
-    webUrl: "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2024/02/Chat_with_RTX-Feb_13.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nokia, Nvidia collaborate on AI for mobile networks"
     excerpt: "Nokia will also use Nvidia chips for AI applications and RAN acceleration, which will pave the way for “AI-RAN.” The idea is to remove complexity and provide flexibility, to allow customers to get their Cloud RAN services up and running much faster."
     publishedDateTime: 2024-02-21T12:44:00Z
@@ -93,6 +77,20 @@ related:
       - url: "https://i.insider.com/65d6596da3bd891424f90933?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Nvidia Announces Not One, But Two New AI Chips for China Amid Export Challenges"
+    excerpt: "Huang’s announcement didn’t dive into the specifics about the chips or who’s testing them, leaving many to wonder about the details. There’s been talk, especially from a newsletter called SemiAnalysis, about Nvidia planning to launch three chips ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/22/nvidia-ai-chips-export-challenges/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 80
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/nvidia-warned-us-and-china.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Nvidia’s data center GPU sales grow by a stunning 409% on huge demand for AI chips"
     excerpt: "He explained that the company believes demand for its GPUs will remain elevated due to the interest in generative AI and also an industry-wide shift from central processing units to the company’s accelerator chips. In a press release, the company said ..."
@@ -172,6 +170,56 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Nvidia reports massive revenue spike amid global AI boom"
+    excerpt: "Read our ethics statement. What just happened? Nvidia reported record sales and a massive revenue spike for the fiscal year 2024 that were fueled by the global AI boom. The company's total earnings for the final quarter of 2023 came in at $22.1 billion ..."
+    publishedDateTime: 2024-02-22T11:33:00Z
+    webUrl: "https://www.techspot.com/news/101983-nvidia-reports-massive-revenue-spike-amid-global-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-22-image-36.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Nvidia's Oct-Dec Results Reflects Its Future As Chip Maker Scrambles To Meet AI Demand"
+    excerpt: "Earnings surged more than eightfold with results exceeding analyst expectations. The strong results were on the back of a boom in Artificial Intelligence (AI) with chipmakers scrambling to meet demand. CEO Jensen Huang described AI as hitting \"the tipping ..."
+    publishedDateTime: 2024-02-22T16:14:00Z
+    webUrl: "https://www.businesstoday.in/bt-tv/video/nvidias-oct-dec-results-reflects-its-future-as-chip-maker-scrambles-to-meet-ai-demand-418601-2024-02-22"
+    ampWebUrl: "https://www.businesstoday.in/amp/bt-tv/video/nvidias-oct-dec-results-reflects-its-future-as-chip-maker-scrambles-to-meet-ai-demand-418601-2024-02-22"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/bt-tv/video/nvidias-oct-dec-results-reflects-its-future-as-chip-maker-scrambles-to-meet-ai-demand-418601-2024-02-22"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 66
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202402/65d7469792e87-nvidias-oct-dec-results-reflects-its-future-as-chip-maker-scrambles-to-meet-ai-demand-220526548-16x9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nvidia Has Begun Sampling Two New AI Chips for China Market, Says CEO"
+    excerpt: "The chips include most of Nvidia's newest features for AI work, but have had some of their computing power cut back to comply with new U.S. rules, according to the newsletter's analysis of the chips' specifications. Reuters reported earlier this month that ..."
+    publishedDateTime: 2024-02-22T06:23:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-22/nvidia-has-begun-sampling-two-new-ai-chips-for-china-market-says-ceo"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
+  - title: "Nvidia rises most in about nine months as AI drives sales"
+    excerpt: "Revenue in the current period will be about US$24 billion ($32.24 billion), the company said in a statement Wednesday."
+    publishedDateTime: 2024-02-22T15:08:00Z
+    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/nvidia-rises-most-about-nine-months-ai-drives-sales"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/artificial-intelligence/nvidia-rises-most-about-nine-months-ai-drives-sales"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/artificial-intelligence/nvidia-rises-most-about-nine-months-ai-drives-sales"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 56
   - title: "Nvidia: Boss sees artificial intelligence 'tipping point' as sales soar"
     excerpt: "\"Accelerated computing and generative AI have hit the tipping point,\" the firm's co-founder and chief executive Jensen Huang said in a statement. Nvidia's shares jumped by more than 8.5% in extended New York trading. The company also said that its annual revenues had more than doubled to $60.9bn."
     publishedDateTime: 2024-02-22T01:02:00Z
@@ -242,6 +290,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Nvidia’s AI Dominance Heralds New Era in Computing"
+    excerpt: "In a tech industry renowned for short-lived frenzies, some chip executives and analysts see the AI boom as increasingly sustainable."
+    publishedDateTime: 2024-02-22T13:44:00Z
+    webUrl: "https://www.wsj.com/tech/ai/nvidia-earnings-show-the-strength-of-ai-spendingand-the-company-05dc713c?mod=russia_whatsnews_pos2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "Nvidia's 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
     excerpt: "Nvidia Corp. posted stronger-than-expected results for its latest quarter, more than tripling its revenue from a year earlier."
     publishedDateTime: 2024-02-21T22:09:00Z
@@ -284,6 +341,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Nvidia app launches in beta: Nvidia's new GPU control panel is much faster, no log in required"
+    excerpt: "One is RTX Dynamic Vibrance, which Nvidia says is an AI-enhanced adaptive vibrance feature you can apply ... with AMD's offering and no longer a point of discussion when comparing GPU brands. If you want to try out the Nvidia App beta you should be able ..."
+    publishedDateTime: 2024-02-22T10:43:00Z
+    webUrl: "https://www.techspot.com/news/101985-nvidia-app-launches-beta-nvidia-new-gpu-control.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 37
   - title: "Nvidia is offering samples of two new AI chips for the China market"
     excerpt: "Nvidia (NASDAQ: NVDA ) is now providing samples of two new AI chips to its customers developed for the Chinese market, the company’s CEO Jensen Huang told Reuters Wednesday. \"We're sampling it with customers now. Both of them comply with the regulation without a license. We're looking forward to customer feedback on it,” Huang said in an interview."
     publishedDateTime: 2024-02-22T11:55:00Z
@@ -311,6 +377,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Nvidia’s stock soars as chip maker leaves ‘no doubt’ of AI boom"
+    excerpt: "The already-hefty demand for the company’s data center chips and graphics processing units (GPUs) continues to grow as firms scramble to expand their AI offerings. Nvidia’s silicon dominates the global market for AI chips, where it counts the likes of ..."
+    publishedDateTime: 2024-02-22T09:35:00Z
+    webUrl: "https://globalnews.ca/news/10310115/nvidia-stock-earnings-feb-2024/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 34
   - title: "First in the world and surrounded by debates: the European Artificial Intelligence Act"
     excerpt: "After almost three years, still a world first: the Artificial Intelligence Act of the European ... but also by private entities providing essential public services, in healthcare, education, insurance and banking. High-risk systems have to be reported ..."
     publishedDateTime: 2024-02-19T10:21:00Z
@@ -325,6 +400,15 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Nvidia’s AI mania provides new urgency to Biden’s goal of boosting US chip makers"
+    excerpt: "Nvidia’s blockbuster results on Wednesday demonstrated the insatiable demand for semiconductors to power new AI systems, and the fear that supply may not be able to keep up. That could make Washington’s goal of revitalizing US chip manufacturing in the ..."
+    publishedDateTime: 2024-02-22T08:23:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-ai-mania-provides-urgency-132357161.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 29
   - title: "Forget Nvidia: These 3 Artificial Intelligence (AI) Stocks Can Be the Next Stock-Split Stocks"
     excerpt: "At the moment, nothing is garnering the attention of professional and everyday investors quite like artificial intelligence (AI). AI, which involves the use of software and systems to oversee tasks normally overseen by humans, has application across almost ..."
     publishedDateTime: 2024-02-20T20:40:00Z
@@ -334,6 +418,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 21
+  - title: "AI-darling Nvidia's earnings could boost its sway over U.S. stock market"
+    excerpt: "No single stock has embodied the U.S. market’s artificial intelligence fervor as much as Nvidia Corp, leaving Wall Street tied to the fluctuations of its volatile shares. The semiconductor company, whose chips are considered the gold standard in the AI industry,"
+    publishedDateTime: 2024-02-22T14:51:00Z
+    webUrl: "https://www.aol.com/news/ai-darling-nvidias-earnings-could-060625657.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 18
 
 secured: "DWrogBrfb0NNXZN/XDVXqREE14HuzVSQuhcHh+fhfrAYditoIhtgENS+y5RtzQfkxrXhp1ctqNWOIG+lG62UWj15u2882tSiHWKPjynrO22FWnGeNEUNhSjZzVV/ELkPoW4BpNYf+O71RfUW1vgMqo/R6VHeIv3P9clJx96/8001bAETpE5ZsPgJcGWGPW1lKDu18KX3RzrQFvOWxsU0wJABBvRN2jWMxiFN9nYRm5WMHnHILOthym6ks1181hJoth003nDl96CNs66k3DsUErPFHbwlsruRYtBapor9VR7EzqybML7nN24lqF+OFvubSaJ59EKZEzqadgveKyTgsMWZtOu/jWPGdkjLeXxuRreDDJy8LQUTAhYUVLCJj3rMaWBZ4ZJHUNIpena9zcMnxnVxtiQbZmoRM8VgpYSPeZBzmu9EAWv7LrK8rpjCERAmfxQdUqNo7EQi2HfxbnkNIyYLttd9looThkj3vzZbbx9dgBF7EgnHYR6OHi5zAex19NWQIXOXbreq6+Tmu8UK2g==;BSNfvEZtsIII8ktgvGdC9A=="
 ---

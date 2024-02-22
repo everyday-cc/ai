@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-29-the-top-7-people-in-artificial-intelligence-e-commerce.md",
+      "title": "The top 7 people in artificial-intelligence e-commerce",
+      "excerpt": "He helped build Alexa's conversational AI-research arm; prior to that ... Prior to that, she did engineering work at Google Brain and Facebook. Shankar is now the chief scientist at Alta, a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-ecommerce-2023-11",
+      "originalUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-ecommerce-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6525c4da6561dd877e76c57d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-ecommerce-2023-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-100-top-artificial-intelligence-ecommerce-2023-11?amp",
+      "publishedDateTime": "2023-12-29T11:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-25-llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate.md",
       "title": "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate",
       "excerpt": "Maybe this llama was hoping to join Santa and his reindeer. Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of ...",
@@ -1357,49 +1409,6 @@
         "name": "Game Rant",
         "domain": "gamerant.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-meta-used-copyrighted-books-for-ai-training-despite-its-own-lawyers-warnings-authors-allege.md",
-      "title": "Meta used copyrighted books for AI training despite its own lawyers' warnings, authors allege",
-      "excerpt": "Meta released a first version of its Llama large language model in February and published a list of datasets used for training, including \"the Books3 section of ThePile.\" The person who assembled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-used-copyrighted-books-ai-training-despite-its-own-lawyers-warnings-authors-2023-12-12/",
-      "originalUrl": "https://www.reuters.com/technology/meta-used-copyrighted-books-ai-training-despite-its-own-lawyers-warnings-authors-2023-12-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T23:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

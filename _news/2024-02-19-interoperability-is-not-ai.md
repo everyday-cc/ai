@@ -40,6 +40,15 @@ related:
         width: 1141
         height: 760
         isCached: true
+  - title: "IBM Cloud delivers enterprise sovereign cloud capabilities"
+    excerpt: "As we see enterprises increasingly face geographic requirements around sovereignty, IBM Cloud&#174; is committed to helping clients navigate beyond the complexity so they can drive true transformation with innovative hybrid cloud technologies. We believe this is particularly important with the rise of"
+    publishedDateTime: 2024-02-22T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-cloud-delivers-enterprise-sovereign-cloud-capabilities/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
   - title: "The AI capabilities you need to power your AI transformation"
     excerpt: "Learn how your organization can use Microsoft Copilot and the Microsoft Cloud to unlock productivity, build your AI capability, and innovate safely."
     publishedDateTime: 2024-02-20T16:00:00Z

@@ -2,6 +2,533 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-11-23-14-ways-ai-can-help-business-and-industry-boost-sustainability.md",
+      "title": "14 Ways AI Can Help Business And Industry Boost Sustainability",
+      "excerpt": "Business leaders are starting to think about ways AI can help them with a critical consideration for organizations of all stripes: reducing their carbon footprint.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e31014bea042307fae41e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/",
+      "publishedDateTime": "2023-11-22T17:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-adobe-reportedly-acquires-text-to-video-ai-platform-rephrase.md",
+      "title": "Adobe reportedly acquires text-to-video AI platform Rephrase",
+      "excerpt": "With the acquisition, the product capabilities and a majority of the Rephrase team will go to Adobe, building the company’s efforts for generative AI videos.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/",
+      "originalUrl": "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.37.16-Photo-of-a-person-of-Hispanic-descent-engrossed-in-a-video-chat-with-a-futuristic-robot-on-the-laptop.-The-laptop-creates-a-mild-illusion-of-echoing--e1700668881535.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T17:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-nvidia-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand.md",
+      "title": "Nvidia Q3 Earnings Explode On Surging Data Center AI And Gaming Demand",
+      "excerpt": "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/",
+      "publishedDateTime": "2023-11-22T16:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-best-robot-vacuum-black-friday-deals-2023-bestreviews.md",
+      "title": "Best robot vacuum Black Friday deals 2023 | BestReviews",
+      "excerpt": "Vacuuming is one of those chores that no one really enjoys, so handing off the work to a robot vacuum can make life easier. And Black Friday is the perfect time to invest in one — or upgrade your current model — because you can find deals on many top robot vacuums that won’t break the bank.",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/",
+      "originalUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/11/turkey5_2023_landingpageheroes_robotvacuum_cybermonday_white-2.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/amp/",
+      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/amp/",
+      "publishedDateTime": "2023-11-22T16:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-hyundai-unveils-robot-operated-ev-plant-in-singapore.md",
+      "title": "Hyundai Unveils Robot-Operated EV Plant in Singapore",
+      "excerpt": "After beating General Motors and Ford in US electric vehicle (EV) sales in Q3, Hyundai Motor Group plans to keep its momentum going in the market.Hyundai officially launched its new",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/content/35921762/hyundai-unveils-robot-operated-ev-plant-in-singapore",
+      "originalUrl": "https://www.benzinga.com/content/35921762/hyundai-unveils-robot-operated-ev-plant-in-singapore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35921762",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35921762",
+      "publishedDateTime": "2023-11-22T16:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-leadingage23-how-will-generative-ai-and-robotics-impact-senior-care.md",
+      "title": "LeadingAge23: How Will Generative AI and Robotics Impact Senior Care?",
+      "excerpt": "Leaders in the aging-services sector discussed the role of generative artificial intelligence and robotics today and for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/AI-hero.jpg?itok=TMKoXvUz",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care?amp",
+      "publishedDateTime": "2023-11-22T16:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-how-ai-robotics-and-machine-learning-can-improve-food-traceability.md",
+      "title": "How AI, Robotics and Machine Learning Can Improve Food Traceability",
+      "excerpt": "Advanced artificial intelligence (AI), robotics and machine learning technologies can help manufacturers improve food traceability, ensure the safety of their products and build trust with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability",
+      "originalUrl": "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/682bf491-966a-43d0-af15-f52f9bba87fc/TM-robotics-feature-Nov-22-2023-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T16:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals.md",
+      "title": "Beyond Productivity: The AI Outlook For Tax, Legal And Risk Professionals",
+      "excerpt": "It’s been just one year since GenAI mania hijacked the news cycle and set in motion a tidal wave of rampant speculation about our work lives changing forever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/",
+      "originalUrl": "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e255ba2159086d774f253/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/",
+      "publishedDateTime": "2023-11-22T16:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-lee-health-launches-e-visits-using-artificial-intelligence-to-avoid-wait-rooms.md",
+      "title": "Lee Health launches E-Visits using artificial intelligence to avoid wait rooms",
+      "excerpt": "Lee Health is now using the power of AI to help treat you without having to wait in the waiting room. With just a click of a button and from the comfort of your own home, you can access E-Visits.",
+      "sourceUrl": null,
+      "webUrl": "https://nbc-2.com/news/health/2023/11/22/lee-health-launches-e-visits-using-artificial-intelligence-to-avoid-wait-rooms/",
+      "originalUrl": "https://nbc-2.com/news/health/2023/11/22/lee-health-launches-e-visits-using-artificial-intelligence-to-avoid-wait-rooms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nbc-2.com/wp-content/uploads/2023/11/tele_720.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://nbc-2.com/news/health/2023/11/22/lee-health-launches-e-visits-using-artificial-intelligence-to-avoid-wait-rooms/",
+      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/health/2023/11/22/lee-health-launches-e-visits-using-artificial-intelligence-to-avoid-wait-rooms/",
+      "publishedDateTime": "2023-11-22T15:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC2",
+        "domain": "nbc-2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-a-psychologist-explains-what-mind-reading-ai-can-do-to-us.md",
+      "title": "A Psychologist Explains What ‘Mind-Reading’ AI Can Do To Us",
+      "excerpt": "We are now able to translate human ... a non-invasive “language decoder” that can read brainwaves and interpret what people are thinking in real-time, making it one of the most important developments in the field of human-AI interaction today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/",
+      "originalUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655dc287b2a489c8f85430ab/0x0.jpg?format=jpg&crop=2646,1240,x366,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/",
+      "publishedDateTime": "2023-11-22T15:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-baidus-strategic-approach-to-navigate-ai-development-amidst-us-export-restrictions.md",
+      "title": "Baidu’s Strategic Approach to Navigate AI Development amidst US Export Restrictions",
+      "excerpt": "This suggests a potential shift towards self-reliance in AI technology, a move that could modify the global AI landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/11/22/baidu-us-ai-development-restriction/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/22/baidu-us-ai-development-restriction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/baidu.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T14:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-build-well-architected-idp-solutions-with-a-custom-lens-part-2-security.md",
       "title": "Build well-architected IDP solutions with a custom lens – Part 2: Security",
       "excerpt": "Building a production-ready solution in AWS involves a series of trade-offs between resources, time, customer expectation, and business outcome. The AWS Well-Architected Framework helps you understand the benefits and risks of decisions you make while building workloads on AWS. By using the Framework,",
@@ -679,471 +1206,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-hyundai-singapore-plant-rolling-out-robotaxis-for-us-market.md",
-      "title": "Hyundai Singapore plant rolling out robotaxis for US market",
-      "excerpt": "It is also equipping these electric crossovers with driverless technology to be ... with a team in an artificial intelligence-powered nerve centre overlooking the assembly area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/singapore/transport/hyundai-singapore-plant-rolling-out-robotaxis-for-us-market",
-      "originalUrl": "https://www.straitstimes.com/singapore/transport/hyundai-singapore-plant-rolling-out-robotaxis-for-us-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/11/21/WJ1134.jpg",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-116-billion-by-2033.md",
-      "title": "Cyber Security in Robotics Market Surges Ahead with a Striking Projected Value of US$ 11.6 Billion by 2033",
-      "excerpt": "The Cyber security in robotics market is poised for substantial growth, with a consistent Compound Annual Growth Rate (CAGR) of 11.7% expected during the forecasted period. In 2023, the market is projected to generate revenues of approximately US$ 3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-11-6-billion-by-2033/",
-      "originalUrl": "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-11-6-billion-by-2033/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2023/11/Cyber-Security-in-Robotics-Market.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T02:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-cognitive-neuroscience-articles-from-across-nature-portfolio.md",
-      "title": "Cognitive neuroscience articles from across Nature Portfolio",
-      "excerpt": "Cognitive neuroscience is the field of study focusing on the neural substrates of mental processes. It is at the intersection of psychology and neuroscience, but also overlaps with physiological ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/subjects/cognitive-neuroscience",
-      "originalUrl": "https://www.nature.com/subjects/cognitive-neuroscience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-deep-learning-model-detects-a-previously-unknown-quasicrystalline-phase.md",
-      "title": "Deep Learning Model Detects a Previously Unknown Quasicrystalline Phase",
-      "excerpt": "Therefore, we came up with the idea of using deep learning to identify new phases,\" explains Dr. Yamada. For developing the said model, the researchers first created a \"binary classifier\" using 80 types of convolutional neural networks. They next trained ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/applied-sciences/news/deep-learning-model-detects-a-previously-unknown-quasicrystalline-phase-381294",
-      "originalUrl": "https://www.technologynetworks.com/applied-sciences/news/deep-learning-model-detects-a-previously-unknown-quasicrystalline-phase-381294",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/381294/deep-learning-model-detects-a-previously-unknown-quasicrystalline-phase-381294-640x360.jpg?cb=20231122",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-exploring-ai-artificial-intelligences-development-and-future-potential.md",
-      "title": "Exploring AI: Artificial intelligence’s development and future potential",
-      "excerpt": "AI ethics in education is a big deal as well. Nadia Pesch, a senior at Lane Tech, said she’s familiar with classmates using Chat GPT to cheat. “I pretty much had every teacher saying ‘Don’ ...",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/",
-      "originalUrl": "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgntv.com/wp-content/uploads/sites/5/2023/11/snapshot-2023-11-21T213437.632.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/",
-      "publishedDateTime": "2023-11-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-google-announces-new-deepmind-model-lyria-to-generate-high-quality-music.md",
-      "title": "Google Announces New DeepMind Model, Lyria, to Generate High-Quality Music",
-      "excerpt": "Google has introduced Google DeepMind's Lyria, an AI music generation model able to generate vocals, lyrics, and background tracks mimicking the style of popular artists. The model is experimentally available on YouTube through two distinct AI experiments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/11/google-deep-mind-lyria-music/",
-      "originalUrl": "https://www.infoq.com/news/2023/11/google-deep-mind-lyria-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/11/google-deep-mind-lyria-music/en/headerimage/google-deepmind-lyria-1700651082738.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-letter-driverless-cars-in-search-of-edison-lightbulb-moment.md",
-      "title": "Letter: Driverless cars in search of Edison lightbulb moment",
-      "excerpt": "The “Inside Business” column by Richard Waters (“Cruise’s driverless-car accident ... the problems autonomous vehicles have with artificial intelligence are like those in deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/1d8877d9-6f33-4af4-991d-ae9927ea508d",
-      "originalUrl": "https://www.ft.com/content/1d8877d9-6f33-4af4-991d-ae9927ea508d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-a-psychologist-explains-the-eerie-uncanny-valley-phenomenon.md",
-      "title": "A Psychologist Explains The Eerie ‘Uncanny Valley’ Phenomenon",
-      "excerpt": "Research explains the fascinating and discomforting uncanny valley phenomenon, unraveling the intricacies behind our unease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/traversmark/2023/11/21/a-psychologist-explains-the-eerie-uncanny-valley-phenomenon/",
-      "originalUrl": "https://www.forbes.com/sites/traversmark/2023/11/21/a-psychologist-explains-the-eerie-uncanny-valley-phenomenon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655ce2af2b6520b3f6a95f6f/0x0.jpg?format=jpg&crop=948,445,x0,y38,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2023/11/21/a-psychologist-explains-the-eerie-uncanny-valley-phenomenon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/11/21/a-psychologist-explains-the-eerie-uncanny-valley-phenomenon/amp/",
-      "publishedDateTime": "2023-11-21T23:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-your-black-friday-observability-checklist.md",
-      "title": "Your Black Friday observability checklist",
-      "excerpt": "A checklist to help you find and implement the best possible observability platform to keep all your applications running bright.\nThe post Your Black Friday observability checklist appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/your-black-friday-observability-checklist/",
-      "originalUrl": "https://www.ibm.com/blog/your-black-friday-observability-checklist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T22:47:36Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-new-yorks-drones-robotics-ai-summit-ushers-in-a-growing-automation-industry.md",
-      "title": "New York’s Drones & Robotics AI Summit Ushers In A Growing Automation Industry",
-      "excerpt": "Join the millions and keep up with the stories shaping entrepreneurship. Sign up today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.alleywatch.com/2023/11/new-yorks-drones-robotics-ai-summit-ushers-in-a-growing-automation-industry/",
-      "originalUrl": "https://www.alleywatch.com/2023/11/new-yorks-drones-robotics-ai-summit-ushers-in-a-growing-automation-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://alleywatch.com/wp-content/uploads/2023/11/incogni-data-privacy-removal.png",
-          "width": 300,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T22:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report.md",
-      "title": "Fintech Sector Is Undergoing Transformation with Rise of Open Finance, Generative AI, A2A Payments – Report",
-      "excerpt": "The whitepaper found that “the fintech market is undergoing a rapid shift, with the rise of new technologies, such as Open Finance, generative AI and A2A (account-to-account) payments having a major impact on business models.” This is combined with unp ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/NYSE-New-York-Fintech-1024x848.jpg",
-          "width": 1024,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/",
-      "publishedDateTime": "2023-11-21T21:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

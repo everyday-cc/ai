@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-11-aws-indias-interim-country-head-vaishali-kasture-quits.md",
+      "title": "AWS India’s interim country head Vaishali Kasture quits",
+      "excerpt": "Amazon Web Services (AWS) India and South Asia’s interim country head for commercial business Vaishali Kasture has resigned from her role, seven months after taking over from former president of commercial business Puneet Chandok, sources in the know told Moneycontrol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/aws-indias-interim-country-head-vaishali-kasture-quits-11885851.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/aws-indias-interim-country-head-vaishali-kasture-quits-11885851.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/12/Vaishali-Kasture-AWS.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/aws-indias-interim-country-head-vaishali-kasture-quits-11885851.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/aws-indias-interim-country-head-vaishali-kasture-quits-11885851.html/amp",
+      "publishedDateTime": "2023-12-11T06:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning.md",
       "title": "Google's Billion-Dollar Cloud Business Takes On AWS, Azure With AI, Machine Learning",
       "excerpt": "\"Anytime any customer talks cloud, they talk AWS, Azure, and Google ... Google's portfolio of artificial intelligence (AI) and machine learning technologies are standing out and giving the ...",
@@ -1222,49 +1265,6 @@
       "provider": {
         "name": "Longmont Leader",
         "domain": "longmontleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-aws-improves-sagemaker-studio-ai-development-tool-with-new-web-based-interface-code-editor.md",
-      "title": "AWS improves SageMaker Studio AI-development tool with new web-based interface, code editor",
-      "excerpt": "Amazon Web Services Inc. has released an improved version of its SageMaker Studio, a development interface that provides access to purpose-built artificial intelligence and machine learning development tools from preparing data, building training ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/30/aws-improves-sagemaker-studio-ai-development-tool-new-web-based-interface-code-editor/",
-      "originalUrl": "https://siliconangle.com/2023/11/30/aws-improves-sagemaker-studio-ai-development-tool-new-web-based-interface-code-editor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/2023-sm-studio-01.png",
-          "width": 1789,
-          "height": 1283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T20:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

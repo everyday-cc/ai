@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Major tech companies sign agreement to combat AI's use in election interference"
-    excerpt: "This year will be a big year for elections worldwide. An estimated 40 countries and 4 billion people will head to the polls to vote for"
-    publishedDateTime: 2024-02-17T16:15:00Z
-    webUrl: "https://www.techspot.com/news/101927-major-tech-companies-sign-agreement-combat-ai-use.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 45
   - title: "Tech companies sign accord to combat AI-generated election trickery"
     excerpt: "By Matt O’Brien and Ali SwensonThe Major technology companies signed a pact Feb. 16 to voluntarily adopt “reasonable precautions” to prevent artificial intelligence tools from being used to […]"
     publishedDateTime: 2024-02-18T17:15:00Z

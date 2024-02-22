@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-20-is-meta-llama-truly-open-source.md",
+      "title": "Is Meta Llama Truly Open Source?",
+      "excerpt": "Explore the authenticity of Meta LLaMA as an open-source LLM, dissecting the criteria and larger implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/is-meta-llama-truly-open-source/",
+      "originalUrl": "https://www.unite.ai/is-meta-llama-truly-open-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2023/11/Is-Metas-Llama-Truly-Open-Source-952x600.jpg",
+          "width": 952,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T12:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-live-fire-cooking-arrives-in-aventura-with-amalfi-llama.md",
       "title": "Live-Fire Cooking Arrives in Aventura With Amalfi Llama",
       "excerpt": "He's referring to his latest venture: the Amalfi Llama, a wood-fire-inspired coastal Italian restaurant set to open next month in Aventura. Since opening his first restaurant in Mexico City in 2007, Gomez and his groups have nearly 60 restaurants to their name across both the U.",
