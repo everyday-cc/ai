@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/reddit-is-licensing-content-to-an-unnam
 webUrl: "https://www.pcmag.com/news/reddit-is-licensing-content-to-an-unnamed-ai-company"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
+    quality: 49
+  - title: "Exclusive-Reddit in AI Content Licensing Deal With Google, Sources Say"
+    excerpt: "SAN FRANCISCO (Reuters) - Social media platform Reddit has struck a deal with Google to make its content available for training the search engine giant's artificial intelligence models ... of TikTok and Meta Platform's Facebook. The sources were not ..."
+    publishedDateTime: 2024-02-21T23:10:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-21/exclusive-reddit-in-ai-content-licensing-deal-with-google-sources-say"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 49
   - title: "Reddit Inks Deal To Rake In Millions Selling Your Data To Train AI"
     excerpt: "This is evidently what Reddit is doing now with its user-generated content data, as it has reportedly penned a $60 million deal with an AI startup. Earlier this week, reports surfaced which explained that Reddit purportedly signed an agreement with an ..."

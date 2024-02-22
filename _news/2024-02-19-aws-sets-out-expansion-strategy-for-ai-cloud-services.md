@@ -7,8 +7,8 @@ originalUrl: "https://www.bangkokpost.com/business/general/2744454"
 webUrl: "https://www.bangkokpost.com/business/general/2744454"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Bangkok Post
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Best 7 Tech Stocks to Buy for AI Cloud Exposure"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Cloud AI combines the power of artificial intelligence with the power of cloud"
+    publishedDateTime: 2024-02-22T03:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-best-7-tech-stocks-to-buy-for-ai-cloud-exposure-1033090179"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Lightning AI Collaborates with AWS to Offer Enterprises Optimized Performance for Building and Deploying AI Products"
     excerpt: "The SCA allows Lightning AI to leverage AWS compute services to power generative artificial intelligence (AI) services and to provide first-class support for Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances, powered by AWS Trainium accelerators ..."
     publishedDateTime: 2024-02-21T00:00:00Z

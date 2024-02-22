@@ -7,8 +7,8 @@ originalUrl: "https://www.cambridge.org/core/browse-subjects/computer-science/ar
 webUrl: "https://www.cambridge.org/core/browse-subjects/computer-science/artificial-intelligence-and-natural-language-processing/listing"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Cambridge University Press
@@ -38,6 +38,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "So Far, So Good for Arvind Bhai and Perplexity AI"
+    excerpt: "A relatively new entrant, Perplexity AI has been working its way through user adoption. After publicly launching in 2023, Perplexity has over 10 million monthly active users with over 1 million users from India alone."
+    publishedDateTime: 2024-02-22T04:54:00Z
+    webUrl: "https://analyticsindiamag.com/so-far-so-good-for-arvind-bhai-and-perplexity-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/Aravind-Bhai-Soars-High-with-Perplexity-AI.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "q/agna6SZwUCmaWuTqYZavKu5gVQ48uFwLRg18SsngQWeghaf6bMze/t75K4v8Flin97vIY/S90FWvsniEZlNa3TPzEWJVrREd41NjAqUR1YzE17dafpfEETuNztZjncI1RNTYkv8s4AYRtDeClfnY7amZdenBCJplVqfc1VFOzsDYQ0cF4OcESPGf2ecFO4jitMWYzD1KOjkT5JnGMMBc/UTxi2/Ds1VSo30wquH0sd3E/ePKbTkZAagwHjSM5gjzzAxvcaIgblwUcDSrWqurm1c5mv8FM/svr1W5sHb+f8+lMGqlh6QhU3zaY40c4qJbTcaLQzJ/NuI722CdMBEqJa+SirTuK7rR32r8aSYhM=;j8ROao4fFhUbdlGuejGDbA=="

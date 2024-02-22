@@ -97,6 +97,15 @@ related:
       name: 9to5google
       domain: 9to5google.com
     quality: 19
+  - title: "Google releases Gemma lightweight AI open models"
+    excerpt: "Google introduces Gemma, a new family of open-source lightweight AI models that allow developers and researchers to build large language models (LLM) with only a desktop."
+    publishedDateTime: 2024-02-22T04:16:00Z
+    webUrl: "https://cybernews.com/tech/google-ai-releases-gemma-open-source-models/"
+    type: article
+    provider:
+      name: cybernews
+      domain: cybernews.com
+    quality: 19
 
 secured: "gSN/FrqbALc3vUQlkBgTXUJLT6WA7m200Ns8WOqbgWmeU8zrovsTlvfsECu055RqchzLdYYrtMIdjxR0ee4/NmehdEb9fYkN/AFp70XXbzG686mHlWhJWnlHhc2YcPU0LzLc+R1dOt+NKIgtNHZrxtIbA7jxRNtnJJ7ijtlhqfNZRmLmWOBTd+y0zO9FceE6pP2HPdYDLGMXsW/da1nMmRwLO6jSu93FOemTHCu4ESUToEnXMKAgD0/QyprX862kAAIwNjupR6mUFmFoS87YBYxNbx9FUTeOyUNhb2D3zz6hEfK7WWknu/PKHqaXtPoXl9QL41nXJ4g+EkdcB/HglX6y4uDFzUFFqN+aTIpZkbj1e3eVmDKoDGx4eLIGAWHJd3ZYpwgjoQiVhq6V2+jTlHC8N2L30GFOXle5YoU9O+Wyy4NMeaX0k6nvKc5hhO+34Kvvys6r+PP+GDlrUUM7E6L97BLpvkOyXxCUgIhHK+hN1uBs/jC+wuw3BB2GwU1EMA1hw+mpZct46xLw0rg4qQ==;ALwIxEvvp2cQuexKQGBVrQ=="
 ---

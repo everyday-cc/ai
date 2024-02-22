@@ -2,6 +2,162 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-16-openai-unveils-ai-that-instantly-generates-eye-popping-videos.md",
+      "title": "OpenAI Unveils A.I. That Instantly Generates Eye-Popping Videos",
+      "excerpt": "The start-up is sharing the new technology, called Sora, with a small group of early testers as it tries to understand the potential dangers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/15/technology/openai-sora-videos.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/15/technology/openai-sora-videos.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/15/autossell/115632_1_15OPENAI-VIDEO-4_wg_1080p_v3/115632_1_15OPENAI-VIDEO-4_wg_1080p_v3-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T18:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-hello-is-building-a-platform-toward-more-home-robots.md",
+      "title": "Hello is building a platform toward more home robots",
+      "excerpt": "Watching it cruise around a home in the demo videos brings to mind Nvidia’s line of reference ... But a one-to-one human to robot control scenario is not a sustainable one — particularly ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/15/hello-robotics/",
+      "originalUrl": "https://techcrunch.com/2024/02/15/hello-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/Screenshot-2024-02-12-at-6.09.21 PM.jpg?resize=1200,794",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/15/hello-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/15/hello-robotics/amp/",
+      "publishedDateTime": "2024-02-15T18:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-university-of-michigan-says-its-not-selling-student-data-to-ai-companies.md",
+      "title": "University of Michigan Says It's Not Selling Student Data to AI Companies",
+      "excerpt": "An employee at Google DeepMind, the company’s AI research hub, said they’d gotten an offer for recordings of lectures, student discussions, and office hours, as well as essays written by ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/university-of-michigan-sell-student-data-ai-companies-1851261663",
+      "originalUrl": "https://gizmodo.com/university-of-michigan-sell-student-data-ai-companies-1851261663",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8ad126dac919b3f4b43d70afe6f4c41c.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T17:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-hartford-healthcare-launches-new-ai-center-to-help-with-operations.md",
       "title": "Hartford Healthcare launches new AI center to help with operations",
       "excerpt": "The new artifical intelligence center will be used to improve patient experience and hospital operations, officials said.",
@@ -994,153 +1150,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-ai-in-cybersecurity-revolutionizing-safety.md",
-      "title": "AI In Cybersecurity: Revolutionizing Safety",
-      "excerpt": "With AI emerging as both a protector and a possible disruptor in our era, it's crucial to reevaluate our strategies for the future of cybersecurity and data privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62dafcb86452099050d194ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1406,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
-      "publishedDateTime": "2024-02-15T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-alphabets-waymo-recalled-vehicles-to-update-automated-driving-software.md",
-      "title": "Alphabet's Waymo recalled vehicles to update automated driving software",
-      "excerpt": "The ADS systems, which had versions released prior to Dec. 20, may inaccurately predict the movement of a towed vehicle, according to the agency. Waymo has updated the software free of charge and all affected vehicles were repaired by Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-200252,msid-107723122/file-photo-waymo-rider-only-robotaxi-test-ride-in-san-francisco.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms",
-      "publishedDateTime": "2024-02-15T11:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-flyteinteractive-interactive-development-for-machine-learning-models.md",
-      "title": "FlyteInteractive: Interactive development for machine learning models",
-      "excerpt": "LinkedIn needed a better way to test and tune machine learning models, so it wrote its own tool that plugs into Visual Studio Code. Machine learning (ML) is becoming an increasingly important part of the modern application stack. Whether it’s large-scale ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.html",
-      "originalUrl": "https://www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/12/21/worried-tired-programmer-developer-100947122-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.amp.html",
-      "publishedDateTime": "2024-02-15T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

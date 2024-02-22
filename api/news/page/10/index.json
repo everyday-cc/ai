@@ -2,6 +2,154 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-02-14-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning.md",
+      "title": "The Future of Tech Jobs: Ethical AI and the Quest for Fairness in Machine Learning",
+      "excerpt": "In an era where technology is advancing at an unprecedented pace, the quest for ethical AI and fairness in machine learning is not just a technical challenge but a crucial societal concern. This blog explores the future of tech jobs in the context of ethical AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_02_2024_17_27_44_5920723.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp",
+      "publishedDateTime": "2024-02-14T04:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-language-of-love-lets-use-ai-to-find-the-heart-of-human-potential.md",
+      "title": "Language Of Love: Let’s Use AI to Find the Heart Of Human Potential",
+      "excerpt": "AI can serve as a bridge to clarity across different and also within the same languages, building bridges between cultures through mastering language and reducing bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc31fd62e34c5e08f238e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
+      "publishedDateTime": "2024-02-14T03:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-10-ai-tools-for-australian-businesses-in-2024.md",
+      "title": "10 AI Tools For Australian Businesses In 2024",
+      "excerpt": "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
+      "originalUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T03:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-jumping-onto-artificial-intelligence-bandwagon-heres-how-to-name-your-ai-chatbot.md",
       "title": "Jumping Onto Artificial Intelligence Bandwagon? Here’s How to Name Your AI Chatbot",
       "excerpt": "All these thoughts were presumably reverberating around Google's Mountain View headquarters recently when the company decided it would ditch “Bard,” the name it had given its ChatGPT competitor, and instead bring together all of its AI tools under the name “Gemini.”",
@@ -1016,144 +1164,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-pixel-is-now-the-official-mobile-phone-of-the-national-womens-soccer-league.md",
-      "title": "Pixel is now the Official Mobile Phone of the National Women’s Soccer League",
-      "excerpt": "Google Pixel and National Women’s Soccer League announce a multi-year partnership, with Pixel becoming the league’s official mobile phone.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/pixel/google-pixel-national-womens-soccer-league/",
-      "originalUrl": "https://blog.google/products/pixel/google-pixel-national-womens-soccer-league/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NWSL_Pixel_Hero.width-1300.jpg",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/pixel/google-pixel-national-womens-soccer-league/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/pixel/google-pixel-national-womens-soccer-league/amp/",
-      "publishedDateTime": "2024-02-13T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-eu-says-apple-imessage-3-microsoft-services-are-not-digital-gatekeepers.md",
-      "title": "EU says Apple iMessage, 3 Microsoft services are not digital 'gatekeepers'",
-      "excerpt": "Feb. 13 (UPI) --The European Commission said the four platform services by Apple and Microsoft should not be considered \"gatekeepers\" as defined by the Digital Markets Act after an investigation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/5401707846789/2024/1/033a3a5736c93029032c750c2036488e/v1.5/EU-says-Apple-iMessage-3-Microsoft-services-are-not-digital-gatekeepers.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
-      "publishedDateTime": "2024-02-13T14:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-14-best-robotics-stocks-to-buy-now.md",
-      "title": "14 Best Robotics Stocks To Buy Now",
-      "excerpt": "The robotics market’s expansion is attributed to significant technological advancements in artificial intelligence and machine learning, a surge in demand for automation due to increasing labor shortages and rising labor costs, government initiatives and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/",
-      "originalUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/11/15152835/HHGC-insidermonkey-1700080113045.jpg?auto=format&expires=1739318400&w=400&h=225&fit=crop",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/?amp=1",
-      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/?amp=1",
-      "publishedDateTime": "2024-02-13T14:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

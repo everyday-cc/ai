@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-01-why-ai-is-like-infinite-interns.md",
+      "title": "Why AI Is Like ‘Infinite Interns’",
+      "excerpt": "EU AI Regulations Hit A Potential Snag, AWS Unveils New AI Integrations ... Outside of the drama at OpenAI, the actual governance of artificial intelligence has been front and center in recent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/meganpoinski/2023/11/30/why-ai-is-like-infinite-interns/",
+      "originalUrl": "https://www.forbes.com/sites/meganpoinski/2023/11/30/why-ai-is-like-infinite-interns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T18:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-amazons-aws-genai-strategy-comes-with-a-big-q.md",
       "title": "Amazon's AWS GenAI strategy comes with a big Q",
       "excerpt": "Amazon Web Services unveiled a comprehensive three-layer GenAI strategy and offerings at re:Invent 2023 that happened to feature the intriguing new Q digital assistant at the",
@@ -1224,49 +1267,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-these-60-extended-amazon-cyber-monday-are-still-available-airpods-to-ninja.md",
-      "title": "These 60+ extended Amazon Cyber Monday are still available: AirPods to Ninja",
-      "excerpt": "Amazon has a widespread collection of extended Cyber Monday offers still available for an unforeseeable (we’re going to bet very little) amount of time. To commemorate one of the biggest — if ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/shopping/amazon-cyber-monday-2023-extended-deals-sales/",
-      "originalUrl": "https://nypost.com/shopping/amazon-cyber-monday-2023-extended-deals-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/11/amazon-cyber-monday-extended.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/shopping/amazon-cyber-monday-2023-extended-deals-sales/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/shopping/amazon-cyber-monday-2023-extended-deals-sales/amp/",
-      "publishedDateTime": "2023-11-28T13:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,186 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-12-29-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars.md",
+      "title": "Elon Musk says Tesla in race against time to wheel out fully self-driving cars",
+      "excerpt": "Tech billionaire Elon Musk disclosed that electric vehicle manufacturer Tesla is working on artificial general intelligence (AGI) for its Full Self-Driving (FSD) vehicles in a major step towards obtaining completely autonomous driving capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenews.com.pk/latest/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars",
+      "originalUrl": "https://www.thenews.com.pk/latest/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-12-29/l_1142856_044635_updates.jpg",
+          "width": 700,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thenews.com.pk/amp/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars",
+      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars",
+      "publishedDateTime": "2023-12-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News International",
+        "domain": "thenews.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-manufacturers-grapple-with-ai-and-robotics.md",
+      "title": "Manufacturers Grapple with AI and Robotics",
+      "excerpt": "In findings that are perhaps surprising, the manufacturing industry has been slow to implement artificial intelligence. PwC finds that 60 ... VP of innovation and strategy at Universal Robots, to get his view on several issues facing manufacturers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/manufacturers-grapple-with-ai-and-robotics",
+      "originalUrl": "https://www.designnews.com/automation/manufacturers-grapple-with-ai-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt0bbd1b20253587c0/blt66c86590273f0c5b/658f0e0dadb57b0407edc5e2/webimage-3be3c8ff-7f9d-4de9-a108-8b3cd019b362.png?disable=upscale&width=1200&height=630&fit=crop",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-medbright-ai-announces-closing-of-investment-in-limmi-healthcare-ai-platform.md",
+      "title": "MedBright AI Announces Closing of Investment in Limmi Healthcare AI Platform",
+      "excerpt": "Pursuant to the IP License and Option Agreement, Limmi also granted to MB Licensing Co. the binding and irrevocable option to purchase the Limmi AI Platform (the “ Option ”) on the earlier of: (a) October 16, 2025; and (b) 90 days after a written request by Limmi for MB Licensing Co. to exercise the Option.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/medbright-ai-announces-closing-of-investment-in-limmi-healthcare-ai-platform-1032930995",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/medbright-ai-announces-closing-of-investment-in-limmi-healthcare-ai-platform-1032930995",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T22:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films.md",
+      "title": "This Week In XR: Anthropic Raising $750 Million, NY Times Sues Open AI, Cinematic AI Holidays Films",
+      "excerpt": "Curious Refuge Holiday AI Film Award Winners. Curious Refuge, an online community for Cinematic AI, partnered with Epidemic Sound, to sponsor a $7,500 contest for the best short holiday theme made with AI tools. The first place winner ($5000) is Dragged Holidays by Rafael Arinelli, Beto Padreca, and Paula Fernandes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/12/28/this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/12/28/this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658dd61b87d2fcb2f6d701c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/12/28/this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/12/28/this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films/amp/",
+      "publishedDateTime": "2023-12-28T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-29-health-care-up-on-defensive-bias-health-care-roundup.md",
       "title": "Health Care Up on Defensive Bias -- Health Care Roundup",
       "excerpt": "Health-care companies rose as traders rotated back to the sector from more cyclical niches of the market. Shares of obesity drug maker Novo Nordisk rose",
@@ -1047,188 +1227,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-the-new-york-times-is-suing-openai-alleging-it-trained-chatgpt-off-its-content.md",
-      "title": "The New York Times is suing OpenAI — alleging it trained ChatGPT off its content",
-      "excerpt": "The Times is also suing Microsoft. The newspaper seeks to end the practice of using published material to train chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12",
-      "originalUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/658c4651ab6f2ebb11f71246?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12?amp",
-      "publishedDateTime": "2023-12-27T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-us-sanctioned-chinese-chip-start-up-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card.md",
-      "title": "US-sanctioned Chinese chip start-up Moore Threads unveils GPU-based computing centre, AI graphics card",
-      "excerpt": "Moore Threads Intelligent Technology, a Beijing-based designer of GPUs tailored for AI training, said the new GPU will be found on its KUAE Intelligent Computing Centre, which is aimed at serving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/12/20/7246be65-c6ea-473f-b275-39e35141736d_06dd8399.jpg?itok=obd0zFrW&v=1703059591",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
-      "publishedDateTime": "2023-12-27T15:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-five-ways-artificial-intelligence-is-improving-health-care-in-canada.md",
-      "title": "Five ways artificial intelligence is improving health care in Canada",
-      "excerpt": "Hospitals are starting to implement artificial intelligence (AI) to help save lives – one of many advances in the controversial technology that entered our consciousness in 2023. There are wearables that track your heart rate,",
-      "sourceUrl": null,
-      "webUrl": "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada",
-      "originalUrl": "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/healthing/wp-content/uploads/2023/12/GettyImages-1516277094.jpg",
-          "width": 1296,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/",
-      "cdnAmpWebUrl": "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/",
-      "publishedDateTime": "2023-12-27T15:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winnipegsun",
-        "domain": "winnipegsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-artificial-intelligence-machine-learning-in-finance-carry-potential-risks.md",
-      "title": "Artificial Intelligence, Machine Learning in finance carry potential risks",
-      "excerpt": "While rapid deployment of Artificial Intelligence and Machine Learning (AI/ML) in finance is promoting efficiency gains, redefining client interfaces, augmenting forecasting accuracy, and improving risk management and compliance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece/amp/",
-      "publishedDateTime": "2023-12-27T15:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

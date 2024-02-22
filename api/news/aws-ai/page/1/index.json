@@ -194,6 +194,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-19-aws-sets-out-expansion-strategy-for-ai-cloud-services.md",
+      "title": "AWS sets out expansion strategy for AI, cloud services",
+      "excerpt": "Amazon Web Services (AWS), the cloud computing arm of Amazon, has outlined strategies to democratise technology and generative artificial intelligence (AI) amid intense competition in the global generative AI domain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangkokpost.com/business/general/2744454",
+      "originalUrl": "https://www.bangkokpost.com/business/general/2744454",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bangkokpost.com/media/content/dcx/2024/02/19/5063894.jpg",
+          "width": 1000,
+          "height": 1352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-18T21:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangkok Post",
+        "domain": "bangkokpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-17-the-impact-of-artificial-intelligence-on-the-global-economy-and-job-market.md",
       "title": "The impact of Artificial Intelligence on the global economy and job market",
       "excerpt": "In an increasingly connected world, artificial intelligence (AI) is emerging as a catalyst for change, revolutionizing sectors and",
@@ -1327,49 +1370,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-a-tale-of-three-cloud-builders-all-seeking-dominance.md",
-      "title": "A Tale Of Three Cloud Builders, All Seeking Dominance",
-      "excerpt": "AWS has to work hard every day to make its cloud cheaper ... and better models and cheaper compute engines become available for GenAI and other artificial intelligence workloads. In the quarter ended in December, which is Microsoft’s second quarter ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2024/02/05/a-tale-of-three-cloud-builders-all-seeking-dominance/",
-      "originalUrl": "https://www.nextplatform.com/2024/02/05/a-tale-of-three-cloud-builders-all-seeking-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/03/microsoft-ai-datacenter-racks.jpg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2024/02/05/a-tale-of-three-cloud-builders-all-seeking-dominance/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2024/02/05/a-tale-of-three-cloud-builders-all-seeking-dominance/amp/",
-      "publishedDateTime": "2024-02-05T23:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/google-reveals-another-smaller-ai-model-g
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-reveals-another-smaller-ai-model-gemma-for-researchers/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
     provider:
       name: 9to5google
       domain: 9to5google.com
+    quality: 19
+  - title: "Google releases Gemma lightweight AI open models"
+    excerpt: "Google introduces Gemma, a new family of open-source lightweight AI models that allow developers and researchers to build large language models (LLM) with only a desktop."
+    publishedDateTime: 2024-02-22T04:16:00Z
+    webUrl: "https://cybernews.com/tech/google-ai-releases-gemma-open-source-models/"
+    type: article
+    provider:
+      name: cybernews
+      domain: cybernews.com
     quality: 19
 
 secured: "RUEjdcwAbHiMCos0c8IaHgPDRl3ZyOtsiwbyj++ztdnHKCAI+ZknpLWjjECSx4P1aEe1SliQReG/lJIQ/gmrsoHGfDdafnKO0nnGHyqO5UxHWkcQS5lQhOoJKoAm2OwsuWdWFqgeNIpynfBMIYdlHwpW+UbgP1O1W94BLllf2qARAu+z2yy0ZMpy6NJhJRPn6CI1GBCT5EMyzM7V3p8VGH2hF4JUIELAZT6dF5sa5AbFufFqing/2yWPJMEeKd1/2AuUzSwo/AC84vIIVFAGNJqf9tMTj8spH8A/ixw6fCa5zn10c/YfXJb1Zaju20Kb7OtpzEhAgJt27KC6s3soHlZml2vljQzBGX7sgvdM8u5e6XsEeYmPbT/EyuY9Z/y/Y5ccwq3jI04f+xv2iJYhyru89BoEP912c4MYk8BBiLyyVpGoQQzh4N+Ue8gWoyTQhYxwxiyRyZ4m8K8/n20QKwehJuNk/4mup6Nv0vEvkZSvOFvOr99KLM3Z9XctnvsgwTpMA6ihrfHEiBYe2FYPfQ==;MWrdyuiezM1eHra+9TV8KA=="

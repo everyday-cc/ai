@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-24-call-of-dutys-ai-powered-anti-toxicity-voice-recognition-has-already-detected-2-million-accounts.md",
+      "title": "Call of Duty's AI-powered anti-toxicity voice recognition has already detected 2 million accounts",
+      "excerpt": "Call of Duty's anti-toxicity voice chat moderation system has detected more than two million accounts that are being investigated. Last year, Activision announced that it would be implementing a new real-time voice moderation tool to its more recent Call ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/gaming/consoles-pc/call-of-dutys-ai-powered-anti-toxicity-voice-recognition-has-already-detected-2-million-accounts",
+      "originalUrl": "https://www.techradar.com/gaming/consoles-pc/call-of-dutys-ai-powered-anti-toxicity-voice-recognition-has-already-detected-2-million-accounts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-alphabet-cuts-ties-with-australian-ai-firm-that-helped-train-bard-and-google-search.md",
       "title": "Alphabet cuts ties with Australian AI firm that helped train Bard and Google Search",
       "excerpt": "Alphabet has ended its contractual work with Appen, the artificial intelligence data firm that helped train Google's chatbot Bard and Google Search results.",
@@ -1338,49 +1381,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-24-best-ai-tools-for-2024-optimize-entrepreneurial-success.md",
-      "title": "24 Best AI Tools For 2024: Optimize Entrepreneurial Success",
-      "excerpt": "Jasper AI is an advanced writing assistant leveraging AI models for efficient content creation, language translation, and diverse creative outputs. In development, it proves valuable for crafting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/best-ai-tools-optimize-entrepreneurial-success",
-      "originalUrl": "https://www.ibtimes.com/best-ai-tools-optimize-entrepreneurial-success",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/4501328/chatgpt-became-fastest-adopted-app-history-since-taken-over-metas-threads-users-marveled.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T14:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

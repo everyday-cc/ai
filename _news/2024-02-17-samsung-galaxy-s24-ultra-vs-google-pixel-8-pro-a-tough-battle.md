@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-goo
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/?amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Galaxy AI Coming to Samsung S23, Z Flip, Z Fold 5, and Galaxy Tablets"
+    excerpt: "One of the most touted Galaxy AI features is called Circle to Search, which lets you search for something that you see on your screen."
+    publishedDateTime: 2024-02-22T03:00:00Z
+    webUrl: "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00gGCdUOwn2gbxeJgLZKAYU-1.fit_lim.size_1200x630.v1708557191.jpg"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "How Samsung S24 Ultra's intelligent Galaxy AI features are redefining the future of productivity"
     excerpt: "The Samsung Galaxy S24 Ultra is a game-changer for professionals, offering innovative features and cutting-edge technology. From Circle to Search to the S Pen, this smartphone enhances productivity, communication,"
     publishedDateTime: 2024-02-20T12:01:00Z

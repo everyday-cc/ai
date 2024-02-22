@@ -39,6 +39,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "So Far, So Good for Arvind Bhai and Perplexity AI"
+    excerpt: "A relatively new entrant, Perplexity AI has been working its way through user adoption. After publicly launching in 2023, Perplexity has over 10 million monthly active users with over 1 million users from India alone."
+    publishedDateTime: 2024-02-22T04:54:00Z
+    webUrl: "https://analyticsindiamag.com/so-far-so-good-for-arvind-bhai-and-perplexity-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/Aravind-Bhai-Soars-High-with-Perplexity-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "DYr6Em4QhSxpyfn7K8P/R3F2Qgj/4T+csBf7OK241XXEUGQ9gOGIHG0uCk1ULx0gQf1cxvHlbN6918n6Wm12jVCGL4ZC3oOGO9h5m5OjdGGIgW+0U7/KskOIgkxWOFCckznxV53681nK56fDBhpDFlXMDkw8pY8hU/7zHS2iyMUNCWJrOJCR7O+/zSKc0kGkjIofZ0PVOTt5znXNaIfFrckDCpcK2kUVRp0iG94yDG0HiaJEcKaAGgcGQpz0U9x4yseVaV7U2b633MhlNDB+HkGc7ctPuAJsLH2LzLY23s+sVZj1gJK5eSnnU2N4SA6KIbJnATm6iV7AMEZzIXPWXxAuGhGuuCtx3GG4PpP70Ag=;dFwb6XrJY4zODp86Oig8/w=="
 ---

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "The White House wants feedback on keeping AI private or open-source"
-excerpt: "Others, including Google, warn of the security risks of posting too much of the inner workings of AI on the internet, saying such moves could be \"irreversible\" in a field that is moving at breakneck pace and already prompting ethics and misinformation ..."
-publishedDateTime: 2024-02-21T20:16:00Z
-originalUrl: "https://www.wtvr.com/the-white-house-wants-feedback-on-keeping-ai-private-vs-public"
-webUrl: "https://www.wtvr.com/the-white-house-wants-feedback-on-keeping-ai-private-vs-public"
+excerpt: "The Biden administration intends to balance the needs of AI companies with the rights and security needs of consumers and the nation."
+publishedDateTime: 2024-02-22T04:24:00Z
+originalUrl: "https://www.wxyz.com/the-white-house-wants-feedback-on-keeping-ai-private-vs-public"
+webUrl: "https://www.wxyz.com/the-white-house-wants-feedback-on-keeping-ai-private-vs-public"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: wtvr
-  domain: wtvr.com
+  name: WXYZ
+  domain: wxyz.com
 
 topics:
   - AI Ethics
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "bXZqkwehyRPOyALkPC5kyLkrpss16hnNd/vDQdYWqbHxcfMjOtD4xbGqmgAdJMiFRKmGNNFZKms4UQy38p4ygiB8E1gjfIyjR0E0wTt++wVpXAeB1u/zc0Vj2Pm5QB6yBky7SOrZsDOODXlLND2BD6eoVKKBw9AhLPJLrv520zGUjbqs1w7CByxh/BW0ZcyAWPtswoLkKlnRwBi8QKdxUdrtkRcV8zH/znLzexs4F67bBs8QkG9yA0hEQ3XcxeM1Y9ttxtOKBvpsBFAA+lR0YuiGpFksBlCnB9Xsq1OR2HCzxH70ZKBQX8TiOzBtfnDxezLtt/BDLwsThJFI2RXbdc89BZfswNlZfOIbQ5NRHVw=;9eNcQ2+DBzQj1nFz0je+/g=="
+secured: "Wgj4sqnjDxThgv8bCWqG2Z8WPkQJODicyngBTVfhAUhf8X4NHRyOje8owzqoxBu+EteyN5n69OQSdB8Jfl4XVNq+TW0MwO3nvGivszoHHZcJ9CK6dDkRDHuho02elMb2iWlo8VZnZQNZKYfkSwPGb0XA/cu1Kdl/lC2krPueAewqJqTyOt5r6ZaGeulMFy39PqnNrhTLriZlC51rQgT1g8kHOFy1KqdqOUBpD6kGHGA9w59eL/kSMqJ5PWNMXlWh0IG3qIxOgr/8nvzLtsQPEHku28rkYQ45pwF0Izlau/mlvlbJbtGZmUzHHMXL80w98HrpbtkI4uAyoaGGsmc4/Q+bYU2nF2v7qq0uum2l+pI=;3sZQjN3rjrFFxaAxRWk/uw=="
 ---
 

@@ -75,6 +75,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
+  - title: "Exclusive-Reddit in AI Content Licensing Deal With Google, Sources Say"
+    excerpt: "SAN FRANCISCO (Reuters) - Social media platform Reddit has struck a deal with Google to make its content available for training the search engine giant's artificial intelligence models ... of TikTok and Meta Platform's Facebook. The sources were not ..."
+    publishedDateTime: 2024-02-21T23:10:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-21/exclusive-reddit-in-ai-content-licensing-deal-with-google-sources-say"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "rwN42Ub7q7DKkeGXAhvLXprslilOcjloTamfJBpvYdbnF91xwbJQA2yxphB8x7DGdJXIni45lpu0X/1HFQDe+mx16WB6WlNnbzkEEeMpa9+6bbyZ/kXbVOJTkYzLjCuSYToyRqgG+HtUe02Pt7Vir659MWA5o4WREWCHLB1rIjxt+REzrGHNGX3LHOf97skZB52iofqPfKUOAiPEBQu49tktBcVymoMjZJsZV2jFbTNjUpmzBvzKHTnujPKh1tF4aR8/XzcORtxsxH7j1g3QkyuyCCUMufQFHiJRDIbRcdTtW+a/2k58LpZhSIDYWQ4USJ9W7cPL2e1jOiQqi7+izIP1IDOmgq/QJ8GtL7/fKpk=;/WJFebyf40FLTzGnCfBl/A=="
 ---

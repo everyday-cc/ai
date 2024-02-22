@@ -121,6 +121,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Nvidia Targets $24 bn Revenue in First-Quarter Betting on Chips for AI Business"
+    excerpt: "Nvidia, which is powering majority of chips for AI business, said it is anticipating first-quarter revenue of $24 billion with an expected growth of 233 percent. Nvidia said in a filing it had received requests from antitrust regulators in France ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.telecomlead.com/semiconductor/nvidia-targets-24-bn-revenue-in-first-quarter-betting-on-chips-for-ai-business-114852"
+    ampWebUrl: "https://www.telecomlead.com/semiconductor/nvidia-targets-24-bn-revenue-in-first-quarter-betting-on-chips-for-ai-business-114852?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/nvidia-targets-24-bn-revenue-in-first-quarter-betting-on-chips-for-ai-business-114852?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 70
+    images:
+      - url: "https://www.telecomlead.com/wp-content/uploads/2023/08/NVIDIA-Campus.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Google's Gemma is now optimized for NVIDIA's AI platforms"
     excerpt: "This system lets users have access to generative AI capabilities on their own local PCs, provided they’re using an NVIDIA RTX GPU. This system effectively allows users to provide local files on their PC to a local AI in order to personalize the experience."
     publishedDateTime: 2024-02-21T16:30:00Z
@@ -150,6 +166,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/NVIDIA-Eos-supercomputer-built-for-artificial-intelligence-applications.jpg"
         width: 1280
         height: 841
+        isCached: true
+  - title: "You Can Now Run Your Own ChatGPT From Your Nvidia GPU"
+    excerpt: "you can install a generative AI chatbot right on your computer and tailor it to your own needs. Before you start, make sure you're running the latest drivers for your Nvidia GPU—the GeForce ..."
+    publishedDateTime: 2024-02-19T00:00:00Z
+    webUrl: "https://lifehacker.com/tech/run-local-ai-llm-from-nvidia-gpu"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 56
+    images:
+      - url: "https://lifehacker.com/imagery/articles/01HQ0F1JESFFD264PR1C0ACSDA/hero-image.fill.size_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "SoftBank Bets $100 Bn on AI Chips, Takes Aim at NVIDIA"
     excerpt: "Competing in the AI dominance race, SoftBank's CEO, Masayoshi Son, has announced a plan to gather a whopping $100 billion for his AI project."
@@ -202,6 +232,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "NVIDIA CEO: we need 14 different planets, 3 galaxies, 4 more suns to power future AI GPU tech"
+    excerpt: "NVIDIA CEO Jensen Huang says that we're just in year 1 of a 10 year journey in AI GPU hardware, as its revenue hits record highs through AI GPU dominance."
+    publishedDateTime: 2024-02-22T03:00:00Z
+    webUrl: "https://www.tweaktown.com/news/96378/nvidia-ceo-we-need-14-different-planets-3-galaxies-4-more-suns-to-power-future-ai-gpu-tech/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 43
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96378_905_nvidia-ceo-we-need-14-different-planets-3-galaxies-4-more-suns-to-power-future-ai-gpu-tech_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "Nvidia's 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
     excerpt: "Nvidia Corp. posted stronger-than-expected results for its latest quarter, more than tripling its revenue from a year earlier."
     publishedDateTime: 2024-02-21T22:09:00Z
@@ -229,6 +273,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96310_01_nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai_full.jpg"
         width: 1500
         height: 796
+        isCached: true
+  - title: "Nvidia scores big in data centre, gaming, and extends AI lead"
+    excerpt: "Expanded adoption of the Nvidia DRIVE platform has seen automotive revenue grow by 21% to $281m in the last quarter with Asian manufacturers Great Wall Motors, ZEEKR, Xiaomi, and Li Auto choosing to use it for their automated driving systems and car computers."
+    publishedDateTime: 2024-02-22T04:27:00Z
+    webUrl: "https://www.bizcommunity.com/article/nvidia-scores-big-in-data-centre-gaming-and-extends-ai-lead-016625a"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 39
+    images:
+      - url: "https://biz-file.com/c/2402/728308-1200x624.jpg?5"
+        width: 1200
+        height: 624
         isCached: true
   - title: "Nvidia's revenue soars 265% year over year due to generative AI boom"
     excerpt: "\"Accelerated computing and generative AI have hit the tipping point ... training and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software and consumer internet companies,\" Huang said."
@@ -294,6 +352,15 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
+    quality: 34
+  - title: "Nvidia quarterly profit soars US$12.3 bil on AI chips demand"
+    excerpt: "The company said it expects total revenue of US$24 billion in the current quarter. Huang said Nvidia chips are at the heart of datacentres transforming into “AI generation factories” with data a “raw material” turned into experiences such as prompt ..."
+    publishedDateTime: 2024-02-22T04:41:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2024/02/22/nvidia-quarterly-profit-soars-us12-3-bil-on-ai-chips-demand/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 34
   - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
     excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."

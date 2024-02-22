@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-20-deepmind-co-founder-ai-is-fundamentally-a-labor-replacing-tool.md",
+      "title": "DeepMind Co-Founder: AI Is Fundamentally a \"Labor Replacing Tool\"",
+      "excerpt": "Mustafa Suleyman recently said the quiet part out loud when he admitted that AI is designed to steal jobs from humans.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
+      "originalUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7f9f5c4175d40dbf8befd5716ec87baf.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T03:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news.md",
+      "title": "Google DeepMind scientists in talks to leave and form AI startup - Bloomberg News",
+      "excerpt": "Scientists Laurent Sifre and Karl Tuyls, who have already given notice to leave DeepMind, have held discussions with investors about a financing round that could raise over 200 million euros ($217 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news",
+      "originalUrl": "https://www.nasdaq.com/articles/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T19:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-20-google-makes-a-surprise-new-offer-to-all-pixel-8-pro-buyers.md",
       "title": "Google Makes A Surprise New Offer To All Pixel 8 Pro Buyers",
       "excerpt": "It looks like Google is planning to replace Assistant with the more accomplished generative AI chatbot, Bard, which could end up with some premium paid-for tiers soon. Your Pixel phone is a conduit to more Google subscriptions. Update January 19th ...",
@@ -1314,101 +1400,6 @@
       "provider": {
         "name": "SiliconANGLE",
         "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-google-deepmind-has-new-rules-to-make-sure-ai-robots-behave-when-tidying-your-home.md",
-      "title": "Google DeepMind has new rules to make sure AI robots behave when tidying your home",
-      "excerpt": "The tech giant has introduced a set of new advancements that seek to make robots powered by AI a lot safer to deploy at home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1",
-      "originalUrl": "https://www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6597efa0ec62ab5daf80f036?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1?amp",
-      "publishedDateTime": "2024-01-05T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-google-bard-advanced-tipped-to-arrive-as-paid-subscription-might-be-linked-to-google-one.md",
-      "title": "Google Bard Advanced Tipped to Arrive as Paid Subscription, Might Be Linked to Google One",
-      "excerpt": "Bard Advanced is scheduled to arrive in early 2024 and is expected to be powered by Google's advanced Gemini Ultra AI model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808",
-      "originalUrl": "https://www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/google_bard_unsplash_mojahid-mottakin_1689225787604.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808/amp",
-      "publishedDateTime": "2024-01-05T12:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Galaxy AI Coming to Samsung S23, Z Flip, Z Fold 5, and Galaxy Tablets"
+    excerpt: "One of the most touted Galaxy AI features is called Circle to Search, which lets you search for something that you see on your screen."
+    publishedDateTime: 2024-02-22T03:00:00Z
+    webUrl: "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00gGCdUOwn2gbxeJgLZKAYU-1.fit_lim.size_1200x630.v1708557191.jpg"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "Samsung Galaxy AI for Business is here"
     excerpt: "The AI future we’ve long been promised is within reach ... The feature can also extract and summarise text straight from physical books and papers and can translate notes into other languages, while its Browsing Assist capabilities can turn long ..."
     publishedDateTime: 2024-02-20T06:02:00Z
