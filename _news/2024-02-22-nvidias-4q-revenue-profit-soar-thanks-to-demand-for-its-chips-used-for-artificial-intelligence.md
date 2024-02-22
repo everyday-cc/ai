@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-21T22:09:00Z
 originalUrl: "https://www.clickondetroit.com/business/2024/02/21/nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/"
 webUrl: "https://www.clickondetroit.com/business/2024/02/21/nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/"
 type: article
-quality: 26
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7CNQF6R5YRE3LD4YNPKP7WXVBY.jpg?_a=ATAPphC0"
@@ -134,6 +135,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2024/02/nvidia-q4-earnings.jpg?quality=75&strip=all&1708532974&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Google's Gemma is now optimized for NVIDIA's AI platforms"
+    excerpt: "This system lets users have access to generative AI capabilities on their own local PCs, provided they’re using an NVIDIA RTX GPU. This system effectively allows users to provide local files on their PC to a local AI in order to personalize the experience."
+    publishedDateTime: 2024-02-21T16:30:00Z
+    webUrl: "https://www.shacknews.com/article/138819/nvidia-google-gemma-optimization"
+    ampWebUrl: "https://www.shacknews.com/article/138819/nvidia-google-gemma-optimization?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138819/nvidia-google-gemma-optimization?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 59
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/02/21/nvidia-google-gemma-optimization_feature.jpg"
+        width: 1280
+        height: 680
         isCached: true
   - title: "NVIDIA Eos DGX AI supercomputer designed for artificial intelligence"
     excerpt: "In the fast-paced world of technology, NVIDIA has made a significant leap with the introduction of Eos, a new supercomputer that has quickly secured a"
@@ -298,6 +315,6 @@ related:
       domain: aol.com
     quality: 10
 
-secured: "g05KKgypSwTuDkc9SJ4FE2X6KrqgJRALBiJeGm8dqEgwR08jlWrQL+67s7zessZfq3wVll1s5+ZHOrAt/qR7usWZunB3iR5J8Nc+nWViFY4xpTF2iCOpC9hI1XAqIndraMB6KAfZzAUDtqyy3MhA0+Acoqm/b7hLKur+yVKG2NEY0cwFbyRD8cAaJzrJDeT0vsVy3c+pOa+Af/+Ew342GMjfXniASNmvVRXyr2WOR+MdOnwYvBLhHy/PupsBhU1NZ4p5rPJAoo3wHx4ZN84rTe1UibkHxlor9z36TjTNu96VbVrS5R+LfonfhZoFLSIloFj1dCieReJp5s9RJ0jCFa4aJW0qafxPu+PiD/rcMlc=;GJSACbA83gu2OnaFTl4iWQ=="
+secured: "GkA4vnJt3iU0IH8q6MaNHKYGSst5UpEzlPV76nZnvqQOxoyjQblM6QFMb7iIBkwQgPz1niqlwCU8CsauClXITFuvsdJ7GYC7SgU9EO+JSAeURrxE0JyZxupYt8wqk6bZyNYt5WIIO3Us5xByPtlju9qccSHeN9AW3hMGFN6VZJmKNWBX1I9nnm7x/C2ofcV4jWSc5UDTnFzEmKTBM9pbYCMElc3hcmX6zIlP76dp6kinhoq7cNaeICquJt4UsuAaLtNd1fN4hBm4phKGPRVg1bLfTmfTQE3oi4NSSE0WUAd8iKuvxAJb+R7GavKUE9SB/S9h/+/uiDMw15nMOFV6hz+nkVeeUbaVnwTr85lwsgOVbqRjPdUP23HhOd99R7YeVuC9NrmAzgsM63KpYRfmBuK6pO2duywFOHtjt3ptStT9oDpDHDrlKnh2F/DF71ay93uWGnlYmncH/75xqC9HPM2dK2BXmdqNuOT6x7k5x3zMCkUEaoLVJg1JAU+dkoSThWk64Tft/Lo+li3CdXLbHg==;8SSZTAlGq5BGDW/yTqD9kg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-21T10:00:00Z
 originalUrl: "https://www.aol.com/finance/google-debuts-gemini-business-tech-150044844.html"
 webUrl: "https://www.aol.com/finance/google-debuts-gemini-business-tech-150044844.html"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/Z7HaBhbctZHrI8.YHsL56A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1769aab6fe9ba6d4e7ddbd553254d06a"
@@ -218,6 +219,6 @@ related:
         height: 832
         isCached: true
 
-secured: "DkEt0oGFYIRW/fBOE51h4LYCUi5aJnhZofLwcaBie3cCcG7XjkCHmujSPXc+8L45Ze5nCLZwJPGT0V1azM58VmGQQpqUgQAU8Cgl90fGSHZY5N30J0Q+QXKpc0foxzMsZv1hKfqNgWHXK2ryrnu5tHlE+k10rr76N9we4ykhhGWfoUL3gv5wCZMANCg7Mi2WfFlsAH2iuZAfAm0+qQWHdlJL8spLDYOlBLmXWh1R93RMflE9kSMfcjxHm3AbnEs+qODJqa4EKDV8Qod4Xs1hvLQwo/zlsfcLOUoYL7l5woih6PPcMxaLsM1xZl1WSVPVNqnQ/f8rOEWxrkl3OoONsxFKcPBM3gmHfc+CYErFqs8=;pSp00QwHqoWG3T4UtVypNg=="
+secured: "MTs/xe1vq3W8GJaxwjAy0pKtYbr81dRDDIpL2dystbN9rUmPeKCZhocvygohyPsds/JkIX0XTCVeh74czVcc1gLi40WnbPxD6/nNihrYpzS72TMwOAZ9ZGIS9i7cunqia1njwJpoSIHzaJhnx6wfnZhnl4A/d2iM48RRkNdZjmW8zQM64Wa0ma+hO9cDMI7hXzhx06EhY4juG3VKMmAmyY8R3XnAJCMDhP2TgGLaQT95LAwwLtBKwwQHqXPsTmJmpVwI2+7FdXBzwYVWdrr/ieauFV+DlZxFYgvA+FUJu4rc8XM8YY9o00KUbrkVRlN3DI99qI0jsNPPjnQG1qjpnb1aW4Mnok+ju1BXejb1uyP77em7Wt/vhoF32h0WMeM3tVswIslG+piG65QR4ltYYfUMktpIqb6biYOlwsaIvZvZ0xkEWS0oC3ce9ybA4uCoqJnA9OZa7EXcXpUEmG4vrc1Bf7Re4wtHg0QCmnjmj9yf6n+TMUF/6NYSNkdtcjj2QtwKCywSNvvuv9A8NaaJWA==;EqIugfhUXuRsphajSXrDPA=="
 ---
 

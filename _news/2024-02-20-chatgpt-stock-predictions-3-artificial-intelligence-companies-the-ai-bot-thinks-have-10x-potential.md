@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "New AI-video Tool By Maker Of ChatGPT Worries Media Creators"
-    excerpt: "A new artificial intelligence tool that promises to create short videos from simple text commands has raised concerns along with questions from artists and media professionals."
-    publishedDateTime: 2024-02-17T01:30:00Z
-    webUrl: "https://www.barrons.com/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
-    ampWebUrl: "https://www.barrons.com/amp/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
-        isCached: true
   - title: "ChatGPT Stock Predictions: 3 Artificial Intelligence Companies the AI Bot Thinks Have 10X Potential"
     excerpt: "Artificial intelligence (AI) stocks are a shining example of potential. They exist in the fast-paced world of finance. Here, data and insight are the driving forces behind the future. Today, we explore this possibility via AI stock forecasts. There is a ..."
     publishedDateTime: 2024-02-19T15:20:00Z

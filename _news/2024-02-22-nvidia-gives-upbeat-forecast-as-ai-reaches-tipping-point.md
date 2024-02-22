@@ -7,7 +7,7 @@ originalUrl: "https://www.bostonglobe.com/2024/02/21/business/nvidia-gives-upbea
 webUrl: "https://www.bostonglobe.com/2024/02/21/business/nvidia-gives-upbeat-forecast-ai-reaches-tipping-point/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     height: 337
     isCached: true
 
-secured: "sIOUP1JWQJTHAmWKXn0+p/UISP5kIJU4bgFMRfOXnmsvsYTNnDqWkk8F7MIuMj7r5/C9Q1k+WNgc5TCSnWSY/UDefRb7covTNZj1fs8UhA7S8FW/LnDXzSe85ElDqMex4RuIXNqJlCvqN8YAoqd+yX0YMIhqRpH0ES1zLLE0vDb+KCy4Wyzdr04LJYf8ErSuAWLm9Cxx/iLokr31GGr4Q9hYc4lt7iJYiAcZ+gUq+Dnz4kkM59sHUqfJxvqYUwBbvs/Q3vB/2bhgyCpss/UbNqlttt62ajdURLh9UFVWRGANN4tWxmLRLeHeTYHQa5py9m2siOX+PXqZ3kmcM9bO0vP08dEJfr+WAb70kZJJII8=;RoS0MSZtBXUxxsCL4XHB0Q=="
+related:
+  - title: "Nvidia: Artificial intelligence at 'tipping point' boss says"
+    excerpt: "The boss of the world's most valuable chip maker Nvidia says artificial intelligence (AI) is at a \"tipping point\" as it announced record sales. Chief executive Jensen Huang's comments came as the technology giant posted record figures for the most recent quarter, after revenues surged by 265% to $22bn (£17.4bn) from a year earlier."
+    publishedDateTime: 2024-02-22T01:37:00Z
+    webUrl: "https://www.bbc.com/news/business-68366467?at_bbc_team=editorial&at_campaign_type=owned&at_format=link&at_link_id=37E5697E-D11B-11EE-8422-ED8E4B3AC5C4&at_link_origin=BBCTech&at_link_type=web_link&at_ptr_name=t"
+    ampWebUrl: "https://www.bbc.com/news/business-68366467.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68366467.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F348/production/_132708226_gettyimages-1825461801-1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Sayonara Nvidia: The Japanese AI unicorn taking on titans"
+    excerpt: "The CEO of the Japanese AI startup success story, Preferred Networks (PFN), said Nvidia is the company's main rival. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my User ID and ..."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20240220PD213/preferred-networks-_pfn-generative-ai-japan-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240220pd213_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+
+secured: "M+1h31rrTryboqMm+lXxdtgiRWXh1wIjP1uuQtNCIDRVDol87JstNDRY2+h1Yzz8vcPrsfC6/qntzavfVXmLvdb+1a4ILjdbBdI5CRMZ3CPsN/5eGZrulGGY7To7aZrpMDX5LzDj0VgC1zSd5lMJC7tJpJGbCDJjKMBZmmUqDbzT7oO6coHQI1E1c8Rue1XR9ribcILO6FOXY10URppcd4ca7LzoHwXZdMzzqMf6YGBqbeSpnSd4FD5wPeYNyMfM1SB1MnvEUxVbcjgqBHqvaio5zPJssbN5UGglOLTLGsYaXZQNxRlrmCyTZuAcgGUhYPPEicAXk+f+6eIUxqXbJb8RdtSVo1xa8vq4nEbio4XsPP92guf104gAxvpAyC5pHg9pdlSdDiICzTsfe75JKojS8YSitz44ypUDHBdq9Ff7FsqbB6REI5Si6KXGDyov/WYU7X5fy9BEJmB44ZoBj3/wMPFfBTGjVD6JqLPM02YXB2GhcdrE6T+Aa1Snla/80Wj+Y6hVx3AetWI9i5ngEw==;0NUdER4W/sap5rPy3sU7DA=="
 ---
 

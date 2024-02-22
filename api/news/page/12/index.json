@@ -2,6 +2,40 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-02-13-the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops.md",
+      "title": "The Best Presidents' Day Roomba Deals at Amazon: Save Up to 50% on Robot Vacuums and Mops",
+      "excerpt": "Right now, highly-rated iRobot Roomba robot vacuums and Braava mops are up to 50% off at Amazon. There are even vacuum and mop bundles, including the Roomba i5 and the Roomba j7+, to tackle two chores at the same time. Some models have even been marked down to their lowest prices of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etonline.com/the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops-154274",
+      "originalUrl": "https://www.etonline.com/the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops-154274",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T23:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entertainment Tonight",
+        "domain": "etonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-how-can-businesses-empower-employees-for-innovation.md",
       "title": "How Can Businesses Empower Employees for Innovation?",
       "excerpt": "How Can Businesses Empower Employees for Innovation? In the quest to foster a culture of innovation, we’ve gathered insights from CEOs and founders on empowering employees to be the catalysts for change.",
@@ -1053,58 +1087,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation.md",
-      "title": "The Role Of Humans And AI In Social Media's Battle Against Misinformation",
-      "excerpt": "With artificial intelligence increasingly helping to proliferate false claims, wide access to accurate information is more difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655225b46f7ef811892e44e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/",
-      "publishedDateTime": "2024-02-12T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

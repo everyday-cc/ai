@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm"
 type: article
 quality: 64
-heat: 106
+heat: 104
 published: true
 
 provider:

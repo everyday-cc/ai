@@ -9,7 +9,7 @@ ampWebUrl: "https://dailytimes.com.pk/1171663/the-intersection-of-artificial-int
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/amp/"
 type: article
 quality: 61
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -134,6 +134,15 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 19
+  - title: "Andrew Yang and 300 international experts petition for government action on AI deepfakes"
+    excerpt: "A coalition of 300 international experts drafted a letter calling for government action to address the proliferation of deepfakes, urging criminalization and penalties for those involved in their creation and dissemination."
+    publishedDateTime: 2024-02-21T13:18:00Z
+    webUrl: "https://cointelegraph.com/news/andrew-yang-experts-petition-ai-deepfakes"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 10
 
 secured: "e3AWHuEAMiOWxLbT7g0BajgpMqBlwlqanqmZZW27IZtsb74X8Vy/nVAQ32H0ioSDQ01vSPofa/JldMKSAaRXhyzOi100Ca0qC1UtCCKWXUrlJ9gkLwHxJVvFWPNdPRC8mqmy2cvd7gYVweOZHP+54IZsvr2NLmGkM/L6OYPJwRx5mc81HhVYYzAOGJtzvXHDY20Tm+4Dqii1SQKDqce+jKIqw7Wp9Z9ls3c3gI12X9ccTELq92dENyUzV1kHHGYo6fVwLuHQKPWYQ58l0YI7+pBCRB516jVqslvjjYwYb5ALS/v4dJMqYci5B42qaUVfxFAfmDOYlVgQCiTYjsZWZbzLGhN63GS1ftn9Mb3KZUptANAHFOzmt/VBgIeXQzh2W0NHgohdpJ8Ux7sGpk3WhLWQGxXtYBwl9FDo3bAuYAbw/N8SfpZ1SfDeciO4Fbd9+aFZIa6l7isj/CCZaeUOTQHBdnvzV1JucO3mpx8SIQnZtEcUHlSnl4EdbDsrfZBmsc71yKxEzOPY0hPWq/2YvA==;0RLwz69rhLMormsIZ4nGYA=="
 ---

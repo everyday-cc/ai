@@ -122,6 +122,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Google's Gemma is now optimized for NVIDIA's AI platforms"
+    excerpt: "This system lets users have access to generative AI capabilities on their own local PCs, provided they’re using an NVIDIA RTX GPU. This system effectively allows users to provide local files on their PC to a local AI in order to personalize the experience."
+    publishedDateTime: 2024-02-21T16:30:00Z
+    webUrl: "https://www.shacknews.com/article/138819/nvidia-google-gemma-optimization"
+    ampWebUrl: "https://www.shacknews.com/article/138819/nvidia-google-gemma-optimization?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138819/nvidia-google-gemma-optimization?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 59
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/02/21/nvidia-google-gemma-optimization_feature.jpg"
+        width: 1280
+        height: 680
+        isCached: true
   - title: "NVIDIA Eos DGX AI supercomputer designed for artificial intelligence"
     excerpt: "In the fast-paced world of technology, NVIDIA has made a significant leap with the introduction of Eos, a new supercomputer that has quickly secured a"
     publishedDateTime: 2024-02-19T07:48:00Z
@@ -187,6 +203,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "Nvidia's 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
+    excerpt: "Nvidia Corp. posted stronger-than-expected results for its latest quarter, more than tripling its revenue from a year earlier."
+    publishedDateTime: 2024-02-21T22:09:00Z
+    webUrl: "https://www.clickondetroit.com/business/2024/02/21/nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 43
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7CNQF6R5YRE3LD4YNPKP7WXVBY.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
+        isCached: true
   - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
     excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
     publishedDateTime: 2024-02-20T05:59:00Z
@@ -266,20 +296,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
-  - title: "Nvidia's 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
-    excerpt: "Nvidia Corp. posted stronger-than-expected results for its latest quarter, more than tripling its revenue from a year earlier."
-    publishedDateTime: 2024-02-21T22:09:00Z
-    webUrl: "https://www.clickondetroit.com/business/2024/02/21/nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 26
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7CNQF6R5YRE3LD4YNPKP7WXVBY.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
     excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."
     publishedDateTime: 2024-02-21T15:23:00Z
@@ -299,6 +315,6 @@ related:
       domain: aol.com
     quality: 10
 
-secured: "b+g8ryG4Gm4MlmHBJdfAfSQZe7II0G3Bkf7+OB5mtfrW2IXnIA9BlWbfrgo4Kfnbu0UK/qWm4iPPxXAlmftzAHQV7766a3HJJ+3+clBMjEFnrBRVd7V9oALukzDG3457od6dkIaJtZj9tPAkhoN8gd/ZewJos7jXpRD4z4fQgzaTnNTXpt+jiAmRjicE6Jp6Ejab3R9D5GNA6d0JHCYQCT1vf+M9rrPghHSUE7XZTisHq/azJQVT1EexFdzOmcRKAcRO5lz3j2Usat3XeUj5zegCrV8nLhehFGj4TLEPx3FXtcD5GNnUncMztdnwuJK870uzIiTZhH6A4oR+uESgPbEgvhdBZ40/DgwK/KT0jV8=;88RX0D2+DOkUNmbU8ABNRg=="
+secured: "24+IKBkAO4G+OVDxIL109R9E4hNVfhbfX7Cq1rhXnEPaknq+J9DwCW57TFBkBlZQUTF1I6Q2GYNRsYNI2sSsRuIKZgJGqz6ACgi0wbXFTu9AszsVQLF+AGALHUlLwsTzbYJouUKFkqL0Dn/QPzESTKtFfHc/7/5uNd2n8JulijbjnFdoIPPGpMIxebHkRVcJTcshNRCl9deGgneDhQeYDJ//yN/NO1C7yZq8oGJ6f/Nup9iCEnJyc3jRFy0gN9+Dss0jJXWej1jb3PUG2lbhOsfuzlDvQNhoNdHckwk7y2bZQVICamWOv6Li8+/WEt+M7IGsAoKCcKYUxXT8QUC6zRwenMu+VhuHxgOFnJmWCFcTSMiVNJ5+jaPUy8WM6DoIfSurmOKYiLmJVQ0lb0hjP+nOcJ1tpB3RPQomHaWpfHX7SrDQ/l0GpprX7v0TBbaiYCHrVJZa96jCGhjup0jpnWmvInLpiiRI+nJR3O3W0Cvqqh8x/GINnBZcok6stR6tFOiQyZDlHX7mxgH52aGUWA==;Atw6heapZ69lCVhvUNH7aQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/early-adopters-fast-tracking-gen-ai-int
 webUrl: "https://venturebeat.com/ai/early-adopters-fast-tracking-gen-ai-into-production-according-to-new-report/"
 type: article
 quality: 66
-heat: 86
+heat: 88
 published: true
 
 provider:

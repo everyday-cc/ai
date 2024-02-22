@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtontimes.com/news/2024/feb/17/one-tech-tip-read
 webUrl: "https://www.washingtontimes.com/news/2024/feb/17/one-tech-tip-ready-to-go-beyond-google-heres-how-3/"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 700
     isCached: true
+
+related:
+  - title: "AI is going to make an already-mediocre Google Search so much worse"
+    excerpt: "A look at the persistent decay of Google Search, which Google is trying to reshape into an AI-first experience."
+    publishedDateTime: 2024-02-22T00:56:00Z
+    webUrl: "https://bgr.com/business/ai-is-going-to-make-an-already-mediocre-google-search-so-much-worse/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/rsz_gettyimages-1257988752.jpg?quality=82&strip=all"
+        width: 1915
+        height: 1277
+        isCached: true
 
 secured: "TuTyoZFTa76AkA2SRSqKJB4inyrY39XS07mbYJVKDmw4dklgbIo9i2aQwiMwNXEV4GeNFq16p6o7oNlUXZ4fiNKlxoxrz4SUzpI/a7IVgcFuYsl+ZQnOsVSzrQDjZZF0SW16XbmuJCz1c4kYZl/BAPEwr0EfVVzSDKEpKi9firMlNVO2eBYU9KvT7vN4dLVT/cHzjh/WPZ57pneGdGS5dE7imdmumPsWAfD58JZbzdo/xh4oAzJ/c8lAn37TS6Pg5tNdQfNJMYHhi3O7gxMvTEvrtGc009e3E41kagzFq5I9QhrcXvVawS8oeHZ4t9E20cia15xIa41FUY3mdKlkjNZ0Z9KZRihOBMZMX5sIS2g=;GkB4YFv4YJflHc4Zx+Ac0Q=="
 ---

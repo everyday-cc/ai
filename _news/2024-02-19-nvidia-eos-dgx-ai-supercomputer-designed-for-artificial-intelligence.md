@@ -136,6 +136,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Google's Gemma is now optimized for NVIDIA's AI platforms"
+    excerpt: "This system lets users have access to generative AI capabilities on their own local PCs, provided they’re using an NVIDIA RTX GPU. This system effectively allows users to provide local files on their PC to a local AI in order to personalize the experience."
+    publishedDateTime: 2024-02-21T16:30:00Z
+    webUrl: "https://www.shacknews.com/article/138819/nvidia-google-gemma-optimization"
+    ampWebUrl: "https://www.shacknews.com/article/138819/nvidia-google-gemma-optimization?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138819/nvidia-google-gemma-optimization?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 59
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/02/21/nvidia-google-gemma-optimization_feature.jpg"
+        width: 1280
+        height: 680
+        isCached: true
   - title: "SoftBank Bets $100 Bn on AI Chips, Takes Aim at NVIDIA"
     excerpt: "Competing in the AI dominance race, SoftBank's CEO, Masayoshi Son, has announced a plan to gather a whopping $100 billion for his AI project."
     publishedDateTime: 2024-02-19T09:45:00Z
@@ -187,6 +203,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "Nvidia's 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
+    excerpt: "Nvidia Corp. posted stronger-than-expected results for its latest quarter, more than tripling its revenue from a year earlier."
+    publishedDateTime: 2024-02-21T22:09:00Z
+    webUrl: "https://www.clickondetroit.com/business/2024/02/21/nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 43
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7CNQF6R5YRE3LD4YNPKP7WXVBY.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
+        isCached: true
   - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
     excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
     publishedDateTime: 2024-02-20T05:59:00Z
@@ -266,20 +296,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
-  - title: "Nvidia's 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
-    excerpt: "Nvidia Corp. posted stronger-than-expected results for its latest quarter, more than tripling its revenue from a year earlier."
-    publishedDateTime: 2024-02-21T22:09:00Z
-    webUrl: "https://www.clickondetroit.com/business/2024/02/21/nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 26
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7CNQF6R5YRE3LD4YNPKP7WXVBY.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
     excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."
     publishedDateTime: 2024-02-21T15:23:00Z

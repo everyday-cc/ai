@@ -132,6 +132,15 @@ related:
         width: 644
         height: 300
         isCached: true
+  - title: "Andrew Yang and 300 international experts petition for government action on AI deepfakes"
+    excerpt: "A coalition of 300 international experts drafted a letter calling for government action to address the proliferation of deepfakes, urging criminalization and penalties for those involved in their creation and dissemination."
+    publishedDateTime: 2024-02-21T13:18:00Z
+    webUrl: "https://cointelegraph.com/news/andrew-yang-experts-petition-ai-deepfakes"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 10
 
 secured: "1vwgIQ3vSaxZmorDDbLrCyAQEMURElbISira71upZeY1cp9AoCyzGZXxXmkEVjeK4dhqZ1wmrsgMuUABECxBoF9DOrz6Xcx/W0+caXxDPxSyv6tctLhafM67Ve2aI/BxHP4JUEaipzwlhdZp58E6dKQE3kDzqRaG+dm5R7yF8RttryQ711uQ7QsvGGQgaMb/qtwt5ie9NBq5S1UVMYJHxdVe+QhDVj07skauad6ZErVOAvg8NNpKAEbhZIfwEtYkwcQnwX0yeQv+TYOTN/TNKPtA5s5dOgVfBZDJyp8m49bSVQkB5B7ZT813oeaxRoNF+7FnfolQoJ+3Yex7Ed28yn43xCOgCMcui5arksXqw2XqyvjQP/88+MvSLsdYP6UX4i/d6ZcJzr8WgI++NyFB09lLnMCVceKDqClysrBfTQkAybkskMoO6aw5X6SaAxnqP1Ld+eoIkPqNtJJopmfSjRGTmpVnf0Fp5c4jMBaZh+FOCoiTOdXe3yuo9e4s5dhSPNSZRRcJ6fCY9e1KnAxIhw==;VP38TdZM+akZmM31OSASxw=="
 ---

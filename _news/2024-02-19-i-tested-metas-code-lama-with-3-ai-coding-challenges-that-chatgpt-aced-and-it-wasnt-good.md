@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tested-metas-code-lama-wi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/"
 type: article
 quality: 95
-heat: 225
+heat: 215
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://i.insider.com/65d62092a3bd891424f8e2e6?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "New AI-video Tool By Maker Of ChatGPT Worries Media Creators"
-    excerpt: "A new artificial intelligence tool that promises to create short videos from simple text commands has raised concerns along with questions from artists and media professionals."
-    publishedDateTime: 2024-02-17T01:30:00Z
-    webUrl: "https://www.barrons.com/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
-    ampWebUrl: "https://www.barrons.com/amp/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
         isCached: true
   - title: "ChatGPT Stock Predictions: 3 Artificial Intelligence Companies the AI Bot Thinks Have 10X Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) stocks are a shining example of potential. They"

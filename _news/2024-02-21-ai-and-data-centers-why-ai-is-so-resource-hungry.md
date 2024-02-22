@@ -133,6 +133,15 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 19
+  - title: "Andrew Yang and 300 international experts petition for government action on AI deepfakes"
+    excerpt: "A coalition of 300 international experts drafted a letter calling for government action to address the proliferation of deepfakes, urging criminalization and penalties for those involved in their creation and dissemination."
+    publishedDateTime: 2024-02-21T13:18:00Z
+    webUrl: "https://cointelegraph.com/news/andrew-yang-experts-petition-ai-deepfakes"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 10
 
 secured: "vE0sohDL6VlcGTYuyfgdtmExY1188auuz03laMC09v30D2D6v/VEBT8jprmf13bgYkOlCSGWe8nVIgN2XKM0K01brbKl2Ja8OchZqmcruc6OE7c6Vgymkgg2WZ2/JQaXQ0N1/Av5e+GOnoSkg8wPwMQ21uOLAbpBrg2TUTTsowDFPTIya8snO59vY1W/5Z10pkvj4DXueFEmPYLxxW14Eub7mALD83cIHvEA9QL6pgkT+MpxZIsDafoECCtqQzg+9wtRlBdd0hmLhduGJMygKFqrWbk5A7vMniaGOjXWln961xiNNdlGrSZnJcBwyxULiH7jQgAD7O7q2VnPm1r32arNIOkhqcNof0rpIwcofQM=;/bj6/9FKCzF8LhBfb4lkuA=="
 ---

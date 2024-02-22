@@ -2,6 +2,59 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2024-02-03-nvidia-h100-ai-gpus-might-cost-3-to-6-times-as-much-as-amds-mi300s.md",
+      "title": "Nvidia H100 AI GPUs might cost 3 to 6 times as much as AMD's MI300s",
+      "excerpt": "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: The two GPU rivals may argue over who has the more powerful AI acceleration graphics card, but there's no doubt about which hardware is more expensive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101748-enormous-price-difference-develops-between-amd-nvidia-hpc.html",
+      "originalUrl": "https://www.techspot.com/news/101748-enormous-price-difference-develops-between-amd-nvidia-hpc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-12-image-4.jpg",
+          "width": 3558,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T07:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-02-03-driverless-cars-covered-5x-more-test-miles-in-california-in-2023.md",
       "title": "Driverless cars covered 5x more test miles in California in 2023",
       "excerpt": "Completely driverless vehicles traveled nearly 3.3 million miles in California last year, over five times the previous year's total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Friday showed.",
@@ -1107,40 +1160,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-bell-and-mila-to-study-how-deep-learning-ai-can-improve-business-performance.md",
-      "title": "Bell and Mila to study how deep learning AI can improve business performance",
-      "excerpt": "Mila researchers will work alongside Bell's Machine Learning and AI teams to build on those investments by using cutting-edge deep learning neural network techniques to identify opportunities for improving business performance and customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/02/9956506.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/02/9956506.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T13:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

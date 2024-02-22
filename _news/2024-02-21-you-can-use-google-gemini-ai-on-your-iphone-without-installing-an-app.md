@@ -131,7 +131,7 @@ related:
     provider:
       name: AOL
       domain: aol.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/Z7HaBhbctZHrI8.YHsL56A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1769aab6fe9ba6d4e7ddbd553254d06a"
         width: 1200

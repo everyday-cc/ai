@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-22-nvidia-artificial-intelligence-at-tipping-point-boss-says.md",
+      "title": "Nvidia: Artificial intelligence at 'tipping point' boss says",
+      "excerpt": "The boss of the world's most valuable chip maker Nvidia says artificial intelligence (AI) is at a \"tipping point\" as it announced record sales. Chief executive Jensen Huang's comments came as the technology giant posted record figures for the most recent quarter, after revenues surged by 265% to $22bn (£17.4bn) from a year earlier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-68366467?at_bbc_team=editorial&at_campaign_type=owned&at_format=link&at_link_id=37E5697E-D11B-11EE-8422-ED8E4B3AC5C4&at_link_origin=BBCTech&at_link_type=web_link&at_ptr_name=t",
+      "originalUrl": "https://www.bbc.com/news/business-68366467?at_bbc_team=editorial&at_campaign_type=owned&at_format=link&at_link_id=37E5697E-D11B-11EE-8422-ED8E4B3AC5C4&at_link_origin=BBCTech&at_link_type=web_link&at_ptr_name=t",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F348/production/_132708226_gettyimages-1825461801-1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-68366467.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68366467.amp",
+      "publishedDateTime": "2024-02-22T01:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-stakeholders-to-discuss-trust-security-and-privacy-in-ai-era.md",
       "title": "Stakeholders to Discuss Trust, Security and Privacy in AI Era",
       "excerpt": "Blockchain and the FinTech society have managed to create a new world that is much more inclusive, and full of opportunities. Based on a report by Gartner, which predicted that by 2024, 40 per cent of privacy compliance technology will rely on AI ...",
@@ -43,49 +94,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-synopsys-expects-strong-second-quarter-on-ai-powered-chip-design-demand.md",
-      "title": "Synopsys Expects Strong Second Quarter on AI-Powered Chip Design Demand",
-      "excerpt": "Synopsys, which partners with chipmakers including Taiwan Semiconductor Manufacturing Co, Intel, and Samsung Electronics, expects second-quarter revenue to be in a range of $1.56 billion to $1.59 billion, the mid-point of which is above analysts' average estimate of $1.55 billion, according to LSEG data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2024-02-21/synopsys-expects-strong-second-quarter-on-ai-powered-chip-design-demand",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2024-02-21/synopsys-expects-strong-second-quarter-on-ai-powered-chip-design-demand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T22:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {

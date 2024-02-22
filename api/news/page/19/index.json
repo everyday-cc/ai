@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-06-forget-nvidia-these-2-artificial-intelligence-ai-stocks-are-still-historically-cheap.md",
+      "title": "Forget Nvidia: These 2 Artificial Intelligence (AI) Stocks Are Still Historically Cheap",
+      "excerpt": "Artificial intelligence (AI) could add $15.7 trillion ... For now, Meta's social media sites are its bread and butter. Facebook, Instagram, WhatsApp, and Facebook Messenger are consistently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/06/forget-nvidia-2-ai-stocks-still-historically-cheap/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/06/forget-nvidia-2-ai-stocks-still-historically-cheap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T04:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-singapore-ai-fintech-investment-surges-in-h2-despite-global-funding-winter-kpmg.md",
       "title": "Singapore AI fintech investment surges in H2 despite global funding winter: KPMG",
       "excerpt": "FUNDING for artificial intelligence (AI) technologies in Singapore’s fintech sector surged 77 per cent in the second half of 2023, despite a global decline in fintech investments amid economic uncertainties.",
@@ -1043,49 +1086,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications.md",
-      "title": "Dynatrace unveils AI Observability solution to benefit LLMs and generative AI-oriented applications",
-      "excerpt": "From what it’s understood, it also supports platforms for building, training, and delivering AI models, including Microsoft® Azure OpenAI Service, Amazon® SageMaker, and Google® AI Platform. Reportedly, Dynatrace AI Observability leverages the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications-3384617/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications-3384617/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-05T133449.796.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications-3384617/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications-3384617/lite/",
-      "publishedDateTime": "2024-02-05T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

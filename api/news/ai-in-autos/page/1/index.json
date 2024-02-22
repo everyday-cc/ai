@@ -201,6 +201,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-15-important-nvda-guidance-released.md",
+      "title": "Important NVDA guidance released",
+      "excerpt": "Artificial intelligence chipmaker Nvidia (NVDA) has surpassed $700/share and is now up 52% in 2024. Stephen McBride just issued guidance for Disruption Investor members on what to do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mauldineconomics.com/editorial/important-nvda-guidance-released",
+      "originalUrl": "https://www.mauldineconomics.com/editorial/important-nvda-guidance-released",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20240214_feature.jpg",
+          "width": 725,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.mauldineconomics.com/editorial/amp/important-nvda-guidance-released",
+      "cdnAmpWebUrl": "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/important-nvda-guidance-released",
+      "publishedDateTime": "2024-02-15T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MauldinEconomics.com",
+        "domain": "mauldineconomics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.md",
       "title": "Waymo issues a voluntary recall on its self-driving vehicle software",
       "excerpt": "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self ...",
@@ -1311,49 +1354,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-researchers-predict-more-autonomous-vehicles-by-2030-better-adas-tech-needed.md",
-      "title": "Researchers predict more autonomous vehicles by 2030, better ADAS tech needed",
-      "excerpt": "ABI Research has reviewed the current state of autonomous driving technology within the automotive industry in conjunction with artificial intelligence (AI), high-performance computing, mapping,",
-      "sourceUrl": null,
-      "webUrl": "https://www.repairerdrivennews.com/2024/02/07/researchers-predict-more-autonomy-use-by-2030-better-adas-tech-needed/",
-      "originalUrl": "https://www.repairerdrivennews.com/2024/02/07/researchers-predict-more-autonomy-use-by-2030-better-adas-tech-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.repairerdrivennews.com/wp-content/uploads/2024/02/iStock-1437737518.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Repairer Driven News",
-        "domain": "repairerdrivennews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

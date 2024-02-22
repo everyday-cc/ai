@@ -124,6 +124,20 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "Google debuts Gemini for Business as tech firms seek to monetize AI investments"
+    excerpt: "So far, Microsoft has managed to illustrate that point to investors, saying AI services contributed 6 percentage points of growth to Azure revenue in its latest quarter. That's an increase from 3 percentage points in the prior period. Revenue for the ..."
+    publishedDateTime: 2024-02-21T10:00:00Z
+    webUrl: "https://www.aol.com/finance/google-debuts-gemini-business-tech-150044844.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Z7HaBhbctZHrI8.YHsL56A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1769aab6fe9ba6d4e7ddbd553254d06a"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "You can use Google Gemini AI on your iPhone without installing an app"
     excerpt: "It turns out you don’t have to be an iPhone 15 owner to get that sort of speedy generative AI experience. There’s an iPhone shortcut for Google Gemini that lets you use the chatbot without installing the Google app in the first place. iPhone shortcut developer ProCreations came up with the shortcut called Gemini Chat."
     publishedDateTime: 2024-02-21T01:47:00Z
@@ -137,20 +151,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-3.jpg?quality=82&strip=all"
         width: 1600
         height: 816
-        isCached: true
-  - title: "Google debuts Gemini for Business as tech firms seek to monetize AI investments"
-    excerpt: "So far, Microsoft has managed to illustrate that point to investors, saying AI services contributed 6 percentage points of growth to Azure revenue in its latest quarter. That's an increase from 3 percentage points in the prior period. Revenue for the ..."
-    publishedDateTime: 2024-02-21T10:00:00Z
-    webUrl: "https://www.aol.com/finance/google-debuts-gemini-business-tech-150044844.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 35
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/Z7HaBhbctZHrI8.YHsL56A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1769aab6fe9ba6d4e7ddbd553254d06a"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Google rebrands Duet AI in Workspace to Gemini with new Business and Enterprise plans"
     excerpt: "As teased earlier this month, the Gemini rebrand is now coming to Duet AI in Gmail, Drive, Docs, and other Google Workspace apps."

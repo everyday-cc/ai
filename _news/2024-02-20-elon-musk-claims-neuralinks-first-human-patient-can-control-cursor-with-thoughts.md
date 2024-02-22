@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/health-fitness/150963/elon-musk-claims-neural
 webUrl: "https://uk.pcmag.com/health-fitness/150963/elon-musk-claims-neuralinks-first-human-patient-can-control-cursor-with-thoughts"
 type: article
 quality: 64
-heat: 106
+heat: 104
 published: true
 
 provider:
