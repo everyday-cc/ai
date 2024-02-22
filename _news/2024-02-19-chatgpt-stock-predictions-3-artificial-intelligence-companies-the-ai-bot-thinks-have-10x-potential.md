@@ -123,6 +123,15 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "Groq AI's LPU: The breakthrough answer to ChatGPT's GPU woes?"
+    excerpt: "He said GPU systems still have a place when talking about running smaller ... Despite being created in 2016 with the name trademarked shortly after, Elon Musk’s own AI chatbot “Grok” only appeared on the scene in November 2023 and became widely ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/groq-breakthrough-answer-chatgpt"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 51
   - title: "Forget ChatGPT — Groq is the new AI model to beat with blistering computation speed"
     excerpt: "Groq (not to be confused with Elon Musk’s Grok chatbot — and no they aren’t too happy with the similar names) specializes in developing high-performance processors and software solutions for AI, machine learning (ML), and high-performance computing applications."
     publishedDateTime: 2024-02-20T15:54:00Z

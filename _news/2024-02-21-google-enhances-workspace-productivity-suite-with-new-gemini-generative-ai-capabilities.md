@@ -124,6 +124,17 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "Google's Gemini AI accused of acting too 'woke', company admits mistake"
+    excerpt: "The row erupted after a user pointed out that Gemini, earlier known as Bard, was showing inaccurate images when asked to furnish certain information"
+    publishedDateTime: 2024-02-22T10:53:00Z
+    webUrl: "https://www.business-standard.com/companies/news/google-s-gemini-ai-accused-of-acting-too-woke-company-admits-mistake-124022200663_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/google-s-gemini-ai-accused-of-acting-too-woke-company-admits-mistake-124022200663_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/google-s-gemini-ai-accused-of-acting-too-woke-company-admits-mistake-124022200663_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
   - title: "Google debuts Gemini for Business as tech firms seek to monetize AI investments"
     excerpt: "So far, Microsoft has managed to illustrate that point to investors, saying AI services contributed 6 percentage points of growth to Azure revenue in its latest quarter. That's an increase from 3 percentage points in the prior period. Revenue for the ..."
     publishedDateTime: 2024-02-21T10:00:00Z
@@ -218,6 +229,6 @@ related:
         height: 832
         isCached: true
 
-secured: "MLXY9mUMh2b0ClUXmqQB4YRid+hqeBe0GMdJ9NJFs0j98Fhq5Ucy+7OVK7qVHFsPKlDIp8OatgAy2ai30sCP3vMFaLhn+/UQE1bMdeohi0hVUbSWqnv+DXN5FNO7YJ4OoGocp2Car0VBiiU4rdAwdbsTpTGrC4g806EMlagnO2YY4Xs7BcxyXt//fiVD3Fso35+yc8NSX+PkODSE57Av/MyyJjhLfE0Kotam00//vQw0x7XqLNL0Q4Mw84oeHPAGaPpmSAXE9niSWX0ZN8mDK8B78keC9xm6z7BZDxdJ69tIzTcFpiKfrZmxlkPtzBCCVjBp2JKeCE5W32f39eFn5dhLz3/5AGjYI1YK/UqAKCw=;83seiLfvz65rRz1m2SVXWw=="
+secured: "h5kgdz4ZUm2z0x7p7kiQWzdoIiG1UgyhSnPsD1VlqODtZEXKd6GzIAaaIFsrGAeyb4uyiHKCoc/uG9o+87qKxdnMjuhsPFPzIet1DDBb8b1vrGGCdep0si3hQRv1pPcAFWEum93I7Mb+KV3byvoV3PT4CGJDfqbJ6k1qd0Rc4w7F3q4zbqjSGo7Qg8AQ0ric/DYNETQchVzw+kRn4CkmwfKbtGCJXzhq6eZP76vkwFF7kQTKBNS4kIY7xdq0+PybKa5nCHt+p0O9tzNrqlkYa7kaso2PmXDL/r5gVRMLjlC19CML0R5ZyLKbY5MSO5GuEtDu7kTpKJ/tmuJ8hU84Zp7AS8F0/YZMtFQXZFzn7ll47jUaFVL7mun1orPE10QwZ/wwbmKq0vphu5u+l2YD5hx38JfteMmC4OeXk3hT/GdAx1s1UwN6wRWGpQtSloUdnfQeoWs50fqrkESJgaLjX9rBlawVulpTfonGKunbNyXOiL6+0yiTxuDdeoJfmEq4QrIfK1SykduyjPYLQ1PqjA==;m61I8fHtQrUPy2zXRfaIBg=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 4000
         height: 3000
         isCached: true
+  - title: "2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run"
+    excerpt: "TSMC's revenue in January 2024 increased substantially, and the trend is here to stay thanks to the robust demand for AI chips. SoundHound AI shares have shot up big time of late, and the company's potential growth could help it sustain the rally."
+    publishedDateTime: 2024-02-22T05:25:00Z
+    webUrl: "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/765982/artificial-intelligence-ai-on-circuit-board.jpg"
+        width: 2359
+        height: 1270
+        isCached: true
   - title: "My Top 5 AI Stocks"
     excerpt: "2024 is getting off to a hot start. The major averages are up nicely, with the S&P 500 and the Nasdaq composite up by about 5%. Moreover, these advances were over significant gains last year. Thus, it should be a solid year for many high-quality stocks."
     publishedDateTime: 2024-02-20T08:25:00Z
@@ -76,15 +90,6 @@ related:
         width: 3000
         height: 1999
         isCached: true
-  - title: "Forget Nvidia: These 3 Artificial Intelligence (AI) Stocks Can Be the Next Stock-Split Stocks"
-    excerpt: "At the moment, nothing is garnering the attention of professional and everyday investors quite like artificial intelligence (AI). AI, which involves the use of software and systems to oversee tasks normally overseen by humans, has application across almost ..."
-    publishedDateTime: 2024-02-20T20:40:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AVGO/pressreleases/24196240/forget-nvidia-these-3-artificial-intelligence-ai-stocks-can-be-the-next-stock-split-stocks/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 21
 
 secured: "i4ImqU+kBIUqfPN6b5dJc6ny1Y85C7XvCLRGEPtTrcN0spqJjJisNYbWLmrLjSUVxBZJGoxn9hRepBEunn0ZL0kn6ZZrQtwDax+l8guTVHdLNN9DHUgAAWOyEt/3SZLS2spupTFnqOhHqHYKXSDnZaFQpuFE0/4lPc/BZA6yoNmuhaUcIFYSeqcnf2UagEykE8rsbcfIxuWKk4QgLmMwvTimgVFOUNQ44EuJ3nJrnJ13rmufHUnnAbxch//rZlffl6sVm6jxEUTtdVmrBpHjBlZoL8JVvGq8aZXxXnrPcAcYZcEziOoJx0wbYlwLX35GjxhDGyDgD8X+bDjTxgenRX2fglEd7T//VXHfj9j3ABw=;NXIvzwifEbUCYZH5Ale6Cg=="
 ---

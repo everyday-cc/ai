@@ -7,7 +7,7 @@ originalUrl: "https://www.techopedia.com/google-gemini-1.5-tokens-race"
 webUrl: "https://www.techopedia.com/google-gemini-1.5-tokens-race"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - Google AI
   - AI
   - Microsoft AI
+
+related:
+  - title: "ChatGPT-4 vs Gemini Ultra identical prompt results comparison"
+    excerpt: "Learn more about the differences between ChatGPT-4 vs Gemini Ultra in this battle of identical prompt results. Compared to see which AI model"
+    publishedDateTime: 2024-02-22T09:31:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-4-vs-gemini-ultra/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/ChatGPT-4-vs-Gemini-Ultra-.jpg"
+        width: 1280
+        height: 744
+        isCached: true
 
 secured: "IhDgNRK57vv38UwdBV5CYpJvOwD4bpDVCe33y9yrcXstkmmAWNjg0fZ+7D6FO2TS3x0rD4kpBSNuQBnQyWedv9EW16jHVAwH+TC1gqhMJPcB34fwb0WACr/SpoHuDIJG67k1zLnpdBa6qppZHH0BEyTSVFWrGCWtsS6MD47ChL+cDL42NEViLFx8Xv2U2ql6S8LMM6UTTKMNvw+KtMRmNvQUIZt+6is8o08m17dRLyYZ3nwkb628ouJ6q5OM+YLHaBEQXbSOqKqWdHNZKg8XhWOEYnVaV4MJoNbetMQIOAef5PhbcPwfq01KBXG3T2RvU+TSfVUdEgBghFy9lHZyhvmG1L3prtIDGMbgxje+Ytc=;RWxqF8QQz4HYqNa1OfwOSg=="
 ---

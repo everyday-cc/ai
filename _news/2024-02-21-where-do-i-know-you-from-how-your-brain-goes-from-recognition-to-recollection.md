@@ -71,6 +71,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Facial recognition will feature at many airports moving forward"
+    excerpt: "These include the use of facial recognition software to speed up the pre-check and verification process of passengers, which has been utilised in some way since 2019 by the TSA. It is set to ..."
+    publishedDateTime: 2024-02-19T11:43:00Z
+    webUrl: "https://htxt.co.za/2024/02/19/facial-recognition-will-feature-at-many-airports-moving-forward/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 54
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2024/02/tusik-only-yOd-gjE7D68-unsplash.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Ohio continues facial-recognition searches using controversial photo-collection firm Clearview AI"
     excerpt: "COLUMBUS, Ohio—State crime investigators’ use of facial-recognition software, once put on hold because of civil-liberties concerns, could now continue through at least 2025 with the help of a company that has faced multiple lawsuits over claims it ..."
     publishedDateTime: 2024-02-21T10:08:00Z

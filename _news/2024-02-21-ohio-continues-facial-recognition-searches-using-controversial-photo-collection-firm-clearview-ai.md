@@ -87,6 +87,20 @@ related:
         width: 1280
         height: 871
         isCached: true
+  - title: "Facial recognition will feature at many airports moving forward"
+    excerpt: "These include the use of facial recognition software to speed up the pre-check and verification process of passengers, which has been utilised in some way since 2019 by the TSA. It is set to ..."
+    publishedDateTime: 2024-02-19T11:43:00Z
+    webUrl: "https://htxt.co.za/2024/02/19/facial-recognition-will-feature-at-many-airports-moving-forward/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 54
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2024/02/tusik-only-yOd-gjE7D68-unsplash.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI hardware startup Recogni raises $102M for self-driving solutions"
     excerpt: "Object detection requires a great deal of data taken from video and other sensors and Recogni’s hardware allows for more rapid recognition. The company said that its chips allow for higher computational power at lower energy use, meaning higher efficiency."
     publishedDateTime: 2024-02-20T17:05:00Z

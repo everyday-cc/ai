@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-
 webUrl: "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818"
 type: article
 quality: 51
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Following the meteoric rise of AI stocks in 2023, investors are searching for"
     publishedDateTime: 2024-02-20T10:30:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-penny-stocks-that-could-lead-to-a-life-of-riches-1033082410"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "The Best 7 Tech Stocks to Buy for AI Cloud Exposure"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Cloud AI combines the power of artificial intelligence with the power of cloud"
+    publishedDateTime: 2024-02-22T03:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-best-7-tech-stocks-to-buy-for-ai-cloud-exposure-1033090179"
     type: article
     provider:
       name: Business Insider

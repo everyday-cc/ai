@@ -25,6 +25,17 @@ images:
     height: 1125
     isCached: true
 
+related:
+  - title: "AI's Current And Future Impacts On Construction"
+    excerpt: "As we've been hearing across the media landscape, AI is here to stay. While most people are aware of the digital-first uses of AI for things like ChatGPT and NFL analytics, AI has and will continue to transform traditional industries like construction as well."
+    publishedDateTime: 2024-02-21T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/ais-current-and-future-impacts-on-construction/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+
 secured: "2cdLy+1m803VgxQyD2l/mH4eqOb6FAlu+iZHUV9LjUw/S6/qHsGzxmh3gyu3GzPOOm/YhZD2hB/RhXxJHY45Cblf+trcnzX5S21nuPX16p8cy55tsws4gQ+O1+BrhTW0B1rZ2opRCJRbIhTcDKMaYnomszTgAPdv5dQkR5vHE5eeYkqW6jPbcCgC4azFLWZ2EdQaaxHI/rdN5BjJdlyirlYQGrJvj78YtuSeZO/1E0sHx/kB/vi5idjOYK76FDZMdeNXsrWHUrxMrsd/xr5UqfPQw9cTZDWvogzXsJ6eU6Y/NOJPlkxaaxMU/LK+MsW2OgO+pW15M2OipMGtk+7NZoR1TDcX+D+z+duXf5fqlyZMS5ieSsggiJbHFXK/RZ3065dQKimwglzYs26vXk/GAjHQWOJ7dXQ5qXcA5Ylq0ApK6yRb7Ch7vrbROEmPMd4RR4jQ1tTut+jfimoKF8kRbA3X+PToJmo9ODMU+tixXfRU+ozO0BS5uGBAL66J73/Otul6mwgx25t7JbP7/cnnVg==;cvDW8SzLY1/ifWu7Rwn2uw=="
 ---
 

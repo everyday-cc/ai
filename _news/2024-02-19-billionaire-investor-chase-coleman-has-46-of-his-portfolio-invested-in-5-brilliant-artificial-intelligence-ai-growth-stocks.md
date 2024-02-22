@@ -38,6 +38,20 @@ related:
         width: 4000
         height: 3000
         isCached: true
+  - title: "2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run"
+    excerpt: "TSMC's revenue in January 2024 increased substantially, and the trend is here to stay thanks to the robust demand for AI chips. SoundHound AI shares have shot up big time of late, and the company's potential growth could help it sustain the rally."
+    publishedDateTime: 2024-02-22T05:25:00Z
+    webUrl: "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/765982/artificial-intelligence-ai-on-circuit-board.jpg"
+        width: 2359
+        height: 1270
+        isCached: true
   - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
     excerpt: "A boom in artificial intelligence (AI ... AI can potentially boost countless industries, from healthcare to consumer tech, education, e-commerce, cloud computing, autonomous vehicles, and much more. With growth catalysts across multiple sectors, it ..."
     publishedDateTime: 2024-02-21T18:20:00Z
@@ -75,15 +89,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 33
-  - title: "Forget Nvidia: These 3 Artificial Intelligence (AI) Stocks Can Be the Next Stock-Split Stocks"
-    excerpt: "At the moment, nothing is garnering the attention of professional and everyday investors quite like artificial intelligence (AI). AI, which involves the use of software and systems to oversee tasks normally overseen by humans, has application across almost ..."
-    publishedDateTime: 2024-02-20T20:40:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AVGO/pressreleases/24196240/forget-nvidia-these-3-artificial-intelligence-ai-stocks-can-be-the-next-stock-split-stocks/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 21
 
 secured: "IJQEbqYNdSAF0Qvx7aHnO36fW3DInvGtdoE8TfQsWzpTXFyNLA8MTKCHuhGomHjvvp5nKykSKcVqqkQBBzpjLLxJiYvmOwG2jlP5CnJt86BVX7K7M5uUc+kkY91KV0tCYCKkYLFRIeJMLKcy+KMXHdrY27apkenJak68itH5zNQ0SufJhXxCfdG1PFyPJ7kqISoJ/nTATti+czsSGsCnXy+zZ4FGtZ+6oKlwBuc1n1UX2XLZevDRVB+gdHXY1Ty7B8CLqrXsRy0plQM++wD2EM5wnxYq9xTrRoY1Cq2vIqrvMWZ0ubbsr9dCrxb7gO+UX6haHB08QUwmdij+JAF4buEZCOjaQn3xb9g+Ejl3Ag0=;6o+PNxKXxchz9zvcfaMniA=="
 ---

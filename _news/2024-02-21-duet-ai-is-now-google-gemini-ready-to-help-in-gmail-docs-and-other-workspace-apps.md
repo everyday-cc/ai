@@ -124,6 +124,17 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "Google's Gemini AI accused of acting too 'woke', company admits mistake"
+    excerpt: "The row erupted after a user pointed out that Gemini, earlier known as Bard, was showing inaccurate images when asked to furnish certain information"
+    publishedDateTime: 2024-02-22T10:53:00Z
+    webUrl: "https://www.business-standard.com/companies/news/google-s-gemini-ai-accused-of-acting-too-woke-company-admits-mistake-124022200663_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/google-s-gemini-ai-accused-of-acting-too-woke-company-admits-mistake-124022200663_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/google-s-gemini-ai-accused-of-acting-too-woke-company-admits-mistake-124022200663_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
   - title: "Google debuts Gemini for Business as tech firms seek to monetize AI investments"
     excerpt: "So far, Microsoft has managed to illustrate that point to investors, saying AI services contributed 6 percentage points of growth to Azure revenue in its latest quarter. That's an increase from 3 percentage points in the prior period. Revenue for the ..."
     publishedDateTime: 2024-02-21T10:00:00Z

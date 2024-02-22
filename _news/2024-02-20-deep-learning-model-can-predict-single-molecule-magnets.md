@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Deep Learning Model Can Predict Single-Molecule Magnets"
-excerpt: "In response, scientists are increasingly turning to deep learning methods which involve developing and training machine learning models to recognize patterns and relationships in data that include information about material properties, compositions ..."
-publishedDateTime: 2024-02-20T00:00:00Z
-originalUrl: "https://www.technologynetworks.com/applied-sciences/news/deep-learning-model-can-predict-single-molecule-magnets-384009"
-webUrl: "https://www.technologynetworks.com/applied-sciences/news/deep-learning-model-can-predict-single-molecule-magnets-384009"
+excerpt: "The method identifies magnetic materials solely based on their crystal structure, eliminating the need for time-consuming experiments and simulations."
+publishedDateTime: 2024-02-20T10:33:00Z
+originalUrl: "https://www.technologynetworks.com/tn/news/deep-learning-model-can-predict-single-molecule-magnets-384009"
+webUrl: "https://www.technologynetworks.com/tn/news/deep-learning-model-can-predict-single-molecule-magnets-384009"
 type: article
 quality: 39
 heat: 39
@@ -35,6 +35,6 @@ related:
       domain: genengnews.com
     quality: 19
 
-secured: "VEscpoMPlgznBBX1683j6vQAVDeGxF2OQIH2WdaGwvpjeiBKOB3qm8ArYG+An2hitUmdKGCby88NrVSjHxgfVDXQZb1WF/T1ygpDmL57XvuglnS7jRnY5+XltC/zxl8Y2C0EyeKUBTxFw2+YyBFs6IZF8owO3erfxIBs21oZMu8o14ar+P9uLaDnUeU+jNUCkK0sK4t1+wuSsHLXJbcepsEcAl+LNBgmaGaXJhfbe3kkshMCuHW7N7fx/b8yNstJcsQb+VH8+JJyttUQfStUNQsJ3ARXq5i87pFAI53TEwXQy32rsqljLAJWzk5Xdg/i4SLUjR+NGX/tEY+Cy0OTPDHFm2UIlngWghoF/J8gpNui4otOtJFpJpVCpXGSF/YNuAxr4Sv0znj2GkicIrQxrOnTWKA8j0fy7XBNtWLWF2D9ZVYSN1u/Wq0TmV/1U+6leNbKX9w713dUNpY+uM+kwlkwcrt+MSGrvuQObGot+FtYOg9hUFfBu2XtaNcXds2Lr3lOdrsESEv4FG3ePKmSeA==;T63snzYURygit+DQj7dxLg=="
+secured: "2KgOtNyr4dcf86c3fNkIesB6k0nES5wLdWwdlfY0b0mps/BHIPEKxAGzIiwoBmI+2sD9BeFJ+bmidsXetxKrtiF/1eVmYjHsttNS28ZZq4jhj1R+06W1kK5dYe62O/rnpz2zlTwX7Vu5aHjb9fXEnKEDh9P0w+YMG6KybIKaO13AZUrr/PH/FF92/DhjXuW3Yn/u5Kk7z3LXYv3I+p8HwS1js8AMzrDvk0WXo2G+zblLYa3tscZLilIpkEC+VG1CEMwSGwYA0c/oVwhOpiFyNE42NJW4+eDy+lzLUopKQLyHfK0oHwE5Tx+p/NRr31b4FrXm7wTPQlvXAJZsK+peID8TQSK6i/D3AEhs8LZC1XY=;gXou+Fl1FNSYvir86k/GgA=="
 ---
 

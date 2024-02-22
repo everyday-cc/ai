@@ -19,36 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "AI’s pivotal role in shaping the future of finance in 2024 and beyond"
-    excerpt: "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points"
-    publishedDateTime: 2024-02-17T10:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
+  - title: "How Machine Learning Is Reshaping Business in 2024"
+    excerpt: "Discover how machine learning revolutionizes business in 2023, driving innovation and efficiency. Stay ahead of the game with AI tech."
+    publishedDateTime: 2024-02-20T10:23:00Z
+    webUrl: "https://www.imd.org/reflections/how-machine-learning-is-reshaping-business-in-2023/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
+      name: IMD business school
+      domain: imd.org
+    quality: 39
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-16T181908.967.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI and Robotics to Play Key Roles in Space Exploration"
-    excerpt: "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us."
-    publishedDateTime: 2024-02-19T14:52:00Z
-    webUrl: "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 69
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg"
+      - url: "https://www.imd.org/wp-content/uploads/2022/11/IMD-Logo-Blue-on-White-safe-space-RGB-1200x630-1.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "Smiling is the secret to seeing happiness, new research reveals"
+    excerpt: "Smiling for just a split second makes people more likely to see happiness in expressionless faces, new research has revealed. The study shows that even a brief weak grin makes faces appear more joyful."
+    publishedDateTime: 2024-02-21T02:48:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/02/240220144340.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "pU8e0BhgtOGAsxOxsG0Gh4+lzJ+mUmocPRdw5X8vk1efQOfld4kI+bwFFJkdtS5gGXOVFZZqZ4MVL8u25fmZFXD+k/xf7O65J9VD8Bv+qVFDxUkOzeu5zy6doW9jyHgWTUBQ/PyMtWajJIlOyes/4ErKsPn3xhIFKbprHTi30trGQ73KigHY62nQefTLBFU6t+I3GINfZYG62YnZ9jP1n1lDdwaQX5AIXyxnMYSEWtRei1YdXIfzvKoUbZeMts06giuqa8CHuqbiy+4SLz3WGlmhCQpeduR7SnxbYaa3J9v/MxjzCqRWQxE6ciZXVxNmRojCrjvxwG0WHiJyE4UjxO3BISb6zVbcPPZCaK9rdJSkqBfDx+eytmsb5nXBUFD3gXtxx4xoRsQXE8FJAvIPaKZa71/7gpX+NSKL/xkzy6423tsJYgJLh+I4vi1SaXfDcgblg61ExrvNIZuXGazfQA+3679oCChaRpdaMX8VVVQ3K3Clnk6w8xB+djy7vWrVdwK7zeMCe/HgMrY/Tljeig==;2a2LcA8rmbc12zny295uSQ=="
 ---

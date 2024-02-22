@@ -33,34 +33,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "BESI exceeds fourth-quarter targets on demand for AI-related chipmaking parts"
-    excerpt: "Orders and year-end backlog for hybrid bonding — a form of chip packaging required for AI applications — nearly doubled from last year, BESI said, adding that around a half of fourth-quarter orders were for its most advanced hybrid bonding systems."
-    publishedDateTime: 2024-02-22T01:38:00Z
-    webUrl: "https://www.aol.com/news/besi-exceeds-fourth-quarter-targets-063825790.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 51
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/072c9b8dcb97681613cfa65c3ceed2e2"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Artificial Intelligence And The Future Of Creativity"
-    excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
-    publishedDateTime: 2024-02-17T10:10:00Z
-    webUrl: "https://menafn.com/1107863606/Artificial-Intelligence-And-The-Future-Of-Creativity"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/17/DNE_b7162image_story.jpeg"
-        width: 715
-        height: 429
-        isCached: true
 
 secured: "VPg2PEDnUfQ00Jx0ohZPHW9vvxIqVeBcxYDZ0khwNQDeJ51zl4df0XJYdxtVYfckct/aTa5VLlXgtf9MpFeFtFE+bUfdQf/FOfaXHl+Lytd2+NvXloJ0aX8q3ij0OpPZKrN6/1Bl6TQ94crZzeu1a5GtCcl4CmKNMQOmM5MxDvi5bLlicIb3WTiLifsdxLQjGNeydaKQCirT7sSRwqOotnW3XWQGo+S9EgzCrHOngj8q1SlIcMa2vNsiFLlZbutbbdJC5ysMe0hNmxdpHsBwZwpeVmrPNroTV79k6Ay755l6YJXB1HYzEST6bKnxnH/Z91p9ndBBPjNH1fJrJtx9wnHVY9rzBRpni1NVeF3OWSdIFDAKhFyoMfaiqVgb+K/EtIl+Pw6KFOw1wS6MWRNvn1EODfy5JPxCHHaK38x62AW2x5Z/YnLVfV+xYn0kt9zGYKLlCnh7LpdLxRTEE8ViKDVUCULsHJCYhthyVOYeTgPG2Ubc3sBQBQOqNgiJqMAqom1axbUrXrYs3OcHgLXTzg==;M/TQHtbWEfHFJ6oI0yE1sg=="
 ---

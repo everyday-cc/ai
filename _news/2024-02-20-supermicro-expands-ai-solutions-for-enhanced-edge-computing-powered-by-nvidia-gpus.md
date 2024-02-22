@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/37216276"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37216276"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,29 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft develops AI server gear to lessen reliance on Nvidia, The Information reports"
-    excerpt: "Microsoft CEO Satya Nadella has tapped Pradeep Sindhu, who co-founded networking gear developer Juniper Networks, to spearhead the network card effort, the report said citing a person with knowledge of the matter."
-    publishedDateTime: 2024-02-20T18:30:00Z
-    webUrl: "https://www.aol.com/news/microsoft-develops-ai-server-gear-163026760.html"
+  - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
+    excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
+    publishedDateTime: 2024-02-20T05:59:00Z
+    webUrl: "https://www.tweaktown.com/news/96310/nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai/index.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 46
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 40
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/48d82f19bb621e96dabc6afe0e2885c1"
-        width: 800
-        height: 499
+      - url: "https://static.tweaktown.com/news/9/6/96310_01_nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai_full.jpg"
+        width: 1500
+        height: 796
         isCached: true
-  - title: "Nvidia reveals its Eos supercomputer for AI processing sporting 4,608 H100 GPUs"
-    excerpt: "Nvidia has given enthusiasts their first look at Eos, a data-center scale supercomputer designed for AI applications. It first introduced Eos at the Supercomputing Conference in"
-    publishedDateTime: 2024-02-17T15:26:00Z
-    webUrl: "https://www.techspot.com/news/101926-nvidia-finally-reveal-specs-eos-supercomputer-ai-processing.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 45
 
 secured: "dj0FqqmimLTBo+vObeJ5vnWKY1zivH+QmAN8cihYIADtYSEBCugJoJLHTWj5XOgWa/0Ed+Y+zZGVK1TFIECvbnUxi35JekG3TZffOgrDvyHuAW7tT4b+fqXTInzw9GkidKl4K/AuZ+FxLmMIrdBCrSM5tqH9bNTQ4bDiCVaTIm2c0Q683iwzv66RmzdZ6EQhvgnDUcjTk/wrr3gbl0schMyOOTl5Czn69BXeQYci5zBbI2PUGihKtlnVK6SW2gAb5+8rOmO90VHW4+rL+iIDC/jN9qFa2gIZ2SxEN4eN8lpipD2K4pLOXy2HkB9EuwDEyO+/ICqI47yf7+q5vi9jTn7fnDlnVg++0k6vFGBOn/M=;Kr38Pa4FeNlt90pJUMxL1g=="
 ---

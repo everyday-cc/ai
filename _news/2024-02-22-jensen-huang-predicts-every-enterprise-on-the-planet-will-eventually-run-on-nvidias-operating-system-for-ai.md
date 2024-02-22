@@ -1,0 +1,31 @@
+---
+category: news
+title: "Jensen Huang Predicts Every Enterprise On The Planet Will Eventually Run On Nvidia's 'Operating System For AI'"
+excerpt: "Jensen Huang thinks Nvidia's software services make for an \"operating system for AI\" and that it could be a \"significant\" money maker."
+publishedDateTime: 2024-02-22T08:55:00Z
+originalUrl: "https://www.benzinga.com/markets/equities/24/02/37255204/jensen-huang-predicts-every-enterprise-on-the-planet-will-eventually-run-on-nvidias-operating-sy"
+webUrl: "https://www.benzinga.com/markets/equities/24/02/37255204/jensen-huang-predicts-every-enterprise-on-the-planet-will-eventually-run-on-nvidias-operating-sy"
+ampWebUrl: "https://www.benzinga.com/amp/content/37255204"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37255204"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: Benzinga.com
+  domain: benzinga.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://cdn.benzinga.com/files/images/story/2024/Nvidia-CEO-Jensen-Huang_3.jpeg?width=1200&height=800&fit=crop"
+    width: 1024
+    height: 683
+    isCached: true
+
+secured: "Njqf46MLgdFTwVgxyDrD64BiTarWCwpdsT0wrrsIq9RBGzgGT024KBy0RT6EqGrIYoBowFbS/rwTMetYiyWNregp9VDGzrGc1sa3QHSXHuE+C8Bbkqxv+FPlDi/IZP+f9klDMLTJ5Fjc/uMDd86VsjBwNFe3Y43KvEKRKtOQ7d3f39RgoR6hjTD0//Y5i4ShgyYpE94zhzJiGP7XjQaWBHTY4pNqxF26XMWPE7nQWQvu2of+Jr4s1D5rJ11ZqeZvdeRHueHIdJNyZsTOEODkhIcIww8+v7EBLHUVwh6nLKvFcXmUZEwqXP5CLvR7wVQl9lAXvLBYX3y6mG6McTE9B2NSqkdkjhxc262CyDw0NnE=;vGTgGVAwYeL7dH6SYsIoTQ=="
+---
+

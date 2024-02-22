@@ -23,6 +23,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Point Solutions Are Only the Start for AI in Grants and Research"
+    excerpt: "Search on \"AI in academic grants and research\" and you'll come across a bevy of point solutions. Some tailor generative AI to help with the challenges of developing and writing grants (see grantassistant.ai, grantedai.com, grantable.co). Others harness AI ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://campustechnology.com/Articles/2024/02/21/Point-Solutions-Are-Only-the-Start-for-AI-in-Grants-and-Research.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 37
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2024/02/20240221airesearch.jpg"
+        width: 644
+        height: 300
+        isCached: true
+
 secured: "jBvx/OaCmkouGR9NHG9OI169Su0OJ/eshZP0CJuqttEYY1i0S4ODLG9zMTDR9bV3QMF89zY7qNd3Pdb9WsxDlXvmPUe1G8BRA49HUHtN77PGmB0JU4TkUY4a0ZJmKTbvscF0yoNBR7aMyH1bd0lCGfICNcjvUl27RXGmConTBmb7npVSDfPsfni2MN+3QIzYtexysaUUZxjor2U9BOE9gKT6NA/m2Xc6oTKBOe793i7DMRMdZjqvC6jBKGS02UAEqHXA48daZyTa5ytNfhPIE0LvgGXW4x0IpBlxn/ucyLqGOS95dl8iT3ZOtbXFT2396ieBPJ4myq9hptccUjpMp3vdZ3UujsN5uDIblTjN3oY=;x4ViXTf5GSvw/uLJsNL1JA=="
 ---
 

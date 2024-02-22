@@ -167,6 +167,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Leo Wang, CEO of Duotech, Addresses Impact of AI on Fintech Industry During Chinese New Year Speech"
+    excerpt: "Leo Wang, CEO of Duotech, delivered a captivating speech during the Chinese New Year festivities, shedding light on the transformative power"
+    publishedDateTime: 2024-02-22T09:05:00Z
+    webUrl: "https://www.asiaone.com/business/leo-wang-ceo-duotech-addresses-impact-ai-fintech-industry-during-chinese-new-year-speech"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 25
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Feb2024/Leo_Wang_Duotech.jpg?itok=ukGamRbK"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Bud joins forces with Fintech Galaxy"
     excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. This collaboration is all about bringing tangible ..."
     publishedDateTime: 2024-02-21T09:57:00Z

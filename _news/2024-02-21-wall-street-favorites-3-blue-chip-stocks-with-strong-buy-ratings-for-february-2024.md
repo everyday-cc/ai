@@ -59,6 +59,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "The Best 7 Tech Stocks to Buy for AI Cloud Exposure"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Cloud AI combines the power of artificial intelligence with the power of cloud"
+    publishedDateTime: 2024-02-22T03:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-best-7-tech-stocks-to-buy-for-ai-cloud-exposure-1033090179"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Wild vs. Canucks February 19 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Quinn Hughes and Matthew Boldy will be two of the most exciting players to keep an eye on when the Vancouver Canucks face the Minnesota Wild at Xcel Energy Center on Monday, February 19 at 2:00 PM ET. Kirill Kaprizov is ..."
     publishedDateTime: 2024-02-18T08:01:00Z

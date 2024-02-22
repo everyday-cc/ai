@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "European Chip Stocks Surge After Nvidia Sales Reach New Heights on Booming AI Demand"
+    excerpt: "Chief Executive Jensen Huang described AI as hitting the tipping point and indicated demand ... Earlier on Thursday, SoftBank Group, the parent of British chip designer Arm Holdings, advanced more than 5%, while chip-making equipment maker Tokyo Electron ..."
+    publishedDateTime: 2024-02-22T09:41:00Z
+    webUrl: "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 114
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How to use Nvidia’s new Chat with RTX AI bot"
     excerpt: "Nvidia has a local AI chatbot called Chat with RTX, allowing you to use AI completely free from the cloud. Here's how to use it."
     publishedDateTime: 2024-02-17T15:00:00Z
@@ -59,6 +75,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia: Artificial intelligence at 'tipping point' boss says"
+    excerpt: "The boss of the world's most valuable chip maker Nvidia says artificial intelligence (AI) is at a \"tipping point\" as it announced record sales. Chief executive Jensen Huang's comments came as the technology giant posted record figures for the most recent quarter, after revenues surged by 265% to $22bn (£17.4bn) from a year earlier."
+    publishedDateTime: 2024-02-22T01:37:00Z
+    webUrl: "https://www.bbc.com/news/business-68366467?at_bbc_team=editorial&at_campaign_type=owned&at_format=link&at_link_id=37E5697E-D11B-11EE-8422-ED8E4B3AC5C4&at_link_origin=BBCTech&at_link_type=web_link&at_ptr_name=t"
+    ampWebUrl: "https://www.bbc.com/news/business-68366467.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68366467.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F348/production/_132708226_gettyimages-1825461801-1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia just proved the AI boom has room to run"
     excerpt: "Nvidia announced it made $22.1 billion in revenue, beating Wall Street's estimates on the strength of its AI business."
     publishedDateTime: 2024-02-21T21:58:00Z
@@ -88,22 +120,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/manufacturing-press-imec-keynote-blog-1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Softbank wants $100 billion to compete with Nvidia for AI chips"
-    excerpt: "SoftBank's Masayoshi Son aims to raise $100 billion for a chip venture named Izanagi, focused on AI computing and artificial general intelligence. The project plans to challenge Nvidia's dominance, collaborate with OpenAI, and achieve AGI through Arm's ..."
-    publishedDateTime: 2024-02-20T12:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/articleshow/107856097.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107856061,width-1280,height-720,resizemode-4/107856061.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Nvidia's quarterly profit skyrockets on back of AI chip demand"
     excerpt: "Nvidia said on Wednesday its profit soared to $12.3 billion in the recently ended quarter, on record high revenue driven by demand for its chips to"
@@ -153,63 +169,19 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Google's Gemma is now optimized for NVIDIA's AI platforms"
-    excerpt: "This system lets users have access to generative AI capabilities on their own local PCs, provided they’re using an NVIDIA RTX GPU. This system effectively allows users to provide local files on their PC to a local AI in order to personalize the experience."
-    publishedDateTime: 2024-02-21T16:30:00Z
-    webUrl: "https://www.shacknews.com/article/138819/nvidia-google-gemma-optimization"
-    ampWebUrl: "https://www.shacknews.com/article/138819/nvidia-google-gemma-optimization?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138819/nvidia-google-gemma-optimization?amphtml=1"
+  - title: "Nvidia: Boss sees artificial intelligence 'tipping point' as sales soar"
+    excerpt: "\"Accelerated computing and generative AI have hit the tipping point,\" the firm's co-founder and chief executive Jensen Huang said in a statement. Nvidia's shares jumped by more than 8.5% in extended New York trading. The company also said that its annual revenues had more than doubled to $60.9bn."
+    publishedDateTime: 2024-02-22T01:02:00Z
+    webUrl: "https://www.aol.com/news/nvidia-chip-giant-posts-record-003911601.html"
     type: article
     provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 59
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/02/21/nvidia-google-gemma-optimization_feature.jpg"
-        width: 1280
-        height: 680
-        isCached: true
-  - title: "NVIDIA Eos DGX AI supercomputer designed for artificial intelligence"
-    excerpt: "In the fast-paced world of technology, NVIDIA has made a significant leap with the introduction of Eos, a new supercomputer that has quickly secured a"
-    publishedDateTime: 2024-02-19T07:48:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-nvidia-eos/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/NVIDIA-Eos-supercomputer-built-for-artificial-intelligence-applications.jpg"
-        width: 1280
-        height: 841
-        isCached: true
-  - title: "You Can Now Run Your Own ChatGPT From Your Nvidia GPU"
-    excerpt: "you can install a generative AI chatbot right on your computer and tailor it to your own needs. Before you start, make sure you're running the latest drivers for your Nvidia GPU—the GeForce ..."
-    publishedDateTime: 2024-02-19T00:00:00Z
-    webUrl: "https://lifehacker.com/tech/run-local-ai-llm-from-nvidia-gpu"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 56
-    images:
-      - url: "https://lifehacker.com/imagery/articles/01HQ0F1JESFFD264PR1C0ACSDA/hero-image.fill.size_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "SoftBank Bets $100 Bn on AI Chips, Takes Aim at NVIDIA"
-    excerpt: "Competing in the AI dominance race, SoftBank's CEO, Masayoshi Son, has announced a plan to gather a whopping $100 billion for his AI project."
-    publishedDateTime: 2024-02-19T09:45:00Z
-    webUrl: "https://analyticsindiamag.com/softbank-bets-100-billion-on-ai-chips-takes-aim-at-nvidia/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: AOL
+      domain: aol.com
     quality: 54
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-Most-Powerful-5-AI-Chips-Released-in-2023.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/74e811d1473eeee0e03e7889a6e0f0be"
+        width: 976
+        height: 549
         isCached: true
   - title: "Nvidia projects better-than-expected revenue on AI chip demand"
     excerpt: "One of the most closely watched companies in the AI supply chain, Nvidia projected quarterly revenue of $24.0 billion for February-April, plus or minus 2%, compared with analyst estimates of about $22 billion."
@@ -253,28 +225,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia Just Bought This Under-the-Radar Artificial Intelligence (AI) Stock. Should You Buy It, Too?"
-    excerpt: "According to Nvidia 's 13F filing for the fourth quarter of 2023, it purchased 1,730,883 shares in SoundHound AI. It doesn't specify what price Nvidia paid, but the position is worth $6.5 million at SoundHound's current stock price of $3.76."
-    publishedDateTime: 2024-02-18T15:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-just-bought-this-under-the-radar-artificial-intelligence-ai-stock.-should-you-buy"
+  - title: "BESI exceeds fourth-quarter targets on demand for AI-related chipmaking parts"
+    excerpt: "Orders and year-end backlog for hybrid bonding — a form of chip packaging required for AI applications — nearly doubled from last year, BESI said, adding that around a half of fourth-quarter orders were for its most advanced hybrid bonding systems."
+    publishedDateTime: 2024-02-22T01:38:00Z
+    webUrl: "https://www.aol.com/news/besi-exceeds-fourth-quarter-targets-063825790.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 48
-  - title: "NVIDIA CEO: we need 14 different planets, 3 galaxies, 4 more suns to power future AI GPU tech"
-    excerpt: "NVIDIA CEO Jensen Huang says that we're just in year 1 of a 10 year journey in AI GPU hardware, as its revenue hits record highs through AI GPU dominance."
-    publishedDateTime: 2024-02-22T03:00:00Z
-    webUrl: "https://www.tweaktown.com/news/96378/nvidia-ceo-we-need-14-different-planets-3-galaxies-4-more-suns-to-power-future-ai-gpu-tech/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 43
+      name: AOL
+      domain: aol.com
+    quality: 51
     images:
-      - url: "https://static.tweaktown.com/news/9/6/96378_905_nvidia-ceo-we-need-14-different-planets-3-galaxies-4-more-suns-to-power-future-ai-gpu-tech_full.jpg"
-        width: 1500
-        height: 857
+      - url: "https://media.zenfs.com/en/aol_reuters_29/072c9b8dcb97681613cfa65c3ceed2e2"
+        width: 800
+        height: 533
         isCached: true
   - title: "Nvidia's 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
     excerpt: "Nvidia Corp. posted stronger-than-expected results for its latest quarter, more than tripling its revenue from a year earlier."
@@ -289,34 +252,6 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7CNQF6R5YRE3LD4YNPKP7WXVBY.jpg?_a=ATAPphC0"
         width: 700
         height: 467
-        isCached: true
-  - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
-    excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
-    publishedDateTime: 2024-02-20T05:59:00Z
-    webUrl: "https://www.tweaktown.com/news/96310/nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 40
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96310_01_nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai_full.jpg"
-        width: 1500
-        height: 796
-        isCached: true
-  - title: "Nvidia scores big in data centre, gaming, and extends AI lead"
-    excerpt: "Expanded adoption of the Nvidia DRIVE platform has seen automotive revenue grow by 21% to $281m in the last quarter with Asian manufacturers Great Wall Motors, ZEEKR, Xiaomi, and Li Auto choosing to use it for their automated driving systems and car computers."
-    publishedDateTime: 2024-02-22T04:27:00Z
-    webUrl: "https://www.bizcommunity.com/article/nvidia-scores-big-in-data-centre-gaming-and-extends-ai-lead-016625a"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 39
-    images:
-      - url: "https://biz-file.com/c/2402/728308-1200x624.jpg?5"
-        width: 1200
-        height: 624
         isCached: true
   - title: "Nvidia's revenue soars 265% year over year due to generative AI boom"
     excerpt: "\"Accelerated computing and generative AI have hit the tipping point ... training and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software and consumer internet companies,\" Huang said."
@@ -346,43 +281,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Nvidia data center revenues up 409%, AI earnings beat Wall Street expectations"
-    excerpt: "Revenues across the company were up 256 percent over the same quarter last year to $22.10 billion, while data center-specific revenues jumped 409 percent to $18.4bn. Analysts expected Nvidia’s data center unit to record $17.06bn in sales for its fiscal fourth quarter."
-    publishedDateTime: 2024-02-21T22:47:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-data-center-revenues-up-409-ai-gpu-earnings-beat-wall-street-expectations/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 35
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/nvidia_jensen_huang.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Buy the New NVIDIA GeForce RTX 4070 Ti SUPER GPU, Get a Bonus $100 Dell Gift Card"
-    excerpt: "NVIDIA's new GeForce RTX 4070 Ti SUPER was recently released and Dell is already offering a great deal for President's Day. Right now, you can get a bonus $100 Dell promotiona; egift card when you purchase a PNY GEFORCE RTX 4070 Ti SUPER 16GB VERTO Overclocked Edition GPU for $849."
-    publishedDateTime: 2024-02-19T15:55:00Z
-    webUrl: "https://www.ign.com/articles/buy-the-new-nvidia-geforce-rtx-4070-ti-super-gpu-get-a-bonus-100-dell-gift-card"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 34
-    images:
-      - url: "https://assets-prd.ignimgs.com/2024/02/19/pnyrtx4070tisuper-1708364158679.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "NVIDIA’s AI personal assistant demo available for RTX GPU PCs"
-    excerpt: "If your PC is running an RTX GPU you might be interested to know NVIDIA has released a tech demo of a new AI personal assistant or chatbot to"
-    publishedDateTime: 2024-02-19T14:15:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-chat-bot-rtx-ai-pcs/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 34
   - title: "Nvidia quarterly profit soars US$12.3 bil on AI chips demand"
     excerpt: "The company said it expects total revenue of US$24 billion in the current quarter. Huang said Nvidia chips are at the heart of datacentres transforming into “AI generation factories” with data a “raw material” turned into experiences such as prompt ..."
     publishedDateTime: 2024-02-22T04:41:00Z
@@ -392,24 +290,29 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
-  - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
-    excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."
-    publishedDateTime: 2024-02-21T15:23:00Z
-    webUrl: "https://www.barrons.com/livecoverage/nvidia-earnings-stock-price/card/nvidia-teams-up-with-google-to-offer-a-new-ai-model-for-consumers-xHzURJMOboThgiNhSXT5"
+  - title: "First in the world and surrounded by debates: the European Artificial Intelligence Act"
+    excerpt: "After almost three years, still a world first: the Artificial Intelligence Act of the European ... but also by private entities providing essential public services, in healthcare, education, insurance and banking. High-risk systems have to be reported ..."
+    publishedDateTime: 2024-02-19T10:21:00Z
+    webUrl: "https://www.portfolio.hu/en/economy/20240219/first-in-the-world-and-surrounded-by-debates-the-european-artificial-intelligence-act-669783"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
-  - title: "Nvidia’s Q4 earnings will be a referendum on the AI trade. Revenue expected to jump 234%"
-    excerpt: "Shares of the AI chip darling have skyrocketed 184% over the last 12 months, easily outpacing rivals AMD (AMD) and Intel (INTC), which saw their shares rise 91% and 67%, respectively. Nvidia’s incredible run briefly pushed its market capitalization past ..."
-    publishedDateTime: 2024-02-20T14:02:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-q4-earnings-referendum-ai-190148756.html"
+      name: Portfolio
+      domain: portfolio.hu
+    quality: 31
+    images:
+      - url: "https://cdn.portfolio.hu/articles/images-lg/a/r/t/artificial-intelligence-to-impact-almost-one-million-jobs-in-hungary-321937.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Forget Nvidia: These 3 Artificial Intelligence (AI) Stocks Can Be the Next Stock-Split Stocks"
+    excerpt: "At the moment, nothing is garnering the attention of professional and everyday investors quite like artificial intelligence (AI). AI, which involves the use of software and systems to oversee tasks normally overseen by humans, has application across almost ..."
+    publishedDateTime: 2024-02-20T20:40:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AVGO/pressreleases/24196240/forget-nvidia-these-3-artificial-intelligence-ai-stocks-can-be-the-next-stock-split-stocks/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 10
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 21
 
 secured: "o23hU8SyWC3PeUXJ9VXgohpUMe3g2ZQOTgUKy3GVu+sHXYg5Myo8ooPlnWqn1UVyCYGXEhnZwgBXgUMD68CmZpEliwP6BIItQXqvlGocjCto+OxAo7+K+xtNTugDjITGmA1GVMsFXzYidUps5Eh60Xd8QAducwy6XROQg13KYyhgFpc69tTfuDOnfXY1gRfY3MNqi1tFTx08WC/C4xw9CoBDtHH2T5WZZvCzaIY8KRDBWnWyRJ11cAH41ObDfq7uQylVO9g7GNOtuMyPuut5pWzWhCVr/9moQ3cf62jvaUzpe0sf6Vr/lkc3pdOJ2gSDkwePS1jf1tOuMzPXAl4vBTsWyQknR8zzAD4MOYtsPsM=;xCvDsTY2gvGOu/+iOX7WaA=="
 ---

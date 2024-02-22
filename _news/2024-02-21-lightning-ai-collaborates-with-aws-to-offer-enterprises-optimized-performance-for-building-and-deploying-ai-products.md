@@ -19,29 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "AWS sets out expansion strategy for AI, cloud services"
-    excerpt: "Amazon Web Services (AWS), the cloud computing arm of Amazon, has outlined strategies to democratise technology and generative artificial intelligence (AI) amid intense competition in the global generative AI domain."
-    publishedDateTime: 2024-02-18T21:30:00Z
-    webUrl: "https://www.bangkokpost.com/business/general/2744454"
+  - title: "Utilizing Artificial Intelligence For Efficient Semiconductor Manufacturing"
+    excerpt: "Artificial Intelligence (AI) can be deployed within a fab to address the complexity and intricacy of semiconductor manufacturing. A fab generates petabytes of data as wafers go through the multitude of process and test operations. This wealth of data also ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://semiengineering.com/utilizing-artificial-intelligence-for-efficient-semiconductor-manufacturing/"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 54
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 35
     images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2024/02/19/5063894.jpg"
-        width: 1000
-        height: 1352
+      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_593985580-01-12-24.jpeg?fit=1024%2C662&ssl=1"
+        width: 1024
+        height: 662
         isCached: true
-  - title: "The Best 7 Tech Stocks to Buy for AI Cloud Exposure"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Cloud AI combines the power of artificial intelligence with the power of cloud"
-    publishedDateTime: 2024-02-22T03:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-best-7-tech-stocks-to-buy-for-ai-cloud-exposure-1033090179"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "KXe9caCiOtyWJd8kKX2IqePCb6TvUQaUnqhBTv/HxdsX6w3sPRUT9gX1oXRDzpKt7h5ZXfCDdo/oJtHF9zXR3uUS2+CcJ90fdhCP2g0+0Q4adlR+2qqHDJSb3j3/kFP1c/ZOEJGOIIk8dcvFoPeXGj84Q7gmMRYX6I4eL2Hshyobuq0w3naonuL05vTPCrGQ5jr6bVgPRfo5+5gi4Z45Jc1VFhF+zgItGqJDj8oohNoWIVwyNlWWeRwUlwQyEt31CpmH6pzpP7SYbC3ik4xve6RsRJzHJPNHedKtd/q8EaNRU0r1ykcQT2wVXFguoF+NyyTodyiLWTht64K4lk0np4qzu+fkAq+FpEQhnCJt/+I=;yohsnSiQqLYEBZ/pvi2HNg=="
 ---

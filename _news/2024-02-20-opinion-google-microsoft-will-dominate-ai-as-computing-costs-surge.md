@@ -118,6 +118,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Microsoft & Icreate Launch Impel-AI Programme To Empower AI Start-Ups In India"
+    excerpt: "( MENAFN - KNN India) New Delhi, Feb 22 (KNN) In a significant collaboration, Microsoft and the International Centre for Entrepreneurship and Technology (iCreate), in the presence of Union Minister Rajeev Chandrasekhar, have unveiled the iMPEL-AI (iCreate-Microsoft Programme for Emerging Leaders in Artificial Intelligence) initiative."
+    publishedDateTime: 2024-02-22T10:29:00Z
+    webUrl: "https://menafn.com/1107884792/Microsoft-Icreate-Launch-Impel-AI-Programme-To-Empower-AI-Start-Ups-In-India"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/22/KI_20343image_story.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Microsoft to Invest $2.1 Billion in AI and Cloud Growth in Spain"
     excerpt: "Over the next two years to significantly scale up its artificial intelligence (AI) development and cloud computing capacities in Spain."
     publishedDateTime: 2024-02-21T07:59:00Z

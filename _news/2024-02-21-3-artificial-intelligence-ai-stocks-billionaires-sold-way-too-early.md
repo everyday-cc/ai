@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run"
+    excerpt: "TSMC's revenue in January 2024 increased substantially, and the trend is here to stay thanks to the robust demand for AI chips. SoundHound AI shares have shot up big time of late, and the company's potential growth could help it sustain the rally."
+    publishedDateTime: 2024-02-22T05:25:00Z
+    webUrl: "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/765982/artificial-intelligence-ai-on-circuit-board.jpg"
+        width: 2359
+        height: 1270
+        isCached: true
   - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
     excerpt: "A boom in artificial intelligence (AI ... AI can potentially boost countless industries, from healthcare to consumer tech, education, e-commerce, cloud computing, autonomous vehicles, and much more. With growth catalysts across multiple sectors, it ..."
     publishedDateTime: 2024-02-21T18:20:00Z
@@ -80,15 +94,6 @@ related:
         width: 3000
         height: 1999
         isCached: true
-  - title: "Forget Nvidia: These 3 Artificial Intelligence (AI) Stocks Can Be the Next Stock-Split Stocks"
-    excerpt: "At the moment, nothing is garnering the attention of professional and everyday investors quite like artificial intelligence (AI). AI, which involves the use of software and systems to oversee tasks normally overseen by humans, has application across almost ..."
-    publishedDateTime: 2024-02-20T20:40:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AVGO/pressreleases/24196240/forget-nvidia-these-3-artificial-intelligence-ai-stocks-can-be-the-next-stock-split-stocks/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 21
 
 secured: "NQxI/b2Ydz+224D3JmJZ7hUPeKxbvrn+WZVrL8rAMbz/ZTrKhW91d8rlBmjGETLr41drP9vABjcGIh3uzNHI7CWY190UXvb20i/Qt+huWN+/YJdJ9wh4+pr1QYpeilVCZptKX/sSg0f6ABo5Y3X6skRhgF/hEoFdWAahS40c4+JHzNWkiay+5V8x77eoTkKIUsuRtp5LtD1sPzlFg9b80d+C7HSYVsmMZpx08AWN0KsQtBAmhZLDyzbnaixvBDDA8knnwKvyUn0e3fKUc2TTVfLEbr92Fqprq+xDdarRLfy8uYxxqhK5R80okELU6bSpC5mqrM0GjTq8NF1u6MNuTSgAgUXEWBoy/tVNdKC45pI=;9Q0JLOONeqo2zp1DQOt8cQ=="
 ---

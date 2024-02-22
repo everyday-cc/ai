@@ -7,7 +7,7 @@ originalUrl: "https://www.inforum.com/sports/pro/timberwolves-coach-chris-finch-
 webUrl: "https://www.inforum.com/sports/pro/timberwolves-coach-chris-finch-finally-getting-his-well-earned-recognition"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1599
     height: 1066
     isCached: true
+
+related:
+  - title: "Colombian Artist Luis Caballero Is Finally Getting the Recognition He Deserves"
+    excerpt: "The late artist Luis Caballero has received overdue recognition in the U.K. with a London solo show and an acquisition by Tate."
+    publishedDateTime: 2024-02-22T10:50:00Z
+    webUrl: "https://news.artnet.com/art-world/luis-caballero-recognition-2435987"
+    ampWebUrl: "https://news.artnet.com/art-world/luis-caballero-recognition-2435987/amp-page"
+    cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/luis-caballero-recognition-2435987/amp-page"
+    type: article
+    provider:
+      name: Artnet
+      domain: artnet.com
+    quality: 40
+    images:
+      - url: "https://p-news-upload.storage.googleapis.com/2024/02/luis-caballero-untitled-1979-2.jpg"
+        width: 2500
+        height: 1875
+        isCached: true
 
 secured: "wDsf/Ix0rDHuFCazcJEiYAnfbJAEckGFL/MxojKcO3VW3ysTMSEyHx227mUqNjaU7YIcZqKq0ZecVoTMEEKanaZjSDtOzbm2axWGCOzZ26uFFigjsESu2/AcjAloO6sRANBBQAjCqmJw5PN2o7CmPmxETk1s+hMvn3RDN9Tvm95YRXgU7XfHWYkXxA0UQMTKl+Gwns+l3rrRbSURHrdckJjU2LfgAKMoPvM+KS0nweX5UV/yLK167K52smkS4VvDZO409f3nmWyNJPPT6aQPrclZfXBvqm7TrE70vhg4iu/If8wN6nHBfYCzViM4zK44Pg2gT3O+P82S5StNXlESSiuMP3I7BgTec7BLAxsZ+xk=;iEC/W21OwPT/thGcACF2Lw=="
 ---

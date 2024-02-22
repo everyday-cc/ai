@@ -134,6 +134,15 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "Groq AI's LPU: The breakthrough answer to ChatGPT's GPU woes?"
+    excerpt: "He said GPU systems still have a place when talking about running smaller ... Despite being created in 2016 with the name trademarked shortly after, Elon Musk’s own AI chatbot “Grok” only appeared on the scene in November 2023 and became widely ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/groq-breakthrough-answer-chatgpt"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 51
   - title: "Hackers Could Use ChatGPT to Target 2024 Elections"
     excerpt: "T he rise of generative AI tools like ChatGPT has increased the potential for a wide range of attackers to target elections around the world in 2024, according to a new report by cybersecurity giant Crowdstrike."
     publishedDateTime: 2024-02-21T19:35:00Z

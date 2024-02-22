@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
 webUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
 type: article
 quality: 84
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "BESI exceeds fourth-quarter targets on demand for AI-related chipmaking parts"
-    excerpt: "Orders and year-end backlog for hybrid bonding — a form of chip packaging required for AI applications — nearly doubled from last year, BESI said, adding that around a half of fourth-quarter orders were for its most advanced hybrid bonding systems."
-    publishedDateTime: 2024-02-22T01:38:00Z
-    webUrl: "https://www.aol.com/news/besi-exceeds-fourth-quarter-targets-063825790.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 51
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/072c9b8dcb97681613cfa65c3ceed2e2"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Artificial Intelligence And The Future Of Creativity"
-    excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
-    publishedDateTime: 2024-02-17T10:10:00Z
-    webUrl: "https://menafn.com/1107863606/Artificial-Intelligence-And-The-Future-Of-Creativity"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/17/DNE_b7162image_story.jpeg"
-        width: 715
-        height: 429
-        isCached: true
   - title: "CEOs of OpenAI and Intel cite artificial intelligence's voracious appetite for processing power"
     excerpt: "OpenAI Sam Altman, right, discusses the need for more chips designed for artificial intelligence with Intel CEO Pat Gelsinger on Wednesday, Feb. 21, 2024, during a conference in San Jose, Calif.Michael Liedtke/AP Intel CEO Pat Gelsinger discusses his ..."
     publishedDateTime: 2024-02-22T01:30:00Z

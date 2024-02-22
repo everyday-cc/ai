@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965750.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965750.htm"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 400
     height: 226
     isCached: true
+
+related:
+  - title: "Andrew Yang and 300 international experts petition for government action on AI deepfakes"
+    excerpt: "A coalition of 300 international experts drafted a letter calling for government action to address the proliferation of deepfakes, urging criminalization and penalties for those involved in their creation and dissemination."
+    publishedDateTime: 2024-02-21T13:18:00Z
+    webUrl: "https://cointelegraph.com/news/andrew-yang-experts-petition-ai-deepfakes"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 10
 
 secured: "ZwSP78WDJwvs5C3E+uvhEvHt98ch16Xi1l1EeCKFRvM50koMAHdtltB2AMU0qaCC3m7sU86DHT0rBBu4Xz3aHhWN96BRGF6bo/rVirlUWoZSu1u4c6z7VfKSOGCi46rcqhiU957I4QOk0FLnSK45K8+T9Aj1TsQWJvGklMhtYPw1o+yc3ib69xTyyoaplN8222i1DRjx6YYaTZVpxz8vg8OIIe8VphGpOtCczXYqLLuqaDv2nbAomO0kywrH6MQum024+6r65ddEiOtiK4w+FoW66K7aQDFBSd5VAOsCNz1OEcT49ut2kWXOHXvGUkJr3MiWe8ekFJGCYeqgBrOoJOeh5nugLrw6eLXY4c2nAh4=;Vx3A6ckOdqCci7EA1O01gw=="
 ---

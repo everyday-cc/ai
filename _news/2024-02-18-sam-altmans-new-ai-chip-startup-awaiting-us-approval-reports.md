@@ -100,6 +100,22 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "OpenAI unveils AI that instantly generates eye-popping videos"
+    excerpt: "SAN FRANCISCO — In April, a New York startup called Runway AI unveiled technology that let people generate videos, like a cow at a birthday party or a dog chatting on a smartphone, simply by typing a sentence into a box on a computer screen. The four ..."
+    publishedDateTime: 2024-02-22T00:05:00Z
+    webUrl: "https://www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/amp/"
+    type: article
+    provider:
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 57
+    images:
+      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2024/02/web1_altman-2-22.jpg"
+        width: 760
+        height: 570
+        isCached: true
   - title: "Zuck backs Altman's £5.5 trillion AI chip plan"
     excerpt: "It is not bonkers Meta Platforms boss Mark Zuckerberg gave his views on the £5.5 trillion AI chipmaking plan by OpenAI chief Sam Altman last week. .While he called the number \"sky-high\", Zuckerberg also said he believed in the need for such a plan for the future of artificial intelligence."
     publishedDateTime: 2024-02-19T10:36:00Z

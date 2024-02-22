@@ -156,6 +156,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Leo Wang, CEO of Duotech, Addresses Impact of AI on Fintech Industry During Chinese New Year Speech"
+    excerpt: "Leo Wang, CEO of Duotech, delivered a captivating speech during the Chinese New Year festivities, shedding light on the transformative power"
+    publishedDateTime: 2024-02-22T09:05:00Z
+    webUrl: "https://www.asiaone.com/business/leo-wang-ceo-duotech-addresses-impact-ai-fintech-industry-during-chinese-new-year-speech"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 25
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Feb2024/Leo_Wang_Duotech.jpg?itok=ukGamRbK"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Baron FinTech Fund Q4 2023 Shareholder Letter"
     excerpt: "[1]The FactSet Global FinTech Index™ is an unmanaged and equal-weighted index ... well positioned to capitalize on increasing adoption of artificial intelligence ('AI') given its vast data sets. The company recently launched Intuit Assist, a generative ..."
     publishedDateTime: 2024-02-18T10:15:00Z

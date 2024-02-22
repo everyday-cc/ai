@@ -60,6 +60,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "The Best 7 Tech Stocks to Buy for AI Cloud Exposure"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Cloud AI combines the power of artificial intelligence with the power of cloud"
+    publishedDateTime: 2024-02-22T03:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-best-7-tech-stocks-to-buy-for-ai-cloud-exposure-1033090179"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Wall Street Favorites: 3 Blue-Chip Stocks With Strong Buy Ratings for February 2024"
     excerpt: "Nevertheless, these stalwarts, buoyed by their investments in the burgeoning AI technology, are unlikely to be weighed down for long. Furthermore, these blue-chip stocks offer stability and solid returns amidst periods of uncertainty in the market."
     publishedDateTime: 2024-02-21T14:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airpo
 webUrl: "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html"
 type: article
 quality: 84
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://assets.labroots.com/_public/_files/system/ck/trending/Friendly%20Butcher%20Meat_Co.,%20Minneapolis,%20MN%201955_798e4c58d74e83ab15679ad748db2e15.jpg"
         width: 1280
         height: 871
+        isCached: true
+  - title: "Facial recognition will feature at many airports moving forward"
+    excerpt: "These include the use of facial recognition software to speed up the pre-check and verification process of passengers, which has been utilised in some way since 2019 by the TSA. It is set to ..."
+    publishedDateTime: 2024-02-19T11:43:00Z
+    webUrl: "https://htxt.co.za/2024/02/19/facial-recognition-will-feature-at-many-airports-moving-forward/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 54
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2024/02/tusik-only-yOd-gjE7D68-unsplash.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Ohio continues facial-recognition searches using controversial photo-collection firm Clearview AI"
     excerpt: "COLUMBUS, Ohio—State crime investigators’ use of facial-recognition software, once put on hold because of civil-liberties concerns, could now continue through at least 2025 with the help of a company that has faced multiple lawsuits over claims it ..."
