@@ -25,20 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating Retail's New Reality: Omnichannel, Hyper-Personalization And Beyond"
-    excerpt: "While AI has been touted by many as a silver bullet for addressing key challenges, it is not the only solution available and may not work for every retail company."
-    publishedDateTime: 2024-02-20T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/amp/"
+  - title: "AI Will Transform Finance, But Not With Personalised Card Offers"
+    excerpt: "Almost three-quarters of those surveyed identified AI as the most important factor in the development of fintech in the next five years (and almost half of them pointed to embedded finance, open banking and the digital economy as the second most important ..."
+    publishedDateTime: 2024-02-22T11:13:00Z
+    webUrl: "https://www.forbes.com/sites/davidbirch/2024/02/22/ai-will-transform-finance-but-not-with-personalised-card-offers/"
+    ampWebUrl: "https://www.forbes.com/sites/davidbirch/2024/02/22/ai-will-transform-finance-but-not-with-personalised-card-offers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2024/02/22/ai-will-transform-finance-but-not-with-personalised-card-offers/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 85
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f105d41e465530006d5ac69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d728ec8c836a16d40b9391/0x0.jpg?format=jpg&crop=3600,2025,x0,y186,safe&height=900&width=1600&fit=bounds"
+        width: 1600
         height: 900
         isCached: true
 

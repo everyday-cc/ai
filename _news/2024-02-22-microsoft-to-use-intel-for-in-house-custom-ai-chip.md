@@ -42,6 +42,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Intel strikes major chip deal with Microsoft amid AI push"
+    excerpt: "Intel has struck a potentially billion-dollar deal with Microsoft that will see the chipmaker manufacture chips designed in-house by the software giant as it looks to make the most of AI. Announced yesterday (21 February) at Intel’s first foundry event ..."
+    publishedDateTime: 2024-02-22T12:19:00Z
+    webUrl: "https://www.siliconrepublic.com/business/intel-microsoft-ai-chips-semiconductors-foundry-deal"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 71
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-23.jpeg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
     excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
     publishedDateTime: 2024-02-19T05:00:00Z

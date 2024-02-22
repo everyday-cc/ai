@@ -46,15 +46,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "How to prepare for generative AI and the future of work"
-    excerpt: "Tony Holmes explains how generative AI will transform the workplace and provides tips to prepare employees and use AI for collaboration and innovation."
-    publishedDateTime: 2024-02-20T15:48:00Z
-    webUrl: "https://www.pluralsight.com/resources/blog/data/generative-ai-future-of-work"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 19
 
 secured: "yewmk4gEaDBfqBSOdw6HnCN3OjnNU2GLSXEyr0KpKrx2NkkedbVLlONrP/2q8F5X2qu8ONhbV1Jsy6/+S9gDvoGLKIO0IGu0jd/w8gG5Flsn21sTli1qZvYZueWDCmVH6MBQ1TdSCsK0R7SH0V1ax2pwbkee/dXbnuI/5gs+uBeCTFxUEEFNvJPUtZNBx/cKNBeiCDWG3dvZv1MeXTR021kqGeGbJbpGvV5c3jM4+br1jNZI+wNVvsykyraHG0mjQ1jB2QlL8+PRZ6nF74ZzGOBMUArtpNnAO9TBcsdOUMmqprtt3btxUYEtqRNQkmY6Mi5VsrCf6hfSrXmtdQCWb2f7y2Be3V6Ova6lya2gZLvwGfmesn0Rk/O7S3GOHpExScrvyGEIUVf8yNL0BL/XvQCveVlkax1uctdu8s+suGv3scpvA4PWHLjA/7fSzacy/RCr3+K0KkNqh5XEaa4BOcZpmaGSfGYDnIxWAp1YJiQL9qb9YT36XcGWlzTJ1vdha9Pbd3yF5VOwiRK+5JGPkg==;EkDwq3CD+rjWSQBF9qfd3g=="
 ---

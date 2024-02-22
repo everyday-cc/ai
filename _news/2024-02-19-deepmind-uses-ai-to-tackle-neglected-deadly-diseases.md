@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google DeepMind forms a new org focused on AI safety"
+    excerpt: "This morning, Google DeepMind, the AI R&D division behind Gemini and many of Google’s more recent GenAI projects, announced the formation of a new organization, AI Safety and Alignment — made up of existing teams working on AI safety but also broadened ..."
+    publishedDateTime: 2024-02-21T15:01:00Z
+    webUrl: "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/"
+    ampWebUrl: "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google DeepMind has a new family of open AI models for devs: Gemma"
     excerpt: "Google DeepMind's new open AI models, Gemini, are available now to researchers and developers — but only if they're responsible"
     publishedDateTime: 2024-02-21T15:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 39
-  - title: "How to prepare for generative AI and the future of work"
-    excerpt: "Tony Holmes explains how generative AI will transform the workplace and provides tips to prepare employees and use AI for collaboration and innovation."
-    publishedDateTime: 2024-02-20T15:48:00Z
-    webUrl: "https://www.pluralsight.com/resources/blog/data/generative-ai-future-of-work"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 19
 
 secured: "BVAC3rQompMM5rs+xf4SRvnhSo1cGYfDLwqNhcYmlhFHGClmD+VcDdATMQoiVjvc3TDuAazeRVYTZYcSBxaxHW8BR9AHwdQ0z6chHTiC7pxLhsyguBE3U2tGo/uaWzXjxHsSWsnqh8bG7VItE6uo0R3tuVwYsvE4b02Uke8MbOEPUXzy3XjcOIXMIDITa0pFtvzZUBt6wu8TlBxz1S3n8pZ/7IdBeGrlvLiEUGdH4yFu2LiVOQPugFo9FxkXC6LL71yjyP0RdzlfN/shIPFKVrKTdyygSvRA6MTI1W1AOR7HlS2s7OdpuvcT5ysfTmdgI9Wf1Mkka7ktZtgL3kntgEJ450x4tWvyl8l/BxDKKnYiQUsuA2skkGIWQtVxgxTcakJix0gbEDadGGnlPUrMX2kMUn9a3zmmHEEDZ316nPRU9Sqk7FwCgn2J4kUumzL6neJEjeMBkf9sruJoEWA6PntC8tpXVooYgUO1uZ6U8OMKXuRmIv44kqlYDhYCAyUhl/Cql/c7CE9h0bcSK5Bcyg==;ZT5iYu+UAhdtScfQWAhHDw=="
 ---

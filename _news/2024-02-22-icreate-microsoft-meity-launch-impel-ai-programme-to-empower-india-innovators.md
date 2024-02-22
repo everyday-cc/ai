@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "Can Nvidia Join Apple, Microsoft In $2-Trillion Club Today? Here's How Much The Stock Needs To Gain To Hit The Mark"
+    excerpt: "Reaching $2 Trillion: To reach the $2 trillion market cap, Nvidia’s stock would need to reach $804, given its 2.49 million outstanding shares. This translates to a necessary increase of $129.28, or 19.16%, from Wednesday’s closing price. Currently, only Microsoft, Apple, and Saudi Aramco boast valuations exceeding $2 trillion."
+    publishedDateTime: 2024-02-22T11:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/can-nvidia-join-apple-microsoft-in-2-trillion-club-today-here-s-how-much-the-stock-needs-to-gain-to-hit-the-mark-1033092133"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/King-County--Washington--United-States--_6.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "FJWgCMcVxQPPDcHl7+pO8hOjPKWIygXxC7uiC65yUcxxdkXxm5bAuTImuTvHmd8y4XUFsuLvwBoOCJYBkkMnGL8W4P+nDN+yXHKwcTmLyNBBQgxojXPF9il+p+uH6EhkO4rQNzzaVJLDkiiixjgy/2bnHDn+mEkYpIlUeZ146lM68mDS7d8xB1k7Y/t3TgQT1rA9OqdaDo/Ec/tFZSWK51FNl6Vmm/KHt1J7hYLD/ZFXz7yQVytfTSlyJBVCPYg4fyHez2TWa+bhJRHkIsecCU+nq+5l/POQsji2f2EZFD9Ed2fQLwzO0Ui7dZOmP3+W2jSyC23cLFwzvx7hGc/vlmhRiIAOYMd3iLOVMwWYPow=;PgEcIzTx/hCgsYPlBkwzsg=="
 ---

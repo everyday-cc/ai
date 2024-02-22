@@ -1,0 +1,79 @@
+---
+category: news
+title: "Samsung Expands Galaxy AI Features Across Latest Devices with One UI 6.1 Update"
+excerpt: "“Our goal with Galaxy AI is not only to pioneer a new era of mobile ... The features include the ability to adjust message tone and translate messages in 13 different languages using Chat Assist. Galaxy users can experience the power of real-time ..."
+publishedDateTime: 2024-02-22T12:43:00Z
+originalUrl: "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+webUrl: "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+ampWebUrl: "https://www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+type: article
+quality: 55
+heat: -1
+published: false
+
+provider:
+  name: Deccan Chronicle
+  domain: deccanchronicle.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://www.deccanchronicle.com/h-upload/2024/02/22/1076664-new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-news-thumb-1440x9601.jpg"
+    width: 1440
+    height: 960
+    isCached: true
+
+related:
+  - title: "Galaxy AI will soon power 'intelligent health experiences' on Samsung's Wearables"
+    excerpt: "Samsung has announced that Galaxy AI will soon power intelligent health features on its wearables. Here's what's new."
+    publishedDateTime: 2024-02-21T03:09:00Z
+    webUrl: "https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 62
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Samsung-Galaxy-Watch-6-Wear-OS-4-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Samsung says more Galaxy devices will get AI features, announces major update"
+    excerpt: "With this update, more Samsung Galaxy users can take advantage of the communication-enhancing AI features on AI-supported models"
+    publishedDateTime: 2024-02-22T10:42:00Z
+    webUrl: "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 56
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2024/02/22/1600x900/UI_61_update_1708598318695_1708598318930.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How Samsung S24 Ultra's intelligent Galaxy AI features are redefining the future of productivity"
+    excerpt: "The Samsung Galaxy S24 Ultra is a game-changer for professionals, offering innovative features and cutting-edge technology. From Circle to Search to the S Pen, this smartphone enhances productivity, communication,"
+    publishedDateTime: 2024-02-20T12:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/cons-products/electronics/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity/articleshow/107854885.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/cons-products/electronics/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity/amp_articleshow/107854885.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/cons-products/electronics/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity/amp_articleshow/107854885.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 46
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-32116,msid-107855087/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity.jpg"
+        width: 600
+        height: 450
+        isCached: true
+
+secured: "uaaCStd5i6jId8SVKdtxB+mLos1ZWmiMf6Wo8wEkzrHAOGG93pR1eX9OuJVZWyhcVMVArmSLpRGBhzfCMaj/aTmlDQLCwOmNddpH0aSRREILz4E5oUQz+J9hdfxKPRahYa1orFlb/nqV81cAW/TA4YZYtfyU3A69a55wL6/FdARbPwuDTfQyotJy6eeK0ywMWc6al0Pb/eBVs9wk1uaLgmNiJbJVae/0rbTcBCubsdQKOQxgG+gsM8AebcPh8wUtFHeChLimHKoqHex3KlL9q8YREAPGeFCTSjP3Ejs3BJ5X+2LbpLyFtAEk+fP3IgjdfnIvuhGmpnaMWHN5A0HGeye2V6XnN5OcKohLKbjgy1Q=;9LWqydOnRe0FGW78y2zcuQ=="
+---
+

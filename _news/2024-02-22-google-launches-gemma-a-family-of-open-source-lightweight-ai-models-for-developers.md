@@ -131,6 +131,34 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Gemma: Google unveils open AI models"
+    excerpt: "Gemma models, developed by Google DeepMind in collaboration with other teams across Google, are built upon the same cutting-edge technology as the acclaimed Gemini models. The models are available in two sizes, Gemma 2B and Gemma 7B, with parameters ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.computing.co.uk/news/4177191/gemma-google-unveils-open-ai-models"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/d662e90/41b584f4-5cd8-4ea2-94b0-9321b8ec8ddb/8/Gemma-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "Google Gemma AI vs Llama-2 performance benchmarks"
+    excerpt: "The Gemma suite consists of four models. Two of these are particularly powerful, with 7 billion parameters, while the other two are still quite robust with 2 billion parameters. The number of parameters is a way of measuring how complex the models are and ..."
+    publishedDateTime: 2024-02-22T10:30:00Z
+    webUrl: "https://www.geeky-gadgets.com/gemma-ai-vs-llama-2/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Gemma-vs-Llama-2.jpg"
+        width: 1280
+        height: 801
+        isCached: true
   - title: "Google Gemma open source AI models launch"
     excerpt: "“A family of lightweight, state-of-the art open models built from the same research and technology used to create the Gemini models” – Google. At the heart of Gemma’s introduction is the Responsible Generative AI Toolkit. This toolkit is crafted to ..."
     publishedDateTime: 2024-02-22T00:00:00Z
@@ -164,6 +192,6 @@ related:
       domain: cybernews.com
     quality: 19
 
-secured: "uJ7xYMmAiwcmvDRc3Sg5YyxwyLFFzV2PkK8iIlzSGd54eMVVSYbmIYRAWd0DotQG1BqLPLQdUZaVlvmw0Bg5xdzQKfC3s5H4YyLYMA3P/Es/a/BdfyazmBQZFeTqEU+sMRwkWXPfcq4hAnKiunrncwWKwinBEar0XwIB2cOJgTwSDgVilobGxRCeTvMNoTwdRdLONgXbH3sGnQcNnQ+HrdUSCKYP6ECUePAmiQEaI9L1lY5PyJYSYJfX3iTN9NKkYx/kSa2FS9+U8erRI+27gepIFQMR9muhypyqdyC99G3mbJq9TBo48p9v1lgTZjWGOXYAoumtTKWEug8RfhGpcTPWr901vP1osgg70UzUt6k=;6IHnG0qouQjR1EnfX8Iw5g=="
+secured: "MLnzXdQgd/f93aw4PaZevD+oShA40pOWEEyrusuOjT8H1YAs4SYrDX5jqjTubnIRjpHqB+AGm/Qpd62hbJ4N7mB3tEPqhAtaJANe3wl4hGVGi75QlZVQniYFyICrW8/cCoHIySzOvnFAgc05g/nVoNtgQl38aRMEF7t0QLGt5nbudDZLPnyeJHqLJiBTH3FYq64oWM0i1kmj39jhHPniMFbidcNHRQaW+jTBGDzVPmd45TfsjtPZWqnWeZBQltEEl5kmoVL9XdaQQLVH/guV2cdoQO/rQUcgW26jJSWQ8GCaLXbLhYNWpBkKLA6E4hvPXPtJ+u+1pl9TpVGXdmnjAcuF0EzQgl3cBJp4jL9GgoyvBGE4nFpy4cATNQs1EswaNJKwlUgN0sir/kM0d9m92M+tTBmqqKjI9XM6PiWOdjWhpJEwDNmV+lysI5PZmUAZYSUGu3wFEAAMPVIryUpT3+LJSxoPKSUQi1fa0RetDmxP/hNxBQbCCEquc63OKwlH9PMoqGaERLNt7RkroqBC4w==;24lKDiyPrV0PLKWBADOutg=="
 ---
 

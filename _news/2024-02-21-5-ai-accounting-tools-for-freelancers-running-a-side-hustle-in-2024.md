@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Planning a Career in the Age of AI"
-    excerpt: "After decades of industrial robots, factory layoffs, and outsourcing, automation has finally arrived in the cubicle. A recent Wall Street Journal article spotlighted how the new “robots for the mind”—the complex algorithms and language models of generative AI—are creating rising uncertainty in the professional class."
-    publishedDateTime: 2024-02-20T19:16:00Z
-    webUrl: "https://www.aei.org/articles/planning-a-career-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
   - title: "Perplexity AI's Indian-origin CEO has this advice for freshers looking to start up in artificial intelligence"
     excerpt: "Aravind Srinivas, the Indian-origin CEO of Perplexity AI (an artificial intelligence-powered search startup), believes in following his heart when it comes to career decisions. In fact, while he was studying electrical engineering in IIT Madras in 2014 ..."
     publishedDateTime: 2024-02-21T13:40:00Z

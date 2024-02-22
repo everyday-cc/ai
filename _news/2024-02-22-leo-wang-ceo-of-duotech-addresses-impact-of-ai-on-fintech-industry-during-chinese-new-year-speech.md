@@ -41,6 +41,22 @@ related:
         width: 1430
         height: 782
         isCached: true
+  - title: "Bud Financial, Fintech Galaxy in tie-up to boost Open Banking"
+    excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. Tangible benefits This collaboration is all about ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe"
+    ampWebUrl: "https://www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YzU2OTU2ZWQtZGViMi00/49/155430254.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "India finance ministry to meet fintech startups next week, source says"
     excerpt: "India's finance ministry will hold meetings with the country's fintech startups next week to urge them to comply with regulations and hear their concerns, a source familiar with the matter told Reuters on Tuesday."
     publishedDateTime: 2024-02-20T03:41:00Z
@@ -248,6 +264,6 @@ related:
       domain: menafn.com
     quality: 0
 
-secured: "l4bmaEZl7q4gmzfn+QHGuZGw37c65u/iblo0B0XAsQ5pNlhVExDQZVVLZqBpdHhOvcv1vXQyE8rVnLyVwYlh9i/lcxA316PnC73uT0NCDGipckSoCeLD8MRRLuMx+KjdELHKdoiUQH+jvbYlt7GSXTIXa2b2Ne+5zXC+MmS9UIZ9w/HTYsiN0+QalhD9lGYTuzmaTzh9Pm8+XFC9TEDaBCVRDJElXQefGk28pFlnar+sh8VvSQXMkcsXnzcqWYQi6NT4ceqr/zVMla1OqoJ33q6B2ELl1vbXX1MAE0WPultuFNceQXg/oFJRC8fqu8TYa9Ssukl2GkXnluDZTtX6Rlw7aLTtcDEx6zZbOay2UkY=;5zu4GUWn3FT7gKf2vlzzMg=="
+secured: "CosBCHkYev6SwSdoDQmhs4i0ShK39h/yt1xDdsewaWfrZxmRFx3/EO84xPE6uYU5DFjXNXHCR1x8Rp6Tp7lV67+XIBp2uiXdDvpBZRUtcuXS9GtH8NHFD0e6Pn8pmXRGQcMaATN6dztRpdWn0oGbieFXbDkm7jJYBipmp8JE/hxk/4cdj1e3u7odDrsxg2qANZXb4V/t2/LZ8s6cb91E4/v579DxGs12a2/g6ycVfARLm3D3Mzg3j5qOr3qlVigPaOphdpALfLwWMuoz6uoBd2INfvS0DnkEWSOTcHIaRu6x4oT3b+wZ7768bN6PkN/3UNN/pwXgmHwemK3w4Rrx0cOeXGs9IJ52AiLc4rQ5oD6D+62BNsUCPoUYKICUMXLoy5WhzSmW9Tis0ka0ZQeJ/PLpub+VydsucdKazsW1n7d+HAJGiCkfkIszzSaWT0ABBt+cknJT3+89nJTYdHAy80KCrXP3xEGTSkQY+HOsg1SRTXV5tP+vYL2+oamwb7F5XhwbcnoC9yUPCtysZ+Qb5g==;sqeVAR97jqWeCO967NgYyg=="
 ---
 

@@ -57,6 +57,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Samsung Expands Galaxy AI Features Across Latest Devices with One UI 6.1 Update"
+    excerpt: "“Our goal with Galaxy AI is not only to pioneer a new era of mobile ... The features include the ability to adjust message tone and translate messages in 13 different languages using Chat Assist. Galaxy users can experience the power of real-time ..."
+    publishedDateTime: 2024-02-22T12:43:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 55
+    images:
+      - url: "https://www.deccanchronicle.com/h-upload/2024/02/22/1076664-new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-news-thumb-1440x9601.jpg"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "qNGPyTnxvbr+T5cbBPfZGKtH1Aj+2rHt2IFZDCrluwSxLgmXhTg899TJHDmgXlpXUsjPMZjj+kEIAtf8hRF6q1OpS9DuNPf+XgRtW6bpj2l/sUophU+IihusZiioD94LRDy0uWzpYcdeIWnxdfsD9lEbMWPT1PTOaqOyNaMzpbC9AXFx3d09H6vGiONpY6kWLt7XPA/ueNsgzylbTbHFFk/4/YGiwdl4chHHLp5CXf03vzzvIgH0E+0extxV5OIS5xONYtQ8RbxBxgjzWTJsF1Jgq1NLYyqmJQOTWQnqMScPFougM7ifNabsFIep6X0ZOA5sYzhQrjVrSK6zMr/20QCumWNQbqEhP7v4DmvGgIA=;GuBED4ecONlwfuvNEqP3ow=="
 ---

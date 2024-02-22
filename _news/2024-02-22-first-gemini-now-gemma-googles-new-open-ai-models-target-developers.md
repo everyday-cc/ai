@@ -233,6 +233,15 @@ related:
         width: 1456
         height: 832
         isCached: true
+  - title: "Google updates Gemini AI, apologizes for 'woke' inaccurate imagery"
+    excerpt: "These two updates followed the most recent one on Feb. 8, through which Google rebranded its chatbot from Bard to Gemini and included many upgraded features and capabilities. However, neither of the updates mentioned any change to Gemini’s image output."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/google-updates-gemini-ai-apologizes-inaccurate-imagery"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
 
 secured: "FqjK5utF1LRWfhbbsT3itE78VP3mz6u7MjltZEwgUv4sBf5no07b/BkugXCeFMlkzhWncR7uKaFA6lFh9QpINOu52TmznQI5vNijNod5ryMAwVEmjwBymNNLnFdmcJo7IrOPkg+HKwLyTIIls1lasXOxcyOT7pcApGso3TY8S4MiaqF2b7drqJHYM/NSXK0Aax3Q/6n882r6yj6ISzMMi5h3I59h0z3jCUwrJxcq/YCAB2OXgneuumds5Sid5SW6okHNhZ+XanQ2J4vgTKkwzkwfK9ene1H9kr+Sqa3XSRjVMT1ulV75LYdj2TrKMw0h9Ys8LinpAAO4N/vcZxR4WXNWO/eA8TuIy5UahmKZswFkU0F/jgFBHbLGZWSApmdWvxmowwHSl78mTWJ+xYCmd1T3w/ipsgGq2YCUF+fr5281qvA7tcLaKcMgOibHMHIA1Q3tdt1wXekBY7FQDSCurXSPM3pF2E1TK8zCTyM6+HjMmq/TsC46MSpzcwLLRfko/pyVtJTKkKjdbZ1QQfsi3A==;+Npr1zXPqFGnPLeFAjbn5g=="
 ---

@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google DeepMind forms a new org focused on AI safety"
+    excerpt: "This morning, Google DeepMind, the AI R&D division behind Gemini and many of Google’s more recent GenAI projects, announced the formation of a new organization, AI Safety and Alignment — made up of existing teams working on AI safety but also broadened ..."
+    publishedDateTime: 2024-02-21T15:01:00Z
+    webUrl: "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/"
+    ampWebUrl: "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google DeepMind alumni unveil Bioptimus: Aiming to build first universal biology AI model"
     excerpt: "Today the Paris-based Bioptimus, which plans to build the first universal AI foundation model for biology, emerged from stealth with $35M."
     publishedDateTime: 2024-02-20T14:17:00Z

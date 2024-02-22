@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-leng
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
 type: article
 quality: 93
-heat: 243
+heat: 253
 published: true
 
 provider:
@@ -234,6 +234,15 @@ related:
         width: 1456
         height: 832
         isCached: true
+  - title: "Google updates Gemini AI, apologizes for 'woke' inaccurate imagery"
+    excerpt: "These two updates followed the most recent one on Feb. 8, through which Google rebranded its chatbot from Bard to Gemini and included many upgraded features and capabilities. However, neither of the updates mentioned any change to Gemini’s image output."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/google-updates-gemini-ai-apologizes-inaccurate-imagery"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
 
 secured: "iMOQRYd4663dyUFQhg2XwKt1I67NClsTrHMT61uYzKtQvQrBpZlsAA/f2H87nEgBEAZ20brvENZDpRCFYHEr1O37HgiWXuBXlIFVbkf6GcGmlQZwxi7D1944oVn+5JteBExljBYa7YY5bEnH3AfcrmAl4mKpVJ7xr011RjdaBGKBoC4k+425GLlrlVI0b6+VTeqVGVkQatbIrkuVRvzunFw+O1iI5/nVfbD63/ETuNCLHLUHVsiRkcA6Qg4J+/g+iSiCiFhIWurQxa36Mv+aEHdfuLQoLbMaQ9QBBj89x9W/BI8U1phyGiI/qjkPm819CNUJPUxSwFmrkDCqppu8juzWJtVIifm81FFBuS4CbXeoJt7zHbhE1uIfJPr3QrRSl+ip/xaaSec2uuItEW0gvRKDDz6lsiZcNyAl6GCiIaEX+RiAR2z0f5NVvjgGwie4ePCmUhFK3olDzH0ldSfgwCPXsE11WBtfq3dzs+ng3SQ+un7n2m9MVVysS80B8yk6XjzmadUQSBgifOl2ILzL8w==;/2HSXJSwrURxDeb7G6IVOw=="
 ---

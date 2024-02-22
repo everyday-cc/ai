@@ -24,66 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "Availity Issues Statement of Principles on Artificial Intelligence in Healthcare"
-    excerpt: "Availity, the nation's largest real-time health information network, issued the company's Responsible Artificial Intelligence (AI) Principles. The principles represent Availity's commitment to the development, integration, and deployment of AI-powered tools to maximize meaningful and beneficial use in the delivery of healthcare."
-    publishedDateTime: 2024-02-20T15:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm"
+  - title: "How To Build AI Capabilities Across An Enterprise"
+    excerpt: "Businesses rolling AI out across an enterprise can learn from the masters of making the most of disruption – venture investors."
+    publishedDateTime: 2024-02-22T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 64
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d508ffcd2e8c866e062f4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1141
+        height: 760
         isCached: true
-  - title: "Health Beat: AI advances in healthcare"
-    excerpt: "Artificial Intelligence is revolutionizing the healthcare landscape, especially in cardiovascular medicine. From precise diagnosis to personalized treatment plans, experts say medical professionals are leveraging AI technologies to help save lives."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.wfmz.com/health/health-beat/health-beat-ai-advances-in-healthcare/article_a21f2108-d0b3-11ee-81b1-a396a68aff60.html"
+  - title: "The AI capabilities you need to power your AI transformation"
+    excerpt: "Learn how your organization can use Microsoft Copilot and the Microsoft Cloud to unlock productivity, build your AI capability, and innovate safely."
+    publishedDateTime: 2024-02-20T16:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/02/20/the-ai-capabilities-you-need-to-power-your-ai-transformation/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/a4/9a4f234d-16b8-582d-ad8f-f01de35d11b2/65d67c01d5fad.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Patentability and predictability in AI-assisted drug discovery"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML) are ushering in a new era in drug discovery. The AlphaFold2 system developed by Google’s Deepmind was able to predict the 3D structures of over 200 million proteins - with accuracy on par with ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/patentability-and-predictability-in-ai-9573594/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
+      name: Microsoft
+      domain: microsoft.com
     quality: 39
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15281_0526.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/02/Cloud_Blog_Abstract-08.jpg"
+        width: 1260
+        height: 708
         isCached: true
-  - title: "Hartford HealthCare Launches Center for AI Innovation"
-    excerpt: "Hartford HealthCare’s Center for AI Innovation will support the research and development of artificial intelligence technologies to improve patient care."
-    publishedDateTime: 2024-02-21T13:00:00Z
-    webUrl: "https://healthitanalytics.com/news/hartford-healthcare-launches-center-for-ai-innovation"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
-  - title: "Patient Trust in Healthcare AI Relies on Use Case, But Familiarity Is Lacking"
-    excerpt: "A recent athenahealth/Dyanata poll showed that patient trust in AI for healthcare depends on the use case, but many patients don't know what their providers are using AI for."
-    publishedDateTime: 2024-02-21T12:00:00Z
-    webUrl: "https://patientengagementhit.com/news/patient-trust-in-healthcare-ai-relies-on-use-case-but-familiarity-is-lacking"
-    type: article
-    provider:
-      name: patientengagementhit
-      domain: patientengagementhit.com
-    quality: 33
 
 secured: "ownJ9Ld3gXrpyYAeKCbqcDjCIMJDS4+QV6DN97HN98siRqJgS2mKi32wvcuLMrdIXLfneID6X0eA4JPFmQTh21BRN51pIvwmp6mhiuWHo6/JOkhSogwRbXBqmtqbOTlSi89Nq0xACzAMRsl3zU5DdvfzYXLTiaVV4ymvk3cTpxKu8uqQvjs3q8PiafZnsZRo17ehsfx3Q18MKgMMmV7/+pehtGQ/uVyksFawVDucAr6ejxwH1u7gVOKrTfAVpAsRM5u8S88H8TjFVH/o79/a2HvqxpxfIPFD6aA1I3kP9f5VC/bFEHyvvQAEnvsv/D5qf9yW4HH7CLFT/ZSk9WrO/P5f7xD87/Ajs2jM9kCqkf8=;DueqF6F5rxNvvk6zVqgLYQ=="
 ---

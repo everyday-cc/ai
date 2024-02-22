@@ -42,6 +42,22 @@ related:
         width: 1430
         height: 782
         isCached: true
+  - title: "Bud Financial, Fintech Galaxy in tie-up to boost Open Banking"
+    excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. Tangible benefits This collaboration is all about ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe"
+    ampWebUrl: "https://www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YzU2OTU2ZWQtZGViMi00/49/155430254.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "India finance ministry to meet fintech startups next week, source says"
     excerpt: "India's finance ministry will hold meetings with the country's fintech startups next week to urge them to comply with regulations and hear their concerns, a source familiar with the matter told Reuters on Tuesday."
     publishedDateTime: 2024-02-20T03:41:00Z

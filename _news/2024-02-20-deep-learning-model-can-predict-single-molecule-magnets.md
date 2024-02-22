@@ -35,6 +35,6 @@ related:
       domain: genengnews.com
     quality: 19
 
-secured: "2KgOtNyr4dcf86c3fNkIesB6k0nES5wLdWwdlfY0b0mps/BHIPEKxAGzIiwoBmI+2sD9BeFJ+bmidsXetxKrtiF/1eVmYjHsttNS28ZZq4jhj1R+06W1kK5dYe62O/rnpz2zlTwX7Vu5aHjb9fXEnKEDh9P0w+YMG6KybIKaO13AZUrr/PH/FF92/DhjXuW3Yn/u5Kk7z3LXYv3I+p8HwS1js8AMzrDvk0WXo2G+zblLYa3tscZLilIpkEC+VG1CEMwSGwYA0c/oVwhOpiFyNE42NJW4+eDy+lzLUopKQLyHfK0oHwE5Tx+p/NRr31b4FrXm7wTPQlvXAJZsK+peID8TQSK6i/D3AEhs8LZC1XY=;gXou+Fl1FNSYvir86k/GgA=="
+secured: "+hU4lspFhxbOqYBQUy/R9tPqyYUUud6ul1idL/rr2yrI1ls90fbRBqYdD6P87bsxqye7x1pE06Dw+i9ak98ug6yB290nNjezWrPppFuhNeTmXcNzR6mzbQ4nRd+3kreI4l2RO2pqe/nbg7cc8+L7oESJvM5Y1C+31pcwnXRRqau5Q67LX0r4XXdQ2PP18ZqE/M9yKJKRCoYMjFFdkfDKnw/tLOVHeCS2abd8QGXaI6MXxHeQ/HnC32fLi2VfeH+VQRuU8X84ai6RMGgc073kcHqVLp7Ii7s5fxHfF6qwR0OKF9gPmbgHfs0TURVZS4upuAoCqS/cfCg3jGPpNRMmeF2d6pVe0CdSxeiI+P1zJcBdMS9DBu9d96vC2L1bqcve+mwUUaMpDMPmwUhptoMQisqGyAuOFAK91bTiTxWCi/mIskb1043CLbn5ezHG70Yg/2/YJCSZxKli0NeYdsEYb2XxjDYUfrKC0YARFuTReaime/ZgCOls8cci9gm/nDCMpudtNnRDUNjnz06/0R4HMw==;5Rnyu+jerYsiYCT9RBhFTA=="
 ---
 

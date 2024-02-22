@@ -39,6 +39,15 @@ related:
         width: 2290
         height: 1325
         isCached: true
+  - title: "Google pauses AI image generation of people after diversity backlash"
+    excerpt: "Tech giant responds to complaints that Gemini model was creating images of people in historically inaccurate contexts"
+    publishedDateTime: 2024-02-22T11:43:00Z
+    webUrl: "https://www.ft.com/content/979fe974-2902-4d78-8243-a0cff68e630a"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "W1y6gQCWZBQ/i30KPYmxICvqWnCK/WnoP/tX/nixQpZmhwVOfhc7JpRzF/DIu1KBwpU0mDDl41AXgbYUoW+Gho7YXCo7ESKpWscfZcndik+JumpvkP8Sl/TY173skGoh7v/qVoOTYhP3JlmqfkZxOW6TRoEj8UYb5EYk3gBZjrFDG4oxytHRQNksVS+hkQnOogip37z3D+rPZ2i2BmAkuLBfH6lnQfGCfUL9u2f+21HXShgPflWDLGCP7GeTWUHQ5HzWJ+y7VGaJKWsAc2B55tLrjQKpqnm6UXP/dY/dRefLfdfe9Y8K/B9i6rw1EehtQDvwPkEzo7P+c0ECd3ReoLHiNHuOqPnAPaZhyhzEWOg=;ZiWhye++fjdVh+u8RJitgA=="
 ---

@@ -50,15 +50,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 39
-  - title: "How to prepare for generative AI and the future of work"
-    excerpt: "Tony Holmes explains how generative AI will transform the workplace and provides tips to prepare employees and use AI for collaboration and innovation."
-    publishedDateTime: 2024-02-20T15:48:00Z
-    webUrl: "https://www.pluralsight.com/resources/blog/data/generative-ai-future-of-work"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 19
 
 secured: "hTvVNlzcuxep7y9VjQkOWkh3q81/n3zpVW+6XT6NLbnYsp2iKe/nTTnVtqfrTFz2/r83NWM50weIwZIexarUfbT4uDIhUMvGLYRDq5SxDbvjwClaSsNCSX+TEjV7Y0l2A/RnF5ECQq557uPlWNoOXiWcn44V3MKJyxQBOMfbYYhUSOzgoJv8ly7C/WlGD3M7cngHeoxy0LGSMeayw8mRjhp/rs83oC9LiOMxR8liTq4yNROfeAZSwWfYW1Ae7GsEL3chd7D2E6IiE7FSl3vffoR2MQfD2WY0Eia3ZpIOUVRfLL+Nq14ei29n3TYJcs50Prc0wgVNcV0EicXoiBg4eGsHrYIr+6F2OJAF3NFaQKI=;t12SFd0YoGLWUQ4/dHXF+g=="
 ---

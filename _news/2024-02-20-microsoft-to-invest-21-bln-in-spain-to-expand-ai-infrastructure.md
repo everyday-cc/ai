@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-to-inves
 webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Can Nvidia Join Apple, Microsoft In $2-Trillion Club Today? Here's How Much The Stock Needs To Gain To Hit The Mark"
+    excerpt: "Reaching $2 Trillion: To reach the $2 trillion market cap, Nvidia’s stock would need to reach $804, given its 2.49 million outstanding shares. This translates to a necessary increase of $129.28, or 19.16%, from Wednesday’s closing price. Currently, only Microsoft, Apple, and Saudi Aramco boast valuations exceeding $2 trillion."
+    publishedDateTime: 2024-02-22T11:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/can-nvidia-join-apple-microsoft-in-2-trillion-club-today-here-s-how-much-the-stock-needs-to-gain-to-hit-the-mark-1033092133"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/King-County--Washington--United-States--_6.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "ICreate, Microsoft, MeitY Launch Impel-AI Programme to Empower India Innovators"
     excerpt: "Microsoft India, iCreate, and the Ministry of Electronics and Information Technology have announced the launch of a joint artificial intelligence innovation programme."
     publishedDateTime: 2024-02-22T09:29:00Z

@@ -39,6 +39,22 @@ related:
         width: 1430
         height: 782
         isCached: true
+  - title: "Bud Financial, Fintech Galaxy in tie-up to boost Open Banking"
+    excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. Tangible benefits This collaboration is all about ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe"
+    ampWebUrl: "https://www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YzU2OTU2ZWQtZGViMi00/49/155430254.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "RBI ups scrutiny of fintechs with more inspections"
     excerpt: "India's financial regulator, the Reserve Bank of India (RBI), is intensifying oversight of fintech firms after inspections revealed lapses in customer due diligence. The RBI has increased meetings with executives and invested in better technology to monitor regulatory compliance."
     publishedDateTime: 2024-02-21T08:21:00Z

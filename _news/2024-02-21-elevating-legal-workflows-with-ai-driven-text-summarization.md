@@ -28,6 +28,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 65
+  - title: "EQS-News: artec technologies AG: AI-supported open source technology proves its worth in crisis situations"
+    excerpt: "AI-supported open source technology proves its worth in crisis situations AI-based transcription and translation in over 50 different languages New perspectives for broadcasters, press and news agencies, crisis centres,news services and many other areas ..."
+    publishedDateTime: 2024-02-22T05:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/eqs-news-artec-technologies-ag-ai-supported-open-source-technology-proves-its-worth-in-crisis-situations-1033092096"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
   - title: "How artificial intelligence influences technological innovation"
     excerpt: "With artificial intelligence (AI) becoming massively entrenched in everyday life, enterprises are using the emerging technology to foster innovation."
     publishedDateTime: 2024-02-19T08:55:00Z

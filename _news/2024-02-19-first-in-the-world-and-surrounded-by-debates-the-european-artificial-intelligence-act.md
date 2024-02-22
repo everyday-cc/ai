@@ -295,6 +295,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Nvidia is offering samples of two new AI chips for the China market"
+    excerpt: "Nvidia (NASDAQ: NVDA ) is now providing samples of two new AI chips to its customers developed for the Chinese market, the company’s CEO Jensen Huang told Reuters Wednesday. \"We're sampling it with customers now. Both of them comply with the regulation without a license. We're looking forward to customer feedback on it,” Huang said in an interview."
+    publishedDateTime: 2024-02-22T11:55:00Z
+    webUrl: "https://in.investing.com/news/nvidia-is-offering-samples-of-two-new-ai-chips-for-the-china-market-432SI-4030652"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 34
   - title: "Nvidia quarterly profit soars US$12.3 bil on AI chips demand"
     excerpt: "The company said it expects total revenue of US$24 billion in the current quarter. Huang said Nvidia chips are at the heart of datacentres transforming into “AI generation factories” with data a “raw material” turned into experiences such as prompt ..."
     publishedDateTime: 2024-02-22T04:41:00Z
@@ -303,6 +312,15 @@ related:
     provider:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
+    quality: 34
+  - title: "Nvidia shares jump 14% after sales surge on AI ‘tipping point’"
+    excerpt: "World’s most valuable chip company predicts even stronger sales on back of artificial intelligence spending frenzy"
+    publishedDateTime: 2024-02-22T10:08:00Z
+    webUrl: "https://www.ft.com/content/44b95cc8-9c94-452c-a35b-1f25ba9b540a?sharetype=gift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 34
   - title: "Forget Nvidia: These 3 Artificial Intelligence (AI) Stocks Can Be the Next Stock-Split Stocks"
     excerpt: "At the moment, nothing is garnering the attention of professional and everyday investors quite like artificial intelligence (AI). AI, which involves the use of software and systems to oversee tasks normally overseen by humans, has application across almost ..."

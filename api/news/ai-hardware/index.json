@@ -53,7 +53,7 @@
       "originalUrl": "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -106,7 +106,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -298,6 +298,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-21-arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains.md",
+      "title": "Arm unveils Arm Neoverse CSS V3 chip designs for AI efficiency gains",
+      "excerpt": "In a leap forward for AI infrastructure, Arm announced the latest advancements in its Neoverse chip technology based on the Arm computing architecture. The company unveiled two new Arm Neoverse Compute Subsystems (CSS) built on third-generation Neoverse ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains/",
+      "originalUrl": "https://venturebeat.com/ai/arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/arm-neoverse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T07:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-3-artificial-intelligence-ai-stocks-billionaires-sold-way-too-early.md",
       "title": "3 Artificial Intelligence (AI) Stocks Billionaires Sold Way Too Early",
       "excerpt": "It designs central processing units (CPUs), and major chip companies pay Arm for the right to use its designs. It's a fantastic gig that generates incredibly high margins. A number of major AI players, including Nvidia (which has invested directly in Arm ...",
@@ -410,7 +462,7 @@
       "originalUrl": "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1408,58 +1460,6 @@
         "Meta AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-nvidia-rockets-past-google-thanks-to-ai-is-this-chipmaker-unstoppable.md",
-      "title": "Nvidia Rockets Past Google, Thanks to AI! Is This Chipmaker Unstoppable?",
-      "excerpt": "Analysts are predicting a stellar performance from Nvidia in its upcoming earnings report, with expectations of a 400% increase in profit",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/14/nvidi-overtakes-alphabet-united-states/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/14/nvidi-overtakes-alphabet-united-states/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/11/Screenshot-2023-11-27-231635.png",
-          "width": 1020,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T15:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
