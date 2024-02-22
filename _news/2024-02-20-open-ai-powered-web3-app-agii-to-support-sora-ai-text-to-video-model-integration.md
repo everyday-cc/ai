@@ -129,6 +129,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Openai's New Generative Tool Sora Could Revolutionize Marketing And Content Creation"
+    excerpt: "Sora is a text-to-video model that significantly advances the integration of deep learning , natural language processing and computer vision to transform textual prompts into detailed and coherent life-like video content. In contrast to previous text-to ..."
+    publishedDateTime: 2024-02-21T19:10:00Z
+    webUrl: "https://menafn.com/1107882862/Openais-New-Generative-Tool-Sora-Could-Revolutionize-Marketing-And-Content-Creation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 49
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/21/TC_a5f74image_story.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
     excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
     publishedDateTime: 2024-02-18T00:59:00Z
@@ -185,15 +199,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI’s new generative tool Sora could revolutionize marketing and content creation"
-    excerpt: "As with any technological advancement, professionals will need to adapt and find ways to integrate Sora into their workflows, leveraging its strengths to complement their own skills and creativity."
-    publishedDateTime: 2024-02-21T19:44:00Z
-    webUrl: "https://theconversation.com/openais-new-generative-tool-sora-could-revolutionize-marketing-and-content-creation-223806"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 29
 
 secured: "4CFlbY+oMzV/NYZXuVW8V4wVNw1tRu//h3Iu+LsS/ljrfRIeuausXLJbjzEnLjDVFPQo4rTEpwHIqW05q+f6dkjyyKcutHMIL/A/8uQfcuTjk6czlix8leKCTOdxcveLC1vAfCchxXm5zmPfE7YlxMJQua7QVcanc/5WW4UT26/sNmAF/mfvSaVK4gtdPcogozm6JocTP0ADqBPW2/yHBOlplgiY08o4HacFgQBSoCebRhUk+uVRfjA5ZdQ2zUpBVclUDM16AZXeBMCt8uoiOOSkbygBwN8OOpDPV5Z7fGEVPCDT9HioYGnkPr0oSwgQrdjT9gUAs9s4VGpGHTS7fDmkXqNQkaFFlezjbo43n679htwx97TVk67U/+uCCdUAEJ0p6OEAAVQUdMBzCQuoXXXK67rxevQ4qjvRjKQe0CsJlkc2gfQrc36aUXDrKm/0AQy3Ngd36tlu98g3viebc1ZcOWBYYdqU9ikhdNvEvQlahhfV51yCyS+7n8khu3ppXGUrMlhkQeMRdUCVJC8XqQ==;l4Ww5RyRduujb6tLoc+1iw=="
 ---

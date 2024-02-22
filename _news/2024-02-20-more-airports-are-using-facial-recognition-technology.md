@@ -109,20 +109,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Gardaí and facial recognition — are we becoming a surveillance society?"
-    excerpt: "The use of facial recognition technology is set to become more widespread in society — in many ways, it is already used as part of routine police work — but how far is too far? A compromise too far? A new bill is going through the Dáil to allow ..."
-    publishedDateTime: 2024-02-17T00:00:00Z
-    webUrl: "https://www.independent.ie/business/technology/gardai-and-facial-recognition-are-we-becoming-a-surveillance-society/a1302552404.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 39
-    images:
-      - url: "https://focus.independent.ie/thumbor/bgo0eKlMkxl1FxX9fb9gD6sk-o0=/0x66:3046x2096/629x0/prod-mh-ireland/655ecaf1-278a-40b3-95f2-709c1749ebf4/5ac5d98f-23fa-45ae-aac3-dc097167e31d/tyImages_1189384731.jpg"
-        width: 629
-        height: 419
-        isCached: true
   - title: "UB computer science professor weighs in on bias in facial recognition software"
     excerpt: "Despite many upsides, AI has a disturbing element: bias in facial recognition technology that seeps into the criminal justice system, health care and other areas of daily life. For example, a number of people of color have been falsely identified as ..."
     publishedDateTime: 2024-02-21T00:00:00Z

@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nvidia’s data center GPU sales grow by a stunning 409% on huge demand for AI chips"
+    excerpt: "He explained that the company believes demand for its GPUs will remain elevated due to the interest in generative AI and also an industry-wide shift from central processing units to the company’s accelerator chips. In a press release, the company said ..."
+    publishedDateTime: 2024-02-21T23:48:00Z
+    webUrl: "https://siliconangle.com/2024/02/21/nvidias-data-center-gpu-sales-grow-stunning-409-huge-demand-ai-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 80
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/manufacturing-press-imec-keynote-blog-1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Softbank wants $100 billion to compete with Nvidia for AI chips"
     excerpt: "SoftBank's Masayoshi Son aims to raise $100 billion for a chip venture named Izanagi, focused on AI computing and artificial general intelligence. The project plans to challenge Nvidia's dominance, collaborate with OpenAI, and achieve AGI through Arm's ..."
     publishedDateTime: 2024-02-20T12:30:00Z
@@ -186,6 +200,20 @@ related:
         width: 1500
         height: 796
         isCached: true
+  - title: "Nvidia's revenue soars 265% year over year due to generative AI boom"
+    excerpt: "\"Accelerated computing and generative AI have hit the tipping point ... training and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software and consumer internet companies,\" Huang said."
+    publishedDateTime: 2024-02-21T17:45:00Z
+    webUrl: "https://www.aol.com/finance/nvidias-revenue-soars-265-over-224549033.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/ScJg37i8s3sUiERTSu2Efg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/17fe813ce1b672aaaf256ccc442eea9a"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Wall St retreats ahead of AI-darling Nvidia's results, Fed minutes"
     excerpt: "Wall Street dipped on Wednesday as investors braced for chip designer Nvidia's high-stakes earnings report that could hinder this year's AI euphoria if results are not stellar, and awaited minutes from the Federal Reserve's latest policy meeting."
     publishedDateTime: 2024-02-21T17:14:00Z
@@ -237,17 +265,20 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
-  - title: "Nvidia’s 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
-    excerpt: "(AP) — Nvidia Corp., which has seen its value skyrocket over the past year thanks to soaring demand for its graphics chips used for artificial intelligence ... based on analysts surveyed by FactSet Research. Analysts had expected revenue of $20.4 ..."
+  - title: "Nvidia's 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
+    excerpt: "Nvidia Corp. posted stronger-than-expected results for its latest quarter, more than tripling its revenue from a year earlier."
     publishedDateTime: 2024-02-21T22:09:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/amp/"
+    webUrl: "https://www.clickondetroit.com/business/2024/02/21/nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: clickondetroit.com
+      domain: clickondetroit.com
     quality: 26
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7CNQF6R5YRE3LD4YNPKP7WXVBY.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
     excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."
     publishedDateTime: 2024-02-21T15:23:00Z

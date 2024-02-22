@@ -28,20 +28,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "'Better than a real man': Young Chinese women turn to AI boyfriends"
-    excerpt: "BEIJING — Twenty-five-year-old Chinese office worker Tufei says her boyfriend has everything she could ask for in a romantic partner: He's kind, empathetic, and sometimes they talk for hours."
-    publishedDateTime: 2024-02-17T00:00:00Z
-    webUrl: "https://www.todayonline.com/world/better-real-man-young-chinese-women-turn-ai-boyfriends-2361986"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--WN-9H-ul--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2024/02/13/20240213_afp_ai_boyfriend.jpg?itok=zzY4QWFh"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Nvidia hires ex-Xpeng staffers to boost its autonomous driving business in China"
     excerpt: "Nvidia has reportedly hired multiple high-performing ex-Xpeng Motors employees to be part of its automotive team in China. The US chip powerhouse is"
     publishedDateTime: 2024-02-20T10:00:00Z

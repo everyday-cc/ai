@@ -43,6 +43,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "5 Industries That Will Undergo the Most AI-Fueled Change Over the Next Decade"
+    excerpt: "Discover the transformative power of Artificial Intelligence (AI) in revolutionizing industries and shaping our future."
+    publishedDateTime: 2024-02-21T23:42:00Z
+    webUrl: "https://www.ibtimes.co.uk/5-industries-that-will-undergo-most-ai-fueled-change-over-next-decade-1723575"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 36
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1723100/ai.png"
+        width: 621
+        height: 414
+        isCached: true
 
 secured: "3q17ol6YvswyOg8F4JIwK36UBVjP/sSfpjulBHwHSRKQIwnG3efsjVsgkcoU740Cu0cyTLxpgLGMA5ytzn+xqT1Hdfp86lGGxhZsKSV1Ax6AS7qAihBmoMlVVl0VohTpOxBovg/SOV8xj+wVfKYJJpnEuQ5ilqsJm2HDesJNwPT9kF6i4xqhRVwi0gK3TFZEsPJEI2LxFphbgapf4673KNR2Q+RLHt74l98QiXcgDrleVXL1b17S0SQuGfCYxnxJuqsu5NU0ZDWXli4L4xsgcOjmrgknIK3+YWsromnee4RiVQTyf/zg+p5/yJR3sjbAeZk5ziYWIJvfhSunPIZJmdOeUwRVbhO2DbzFepsuUj4=;SuNVlOVJdyuyhLCtTh8cGw=="
 ---

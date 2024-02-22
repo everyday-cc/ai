@@ -66,6 +66,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "How a New Bipartisan Task Force Is Thinking About Artificial Intelligence"
+    excerpt: "On Tuesday, speaker of the House of Representatives Mike Johnson and Democratic leader Hakeem Jeffries launched a bipartisan Task Force on Artificial Intelligence. Johnson, a Louisiana Republican, and Jeffries,"
+    publishedDateTime: 2024-02-22T00:39:00Z
+    webUrl: "https://www.aol.com/news/bipartisan-task-force-thinking-artificial-223921544.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 38
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/OFEc_OZM.iFDLuzlqzo5iQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_time_773/7b28cf692c2dc7b4fef9913c222f2d31"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "U.S. Rep. French Hill picked for bipartisan House artificial intelligence task force"
     excerpt: "WASHINGTON -- U.S. Rep. French Hill, R-Ark., has been selected to join a bipartisan congressional task force to study artificial intelligence and possible actions for protecting the United States from potential threats."
     publishedDateTime: 2024-02-20T23:40:00Z

@@ -24,6 +24,22 @@ images:
     height: 1410
     isCached: true
 
+related:
+  - title: "Commencing the Data Science Initiative with first-ever Data Science Conference"
+    excerpt: "Initiative aims to transform the landscape of data science at the University, exploring new academic paths and improving research resources"
+    publishedDateTime: 2024-02-22T00:07:00Z
+    webUrl: "https://www.unr.edu/nevada-today/news/2024/data-science-conference"
+    type: article
+    provider:
+      name: unr.edu
+      domain: unr.edu
+    quality: 20
+    images:
+      - url: "https://www.unr.edu//main/images/news/2024/February/Data-Science-Tabling-Event.jpg"
+        width: 900
+        height: 678
+        isCached: true
+
 secured: "Wm3KkezHGu8Vbn9ekogR3gF7Zpa+Kdjq+ddevIROu48y69HmQ6OTuZhbh4cosT+A2BYdE/SqJ6NgPh+S0uMHxQi4MxAJNMa9YmXbmHliqgyty9OQyeBoWzQyBi8he9vZpDvvbwr1bBS0v7WPo4yg/4a+2N+6nScG/q+JPyzq5K8syXCY1KQe1pYc2ALdTNeFZBnljMoaX0UjJ4d+02PMp1Zk50AlcxL9DXVzWmRQzaNl4oRRVx7Lu/66loSv0X5A2PqhzUc62QFAfS9do6Qx1k3tj2HVEsJhljObpKFoSAeX4VlF47qYbSrpPCl+AH9DJtS6gRUS4FAUyrRv91MUzqzSqH/pavWKRsXtbi4HGwA=;Vtx5oLvwO++z6RJergbMqg=="
 ---
 

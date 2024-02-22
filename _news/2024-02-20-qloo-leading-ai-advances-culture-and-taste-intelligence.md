@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/amp/"
 type: article
 quality: 89
-heat: 115
+heat: 119
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 49
+  - title: "Re-Evaluating Corporate Culture in the Age of Artificial Intelligence"
+    excerpt: "However, the behavioral component or human synthesis with AI and the manner in which it is deployed internally, beyond mere corporate logistics, seems to be a puzzle piece that is consistently missing."
+    publishedDateTime: 2024-02-21T17:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/re-evaluating-corporate-culture-in-the-age-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 49
   - title: "AI-driven ad targeting startup Qloo raises $25M"
     excerpt: "Qloo Inc ., a startup that claims to be a pioneer in “cultural AI,” said today it has closed on a new funding round worth $25 million."

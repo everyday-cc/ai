@@ -115,20 +115,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Gardaí and facial recognition — are we becoming a surveillance society?"
-    excerpt: "The use of facial recognition technology is set to become more widespread in society — in many ways, it is already used as part of routine police work — but how far is too far? A compromise too far? A new bill is going through the Dáil to allow ..."
-    publishedDateTime: 2024-02-17T00:00:00Z
-    webUrl: "https://www.independent.ie/business/technology/gardai-and-facial-recognition-are-we-becoming-a-surveillance-society/a1302552404.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 39
-    images:
-      - url: "https://focus.independent.ie/thumbor/bgo0eKlMkxl1FxX9fb9gD6sk-o0=/0x66:3046x2096/629x0/prod-mh-ireland/655ecaf1-278a-40b3-95f2-709c1749ebf4/5ac5d98f-23fa-45ae-aac3-dc097167e31d/tyImages_1189384731.jpg"
-        width: 629
-        height: 419
-        isCached: true
   - title: "More airports are using facial recognition technology"
     excerpt: "The Transportation Security Administration is planning to widen its use of facial recognition technology, hoping to speed up the boarding process. More than 30 airports across the country are already using such technology. The TSA plans to roll it out to ..."
     publishedDateTime: 2024-02-20T00:00:00Z
@@ -153,6 +139,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fUvvP5UGfLfCgT5oq3kujCCEPG41DkfG4YDXuRkCHoNszj1Ee1g2Ftdl29vaDZrBpjHsg520Ofko9PynulXaxCTuEd2bBaGYi7ez15Xr8kcLErYDG6LRymlUOp9GNxFO0OmqwVeoUWiHPdY8k6Cse51rhs8eQGpnfRIZ0ZtuccA0orWnDcu3/rZbeRbm5RfbS/x15nasUleHLF49BLm4LaxcCEYvne7HcN9ir2MA02KMxOrosu3xOyovSPjX/906wEkl0IolUeT6BOAlxbOEMpOGcLnXXFcyKJOupcCvyJp274Lw8VfGIK70ORpYRKPSS9invKJ6CCuZA0BMYHEppH0PtK7KTpLLeiA9XskM52c=;ga/NoiOt/YJcWFPSbF8W1g=="
+secured: "95oideHu9TbLINlwSl/BrQd+m8RSUemwYm9ZBfKdPlUmZ9nD+wdFsA8JmS1f1wR45/T4kx0TpssidpOvDHOGwO5eVsKsMfnvEvoXZJmtq3O1rQ5URB2tcSBXcPSiohYh3RJH939tfIlMjUqRSnTKGwmknBtg6QucmBtohT2KjVLkTjrOVzj4to6kK0kNtKgI03ePNXpJOtgU/kc3CZjgvFLDB8KRCkHA53OK01q4F0TFSotA4y7Hei7qmuvoW48ccG7Z0dy+o41kURKfbhYE5q4oBG0X3rWrODBYnpGjDYzarWYqKxU8d2zlnkcm+SVlC3dEjtcjw/Gv2DEiFpvZ6cGnT8HP2C/IB3kUvknQP2Jsfi6MUaZdQEBpSaYs0W0nvSIsCqU1FTj7RL3rX8EBE/w7kFfmScOyBoK9LjNeT136B97xdqlcPzUg/B74seFY5FEb2SE0rsJcc63JzlMor2sm5W89o/6OXFtJZc7L45r5PDiO5bUGVExE9NQPAssMSQI64KKlmCkayMTtSlq9sw==;qzduO5mYJ3LQcvVxy+1WDQ=="
 ---
 

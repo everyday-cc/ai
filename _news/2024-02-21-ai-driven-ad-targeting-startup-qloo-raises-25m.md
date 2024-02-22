@@ -49,6 +49,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Re-Evaluating Corporate Culture in the Age of Artificial Intelligence"
+    excerpt: "However, the behavioral component or human synthesis with AI and the manner in which it is deployed internally, beyond mere corporate logistics, seems to be a puzzle piece that is consistently missing."
+    publishedDateTime: 2024-02-21T17:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/re-evaluating-corporate-culture-in-the-age-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "J2pBFa/cE5E3Lm8UX/ReS5JJ4ArT4gw6//4SmFXTPZsOjvso1GZPBUgO/PdkZyAzFbqoa248Zf+cJpDMpr9xLDLYRbAqe/N/avSwxFYalYlYOG2KVjBN/C3eBShb8S96lZyZNouWZl51beDkOYIugYw4Wl7Cc5fuRbOlgaSch5rx9gBUP4x04mxzbDmGgGwSWS+8AC134rrfgdIo4xxJ765Sb6pVCZPAOb9rvLuZbTHchmOLoQSMJ1rUK8Pmp4m8aLBJ1woDhCLx8pd2E49BPXLNiCf2q7QB/soMluILCJgTROeFSBVAY37Svf3PJz+FSRuFlvKA2SmULxTtiFKnmtpYNfTi1rKXcCl5n18ymZk=;lF/zEjrP92eprErrSswgXg=="
 ---

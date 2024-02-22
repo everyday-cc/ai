@@ -113,7 +113,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -153,49 +153,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-china-willing-to-join-global-efforts-on-ai-ethics-governance-china-daily.md",
-      "title": "China willing to join global efforts on AI ethics, governance – China Daily",
-      "excerpt": "China is willing to participate in global efforts to promote the ethics and governance of artificial intelligence so that it will - Kenya breaking news | Kenya news today | Capitalfm.co.ke",
-      "sourceUrl": null,
-      "webUrl": "https://www.capitalfm.co.ke/news/2024/02/china-willing-to-join-global-efforts-on-ai-ethics-governance-china-daily/",
-      "originalUrl": "https://www.capitalfm.co.ke/news/2024/02/china-willing-to-join-global-efforts-on-ai-ethics-governance-china-daily/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.capitalfm.co.ke/news/files/2024/02/China-AI-e1708171440161.jpeg",
-          "width": 630,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-17T12:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Capital FM",
-        "domain": "capitalfm.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -1235,6 +1192,58 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-this-company-says-conversational-ai-will-kill-apps-and-websites.md",
+      "title": "This Company Says Conversational AI Will Kill Apps and Websites",
+      "excerpt": "I might have inadvertently insulted Bret Taylor and Clay Bavor when I interviewed them about their new AI startup last week. Their new company, Sierra, is developing AI-powered agents to “elevate the customer experience” for big companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/",
+      "originalUrl": "https://www.wired.com/story/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65ce8e802d03fe069d2dde96/191:100/w_1280,c_limit/Sierra-AI-Plaintext-Business-CCarlos_Chavarria_Sierra_AI_Bret_Taylor_&_Clay_Bavor_091_296.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

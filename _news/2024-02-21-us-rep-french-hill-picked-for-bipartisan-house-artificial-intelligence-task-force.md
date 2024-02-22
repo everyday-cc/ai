@@ -73,6 +73,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "How a New Bipartisan Task Force Is Thinking About Artificial Intelligence"
+    excerpt: "On Tuesday, speaker of the House of Representatives Mike Johnson and Democratic leader Hakeem Jeffries launched a bipartisan Task Force on Artificial Intelligence. Johnson, a Louisiana Republican, and Jeffries,"
+    publishedDateTime: 2024-02-22T00:39:00Z
+    webUrl: "https://www.aol.com/news/bipartisan-task-force-thinking-artificial-223921544.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 38
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/OFEc_OZM.iFDLuzlqzo5iQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_time_773/7b28cf692c2dc7b4fef9913c222f2d31"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "OQJ0fbaVTerShw3Cd72rYJIkkrGdLsMyClOzsp1gXOyB61nglAhOJMOGk1/rYl5e86CPRWD2PZS7BpvDNKatJ/GsW8tfZNvqexbMogJvdg5UmRW/2oU5KYx4qbPTwXx3vRKuWUcNl+35HWpOClsYkCqfd79NDw8uW73PvwDS7ewOC9ZYTiGHYu9PFj9fVVV3UOEE/yBRX8OkXplRXuNnrCxT7IOdxY4RmSPbc5zWcjzsDq1EmUmrD6P5XGwPX8cAIIzj6V6B16AVxIucwuhl9JkXuU/IJcPDqbzwhkYhJHT+okHuNKXOBUSRs1HtQBT0bs79XUTbeS9FE2HPbEsOObM9dtFSUD6Zab1tyzuEz5g=;BEA/FKBBmmbS9XxD8E9TRg=="
 ---

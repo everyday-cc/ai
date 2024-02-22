@@ -39,6 +39,15 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Re-Evaluating Corporate Culture in the Age of Artificial Intelligence"
+    excerpt: "However, the behavioral component or human synthesis with AI and the manner in which it is deployed internally, beyond mere corporate logistics, seems to be a puzzle piece that is consistently missing."
+    publishedDateTime: 2024-02-21T17:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/re-evaluating-corporate-culture-in-the-age-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "AI-driven ad targeting startup Qloo raises $25M"
     excerpt: "Qloo Inc ., a startup that claims to be a pioneer in “cultural AI,” said today it has closed on a new funding round worth $25 million."
     publishedDateTime: 2024-02-21T14:00:00Z

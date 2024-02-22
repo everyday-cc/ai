@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence for the Financial Market: Machine Learning Enhances Stock Return Prediction"
-excerpt: "In the complex world of financial markets, accurately forecasting stock prices is a significant challenge. One approach relies on enhancing the"
-publishedDateTime: 2024-02-06T09:58:00Z
-originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/242382"
-webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/242382"
+excerpt: "In the complex world of financial markets ... especially in global stock investments. However, Machine Learning (ML) methods, a branch of Artificial Intelligence (AI), offer a promising solution."
+publishedDateTime: 2024-02-06T09:40:00Z
+originalUrl: "https://idw-online.de/de/news828219"
+webUrl: "https://idw-online.de/de/news828219"
 type: article
 
 provider:
-  name: AlphaGalileo
-  domain: alphagalileo.org
+  name: idw
+  domain: idw-online.de
 
 topics:
   - AI in Finance
@@ -17,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/57cb4b00-6b25-4372-b33b-e62ecfd053f0-20ogo1c-1.jpg"
-    width: 1319
-    height: 531
+  - url: "http://www.idw-online.de/de/institutionlogo31018"
+    width: 1431
+    height: 663
     isCached: true
 
-secured: "ErQ67D5F+Yn3AfQssYUT6DBIBWJib8wMaHdJ1Y1et+UoGrOywuV/G09htj/nvsbEaLkld8k7siOmK59Zfv9a0v+GSbdrBW00Q6PVoyVKqVP7JwnhbO/BxrRy7HnePGowVAA0U/nCI636peUlf5rRaDCOUxaYk8nVGSuAL03YopiH0t18R8XXK9kz5S2lf5VkDUnxjmtwQkz0frkXhhlG9owuxYJ9PmoEsrUpmnkA1mxENsEvuu8EpZu6s+mbiDM13IGtCVthqJ/OiV4mnbixdMsJ0H7IgXLTWDkrMlR+QUuodM39wMiiylgK0TK1ahPgbp9mU0moxVvFBIKwG5rZzbMY4xiVd5WUJ4AMhRbt4RA=;UjIR6MrzxO4xLRvls399Fg=="
+secured: "lIcgFvZRp12EIpdcIkYDGjLwdgXeHpVgCQAiXsUffUL943F6pikkzTjLmpZM0uQI0IhGiTYf2gEt82r6yUZGt/xTrrS4MbI+Um/rypDcssSLKh6QT1kuc0TmwQd4k1/VdX6ZyqrAhiHIfqxfiF3D4XjFO27RcyroUihWu706u9mQmpwBxXGs48eAm4VkmwAkUpRRXNbSMNb6gkqNqPk8oO3lTr5IIXCvw14VlVDJZ52tEg1g+2Y5JylD4hbeGdf2i9hpA6iJFnWWlQrZeXUp/qk1TPvnnlbqLVXnmwb4gJQreaCeGZuV3d4985EVHESf4vC2XC6AgNBoD074OrqpyRQiLk6KIotwsN6xL2mKw34=;KoBLrgcDGUYgIDHGLbQFsQ=="
 ---
 

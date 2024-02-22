@@ -138,6 +138,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Openai's New Generative Tool Sora Could Revolutionize Marketing And Content Creation"
+    excerpt: "Sora is a text-to-video model that significantly advances the integration of deep learning , natural language processing and computer vision to transform textual prompts into detailed and coherent life-like video content. In contrast to previous text-to ..."
+    publishedDateTime: 2024-02-21T19:10:00Z
+    webUrl: "https://menafn.com/1107882862/Openais-New-Generative-Tool-Sora-Could-Revolutionize-Marketing-And-Content-Creation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 49
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/21/TC_a5f74image_story.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
     excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
     publishedDateTime: 2024-02-18T00:59:00Z
@@ -180,15 +194,6 @@ related:
         width: 426
         height: 240
         isCached: true
-  - title: "OpenAI’s new generative tool Sora could revolutionize marketing and content creation"
-    excerpt: "As with any technological advancement, professionals will need to adapt and find ways to integrate Sora into their workflows, leveraging its strengths to complement their own skills and creativity."
-    publishedDateTime: 2024-02-21T19:44:00Z
-    webUrl: "https://theconversation.com/openais-new-generative-tool-sora-could-revolutionize-marketing-and-content-creation-223806"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 29
 
 secured: "QfQHoFQn01/lufY/bJVDqGDqhkxciC07uGBJqNLUPmAonh2UodVKviTG8AWiyBM3ck2EcC3EsRCTdUGMTt/PJKrnTYy1SYPQ8lU7pxb5rfLDQagvSJtqkRfh/kRDvNoQz8jqzq7O5WFPc1GBGvI3o5mTqDN+FUOvv/eSRe14Ig18uS+4EHp4d+mno7dnwmNjE5A+4CpkUd0O/926LlELmh1c/j+ABgFBEHhGZoN0P+HZxxW25i17WVeqo3gR0uLFKEkXn8NjM6PaEmiPZfgBqLfLqnv0IeyxzIyLyFkou8S+FWA37TDD/SnAdqo8DCMg25CQfsRxYH5yF07G9wotA2V+QFFXO7squBi0E5rDKjk=;W3sz5iSk/fiBmULI2Dmamg=="
 ---

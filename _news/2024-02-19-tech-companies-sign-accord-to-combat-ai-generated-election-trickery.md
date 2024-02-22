@@ -63,20 +63,6 @@ related:
         width: 620
         height: 414
         isCached: true
-  - title: "Tech giants pledge action against deceptive AI in elections"
-    excerpt: "Fears over how AI could be used to mislead voters are escalating in a year that will see hundreds of millions of people around the world cast ballots. As a result, tech giants are pledging action."
-    publishedDateTime: 2024-02-17T00:15:00Z
-    webUrl: "https://www.kalw.org/npr-news/2024-02-16/tech-giants-pledge-action-against-deceptive-ai-in-elections"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 37
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/a1254d4/2147483647/strip/true/crop/1491x783+0+354/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F16%2Fap24023546723486_sq-ce850be914858df4a22203961b9dc8774c03c8fd.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "itLqj4vZVQaqXYxlhH2YkKtDMGpqsl9yVvwpUryx/IM6P8Ogp7j0qrhaLK+bLArjOrQZPlSRe0NSAazOI3+q3SzB0On1apNadQc5Mow02eOXel2Svnpn8+nQoKSRfP7ncbjMwoiwmvEGzP0kX2Gbcvsmc1whJgVYTQKpxOW4OW5/OdVfl2FE6INfTuuGh5fbMsD6pLKeRSOsKEmVFYJ1x9+ggszwQO0YVokv9UuHtS+cAKQWTfoCNp/nb40an/KqMIi16BtMwaXAkCqOUQuP42YZSYe5AFl34trt4VJirl3UxUcr8GNKhaQX9IjsXaZQ6Ny13SMOGmJ6N0u3Jw+9jfvT78b0RvUKmwt6gCMr1X3QtlRDr5jRAcUhdONF0e4Bv25lZaBLhUhCfjEGU59JtFMPN217WZ+mRIAEQHnL273HSxwUmYGZMilVa55e+h1bbXACjdJGJ1HCtEnhnC6KYo702DfyD7cawtFZYBUahsoU7D0NZ8WmNrSiiiALz5AcTc+KbpAIEgJATF8iyyO0kA==;kUfw4HSskwdwzxArf7AeJQ=="
 ---

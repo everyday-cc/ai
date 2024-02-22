@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/20/ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/20/ai-will-change-the-way-business-leaders-think-about-time/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://riverjournalonline.com/wp-content/uploads/2024/02/AI-Photo-vecteezy-300x202.jpg"
         width: 300
         height: 202
+        isCached: true
+  - title: "5 Industries That Will Undergo the Most AI-Fueled Change Over the Next Decade"
+    excerpt: "Discover the transformative power of Artificial Intelligence (AI) in revolutionizing industries and shaping our future."
+    publishedDateTime: 2024-02-21T23:42:00Z
+    webUrl: "https://www.ibtimes.co.uk/5-industries-that-will-undergo-most-ai-fueled-change-over-next-decade-1723575"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 36
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1723100/ai.png"
+        width: 621
+        height: 414
         isCached: true
 
 secured: "XefOEag9cpzrSgn1ReSuK6m6yQei29vKS7qf9xzADq+ocdhWkGMyBGyTqc1KCtzblmWTuFsdZHIUvyRIvLaUCUlOaamyBkZ9jl2eXNcGGVe+k9BXzr7Cst4l///BqM9D6frtYnJJ4Kd05bhgWZzR3rjbhePoHMtH4URwjhcc0gPgNybkypmDhytg4mMvf45Qz6SA7LL+KR4QBD9MoCAJvM5qcMgRXLQ3gT1MQhLgYHkb7CwI24QSG28hYPFSdO5FJKjY2l3iezUR1wRnE6Rl01jO8toKEVkcsaCu2GvFinxvoBu0h356OKk49HxDpTSbzH1bEDSttPQ3Bx9Z2e0WNTp/10UIy9Y7dAFjPrIPv0lGnX3oCh7Spx+TcPYxCH2gsGNHea6mgqCh2gMUtXXRmC9LQbha0oEux5rTj6N5wlQI0Xwow/qDXsGoJGWw4tZQRhIFRTWvZpfk3LrJqVTJpkiJ/DWI5d9fG+B7pJO2bKu+sCVt+0Fr2IxX0RxNoI8UAGtgHSwxt98lII1LWETWUw==;ZB4e8uFU5EHFp8Nzjb7StQ=="

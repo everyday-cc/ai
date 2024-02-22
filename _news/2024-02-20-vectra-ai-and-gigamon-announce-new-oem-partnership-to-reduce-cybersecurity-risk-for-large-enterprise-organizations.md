@@ -28,15 +28,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
-  - title: "Can Unicorns Save Us? Investors Pour Money Into Cybersecurity and AI Companies as Threats Mount"
-    excerpt: "Unicorn companies in cybersecurity and AI defied fundraising challenges to achieve growth, driven by hype over generative AI and ongoing data privacy concerns."
-    publishedDateTime: 2024-02-20T20:18:00Z
-    webUrl: "https://www.inc.com/chloe-aiello/ai-cybersecurity-lead-unicorn-charge-in-2023-amid-challenging-market.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 7
 
 secured: "yjkZvJQmORQjFLWp04/nU3GudrGUyAnwxmW/y3ZtviTyYj8QgSM9bUA5Wz33pkAxxlmXDL2l8HEyEcm6XlZ8eCWvE5BkuUmopUWDJ4nYF4hFXiFtop0/35LeYUpnBqa6nOh5BaZIYA0HPGdpemNxElHTHMRWpluUCVjvhjCk6j+SK5RxTLa4qOOyiTwt4erEEjSNGUeguhhE5r0A+lUNALC+70ucmZH6SOcL6l+DGwMRdT3UfOP1RjbP/2goCuA7bPXSbkfPWCo7R8GYYTGUHIxxdbGpfKqjAWwV2Bl8V2JzzsdF1e87nEJLcPCxwxQoq5ivswNX5c5/FaYlxeRcRU/Z6ihEMB+8DowhC049hu0=;3zTCsXI3wT2erKzKkdMv+Q=="
 ---

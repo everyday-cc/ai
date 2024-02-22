@@ -7,7 +7,7 @@ originalUrl: "https://9to5google.com/2024/02/21/google-gemini-historical-people-
 webUrl: "https://9to5google.com/2024/02/21/google-gemini-historical-people-image-generation/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Google apologizes for AI bot generating inaccurate images of ‘diverse’ historical figures"
+    excerpt: "Google Gemini, formerly known as Google Bard, was launched in March 2023 in limited release as a chatbot powered by Google’s large language model. The product was renamed in February as “Gemini” to reflect the “advanced tech at its core” after ..."
+    publishedDateTime: 2024-02-21T18:09:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/2867477/google-apologizes-ai-bot-generating-inaccurate-images-diverse-historical-figures/"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 30
+    images:
+      - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/01/google.jpg"
+        width: 2290
+        height: 1325
+        isCached: true
 
 secured: "W1y6gQCWZBQ/i30KPYmxICvqWnCK/WnoP/tX/nixQpZmhwVOfhc7JpRzF/DIu1KBwpU0mDDl41AXgbYUoW+Gho7YXCo7ESKpWscfZcndik+JumpvkP8Sl/TY173skGoh7v/qVoOTYhP3JlmqfkZxOW6TRoEj8UYb5EYk3gBZjrFDG4oxytHRQNksVS+hkQnOogip37z3D+rPZ2i2BmAkuLBfH6lnQfGCfUL9u2f+21HXShgPflWDLGCP7GeTWUHQ5HzWJ+y7VGaJKWsAc2B55tLrjQKpqnm6UXP/dY/dRefLfdfe9Y8K/B9i6rw1EehtQDvwPkEzo7P+c0ECd3ReoLHiNHuOqPnAPaZhyhzEWOg=;ZiWhye++fjdVh+u8RJitgA=="
 ---

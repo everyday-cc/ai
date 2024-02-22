@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-s
 webUrl: "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices"
 type: article
 quality: 51
-heat: 63
+heat: 65
 published: false
 
 provider:

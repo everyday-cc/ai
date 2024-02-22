@@ -9,7 +9,7 @@ ampWebUrl: "https://dailytimes.com.pk/1171663/the-intersection-of-artificial-int
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/amp/"
 type: article
 quality: 61
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Ed-Ansett1.original_wide_mono.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Point Solutions Are Only the Start for AI in Grants and Research"
+    excerpt: "Search on \"AI in academic grants and research\" and you'll come across a bevy of point solutions. Some tailor generative AI to help with the challenges of developing and writing grants (see grantassistant.ai, grantedai.com, grantable.co). Others harness AI ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://campustechnology.com/Articles/2024/02/21/Point-Solutions-Are-Only-the-Start-for-AI-in-Grants-and-Research.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 37
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2024/02/20240221airesearch.jpg"
+        width: 644
+        height: 300
         isCached: true
   - title: "The Impact of Gen AI on Job Roles and Skilling"
     excerpt: "Explore the impact of Generative AI on job roles and skilling, as discussed by Khushal Bakshi, Director of Talent Acquisition at Ascendion. Learn about the evolving job landscape driven by AI and machine learning."

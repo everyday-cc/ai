@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-pred
 webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential-1033078342"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Business Insider
@@ -23,15 +23,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Can Unicorns Save Us? Investors Pour Money Into Cybersecurity and AI Companies as Threats Mount"
-    excerpt: "Unicorn companies in cybersecurity and AI defied fundraising challenges to achieve growth, driven by hype over generative AI and ongoing data privacy concerns."
-    publishedDateTime: 2024-02-20T20:18:00Z
-    webUrl: "https://www.inc.com/chloe-aiello/ai-cybersecurity-lead-unicorn-charge-in-2023-amid-challenging-market.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 7
   - title: "Vectra AI and Gigamon Announce New OEM Partnership to Reduce Cybersecurity Risk for Large Enterprise Organizations"
     excerpt: "The Vectra AI Platform leverages the integration with Gigamon GigaVUE Cloud Suite and is available now through Vectra AI, Vectra AI Reseller Partners, and the AWS, Microsoft Azure, and Google Cloud marketplace. For more information, visit: https://www.vectra.ai/products/platform."
     publishedDateTime: 2024-02-20T15:29:00Z

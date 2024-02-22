@@ -7,7 +7,7 @@ originalUrl: "https://omaha.com/life-entertainment/nation-world/ai-girlfriend-bo
 webUrl: "https://omaha.com/life-entertainment/nation-world/ai-girlfriend-boyfriend-replika-paradot/article_5e614013-1c26-5898-812a-bec73052eaed.html"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot"
-    excerpt: "An AI avatar generated on Luka Inc.’s Replika mobile phone app ... how to get along with people that are different from us,” said Dorothy Leidner, professor of business ethics at the University of Virginia. “And so, all these aspects of what it ..."
-    publishedDateTime: 2024-02-17T00:00:00Z
-    webUrl: "https://www.timesleader.com/business/1645682/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot"
-    ampWebUrl: "https://www.timesleader.com/business/1645682/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot/amp"
-    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/business/1645682/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot/amp"
-    type: article
-    provider:
-      name: The Times Leader
-      domain: timesleader.com
-    quality: 44
-    images:
-      - url: "https://s24526.pcdn.co/wp-content/uploads/2024/02/130388284_web1_130388284-089914121c3045ecaeb300c2e9d2eac7.jpg.optimal.jpg"
-        width: 640
-        height: 427
-        isCached: true
-
-secured: "abaFJd28fcigyTBaoZdER7JlFOWEB8clRor0Auq9tDhND1qeTMJUEHxYjORtWDPZpv1uoi4yPXsTO7glo169lEaNVvca0L8mzTMP2TIi37ki9fPiM5cRk1Zj4kDbiN6bXDf1ruxgtP5BWLZZCwPPQKOgC3iwxx/iZnVcz9Xf1mYc/DIgU2N4dq3SaZxwq+5mesgAXI82YZiPMvXA0+IFmtXi66RA/grrOA/W9rsL6ltEWK5Lm/llDqBkvWLxU9qZFzGUMfa83LifPxWIsa4DdUpA7VJFM2dGDMRIvfd3LWO7dV6/zr1iV3gt6COaeU6n7D8mdWZLpMD1nEsQcpb7g3gsmZnYxKghLLxKoFKNfzo=;qPuEoqz9GjF/kiuMELU7uA=="
+secured: "o2/z0dqUnpxD2dYI6VKkIkK8EqiJChb9KJodm3hysX93YS4r0FYMfAZapJRBfjN+anoo6inkl6WZ8xdkmrq6Vo+N04sNPf+Un5j5UZ8B5fEgvs4q2Lp5UWKlOARBqjnx7BY2327LqIAwhlsfB+gpMHAtvu2QOWC+BrvZLu/7POENWCYsAhJ4h+M8LlgZCG+J2H/Rq+BTRhCfsjD+IVMgTRVlrm7hf7ZBgcsxo+74yPA8yum3JExKPFRtlDzCe5URPxVJuJ715iD8t3BanApKAZm8EVPzYHIkW77iwg7lRRJkuaD0xIHUA0QkKaqGdpPhZVG9hfUn0h1jVfVsBNjKOjUm1MOBDJGG/dYXyMv9F/IxrEOizwyjU3/cadcaED8+fuFy1ZEcleWocl407yTF+GgUaFmkgCiyB8D0bgFlixdZSP86zrZiBqKF4K8lEQsAFb76KXwtEZDna6scI84L+6sM7fZAxQL3S7apDNXQXTgpbGs+XT0DHxG6VUhpoV0GvCPxQ2W4eizLrdZape4SDg==;02SYpc0jvKtORPCU3qf4Ow=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/21/ai-powered-robots-shanghai/"
 webUrl: "https://www.gizmochina.com/2024/02/21/ai-powered-robots-shanghai/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/data_pipelines_moving_in_different_directions_v-transformed.jpeg?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "How Does Artificial Intelligence (AI) Change the Supply Chain and Human Trafficking Landscape"
+    excerpt: "In the fight against modern slavery, Artificial Intelligence (AI) now has increasing importance with its potential to improve accuracy and efficiency in the detection, monitoring, and prevention efforts of mitigating human trafficking. Additionally ..."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/ai-and-advanced-tech/how-does-artificial-intelligence-ai-change-the-supply-chain-and-human-trafficking-landscape/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 43
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2024/02/iStock-1168365129.jpg"
+        width: 861
+        height: 406
         isCached: true
   - title: "Novity grabs $7.8M in funding to streamline industrial predictive maintenance with AI"
     excerpt: "Novity’s TruPrognostics AI platform gets around these issues using a combination of machine learning, physics-based models of common machine faults and internet of things sensors. According to the startup, this unique combination enables it to predict ..."
