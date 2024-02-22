@@ -24,6 +24,17 @@ images:
     height: 427
     isCached: true
 
+related:
+  - title: "BE Semiconductor Earnings Rebound, Driven by Demand for AI"
+    excerpt: "The chip equipment maker’s market positioning helped it weather an “industry downturn as severe as the 2017-2019 period,” the company said in a statement"
+    publishedDateTime: 2024-02-22T08:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-22/be-semiconductor-earnings-rebound-driven-by-demand-for-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
+
 secured: "n9pGSNzueUn4U350SfmBujoOZ7lw0EdFB3PrJ8x1V2Iqw9vpub9K8KCPkDHentzV14XTRO/+L9QCjWCngxQ7s+7cH11Nb9/opy5SYVfi0sLMzVrIhZUD/S+salH1o2iIeEj3/nQ5z2cQHkHN0sK+g3pBMrauhqnHpN2BBOQ7+oJd/3qEp/iQKaYNI6Iy5WiVcxRYAZeEf2oyOVsQYj6gGoyOj+JcQSDGiL/s3gpOv94lUHbY9Ue34n7PMJhoiSAUCBI6YnPmgjJgnmLIm0uy3KTmk6+RleqNcX7+XhdMQlVPGqyLB/8zodO/ox0KTqlSWClDE4VbEZEXFBf3mXFeC0koyeoFtxUJ4nZmxaYiSOo7KCeXpNrERGrKGnmhY6Fl9eytPXlL3pnEfHE9TC84zjbfYAaw2+qSpIpbmXUvdGGJShlKPg34CpeDfTRTU+F5f5coNLv5MkrY+xWde6K9CF8IfEEymyGOi09TEURBCyToH1xr+fT6Z+Lt2gWFQK07M/gjx8i3CoyB/9qdPV81nA==;y3o3tw1b7ocUdd7M9nM/vQ=="
 ---
 

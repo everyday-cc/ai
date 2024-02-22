@@ -42,9 +42,9 @@ related:
         height: 428
         isCached: true
   - title: "Microsoft to Use Intel for In-House Custom AI Chip"
-    excerpt: "Microsoft CEO Satya Nadella revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
+    excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
     publishedDateTime: 2024-02-21T17:21:00Z
-    webUrl: "https://www.thurrott.com/cloud/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
+    webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
     type: article
     provider:
       name: Thurrott
@@ -153,6 +153,6 @@ related:
         height: 400
         isCached: true
 
-secured: "KhMP2u2g52hc7oK+JVjveTWa0wiG8fO/f8UOtbtkRu6PxMcMicOLKFtK3yDS0jUNrj4Q6LfnqDyGSLvNes3fNlSwWMfrN5PCvH3v8zSB2WVszSWXg+hRt2bVqTgnZ1V+Rx6ifGVd02B0rc67X6c0pFtwNNcABqaVvzdSpaaT7cK0k3CF+FCoYU/Yz5CknF7GtThEV8kopyaem+XXPu2r0fnLaVDsYU94lNpNW8AV1PEF0qYJ8aZWw9DkBR4j7yaR53B7UHcvF/oREc8C7wvNBilDTYnp+MbTlhy14lVWcqdUR8ao9tXDzAz9HmG4YBk65wCJIY0JLYefXtBYK31M/7jyr87NPflqFRNOYrWjOFY=;3r10xweU6pdKLiZypJBr3Q=="
+secured: "sSNNMpIZ7VccSV/2pIsz4JjzpOWUA3Gbdi6kVkeGVvWsdei23G7XLWlNpcD/hKJMqBw9lH5oG0YlzhP+W2N/NzSrrhhCCR8RmGgS6l9NHKOsH1GBbLXgVMmW822uflTXGMCBryoOSO31EwPJWNOhw1Hkloc2YF6eAB/1bmQ08Jd/a/Xg3GqaMaHUeX72Kt11++pcO3ytp9R9zmcXt6LyNig/7ybjp2HN8xpzbkY45lBBBF3/BI3n+oMY+cw626CU789Xs1k5cpu3nYc39OpKPrll0OynSEpj7Eja0wqw0JS9PvwU6YjORmdOxiW6kMRrJFFC0+OOSpNY50clq/jklBRwR9ug/LtRXzc/Yq0oBTEYDDiLB8+sQO439lTZZL0j3pMSCV+ZpFvP3MoxDMlyRQkyC0PXlLLvjNSl3hGpQCnxTRMwn05KyHjU0HxMCh/b/F1FHJyyl3dUYN7kIs4fYJQLuYcxoih2GLiDqQicjfRW56vGPVD8KWfbn4Yxm9uxcAK4l145sZocQARN0NW6MA==;7BqyV1NaVVPTzqahgnf75g=="
 ---
 

@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung Bringing One UI 6.1, Galaxy AI Update to More Devices Starting Late March"
+    excerpt: "With this announcement, it means we’re a mere month away from more folks getting to play with Galaxy AI. Having been using it on the Galaxy S24 Ultra for a month now, I can tell you that the Interpreter mode is quite solid, Live Translate is helpful in ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/"
+    ampWebUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
+    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
+    type: article
+    provider:
+      name: Droid Life
+      domain: droid-life.com
+    quality: 54
+    images:
+      - url: "https://www.droid-life.com/wp-content/uploads/2024/02/Galaxy-AI-Devices-600x315-cropped.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Collaboration delivers AI-as-a-service platform"
     excerpt: "The combination of Supermicro’s Nvidia MGX-based servers and Vapor IO’s 5G- and AI-as-a-Service brings AI and 5G to the intelligent edge."
     publishedDateTime: 2024-02-20T19:13:00Z
@@ -63,6 +79,20 @@ related:
       name: Electronic Products
       domain: electronicproducts.com
     quality: 19
+  - title: "Lightning AI Signs Strategic Collaboration Agreement with AWS to Offer Enterprises Optimized Performance for Building and Deploying AI Products"
+    excerpt: "Last month, the company announced Lightning Studios, which are cloud-based virtual environments where AI researchers and developers can code on the browser or from their laptops to develop and ship AI together."
+    publishedDateTime: 2024-02-21T15:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965744.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "EQgVnyM5dT/HgmdUb4sr4znCyTIYuEsLBPkOyNoDIIZvCXM7GqmKGhH2JNq96mxE2/c5GJYJUTntvODQduT64eMY2J2/dbExIYHtagA3F5Po3NeF+jv6ycm6QzhBdTvz+J5Ap7/6qP1wfaRX+dYxzncHqIJ134RPF2ONda4RhQzakftq/+sPw4hdilkGsdn4PHqADBqJgI0USzSe5ApwPRxzQB/uiHEjKWHQ076cPAlN08wRbvVqlrt5SdU9j/YTaNcakk6OxRPt57i6baHe3fgJVL2S/Fs95K+jN6kj86uraEvJyZbPCMZQZwPlGAGlgoMEnHk/lh+JneRG10buCrtw31cSgrn2S9x0xrFKCUZahhC2TJjB6OGeysF+pgwdPDZZWf1JANet5Ab4/AQyt/S/3aAVB37L9V8rm9PyvPppyEWEfNShWJxdSLTwdd4YdFvKaCU8GQlRNS7aeymNb8YiDUxVJYLGG8gNAiksFuXtpoQ89l+ETAnwtTruONWuTs9y0s+ajP/UY3mudEW8zQ==;FkR8pdsZJkw3gTP5P7Wdrw=="
 ---

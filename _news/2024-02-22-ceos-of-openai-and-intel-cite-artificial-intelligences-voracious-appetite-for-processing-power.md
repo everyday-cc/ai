@@ -19,35 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "AI security infrastructure needed after 'malicious' foreign actors use OpenAI to train operatives, expert says"
-    excerpt: "OpenAI named five hacker groups affiliated with governments in China, Russia, North Korea and Iran who used their artificial intelligence tools for training and research purposes."
-    publishedDateTime: 2024-02-17T09:00:00Z
-    webUrl: "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says"
-    ampWebUrl: "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp"
+  - title: "Intel's AI Reboot Is the Future of US Chipmaking"
+    excerpt: "Rival Nvidia, which mints chips with TSMC, became the AI industry’s workhorse and has seen its business soar. But Gelsinger argues that with AI still growing fast and millions of AI chips expected to be needed, Intel can become a major player."
+    publishedDateTime: 2024-02-21T13:25:00Z
+    webUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: Wired
+      domain: wired.com
     quality: 84
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451d7a28-5ceb-42ad-b0e1-c8f9bd7377b7/b53347c0-06fb-4863-9de7-c0ae58861e24/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://media.wired.com/photos/65d6409e2a66db9b96a0d09c/191:100/w_1280,c_limit/Intel-Foundry-IFDC-7.jpg.rendition.intel.web.1920.1080.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "101 on OpenAI's new text to video AI model, Sora"
-    excerpt: "Sora is OpenAI's newest AI model that can create realistic and imaginative scenes simply with text instructions. Here's a breakdown of exactly what you need to know about Sora and how it can help industry professionals in the space."
-    publishedDateTime: 2024-02-19T03:43:00Z
-    webUrl: "https://www.marketing-interactive.com/101-sora-openai-video-text"
+  - title: "BESI exceeds fourth-quarter targets on demand for AI-related chipmaking parts"
+    excerpt: "Orders and year-end backlog for hybrid bonding — a form of chip packaging required for AI applications — nearly doubled from last year, BESI said, adding that around a half of fourth-quarter orders were for its most advanced hybrid bonding systems."
+    publishedDateTime: 2024-02-22T01:38:00Z
+    webUrl: "https://www.aol.com/news/besi-exceeds-fourth-quarter-targets-063825790.html"
     type: article
     provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 39
+      name: AOL
+      domain: aol.com
+    quality: 51
     images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/article_images/101-sora-openai-video-text/1708314097_artificial%20intelligence%20%281%29.png?auto_optimize=medium"
-        width: 1600
-        height: 900
+      - url: "https://media.zenfs.com/en/aol_reuters_29/072c9b8dcb97681613cfa65c3ceed2e2"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Artificial Intelligence And The Future Of Creativity"
+    excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
+    publishedDateTime: 2024-02-17T10:10:00Z
+    webUrl: "https://menafn.com/1107863606/Artificial-Intelligence-And-The-Future-Of-Creativity"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/17/DNE_b7162image_story.jpeg"
+        width: 715
+        height: 429
         isCached: true
 
 secured: "VPg2PEDnUfQ00Jx0ohZPHW9vvxIqVeBcxYDZ0khwNQDeJ51zl4df0XJYdxtVYfckct/aTa5VLlXgtf9MpFeFtFE+bUfdQf/FOfaXHl+Lytd2+NvXloJ0aX8q3ij0OpPZKrN6/1Bl6TQ94crZzeu1a5GtCcl4CmKNMQOmM5MxDvi5bLlicIb3WTiLifsdxLQjGNeydaKQCirT7sSRwqOotnW3XWQGo+S9EgzCrHOngj8q1SlIcMa2vNsiFLlZbutbbdJC5ysMe0hNmxdpHsBwZwpeVmrPNroTV79k6Ay755l6YJXB1HYzEST6bKnxnH/Z91p9ndBBPjNH1fJrJtx9wnHVY9rzBRpni1NVeF3OWSdIFDAKhFyoMfaiqVgb+K/EtIl+Pw6KFOw1wS6MWRNvn1EODfy5JPxCHHaK38x62AW2x5Z/YnLVfV+xYn0kt9zGYKLlCnh7LpdLxRTEE8ViKDVUCULsHJCYhthyVOYeTgPG2Ubc3sBQBQOqNgiJqMAqom1axbUrXrYs3OcHgLXTzg==;M/TQHtbWEfHFJ6oI0yE1sg=="

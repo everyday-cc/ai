@@ -55,7 +55,12 @@ related:
     provider:
       name: HousingWire
       domain: housingwire.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "https://www.housingwire.com/wp-content/uploads/2022/09/1200x700_ai-realtor-e1700154812431.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "pRS+CCLZm8EmseNWDQju5DOC0cygoNmuOHM6pR39iNuC6oycyGf0HFGJDAjr+9WDe8dIbGG3QuMrMQdAd8IND6aZsFvqf2NlXsG8LOFUiA8+jKOROMOUf7zdmaDIrZO+56R6q0CCeQfK1NLBdvxexIgInHOW4hfHWbY07rjRvYGH6lCHLWCqspZTE+Cs7N7+v6STAEAGzfItOax+vw6jjHzt47njPplujJjBGl6Rr8zB4MtHx8oTVQyzeFazii6q+BRgGd7NsJMnj4V2W0CQGORDBAqV9nuWRwsKprpjMqouEip8GTzivLzqyv3l/MEzb5lG6R/9IeMXDox/rMx7u2xVDkakKp5twhkHJA4BAKk=;PQhuLhidC7jfwMz/0VcXKg=="
 ---

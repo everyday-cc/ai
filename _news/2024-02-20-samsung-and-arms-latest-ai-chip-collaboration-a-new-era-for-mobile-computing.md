@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/37218987"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987"
 type: article
 quality: 70
-heat: 100
+heat: 120
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung Bringing One UI 6.1, Galaxy AI Update to More Devices Starting Late March"
+    excerpt: "With this announcement, it means we’re a mere month away from more folks getting to play with Galaxy AI. Having been using it on the Galaxy S24 Ultra for a month now, I can tell you that the Interpreter mode is quite solid, Live Translate is helpful in ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/"
+    ampWebUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
+    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
+    type: article
+    provider:
+      name: Droid Life
+      domain: droid-life.com
+    quality: 54
+    images:
+      - url: "https://www.droid-life.com/wp-content/uploads/2024/02/Galaxy-AI-Devices-600x315-cropped.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AI Features Are Coming to Samsung Wearables and Tablets"
     excerpt: "Samsung's mobile president says the tech giant will add AI-powered tools to more of its devices, but it's currently unclear when such features might hit the market."
     publishedDateTime: 2024-02-21T13:46:00Z
@@ -61,6 +77,20 @@ related:
       name: Electronic Products
       domain: electronicproducts.com
     quality: 19
+  - title: "Lightning AI Signs Strategic Collaboration Agreement with AWS to Offer Enterprises Optimized Performance for Building and Deploying AI Products"
+    excerpt: "Last month, the company announced Lightning Studios, which are cloud-based virtual environments where AI researchers and developers can code on the browser or from their laptops to develop and ship AI together."
+    publishedDateTime: 2024-02-21T15:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965744.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "rIvx9TQXEAaZGZrfmDchzduBsKtHG/tpJPqARHylc7clwMIJSjPIwuaoM1AvYESpFBnKRxcxW59Ky55sk87qAtOgAkWNdgif4MV7YBHyemQQa/FqMFzxCqkRdNyh+yK5xAfLoSVlQgS9n3l8+sWt8VI8dxLU/ZnDxaoA0i1SZ8TFx31JA+CaSjiyE3o5iJL8OJpTnv4dDWyMZXDNEu++TmT8xiwXor78QvysWU2MhdUX8oKU+ebiAkDNqcpwoZCGk4gK6vKfUlh+d6TWFZgrnZH9el8ZYpV8HhYxVRejVC/PuSqvY/tjERxNi8PbVU02R2mg18rQH5+PLL+Z7dhGo9g63zzf4F/f2Kc37FrsGIU=;4vQL9kX6EJGWKRN2T/Zo6A=="
 ---

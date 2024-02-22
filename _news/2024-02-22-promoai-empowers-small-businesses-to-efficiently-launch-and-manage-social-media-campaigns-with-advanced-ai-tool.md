@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mortgage startup Tomo enters the home portal wars with AI tools"
+    excerpt: "Mortgage startup Tomo has thrust itself into the \"portal wars\" arena with the launch of AI-powered Tomo Real Estate, its new home search site."
+    publishedDateTime: 2024-02-21T13:22:00Z
+    webUrl: "https://www.housingwire.com/articles/mortgage-startup-tomo-enters-the-home-portal-wars-with-ai-tools/"
+    type: article
+    provider:
+      name: HousingWire
+      domain: housingwire.com
+    quality: 39
+    images:
+      - url: "https://www.housingwire.com/wp-content/uploads/2022/09/1200x700_ai-realtor-e1700154812431.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "AWS launches program to boost AI and tech competency for small and medium businesses"
     excerpt: "Amazon Web Services (AWS) recently launched a new program aimed at helping small- and medium-sized businesses build competencies in areas like artificial intelligence (AI), the cloud and other skillsets to be more competitive. \"Small businesses often don ..."
     publishedDateTime: 2024-02-19T10:18:00Z
@@ -52,15 +66,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 27
-  - title: "Mortgage startup Tomo enters the home portal wars with AI tools"
-    excerpt: "Mortgage startup Tomo has thrust itself into the \"portal wars\" arena with the launch of AI-powered Tomo Real Estate, its new home search site."
-    publishedDateTime: 2024-02-21T13:22:00Z
-    webUrl: "https://www.housingwire.com/articles/mortgage-startup-tomo-enters-the-home-portal-wars-with-ai-tools/"
-    type: article
-    provider:
-      name: HousingWire
-      domain: housingwire.com
-    quality: 17
 
 secured: "qIY9SyMs1xZiTuHAe0FLGxFnheMoQDDXVbraGM8qXLFA0PAmbTSrFeuTwrH9WtmDQi4TWq0AOQHoENerW66FMIyV/KA9zzH4njwYZHe018qDDlcQVR7umWGT59j5UoM9fRwmJMG0x9NcQZqzNLf5+JBovt06A9LhXrii+hMIc7aVckrZxHhqixq4QbaknbRZuVVIAUOnkEckvYzcCuBrFPFvMq9lcrPGjjhFmjn9GOqkXF2Rnpvkstk+fJFrGoychJM61KT4ShxIC8Q8HvLO85qsFnLVdFyxx6LpOQU4BG1fR8WNEo3BED4RrWTaSUf4G3f5swSvS1MazSdiuCEQSHBIM7JTcYyzOf8dmsNRBEpVELN0tFGgUWNz8gP5RUXEuYajRSW+jFG7ukkBAEaYbirYIg2bcAcrReNpeX3gPvHPsBLyvBZ5SP+6CQF+qWU5kNqNYVsWMkqQF1kNyNMYXb8NXDZKZorJ8vbod9BuCMPomLSpgxL9eGjbxbeILjnPvFeihD9Q7c940E6y2ZxEFw==;cSc3IG0e9fSmhDRMj83/2w=="
 ---

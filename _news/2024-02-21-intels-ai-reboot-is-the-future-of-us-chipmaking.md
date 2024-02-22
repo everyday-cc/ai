@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
 webUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -57,7 +57,16 @@ related:
         width: 715
         height: 429
         isCached: true
+  - title: "CEOs of OpenAI and Intel cite artificial intelligence's voracious appetite for processing power"
+    excerpt: "OpenAI Sam Altman, right, discusses the need for more chips designed for artificial intelligence with Intel CEO Pat Gelsinger on Wednesday, Feb. 21, 2024, during a conference in San Jose, Calif.Michael Liedtke/AP Intel CEO Pat Gelsinger discusses his ..."
+    publishedDateTime: 2024-02-22T01:30:00Z
+    webUrl: "https://www.ctpost.com/business/article/ceos-of-openai-and-intel-cite-artificial-18680923.php"
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 22
 
-secured: "WPpwG9jvTIHWRbd9Wx8/rylm3Vz+l67NQtQ+TpXAVafkHRQAmMHIVeGbJPye+Gn6QXp2d7OdhFjKFraR3OBMlAjCIi0pzfwJ94FIrksw2j9RJWMIljURchQHrBSEkEC2gIrBCDwQ/nZAJNEOg8HZ34RRGBHmoJjgP/QnDxx/NENYpqQt2taFPKbs3cxlJRcyV+KYM4i+T8UKFshWmCcPw1X5fjyDkw6WXH6p0+203h2PNtk7ZcELX4LRkwuv60y4/6idsroT5JneyXmqzILSFaB5Ob+Tx1m954j2ESmm8A/cb+hUiYnqMNdyLzKyy0SCvxtdf2Fs4Tb+BjwPCWFqvVH57OBtSXTjq9e0ubjwpxFjvh7ECI3InVhtFosIAQ/WF1WML9ENDMqrxRQqcllmoH82x3eC2hJlIUzquO4hThg5UcJjROURAB/pf/Viu5R6w0EUhrLLPflOZCbpzgfSVWZKUfXA6DSvcMKtMlSBLj5U9qIW7eXJfXvv1tQRXRYtfH6UaK4x5P2Z4Pv7T0Dq2Q==;FGI+pNHJ0C2VsmJa1cQX5A=="
+secured: "ApG2eTNBNOLYEs+c9GKi21qmvzjhNYSjAVFjEeTDKYriW3JTmIxPY4W64pWLnWeAV1/kj+e6vWHHrhbNFSwlZUUkCk4m+/dbUqA+bFIegZWfyls016koA6rN0Iq0WUAL0RrM0zXTRUH2QTmtDbjLyqcMPzg4iljXE7JgjZKcOQTTcOoKQfKmGJgO48QqVCWs3myImX86ibgD3Xjx9F1vqSZLAum1J1rwklv1WnpS7f8qGG+vjG7cd2pbIr5QruYBiDc7A4M7vVZ3NmS6DpDMukULCR4pWL+S482xrLGXwMHqqv8H7RfSwpW+s0fGLBMmvgOo1lMQHVUNbDQP3HUuDbCcgsyivig2e8ZAGVKbNMi5XZyStFACRFJb45fF0qFSAz7ogoN7Ud0rVw5iNq58QmAlOeLbu7s2Ur+updZ1fGCUaGawWpzN8SS9gLS647zNUEVP3z9XAWDBssbDghpzjYFzT8LiWrPNxPAokEPNdInZ5HhPU/GgD2My9Q51hX5Xxgxze366om4i8qSu4ka55g==;NOuHmykJHLbJBCON2WZxpg=="
 ---
 

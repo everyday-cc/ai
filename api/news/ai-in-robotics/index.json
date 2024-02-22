@@ -106,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-21-how-ai-powered-robots-are-changing-the-game-in-rural-shanghai.md",
-      "title": "How AI-powered Robots Are Changing the Game in Rural Shanghai",
-      "excerpt": "navigating the terrain with crawler feet and making decisions with their advanced AI brains. The simplicity of operating these robots is astonishing. Farmers, using just their smartphones, can awaken these mechanical helpers to start their day. Wang Jinyue ...",
+      "path": "_news/2024-02-21-iflytek-launches-ai-powered-x3-sweeping-and-mopping-robot-in-china.md",
+      "title": "iFlytek launches AI-powered X3 sweeping and mopping robot in China",
+      "excerpt": "The chip delivers the necessary processing power for obstacle avoidance, navigation, and stain recognition, while the lidar ensures accurate mapping and object detection. Furthermore, the X3 can navigate obstacles up to 2cm high and boasts automatic night ...",
       "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/21/ai-powered-robots-shanghai/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/21/ai-powered-robots-shanghai/",
+      "webUrl": "https://www.gizmochina.com/2024/02/21/iflytek-x3-sweeping-and-mopping-rob-launch/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/21/iflytek-x3-sweeping-and-mopping-rob-launch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/65d54dd3a31082fc2b68df48.jpeg",
-          "width": 900,
-          "height": 675,
+          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/iFlytek-X3-653x1024.jpeg",
+          "width": 653,
+          "height": 1024,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -153,8 +153,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -365,7 +366,7 @@
       "originalUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {

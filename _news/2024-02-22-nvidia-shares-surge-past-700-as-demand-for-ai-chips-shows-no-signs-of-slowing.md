@@ -121,6 +121,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Nvidia's quarterly profit skyrockets on back of AI chip demand"
+    excerpt: "Nvidia said on Wednesday its profit soared to $12.3 billion in the recently ended quarter, on record high revenue driven by demand for its chips to"
+    publishedDateTime: 2024-02-22T08:16:00Z
+    webUrl: "https://www.dailysabah.com/business/nvidias-quarterly-profit-skyrockets-on-back-of-ai-chip-demand/news"
+    ampWebUrl: "https://www.dailysabah.com/business/nvidias-quarterly-profit-skyrockets-on-back-of-ai-chip-demand/news/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/nvidias-quarterly-profit-skyrockets-on-back-of-ai-chip-demand/news/amp"
+    type: article
+    provider:
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 74
+    images:
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2024/02/22/thumbs/800x531/316190.jpg"
+        width: 1600
+        height: 1062
+        isCached: true
   - title: "Nvidia Targets $24 bn Revenue in First-Quarter Betting on Chips for AI Business"
     excerpt: "Nvidia, which is powering majority of chips for AI business, said it is anticipating first-quarter revenue of $24 billion with an expected growth of 233 percent. Nvidia said in a filing it had received requests from antitrust regulators in France ..."
     publishedDateTime: 2024-02-22T00:00:00Z

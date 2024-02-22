@@ -103,6 +103,22 @@ related:
         width: 1408
         height: 792
         isCached: true
+  - title: "Google Launches Gemma, a Family of Open-Source Lightweight AI Models for Developers"
+    excerpt: "Gemma’s open-source AI models are built from the same research and technology used to create the Gemini models."
+    publishedDateTime: 2024-02-22T07:59:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 53
+    images:
+      - url: "https://i.gadgets360cdn.com/large/google_gemma_ai_1708588635642.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Gemma open source AI models launch"
     excerpt: "“A family of lightweight, state-of-the art open models built from the same research and technology used to create the Gemini models” – Google. At the heart of Gemma’s introduction is the Responsible Generative AI Toolkit. This toolkit is crafted to ..."
     publishedDateTime: 2024-02-22T00:00:00Z

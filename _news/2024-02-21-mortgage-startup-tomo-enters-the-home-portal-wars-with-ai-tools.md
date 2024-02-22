@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-21T13:22:00Z
 originalUrl: "https://www.housingwire.com/articles/mortgage-startup-tomo-enters-the-home-portal-wars-with-ai-tools/"
 webUrl: "https://www.housingwire.com/articles/mortgage-startup-tomo-enters-the-home-portal-wars-with-ai-tools/"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - Meta AI
+
+images:
+  - url: "https://www.housingwire.com/wp-content/uploads/2022/09/1200x700_ai-realtor-e1700154812431.jpg"
+    width: 1200
+    height: 676
+    isCached: true
 
 related:
   - title: "PromoAI Empowers Small Businesses To Efficiently Launch and Manage Social Media Campaigns With Advanced AI Tool"
@@ -56,6 +63,6 @@ related:
       domain: aol.com
     quality: 27
 
-secured: "PZ/JLwGZBvyPbginRdJ4+d8ZM6Zj2/2C4jt1vWiUZYR1OVCNN3wzqhw6VeFKJlBhCrN3F4o5wbXwSQxyeRKhUgHlYZk11R+wCY367+ITYLxfqzQuu+xTf39Ks0W7ENSOODfMpYkZPE8WK/uJk5gKSPQ33tXHRd1IdcWFQT+h6bPZYMFpdEHqr3mTlbhhU7uFDoHx9CHiXQYRwKmgjaWDLgtZ/krZ2XZzzmw0gWALzwYKt5X/ZhYlHz/WFOy1pSD1TWJV3CvihoXMiXk/Sau3TRYPrcopXCLy/mgL77AZHy4t+2UJ/zxT0RnYcMM7/b52I1e1I1U0WjzpmIEWIT9wJQXyTnJGLRJn7vq3GQ8QUdGnCSf2t3NlEe5trZom5NxxnxeC0PXwOjBkOeDQoZz+fBk6H+/cPcuMHmrzyrbCoVZWalqPdrZG0KJr1ibdiTO/fgdntpmJEmJH0W7CFJKuJH02xr4lWSWGJ8l3gGTsK4Yx2ylmZOgYi4tYq194TJk02pd1gmScoP43DM//ktrbBQ==;mH8Qfc3QDh5FEZ/sXC5UDQ=="
+secured: "4nh4ZC9BJyYLoowKTX5gOTCUTmJ8gHJXH/xgloLuHJ+Tk2yXOH5WSQuyxHyaye6wzhsrsMFHHaaJOftTSRvNpy7kHa+pA5RnR1mPwMmBwtrmvCFS5Hu3ZwBKKvwJevRZxhtX65tx9ZXvMP1fvP6GDACTPmVGz4VQV53kx83ypgHImRDYgP/709gRftaxJbI4SNoin/CVIQ01gndl2NNVVs9o/m9hplr5oJJb/qyKU40rrjbzFikzNYp2zycUzYQYpD9qsqKgZIl+AomuFI/mGw9oIm1ZcNLCD9cRJ86K5b0ZkQq4HbDSkaQw8O+Zn1PtV1lZsMVlJrIP4oSbN0hj/eeLjjCwD77OGjHHYScO7PA=;qyVcccbFghnNKKHGm8kf9A=="
 ---
 

@@ -121,6 +121,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "101 on OpenAI's new text to video AI model, Sora"
+    excerpt: "Sora is OpenAI's newest AI model that can create realistic and imaginative scenes simply with text instructions. Here's a breakdown of exactly what you need to know about Sora and how it can help industry professionals in the space."
+    publishedDateTime: 2024-02-19T03:43:00Z
+    webUrl: "https://www.marketing-interactive.com/101-sora-openai-video-text"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 39
+    images:
+      - url: "https://marketing-interactive-assets.b-cdn.net/article_images/101-sora-openai-video-text/1708314097_artificial%20intelligence%20%281%29.png?auto_optimize=medium"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "XT2bla70fY2Ntdm5IsRRVRqu0NngaMArcSSHDcf2hU5hSgOXn4QuRj3+qQfWNAqoEsnEvRmDkYT/3DN2cy1AxfabvaVqfMbjjahy0SOTe/qHCOgRxxKanb6VOltpoa9CJPYOLSIi2J+6i2UvuA5VQdb1UjfrjenJXK0PPh5q0Nis9nNz2jO75uKM1g2e0EvBbtXQ71cxQBHUeduD3OYnyXx9sQsHRgL5XLKIM51dQSlAUtDj8OIFYztUrPuUXmcsU0+NkV63e7DH6tiEz00jg4J9ZTWs9svwHB2DJXA9A7NJTUV0Aq5j6X4InHOjbywrLat8blXxQzVmb1ym1PzzhyiuVEmNBTP4KXCFdUW06hgYdQUiCZj9+UqwX2P7UMxQ338tZ1thmB89/i0fjeP5zmXo4QoulW18eOLqiUjka+G0BZ3aF9lvayxMUlNtF64NqPwwLpdUdNG7DfnYdZgIV6BwwY6meCii6XaGE2NZv6N6LlQZ5c4Rr9WYTRKtMlOBs7TWMls13VaZYpmW4BYGIg==;RBaRX1XMPRAXlzmA/1IxJQ=="
 ---

@@ -90,6 +90,22 @@ related:
         width: 1408
         height: 792
         isCached: true
+  - title: "Google Launches Gemma, a Family of Open-Source Lightweight AI Models for Developers"
+    excerpt: "Gemma’s open-source AI models are built from the same research and technology used to create the Gemini models."
+    publishedDateTime: 2024-02-22T07:59:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 53
+    images:
+      - url: "https://i.gadgets360cdn.com/large/google_gemma_ai_1708588635642.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google employees are posting internal memes poking fun at how many AI models and names the company launched"
     excerpt: "In the last three months, Google has launched Gemini, killed Bard and renamed it Gemini, launched a better version called Gemini Advanced (not to be confused with Gemini Ultra, which is the name of the model), launched another improved version called ..."
     publishedDateTime: 2024-02-21T20:25:00Z

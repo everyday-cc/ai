@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?am
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?amp"
 type: article
 quality: 89
-heat: 359
+heat: 369
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/02/no0221Nvidia-1.jpg"
         width: 1000
         height: 750
+        isCached: true
+  - title: "Nvidia's quarterly profit skyrockets on back of AI chip demand"
+    excerpt: "Nvidia said on Wednesday its profit soared to $12.3 billion in the recently ended quarter, on record high revenue driven by demand for its chips to"
+    publishedDateTime: 2024-02-22T08:16:00Z
+    webUrl: "https://www.dailysabah.com/business/nvidias-quarterly-profit-skyrockets-on-back-of-ai-chip-demand/news"
+    ampWebUrl: "https://www.dailysabah.com/business/nvidias-quarterly-profit-skyrockets-on-back-of-ai-chip-demand/news/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/nvidias-quarterly-profit-skyrockets-on-back-of-ai-chip-demand/news/amp"
+    type: article
+    provider:
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 74
+    images:
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2024/02/22/thumbs/800x531/316190.jpg"
+        width: 1600
+        height: 1062
         isCached: true
   - title: "Nvidia shares surge past $700 as demand for AI chips shows no signs of slowing"
     excerpt: "Nvidia stock has gained more than 30% so far this year as it jockeys with Amazon and Alphabet for a spot among the most valuable companies."
