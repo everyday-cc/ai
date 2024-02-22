@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Nvidia: Boss sees artificial intelligence 'tipping point' as sales soar"
+    excerpt: "\"Accelerated computing and generative AI have hit the tipping point,\" the firm's co-founder and chief executive Jensen Huang said in a statement. Nvidia's shares jumped by more than 8.5% in extended New York trading. The company also said that its annual revenues had more than doubled to $60.9bn."
+    publishedDateTime: 2024-02-22T01:02:00Z
+    webUrl: "https://www.aol.com/news/nvidia-chip-giant-posts-record-003911601.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/74e811d1473eeee0e03e7889a6e0f0be"
+        width: 976
+        height: 549
+        isCached: true
   - title: "Sayonara Nvidia: The Japanese AI unicorn taking on titans"
     excerpt: "The CEO of the Japanese AI startup success story, Preferred Networks (PFN), said Nvidia is the company's main rival. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my User ID and ..."
     publishedDateTime: 2024-02-20T00:00:00Z

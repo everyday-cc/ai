@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
 webUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "BESI exceeds fourth-quarter targets on demand for AI-related chipmaking parts"
+    excerpt: "Orders and year-end backlog for hybrid bonding — a form of chip packaging required for AI applications — nearly doubled from last year, BESI said, adding that around a half of fourth-quarter orders were for its most advanced hybrid bonding systems."
+    publishedDateTime: 2024-02-22T01:38:00Z
+    webUrl: "https://www.aol.com/news/besi-exceeds-fourth-quarter-targets-063825790.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 51
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/072c9b8dcb97681613cfa65c3ceed2e2"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Artificial Intelligence And The Future Of Creativity"
     excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
     publishedDateTime: 2024-02-17T10:10:00Z

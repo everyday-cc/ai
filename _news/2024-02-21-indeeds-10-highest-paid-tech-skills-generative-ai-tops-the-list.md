@@ -6,9 +6,9 @@ publishedDateTime: 2024-02-21T00:00:00Z
 originalUrl: "https://www.techrepublic.com/article/indeed-highest-paid-tech-skills/"
 webUrl: "https://www.techrepublic.com/article/indeed-highest-paid-tech-skills/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: TechRepublic
@@ -21,7 +21,14 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
-secured: "U0DJWRpEfogZTzZvBiwR/9ZXQU1M7d0FQXpsMYppAl48Z+uiKg8zWXS8CuAgMKFiArF6HFCmR0Y0Q3Dh5+EXdGgfYStS1okelUMR8K4SdYWyXd8axN8y3jktW6ohl0ndvz5YOEWoHEAAfrRHsCJcIQs8MVBex/pjiznjs5TFvutKiEz9fJWe5hTeZVABalRNat8RHo4SYpCq2Wh/5bNejSDEmd433yaXYyG8icq/wt8+h8PTY7Ll62LkRH8XULIwsivL7fV/Y2b/kxC3C9Xvcf1vjFvqMIsU9aOvIUcPhcgGQGvTojmgI1xy2gZuxKLwC+bu2ypDRWyUX4A1eBFuTCP+ksTz5Tkn8/4KugbekQr5vb2KCptpV2rMkOrIdvMeyVKMSJxDagLmfbmC+ZaMnMMFOdWZ2P828MqM6DRAJnvRUMbCGw2cUPPXAi9sMLCi8hzQ0Ik3JALjmvJnJqED6vQsA1azmVdY+KaJLgXwsfNh3/d0AUKhGVyraoe5KJuZJ1HZsLHtW4Wn4J7WV95NMw==;JJsFWAucCYmRw8SBbaDQ8A=="
+images:
+  - url: "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_222596740.jpeg"
+    width: 1400
+    height: 979
+    isCached: true
+
+secured: "qr5rZOm1i86V6jWA9jdDG++GYoHQjNbgLjiEl0FYFOJ4kasYI32Vr5DAm951qCpWTFg+Ntp3oBKQzuq6UAbynSmrSNgTwRDDrFS/zuQydT37CKrpBjqRj621ZCyvbz14DCCzHshvCqHL9FvIn0znc8TH3MrA5EzE2qbNhdqz55BfoGBlx+Z0KHehoAkNI2W4XWMsLi3H6snt8zycWg3e9aIcxqkTKGPOun4ZdN59OIqsdXs6YkaeF5qDcjD5WWpTbCSi9KYR7w1WzbN4kRdecOLD+FyzHd2gX4E3x5spv0vFPhPouOs3aQSx3ZvJmsuFPVZL/JhsriSFSEPc9LYRVUc5iFmr6HMNXzyJ1TEPHAA=;U2O+MDggewttccX3sxrHZQ=="
 ---
 

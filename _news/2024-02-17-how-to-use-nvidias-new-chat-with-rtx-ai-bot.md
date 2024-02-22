@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?am
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?amp"
 type: article
 quality: 89
-heat: 349
+heat: 359
 published: true
 
 provider:
@@ -212,6 +212,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F3%2F47313386-7-eng-GB%2FCropped-1708549707illust_SXM2024022100000552.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
         width: 1260
         height: 630
+        isCached: true
+  - title: "Spectacular Nvidia result lifts Wall Street, AI and chip stocks"
+    excerpt: "Nvidia has dominated the global market for AI chips, with massive demands for its data center chips and graphics processing units (GPUs) as companies like Microsoft and Google continue to pour billions of dollars to get ahead in the race. The results sent ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.arabianbusiness.com/markets/equities/results/spectacular-nvidia-result-lifts-wall-street-ai-and-chip-stocks"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 54
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2024/02/22/Nvidia.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Nvidia Earnings Are Coming. Why It’s Time to Think About AI Chip Competition."
     excerpt: "It’s not an exaggeration to say that the tech sector's recent rally might depend on Nvidia beating expectations for its earnings report this week. However, stockholders in the chip maker should be looking beyond the immediate horizon and particularly at potential competitive threats."

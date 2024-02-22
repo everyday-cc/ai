@@ -28,37 +28,53 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Galaxy S24 Ultra vs. Google Pixel 8 Pro: a tough battle"
-    excerpt: "Beyond photographic features, the Pixel 8 Pro also includes built-in proofreading tools in Gboard, object and pet recognition for the selfie camera, and the ability for Google Assistant to summarize a web page for you. Suffice it to say that Google will ..."
-    publishedDateTime: 2024-02-17T06:01:00Z
-    webUrl: "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/"
-    ampWebUrl: "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/?amp"
+  - title: "Mark Zuckerberg To Meet Samsung Chief In South Korea, Discuss AI Chips"
+    excerpt: "Zuckerberg is expected to meet Samsung Electronics chairman Jay Y. Lee as early as later this month to discuss AI chip supply and other generative AI issues, South Korean newspaper Seoul Economic Daily reported earlier on Wednesday, citing unnamed sources ..."
+    publishedDateTime: 2024-02-21T08:28:00Z
+    webUrl: "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939"
+    ampWebUrl: "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
+      name: NDTV
+      domain: ndtv.com
     quality: 74
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2024/02/pixel-8-pro-and-galaxy-s24-ultra.jpg?resize=1200%2C630&p=1"
+      - url: "https://c.ndtvimg.com/2024-02/86jsk76g_mark-zuckerberg-bloomberg_625x300_02_February_24.jpeg"
         width: 1200
-        height: 630
+        height: 738
         isCached: true
-  - title: "How Samsung S24 Ultra's intelligent Galaxy AI features are redefining the future of productivity"
-    excerpt: "The Samsung Galaxy S24 Ultra is a game-changer for professionals, offering innovative features and cutting-edge technology. From Circle to Search to the S Pen, this smartphone enhances productivity, communication,"
-    publishedDateTime: 2024-02-20T12:01:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/cons-products/electronics/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity/articleshow/107854885.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/cons-products/electronics/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity/amp_articleshow/107854885.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/cons-products/electronics/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity/amp_articleshow/107854885.cms"
+  - title: "Samsung, UK's Arm team up to produce advanced AI chips"
+    excerpt: "Samsung Foundry, Samsung Electronics' chip manufacturing arm, is teaming up with the UK's Arm to adopt the firm's design assets for Samsung's most advanced chip-making process technology, Gate-All-Around, which aims to boost the company's edge in the ..."
+    publishedDateTime: 2024-02-21T06:27:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20240221050610"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240221050610"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240221050610"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 46
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 74
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-32116,msid-107855087/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity.jpg"
-        width: 600
-        height: 450
+      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F02%2F21%2F20240221050593_0.jpg"
+        width: 616
+        height: 366
+        isCached: true
+  - title: "Mark Zuckerbeg Explains Why Tech Layoffs Are Happening. It's Not Because Of AI"
+    excerpt: "Meta announced several rounds of layoffs as part of Mark Zuckerberg's \"year of efficiency\" in which thousands of employees lost their jobs in the past few months."
+    publishedDateTime: 2024-02-19T05:57:00Z
+    webUrl: "https://www.ndtv.com/feature/mark-zuckerbeg-explains-why-tech-layoffs-are-happening-its-not-because-of-ai-5085495"
+    ampWebUrl: "https://www.ndtv.com/feature/mark-zuckerbeg-explains-why-tech-layoffs-are-happening-its-not-because-of-ai-5085495/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/mark-zuckerbeg-explains-why-tech-layoffs-are-happening-its-not-because-of-ai-5085495/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 55
+    images:
+      - url: "https://c.ndtvimg.com/2023-01/21mqmg78_mark-zuckerberg-getty_625x300_30_January_23.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "Samsung Galaxy AI for Business is here"
     excerpt: "The AI future we’ve long been promised is within reach ... The feature can also extract and summarise text straight from physical books and papers and can translate notes into other languages, while its Browsing Assist capabilities can turn long ..."
@@ -69,7 +85,21 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 19
+  - title: "Mark Zuckerberg Shared a Hands-On Review of the Apple Vision Pro in This Week's Tech Roundup"
+    excerpt: "Mark Zuckerberg took to Instagram to give his hands-on review of the Apple Vision Pro headset. While Zuckerberg praised Apple ’s eye-tracking technology and higher-resolution screen, Meta ’s Quest 3 seems to have Zuck’s heart."
+    publishedDateTime: 2024-02-18T23:00:00Z
+    webUrl: "https://hypebeast.com/2024/2/weekly-tech-roundup-mark-zuckerberg-review-apple-vision-pro"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 13
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F02%2Fweekly-tech-roundup-mark-zuckerberg-review-apple-vision-pro-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+        width: 1080
+        height: 540
+        isCached: true
 
-secured: "8khnidNh0CHP8BcreUc+Ha45U5n8cHYHR7U2hwiuhlu2QNOO+psyj5aJn5RqjCC/gq/B29zIFBmTVP08xZEJLpG4vwVSBFLy8WAtrWT4t0IejCxJ61jAYkh0kX9d2hOi/fo4y4A2K57ALhI1uo2pRJvpfZu+Zy2kLqtgywnIkxxOwHXeS5x2/Pi4/+yqFJP6d1MQX5vqGDXWrVJFh2SCJU6vw1haM+InX9fdpJ4p3buuFvcxyYdNCrUC4x4jiXJ/qnVMg+ZnAxBdWmxo+UHqvXAeiKB1r92emgV//BVnpMgHn3B0fccUwp8kJjtacwf0wQUElhXJWgNygNfvB7iqI63C1Gukf1UZsARB/BedJtc=;p4Qvr2uzpI9LLuiwQwOyng=="
+secured: "FRZMiEsmMBH8eNFl4uML5fYEtnW0Uqx0TReu7pandRGUW3yy9T7YupEdspQF1K9eBzkEeKlmJ2Qn4oW7n9CgkiHV6BpSjLgV1a+8ZVBQxByoeitxfZhd9Q8udu+xDsueu8zV2HiPrXXRlMLEmWGe+6x/LD1GWoe3s3Imt/K8yaAaMQSzJFcTaGRB3GD8HM1KQs6HZOF1U/fSz3epyrMkCYCzctNgsoqC9ISBkpWiPZQJWwcIZgtjIPt2fj3AbaTp31cNjsalwOEgmBmbWERNiA4aiNyz3N0K3jm9kBrv6A0nT4XC0wrlIj3hFr/SGWNlse/+10Ugr8zsnZ1Gq/1EeBre4DzgWahxTOaycKQHySRYDlJb+wJSYzeEoevghkbCVnP7f8fRJjN1rASw9cLUhal26VpI9lr8SIJXuNqVdsdu4QiQZz0DfRAozMM+1ItoBWBbRYqxO+CsdEJvBiRDqKOL0Mbz9Vv0TpetbQvMMcYJ3nbi2yc5L5pRpyJCB2KafaAqzlCMvx3NZtGBXIHDqQ==;7LaXSkoVj3tb+3lRlGmRdQ=="
 ---
 

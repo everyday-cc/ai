@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm"
 type: article
 quality: 64
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/a4/9a4f234d-16b8-582d-ad8f-f01de35d11b2/65d67c01d5fad.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Patentability and predictability in AI-assisted drug discovery"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) are ushering in a new era in drug discovery. The AlphaFold2 system developed by Google’s Deepmind was able to predict the 3D structures of over 200 million proteins - with accuracy on par with ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/patentability-and-predictability-in-ai-9573594/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15281_0526.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Interoperability is not AI"
     excerpt: "But interoperability is not AI. John Ameriks, head of Vanguard’s Quantitative Equity Group, explains the rationale behind dataset selection and how the group has been using machine learning. Research management system providers are building on their AI capabilities using LLMs to improve the research process, but challenges remain."

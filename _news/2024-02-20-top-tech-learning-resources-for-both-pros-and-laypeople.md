@@ -32,6 +32,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Energy companies eye AI and machine-learning"
+    excerpt: "Energy companies are now experimenting with artificial intelligence and machine-learning technology designed to detect cracks and flaws in power lines — before they turn into deadly blazes or turn off electricity across a metropolitan region, writes ..."
+    publishedDateTime: 2024-02-21T23:34:00Z
+    webUrl: "https://www.politico.com/newsletters/power-switch/2024/02/21/energy-companies-eye-ai-and-machine-learning-00142402"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "yIXdGrLFNw05HodbdBm3zEqO8okIwNGqfa0v9QR3fUqMpud+OjqHM2IvcqlcPfi9195wGNYswIM2cVruZM9Sn1J/5Y9bVFHrw/U+wIsjjVN2I0vwVI/2x+XqzS9Bdlc4K/s4NR2pGCGj95yXoOh8wm2YLRaQSd13unWsC+nUKpGrLfBZSxqlEDvFek0C5vWao69eSSyUyJ3h/C0FcfI4i1tVrpzzOm6fVja6dQDij0sBY8DshsO8CwqsCojPWdmN0XbJpSVqpNy8mSo74yj9p9Sa2vRva6kGG/f54aS2WejFF9Sza94GNWxsrTUhKJuTCD69WLjfSYqCHOLLH1qlSLKPH1asFnIFt64DkSHaubWlx6vLMo5QwqOjlH2CILUQ23NIWqSVZ98qBnv7vNuj7QUvrgzuGs1+0Xbm5NPbz54Tk0ou4eZOFbHY8GzfZp4MejVOKJzn1eGAkdnpDH4jSfp9sw6kf1ye3Uc78GCjfMxzBFNaN8qULH4dKYSDXXp3uCN3ZTFOkU6XE9WBFa3qnw==;nm4zEqWTN9NiPfx8vk+QbA=="
 ---

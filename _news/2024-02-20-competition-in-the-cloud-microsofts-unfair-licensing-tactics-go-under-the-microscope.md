@@ -42,9 +42,9 @@ related:
         height: 428
         isCached: true
   - title: "Microsoft to Use Intel for In-House Custom AI Chip"
-    excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
+    excerpt: "Microsoft CEO Satya Nadella revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
     publishedDateTime: 2024-02-21T17:21:00Z
-    webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
+    webUrl: "https://www.thurrott.com/cloud/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
     type: article
     provider:
       name: Thurrott
@@ -137,6 +137,20 @@ related:
       - url: "https://menafn.com/updates/pr/2024-02/21/I_0a5d1image_story.jpg"
         width: 299
         height: 201
+        isCached: true
+  - title: "Intel unveils its new Intel 14A process node, ready for the future of AI chip production"
+    excerpt: "capabilities to help customers realize their AI ambitions. Intel Foundry announces design win: Microsoft CEO Satya Nadella shares that Microsoft has chosen a chip design it plans to produce on the 18A process. Ecosystem partners including Synopsys ..."
+    publishedDateTime: 2024-02-21T14:35:00Z
+    webUrl: "https://www.tweaktown.com/news/96366/intel-unveils-its-new-14a-process-node-ready-for-the-future-of-ai-chip-production/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96366_175_intel-unveils-its-new-14a-process-node-ready-for-the-future-of-ai-chip-production_full.jpg"
+        width: 1500
+        height: 1000
         isCached: true
 
 secured: "syWpWlg09R2wZcCh+nT682Ma5X3LxmpVRRc8YtmTrl8HB9e39vsOO/QAlrpWA6giMId9jvoXK9lzUl/F2rqp+kZOgLmpNaWn6uYfUjSpjSpPEltSROpChsMwM19B+HkHq2NLRiiv+bDngdkTF6vE4aa38zA8sUpwlhmBCfLgOl0l7ih8SCEGBuVfJWGiUwoplsZKsEqLc8M56CjW0Dc3L0RempqEbFd0eS+WZ2YkwhAU0GH+gBiqlXdewsYwKOQ4v0QX1Odho0KZ7KSHlM+mDpJqf1cVTwcLBEY2d+C9+zHKywz2RotgaLJ9nwzvAULyUDToh11jP32r/gSIM/v47bbuZSoMUl7xwGupx+U/NjU=;eTdU+pzGCQMWjcr+6yK18Q=="

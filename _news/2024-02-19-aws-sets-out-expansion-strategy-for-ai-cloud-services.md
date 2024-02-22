@@ -33,7 +33,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 49
   - title: "Lightning AI Collaborates with AWS to Offer Enterprises Optimized Performance for Building and Deploying AI Products"
     excerpt: "The SCA allows Lightning AI to leverage AWS compute services to power generative artificial intelligence (AI) services and to provide first-class support for Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances, powered by AWS Trainium accelerators ..."
     publishedDateTime: 2024-02-21T00:00:00Z

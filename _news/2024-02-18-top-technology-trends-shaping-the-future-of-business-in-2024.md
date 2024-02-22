@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "People find romance with AI"
-    excerpt: "Similar to general-purpose AI chatbots, companion bots use vast amounts of training ... how to get along with people that are different from us,” said Dorothy Leidner, professor of business ethics at the University of Virginia. “And so, all these ..."
-    publishedDateTime: 2024-02-17T06:05:00Z
-    webUrl: "https://www.columbian.com/news/2024/feb/17/people-find-romance-with-ai/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 39
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2024/02/AI_Girlfriends_Boyfriends_81908-e9266.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "pU8e0BhgtOGAsxOxsG0Gh4+lzJ+mUmocPRdw5X8vk1efQOfld4kI+bwFFJkdtS5gGXOVFZZqZ4MVL8u25fmZFXD+k/xf7O65J9VD8Bv+qVFDxUkOzeu5zy6doW9jyHgWTUBQ/PyMtWajJIlOyes/4ErKsPn3xhIFKbprHTi30trGQ73KigHY62nQefTLBFU6t+I3GINfZYG62YnZ9jP1n1lDdwaQX5AIXyxnMYSEWtRei1YdXIfzvKoUbZeMts06giuqa8CHuqbiy+4SLz3WGlmhCQpeduR7SnxbYaa3J9v/MxjzCqRWQxE6ciZXVxNmRojCrjvxwG0WHiJyE4UjxO3BISb6zVbcPPZCaK9rdJSkqBfDx+eytmsb5nXBUFD3gXtxx4xoRsQXE8FJAvIPaKZa71/7gpX+NSKL/xkzy6423tsJYgJLh+I4vi1SaXfDcgblg61ExrvNIZuXGazfQA+3679oCChaRpdaMX8VVVQ3K3Clnk6w8xB+djy7vWrVdwK7zeMCe/HgMrY/Tljeig==;2a2LcA8rmbc12zny295uSQ=="
 ---

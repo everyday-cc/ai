@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Meet Groq, a Lightning Fast AI Accelerator that Beats ChatGPT and Gemini"
+    excerpt: "Groq has released an LPU which is taking the AI industry by storm. It generates output at lightning speed, beating both ChatGPT and Gemini."
+    publishedDateTime: 2024-02-22T00:10:00Z
+    webUrl: "https://beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/"
+    ampWebUrl: "https://beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 75
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2024/02/groq-logo.jpg"
+        width: 1250
+        height: 750
+        isCached: true
   - title: "ChatGPT Stock Predictions: 3 Artificial Intelligence Companies the AI Bot Thinks Have 10X Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) stocks are a shining example of potential. They"
     publishedDateTime: 2024-02-19T21:21:00Z

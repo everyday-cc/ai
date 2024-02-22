@@ -10,7 +10,7 @@
       "originalUrl": "https://www.neowin.net/news/google-reveals-another-smaller-ai-model-gemma-for-researchers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -295,6 +295,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-18-ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware.md",
+      "title": "AI’s rising star frames the Indian challenge: lack of talent and hardware",
+      "excerpt": "As India looks at unlocking opportunities around generative artificial intelligence (AI) with plans of setting up computing clusters domestically, the country and its start-ups face two key challenges: the lack of “hardware accelerators” — hardware that specifically handles AI requirements — and a shortage of talent.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2024/02/perp.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/lite/",
+      "publishedDateTime": "2024-02-17T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1385,49 +1428,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-ai-chatbot-google-bard-with-gemini-pro-now-available-in-sa.md",
-      "title": "AI chatbot Google Bard with Gemini Pro now available in SA",
-      "excerpt": "Google Bard with Gemini has now equalled ChatGPT’s performance on a popular chatbot arena, coming second on the leaderboard",
-      "sourceUrl": null,
-      "webUrl": "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/",
-      "originalUrl": "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.citizen.co.za/wp-content/uploads/2024/02/Google-Gemini-Bard.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/",
-      "cdnAmpWebUrl": "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/",
-      "publishedDateTime": "2024-02-01T17:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Citizen",
-        "domain": "citizen.co.za",
-        "images": null,
         "publishers": null,
         "authors": null
       },

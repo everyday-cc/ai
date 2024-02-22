@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-
 cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: RCR Wireless News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "After Sam Altman, SoftBank founder Masayoshi Son joins AI chip race"
-    excerpt: "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion for his AI venture"
-    publishedDateTime: 2024-02-17T06:41:00Z
-    webUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race"
-    ampWebUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 74
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2024/02/After-Sam-Altman-SoftBank-founder-Masayoshi-Son-joins-AI-chip-race_pic-courtesy-news-agency.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "SoftBank's Son is seeking about USD 100 billion for AI chip venture, Bloomberg reports"
     excerpt: "The company would inject USD 30 billion in the project, with an additional USD 70 billion potentially coming from Middle Eastern institutions, according to the report."
     publishedDateTime: 2024-02-17T09:50:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-107777123,imgsize-190206,width-1200,height=765,overlay-etauto/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "Softbank’s great semiconductor hope Arm isn’t the AI play you think it is"
+    excerpt: "The British semiconductor designer isn’t directly involved in the hottest business in town unlike Nvidia’s GPUs, whose superior parallel processing capabilities made them perfect for training and maintaining AI models."
+    publishedDateTime: 2024-02-20T08:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 58
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/02/chip.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Project Izanagi: Masayoshi Son plans $100bn AI chip venture"
     excerpt: "SoftBank founder Masayoshi Son hopes to raise $100 billion so that he can build an AI chip venture that can compete with Nvidia. Bloomberg reports that project 'Izanagi' could see $30bn invested by SoftBank, and $70bn put in by Middle Eastern investors."
@@ -123,15 +123,6 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 29
-  - title: "Masayoshi Son is 'thinking big for his next move' with AI chip venture - analysts"
-    excerpt: "Masayoshi Son, the founder of SoftBank Group Corp., is reportedly raising up to $100 billion for a new chip venture named Izanagi, aimed at rivaling Nvidia Corp . (NASDAQ: NVDA ) in the AI semiconductor arena, Bloomberg News reported on Friday"
-    publishedDateTime: 2024-02-20T10:35:00Z
-    webUrl: "https://za.investing.com/news/masayoshi-son-is-thinking-big-for-his-next-move-with-ai-chip-venture--analysts-432SI-3016162"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
     quality: 29
 
 secured: "KpcrT1uKNDLnV3S4a0nVwNArJvMMKALiWCaZRNHChYxY8QRy7FXcFBVig+w8KFxGqNH923sEIHmCpZ9/e+9y78qoRDASlzDaSxARB2I56nLzWMszrjeANW1xkSvFVk/IYdNph4FYqS+kBewBkCGuPiPVlhNRLrsud1eA5nqrE+PSZqecht1+xbd+e0humvvvxBYG36n1C4dNRWaIpVpkhbEyXS8/cUnJjVJhHqbXiDYSQZ20OIPZqLiVaHcbvN2sMLsiYPjbZzdDbXQg/5YSU3CDqS2u4cKsD/rCXP+KCkOOxUy1Wg/RMSTOG99VqDShf/4EQH4SabeN/9FjTTvg2xgv2xL5LPXnIpToIaeI7o0K9+AjqBJCSOMU3LbaJ2ZU/4wBEHs3fjP6AVTbeRvxl9jdc5mzzuxXSOLT8Xzi4IEHetz49mbt7Hwb50UbRSrBduOuSOj6t0jNLcrWZsCP0yOf8lHwCWG7/G6E3/z0djF9WJMxXBmRNLtfotAP4svJcgMzzRmpS0b0HyoI4MOjuA==;HDFVSH+7JZ4Mae8dt2VLXw=="

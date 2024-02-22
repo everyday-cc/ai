@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft to Use Intel for In-House Custom AI Chip"
-excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
+excerpt: "Microsoft CEO Satya Nadella revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
 publishedDateTime: 2024-02-21T17:21:00Z
-originalUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
-webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
+originalUrl: "https://www.thurrott.com/cloud/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
+webUrl: "https://www.thurrott.com/cloud/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
 type: article
 quality: 71
 heat: -1
@@ -15,9 +15,9 @@ provider:
   domain: thurrott.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AI Hardware
+  - AI
+  - Microsoft AI
 
 images:
   - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/intel-soc.jpg"
@@ -139,7 +139,21 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Intel unveils its new Intel 14A process node, ready for the future of AI chip production"
+    excerpt: "capabilities to help customers realize their AI ambitions. Intel Foundry announces design win: Microsoft CEO Satya Nadella shares that Microsoft has chosen a chip design it plans to produce on the 18A process. Ecosystem partners including Synopsys ..."
+    publishedDateTime: 2024-02-21T14:35:00Z
+    webUrl: "https://www.tweaktown.com/news/96366/intel-unveils-its-new-14a-process-node-ready-for-the-future-of-ai-chip-production/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96366_175_intel-unveils-its-new-14a-process-node-ready-for-the-future-of-ai-chip-production_full.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
-secured: "KYBcjFy8294pC9bJF12QbHqAKjHQSNCY2RB0TXTQQH+A+hk8gIUs8W78s7rBiUIuCJ1H3ubnjY/vD3euCewUuDBfwkq7lMZB5xOdbZgstXRFTLr0DG8ME9KHtHdNEb8PSWjbMwwhitqHwjwr35+ojq/yN960P81p6zsZoUVOxCOV1iNBr1Qq8+ULh5+eHz42j609QIav9o8QL9gGWM3HBm1vMpz3t5SWyHHI7ASEgWQfBIfuiaWD572vC2QtBduaZNdUkHVSNAtrX5T1kIX1kbWlhDEVuzWCLNJDiHwFpJpVAMEFwuhKaDrUARBRD6exOLBEwTznyJFWqJh1I7aBU/DWL+vvbg/cxaeYXDWqUd4=;KDGpgLSC3qANgNp52lKfbg=="
+secured: "/vhbzgaEOoNZ0ZE/i+49CPSnB2SDxbZz+5i6911GpjsrClACFG/iFeJrA/2UHXVHFJ//TPJyixayRxmB/fDD8d7/Czy/reE6/JoR4V2n/baP+9e7pXchfvZj8Fkctfq4BaBnbjG18eLLq++jH6+xfY4eIaz58ySXQegMSrRSRZKquN5gRJObUI2IpdfFZZm9w3t4VbUecyFEiUNUL1+KDOpe7KpmtRRKP3cVumB8NXCQacTpjhN5MYVAOdN6rkE/py04QpybzSbmTCUtSipEWO4tXHpq6oWIHwh5taXXuGsZ7SycNHFLfDCVaEAmqqhWiS2KrbVYUwkkvw+/bsfZVVQoRWIPMTvXg9Dm7I8YBqE=;87yhM5qY8ytO/9pKw2hUaw=="
 ---
 

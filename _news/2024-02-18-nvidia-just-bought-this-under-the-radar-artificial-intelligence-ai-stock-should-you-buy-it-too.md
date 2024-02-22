@@ -216,6 +216,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Spectacular Nvidia result lifts Wall Street, AI and chip stocks"
+    excerpt: "Nvidia has dominated the global market for AI chips, with massive demands for its data center chips and graphics processing units (GPUs) as companies like Microsoft and Google continue to pour billions of dollars to get ahead in the race. The results sent ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.arabianbusiness.com/markets/equities/results/spectacular-nvidia-result-lifts-wall-street-ai-and-chip-stocks"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 54
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2024/02/22/Nvidia.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia Earnings Are Coming. Why It’s Time to Think About AI Chip Competition."
     excerpt: "It’s not an exaggeration to say that the tech sector's recent rally might depend on Nvidia beating expectations for its earnings report this week. However, stockholders in the chip maker should be looking beyond the immediate horizon and particularly at potential competitive threats."
     publishedDateTime: 2024-02-20T09:37:00Z

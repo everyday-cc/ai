@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "BESI exceeds fourth-quarter targets on demand for AI-related chipmaking parts"
+    excerpt: "Orders and year-end backlog for hybrid bonding — a form of chip packaging required for AI applications — nearly doubled from last year, BESI said, adding that around a half of fourth-quarter orders were for its most advanced hybrid bonding systems."
+    publishedDateTime: 2024-02-22T01:38:00Z
+    webUrl: "https://www.aol.com/news/besi-exceeds-fourth-quarter-targets-063825790.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 51
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/072c9b8dcb97681613cfa65c3ceed2e2"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "Bhb8UICZKV+PO5Tda1vIB4mhfDY4SERxst0oUIJERQoj//cyRRdpeTFIXezHF5wPO3ipfmkal+DHU7A88pEMWeNMFGZ5y5xbTH0vs/DN/teIznO4C7TzslkJSVHYAkAbC8OSx39SnXicLG+6OdZa33XlnudhjYt65+bh4CjAK/Z6BEoXPyifFWBS0dE82k/bh26OjtZV3RVlGEWWWqX9TGFZ2CbGcDlJe6Z2A4XAqBXr4BhyD40vJe+Hi4CyTNDJT7kAzQr7omgXttRMrIEpQsK/CaEB5xZdNqbLPzqWGnmel1j7nPvQ4oHkYovfy8dGUzQxZ6gaTT0o0JoEn4GP2B12HxVoH6STKOQJp0JN/wQ=;waYO0DPvxJzsYVT0Ibv14A=="
 ---

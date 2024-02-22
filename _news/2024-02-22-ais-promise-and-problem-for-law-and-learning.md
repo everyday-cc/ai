@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Energy companies eye AI and machine-learning"
+    excerpt: "Energy companies are now experimenting with artificial intelligence and machine-learning technology designed to detect cracks and flaws in power lines — before they turn into deadly blazes or turn off electricity across a metropolitan region, writes ..."
+    publishedDateTime: 2024-02-21T23:34:00Z
+    webUrl: "https://www.politico.com/newsletters/power-switch/2024/02/21/energy-companies-eye-ai-and-machine-learning-00142402"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Top Tech Learning Resources For Both Pros And Laypeople"
     excerpt: "Below, 20 members of Forbes Technology Council share a varied selection of affordable (often free), practical and effective tech learning resources. Whether you’re a tech leader building a learning culture, a seasoned tech pro or an interested layperson ..."
     publishedDateTime: 2024-02-20T15:15:00Z

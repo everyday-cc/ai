@@ -223,6 +223,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Spectacular Nvidia result lifts Wall Street, AI and chip stocks"
+    excerpt: "Nvidia has dominated the global market for AI chips, with massive demands for its data center chips and graphics processing units (GPUs) as companies like Microsoft and Google continue to pour billions of dollars to get ahead in the race. The results sent ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.arabianbusiness.com/markets/equities/results/spectacular-nvidia-result-lifts-wall-street-ai-and-chip-stocks"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 54
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2024/02/22/Nvidia.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia Just Bought This Under-the-Radar Artificial Intelligence (AI) Stock. Should You Buy It, Too?"
     excerpt: "According to Nvidia 's 13F filing for the fourth quarter of 2023, it purchased 1,730,883 shares in SoundHound AI. It doesn't specify what price Nvidia paid, but the position is worth $6.5 million at SoundHound's current stock price of $3.76."
     publishedDateTime: 2024-02-18T15:40:00Z

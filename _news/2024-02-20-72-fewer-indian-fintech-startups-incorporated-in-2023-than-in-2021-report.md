@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Bud Financial partners with Fintech Galaxy"
+    excerpt: "\"This isn't just a partnership; it's a step towards a future where finance feels friendly, accessible, and genuinely helpful,\" says Mirna Sleiman, the Founder and CEO behind Fintech Galaxy. \"We're all in to create a world where your financial services understand and adapt to you — not the other way around.\""
+    publishedDateTime: 2024-02-22T06:19:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/bud-financial-partners-with-fintech-galaxy-se94gaea"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/bud-financial-partners-with-fintech-galaxy-se94gaea?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/bud-financial-partners-with-fintech-galaxy-se94gaea?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 44
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/Y2Q3YjE1ZDEtZjVlNC00/0/budfinancialpartnerswithfintechgalaxy-png.jpeg?f=3%3A2"
+        width: 870
+        height: 580
+        isCached: true
   - title: "The Role of “Fintech” in Healthcare in 2024"
     excerpt: "Technological advancements are rapidly transforming various sectors, including the healthcare industry. Since 2020, an astounding $53 billion has been invested in the healthcare industry related to fintech solutions."
     publishedDateTime: 2024-02-17T15:56:00Z

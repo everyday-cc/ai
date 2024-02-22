@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Patentability and predictability in AI-assisted drug discovery"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) are ushering in a new era in drug discovery. The AlphaFold2 system developed by Google’s Deepmind was able to predict the 3D structures of over 200 million proteins - with accuracy on par with ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/patentability-and-predictability-in-ai-9573594/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15281_0526.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Interoperability is not AI"
     excerpt: "But interoperability is not AI. John Ameriks, head of Vanguard’s Quantitative Equity Group, explains the rationale behind dataset selection and how the group has been using machine learning. Research management system providers are building on their AI capabilities using LLMs to improve the research process, but challenges remain."
     publishedDateTime: 2024-02-19T04:57:00Z

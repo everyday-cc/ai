@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "After Sam Altman, SoftBank founder Masayoshi Son joins AI chip race"
-    excerpt: "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion for his AI venture"
-    publishedDateTime: 2024-02-17T06:41:00Z
-    webUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race"
-    ampWebUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 74
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2024/02/After-Sam-Altman-SoftBank-founder-Masayoshi-Son-joins-AI-chip-race_pic-courtesy-news-agency.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Softbank’s Son reportedly seeks $100B for AI chip venture"
     excerpt: "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia."
     publishedDateTime: 2024-02-19T16:18:00Z
@@ -72,6 +56,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-107777123,imgsize-190206,width-1200,height=765,overlay-etauto/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "Softbank’s great semiconductor hope Arm isn’t the AI play you think it is"
+    excerpt: "The British semiconductor designer isn’t directly involved in the hottest business in town unlike Nvidia’s GPUs, whose superior parallel processing capabilities made them perfect for training and maintaining AI models."
+    publishedDateTime: 2024-02-20T08:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 58
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/02/chip.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "SoftBank founder looks to create $100B AI chip venture"
     excerpt: "Masayoshi Son, founder and CEO of SoftBank Group (pictured), laid out broad plans to create a $100 billion AI chip-manufacturing venture to complement its design unit Arm by attracting funds from investors in the Middle East, Bloomberg reported."
@@ -123,15 +123,6 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 29
-  - title: "Masayoshi Son is 'thinking big for his next move' with AI chip venture - analysts"
-    excerpt: "Masayoshi Son, the founder of SoftBank Group Corp., is reportedly raising up to $100 billion for a new chip venture named Izanagi, aimed at rivaling Nvidia Corp . (NASDAQ: NVDA ) in the AI semiconductor arena, Bloomberg News reported on Friday"
-    publishedDateTime: 2024-02-20T10:35:00Z
-    webUrl: "https://za.investing.com/news/masayoshi-son-is-thinking-big-for-his-next-move-with-ai-chip-venture--analysts-432SI-3016162"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
     quality: 29
 
 secured: "lyTrePjiGk3K2FL+XurdogfSNbZs7S8CX8RyXvzNaggZpmOllkxa39n3OxNUO5ZtDCG7y7ebTD0KnNftEPEcu9d0O6gY1z7hNr50z5KpMz60RrEW9ZVy5Bh9fIMVDqRAw6cNIu7fUp53dTx+8kfbkPZgVcBui6EdBHjxXeIQ79C/fETOYwxxFAwhTo5VUXE7pQshNAx4EUorBMeN/gVAfQo7dP3J+bXTTDntCHMRFtF5rQMWiPDuFyI8nIHpxOzK/TuQj2uy7kspublIjeRqMQqxXQgRzonYwHK3mfQjiPPJwCiSl58whpNDcSrYndOyznjhlkfYTUb25NkY/l8N3fO2eTKIpK4UDOO1/ZhkbASjX7Ii00oKj7eFYMjzni1DGBrPV0d1wplDucj5xGJ06BP0fu63S4krHpmyvcqnUcjQoZosS6mWH7S4P+EWyPCm2gjvSaJyjlJmQysMiihIuMTV8EYMuqQP4cFTJRmKASYhtUVqz7HrgpAz+NYyUz8segiw1h1A8cTJkD/BKR1Zzg==;toGvC68L2jZCj29PDWjCyg=="

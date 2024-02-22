@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots and happy workers: Productivity surge helps explain US economy’s surprising resilience"
-    excerpt: "Across the United States, chronic worker shortages have led many companies to invest in machines to do some of the work they can’t find people to do."
-    publishedDateTime: 2024-02-21T22:47:00Z
-    webUrl: "https://www.pressherald.com/2024/02/21/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 43
-    images:
-      - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2024/02/Economy_More_Productive_Workers_20109_50a9af-1708555662.jpg?w=1000"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Robots and happier workers: Productivity surge helps explain US economy’s surprising resilience"
     excerpt: "Artificial intelligence, they note, is only beginning to penetrate ... Some workers supplanted by robots do often struggle to find new work and end up settling for lower pay. Yet history suggests that in the long run, technological improvements actually ..."
     publishedDateTime: 2024-02-21T00:00:00Z
@@ -62,6 +48,15 @@ related:
       name: Finance & Commerce
       domain: finance-commerce.com
     quality: 32
+  - title: "Robots and happy workers: Productivity surge helps explain US economy's surprising resilience"
+    excerpt: "Trying to keep up with customer demand, Batesville Tool & Die began seeking 70 people to hire last year. It wasn't easy. Attracting factory workers to a community of 7,300 in the Indiana countryside was a tough sell,"
+    publishedDateTime: 2024-02-22T06:54:00Z
+    webUrl: "https://www.gwcommonwealth.com/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience"
+    type: article
+    provider:
+      name: Gwcommonwealth.com
+      domain: gwcommonwealth.com
+    quality: 23
 
 secured: "k8GE9HfBJpOEbKqov51bEYy+vf5UxMahb2r9bwXwhlTXROJRmM0H6vWnFUWISXL1TBUOLbWnssddiMolarGd/gK0xvoUk+At+xcIQUBHp8lMtKkCtsTMDg7Sziv2MEiYTV+JeSC/1uYgm5i9Gtqu6lMSxgZoUFaNZ/ZEfvJcr/L1E2gbjI7TH0gkbrszYrEVNDpS5BbNhlnq+n4bYTuWZ+eQe3l+ngd57Eq3DzYPk7j0ZeeseTWgJOpJzZn91rLqkR4DXh6YacfPvo5HJXB5rSWaM3fyqEO/dePZipOUMLkd6YzHFWhC/ngxgPQaQE0Fb0pQ6DMMtiaOh+JyajwFGZH2FaNRbid8cX0DltayxoY=;j59OzNjjirq3U7apsbZE+w=="
 ---

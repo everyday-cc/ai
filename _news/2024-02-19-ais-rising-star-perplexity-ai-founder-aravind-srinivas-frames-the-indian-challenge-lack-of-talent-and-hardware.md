@@ -43,6 +43,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How AI health care chatbots learn from the questions of an Indian women’s organization"
+    excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
+    publishedDateTime: 2024-02-22T05:05:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-business/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-business/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-business/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 31
 
 secured: "u4OsP3MmmttOocP0WKYLnkMpHaBuq1JerrgaqUXwqsIaE1XxrsM361YN1dRnGn7ksZRTZsPRPdELtR6APtF4fW1tX4NKB4gXu1wxc4pdyNtPP1S1/qKtQljcrce3fLJudQOuaEWDG5uNkoCRXh/H0C/nXClJW/VIuX9lCaPKALQN9P1CK9M6ZqNwK2VYuFdeLgcGZtcO4ScwQXRsAX4i6J5nw0RXxvhLeKXAt1eEZAlpGEatLcsrEDGoVb+ZAKeoRZHVdGeJ3OBDmwkRw0jWLIVEblMW1CR/hh+bBk7yOtcGo64EBtgLInRcHnarZGdtrPHE7i5NAftWotFXt77JsXB5suE75vqQl3ZRj/aNwO0=;7r3Fu1TgWLhv3PJAPKQzDg=="
 ---

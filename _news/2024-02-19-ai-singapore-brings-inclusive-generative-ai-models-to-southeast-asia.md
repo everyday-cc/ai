@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Quantum AI Investment Singapore Reviews 2024 – Legit Software?"
-    excerpt: "Quantum AI Investment software is a famous trading platform that makes trading completely automated with the help of AI algorithms."
-    publishedDateTime: 2024-02-20T11:50:00Z
-    webUrl: "https://www.mid-day.com/lifestyle/infotainment/article/quantum-ai-investment-singapore-reviews-2024-legit-software-23336104"
-    ampWebUrl: "https://www.mid-day.com/amp/lifestyle/infotainment/article/quantum-ai-investment-singapore-reviews-2024-legit-software-23336104"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/infotainment/article/quantum-ai-investment-singapore-reviews-2024-legit-software-23336104"
+  - title: "Antler’s founder on its vertical AI bet in Southeast Asia"
+    excerpt: "A growing roster of vertical AI startups is emerging in Southeast Asia to serve sectors ranging from seafood to finance. Singapore-based venture capital A growing roster of vertical AI startups is emerging in Southeast Asia to serve sectors ranging from seafood to finance."
+    publishedDateTime: 2024-02-22T05:22:00Z
+    webUrl: "https://techcrunch.com/2024/02/21/antler-ai/"
+    ampWebUrl: "https://techcrunch.com/2024/02/21/antler-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/antler-ai/amp/"
     type: article
     provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 59
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://images.mid-day.com/images/images/2024/feb/QUANTUM-AI611_d.jpg"
-        width: 1280
-        height: 720
+      - url: "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1318237749.jpg?resize=1200,801"
+        width: 1200
+        height: 801
         isCached: true
 
 secured: "0VIkQ2mGIweaho0ornQax5Q4Dtsrus25fPvDS8GWarBj2xjyCG3ZJx+2XMKcG2Zut77EQzVobxTciC2lhf8rrjENRIsNYfaa46v3vQHG5EFtMgFUETi2ti7xe2/z8rqAtGDVLHfMCXOn9vKEGK/jmTJGq+6kyvsYr44MJ0zpynLgO5Pe1q79QrlrNY02EvJRXtCe0v6L+s0jAv/5e5EqkcqWfq1J4syOvGAwAl1eav3ut02yaF5tGHyUbr7STREFMroOtBoBP+GFU2NUzrPdx9PgEmiCPsYspp8tXgP55Jao7u5Q3WRtfrO0LZaaa6b0q3EvpW0NnRmtEAPfLy0vJZIOWDQViY5MlJoAys4SmvQtg/5utZbYvsuCivtvf/DxGK0ku35MNeP/udvXAX9MrdK2nKtBkVnArGgDE239diiCDdAYu3svz0Ew9kVcJcrliHNWupHg7gXxX4hmCnFqjGUqZ6S72bN4xvoFKJPjsNY0p3B5EE8tFpuR+4nuyD7IRXOOf1LfYKHb5xtlOAReFg==;q+szwTCFe4xNUpJ5Wr/rAg=="

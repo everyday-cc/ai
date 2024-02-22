@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/ai
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/lite/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: The Indian Express
@@ -43,6 +43,17 @@ related:
         width: 389
         height: 218
         isCached: true
+  - title: "How AI health care chatbots learn from the questions of an Indian women’s organization"
+    excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
+    publishedDateTime: 2024-02-22T05:05:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-business/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-business/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-business/ap-how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 31
 
 secured: "0buLxpp3h6i3a1TKlviVU2C7aas0grO1EGcnOuJJ6cxvfmOSRcOCb18dkZdsQqaSWws9JhE9gJfHhd5Wd2HcCa9rcmcxNQeBPX/zFLRcDfdDJOl9Y7g6dd4ybZm1jrY3q44hCBa4zUQEi80LSwoqXYROmlgeZwmUEEdjacOgKvxnSTG0XMhYS4J5PiFE7DjN09QUCtZ+kXSV4HdaP+Xw/slPNQjgyFmMfyCc1TkZGadHc7qR4rAopR5jiffwhR87svtWj1NhPdoOhBbOJljiP2hwqZ478NRHcSR1oSwJVgIQr9E0PSOAhuQuaTrCLXk6qCnMfJ1EMUaDxke4VYa+Yp+yChmg4E3OorSosNIvc2o=;5xhKXI5IMxglO+bYV+CcAw=="
 ---

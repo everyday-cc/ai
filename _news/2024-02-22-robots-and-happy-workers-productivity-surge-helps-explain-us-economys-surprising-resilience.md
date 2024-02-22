@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Robots and happy workers: Productivity surge helps explain US economy’s surprising resilience"
-excerpt: "Across the United States, chronic worker shortages have led many companies to invest in machines to do some of the work they can’t find people to do."
-publishedDateTime: 2024-02-21T22:47:00Z
-originalUrl: "https://www.pressherald.com/2024/02/21/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience/"
-webUrl: "https://www.pressherald.com/2024/02/21/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience/"
+title: "Robots and happy workers: Productivity surge helps explain US economy's surprising resilience"
+excerpt: "Trying to keep up with customer demand, Batesville Tool & Die began seeking 70 people to hire last year. It wasn't easy. Attracting factory workers to a community of 7,300 in the Indiana countryside was a tough sell,"
+publishedDateTime: 2024-02-22T06:54:00Z
+originalUrl: "https://www.gwcommonwealth.com/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience"
+webUrl: "https://www.gwcommonwealth.com/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience"
 type: article
-quality: 43
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Portland Press Herald
-  domain: pressherald.com
+  name: Gwcommonwealth.com
+  domain: gwcommonwealth.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2024/02/Economy_More_Productive_Workers_20109_50a9af-1708555662.jpg?w=1000"
-    width: 1000
-    height: 667
-    isCached: true
 
 related:
   - title: "Robots and happy workers: Productivity surge helps explain US economy’s surprising resilience"
@@ -63,6 +57,6 @@ related:
       domain: finance-commerce.com
     quality: 32
 
-secured: "H6wIQEKosUPdb38tV9z0jhsYCwWe7IzGDgEkCFtGtoimYA0WD/9HpuApO7+iwpsMWhbNfTOz9JVLE2w9kpPLF8oy50hG2fiqOuzmENTBsfhhUPBfWgAMQ4sbWKIHdk06UsKj0AnHnWUmdlGr0LZyttWyPv4jyr6HXJQ+yAVT2V3rBYV0MQDORmrDQ0FA4G9KHEjqy/Q4ipjExGtdVrYmjJKnV4G9u3LE0D5mAY9oJhv1AjwaciLxGWErU4CL12XGngBGOmbtIfY2HiDZt2TO6CvmAYD5BFY+ggvm3TbxAMyBq0b31NyfVbr5WkAmdhBNshPqfahWaHT8PVZTUDTpelYvuri+/axmTE7Ml+PYVVE=;lTjfM0udp8GG4dzFrXhKOA=="
+secured: "V1EouUHiWZFYg4E5TfFfs/42vT4zuTtPxxgC2nftjnkmQKs1VAltGMz5aKxjqDMCBZF7otqGsKqnxFzmR4WQgdJBRr0pM5qFbZm2zn0vx1Ti4sd5tuKG+LX9VgHsGxz7o69WllnPhyUcewjVvbK+QqZndHzgQ8oy+px3/kFKFJpjCVsZaeXRW3vWGvHeci0gZUc6E5HSp6RHvTCyMOfwVPZsYLgwsThLbkG+UkhIMvmnfItMegejRcToeVczmt+lYH3NmXSupITIGfecW4RUwIGfZTA2eVmp62wOeKn+4fCvMZQpCqXRx9zEsgPaJWC3aDIDACqRqC0Bq0oYgSONacuhY5fzIgUHU5KSAmZzjkBYtgFldDiNpH8peV4fjjJP6MjvRW86217dVnCmLOzGEXmYBT6A+5jVunsJLQCX1/kpy9iArXDwupvZ17mrqoT1hTGPu+UbtHzfEVRGvF/ejkefodT+gMp/nbx6QhzdgfAbeu589Sv3TYikJr8fb6nnCaCqjt6y/2LCGBMe+rZIrg==;gp5hD8bApOf+XKM3gdk3Nw=="
 ---
 

@@ -41,9 +41,9 @@ related:
         height: 428
         isCached: true
   - title: "Microsoft to Use Intel for In-House Custom AI Chip"
-    excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
+    excerpt: "Microsoft CEO Satya Nadella revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
     publishedDateTime: 2024-02-21T17:21:00Z
-    webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
+    webUrl: "https://www.thurrott.com/cloud/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
     type: article
     provider:
       name: Thurrott
@@ -141,6 +141,20 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/cloud-threat-adobe.jpg"
         width: 1200
         height: 400
+        isCached: true
+  - title: "Intel unveils its new Intel 14A process node, ready for the future of AI chip production"
+    excerpt: "capabilities to help customers realize their AI ambitions. Intel Foundry announces design win: Microsoft CEO Satya Nadella shares that Microsoft has chosen a chip design it plans to produce on the 18A process. Ecosystem partners including Synopsys ..."
+    publishedDateTime: 2024-02-21T14:35:00Z
+    webUrl: "https://www.tweaktown.com/news/96366/intel-unveils-its-new-14a-process-node-ready-for-the-future-of-ai-chip-production/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96366_175_intel-unveils-its-new-14a-process-node-ready-for-the-future-of-ai-chip-production_full.jpg"
+        width: 1500
+        height: 1000
         isCached: true
 
 secured: "mWvThJ1iA3sNfHe+hPqumWJeHEZF6CHQFz/497xL76zWDBO9NeL02fBpOWs0csDXQWBVp46TvmsYbTFnfprI/L2lkPbjK6+rZHv79pWocMKzUz8I4RYFoQTq08BmjRek/wxhn5RQCgdYtg1W89uVGG6gE9Rh1qy8F+8xvFjCMwTuo9hTM3qP6RtJm/o6dNprXf4bq89kBjTWT+6l6FOe/hCvLCGWlG0SKbSXmDDFAsNthrcBP3oZjmh8ZZRLSlSNIwGZd446cb8tB/TN/GshQEVH606SctU1amsZNadY0BaplwjmsVz5k8NxYqJsWpExZ03nhz08q0jfTjiX7DqPeAwUjcPk3aqkEaTpuwtpI32D6rxYiUJTYQGXtrhdq9wx6IIIcFj9zjJ4oxacShh8oAtFU+XFDZ9DuFtilnalQVFNGalsKcKJ0o/WAflhgXE95FbbulRASw/cSeek2hGmrTq+C/S2wmZJH0JHQXHv/YYD7G6mudiU2zCEPEh80g1fSgDkkkePBjX97YIbIP8WDQ==;X6j1HnIDO8orvw8tEfXotw=="

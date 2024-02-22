@@ -73,6 +73,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Google’s Latest AI Models Are ‘Open’ to Anyone—and Can Run on a Laptop"
+    excerpt: "Google's Gemma models were built and trained with the same technology used in Gemini, but the models are smaller and will be released under an open license."
+    publishedDateTime: 2024-02-21T23:25:00Z
+    webUrl: "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/"
+    ampWebUrl: "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 59
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2024/02/gemma-header.width-1600.format-webp.jpeg"
+        width: 1408
+        height: 792
+        isCached: true
   - title: "Google employees are posting internal memes poking fun at how many AI models and names the company launched"
     excerpt: "In the last three months, Google has launched Gemini, killed Bard and renamed it Gemini, launched a better version called Gemini Advanced (not to be confused with Gemini Ultra, which is the name of the model), launched another improved version called ..."
     publishedDateTime: 2024-02-21T20:25:00Z
@@ -86,6 +102,20 @@ related:
       - url: "https://i.insider.com/65d636c5a3bd891424f8f4e7?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google Gemma open source AI models launch"
+    excerpt: "“A family of lightweight, state-of-the art open models built from the same research and technology used to create the Gemini models” – Google. At the heart of Gemma’s introduction is the Responsible Generative AI Toolkit. This toolkit is crafted to ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemma-ai-models/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Gemma-state-of-the-art-open-AI-models.jpg"
+        width: 1280
+        height: 751
         isCached: true
   - title: "Google announces Gemma, its open models for AI research"
     excerpt: "Gemma was developed by Google DeepMind and other teams across the company, and is “built from the same research and technology used to create the Gemini models,” including technical and infrastructure components. Name-wise, it’s Latin for “precious ..."

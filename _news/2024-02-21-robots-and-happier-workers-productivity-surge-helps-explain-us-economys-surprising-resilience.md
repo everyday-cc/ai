@@ -39,20 +39,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Robots and happy workers: Productivity surge helps explain US economy’s surprising resilience"
-    excerpt: "Across the United States, chronic worker shortages have led many companies to invest in machines to do some of the work they can’t find people to do."
-    publishedDateTime: 2024-02-21T22:47:00Z
-    webUrl: "https://www.pressherald.com/2024/02/21/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 43
-    images:
-      - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2024/02/Economy_More_Productive_Workers_20109_50a9af-1708555662.jpg?w=1000"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Robots and happy workers: Productivity surge explains economy’s resilience"
     excerpt: "Artificial intelligence, they note, is only beginning to penetrate ... Some workers supplanted by robots do often struggle to find new work and end up settling for lower pay. Yet history suggests that in the long run, technological improvements actually ..."
     publishedDateTime: 2024-02-21T00:00:00Z
@@ -62,6 +48,15 @@ related:
       name: Finance & Commerce
       domain: finance-commerce.com
     quality: 32
+  - title: "Robots and happy workers: Productivity surge helps explain US economy's surprising resilience"
+    excerpt: "Trying to keep up with customer demand, Batesville Tool & Die began seeking 70 people to hire last year. It wasn't easy. Attracting factory workers to a community of 7,300 in the Indiana countryside was a tough sell,"
+    publishedDateTime: 2024-02-22T06:54:00Z
+    webUrl: "https://www.gwcommonwealth.com/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience"
+    type: article
+    provider:
+      name: Gwcommonwealth.com
+      domain: gwcommonwealth.com
+    quality: 23
 
 secured: "6/AuSEOEAy+cY6I8ZTCsRa32tKepGB9b9wQwApW88+MIPZgECbizi4gpBLQs5tjl67QYuqnsdzE9Zms3PsI7U+B4qXkgSndgf+6Hoj8GLQvqxN9Eaa8H99HKcJ18sJ/+KqYlkYHAF+HW3FmqslcxNIu3iE6JEexE+YW6AthuKY6hIj2TVpRrE7ULFX1Rj+uPCV1mOy8K52oW3IpdoiZNgAfzkg48NkpsSKh5v7Fk89Nd3WnlIOUy9mKIuIXjU4wLzBtRZnYXCDjxKsMkPRXz1g5X3ifquCBM1ESOBbNkIpmcpGEuQslDZSherBzWK6QfMOfz99AErPa+XPdMfTR7NDAzSvDnqly/AZBZEPiZCSXArbAg7DorCYBqu6bh6KkwXt0IINpu7mONfNfssIluTVPCk02d3Zbg7V5ZxOrylpd1i/PpdBV/gPcdlqsUHUcxkqgxyu5gEKOj8BsDaSvqWpixUy5wN1L7s+X86Z0mYIUr6OKVMGzb8/hIPss4b1Xlc0PX/vwyHEBYwJEDJKfeRw==;x27YXhTMhokNgTSGaAYQjw=="
 ---

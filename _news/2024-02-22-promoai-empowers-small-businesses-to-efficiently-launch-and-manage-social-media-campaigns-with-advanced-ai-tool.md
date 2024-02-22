@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-22T03:04:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/promoai-empowers-small-businesses-to-efficiently-launch-and-manage-social-media-campaigns-with-advanced-ai-tool-1033090148"
 webUrl: "https://markets.businessinsider.com/news/stocks/promoai-empowers-small-businesses-to-efficiently-launch-and-manage-social-media-campaigns-with-advanced-ai-tool-1033090148"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/89122005-1708569812-1.jpg"
@@ -61,6 +62,6 @@ related:
       domain: housingwire.com
     quality: 17
 
-secured: "U2yWjaRGmnDehCUWjr1/uxdhRKFUGO0Xe13uZpItW7seCVw1BbcxbEkaLVzrDQ8xSUCRgzC8CfguZD/B3vkR3ixBqz0EJKW57UJq7qqn/YQZNtp0IrLPjMU1a6nphwu0EjWjGqS6yj0WEBU6mKo6wix0CPiMpnKZZEUWtYRp4VlcCAfFOj1Yy91kdRtCOduwQBdP8ww7RvyWbY4lgP7TKTZqU+4tpKQFIwXU7AsltVoq8mCW+PYBYDQ3iz+U22HrjycIURDXZdGjrGCss8QMfUhkBvXAAPg3y2ZW5w6ZeDeMDzmVF+jnRT5U1CGh+gGxlS15hvsnEw/HffxpdXvlwpzWvc0odGOKhtYkCgN8XJY=;m8Sw2K+Ajn/cq0U2LDXmTg=="
+secured: "qIY9SyMs1xZiTuHAe0FLGxFnheMoQDDXVbraGM8qXLFA0PAmbTSrFeuTwrH9WtmDQi4TWq0AOQHoENerW66FMIyV/KA9zzH4njwYZHe018qDDlcQVR7umWGT59j5UoM9fRwmJMG0x9NcQZqzNLf5+JBovt06A9LhXrii+hMIc7aVckrZxHhqixq4QbaknbRZuVVIAUOnkEckvYzcCuBrFPFvMq9lcrPGjjhFmjn9GOqkXF2Rnpvkstk+fJFrGoychJM61KT4ShxIC8Q8HvLO85qsFnLVdFyxx6LpOQU4BG1fR8WNEo3BED4RrWTaSUf4G3f5swSvS1MazSdiuCEQSHBIM7JTcYyzOf8dmsNRBEpVELN0tFGgUWNz8gP5RUXEuYajRSW+jFG7ukkBAEaYbirYIg2bcAcrReNpeX3gPvHPsBLyvBZ5SP+6CQF+qWU5kNqNYVsWMkqQF1kNyNMYXb8NXDZKZorJ8vbod9BuCMPomLSpgxL9eGjbxbeILjnPvFeihD9Q7c940E6y2ZxEFw==;cSc3IG0e9fSmhDRMj83/2w=="
 ---
 

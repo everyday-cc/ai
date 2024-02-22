@@ -42,9 +42,9 @@ related:
         height: 428
         isCached: true
   - title: "Microsoft to Use Intel for In-House Custom AI Chip"
-    excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
+    excerpt: "Microsoft CEO Satya Nadella revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
     publishedDateTime: 2024-02-21T17:21:00Z
-    webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
+    webUrl: "https://www.thurrott.com/cloud/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
     type: article
     provider:
       name: Thurrott
@@ -137,6 +137,20 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/cloud-threat-adobe.jpg"
         width: 1200
         height: 400
+        isCached: true
+  - title: "Intel unveils its new Intel 14A process node, ready for the future of AI chip production"
+    excerpt: "capabilities to help customers realize their AI ambitions. Intel Foundry announces design win: Microsoft CEO Satya Nadella shares that Microsoft has chosen a chip design it plans to produce on the 18A process. Ecosystem partners including Synopsys ..."
+    publishedDateTime: 2024-02-21T14:35:00Z
+    webUrl: "https://www.tweaktown.com/news/96366/intel-unveils-its-new-14a-process-node-ready-for-the-future-of-ai-chip-production/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96366_175_intel-unveils-its-new-14a-process-node-ready-for-the-future-of-ai-chip-production_full.jpg"
+        width: 1500
+        height: 1000
         isCached: true
 
 secured: "zl35ZZ9GZA9oMDpTQic96AcmlKdDOm+cDKuzs71Dal+w4hnJBsawT6aV+H69Gf2t9dRyFewbPse5u0gownCRveAVFHD0Y319IBtvirpkEVjJ0c3WK+BBdbVDRXe1613zGbt43yWWdSuldNRHGJgZzqxqYAq5cM6tKvyBdjDeItRAb/lCIRoOcEDZaq6rC5IdGgYalEYEBzf/EP5k9JwaOmNMrvrxbA3tqkGauRWTbgzEUxgjgn9L5qviIF9HuruZ5S97rDd76oMn8N6YCqreGwhXgI6uekDKxTDac485BONSYSjrrrzYu0YkL7uS4+p/jCUWmGhtBO/SMcnOAF7fD4RouqX/NyplMtFQJmtf8dU=;qehkC4q1F0BYT4qDYjTGFw=="
