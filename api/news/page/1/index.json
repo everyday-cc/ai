@@ -2,6 +2,204 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-23-this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit.md",
+      "title": "This fintech startup is targeting a gap in lending as banks tighten credit",
+      "excerpt": "“Just because the loans are smaller doesn’t mean they’re not good.” Nvidia earnings send stock rocketing as company cheers AI ‘tipping point’ Nvidia makes Wall Street history as stock surge adds $277 billion in market cap Super Micro’s stock ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
+      "originalUrl": "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-26691341/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
+      "publishedDateTime": "2024-02-22T22:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-azure-iot-centrals-reported-retirement-plans-remain-mysterious.md",
+      "title": "Azure IoT Central’s reported retirement plans remain mysterious",
+      "excerpt": "News that Microsoft plans to retire its Azure IoT Central platform ... “Now here we are in 2024, and companies are learning what’s working and what’s not working.” Google discontinued its IoT Core platform in favor of a partnership with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.html",
+      "originalUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/05/holding-cocktail-on-a-tropical-beach-139494580-100265301-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.amp.html",
+      "publishedDateTime": "2024-02-22T21:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-empower-your-technical-staff-with-hands-on-technology-training.md",
+      "title": "Empower your technical staff with hands-on technology training",
+      "excerpt": "Holistic training includes hands-on, real-world experience that teaches your technical staff how to carry out their full mission.\nThe post Empower your technical staff with hands-on technology training appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/empower-your-technical-staff-with-hands-on-technology-training/",
+      "originalUrl": "https://www.ibm.com/blog/empower-your-technical-staff-with-hands-on-technology-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T20:29:15Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-google-is-killing-gmails-basic-html-view-in-2024.md",
+      "title": "Google is killing Gmail’s basic HTML view in 2024",
+      "excerpt": "Google is currently focusing on infusing AI-powered features into its products, including Gmail. Last month, the company launched a Duet AI feature to help users write emails. Last week, it allowed the Bard chatbot to integrate with Google accounts so you ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/",
+      "originalUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/",
+      "publishedDateTime": "2024-02-22T19:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-why-this-startup-is-betting-on-ai-powered-tech-to-predict-your-future.md",
       "title": "Why this startup is betting on AI-powered tech to predict your future",
       "excerpt": "Astroyogi, a spiritual technology startup, anticipates growth from positive response ... we aim to create more immersive experiences to bolster user engagement. The integration of AI and ML technologies is a pivotal aspect of our investment, enabling ...",
@@ -104,7 +302,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/excellent-nvidia-earnings-confirm-the-epic-opportunity-in-ai-1033094503",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -155,7 +353,7 @@
       "originalUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -207,7 +405,7 @@
       "originalUrl": "https://blog.google/products/ads-commerce/gemini-models-are-coming-to-performance-max/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -300,6 +498,50 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-reimagining-higher-education-seneca-polytechnic-set-to-transform-postsecondary-learning-with-integration-of-microsoft-azure-ai.md",
+      "title": "Reimagining higher education: Seneca Polytechnic set to transform postsecondary learning with integration of Microsoft Azure AI",
+      "excerpt": "Seneca Polytechnic among the first Canadian postsecondary institutions to bring Microsoft Azure AI technologies to students to support learning and career goals  TORONTO, Feb. 22, 2024 /CNW/ - Seneca Polytechnic announced it is bringing the power of Microsoft Azure AI technology to students and employees through several new initiatives designed to prepare students for the workforce of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/22/9966707.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/22/9966707.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2345557/Seneca_Polytechnic_Reimagining_higher_education__Seneca_Polytech.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T16:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
       ]
     },
     {
@@ -465,7 +707,7 @@
       "originalUrl": "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -517,7 +759,7 @@
       "originalUrl": "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -541,6 +783,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator.md",
+      "title": "Stability announces Stable Diffusion 3, a next-gen AI image generator",
+      "excerpt": "Larger models also require more VRAM on GPU accelerators to run. Since 2022, we've seen Stability launch a progression of AI image-generation models: Stable Diffusion 1.4, 1.5, 2.0, 2.1, XL, XL Turbo, and now 3. Stability has made a name for itself as ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sd3_cham_hero_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T13:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -776,7 +1070,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/22/navigating-the-ai-wave-top-3-priorities-for-entrepreneurs-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -922,7 +1216,7 @@
       "originalUrl": "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 424,
+      "heat": 464,
       "tags": null,
       "images": [
         {
@@ -964,308 +1258,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview.md",
-      "title": "Get ready for the age of sovereign AI | Jensen Huang interview",
-      "excerpt": "The AI Impact Tour – NYC We’ll be in New York on February 29 ... they would not be software-hackable and that took some time. Now the company is sampling chips to China again, within the restrictions of the government. I asked if the China market ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/",
-      "originalUrl": "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T08:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-gboard-is-gaining-the-ability-to-copy-text-from-the-real-world.md",
-      "title": "Gboard is gaining the ability to copy text from the real world",
-      "excerpt": "Google Lens is one of the more useful apps on a smartphone, using your mobile camera for text recognition, object searches, and more. Now, one of the best Lens features is coming to Gboard. 9to5Google reports that Google is now bringing a so-called Scan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/gboard-scan-copy-text-real-world-3417910/",
-      "originalUrl": "https://www.androidauthority.com/gboard-scan-copy-text-real-world-3417910/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2024/02/Gboard-Scan-Text-feature-image-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T08:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-backed-by-chinese-carmaker-great-wall-haomo-raises-14m-for-autonomous-driving-tech.md",
-      "title": "Backed by Chinese carmaker Great Wall, Haomo raises $14M for autonomous driving tech",
-      "excerpt": "After a few years of funding frenzy, autonomous driving companies in China are experiencing a slowdown in investment. Some companies are still hauling in",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/",
-      "originalUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/haomo.png?w=1080",
-          "width": 1080,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/amp/",
-      "publishedDateTime": "2024-02-22T07:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-ai-tool-to-aid-organ-transplants-nominated-for-nhs-award.md",
-      "title": "AI tool to aid organ transplants nominated for NHS award",
-      "excerpt": "A method using artificial intelligence (AI) to assess potential transplant organs has been shortlisted for a national NHS award. Known as OrQA - Organ Quality Assessment - the technology scans images of organs to look at suitability for kidney and liver transplants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365",
-      "originalUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2313/production/_132697980_optheatre.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365.amp",
-      "publishedDateTime": "2024-02-22T06:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-antlers-founder-on-its-vertical-ai-bet-in-southeast-asia.md",
-      "title": "Antler’s founder on its vertical AI bet in Southeast Asia",
-      "excerpt": "A growing roster of vertical AI startups is emerging in Southeast Asia to serve sectors ranging from seafood to finance. Singapore-based venture capital A growing roster of vertical AI startups is emerging in Southeast Asia to serve sectors ranging from seafood to finance.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/21/antler-ai/",
-      "originalUrl": "https://techcrunch.com/2024/02/21/antler-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1318237749.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/21/antler-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/antler-ai/amp/",
-      "publishedDateTime": "2024-02-22T05:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast.md",
-      "title": "Buy Rating on Amazon: Strategic Capex Reductions and AI-Driven AWS Growth Forecast",
-      "excerpt": "Amazon (AMZN – Research Report), the Consumer Cyclical sector company ... particularly with a projected increase in AWS capital spend to support burgeoning Generation AI initiatives. Despite this increase, the forecasted capital expenditures remain ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T01:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

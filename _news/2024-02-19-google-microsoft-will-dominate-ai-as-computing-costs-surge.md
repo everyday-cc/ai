@@ -68,20 +68,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft to Use Intel for In-House Custom AI Chip"
-    excerpt: "Microsoft CEO Satya Nadella revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
-    publishedDateTime: 2024-02-21T17:21:00Z
-    webUrl: "https://www.thurrott.com/cloud/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 71
-    images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/intel-soc.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "Intel will make chips for Microsoft"
     excerpt: "US chip company Intel will make high-end semiconductors for Microsoft, the companies announced, as it seeks to compete with TSMC and Samsung to supply the next generation of silicon used in artificial intelligence for customers around the world."
     publishedDateTime: 2024-02-22T14:35:00Z
@@ -150,6 +136,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 51
+  - title: "Microsoft to Use Intel for In-House Custom AI Chip"
+    excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
+    publishedDateTime: 2024-02-21T17:21:00Z
+    webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
     quality: 51
   - title: "Icreate, Microsoft, IT Ministry To Skill 11K Innovators, Startups In AI In India"
     excerpt: "Microsoft India and iCreate (the International Centre for Entrepreneurship and Technology) will provide AI skilling opportun"

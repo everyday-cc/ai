@@ -1,21 +1,21 @@
 ---
 category: news
 title: "How AI health care chatbots learn from the questions of an Indian women's organization"
-excerpt: "Recommended Videos The app she uses is powered by artificial intelligence running on OpenAI ... represents what many hope will be part of the impact of AI on health care around the globe: to deliver accurate medical information in personalized responses ..."
-publishedDateTime: 2024-02-22T00:05:00Z
-originalUrl: "https://www.wsls.com/business/2024/02/22/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/"
-webUrl: "https://www.wsls.com/business/2024/02/22/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/"
+excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
+publishedDateTime: 2024-02-22T00:00:00Z
+originalUrl: "https://www.wral.com/story/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/21295384/"
+webUrl: "https://www.wral.com/story/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/21295384/"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: WSLS 10
-  domain: wsls.com
+  name: WRAL
+  domain: wral.com
 
 topics:
-  - AI in Healthcare
+  - Natural Language Processing
   - AI
 
 related:
@@ -52,6 +52,6 @@ related:
       domain: siliconangle.com
     quality: 31
 
-secured: "+VcWjjRra8jASAM1B8azJvCkUuBms5KkO9P60qGN8U8fM5n9QevLcARTmdq6OG9Sq+sdg8M4xb6t/iF/rF/o7bnJQvOwwxcwueTa0vWJ+81o4CWkZGiaCKE/jaO5NMqI1zyTBYF9smvI5TmLoX3oC8019hZncGWUgItgfPz4Ps6+r3yUk/PBPWtBW9NSDUnN5OCkgoU5oW7Xg6vZipYwFvkRGC/BLcJ/aEvl0DkgEpHE0KwOqSLyeU6d8EYfTyss2Ppos8/ytvoacFqeBhqT2npKBJ+94G9mqVu8AklHrZZIj2BV/lPofPmrPqt8tz/aORWgCbY9YiIbB655v0nAJdOEmERbateT0V3P3zX7YYnfJL3pmzcXdsJGRdQeTJF30JaAwNP3N1o+o9aNKU/L1ixcwmoRU1ueNxhSSWo4nE0DYWJyoOvGz4t7WRWDujOmHfPySD2Q0ANyQHwnb4cZx6TOWFrmqJHCfDlQCO8D+WPBbZdbs3rj3rB5iFjVpH5ZLfjEHb+qRyF413Y7IWDW3g==;ptA+ngk0dlAzqsHLNHOUVA=="
+secured: "MzbRDKznLvKSNNzG2YqCp+b32flUUe/1Xs8n+chnf3xFnwK+0BcPklIEoy41mkEgvrlL+Brv5e9L3N7pdXBhiWPst8xN8Qk+IfK0VEOzXzxq3EF4R3H+1CAlk/g3uYFFqvzsaH5EwCPn7KgY5e+aHsQPm3MNN7jYG0l3nSuIfScB9kIFKjw48izFSkO5gYVgobhSDzvaMrrb44byj+jY+LroQrREMX6VUyrYnQ503Uv9uLxqoua6bh81UTRsi36Tnq0riAyloWj4nN+N8Kx20psDAHCu4ST5K+ISVuXuot1siWqdnNNb+3+aizu6IN/IZ3/k/LPN7i+2OiiYmJpD71dBDuiPM9sgpnLwJhOjShldUmZ80sWFHQ3i3/DJfJw0sbA0TMJw8I4UTerZ5CGp28+y6lYVr9rA8J5M4OyyS//7dKOvKBjIJk8FBJ9hjuiKU9xyVRq6pJHRTbNUWHtowoNv/ATiGTBRuKQtRylV+I8/+Nv7PeW9MomIBQ0UcD+07oz1DcJJIQy4qJUYlG5GwQ==;n+e3Wc7z7eldQnDxDApSjA=="
 ---
 

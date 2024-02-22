@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-23-azure-iot-centrals-reported-retirement-plans-remain-mysterious.md",
+      "title": "Azure IoT Central’s reported retirement plans remain mysterious",
+      "excerpt": "News that Microsoft plans to retire its Azure IoT Central platform ... “Now here we are in 2024, and companies are learning what’s working and what’s not working.” Google discontinued its IoT Core platform in favor of a partnership with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.html",
+      "originalUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/05/holding-cocktail-on-a-tropical-beach-139494580-100265301-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.amp.html",
+      "publishedDateTime": "2024-02-22T21:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-reimagining-higher-education-seneca-polytechnic-set-to-transform-postsecondary-learning-with-integration-of-microsoft-azure-ai.md",
+      "title": "Reimagining higher education: Seneca Polytechnic set to transform postsecondary learning with integration of Microsoft Azure AI",
+      "excerpt": "Seneca Polytechnic among the first Canadian postsecondary institutions to bring Microsoft Azure AI technologies to students to support learning and career goals  TORONTO, Feb. 22, 2024 /CNW/ - Seneca Polytechnic announced it is bringing the power of Microsoft Azure AI technology to students and employees through several new initiatives designed to prepare students for the workforce of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/22/9966707.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/22/9966707.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2345557/Seneca_Polytechnic_Reimagining_higher_education__Seneca_Polytech.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T16:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-cloud-and-ai-apps-take-center-stage-in-net-9.md",
       "title": "Cloud and AI apps take center stage in .NET 9",
       "excerpt": "A first preview release of the next .NET sets the scene for a year of platform development focused on cloud-native and AI-powered applications. Just three months into the tenure of .NET 8, it’s already time for Microsoft and the .NET Foundation to start ...",
@@ -404,7 +500,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 190,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -1336,102 +1432,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-the-future-is-now-building-the-infrastructure-to-power-ais-promise.md",
-      "title": "The Future Is Now: Building The Infrastructure To Power AI’s Promise",
-      "excerpt": "Building an efficient AI infrastructure will mean automating assembly, inspection and data management to eliminate human error and speed up labor-intensive tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c665858486a2b4671d9af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1300,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/",
-      "publishedDateTime": "2024-02-12T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-microsoft-preparing-for-a-quantum-leap.md",
-      "title": "Microsoft: Preparing For A Quantum Leap",
-      "excerpt": "Microsoft has launched Azure Quantum, a cloud-based platform for researchers to learn quantum programming. Read why I rate MSFT stock a strong buy.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4669491-microsoft-preparing-for-a-quantum-leap",
-      "originalUrl": "https://seekingalpha.com/article/4669491-microsoft-preparing-for-a-quantum-leap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gettyimages.com/id/1241725400/photo/quantum-leap-a-portrait-for-troian-february-7-1971-episode-2-pictured-deborah-pratt-as-troian.jpg?b=1&s=594x594&w=0&k=20&c=B-k-GdCjYCVtWpFQWAmebAax0AM1ghxnG2Sb933vek0=",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T10:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

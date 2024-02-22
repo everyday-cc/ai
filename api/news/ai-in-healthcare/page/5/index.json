@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-13-patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch.md",
+      "title": "Patient Prism Unveils Revolutionary AI-Driven Healthcare Platform with New Website Launch",
+      "excerpt": "A cutting-edge conversational intelligence tool that interprets patient communication with unprecedented depth, offering actionable insights for healthcare providers. Tailored KPIs: Our platform provides specific,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-patient-prism-unveil-1702401307.png",
+          "width": 600,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T04:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-how-the-eu-ai-act-regulates-artificial-intelligence-what-it-means-for-cybersecurity.md",
+      "title": "How the EU AI Act regulates artificial intelligence: What it means for cybersecurity",
+      "excerpt": "On December 8, 2023, after more than 36 hours of negotiations, European Union lawmakers agreed on the details of a new law to regulate artificial intelligence. The document, dubbed the AI Act, is one of the first attempts in the world to establish a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html",
+      "originalUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.csoonline.com/wp-content/uploads/2023/12/hemicycle_of_louise_weiss_building_of_the_european_parliament_strasbourg-100624123-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/",
+      "publishedDateTime": "2023-12-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals.md",
       "title": "Artificial Intelligence Is Here To Stay: Considerations For PR Professionals",
       "excerpt": "Machine learning, or artificial intelligence (AI), is a game changer ... But AI’s uses are much broader—think facial recognition in security systems, medical diagnosis in healthcare, self-driving automobiles and fraud detection in financial institutions.",
@@ -1184,85 +1279,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-the-macroeconomics-of-artificial-intelligence.md",
-      "title": "The Macroeconomics of Artificial Intelligence",
-      "excerpt": "The collective decisions we make today will determine how AI affects productivity growth, income inequality, and industrial concentration",
-      "sourceUrl": null,
-      "webUrl": "https://www.imf.org/en/Publications/fandd/issues/2023/12/Macroeconomics-of-artificial-intelligence-Brynjolfsson-Unger",
-      "originalUrl": "https://www.imf.org/en/Publications/fandd/issues/2023/12/Macroeconomics-of-artificial-intelligence-Brynjolfsson-Unger",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T02:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Monetary Fund",
-        "domain": "imf.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-how-artificial-intelligence-could-transform-health-care.md",
-      "title": "How Artificial Intelligence Could Transform Health Care",
-      "excerpt": "Bob Wachter comments on the potential of new generative artificial intelligence tools to transform the health care environment in a way previous technologies could not.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucsf.edu/news/2023/11/426716/how-artificial-intelligence-could-transform-health-care",
-      "originalUrl": "https://www.ucsf.edu/news/2023/11/426716/how-artificial-intelligence-could-transform-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucsf.edu/sites/default/files/fields/field_insert_file/news/wachter_digital.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T00:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UC San Francisco",
-        "domain": "ucsf.edu",
         "images": null,
         "publishers": null,
         "authors": null

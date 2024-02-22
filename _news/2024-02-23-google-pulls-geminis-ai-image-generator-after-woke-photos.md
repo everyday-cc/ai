@@ -164,6 +164,20 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "Google Announces Gemma: A New Family of Open AI Models Inspired by Gemini"
+    excerpt: "Google is excited to introduce Gemma, a new generation of open models to assist developers and researchers in building AI responsibly."
+    publishedDateTime: 2024-02-22T21:27:00Z
+    webUrl: "https://www.datanami.com/this-just-in/google-announces-gemma-a-new-family-of-open-ai-models-inspired-by-gemini/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 40
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
+        isCached: true
   - title: "Google's Gemini AI accused of acting too 'woke', company admits mistake"
     excerpt: "The row erupted after a user pointed out that Gemini, earlier known as Bard, was showing inaccurate images when asked to furnish certain information"
     publishedDateTime: 2024-02-22T10:53:00Z
@@ -319,6 +333,6 @@ related:
       domain: androidheadlines.com
     quality: 4
 
-secured: "G20DggwXnxOFa86kxpVMZ/C2q1ElRtkOqHIqB6Dbgu39SY8G0oz1Dg7sKWsjrnvgkvbMXN1W1baxqTT4Ol+YmR2UxkJ6MP7BYBMxYNistR7V526QXUORzLLwH12xREaxvLV9vgvciSJDPcW6EKYR8i25Oo63rTZYMGdziQ5jT4bFMUBhgt5xsPKDX3tZiOhyLjNuKJMUt08oNjsTab1XHz0MfnRSGMCM2WvUg6uDUTQQFCpBnfQBb/CEwL+B8tJxtwVJxzc1WsG6mvjfteuk96kXGh3s40QyIg3z7/4FZ62SVC7mzYzCiC1mXIWEhSZOuKVG1QtZ558kA1AH68I2ZsQ2ylxROlcr1GLxAmbhL2s=;UiFhW4gOu/6V4uj+G/1ZIw=="
+secured: "KvrUgrP6m346s8WJNhIvGKZmzPli19LjJf0IcEFZhHPVEAf6S72v6HD8IdrPM5oN2CYEjVIei/v+F/lp184ebyKk2BosCA7Oemp/RwdAggD4unKLSRRk95BYY3eGYnTzlLE4OafmIJH6Qux3l+7mqXs5FVSnZVIbO6UMh/y2JkuqXLdIawhi32jSHjrmgQNX7DvJmp7M2hb3yEfY2CJsCN2fUDCAFo2Kk+r+cIcwGSV+MAhGFxNEWHnxnfSJRuqgOGG1Y+tzr6LmpE9R2fP+Mg5QHOyV8vF00Rt3UHR3ss5Axha9F5sis9FhGkoLKkotRRHHF5IkgwZ+FuBZ8WAKcT1nSlP6ARCFJmY9cKzo+0X9G6bOjCn2vAo82qTt3lpPragGLyXMxWiRu7Oy71TEkbka75uuGujZfc1qQ5zYZWOpSytEbNlv9bWGIGXJb9nSDQ8FQYrZQKRF0i7NuJvh+e5iW2iQvPKrZhpmKZINOTKmWdTAA02BQMt5dDmqDonDtREQbTSjEf7QJ5NbVQE23Q==;0dkNTQ8418mfnA9ncqMBBA=="
 ---
 

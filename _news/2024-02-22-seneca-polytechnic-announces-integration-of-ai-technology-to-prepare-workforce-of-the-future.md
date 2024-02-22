@@ -39,6 +39,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Healthcare Integrated Technologies, Inc. Announces Issuance of Second U.S. Patent for Innovative Transaction Validation System"
+    excerpt: "Knoxville, Tennessee, Feb. 22, 2024 (GLOBE NEWSWIRE) -- Healthcare Integrated Technologies ... for validating transactions through an intricate system of sensors and artificial intelligence (AI). By gathering and analyzing data from multiple sources ..."
+    publishedDateTime: 2024-02-22T16:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/healthcare-integrated-technologies-inc-announces-issuance-of-second-u-s-patent-for-innovative-transaction-validation-system-1033094935"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
 
 secured: "kFxN6xPAgz5QADLC38u0XGopKET2WMKjlJGib+QiIuoXOJa3y/tMYfMBGP8oFQWD6u3SPmH80Bx4bibsGeclpxdnnpN6RpiDmaSlL/tfwiJYlh+H9TyBsfNDvIKXKIs4c7GhxLDo7MJ1jgVjAQv6I3QCt98Mw0Tg2GHM7a5hJjNcXmS2j4HF4WQmcVIGDD147zxjo1FhzXrmQsGJTuQ5XIA74Nmcur+RdGBGZqq2I9D7YYFvvJkyxpuRi3Z95ydH7FWDw4wrRPdc5GCR2+ZspcrH8a8bZdE38MOhg09MSuP5MqPEvlgZz6241HxVdAUBPfnZdZBbHIC3eT3kLWuCKnlYDo7Jp4Lz7LayS/bEe5s=;sH7mjW9laGbhzmM6Q9BCcg=="
 ---

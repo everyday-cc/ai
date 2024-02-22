@@ -83,6 +83,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nvidia’s surge ripples across stock market — lifting AI, tech and semiconductor ETFs"
+    excerpt: "For now, Nvidia “has met lofty expectations and that will keep general AI enthusiasm intact and that is a positive for the market, broadly speaking,” said Tom Essaye, founder and president of Sevens Report Research, in a note Thursday. See: Nvidia’s ..."
+    publishedDateTime: 2024-02-22T22:27:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://images.mktw.net/im-89200862/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nvidia Announces Not One, But Two New AI Chips for China Amid Export Challenges"
     excerpt: "Huang’s announcement didn’t dive into the specifics about the chips or who’s testing them, leaving many to wonder about the details. There’s been talk, especially from a newsletter called SemiAnalysis, about Nvidia planning to launch three chips ..."
     publishedDateTime: 2024-02-22T00:00:00Z
@@ -414,6 +430,20 @@ related:
       name: AOL
       domain: aol.com
     quality: 29
+  - title: "Nvidia shatters stock market record by adding over $230 billion in value in one day. Here’s why it’s dominating the AI chip race"
+    excerpt: "CEO Jensen Huang says early bets on AI made Nvidia “the only company that got it,” and competitors are racing to catch up."
+    publishedDateTime: 2024-02-22T21:32:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-shatters-stock-market-record-193237522.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 25
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/TWYco4gy3bqDjSoq3LKlvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/68237085b23ea912c1559e3144df1337"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Forget Nvidia: These 3 Artificial Intelligence (AI) Stocks Can Be the Next Stock-Split Stocks"
     excerpt: "At the moment, nothing is garnering the attention of professional and everyday investors quite like artificial intelligence (AI). AI, which involves the use of software and systems to oversee tasks normally overseen by humans, has application across almost ..."
     publishedDateTime: 2024-02-20T20:40:00Z
@@ -423,6 +453,24 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 21
+  - title: "Stock bulls reload AI wagers as Nvidia surges 12%"
+    excerpt: "“We think the near-term momentum in AI-related stocks is likely to continue,” Marcelli ... of divestitures aimed at generating $2 billion in cash. —Space exploration startup Intuitive Machines Inc. will attempt on Thursday to put the first intact ..."
+    publishedDateTime: 2024-02-22T12:09:00Z
+    webUrl: "https://www.spokesman.com/stories/2024/feb/22/stock-bulls-reload-ai-wagers-as-nvidia-surges-12/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 17
+  - title: "Chipmaker Nvidia Just Posted Unbelievable Revenue Growth. It's All Down to the AI Revolution"
+    excerpt: "The reason is simple, according to the company's CEO Jensen Huang. It's because \"accelerated computing and generative AI have hit the tipping point,\" and demand for powerful chips that can help with all the number crunching needed to make AI work is \"surging worldwide across companies, industries and nations.\""
+    publishedDateTime: 2024-02-22T18:15:00Z
+    webUrl: "https://www.inc.com/kit-eaton/chipmaker-nvidia-just-posted-unbelievable-revenue-growth-its-all-down-to-ai-revolution.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 6
 
 secured: "0pydjLbi7B8HWjoghhO0C244uHc7uCOMsAuFZJaAtZyOc+Dyr4EjxBbEzcPUARis1RyL+3jRSc9EO5n81ecnfz91tnmMyRGC2zGYlhv+ip9XBZ5WA48Rzn/wQlPSE6K3DM8uoLqlOfsxX+H1lJSdRkIYOgjEniR+jyMwrGkR0zjKDAlm7P756vfbNKhh2QXz2w8tZFs3dzy/aAY/+zcooNC9VJF526lkB77CYpqYuNmguHjbPFqLh5hOsa3CBXDU+Q/6ZOjSFuAmGQkywAfLklTNUIqgK03rnlgk5cQiaES9b1nSiDgvliPg+gQRTqpuDtOH20FimR8UJT2sxpe2AUkIo3ONW5cTK1j7hMBh//LRyjkT5kBtnoaTYeK8AdJiQwD4JhHxhDlbwCRhJl7ikRQKzYVQNk81FWyx7etFB2MuIDOEFB/AuPCGntd0r2PHiCSIPqbx5Oif4nCLD3IqqZ7rN3Rr/2wyOqR5D3kmn8nQg3deGDk+JW5zWlsxIn9xw6wMDuLM8n+2BkXpmRTKBw==;e/nYkwRAbeuHCYXc+sRLlg=="
 ---

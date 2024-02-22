@@ -47,6 +47,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google’s ‘Woke’ Image Generator Shows the Limitations of AI"
+    excerpt: "Gemini’s issues may not reflect model inflexibility, “but rather an overcompensation when it comes to the representation of diversity in Gemini,” says Sasha Luccioni, researcher at the AI startup Hugging Face. “Bias is really a spectrum ..."
+    publishedDateTime: 2024-02-22T15:06:00Z
+    webUrl: "https://www.wired.com/story/google-gemini-woke-ai-image-generation/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Google apologizes for AI bot generating inaccurate images of ‘diverse’ historical figures"
     excerpt: "Google Gemini, formerly known as Google Bard, was launched in March 2023 in limited release as a chatbot powered by Google’s large language model. The product was renamed in February as “Gemini” to reflect the “advanced tech at its core” after ..."
     publishedDateTime: 2024-02-21T18:09:00Z
@@ -70,24 +79,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 20
-  - title: "Google’s new AI bot pauses image generation tool after race controversy"
-    excerpt: "Google Gemini, formerly known as Google Bard, was launched in March 2023 in limited release as a chatbot powered by Google’s large language model. The product was renamed in February as “Gemini” to reflect the “advanced tech at its core” after ..."
-    publishedDateTime: 2024-02-22T09:22:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/2867994/googles-ai-bot-pauses-image-generation-race-controversy/"
+  - title: "Google halts AI tool’s ability to produce images of people after backlash"
+    excerpt: "The incident is also yet another setback for Google as it races to take on OpenAI and other players in the competitive generative AI space. In February, shortly after introducing its generative AI tool — then called Bard and since renamed Gemini ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.wsiltv.com/news/consumer/google-halts-ai-tool-s-ability-to-produce-images-of-people-after-backlash/article_89304fcd-9fb3-5550-8676-6bbc485888aa.html"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 19
-  - title: "Google pauses AI image generation of people after diversity backlash"
-    excerpt: "Tech giant responds to complaints that Gemini model was creating images of people in historically inaccurate contexts"
-    publishedDateTime: 2024-02-22T11:43:00Z
-    webUrl: "https://www.ft.com/content/979fe974-2902-4d78-8243-a0cff68e630a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: WSIL-TV
+      domain: wsiltv.com
+    quality: 18
 
 secured: "gRW/8CQgee7tpM2YUco8LLMqLc8Az69q9eeILfu8CxrBufHL8kmnvWqkki3o0otJKZmP7gzJHHFg16ZnG3OFEcLLVUTRHM2fCr39nsQdKE8yVUjVWW6k6caeC02jaPzeVIoU7gSzKWFDYM2p//V/1T8VTBkMbFm+CwsRX9N3P8WT3X+H4jlmn104ID6fvNvEsb54p3IJ2Kh2kI+Pest9PcOkvctEBmk6QSMT6wD/LEq4C5ZNXxkJGduJY2JUtkIAeKoQ3cy0sYy3sO0I0h0FCrhpBBXSiIPY8pLwwupmobQFSqPcwzyl1O6FUo26JhzwpfrSqtRBY3bKXvAT3ciYVh4iF20pIyBh75alBOAm2Bk=;/h9aioZiJYI2mnNCl+iYIw=="
 ---

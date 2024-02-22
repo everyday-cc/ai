@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-16-acciones-de-nvidia-se-disparan-por-ai.md",
+      "title": "Acciones de Nvidia se disparan por AI",
+      "excerpt": "Las acciones del fabricante de chips, Nvidia, aumentaron 2,5% sobrepasando a Amazon. ¿Cómo?",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
+      "originalUrl": "https://www.cnn.com/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230629175437-dinero-chips-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
+      "publishedDateTime": "2024-02-15T21:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-ai-chip-tags-can-fight-espionage-from-hostile-states-report-says.md",
+      "title": "AI chip tags can fight espionage from hostile states, report says",
+      "excerpt": "A new report from Cambridge University warns that AI regulators are overlooking hardware. They advise a firm focus on AI chips",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/artificial-intelligence-safety-report-ai-chips-hardware",
+      "originalUrl": "https://thenextweb.com/news/artificial-intelligence-safety-report-ai-chips-hardware",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-7.jpg&signature=ed5fd8439b7f9bad42f23c6236f0987a",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T16:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-every-country-needs-its-own-ai-systems-says-nvidia-ceo-jensen-huang.md",
       "title": "Every country needs its own AI systems, says Nvidia CEO Jensen Huang",
       "excerpt": "Jensen Huang said nations should work toward building \"sovereign AI\" to control the intelligence and data produced.",
@@ -1399,93 +1503,6 @@
         "AI Hardware",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-nvidia-turning-to-intel-foundry-services-to-expand-gpu-and-ai-chip-capacity.md",
-      "title": "Nvidia turning to Intel Foundry Services to expand GPU and AI chip capacity",
-      "excerpt": "Nvidia could choose Intel Foundry Services as a new partner for GPU manufacturing in the next few months. According to rumors from unnamed industry sources, Nvidia",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101725-nvidia-turning-intel-foundry-services-expand-gpu-ai.html",
-      "originalUrl": "https://www.techspot.com/news/101725-nvidia-turning-intel-foundry-services-expand-gpu-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T18:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-memory-demand-for-ai-boosts-chip-tester-business-advantest.md",
-      "title": "Memory demand for AI boosts chip tester business: Advantest",
-      "excerpt": "Japan's Advantest said it sees sales of memory testers reaching 244 billion yen ($1.65 billion) in the financial year ending March, an increase of 5 billion yen from its October outlook but down a quarter on the same period a year earlier.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/memory-demand-for-ai-boosts-chip-tester-business-advantest/107328970",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/memory-demand-for-ai-boosts-chip-tester-business-advantest/107328970",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-107328970,imgsize-120944,width-1200,height=765,overlay-etbrandequity/digital/memory-demand-for-ai-boosts-chip-tester-business-advantest.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/memory-demand-for-ai-boosts-chip-tester-business-advantest/107328970",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/memory-demand-for-ai-boosts-chip-tester-business-advantest/107328970",
-      "publishedDateTime": "2024-02-01T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

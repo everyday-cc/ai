@@ -48,6 +48,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Big tech rises on a promising AI future"
+    excerpt: "The Nikkei breaking fresh higher ground is the culmination of a 34-year roller-coaster journey for Japanese shares, which transitioned from being the most highly valued in the world to among the most undervalued. Now, investors are setting their sights on the sky is the limit."
+    publishedDateTime: 2024-02-22T20:18:00Z
+    webUrl: "https://www.fxstreet.com/analysis/big-tech-rises-on-a-promising-ai-future-202402222018"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 19
 
 secured: "UMwUgxGMPOL/GIqKAe7WWQGOFKA6nUnMobXr0g+dM3cyiOKblGajZrnEE4/BQ2I4/exrqhCbvf4736XYDOmvAcmC+RQ+JRVA/9j6YBFfFNZAGhrSfFCtU/Weu2uSCFpwsBn/FRm4an+DKCe3N1QPEG+/Xs0+tejhxp/+1quBhq61QWele1vSqBVwrXQeKdfwJ8K2h/A3Xv4WZj26nH/l+XCibB/KcP9pLb7oyIHYQP0uh0keqalJRhQmBX0SukDYPo8eAcOcS4/tz0lguuD3HxzmKUk2r/XR4VbSE2Wddr/dLHeKOclp9aiuYvc1FgXDDWVNureL+Vj1D64iCy9Xnpy5Pw3GY3WRnrLJpPXjdzfV84BOey/Z2oChsYfJAZktNW4OAWrEz2iiwPrssCy73D2U2U9wPRLnyLrzszd8XhPlRmG+Fj1dfFLMvgGfMe8OmBmYkjTNVg8u/VFzZzubC2ArXY79NZkaxI8g5iGC5GiEgjNxz/277z9SN/iYERx1As5lItOf8SGz9JU12qorxg==;ndlBTaQxPhTbFdsjUPrDfw=="
 ---

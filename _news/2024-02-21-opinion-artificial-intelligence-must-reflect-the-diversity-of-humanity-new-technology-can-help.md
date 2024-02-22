@@ -34,22 +34,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "OpenAI’s Sam Altman seeks blessing to raise billions for AI chips"
-    excerpt: "OpenAI’s CEO is working to secure U.S. government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national"
-    publishedDateTime: 2024-02-17T21:42:00Z
-    webUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/"
-    ampWebUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 74
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2024/02/BIZ-CPT-ALTMAN-AI-CHIPS-GET.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Sam Altman's new AI chip startup awaiting US approval: reports"
     excerpt: "Sam Altman, CEO of OpenAI, the parent company of ChatGPT, is awaiting approval from the US government for his new AI chips startup, according to a recent report by Bloomberg News. The report suggests that this emerging venture has the potential to trigger concerns related to national security and antitrust issues."
     publishedDateTime: 2024-02-18T08:26:00Z
@@ -66,15 +50,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "OpenAI hits $80 billion valuation, CEO Altman eyes AI chip manufacturing"
-    excerpt: "OpenAI hits $80B valuation, ventures into AI chips and unveils Sora, a video-gen service, amid AI tech exploration and safety measures."
-    publishedDateTime: 2024-02-17T22:35:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/17/openai-hits-80-billion-usd-valuation/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 63
   - title: "Opinion: AI, Elections And Law - Why No Country Can Tackle AI Alone"
     excerpt: "Talks between EU and India on tackling the threat of online disinformation reflect the need for collective global action against the risks posed by generative AI."
     publishedDateTime: 2024-02-21T08:30:00Z

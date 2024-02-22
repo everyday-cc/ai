@@ -7,8 +7,8 @@ originalUrl: "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-s
 webUrl: "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices"
 type: article
 quality: 51
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: U.S. News & World Report
@@ -24,6 +24,15 @@ topics:
   - AI Hardware
 
 related:
+  - title: "3 AI Stocks That Every Investor Needs to Own Today"
+    excerpt: "When the AI boom came, the company successfully leveraged its leading ... server products and cloud services revenues increased by 22%, driven by Azure and other cloud services. In addition, total revenue reached $62.0 billion, an 18% YoY growth."
+    publishedDateTime: 2024-02-22T09:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-every-investor-needs-to-own-today-1033094009"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "VW partner Xpeng to hire 4,000, invest in artificial intelligence"
     excerpt: "Xpeng, which has VW Group as a partner, plans to release around 30 new products or revised models within three years."
     publishedDateTime: 2024-02-19T13:14:00Z

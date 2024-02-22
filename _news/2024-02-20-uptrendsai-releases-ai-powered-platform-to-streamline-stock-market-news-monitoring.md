@@ -98,15 +98,20 @@ related:
         width: 1500
         height: 862
         isCached: true
-  - title: "Artificial Intelligence | Worrisome trends in election campaigning"
-    excerpt: "JOHANNESBURG - The emergence of artificial intelligence-generated content is changing the landscape of election campaigns. Artificial intelligence programs can produce realistic images and voices in a matter of few minutes and people have long tried to misrepresent media to influence an election."
-    publishedDateTime: 2024-02-17T20:06:00Z
-    webUrl: "https://www.enca.com/videos/artificial-intelligence-worrisome-trends-election-campaigning"
+  - title: "5 Interesting AI Use Cases In the Legal Industry"
+    excerpt: "“You [can] provide some inputs [like] the case protocol, the complaint, something to that effect,” into the generative AI tool and “start interviewing your corpus of of documents… it’s more than just a chatbot.” Once the “hot documents” are ..."
+    publishedDateTime: 2024-02-22T22:01:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/02/22/5-interesting-real-life-use-cases-for-ai-in-the-legal-industry/"
     type: article
     provider:
-      name: eNCA
-      domain: enca.com
-    quality: 32
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/legal-tech-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Automation and integration, AI and VR – this year’s biggest IOT trends might not be what you expect"
     excerpt: "Among the applications of generative AI and large language models were live translator devices and pocket-sized AI devices designed to manage tasks through interactions with typical mobile apps. Urban mobility is taking off too, quite literally ..."
     publishedDateTime: 2024-02-21T06:54:00Z

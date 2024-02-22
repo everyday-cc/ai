@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-19-how-can-ai-support-value-based-care.md",
+      "title": "How Can AI Support Value-Based Care?",
+      "excerpt": "Artificial Intelligence has the potential ... 28 providers and payers made commitments for responsible use of AI in healthcare. These organizations include CVS Health, Mass General Brigham ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2024/01/artificial-intelligence-value-based-care/",
+      "originalUrl": "https://medcitynews.com/2024/01/artificial-intelligence-value-based-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/12/GettyImages-1300745916.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T00:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-is-truth-a-casualty-of-artificial-intelligence.md",
+      "title": "Is Truth a Casualty of Artificial Intelligence?",
+      "excerpt": "The truth, the whole truth, and nothing but the truth. In the tumultuous discourse around artificial intelligence, the conversation often circles around this quest for the truth or the \"right answer.\" However, a recent discussion with Sam Altman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/ai-generated-7816775_1280.jpg?itok=sIRyxhCS",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp",
+      "publishedDateTime": "2024-01-18T22:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-dean-phillips-vows-to-be-first-ai-president-in-campaign-speech-on-his-artificial-intelligence-platform.md",
       "title": "Dean Phillips vows to be 'first AI president' in campaign speech on his artificial intelligence platform",
       "excerpt": "Democratic presidential candidate Rep. Dean Phillips rolled out his platform for artificial intelligence (AI) development during a campaign speech in New Hampshire.",
@@ -1199,103 +1285,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-how-artificial-intelligence-is-snatching-away-our-jobs.md",
-      "title": "How Artificial Intelligence Is Snatching Away Our Jobs",
-      "excerpt": "It's happening, the worst nightmare for anyone working in the corporate world is becoming true. Artificial Intelligence is slowly taking away jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "originalUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oneindia.com/img/2023/12/artificial-intelligence-1703561220.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "publishedDateTime": "2023-12-26T03:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oneindia",
-        "domain": "oneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-the-top-10-people-in-artificial-intelligence-hardware.md",
-      "title": "The top 10 people in artificial-intelligence hardware",
-      "excerpt": "As the graphics-processing unit shortage continues, companies and venture capitalists are rushing to buy these chips to run powerful AI models. Nvidia, the chip giant that's been riding the boom ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11",
-      "originalUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/652725406561dd877e784703?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11?amp",
-      "publishedDateTime": "2023-12-25T13:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

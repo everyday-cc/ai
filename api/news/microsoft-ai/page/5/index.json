@@ -2,6 +2,84 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-11-how-generative-ai-is-accelerating-automotive-transformation-microsoft-azures-impact-on-the-future-of-mobility.md",
+      "title": "How generative AI is accelerating automotive transformation: Microsoft Azure's impact on the future of mobility",
+      "excerpt": "The mobility landscape is evolving at an exciting pace. Automotive, transportation, and logistics companies worldwide have a renewed sense of urgency today to embrace transformation and drive innovation in the movement of people and goods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/sponsored/generative-ai-accelerating-automotive-transformation-microsoft-azures-impact-future",
+      "originalUrl": "https://www.autonews.com/sponsored/generative-ai-accelerating-automotive-transformation-microsoft-azures-impact-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-top-10-best-machine-learning-software-in-2024.md",
+      "title": "Top 10 Best Machine Learning Software in 2024",
+      "excerpt": "It offers a wide range of tools and services to help users build and deploy machine learning models quickly and easily. Azure Machine Learning is a cloud-based machine learning software that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
+      "originalUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/Best-Machine-Learning-Software.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-how-video-game-tech-ai-and-computer-vision-help-decode-animal-pain-and-behavior.md",
       "title": "How video game tech, AI, and computer vision help decode animal pain and behavior",
       "excerpt": "Top neuroscience labs are adapting new and unexpected tools to gain a deeper understanding of how mice, and ultimately humans, react to different drug treatments.",
@@ -1330,101 +1408,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption.md",
-      "title": "Coforge enters into a partnership with Microsoft over enterprise-oriented Generative AI adoption",
-      "excerpt": "Coforge Limited (NSE: COFORGE), a digital services and solutions provider, has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative artificial intelligence (AI) across enterprises. According to an official release ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-21T173344.327.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/lite/",
-      "publishedDateTime": "2023-12-21T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-2-spectacular-artificial-intelligence-ai-stocks-primed-to-beat-the-sp-500-in-2024.md",
-      "title": "2 Spectacular Artificial Intelligence (AI) Stocks Primed to Beat the S&P 500 in 2024",
-      "excerpt": "Ellison says OCI's new Gen2 Cloud is now the No. 1 choice among generative AI developers, and it attracted top start-ups like Cohere and Elon Musk's xAI. They have already committed to spending billions of dollars on Gen2 Cloud computing capacity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-primed-beat-sp-500-2024/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-primed-beat-sp-500-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/758878/people-viewing-a-mobile-device-in-front-of-stacks-of-supercomputers.jpg",
-          "width": 5127,
-          "height": 3418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T05:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]

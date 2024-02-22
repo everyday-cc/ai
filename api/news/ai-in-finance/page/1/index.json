@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-23-this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit.md",
+      "title": "This fintech startup is targeting a gap in lending as banks tighten credit",
+      "excerpt": "“Just because the loans are smaller doesn’t mean they’re not good.” Nvidia earnings send stock rocketing as company cheers AI ‘tipping point’ Nvidia makes Wall Street history as stock surge adds $277 billion in market cap Super Micro’s stock ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
+      "originalUrl": "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-26691341/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
+      "publishedDateTime": "2024-02-22T22:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life.md",
       "title": "Yorba’s service is like Mint for uncluttering your entire digital life",
       "excerpt": "Spend enough time online, and you’ll collect a digital paper trail of accounts, logins, subscriptions, mailing lists, and passwords wrapped up in data breaches. A new startup called Yorba can help you get a better handle on your ever-expanding digital ...",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -399,58 +451,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-insights-from-the-2023-fintech-index.md",
-      "title": "Insights From The 2023 Fintech Index",
-      "excerpt": "Much ink has been spilled about where fintech is going. It is refreshing to ground this in a retrospective. In this vein, I wanted to deep dive on three reflections from this excellent report by F-Prime: The 2023 Fintech Index.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/",
-      "originalUrl": "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cccfddcfc776b96c7ac6f9/0x0.png?format=png&height=900&width=1600&fit=bounds",
-          "width": 1430,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/",
-      "publishedDateTime": "2024-02-18T15:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {

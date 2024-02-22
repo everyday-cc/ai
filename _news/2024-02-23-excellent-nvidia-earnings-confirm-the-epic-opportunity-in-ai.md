@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/excellent-nvidia-e
 webUrl: "https://markets.businessinsider.com/news/stocks/excellent-nvidia-earnings-confirm-the-epic-opportunity-in-ai-1033094503"
 type: article
 quality: 67
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 Hypergrowth AI Stocks to Buy That Can Beat Even Nvidia"
+    excerpt: "For investors, this means that the time to focus on finding the best AI stocks to buy is now. Nvidia is leading the way, but many of its smaller peers are picking up steam. Matt Miczulski, an investment expert and editor at fintech platform Finder ..."
+    publishedDateTime: 2024-02-22T15:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-hypergrowth-ai-stocks-to-buy-that-can-beat-even-nvidia-1033094886"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Nvidia Just Bought This Under-the-Radar Artificial Intelligence (AI) Stock. Should You Buy It, Too?"
     excerpt: "According to Nvidia 's 13F filing for the fourth quarter of 2023, it purchased 1,730,883 shares in SoundHound AI. It doesn't specify what price Nvidia paid, but the position is worth $6.5 million at SoundHound's current stock price of $3.76."
     publishedDateTime: 2024-02-18T15:40:00Z
@@ -37,6 +46,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "Cathie Wood Can Only Watch as Nvidia Rides AI Wave She Foresaw"
+    excerpt: "Annual economic growth could accelerate to as much as 50%, thanks to breakthroughs in the world of artificial intelligence."
+    publishedDateTime: 2024-02-22T17:42:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-22/cathie-wood-can-only-watch-as-nvidia-rides-ai-wave-she-foresaw"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Nvidia’s Market Leadership and Innovation in AI Technology Bolster ‘Buy’ Rating"
     excerpt: "Fang Boon Foo has given his Buy rating due to a combination of factors highlighting Nvidia’s dominance in the GPU market and its innovative strides in artificial intelligence (AI) technology. Nvidia’s GPUs, particularly those designed for data centers ..."
     publishedDateTime: 2024-02-22T00:55:00Z
@@ -121,6 +139,6 @@ related:
       domain: news-journal.com
     quality: 4
 
-secured: "nddPQX01Cwc7xqtSH1KmjiaDCE6hwBvmOZAvTHK1MvzkwjIS2Nkhcc0G1HYTAwpU9nJvkHYO6o+z1rx/eEXQYQW6R9PqBZJI98G71ocBuXYC3Am5s0bwI34MQ7m65Bkws8mVwjXTgIs8eNFHag8qfJwV1lPEje6Mb83YDAdEoHn9ghCF/UUb1o0HshRDNXgOw8JE0zinq9FreGDMEt07aSk8MBCK+MY8BCMmNBGJVwzsZI97wpHXPTa1ILTIlk3C767F52wk9MXoCedpNnc7E2y0KmXwiyBzyu0OF1khL8twAU7F11XQNju9chnV86u2GOiyj5wOWOVPS17pA6tH64XrkL28TQf5cG3CxBQN0xg=;aoPqU1nN7MC7Bzk8blfclg=="
+secured: "vBV93p2DY0+O73P3cEIzSXxZ+7l9Ct5J+ivUVby5VgC89saNbV5E0mwZB4QyvsFpdoXM1ZKpu0PmRC1jQ9PQk+G0wj72CxTI341yBKrTl8m8h94awKhO20W+eP3+pTe3mH8vE4McNwop2bhOqHVLV7tNKUImpPIx8N+l5ubSNY8k/tX36PKQevLJn+HQkxU+tNYYO7sWjUVaoAeTcLseVQaqfrNEHs5P9kf5uVrusk0EGjGg9JxEFGAXiakW7YziQ2+fyYIjH1sshv7Z8Aqju2PE4yJyL91TtB1pn0+aHsSujVZi1GBvlanTKvLOWiDWaFPgfs6XySPSxu3eMvD3gS21b6r1l1iQX5AXw9gg48MqdafNEho4gsDf2Q9X7ANtgtBGG4QmDsxWNHqgx80DVTN+7DUV684HPteXy2PHiHlvUyuYiq6djO8ABOLg8DwL66zbFNYsEzM/uVvIw4ZezF9H7v8UlVl+OX1pxVU7zA+oDoLRTrdkAFKdsrt9eTe29iCJn0sPz9jivwC+zqpeTw==;1vO3YMBsoCF0oeIu7zGY7w=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-22T00:00:00Z
 originalUrl: "https://www.jdsupra.com/legalnews/corporate-use-of-third-party-artificial-86131/"
 webUrl: "https://www.jdsupra.com/legalnews/corporate-use-of-third-party-artificial-86131/"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15992_1015.jpg"

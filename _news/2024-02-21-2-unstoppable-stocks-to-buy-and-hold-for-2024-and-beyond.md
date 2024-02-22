@@ -18,6 +18,17 @@ topics:
   - AWS AI
   - AI
 
+related:
+  - title: "1 Fintech Stock Under $300 to Buy and Hold Forever"
+    excerpt: "Today's Nvidia-fueled rally aside, it's not just artificial intelligence (AI) stocks that have piqued the market's interest over the past year. Fintech companies have also surged in popularity as the world shifts toward digital payments. The growth in ..."
+    publishedDateTime: 2024-02-22T20:51:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/XNDX/pressreleases/24283600/1-fintech-stock-under-300-to-buy-and-hold-forever/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 4
+
 secured: "sgW8pjhL2DmL+Ti4AI8ZQZQWHeeKOorOszn9Mzh523ZEQHwKsYIvBl6GhQQdb6ye4SBYluIpfpB8BoF9Et7oP6soLfFl8lkATXMWhduH2fZ4M8jvxYyGVNi5eb5LZHf+GjmnSsW/sh9m260wx0fPs/4bZ9cvZch20D3U3leBdGKoMVXw2KuzkKBCAgBtKJ3bAWioB8A8alOltOmnC+APd5V/Wcmq6vVLnPVijXFqR88qaDGLH5rRuRNnncD+BJYz2LlXPiaE1YUB/YzcDWRtaPiAIp49zgr/PYd31S3884SqRYWzygia3CDlG73mlWUUkMfCIELmc1ydjKUG++t6G9NYLZhA3USN4cjYH+qkrrM=;M/pCGCBUalRuyxmeWNfP6Q=="
 ---
 

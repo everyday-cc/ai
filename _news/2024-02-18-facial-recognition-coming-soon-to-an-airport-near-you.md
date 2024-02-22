@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airpo
 webUrl: "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html"
 type: article
 quality: 84
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -172,6 +172,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Researchers Develop Real-Time Emotion Recognition Wearable Tech: Here's How It Works"
+    excerpt: "Kang, in his research paper \"On the Praxes and Politics of AI Speech Emotion Recognition,\" notes that \"there is no scientific consensus on what is meant by \"emotion\"-researchers have examined various phenomena spanning brain modes, feelings, sensations ..."
+    publishedDateTime: 2024-02-22T11:02:00Z
+    webUrl: "https://www.techtimes.com/articles/301938/20240222/researchers-develop-real-time-emotion-recognition-wearable-tech.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 0
 
 secured: "QjgC8cNYxy4QsgR/iDpMHqlGM6bcXtZuSP+woCpkaYUaVOwkT97lfYTY8R860rCsNCdIUriKbpGmmLBhgNRa/4JSOt5b9eoCKFLbgX7fkqNAoFXoYw5rWWldFve7hgfEa2iMmN51+JYERAUKNSxN3Rew3Q3d/Dsjp+4+T49kUaRI3i4n1wnk6t04ZkaHbkx4j0cJiqR7jRHhIEqcE3EHZl1zYpAgzqjHaKH4e0UeyJ14GAwVcZBIus3usN/cIz92G51FWOK4SSCuO54SzfEXs1kK1tAfqd1vmcYLYpo4MDR5W+e/dnn6YYI1vqHvEYCRyWXF0UJSq+Sc+rXa2aRRDXTzJMF/95F0eYPBF1OhdeXR++l9CIH8KOrz4mudulab0YVllIy2KTlgICHsFpAyNRPu6zFsM9XHnEq8l9l0AtMVJ0wvquIgLY/acARJNv4PSl0evB/fTgTq7qYMWDRX7S5YHUP3gHd0pWiOpZmQIiqXftyg0WT7CfurOHNesDCsZdxT5ts3bw6dgQjQOGBvWw==;QzIPsuTasoHI5t9RKaPMUA=="
 ---

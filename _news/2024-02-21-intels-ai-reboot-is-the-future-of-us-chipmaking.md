@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
 webUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel’s CEO Says AI Is the Key to the Company’s Comeback"
+    excerpt: "Will Knight: You announced this week that Intel will relaunch its business that manufactures chips on behalf of other companies as an “AI-era system foundry.” What does that mean? Pat Gelsinger: I began Intel’s strategy two plus years ago ..."
+    publishedDateTime: 2024-02-22T16:55:00Z
+    webUrl: "https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/65d679d633ef175be68cdac6/191:100/w_1280,c_limit/Pat-Glesinger-Intel-CEO-Q&A-Business-1767731700.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "CEOs of OpenAI and Intel cite artificial intelligence's voracious appetite for processing power"
     excerpt: "OpenAI Sam Altman, right, discusses the need for more chips designed for artificial intelligence with Intel CEO Pat Gelsinger on Wednesday, Feb. 21, 2024, during a conference in San Jose, Calif.Michael Liedtke/AP Intel CEO Pat Gelsinger discusses his ..."
     publishedDateTime: 2024-02-22T01:30:00Z

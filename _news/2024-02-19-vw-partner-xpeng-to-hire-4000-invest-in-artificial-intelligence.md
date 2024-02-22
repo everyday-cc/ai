@@ -27,6 +27,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 51
+  - title: "3 AI Stocks That Every Investor Needs to Own Today"
+    excerpt: "When the AI boom came, the company successfully leveraged its leading ... server products and cloud services revenues increased by 22%, driven by Azure and other cloud services. In addition, total revenue reached $62.0 billion, an 18% YoY growth."
+    publishedDateTime: 2024-02-22T09:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-every-investor-needs-to-own-today-1033094009"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "iw9GZjNdh0YnpC+yDT0Ci3iFrAW1JMBKMO6ArQ7EPq9vALFXT2o51FOibCNCgGMugPGRNGnkcyj5D0Wn6o8iARE1PJyf7stE67COPKNPEMiRHCCLBgPUEeCz2Z3KhnX968rMbJLwE/c6JLGQId2iwwnqKb9lBCSM2mlIklrPvxfxojYXdr2l3DiFct3dd6j9qFqMkgzTTbsTiaBUmtdPsRDw+IUQMUvq5corSjCTUr6HdjDU6NE1Sza8SAuTMlzbYYuH6/tUCmfn9EE557GalX4yprblua0upQnboosP0iaIZicXZmiO269oOBWqG/lNrHRppPHmA2B+RopRlRegRbP+exbL9s70fBYabCNER84FNyakp6mgJ3pKUBvQCFqvt4/e9azgkMIH7cEEE3K50e/UJp/lVr0y3nWC0CZv7KW3pXbXlTSKjmwusI8YLv+qRaXLD+D/z1bZ27VMjTX6CtuC7/5pdE7efQHCVv+CkU1rQ4PFPgNG603EIDMzBIZnlNXyWVqPnOt3L4Z5UPZJMA==;0StrURsg+zdE6q+UoZOOlw=="
 ---

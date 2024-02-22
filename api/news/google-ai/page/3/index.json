@@ -2,6 +2,250 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-24-google-suddenly-reveals-huge-free-ai-upgrade-for-all-android-users.md",
+      "title": "Google Suddenly Reveals Huge Free AI Upgrade For All Android Users",
+      "excerpt": "Google has spent two-years pushing its Messages app as the default Android alternative to iMessage. This has included end-to-end encryption and RCS by default, and multiple feature releases. Now, with that done, here comes an AI upgrade that connects Messages users with Google, not just with one another.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/24/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/",
+      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/24/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aeed369be3a016e61b4a9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/24/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/24/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/",
+      "publishedDateTime": "2024-01-24T13:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai.md",
+      "title": "Google ends contract with Australian data firm that helped train Bard AI",
+      "excerpt": "San Francisco: Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior ...",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-107104318,imgsize-4362,width-1200,height=765,overlay-ettelecom/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318",
+      "publishedDateTime": "2024-01-24T06:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-alphabet-terminates-ai-firm-trainer-of-googles-bard.md",
+      "title": "Alphabet Terminates AI Firm Trainer of Google's Bard",
+      "excerpt": "Appen is one of the firms that helped train Google's AI model Bard as well as other AI models from other tech giants as reported by CNBC. According to Appen, Alphabet informed the company over the weekend of the termination, which will take effect on March 19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm",
+      "originalUrl": "https://www.techtimes.com/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/400071/alphabet-stock-split-2022-googles-parent-company-approves-20-for-1-split-to-attract-more-investors.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm",
+      "publishedDateTime": "2024-01-23T22:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-alphabet-cuts-ties-with-australian-ai-firm-that-helped-train-bard-and-google-search.md",
+      "title": "Alphabet cuts ties with Australian AI firm that helped train Bard and Google Search",
+      "excerpt": "Alphabet has ended its contractual work with Appen, the artificial intelligence data firm that helped train Google's chatbot Bard and Google Search results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107326094-1698759254928-gettyimages-1754139783-776055941.jpeg?v=1706026742",
+          "width": 5246,
+          "height": 3497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+      "publishedDateTime": "2024-01-23T15:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-chrome-is-getting-3-new-generative-ai-features.md",
+      "title": "Chrome is getting 3 new generative AI features",
+      "excerpt": "Three experimental generative AI features are coming to Chrome on Macs and Windows PCs to make browsing easier and more personalized.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
+      "originalUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Gen_AI_Tier_1_Blog_Header_1.width-1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/",
+      "publishedDateTime": "2024-01-23T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-google-suddenly-reveals-huge-free-ai-upgrade-for-all-android-users.md",
       "title": "Google Suddenly Reveals Huge Free AI Upgrade For All Android Users",
       "excerpt": "Think through the path. Google has spent two-years pushing its Messages app as the default Android alternative to iMessage. This has included end-to-end encryption and RCS by default, and multiple feature releases. Now, with that done, here comes an AI upgrade that connects Messages users with Google, not just with one another.",
@@ -1195,213 +1439,6 @@
         "name": "Beebom",
         "domain": "beebom.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-tensorflow-cloud-is-a-library-to-connect-your-local-environment-to-google-cloud.md",
-      "title": "TensorFlow Cloud is a library to connect your local environment to Google Cloud.",
-      "excerpt": "import tensorflow_cloud as tfc TF_GPU_IMAGE = \"tensorflow/tensorflow:latest-gpu\" run_parameters = { distribution_strategy='auto', requirements_txt='requirements.txt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/cloud",
-      "originalUrl": "https://www.tensorflow.org/cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T17:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-mastering-google-bard-prompts-and-techniques-for-ai-powered-productivity.md",
-      "title": "Mastering Google Bard Prompts and Techniques for AI-Powered Productivity",
-      "excerpt": "Google Bard, a groundbreaking advancement in artificial intelligence, marks the beginning of a revolutionary phase in AI-driven creative and productive",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/mastering-google-bard-prompts-and-techniques-for-ai-powered-productivity/",
-      "originalUrl": "https://www.geeky-gadgets.com/mastering-google-bard-prompts-and-techniques-for-ai-powered-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T10:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-deepmind-spin-off-aims-to-halve-drug-discovery-times-following-big-pharma-deals.md",
-      "title": "DeepMind spin-off aims to halve drug discovery times following Big Pharma deals",
-      "excerpt": "Chief of Google’s AI unit and Isomorphic Labs spells out targets following $3bn Eli Lilly-Novartis partnerships",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/a08e4ad9-5277-4860-9df2-d5df2ad1e57d",
-      "originalUrl": "https://www.ft.com/content/a08e4ad9-5277-4860-9df2-d5df2ad1e57d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T06:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-top-10-google-bard-tips-to-improve-your-productivity-in-2024.md",
-      "title": "Top 10 Google Bard Tips to Improve Your Productivity in 2024",
-      "excerpt": "This guide is designed to show you how to use AI tools like Google Bard to improve your productivity in 2024. The arrival of 2024 brings with it fresh",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/top-10-google-bard-tips-to-improve-your-productivity-in-2024/",
-      "originalUrl": "https://www.geeky-gadgets.com/top-10-google-bard-tips-to-improve-your-productivity-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-productivity.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-heres-an-early-look-at-google-assistant-with-bard-on-android-phone.md",
-      "title": "Here’s an early look at Google Assistant with Bard on Android phone",
-      "excerpt": "Here's a sneak peek at how the Google Assistant with Bard will look like on Android phone. Learn more about its features here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/01/08/heres-an-early-look-of-the-google-assistant-with-bard-on-android-phone/",
-      "originalUrl": "https://www.gizmochina.com/2024/01/08/heres-an-early-look-of-the-google-assistant-with-bard-on-android-phone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/Google-Assistant-with-Bard.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T10:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

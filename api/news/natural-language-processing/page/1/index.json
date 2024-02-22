@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-22-which-tech-jobs-could-ai-replace-a-realistic-and-pragmatic-view.md",
+      "title": "Which tech jobs could AI replace? A realistic and pragmatic view",
+      "excerpt": "AI won't take over everyone's jobs overnight, but some careers in the tech industry are at a greater risk than others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/which-tech-jobs-could-ai-replace-3417496/",
+      "originalUrl": "https://www.androidauthority.com/which-tech-jobs-could-ai-replace-3417496/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/09/OpenAI-on-website-on-smartphone-stock-photo-3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T20:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-google-launches-gemini-business-ai-adds-20-to-the-6-workspace-bill.md",
       "title": "Google launches “Gemini Business” AI, adds $20 to the $6 Workspace bill",
       "excerpt": "Enterprise is $30 per user per month, and it \"includes additional capabilities for AI-powered meetings, where Gemini can translate closed captions in more than 100 language pairs, and soon even take meeting notes.\"",
@@ -243,6 +296,50 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-7-ways-to-invest-in-ai-smart-home-devices.md",
+      "title": "7 Ways to Invest in AI Smart Home Devices",
+      "excerpt": "An indirect way to invest in smart home devices is to target property management firms that make smart building technology a priority to increase their profit margins. A property may require less maintenance or be more energy efficient once these devices get installed.",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices",
+      "originalUrl": "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T20:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1367,83 +1464,6 @@
       "provider": {
         "name": "The Conversation",
         "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-jay-zs-grammys-speech-about-beyonce-reiterates-an-ongoing-issue-with-the-awards.md",
-      "title": "Jay-Z's Grammys speech about Beyoncé reiterates an ongoing issue with the awards",
-      "excerpt": "Jay-Z called out the Recording Academy's snubs against his wife, Beyoncé, during the Grammys on Sunday in a speech that drew attention to the lack of recognition Black artists have endured at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/music/2024/02/06/jay-z-grammys-speech-beyonce-calls-out-racial-bias/72484135007/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/music/2024/02/06/jay-z-grammys-speech-beyonce-calls-out-racial-bias/72484135007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T10:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-roblox-brings-real-time-ai-chat-translator-to-connect-international-gamers.md",
-      "title": "Roblox Brings Real-Time AI Chat Translator to Connect International Gamers",
-      "excerpt": "The latest tool for Roblox looks to answer the linguistics divide on the platform, especially with its renowned global presence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/301372/20240205/roblox-brings-real-time-ai-chat-translator-connect-international-gamers.htm",
-      "originalUrl": "https://www.techtimes.com/articles/301372/20240205/roblox-brings-real-time-ai-chat-translator-connect-international-gamers.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/435840/roblox.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/301372/20240205/roblox-brings-real-time-ai-chat-translator-connect-international-gamers.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301372/20240205/roblox-brings-real-time-ai-chat-translator-connect-international-gamers.htm",
-      "publishedDateTime": "2024-02-06T02:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

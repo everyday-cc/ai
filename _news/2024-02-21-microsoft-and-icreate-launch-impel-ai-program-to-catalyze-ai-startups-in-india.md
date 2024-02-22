@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft-backed OpenAI valued at $80bn after company completes deal"
+    excerpt: "Company to sell existing shares in ‘tender offer’ led by venture firm Thrive Capital, in similar deal as early last year Microsoft-backed OpenAI has completed a deal that values the artificial ..."
+    publishedDateTime: 2024-02-19T10:58:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 76
+    images:
+      - url: "https://i.guim.co.uk/img/media/31d22fd8fcc34bb0ab7a9da447f294d8138108f9/0_142_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=cf647d3966eb3d26240a50524fea27e7"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Microsoft is investing in more powerful AI tech to save company cash, here’s how"
     excerpt: "Microsoft is developing server network cards to replace the ones offered by Nvidia, which will help the company save some cash and improve the performance of its Nvidia chip servers. Read more to know the details."
     publishedDateTime: 2024-02-21T10:56:00Z

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-20-do-companies-have-ethical-guidelines-for-ai-use-56-of-professionals-are-unsure-survey-says.md",
+      "title": "Do companies have ethical guidelines for AI use? 56% of professionals are unsure, survey says",
+      "excerpt": "Cognitive technologies such as generative AI have the most potential for both social good and serious ethical risk, according to survey respondents in Deloitte's second edition Technology Trust Ethics report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/do-companies-have-ethical-guidelines-for-ai-use-56-of-professionals-are-unsure-survey-says/",
+      "originalUrl": "https://www.zdnet.com/article/do-companies-have-ethical-guidelines-for-ai-use-56-of-professionals-are-unsure-survey-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6ed4d46746b8ce488cfa33273df969d675a87905/2023/10/09/404b742e-6806-469b-8fb0-4478670a8ccd/gettyimages-1469902598.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/do-companies-have-ethical-guidelines-for-ai-use-56-of-professionals-are-unsure-survey-says/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/do-companies-have-ethical-guidelines-for-ai-use-56-of-professionals-are-unsure-survey-says/",
+      "publishedDateTime": "2023-12-20T06:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai.md",
       "title": "Augmentive Artificial Intelligence: Rommell Martínez on Valmiz™, Multi-Agent, Human-Centric AI",
       "excerpt": "A Novel Multi-Agent Human-Centric Approach By: Dawn Zoldi (Colonel USAF Ret.) ASTN Group™, creators of the Valmiz™ Augmentive Artificial Intelligence (AAI) recently cap",
@@ -1340,49 +1392,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-are-we-choking-the-golden-goose-the-chilling-effect-of-overbroad-rules-and-ethics-opinions-on-the-use-of-generative-ai.md",
-      "title": "Are We Choking the Golden Goose? The Chilling Effect of Overbroad Rules and Ethics Opinions on the Use of Generative AI",
-      "excerpt": "Generative AI is powering an explosion of innovative public and private sector models, though this burgeoning industry remains in its infancy. GenAI products gained widespread notoriety and availability in one amazing year. Lawyers, law firms, and their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/are-we-choking-the-golden-goose-the-2689470/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/are-we-choking-the-golden-goose-the-2689470/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16197_0825.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

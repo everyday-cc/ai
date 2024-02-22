@@ -84,22 +84,6 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "AI Tools: OpenAI Reveals Sora and Shocks the AI Video Industry"
-    excerpt: "Sam Altman, CEO of OpenAI (ChatGPT, DALL-E) released a sneak peek into our not-to-distant future of realistic AI generated text-to-video content with the announcement of their new model, Sora on a “Xitter” post: here is sora,"
-    publishedDateTime: 2024-02-17T23:06:00Z
-    webUrl: "https://www.provideocoalition.com/ai-tools-openai-reveals-sora/"
-    ampWebUrl: "https://www.provideocoalition.com/ai-tools-openai-reveals-sora/amp/"
-    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/ai-tools-openai-reveals-sora/amp/"
-    type: article
-    provider:
-      name: provideocoalition.com
-      domain: provideocoalition.com
-    quality: 57
-    images:
-      - url: "https://www.provideocoalition.com/wp-content/uploads/Sora-home-Cropped-trim-sm2.gif"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
     excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
     publishedDateTime: 2024-02-18T00:59:00Z

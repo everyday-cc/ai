@@ -37,6 +37,15 @@ related:
         width: 1523
         height: 674
         isCached: true
+  - title: "3 Hypergrowth AI Stocks to Buy That Can Beat Even Nvidia"
+    excerpt: "For investors, this means that the time to focus on finding the best AI stocks to buy is now. Nvidia is leading the way, but many of its smaller peers are picking up steam. Matt Miczulski, an investment expert and editor at fintech platform Finder ..."
+    publishedDateTime: 2024-02-22T15:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-hypergrowth-ai-stocks-to-buy-that-can-beat-even-nvidia-1033094886"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Nvidia Just Bought This Under-the-Radar Artificial Intelligence (AI) Stock. Should You Buy It, Too?"
     excerpt: "According to Nvidia 's 13F filing for the fourth quarter of 2023, it purchased 1,730,883 shares in SoundHound AI. It doesn't specify what price Nvidia paid, but the position is worth $6.5 million at SoundHound's current stock price of $3.76."
     publishedDateTime: 2024-02-18T15:40:00Z
@@ -46,6 +55,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "Cathie Wood Can Only Watch as Nvidia Rides AI Wave She Foresaw"
+    excerpt: "Annual economic growth could accelerate to as much as 50%, thanks to breakthroughs in the world of artificial intelligence."
+    publishedDateTime: 2024-02-22T17:42:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-22/cathie-wood-can-only-watch-as-nvidia-rides-ai-wave-she-foresaw"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Nvidia scores big in data centre, gaming, and extends AI lead"
     excerpt: "Expanded adoption of the Nvidia DRIVE platform has seen automotive revenue grow by 21% to $281m in the last quarter with Asian manufacturers Great Wall Motors, ZEEKR, Xiaomi, and Li Auto choosing to use it for their automated driving systems and car computers."
     publishedDateTime: 2024-02-22T04:27:00Z

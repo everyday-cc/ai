@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/22/navigating-the-ai-wave-top-3-priorities-for-entrepreneurs-in-2024/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "5 Sources Of AI News For Entrepreneurs Seeking To Grow"
+    excerpt: "AI announcements happen every single day and most of them aren’t worth your attention. Here are 5 new AI sites bringing curated advice that's tailored for business."
+    publishedDateTime: 2024-02-22T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2024/02/22/5-sources-of-ai-news-for-entrepreneurs-seeking-to-grow/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d4dd36958c7e2221c4f2c0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1532
+        height: 900
+        isCached: true
   - title: "Riding the AI Wave: How AMD Stock Is Setting Up for a Stellar 2024"
     excerpt: "An Advanced Micro Devices (NASDAQ:AMD) stock analysis must account for the company’s decision to enter the AI chip market. The company’s stock is already off to a good start in 2024. Shares have risen 17.9% on a year-to-date basis. That means both the ..."
     publishedDateTime: 2024-02-21T05:31:00Z

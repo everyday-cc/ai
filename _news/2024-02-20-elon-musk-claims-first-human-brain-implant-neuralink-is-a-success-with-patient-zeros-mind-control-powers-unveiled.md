@@ -3,16 +3,16 @@ category: news
 title: "Elon Musk claims first human brain implant Neuralink is a SUCCESS with ‘Patient Zero’s’ mind control powers unveiled"
 excerpt: "ELON Musk has announced the first Neuralink brain chip implant has been successful. The tech mogul revealed the human subject implanted with the ambitious chip has fully recovered – and"
 publishedDateTime: 2024-02-20T14:33:00Z
-originalUrl: "https://www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/"
-webUrl: "https://www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/"
+originalUrl: "https://www.thesun.ie/tech/12246611/elon-musk-neuralink-successful-human-trial/"
+webUrl: "https://www.thesun.ie/tech/12246611/elon-musk-neuralink-successful-human-trial/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: Irish Sun
+  domain: thesun.ie
 
 topics:
   - AI in Robotics
@@ -80,6 +80,6 @@ related:
       domain: inc.com
     quality: 0
 
-secured: "kP2YULzUCWWgQclt6GjDJkkY64XiJuM31Rlwn9O7S8SxN6x8dAsE5KNWozDGIagvC80NjTVfOa/fKfUCG6736vmE49EsFgrOZJHNQ8gtnTI6xGI4/8wgkBK4aSzb6MjfJAETzSL3QH7hiZAby33V4yRocnWu9qtdotE849X/T27yzSEGDIX/Uk1+OZ9HM/X2rqUIQkRsWBgcLG+Q6Sx4H/7WTwlFhUy3cNAXVhJ9WHYx9YHbUkWyr74kyfJCiFtuAKDMB3cz4uVvLqa77XAIcKkPSSFzE2wRfO/DY//i6BnKsztbKeCkQmL/4cwpsi5MdihRS1BDY8ATVnR4Zn6er6pnPEWg0tsbuC0bz2ELtwU/1HwwepIF/LKkE7fCzirCUfDvXgCSMdaGcmzh/e+LSF35PUUgySTB12gGYOmqeGrqvbfxMOxHWFlX2nw1TDqgaLEWjVfBxMziCC8PWov4qIQdK59H70Mm4IabAnMbpkYUorLzff/+4BdX1UzX5fWaZwTdx3QkRxYZ1DRnUWXORw==;bPOGuCE99vL5LMAL3QeRzw=="
+secured: "XVw2lta4wem45/iA0EBzANTaTCwDSMV9jLY0S5ClvsuAKchhrkhTlLSX3xCVQOykb+liVQOVIUjugjVn503B/8Wt9TGxFub32c9Ex3ZiJOu8LnR6Cp/ivfkS7q9lsf/tP9zx6Lws1UeASzZ73M5ZkxUyI8f2schVgAHvocAvJM1eGHXuVgK/l3o5ex/D37HwiMcqNI/krroMZq3ZYTszBbO4YB0n3LtulYTEMjn9ltGyA0650wrBdAU9pBGTJ4k8tQwkaAVE4ssdCoiUaEcQBD28LM1LfsIcAwSg1d3fJWyd1kqoMfUezyGT62t4aDrc+fj/z72iUolX98Xn12+SS1d8e2u1vlfxhlAV9BFF778SAqBjd7duw+iWIG73+cCuqqxrO99Yfw5w1Ybe6CeZtgJ0CCbdO+yf2wZg6Qe2z81C0ojzDkp07NbaNIDoKm+zqpxM8X07tiDTXO+rrX5dT3lMRIWiEtUkSmKAAz8CIrI2YWxzB5R0inU8G3xTndJu7he7yBYeJ2LwAwL84qsLbw==;+riwzpFyv40D5fBm5F7Yhw=="
 ---
 

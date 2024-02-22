@@ -7,8 +7,8 @@ originalUrl: "https://www.tmcnet.com/usubmit/2024/02/22/9966707.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/02/22/9966707.htm"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: TMCnet
@@ -40,6 +40,15 @@ related:
         width: 1504
         height: 1003
         isCached: true
+  - title: "Healthcare Integrated Technologies, Inc. Announces Issuance of Second U.S. Patent for Innovative Transaction Validation System"
+    excerpt: "Knoxville, Tennessee, Feb. 22, 2024 (GLOBE NEWSWIRE) -- Healthcare Integrated Technologies ... for validating transactions through an intricate system of sensors and artificial intelligence (AI). By gathering and analyzing data from multiple sources ..."
+    publishedDateTime: 2024-02-22T16:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/healthcare-integrated-technologies-inc-announces-issuance-of-second-u-s-patent-for-innovative-transaction-validation-system-1033094935"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
 
 secured: "H4qFOyztPYUgaJO81rcS6jxdTG0iiIMEVepODFndXlQYh7VJbWQdVU8QBhxXSRsi9CmmULqPPBylE+oe+6rSRL03p0waGMi7NMHyseLmYKXHThyhWT1/bMy0dKD4ZZt1NZzSBPQR4cq9/aVtosTQdTGvL+6H2Ufu+KPNjEatUDX3I6L7XTBUMvez0Iwd6OqwnmyqboCzvK8YNNt2sP5KYWxjAhPpLcfSJxV2woNMTxAQb4ADDs8OG8k8PNq9NNNVHgIM3aHMx7+pNND7N3K/57USWAHoYFKwTF/SjBPnVVPV5TrRmdiiVqXQ5FLz28L73Q4MuFRBhZxAgxYo5YE55xjC86FeuGyxcujVyR0Ze+w=;0b9GRbRgBXGI6ALTINTxuw=="
 ---

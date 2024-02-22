@@ -61,7 +61,7 @@ related:
     provider:
       name: JD Supra
       domain: jdsupra.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15992_1015.jpg"
         width: 1200

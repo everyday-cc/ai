@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-01-5-ways-artificial-intelligence-is-rapidly-changing-our-world.md",
+      "title": "5 ways artificial intelligence is rapidly changing our world",
+      "excerpt": "Other tech companies also jumped into the AI race. Meta, the parent company of Facebook and Instagram ... would be released for commercial use and research. Tesla, SpaceX and X owner Elon Musk ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/4372445-five-ways-artificial-intelligence-is-rapidly-changing-our-world/",
+      "originalUrl": "https://thehill.com/policy/technology/4372445-five-ways-artificial-intelligence-is-rapidly-changing-our-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/4372445-five-ways-artificial-intelligence-is-rapidly-changing-our-world/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4372445-five-ways-artificial-intelligence-is-rapidly-changing-our-world/amp/",
+      "publishedDateTime": "2023-12-31T16:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-31-why-artificial-intelligence-ai-could-be-a-game-changer-for-this-magnificent-seven-stock.md",
       "title": "Why Artificial Intelligence (AI) Could Be a Game Changer for This \"Magnificent Seven\" Stock",
       "excerpt": "Also, the advent of PCs capable of running AI apps is likely to encourage existing users to upgrade. Meanwhile, a recent research paper ... and spokeswoman for Facebook and sister to Meta ...",
@@ -1375,50 +1409,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision.md",
-      "title": "Microsoft drastically expands Azure AI Studio to include Llama 2 Model-as-a-Service, GPT-4 Turbo with Vision",
-      "excerpt": "Today, the company announced that it is making Meta Platforms’ rival open-sourced AI model Llama 2 available in Azure AI Studio, its cloud platform AI clearinghouse, in the form of a “model-as-a-service.” Similar to the now old acronym of SaaS ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T11:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

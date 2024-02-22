@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-23-google-is-killing-gmails-basic-html-view-in-2024.md",
+      "title": "Google is killing Gmail’s basic HTML view in 2024",
+      "excerpt": "Google is currently focusing on infusing AI-powered features into its products, including Gmail. Last month, the company launched a Duet AI feature to help users write emails. Last week, it allowed the Bard chatbot to integrate with Google accounts so you ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/",
+      "originalUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/",
+      "publishedDateTime": "2024-02-22T19:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-gemini-models-are-coming-to-performance-max.md",
       "title": "Gemini models are coming to Performance Max",
       "excerpt": "New improvements and AI-powered features are coming to Performance Max, including Gemini models for text generation.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://blog.google/products/ads-commerce/gemini-models-are-coming-to-performance-max/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -261,7 +313,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 323,
+      "heat": 333,
       "tags": null,
       "images": [
         {
@@ -829,6 +881,74 @@
       ]
     },
     {
+      "path": "_news/2024-02-12-google-ai-bard-renamed-to-gemini-introducing-subscription-and-app.md",
+      "title": "Google AI ‘Bard’ Renamed to ‘Gemini’, Introducing Subscription and App",
+      "excerpt": "Google Bard is now Google Gemini. This transition comes with a new mobile app and Gemini Advanced subscription with access",
+      "sourceUrl": null,
+      "webUrl": "https://techacute.com/google-ai-bard-renamed-to-gemini-introducing-subscription-and-app/",
+      "originalUrl": "https://techacute.com/google-ai-bard-renamed-to-gemini-introducing-subscription-and-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T15:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techacute.com",
+        "domain": "techacute.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-goodbye-bard-googles-ai-is-now-gemini.md",
+      "title": "Goodbye Bard, Google’s AI is now Gemini",
+      "excerpt": "If you've been following Google for any amount of time, you know they are prone to having a myriad of products and confusing nomenclature. The company's efforts in AI are the most recent example of this.",
+      "sourceUrl": null,
+      "webUrl": "https://chromeunboxed.com/goodbye-bard-googles-ai-is-now-gemini/",
+      "originalUrl": "https://chromeunboxed.com/goodbye-bard-googles-ai-is-now-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T20:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "chromeunboxed.com",
+        "domain": "chromeunboxed.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-10-google-renames-bard-ai-to-gemini-and-launches-a-new-app.md",
       "title": "Google Renames Bard AI To Gemini and Launches a New App",
       "excerpt": "Google has been investing heavily in AI for several years with a goal to improve Search and other products. The company is known for having a variety of",
@@ -858,6 +978,40 @@
       "provider": {
         "name": "datanami.com",
         "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model.md",
+      "title": "Google Rebrands Bard AI To Gemini, Introduces New App And Subscription Model",
+      "excerpt": "Google revealed a significant redesign of Bard, their AI chatbot and assistant, on Thursday. The new look includes a new app and subscription choices. Now known as Gemini, the chatbot’s AI model suite shares the same name as Bard, the main rival of OpenAI’s ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.opprairie.com/news/google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model/37865/",
+      "originalUrl": "https://www.opprairie.com/news/google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model/37865/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Orland Park Prairie",
+        "domain": "opprairie.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -911,6 +1065,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-google-bard-is-now-gemini-paid-version-has-better-ai-features.md",
+      "title": "Google Bard is Now Gemini; Paid Version has Better AI Features",
+      "excerpt": "Roughly a year after Google Bard is made available to the Philippines, Google has decided to give its Chat GPT rival a makeover by formally calling it Gemini. Its similar to how Microsoft has decided to rebrand all of its AI-powered features to Copilot.",
+      "sourceUrl": null,
+      "webUrl": "https://unbox.ph/news/google-bard-is-now-gemini-paid-version-has-better-ai-features/",
+      "originalUrl": "https://unbox.ph/news/google-bard-is-now-gemini-paid-version-has-better-ai-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T04:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Unbox",
+        "domain": "unbox.ph",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1221,248 +1409,6 @@
       "provider": {
         "name": "Searchenginejournal.com",
         "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-the-next-chapter-of-our-gemini-era.md",
-      "title": "The next chapter of our Gemini era",
-      "excerpt": "We're bringing Gemini to more Google products.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/google-gemini-update-sundar-pichai-2024/",
-      "originalUrl": "https://deepmind.google/discover/blog/google-gemini-update-sundar-pichai-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Social_-_1920x1080.width-1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-gemini-update-sundar-pichai-2024/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-update-sundar-pichai-2024/amp/",
-      "publishedDateTime": "2024-02-08T13:00:55Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-is-now-gemini-all-the-info-you-need.md",
-      "title": "Google Bard is now Gemini: All the info you need",
-      "excerpt": "Google is going all-in on Gemini. Bard is getting rebranded to Gemini and a new Android app will replace Assistant on your phone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-bard-gemini-name-change-3411938/",
-      "originalUrl": "https://www.androidauthority.com/google-bard-gemini-name-change-3411938/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-rebrands-bard-ai-to-gemini-and-launches-a-new-app-and-subscription.md",
-      "title": "Google rebrands Bard AI to Gemini and launches a new app and subscription",
-      "excerpt": "Google on Thursday announced a major rebrand of Bard, its AI chatbot and assistant, including a fresh app rollout and new usage and subscription options. Bard, a chief competitor to OpenAI's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107344639-1701966994127-gettyimages-1829227396-porzycki-googlege231206_npI8C.jpeg?v=1701967024",
-          "width": 3543,
-          "height": 2362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
-      "publishedDateTime": "2024-02-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile.md",
-      "title": "Google rebrands Bard to Gemini, now available for the first time in mobile",
-      "excerpt": "When Google Bard first launched almost a year ago, the AI-powered chatbot had some major flaws. Since then, it has grown significantly with two large language model (LLM) upgrades and several updates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile/",
-      "originalUrl": "https://www.zdnet.com/article/google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/167ca1b907ac7f8dce9a8ef2fbfafeaf1b98b2b8/2024/02/07/5374e91a-e8ae-4337-84ac-b9eb9c977453/screenshot-2024-02-07-at-5-08-13pm.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile/",
-      "publishedDateTime": "2024-02-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-the-top-10-google-bard-prompts-to-elevate-your-productivity.md",
-      "title": "The Top 10 Google Bard Prompts to Elevate Your Productivity",
-      "excerpt": "This guide will show you how to improve your productivity with Google Bard. In the constantly evolving and rapidly accelerating digital age, maintaining",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/the-top-10-google-bard-prompts-to-elevate-your-productivity/",
-      "originalUrl": "https://www.geeky-gadgets.com/the-top-10-google-bard-prompts-to-elevate-your-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/google-bard-10.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
         "images": null,
         "publishers": null,
         "authors": null

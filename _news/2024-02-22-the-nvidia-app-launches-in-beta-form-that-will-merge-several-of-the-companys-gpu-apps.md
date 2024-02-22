@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia’s new app doesn’t require you to log in to update your GPU driver"
+    excerpt: "On cards with AI-powered offerings, you'll also get tools for Nvidia Freestyle ... Not everything available in the prior apps is making it into this new all-in-one app, however. Nvidia notes that GPU overclocking and driver roll-back are on the way."
+    publishedDateTime: 2024-02-22T13:11:00Z
+    webUrl: "https://arstechnica.com/gaming/2024/02/nvidias-new-app-doesnt-require-you-to-log-in-to-update-your-gpu-driver/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_app-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "You Can Now Run Your Own ChatGPT From Your Nvidia GPU"
     excerpt: "you can install a generative AI chatbot right on your computer and tailor it to your own needs. Before you start, make sure you're running the latest drivers for your Nvidia GPU—the GeForce ..."
     publishedDateTime: 2024-02-19T00:00:00Z

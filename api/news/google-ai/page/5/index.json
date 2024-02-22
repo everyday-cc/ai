@@ -2,6 +2,244 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-15-googles-tensorflow-revolutionizing-machine-learning-and-ai-development.md",
+      "title": "Google’s TensorFlow: Revolutionizing Machine Learning and AI Development",
+      "excerpt": "Introduction: In the ever-evolving landscape of artificial intelligence, Google’s TensorFlow stands as a beacon of innovation, revolutionizing the way we approach machine learning and AI development.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/",
+      "originalUrl": "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/12/Googles-TensorFlow-Revolutionizing-Machine-Learning-and-AI-Development.jpg",
+          "width": 650,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T15:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-deepminds-ai-finds-new-solution-to-decades-old-math-puzzle-outsmarting-humans.md",
+      "title": "DeepMind’s AI finds new solution to decades-old math puzzle — outsmarting humans",
+      "excerpt": "The LLM got closer than ever before to cracking the cap set problem, which has perplexed mathematicians for decades.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem",
+      "originalUrl": "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F12%2Fmath-code-science-AI.jpg&signature=c7d51f05d2f90d69e7dd1049a3691f58",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T15:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-google-deepmind-announces-the-funsearch-training-method.md",
+      "title": "Google DeepMind announces the “FunSearch” training method",
+      "excerpt": "Google DeepMind has introduced a new method called FunSearch. This method uses Large Language Models (LLMs) to search for new solutions in mathematics and computer science. The method is described ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/",
+      "originalUrl": "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/12/Google-DeepMind.jpg",
+          "width": 1200,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/amp/",
+      "publishedDateTime": "2023-12-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems.md",
+      "title": "AI scientists make ‘exciting’ discovery using chatbots to solve maths problems",
+      "excerpt": "Breakthrough suggests technology behind ChatGPT and Bard can generate information that goes beyond human knowledge",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
+      "originalUrl": "https://www.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5e67e2b4e8098dfaafa375a6fbe2425d738a4965/0_43_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=435ab186909670a8b9470a0626575d88",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
+      "publishedDateTime": "2023-12-14T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-google-bard-explained-what-this-ai-powered-chatgpt-competitor-can-do.md",
+      "title": "Google Bard explained: What this AI-powered ChatGPT competitor can do",
+      "excerpt": "Meanwhile, Google has been a self-professed \"AI-first\" company since announcing a shift in focus at I/O 2017. The company unveiled a new AI-powered chatbot called Bard in March 2023. But it can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/google-bard-explained/",
+      "originalUrl": "https://www.androidpolice.com/google-bard-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-bard-hero-variation.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T17:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-gemini-pro-api-and-more-new-ai-tools-for-developers-and-enterprises.md",
       "title": "Gemini Pro API and more new AI tools for developers and enterprises",
       "excerpt": "Launching Gemini Pro API and four more AI tools: Imagen 2, MedLM, and Duet AI for Developers and Duet AI in Security Operations.",
@@ -1210,205 +1448,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-deepmind-exec-ai-assesses-climate-issues-falls-short-of-full-solution.md",
-      "title": "DeepMind exec: AI assesses climate issues, falls short of full solution",
-      "excerpt": "Google DeepMind’s Climate Action Lead, Sims Witherspoon, highlights AI’s potential to address climate challenges. She suggests a three-step framework: Understand, Optimize, Accelerate.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/deep-mind-exec-ai-assesses-climate-issues-falls-short-full-solution",
-      "originalUrl": "https://cointelegraph.com/news/deep-mind-exec-ai-assesses-climate-issues-falls-short-full-solution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T12:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-agi-development-explained-by-deepmind-founder.md",
-      "title": "AGI development explained by DeepMind Founder",
-      "excerpt": "Learn more about the development of Artificial General Intelligence AGI from the founder of DeepMind. Learn how artificial intelligence will",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/artificial-general-intelligence-deepmind/",
-      "originalUrl": "https://www.geeky-gadgets.com/artificial-general-intelligence-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/DeepMind-Artificial-General-Intelligence.jpg",
-          "width": 1280,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-deepmind-tortured-chatgpt-to-reveal-sources.md",
-      "title": "DeepMind tortured ChatGPT to reveal sources",
-      "excerpt": "We ask the questions A team of boffins from Google's DeepMind used a torture method on ChatGPT until it revealed the snippets of the data it was trained on. The boffins used a new type of attack prompt which asked a production model of the chatbot to repeat specific words forever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/ai/58034-deepmind-tortured-chatgpt-to-reveal-sources",
-      "originalUrl": "https://www.fudzilla.com/news/ai/58034-deepmind-tortured-chatgpt-to-reveal-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T10:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-deepminds-ai-achieves-the-impossible-predicts-2-million-new-material-that-humans-could-never-fathom.md",
-      "title": "DeepMind’s AI achieves the Impossible: Predicts 2 Million new material that humans could never fathom",
-      "excerpt": "In a groundbreaking achievement, Google DeepMind, a subsidiary of Alphabet (GOOGL), has harnessed the power of artificial intelligence (AI) to predict the structures of over 2 million new materials. This milestone, published in the prestigious science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/12/01/deepminds-ai-achieves-the-impossible-predicts-2-million-new-material-that-humans-could-never-fathom/",
-      "originalUrl": "https://www.gizmochina.com/2023/12/01/deepminds-ai-achieves-the-impossible-predicts-2-million-new-material-that-humans-could-never-fathom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up.md",
-      "title": "A Google DeepMind AI Just Discovered 380,000 New Materials. This Robot Is Cooking Them Up.",
-      "excerpt": "The system uses AI to predict the properties of new materials and a robot to produce them. The collaboration could launch a new era of materials science.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/",
-      "originalUrl": "https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/11/berkeley-lab-robot-synthesizing-new-materials.jpeg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/?amp=1",
-      "publishedDateTime": "2023-11-30T22:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

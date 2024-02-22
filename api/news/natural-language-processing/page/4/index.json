@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-17-using-natural-language-processing-to-detect-mental-health-crises.md",
+      "title": "Using natural language processing to detect mental health crises",
+      "excerpt": "The authors published their work in npj Digital Medicine. Using natural language processing, the team developed a machine learning (ML) system called Crisis Message Detector 1 (CMD-1) that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2024-01-natural-language-mental-health-crises.html",
+      "originalUrl": "https://medicalxpress.com/news/2024-01-natural-language-mental-health-crises.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/using-nlp-to-detect-me.jpg",
+          "width": 950,
+          "height": 1311,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2024-01-natural-language-mental-health-crises.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-natural-language-mental-health-crises.amp",
+      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-hey-siri-inside-apples-speech-ai-and-the-technology-behind-it.md",
+      "title": "'Hey, Siri:' Inside Apple's speech AI and the technology behind it",
+      "excerpt": "Siri, Apple's voice assistant, combines advanced AI, machine learning, and voice recognition to interpret and respond to user queries and commands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/siri-apple",
+      "originalUrl": "https://www.businessinsider.com/siri-apple",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65a01aa643bb77284b9c4c0c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/siri-apple?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/siri-apple?amp",
+      "publishedDateTime": "2024-01-15T13:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-the-class-of-2024-is-tasked-with-honing-the-natural-ability-to-craft-effective-prompts.md",
       "title": "The Class of 2024 is tasked with honing the natural ability to craft effective prompts",
       "excerpt": "As the Class of 2024 prepares to navigate the dynamic job market, resilience and adaptability are paramount. In today’s VUCA world, continuous learning and anticipating future leadership demands are crucial for success.",
@@ -1266,110 +1361,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-23-humane-announces-ai-pin-will-start-shipping-in-march.md",
-      "title": "Humane announces AI Pin will start shipping in March",
-      "excerpt": "Humane has announced that it will start shipping its AI Pin in March 2024, with those who who placed priority orders getting first dibs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/ai-pin-shipment-date-3396904/",
-      "originalUrl": "https://www.androidauthority.com/ai-pin-shipment-date-3396904/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/11/Humane-Ai-Pin-Business.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-22T19:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-wheres-the-line-considerations-for-using-ai-voice-cloning.md",
-      "title": "Where's The Line? Considerations For Using AI Voice Cloning",
-      "excerpt": "As we usher in the era of artificial intelligence (AI), a question we keep asking ourselves is, “Where’s the line?” With every new trick our technological counterparts are taught by their programmer masters, we move closer and closer to the point of no return. The problem is that we don’t really know where that point lies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658490fa5fe5f673b940656c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 819,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/amp/",
-      "publishedDateTime": "2023-12-22T14:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

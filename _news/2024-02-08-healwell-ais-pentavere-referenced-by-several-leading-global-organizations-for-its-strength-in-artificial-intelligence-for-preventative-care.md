@@ -1,43 +1,20 @@
 ---
 category: news
-title: "HEALWELL AI’s Pentavere Referenced by Several Leading Global Organizations for its Strength in Artificial Intelligence for Preventative Care"
-excerpt: "Pentavere's AI system, DARWEN™, identifies patients that are eligible for but not receiving approved medications or interventions, improving outcomes for patients and helping drive appropriate therapy growth and penetration. Certain statements in this ..."
-publishedDateTime: 2024-02-08T07:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/healwell-ai-s-pentavere-referenced-by-several-leading-global-organizations-for-its-strength-in-artificial-intelligence-for-preventative-care-1033045725"
-webUrl: "https://markets.businessinsider.com/news/stocks/healwell-ai-s-pentavere-referenced-by-several-leading-global-organizations-for-its-strength-in-artificial-intelligence-for-preventative-care-1033045725"
+title: "HEALWELL AI's Pentavere Referenced by Several Leading Global Organizations for its Strength in Artificial Intelligence for Preventative Care"
+excerpt: "Pentavere's AI system, DARWEN™, identifies patients that are eligible for but not receiving approved medications or interventions, improving outcomes for patients and helping drive appropriate therapy growth and penetration. Forward Looking Statements ..."
+publishedDateTime: 2024-02-08T00:00:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2024/02/08/9959595.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/02/08/9959595.htm"
 type: article
-quality: 29
-heat: -1
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Exclusive: Startup Abridge is raising more cash as AI-powered medical documentation heats up"
-    excerpt: "Abridge, which uses generative AI to document patient-doctor conversations, is in talks to close a fundraise less than four months after its Series B."
-    publishedDateTime: 2024-02-12T18:27:00Z
-    webUrl: "https://www.businessinsider.com/medical-scribe-ai-startup-abridge-raising-more-cash-2024-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://i.insider.com/639b2e48b7e0f2001809283f?width=700"
-        width: 700
-        height: 933
-        isCached: true
-
-secured: "r93XZNbo/mswxktGfGvyTTf6fBDPrlw6GnEIgz2ylGJoj8XLx2ai50SfSWaugUHyQeICjU1QYynUuMDgdtaAeU1DkFw7tW5o4R4WqqrrFgO/5K7PknEGqptgF3ZHuWWQQXoH/gmTOPXzsv4ZmHd/RFpxrh8OcAu1/aj2cXTX4h38NW2EPPVxBldDTuAdr8R/EjlR8HRBeSCck8bnu9b2Y7KP+a6RozdSPFU8R8y8qoX9VvNaL2oxB9vPoB8DJJy15/X/ermr2rdluiip/OAMqWf0LpbgUOjkE7i53nJn6Ekn0tGeku/ipEB5Y57zUMcaq/y7EeXABswj1QTdUsO0u9ilkFfzJMBPmN8VVS5GKVg=;PRR413dhkpC0NRqMWNNoaw=="
+secured: "iD/+bqZ0pVO87d6bezjPpqH/Zk6ar9+uwQBeBHas9B5Lm7fINWuiLjNjzBOrNJkLI9HlBNbLIaHPGKtecK4IlCCCbZXofTvMzNiREh0Zawd0J7EyDXr4/ecIDhn0a/gCcDKg83VfsMW6m3hWz7nSe9upIhS82XyoaJRKFGNfhipdiPMu3Y522kYfsEUOPa2qbz4eygR5sHhis8j77vOKjqAUDNH3WDJnwhiRyCLQ3Pu8ImbO8Orc47Hf5+psZwhfPMMQ82T8CCf+w0NkoOpcwZOorCzqKvHGH2bjDaeCyLS1JvWUSfD24L1YBJPMAwOJ0YBquA1QBOscSgEPgMOnJGj3xB8hjKVrZqIo3wF6WOo=;r/cBv8uvoIEwlK6Oxaj0Ww=="
 ---
 

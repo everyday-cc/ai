@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/ads-commerce/gemini-models-are-coming
 webUrl: "https://blog.google/products/ads-commerce/gemini-models-are-coming-to-performance-max/"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:

@@ -2,6 +2,659 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2024-02-07-dutch-intelligence-blames-chinese-state-for-cyber-espionage-in-the-netherlands.md",
+      "title": "Dutch Intelligence Blames Chinese State for Cyber Espionage in the Netherlands",
+      "excerpt": "The Dutch intelligence agency said it uncovered a Chinese-state-backed attempt to use malware to spy on a computer network that’s used by the country’s armed forces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-06/dutch-intelligence-blames-chinese-state-for-cyber-espionage-in-the-netherlands",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-06/dutch-intelligence-blames-chinese-state-for-cyber-espionage-in-the-netherlands",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai.md",
+      "title": "5 steps board members and startup leaders can take to prepare for a future shaped by GenAI",
+      "excerpt": "AI is on the minds of nearly every enterprise and startup leader today, challenging human decision-makers with a constant stream of “what if” scenarios for how we will work and live in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/",
+      "originalUrl": "https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1074644658.jpg?resize=1200,776",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T15:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-roblox-launches-real-time-ai-chat-translation-tool-will-support-16-languages.md",
+      "title": "Roblox Launches Real-Time AI Chat Translation Tool, Will Support 16 Languages",
+      "excerpt": "Announcing the new feature in a post, Roblox Chief Technology Officer Daniel Sturman said, “Using AI to automate real-time translations in text chat removes language barriers and brings more people together,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/games/news/roblox-real-time-ai-chat-translation-tool-launched-support-16-languages-5006768",
+      "originalUrl": "https://www.gadgets360.com/games/news/roblox-real-time-ai-chat-translation-tool-launched-support-16-languages-5006768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/roblox_translation_tool_1707232853992.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/games/news/roblox-real-time-ai-chat-translation-tool-launched-support-16-languages-5006768/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/games/news/roblox-real-time-ai-chat-translation-tool-launched-support-16-languages-5006768/amp",
+      "publishedDateTime": "2024-02-06T15:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-amazon-web-services-ceo-dishes-on-bostons-ai-scene-and-harvard-square-pizza.md",
+      "title": "Amazon Web Services CEO dishes on Boston’s AI scene — and Harvard Square pizza",
+      "excerpt": "senior vice president and head scientist for artificial general intelligence, and Raj Aggarwal, general manager of GenAI at AWS. But the area was also hit by deep layoffs in the company’s Alexa ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2024/02/06/business/amazon-web-services-head-dishes-bostons-ai-scene-harvard-square-pizza/",
+      "originalUrl": "https://www.bostonglobe.com/2024/02/06/business/amazon-web-services-head-dishes-bostons-ai-scene-harvard-square-pizza/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/vAVgn87cGxjqvv-ar8qrmZYbJ9k=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/VANIQEJKYUPLKTBKMK5LFILHVE.jpg",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T14:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-maine-residents-urged-to-keep-an-eye-out-for-missing-llama.md",
+      "title": "Maine Residents Urged to Keep an Eye Out for Missing Llama",
+      "excerpt": "Authorities suspect that a young llama has been stolen, and are urging Mainers to watch for any signs of its whereabouts.",
+      "sourceUrl": null,
+      "webUrl": "https://seacoastcurrent.com/ixp/490/p/maine-residents-urged-to-keep-an-eye-out-for-missing-llama/",
+      "originalUrl": "https://seacoastcurrent.com/ixp/490/p/maine-residents-urged-to-keep-an-eye-out-for-missing-llama/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://townsquare.media/site/997/files/2020/10/logo-1.png",
+          "width": 711,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T14:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seacoastcurrent",
+        "domain": "seacoastcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-ibm-opens-ai-school-for-telcos-a-critical-phase-not-just-of-ai-but-for-all-telecoms.md",
+      "title": "IBM opens AI school for telcos: ‘A critical phase – not just of AI, but for all telecoms’",
+      "excerpt": "IBM explains how its AI tieup with the GSMA is about how telcos engage with the outside world, and make 5G valueable to new customer segments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20240206/5g/ibm-opens-ai-school-for-telcos-a-critical-phase-not-just-of-ai-but-for-all-telecoms",
+      "originalUrl": "https://www.rcrwireless.com/20240206/5g/ibm-opens-ai-school-for-telcos-a-critical-phase-not-just-of-ai-but-for-all-telecoms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T14:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-microsoft-makes-azure-openai-service-available-in-government-cloud-platform.md",
+      "title": "Microsoft makes Azure OpenAI service available in government cloud platform",
+      "excerpt": "The service is live on Azure Government Tuesday while the agency pursues FedRAMP authorization for high-impact data.",
+      "sourceUrl": null,
+      "webUrl": "https://fedscoop.com/openai-service-available-government-cloud/",
+      "originalUrl": "https://fedscoop.com/openai-service-available-government-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2021/09/Microsoft-scaled.jpg",
+          "width": 2560,
+          "height": 1742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-finally-now-with-10m-adds-ai-for-better-insight-into-small-business-accounting.md",
+      "title": "Finally, now with $10M, adds AI for better insight into small business accounting",
+      "excerpt": "Finally, a fintech startup helping businesses automate ... “The trick for us is really leveraging AI to give more insights and start highlighting what some of these data points mean ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/",
+      "originalUrl": "https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/finally-expense-management-cards.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/amp/",
+      "publishedDateTime": "2024-02-06T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says.md",
+      "title": "Facebook and Instagram to label all images on their platforms created by AI, Meta says",
+      "excerpt": "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855",
+      "originalUrl": "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/23/12/1600x900/skynews-ai-fake-donald-trump_6390696.jpg?20231213064536",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855",
+      "publishedDateTime": "2024-02-06T13:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-meta-to-expand-labelling-of-ai-generated-imagery-in-election-packed-year.md",
+      "title": "Meta to expand labelling of AI-generated imagery in election packed year",
+      "excerpt": "Meta is expanding the labelling of AI-generated imagery on its social media platforms, Facebook, Instagram and Threads ... “For example, Meta’s AI Research lab FAIR recently shared research on an invisible watermarking technology we’re developing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/",
+      "originalUrl": "https://techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1368412925.jpg?resize=1200,789",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/amp/",
+      "publishedDateTime": "2024-02-06T13:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-how-ai-could-change-our-relationship-with-religion.md",
+      "title": "How AI could change our relationship with religion",
+      "excerpt": "The AI was able to decipher and translate the ancient Greek word for “purple” on the scroll. Other ancient texts from the Indian sub-continent, for example, are in the Sanskrit language or ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/how-ai-could-change-our-relationship-with-religion-222079",
+      "originalUrl": "https://theconversation.com/how-ai-could-change-our-relationship-with-religion-222079",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/572802/original/file-20240201-15-4uwnfw.jpg?ixlib=rb-1.1.0&rect=0%2C155%2C3840%2C1920&q=45&auto=format&w=1356&h=668&fit=crop",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T12:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studies-show.md",
+      "title": "AI is the most promising tech for businesses but a skills shortage stands in the way, studies show",
+      "excerpt": "Artificial intelligence (AI) brings with it a wealth ... Another report by Amazon Web Services (AWS) found that AI adoption is forecast to unleash €600 billion growth in Europe's economy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
+      "originalUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/08/22/03/56/1200x675_cmsv2_bc17e7f8-39b4-5b46-8b0a-b24a2f054a6d-8220356.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-teens-need-protection-from-harmful-content-on-social-media-can-ai-help-bridge-the-gap.md",
+      "title": "Teens need protection from harmful content on social media. Can AI help bridge the gap?",
+      "excerpt": "The CEOs of Meta, X, TikTok, Snap and Discord testified before the Senate Judiciary Committee about protecting teens online. Artificial intelligence might be a tool to block harmful content without invading privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://chicago.suntimes.com/2024/2/6/24059329/online-safety-social-media-teens-bullying-mental-health-predators-exploitation-pornography",
+      "originalUrl": "https://chicago.suntimes.com/2024/2/6/24059329/online-safety-social-media-teens-bullying-mental-health-predators-exploitation-pornography",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cst.brightspotcdn.com/dims4/default/484c593/2147483647/strip/true/crop/1920x1096+0+92/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F88%2F9875a58058bf62b7a61b1fadbe29%2Ffile-20240129-15-6x4k1s.jpg",
+          "width": 1461,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Sun-Times",
+        "domain": "suntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-jay-zs-grammys-speech-about-beyonce-reiterates-an-ongoing-issue-with-the-awards.md",
+      "title": "Jay-Z's Grammys speech about Beyoncé reiterates an ongoing issue with the awards",
+      "excerpt": "Jay-Z called out the Recording Academy's snubs against his wife, Beyoncé, during the Grammys on Sunday in a speech that drew attention to the lack of recognition Black artists have endured at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/music/2024/02/06/jay-z-grammys-speech-beyonce-calls-out-racial-bias/72484135007/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/music/2024/02/06/jay-z-grammys-speech-beyonce-calls-out-racial-bias/72484135007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T10:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes.md",
+      "title": "Voice-based conversational artificial intelligence may improve insulin management for diabetes",
+      "excerpt": "This randomized clinical trial demonstrated that compared with the standard of care, voice-based conversational artificial intelligence (VBAI) improved time to optimal insulin dosing, insulin adherence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes/",
+      "originalUrl": "https://www.physiciansweekly.com/voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2024/02/image1707213623.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-artificial-intelligence-for-the-financial-market-machine-learning-enhances-stock-return-prediction.md",
       "title": "Artificial Intelligence for the Financial Market: Machine Learning Enhances Stock Return Prediction",
       "excerpt": "In the complex world of financial markets ... especially in global stock investments. However, Machine Learning (ML) methods, a branch of Artificial Intelligence (AI), offer a promising solution.",
@@ -421,645 +1074,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-china-willing-to-join-global-efforts-on-ai-ethics-governance.md",
-      "title": "China willing to join global efforts on AI ethics, governance",
-      "excerpt": "China is also willing to listen to all parties, carry out communication, exchanges and pragmatic cooperation on global AI, jointly build an open, fair and effective governance mechanism, and promote AI to benefit all mankind, Wang added.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202402/06/WS65c18f1da3104efcbdae9e48.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202402/06/WS65c18f1da3104efcbdae9e48.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202402/06/65c18f1da3104efc330270ae.jpeg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T01:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-roblox-builds-in-house-llm-adds-real-time-ai-translation-to-metaverse.md",
-      "title": "Roblox builds in-house LLM, adds real-time AI translation to metaverse",
-      "excerpt": "According to a Feb. 5 statement by Roblox chief technology officer Dan Sturman, the new system required the firm to build its own in-house LLM to be able to translate text-based messages at a base latency of 100 milliseconds — making conversations feel instantaneous for users.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/roblox-ai-translation-llm-metaverse-languages",
-      "originalUrl": "https://cointelegraph.com/news/roblox-ai-translation-llm-metaverse-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T01:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-nvidia-share-price-target-by-28.md",
-      "title": "NVIDIA AI GPU dominance sees Goldman Sachs increase NVIDIA share price target by 28%",
-      "excerpt": "Goldman Sachs research shows AI GPU demand is healthy, supply constraints for NVIDIA AI GPUs easing, so share price target for NVIDIA has been boosted 28%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/96022/nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/96022/nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/6/96022_96_nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28_full.jpg",
-          "width": 1500,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T01:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-pdi-launches-ai-platform-for-retail-transforming-data-into-actionable-insights-boosting-revenue-margin-and-agility.md",
-      "title": "PDI LAUNCHES AI PLATFORM FOR RETAIL, TRANSFORMING DATA INTO ACTIONABLE INSIGHTS, BOOSTING REVENUE, MARGIN AND AGILITY.",
-      "excerpt": "Innovating Retail with AI for Competitive Advantage From Data to Decisions: AI's Transformative Power in Retail Stra",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107813089/PDI-LAUNCHES-AI-PLATFORM-FOR-RETAIL-TRANSFORMING-DATA-INTO-ACTIONABLE-INSIGHTS-BOOSTING-REVENUE-MARGIN-AND-AGILITY",
-      "originalUrl": "https://menafn.com/1107813089/PDI-LAUNCHES-AI-PLATFORM-FOR-RETAIL-TRANSFORMING-DATA-INTO-ACTIONABLE-INSIGHTS-BOOSTING-REVENUE-MARGIN-AND-AGILITY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229",
-          "width": 445,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-a-tale-of-two-companies-can-boeing-cruise-rebuild-customer-confidence.md",
-      "title": "A tale of two companies: Can Boeing, Cruise rebuild customer confidence?",
-      "excerpt": "It may also make it harder for other tech companies to push innovations – from artificial intelligence to gene therapies to ... On Oct. 2, 2023, a driverless taxi owned by Cruise was moving through an intersection in San Francisco when another driver ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.csmonitor.com/text_edition/Business/2024/0206/A-tale-of-two-companies-Can-Boeing-Cruise-rebuild-customer-confidence",
-      "originalUrl": "https://www.csmonitor.com/text_edition/Business/2024/0206/A-tale-of-two-companies-Can-Boeing-Cruise-rebuild-customer-confidence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Christian Science Monitor",
-        "domain": "csmonitor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-in-2024-what-every-gc-needs-to-know.md",
-      "title": "AI in 2024: What Every GC Needs to Know",
-      "excerpt": "While AI and machine learning have been around for decades (think IBM’s Watson), it was the wide release of generative AI (Gen AI) tools like ChatGPT in 2022 that arguably kicked off the current era in AI. Broadly speaking, Gen AI tools create new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/ai-in-2024-what-every-gc-needs-to-know-3580190/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/ai-in-2024-what-every-gc-needs-to-know-3580190/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-is-fueling-a-major-contract-dispute-in-the-music-industry-why-it-matters-for-your-business.md",
-      "title": "AI is Fueling a Major Contract Dispute in the Music Industry: Why it Matters for Your Business",
-      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/ai-fueling-major-contract-dispute-music-industry-why-it-matters-your-business",
-      "originalUrl": "https://www.natlawreview.com/article/ai-fueling-major-contract-dispute-music-industry-why-it-matters-your-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI_artificial_Intelligence_purple.jpg?itok=4x5ZztAT",
-          "width": 602,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/ai-fueling-major-contract-dispute-music-industry-why-it-matters-your-business?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ai-fueling-major-contract-dispute-music-industry-why-it-matters-your-business?amp",
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-moving-fast-uk-to-spend-125m-on-ai-hubs-regulation.md",
-      "title": "‘AI moving fast’: UK to spend $125m on AI hubs, regulation",
-      "excerpt": "The United Kingdom has unveiled plans to spend over 100 million pounds ($125m) on research and training related to artificial intelligence (AI). Under the plans announced on Tuesday, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
-      "originalUrl": "https://www.aljazeera.com/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2024/02/2023-11-02T162052Z_1550215641_RC2454A1KFX0_RTRMADP_3_AI-BRITAIN-SUMMIT-1707180555.jpg?resize=1920%2C1440",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-vs-human-translators-who-will-win-the-translation-battle.md",
-      "title": "AI vs. Human Translators: Who Will Win the Translation Battle?",
-      "excerpt": "Interestingly, the introduction of Artificial Intelligence (AI) has fundamentally disturbed language translation, an essential communication tool in today's interconnected world. A significant concern that comes to mind with AI's quick growth is this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-gb/science-technology/ai-vs-human-translators-who-will-win-the-translation/467210",
-      "originalUrl": "https://www.entrepreneur.com/en-gb/science-technology/ai-vs-human-translators-who-will-win-the-translation/467210",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1703003776-ai-vs-human-translators-g-1158763612.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-what-is-it-good-for-machine-learning-at-central-square-theatre-takes-a-look.md",
-      "title": "AI — What is it good for? 'Machine Learning' at Central Square Theatre takes a look",
-      "excerpt": "What of hope and faith? Questions like these shape Francisco Mendoza’s probing play “Machine Learning” (through Feb. 25 at Central Square Theater), where a son aims to help his father, who is battling cancer and a penchant for alcohol, with an app he ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/news/2024/02/06/machine-learning-central-square-review",
-      "originalUrl": "https://www.wbur.org/news/2024/02/06/machine-learning-central-square-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wordpress.wbur.org/wp-content/uploads/2024/02/Machine_Learning-Production-1-1000x667.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-artificial-intelligence-for-the-financial-market-machine-learning-can-enhance-stock-return-prediction.md",
-      "title": "Artificial intelligence for the financial market: Machine learning can enhance stock return prediction",
-      "excerpt": "In the complex world of financial markets ... especially in global stock investments. However, Machine Learning (ML) methods, a branch of Artificial Intelligence (AI), offer a promising solution.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.html",
-      "originalUrl": "https://phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/artificial-intelligenc-6.jpg",
-          "width": 2880,
-          "height": 1867,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.amp",
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-artificial-intelligence-in-the-news-how-ai-retools-rationalizes-and-reshapes-journalism-and-the-public-arena.md",
-      "title": "Artificial Intelligence in the News: How AI Retools, Rationalizes, and Reshapes Journalism and the Public Arena",
-      "excerpt": "Image: DALL·E 2023 12-20-14.57.08. Prompt: generate a random fine line swirl picture high resolution the lines have the blue of Oxford university on white background Chapter 1 is broken down into three parts, exploring (i) news organizations’ motives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
-      "originalUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cjr.org/wp-content/uploads/2024/02/DALL·E-2023-12-20-14.57.08-generate-a-random-fine-line-swirl-picture-high-resolution-the-lines-have-the-blue-of-Oxford-university-on-white-background.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cjr.org",
-        "domain": "cjr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-bioprinting-breakthrough-tech-platform-creates-3d-neural-tissues-in-which-neurons-and-glia-connect.md",
-      "title": "Bioprinting breakthrough: Tech platform creates 3D neural tissues in which neurons and glia connect",
-      "excerpt": "In a recent study published in Cell Stem Cell, researchers produced three-dimensional (3D) bioprinted human brain tissues, allowing for the creation of functioning neural networks that could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20240206/Bioprinting-breakthrough-Tech-platform-creates-3D-neural-tissues-in-which-neurons-and-glia-connect.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20240206/Bioprinting-breakthrough-Tech-platform-creates-3D-neural-tissues-in-which-neurons-and-glia-connect.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_771102_17072291363538692.jpg",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-could-artificial-intelligence-help-or-hurt-scientific-research-articles.md",
-      "title": "Could artificial intelligence help or hurt scientific research articles?",
-      "excerpt": "The Use of Artificial Intelligence in Writing Scientific Review Articles. Current Osteoporosis Reports , 2024; DOI: 10.1007/s11914-023-00852-0 Cite This Page :",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/02/240206144939.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/02/240206144939.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-global-forum-on-the-ethics-of-ai-2024.md",
-      "title": "Global Forum on the Ethics of AI 2024",
-      "excerpt": "The 2 nd Global Forum on the Ethics of Artificial Intelligence: Changing the Landscape of AI Governance, took place in the Brdo Congress Centre of Kranj on 5 and 6 February 2024. This Forum brought together the experiences and expertise of countries at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.unesco.org/en/forum-ethics-ai",
-      "originalUrl": "https://www.unesco.org/en/forum-ethics-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unesco.org/sites/default/files/styles/best_image/public/2024-01/ethicsofai_banner_1800px.jpg?itok=spmQQkq6",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNESCO",
-        "domain": "unesco.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

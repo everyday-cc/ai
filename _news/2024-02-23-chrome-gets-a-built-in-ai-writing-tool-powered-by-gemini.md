@@ -154,6 +154,20 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "Google Announces Gemma: A New Family of Open AI Models Inspired by Gemini"
+    excerpt: "Google is excited to introduce Gemma, a new generation of open models to assist developers and researchers in building AI responsibly."
+    publishedDateTime: 2024-02-22T21:27:00Z
+    webUrl: "https://www.datanami.com/this-just-in/google-announces-gemma-a-new-family-of-open-ai-models-inspired-by-gemini/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 40
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
+        isCached: true
   - title: "Google's Gemini AI accused of acting too 'woke', company admits mistake"
     excerpt: "The row erupted after a user pointed out that Gemini, earlier known as Bard, was showing inaccurate images when asked to furnish certain information"
     publishedDateTime: 2024-02-22T10:53:00Z
@@ -323,6 +337,6 @@ related:
       domain: androidheadlines.com
     quality: 4
 
-secured: "exBtG6yVoufNM8CkOgf1vattWTEbgqQLoHVhydNJU57CXKO7/TrQ9PRA+KbWvsT0rtnDxfCnluh8sUA/uJdwMwXNP8cGiNKY6JGrUO0YlkAkakdlfqNvHwnKV2AHlqPYg8qv4CBRe8MmmnInz5WwxipfqfyU1rGTgSo3m8+xQc49vlyzbPP9trsFFSvKTgPVsB05x6n3CVFXTeSH2qEOAjbxEZYCLchiVyCkB/r8IHCda/RuHbCR92/Udd8OsHtA02Ep+91oXZZv6KAvPyHQ9Ec8BONM748v7/Lbbt08R/B/9e6aDekOznXUwT4iXbtQGJMuysBENNTNyQECY6nE7EzQUsugu0qynGfd3Ri1IdY=;CeiXZJ2wXSTdPRr4/zXQXw=="
+secured: "eSnOU+fmXJMX++xDjXjR2evkk374DTW/vuZkMl7694/pZRj2F3e7JddIqilouLv5veYzvXlBIk2MGMXx5yTdq8ZFEqnp2dykPfwq6OV2vgX8YXQ3EpkMpsii10/1euy4nF+/HFcGJooa6xu57kRYT4hg+6bGN61B2z8Jc0ZGUcN++2+5R65e/3Vj6Bejf8PQfLC0haKIQv6CCnoSosRSGenn9cn/qJsDs/cJ7egOMLSS8WfvVEMfE8jLqW+PwO/Wuf+V6JmZjEBp5rsrhgA0jWT1Mi3jK0KAhPrEolMF12slUbRt2qjZyA+4ue1qW0GvCsg1eEwSoMXAFj3MTV6wcQJychRUrZgvAbDSzG3kB88fnfbQfOHocPl9AFIaHLUylg+ORKn3b2AhDd/d0LgTYVDpMMJ8ymakBgOJxKQVjnNIXNc1ialjNLZzfwpJCpxKAi8RrrbBGX8hnvkWL0Sdbdl/Rc6ADwYqt14TfR+/8PNSwjNSk7fYXig9H2H2WNlcM7mEuG7Qlbixjsc22sieGw==;KAHznYr6nI7saQPqlgMxxQ=="
 ---
 

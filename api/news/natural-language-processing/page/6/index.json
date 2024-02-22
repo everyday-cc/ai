@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-07-natural-language-processing-nafta.md",
+      "title": "Natural Language Processing - NAFTA",
+      "excerpt": "The market size in the Natural Language Processing market is projected to reach US$9.65bn in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 12.75%, resulting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/nafta",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/nafta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T10:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-ai-translation-is-causing-a-boom-in-chinas-web-novel-industry.md",
+      "title": "AI Translation is Causing a Boom in China’s Web Novel Industry",
+      "excerpt": "As technology continues to evolve, it's expected that AI will play an even more pivotal role in bridging the gap between different cultures",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/12/07/ai-translation-china-web-novel-industry/",
+      "originalUrl": "https://www.gizmochina.com/2023/12/07/ai-translation-china-web-novel-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/07/hitesh-choudhary-t1PaIbMTJIM-unsplash-1024x575-1.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T03:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-kinetica-unveils-1st-sql-gpt-for-telecom-transforming-natural-language-into-sql-fine-tuned-for-the-telco-industry.md",
       "title": "Kinetica Unveils 1st SQL-GPT for Telecom, Transforming Natural Language into SQL Fine-Tuned for the Telco Industry",
       "excerpt": "the industry’s only real-time solution that leverages generative AI and vectorized processing to enable telco professionals to have an interactive conversation with their data using natural language, simplifying data exploration and analysis to make ...",
@@ -1173,111 +1268,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-antifake-ai-tech-could-keep-your-voice-from-being-deepfaked.md",
-      "title": "AntiFake AI tech could keep your voice from being deepfaked",
-      "excerpt": "Additionally, replicated voices could be used to bypass voice-recognition security systems. While there are already technologies designed to determine if supposedly legitimate voices are deepfakes, AntiFake is reportedly one of the very first systems to ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/antifake-voice-deepfake-protection/",
-      "originalUrl": "https://newatlas.com/science/antifake-voice-deepfake-protection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/b2fe4fc/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6a%2Fef%2F49d10454473f9001ea064d040a81%2Fdepositphotos-16361363-l.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-aimreplys-new-ai-assistant-set-to-revolutionize-email-for-busy-professionals.md",
-      "title": "AImReply's New AI Assistant Set to Revolutionize Email for Busy Professionals",
-      "excerpt": "AImReply announces the launch of an AI-powered email assistant to help professionals save time crafting email responses. The new product",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aimreply-s-new-ai-assistant-set-to-revolutionize-email-for-busy-professionals-1032847068",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aimreply-s-new-ai-assistant-set-to-revolutionize-email-for-busy-professionals-1032847068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1700811548060-0.png",
-          "width": 468,
-          "height": 234,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-24T08:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

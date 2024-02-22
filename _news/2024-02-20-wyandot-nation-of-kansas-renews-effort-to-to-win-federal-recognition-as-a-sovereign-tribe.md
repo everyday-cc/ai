@@ -168,6 +168,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Researchers Develop Real-Time Emotion Recognition Wearable Tech: Here's How It Works"
+    excerpt: "Kang, in his research paper \"On the Praxes and Politics of AI Speech Emotion Recognition,\" notes that \"there is no scientific consensus on what is meant by \"emotion\"-researchers have examined various phenomena spanning brain modes, feelings, sensations ..."
+    publishedDateTime: 2024-02-22T11:02:00Z
+    webUrl: "https://www.techtimes.com/articles/301938/20240222/researchers-develop-real-time-emotion-recognition-wearable-tech.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 0
 
 secured: "MFUUF3oyFjGVZ+kRyxrMcB/izMeftnIx5Vy+xGsFA5wN2FJTirPDSG7DAFy6iztC75mxyWwsHnyhu9pBxIWepnVkqCWDVx+jHlYd00cTvOfkLm9Q2xRY+NVsLvZTkkqRK4Pjj+60jTYzQiJqUL0JanMBG9Z+/o7T4kTYLgPzt2kcr1SemT4fzpoabh7q2k58ropv7u0YO6kaFKJnvRWh27Y/L/HaP4Mq76/gwfv5IulGv6C0y6ho9MFParQDxaclgfWOlPAJTBtRRRahLUymSJr0PX4gFwgaTI1WREoUXesbf4isUeW0mjS59fmlPGcbxbvItLeVK2g2/OTK35xlESgHdet8ykXh3eNqwq6WkScLJ7dA3YSBhmZxx8p65CwAftlGw97G/Lt3UWtgJfmrU6JljZZmSBxZs+QOnB+8M2xYUiUumNngz+JdOw5ybiQfHvRKAp1oLpt/t95T9quD8TaEUJaJIude48jMCe3fa/G8QlzGfGgoIm8BvOatkd0JYuGLycuTHc/Eq4EHPXxyAA==;FftGZ3HnNlHLVHaWBgdZzA=="
 ---

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "This fintech startup is targeting a gap in lending as banks tighten credit"
+    excerpt: "“Just because the loans are smaller doesn’t mean they’re not good.” Nvidia earnings send stock rocketing as company cheers AI ‘tipping point’ Nvidia makes Wall Street history as stock surge adds $277 billion in market cap Super Micro’s stock ..."
+    publishedDateTime: 2024-02-22T22:27:00Z
+    webUrl: "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
+    images:
+      - url: "https://images.mktw.net/im-26691341/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Insights From The 2023 Fintech Index"
     excerpt: "Much ink has been spilled about where fintech is going. It is refreshing to ground this in a retrospective. In this vein, I wanted to deep dive on three reflections from this excellent report by F-Prime: The 2023 Fintech Index."
     publishedDateTime: 2024-02-18T15:29:00Z
@@ -66,38 +82,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "RBI ups scrutiny of fintechs with more inspections"
-    excerpt: "India's financial regulator, the Reserve Bank of India (RBI), is intensifying oversight of fintech firms after inspections revealed lapses in customer due diligence. The RBI has increased meetings with executives and invested in better technology to monitor regulatory compliance."
-    publishedDateTime: 2024-02-21T08:21:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-ups-scrutiny-of-fintechs-with-more-inspections/articleshow/107877756.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/banking/rbi-ups-scrutiny-of-fintechs-with-more-inspections/amp_articleshow/107877756.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/banking/rbi-ups-scrutiny-of-fintechs-with-more-inspections/amp_articleshow/107877756.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-263014,msid-107877905/rbi-fintech-sro.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Tech-Driven Efficiency: How Automation is Reshaping Fintech Operations"
-    excerpt: "Backed by these enablers, the fintech market in India is projected to reach $150 billion by 2025. Artificial intelligence: AI is a core component of the fintech world that is used for better loan decision-making, credit risk assessment, fraud detection ..."
-    publishedDateTime: 2024-02-21T07:19:00Z
-    webUrl: "https://www.dqindia.com/news/tech-driven-efficiency-how-automation-is-reshaping-fintech-operations-3872791"
-    ampWebUrl: "https://www.dqindia.com/news/tech-driven-efficiency-how-automation-is-reshaping-fintech-operations-3872791"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/tech-driven-efficiency-how-automation-is-reshaping-fintech-operations-3872791"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
-    images:
-      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/6Sn3FzcPTAGFkaKUbre7.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Bud Financial partners with Fintech Galaxy"
     excerpt: "\"This isn't just a partnership; it's a step towards a future where finance feels friendly, accessible, and genuinely helpful,\" says Mirna Sleiman, the Founder and CEO behind Fintech Galaxy. \"We're all in to create a world where your financial services understand and adapt to you — not the other way around.\""
     publishedDateTime: 2024-02-22T06:19:00Z
@@ -113,20 +97,6 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/Y2Q3YjE1ZDEtZjVlNC00/0/budfinancialpartnerswithfintechgalaxy-png.jpeg?f=3%3A2"
         width: 870
         height: 580
-        isCached: true
-  - title: "Sameer Nigam talks all things fintech; Paytm’s shares surge 5% again"
-    excerpt: "The caller identification app's AI assistant in India led to a 19% increase in paying ... In the wake of the developments, Finance Minister Nirmala Sitharaman has decided to meet heads of fintech companies next week to persuade them to strictly follow ..."
-    publishedDateTime: 2024-02-21T02:41:00Z
-    webUrl: "https://yourstory.com/2024/02/sameer-nigam-talks-all-things-fintech-paytm-one97-tamil-nadu"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/CopyofImageTaggingnoframesEditorialTeamMaster41-1708449485937.jpg?fm=png&auto=format"
-        width: 1600
-        height: 800
         isCached: true
   - title: "3 Under-the-Radar Fintech Stocks Ready to Make a Move"
     excerpt: "The word \"in\". A play button in the shape of a television screen. A stylized camera. InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks continue to lead the way with groundbreaking innovations in payments and customer services."
@@ -155,48 +125,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
-    excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"
-    publishedDateTime: 2024-02-20T18:23:00Z
-    webUrl: "https://menafn.com/1107875740/FinAI-Conference-Announces-A-Groundbreaking-Event-Focused-On-The-Convergence-Of-Fintech-And-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145749"
-        width: 416
-        height: 250
-        isCached: true
-  - title: "Leo Wang, CEO of Duotech, Addresses Impact of AI on Fintech Industry During Chinese New Year Speech"
-    excerpt: "Leo Wang, CEO of Duotech, delivered a captivating speech during the Chinese New Year festivities, shedding light on the transformative power"
-    publishedDateTime: 2024-02-22T09:05:00Z
-    webUrl: "https://www.asiaone.com/business/leo-wang-ceo-duotech-addresses-impact-ai-fintech-industry-during-chinese-new-year-speech"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 25
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Feb2024/Leo_Wang_Duotech.jpg?itok=ukGamRbK"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Baron FinTech Fund Q4 2023 Shareholder Letter"
-    excerpt: "[1]The FactSet Global FinTech Index™ is an unmanaged and equal-weighted index ... well positioned to capitalize on increasing adoption of artificial intelligence ('AI') given its vast data sets. The company recently launched Intuit Assist, a generative ..."
-    publishedDateTime: 2024-02-18T10:15:00Z
-    webUrl: "https://seekingalpha.com/article/4671238-baron-fintech-fund-q3-2023-shareholder-letter"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://media.gettyimages.com/id/1717393421/photo/digital-finance-evolution-innovative-fintech-technology-visualizing-financial-investment.jpg?b=1&s=170667a&w=0&k=20&c=b_e98EuBq62IQEgFsb7d01Ahi0ji8qlvbePlrHlAIJI="
-        width: 509
-        height: 339
-        isCached: true
   - title: "Bud joins forces with Fintech Galaxy"
     excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. This collaboration is all about bringing tangible ..."
     publishedDateTime: 2024-02-21T09:57:00Z
@@ -211,31 +139,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Fintech Giant Black Banx Boasts Highest Annual Profit since 2015"
-    excerpt: "Where traditional banks have huge efforts and manual labor costs to identify and do background checks on their non-resident clients, Black Banx uses Server Power and AI to run a fully automated and scalable identification process in real-time. Black Banx ..."
-    publishedDateTime: 2024-02-21T21:08:00Z
-    webUrl: "https://www.latimes.com/b2bpublishing/business-partnerships/story/2024-02-21/fintech-giant-black-banx-boasts-highest-annual-profit-since-2015"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 24
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/f5f3a64/2147483647/strip/true/crop/800x420+0+62/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6f%2Fc8%2Fe32bb09c4e55931357a21446f73e%2Fimage1.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "72% fewer Indian fintech startups incorporated in 2023 than in 2021: Report"
-    excerpt: "There have been around 30 acquisition deals in the Indian fintech space in 2023 and 20 out of these were done by large companies with over 1,000 employees or funding of over $50 million"
-    publishedDateTime: 2024-02-20T07:39:00Z
-    webUrl: "https://www.business-standard.com/companies/start-ups/72-fewer-indian-fintech-startups-incorporated-in-2023-than-in-2021-report-124022000376_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/start-ups/72-fewer-indian-fintech-startups-incorporated-in-2023-than-in-2021-report-124022000376_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/start-ups/72-fewer-indian-fintech-startups-incorporated-in-2023-than-in-2021-report-124022000376_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 22
   - title: "Why KYB Should Be a Priority for Fintech Startups Right From the Start"
     excerpt: "Fintech startups are disrupting the financial services industry in exciting new ways. However, with innovation comes risk. As fintech companies enable speedy, paperless transactions and expand access to financial services,"
     publishedDateTime: 2024-02-20T13:55:00Z
@@ -245,24 +148,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
-  - title: "F|T: The FinTech Times – Float expands with $50M debt financing from SVB"
-    excerpt: "Finom, a European challenger bank aimed at SMEs (small and medium-sized enterprises) and freelancers, has raised €50 million ($54 million) in a Series B equity round of funding. Finom lets businesses open up an online bank account in minutes and receive an IBAN (international bank account number) to support cross-border transactions."
-    publishedDateTime: 2024-02-20T14:24:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-float-expands-with-50m-debt-financing-from-svb/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 3
-  - title: "PROVEX Fintech Limited Boosts Technological Innovation With Significant R&D Investment"
-    excerpt: "In a bold move that underscores its commitment to leading the fintech industry, PROVEX Fintech Limited today announced a substantial increase in its"
-    publishedDateTime: 2024-02-18T14:24:00Z
-    webUrl: "https://menafn.com/1107867271/PROVEX-Fintech-Limited-Boosts-Technological-Innovation-With-Significant-RD-Investment"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
   - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
     excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
     publishedDateTime: 2024-02-19T12:39:00Z

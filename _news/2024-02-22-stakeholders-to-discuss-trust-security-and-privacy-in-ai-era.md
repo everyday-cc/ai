@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-dis
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era?amp=1"
 type: article
 quality: 76
-heat: 87
+heat: 86
 published: true
 
 provider:

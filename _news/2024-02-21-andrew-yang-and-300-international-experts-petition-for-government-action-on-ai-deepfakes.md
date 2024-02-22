@@ -19,20 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Dolbey Announces AI Assist, Generative AI for Healthcare Workflow Automation"
-    excerpt: "Dolbey has announced AI Assist, an expansion of Fusion Narrate powered by nVoq, which offers generative AI for healthcare workflow automation. AI Assist is an evolution in speech recognition and automation technology that allows healthcare providers to access and utilize revolutionary generative AI within a private,"
-    publishedDateTime: 2024-02-21T22:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965750.htm"
+  - title: "Artificial intelligence experts urge more deepfake ‘safeguards’"
+    excerpt: "Artificial intelligence experts and industry executives, including one of the technology’s trailblazers Yoshua Bengio, have signed an open letter calling for more regulation around the creation of deepfakes, citing potential risks to society."
+    publishedDateTime: 2024-02-21T07:47:00Z
+    webUrl: "https://globalnews.ca/news/10307342/artificial-intelligence-deepfake-regulations/"
+    ampWebUrl: "https://globalnews.ca/news/10307342/artificial-intelligence-deepfake-regulations/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10307342/artificial-intelligence-deepfake-regulations/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/2343691/Dolbey_and_Company_Inc_Logo.jpg"
-        width: 400
-        height: 226
-        isCached: true
+      name: Global News
+      domain: globalnews.ca
+    quality: 37
 
 secured: "Tx4qjx2msx8/fxc1RmJsp4hr7CkyJzJggGncT/RHL8Q1HDPzKl20GrHGWkk4qT/PZReboWVSdVivozm2GZLK2E6MlXFN4QhCKugiD0aAKLtBDf/kY1CpmkuMCK12vZJL7zbbVipm1x8paejpUA5CFz8Bb31d5ZbX+xS9LexbUkh1OxBZNG4F2QeYVAjnOWOC68UTaUU1aoUoNHX77F9wbkGIylXchagvaR+0Vl6hE8ITTLlnTYDFDeTxTvRiLxamAZMVsFT6//D52ByCoulYf1Lwpl21V09r+a9EuAzgVsDAj5/lX4tSbr2G85JbQNgiW6bcmjQ/M882IQDEob+BdIgYD0qi/KFLqPpa5TXCaEQSJCuBHwQ6MLGpEq2jC66JCEk6pNKY58oFrffvrPQ3dhu8L+3vbjw9vH3b0SRnx5OPF6Da2BJXF59bRt9fVKOC3nOEkWCITmzZZ5naUZda11/3rk7cCbH3gqDLzjDd12ju1aGmtQ+LH6l8F8w3pe8Ihk6bZltfU6irzCdEineRzg==;hz0fVQ5GaQgjM8+TxTpLQg=="
 ---

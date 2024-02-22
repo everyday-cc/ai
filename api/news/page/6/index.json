@@ -2,6 +2,451 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-19-unlocking-financial-benefits-through-data-monetization.md",
+      "title": "Unlocking financial benefits through data monetization",
+      "excerpt": "Empowering organizations to use their data assets and artificial intelligence (AI) capabilities to create tangible economic value.\nThe post Unlocking financial benefits through data monetization appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/unlocking-financial-benefits-through-data-monetization/",
+      "originalUrl": "https://www.ibm.com/blog/unlocking-financial-benefits-through-data-monetization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-google-lengthens-mixes-broadens-ai-with-gemini-toolset.md",
+      "title": "Google Lengthens, Mixes, Broadens AI With Gemini Toolset",
+      "excerpt": "The need to mix, broaden and lengthen our use of AI with fluid tokenization control and Mixture-of-Experts (MoE) architectures is very of the moment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 333,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3469af364a6540e831a99/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1484,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/",
+      "publishedDateTime": "2024-02-19T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-ios-trojan-collects-face-and-other-data-for-bank-account-hacking.md",
+      "title": "iOS Trojan Collects Face and Other Data for Bank Account Hacking",
+      "excerpt": "Chinese hackers use Android and iOS trojans to obtain information needed to steal money from victims’ bank accounts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/",
+      "originalUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securityweek.com/wp-content/uploads/2023/03/spyware.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/amp/",
+      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/amp/",
+      "publishedDateTime": "2024-02-19T10:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecurityWeek",
+        "domain": "securityweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-2024-will-be-ais-breakout-year.md",
+      "title": "2024 will be AI’s breakout year",
+      "excerpt": "Despite all the artificial intelligence (AI) hype we saw last year, Stephen McBride believes 2024 will be AI’s breakout year. According to Stephen, two things will wash away the AI skepticism this",
+      "sourceUrl": null,
+      "webUrl": "https://www.mauldineconomics.com/editorial/2024-will-be-AIs-breakout-year",
+      "originalUrl": "https://www.mauldineconomics.com/editorial/2024-will-be-AIs-breakout-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20240216_feature.jpg",
+          "width": 725,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.mauldineconomics.com/editorial/amp/2024-will-be-AIs-breakout-year",
+      "cdnAmpWebUrl": "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/2024-will-be-AIs-breakout-year",
+      "publishedDateTime": "2024-02-19T09:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MauldinEconomics.com",
+        "domain": "mauldineconomics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good.md",
+      "title": "I tested Meta's Code Lama with 3 AI coding challenges that ChatGPT aced - and it wasn't good",
+      "excerpt": "Meta CEO Mark Zuckerberg recently unveiled Code Llama, a 70B parameter AI designed for coding. But how does it stack up against giants like ChatGPT? I put it to the test.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
+      "originalUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1ccf148eef076cac3e9b8d3a9942ad0f45134b0b/2024/02/19/91f4a2a2-3674-4726-9ea0-825a6c9f6629/gettyimages-699283090.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
+      "publishedDateTime": "2024-02-19T08:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-googles-ai-boss-says-scale-only-gets-you-so-far.md",
+      "title": "Google’s AI Boss Says Scale Only Gets You So Far",
+      "excerpt": "In recent months, Hassabis has overseen a dramatic shift in pace of research and releases with the rapid development of Gemini, a ”multimodal” AI model that already powers Google’s answer to ChatGPT and a growing number of Google products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/",
+      "originalUrl": "https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65cff9cd4172e5e20e48edbb/191:100/w_1280,c_limit/Demis-Hassabis-Q&A-Business-1487212367.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year.md",
+      "title": "Tech giants promise to combat fraudulent AI content in mega elections year",
+      "excerpt": "Tech companies like Google, Meta, and OpenAI have signed an accord to filter through deceptive AI-generated content in 2024, a year with more elections than any other in history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
+      "originalUrl": "https://www.zdnet.com/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/75dbdf1f3a53cc19d05a2a68eed3479af024822e/2024/02/19/063d36af-d818-451b-8d0a-916c7feb57f1/gettyimages-1415754429.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
+      "publishedDateTime": "2024-02-19T07:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-the-biggest-ai-trends-in-the-10-years.md",
+      "title": "The Biggest AI Trends In The 10 Years",
+      "excerpt": "Let’s look ahead just 10 years to 2034. Halfway through the next decade, a lot will have changed, but what will AI look like? Here’s what I think!",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d2fc479802aab1c9b744d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/",
+      "publishedDateTime": "2024-02-19T06:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-kakao-ventures-backs-korean-startup-that-makes-ai-models-faster-and-cheaper-to-run.md",
+      "title": "Kakao Ventures Backs Korean Startup That Makes AI Models Faster And Cheaper To Run",
+      "excerpt": "Two-year-old startup SqueezeBits recently raised a $2 million pre-Series A round from investors including Kakao Ventures, Samsung Next and Posco Venture Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkang/2024/02/19/kakao-ventures-backs-korean-startup-that-makes-ai-models-faster-and-cheaper-to-run/",
+      "originalUrl": "https://www.forbes.com/sites/johnkang/2024/02/19/kakao-ventures-backs-korean-startup-that-makes-ai-models-faster-and-cheaper-to-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d1fd7d30c64345a507f9d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T05:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
       "title": "DeepMind uses AI to tackle neglected deadly diseases",
       "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ...",
@@ -314,58 +759,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-18-insights-from-the-2023-fintech-index.md",
-      "title": "Insights From The 2023 Fintech Index",
-      "excerpt": "Much ink has been spilled about where fintech is going. It is refreshing to ground this in a retrospective. In this vein, I wanted to deep dive on three reflections from this excellent report by F-Prime: The 2023 Fintech Index.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/",
-      "originalUrl": "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cccfddcfc776b96c7ac6f9/0x0.png?format=png&height=900&width=1600&fit=bounds",
-          "width": 1430,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/",
-      "publishedDateTime": "2024-02-18T15:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-18-startup-launches-ai-backed-education-health-and-edutainment-content-service.md",
       "title": "Startup launches AI-backed education, health, and edutainment content service",
       "excerpt": "A start-up has recently announced that it will provide curated education, health, and edutainment services targeting specific needs using artificial intelligence.The start-up platform called Ascend, which is backed by the Accolade Group,",
@@ -469,7 +862,7 @@
       "originalUrl": "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -677,7 +1070,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 190,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -872,396 +1265,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip.md",
-      "title": "A robot sommelier spilled wine on my pants. Then it asked for a tip",
-      "excerpt": "But, given the times in which we live, this particular inducement felt entirely irresistible: \"Wine Tasting With Robot Sommelier.\" Also: Worried about AI gobbling up your job? Start doing these 3 things now That's what the sign on the street said and it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/",
-      "originalUrl": "https://www.zdnet.com/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d80ab52e6141c7b07cad2aae7066d1c35a96baba/2024/01/22/b2a020a3-e581-499f-985f-ccd57c41352d/img-2350.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/",
-      "publishedDateTime": "2024-02-17T11:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond.md",
-      "title": "AI’s pivotal role in shaping the future of finance in 2024 and beyond",
-      "excerpt": "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-16T181908.967.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/",
-      "publishedDateTime": "2024-02-17T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-ai-security-infrastructure-needed-after-malicious-foreign-actors-use-openai-to-train-operatives-expert-says.md",
-      "title": "AI security infrastructure needed after 'malicious' foreign actors use OpenAI to train operatives, expert says",
-      "excerpt": "OpenAI named five hacker groups affiliated with governments in China, Russia, North Korea and Iran who used their artificial intelligence tools for training and research purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says",
-      "originalUrl": "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451d7a28-5ceb-42ad-b0e1-c8f9bd7377b7/b53347c0-06fb-4863-9de7-c0ae58861e24/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp",
-      "publishedDateTime": "2024-02-17T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race.md",
-      "title": "After Sam Altman, SoftBank founder Masayoshi Son joins AI chip race",
-      "excerpt": "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion for his AI venture",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race",
-      "originalUrl": "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/uploads/2024/02/After-Sam-Altman-SoftBank-founder-Masayoshi-Son-joins-AI-chip-race_pic-courtesy-news-agency.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp",
-      "publishedDateTime": "2024-02-17T06:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-samsung-galaxy-s24-ultra-vs-google-pixel-8-pro-a-tough-battle.md",
-      "title": "Samsung Galaxy S24 Ultra vs. Google Pixel 8 Pro: a tough battle",
-      "excerpt": "Beyond photographic features, the Pixel 8 Pro also includes built-in proofreading tools in Gboard, object and pet recognition for the selfie camera, and the ability for Google Assistant to summarize a web page for you. Suffice it to say that Google will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/02/pixel-8-pro-and-galaxy-s24-ultra.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/?amp",
-      "publishedDateTime": "2024-02-17T06:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-artificial-intelligence-and-natural-language-processing.md",
-      "title": "Artificial Intelligence and Natural Language Processing",
-      "excerpt": "To save content items to your account, please confirm that you agree to abide by our usage policies. If this is the first time you use this feature, you will be asked to authorise Cambridge Core to connect with your account. Find out more about saving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/browse-subjects/computer-science/artificial-intelligence-and-natural-language-processing/listing",
-      "originalUrl": "https://www.cambridge.org/core/browse-subjects/computer-science/artificial-intelligence-and-natural-language-processing/listing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-17T05:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
-      "title": "DeepMind uses AI to tackle neglected deadly diseases",
-      "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-8cS9Uum6SGyXHaiJuH6QTvj4_l9PogOdor7xg7ucWn_j3MaKb2kqUdhue7sRODtdyBXZm1",
-      "originalUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-8cS9Uum6SGyXHaiJuH6QTvj4_l9PogOdor7xg7ucWn_j3MaKb2kqUdhue7sRODtdyBXZm1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-57582183.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp",
-      "publishedDateTime": "2024-02-17T04:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-openai-completes-deal-that-values-the-company-at-80-billion.md",
-      "title": "OpenAI Completes Deal That Values the Company at $80 Billion",
-      "excerpt": "OpenAI has completed a deal that values the San Francisco artificial intelligence company at $80 billion or more, nearly tripling its valuation in less than 10 months, according to three people with knowledge of the deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/16ai-tender-twmv/16ai-tender-twmv-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

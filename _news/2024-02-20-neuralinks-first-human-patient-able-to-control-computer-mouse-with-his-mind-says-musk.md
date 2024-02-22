@@ -73,11 +73,11 @@ related:
   - title: "Elon Musk claims first human brain implant Neuralink is a SUCCESS with ‘Patient Zero’s’ mind control powers unveiled"
     excerpt: "ELON Musk has announced the first Neuralink brain chip implant has been successful. The tech mogul revealed the human subject implanted with the ambitious chip has fully recovered – and"
     publishedDateTime: 2024-02-20T14:33:00Z
-    webUrl: "https://www.thesun.co.uk/tech/26054510/elon-musk-neuralink-successful-human-trial/"
+    webUrl: "https://www.thesun.ie/tech/12246611/elon-musk-neuralink-successful-human-trial/"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
+      name: Irish Sun
+      domain: thesun.ie
     quality: 0
 
 secured: "nnL0C6M53g05EsYWX8S41koAo5/SF3O0yQrm7+yjWxxwf3VDme69AiEEMaYWO44ogi5y9wTm+gpf5+B//SsGqsI+fki8WRJj5307qtvG2a6O6Bs9uiNYBI3ZAM2p8gy+TdmaFJu5JkipHl5YT0r0z6ac0ZFrAgtgdQyc9orbhVOfD+Ii5p+bkX1KiQ92qXQNkGMo7TmU8TjWB3V2VNPKmyxUmVo3IK1xTnqEN5A6gdY3plklx0WwmChoA/XMTt3mqJ9p61aVvpbrxu8AmxYCNYFbvGwL6o0c8x0ihumk3OWDvHcl0uKMznygD3fm+5sfsS6ye5JIpAuvw6r1R65NuVc5vmLTwTOgLa1LEBtqUsSj/xgH8wulF6rLxxlsXSm4oBIifrEOPgGowdx9tx2oczlgY5Gvy3AtI2U6cf3ffuYyLZQuafR3GEWZqFq4SMyyFOyaHAp7BgG/HhX9jZldLma4dFXmNNZe6b00UY/MaRSLvdMR3mfIplrxZN+YSvUs3i5L/c48KOVOYp1yVVteTA==;3ug2UqZxNUYlOBluSWuOEQ=="

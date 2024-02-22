@@ -164,6 +164,20 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "Google Announces Gemma: A New Family of Open AI Models Inspired by Gemini"
+    excerpt: "Google is excited to introduce Gemma, a new generation of open models to assist developers and researchers in building AI responsibly."
+    publishedDateTime: 2024-02-22T21:27:00Z
+    webUrl: "https://www.datanami.com/this-just-in/google-announces-gemma-a-new-family-of-open-ai-models-inspired-by-gemini/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 40
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
+        isCached: true
   - title: "Google's Gemini AI accused of acting too 'woke', company admits mistake"
     excerpt: "The row erupted after a user pointed out that Gemini, earlier known as Bard, was showing inaccurate images when asked to furnish certain information"
     publishedDateTime: 2024-02-22T10:53:00Z

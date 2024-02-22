@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Patentability and predictability in AI-assisted drug discovery"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML) are ushering in a new era in drug discovery. The AlphaFold2 system developed by Google’s Deepmind was able to predict the 3D structures of over 200 million proteins - with accuracy on par with ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/patentability-and-predictability-in-ai-9573594/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15281_0526.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Patient Trust in Healthcare AI Relies on Use Case, But Familiarity Is Lacking"
     excerpt: "A recent athenahealth/Dyanata poll showed that patient trust in AI for healthcare depends on the use case, but many patients don't know what their providers are using AI for."
     publishedDateTime: 2024-02-21T12:00:00Z

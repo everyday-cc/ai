@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/"
 type: article
 quality: 73
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -72,22 +72,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-18-at-7.20.26-PM.png?w=1200&strip=all"
         width: 1199
         height: 674
-        isCached: true
-  - title: "AI Tools: OpenAI Reveals Sora and Shocks the AI Video Industry"
-    excerpt: "Sam Altman, CEO of OpenAI (ChatGPT, DALL-E) released a sneak peek into our not-to-distant future of realistic AI generated text-to-video content with the announcement of their new model, Sora on a “Xitter” post: here is sora,"
-    publishedDateTime: 2024-02-17T23:06:00Z
-    webUrl: "https://www.provideocoalition.com/ai-tools-openai-reveals-sora/"
-    ampWebUrl: "https://www.provideocoalition.com/ai-tools-openai-reveals-sora/amp/"
-    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/ai-tools-openai-reveals-sora/amp/"
-    type: article
-    provider:
-      name: provideocoalition.com
-      domain: provideocoalition.com
-    quality: 57
-    images:
-      - url: "https://www.provideocoalition.com/wp-content/uploads/Sora-home-Cropped-trim-sm2.gif"
-        width: 720
-        height: 405
         isCached: true
   - title: "Openai's New Generative Tool Sora Could Revolutionize Marketing And Content Creation"
     excerpt: "Sora is a text-to-video model that significantly advances the integration of deep learning , natural language processing and computer vision to transform textual prompts into detailed and coherent life-like video content. In contrast to previous text-to ..."

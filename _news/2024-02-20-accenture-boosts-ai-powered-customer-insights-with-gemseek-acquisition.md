@@ -20,6 +20,17 @@ topics:
   - Meta AI
   - AI
 
+related:
+  - title: "How Accenture is helping new startups and established companies approach generative AI"
+    excerpt: "Additionally, 63% said they expect to see a return on their generative AI investments in three to five years, while 21% expect a return within three years. Meanwhile, although last year ended with fewer startup funding deals and less capital invested than ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.bizjournals.com/chicago/news/2024/02/22/accenture-artificial-intelligence-chicago.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 9
+
 secured: "o8h25KfD4KtphtiSxwZuiHoYpKfGTx0yT2CB8qR6mGaNCwROeDNI18zaDSgeLScHBQLxJj10p9ubB+vmgu/7G1aeEuAKO3uBgfLCKTsiUN46VAtCsqjphO2LG6+UYD2pJSgSlXafoAaW4Wg+pmYhgHy8GsnZLF+gmH/ia6gyD+K6JUNQD4WvnG0wC7TIT/+iAEZ/g5N6r5IM7Lz3e2oa+vC8kbdayAARvZjw5UV89U/uH1Z+tJH2PA6rXCnORQ0Gd9OSo30oQ5PqfFRsaLxoK8tBytgONq7eUag5EAFOOo8H0WrkfD1KvvX+/Sig40xGst8I3MjN9J/cIMD9Em3OEQsKUVI4qtncm/CxOdjU3o33PRmL5R1Q1NrE3rehpXzuU9VysP1NsSgjhMSkbUs+SF+oThQOP3dWAEJNnY09dG6fqwTo7ITHpDcy2xIs3Kxcz308HgAmtmsj5NHuCMRiYi70oEhkbesCP1SywOq/KgLNRRgSU6AOgwQ2xZ6BlEvlIQkF70cIHULF3PTwr8uNoA==;Y4mmaVBGA51Yb7e8ylUFSQ=="
 ---
 

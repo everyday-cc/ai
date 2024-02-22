@@ -18,61 +18,71 @@ topics:
   - AI
 
 related:
-  - title: "Google halts AI tool’s ability to produce images of people after backlash over historically inaccurate depictions of race"
-    excerpt: "The incident is also yet another setback for Google as it races to take on OpenAI and other players in the competitive generative AI space. In February, shortly after introducing its generative AI tool — then called Bard and since renamed Gemini ..."
-    publishedDateTime: 2024-02-22T16:20:00Z
-    webUrl: "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html"
+  - title: "Stability announces Stable Diffusion 3, a next-gen AI image generator"
+    excerpt: "Larger models also require more VRAM on GPU accelerators to run. Since 2022, we've seen Stability launch a progression of AI image-generation models: Stable Diffusion 1.4, 1.5, 2.0, 2.1, XL, XL Turbo, and now 3. Stability has made a name for itself as ..."
+    publishedDateTime: 2024-02-22T13:28:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 64
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1835957780.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sd3_cham_hero_1-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
-  - title: "Google pauses AI-generated images of people after ethnicity criticism"
-    excerpt: "Company says it will adjust its Gemini model after criticism of ethnically diverse Vikings and second world war German soldiers"
-    publishedDateTime: 2024-02-22T11:55:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/feb/22/google-pauses-ai-generated-images-of-people-after-ethnicity-criticism?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/22/google-pauses-ai-generated-images-of-people-after-ethnicity-criticism"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/22/google-pauses-ai-generated-images-of-people-after-ethnicity-criticism"
+  - title: "Dolbey Announces AI Assist, Generative AI for Healthcare Workflow Automation"
+    excerpt: "Dolbey has announced AI Assist, an expansion of Fusion Narrate powered by nVoq, which offers generative AI for healthcare workflow automation. AI Assist is an evolution in speech recognition and automation technology that allows healthcare providers to access and utilize revolutionary generative AI within a private,"
+    publishedDateTime: 2024-02-21T22:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965750.htm"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
     images:
-      - url: "https://i.guim.co.uk/img/media/86dce439bf808a115a2a87b194f640de2d28fc99/0_0_2140_1284/master/2140.jpg?width=620&quality=85&auto=format&fit=max&s=f1505c41453b7525a118c0c4bf8358b7"
-        width: 620
-        height: 372
+      - url: "https://mma.prnewswire.com/media/2343691/Dolbey_and_Company_Inc_Logo.jpg"
+        width: 400
+        height: 226
         isCached: true
-  - title: "Google apologizes for AI bot generating inaccurate images of ‘diverse’ historical figures"
-    excerpt: "Google Gemini, formerly known as Google Bard, was launched in March 2023 in limited release as a chatbot powered by Google’s large language model. The product was renamed in February as “Gemini” to reflect the “advanced tech at its core” after ..."
-    publishedDateTime: 2024-02-21T18:09:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/2867477/google-apologizes-ai-bot-generating-inaccurate-images-diverse-historical-figures/"
+  - title: "AI startup Jasper acquires image generator Clipdrop from Stability AI"
+    excerpt: "Feb 22 (Reuters) - U.S. writing assistant startup Jasper has acquired Clipdrop, an artificial intelligence-powered photo application from Stability AI, the company told Reuters on Wednesday, as Jasper expands its offerings to corporates. The deal ..."
+    publishedDateTime: 2024-02-22T13:37:00Z
+    webUrl: "https://www.reuters.com/markets/deals/ai-startup-jasper-acquires-image-generator-clipdrop-stability-ai-2024-02-22/"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 30
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "Patentability and predictability in AI-assisted drug discovery"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) are ushering in a new era in drug discovery. The AlphaFold2 system developed by Google’s Deepmind was able to predict the 3D structures of over 200 million proteins - with accuracy on par with ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/patentability-and-predictability-in-ai-9573594/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
     images:
-      - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/01/google.jpg"
-        width: 2290
-        height: 1325
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15281_0526.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Google accused of being \"woke\" after Gemini creates inaccurate, racially diverse historical images"
-    excerpt: "Social media users have been posting the images created by Gemini on sites such as X. Some of the more striking ones include a prompt to"
-    publishedDateTime: 2024-02-22T13:14:00Z
-    webUrl: "https://www.techspot.com/news/101982-google-accused-woke-after-gemini-creates-inaccurate-racially.html"
+  - title: "Stability AI announces early preview of Stable Diffusion 3 text-to-image model"
+    excerpt: "Open generative artificial intelligence startup Stability AI Ltd. today announced the early preview of Stable Diffusion 3, the next generation of its highly advanced text-to-image AI model. The new model makes a large number of improvements over its ..."
+    publishedDateTime: 2024-02-22T18:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/22/stability-ai-announces-stable-diffusion-3-early-preview/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 20
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/stable-diffusion-3.png"
+        width: 900
+        height: 514
+        isCached: true
   - title: "Google’s new AI bot pauses image generation tool after race controversy"
     excerpt: "Google Gemini, formerly known as Google Bard, was launched in March 2023 in limited release as a chatbot powered by Google’s large language model. The product was renamed in February as “Gemini” to reflect the “advanced tech at its core” after ..."
     publishedDateTime: 2024-02-22T09:22:00Z

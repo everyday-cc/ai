@@ -1,0 +1,58 @@
+---
+category: news
+title: "Intel’s CEO Says AI Is the Key to the Company’s Comeback"
+excerpt: "Will Knight: You announced this week that Intel will relaunch its business that manufactures chips on behalf of other companies as an “AI-era system foundry.” What does that mean? Pat Gelsinger: I began Intel’s strategy two plus years ago ..."
+publishedDateTime: 2024-02-22T16:55:00Z
+originalUrl: "https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/"
+webUrl: "https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/"
+type: article
+quality: 69
+heat: -1
+published: false
+
+provider:
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://media.wired.com/photos/65d679d633ef175be68cdac6/191:100/w_1280,c_limit/Pat-Glesinger-Intel-CEO-Q&A-Business-1767731700.jpg"
+    width: 1280
+    height: 670
+    isCached: true
+
+related:
+  - title: "Intel's AI Reboot Is the Future of US Chipmaking"
+    excerpt: "Rival Nvidia, which mints chips with TSMC, became the AI industry’s workhorse and has seen its business soar. But Gelsinger argues that with AI still growing fast and millions of AI chips expected to be needed, Intel can become a major player."
+    publishedDateTime: 2024-02-21T13:25:00Z
+    webUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/65d6409e2a66db9b96a0d09c/191:100/w_1280,c_limit/Intel-Foundry-IFDC-7.jpg.rendition.intel.web.1920.1080.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "CEOs of OpenAI and Intel cite artificial intelligence's voracious appetite for processing power"
+    excerpt: "OpenAI Sam Altman, right, discusses the need for more chips designed for artificial intelligence with Intel CEO Pat Gelsinger on Wednesday, Feb. 21, 2024, during a conference in San Jose, Calif.Michael Liedtke/AP Intel CEO Pat Gelsinger discusses his ..."
+    publishedDateTime: 2024-02-22T01:30:00Z
+    webUrl: "https://www.ctpost.com/business/article/ceos-of-openai-and-intel-cite-artificial-18680923.php"
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 22
+
+secured: "tWqSRYrHtv7mRWzAnxzRmNMGGgs4zZ4UU3S7qWmdxbVC0DooKLm41BKvQwWplFypkHSZuNRqX6Pcz8jPUln/ZtEOvjY7TYxdD19UIKAJFNX4bV6YPk3BUIEND12YwEyQMhep+m8fZohA9jCWCD7QZvK3kHDmmv6ILmI1CsuIawWIyI2GFvK3uwryx5GGrTLVpXpooSYGykZRZWBzddM3vzfQBVYv1PV02iGAtaoFUJP05PiVyM6zioeYsr6VJ0w1VCyrMQY1GaYTlL3p02Bt0ym+diX4ljr6xxyUFZ87AYSgpiAq7yorgKs/LQnEpVcBrUNAazFgbdbER3eCBepr0ljMHufaLzB0QB/RoSTymwI=;K7ZDPafnp0msWZDGvKBUXw=="
+---
+

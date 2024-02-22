@@ -2,6 +2,396 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-17-a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip.md",
+      "title": "A robot sommelier spilled wine on my pants. Then it asked for a tip",
+      "excerpt": "But, given the times in which we live, this particular inducement felt entirely irresistible: \"Wine Tasting With Robot Sommelier.\" Also: Worried about AI gobbling up your job? Start doing these 3 things now That's what the sign on the street said and it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/",
+      "originalUrl": "https://www.zdnet.com/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d80ab52e6141c7b07cad2aae7066d1c35a96baba/2024/01/22/b2a020a3-e581-499f-985f-ccd57c41352d/img-2350.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/",
+      "publishedDateTime": "2024-02-17T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-17-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond.md",
+      "title": "AI’s pivotal role in shaping the future of finance in 2024 and beyond",
+      "excerpt": "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-16T181908.967.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/",
+      "publishedDateTime": "2024-02-17T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-02-17-ai-security-infrastructure-needed-after-malicious-foreign-actors-use-openai-to-train-operatives-expert-says.md",
+      "title": "AI security infrastructure needed after 'malicious' foreign actors use OpenAI to train operatives, expert says",
+      "excerpt": "OpenAI named five hacker groups affiliated with governments in China, Russia, North Korea and Iran who used their artificial intelligence tools for training and research purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says",
+      "originalUrl": "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451d7a28-5ceb-42ad-b0e1-c8f9bd7377b7/b53347c0-06fb-4863-9de7-c0ae58861e24/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp",
+      "publishedDateTime": "2024-02-17T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-02-17-after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race.md",
+      "title": "After Sam Altman, SoftBank founder Masayoshi Son joins AI chip race",
+      "excerpt": "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion for his AI venture",
+      "sourceUrl": null,
+      "webUrl": "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race",
+      "originalUrl": "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://glamsham.com/wp-content/uploads/2024/02/After-Sam-Altman-SoftBank-founder-Masayoshi-Son-joins-AI-chip-race_pic-courtesy-news-agency.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp",
+      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp",
+      "publishedDateTime": "2024-02-17T06:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-17-samsung-galaxy-s24-ultra-vs-google-pixel-8-pro-a-tough-battle.md",
+      "title": "Samsung Galaxy S24 Ultra vs. Google Pixel 8 Pro: a tough battle",
+      "excerpt": "Beyond photographic features, the Pixel 8 Pro also includes built-in proofreading tools in Gboard, object and pet recognition for the selfie camera, and the ability for Google Assistant to summarize a web page for you. Suffice it to say that Google will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/02/pixel-8-pro-and-galaxy-s24-ultra.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/?amp",
+      "publishedDateTime": "2024-02-17T06:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-17-artificial-intelligence-and-natural-language-processing.md",
+      "title": "Artificial Intelligence and Natural Language Processing",
+      "excerpt": "To save content items to your account, please confirm that you agree to abide by our usage policies. If this is the first time you use this feature, you will be asked to authorise Cambridge Core to connect with your account. Find out more about saving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/browse-subjects/computer-science/artificial-intelligence-and-natural-language-processing/listing",
+      "originalUrl": "https://www.cambridge.org/core/browse-subjects/computer-science/artificial-intelligence-and-natural-language-processing/listing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-17T05:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-17-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
+      "title": "DeepMind uses AI to tackle neglected deadly diseases",
+      "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-8cS9Uum6SGyXHaiJuH6QTvj4_l9PogOdor7xg7ucWn_j3MaKb2kqUdhue7sRODtdyBXZm1",
+      "originalUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-8cS9Uum6SGyXHaiJuH6QTvj4_l9PogOdor7xg7ucWn_j3MaKb2kqUdhue7sRODtdyBXZm1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-57582183.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp",
+      "publishedDateTime": "2024-02-17T04:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-17-openai-completes-deal-that-values-the-company-at-80-billion.md",
+      "title": "OpenAI Completes Deal That Values the Company at $80 Billion",
+      "excerpt": "OpenAI has completed a deal that values the San Francisco artificial intelligence company at $80 billion or more, nearly tripling its valuation in less than 10 months, according to three people with knowledge of the deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/16ai-tender-twmv/16ai-tender-twmv-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T23:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-17-what-using-security-to-regulate-ai-chips-could-look-like.md",
       "title": "What Using Security to Regulate AI Chips Could Look Like",
       "excerpt": "An exploratory research proposal is recommending regulation of AI chips and stronger governance measures to keep up with the rapid technical innovations in artificial intelligence.",
@@ -847,403 +1237,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it.md",
-      "title": "Four Steps To Ride The Generative AI Wave, Instead Of Drowning Under It",
-      "excerpt": "Finally, there is one element that underpins all four of these steps and is a huge factor in successful GAI deployment—executive sponsorship. Business leaders must be committed to embracing change at an organizational level while ensuring objective measurement processes are embedded and that they do not lose sight of the company mission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a95c17e3fb61b42aff12c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/",
-      "publishedDateTime": "2024-02-16T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-the-iphone-16-could-feature-major-neural-engine-upgrade-for-on-device-generative-ai-tasks.md",
-      "title": "The iPhone 16 could feature major Neural Engine upgrade for on-device generative AI tasks",
-      "excerpt": "Apple's future generation of iPhone, iPad, and MacBook chips, the M4 and A18, will have an increased number of cores in their improved Neural Engines, writes",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101910-iphone-16-could-feature-major-neural-engine-upgrade.html",
-      "originalUrl": "https://www.techspot.com/news/101910-iphone-16-could-feature-major-neural-engine-upgrade.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-04-image-20.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T11:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-the-role-of-vector-databases-inside-the-ai-factory.md",
-      "title": "The Role Of Vector Databases Inside The ‘AI Factory’",
-      "excerpt": "To achieve the performance necessary to industrialize AI-based decision-making, companies should first think about laying down the requisite data services infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/16/the-role-of-vector-databases-inside-the-ai-factory/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/16/the-role-of-vector-databases-inside-the-ai-factory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c357581d0fc926e8d1b567/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/16/the-role-of-vector-databases-inside-the-ai-factory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/16/the-role-of-vector-databases-inside-the-ai-factory/amp/",
-      "publishedDateTime": "2024-02-16T11:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-karnataka-budget-state-bets-big-on-artificial-intelligence-machine-learning.md",
-      "title": "Karnataka Budget: State bets big on Artificial Intelligence & Machine Learning",
-      "excerpt": "Siddaramaiah also unveiled a stipend of Rs 15,000 for 200 engineering graduates enrolled in 6 to 12-month vocational training courses, including Artificial Intelligence and Machine Learning, at institutions like IISc,",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/karnataka-budget-state-bets-big-on-artificial-intelligence-machine-learning-12291701.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/karnataka-budget-state-bets-big-on-artificial-intelligence-machine-learning-12291701.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/08/software2.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/karnataka-budget-state-bets-big-on-artificial-intelligence-machine-learning-12291701.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/karnataka-budget-state-bets-big-on-artificial-intelligence-machine-learning-12291701.html/amp",
-      "publishedDateTime": "2024-02-16T11:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-navigating-the-ai-wave-a-strategic-approach-to-adoption.md",
-      "title": "Navigating The AI Wave: A Strategic Approach To Adoption",
-      "excerpt": "While the adoption of AI continues to evolve, strategically building AI solutions incrementally facilitates smoother user adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6172b77891b88a52e85adc7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/",
-      "publishedDateTime": "2024-02-16T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom.md",
-      "title": "Chipping In: Billionaire-Founded Unicorn Startup Makes Semiconductor ‘Chiplets’ For The AI Boom",
-      "excerpt": "Singapore-based Silicon Box specializes in chiplets, an increasingly popular way of making high-performing chips. To help ramp up production, the startup recently raised $200 million in a Series B round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/catherinewang/2024/02/16/chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom/",
-      "originalUrl": "https://www.forbes.com/sites/catherinewang/2024/02/16/chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c055520d5f42441db193dd/0x0.jpg?format=jpg&crop=2357,1325,x0,y594,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-into-the-looking-glass-cloud-and-video-surveillance-technology-in-2024.md",
-      "title": "Into The Looking Glass: Cloud And Video Surveillance Technology In 2024",
-      "excerpt": "The convergence of advancements in cloud and video surveillance technology with broader AI trends heralds an era of substantial change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/into-the-looking-glass-cloud-and-video-surveillance-technology-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/into-the-looking-glass-cloud-and-video-surveillance-technology-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee374dcd8bc730007cc72a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/into-the-looking-glass-cloud-and-video-surveillance-technology-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/into-the-looking-glass-cloud-and-video-surveillance-technology-in-2024/amp/",
-      "publishedDateTime": "2024-02-16T10:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-sk-backed-sapeon-to-develop-on-device-ai-chip.md",
-      "title": "SK-backed Sapeon to develop on-device AI chip",
-      "excerpt": "Sapeon, a fabless startup backed by South Korean telecom-to-chip conglomerate SK Group, said Friday it would develop a new semiconductor optimized for on-device artificial intelligence as the market has been witnessing significant growth in recent years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20240216050362",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20240216050362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F02%2F16%2F20240216050380_0.jpg",
-          "width": 630,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20240216050362",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240216050362",
-      "publishedDateTime": "2024-02-16T04:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

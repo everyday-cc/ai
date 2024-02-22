@@ -98,6 +98,59 @@
       ]
     },
     {
+      "path": "_news/2024-02-22-which-tech-jobs-could-ai-replace-a-realistic-and-pragmatic-view.md",
+      "title": "Which tech jobs could AI replace? A realistic and pragmatic view",
+      "excerpt": "AI won't take over everyone's jobs overnight, but some careers in the tech industry are at a greater risk than others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/which-tech-jobs-could-ai-replace-3417496/",
+      "originalUrl": "https://www.androidauthority.com/which-tech-jobs-could-ai-replace-3417496/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/09/OpenAI-on-website-on-smartphone-stock-photo-3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T20:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now.md",
       "title": "Driving Value From AI Copilots: 3 Trends That C-Suite Executives Need To Act On Now",
       "excerpt": "New research shows that 92% of business and IT leaders agree their organizations need to shift to an AI-first operating model over the next 12 months to stay competitive.",
@@ -671,7 +724,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 323,
+      "heat": 333,
       "tags": null,
       "images": [
         {
@@ -1430,58 +1483,6 @@
         "name": "Indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-up-154-this-magnificent-artificial-intelligence-ai-stock-is-a-screaming-buy-before-it-skyrockets.md",
-      "title": "Up 154%, This Magnificent Artificial Intelligence (AI) Stock Is a Screaming Buy Before It Skyrockets",
-      "excerpt": "The integration of AI into Meta's advertising tools could help ... instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More Faster growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/11/up-154-this-magnificent-artificial-intelligence-ai/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/11/up-154-this-magnificent-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/764004/gettyimages-1399446122-1200x800-5b2df79.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T11:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

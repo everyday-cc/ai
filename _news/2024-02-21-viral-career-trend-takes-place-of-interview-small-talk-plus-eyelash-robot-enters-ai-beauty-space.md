@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-int
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space.amp"
 type: article
 quality: 91
-heat: 93
+heat: 91
 published: true
 
 provider:

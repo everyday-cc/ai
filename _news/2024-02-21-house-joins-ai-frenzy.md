@@ -29,7 +29,7 @@ related:
     provider:
       name: Medicine Buffalo
       domain: buffalo.edu
-    quality: 50
+    quality: 52
     images:
       - url: "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2024/02/university-at-buffalo-ai-alliance/_jcr_content/par/image.img.512.auto.jpg/1708532427058.jpg"
         width: 512

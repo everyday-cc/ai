@@ -39,6 +39,20 @@ related:
         width: 1363
         height: 900
         isCached: true
+  - title: "5 Sources Of AI News For Entrepreneurs Seeking To Grow"
+    excerpt: "AI announcements happen every single day and most of them aren’t worth your attention. Here are 5 new AI sites bringing curated advice that's tailored for business."
+    publishedDateTime: 2024-02-22T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2024/02/22/5-sources-of-ai-news-for-entrepreneurs-seeking-to-grow/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d4dd36958c7e2221c4f2c0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1532
+        height: 900
+        isCached: true
 
 secured: "gcU1UtUhvwcnDg/nzbrhuxfYfk9e8l5qKd3gGci8VuCMrAjjsKsr1v6Yuyuz5IV2umJjjym4OiZ78GQoC6wToAn02geJ1yNajXaAu1lBU++C7pb3bPIXl1+UYsR3nsn5DXiDE7EzJ6d1zKoecD3B+g/iYudvtoR1P8y7kuModktRkS51yaxHg1gHN5fSeVYjFaJj/prg18CzQdVUrqC5TbGdF4+I/b2aDwUZlY/D0QYIf/IySW66BmhQyCQ2yz0ixJxGW9cB29cpc4Ou1IlfsuCjLZtO/qjEmp4HagO2DTJ4oAgV40fKOiPiJs7LepsUypI3HqYiDrKQqRbYOwwP9qTsFuGr0gg9ozXCv5Vdsk4=;676zTkzbBoLy4Mh/AjcT0Q=="
 ---

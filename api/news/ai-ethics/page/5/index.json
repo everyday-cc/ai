@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-06-are-we-choking-the-golden-goose-the-chilling-effect-of-overbroad-rules-and-ethics-opinions-on-the-use-of-generative-ai.md",
+      "title": "Are We Choking the Golden Goose? The Chilling Effect of Overbroad Rules and Ethics Opinions on the Use of Generative AI",
+      "excerpt": "Generative AI is powering an explosion of innovative public and private sector models, though this burgeoning industry remains in its infancy. GenAI products gained widespread notoriety and availability in one amazing year. Lawyers, law firms, and their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdsupra.com/legalnews/are-we-choking-the-golden-goose-the-2689470/",
+      "originalUrl": "https://www.jdsupra.com/legalnews/are-we-choking-the-golden-goose-the-2689470/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16197_0825.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JD Supra",
+        "domain": "jdsupra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-daniel-dennett-calls-for-ethics-in-ai-development.md",
       "title": "Daniel Dennett calls for ethics in AI development",
       "excerpt": "It’s emerging, it’s everywhere. It’s going to be even more everywhere, … and it’s scary and inspiring at the same time,” Jad Oubala, president and founder of the Tufts Artificial Intelligence Society,",

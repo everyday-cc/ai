@@ -1,18 +1,18 @@
 ---
 category: news
 title: "'Genuine, helpful, personal service': How people are using artificial intelligence to their advantage in dating"
-excerpt: "As artificial intelligence continues to expand, many are curious about how it will affect dating and relationships.Through a survey of 5,000 people and Cosmopolitan employees using new AI tools and applications, Cosmopolitan was able to deduce how Gen Z ..."
-publishedDateTime: 2024-02-22T18:35:00Z
-originalUrl: "https://www.wxii12.com/article/ai-dating-scene/46774460"
-webUrl: "https://www.wxii12.com/article/ai-dating-scene/46774460"
+excerpt: "As artificial intelligence continues to expand, many are curious how it will affect dating and relationships in general."
+publishedDateTime: 2024-02-22T21:57:00Z
+originalUrl: "https://www.wlwt.com/article/ai-dating-scene/46774460"
+webUrl: "https://www.wlwt.com/article/ai-dating-scene/46774460"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: WXII 12 NEWS
-  domain: wxii12.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - AI in Healthcare
@@ -24,6 +24,6 @@ images:
     height: 674
     isCached: true
 
-secured: "/4bo5URMTJZZCenZu7Bxe6tD9JBwvDlu0ofIw3yk1ItW4WXTvmfvmFUvz9IRsKXfzQhHfmRc1/oxWIFwz2KHV/Y3OLNF82FsOr+gvSWbhrG7FhZ5G4Pw/07NTj/S+SnylhAKRq97JmsOS1GNbmbFHfHV/r03RA7+EBKV+QgwiFaRSKZ1tsYF/NoQcXN+AXYY1ewUUtBxy0tkl7occ53QvbeTQjYVeXnyUiZnvcA247qajlyLX8vbodAxDzR9m06LFzhti/oEtXDIYunRTjdeWmZqKZioMEWrWX1IMBy3Sy+HtaWn5NTd9TBIs3mKtMAFTPmn3bDQIZd78Vmj+dftxrgH2hdHDSNFH6L/tfsWVEI=;djC6HjuWy2ITpFnO9E2TKQ=="
+secured: "HexcLI47PE4DwALm6MRwompFjcT8l/CmHq8Os0Xd5pZVuSCAPUbWYjYhlIXRqzs8xej4fe8488UouvLhpWlnrBIjaAE9h13lLQoSFsecJX+3wsRWQCO61mQBGleQSaHKfLXKIeEfQhq3qU3qR3u1YETpAAd25t2+Zm2BNuxYSc6/zKWcx0ceXIQn6zMy0dYjOXltRFmRX298pVSkF3KTxGLm3dXVNIJIc3Z/ZutjLiWshSQN0lePcDIl/ogGRPGS1f96V3eoTFuJUMoNrVVp3qEM3Msm1ckVXXT6MwzURrB5VZ+saPZCR6J0Md8Ue1dVNxZ0ezXiMyfP7aAbYNBeSyq4RQ0+EzU9yleKYUXd6Tc=;U81dxtFvM/1ovLpPJuH0kg=="
 ---
 

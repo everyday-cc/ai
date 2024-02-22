@@ -10,7 +10,7 @@
       "originalUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -86,6 +86,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator.md",
+      "title": "Stability announces Stable Diffusion 3, a next-gen AI image generator",
+      "excerpt": "Larger models also require more VRAM on GPU accelerators to run. Since 2022, we've seen Stability launch a progression of AI image-generation models: Stable Diffusion 1.4, 1.5, 2.0, 2.1, XL, XL Turbo, and now 3. Stability has made a name for itself as ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sd3_cham_hero_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T13:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -157,7 +209,7 @@
       "originalUrl": "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 424,
+      "heat": 464,
       "tags": null,
       "images": [
         {
@@ -367,7 +419,7 @@
       "originalUrl": "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -618,7 +670,7 @@
       "originalUrl": "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -808,6 +860,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-7-ways-to-invest-in-ai-smart-home-devices.md",
+      "title": "7 Ways to Invest in AI Smart Home Devices",
+      "excerpt": "An indirect way to invest in smart home devices is to target property management firms that make smart building technology a priority to increase their profit margins. A property may require less maintenance or be more energy efficient once these devices get installed.",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices",
+      "originalUrl": "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T20:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1001,7 +1097,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": null,
       "content": "",
@@ -1347,110 +1443,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-acciones-de-nvidia-se-disparan-por-ai.md",
-      "title": "Acciones de Nvidia se disparan por AI",
-      "excerpt": "Las acciones del fabricante de chips, Nvidia, aumentaron 2,5% sobrepasando a Amazon. ¿Cómo?",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
-      "originalUrl": "https://www.cnn.com/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230629175437-dinero-chips-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
-      "publishedDateTime": "2024-02-15T21:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-ai-chip-tags-can-fight-espionage-from-hostile-states-report-says.md",
-      "title": "AI chip tags can fight espionage from hostile states, report says",
-      "excerpt": "A new report from Cambridge University warns that AI regulators are overlooking hardware. They advise a firm focus on AI chips",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/artificial-intelligence-safety-report-ai-chips-hardware",
-      "originalUrl": "https://thenextweb.com/news/artificial-intelligence-safety-report-ai-chips-hardware",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-7.jpg&signature=ed5fd8439b7f9bad42f23c6236f0987a",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T16:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

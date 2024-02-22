@@ -32,6 +32,24 @@ related:
         width: 1523
         height: 674
         isCached: true
+  - title: "3 Hypergrowth AI Stocks to Buy That Can Beat Even Nvidia"
+    excerpt: "For investors, this means that the time to focus on finding the best AI stocks to buy is now. Nvidia is leading the way, but many of its smaller peers are picking up steam. Matt Miczulski, an investment expert and editor at fintech platform Finder ..."
+    publishedDateTime: 2024-02-22T15:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-hypergrowth-ai-stocks-to-buy-that-can-beat-even-nvidia-1033094886"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Cathie Wood Can Only Watch as Nvidia Rides AI Wave She Foresaw"
+    excerpt: "Annual economic growth could accelerate to as much as 50%, thanks to breakthroughs in the world of artificial intelligence."
+    publishedDateTime: 2024-02-22T17:42:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-22/cathie-wood-can-only-watch-as-nvidia-rides-ai-wave-she-foresaw"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Nvidia’s Market Leadership and Innovation in AI Technology Bolster ‘Buy’ Rating"
     excerpt: "Fang Boon Foo has given his Buy rating due to a combination of factors highlighting Nvidia’s dominance in the GPU market and its innovative strides in artificial intelligence (AI) technology. Nvidia’s GPUs, particularly those designed for data centers ..."
     publishedDateTime: 2024-02-22T00:55:00Z

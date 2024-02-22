@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft to Use Intel for In-House Custom AI Chip"
-excerpt: "Microsoft CEO Satya Nadella revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
+excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
 publishedDateTime: 2024-02-21T17:21:00Z
-originalUrl: "https://www.thurrott.com/cloud/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
-webUrl: "https://www.thurrott.com/cloud/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
+originalUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
+webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
 type: article
-quality: 71
+quality: 51
 heat: -1
 published: false
 
@@ -15,15 +15,9 @@ provider:
   domain: thurrott.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AI Hardware
-
-images:
-  - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/intel-soc.jpg"
-    width: 1066
-    height: 600
-    isCached: true
+  - AI
+  - Microsoft AI
 
 related:
   - title: "Microsoft will use Intel Foundry to make its own chip using the Intel 18A process"
@@ -191,6 +185,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "kl/ErgHwg9SRGcCly5b4oOT66ozxQuNIWSqA6f/TNem3FPKERTmuhQIVAqLXvZ2/lp3T9IGHNfMfHBXrI99TQIUwO2ORl2Vngi0/lKIRAfVBncvW83o5fqqX6lJtZaChzQUeOVGJuJrPk4fZqYcQCsaxf8w40P6vUCmmU8oYzzuT+JA3pY5jgyE7KXyyPtdv1JoVFyGv7+/P5UmLOI2JuVRcrKwSREQTq1p6VrbWrLQQIRzz0s7yg2uFe8m5KEDQBkfHbRy12pVEEOu7ZdNSWTPAJZk4SluGNeLS/VQT34/e9ZZ08ZonYyZhxbmguIay3O7GK5z8SeHbLR66spfKH0F/6IUcTd1v9XKW4Yd7BkU=;mCK3Gl7dFeWrWqIGsHbp/Q=="
+secured: "T9yq2QtkTBZPBjSU31iHbXfPUvLlbSG9CWpX/OZINMk8MWHH96qN6eV30br6SqXw0QamOIJ2qHBwOY7dwvaGH8fvUQ1D09yRPvFvJtKQosgkC8raZ7F4DTYcA2L6wRNT7ofFOM1soJ47lR82nGwSsYbaqFfGC0FDavIpRsUxUywNL+UlvPk4BUGbzCnChmQnJ+ufQcdXdJA9sVH7Ghs7gCOakwIihqoYRlZ9JChhv6RMS4Lhp/zlGl0bBpU+gBwTVUJR6rp3fwwM7oorVkZBHyahiK7+sISVhMHjaJKPjkgJuTtp30hHL6HNYLE2rXRwqCiLxvh4LQIzR3pdbSfvMpIpliaFrzIpwHzPNvsPkss=;aAiS6gJ/CU8x/oDbHRIkmA=="
 ---
 
