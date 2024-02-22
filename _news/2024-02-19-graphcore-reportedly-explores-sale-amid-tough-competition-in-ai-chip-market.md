@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "British AI company Graphcore is trying to sell its accelerator business, perhaps to OpenAI"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: AI algorithms are spreading rapidly, and the demand for GPUs and other specialized chips designed to accelerate AI workloads is continuously increasing."
+    publishedDateTime: 2024-02-20T13:41:00Z
+    webUrl: "https://www.techspot.com/news/101948-british-ai-company-graphcore-trying-sell-accelerator-business.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 61
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-20-image-18.jpg"
+        width: 2308
+        height: 1299
+        isCached: true
   - title: "AI chip maker Graphcore in talks over £400m sale"
     excerpt: "Struggling UK AI chip maker Graphcore is reportedly speaking to potential buyers over a sale that could value the business at over £400 million ($504m). The company, which has sustained heavy losses in recent years, is in talks with larger tech companies ..."
     publishedDateTime: 2024-02-19T00:00:00Z

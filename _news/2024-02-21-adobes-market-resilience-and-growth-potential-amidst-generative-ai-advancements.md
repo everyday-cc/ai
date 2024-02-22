@@ -67,15 +67,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "What Are AI Text Generators? 8 Best Tools To Improve Writing"
-    excerpt: "Learn the various types of AI text generators and how they are transforming content creation. Unleash the potential of AI text generators in automating crafting copy."
-    publishedDateTime: 2024-02-17T19:01:00Z
-    webUrl: "https://www.forbes.com/sites/technology/article/ai-text-generators/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "How RAG makes generative AI tools even better"
     excerpt: "Patrick Lewis, a natural language processing research scientist with start-up Cohere, originally coined the term RAG in a paper published in 2020. Lewis pointed out that LLMs cannot easily expand or revise their memory, and they can’t straightforwardly ..."
     publishedDateTime: 2024-02-20T11:00:00Z

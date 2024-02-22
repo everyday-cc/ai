@@ -66,6 +66,20 @@ related:
         width: 720
         height: 456
         isCached: true
+  - title: "Corporate Use of Third-Party Artificial Intelligence (AI) Tools"
+    excerpt: "In this podcast he shares that a great deal of risk comes from the headlong pursuit of AI technology. Businesses believe that if they are not using Ai that they will be left behind, but the adoption rate is not being matched with a complete understanding ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/corporate-use-of-third-party-artificial-86131/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 52
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15992_1015.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
     excerpt: "So, here are two AI stocks that could set you up for life. Nvidia has become a Wall Street darling since the start of last year after snapping up an estimated 80% to 95% market share in AI graphics processing units (GPUs), the chips necessary for training and running AI models."
     publishedDateTime: 2024-02-21T14:20:00Z

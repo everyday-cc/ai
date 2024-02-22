@@ -18,20 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "AZmed Secures €15 Million to Shape the Future of Medical Imaging with AI"
-    excerpt: "AZmed plans to help overcome the obstacles doctors encounter when managing increasing workloads and providing timely, accurate diagnoses. In 2019, AZmed's AI software became the first ever to obtain CE marking for fracture detection on X-rays."
-    publishedDateTime: 2024-02-20T08:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964232.htm"
+  - title: "Why this startup is betting on AI-powered tech to predict your future"
+    excerpt: "Astroyogi, a spiritual technology startup, anticipates growth from positive response ... we aim to create more immersive experiences to bolster user engagement. The integration of AI and ML technologies is a pivotal aspect of our investment, enabling ..."
+    publishedDateTime: 2024-02-22T18:46:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/articleshow/107923269.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/amp_articleshow/107923269.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/amp_articleshow/107923269.cms"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/2342628/AZmed_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://static.toiimg.com/thumb/msid-107923269,width-1280,height-720,resizemode-4/107923269.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "This ASX 200 share is predicted to benefit from AI demand for years"
+    excerpt: "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More Of course, no company is guaranteed to do well just because it has a connection to AI. For example ..."
+    publishedDateTime: 2024-02-18T21:59:00Z
+    webUrl: "https://www.fool.com.au/2024/02/19/this-asx-200-share-is-predicted-to-benefit-from-ai-demand-for-years/"
+    type: article
+    provider:
+      name: Motley Fool Australia
+      domain: fool.com.au
+    quality: 19
 
 secured: "Nsn7OJc9rgtQaa3/kvOSrJUKwJqx4mp56de68nmQppUXhe+5QyfsCc2ahywF8MSm+7oTnh6jiUAXlcEzStTo3k6fSwaRyonYQqzf4mU56scDzJeDzBiGx1omRnBXGJAW7zdLuSwMhLPj/jPb2j0nttT4+rWPacfv4I8McSju3vMsmAFtXdVMGAkEexsoHavruYKrvccNAUb1bPDizPqEQIwb2h3+ckNf/jqQqAZPKC4QEdaZ7o1UHuuagoY9ki+HjCF/ttw1FYe0SdsH2ngh7554GAMue8SXPdH7ErPR6ecEewKm7eBdK30+R6E+pblqXAM9N+9nx2a/0uVfJ2QmikYETWdgVTnAKU0TIazGrdi2EI8Fk//LFwmHPkbUTi4tK7NSsKOnBNCoQa8KqosbjhFDi5DeGeegbgVgVpZCHKTuSfpijlB/ecVh0ladmjuEGpAtX4RuM/Fs5n/XIO+VXBT5EGPWuJHvT4l67m9xfxOIhyYCfisTcPYuqLvsr8H76kLj39EHFS25m9ew+CSLHQ==;LksE56mK6tIlC21Ds2/OIw=="
 ---

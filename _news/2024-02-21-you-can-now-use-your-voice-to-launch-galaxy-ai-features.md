@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-
 webUrl: "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Samsung-Bixby.jpg"
         width: 1000
         height: 720
+        isCached: true
+  - title: "Samsung is bringing these Galaxy AI features to older devices"
+    excerpt: "At its core, the tool essentially adds a translation tool to any phone call powered by AI. When speaking to someone who understands a different language, Live Translate will translate and regenerate your voice into that language. When the other party ..."
+    publishedDateTime: 2024-02-22T18:13:00Z
+    webUrl: "https://9to5google.com/2024/02/22/samsung-ai-features-older-devices/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/Galaxy-S24-Generative-Edit-example-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "S6ayjo3X8iIf5CWMcS+xNjGqEer4BPWj5WWSwRfbxtOmRGPeyhS8GO2CDnCH/mEJgPuX96kDSVfwXWxUGnZhVGq3nTHr2j7GT5TUs9KkmNx6Gs/HhWd9ouPTPHtY4LMLeq6ila/O0fEn94S2kciyyaneNW2JUBMRRb58U3/9tfVH/63DJuhd9m/mQTp9PLNyWLH9xF94ro9SjsIPgK5Au2QNUHeHpXg2JnS9jWM+Rcx87/mU7CJ0Ag6uFsYnHxd0Sc3QnKf+dOrBH1HBNquqipNMk1MOkdbw4Wuj+RdOmc/oozhHLr+Hv9uZfGriyxOrA39ysfglezKo7sBDjXmd0CDxW9ZQvqcApXtRbjRDLbF3oT37oK/bmSnRvoDClI+4Mc4Qp0FWbOUEPqjJ1JtHbdLxlNfV/jtdazY25v7NixhMndZ4NdKwhckd0S/WWP8U96VWcoxE+lvbF09i5V3Rda5mFsH6GWkzRXi8bM5ECUySRTsblDT5uCXRezzqbORcphrQC/BIde1joLpIN/nUxw==;ZV5PjgwlF/nHrUwINGQwuA=="

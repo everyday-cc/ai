@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/information-technology/2024/02/your-reddit
 webUrl: "https://arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Ars Technica
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Reddit Is Licensing Content to an Unnamed AI Company"
-    excerpt: "The moves comes after Reddit irked developers by charging for access to its API, in part because large language models were scraping its content."
-    publishedDateTime: 2024-02-17T18:57:00Z
-    webUrl: "https://www.pcmag.com/news/reddit-is-licensing-content-to-an-unnamed-ai-company"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03Hyh2PyimAsnt28T5jQSB3-1.fit_lim.size_1200x630.v1708196194.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Your Reddit posts may train AI models following new $60 million agreement"
     excerpt: "On Friday, Bloomberg reported that Reddit has signed a contract allowing an unnamed AI company to train its models on the site's content, according to people familiar with the matter. The move comes as the social media platform nears the introduction of its initial public offering (IPO), which could happen as soon as next month."
     publishedDateTime: 2024-02-19T21:10:00Z

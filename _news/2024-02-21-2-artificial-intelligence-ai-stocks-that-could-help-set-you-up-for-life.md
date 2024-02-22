@@ -61,6 +61,20 @@ related:
         width: 720
         height: 456
         isCached: true
+  - title: "Corporate Use of Third-Party Artificial Intelligence (AI) Tools"
+    excerpt: "In this podcast he shares that a great deal of risk comes from the headlong pursuit of AI technology. Businesses believe that if they are not using Ai that they will be left behind, but the adoption rate is not being matched with a complete understanding ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/corporate-use-of-third-party-artificial-86131/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 52
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15992_1015.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "My Top 5 AI Stocks"
     excerpt: "2024 is getting off to a hot start. The major averages are up nicely, with the S&P 500 and the Nasdaq composite up by about 5%. Moreover, these advances were over significant gains last year. Thus, it should be a solid year for many high-quality stocks."
     publishedDateTime: 2024-02-20T08:25:00Z

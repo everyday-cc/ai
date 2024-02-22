@@ -155,6 +155,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
+    excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"
+    publishedDateTime: 2024-02-20T18:23:00Z
+    webUrl: "https://menafn.com/1107875740/FinAI-Conference-Announces-A-Groundbreaking-Event-Focused-On-The-Convergence-Of-Fintech-And-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145749"
+        width: 416
+        height: 250
+        isCached: true
   - title: "Leo Wang, CEO of Duotech, Addresses Impact of AI on Fintech Industry During Chinese New Year Speech"
     excerpt: "Leo Wang, CEO of Duotech, delivered a captivating speech during the Chinese New Year festivities, shedding light on the transformative power"
     publishedDateTime: 2024-02-22T09:05:00Z
@@ -248,6 +262,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 0
+  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
+    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
+    publishedDateTime: 2024-02-19T12:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 0
 
 secured: "HQr9D5caATzkPi/bX7QO+4mHB77ZBi2wPAK/ewuJ+ZIXiz/okpqII7SrSN9zg+dXkUCQkfZQJsZh24Z90CU3wGbIZr0fFcdxvmzkeLh9ieQCGLBbk2wx71Ylo4WfxBErePf4QvQwR/vi/8t5QGoYy5F7wbFiNyk8XOcDQUpXB6TtxqaaUIRsIDs/V/xU575Ck8+FkNybMDbDTDauG35eC+3ILgTyYDiZNlZ7H2g5OfQi0Bir/+UFmjQp2vJe6DE0/BZP9GuKLoDW/p1lV4rkIerARGdBf4DpN+6keYLfUOmvVz/R2Wscp8lO9USmHtQrndcTmEJwhH6MTE+jl2KQyT9xz7mhNzEVwT84Qs1+O7o=;lkamZN/mSxhqvKQNtZ7lYA=="

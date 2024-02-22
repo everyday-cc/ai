@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "A self-driving car ride"
+    excerpt: "The future car is likely electric, shared and self-driving. You may have heard this statement before, but the truth is, it is not a car of the future; it is here today."
+    publishedDateTime: 2024-02-22T17:12:00Z
+    webUrl: "https://www.business-standard.com/opinion/columns/a-self-driving-car-ride-124022201286_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/opinion/columns/a-self-driving-car-ride-124022201286_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/opinion/columns/a-self-driving-car-ride-124022201286_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 24
   - title: "Self-Driving Cars Demand Caution, Not Complacency"
     excerpt: "Autonomous vehicles, often referred to as self-driving cars, have rapidly emerged as a groundbreaking technology in the transportation industry. With advancements in artificial intelligence and sensor technology, autonomous vehicles hold the potential to ..."
     publishedDateTime: 2024-02-22T16:06:00Z

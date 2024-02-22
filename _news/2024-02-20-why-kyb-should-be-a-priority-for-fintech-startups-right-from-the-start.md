@@ -163,6 +163,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
+    excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"
+    publishedDateTime: 2024-02-20T18:23:00Z
+    webUrl: "https://menafn.com/1107875740/FinAI-Conference-Announces-A-Groundbreaking-Event-Focused-On-The-Convergence-Of-Fintech-And-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145749"
+        width: 416
+        height: 250
+        isCached: true
   - title: "Leo Wang, CEO of Duotech, Addresses Impact of AI on Fintech Industry During Chinese New Year Speech"
     excerpt: "Leo Wang, CEO of Duotech, delivered a captivating speech during the Chinese New Year festivities, shedding light on the transformative power"
     publishedDateTime: 2024-02-22T09:05:00Z
@@ -247,6 +261,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 0
+  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
+    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
+    publishedDateTime: 2024-02-19T12:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 0
 
 secured: "PfILyfwPy8id29knokvXjexZDgzI2/NSceVU9A/AeLl6S8UDXxP+/PMJ9QnpbQF4LnUJWd2VubIVZrbC5lWEg9/0T+EoEO5T8YaoPsXLI7m9yNPollIg613Mb4tZ2QdzcGiQucW7hfWYs6QeJSD6g8KmLcHzo3hv/onKS0rpRndIz3Ano4mfEe363b/aXgR9+kU80vasCYgQ2c99W2KwmD3yH+83Vm8gsnzirL4nTtKNUEu7IAPkJ7snCWcOpnORjz0q0AFmlhNByVlOoioB/fyzg4yigfjII5kxtqyqcS7q8A/zyFGKV0LS5zh8EMYwITEff0soseRQC27KNal0JiQ+v0yQcU5oahWYH2L9Gh9T3QCzjv6UcqfsXq6ErRR59mb01hYlI6djlCm4dQ4B1qE482h4YSogxksWpJtlmcC7Z7MEKRa9UsQ4zPflijWohNQzHAgHkl6u1k7lwyDwjT0V/RlmGg740PN2gplo1aHnS6zSL1ldpgWA+ccuSZRKsrUZB7JDRyU8okwp7WxeCg==;GCEz5IB3Fge/JtcUxkz47g=="

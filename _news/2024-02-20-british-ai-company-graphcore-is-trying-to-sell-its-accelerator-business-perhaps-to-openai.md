@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/101948-british-ai-company-graphcore-
 webUrl: "https://www.techspot.com/news/101948-british-ai-company-graphcore-trying-sell-accelerator-business.html"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: TechSpot
@@ -30,45 +30,34 @@ images:
     isCached: true
 
 related:
-  - title: "British Business Needs AI Workers And Fintechs Are No Different"
-    excerpt: "Scott Galloway said \"you are not going to lose your job to AI, you are going to lose your job to someone who uses AI better than you do\" and this is true in fintech too."
-    publishedDateTime: 2024-02-17T17:29:00Z
-    webUrl: "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/"
-    ampWebUrl: "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/"
+  - title: "AI chip maker Graphcore in talks over £400m sale"
+    excerpt: "Struggling UK AI chip maker Graphcore is reportedly speaking to potential buyers over a sale that could value the business at over £400 million ($504m). The company, which has sustained heavy losses in recent years, is in talks with larger tech companies ..."
+    publishedDateTime: 2024-02-19T00:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-maker-graphcore-in-talks-over-400m-sale/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d0e9645eedf8898b975311/0x0.jpg?format=jpg&crop=2911,1636,x31,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 899
+      - url: "https://media.datacenterdynamics.com/media/images/Graphcore.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
-    excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"
-    publishedDateTime: 2024-02-20T18:23:00Z
-    webUrl: "https://menafn.com/1107875740/FinAI-Conference-Announces-A-Groundbreaking-Event-Focused-On-The-Convergence-Of-Fintech-And-AI"
+  - title: "Graphcore reportedly explores sale amid tough competition in AI chip market"
+    excerpt: "U.K. artificial intelligence chip startup Graphcore Ltd. is reportedly exploring a sale as it has struggled to compete with the likes of Nvidia Corp. in the booming AI chip market. The Telegraph reported Saturday that Graphcore has been discussing a potential deal with major tech companies to raise new funding to cover heavy losses."
+    publishedDateTime: 2024-02-18T23:49:00Z
+    webUrl: "https://siliconangle.com/2024/02/18/graphcore-reportedly-explores-sale-amid-tough-competition-ai-chip-market/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 27
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145749"
-        width: 416
-        height: 250
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/graphcore.jpg"
+        width: 500
+        height: 261
         isCached: true
-  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
-    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
-    publishedDateTime: 2024-02-19T12:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "Atv/uGVuH3JnGGCIyb17JbALLcuLjqlQ7hUTp55wIgaLOfVXeG5nqqgjDGrvaESz97POZfdFwyN7DHJBIWxV0sf/a3FI3unoPA6zuzTKSdnCo95amjVdjM8vQfJufWf7bqdg+F3Ikl/nedW5Cbu3dL1tPSXFm5asHETueG9zSnGwTsmbLtgZD/T0vBqD7kuz9nJ7uIEvP8vnJLi7B1RgZEYZMVfX/tfhDQ0w6sTVXocQmP24L9zgorfEMabxeyS+41Q3LMGj3iczRdYtURrKSeJjrCpk7m3oDHN/ok7aveanuY0SLAvxdl+NtST5unA6uA5XNC26ZN5J00TBAl9pY5kYwklRU+fu2UiHxN9hH5+uNUYFSWvydqU4o/gyUfsP2b+CAdPT+DsEPloFcgTqWGmQ8P23mlQP9e0vq//rw/fzlSRlPrO4oUqxTAy3eoTF1gM42uqfT8ZAy3n7qJcFv4fAuuwDUazcI3fH/fna7yLrsdig6RqLXdEoAygNM0mwR4p1vR7xcZh8PNPy6GzDVQ==;sCLXnE67vIeOMBm8bQK7gA=="
 ---

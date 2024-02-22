@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Biden administration seeks input on rules for open-source artificial intelligence"
-    excerpt: "The Biden administration is seeking input from experts on what sorts of guardrails are recommended for open-source artificial intelligence models. The National Telecommunications and Information Administration announced Wednesday that it is seeking ..."
-    publishedDateTime: 2024-02-21T10:10:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/2866026/biden-administration-on-rules-for-open-source-artificial-intelligence/"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 32
-    images:
-      - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2023/12/ap23303701688356.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "White House wades into debate on 'open' versus 'closed' artificial intelligence systems"
     excerpt: "The Biden administration is wading into a contentious debate about whether the most powerful artificial intelligence systems should be “open-source” or closed."
     publishedDateTime: 2024-02-21T19:21:00Z

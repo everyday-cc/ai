@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chrome gets a built-in AI writing tool powered by Gemini"
+    excerpt: "Google Chrome is getting a new AI writing generator today. At its core, this Gemin-powered tool is essentially the existing \"Help me write\" feature from"
+    publishedDateTime: 2024-02-22T17:01:00Z
+    webUrl: "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/"
+    ampWebUrl: "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-981522310.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google replaces Duet AI with Gemini for Workspace, brings Business and Enterprise plans"
     excerpt: "Duet AI customers will be upgraded to the Gemini Enterprise plans automatically. Gemini Enterprise comes with language translation for closed captions in AI-powered meetings. This means that Gemini can translate content in over 100 language pairs."
     publishedDateTime: 2024-02-21T16:38:00Z
@@ -173,6 +189,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-3.jpg?quality=82&strip=all"
         width: 1600
         height: 816
+        isCached: true
+  - title: "Google Pulls Gemini's AI Image Generator After ‘Woke’ Photos"
+    excerpt: "The company is pausing the tool after it created historically inaccurate images such as Black Nazi soldiers and Native American U.S. senators."
+    publishedDateTime: 2024-02-22T17:10:00Z
+    webUrl: "https://www.thedailybeast.com/google-pulls-geminis-ai-image-generator-after-woke-photos"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2813,w_5000,x_0,y_349/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1708621771/GettyImages-1848351879_rpbysy"
+        width: 1480
+        height: 833
         isCached: true
   - title: "Duet AI is now Google Gemini, ready to help in Gmail, Docs, and other Workspace apps"
     excerpt: "Continue to check back with us as we will be adding more information as it becomes available. Google Bard is now Google Gemini. Google Assistant is in the process of being replaced by Google Gemini. If you're in the Google ecosystem, it seems there's no ..."
@@ -290,6 +320,6 @@ related:
       domain: androidheadlines.com
     quality: 4
 
-secured: "hvUkWRmJ2Wo2S8bYuPG+3VDe1cZATOqF4bNr6tTX4x4DA/uhvj6AcZFGBonG6oj8Oab3VkPV237BW1nHbFzDb532BEGgWn1v6pYdBRC2jZglsYjN/4YhXSIOC9PJHmFlB6g17R1rtxTmD1DGk+mJcig5rHrJRZJkuEixqaisGHJc6UNTWgiRoTkFK8Znuj28o6vpt2ZfwmQmJ6IRZq52y9KGWXkBOhhPrVx1LbtnFyhdtDxxg74Pn152mtAx7rs6lOQWQaLtvzL5MDYQ7blu+UWgg4S+RMZTy4dn2UmaYU+tghz0i4ycQGzBXTAHi0SSHGGkUwL+DAR082ofqVIKpeIazEGID2cgK5YQaEIJdnU=;XEd+jKbpdIpnEPHblbvsFQ=="
+secured: "6Lb7W4W2+vsp4vlCmSXKAYZaXhdoBbohooz/WM+3xeJvlZNjbTfGMieUqmaQWGyG4EttYKO1ODBBvoWFvgcATrg4aEcf8exQpq5IxIio1jTPQWxiogtLDQ+PTu4RMIFW9GjZgubfsTaGErHPTZ6sS0mXKspWNNVn1rBuvmpLVaQw2gbyStvjV4PK8DQN64R+80hlaOn80YsDZKJ7gXgzidlAK1QjAiwaCefpMo9UuE7iH9ZZ/dv4Asf6Fg9JFs6ogZf2VHubgNJXp/xNr4ECtSIIAbBDObcZ/qCZI0r1pV44S3ak65a1Z+RWr+xp4VVE86FOYtAXzREN+/uyPEK/rzmi89jzzAq0Duu75PXO4iWqlZjrSlwa2QGaOsVHWV2v3hE/7xxOHz8N9/nskHqWUUttvP8xYAQePYB3M0rl6EIPlSWLvwog8oW5KFMlbwH5YyFjHLPA9h5F5X29CkHJha4gv9+WpucpA87i3RQn6zdHYd93wt7YXlPx/XrC5Nvz5AK+dgA6C6IPmwxjEYiwmg==;t1rH1/dCe9ivQvi0bCYZdg=="
 ---
 

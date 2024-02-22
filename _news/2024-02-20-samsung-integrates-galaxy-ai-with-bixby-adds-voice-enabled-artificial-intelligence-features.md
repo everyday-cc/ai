@@ -54,6 +54,20 @@ related:
         width: 1000
         height: 720
         isCached: true
+  - title: "Samsung is bringing these Galaxy AI features to older devices"
+    excerpt: "At its core, the tool essentially adds a translation tool to any phone call powered by AI. When speaking to someone who understands a different language, Live Translate will translate and regenerate your voice into that language. When the other party ..."
+    publishedDateTime: 2024-02-22T18:13:00Z
+    webUrl: "https://9to5google.com/2024/02/22/samsung-ai-features-older-devices/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/Galaxy-S24-Generative-Edit-example-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "MgtmSUjTvKpbyL1fejZIhq9PZuVNCVXLHM0ablc4KygZKi8Zp3i0cDxIRL1/py/Kr0cExtmadvyNJd1SaSql942kV+jAPvMEwDbumxlF2LMTE1CNvX8ijDIfxyuQRwptzaPiZEGbqOqTSLeRYeuJQkF4dHDO4w5Q8qkuDN51Z2r3p9+lgbIYa56mQTmqbaIFwVdCfhDpCaVHUYhfRf2eTSd8VcFAyx5P3aqYb+JaD/JbE2Bdj0EJIrrIgsHUpCoe5gKnN2Ll9ss2QUPxQ2/bvoQRuErimmyB9TFX3CryCaQHRCLc/fneSc9socMMyM6jucbVWStDExnhIC2vA+htFjiLv1FLhznQanw+DApvrETddFf6l3XT8b4J3UWE1BisSWmhL2caRtY2mJh5GTXHyOHunzwfsGV3jEe1yQyKRlaUMPkK1n/9bZdnxjbklLB4WrBu205jDY6owpw2xOrMCV2kJ5JqDI/FAKUzltYYPABUUCtAE+Uf/nVFqxTGgVaUiW9UemtInj0jgH9gvV5VWA==;X3LFoSUIA1lCDegOdPlyVw=="
 ---

@@ -24,49 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration enters debate on ‘open’ versus ‘closed’ artificial-intelligence systems"
-    excerpt: "President Joe Biden signs an executive order on artificial intelligence in the East Room of the White House in Washington on Oct. 30, 2023. The Biden administration is wading into a contentious debate about whether the most powerful artificial ..."
-    publishedDateTime: 2024-02-21T18:33:00Z
-    webUrl: "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1"
+  - title: "Open AI powered Web3 App AGII To Support Sora AI Text to Video Model Integration"
+    excerpt: "February 20, 2024) - AGII, the Open AI powered Web3 application, announces the integration of Sora AI's advanced video modeling capabilities into its platform. Powering the next generation of AI innovation!"
+    publishedDateTime: 2024-02-20T06:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/open-ai-powered-web3-app-agii-to-support-sora-ai-text-to-video-model-integration-1033081651"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
     images:
-      - url: "https://images.mktw.net/im-66491774/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Intel wants another $10 billion from the CHIPS Act and Biden administration"
-    excerpt: "Intel has reportedly demanded more subsidies from the Biden administration under the CHIPS Act, as it ramps up new facilities in the USA."
-    publishedDateTime: 2024-02-20T04:08:00Z
-    webUrl: "https://www.tweaktown.com/news/96316/intel-wants-another-10-billion-from-the-chips-act-and-biden-administration/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 37
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96316_145_intel-wants-another-10-billion-from-the-chips-act-and-biden-administration_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
-  - title: "White House wades into debate on 'open' versus 'closed' artificial intelligence systems"
-    excerpt: "The Biden administration is wading into a contentious debate about whether the most powerful artificial intelligence systems should be “open-source” or closed."
-    publishedDateTime: 2024-02-21T19:21:00Z
-    webUrl: "https://www.click2houston.com/tech/2024/02/21/white-house-wades-into-debate-on-open-versus-closed-artificial-intelligence-systems/"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 31
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3FDNSIUQINBPPH5NDD5L6QWOT4.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
+      - url: "https://images.newsfilecorp.com/files/8833/198415_77_550.jpg"
+        width: 550
+        height: 309
         isCached: true
 
 secured: "73NN+sHt/PGUj+MN0iZX71qbP8VnnPiz5BOF0k5wXD0aZNaOu2YZdFf9Ni4bEQcyH9A4Y/N2kVTrfdJkF9NFOzAYFjcBME43e7gFKxSoRmMRyyLiqCIxfdcBQ1laXhIf9Tw+deJUoHI7XqKRrq9uLilisJhY8890q1M/SEellk0RtykExbiX9uCCKV54ZDW3TyPboprKd7BkgaicDFGrnY0lWXycFqnCsLN3v1P2keNutELpTNBooBPcsmhy8PDuce9FTgGB+hR7cfxoSpmwqvYvxqdAKfE2qVZjwecIvJJb6jegSUC5r2WGD61oGQEuWaycE+gUbaXX/H9Cc37gvjW/9WpoTXvqmbaIHVscpLlnaVSP1JHu4irvctXpKH+uhBtw3T2EFWZWQi88Syrn9ih67ItuIXX5fJExDvObIicVDbpPVaUFBh8RHFCFY3rw0moJVbh/nOhFY6dvXASEWkquxl88+e8VD6hn/D7uXBhIYLvr6x1UuJ0N0KbFOFJeyLSD+E6m+Z3owpuXG8xTgQ==;9+/Gd+wXZeOHaLgTh7G+Vg=="

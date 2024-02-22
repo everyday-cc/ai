@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/hear-your-imagination-elevenlabs-to-lau
 webUrl: "https://venturebeat.com/ai/hear-your-imagination-elevenlabs-to-launch-model-for-ai-sound-effects/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "If you thought Sora was impressive now watch it with AI generated sound from ElevenLabs"
+    excerpt: "Artificial intelligence speech startup ElevenLabs offered an insight into what its planning to release in the future, adding sound effects to AI generated video for the first time. Best known for its near human-like text-to-speech and synthetic voice ..."
+    publishedDateTime: 2024-02-19T00:00:00Z
+    webUrl: "https://www.tomsguide.com/ai/if-you-thought-sora-was-impressive-now-watch-it-with-ai-generated-sound-from-elevenlabs"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 29
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/mFtgTn7sbFRH7hsCYS3DN8-1200-80.gif"
+        width: 426
+        height: 240
+        isCached: true
 
 secured: "ft/XgJGIr/RY/xxx/RSFBftkZ4KA5Y4LUsuvxNUgi1I+te42nOhaJ/UDI4/CDbBwz/I9qd7gmTS8/jZGtwweLkwAggwymFEEe4NLYyQ80qJuCaPJ2uTPssC7GRW36lhik/pe52WmduUE3rADn92dKzpkMVgOVVqfBm8ZCioZE4doqzHOFKCHguWjJOOSvih7mbYfehsnzBcueF+TVt5g2Eizcq8ML23IBrHGeLBbjfF7ghf3tPw0d9uVC2xH+N7Mc7lnsckgjq6UhvwKnwfcj3onUdRgYh6QXwLVmBaMpZNV2pn5k8k35nJJ99DSoWtmNmrz8HA0W29X/+oAn84ZbcgkttD58/thqrvn52UWbMGUXrzIOz6hEJcvagI/OG1GlxVNA58KVLZeL/E8k8DSmyKcVVEgqXepE72EH8h5/zSzPbOrHM0r0HUG0wU8mfrLOXj+8O0WaMI0JZzW3p4Hj7tZw9KyuRCjf4jUiOdOiR4TLkE0+7eiaHyCw10zZMW+9Vxihnx4uPK1lzP1Hk/c9A==;srIJ9JcD6rLabSOU+Rj1pQ=="
 ---

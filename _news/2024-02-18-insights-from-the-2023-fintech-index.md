@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/"
 type: article
 quality: 74
-heat: 254
+heat: 274
 published: true
 
 provider:
@@ -159,6 +159,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
+    excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"
+    publishedDateTime: 2024-02-20T18:23:00Z
+    webUrl: "https://menafn.com/1107875740/FinAI-Conference-Announces-A-Groundbreaking-Event-Focused-On-The-Convergence-Of-Fintech-And-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145749"
+        width: 416
+        height: 250
+        isCached: true
   - title: "Leo Wang, CEO of Duotech, Addresses Impact of AI on Fintech Industry During Chinese New Year Speech"
     excerpt: "Leo Wang, CEO of Duotech, delivered a captivating speech during the Chinese New Year festivities, shedding light on the transformative power"
     publishedDateTime: 2024-02-22T09:05:00Z
@@ -252,6 +266,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 0
+  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
+    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
+    publishedDateTime: 2024-02-19T12:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 0
 
 secured: "5Nm+QiZzXZgt6nFtg9IsSq1lD3sZvdvJZPxNZd8AmOHiOqKAUbJYElhQ8ALxOms0dJBkjmkDgfg2tdDVhDhds/q8t5LR68OEBu5IxYgaKkO4G1ZhxWMw91W9oXUDanUCh1VOvd+Qff1254UTlToNFpuUID7ot8Kwpl7UnIp41qwy7U1LeZEheiMrUwY/It4z9LVMJRkk3sHQKKFNA5WOntBXmWNlog8rZEjhhFCFvA72OwBa6rqIqO62ilH3mw1YLjR0femugI11Ibx8JqtfJwMxW/XDIcx6r9Wj2TUXAZ/U+Dpfnt+UlMI9gjrUlW4lgSfDMnZdTfdvcx+pFnnTGSF0+ZDzSlc0VY6G9+khBcnO8Cl7ooNLZR+tRur9x+btI/Qzjknt3chZaOnxjyHgXzeNnDxK4SDzZVlBZWR1oLiJVDly9kNg4mFwWt0LiXxP7NfR/0LQZLCL/h8Q9txFFQ1sWWum2M22m9trVGPIPMlfW4Z4tWl4jLbno2sfhopJ6pRm1PHGo4qsc0vNzIx38A==;9XVaV5+FHBDHlpK8UsXo+A=="

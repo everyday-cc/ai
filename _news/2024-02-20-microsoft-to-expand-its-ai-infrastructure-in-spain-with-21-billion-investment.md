@@ -53,6 +53,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Microsoft Inks AI Chip Manufacturing Deal with Intel"
+    excerpt: "Microsoft in November announced that TSMC would be behind the manufacturing of the Microsoft Azure Maia AI Accelerator and the Microsoft Azure Cobalt CPU – both internally developed chips aimed at Microsoft's cloud datacenters. It's unclear whether Intel ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2024/02/22/microsoft-inks-ai-chip-manufacturing-deal-with-intel.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 71
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/semiconductor1.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft to Use Intel for In-House Custom AI Chip"
     excerpt: "Microsoft CEO Satya Nadella revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
     publishedDateTime: 2024-02-21T17:21:00Z

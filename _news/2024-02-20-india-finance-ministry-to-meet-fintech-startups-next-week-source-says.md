@@ -158,6 +158,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
+    excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"
+    publishedDateTime: 2024-02-20T18:23:00Z
+    webUrl: "https://menafn.com/1107875740/FinAI-Conference-Announces-A-Groundbreaking-Event-Focused-On-The-Convergence-Of-Fintech-And-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145749"
+        width: 416
+        height: 250
+        isCached: true
   - title: "Leo Wang, CEO of Duotech, Addresses Impact of AI on Fintech Industry During Chinese New Year Speech"
     excerpt: "Leo Wang, CEO of Duotech, delivered a captivating speech during the Chinese New Year festivities, shedding light on the transformative power"
     publishedDateTime: 2024-02-22T09:05:00Z
@@ -251,6 +265,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 0
+  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
+    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
+    publishedDateTime: 2024-02-19T12:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 0
 
 secured: "Lg+OsV+HTrQCzfRyksq59aml1b39wt2x90Ipgg9GrAAKlPVT5tpEI2BZXVA686S1jBpOGbDWeLnvw5W9yXWPGs2VX0yPm4pYYk0odjzGT/63gxxyAP1WPdukwHkbQSziX8+FvhqXzOx/owlHS9rJEjAuS7vR0d6t9cYS0CkmQ+FCc0bM97oB11p07LJ1FITl/ZTbEeSl3ejSJR2c+gcCMYuGq3cgnrudzAMDI5//e/e5qnUE5DY0fMaEyqVhSqhfAuQ6/8whpHdposdzr4t2bR1Xg4mWQj5OdiwJxfMS5vzc13Feum3Uxe62dPdWpAOXDiG/WlWhD+qyglwisfl8/IEdu2xXXKEwYVjAfF0gCYY=;jU+q2pjIgfgJgc9l16lVVg=="

@@ -169,6 +169,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
+    excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"
+    publishedDateTime: 2024-02-20T18:23:00Z
+    webUrl: "https://menafn.com/1107875740/FinAI-Conference-Announces-A-Groundbreaking-Event-Focused-On-The-Convergence-Of-Fintech-And-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145749"
+        width: 416
+        height: 250
+        isCached: true
   - title: "Baron FinTech Fund Q4 2023 Shareholder Letter"
     excerpt: "[1]The FactSet Global FinTech Index™ is an unmanaged and equal-weighted index ... well positioned to capitalize on increasing adoption of artificial intelligence ('AI') given its vast data sets. The company recently launched Intuit Assist, a generative ..."
     publishedDateTime: 2024-02-18T10:15:00Z
@@ -248,6 +262,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 0
+  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
+    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
+    publishedDateTime: 2024-02-19T12:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 0
 
 secured: "CosBCHkYev6SwSdoDQmhs4i0ShK39h/yt1xDdsewaWfrZxmRFx3/EO84xPE6uYU5DFjXNXHCR1x8Rp6Tp7lV67+XIBp2uiXdDvpBZRUtcuXS9GtH8NHFD0e6Pn8pmXRGQcMaATN6dztRpdWn0oGbieFXbDkm7jJYBipmp8JE/hxk/4cdj1e3u7odDrsxg2qANZXb4V/t2/LZ8s6cb91E4/v579DxGs12a2/g6ycVfARLm3D3Mzg3j5qOr3qlVigPaOphdpALfLwWMuoz6uoBd2INfvS0DnkEWSOTcHIaRu6x4oT3b+wZ7768bN6PkN/3UNN/pwXgmHwemK3w4Rrx0cOeXGs9IJ52AiLc4rQ5oD6D+62BNsUCPoUYKICUMXLoy5WhzSmW9Tis0ka0ZQeJ/PLpub+VydsucdKazsW1n7d+HAJGiCkfkIszzSaWT0ABBt+cknJT3+89nJTYdHAy80KCrXP3xEGTSkQY+HOsg1SRTXV5tP+vYL2+oamwb7F5XhwbcnoC9yUPCtysZ+Qb5g==;sqeVAR97jqWeCO967NgYyg=="

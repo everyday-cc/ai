@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/explainers/how-is-india-ramping-up-use-of-
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html/amp"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:

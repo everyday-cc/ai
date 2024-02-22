@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-maker-graphcore
 webUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-maker-graphcore-in-talks-over-400m-sale/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "British AI company Graphcore is trying to sell its accelerator business, perhaps to OpenAI"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: AI algorithms are spreading rapidly, and the demand for GPUs and other specialized chips designed to accelerate AI workloads is continuously increasing."
+    publishedDateTime: 2024-02-20T13:41:00Z
+    webUrl: "https://www.techspot.com/news/101948-british-ai-company-graphcore-trying-sell-accelerator-business.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 61
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-20-image-18.jpg"
+        width: 2308
+        height: 1299
+        isCached: true
   - title: "Graphcore reportedly explores sale amid tough competition in AI chip market"
     excerpt: "U.K. artificial intelligence chip startup Graphcore Ltd. is reportedly exploring a sale as it has struggled to compete with the likes of Nvidia Corp. in the booming AI chip market. The Telegraph reported Saturday that Graphcore has been discussing a potential deal with major tech companies to raise new funding to cover heavy losses."
     publishedDateTime: 2024-02-18T23:49:00Z

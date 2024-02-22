@@ -155,6 +155,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
+    excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"
+    publishedDateTime: 2024-02-20T18:23:00Z
+    webUrl: "https://menafn.com/1107875740/FinAI-Conference-Announces-A-Groundbreaking-Event-Focused-On-The-Convergence-Of-Fintech-And-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145749"
+        width: 416
+        height: 250
+        isCached: true
   - title: "Leo Wang, CEO of Duotech, Addresses Impact of AI on Fintech Industry During Chinese New Year Speech"
     excerpt: "Leo Wang, CEO of Duotech, delivered a captivating speech during the Chinese New Year festivities, shedding light on the transformative power"
     publishedDateTime: 2024-02-22T09:05:00Z
@@ -248,6 +262,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 0
+  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
+    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
+    publishedDateTime: 2024-02-19T12:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 0
 
 secured: "JP3EsSh6q2D60QunQ/59iv3/bMdgKCK183Ypy75uLqeOchsRF5UZaFiTd6WTxaku2D77+iJyTfcF0mvq8GZ9A0d2ivJFxSNLaeZuUGdTjvxhQaVFmL8+XYq14T2CaNB+SUjer1f9nQTCUvDrqYRUQHgQOu/z2iA/s5JN2FI7c/xlsrYgvSqx6WBVpE091k84S03C/r2huHxQxeQhJCPBVqjpiAqio5D3f86daFNNIwzJNWWzNorVM22VnjhZ9v9HBlOZaltqJxr/E098agsaFqUEWzQO08idw1bZ6AfxbhaMR+2N/hWdilCC4uN/nRprhviQ2uE27z3smjVYe3s5g0faN/MQAm+fODtnXtfAVME=;MsxAzDyPxBeyPnyBdbd4jQ=="
