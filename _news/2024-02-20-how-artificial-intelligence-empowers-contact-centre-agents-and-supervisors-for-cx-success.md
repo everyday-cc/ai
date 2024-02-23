@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 746
         isCached: true
+  - title: "Nvidia scores big in data centre, gaming, and extends AI lead"
+    excerpt: "Expanded adoption of the Nvidia DRIVE platform has seen automotive revenue grow by 21% to $281m in the last quarter with Asian manufacturers Great Wall Motors, ZEEKR, Xiaomi, and Li Auto choosing to use it for their automated driving systems and car computers."
+    publishedDateTime: 2024-02-22T04:27:00Z
+    webUrl: "https://www.bizcommunity.com/article/nvidia-scores-big-in-data-centre-gaming-and-extends-ai-lead-016625a"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 39
+    images:
+      - url: "https://biz-file.com/c/2402/728308-1200x624.jpg?5"
+        width: 1200
+        height: 624
+        isCached: true
   - title: "IAEA Designates First Collaborating Centre on Artificial Intelligence for Nuclear Power"
     excerpt: "The IAEA has designated the Center for Science of Information at Purdue University in the United States of America as the first IAEA Collaborating Centre to support the Agency’s activities on artificial intelligence (AI) for nuclear power applications, including reactor design, plant operations, and training and education."
     publishedDateTime: 2024-02-20T13:30:00Z

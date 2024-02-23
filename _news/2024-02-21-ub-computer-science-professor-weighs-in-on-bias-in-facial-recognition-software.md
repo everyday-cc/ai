@@ -129,6 +129,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Panelists Discuss Benefits, Risks, and Legality of Facial Recognition Software"
+    excerpt: "Facial recognition technology poses privacy and security threats to everyone, according to Kade Crockford, director of the Technology for Liberty Program at the American Civil Liberties Union. “The way that it can facilitate mass surveillance and ..."
+    publishedDateTime: 2024-02-23T04:44:00Z
+    webUrl: "https://www.bcheights.com/2024/02/22/panelists-discuss-benefits-risks-and-legality-of-facial-recognition-software/"
+    type: article
+    provider:
+      name: Boston College Heights
+      domain: bcheights.com
+    quality: 35
+    images:
+      - url: "https://heights-photos.s3.amazonaws.com/wp-content/uploads/2024/02/22234037/Bruns.jpg"
+        width: 1528
+        height: 838
+        isCached: true
   - title: "More airports are using facial recognition technology"
     excerpt: "The Transportation Security Administration is planning to widen its use of facial recognition technology, hoping to speed up the boarding process. More than 30 airports across the country are already using such technology. The TSA plans to roll it out to ..."
     publishedDateTime: 2024-02-20T00:00:00Z

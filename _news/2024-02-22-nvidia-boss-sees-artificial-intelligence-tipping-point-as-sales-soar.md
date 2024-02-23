@@ -272,6 +272,17 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 56
+  - title: "Nvidia's H100 data center chip driving the AI boom. All you need to know?"
+    excerpt: "It's shown investors that the buzz around generative artificial intelligence is translating into real revenue, at least for Nvidia and its most essential suppliers"
+    publishedDateTime: 2024-02-23T03:35:00Z
+    webUrl: "https://www.business-standard.com/companies/news/nvidia-s-h100-data-center-chip-driving-the-ai-boom-all-you-need-to-know-124022300118_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/nvidia-s-h100-data-center-chip-driving-the-ai-boom-all-you-need-to-know-124022300118_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/nvidia-s-h100-data-center-chip-driving-the-ai-boom-all-you-need-to-know-124022300118_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 55
   - title: "Nvidia projects better-than-expected revenue on AI chip demand"
     excerpt: "One of the most closely watched companies in the AI supply chain, Nvidia projected quarterly revenue of $24.0 billion for February-April, plus or minus 2%, compared with analyst estimates of about $22 billion."
     publishedDateTime: 2024-02-21T22:18:00Z
@@ -423,6 +434,15 @@ related:
     provider:
       name: Global News
       domain: globalnews.ca
+    quality: 34
+  - title: "Nvidia H100: This is the chip behind AI's supersonic stock rally"
+    excerpt: "How did Nvidia become a leader in AI? The Santa Clara, California company is the world leader in graphics chips, the bits of a computer that generate the images you see on the"
+    publishedDateTime: 2024-02-23T04:33:00Z
+    webUrl: "https://www.theedgesingapore.com/news/semiconductor/nvidia-h100-chip-behind-ais-supersonic-stock-rally"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
     quality: 34
   - title: "First in the world and surrounded by debates: the European Artificial Intelligence Act"
     excerpt: "After almost three years, still a world first: the Artificial Intelligence Act of the European ... but also by private entities providing essential public services, in healthcare, education, insurance and banking. High-risk systems have to be reported ..."

@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Baylor vs. Kansas March 2 Tickets & Start Time"
-    excerpt: "Saturday's Big 12 slate includes the Baylor Bears (18-6, 7-4 Big 12) against the Kansas Jayhawks (19-6, 7-5 Big 12) at 1:00 PM ET on ABC. If you're looking to go to this matchup i"
-    publishedDateTime: 2024-02-18T04:25:00Z
-    webUrl: "https://www.kwtx.com/sports/betting/2024/03/02/baylor-vs-kansas-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KWTX
-      domain: kwtx.com
-    quality: 22
-    images:
-      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/TI65MHRSENKDPBGGVAYWLAN2LI.jpg?auth=9213cb296d2115596a9d2ef9424d29c72350fa2bcab9e894c127c566451148ab&width=800&height=450&smart=true"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Creighton vs. Marquette March 2 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Creighton Bluejays (19-7, 10-5 Big East) face the Marquette Golden Eagles (19-6, 10-4 Big East) in a clash of Big East teams at 2:30 PM ET on Saturday. The game airs on FOX. Watch college basketball, other live sports ..."
     publishedDateTime: 2024-02-18T11:21:00Z
@@ -59,20 +45,6 @@ related:
       - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/GKDKMRQY5BM7XMLGSMXDN55XOM.jpg?auth=e2776a7911a0c02370b7782343c2752becf6b9d85b6ebf5699f1110a4e0ec138&width=1200&height=600&smart=true"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Kansas vs. Baylor March 2 Tickets & Start Time"
-    excerpt: "The Baylor Bears (18-6, 7-4 Big 12) play the Kansas Jayhawks (19-6, 7-5 Big 12) in a matchup of Big 12 squads at 1:00 PM ET on Saturday. The game will be available on ABC. If you're looking to catch this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-02-18T04:25:00Z
-    webUrl: "https://www.kwch.com/sports/betting/2024/03/02/kansas-vs-baylor-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KWCH
-      domain: kwch.com
-    quality: 22
-    images:
-      - url: "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/v2/GNU6RHTRDZNAVME4OADBDFRM3E.jpg?auth=5c47db9e9907d1e2cfbb515abf18b5184797dca2a4680062ed6b0cad93bac982&width=800&height=450&smart=true"
-        width: 800
-        height: 450
         isCached: true
   - title: "Kentucky vs. Arkansas March 2 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Saturday's SEC slate includes the Kentucky Wildcats (18-7, 8-4 SEC) facing the Arkansas Razorbacks (12-13, 3-9 SEC) at 1:30 PM ET on CBS. Watch college basketball, other live sports and more on Fubo! Use our link to sign ..."
@@ -223,17 +195,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Northern Colorado vs. Northern Arizona March 4 Women's Basketball Tickets & Start Time"
-    excerpt: "Northern Colorado Bears vs. Northern Arizona Lumberjacks women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-20T12:20:00Z
-    webUrl: "https://www.kktv.com/sports/betting/2024/03/04/northern-colorado-vs-northern-arizona-buy-womens-college-basketball-tickets/"
+  - title: "Charleston (SC) vs. William & Mary March 3 Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The Charleston (SC) Cougars (17-6) face the William & Mary Tribe (12-11) in a clash of CAA teams at 2:00 PM ET on Sunday. Watch college basketball, other live sports and more on Fubo! Use our link to sign up for a free trial."
+    publishedDateTime: 2024-02-19T00:00:00Z
+    webUrl: "https://www.wmbfnews.com/sports/betting/2024/03/03/charleston-sc-vs-william-mary-buy-womens-college-basketball-tickets/"
     type: article
     provider:
-      name: KKTV11
-      domain: kktv.com
-    quality: 14
+      name: WMBF News
+      domain: wmbfnews.com
+    quality: 16
     images:
-      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/GK432CLSK5K7ZOYDRHK6MZJZJY.jpg?auth=c0b541ca16a422c62e8738be47889a290243a33cd420d8f965365d8324b615e4&width=1200&height=600&smart=true"
+      - url: "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/v2/K5T2JXJHDVJYLLTWJYCWIEABOQ.jpg?auth=b50e9e4b4c892495e14fc3c22213f9f2e7a9513b7cf27b2b2ed7a3bf2359a23b&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
@@ -255,15 +227,6 @@ related:
       name: Live 5 News
       domain: live5news.com
     quality: 2
-  - title: "Florida International vs. Western Kentucky March 2 Tickets & Start Time"
-    excerpt: "Florida International Panthers vs. Western Kentucky Hilltoppers game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-18T14:24:00Z
-    webUrl: "https://www.wflx.com/sports/betting/2024/03/02/florida-international-vs-western-kentucky-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WFLX
-      domain: wflx.com
-    quality: 2
   - title: "Georgia Tech vs. Florida State March 2 Tickets & Start Time"
     excerpt: "Georgia Tech Yellow Jackets vs. Florida State Seminoles game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-18T14:21:00Z
@@ -272,6 +235,15 @@ related:
     provider:
       name: WTVM
       domain: wtvm.com
+    quality: 2
+  - title: "Presbyterian vs. Charleston Southern March 2 Tickets & Start Time"
+    excerpt: "Presbyterian Blue Hose vs. Charleston Southern Buccaneers game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-18T14:19:00Z
+    webUrl: "https://www.live5news.com/sports/betting/2024/03/02/presbyterian-vs-charleston-southern-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: Live 5 News
+      domain: live5news.com
     quality: 2
   - title: "Western Michigan vs. Ball State March 2 Tickets & Start Time"
     excerpt: "Western Michigan Broncos vs. Ball State Cardinals game with ticket info, start time, stats, odds and TV channel."

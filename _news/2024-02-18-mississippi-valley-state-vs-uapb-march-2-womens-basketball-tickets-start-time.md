@@ -24,28 +24,28 @@ images:
     isCached: true
 
 related:
-  - title: "Charleston (SC) vs. William & Mary March 3 Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Charleston (SC) Cougars (17-6) face the William & Mary Tribe (12-11) in a clash of CAA teams at 2:00 PM ET on Sunday. Watch college basketball, other live sports and more on Fubo! Use our link to sign up for a free trial."
-    publishedDateTime: 2024-02-19T00:00:00Z
-    webUrl: "https://www.wmbfnews.com/sports/betting/2024/03/03/charleston-sc-vs-william-mary-buy-womens-college-basketball-tickets/"
+  - title: "Northern Colorado vs. Northern Arizona March 4 Women's Basketball Tickets & Start Time"
+    excerpt: "Northern Colorado Bears vs. Northern Arizona Lumberjacks women's basketball game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-20T12:20:00Z
+    webUrl: "https://www.kktv.com/sports/betting/2024/03/04/northern-colorado-vs-northern-arizona-buy-womens-college-basketball-tickets/"
     type: article
     provider:
-      name: WMBF News
-      domain: wmbfnews.com
-    quality: 16
+      name: KKTV11
+      domain: kktv.com
+    quality: 14
     images:
-      - url: "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/v2/K5T2JXJHDVJYLLTWJYCWIEABOQ.jpg?auth=b50e9e4b4c892495e14fc3c22213f9f2e7a9513b7cf27b2b2ed7a3bf2359a23b&width=1200&height=600&smart=true"
+      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/GK432CLSK5K7ZOYDRHK6MZJZJY.jpg?auth=c0b541ca16a422c62e8738be47889a290243a33cd420d8f965365d8324b615e4&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
-  - title: "Presbyterian vs. Charleston Southern March 2 Tickets & Start Time"
-    excerpt: "Presbyterian Blue Hose vs. Charleston Southern Buccaneers game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-18T14:19:00Z
-    webUrl: "https://www.live5news.com/sports/betting/2024/03/02/presbyterian-vs-charleston-southern-buy-college-basketball-tickets/"
+  - title: "Florida International vs. Western Kentucky March 2 Tickets & Start Time"
+    excerpt: "Florida International Panthers vs. Western Kentucky Hilltoppers game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-18T14:24:00Z
+    webUrl: "https://www.wflx.com/sports/betting/2024/03/02/florida-international-vs-western-kentucky-buy-college-basketball-tickets/"
     type: article
     provider:
-      name: Live 5 News
-      domain: live5news.com
+      name: WFLX
+      domain: wflx.com
     quality: 2
 
 secured: "48k8AoFycFUu7RjOpG8kKccABGgPZbHoT02ywshI25BdvohytLRBqBOvdB8l2/h9+iA0nIUqkfIVIAFr4msVhBbjMQhDR7DVQ9GXZYOXZ2jgUTTPQSaho15OHlBj2TeM9VAyuKamW3SimQYYarcbEyeYS4Uo2D7e2lpjId4bCyi10ArzQFD4LoZjlGIVjHZLaoqWKQQQ15a/x2rPKWAJQZrQcVOpj0MoIN7VNqB+EX4mg4+nxZBlc4o5Gl6IavD8YpxckxZeRU0KCDjQdY01s5vbi/hcMnXD3hV/nC4bMnF51JJitRZu0KmfRdIAQa/s1KmKOxvv9dtrfGDNzwi3h9FkMG6PKbyiOSwm+VUhk6g=;PsfcbJAEPsw/OXha+jz7CA=="

@@ -2,6 +2,40 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2024-01-24-sama-launches-multi-cloud-integration-increases-speed-of-new-project-onboarding-by-7x.md",
+      "title": "Sama Launches Multi-Cloud Integration; Increases Speed of New Project Onboarding by 7x",
+      "excerpt": "Sama, the leader in providing data annotation and model validation solutions, today announced the launch of a multi-cloud integration strategy within",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240124941984/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240124941984/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web.md",
       "title": "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web",
       "excerpt": "Bespoke AI tool is trained on dark web data to provide accurate translation for cybersecurity professionals and law enforcement Searchlight Cyber, the dark web intelligence company, has added AI-power",
@@ -1096,40 +1130,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-facial-recognition-app-for-dogs-developed-to-help-in-fight-against-rabies.md",
-      "title": "Facial recognition app for dogs developed to help in fight against rabies",
-      "excerpt": "We developed this app to see if facial recognition might work, and it's showing great promise in helping us to achieve that goal.\" Rabies kills an estimated 60,000 people annually.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-01-facial-recognition-app-dogs-rabies.html",
-      "originalUrl": "https://phys.org/news/2024-01-facial-recognition-app-dogs-rabies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

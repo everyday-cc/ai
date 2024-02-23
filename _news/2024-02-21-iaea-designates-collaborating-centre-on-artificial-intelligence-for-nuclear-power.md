@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2835405-iaea-designa
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835405-iaea-designates-collaborating-centre-on-artificial-intelligence-for-nuclear-power?amp"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia scores big in data centre, gaming, and extends AI lead"
+    excerpt: "Expanded adoption of the Nvidia DRIVE platform has seen automotive revenue grow by 21% to $281m in the last quarter with Asian manufacturers Great Wall Motors, ZEEKR, Xiaomi, and Li Auto choosing to use it for their automated driving systems and car computers."
+    publishedDateTime: 2024-02-22T04:27:00Z
+    webUrl: "https://www.bizcommunity.com/article/nvidia-scores-big-in-data-centre-gaming-and-extends-ai-lead-016625a"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 39
+    images:
+      - url: "https://biz-file.com/c/2402/728308-1200x624.jpg?5"
+        width: 1200
+        height: 624
+        isCached: true
   - title: "How artificial intelligence empowers contact centre agents and supervisors for CX success"
     excerpt: "Technology evolution has always received a mixed reception of enthusiasm and scepticism, especially when it comes to artificial intelligence (AI). The vast possibilities of AI can be daunting to those unacquainted with the reality,"
     publishedDateTime: 2024-02-20T03:55:00Z

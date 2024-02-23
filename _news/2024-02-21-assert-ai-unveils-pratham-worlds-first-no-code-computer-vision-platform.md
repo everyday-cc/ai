@@ -1,31 +1,41 @@
 ---
 category: news
 title: "Assert AI Unveils Pratham: World's First No-code Computer Vision Platform"
-excerpt: "Pratham, which translates to first in Hindi, employs an innovative framework that places the power of computer vision directly into the hands of users, allowing them to analyze and utilize video data effortlessly."
-publishedDateTime: 2024-02-21T05:13:00Z
-originalUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform"
-webUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform"
-ampWebUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp"
+excerpt: "In a pioneering move, Assert AI proudly announces the launch of Pratham, a groundbreaking platform that is patented for its innovative approach to democratizing computer vision and artificial intelligence."
+publishedDateTime: 2024-02-21T07:40:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/assert-ai-unveils-pratham-world-s-first-no-code-computer-vision-platform-124022100398_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/assert-ai-unveils-pratham-world-s-first-no-code-computer-vision-platform-124022100398_1.html"
+ampWebUrl: "https://www.business-standard.com/amp/content/press-releases-ani/assert-ai-unveils-pratham-world-s-first-no-code-computer-vision-platform-124022100398_1.html"
+cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/press-releases-ani/assert-ai-unveils-pratham-world-s-first-no-code-computer-vision-platform-124022100398_1.html"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 53
+heat: 63
+published: false
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280"
-    width: 1280
-    height: 853
-    isCached: true
+related:
+  - title: "Discover the World’s First AI Watch: Where Cutting-Edge Innovation Meets Everyday Comfort and Ease"
+    excerpt: "Gaia AI Lab, a pioneering force in artificial intelligence based in Silicon Valley, is excited to announce the launch of a groundbreaking product that is set to redefine our daily lives: ChatUni One AI Watch."
+    publishedDateTime: 2024-02-19T06:40:00Z
+    webUrl: "https://techbullion.com/discover-the-worlds-first-ai-watch-where-cutting-edge-innovation-meets-everyday-comfort-and-ease/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 25
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/IMG_9617-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
-secured: "/JmSdfJ0nvEjsiAy0Zusbgp8bx2vp+Un3BzlgUIeMi8YAmbfnYORa89JtXDzNB6L3Y4j/+UY6bexppIfSDnF/TndR0fLqCThIhc+fRU58DQfqJxuy83f7LC5ST80ESXsIXzyYf4tLGtxteQNt2DM5WW1vWb7yP+SNx/ox7WEluofANg+rrCD3Yfv0g5Fj4xkU1YbVFOD40jDh/W7lnKOeZlcFwDwFUQxV8RU7dkU08U9HjfDPxpmtMRoZ9Gxs5qhoj/00Qlkl4az4SuLHbfh5XBLeU/V17kMMUijjFMAfvbsqPJvYrL/jW+CGCbz1xWtxX0BX1mNBhulnUqiX58/ZWcbPVpmHkedUYsKbTd6N9c=;z/JWih/0oVxays4uxgP4eQ=="
+secured: "Sujp7EIbmsv02JFpa7npiUbiHG+ByD4S/YOkKbtgj/tyU+fclQi9sCZRpujPq3UDTO5F31ZcfKXJMQUabiagvyqieqAfgjAwTLrDPdp+jzAk/xGzZ1J7HspclEwoyU0COHwLIknYHvOXadCpilo5IfvNzVA7+9ic17zTavsOB6uaZZkc6WtkeJFKe5OJ3YCpZpLaJ50KW/92yMVG6t4lucU8QqxhGdjS2Q6ME5uIlDWAwxFH2t5T+jMOPAnqxfNFhHFQ1F1KJZnEYpEGE+pWT3XP+2joR+1aZXJXGuHMkj5dlYq+yY9rai6MRl+FPEdMfnr6+xfHWwphxne6gKpq0WkAMmMG/kQr4Izw/w1nWMhOQgVTM8wE8SooXVU7Wv7sE/iwc8nc09nGXeIwmS5/VN2wr9f8DaxBRWLuTIJwj2YhyvyGfGptkZZEN1bq/eX2eal0qHb4rMhrM99z/6V4DIJA67tcZGucHKtsAjU6AckwTCV+FS+/sXl8esIF1xSKbc80Dh+Jv2X9u0V0FmoCHQ==;dj6wCow9vySrkUJKIanVhw=="
 ---
 
