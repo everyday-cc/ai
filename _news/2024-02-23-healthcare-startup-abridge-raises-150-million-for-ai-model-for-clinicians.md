@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Healthcare Startup Abridge Raises $150 Million for AI Model for Clinicians"
-excerpt: "Healthcare Startup Abridge Raises $150 Million for AI Model for Clinicians By Krystal Hu (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told ..."
-publishedDateTime: 2024-02-23T00:16:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2024-02-23/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians"
-webUrl: "https://www.usnews.com/news/technology/articles/2024-02-23/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians"
+title: "Healthcare startup Abridge raises $150 million for AI model for clinicians"
+excerpt: "(Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications."
+publishedDateTime: 2024-02-23T00:01:00Z
+originalUrl: "https://www.business-reporter.co.uk/news/news/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians-9985"
+webUrl: "https://www.business-reporter.co.uk/news/news/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians-9985"
 type: article
-quality: 62
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: business-reporter.co.uk
+  domain: business-reporter.co.uk
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/041/1200_800031JAN24_12.png"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Care.com Founder Launches AI Startup Aimed At $10.9 Trillion Labor Gap"
@@ -58,6 +60,6 @@ related:
       domain: betakit.com
     quality: 11
 
-secured: "TOwFsZz6o8YPDuXsxV68UcigU+ZGeZJT9ZYnSvhrjRL3DTnm/dvNxdoGt0VKMbFCmEFFB5FtwoNFgO+xH052v5Fe5Bgsycc38XN38Q9A6/+g3Ag7drYEXu+JO6H/BkL9pRONiC5/8dlW9XmxX2hb/FcQQwP2Vn4ZzmpD7w77aNPADwEVk8pKouqfTX3XETvrJOvOTCj8xj3pX8cGWp+sjpr8SNa1775P0JKnqUwePnY1eX1z/T2LvqWoTTeMiNMx9Zzu8WmBfLCYfZmhH/cs43P7AIWuH1Be6DcM3ANRZH2n5LhYMM535Q1mpZ0BGg5k59nR6IFuROVOvVHS9Re5A0mN4sWPfWQrtYPsuLS2aFc=;oAsVmQ7ZeIWqePkcTTWNxg=="
+secured: "BxNIxjnXyW40P86l5D4S/KUh/DC5IPK1RAjfbg7sJWwKIajHNwViRPlezS1YoGGshMZnVbDkyBN2Aq5jvsgrvZKGK/d+h4UXcsozPKWK+QmiiPxaloc3Tbih1taFaA87J4eJVnRcYNs1OoDfju7yt1Cq+lULstvgLhHxqrle7FyYmLIr8LTObllceSCXXJacjO4xJ/6GEXk1msZ4xqmGF0FoanJfV3Ob30GADgyG066sbdXfRbu8PfG6IUcswg4IZn+o/3XVIInYXwBZOsXwBS4W+BdVjgXnoaMdnEY0rgFAMK6xYyqO3CqpSu8JGl9oUwckzCHsx734wxM4TclNotFD0ouDEAyCmYqrvdtOnRc=;g7ixWPwnUjJjgeorYE9gdQ=="
 ---
 

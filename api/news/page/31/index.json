@@ -2,6 +2,290 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2024-01-31-artificial-intelligence-in-2024-what-it-has-in-store-for-us.md",
+      "title": "Artificial Intelligence In 2024: What It Has In Store For Us",
+      "excerpt": "The end goal of AI is not to eliminate human intervention and automate all of your tasks, but rather to complement your business processes and offer numerous advantages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65578df7f889a02ef53ce298/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 861,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/",
+      "publishedDateTime": "2024-01-31T10:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-from-artificial-labor-to-artificial-intelligence-human-judgment-keeps-it-real-opinion.md",
+      "title": "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion",
+      "excerpt": "Philosophers, not chatbots, will grapple with what it all means. We have the capacity to add value to decision-making that electrons can’t replace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T10:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-eternal-you-reveals-how-ai-chatbots-aim-to-resurrect-the-dead.md",
+      "title": "'Eternal You' reveals how AI chatbots aim to resurrect the dead",
+      "excerpt": "Chatbots can scan the dead's social media profiles and texts, and then simulate the departed's way of speaking to create new messages. The documentary Eternal You probes into this intriguing use of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/eternal-you-review",
+      "originalUrl": "https://mashable.com/article/eternal-you-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/07ET7WkarUwAIIdJLgASzRF/hero-image.fill.size_1200x675.v1706637281.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-how-to-break-the-fear-factor-of-ai-adoption.md",
+      "title": "How To Break The “Fear Factor” Of AI Adoption",
+      "excerpt": "Despite AI’s potential to transform how organizations work, we’re seeing slower adoption and deployment, possibly because of workers’ misplaced fear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/keithferrazzi/2024/01/31/how-to-break-the-fear-factor-of-ai-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/keithferrazzi/2024/01/31/how-to-break-the-fear-factor-of-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b9341aab18310b1c40e25a/0x0.jpg?format=jpg&crop=2308,1299,x0,y38,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/keithferrazzi/2024/01/31/how-to-break-the-fear-factor-of-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/keithferrazzi/2024/01/31/how-to-break-the-fear-factor-of-ai-adoption/amp/",
+      "publishedDateTime": "2024-01-31T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-yes-microsoft-is-a-star-ai-stock-but-this-is-what-really-powered-its-solid-second-quarter-results.md",
+      "title": "Yes, Microsoft Is a Star AI Stock, But This Is What Really Powered Its Solid Second-Quarter Results",
+      "excerpt": "Inside that grouping, the still-hot Azure and other cloud services saw their collective take rise at a 30% clip, outpacing the analyst expectations of under 28%. Even if AI -- still a relatively ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/01/31/yes-microsoft-is-a-star-ai-stock-but-this-is-what/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/31/yes-microsoft-is-a-star-ai-stock-but-this-is-what/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/763304/two-people-gazing-at-a-laptop-screen-while-in-a-kitchen.jpg",
+          "width": 2207,
+          "height": 1358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T09:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results.md",
+      "title": "Amazon earnings preview: AWS, advertising, AI in the spotlight for holiday quarter results",
+      "excerpt": "It is also facing scrutiny from the FTC, which filed a lawsuit against Amazon in September and last week launched an inquiry into Amazon’s investment in AI startup Anthropic. Amazon continues to trim its workforce and recently launched new advertisements ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2024/amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results/",
+      "originalUrl": "https://www.geekwire.com/2024/amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/amazonq2.jpg",
+          "width": 2022,
+          "height": 1408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T08:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-new-ai-model-designs-proteins-to-deliver-gene-therapy.md",
       "title": "New AI model designs proteins to deliver gene therapy",
       "excerpt": "Researchers have used an artificial intelligence (AI) model to redesign a crucial protein involved in the delivery of gene therapy, a technique that employs genes to treat, prevent or cure diseases.",
@@ -874,307 +1158,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-01-30T19:47:21Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-meta-used-copyright-to-protect-its-ai-model-but-argues-against-the-law-for-everyone-else.md",
-      "title": "Meta used copyright to protect its AI model, but argues against the law for everyone else",
-      "excerpt": "Meta thinks effectively that everything available on the internet falls under \"fair use,\" because AI models like Llama do not exploit or reproduce copyrighted works. (Although they, in fact, very often, do). However, a few months before pushing this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1",
-      "originalUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65b8546743bb77284ba18d1a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1?amp",
-      "publishedDateTime": "2024-01-30T18:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age.md",
-      "title": "AI Empathy: Emotional AI Is Redefining Interactions In The Digital Age",
-      "excerpt": "These advanced tools are not just software interfaces; they are bridges to understanding human emotions and behaviours in a manner that was once the realm of science",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/",
-      "originalUrl": "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b93dd0bcecf3a77f4d00ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/amp/",
-      "publishedDateTime": "2024-01-30T18:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-microsoft-earnings-what-to-expect-from-azure-office-and-ai.md",
-      "title": "Microsoft earnings: What to expect from Azure, Office and AI",
-      "excerpt": "AI is an engine for Microsoft’s MSFT, -0.28% Azure cloud-computing business, and analysts expect that business to have grown at a 27% rate on a constant-currency basis during the latest quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56",
-      "originalUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 609,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-872097/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56",
-      "publishedDateTime": "2024-01-30T17:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-elevate-azure-expertise-with-new-ai-and-optimization-video-episodes.md",
-      "title": "Elevate Azure expertise with new AI and optimization video episodes",
-      "excerpt": "Organizations of all sizes are embracing cloud computing to enhance their operations, optimize resource utilization, and gain a competitive edge. However, navigating the complexities of cloud adoption and ensuring optimal performance can be a daunting task. This is where the Azure Enablement Show steps",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_Blog_240125_V01.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-three-questions-every-enterprise-ai-startup-should-ask.md",
-      "title": "Three Questions Every Enterprise AI Startup Should Ask",
-      "excerpt": "The potential of enterprise AI has added a welcome dimension to these conversations. In earlier times, many software founders feared seeking funding “too early.” They assumed that, absent a beta product or early revenue, they weren't ready to seek an alliance with seasoned venture investors. The AI gold rush has changed that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/",
-      "originalUrl": "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b8169c2fb9d98ae6d881b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1576,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/",
-      "publishedDateTime": "2024-01-30T16:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-achieve-data-center-excellence-with-ibm-and-vmware.md",
-      "title": "Achieve data center excellence with IBM and VMware",
-      "excerpt": "A successful data center implementation can best be described as a distributed, dynamic, efficient and resilient IT nucleus.\nThe post Achieve data center excellence with IBM and VMware appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/achieve-data-center-excellence-with-ibm-and-vmware/",
-      "originalUrl": "https://www.ibm.com/blog/achieve-data-center-excellence-with-ibm-and-vmware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T15:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

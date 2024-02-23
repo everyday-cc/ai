@@ -70,6 +70,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Reddit Inks Landmark $60 Million AI Content Licensing Agreement with Google"
+    excerpt: "Filed by the Clarkson Law Firm, the complaint asserted Google scraped users’ data without consent to improve AI services like writing assistant Bard. It hinged on Google’s updated privacy policy, expressly mentioning mining publicly available ..."
+    publishedDateTime: 2024-02-23T02:18:00Z
+    webUrl: "https://techreport.com/news/reddit-inks-landmark-60-million-ai-content-licensing-agreement-with-google/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 37
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/02/google-logo-history.jpg?_t=1708683777"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Reddit strikes $60M deal allowing Google to train AI models on its posts, unveils IPO plans"
     excerpt: "SAN FRANCISCO (AP) — Reddit has struck a deal with Google that allows the search giant to use posts from the online discussion site for training its artificial intelligence models and to improve services such as Google Search."
     publishedDateTime: 2024-02-22T20:28:00Z

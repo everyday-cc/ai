@@ -83,6 +83,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "American Honda IT to fuel innovation with generative AI"
+    excerpt: "As for that AI strategy, American Honda’s deep experience with machine learning positions it well to capitalize ... and use of both AWS and Microsoft Azure. The key to a successful AI strategy, in part, is the quality and cleanliness of both structured ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html"
+    ampWebUrl: "https://www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html?amp=1"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html?amp=1"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2024/02/bob-brizendine-stylized_1600x900px.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Adobe’s Market Resilience and Growth Potential Amidst Generative AI Advancements"
     excerpt: "Analyst Kash Rangan of Goldman Sachs reiterated a Buy rating on Adobe (ADBE – Research Report), with a price target of ... In a similar vein, Rangan anticipates that generative AI will expand the sector further by lowering the barriers to content ..."
     publishedDateTime: 2024-02-21T05:27:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/california-suspends-waymos-appl
 webUrl: "https://www.reuters.com/technology/california-suspends-waymos-application-expand-parts-la-sfs-peninsula-2024-02-21/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "California blocks driverless Waymo expansion, Motorola launches £90 smartphone"
+    excerpt: "California has blocked a Google-backed driverless car company from expanding to more cities after a series of accidents. The California Public Utilities Commission (CPUC) has suspended a request by Waymo, which is owned by Google’s parent company ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.techdigest.tv/2024/02/california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 50
+    images:
+      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2024/02/0_Moto-g4_4.webp?resize=725%2C434&#038;ssl=1"
+        width: 725
+        height: 434
+        isCached: true
   - title: "California regulators postpone decision on Waymo's self-driving expansion plan"
     excerpt: "Waymo will wait a little longer to hear whether California regulators approve the self-driving tech company's ambitious expansion request. The state's Public Utilities Commission has postponed its decision on whether to approve Waymo's application ..."
     publishedDateTime: 2024-02-21T15:57:00Z

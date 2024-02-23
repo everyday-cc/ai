@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "California blocks driverless Waymo expansion, Motorola launches £90 smartphone"
+    excerpt: "California has blocked a Google-backed driverless car company from expanding to more cities after a series of accidents. The California Public Utilities Commission (CPUC) has suspended a request by Waymo, which is owned by Google’s parent company ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.techdigest.tv/2024/02/california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 50
+    images:
+      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2024/02/0_Moto-g4_4.webp?resize=725%2C434&#038;ssl=1"
+        width: 725
+        height: 434
+        isCached: true
   - title: "California puts Waymo robotaxi expansion application on hold until June 19"
     excerpt: "SAN FRANCISCO, Feb 21 (Reuters) - A California regulator has put on hold until June 19 an application by Alphabet's (GOOGL.O), opens new tab Waymo to expand its robotaxi services to parts of the Los Angeles area and San Francisco's peninsula, amid rising ..."
     publishedDateTime: 2024-02-21T17:49:00Z

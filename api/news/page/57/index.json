@@ -2,6 +2,273 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2024-01-10-houston-community-college-first-in-texas-to-offer-artificial-intelligence-robotics-degrees.md",
+      "title": "Houston Community College first in Texas to offer artificial intelligence, robotics degrees",
+      "excerpt": "Houston Community College became the first community college system in Texas to offer both associates and bachelor's degrees in the artificial intelligence and robotics field in late 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://communityimpact.com/houston/bay-area/education/2024/01/09/houston-community-college-first-in-texas-to-offer-artificial-intelligence-robotics-degrees/",
+      "originalUrl": "https://communityimpact.com/houston/bay-area/education/2024/01/09/houston-community-college-first-in-texas-to-offer-artificial-intelligence-robotics-degrees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://communityimpact.com/uploads/images/2024/01/09/290066.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T19:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Community Impact Newspaper",
+        "domain": "communityimpact.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-q1s-rising-stars-3-ai-stocks-for-your-must-watch-list.md",
+      "title": "Q1’s Rising Stars: 3 AI Stocks for Your Must-Watch List",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Even though it still sounds like science fiction, artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/q1s-rising-stars-3-ai-stocks-for-your-must-watch-list-1032954898",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/q1s-rising-stars-3-ai-stocks-for-your-must-watch-list-1032954898",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T19:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-machine-learning-predicts-sight-loss-a-breakthrough-in-eye-health.md",
+      "title": "Machine Learning Predicts Sight Loss: A Breakthrough in Eye Health",
+      "excerpt": "Researchers from Tokyo Medical and Dental University (TMDU) develop models based on machine learning that predict long-term visual acuity in patients with high myopia, one of the top three causes of irreversible blindness in many regions of the world.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/machine-learning-predicts-sight-loss-a-breakthrough-in-eye-health/",
+      "originalUrl": "https://scitechdaily.com/machine-learning-predicts-sight-loss-a-breakthrough-in-eye-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/AI-Vision-Eye-Examination-Art-Concept.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T19:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-ai-acquisitions-whos-leading-the-charge-and-why.md",
+      "title": "AI Acquisitions: Who’s Leading the Charge and Why?",
+      "excerpt": "\"Explore the dynamic world of AI acquisitions by major tech players. Dive into strategies, challenges, and impacts",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/ai-acquisitions-whos-leading-the-charge-and-why/",
+      "originalUrl": "https://www.unite.ai/ai-acquisitions-whos-leading-the-charge-and-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2024/01/f33fdc97-fe42-4ce9-9c21-bb8e9133d59b-900x628-1-900x600.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T18:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-discoveries-in-weeks-not-years-how-ai-and-high-performance-computing-are-speeding-up-scientific-discovery.md",
+      "title": "Discoveries in weeks, not years: How AI and high-performance computing are speeding up scientific discovery",
+      "excerpt": "A combination of advanced AI with next-generation cloud computing is turbocharging the pace of discovery to speeds unimaginable just a few years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/source/features/sustainability/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
+      "originalUrl": "https://news.microsoft.com/source/features/sustainability/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T17:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-microsoft-puts-azure-quantum-elements-to-work.md",
+      "title": "Microsoft puts Azure Quantum Elements to work",
+      "excerpt": "Azure Quantum Elements, which launched last summer, combines AI and traditional high-performance computing (HPC) techniques into what is essentially a workbench for scientific computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/",
+      "originalUrl": "https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/amp/",
+      "publishedDateTime": "2024-01-09T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-ces-2024-siemens-delivers-innovations-in-immersive-engineering-and-artificial-intelligence-to-enable-the-industrial-metaverse.md",
       "title": "CES 2024: Siemens delivers innovations in immersive engineering and artificial intelligence to enable the industrial metaverse",
       "excerpt": "Siemens unveiled innovations that are combining the real world and the digital worlds to redefine reality as it opened CES 2024, the world’s pioneering technology gathering.Siemens",
@@ -790,248 +1057,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-learning-a-second-language-strengthens-neural-connections-in-the-language-network-study-shows.md",
-      "title": "Learning a second language strengthens neural connections in the language network, study shows",
-      "excerpt": "These images showed the strengthening of white matter connections within the language network, as well as the involvement of additional regions in the right hemisphere during second language learning.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-01-language-neural-network.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-01-language-neural-network.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/learning-a-second-lang.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2024-01-language-neural-network.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-language-neural-network.amp",
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-leukemia-artificial-intelligence-provides-support-in-diagnostics.md",
-      "title": "Leukemia: Artificial intelligence provides support in diagnostics",
-      "excerpt": "IT specialists and physicians have now shown how a method based on artificial intelligence can be used to predict various ... who heads the Personalised Cancer Therapy and Digital Medicine working group at Münster University Hospital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240109121128.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240109121128.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-remote-controlled-robots-bring-metropolitan-healthcare-experience-to-outback-patients-with-heart-conditions.md",
-      "title": "Remote-controlled robots bring metropolitan healthcare experience to outback patients with heart conditions",
-      "excerpt": "The Queensland-designed remote-controlled robot, hailed as a world-first, is expected to help alleviate the tyranny of distance faced by patients living in remote, rural, and regional areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2024-01-10/robot-ultrasound-medical-technology-remote-scans-echocardiogram/103297658",
-      "originalUrl": "https://www.abc.net.au/news/2024-01-10/robot-ultrasound-medical-technology-remote-scans-echocardiogram/103297658",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/69f4eb37c41fe4db45d41c56f8e71e0d?impolicy=wcms_crop_resize&cropH=3333&cropW=5000&xPos=0&yPos=0&width=862&height=575",
-          "width": 862,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/103297658",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/103297658",
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-striking-the-right-balance-navigating-ethics-and-trust-in-ai-and-commercial-data-for-homeland-security.md",
-      "title": "Striking the Right Balance: Navigating Ethics and Trust in AI and Commercial Data for Homeland Security",
-      "excerpt": "In the realm of homeland security, the marriage of artificial intelligence (AI) and commercial data holds immense potential but comes with ethical considerations and trust implications that demand careful consideration. While these technologies promise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hstoday.us/featured/striking-the-right-balance-navigating-ethics-and-trust-in-ai-and-commercial-data-for-homeland-security/",
-      "originalUrl": "https://www.hstoday.us/featured/striking-the-right-balance-navigating-ethics-and-trust-in-ai-and-commercial-data-for-homeland-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hstoday.us/wp-content/uploads/2019/02/technology-3389904_1920.jpg",
-          "width": 1920,
-          "height": 1078,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Homeland Security Today",
-        "domain": "hstoday.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-voice-recognition-project-recruiting-adults-with-cerebral-palsy.md",
-      "title": "Voice recognition project recruiting adults with cerebral palsy",
-      "excerpt": "The Speech Accessibility Project is now recruiting U.S. and Puerto Rican adults with cerebral palsy. The Speech Accessibility Project is now recruiting U.S. and Puerto Rican adults with cerebral palsy. Those interested can sign up online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1030773",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1030773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-deepcell-announces-collaboration-with-nvidia-to-accelerate-use-of-generative-artificial-intelligence-in-single-cell-research.md",
-      "title": "Deepcell Announces Collaboration with NVIDIA to Accelerate Use of Generative Artificial Intelligence in Single Cell Research",
-      "excerpt": "Deepcell, a pioneer in artificial intelligence (AI)-powered single cell analysis to fuel deep biological discoveries, today announced a research collaboration with NVIDIA to accelerate the development and adoption of advanced computer vision solutions in life sciences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240108313176/en/Deepcell-Announces-Collaboration-with-NVIDIA-to-Accelerate-Use-of-Generative-Artificial-Intelligence-in-Single-Cell-Research/",
-      "originalUrl": "https://www.businesswire.com/news/home/20240108313176/en/Deepcell-Announces-Collaboration-with-NVIDIA-to-Accelerate-Use-of-Generative-Artificial-Intelligence-in-Single-Cell-Research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T23:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -93,20 +93,6 @@ related:
         width: 870
         height: 580
         isCached: true
-  - title: "Velmie Introduces Business Banking Platform to Assist Fintech Platforms"
-    excerpt: "Velmie has reportedly introduced its business banking platform intended to assist financial services providers and Fintech platforms with enhancing their core product offerings. As noted in the update from Velmie, the Fintech platform allows firms to ..."
-    publishedDateTime: 2024-02-18T09:24:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221626-velmie-introduces-business-banking-platform-to-assist-fintech-platforms/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/09/Europe-Map.jpeg"
-        width: 1280
-        height: 866
-        isCached: true
   - title: "3 Under-the-Radar Fintech Stocks Ready to Make a Move"
     excerpt: "The word \"in\". A play button in the shape of a television screen. A stylized camera. InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks continue to lead the way with groundbreaking innovations in payments and customer services."
     publishedDateTime: 2024-02-18T13:00:00Z

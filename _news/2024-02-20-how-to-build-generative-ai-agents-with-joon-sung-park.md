@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2024/02/istock-1398462038-100961413-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "American Honda IT to fuel innovation with generative AI"
+    excerpt: "As for that AI strategy, American Honda’s deep experience with machine learning positions it well to capitalize ... and use of both AWS and Microsoft Azure. The key to a successful AI strategy, in part, is the quality and cleanliness of both structured ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html"
+    ampWebUrl: "https://www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html?amp=1"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html?amp=1"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2024/02/bob-brizendine-stylized_1600x900px.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Sound Group Embraces Generative AI to Unveil New AI-Powered Applications"
     excerpt: "The Company expects to further develop and enrich its suite of AI products by actively integrating AIGC technologies. Constantly engaged in in-depth research and exploration of cutting-edge technologies such as AIGC, Sound Group leverages its strengths and ..."

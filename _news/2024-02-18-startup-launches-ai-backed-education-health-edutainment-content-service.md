@@ -35,15 +35,20 @@ related:
         width: 897
         height: 674
         isCached: true
-  - title: "Healthcare Startup Abridge Raises $150 Million for AI Model for Clinicians"
-    excerpt: "Healthcare Startup Abridge Raises $150 Million for AI Model for Clinicians By Krystal Hu (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told ..."
-    publishedDateTime: 2024-02-23T00:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-23/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians"
+  - title: "Healthcare startup Abridge raises $150 million for AI model for clinicians"
+    excerpt: "(Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.business-reporter.co.uk/news/news/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians-9985"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 62
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 52
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/041/1200_800031JAN24_12.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Levr.ai closes $1-million seed round for AI-powered loan platform for small businesses"
     excerpt: "Vancouver-based FinTech startup Levr.ai has secured $1 million CAD in seed financing to continue scaling its artificial intelligence (AI)-powered loan software for small businesses. The seed round comes a year after Levr.ai raised $1-million in pre-seed ..."
     publishedDateTime: 2024-02-20T00:00:00Z

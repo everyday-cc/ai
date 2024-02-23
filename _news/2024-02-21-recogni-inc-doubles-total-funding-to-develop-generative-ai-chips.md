@@ -20,19 +20,77 @@ topics:
   - AI Hardware
 
 related:
-  - title: "VCs are clamoring to back 'screaming hot' startups using AI for medical records"
-    excerpt: "Most recently, Ambience Healthcare announced a $70 million Series B round in February, co-led by Kleiner Perkins and Open AI Startup Fund and including existing investors Andreessen Horowitz and Optum Ventures. Medical-scribe startup Nabla raised a Series ..."
-    publishedDateTime: 2024-02-21T10:00:00Z
-    webUrl: "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2"
+  - title: "Self-Driving Startup Recogni Nabs $102 Million to Design AI Chip"
+    excerpt: "Recogni Inc., an artificial intelligence startup that builds technology ... But in recent years, investors have retreated somewhat from ventures related to self-driving cars amid high-profile setbacks from leading businesses in the sector."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
+    ampWebUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: Financial Post
+      domain: financialpost.com
+    quality: 76
     images:
-      - url: "https://i.insider.com/65cf847ef533b039a884865f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://dcs-static.gprod.postmedia.digital/15.4.1/websites/images/canada/fallback.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Self-Driving Firm Recogni Nabs $102 Million to Make AI Chip"
+    excerpt: "But in recent years, investors have retreated somewhat from ventures related to self-driving cars amid high-profile setbacks from leading businesses in the sector. U.S. autonomous vehicle startups raised $1 billion in 2023, down from $11.2 billion two ..."
+    publishedDateTime: 2024-02-20T15:21:00Z
+    webUrl: "https://www.ttnews.com/articles/recogni-102-million-ai-chip"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 56
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2024-02/Chips-manufacturing-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
+  - title: "Recogni raises $102m to develo AI inference chip"
+    excerpt: "AI startup Recogni has raised $102 million in a Series C funding round."
+    publishedDateTime: 2024-02-20T15:58:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/recogni-raises-102m-to-develop-ai-inference-chip/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Recogni.2e16d0ba.fill-1200x630.jpg"
+        width: 1190
+        height: 625
+        isCached: true
+  - title: "Generative AI Chip Designer Recogni Locks Up $102M"
+    excerpt: "Although most startup chipmakers have not seen much love from investors so far this year, Recogni, which is developing its AI inference chip for both the generative AI and automotive industries, seems to have bucked that trend."
+    publishedDateTime: 2024-02-20T18:22:00Z
+    webUrl: "https://news.crunchbase.com/semiconductors-and-5g/generative-ai-chip-designer-recogni/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 54
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/computer-chip.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "AI hardware startup Recogni raises $102M for self-driving solutions"
+    excerpt: "Object detection requires a great deal of data taken from video and other sensors and Recogni’s hardware allows for more rapid recognition. The company said that its chips allow for higher computational power at lower energy use, meaning higher efficiency."
+    publishedDateTime: 2024-02-20T17:05:00Z
+    webUrl: "https://siliconangle.com/2024/02/20/ai-hardware-startup-recogni-raises-102m-self-driving-solutions/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "hTHpvsWArOeH38lZAUIl6nVkMh5X8noAErqfZ/HbSpRmoD92erGnlJ6VWr4hmFegCt5fiiKSz9GPTPDnnthqcx7NglNvdvF+j6BfWyCyfj1Px4EkFB9+M/8yBmbeC7xeOBGGQwfPKyJbtLBnfLLUn8tfYe4wWq7VoTKTRo0vOUw3w62Mtl68Q+j/nghIyayqP33gHnY7+nIXnYT3+ynBy93SjoYAS50hu+h0pNkY0hT7ciU7E1uaAL1Nd7l/I00bqplPFGO/1MN+n6OXeRVixFPrwW75X/HYNNw82sWCuJcfjxFaFRN4fzDw1ipVI7TrWFaokQWdCLB518yPScfz2gjvr/nUbYAEkQvQnQjFVUIvyNXV4ebUTUf1BHw0Y92QOO1RUODxrYv2RfeRCmtdUEpKKi8x/7eDq1NmACB8iPNnMZ3KBJaYf4+nH2uAhddQSUybnapuYTQqMd3cY34JH/+TDsEBen/Bcs8a/6eminZqFYCFGnoLKj6N2n/hXYxnOfLfAIn2qClRQx+dM6sbeA==;/3/9lIlXGSqV3f5b8j3d7g=="

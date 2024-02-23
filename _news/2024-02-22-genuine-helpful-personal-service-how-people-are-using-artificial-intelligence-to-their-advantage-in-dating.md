@@ -27,12 +27,12 @@ images:
 related:
   - title: "'Genuine, helpful, personal service': How people are using artificial intelligence to their advantage in dating"
     excerpt: "As artificial intelligence continues to expand, many are curious how it will affect dating and relationships in general."
-    publishedDateTime: 2024-02-23T00:57:00Z
-    webUrl: "https://www.kcra.com/article/ai-dating-scene/46774460"
+    publishedDateTime: 2024-02-22T21:57:00Z
+    webUrl: "https://www.wlwt.com/article/ai-dating-scene/46774460"
     type: article
     provider:
-      name: kcra.com
-      domain: kcra.com
+      name: WLWT
+      domain: wlwt.com
     quality: 19
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cosmo-ai-dating-opener-65cbf5224f580.png?crop=0.995xw:1.00xh;0.00481xw,0&resize=1200:*"

@@ -58,6 +58,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "When cloud AI lands you in court"
+    excerpt: "Also, is there an AI ethics specialist on the team to ask the right questions at the right time and oversee the testing for bias and other issues that could get you dragged into court? Are only genAI systems subject to legal scrutiny? No, not really."
+    publishedDateTime: 2024-02-23T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3713221/when-cloud-ai-lands-you-in-court.html"
+    ampWebUrl: "https://www.infoworld.com/article/3713221/when-cloud-ai-lands-you-in-court.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713221/when-cloud-ai-lands-you-in-court.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/19/11/gavel_by_thinkstock-506505112_abstract_binary_lines_fractals_by_gerd_altmann_cc0_via_pixabay_2400x1600-100815735-large-100916696-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Intersection of Artificial Intelligence and Society"
     excerpt: "AI won’t replace people; instead, people with AI will replace people without AI. According to experts, the increasing prevalence of artificial intelligence is expected to improve the lives of the majority of people in the next decade."
     publishedDateTime: 2024-02-18T15:52:00Z

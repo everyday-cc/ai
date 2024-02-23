@@ -74,34 +74,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Nicholls vs. McNeese March 2 Women's Basketball Tickets & Start Time"
-    excerpt: "Nicholls Colonels vs. McNeese Cowgirls women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-18T10:21:00Z
-    webUrl: "https://www.ksla.com/sports/betting/2024/03/02/nicholls-vs-mcneese-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KSLA
-      domain: ksla.com
-    quality: 22
-    images:
-      - url: "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/v2/IXF6HA3JBFPU7JJRT2IZ5I2CL4.jpg?auth=d2ab8351d284c88031dfd4ebf9098437baf595389bd36b863bca8b5b6352d326&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "UTEP vs. Liberty March 2 Women's Basketball Tickets & Start Time"
-    excerpt: "UTEP Miners vs. Liberty Lady Flames women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-18T10:20:00Z
-    webUrl: "https://www.ktre.com/sports/betting/2024/03/02/utep-vs-liberty-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KTRE
-      domain: ktre.com
-    quality: 22
-    images:
-      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/NXPE4XD75ZMHLFPBXVIY2NOEAE.jpg?auth=a9cefd994528b90a9f3cbc1a637b91bc7acc75e93e08b70437983317cbd19e79&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Florida vs. Auburn March 3 Women's Basketball Tickets & Start Time"
     excerpt: "Florida Gators vs. Auburn Tigers women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-18T22:22:00Z
@@ -169,20 +141,6 @@ related:
     quality: 19
     images:
       - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/LFDYLTZBCZOT7GZJOEXFWKHIXU.jpg?auth=e84eee55febd580e90b96286cf9cafc296ccfe4dbcb3a9894560aee09bafe3d3&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Jackson State vs. Texas Southern March 2 Women's Basketball Tickets & Start Time"
-    excerpt: "Jackson State Tigers vs. Texas Southern Tigers women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-18T10:21:00Z
-    webUrl: "https://www.wlox.com/sports/betting/2024/03/02/jackson-state-vs-texas-southern-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WLOX
-      domain: wlox.com
-    quality: 17
-    images:
-      - url: "https://gray-wlox-prod.cdn.arcpublishing.com/resizer/v2/XOAXIPHH3BIVLEBV4UX544NMUI.jpg?auth=52a13e4ac90c0404977adbe93fd70b681b8eb7e607f821ad2008d72267d746f1&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

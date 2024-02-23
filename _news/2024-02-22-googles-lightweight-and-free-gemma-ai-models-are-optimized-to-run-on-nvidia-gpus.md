@@ -187,6 +187,20 @@ related:
         width: 1280
         height: 751
         isCached: true
+  - title: "Google Gemma open source AI prompt performance is slow and inaccurate"
+    excerpt: "Gemma AI models provide a choice between 7B parameters, for efficient deployment and development on consumer-size GPU and TPU and 2B versions for CPU and on-device applications. Both come in base and instruction-tuned variants. Despite the accessibility ..."
+    publishedDateTime: 2024-02-23T09:18:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemma-open-source-ai-performance/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1Mn0U6HGLeg%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Google announces Gemma, its open models for AI research"
     excerpt: "Gemma was developed by Google DeepMind and other teams across the company, and is “built from the same research and technology used to create the Gemini models,” including technical and infrastructure components. Name-wise, it’s Latin for “precious ..."
     publishedDateTime: 2024-02-21T13:00:00Z

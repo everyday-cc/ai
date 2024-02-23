@@ -392,6 +392,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Nvidia's earnings soar as AI hits the mainstream"
+    excerpt: "The surge in Nvidia’s earnings has made the chip-making company the third-most valuable US-listed company in the stock market, following Microsoft and Apple, having stepped over Amazon and Alphabet to do so. The results run in favor of AI technologies ..."
+    publishedDateTime: 2024-02-23T10:32:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43749/nvidias-earnings-soar-as-ai-hits-the-mainstream"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fotolia_32602248_subscription_l(1)_1.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Nvidia app launches in beta: Nvidia's new GPU control panel is much faster, no log in required"
     excerpt: "One is RTX Dynamic Vibrance, which Nvidia says is an AI-enhanced adaptive vibrance feature you can apply ... with AMD's offering and no longer a point of discussion when comparing GPU brands. If you want to try out the Nvidia App beta you should be able ..."
     publishedDateTime: 2024-02-22T10:43:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/02/stability-a
 webUrl: "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15281_0526.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Stable Diffusion 3 AI image generator launched by Stability AI"
+    excerpt: "This level of comprehension is a testament to the strides made in AI’s ability to interpret human language and translate it into coherent visual representations. What sets Stable Diffusion 3 apart even further is its commitment to community-driven progress."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/stable-diffusion-3/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Stable-Diffusion-3-AI-image-generator.jpg"
+        width: 1280
+        height: 808
         isCached: true
   - title: "Stability AI announces early preview of Stable Diffusion 3 text-to-image model"
     excerpt: "Open generative artificial intelligence startup Stability AI Ltd. today announced the early preview of Stable Diffusion 3, the next generation of its highly advanced text-to-image AI model. The new model makes a large number of improvements over its ..."

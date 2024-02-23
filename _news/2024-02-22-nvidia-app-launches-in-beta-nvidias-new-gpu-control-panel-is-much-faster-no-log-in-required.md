@@ -402,6 +402,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Nvidia's earnings soar as AI hits the mainstream"
+    excerpt: "The surge in Nvidia’s earnings has made the chip-making company the third-most valuable US-listed company in the stock market, following Microsoft and Apple, having stepped over Amazon and Alphabet to do so. The results run in favor of AI technologies ..."
+    publishedDateTime: 2024-02-23T10:32:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43749/nvidias-earnings-soar-as-ai-hits-the-mainstream"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fotolia_32602248_subscription_l(1)_1.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Nvidia is offering samples of two new AI chips for the China market"
     excerpt: "Nvidia (NASDAQ: NVDA ) is now providing samples of two new AI chips to its customers developed for the Chinese market, the company’s CEO Jensen Huang told Reuters Wednesday. \"We're sampling it with customers now. Both of them comply with the regulation without a license. We're looking forward to customer feedback on it,” Huang said in an interview."
     publishedDateTime: 2024-02-22T11:55:00Z

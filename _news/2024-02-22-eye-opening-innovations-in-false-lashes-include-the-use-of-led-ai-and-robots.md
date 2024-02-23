@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Robotics to Play Key Roles in Space Exploration"
-    excerpt: "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us."
-    publishedDateTime: 2024-02-19T14:52:00Z
-    webUrl: "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space"
+  - title: "AI comes to the world of beauty as eyelash robot uses artificial intelligence to place fake lashes"
+    excerpt: "Artificial intelligence is making its way into esthetics with a new application in eyelash extensions. A Bay Area-based company called Luum has released an AI-powered eyelash extension machine ..."
+    publishedDateTime: 2024-02-20T10:54:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
     type: article
     provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 69
+      name: Fox News
+      domain: foxnews.com
+    quality: 105
     images:
-      - url: "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Viral career trend takes place of interview small talk, plus eyelash robot enters AI beauty space"
+    excerpt: "The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values."
+    publishedDateTime: 2024-02-20T20:07:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 91
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/job-interview-newsletter-split.jpg?ve=1&tl=1"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "9/WhqTT6wcDvvvvFAWgupzJq/3jg4ecNrDCsp8ksY7rGLqK7dqsFTfTbpd+fXGeHiXGGgsaJrr1H083SpmaApyUnt31DQn1rtFE/0tZ1YzFJ+o+rVl1IXtniM0RecCRel+0kri9mIVoYytGVCoj+xwKebINEdft72J5hQx6mXoMn9slUD2MtZzzkMcq8b3VOvI4uj5c5fviy0BGcD7hlZHw8hMhO2wHiQMZwpFwzCip2VZUqW+RCjcZN69YSepjLFdx6qLZMKBczEaGAixBrZIHq1664Z67Dp/i9QqVUypmq7z/3eCUUH3OqNLcQAnGbfHMnzJ7mH3XOX40dP0M3xKATZD93KtRuPllt9E6GSYn725x1B/Unk752UPHLxXvCDkNo40ppLYNFgw+SD9r8sU1nkmCNT0beUppuVaOY6gs8leZkX90+P03sbsTNfuuMEfQE2rC9gU4R7/1SkBH8cNdHYV2zh3ucWSYChDjZronRVK2AWYyvMtr7vIq6LOy1eX9/LFH+xEXT2UGBX9Aalg==;EedtLEAGRXLgcbSOlfc8uw=="

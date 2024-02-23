@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-23-california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.md",
+      "title": "California blocks driverless Waymo expansion, Motorola launches £90 smartphone",
+      "excerpt": "California has blocked a Google-backed driverless car company from expanding to more cities after a series of accidents. The California Public Utilities Commission (CPUC) has suspended a request by Waymo, which is owned by Google’s parent company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techdigest.tv/2024/02/california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.html",
+      "originalUrl": "https://www.techdigest.tv/2024/02/california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2024/02/0_Moto-g4_4.webp?resize=725%2C434&#038;ssl=1",
+          "width": 725,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Digest",
+        "domain": "techdigest.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-driving-the-future-ai-ethics-and-jobs-in-the-age-of-automation.md",
       "title": "Driving the Future: AI, Ethics and Jobs in the Age of Automation",
       "excerpt": "Venture into the epicenter of innovation with Jonathan Campos as we dissect the titans of tech, steer through the self-driving revolution and grapple with AI's impact on jobs.",
@@ -303,6 +346,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-self-driving-startup-recogni-nabs-102-million-to-design-ai-chip.md",
+      "title": "Self-Driving Startup Recogni Nabs $102 Million to Design AI Chip",
+      "excerpt": "Recogni Inc., an artificial intelligence startup that builds technology ... But in recent years, investors have retreated somewhat from ventures related to self-driving cars amid high-profile setbacks from leading businesses in the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dcs-static.gprod.postmedia.digital/15.4.1/websites/images/canada/fallback.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/",
+      "publishedDateTime": "2024-02-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1314,92 +1401,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.md",
-      "title": "Crowd sets Waymo self-driving car ablaze in San Francisco",
-      "excerpt": "A crowd vandalized a Waymo self-driving vehicle and set it on fire in San Francisco on Saturday, said Waymo, which is owned by Alphabet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107371968-17076799512024-02-11t184546z_1479943353_rc2a06a3oscq_rtrmadp_0_waymo-san-francisco.jpeg?v=1707679980",
-          "width": 2200,
-          "height": 1238,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "publishedDateTime": "2024-02-11T17:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-self-checkout-walmart-wegmans-target-pull-back-as-ai-promises-upgrades-to-combat-shoplifting.md",
-      "title": "Self-checkout: Walmart, Wegmans, Target pull back, as AI promises upgrades to combat shoplifting",
-      "excerpt": "Shoppers like the speed but dislike the chore, while retailers like the efficiency but worry about a rise in shoplifting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/business/self-checkout-shoplifting-stew-leonards-holiday-farms-wus4aed2",
-      "originalUrl": "https://www.newsday.com/business/self-checkout-shoplifting-stew-leonards-holiday-farms-wus4aed2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/business/self-checkout-shoplifting-stew-leonards-holiday-farms-wus4aed2",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/self-checkout-shoplifting-stew-leonards-holiday-farms-wus4aed2",
-      "publishedDateTime": "2024-02-09T19:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

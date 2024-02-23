@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Mississippi Valley State vs. UAPB March 2 Women's Basketball Tickets & Start Time"
-    excerpt: "Mississippi Valley State Delta Devils vs. Arkansas-Pine Bluff Golden Lions women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-18T10:21:00Z
-    webUrl: "https://www.wlox.com/sports/betting/2024/03/02/mississippi-valley-state-vs-uapb-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WLOX
-      domain: wlox.com
-    quality: 17
-    images:
-      - url: "https://gray-wlox-prod.cdn.arcpublishing.com/resizer/v2/N4EEHTBINVIHHHFMFHF2V6KACI.jpg?auth=81ce4b83e29922b4c020a498dc2446aacb350a21291e8abf1ba54350653b4d65&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Northern Colorado vs. Northern Arizona March 4 Women's Basketball Tickets & Start Time"
     excerpt: "Northern Colorado Bears vs. Northern Arizona Lumberjacks women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-20T12:20:00Z
