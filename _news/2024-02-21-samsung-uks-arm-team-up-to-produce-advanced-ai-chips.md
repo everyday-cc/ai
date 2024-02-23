@@ -91,20 +91,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
-  - title: "Mark Zuckerberg Shared a Hands-On Review of the Apple Vision Pro in This Week's Tech Roundup"
-    excerpt: "Mark Zuckerberg took to Instagram to give his hands-on review of the Apple Vision Pro headset. While Zuckerberg praised Apple ’s eye-tracking technology and higher-resolution screen, Meta ’s Quest 3 seems to have Zuck’s heart."
-    publishedDateTime: 2024-02-18T23:00:00Z
-    webUrl: "https://hypebeast.com/2024/2/weekly-tech-roundup-mark-zuckerberg-review-apple-vision-pro"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 13
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F02%2Fweekly-tech-roundup-mark-zuckerberg-review-apple-vision-pro-tw.jpg?w=1080&cbr=1&q=90&fit=max"
-        width: 1080
-        height: 540
-        isCached: true
 
 secured: "1INVGdj9PXtcel4TWGFN1egYJnRr9vjoDSQTDo1KgYbr99HlMdoEYpue3Dz/0X4yzvpObGxS2UP/1BXhVoZpXDz9e9s4ji7UWinsIIKDkZW5bIS5SpU0IAiBwY7WrAU4lBh3h4/eUyB1+7HUH26ivOJNJ63R1NUW/QWzIEILKBiLRSvNsFTofwYRBF89lrRqWQjcNIUAliGT4b4nOk+IObqaQf/aSJqJsMY2WJK1UfTmr0+PDjo+xn2lnT+dPEFol9qrD5rhFb0z/7dIDRKq7VFAL0iqFQ5M/SEvhCnMhrBv8qaSbu4sWJL0cgB08j729k3J1zDtAp1jf2t91uxbfEhqWw1BWuBmDrMEKPdDdlvFKXVRI/kRTjqJobT4Lqtql6Q9xGKyN0hbL6H+KgZ5CRBXyygIJBdS6oz3gK0IiorcVyEqVG3R1ukEnVgzxEts8jZWQypPtbEszKlVA4v7BK4kzI9pNYnk9KNLkaBZP2beIMKghs1y27+3xfEaehEKsuZ8scEUtPBZCVQrCRyW6w==;SVxsfnvD0WxBTSyeDb0Xqw=="
 ---

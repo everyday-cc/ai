@@ -23,47 +23,114 @@ topics:
   - AI
 
 related:
-  - title: "Gab’s Racist AI Chatbots Have Been Instructed to Deny the Holocaust"
-    excerpt: "In recent years it has thrived as a haven for people who have been kicked off mainstream platforms like Twitter, Instagram, and Facebook. As generative AI chatbots such as OpenAI’s ChatGPT have become popular, the right has increasingly claimed that the ..."
-    publishedDateTime: 2024-02-21T11:31:00Z
-    webUrl: "https://www.wired.com/story/gab-ai-chatbot-racist-holocaust/"
+  - title: "Google DeepMind forms a new org focused on AI safety"
+    excerpt: "This morning, Google DeepMind, the AI R&D division behind Gemini and many of Google’s more recent GenAI projects, announced the formation of a new organization, AI Safety and Alignment — made up of existing teams working on AI safety but also broadened ..."
+    publishedDateTime: 2024-02-21T15:01:00Z
+    webUrl: "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/"
+    ampWebUrl: "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://media.wired.com/photos/65d512ac5503edf560835d2c/191:100/w_1280,c_limit/politics_gab_chatbot_extreme_racist.jpg"
-        width: 1280
-        height: 670
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Google Is Giving Away Some of the A.I. That Powers Chatbots"
-    excerpt: "Those are resources that most organizations — let alone individuals — do not have. Cade Metz writes about artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas of technology. More about Cade Metz Nico Grant is a ..."
+  - title: "Google DeepMind has a new family of open AI models for devs: Gemma"
+    excerpt: "Google DeepMind's new open AI models, Gemini, are available now to researchers and developers — but only if they're responsible"
+    publishedDateTime: 2024-02-21T15:34:00Z
+    webUrl: "https://thenextweb.com/news/google-deepmind-unveils-gemma-open-models-ai-research"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-2-2.jpg&signature=6bbfa0e5bba21649e161de4317908ce6"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Google DeepMind alumni unveil Bioptimus: Aiming to build first universal biology AI model"
+    excerpt: "Today the Paris-based Bioptimus, which plans to build the first universal AI foundation model for biology, emerged from stealth with $35M."
+    publishedDateTime: 2024-02-20T14:17:00Z
+    webUrl: "https://venturebeat.com/ai/google-deepmind-alumni-unveil-bioptimus-aiming-to-build-first-universal-biology-ai-model/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-20-08.57.21-A-panoramic-detailed-image-showcasing-the-different-scales-of-biology-in-a-seamless-transition.-The-image-begins-with-a-magnified-view-of-molecules-.webp?w=1200&strip=all"
+        width: 1200
+        height: 685
+        isCached: true
+  - title: "AI regulation will be required in 5-10 years: DeepMind's Mustefa Suleyman"
+    excerpt: "Suleyman stressed the importance of regulating AI to prevent misuse of information and its impact on nation states."
+    publishedDateTime: 2024-02-20T10:45:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 73
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-9502,msid-107852095/mustefa-suleyman.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Nothing special about human mind that can't be reproduced by AI: DeepMind co-founder"
+    excerpt: "AI would be very useful without consciousness and not with it because it will be quite a slippery concept, said Mustafa Suleyman"
+    publishedDateTime: 2024-02-20T07:03:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/nothing-special-about-human-mind-that-cant-be-reproduced-by-ai-deepmind-co-founder-12310281.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/nothing-special-about-human-mind-that-cant-be-reproduced-by-ai-deepmind-co-founder-12310281.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/nothing-special-about-human-mind-that-cant-be-reproduced-by-ai-deepmind-co-founder-12310281.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 67
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/01/Mustafa-Suleyman-Twitter-MustafaSuleyman.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Google DeepMind debuts Gemma open models, offers developer alternative to Gemini API"
+    excerpt: "Google DeepMind announced it had released Gemma — new 2B and 7B open models built from the same R&D used to create Gemini."
     publishedDateTime: 2024-02-21T13:00:00Z
-    webUrl: "https://www.nytimes.com/2024/02/21/technology/google-open-source-ai.html"
+    webUrl: "https://venturebeat.com/ai/google-deepmind-debuts-gemma-open-models-offers-developer-alternative-to-gemini-api/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 34
-  - title: "Inference.ai’s new generative AI chatbot takes the guesswork out of GPU sourcing"
-    excerpt: "Inference.ai offers an extensive selection of GPUs, with a fleet of 18 different processors from Nvidia Corp., including its most advanced H100 model. It also offers four models from Nvidia’s rival Advanced Micro Devices Inc., including the all-new MI300X that was specifically designed to handle generative AI workloads."
-    publishedDateTime: 2024-02-21T14:12:00Z
-    webUrl: "https://siliconangle.com/2024/02/21/inference-ais-new-generative-ai-chatbot-takes-guesswork-gpu-sourcing/"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-20T211417.437.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "AI hallucinations will largely be eliminated by next year, says DeepMind’s Mustafa Suleyman"
+    excerpt: "Suleyman said eliminating hallucination would have a dramatic impact on education because these conversational AI's are friendly and fluent."
+    publishedDateTime: 2024-02-20T14:35:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-hallucinations-will-largely-be-eliminated-by-next-year-says-deepminds-mustafa-suleyman-12315081.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-  - title: "How AI health care chatbots learn from the questions of an Indian women's organization"
-    excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.wral.com/story/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/21295384/"
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 24
+  - title: "Andrew Yang and 300 international experts petition for government action on AI deepfakes"
+    excerpt: "A coalition of 300 international experts drafted a letter calling for government action to address the proliferation of deepfakes, urging criminalization and penalties for those involved in their creation and dissemination."
+    publishedDateTime: 2024-02-21T13:18:00Z
+    webUrl: "https://cointelegraph.com/news/andrew-yang-experts-petition-ai-deepfakes"
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
-    quality: 11
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 10
 
 secured: "Fz7vq0AZkHGFzL+fOD+lmhu7mdXQUCDjjX2tAqeBoUNu7fRLKUzsbc7cPpGYcqPbuqD1M9j9P7iwR1EAz5Tr3475ldZNh+0/9jZ3V5nQV0dbkHqZEBe9Ryv/KHye/mI8VZO9KNfFPT+X5HxKn2W8ydo9Rdhq617hpfb/TIka9Zlk2tUk4m/2jZesKlxaYdfr6PnHBIYaOFUb1ZgA+ROBRqW75rFcZ+BRqFQadbLiMjS26E4c8Uz7+erkYK55lTuMhCyYKxWMW+X6FSIX/1o4zDPBJ54aseT3qSjp+VEL7CLYdFvXKTZvyeZkZcbn05I0LB4OHQhX/HSdFz/aLPA7rT/BLdygmI/M/SqQYZ1rZjo=;8Xf22rFo2scyWC2pwXjUtA=="
 ---

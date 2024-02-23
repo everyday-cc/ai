@@ -68,6 +68,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
+  - title: "Nvidia ramps up GPU production to fuel AI data center revolution"
+    excerpt: "The chipmaker expects demand to outpace supply through the year. “We’ll do our best,” CEO Jensen Huang said Wednesday."
+    publishedDateTime: 2024-02-22T23:01:00Z
+    webUrl: "https://www.ciodive.com/news/nvidia-gpu-data-center-revolution-jensen-huang/708273/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
 
 secured: "7NY9Y+ZwbSUvfyxP/7FOpFg5VOY6pRNACYcdBhHMhz46uOaX+P3STWTZkc5yLjb9yPUYueq52GRva6RrJnqK/puytGkW4Jh1bS+Yq1X3f8fQeZxi3bmFxKZIpwWJljLs0TkdRpAOKdODzUuG9ojOo+0v9rxvZz+m98d75Y8yB8EjMEs2Hn8fASKf/6AQvpcdfx0vRyT/137WpgqpsMw/t5Zx0WulapyPEy75sY8ED+OKtaWGd8FxuODbCLzyAztWO/I5A9NZxbEfedCQME3TndLKWgEMwQZomRPfLMQjdyW+mw2sw9uCLUP/hyxWSjUUpCak+shSDWTkpgdj1U4RqlVJbZ450OzwtQZbSBfjgL1ISt/OIHVV2Ns/r3AfW5Gmr0XLOdflgTqGpwjgsD2BpZ2KXsWcGzH2CXf5eku5nE9P5EDVh6UChSJlpGk5yenMcEbCZw5IO91rjSy1ma9DWpCerU+oqbGPPpTmSVZzrLhlpFW5q54unqqt1O9KXi0QkdmN8N9nangeoHb/hNWs+g==;TCxW4RnqfWx00L0NcuxloQ=="
 ---

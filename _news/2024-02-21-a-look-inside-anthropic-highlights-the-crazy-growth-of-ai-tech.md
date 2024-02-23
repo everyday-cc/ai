@@ -73,7 +73,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
+    quality: 49
   - title: "How AI is affecting students in high school"
     excerpt: "Some students might see AI as a “cheat code” of sorts and a way to avoid doing original work or fully embracing the learning process. Address the issue of ethics and AI with your student regularly. Acknowledge the ways that students could use AI ..."
     publishedDateTime: 2024-02-21T09:41:00Z

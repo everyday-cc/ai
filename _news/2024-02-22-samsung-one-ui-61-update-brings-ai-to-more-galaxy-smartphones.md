@@ -90,20 +90,6 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 19
-  - title: "Mark Zuckerberg Shared a Hands-On Review of the Apple Vision Pro in This Week's Tech Roundup"
-    excerpt: "Mark Zuckerberg took to Instagram to give his hands-on review of the Apple Vision Pro headset. While Zuckerberg praised Apple ’s eye-tracking technology and higher-resolution screen, Meta ’s Quest 3 seems to have Zuck’s heart."
-    publishedDateTime: 2024-02-18T23:00:00Z
-    webUrl: "https://hypebeast.com/2024/2/weekly-tech-roundup-mark-zuckerberg-review-apple-vision-pro"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 13
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F02%2Fweekly-tech-roundup-mark-zuckerberg-review-apple-vision-pro-tw.jpg?w=1080&cbr=1&q=90&fit=max"
-        width: 1080
-        height: 540
-        isCached: true
 
 secured: "PDG6OcOI2ku9uDpzGTOz25ME3vf7iVl+BIhkJF+M+iQB+jml0tfZIx8V+SJ+wjuXAtgI1AIbATPh8By/l+xyv+/MVAWyWJMa3lz2U2ZmE9scbw5RS7GpFir70wLXq1s9IRLKDVjmzKM/QL4Qb7o3+EGzqnKYbDhG2knqV7QErazmglSBoKAacStW1kCPDXec5X9urlPU3Fqb8VvFzNoWdCnWkbmpsRG0aMaSk/IpdPU3BgW1z+LUOw3PC5fCPES/pCtvoFEkWxH8a0vTNeq1tDVGoBLv2lcMQl25/6uw3uYRZz2bUNrUJet8tqSMeaPrBUGlULDH7am7Yk0WaXim/Lm15jXSRRameFmJDaqEudaNQC/w1VZFhND4nvxvJDmT2JMvjxXWVT73DlS+WdOZTxfF+Sg2rHK57axhvW9QdmQO6rLfJqezfie46bJVw1qGYG6wrAN6ANLCqmRLvYlZYp0ps58D3nCXjcq9c5hJICyjn0cUXe5e7Obl3GjOSNc9jmhdtDxVW8MnsGncK+X29A==;ngPBoGouN7wnX0PkARimGQ=="
 ---

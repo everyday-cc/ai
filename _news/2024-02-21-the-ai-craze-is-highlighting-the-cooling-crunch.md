@@ -64,7 +64,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
+    quality: 49
   - title: "A Look Inside Anthropic Highlights the Crazy Growth of AI Tech"
     excerpt: "Amid the explosive growth of AI tech, one of the buzziest in the headlines is among the least recognized: Anthropic. Founded 2021 in San Francisco by former team members of the other, super-buzzy artificial intelligence company OpenAI,"
     publishedDateTime: 2024-02-20T16:51:00Z

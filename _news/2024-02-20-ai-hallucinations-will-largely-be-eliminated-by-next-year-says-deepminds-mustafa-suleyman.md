@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind uses AI to tackle neglected deadly diseases"
-    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ..."
-    publishedDateTime: 2024-02-18T22:15:00Z
-    webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-9FT--3HYQWbvIWWbDYSUCm5ft_BLYbyhJdYSYFk1qljTYVg12dR2_abiOrzPltz6D2fXER"
-    ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google DeepMind forms a new org focused on AI safety"
     excerpt: "This morning, Google DeepMind, the AI R&D division behind Gemini and many of Google’s more recent GenAI projects, announced the formation of a new organization, AI Safety and Alignment — made up of existing teams working on AI safety but also broadened ..."
     publishedDateTime: 2024-02-21T15:01:00Z
@@ -79,6 +63,22 @@ related:
         width: 1200
         height: 685
         isCached: true
+  - title: "AI regulation will be required in 5-10 years: DeepMind's Mustefa Suleyman"
+    excerpt: "Suleyman stressed the importance of regulating AI to prevent misuse of information and its impact on nation states."
+    publishedDateTime: 2024-02-20T10:45:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 73
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-9502,msid-107852095/mustefa-suleyman.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Nothing special about human mind that can't be reproduced by AI: DeepMind co-founder"
     excerpt: "AI would be very useful without consciousness and not with it because it will be quite a slippery concept, said Mustafa Suleyman"
     publishedDateTime: 2024-02-20T07:03:00Z
@@ -109,6 +109,24 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Google DeepMind C.E.O. Demis Hassabis on the Path From Chatbots to A.G.I."
+    excerpt: "For more audio journalism and storytelling, download New York Times Audio, a new iOS app available for news subscribers. Hosted by Kevin Roose and Casey Newton Produced by Davis Land and Rachel Cohn Edited by Jen Poyant Engineered by Chris Wood Original mu ..."
+    publishedDateTime: 2024-02-23T10:04:00Z
+    webUrl: "https://www.nytimes.com/2024/02/23/podcasts/google-deepmind-demis-hassabis.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 48
+  - title: "Andrew Yang and 300 international experts petition for government action on AI deepfakes"
+    excerpt: "A coalition of 300 international experts drafted a letter calling for government action to address the proliferation of deepfakes, urging criminalization and penalties for those involved in their creation and dissemination."
+    publishedDateTime: 2024-02-21T13:18:00Z
+    webUrl: "https://cointelegraph.com/news/andrew-yang-experts-petition-ai-deepfakes"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 10
 
 secured: "+f+lA3e8V3MlqAMyNnZqoOZrW1aQV0tUbgPf8siaX9vpSomOxKyWY1qf+JWNY56aR8Cq7TlfVAcYsRdfsIoLuULceGg6yx4AWhx+1jQcJsD44Aka4yKKUs7qd++NqjphyKmkAzYUM9j0YsggQ289prskDmy8Z0kt64QAjyPpffgOIEVIom+TzccFGH4o4LRuy3w8Dtd38zSRpQhPgWvTRtucV8AcSb0HPff03fBQYfxCZXD7QJKynxbBmo4kx3q+kk2rSdq1it30gzq08RkuIyA8KM5FE2jI9kcm3SDDZn6NRBZj7er7Yx0+xdSyVU3LTan175uAT9rkBY7mk9Jvmqt28D8UTU1DlKomFUA4CISt3MS0rzM6KC9A8UKRtrHrrQozpEROv/F8aif/bn1MK2Z1cJa1FUJc8K1uH2F27PCsCDagYXiKukIXA/PPsaBYxHsbszmUMyDXYersmKv+nEuTYmwrPxu6rc6CvbblwxGHG9LMXbYQ0hDU+uHaDlYIihYMXFkt6pSv+sBjjPkkTQ==;4/Biqk7qPlZrtrBB3bNrmg=="
 ---

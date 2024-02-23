@@ -57,6 +57,20 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "How to navigate talent management in the age of AI"
+    excerpt: "Valuing human skills, fostering inclusivity and navigating the ethics of AI can make tech roles sustainable and fulfilling."
+    publishedDateTime: 2024-02-23T21:20:00Z
+    webUrl: "https://www.ciodive.com/news/AI-tech-talent-management-mastercard/707910/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
   - title: "New York Department of Financial Services Issues Proposed Circular Letter on Use of AI in Insurance Industry"
     excerpt: "On Jan, 17, 2024 the New York State Department of Financial Services ... system is defined as “any machine-based system designed to perform functions normally associated with human intelligence, such as reasoning, learning, and self-improvement, that ..."
     publishedDateTime: 2024-02-23T00:01:00Z

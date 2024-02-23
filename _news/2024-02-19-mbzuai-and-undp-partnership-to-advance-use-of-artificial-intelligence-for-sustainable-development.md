@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-und
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Zawya
@@ -42,6 +42,15 @@ related:
         width: 1280
         height: 854
         isCached: true
+  - title: "Accelerating Product Development For The AI Age"
+    excerpt: "The sudden emergence of ChatGPT kicked off a race to create new products powered by generative artificial intelligence."
+    publishedDateTime: 2024-02-20T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/accelerating-product-development-for-the-ai-age/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "o/bZr89+4Um+kLUFpzjc6vrvnkNjRZes0Q/4XkWxb+BxK5TzGzBQX3JbTJj2cafexHbnXEGm8uFRq0gJxuFQUe15Eqinkfn9wEsKtIQrWXbp6TrX3Lob+1r0PPLPN/56gA035ggvwIbaokVSJ8IcHBKR26oFw33pcSEHf1cnzkAtPsYelc1wHafnXHGoD+OvUJa4Maziavxz/H4zcTybymNugedXPO+IHfwcwFBelNQdrnW9iGoShZOsKX17DIv+ECx5VggzTfWsjP4dZ6RvrF3+2SxO1wsXkMVb/twUqw594KouVHBl+02Jr0JlP6V/Y4qshoP6G+q7243aS0RqJ/xb+z3TsdFp1jwUhOBvrEM=;KLEFc70oMAl1fvMc1VRQnw=="
 ---

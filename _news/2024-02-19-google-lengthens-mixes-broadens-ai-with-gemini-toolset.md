@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-leng
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
 type: article
 quality: 93
-heat: 363
+heat: 373
 published: true
 
 provider:
@@ -341,6 +341,20 @@ related:
       - url: "https://s3.amazonaws.com/images.seroundtable.com/google-toggles-1708514122.jpg"
         width: 1456
         height: 832
+        isCached: true
+  - title: "Google Pauses Gemini Image Generation"
+    excerpt: "Google paused its Gemini image generation capabilities after users complained of its inaccurate and offensive output."
+    publishedDateTime: 2024-02-23T21:33:00Z
+    webUrl: "https://www.thurrott.com/a-i/google-gemini-a-i/298263/google-pauses-gemini-image-generation"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 24
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/gemini-image-gen.jpg"
+        width: 1066
+        height: 600
         isCached: true
   - title: "Google updates Gemini AI, apologizes for 'woke' inaccurate imagery"
     excerpt: "These two updates followed the most recent one on Feb. 8, through which Google rebranded its chatbot from Bard to Gemini and included many upgraded features and capabilities. However, neither of the updates mentioned any change to Gemini’s image output."

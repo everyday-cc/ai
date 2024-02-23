@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "You better not cry while wearing the Apple Vision Pro"
+    excerpt: "Crying while watching movies with the Vision Pro isn't recommended, or supported - here's what you need to know."
+    publishedDateTime: 2024-02-23T18:28:00Z
+    webUrl: "https://bgr.com/tech/you-better-not-cry-while-wearing-the-apple-vision-pro/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 4
 
 secured: "lWgEDHAiPAtqVogTiij/OSrKzIs6CZ/blNHsPjfdjGt4wKmsgSbtRuTfN+a8fkHqeCScDUR68fDVTZxeHt8guQIxaRHY0vWwbtMaZcipB5va0av3M2lyMHHRuNkrECY9aAOpx2P9ujTapdkaYiwHy71Q8lJ6KN99ev6HleTe76KKbC2GhylymgVQ00yv7eIDeDMtSqorEqH+L17p7RnRGN2ySthfJG3TIFkvXDx5uVZm43SU9fT6BXvYImjBoGMrALQfU88uGnQntVw/oHU8JjeM+AJ2lw2hB1wv6q3Nu4uGaVNq8TTyF4VsUzQzGyQZxn1pI2bTJKS/jUpFe533V1a6/2UFLIvnbwp3svs43ZlZPETcYZ+agO/SGseB9HPuFHjAWEsmLwlP6/m2hp6jH5BdGl4c8fGiw0zfbGkrdZOvAPLZnXkVQGnTmXYDJYIMFldFYVcZ776PA+1jsZNR8qsSw9BN1JIWMoWtyElz1mBqAbAswd3gsZQhCXTu2ZU6S4ZnNdt8Bi5NW9OemO+/qQ==;Nk/b0CJaO0cwRnx76ge9rw=="
 ---

@@ -58,6 +58,15 @@ related:
         width: 1280
         height: 841
         isCached: true
+  - title: "AI Boom Pushes Nvidia's Market Value To $2 Tln"
+    excerpt: "Chipmaker Nvidia's (NVDA) market capitalization hit the $2 trillion mark, fueled by robust demand for AI chips, during the intraday"
+    publishedDateTime: 2024-02-23T20:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-boom-pushes-nvidia-s-market-value-to-2-tln-1033098929"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "AI Leader Nvidia Rises as Forecast Tops Wall Street's Lofty Goals"
     excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. The share surge that fueled S&P 500's climb to record highs this year had sparked fears that growth at Nvidia, the bellwether for AI demand, could ..."
     publishedDateTime: 2024-02-22T04:51:00Z
@@ -94,6 +103,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96310_01_nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai_full.jpg"
         width: 1500
         height: 796
+        isCached: true
+  - title: "Nvidia Is Now a $2 Trillion-Dollar Company Thanks to AI Dominance"
+    excerpt: "Nvidia joins Microsoft and Apple as the three US-based companies to reach the $2 trillion market cap. Despite companies like Microsoft looking to make its own AI chips and rely less on Nvidia, a recent report from Reuters claims that Nvidia is working on a new $30 billion business unit that will focus on creating custom AI chips for companies."
+    publishedDateTime: 2024-02-23T19:15:00Z
+    webUrl: "https://www.ign.com/articles/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 39
+    images:
+      - url: "https://assets-prd.ignimgs.com/2024/02/23/nvidia-blogroll-logos-1708718418344.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "vBV93p2DY0+O73P3cEIzSXxZ+7l9Ct5J+ivUVby5VgC89saNbV5E0mwZB4QyvsFpdoXM1ZKpu0PmRC1jQ9PQk+G0wj72CxTI341yBKrTl8m8h94awKhO20W+eP3+pTe3mH8vE4McNwop2bhOqHVLV7tNKUImpPIx8N+l5ubSNY8k/tX36PKQevLJn+HQkxU+tNYYO7sWjUVaoAeTcLseVQaqfrNEHs5P9kf5uVrusk0EGjGg9JxEFGAXiakW7YziQ2+fyYIjH1sshv7Z8Aqju2PE4yJyL91TtB1pn0+aHsSujVZi1GBvlanTKvLOWiDWaFPgfs6XySPSxu3eMvD3gS21b6r1l1iQX5AXw9gg48MqdafNEho4gsDf2Q9X7ANtgtBGG4QmDsxWNHqgx80DVTN+7DUV684HPteXy2PHiHlvUyuYiq6djO8ABOLg8DwL66zbFNYsEzM/uVvIw4ZezF9H7v8UlVl+OX1pxVU7zA+oDoLRTrdkAFKdsrt9eTe29iCJn0sPz9jivwC+zqpeTw==;1vO3YMBsoCF0oeIu7zGY7w=="

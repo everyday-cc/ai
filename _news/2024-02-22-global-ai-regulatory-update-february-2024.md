@@ -89,20 +89,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "Blues vs. Maple Leafs February 19 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Toronto Maple Leafs' Mitchell Marner and the St. Louis Blues' Pavel Buchnevich are two of the most exciting players to keep an eye on when these squads face off on Monday at 1:00 PM ET, at Enterprise Center."
-    publishedDateTime: 2024-02-18T22:00:00Z
-    webUrl: "https://www.wowt.com/sports/betting/2024/02/19/blues-vs-maple-leafs-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WOWT.com
-      domain: wowt.com
-    quality: 22
-    images:
-      - url: "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/v2/K4WJTUFITROB5LBYTCBH36ARIQ.jpg?auth=a0d4d160b6b677dec062e46591e7b10df2687a086a60144562ac1824ddc78232&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Avalanche vs. Canucks February 20 Tickets & Start Time"
     excerpt: "The Colorado Avalanche's Cale Makar and the Vancouver Canucks' Quinn Hughes are two of the most exciting players to keep an eye on when these squads play on Tuesday at 9:00 PM ET, at Ball Arena. If you're looking to go to this matchup in person, head to Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-02-20T06:01:00Z

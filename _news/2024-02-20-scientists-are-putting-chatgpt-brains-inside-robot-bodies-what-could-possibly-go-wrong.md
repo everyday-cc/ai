@@ -172,6 +172,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "Learn all about ChatGPT with this $20 course"
+    excerpt: "Don't miss your chance to grab this Introduction to ChatGPT e-course, which is on sale for just $20 (reg. $80)."
+    publishedDateTime: 2024-02-23T20:03:00Z
+    webUrl: "https://www.zdnet.com/article/learn-all-about-chatgpt-with-this-20-course/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
     excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"
     publishedDateTime: 2024-02-21T17:56:00Z

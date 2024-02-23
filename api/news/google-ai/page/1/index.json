@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-24-google-issues-ai-upgrade-warning-for-millions-of-chrome-users.md",
+      "title": "Google Issues AI Upgrade Warning For Millions Of Chrome Users",
+      "excerpt": "Google continues to change its ecosystem apace, as its evolving Gemini (née Bard) AI platform burrows its way into app after app, across desktops and mobiles. In doing so, a whole new set of risks are hitting millions of users in short order. Awareness is very low—and so Google has just responded with its latest serious warning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
+      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5e66cbd8e1e6170007593a74/0x0.jpg?format=jpg&crop=2472,1545,x868,y776,safe&height=900&width=1600&fit=bounds",
+          "width": 1440,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/",
+      "publishedDateTime": "2024-02-23T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-google-is-killing-gmails-basic-html-view-in-2024.md",
       "title": "Google is killing Gmail’s basic HTML view in 2024",
       "excerpt": "Google is currently focusing on infusing AI-powered features into its products, including Gmail. Last month, the company launched a Duet AI feature to help users write emails. Last week, it allowed the Bard chatbot to integrate with Google accounts so you ...",
@@ -158,6 +210,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-21-google-deepmind-forms-a-new-org-focused-on-ai-safety.md",
+      "title": "Google DeepMind forms a new org focused on AI safety",
+      "excerpt": "This morning, Google DeepMind, the AI R&D division behind Gemini and many of Google’s more recent GenAI projects, announced the formation of a new organization, AI Safety and Alignment — made up of existing teams working on AI safety but also broadened ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/",
+      "originalUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/",
+      "publishedDateTime": "2024-02-21T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-google-reveals-another-smaller-ai-model-gemma-for-researchers.md",
       "title": "Google reveals another smaller AI model, Gemma, for researchers",
       "excerpt": "In a blog post, Google stated that Gemma was developed by its UK-based DeepMind along with other teams at the company. Gemma does share some \"technical and infrastructure components\" with its bigger brother Gemini. There are two specific models available ...",
@@ -262,49 +366,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-20-ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman.md",
-      "title": "AI regulation will be required in 5-10 years: DeepMind's Mustefa Suleyman",
-      "excerpt": "Suleyman stressed the importance of regulating AI to prevent misuse of information and its impact on nation states.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-9502,msid-107852095/mustefa-suleyman.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms",
-      "publishedDateTime": "2024-02-20T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-19-google-lengthens-mixes-broadens-ai-with-gemini-toolset.md",
       "title": "Google Lengthens, Mixes, Broadens AI With Gemini Toolset",
       "excerpt": "The need to mix, broaden and lengthen our use of AI with fluid tokenization control and Mixture-of-Experts (MoE) architectures is very of the moment.",
@@ -313,7 +374,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 363,
+      "heat": 373,
       "tags": null,
       "images": [
         {
@@ -1367,49 +1428,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-rebrands-bard-as-gemini-launches-new-model-mobile-app.md",
-      "title": "Google Rebrands Bard As Gemini, Launches New Model & Mobile App",
-      "excerpt": "Google rebrands Bard as Gemini, upgrades it with Ultra 1.0 model, and launches mobile app for iOS and Android.",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/google-rebrands-bard-as-gemini-launches-new-model-mobile-app/507549/",
-      "originalUrl": "https://www.searchenginejournal.com/google-rebrands-bard-as-gemini-launches-new-model-mobile-app/507549/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/img_2024-02-08-073646-65c4caf5e74f1-sej.png",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T14:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Searchenginejournal.com",
-        "domain": "searchenginejournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

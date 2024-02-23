@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/
 webUrl: "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT Stock Predictions: 3 Cybersecurity Companies the AI Bot Thinks Have 10X Potential"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence becoming increasingly ingrained in our daily"
-    publishedDateTime: 2024-02-18T20:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential-1033078342"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
   - title: "The Protective Paradox: How Artificial Intelligence Helps Solve AI Cybersecurity Risks"
     excerpt: "For cybersecurity, artificial intelligence (AI) is both shield and sword. By implementing AI-driven tools, businesses are better protected against potential cyberthreats. By arming themselves with these same solutions, however, attackers are finding new ..."
     publishedDateTime: 2024-02-23T16:56:00Z

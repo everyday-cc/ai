@@ -38,15 +38,6 @@ related:
         width: 1400
         height: 784
         isCached: true
-  - title: "ChatGPT Stock Predictions: 3 Cybersecurity Companies the AI Bot Thinks Have 10X Potential"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence becoming increasingly ingrained in our daily"
-    publishedDateTime: 2024-02-18T20:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential-1033078342"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
   - title: "“Let’s Talk Compliance”: Health Care Privacy and Cybersecurity"
     excerpt: "There are lively debates on what is true AI or simply smart algorithms. In this webinar, AI is discussed as an impact on health care and the potential risks it may bring as more and more turn toward AI for assistance. Wider AI adoption could save the U.S ..."
     publishedDateTime: 2024-02-23T00:01:00Z

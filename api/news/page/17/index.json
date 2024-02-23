@@ -2,6 +2,177 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2024-02-12-boycott-tesla-super-bowl-ads-target-self-driving-technology.md",
+      "title": "‘Boycott Tesla’ Super Bowl ads target self-driving technology",
+      "excerpt": "A pair of Super Bowl ads went after Tesla’s self-driving technology Sunday, asking viewers to boycott the company and claiming that its vehicles are unsafe. The Dawn Project’s ads follow a ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/",
+      "originalUrl": "https://thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/",
+      "publishedDateTime": "2024-02-12T10:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-microsoft-preparing-for-a-quantum-leap.md",
+      "title": "Microsoft: Preparing For A Quantum Leap",
+      "excerpt": "Microsoft has launched Azure Quantum, a cloud-based platform for researchers to learn quantum programming. Read why I rate MSFT stock a strong buy.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4669491-microsoft-preparing-for-a-quantum-leap",
+      "originalUrl": "https://seekingalpha.com/article/4669491-microsoft-preparing-for-a-quantum-leap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.gettyimages.com/id/1241725400/photo/quantum-leap-a-portrait-for-troian-february-7-1971-episode-2-pictured-deborah-pratt-as-troian.jpg?b=1&s=594x594&w=0&k=20&c=B-k-GdCjYCVtWpFQWAmebAax0AM1ghxnG2Sb933vek0=",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T10:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-is-ai-making-our-code-stupid.md",
+      "title": "Is AI making our code stupid?",
+      "excerpt": "AI-generated code has transformed software development forever. That’s not necessarily good. A solid review process can shrink bloat and attack surfaces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712685/is-ai-making-our-code-stupid.html",
+      "originalUrl": "https://www.infoworld.com/article/3712685/is-ai-making-our-code-stupid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/04/bloated-puffer-fish-by-brian-yurasits-via-unsplash-100940180-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712685/is-ai-making-our-code-stupid.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712685/is-ai-making-our-code-stupid.amp.html",
+      "publishedDateTime": "2024-02-12T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars.md",
+      "title": "3 Blue-Chip Stocks to Buy for the Upcoming AI Wars",
+      "excerpt": "The United Kingdom has promised to pour $1.3 billion over the next five years into AI and supercomputing, while China will put in double that amount. If you include government subsidies of chip factories (the most capital-intensive part of AI investment ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T06:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact.md",
       "title": "How Luxury Brands Are Leveraging Blockchain and AI For Business Impact",
       "excerpt": "When it comes to blockchain, luxury brands from watches to jewelry and leather goods are doubling down on utility, leveraging the technology to bring real impact to",
@@ -994,170 +1165,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-general-intelligence-embodied-in-a-humanoid-robot.md",
-      "title": "General Intelligence Embodied in a Humanoid Robot",
-      "excerpt": "His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2024/02/general-intelligence-embodied-in-a-humanoid-robot.html",
-      "originalUrl": "https://www.nextbigfuture.com/2024/02/general-intelligence-embodied-in-a-humanoid-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-imran-khans-victory-speech-from-jail-shows-ais-peril-and-promise.md",
-      "title": "Imran Khan’s ‘Victory Speech’ From Jail Shows A.I.’s Peril and Promise",
-      "excerpt": "But from behind bars, he has been rallying his supporters in recent months with speeches that use artificial intelligence to replicate his voice, part of a tech-savvy strategy his party deployed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/11/world/asia/imran-khan-artificial-intelligence-pakistan.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/11/world/asia/imran-khan-artificial-intelligence-pakistan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/10/multimedia/11xp-pakistan-AI-fvjg/10xp-pakistan-AI-fvjg-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-openai-and-1x-robotics-autonomous-robots-will-change-the-world.md",
-      "title": "OpenAI and 1X Robotics autonomous robots will change the world",
-      "excerpt": "It’s a significant step forward in the field of humanoid robots, and it’s sparking conversations about the future of artificial intelligence and ... reflexes are made possible by its advanced neural networks, which process information directly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/autonomous-robots/",
-      "originalUrl": "https://www.geeky-gadgets.com/autonomous-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-and-1X-Robotics-autonomous-humanoid-Robotics.jpg",
-          "width": 1280,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-goodbye-bard-googles-ai-is-now-gemini.md",
-      "title": "Goodbye Bard, Google’s AI is now Gemini",
-      "excerpt": "If you've been following Google for any amount of time, you know they are prone to having a myriad of products and confusing nomenclature. The company's efforts in AI are the most recent example of this.",
-      "sourceUrl": null,
-      "webUrl": "https://chromeunboxed.com/goodbye-bard-googles-ai-is-now-gemini/",
-      "originalUrl": "https://chromeunboxed.com/goodbye-bard-googles-ai-is-now-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T20:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "chromeunboxed.com",
-        "domain": "chromeunboxed.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

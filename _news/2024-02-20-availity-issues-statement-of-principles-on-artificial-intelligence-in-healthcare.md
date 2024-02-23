@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-availity-issues-statement-principl
 webUrl: "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       name: patientengagementhit
       domain: patientengagementhit.com
     quality: 33
+  - title: "Driving Accessibility in HealthTech: 3 Things Founders should Consider for Thoughtful AI Implementation in 2024"
+    excerpt: "The benefits of artificial intelligence in healthcare are apparent. With careful planning, we can ensure that these developments benefit everyone, leaving no one behind in the goal of a healthier and more equal future."
+    publishedDateTime: 2024-02-23T22:31:00Z
+    webUrl: "https://medcitynews.com/2024/02/driving-accessibility-in-healthtech-3-things-founders-should-consider-for-thoughtful-ai-implementation-in-2024/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 17
+    images:
+      - url: "https://medcitynews.com/uploads/2021/07/GettyImages-1290118946.jpg"
+        width: 736
+        height: 474
+        isCached: true
 
 secured: "sAgYd+3ESF4u3x/duN2qQ8FkCk8nhGQrcUX22gmV0tEqnpttV8Gwe6+QjTTVEIRGhYNYkTeLpPzHZtDkRuvaydmR3QC14ObO3jep0BJYGWE2Qz32+CRpAvMDlcjkYt8gU2dKev/Zp0ADEtMCusCDyThfQSZ3qYppiNIu/FRvvuR+J50LeYM/3Q1M67bbPxLhq1EhJuyYoyIK+5J/C1FXukPMChvSW1wOOQjPYe6wStOc5kvc257uF6PRusrkitGT8pVcGaRMVKdZTFQ+kN21YoPHy4F7PIMUgmesqAV1XyVWheh2v9o7EDjEWqxhA5+oFMfQeCW+f+cDO8nmpiviuif6j/AuJUOjvrbhlWaPZ7Q=;rLFKnMa/kX4QVKKa+Nq8Eg=="
 ---

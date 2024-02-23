@@ -2,6 +2,41 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-16-google-deepmind-used-a-large-language-model-to-solve-an-unsolvable-math-problem.md",
+      "title": "Google DeepMind Used a Large Language Model to Solve an Unsolvable Math Problem",
+      "excerpt": "Google DeepMind has used a large language model to crack a famous unsolved problem in pure mathematics. In a paper published in Nature today, the researchers say it is the first time a large language model has been used to discover a solution to a long-standing scientific puzzle—producing verifiable and valuable new information that did not previously exist.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/278734-google-deepmind-used-a-large-language-model-to-solve-an-unsolvable-math-problem",
+      "originalUrl": "https://cacm.acm.org/news/278734-google-deepmind-used-a-large-language-model-to-solve-an-unsolvable-math-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T16:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-googles-tensorflow-revolutionizing-machine-learning-and-ai-development.md",
       "title": "Google’s TensorFlow: Revolutionizing Machine Learning and AI Development",
       "excerpt": "Introduction: In the ever-evolving landscape of artificial intelligence, Google’s TensorFlow stands as a beacon of innovation, revolutionizing the way we approach machine learning and AI development.",
@@ -1395,49 +1430,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans.md",
-      "title": "This DeepMind AI Rapidly Learns New Skills Just by Watching Humans",
-      "excerpt": "Most algorithms learn to mimic humans from hundreds or thousands of examples. But a new AI from Google DeepMind picks up new skills from humans on the fly.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/",
-      "originalUrl": "https://singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/12/two-colorful-parrots-cocking-their-heads.jpeg",
-          "width": 1408,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/?amp=1",
-      "publishedDateTime": "2023-12-01T19:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

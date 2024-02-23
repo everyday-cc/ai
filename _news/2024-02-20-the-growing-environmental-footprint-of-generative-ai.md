@@ -122,15 +122,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 21
-  - title: "Appy Pie launches AI Animation Generator with a Range of New AI Tools"
-    excerpt: "The AI animation generator from Appy Pie is backed with features like natural language processing, real-time previews and edits, background music integration, voice over capabilities, and much more, making it easy for users to create animations for their ..."
-    publishedDateTime: 2024-02-18T21:10:00Z
-    webUrl: "https://www.palmbeachpost.com/story/special/contributor-content/2024/02/18/appy-pie-launches-ai-animation-generator-with-a-range-of-new-ai-tools/72653531007/"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 19
 
 secured: "W/T0H2cRSTZTrtanXoqpANi9TDtRH8YQaE8JcqU2OQKk1RI5RhGKFIOc1iunAGWqiiBcNagvMMaXee7R83uY2QWX4qrypytD2yL7ryQWyiT4Lq30xONz4dcW/h2xqkCYlVSTkqunFsGAVSEjMQngTfI6TPSPDP50CYPXPjuXR4gdaPeyTLqZAyUb439cXbHN5I5FHO/VGZ0ldAEqM0FxqQNtbYbzWWWbb+Xkut2ER6nOAs67VXxYIrfS+tPpWYYZsD4ULrCixdqIsx/RO2r8D3yYMlHcnpPIhqfA7D/2mN2AfqNxIp24wO2kKk9daXaAJvREr7ciYvx9aGpb7PjV+noXJ7RN0IC4pidleGG7zSX3MElQCM8cKOSu3XvjAqKZlbR25ihcaZiPInfjAJ4J4cjP9llPRMKwjgMTHZA6f34NhwoB9kZ+rzj00+BUeX8TnfvJIjiruNi7Y4Qf6Lzb7CdS5JU+e5/+GGLFFMED4hnqXR+pBDm7mlcHvSDgmKw8jisuc5WfJXOjzzSALBurhQ==;doedGBqH/TxpDNYry57C5w=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/discussion-on-draft-ai-framework
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar/amp-11708439257763.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -43,6 +43,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google's Gemini AI Chatbot Under Fire For 'Bias' Against PM Modi Rajeev Chandrasekhar Reacts"
+    excerpt: "Google's Gemini AI chatbot is facing the ire on social media for \\discrimination against the whites\\, \\amplifying Hamas propaganda\\ and now for"
+    publishedDateTime: 2024-02-23T19:47:00Z
+    webUrl: "https://menafn.com/1107891949/Googles-Gemini-AI-Chatbot-Under-Fire-For-Bias-Against-PM-Modi-Rajeev-Chandrasekhar-Reacts"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 8
 
 secured: "FNW2a5ho+GbgJLBNAnczAlTS8wH7/y45Dk70iYEgvWqf2qbNllbzyJxpxzkQWi/Tk5QHi7C0jbPDEp1yHFogYTzH6U3xCxhvrB9Xdel+KIiar7VQf9WR3DwBk01jCPsFTuRwP1Z59UmiBN7ChHE2H+BVDaEKaCiTr+fUdUPedDc9IMynyjjqaHOSuGtSIwSA1G9/qoaO3SVDGsh09F/7AYj2WewyK7H8K7samgesAMmRwLOCuZhLNlmmTSzwpm6f5H5zmQSpN9c8GJP+ToYYyvKUXWx/LedTO5/OZODSJEJOGInLmc9WTDZdku7jm+2bTpDeRTY12eFgwgo+49eonxdD6L4bDivrUD9J2CViK8A=;6OixCjSpc1IerUSonhbZbA=="
 ---

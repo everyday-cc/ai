@@ -33,6 +33,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "'Facial recognition' error message on vending machine sparks concern at University of Waterloo"
+    excerpt: "A set of smart vending machines at the University of Waterloo is expected to be removed from campus after students raised privacy concerns about their software."
+    publishedDateTime: 2024-02-22T22:05:00Z
+    webUrl: "https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 29
+    images:
+      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/2/22/vending-machine-facial-recognition-1-6779840-1708642383265.jpg"
+        width: 1020
+        height: 574
+        isCached: true
 
 secured: "6W3EHWPSXg4crJte+rJ4hT+OseV/D3F4OeAPuKJcX/7FAv60v8qk9L87yKHSF4H3bO2n1FtQ/9+5UA7sOeBTY3ktwXkZoq/iPT0f9ED551IJQeYIgAcUVEzw7exII6qU730nHTtivAd5zRdmdyje7iEGFFKPFd6yTUc4FjPH6/lZJUuJ+xmu08QvRMR2WZfNyckUoVM+lo9Ww0lO15GWRnXwpVHBmuKqaVLH5ZFlUmuGi+NpYZ34RnwmCD5JP9i7tkjQ9SS73JprAAA9mk/vJfJV3CPqQ0Yocih7uZ24wsfJXwREmcOSNqDRt7CZmF8ss6vLeNqv3z3FA2OELEXS3RFM5QIaVNibtV4YP/1OltU=;2bm7K00nCxRKuLDFKD7mHg=="
 ---

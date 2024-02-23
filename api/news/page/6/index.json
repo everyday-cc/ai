@@ -2,6 +2,143 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-20-will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti.md",
+      "title": "Will Smith parodies viral AI-generated video by actually eating spaghetti",
+      "excerpt": "Will Smith posted a video on his official Instagram feed that parodied an AI-generated video of the actor eating spaghetti that went viral last year. With the recent announcement of OpenAI's Sora video synthesis model,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/will_smith_parody_hero-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T14:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-ai-eu-agrees-landmark-deal-on-regulation-of-artificial-intelligence.md",
+      "title": "AI: EU agrees landmark deal on regulation of artificial intelligence",
+      "excerpt": "EU Commissioner Thierry Breton said the agreement was \"historic\" European Union officials have reached a provisional deal on the world's first comprehensive laws to regulate the use of artificial intelligence. After 36 hours of talks, negotiators agreed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform",
+      "originalUrl": "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T14:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-microsoft-to-invest-21-bln-in-spain-to-expand-ai-infrastructure.md",
+      "title": "Microsoft To Invest $2.1 Bln In Spain To Expand AI Infrastructure",
+      "excerpt": "Tech major Microsoft Corp. announced its plans to expand its artificial intelligence or AI and cloud infrastructure in Spain with an",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T14:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-british-ai-company-graphcore-is-trying-to-sell-its-accelerator-business-perhaps-to-openai.md",
       "title": "British AI company Graphcore is trying to sell its accelerator business, perhaps to OpenAI",
       "excerpt": "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: AI algorithms are spreading rapidly, and the demand for GPUs and other specialized chips designed to accelerate AI workloads is continuously increasing.",
@@ -158,7 +295,7 @@
       "originalUrl": "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -456,49 +593,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman.md",
-      "title": "AI regulation will be required in 5-10 years: DeepMind's Mustefa Suleyman",
-      "excerpt": "Suleyman stressed the importance of regulating AI to prevent misuse of information and its impact on nation states.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-9502,msid-107852095/mustefa-suleyman.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms",
-      "publishedDateTime": "2024-02-20T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     },
     {
@@ -1163,110 +1257,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-stunning-new-ai-adds-realistic-sound-effects-to-any-video.md",
-      "title": "Stunning new AI adds realistic sound effects to any video",
-      "excerpt": "OpenAI released a new AI model called Sora that could generate high-resolution video clips from text prompts. But they're all essentially clever silent films. Now ElevenLabs has added background sounds to Sora-created footage.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/",
-      "originalUrl": "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/7df3253/2147483647/strip/true/crop/1903x999+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc0%2F79%2F292b13454764b891a7d395388ef8%2F01.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T17:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock.md",
-      "title": "Build a contextual chatbot application using Knowledge Bases for Amazon Bedrock",
-      "excerpt": "Modern chatbots can serve as digital agents, providing a new avenue for delivering 24/7 customer service and support across many industries. Their popularity stems from the ability to respond to customer inquiries in real time and handle multiple queries simultaneously in different languages. Chatbots",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/11/ml-15933-001-1260x571.jpg",
-          "width": 1260,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T16:43:30Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

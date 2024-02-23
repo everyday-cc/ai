@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-24-is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do.md",
+      "title": "Is AI Trustworthy? Experts Consider What Tech Should Be Allowed to Do",
+      "excerpt": "Is artificial intelligence coming for your job? Is it planning something much, much worse? While debates over AI regulation play out, many boosters are pushing the tech further and further.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "originalUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-924529/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "publishedDateTime": "2024-02-23T21:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do.md",
       "title": "AI Is Already Helping Deliver Packages and Diagnose Patients. Here’s What Else It Can Do.",
       "excerpt": "Artificial intelligence is everywhere. It's helping discover new planets and detect cancer faster. And it's working in a bunch of places you likely didn't realize, too.",
@@ -221,7 +273,7 @@
       "originalUrl": "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -319,49 +371,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-21-how-to-handle-the-ai-ethics-dilemma-in-your-business-development.md",
-      "title": "How To Handle The AI Ethics Dilemma In Your Business Development",
-      "excerpt": "The Role Of AI Ethics In Sales & Business Pulling from my vast experience in this area, I'd like to chat about what AI ethics means in the world of sales and business. First off, there's the big deal about data privacy. Sales AI tools are like sponges ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/21/how-to-handle-the-ai-ethics-dilemma-in-your-business-development/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/21/how-to-handle-the-ai-ethics-dilemma-in-your-business-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T13:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-21-indias-ai-market-projected-to-hit-17-billion-by-2027.md",
       "title": "India’s AI market projected to hit $17 billion by 2027",
       "excerpt": "These roles include, Chief AI Officer, AI Architect, AI/ML Governance Specialist, AI Ethics & Compliance Officer, to name a few.",
@@ -434,6 +443,49 @@
       "provider": {
         "name": "Law",
         "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar.md",
+      "title": "Discussion on draft AI framework by July: MoS IT Rajeev Chandrasekhar",
+      "excerpt": "India aims to combat deepfakes with new regulations and promote trust in technology through talent-driven innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar-11708439257763.html",
+      "originalUrl": "https://www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar-11708439257763.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2024/02/20/1600x900/PTI09-05-2023-000257B-0_1694712861521_1708439367943.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar/amp-11708439257763.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar/amp-11708439257763.html",
+      "publishedDateTime": "2024-02-20T18:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -613,7 +665,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 363,
+      "heat": 373,
       "tags": null,
       "images": [
         {
@@ -1430,58 +1482,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything.md",
-      "title": "Meet Goody-2, the AI too ethical to discuss literally anything",
-      "excerpt": "Every company or organization putting out an AI model has to make a decision on what, if any, boundaries to set on what it will and won’t discuss. Goody-2 takes this quest for ethics to an ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/",
-      "originalUrl": "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/goody2.jpg?resize=1200,630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/amp/",
-      "publishedDateTime": "2024-02-09T23:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

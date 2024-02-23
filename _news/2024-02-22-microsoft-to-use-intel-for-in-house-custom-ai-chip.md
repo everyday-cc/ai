@@ -268,6 +268,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
+  - title: "Microsoft and OpenAI-backed robotics startup secures funding from Bezos, Nvidia - report"
+    excerpt: "The company, which also enjoys backing from OpenAI and Microsoft Corp . (NASDAQ: MSFT ), is in the process of raising approximately $675 million in a funding round, giving it a pre-money valuation of approximately $2 billion."
+    publishedDateTime: 2024-02-23T20:13:00Z
+    webUrl: "https://za.investing.com/news/microsoft-and-openaibacked-robotics-startup-secures-funding-from-bezos-nvidia--report-432SI-3022163"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 57
   - title: "Microsoft tinkers with Windows for AMD AI"
     excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
     publishedDateTime: 2024-02-20T09:06:00Z
@@ -509,6 +518,6 @@ related:
       domain: geeky-gadgets.com
     quality: 19
 
-secured: "HknIX13q9aeDxwG3PhAqXCaO5kO84LAymj4AdzPWhOXT4yiwabdVYPgnPnc6teK4ERlERQx7++8oCe+89e70RvNr6i1N/5UCZp4pEyiX8WjnbCmZrSj6aOngtIBkpKGvcKtvJIscCPZ5OcPOhor08zWiqo5wOPBIrnzPBQnPrI2uFdW5gpQ+CwLCkxBeN+UeCpAp2Kc57UI/FrQurcUO0azUOPpuBbWZD7vNLmtq+Y/ES7RD5ovEU2Fq6m5NJhV/HXs4Z8cHjTLvhdxd+kdCgEgidfjvKnjAcpZ0ElDJmmQ3QOAqOBEXn1y40cdKdJP38whJkDAg2XxGoT/uoU4wvFY0bXbJfoYLPjL5Xx6YKfU=;Lnl/LY4VyZ8uRtxCRigY3A=="
+secured: "xWZE+PaVx5yL3oHm/O4YIoblsnHCGoi3YnQxPzz9o5C2tRRVUQWtdu0S7HlGgapFzlKV89ztiIHDBHUDL39Ixh9aCxd2h/XO6LIbbOrml+pwRr5CSsJR6vbiJN8mHOY3t1dJXkZ27GuCcCnwyPpO/ezMyKAC4Tiz7DJ1xTe4jpvv1wR46Hp3lbLYTS8J7tDuBeWR+k71Xj5BphfyKWH73K0igqdTBDQEurHgA64OpUGsjL15kTBh9Al1sPAvCjnawENseavQUdClCif1XC8dsQCj4PPuxLvZs/9CDkyV5Ms/fSLgVsz3AsD0JhQ+wCOvRtw99EorDrJhfAnWG3kz0esiwUCNGLHi7EAahtWGUhcVFBwa7U1IHvQKma7FB2cbiZv1kE3jrqLBXJq+AWJ0yQnA+Pe9dB6Lrg0U/RE0gs/ECnkL0tVk8wIB1tLztBvoixY+7Essz83l/PDoOKoc7SQYFTrlfoi4eziYDAqMSlxkitJ/c/KrGvMqz7SuCqFxrDPwYkQ5y073iBkFX+Tt8Q==;oZ7kCXnkRCmagbfcw/u5bw=="
 ---
 

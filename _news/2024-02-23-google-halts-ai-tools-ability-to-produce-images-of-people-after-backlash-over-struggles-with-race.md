@@ -3,18 +3,18 @@ category: news
 title: "Google halts AI tool's ability to produce images of people after backlash over struggles with race"
 excerpt: "The incident is also yet another setback for Google as it races to take on OpenAI and other players in the competitive generative AI space. In February, shortly after introducing its generative AI tool - then called Bard and since renamed Gemini - Google's ..."
 publishedDateTime: 2024-02-23T08:02:00Z
-originalUrl: "https://abc7news.com/google-ai-gemini-people-of-color-race-backlash/14460904/"
-webUrl: "https://abc7news.com/google-ai-gemini-people-of-color-race-backlash/14460904/"
-ampWebUrl: "https://abc7news.com/amp/google-ai-gemini-people-of-color-race-backlash/14460904/"
-cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/google-ai-gemini-people-of-color-race-backlash/14460904/"
+originalUrl: "https://abc7chicago.com/google-ai-gemini-people-of-color-race-backlash/14460904/"
+webUrl: "https://abc7chicago.com/google-ai-gemini-people-of-color-race-backlash/14460904/"
+ampWebUrl: "https://abc7chicago.com/amp/google-ai-gemini-people-of-color-race-backlash/14460904/"
+cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/google-ai-gemini-people-of-color-race-backlash/14460904/"
 type: article
 quality: 45
 heat: -1
 published: false
 
 provider:
-  name: ABC7 San Francisco
-  domain: abc7news.com
+  name: ABC 7 Chicago
+  domain: abc7chicago.com
 
 topics:
   - Google AI
@@ -115,6 +115,6 @@ related:
       domain: wsiltv.com
     quality: 18
 
-secured: "G+CajvLTu/dyQ26dPB2bGbCQYQVegpkepEE28dLhVgXhS6nuU5rXXE7gfHo8mvPoN4PVYtPdeBGR82qjXDAt2lbLDwXarfMpluzB72aCNsxKXQW7cBGlmAu5deUSgCIO9924QzmRRR7WWDTqsFaF43cys3SUfIIq4u5fq+xiqOVUjxrcBbs1ZKnzNoGXSpbAUV0Xh4YdDgUH0zqM4SFdQ/agNdt9dY0Up9xgvRbaU7RnV1qyYLqCz5eqYe/Bi2ktljmNwTHB+4pXxu1tYavRm8sWK9D40yMfcKv1mIDBeWPvXnZz2qdH05Akk1USz3JivR0uqm1L1f4KAFQFyiO5lrhlu1G83rc+HpvP6GEW5TjFiIXCfkev5/ZcKxJdqYt8D9Pb91IshCNxhKhdK8oCRwmmmEIdpUJjCZv4BdCRRxPEa14BnnRYjIa/lSaj0YzmgnU3G7x7GMuaSXHe94OeiclwA0Tkfh4JWlxzNAQ8MoGNH2x1KfrIVhnz2IYU1jKy7dofhM+5FBO375/k+FlnAw==;bAhC/a4uEijHWgLzuNrkVw=="
+secured: "dNIDOxwPsIELf4d8thrhs0JYhZZKfYJ+Qto95lh0/uJ4iGTxBFr/tGsX9CyhmieBJxIumS9sO2Afm+teX0af8NhPgN9PK65YJLRSbVFEwQbe4IsCgJx2a7TFN6qGNB8M+BFJn2QFIhHCII5AZTnZUwSQByffljQg8ivutQhk9xbFIGgxuXuNmlqnrtGboDx6KadTGsq+w+qU1EAwYg5mwfputL0ppv266HSGnXQmRt0zfLH9wHYRhfluj6ZU8hTCjCgmKFR3XIX8q0wJexOFwTrJDBljyKmQE3xvNpMmf83iOtVrvqGaR6D4AB28R6sIBOsVAiw/iQ5/mkpDAJ7yKSnyRYAKRV4Ch8BTvPlVGMU=;yD0srvgP/dtr/in3rNmXbw=="
 ---
 

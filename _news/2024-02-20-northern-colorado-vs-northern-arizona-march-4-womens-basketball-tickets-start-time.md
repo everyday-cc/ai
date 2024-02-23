@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Florida vs. Auburn March 3 Women's Basketball Tickets & Start Time"
-    excerpt: "Florida Gators vs. Auburn Tigers women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-18T22:22:00Z
-    webUrl: "https://www.wjhg.com/sports/betting/2024/03/03/florida-vs-auburn-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WJHG
-      domain: wjhg.com
-    quality: 22
-    images:
-      - url: "https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/v2/47FYBVGD25KPZOU53IZCTZOZXU.jpg?auth=c22ae29183af43bc56724972c2c7a7d28a8cb86f11e59760c1ca9286ae959041&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Baylor vs. Texas March 4 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Monday's Big 12 schedule includes the Baylor ... Jackson State March 2 Tickets & Start Time Texas A&M-Commerce vs. Houston Christian March 2 Tickets & Start Time UT Rio Grande Valley vs. Cal Baptist March 2 Tickets ..."
     publishedDateTime: 2024-02-20T11:25:00Z
@@ -52,17 +38,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Charleston (SC) vs. William & Mary March 3 Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Charleston (SC) Cougars (17-6) face the William & Mary Tribe (12-11) in a clash of CAA teams at 2:00 PM ET on Sunday. Watch college basketball, other live sports and more on Fubo! Use our link to sign up for a free trial."
-    publishedDateTime: 2024-02-19T00:00:00Z
-    webUrl: "https://www.wmbfnews.com/sports/betting/2024/03/03/charleston-sc-vs-william-mary-buy-womens-college-basketball-tickets/"
+  - title: "Grambling vs. Bethune-Cookman March 4 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The Bethune-Cookman Wildcats (12-14 ... Texas A&M-CC March 2 Tickets & Start Time SE Louisiana vs. Incarnate Word March 4 Tickets & Start Time McNeese vs. Nicholls State March 2 Tickets & Start Time LSU vs."
+    publishedDateTime: 2024-02-20T11:25:00Z
+    webUrl: "https://www.fox8live.com/sports/betting/2024/03/04/grambling-vs-bethune-cookman-buy-college-basketball-tickets/"
     type: article
     provider:
-      name: WMBF News
-      domain: wmbfnews.com
-    quality: 16
+      name: WVUE FOX 8 News
+      domain: fox8live.com
+    quality: 22
     images:
-      - url: "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/v2/K5T2JXJHDVJYLLTWJYCWIEABOQ.jpg?auth=b50e9e4b4c892495e14fc3c22213f9f2e7a9513b7cf27b2b2ed7a3bf2359a23b&width=1200&height=600&smart=true"
+      - url: "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/v2/SRIKMMTWTFMXTEICQCZMAKIROI.jpg?auth=b74f7a7e3dd716d4dc36466a8567095bba41ec5ead21697cc09c9cbf1c7e2fcc&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

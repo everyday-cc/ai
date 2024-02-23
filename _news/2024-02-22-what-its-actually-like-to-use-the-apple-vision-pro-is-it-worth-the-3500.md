@@ -26,6 +26,17 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "Some users are saying their $3,500+ Apple Vision Pro headsets cracked mysteriously"
+    excerpt: "Another theory says the glass might overheat and then crack. Vision Pro teardowns have shown that the spatial computer features two big fans, similar to MacBook Pros. These move away heat from your face. That’s the only source of heat, as the Vision Pro ..."
+    publishedDateTime: 2024-02-23T15:43:00Z
+    webUrl: "https://bgr.com/tech/apple-vision-pro-cracked-screens-mystery/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 0
+
 secured: "I+d15BfWatJepc2sGsZ2ehdV6TsfdIxUUhb2Ka6AuZTUsHCXvqjQLj1izq9piYAegAgUNEUtg9X6pMXui1BQeAxn+Diphcpwn+7MsrGV/HmmNveTW7kqMcVMoz1zugn+MWXfcZsLSs8jdlWjEqPhGseXL8nBxa/gpjDmpAsLn6QShGSzV1HidSvrj7x089viup/h43qG3f89Xj/DytKlfQFBQXGGsotYSXozOVoH90RyvdRN6frR64so3Pkz/B6o8d70fjBiv/eXAOsznx5YZYY1vhOB7JHG4rhNdB14EXnTDwlpM9tgNVvE7RgiWYfqRqdOJM0G7J4D6KQ0096/xojq+9JfcvwlZyzDBzzBqaE=;ys82DQNU804ZZLkUREaWcQ=="
 ---
 

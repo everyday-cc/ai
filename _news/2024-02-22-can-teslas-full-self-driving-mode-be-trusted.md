@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Autopilot vs. full self-driving: What’s the difference?"
+    excerpt: "It’s no longer the only company with self-driving cars on the road, but Tesla was one of the first brands to make this innovative functionality available to the public. Thanks to an array of ..."
+    publishedDateTime: 2024-02-20T16:15:00Z
+    webUrl: "https://www.digitaltrends.com/cars/tesla-autopilot-vs-full-self-driving/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 49
 
 secured: "Q38MmZ92IPxzqDq7uuWiKbXVd1/4ZiUU/AgfB+4YxcTjAkhvy8mvA2+PEJ9bgkJAeBfC6V3aX9MxUxhccGJMLx7xNlNN6pbHBgwLj9WCn8n1bjocTrr9o2qjDZCCegpkBnW9aVMh0Z0+bduIcMw0Q2YSLGzP4Kat+Jjq6aFNSrSNezWs5Scx4PmdmaTdC7sJaYgh+A4ZAyOJfEi3sGlWr1G18m8LgJ2/NuRlROXPK6XxZ8TM4JVOZExWZa2W60kwYYqEtEZT4lFLeVHRYfaawj65VlIKWA02PNxstwZ3HDKrv3hvB5wPDuHFxBKH11ot5nFeN8sWUCo4Ecrg2twjK9aeieVxHqkDybvqLc4MB2k=;ID2/5ldjtwJpQWVK/6Wh8g=="
 ---

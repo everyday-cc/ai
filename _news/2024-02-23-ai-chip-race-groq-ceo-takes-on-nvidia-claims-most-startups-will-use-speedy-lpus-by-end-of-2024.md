@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-23T10:02:00Z
 originalUrl: "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/"
 webUrl: "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/"
 type: article
-quality: 71
-heat: 81
+quality: 73
+heat: 83
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Meta AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-23-12.49.17-A-dynamic-and-dramatic-representation-of-AI-chips-racing-at-lightning-fast-speed-leaving-competitors-in-the-dust.-The-scene-is-set-on-a-futuristic-ra.webp?w=1200&strip=all"
@@ -41,6 +42,6 @@ related:
       domain: thehindu.com
     quality: 54
 
-secured: "skoevItJznNUbUTerz8U8FtdAZq61sxKcyzOEl7UG5BDTVeTuPNQeaUFPA4oRje1btpM2L+80LCfx5eLuw2RFQt/8slWOQ/Rc1EIhJPjwbfnovXCPwc9fk55hUUxgFpkMs5pX6hCqa7OcoBY2XQdgqZE8By3WeL+NlkvmENzIYDJXH4a8l7Jyd2JPeMeLt6w3i541c22NRjkua+7mC7SlEdrYOFZUdPPVMLYNheL/mdV3gT/P8OikS3VbOccm/A9MCX8ZG79A/USiUHCvKj1D9E4t+Pj9THkBmeWd18fsXpGYGfcfiZlSBooFeydBqDBlQ5bP3VGPpI1OJ79bovcNPIPVxQupu08gv1/0Z9mwAM=;krz337qDz/PuqVnaO2Kq8g=="
+secured: "Kobmpxo1VnhMWKR7E3MJ/PFPkkXHXp1bihnSYIWn5YbOHZ0kURowvQ+jtJZ8Bv08TZPusjIOz+na292yb0624vCrPlvvBgQJ5b/ATpSEjrAITHf3WM3fu21WDE4CogJAkAlcmkQ5teu6xNyNFwCPI4W1gg4W0afJtHd6jkI3FBB0D07JWlmzkyzCrMWQ4sz72URI/wDAbaJ/U1YT5DHSR7dl5FOQrcQmWR7ETzT36iVJ2JmV/+qlyiF5sjxd9Cun5/W3MEaPflZm1cJdCppksooJtB9LtPkKwxWBztbPfXWi8ajRUnZ+baG0B73mzP8FGDI6d2hCMEZ3c2Agei/0+GVf6e8AcQ/l2w2LqXyAhmrZ5hPCnglymYpjQ/Kp+x/TFKrpDPGaPreMoko0pO5YKSWZ4zwom+wGLs5+spj3ZkApqHr3m6whVBCsWre9jtblHOnCFzYlU9jBahCKOEnBv7sjXa/0FJ0CADbc7QMCKoKBH1G1n1bbANKeFLDzQIgep2O83DTL8YUNqPFNS7VmVg==;mrjQZ2x3Yk9MxEijcSXUTQ=="
 ---
 

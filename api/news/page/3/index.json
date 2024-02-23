@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-22-besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders.md",
+      "title": "Besi exceeds quarterly targets on AI-related chip parts orders",
+      "excerpt": "The Dutch group's shares soared 16% in early trading after its quarterly orders increased by 30% driven by hybrid bonding, a form of chip packaging required for AI applications. Orders for the fourth quarter totalled 166 million euros ($180 million), part ...",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/devices/besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders/107912966",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/devices/besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders/107912966",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-107912966,imgsize-135456,width-1200,height=765,overlay-ettelecom/devices/besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/devices/besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders/107912966",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders/107912966",
+      "publishedDateTime": "2024-02-22T10:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-cloud-and-ai-apps-take-center-stage-in-net-9.md",
+      "title": "Cloud and AI apps take center stage in .NET 9",
+      "excerpt": "A first preview release of the next .NET sets the scene for a year of platform development focused on cloud-native and AI-powered applications. Just three months into the tenure of .NET 8, it’s already time for Microsoft and the .NET Foundation to start ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.html",
+      "originalUrl": "https://www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/shutterstock_218547988-100961470-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.amp.html",
+      "publishedDateTime": "2024-02-22T09:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-light-therapy-helps-ease-pain-for-cancer-patients.md",
+      "title": "Light therapy helps ease pain for cancer patients",
+      "excerpt": "Neck and head cancer patients will be able to seek a new treatment to ease the pain of radiotherapy and chemotherapy Cancer patients at a hospital trust have started using light therapy to help them with side effects caused by chemotherapy and radiotherapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo?at_format=link&at_campaign_type=owned&at_link_id=43992F9A-D147-11EE-8422-ED8E4B3AC5C4&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=bbchealth&at_link_type=web_link",
+      "originalUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo?at_format=link&at_campaign_type=owned&at_link_id=43992F9A-D147-11EE-8422-ED8E4B3AC5C4&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=bbchealth&at_link_type=web_link",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/246f/live/9faa1f10-d0f7-11ee-8a50-0f587568c5bc.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/cg3ee8xl96eo.amp",
+      "publishedDateTime": "2024-02-22T09:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand.md",
       "title": "European Chip Stocks Surge After Nvidia Sales Reach New Heights on Booming AI Demand",
       "excerpt": "Chief Executive Jensen Huang described AI as hitting the tipping point and indicated demand ... Earlier on Thursday, SoftBank Group, the parent of British chip designer Arm Holdings, advanced more than 5%, while chip-making equipment maker Tokyo Electron ...",
@@ -10,7 +157,7 @@
       "originalUrl": "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 564,
+      "heat": 584,
       "tags": null,
       "images": [
         {
@@ -365,50 +512,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-22-buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast.md",
-      "title": "Buy Rating on Amazon: Strategic Capex Reductions and AI-Driven AWS Growth Forecast",
-      "excerpt": "Amazon (AMZN – Research Report), the Consumer Cyclical sector company ... particularly with a projected increase in AWS capital spend to support burgeoning Generation AI initiatives. Despite this increase, the forecasted capital expenditures remain ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T01:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-22-if-ai-is-the-next-big-thing-why-cant-it-solve-world-hunger-and-stop-wars.md",
       "title": "If AI Is The Next Big Thing, Why Can’t It Solve World Hunger and Stop Wars?",
       "excerpt": "among the concerns is that humans may no longer know exactly how these systems work. Continue the series to learn about the privacy and ethics surrounding AI, and what the technology is capable of.",
@@ -469,7 +572,7 @@
       "originalUrl": "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -566,7 +669,7 @@
       "originalUrl": "https://www.zdnet.com/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -880,7 +983,7 @@
       "originalUrl": "https://electrek.co/2024/02/21/tesla-full-self-driving-beta-v12-autonomously-look-parking-spot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1028,6 +1131,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-21-google-deepmind-forms-a-new-org-focused-on-ai-safety.md",
+      "title": "Google DeepMind forms a new org focused on AI safety",
+      "excerpt": "This morning, Google DeepMind, the AI R&D division behind Gemini and many of Google’s more recent GenAI projects, announced the formation of a new organization, AI Safety and Alignment — made up of existing teams working on AI safety but also broadened ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/",
+      "originalUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/",
+      "publishedDateTime": "2024-02-21T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-google-reveals-another-smaller-ai-model-gemma-for-researchers.md",
       "title": "Google reveals another smaller AI model, Gemma, for researchers",
       "excerpt": "In a blog post, Google stated that Gemma was developed by its UK-based DeepMind along with other teams at the company. Gemma does share some \"technical and infrastructure components\" with its bigger brother Gemini. There are two specific models available ...",
@@ -1128,162 +1283,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-from-script-to-distribution-ais-role-in-the-film-world.md",
-      "title": "From Script To Distribution: AI's Role In The Film World",
-      "excerpt": "AI is also playing a role in trailer creation. For instance, in 2016, IBM Watson used AI to craft a trailer for Morgan by analyzing key film moments, suggesting soundtracks and refining edits. In 2019, Adobe Sensei analyzed past Sundance Film Festival ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d4eb02bedc583914bd11fe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1542,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/amp/",
-      "publishedDateTime": "2024-02-21T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-google-launches-gemini-business-ai-adds-20-to-the-6-workspace-bill.md",
-      "title": "Google launches “Gemini Business” AI, adds $20 to the $6 Workspace bill",
-      "excerpt": "Enterprise is $30 per user per month, and it \"includes additional capabilities for AI-powered meetings, where Gemini can translate closed captions in more than 100 language pairs, and soon even take meeting notes.\"",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/google/2024/02/google-launches-gemini-business-ai-adds-20-to-the-6-workspace-bill/",
-      "originalUrl": "https://arstechnica.com/google/2024/02/google-launches-gemini-business-ai-adds-20-to-the-6-workspace-bill/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/ebUFWGby60-980x676.png",
-          "width": 980,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T14:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-intels-ai-reboot-is-the-future-of-us-chipmaking.md",
-      "title": "Intel's AI Reboot Is the Future of US Chipmaking",
-      "excerpt": "Rival Nvidia, which mints chips with TSMC, became the AI industry’s workhorse and has seen its business soar. But Gelsinger argues that with AI still growing fast and millions of AI chips expected to be needed, Intel can become a major player.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/",
-      "originalUrl": "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65d6409e2a66db9b96a0d09c/191:100/w_1280,c_limit/Intel-Foundry-IFDC-7.jpg.rendition.intel.web.1920.1080.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-23T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/how-artificial-intelligence-is-reshaping-banking/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/how-artificial-intelligence-is-reshaping-banking/"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 related:
   - title: "The AI Craze Is Highlighting The Cooling Crunch"

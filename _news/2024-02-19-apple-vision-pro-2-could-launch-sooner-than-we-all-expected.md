@@ -73,6 +73,20 @@ related:
       name: Scientific American
       domain: scientificamerican.com
     quality: 19
+  - title: "Stunning visionOS 2 concept shows off 7 features I want Apple to add to the Vision Pro"
+    excerpt: "I hope visionOS 2 brings at least these seven Apple Vision Pro possible features to help Apple improve its first spatial computer."
+    publishedDateTime: 2024-02-23T20:14:00Z
+    webUrl: "https://bgr.com/tech/stunning-visionos-2-concept-shows-off-7-features-i-want-apple-to-add-to-the-vision-pro/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 16
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/visionsos-2-concept-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
 
 secured: "1twfWPkzWZG0oYKOBx6Ar8ALdKxVMTSaA0QyLluK1tmore7JNmfiWXMk+9/5JDSGh7w0B9MVrKb5rj69lRAS4VRqedkOTHTXIs7lHgvIXos8TrQO1Q2USkkNX42mBTVhn3d7SxD3PubRBHIkvPMQHktowpDWFgYMyP6/xmBvmWw2hxl+toSIycvV+8ZdydfOg5zB/ekx96jw0CqTbg5ngAW+GvN/tpQmK7XziaZ4cFvRlaD+vp0aMEMCgpxDtO3Cwimia1DFNEtCz9MoFTYmYP5SDwXgfFg5sLFtX7L9VZHC1c2Dfrk3ydXRnn+bGg36yKxYQthW8tbWjsnUcCF1U2FjJfJ/od3xJZxAAZb6nZY9N8QQjH3cGAORXwkvgInPGxa6UTSk2PYzqDuTmxItT+kloLnWcMEbf/DiFe+smkykVAvi/Ant7/d5LjKYxxgduAQVmfA0u9i5gF5cl0MTXkpPyPU3WWNoIxuHGsO6F6ZeQi9s89PdsVca1Qx55yASIFmHbntjWyM4olmTPw42Pg==;8s+rbLL1PB3FriZYW5DNsA=="
 ---

@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-22-buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast.md",
-      "title": "Buy Rating on Amazon: Strategic Capex Reductions and AI-Driven AWS Growth Forecast",
-      "excerpt": "Amazon (AMZN – Research Report), the Consumer Cyclical sector company ... particularly with a projected increase in AWS capital spend to support burgeoning Generation AI initiatives. Despite this increase, the forecasted capital expenditures remain ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T01:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-20-streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story.md",
       "title": "Streamline diarization using AI as an assistive technology: ZOO Digital’s story",
       "excerpt": "ZOO Digital provides end-to-end localization and media services to adapt original TV and movie content to different languages, regions, and cultures. It makes globalization easier for the world’s best content creators. Trusted by the biggest names in entertainment, ZOO Digital delivers high-quality localization",
@@ -1349,6 +1305,49 @@
       "provider": {
         "name": "The Boston Globe",
         "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studies-show.md",
+      "title": "AI is the most promising tech for businesses but a skills shortage stands in the way, studies show",
+      "excerpt": "Artificial intelligence (AI) brings with it a wealth ... Another report by Amazon Web Services (AWS) found that AI adoption is forecast to unleash €600 billion growth in Europe's economy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
+      "originalUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/08/22/03/56/1200x675_cmsv2_bc17e7f8-39b4-5b46-8b0a-b24a2f054a6d-8220356.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
         "images": null,
         "publishers": null,
         "authors": null

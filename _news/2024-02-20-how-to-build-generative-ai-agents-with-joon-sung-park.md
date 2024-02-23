@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 21
-  - title: "Appy Pie launches AI Animation Generator with a Range of New AI Tools"
-    excerpt: "The AI animation generator from Appy Pie is backed with features like natural language processing, real-time previews and edits, background music integration, voice over capabilities, and much more, making it easy for users to create animations for their ..."
-    publishedDateTime: 2024-02-18T21:10:00Z
-    webUrl: "https://www.palmbeachpost.com/story/special/contributor-content/2024/02/18/appy-pie-launches-ai-animation-generator-with-a-range-of-new-ai-tools/72653531007/"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 19
   - title: "The Growing Environmental Footprint Of Generative AI"
     excerpt: "AI runs on power-hungry equipment that uses millions of gallons of fresh water. Policymakers are weighing the costs."
     publishedDateTime: 2024-02-20T08:25:00Z

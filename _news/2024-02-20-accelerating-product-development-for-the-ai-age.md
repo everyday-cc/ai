@@ -22,30 +22,37 @@ topics:
   - AI
 
 related:
-  - title: "How To Handle The AI Ethics Dilemma In Your Business Development"
-    excerpt: "The Role Of AI Ethics In Sales & Business Pulling from my vast experience in this area, I'd like to chat about what AI ethics means in the world of sales and business. First off, there's the big deal about data privacy. Sales AI tools are like sponges ..."
-    publishedDateTime: 2024-02-21T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/21/how-to-handle-the-ai-ethics-dilemma-in-your-business-development/"
+  - title: "MBZUAI and UNDP partnership to advance use of artificial intelligence for sustainable development"
+    excerpt: "As part of the collaboration, the university becomes the founding knowledge partner for the UNDP’s AI for Sustainable Development Platform"
+    publishedDateTime: 2024-02-19T10:01:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "How Artificial Intelligence went from a buzzword to business backbone in 2024"
-    excerpt: "Supply chains humming with predictive intelligence, anticipating demands before they arise. Marketing campaigns are driven by hyper-personalized insights; crafting experiences so bespoke they feel like whispered secrets. And healthcare empowered by AI ..."
-    publishedDateTime: 2024-02-19T08:55:00Z
-    webUrl: "https://www.businesstoday.in/technology/news/story/how-artificial-intelligence-went-from-a-buzzword-to-business-backbone-in-2024-418053-2024-02-19"
-    ampWebUrl: "https://www.businesstoday.in/amp/technology/news/story/how-artificial-intelligence-went-from-a-buzzword-to-business-backbone-in-2024-418053-2024-02-19"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/how-artificial-intelligence-went-from-a-buzzword-to-business-backbone-in-2024-418053-2024-02-19"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 54
+      name: Zawya
+      domain: zawya.com
+    quality: 59
     images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202402/65d31731add13-as-it-permeates-every-sector--from-finance-and-healthcare-to-manufacturing-and-transportation--its-195408380-16x9.jpg"
-        width: 1200
-        height: 675
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/Y2RhYzNkNWUtNmE0MC00/0/jji-mbzuai-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 599
+        isCached: true
+  - title: "New mission to set standards for use of AI"
+    excerpt: "Tamil Nadu is establishing an AI mission directly under chief minister M K Stalin to develop guidelines for “constructively leveraging” AI in areas such as education, employment, industry, and medicine."
+    publishedDateTime: 2024-02-20T02:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/articleshow/107836525.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg"
+        width: 1280
+        height: 854
         isCached: true
 
 secured: "coHf0LkGB+OTtFk0UnEbLQP3hurE0vjkadAZU1rnWtBlEQa42fA16By4Nnf5yohArm9sQtg+EAFXsS4tl0uukEr5R3q8Ffg0j0gKfAKdy9yVDCkUc+8G3iTtGgn5VsTgRy4Ybo8Dif1pirUT7DTLEsd2LKoICi6hJyUxjKnS6kJRvp1nRNzOQNzYKVdkLoghENKqLGGPcvTXW6HKl2B5tNMnb0/w5OzI6WGi9WGRfVMd/3R90rs2/LzBmzcaG+nD1AdF7k+w4ynGGPCWo87oXzLrWatASLdI0MhUpDF9MzpPWKilVnZEaz/NtRXlf0zaXp7dvqEeKpkg7fa+aZrwBhQ9uG5cmqJtoPId7R+TGaExeywQ5PON75SF9Up+cQBzJyJfM9TjmXhOnf5CMem8aiWkHS2RWC4e0F7GfdTdv7+zmYsyMynlOKsPfDdl8qbdx0AxK/JSIJ7CkqGzaDclT2UWEYZZR0UojFyYi9Q1+z+aKzQV9uN2as0XlDPkwNudZcu/rUmlW3og0HioOi1V5w==;Ne0S+R6LiMKnimJB+rxCUw=="

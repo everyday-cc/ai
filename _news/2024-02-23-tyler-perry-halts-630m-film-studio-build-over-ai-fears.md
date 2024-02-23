@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/entertainment-arts-68384657.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-68384657.amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Tyler Perry halts $800m studio expansion after being shocked by AI"
+    excerpt: "US film and TV mogul says he has paused his plans, having seen demonstrations of OpenAI video generator"
+    publishedDateTime: 2024-02-23T16:20:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/feb/23/tyler-perry-halts-800m-studio-expansion-after-being-shocked-by-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "mAiiaga1oeWNKrkcxQt4DglHIWrvazc+WKxqDWpygZyYin8leszh7RebBHWb6MPi3jhZVgr3CQSAIBkYw1gRttEQVMFMUdycg02ewvytDWM0cLX4J+EY2ulI97sDjK4jWEkvuaroFXhLNgfpWguengQCLc6Uqf6RZEmkGDQLn+BMbgI2wgXgQrsRL2OOTUhlud7IVip37IRpU2iWbixJ41pXwfbip5CWuteKzRPY/1hf5K4sFzIfbeP8Mg+f/3VWxWEcDE0BoZPgVNh0WJ7xwIEfKfqfL1isEB6m1E9x5Sr0ac6UPe/DXy7n9ztMi8qGsDTxQhsT8uqD+tqGpibCBkyU1ixKY9DbIjTbx0fX3GVRSrrl2oJh1ehL/lLVkVE85ovCfAC0f8YGjR36mQJZPfcOcax4Z9O7F6pIOO7m8xSw5dfR+JJ5FN2SHBxdfdKPvFCzu0na1VZtYFU3UjFpnADS6YsbaqpeBU7L/zUwXZ3TJeRa6jwiJPNNyHrCKUs5prIbaZ7C38LlnS8VXUR06g==;EYkPQRjUpF1w1tNGojDiFw=="
 ---

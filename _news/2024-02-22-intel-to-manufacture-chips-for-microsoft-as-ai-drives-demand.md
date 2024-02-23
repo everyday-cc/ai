@@ -276,6 +276,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
+  - title: "Microsoft and OpenAI-backed robotics startup secures funding from Bezos, Nvidia - report"
+    excerpt: "The company, which also enjoys backing from OpenAI and Microsoft Corp . (NASDAQ: MSFT ), is in the process of raising approximately $675 million in a funding round, giving it a pre-money valuation of approximately $2 billion."
+    publishedDateTime: 2024-02-23T20:13:00Z
+    webUrl: "https://za.investing.com/news/microsoft-and-openaibacked-robotics-startup-secures-funding-from-bezos-nvidia--report-432SI-3022163"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 57
   - title: "Microsoft tinkers with Windows for AMD AI"
     excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
     publishedDateTime: 2024-02-20T09:06:00Z

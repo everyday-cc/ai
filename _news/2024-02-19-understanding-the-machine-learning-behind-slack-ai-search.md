@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/understanding-the-machine-learning-behind-
 webUrl: "https://techbullion.com/understanding-the-machine-learning-behind-slack-ai-search/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1000
     height: 563
     isCached: true
+
+related:
+  - title: "Artificial intelligence hallucinations in legal research may be a thing of the past"
+    excerpt: "Lexis+ and Paxton.AI are examples of legal tech solutions incorporating RAG technology. As AI technology evolves quickly, it may soon render any attempts by courts and law societies to limit AI use irrelevant. It appears that technology will solve its problems."
+    publishedDateTime: 2024-02-23T20:54:00Z
+    webUrl: "https://www.canadianlawyermag.com/news/opinion/artificial-intelligence-hallucinations-in-legal-research-may-be-a-thing-of-the-past/383942"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 13
 
 secured: "7SevoUa4eRIOwQbDigkvzr+FdnXgBKbnbsxARQ9WVBkUEk1nYpC/EKlfRg7LKUjov/EDOcIeEcr6Sc6/9YShy/MzsLkLeQlpMf3kiivXwCp4l/PQq3n1kvzZaYwO27hWA7KXetU3mMvC7YU7uMUOjlXN1YjHnGJ6nf7nPY2bfaEArvNvfMuNPHaejoMhUSxmutMKgfNe2I8wmQq3zZre8KsPhyVLw6WR6W7JvNyf3rDgwKMIss6uuP0rawKRtgyDbOiZwlYFycgF3MEU81H+RSPj88iTEVr5yoD4+9VQGjDej32dbgcykJH2EpVGuYf7KPnHLjbeOju/UphGrb+iyyZ0qgaWgXv6ii4twJm0nbg=;JbBWj3AklvaISqgJe+/H5w=="
 ---

@@ -2,6 +2,187 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2023-12-02-meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages.md",
+      "title": "Meta AI unveils ‘Seamless’ translator for real-time communication across languages",
+      "excerpt": "Meta AI researchers have developed a new artificial intelligence model called 'Seamless' that enables more natural, real-time translation across languages while preserving vocal style and emotion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages/",
+      "originalUrl": "https://venturebeat.com/ai/meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_Abstract_painting_of_two_people_with_speech_bubbles_c_b2457dfd-af1e-4d7f-b81d-70bef4a9307f.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T04:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups.md",
+      "title": "Bipartisan Senate bill to ban TSA use of facial recognition technology gains support of civil rights groups",
+      "excerpt": "The bill aims to tackle TSA’s proposed plan to implement facial recognition scans at over 430 U.S. airports within the next several years.",
+      "sourceUrl": null,
+      "webUrl": "https://fedscoop.com/bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups/",
+      "originalUrl": "https://fedscoop.com/bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2019/01/GettyImages-183628592.jpg",
+          "width": 1920,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T00:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-unpacking-fresh-signals-from-aws-on-storage-processing-and-llm-strategy.md",
+      "title": "Unpacking fresh signals from AWS on storage, processing and LLM strategy",
+      "excerpt": "The key unveiling on storage is the new Amazon S3 Express One Zone storage class. It’s been designed to deliver up to 10x better performance than the standard class, all while handling requests in the hundreds of thousands per second and maintaining single-digit millisecond latency, according to Thurai.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/12/01/unpacking-fresh-signals-aws-storage-processing-llm-strategy-supercloud5/",
+      "originalUrl": "https://siliconangle.com/2023/12/01/unpacking-fresh-signals-aws-storage-processing-llm-strategy-supercloud5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T22:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-heres-what-aws-revealed-about-its-generative-ai-strategy-at-reinvent-2023.md",
+      "title": "Here's what AWS revealed about its generative AI strategy at re:Invent 2023",
+      "excerpt": "AWS CEO Adam Selipsky and other top executives at the company’s annual re:Invent conference revealed updates and new products aimed at challenging offerings from Microsoft, Oracle, Google, and IBM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.html",
+      "originalUrl": "https://www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/12/aws-selipsky-100948817-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.amp.html",
+      "publishedDateTime": "2023-12-01T22:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-02-artificial-intelligence-in-health-care.md",
       "title": "Artificial Intelligence in Health Care",
       "excerpt": "Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce Subcommittee on Health. They examined… read more Health care executives testified on ...",
@@ -869,178 +1050,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-agi-development-explained-by-deepmind-founder.md",
-      "title": "AGI development explained by DeepMind Founder",
-      "excerpt": "Learn more about the development of Artificial General Intelligence AGI from the founder of DeepMind. Learn how artificial intelligence will",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/artificial-general-intelligence-deepmind/",
-      "originalUrl": "https://www.geeky-gadgets.com/artificial-general-intelligence-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/DeepMind-Artificial-General-Intelligence.jpg",
-          "width": 1280,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-redefining-communication-in-the-age-of-ai.md",
-      "title": "Redefining Communication In The Age Of AI",
-      "excerpt": "Artificial Intelligence (AI) has revolutionized the translation industry, moving it from human-centric to technology-driven solutions. The integration of AI, particularly in Natural Language Processing (NLP), has enhanced the accuracy and efficiency of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/general/23/12/36047676/redefining-communication-in-the-age-of-ai",
-      "originalUrl": "https://www.benzinga.com/general/23/12/36047676/redefining-communication-in-the-age-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/12/01/screenshot_2023-12-01_at_10.32.59_pm.png?width=1200&height=800&fit=crop",
-          "width": 1188,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36047676",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36047676",
-      "publishedDateTime": "2023-12-01T12:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-xiao-i-presents-at-fortune-global-forum-2023-commercializing-hua-zang-universal-large-language-model-in-diverse-scenarios.md",
-      "title": "Xiao-I Presents at Fortune Global Forum 2023, Commercializing Hua Zang Universal Large Language Model in Diverse Scenarios",
-      "excerpt": "Mr. Hui Yuan, the Chairman of the Board and CEO of Xiao-I Corporation (NASDAQ: AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, took the stage alongside distinguished speakers to share a practical application of Hua Zang Universal Large Language Model (\"LLM\") and provide an in-depth exploration of the cutting-edge advancements in generative AI at the Fortune Global Forum 2023,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-presents-at-fortune-global-forum-2023-commercializing-hua-zang-universal-large-language-model-in-diverse-scenarios-1032865840",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-presents-at-fortune-global-forum-2023-commercializing-hua-zang-universal-large-language-model-in-diverse-scenarios-1032865840",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T11:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-how-voice-assistant-will-impact-our-lives-in-the-years-to-come.md",
-      "title": "How Voice Assistant Will Impact Our Lives in the Years to Come",
-      "excerpt": "The advancement in technology continuously brings ease and enjoyment to our lives. Machines have already changed how we work all day and tired us out, but voice assistants have emerged as",
-      "sourceUrl": null,
-      "webUrl": "https://technofaq.org/posts/2023/12/how-voice-assistant-will-impact-our-lives-in-the-years-to-come/",
-      "originalUrl": "https://technofaq.org/posts/2023/12/how-voice-assistant-will-impact-our-lives-in-the-years-to-come/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technofaq.org/wp-content/uploads/2023/12/voice-control.jpg",
-          "width": 512,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T11:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technofaq.org",
-        "domain": "technofaq.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

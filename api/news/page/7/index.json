@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-20-stunning-new-ai-adds-realistic-sound-effects-to-any-video.md",
+      "title": "Stunning new AI adds realistic sound effects to any video",
+      "excerpt": "OpenAI released a new AI model called Sora that could generate high-resolution video clips from text prompts. But they're all essentially clever silent films. Now ElevenLabs has added background sounds to Sora-created footage.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/",
+      "originalUrl": "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/7df3253/2147483647/strip/true/crop/1903x999+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc0%2F79%2F292b13454764b891a7d395388ef8%2F01.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T17:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock.md",
+      "title": "Build a contextual chatbot application using Knowledge Bases for Amazon Bedrock",
+      "excerpt": "Modern chatbots can serve as digital agents, providing a new avenue for delivering 24/7 customer service and support across many industries. Their popularity stems from the ability to respond to customer inquiries in real time and handle multiple queries simultaneously in different languages. Chatbots",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/11/ml-15933-001-1260x571.jpg",
+          "width": 1260,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T16:43:30Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-what-are-the-best-ai-stocks-in-february-2024-our-top-3-picks.md",
       "title": "What Are the Best AI Stocks in February 2024? Our Top 3 Picks",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investing in AI stocks is thrilling, especially now in February 2024.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": null,
       "content": "",
@@ -372,7 +476,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 363,
+      "heat": 373,
       "tags": null,
       "images": [
         {
@@ -415,6 +519,49 @@
         "AI",
         "AI Ethics",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-facial-recognition-will-feature-at-many-airports-moving-forward.md",
+      "title": "Facial recognition will feature at many airports moving forward",
+      "excerpt": "These include the use of facial recognition software to speed up the pre-check and verification process of passengers, which has been utilised in some way since 2019 by the TSA. It is set to ...",
+      "sourceUrl": null,
+      "webUrl": "https://htxt.co.za/2024/02/19/facial-recognition-will-feature-at-many-airports-moving-forward/",
+      "originalUrl": "https://htxt.co.za/2024/02/19/facial-recognition-will-feature-at-many-airports-moving-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://htxt.co.za/wp-content/uploads/2024/02/tusik-only-yOd-gjE7D68-unsplash.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T11:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -515,6 +662,48 @@
       ]
     },
     {
+      "path": "_news/2024-02-19-mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development.md",
+      "title": "MBZUAI and UNDP partnership to advance use of artificial intelligence for sustainable development",
+      "excerpt": "As part of the collaboration, the university becomes the founding knowledge partner for the UNDP’s AI for Sustainable Development Platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/Y2RhYzNkNWUtNmE0MC00/0/jji-mbzuai-jpg.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc?amp=1",
+      "publishedDateTime": "2024-02-19T10:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good.md",
       "title": "I tested Meta's Code Lama with 3 AI coding challenges that ChatGPT aced - and it wasn't good",
       "excerpt": "Meta CEO Mark Zuckerberg recently unveiled Code Llama, a 70B parameter AI designed for coding. But how does it stack up against giants like ChatGPT? I put it to the test.",
@@ -523,7 +712,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -681,7 +870,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1032,205 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week.md",
-      "title": "PayPal Ventures’ first AI investment, a credit-based dating app and Robinhood’s good week",
-      "excerpt": "FlowFi, a startup creating a marketplace of finance experts for entrepreneurs ... Rasa, an enterprise-focused conversational generative AI platform with financial services companies as clients, raised $30 million in a Series C round co-led by StepStone ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/",
-      "originalUrl": "https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2014/04/shutterstock_161008784-e1409098226238.jpg?resize=1200,582",
-          "width": 1200,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/amp/",
-      "publishedDateTime": "2024-02-18T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-startup-launches-ai-backed-education-health-and-edutainment-content-service.md",
-      "title": "Startup launches AI-backed education, health, and edutainment content service",
-      "excerpt": "A start-up has recently announced that it will provide curated education, health, and edutainment services targeting specific needs using artificial intelligence.The start-up platform called Ascend, which is backed by the Accolade Group,",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2832555-startup-launches-ai-backed-education-health-and-edutainment-content-service",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2832555-startup-launches-ai-backed-education-health-and-edutainment-content-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_02_16_4468374.jpg?width=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2832555-startup-launches-ai-backed-education-health-and-edutainment-content-service?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2832555-startup-launches-ai-backed-education-health-and-edutainment-content-service?amp",
-      "publishedDateTime": "2024-02-18T11:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-can-ai-porn-be-ethical.md",
-      "title": "Can AI porn be ethical?",
-      "excerpt": "As demand for responsive sexbots grows, some developers are trying to thread the needle between fully neutered and fully uncensored AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=mc.news",
-      "originalUrl": "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=mc.news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e1f0c65bfdf81f113d5dfea096747039fd9f29a9/13_0_2667_1600/master/2667.jpg?width=620&quality=85&auto=format&fit=max&s=10ec8daedbde6f1ba1f256a0aebef810",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn",
-      "publishedDateTime": "2024-02-18T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-facial-recognition-coming-soon-to-an-airport-near-you.md",
-      "title": "Facial Recognition: Coming Soon to an Airport Near You",
-      "excerpt": "This passenger screening using facial recognition software and made available to select travelers at La Guardia by Delta Air Lines and the Transportation Security Administration, is just one example of how biometric technology, which uses an individual’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/19/travel/18Travel-biometrics/18Travel-biometrics-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

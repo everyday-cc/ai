@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Workers Still Input Sensitive Information When Using AI Tools Despite Security Risks"
+    excerpt: "Respondents also recognize the benefits of generative AI, including faster access to information (48%), increased productivity (40%), and task automation (39%). However, many view a colleague's use of these tools as unfair (53%) and believe that users should share knowledge with the team (40%)."
+    publishedDateTime: 2024-02-23T17:50:00Z
+    webUrl: "https://www.techtimes.com/articles/301984/20240223/workers-still-input-sensitive-information-when-using-ai-tools-despite.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/301984/20240223/workers-still-input-sensitive-information-when-using-ai-tools-despite.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301984/20240223/workers-still-input-sensitive-information-when-using-ai-tools-despite.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 69
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444049/workers-still-input-sensitive-information-when-using-ai-tools-despite-security-risks.jpg"
+        width: 1500
+        height: 924
+        isCached: true
 
 secured: "Fj3FI1gafZQJCY2KMm4DGxApRB8CLQnqa6gUnIDntJ3XULYUmHemSMIsj+4uvVmTegj9EZNLf6DysYsxkg0FGQigR5hYMe8BKZCM96B7lERag/ESCzFqzCSuB94LfyBnTRV0SRyxJW29F9OKYmHJRa80ENQkQYYS4Eb4bu22GytCVykjpTFi95o6XICpEDxMzb8d3VSHvVzu4it54++DKP2Ijvh8gCLvt/VxBrYNgGpG39/Krwvhni4uMLmDQFQPmw98rnqKx+wO1HnEbYzNu/H84u5dpQat3ImG5ixVRMq6QJAp9lCzjU5fZDiMvencWjSbXqR1feNUhIeHKNpXS+e21ItW9/ifQnmAUUE8F4U=;Jb+gyTPgwEsUgws9I2Rn+A=="
 ---

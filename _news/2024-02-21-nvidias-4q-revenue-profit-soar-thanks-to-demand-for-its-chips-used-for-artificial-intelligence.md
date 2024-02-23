@@ -585,6 +585,24 @@ related:
       name: The Spokesman-Review
       domain: spokesman.com
     quality: 17
+  - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
+    excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
+    publishedDateTime: 2024-02-23T17:51:00Z
+    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+  - title: "Nvidia becomes AI poster-child following earnings, trillion dollar valuation"
+    excerpt: "\"Accelerated computing and generative AI have hit the tipping point. Demand is surging worldwide across companies, industries, and nations,\" Nvidia CEO Jensen Huang said in an earnings call."
+    publishedDateTime: 2024-02-23T21:52:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/02/23/nvidia-ai-poster-child-earnings-valuation.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
   - title: "Chipmaker Nvidia Just Posted Unbelievable Revenue Growth. It's All Down to the AI Revolution"
     excerpt: "The reason is simple, according to the company's CEO Jensen Huang. It's because \"accelerated computing and generative AI have hit the tipping point,\" and demand for powerful chips that can help with all the number crunching needed to make AI work is \"surging worldwide across companies, industries and nations.\""
     publishedDateTime: 2024-02-22T18:15:00Z

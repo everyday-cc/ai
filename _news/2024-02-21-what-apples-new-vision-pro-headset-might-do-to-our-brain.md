@@ -72,6 +72,20 @@ related:
         width: 1500
         height: 999
         isCached: true
+  - title: "Stunning visionOS 2 concept shows off 7 features I want Apple to add to the Vision Pro"
+    excerpt: "I hope visionOS 2 brings at least these seven Apple Vision Pro possible features to help Apple improve its first spatial computer."
+    publishedDateTime: 2024-02-23T20:14:00Z
+    webUrl: "https://bgr.com/tech/stunning-visionos-2-concept-shows-off-7-features-i-want-apple-to-add-to-the-vision-pro/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 16
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/visionsos-2-concept-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
 
 secured: "LTnVRgUPbmXY5lYfn4RVbC48PY1oolpspZQ/T4uAXXFmBphQ7TX8pbfZZQ5w5nQq0W8q+imIhWtg+GFWgyIb2pzx3UkeNCWJ1yxxoyhsdRg61pQTSspiz4RomPgezrnt54uAlKnkdLAbouHMPRAbG8AQ6S4RHcONs4HgOn2H6nUOfvOIC1Ca7iB6Jya+jUNCaFlbS8Z7BV2JiOY/4nQPSpXVoQg/q8OrbGt0V+KciAZk5ErXI50FGiIvWoCkeQwC1cmCk3nYrS6u5s2yZ3KUVVZkDTU/iSDxBB+NK4tJpYAfaPXipP4E4xMVu0C4SNw2VYZZxb8fVEVP3576k5YKSFF1MsXiQypNPvwHi+hOhaUB7A8fcCkKdA1lenx3MxWPl+x4bm8Ndl7+UsDVPv0HoMguJ6EJLpN30HO0Yn6GroQA5nw1dTyrL/FeAPS80SIKu0l6ne2/uiPvu9QgszdKUx/OTdcHjfkCR4QgmOSzOSDQ+VbXhK7NZAXcNiIvh2stSKb8OsuJv6wKi4TdOOJQxw==;JRwbm138hco+7hQi3LSpag=="
 ---

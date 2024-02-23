@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-career-advice-coach-gen-z-workers
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-career-advice-coach-gen-z-workers-get-ahead-2024-2?amp"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Workers Still Input Sensitive Information When Using AI Tools Despite Security Risks"
+    excerpt: "Respondents also recognize the benefits of generative AI, including faster access to information (48%), increased productivity (40%), and task automation (39%). However, many view a colleague's use of these tools as unfair (53%) and believe that users should share knowledge with the team (40%)."
+    publishedDateTime: 2024-02-23T17:50:00Z
+    webUrl: "https://www.techtimes.com/articles/301984/20240223/workers-still-input-sensitive-information-when-using-ai-tools-despite.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/301984/20240223/workers-still-input-sensitive-information-when-using-ai-tools-despite.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301984/20240223/workers-still-input-sensitive-information-when-using-ai-tools-despite.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 69
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444049/workers-still-input-sensitive-information-when-using-ai-tools-despite-security-risks.jpg"
+        width: 1500
+        height: 924
+        isCached: true
   - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
     excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds. Some are also starting to use artificial intelligence to generate synthetic voice clones that can save money or bring more characters to life."
     publishedDateTime: 2024-02-20T00:40:00Z

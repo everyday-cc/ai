@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tested-metas-code-lama-wi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/"
 type: article
 quality: 95
-heat: 245
+heat: 255
 published: true
 
 provider:
@@ -166,6 +166,15 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 49
+  - title: "Learn all about ChatGPT with this $20 course"
+    excerpt: "Don't miss your chance to grab this Introduction to ChatGPT e-course, which is on sale for just $20 (reg. $80)."
+    publishedDateTime: 2024-02-23T20:03:00Z
+    webUrl: "https://www.zdnet.com/article/learn-all-about-chatgpt-with-this-20-course/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
     quality: 49
   - title: "Scientists Are Putting ChatGPT Brains Inside Robot Bodies. What Could Possibly Go Wrong?"
     excerpt: "As a dinner-handling robot formulates its “policy”—the plan of action it will follow to fulfill its instructions—it will have to be knowledgeable about not just the partic"

@@ -64,6 +64,20 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "How to navigate talent management in the age of AI"
+    excerpt: "Valuing human skills, fostering inclusivity and navigating the ethics of AI can make tech roles sustainable and fulfilling."
+    publishedDateTime: 2024-02-23T21:20:00Z
+    webUrl: "https://www.ciodive.com/news/AI-tech-talent-management-mastercard/707910/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
   - title: "Five of the Top Artificial Intelligence Stocks to Invest in Immediately"
     excerpt: "With artificial intelligence impacting just about every industry in the world, the market could be worth about $594 billion by 2032, according to Precedence Research. All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE ..."
     publishedDateTime: 2024-02-22T16:57:00Z

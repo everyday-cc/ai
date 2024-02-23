@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Best AI Image Generators in 2024"
+    excerpt: "Generally considered the best AI image tool, Midjourney was developed by the independent research lab Midjourney, Inc, and is still in open beta. Critics say this tool generates complex, relatively high-quality imagery, but also requires a little finessing ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://tech.co/news/best-ai-image-generators"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 19
 
 secured: "S6aNLK6+zWSxYXlucGQSKHjysIUwfU4080D3blcEBNTrWRbuZfSWZrAipVoj0lNf2vv88w0kZvwphWf4troGWSvYqzNdFSZXwtYWpfoDciB+m6Dgg33vLF1oOfUrY0zmAp0IN1jlPDLkMT/hfPyCdypcTPubgIM3RrB6OH+q62AIND8xUWYtTZRB5UaOn4XKDljoVOzcHsiu93ViKnNwc8DDdkLElj1Z5rwP9hYl6B7Y4N1op2S2BMYM8NseUI3rWtlJTIU7LVXWi+SFWoDY7pAW2IAeEDxfJMPFAxjeuM/BRZVpY/J5ElxL+NG9Ep2VzwvrjdNQScuTvYAIG6jJZUZU8cPmYqPBIph0Ui+e1HA=;uY5F3F+BELcYIiB1nW2TFg=="
 ---

@@ -2,6 +2,213 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-24-vending-machine-error-reveals-secret-face-image-database-of-college-students.md",
+      "title": "Vending machine error reveals secret face image database of college students",
+      "excerpt": "The scandal started when a student using the alias SquidKid47 posted an image on Reddit showing a campus vending machine error message, \"Invenda.Vending.FacialRecognitionApp.exe,\" displayed after the machine failed to launch a facial recognition application that nobody expected to be part of the process of using a vending machine.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/mm-camera-spy-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T22:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do.md",
+      "title": "Is AI Trustworthy? Experts Consider What Tech Should Be Allowed to Do",
+      "excerpt": "Is artificial intelligence coming for your job? Is it planning something much, much worse? While debates over AI regulation play out, many boosters are pushing the tech further and further.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "originalUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-924529/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "publishedDateTime": "2024-02-23T21:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-google-issues-ai-upgrade-warning-for-millions-of-chrome-users.md",
+      "title": "Google Issues AI Upgrade Warning For Millions Of Chrome Users",
+      "excerpt": "Google continues to change its ecosystem apace, as its evolving Gemini (née Bard) AI platform burrows its way into app after app, across desktops and mobiles. In doing so, a whole new set of risks are hitting millions of users in short order. Awareness is very low—and so Google has just responded with its latest serious warning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
+      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5e66cbd8e1e6170007593a74/0x0.jpg?format=jpg&crop=2472,1545,x868,y776,safe&height=900&width=1600&fit=bounds",
+          "width": 1440,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/",
+      "publishedDateTime": "2024-02-23T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024.md",
+      "title": "5 ways to leverage AI to streamline your business workflows in 2024",
+      "excerpt": "Used right, AI has the potential to significantly improve the efficiency of operational workflows, and increase productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024/",
+      "originalUrl": "https://venturebeat.com/business/5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/pexels-christina-morillo-1181534-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 704,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T20:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-24-ai-is-having-a-1995-moment.md",
       "title": "AI is having a 1995 moment",
       "excerpt": "The analyst said the hunger for Nvidia's AI chips from leading software providers like Salesforce, Adobe, and Oracle is a \"transformational tech trend we have not seen since the start of the Internet in the mid 90's.\" But that doesn't mean major AI ...",
@@ -114,7 +321,7 @@
       "originalUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -365,7 +572,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-career-advice-coach-gen-z-workers-get-ahead-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -468,7 +675,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -508,7 +715,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Meta AI"
       ]
     },
     {
@@ -752,7 +960,7 @@
       "originalUrl": "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1036,194 +1244,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-empower-your-technical-staff-with-hands-on-technology-training.md",
-      "title": "Empower your technical staff with hands-on technology training",
-      "excerpt": "Holistic training includes hands-on, real-world experience that teaches your technical staff how to carry out their full mission.\nThe post Empower your technical staff with hands-on technology training appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/empower-your-technical-staff-with-hands-on-technology-training/",
-      "originalUrl": "https://www.ibm.com/blog/empower-your-technical-staff-with-hands-on-technology-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T20:29:15Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-google-is-killing-gmails-basic-html-view-in-2024.md",
-      "title": "Google is killing Gmail’s basic HTML view in 2024",
-      "excerpt": "Google is currently focusing on infusing AI-powered features into its products, including Gmail. Last month, the company launched a Duet AI feature to help users write emails. Last week, it allowed the Bard chatbot to integrate with Google accounts so you ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/",
-      "originalUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/",
-      "publishedDateTime": "2024-02-22T19:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-why-this-startup-is-betting-on-ai-powered-tech-to-predict-your-future.md",
-      "title": "Why this startup is betting on AI-powered tech to predict your future",
-      "excerpt": "Astroyogi, a spiritual technology startup, anticipates growth from positive response ... we aim to create more immersive experiences to bolster user engagement. The integration of AI and ML technologies is a pivotal aspect of our investment, enabling ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/articleshow/107923269.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/articleshow/107923269.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107923269,width-1280,height-720,resizemode-4/107923269.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/amp_articleshow/107923269.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/amp_articleshow/107923269.cms",
-      "publishedDateTime": "2024-02-22T18:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life.md",
-      "title": "Yorba’s service is like Mint for uncluttering your entire digital life",
-      "excerpt": "Spend enough time online, and you’ll collect a digital paper trail of accounts, logins, subscriptions, mailing lists, and passwords wrapped up in data breaches. A new startup called Yorba can help you get a better handle on your ever-expanding digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/",
-      "originalUrl": "https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/yorba-featured-image.jpg?resize=1200,731",
-          "width": 1200,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/amp/",
-      "publishedDateTime": "2024-02-22T18:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

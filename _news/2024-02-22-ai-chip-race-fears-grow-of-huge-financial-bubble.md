@@ -29,7 +29,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-23-12.49.17-A-dynamic-and-dramatic-representation-of-AI-chips-racing-at-lightning-fast-speed-leaving-competitors-in-the-dust.-The-scene-is-set-on-a-futuristic-ra.webp?w=1200&strip=all"
         width: 1200

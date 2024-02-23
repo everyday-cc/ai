@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
+    quality: 34
+  - title: "Nvidia ramps up GPU production to fuel AI data center revolution"
+    excerpt: "The chipmaker expects demand to outpace supply through the year. “We’ll do our best,” CEO Jensen Huang said Wednesday."
+    publishedDateTime: 2024-02-22T23:01:00Z
+    webUrl: "https://www.ciodive.com/news/nvidia-gpu-data-center-revolution-jensen-huang/708273/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
     quality: 34
 
 secured: "fRT10Bg39xALlCzkbEEZlk1QqfgryXerH/aEbSYLpji6o4iu2UwBX5dt54xP4g26svcgLw5gcPe7Bo3xvHIdsNsq7/p4jMeJIGzYaN3sY4a1WWHAfiYwHtbx/BWLMVQkAsXZYB/XviTT1biww3JRj0KRLlI5+sZaL2729qPtBjgNBgMqxkyFy2bZJ0PlrRfPGPniAAJ0PNs+uyLNkxbOSziyJS3gulg2knTW/m80uNL7apnkIJUzxM1D/OFKI9Ym8sLfEb4eeCoxCdo0dIHgPzfwrZRE4AzV6OX4s+28zV2JoXCWhumZROMc0sRVwL7cLgKtFyEkPHfK187b/dKR42gf1bqH6NTxZk+Am6/SkJED/m1rutbhlAPcOWE8wckLhErM8zn37fZXAm4T+jSEq4U947fBoAb2QHrgWTFvUK0HKDvkzoMKMMHPCAovxKwrO7OvUnuQNfq7zHeXnquHEpgyDTEwsW0dmDoAajoYyy433cOd30Hyypr+EXtMzFB1KmPBMMjFMzalvAgxa0pd9g==;Z6NiDSX9nohYm39x15C95w=="

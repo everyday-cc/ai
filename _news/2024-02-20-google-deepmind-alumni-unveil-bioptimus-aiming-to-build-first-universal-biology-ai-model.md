@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind uses AI to tackle neglected deadly diseases"
-    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ..."
-    publishedDateTime: 2024-02-18T22:15:00Z
-    webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-9FT--3HYQWbvIWWbDYSUCm5ft_BLYbyhJdYSYFk1qljTYVg12dR2_abiOrzPltz6D2fXER"
-    ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google DeepMind forms a new org focused on AI safety"
     excerpt: "This morning, Google DeepMind, the AI R&D division behind Gemini and many of Google’s more recent GenAI projects, announced the formation of a new organization, AI Safety and Alignment — made up of existing teams working on AI safety but also broadened ..."
     publishedDateTime: 2024-02-21T15:01:00Z
@@ -75,6 +59,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-2-2.jpg&signature=6bbfa0e5bba21649e161de4317908ce6"
         width: 1280
         height: 640
+        isCached: true
+  - title: "AI regulation will be required in 5-10 years: DeepMind's Mustefa Suleyman"
+    excerpt: "Suleyman stressed the importance of regulating AI to prevent misuse of information and its impact on nation states."
+    publishedDateTime: 2024-02-20T10:45:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 73
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-9502,msid-107852095/mustefa-suleyman.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Nothing special about human mind that can't be reproduced by AI: DeepMind co-founder"
     excerpt: "AI would be very useful without consciousness and not with it because it will be quite a slippery concept, said Mustafa Suleyman"
@@ -106,6 +106,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Google DeepMind C.E.O. Demis Hassabis on the Path From Chatbots to A.G.I."
+    excerpt: "For more audio journalism and storytelling, download New York Times Audio, a new iOS app available for news subscribers. Hosted by Kevin Roose and Casey Newton Produced by Davis Land and Rachel Cohn Edited by Jen Poyant Engineered by Chris Wood Original mu ..."
+    publishedDateTime: 2024-02-23T10:04:00Z
+    webUrl: "https://www.nytimes.com/2024/02/23/podcasts/google-deepmind-demis-hassabis.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 48
   - title: "AI hallucinations will largely be eliminated by next year, says DeepMind’s Mustafa Suleyman"
     excerpt: "Suleyman said eliminating hallucination would have a dramatic impact on education because these conversational AI's are friendly and fluent."
     publishedDateTime: 2024-02-20T14:35:00Z
@@ -115,6 +124,15 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 24
+  - title: "Andrew Yang and 300 international experts petition for government action on AI deepfakes"
+    excerpt: "A coalition of 300 international experts drafted a letter calling for government action to address the proliferation of deepfakes, urging criminalization and penalties for those involved in their creation and dissemination."
+    publishedDateTime: 2024-02-21T13:18:00Z
+    webUrl: "https://cointelegraph.com/news/andrew-yang-experts-petition-ai-deepfakes"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 10
 
 secured: "svpe8ugIWwUC3/Aljbkvp/DL2M6H3fC+9n14YvUP+RUEV/x/iO35pM7nzIXgoyuTnvcvztEC2+ADCPkQLJOBDZ3tj8+MSc/rHBoh8XoAp74UOzHRO/26ZF1paT9aMswjz4JMULmKCDKCrQ9pqOB9V+cHI4Mh6k8A7EBaGjKfA/fbX6UY7uSxFdUcbAeTQPr+0dm2yEDXh8cCizby2AfvcszItnbQYscrXrz6rmvkL1wG78eLQnDNEAGgz9VwkhxIecpHpAlU0wXe7IkhdszVpm8QSotp0qmQas0Q96BCSO+BJ4aVS27HL0wBOcWfylzaZ0VvwS1O4kNvcOsVVF1wYktUsJWiwtfYuE8vIF+oZuqINl1DncGV709xpvXQNW6FQ2e6Sa9UxG27PMBY1DegTi155Ier9kvLlutl3/yB8oefHjklwvGLeiV4mpOlqetnnd/rPwGtxKbhWJasTXFFL2JJQluA2AhGy72NaH/gMS+p8fm4tDL0J5rAg48lFKpamTvAlg8KjWK9SzR0NIezMg==;bf/wPS/mczKQTAPwwdhFLQ=="
 ---

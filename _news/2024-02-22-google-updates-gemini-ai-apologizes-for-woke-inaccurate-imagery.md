@@ -344,6 +344,20 @@ related:
         width: 1456
         height: 832
         isCached: true
+  - title: "Google Pauses Gemini Image Generation"
+    excerpt: "Google paused its Gemini image generation capabilities after users complained of its inaccurate and offensive output."
+    publishedDateTime: 2024-02-23T21:33:00Z
+    webUrl: "https://www.thurrott.com/a-i/google-gemini-a-i/298263/google-pauses-gemini-image-generation"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 24
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/gemini-image-gen.jpg"
+        width: 1066
+        height: 600
+        isCached: true
   - title: "Google pauses Gemini AI image generator after it created inaccurate historical pictures"
     excerpt: "Google on Thursday said it is pausing its Gemini artificial intelligence image generation feature after saying it offers \"inaccuracies\" in historical pictures. Users on social media had been complaining that the AI tool generates images of historical ..."
     publishedDateTime: 2024-02-22T00:00:00Z

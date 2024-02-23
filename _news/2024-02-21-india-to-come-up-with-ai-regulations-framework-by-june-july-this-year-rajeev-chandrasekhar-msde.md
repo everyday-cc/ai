@@ -43,6 +43,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google's Gemini AI Chatbot Under Fire For 'Bias' Against PM Modi Rajeev Chandrasekhar Reacts"
+    excerpt: "Google's Gemini AI chatbot is facing the ire on social media for \\discrimination against the whites\\, \\amplifying Hamas propaganda\\ and now for"
+    publishedDateTime: 2024-02-23T19:47:00Z
+    webUrl: "https://menafn.com/1107891949/Googles-Gemini-AI-Chatbot-Under-Fire-For-Bias-Against-PM-Modi-Rajeev-Chandrasekhar-Reacts"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 8
 
 secured: "m5GDdCJzn1NxKT3u66hSjFR89f5+oYZSkJZjOa+PYlj++9WQwlYHH23BesvBorcVdNrELAh7xxz9YBzDr3KY3ghqNm8rbAe0V5lM6i53pa2nUd5cEgWlrqY1sw+vVqK4jjLJ3e9WJJIA0AnmVRI+KbBww6oU8n7hz3iOTnGx21ZG9lIAKpNj4s1HIqAD7+kqLFU5/ESIsOGQQzQHCBMDq7VhsfqMHEQph1x7qpyak7QDcV4DCIbUUtR4mse+tuem6b/U3izh7ENgufWZ1mm4EHa4+mATqBG0HxB3PRZiyi3rnI+XZ0oySw4l+RoF6V83ipmsFnFoMErtnQdUUyRPv0BGRY90ybPlMoFDkc+7igA=;DruGXMelRpkN+7m1kXFQrA=="
 ---

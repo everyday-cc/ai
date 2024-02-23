@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964232.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964232.htm"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Adrenaline Raises $2.4M to Shape the Future of AI-Powered Code Understanding"
+    excerpt: "Summary: Adrenaline secures $2.4M funding to build tools for understanding and modifying large codebasesBrooklyn, New York--(Newsfile Corp. -"
+    publishedDateTime: 2024-02-23T20:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/adrenaline-raises-2.4m-to-shape-the-future-of-aipowered-code-understanding-1033098869"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "LdROFIaFxnLeLJqoYzPPwll6uY4f/MIEU1qdIjyBuP3ZUAx+2GNNqECTKbZnCO+zOsk91BAMzj4QwjvARQDG9/Z0YIGSHzt3pT67S4C8a7GmVQmD+s6YR6wlqebEOP63wDZWukVAfx0HL3KVYCObk0tMOiBI/uMelbRe5AbFfzqVqTn6+EKGjotbKzf68FffKq6dhJv9wd37ixaK/9GiQU4RHwWjzp5I9cbw2ajws6NReHUEZrVfpSceZ0Yjm5p/PgnX+RAQhEcjYk8Ij9TaxesJdisvzG/134th7I5pEiEjlXEdX+Gp7dnT60Vgb/eNXOjl3Gyc0o9KrYNKN5o/uCJVaAfJN9cnXuc7hwVXRg4=;0dxVQp97Y1nEUPzyGDq54w=="
 ---

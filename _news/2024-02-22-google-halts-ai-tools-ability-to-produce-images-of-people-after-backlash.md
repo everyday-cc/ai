@@ -63,13 +63,13 @@ related:
   - title: "Google halts AI tool's ability to produce images of people after backlash over struggles with race"
     excerpt: "The incident is also yet another setback for Google as it races to take on OpenAI and other players in the competitive generative AI space. In February, shortly after introducing its generative AI tool - then called Bard and since renamed Gemini - Google's ..."
     publishedDateTime: 2024-02-23T08:02:00Z
-    webUrl: "https://abc7news.com/google-ai-gemini-people-of-color-race-backlash/14460904/"
-    ampWebUrl: "https://abc7news.com/amp/google-ai-gemini-people-of-color-race-backlash/14460904/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/google-ai-gemini-people-of-color-race-backlash/14460904/"
+    webUrl: "https://abc7chicago.com/google-ai-gemini-people-of-color-race-backlash/14460904/"
+    ampWebUrl: "https://abc7chicago.com/amp/google-ai-gemini-people-of-color-race-backlash/14460904/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/google-ai-gemini-people-of-color-race-backlash/14460904/"
     type: article
     provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
     quality: 45
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
