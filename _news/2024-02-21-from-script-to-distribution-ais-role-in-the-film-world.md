@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-scrip
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

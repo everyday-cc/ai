@@ -2,6 +2,100 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2024-01-18-challenging-norms-and-finding-your-north-star-with-ai-in-2024.md",
+      "title": "Challenging norms and finding your North Star with AI in 2024",
+      "excerpt": "After a year of AI dominating headlines, many businesses are moving into the next stage of finding the right AI solutions for them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business",
+      "originalUrl": "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/659bd2a56979d737182128a2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-farm-ng-raises-series-a-funding-to-scale-amiga-robot-and-ai-for-small-to-midsize-farms.md",
+      "title": "farm-ng raises Series A funding to scale Amiga robot and AI for small to midsize farms",
+      "excerpt": "Since the first industrial revolution two centuries ago, workers have moved into cities, even as population growth has challenged farmers to be increasingly productive. Today, farm-ng said it has completed its Series A funding round, raising more than $10 million to further develop the Amiga robot for agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/farm-ng-raises-10m-series-a-scale-amiga-robot-ai-small-midsize-farms/",
+      "originalUrl": "https://www.therobotreport.com/farm-ng-raises-10m-series-a-scale-amiga-robot-ai-small-midsize-farms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/farm_ng_amiga.jpeg",
+          "width": 770,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T14:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-meta-ceo-mark-zuckerberg-pledges-to-build-out-artificial-general-intelligence.md",
       "title": "Meta CEO Mark Zuckerberg pledges to build out artificial general intelligence",
       "excerpt": "The company also plans to grow and bring its two major AI research groups – called FAIR ... has soured considerably since the days that Facebook became Meta, and so it is no surprise that ...",
@@ -1028,92 +1122,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-top-10-best-python-libraries-for-machine-learning-in-2024.md",
-      "title": "Top 10 Best Python Libraries for Machine Learning in 2024",
-      "excerpt": "AutoML is an open-source library that automates the process of selecting the best machine learning algorithm and hyperparameters for a given dataset. It is designed to be easy to use and can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/guides/software/best-python-libraries-for-machine-learning/",
-      "originalUrl": "https://www.benzinga.com/guides/software/best-python-libraries-for-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/guides/wp-content/uploads/2024/01/Best-Python-Libraries-for-Machine-Learning-AI.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-google-planning-to-add-ai-image-generator-directly-to-bard.md",
-      "title": "Google planning to add AI image generator directly to Bard",
-      "excerpt": "Following the Search Generative Experience (SGE) and Slides, Google Bard is set to get its own image generator. As shared by Dylan Roussel on X/Twitter, an unreleased Google Bard changelog — dated for January 18 — reveals how you can “Create images ...",
-      "sourceUrl": null,
-      "webUrl": "https://9to5google.com/2024/01/17/google-bard-image-generator/",
-      "originalUrl": "https://9to5google.com/2024/01/17/google-bard-image-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-bard-icon-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T22:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5google",
-        "domain": "9to5google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

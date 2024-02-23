@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://krdo.b-cdn.net/2024/02/Untitled-design-23-375x225.jpg"
         width: 375
         height: 225
+        isCached: true
+  - title: "Uber Eats’ self-driving delivery robots hit Japan"
+    excerpt: "Uber is launching an artificial intelligence-based autonomous robot delivery service in Japan, in partnership with Mitsubishi Electric and Cartken."
+    publishedDateTime: 2024-02-23T02:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/23/uber-eats-self-driving-delivery-robots-hit-japan"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/23/2558013.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Uber Eats to roll out self-driving robot chefs in Tokyo!"
     excerpt: "Uber Eats is set to launch autonomous food delivery robots in Tokyo in partnership with Cartken and Mitsubishi Electric. The robots, called Model C, can carry up to 27 litres of cargo and navigate sidewalks at a walking pace."

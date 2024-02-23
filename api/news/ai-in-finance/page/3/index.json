@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-19-using-ai-to-help-create-a-fintech-game-changer.md",
+      "title": "Using AI To Help Create A Fintech Game-Changer",
+      "excerpt": "In today’s fast-paced economy, fintech companies are increasingly turning to AI to gain a competitive edge. From early-stage startups to late-stage enterprises, AI has emerged with multifaceted applications and disruptive technology to revolutionize the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6442fb6e1e6588f81da821c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/",
+      "publishedDateTime": "2024-01-19T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-artificial-intelligence-ai-in-fintech-market-2024-global-share-analysis-strategic-stakeholder-insights.md",
       "title": "Artificial Intelligence (AI) in Fintech Market 2024 Global Share Analysis: Strategic Stakeholder Insights",
       "excerpt": "The Global Artificial Intelligence (AI) in Fintech market is poised for significant growth between 2023 and 2031, with a positive outlook for 2023 and beyond. As key players in the industry adopt ...",
@@ -1327,49 +1379,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-12-17-strengthen-fintech-regulations-bank-audit-leaders-tell-cbn.md",
-      "title": "Strengthen fintech regulations, bank audit leaders tell CBN",
-      "excerpt": "The association has called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/",
-      "originalUrl": "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2023/10/12163722/WhatsApp-Image-2023-10-10-at-8.33.12-PM.jpeg",
-          "width": 1024,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp",
-      "publishedDateTime": "2023-12-16T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

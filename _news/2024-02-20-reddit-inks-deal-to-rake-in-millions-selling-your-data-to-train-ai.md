@@ -70,6 +70,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Reddit strikes $60M deal allowing Google to train AI models on its posts, unveils IPO plans"
+    excerpt: "SAN FRANCISCO (AP) — Reddit has struck a deal with Google that allows the search giant to use posts from the online discussion site for training its artificial intelligence models and to improve services such as Google Search."
+    publishedDateTime: 2024-02-22T20:28:00Z
+    webUrl: "https://www.seattletimes.com/business/reddit-strikes-60-million-deal-allowing-google-to-train-ai-models-on-its-posts/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 7
 
 secured: "rwN42Ub7q7DKkeGXAhvLXprslilOcjloTamfJBpvYdbnF91xwbJQA2yxphB8x7DGdJXIni45lpu0X/1HFQDe+mx16WB6WlNnbzkEEeMpa9+6bbyZ/kXbVOJTkYzLjCuSYToyRqgG+HtUe02Pt7Vir659MWA5o4WREWCHLB1rIjxt+REzrGHNGX3LHOf97skZB52iofqPfKUOAiPEBQu49tktBcVymoMjZJsZV2jFbTNjUpmzBvzKHTnujPKh1tF4aR8/XzcORtxsxH7j1g3QkyuyCCUMufQFHiJRDIbRcdTtW+a/2k58LpZhSIDYWQ4USJ9W7cPL2e1jOiQqi7+izIP1IDOmgq/QJ8GtL7/fKpk=;/WJFebyf40FLTzGnCfBl/A=="
 ---

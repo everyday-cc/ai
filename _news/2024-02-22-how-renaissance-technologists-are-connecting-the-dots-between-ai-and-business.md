@@ -39,6 +39,22 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "How Artificial Intelligence is affecting social media"
+    excerpt: "The transformative power of Artificial Intelligence (A.I.) is reshaping our world, offering both unprecedented benefits and complex challenges, particularly in the realm of"
+    publishedDateTime: 2024-02-19T14:54:00Z
+    webUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/"
+    ampWebUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/"
+    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/"
+    type: article
+    provider:
+      name: WFLA News Channel 8
+      domain: wfla.com
+    quality: 57
+    images:
+      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2024/02/B-Block-How-Artificial-Intelligence-is-affecting-social-media.jpg?w=1280"
+        width: 640
+        height: 360
+        isCached: true
   - title: "How real estate listings and potentially jobs are shifting to AI"
     excerpt: "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said."
     publishedDateTime: 2024-02-19T22:30:00Z

@@ -37,6 +37,20 @@ related:
         width: 1523
         height: 674
         isCached: true
+  - title: "NVIDIA Eos DGX AI supercomputer designed for artificial intelligence"
+    excerpt: "In the fast-paced world of technology, NVIDIA has made a significant leap with the introduction of Eos, a new supercomputer that has quickly secured a"
+    publishedDateTime: 2024-02-19T07:48:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-nvidia-eos/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/NVIDIA-Eos-supercomputer-built-for-artificial-intelligence-applications.jpg"
+        width: 1280
+        height: 841
+        isCached: true
   - title: "Nvidia Just Bought This Under-the-Radar Artificial Intelligence (AI) Stock. Should You Buy It, Too?"
     excerpt: "According to Nvidia 's 13F filing for the fourth quarter of 2023, it purchased 1,730,883 shares in SoundHound AI. It doesn't specify what price Nvidia paid, but the position is worth $6.5 million at SoundHound's current stock price of $3.76."
     publishedDateTime: 2024-02-18T15:40:00Z
@@ -46,6 +60,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "AI Leader Nvidia Rises as Forecast Tops Wall Street's Lofty Goals"
+    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. The share surge that fueled S&P 500's climb to record highs this year had sparked fears that growth at Nvidia, the bellwether for AI demand, could ..."
+    publishedDateTime: 2024-02-22T04:51:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-22/ai-leader-nvidia-rises-as-forecast-tops-wall-streets-lofty-goals"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Cathie Wood Can Only Watch as Nvidia Rides AI Wave She Foresaw"
     excerpt: "Annual economic growth could accelerate to as much as 50%, thanks to breakthroughs in the world of artificial intelligence."
     publishedDateTime: 2024-02-22T17:42:00Z
@@ -64,6 +87,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
+    excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
+    publishedDateTime: 2024-02-20T05:59:00Z
+    webUrl: "https://www.tweaktown.com/news/96310/nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 40
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96310_01_nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai_full.jpg"
+        width: 1500
+        height: 796
+        isCached: true
   - title: "Nvidia scores big in data centre, gaming, and extends AI lead"
     excerpt: "Expanded adoption of the Nvidia DRIVE platform has seen automotive revenue grow by 21% to $281m in the last quarter with Asian manufacturers Great Wall Motors, ZEEKR, Xiaomi, and Li Auto choosing to use it for their automated driving systems and car computers."
     publishedDateTime: 2024-02-22T04:27:00Z
@@ -77,20 +114,6 @@ related:
       - url: "https://biz-file.com/c/2402/728308-1200x624.jpg?5"
         width: 1200
         height: 624
-        isCached: true
-  - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
-    excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."
-    publishedDateTime: 2024-02-22T12:30:00Z
-    webUrl: "https://hothardware.com/news/nvidia-crushes-earnings-data-center-gains-ai-hits-tipping-point"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 35
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/63959/content/hero-nvidia-headquarters-sign.jpg"
-        width: 708
-        height: 400
         isCached: true
   - title: "Nvidia data center revenues up 409%, AI earnings beat Wall Street expectations"
     excerpt: "Revenues across the company were up 256 percent over the same quarter last year to $22.10 billion, while data center-specific revenues jumped 409 percent to $18.4bn. Analysts expected Nvidia’s data center unit to record $17.06bn in sales for its fiscal fourth quarter."

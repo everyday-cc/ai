@@ -2,6 +2,83 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2024-01-25-apple-car-delayed-until-2028-less-ambitious-design-with-downgrade-to-level-2-autonomy.md",
+      "title": "Apple Car delayed until 2028, less ambitious design with downgrade to Level 2+ autonomy",
+      "excerpt": "Apple delays its electric vehicle until at least 2028: now a semi-autonomous driving car... will include the wheels and pedals, after Apple removed them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/95777/apple-car-delayed-until-2028-less-ambitious-design-with-downgrade-to-level-2-autonomy/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/95777/apple-car-delayed-until-2028-less-ambitious-design-with-downgrade-to-level-2-autonomy/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T02:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-amazons-aws-to-invest-10-billion-for-two-data-centers-in-mississippi.md",
+      "title": "Amazon's AWS to invest $10 billion for two data centers in Mississippi",
+      "excerpt": "its latest capacity expansion amid growing demand for cloud services as more firms adopt new artificial intelligence technologies. AWS' Mississippi expansion plan comes days after it announced a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/amazon-plans-two-aws-data-centers-10-bln-mississippi-2024-01-25/",
+      "originalUrl": "https://www.reuters.com/technology/amazon-plans-two-aws-data-centers-10-bln-mississippi-2024-01-25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-autonomous-synthesis-robot-uses-ai-to-speed-up-chemical-discovery.md",
       "title": "Autonomous synthesis robot uses AI to speed up chemical discovery",
       "excerpt": "Chemists have developed an autonomous chemical synthesis robot with an integrated AI-driven machine learning unit. Dubbed 'RoboChem', the benchtop device can outperform a human chemist in terms of speed and accuracy while also displaying a high level of ingenuity.",
@@ -1092,91 +1169,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web.md",
-      "title": "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web",
-      "excerpt": "Bespoke AI tool is trained on dark web data to provide accurate translation for cybersecurity professionals and law enforcement Searchlight Cyber, the dark web intelligence company, has added AI-power",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T14:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals.md",
-      "title": "Google’s latest AI video generator renders implausible situations for cute animals",
-      "excerpt": "On Tuesday, Google announced Lumiere, an AI video generator that it calls \"a space-time diffusion ... it can create the entire video, from start to finish, in one smooth process. Lumiere can also do plenty of party tricks, which are laid out quite well ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/01/googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/01/googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/lumiere_hero_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T14:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

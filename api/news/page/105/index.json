@@ -2,6 +2,92 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-11-23-artificial-intelligence-are-ai-chips-different-from-traditional-processors.md",
+      "title": "Artificial Intelligence: Are AI chips different from traditional processors",
+      "excerpt": "AI chips executes numerous calculations parallelly, exhibiting remarkable speed and efficiency advantage over CPUs",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
+      "originalUrl": "https://www.business-standard.com/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
+      "publishedDateTime": "2023-11-23T04:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-will-ai-improve-healthcare-consumers-think-so-new-surveys-show.md",
+      "title": "Will AI Improve Healthcare? Consumers Think So, New Surveys Show",
+      "excerpt": "With AI dominating headlines, new surveys show that despite some caution, many consumers are optimistic about AI's potential to transform healthcare for the better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-healthcare-consumers-think-so-new-surveys-show/",
+      "originalUrl": "https://www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-healthcare-consumers-think-so-new-surveys-show/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e976e3f96a38160726e17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1406,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-healthcare-consumers-think-so-new-surveys-show/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-healthcare-consumers-think-so-new-surveys-show/amp/",
+      "publishedDateTime": "2023-11-23T01:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-how-meta-could-benefit-from-the-openai-shakeup.md",
       "title": "How Meta could benefit from the OpenAI shakeup",
       "excerpt": "Meta and Mark Zuckerberg, who had the luxury of watching the OpenAI boardroom drama from the sidelines, could end up indirectly benefiting the most.",
@@ -1114,93 +1200,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-build-well-architected-idp-solutions-with-a-custom-lens-part-2-security.md",
-      "title": "Build well-architected IDP solutions with a custom lens – Part 2: Security",
-      "excerpt": "Building a production-ready solution in AWS involves a series of trade-offs between resources, time, customer expectation, and business outcome. The AWS Well-Architected Framework helps you understand the benefits and risks of decisions you make while building workloads on AWS. By using the Framework,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-2-security/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-2-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T14:41:07Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium.md",
-      "title": "How Amazon Search M5 saved 30% for LLM training cost by using AWS Trainium",
-      "excerpt": "For decades, Amazon has pioneered and innovated machine learning (ML), bringing delightful experiences to its customers. From the earliest days, Amazon has used ML for various use cases such as book recommendations, search, and fraud detection. Similar to the rest of the industry, the advancements of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T14:23:46Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

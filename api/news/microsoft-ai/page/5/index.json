@@ -2,6 +2,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-12-the-age-of-the-cognitive-credit-union.md",
+      "title": "The age of the cognitive credit union",
+      "excerpt": "Credit unions are known for their meticulous, personalized care of members. Their smaller size, attentive service and community involvement set them apart",
+      "sourceUrl": null,
+      "webUrl": "https://www.cuinsight.com/the-age-of-the-cognitive-credit-union/",
+      "originalUrl": "https://www.cuinsight.com/the-age-of-the-cognitive-credit-union/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T07:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CUInsight",
+        "domain": "cuinsight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-microsofts-ai-found-a-new-material-to-replace-li-ion-batteries.md",
+      "title": "Microsoft's AI found a new material to replace li-ion batteries",
+      "excerpt": "Microsoft collaborated with the Department of Energy's Pacific Northwest National Laboratory (PNNL) to discover a novel material that could alleviate the global dependence on lithium in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101486-microsoft-ai-found-new-material-replace-lithium-li.html",
+      "originalUrl": "https://www.techspot.com/news/101486-microsoft-ai-found-new-material-replace-lithium-li.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T18:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-how-generative-ai-is-accelerating-automotive-transformation-microsoft-azures-impact-on-the-future-of-mobility.md",
       "title": "How generative AI is accelerating automotive transformation: Microsoft Azure's impact on the future of mobility",
       "excerpt": "The mobility landscape is evolving at an exciting pace. Automotive, transportation, and logistics companies worldwide have a renewed sense of urgency today to embrace transformation and drive innovation in the movement of people and goods.",
@@ -1304,112 +1381,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-10-ai-predictions-for-2024.md",
-      "title": "10 AI Predictions For 2024",
-      "excerpt": "It is one of the AI world’s worst-kept secrets: once-high-flying startup Stability AI has been a slow-motion trainwreck for much of 2023. Stability is hemorrhaging talent. Departures in recent months include the company’s Chief Operating Officer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6583d7fabdca920d504063e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1374,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/",
-      "publishedDateTime": "2023-12-21T16:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-a-first-look-at-windows-ai-studio.md",
-      "title": "A first look at Windows AI Studio",
-      "excerpt": "Windows AI Studio offers an interesting hybrid of Windows and Linux tools, working across both your CPU and GPU, using the Windows Subsystem for Linux (WSL) to host and run models. It’s an approach that does demand capable hardware, with plenty of memory ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.html",
-      "originalUrl": "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/user_in_thought_thinking_consideration_intelligence_strategy_by_rowan_jordan_gettyimages-1090113184_2400x1600-100858483-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html",
-      "publishedDateTime": "2023-12-21T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -22,29 +22,31 @@ topics:
   - AI
 
 related:
-  - title: "Streamlining supply chain management: Strategies for the future"
-    excerpt: "Here’s how companies are using different strategies to address supply chain management and meet their business goals.\nThe post Streamlining supply chain management: Strategies for the future appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-19T20:00:00Z
-    webUrl: "https://www.ibm.com/blog/supply-chain-strategy/"
+  - title: "AI Is Getting To Work In The Highly Regulated Investment Management Industry"
+    excerpt: "AI hit employment levels among the feted tech giants with 34,000 job losses this year. The AI “safety first” policy is resonating in the investment management industry."
+    publishedDateTime: 2024-02-22T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
-  - title: "Introducing The Future Of Cap Table Management: AI-Powered Solution Unveiled For The Startup Community"
-    excerpt: "MENLO PARK, CALIFORNIA, UNITED STATES, February 19, 2024 /EINPresswire / -- In a development set to revolutionize the startup ecosystem, Positon AI, a leading innovator in Investment and M&A technology solutions, today announced the launch of its AI ..."
-    publishedDateTime: 2024-02-19T22:55:00Z
-    webUrl: "https://menafn.com/1107871995/Introducing-The-Future-Of-Cap-Table-Management-AI-Powered-Solution-Unveiled-For-The-Startup-Community"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?199610"
-        width: 533
-        height: 250
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d6dac3706cc5efc69fdc66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
+  - title: "Five of the Top Artificial Intelligence Stocks to Invest in Immediately"
+    excerpt: "With artificial intelligence impacting just about every industry in the world, the market could be worth about $594 billion by 2032, according to Precedence Research. All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE ..."
+    publishedDateTime: 2024-02-22T16:57:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BAC/pressreleases/24275348/five-of-the-top-artificial-intelligence-stocks-to-invest-in-immediately/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 17
 
 secured: "/9+w4kqPvVRIJJDJ1GowQSQK2Qm4XG3I5IyAQpXE0sW+8GcNUewalHGEU5uWhfVRJPVvmds1ARFvWRZeGXehK27Lstmwi45/WZiHsRWwr02Lzuj86couSY8GKxdK1lPJSqbIrf5LnFYnj8oR920ujFSlKcb4caYYolg6AIkujfha3QSxipJ4jWCQFjgUHTsNlUcKTp06w3Z4LvhZlQ2w9he1gUFNb7s9am1zDiO80W0IChKjj1VnLuUA/WtrUn1DyZ3RkfpCAbU2bQ+XphL9KvHnkWx1hLu7yUU46yrw5aXA/oaiswq7BeoqJ4Ri1If5d9ATMZZz7a7EdX+OtwQJ1iQjW9eX+mdkntKU6543kDQ5e6YBol+jwlT47U4yjnUyT+072oWebZVR+WszjiLjsy2qq3f9Skj1eGthYOzwlCUOQ5UTG9q6Wi7N4Hp8X+c6ouX+L0AgUfJIVST9t/nCzusDZ9FkZRlQYmAg9vlqYzVAZPx6jPi49140k/FDgM4TVL6OxJDyVrfDydDZ30E3DA==;hss4RagKd5uL2R/5UvUpWA=="
 ---

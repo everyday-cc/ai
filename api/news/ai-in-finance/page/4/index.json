@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-17-strengthen-fintech-regulations-bank-audit-leaders-tell-cbn.md",
+      "title": "Strengthen fintech regulations, bank audit leaders tell CBN",
+      "excerpt": "The association has called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change.",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/",
+      "originalUrl": "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2023/10/12163722/WhatsApp-Image-2023-10-10-at-8.33.12-PM.jpeg",
+          "width": 1024,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp",
+      "publishedDateTime": "2023-12-16T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-three-uses-for-artificial-intelligence-in-financial-services-in-2024.md",
       "title": "Three Uses For Artificial Intelligence In Financial Services In 2024",
       "excerpt": "From boardrooms to classrooms to dining tables, 2023 made AI the hottest topic in virtually all corners of enterprise, education and private life. It's not even an exaggeration to say that A and I were the two most important letters of the year; in fact, Collins Dictionary recently made it Word of the Year 2023.",
@@ -1297,58 +1340,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-how-ai-could-transform-wall-street-and-personal-finance.md",
-      "title": "How AI Could Transform Wall Street And Personal Finance",
-      "excerpt": "From lightning-fast settlements to fortified cybersecurity, artificial intelligence is the tidal wave reshaping finance on Wall Street.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jaimecatmull/2023/11/29/how-ai-could-transform-wall-street-and-personal-finance/",
-      "originalUrl": "https://www.forbes.com/sites/jaimecatmull/2023/11/29/how-ai-could-transform-wall-street-and-personal-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65661a178acaebd59a6e3c8e/0x0.jpg?format=jpg&crop=3789,2131,x0,y4,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jaimecatmull/2023/11/29/how-ai-could-transform-wall-street-and-personal-finance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaimecatmull/2023/11/29/how-ai-could-transform-wall-street-and-personal-finance/amp/",
-      "publishedDateTime": "2023-11-29T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

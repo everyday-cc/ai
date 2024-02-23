@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d"
 type: article
 quality: 80
-heat: 80
+heat: 82
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 640
     isCached: true
 
-secured: "qMJXX6cLjazYN4Ffcd2vBpfDd0+5ZmZ7UM2AMWpNFUv8gt5DrlGXrWvuhCB4WFnNXiuoN6WDmrTsdXYQ5E2Y+rr9LfmCCfeoBsgs8ZEJGgXZshvrgKV9yBhjgKcpq5P5B3tMRWya+wRChjOtkPYM8EZwGYS1OwsYnxNLZijcRL1+7zWsFiIoGmqM6atTaEiDrADQRB+3ezjTJ9OVmWXFTMBDnf3VpdJIPvXuTAOVLyw3kmI0DGiw1XzR7xRi269aPUBrJ0KPPYhAoxsJ8MiCiGZCHOWMC7uKk69pCUM2y+KVnxx5jcZGlVjTow5wOWQRicFun24EsIctqL8Y0YbTF3TWIhFG2qol5JR/db4pVqE=;0EpfR98c6IC7IVBvAgyhVg=="
+secured: "Kb4Anuare3RuNcCGrYp7qjuzZrfhGtiednfem0CGA/fYpMCvmJkzIfc7DrC6UA0UgIEmW4MSQk9sgKBSYNNQI+GeWNC/FgBU6EVujOdqaWgDpXfHAiRAaSZomJbgwp+haxDYVtFy4dtVNWl2fEBdOlYP6MRIp5YfdIzapxKIFiyoSF+nuu5lQVj/5PzVMyikNxSZsn+LYA4sSKBO9YyifI+cgqkNBa1z3Ld+q04Xi6rWIT1cwQx+WLN7NqHX3nkSRlPHHJhtzRyU7UPTbpwDm+4MefWUMnCSyWG19qIvSbzYooKNRD/XvArh+VKIpv83RoHQtHe2YHHuVJF4/6t+m+pnVVJPniC+/jspNFY0TLplk2pRUR0AbfEte0/RG/PqpbxPmSz97CQuUZUdX0iiQyVWOS5dySSBF1EWEJEWrISCkzgv1z6uaXa2WraT5eMsoLXLc8tiOv38i2U0PhTS9Od8+fFTiz7kiukz7rqegUBNfrUslWyUOe2i9y3drhX5T6Z9swL6fwN+P7iUMzoIFw==;D9lJC64DiOo2t4URRm0iSQ=="
 ---
 

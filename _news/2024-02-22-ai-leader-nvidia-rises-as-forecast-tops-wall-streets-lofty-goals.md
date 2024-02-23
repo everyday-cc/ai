@@ -22,53 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Softbank wants $100 billion to compete with Nvidia for AI chips"
-    excerpt: "SoftBank's Masayoshi Son aims to raise $100 billion for a chip venture named Izanagi, focused on AI computing and artificial general intelligence. The project plans to challenge Nvidia's dominance, collaborate with OpenAI, and achieve AGI through Arm's ..."
-    publishedDateTime: 2024-02-20T12:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/articleshow/107856097.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms"
+  - title: "Excellent Nvidia Earnings Confirm the Epic Opportunity in AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Last night, Nvidia (NVDA) – the world’s largest artificial"
+    publishedDateTime: 2024-02-22T18:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/excellent-nvidia-earnings-confirm-the-epic-opportunity-in-ai-1033094503"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://static.toiimg.com/thumb/msid-107856061,width-1280,height-720,resizemode-4/107856061.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Softbank’s Son reportedly seeks $100B for AI chip venture"
-    excerpt: "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia."
-    publishedDateTime: 2024-02-19T16:18:00Z
-    webUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture"
-    ampWebUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 74
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Softbank’s great semiconductor hope Arm isn’t the AI play you think it is"
-    excerpt: "The British semiconductor designer isn’t directly involved in the hottest business in town unlike Nvidia’s GPUs, whose superior parallel processing capabilities made them perfect for training and maintaining AI models."
-    publishedDateTime: 2024-02-20T08:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 58
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/02/chip.jpg"
-        width: 1280
-        height: 720
+      - url: "https://lh7-us.googleusercontent.com/Z5VTFPUMm5meBXH_gRKqXtVbV2NTILukld7NtaDUf24IolIiFxiucZjtFfjAhpPvDYx6d9Cr4YHlo3Wd-eVucz7Fz-xYeZXGu1TJtKZV4AWsT0QU5uL1581xb3o-SlSyMupzlA2RjE4bdkjqCVrdCQ"
+        width: 1523
+        height: 674
         isCached: true
   - title: "NVIDIA Eos DGX AI supercomputer designed for artificial intelligence"
     excerpt: "In the fast-paced world of technology, NVIDIA has made a significant leap with the introduction of Eos, a new supercomputer that has quickly secured a"
@@ -84,94 +50,116 @@ related:
         width: 1280
         height: 841
         isCached: true
-  - title: "SoftBank Bets $100 Bn on AI Chips, Takes Aim at NVIDIA"
-    excerpt: "Competing in the AI dominance race, SoftBank's CEO, Masayoshi Son, has announced a plan to gather a whopping $100 billion for his AI project."
-    publishedDateTime: 2024-02-19T09:45:00Z
-    webUrl: "https://analyticsindiamag.com/softbank-bets-100-billion-on-ai-chips-takes-aim-at-nvidia/"
+  - title: "3 Hypergrowth AI Stocks to Buy That Can Beat Even Nvidia"
+    excerpt: "For investors, this means that the time to focus on finding the best AI stocks to buy is now. Nvidia is leading the way, but many of its smaller peers are picking up steam. Matt Miczulski, an investment expert and editor at fintech platform Finder ..."
+    publishedDateTime: 2024-02-22T15:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-hypergrowth-ai-stocks-to-buy-that-can-beat-even-nvidia-1033094886"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-Most-Powerful-5-AI-Chips-Released-in-2023.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "SoftBank founder looks to create $100B AI chip venture"
-    excerpt: "Masayoshi Son, founder and CEO of SoftBank Group (pictured), laid out broad plans to create a $100 billion AI chip-manufacturing venture to complement its design unit Arm by attracting funds from investors in the Middle East, Bloomberg reported."
-    publishedDateTime: 2024-02-19T00:00:00Z
-    webUrl: "https://www.mobileworldlive.com/softbank/softbank-founder-looks-to-create-100b-ai-chip-venture/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Nvidia Just Bought This Under-the-Radar Artificial Intelligence (AI) Stock. Should You Buy It, Too?"
+    excerpt: "According to Nvidia 's 13F filing for the fourth quarter of 2023, it purchased 1,730,883 shares in SoundHound AI. It doesn't specify what price Nvidia paid, but the position is worth $6.5 million at SoundHound's current stock price of $3.76."
+    publishedDateTime: 2024-02-18T15:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-just-bought-this-under-the-radar-artificial-intelligence-ai-stock.-should-you-buy"
     type: article
     provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 54
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2019/12/16120627/SoftBank_Masayoshi_Son_SS-e1576572684844.jpg"
-        width: 650
-        height: 399
-        isCached: true
-  - title: "Softbank to put $100bn into AI chips"
-    excerpt: "SoftBank is to put $100 billion into a project calked Izanagi to make AI chips designed by Arm. The plan is for SoftBank to put $30 billion of its own"
-    publishedDateTime: 2024-02-19T06:29:00Z
-    webUrl: "https://www.electronicsweekly.com/news/business/softbank-to-put-100bn-into-ai-chips-2024-02/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
+  - title: "Cathie Wood Can Only Watch as Nvidia Rides AI Wave She Foresaw"
+    excerpt: "Annual economic growth could accelerate to as much as 50%, thanks to breakthroughs in the world of artificial intelligence."
+    publishedDateTime: 2024-02-22T17:42:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-22/cathie-wood-can-only-watch-as-nvidia-rides-ai-wave-she-foresaw"
     type: article
     provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 54
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2024/02/17120631/IMG_2799.jpeg"
-        width: 592
-        height: 1307
-        isCached: true
-  - title: "Softbank’s Masayoshi Son plans $100bn AI chip venture"
-    excerpt: "In one scenario Son is considering, SoftBank would provide $30 billion, with $70 billion possibly coming from institutions in the Middle East SoftBank founder Masayoshi Son’s plans to create a $100 billion chip venture to supply AI-enabling semiconductors."
-    publishedDateTime: 2024-02-19T08:12:00Z
-    webUrl: "https://www.businesspost.ie/news/softbanks-masayoshi-son-plans-100bn-ai-chip-venture/"
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Nvidia’s Market Leadership and Innovation in AI Technology Bolster ‘Buy’ Rating"
+    excerpt: "Fang Boon Foo has given his Buy rating due to a combination of factors highlighting Nvidia’s dominance in the GPU market and its innovative strides in artificial intelligence (AI) technology. Nvidia’s GPUs, particularly those designed for data centers ..."
+    publishedDateTime: 2024-02-22T00:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-market-leadership-and-innovation-in-ai-technology-bolster-buy-rating-1033091957"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
+    excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
+    publishedDateTime: 2024-02-20T05:59:00Z
+    webUrl: "https://www.tweaktown.com/news/96310/nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 40
     images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=6333bf6a-b549-5589-8178-8668be8928ed&type=preview&function=original"
-        width: 1600
-        height: 1067
+      - url: "https://static.tweaktown.com/news/9/6/96310_01_nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai_full.jpg"
+        width: 1500
+        height: 796
         isCached: true
-  - title: "Microsoft develops AI server gear to lessen reliance on Nvidia, The Information reports"
-    excerpt: "Microsoft CEO Satya Nadella has tapped Pradeep Sindhu, who co-founded networking gear developer Juniper Networks, to spearhead the network card effort, the report said citing a person with knowledge of the matter."
-    publishedDateTime: 2024-02-20T18:30:00Z
-    webUrl: "https://www.aol.com/news/microsoft-develops-ai-server-gear-163026760.html"
+  - title: "Nvidia scores big in data centre, gaming, and extends AI lead"
+    excerpt: "Expanded adoption of the Nvidia DRIVE platform has seen automotive revenue grow by 21% to $281m in the last quarter with Asian manufacturers Great Wall Motors, ZEEKR, Xiaomi, and Li Auto choosing to use it for their automated driving systems and car computers."
+    publishedDateTime: 2024-02-22T04:27:00Z
+    webUrl: "https://www.bizcommunity.com/article/nvidia-scores-big-in-data-centre-gaming-and-extends-ai-lead-016625a"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 39
+    images:
+      - url: "https://biz-file.com/c/2402/728308-1200x624.jpg?5"
+        width: 1200
+        height: 624
+        isCached: true
+  - title: "Nvidia data center revenues up 409%, AI earnings beat Wall Street expectations"
+    excerpt: "Revenues across the company were up 256 percent over the same quarter last year to $22.10 billion, while data center-specific revenues jumped 409 percent to $18.4bn. Analysts expected Nvidia’s data center unit to record $17.06bn in sales for its fiscal fourth quarter."
+    publishedDateTime: 2024-02-21T22:47:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-data-center-revenues-up-409-ai-gpu-earnings-beat-wall-street-expectations/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/nvidia_jensen_huang.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia just crushed earnings again. Top analyst says it’s another ‘drop the mic’ moment that confirms the AI revolution"
+    excerpt: "The semiconductor giant, whose chips are foundational for generative AI, even had Goldman Sachs analysts label it “the most important stock on planet earth” before its fourth-quarter earnings release. And CEO Jensen Huang & Co. managed to live up to ..."
+    publishedDateTime: 2024-02-21T17:01:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-just-crushed-earnings-again-220245990.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 46
+    quality: 15
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/48d82f19bb621e96dabc6afe0e2885c1"
-        width: 800
-        height: 499
+      - url: "https://s.yimg.com/ny/api/res/1.2/kOre9jr4UlWzPu3mSt1shQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/c65c06103e749401c2e7678af6cc8eb9"
+        width: 1199
+        height: 800
         isCached: true
-  - title: "SoftBank stock rises on CEO Masayoshi Son’s plan for $100 billion AI chip project"
-    excerpt: "Shares in the Tokyo-based tech investor SoftBank gained as much as 3.2% reports that 66-year-old billionaire CEO Masayoshi Son is seeking funding for a foray into AI chips to compete with Nvidia Corp."
-    publishedDateTime: 2024-02-19T14:41:00Z
-    webUrl: "https://www.livemint.com/companies/news/softbank-stock-rises-on-ceo-masayoshi-son-s-plan-for-100-billion-chip-project-11708305813911.html"
+  - title: "Nvidia’s Q4 earnings will be a referendum on the AI trade. Revenue expected to jump 234%"
+    excerpt: "Shares of the AI chip darling have skyrocketed 184% over the last 12 months, easily outpacing rivals AMD (AMD) and Intel (INTC), which saw their shares rise 91% and 67%, respectively. Nvidia’s incredible run briefly pushed its market capitalization past ..."
+    publishedDateTime: 2024-02-20T14:02:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-q4-earnings-referendum-ai-190148756.html"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 29
-  - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
-    excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."
-    publishedDateTime: 2024-02-21T15:23:00Z
-    webUrl: "https://www.barrons.com/livecoverage/nvidia-earnings-stock-price/card/nvidia-teams-up-with-google-to-offer-a-new-ai-model-for-consumers-xHzURJMOboThgiNhSXT5"
+      name: AOL
+      domain: aol.com
+    quality: 10
+  - title: "Analyst revamps S&P 500 target ahead of Nvidia earnings"
+    excerpt: "\"Researchers often refer to them as ‘cognitive shortcuts’ that create a round-number ... a group of high-performing and influential companies that includes such tech titans as Microsoft, Meta Platforms, and Amazon. And let's not forget Nvidia ..."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://www.news-journal.com/arena/thestreet/analyst-revamps-s-p-500-target-ahead-of-nvidia-earnings/article_778ff7c0-0394-57d9-b07e-244be3f9b83b.html"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 4
 
 secured: "LncMAe/j6jD5yuQrYDOxopvjOcpCPzfAVaceRpy+olr4MwrPRMEo5xNEzrclFqcjLMhx/GI99wY3ZdRsYx09cfgohwpJC4sVg9Vh8VbpEaNva1RY30z1PS+Pj5wR+nae+xVuyAxirtU143huAmIESQp0T+pA4kjDEwbE58m+fZjylDp9LzHDXfqICnBK4WU/dWa0DJ8xq1gkzD+3EgLjSN6WU2+ESpMmKcf2Lb5wVr5a0OhwPIWrSqrY5D43Ll2tuuunXBez6hHku+NFpVUimT5B8xGJXZQqTNp6PKJXVXMXgXHvrA/x+UNIaPBhI7MK7NYf17z6JFW2rtaxSWwAoVuy8Zp1U7ty9wNJs1VZtNU=;ob+DebRlQLCWPH4FveBSTQ=="
 ---

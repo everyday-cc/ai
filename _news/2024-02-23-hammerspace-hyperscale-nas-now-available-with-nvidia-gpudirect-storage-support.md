@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2024/02/22/9966395.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/02/22/9966395.htm"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hammerspace Introduces Hyperscale NAS For AI & HPC"
+    excerpt: "Hammerspace unveiled its new high-performance NAS architecture, Hyperscale NAS, to cater to the growing demands of enterprise AI, machine learning, deep learning initiatives, and the increasing use of GPU computing both on-premises and in the cloud."
+    publishedDateTime: 2024-02-22T22:47:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d805bc11a4068e97b82a16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1049
+        height: 699
+        isCached: true
   - title: "Hammerspace Unveils New Hyperscale NAS Architecture for Training Enterprise AI Models at Scale"
     excerpt: "Hammerspace today unveiled the high-performance NAS architecture needed to address the requirements of broad-based"
     publishedDateTime: 2024-02-22T17:51:00Z

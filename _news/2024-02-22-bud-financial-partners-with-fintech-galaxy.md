@@ -84,6 +84,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "3 Fintech Stocks to Buy to Retire a Millionaire"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With high interest rates, many investors are wary of putting their money into"
+    publishedDateTime: 2024-02-21T17:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-to-buy-to-retire-a-millionaire-1033089203"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Velmie Introduces Business Banking Platform to Assist Fintech Platforms"
     excerpt: "Velmie has reportedly introduced its business banking platform intended to assist financial services providers and Fintech platforms with enhancing their core product offerings. As noted in the update from Velmie, the Fintech platform allows firms to ..."
     publishedDateTime: 2024-02-18T09:24:00Z

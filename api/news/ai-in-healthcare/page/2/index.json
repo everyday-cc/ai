@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-06-artificial-intelligence-in-the-news-how-ai-retools-rationalizes-and-reshapes-journalism-and-the-public-arena.md",
+      "title": "Artificial Intelligence in the News: How AI Retools, Rationalizes, and Reshapes Journalism and the Public Arena",
+      "excerpt": "Image: DALL·E 2023 12-20-14.57.08. Prompt: generate a random fine line swirl picture high resolution the lines have the blue of Oxford university on white background Chapter 1 is broken down into three parts, exploring (i) news organizations’ motives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
+      "originalUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cjr.org/wp-content/uploads/2024/02/DALL·E-2023-12-20-14.57.08-generate-a-random-fine-line-swirl-picture-high-resolution-the-lines-have-the-blue-of-Oxford-university-on-white-background.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cjr.org",
+        "domain": "cjr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-artificial-intelligence-ai-in-healthcare-market-worth-1484-billion-by-2029-exclusive-report-by-marketsandmarkets.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market worth $148.4 billion by 2029 - Exclusive Report by MarketsandMarkets",
       "excerpt": "id=54679303 Browse in-depth TOC on \"Artificial Intelligence (AI) in Healthcare Market\" 250 - Tables 65 - Figures 280 - Pages Artificial Intelligence (AI) in Healthcare Market Report Scope ...",
@@ -1324,58 +1369,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-the-secret-to-healthcare-ai-is-human-beings.md",
-      "title": "The secret to healthcare AI is ... human beings",
-      "excerpt": "Artificial intelligence is impacting every industry -- even healthcare. AI excels at repetitive tasks and could free up time so human beings do what they are best at -- being human.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings",
-      "originalUrl": "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8340b48-52b3-410f-9548-af5106d9beee/5208d7da-14a2-4a61-b832-89dbaa694f53/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp",
-      "publishedDateTime": "2024-01-19T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-02-16-what-is-a-long-context-window.md",
+      "title": "What is a long context window?",
+      "excerpt": "Gemini 1.5 Pro brings big improvements to speed and efficiency, but one of its innovations is its long context window, which measures how many tokens that the model can …",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/long-context-window-ai-models/",
+      "originalUrl": "https://blog.google/technology/ai/long-context-window-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Long_Context_Window_SocialShare_9.width-1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/long-context-window-ai-models/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/long-context-window-ai-models/amp/",
+      "publishedDateTime": "2024-02-16T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart.md",
+      "title": "Code Llama 70B is now available in Amazon SageMaker JumpStart",
+      "excerpt": "Today, we are excited to announce that Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. Code Llama is a state-of-the-art large language model (LLM) capable of generating code and natural language",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/ML-16262-image005-1137x630.jpg",
+          "width": 1137,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T16:32:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-do-you-hear-an-echo-probably-and-it-could-be-the-answer-for-improving-ai-speech-recognition.md",
       "title": "Do you hear an echo? Probably, and it could be the answer for improving AI speech recognition",
       "excerpt": "The team from Zhejiang University said the discovery could pave the way for improving automatic speech recognition for machines to produce more accurate transcripts from recordings. “An intense ...",
@@ -1161,110 +1265,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-new-magic-gmail-securitygoogles-latest-ai-defense-initiative.md",
-      "title": "New ‘Magic’ Gmail Security—Google’s Latest AI Defense Initiative",
-      "excerpt": "Google wants AI to protect your networks and data. It's already starting with Gmail as the technology titan launches the AI Cyber Defense Initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/daveywinder/2024/02/15/new-google-security-includes-gmail-magic-protection--ai-cyber-defense-initiative/",
-      "originalUrl": "https://www.forbes.com/sites/daveywinder/2024/02/15/new-google-security-includes-gmail-magic-protection--ai-cyber-defense-initiative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64dcb864be8a2689643d5163/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/daveywinder/2024/02/15/new-google-security-includes-gmail-magic-protection--ai-cyber-defense-initiative/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveywinder/2024/02/15/new-google-security-includes-gmail-magic-protection--ai-cyber-defense-initiative/amp/",
-      "publishedDateTime": "2024-02-15T22:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-acciones-de-nvidia-se-disparan-por-ai.md",
-      "title": "Acciones de Nvidia se disparan por AI",
-      "excerpt": "Las acciones del fabricante de chips, Nvidia, aumentaron 2,5% sobrepasando a Amazon. ¿Cómo?",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
-      "originalUrl": "https://www.cnn.com/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230629175437-dinero-chips-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
-      "publishedDateTime": "2024-02-15T21:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

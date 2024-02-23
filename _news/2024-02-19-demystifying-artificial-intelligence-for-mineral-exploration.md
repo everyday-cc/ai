@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VA puts AI use cases into ‘operational phase’ to meet its health care mission"
+    excerpt: "VA has identified over 100 AI use cases so far. VA Chief Technology Officer Charles Worthington told members of the House VA Committee last week that 40 of them are in an “operational phase,” and being put to use in the field."
+    publishedDateTime: 2024-02-23T02:01:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/va-puts-ai-use-cases-into-operational-phase-to-meet-its-health-care-mission/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 36
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/03/electronic-health-record-military.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "6qVYgDt0vnXK1Q4nKptbnYSROIInMrgTbRyajlpIH31rDDeCe9AkygzquXWN5PsNSu2m1kO2Tfvj2qVi41xrt6PNBGnCc9tUK7DJUxWU0qCGFeh+EXP8N4ATHrBAQyAZOBM7iC2zsmWxXfqTd9QaAb88tDzjlLN4b5skkRuhjquHn+o+AGXvqm/DtHZeoLjinNKZIH2jEsi40PZ0v6cNZyvIIwm0+dARQcOCizXxT+5Bs8m0oamUqRAHaSyGlePM1D0WyQYVc1mHfVBknXa5/73aIAVn5Z/XrptoUN1bgCBaf25y4giF2ZwUARGvLSGCG8qRzXGUIZpbl9bM4LZalw2Wclx4O42e/4/dyOJcibmn33FHCuq+k5IFSH67hwX7UGUryf/64USYv5Jojudbayg5ruz0EylDOklLj2Ak9fTU2/04qAiUbn0X+63ZWhfsXZD5m0N+Te6rIy/h3nPYI5qvabcIIYyTZwvw3O9az51/zlkvSwEmjlvNNcf39tZwjuo22uiC35eLIo/AiHtuVw==;DpJun39Wiyq8TYRKKXUTVw=="
 ---

@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Debunking The 4 Biggest Myths About Artificial Intelligence in Retail"
+    excerpt: "There are many popular myths circulating about AI, according to one Gartner report. And as retailers integrate AI solutions into their businesses, it’s important to know which common beliefs about the technology are myths and which ones are factual. Here are four big AI myths — and the truths about them."
+    publishedDateTime: 2024-02-23T01:06:00Z
+    webUrl: "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail"
+    ampWebUrl: "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 72
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202402/AI%20myths%20hero-%20sized%20for%20CMS_.jpg?itok=suO1VbZu"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "The 3 biggest misconceptions about AI"
     excerpt: "A trio of experts share the most common misunderstandings they’ve heard with it comes to AI and students—and reveal the truth behind them."
     publishedDateTime: 2024-02-19T09:59:00Z

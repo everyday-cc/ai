@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hammerspace Introduces Hyperscale NAS For AI & HPC"
+    excerpt: "Hammerspace unveiled its new high-performance NAS architecture, Hyperscale NAS, to cater to the growing demands of enterprise AI, machine learning, deep learning initiatives, and the increasing use of GPU computing both on-premises and in the cloud."
+    publishedDateTime: 2024-02-22T22:47:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d805bc11a4068e97b82a16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1049
+        height: 699
+        isCached: true
   - title: "Hammerspace Hyperscale NAS Now Available with NVIDIA GPUDirect Storage Support"
     excerpt: "Hammerspace today announced that the Hammerspace Hyperscale NAS is now generally available with NVIDIA GPUDirect Storage support."
     publishedDateTime: 2024-02-22T16:08:00Z

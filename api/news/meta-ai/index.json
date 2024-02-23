@@ -576,7 +576,7 @@
       "originalUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -618,50 +618,6 @@
         "Meta AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-microsoft-to-invest-21-bln-in-spain-to-expand-ai-infrastructure.md",
-      "title": "Microsoft To Invest $2.1 Bln In Spain To Expand AI Infrastructure",
-      "excerpt": "Tech major Microsoft Corp. announced its plans to expand its artificial intelligence or AI and cloud infrastructure in Spain with an",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T14:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1493,6 +1449,58 @@
         "name": "Milwaukee Journal Sentinel",
         "domain": "jsonline.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation.md",
+      "title": "The Role Of Humans And AI In Social Media's Battle Against Misinformation",
+      "excerpt": "With artificial intelligence increasingly helping to proliferate false claims, wide access to accurate information is more difficult.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655225b46f7ef811892e44e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/",
+      "publishedDateTime": "2024-02-12T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

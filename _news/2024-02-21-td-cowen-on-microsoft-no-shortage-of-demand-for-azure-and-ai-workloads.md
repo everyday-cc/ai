@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cushman & Wakefield working with Microsoft on AI"
-    excerpt: "The Microsoft Technology Centre is providing Cushman & Wakefield with access to cutting-edge research, tools, and the firm's top specialists to develop powerful and adaptable applications. It also provides insight into various areas that require AI solutions, with learning and improvement through feedback and advice."
-    publishedDateTime: 2024-02-21T07:48:00Z
-    webUrl: "https://vir.com.vn/cushman-wakefield-working-with-microsoft-on-ai-109032.html"
+  - title: "Microsoft will invest $2.1bn in Spain to expand cloud and AI"
+    excerpt: "The focus on AI helped Microsoft briefly hit the $3trn valuation and challenge Apple for the title of the most valuable company in the world. Revenue from the company’s Intelligent Cloud division – which includes Azure – grew by 20pc to $25.9bn."
+    publishedDateTime: 2024-02-20T09:35:00Z
+    webUrl: "https://www.siliconrepublic.com/business/microsoft-ai-investment-spain-cloud-infrastructure-europe"
     type: article
     provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
+      name: SiliconRepublic
+      domain: siliconrepublic.com
     quality: 54
     images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2024/022024/21/13/in_social/cb36e5d2e40cf819ff19a5af7c71a66b.jpg?randTime=1708506123"
-        width: 600
-        height: 385
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-21.jpeg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "qFRqXZu8FLFQJuaubV/xCPGzAtO9Gh7lZT06clMgxbtRQW+xQLGrN7qRDnI2+PBEx9sZ16g1D9f297WZSDIf8cnb2ufSGyUasHG04VTnuuZOHhrhqBfIYRGBaPg9gICb130gQNiM6FT40CxmBk2dBqzLMvc5qMtqdVR80eEtm/OGC5hsvh7N8dGSoDPftlSZB+6C8Sm4olQjDBHYeNIQAxuikvOiqSlSYr5UlJS1scLTIkqHJXUQ9D1g50IRUvHpZCWPRuN4tiluCCxnpKQoCeanOxQzXjZ3QMjq0qdnaNlM8jOsGBHPmBIs2E7mXDBtv2XlyulKT5KpRUN6whvdbhxGFXa1iJCZAZDCZipxWPOt66VP8Ro/TqqGNYa22qTczdWa5elRTTq2T/xlrhfvAXcItZxU6C+YFvzlNWNW77Xa2dRCLesi/RspOZxEqXhhbWVPti/we/ieiDw5BOtWkbjbqQX/5EzgdN13F0AJKFytGDAINUWP4Y09m1Zsq+G0vagipXWACcaWpdvKP2mqVg==;SG3Fn517m1+AFGdhXHtgcg=="

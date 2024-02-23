@@ -38,6 +38,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "AI startup Jasper acquires image generator Clipdrop from Stability AI"
+    excerpt: "U.S. writing assistant startup Jasper has acquired Clipdrop, an artificial intelligence-powered photo application from Stability AI, the company told Reuters on Wednesday, as Jasper expands its offerings to corporates."
+    publishedDateTime: 2024-02-23T02:34:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-jasper-acquires-image-generator-clipdrop-from-stability-ai-71708611796468.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-jasper-acquires-image-generator-clipdrop-from-stability-ai-71708611796468.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-jasper-acquires-image-generator-clipdrop-from-stability-ai-71708611796468.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/02/22/1600x900/technology-5254039_1280_1708614115364_1708614134924.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Dolbey Announces AI Assist, Generative AI for Healthcare Workflow Automation"
     excerpt: "Dolbey has announced AI Assist, an expansion of Fusion Narrate powered by nVoq, which offers generative AI for healthcare workflow automation. AI Assist is an evolution in speech recognition and automation technology that allows healthcare providers to access and utilize revolutionary generative AI within a private,"
     publishedDateTime: 2024-02-21T22:03:00Z

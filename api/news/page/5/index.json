@@ -2,6 +2,195 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-20-will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti.md",
+      "title": "Will Smith parodies viral AI-generated video by actually eating spaghetti",
+      "excerpt": "Will Smith posted a video on his official Instagram feed that parodied an AI-generated video of the actor eating spaghetti that went viral last year. With the recent announcement of OpenAI's Sora video synthesis model,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/will_smith_parody_hero-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T14:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-ai-eu-agrees-landmark-deal-on-regulation-of-artificial-intelligence.md",
+      "title": "AI: EU agrees landmark deal on regulation of artificial intelligence",
+      "excerpt": "EU Commissioner Thierry Breton said the agreement was \"historic\" European Union officials have reached a provisional deal on the world's first comprehensive laws to regulate the use of artificial intelligence. After 36 hours of talks, negotiators agreed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform",
+      "originalUrl": "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T14:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-british-ai-company-graphcore-is-trying-to-sell-its-accelerator-business-perhaps-to-openai.md",
+      "title": "British AI company Graphcore is trying to sell its accelerator business, perhaps to OpenAI",
+      "excerpt": "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: AI algorithms are spreading rapidly, and the demand for GPUs and other specialized chips designed to accelerate AI workloads is continuously increasing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101948-british-ai-company-graphcore-trying-sell-accelerator-business.html",
+      "originalUrl": "https://www.techspot.com/news/101948-british-ai-company-graphcore-trying-sell-accelerator-business.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-20-image-18.jpg",
+          "width": 2308,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T13:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing.md",
+      "title": "Samsung and Arm's Latest AI Chip Collaboration: A New Era for Mobile Computing",
+      "excerpt": "Arm Holdings' value skyrockets to $130 billion amid AI boom, despite recent 8.39% share price dip. This partnership, built on a long history of millions of devices featuring Arm CPU intellectual property on Samsung’s process nodes, aims to introduce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
+      "originalUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/ARM_1.png?width=1200&height=800&fit=crop",
+          "width": 830,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/37218987",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987",
+      "publishedDateTime": "2024-02-20T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity.md",
       "title": "An Approach For Leadership Teams To Balance AI Risk Versus Opportunity",
       "excerpt": "We all have a responsibility to ensure the responsible use of AI. Here's my advice on how to make strides towards responsible-by-design AI.",
@@ -50,49 +239,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips.md",
-      "title": "Softbank wants $100 billion to compete with Nvidia for AI chips",
-      "excerpt": "SoftBank's Masayoshi Son aims to raise $100 billion for a chip venture named Izanagi, focused on AI computing and artificial general intelligence. The project plans to challenge Nvidia's dominance, collaborate with OpenAI, and achieve AGI through Arm's ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/articleshow/107856097.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/articleshow/107856097.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107856061,width-1280,height-720,resizemode-4/107856061.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms",
-      "publishedDateTime": "2024-02-20T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -303,49 +449,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-20-supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus.md",
-      "title": "Supermicro Expands AI Solutions For Enhanced Edge Computing Powered By Nvidia GPUs",
-      "excerpt": "Supermicro (SMCI) introduces cutting-edge AI solutions, enabling real-time decision-making at the edge with NVIDIA GPU support. The advanced edge servers, featuring dual socket CPUs and powerful GPUs, position Supermicro as a leader in AI-driven edge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/top-stories/24/02/37216276/supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus",
-      "originalUrl": "https://www.benzinga.com/top-stories/24/02/37216276/supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/Super-Micro-Computer_0.jpeg?width=1200&height=800&fit=crop",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/37216276",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37216276",
-      "publishedDateTime": "2024-02-20T11:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-20-the-data-differentiator-unlocking-the-power-of-unstructured-data-to-fuel-ai.md",
       "title": "The Data Differentiator: Unlocking The Power Of Unstructured Data To Fuel AI",
       "excerpt": "In the rapidly evolving digital era, unstructured data has become a key player in businesses’ digital transformation journeys. Encompassing a vast array of information forms (from videos and audio clips to images and text),",
@@ -436,49 +539,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-welcome-to-the-era-of-mobile-ai.md",
-      "title": "Welcome to the Era of Mobile AI",
-      "excerpt": "One of the most welcomed AI features is Circle to Search with Google, an incredible new tool for intuitive discovery. Our communication tools for removing language barriers, such as Live Translate, Chat Assist and Interpreter, have captured the imagination ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928",
-      "originalUrl": "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/TM%20Roh_Editorial.jpg?itok=Ir3q2Fow",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928",
-      "publishedDateTime": "2024-02-20T10:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -854,7 +914,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -905,7 +965,7 @@
       "originalUrl": "https://www.ibm.com/blog/supply-chain-strategy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": null,
       "content": "",
@@ -1196,50 +1256,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-what-are-the-best-ai-stocks-in-february-2024-our-top-3-picks.md",
-      "title": "What Are the Best AI Stocks in February 2024? Our Top 3 Picks",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investing in AI stocks is thrilling, especially now in February 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T16:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

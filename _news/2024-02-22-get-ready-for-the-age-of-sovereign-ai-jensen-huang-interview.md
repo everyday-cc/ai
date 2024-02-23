@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-j
 webUrl: "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "NVIDIA CEO Jensen Huang unveiling new AI breakthrough at GTC 2024"
-    excerpt: "For healthcare professionals, there will be valuable discussions on how AI is transforming diagnostics and patient care. The finance industry will explore how AI is being used to assess risks and detect fraud. Meanwhile, the automotive sector will present ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-ai-gtc-2024/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "8i6kGxFzFpl4WWBje0ZBx0ObJppM1z6zDANR0VEOtdBfiZqpZJ18ZIHN4IxXI616L0rG6kKKnaqhdNFB2CH1+t+YYY9WCWRcmZ27hF7RVpTc/jOMOOYXgJ7l1mKctSCXMSBPWfxCUY9Yc9g0ESn/FdQR/XX47e61w6Gb8kh2xkvIEvwUs2bsxSDvNdWn3oUrVPjJqXq4x7kgKt96G7o9vp00VD93hkMssb36Z3nb3U8kQU9xzqdjTAWz9oWyKHdVRi6Y+2W9TpO28ef9pTe1b7L6X/pR1Tr/8z7jvb0TTsxK19RmgoSehWmKttAYj7qy/ocuDzDduHXRHwKUhUgpxpcGZ5nj2jfjRAh3JiATuiU=;CiDJg/+uc1BqduvDLaQ5lw=="
 ---

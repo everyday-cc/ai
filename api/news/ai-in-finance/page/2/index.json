@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-08-machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts.md",
+      "title": "Machine learning dominates AI job market; high demand for mid, senior-level experts",
+      "excerpt": "Among the hottest artificial intelligence (AI) skills, machine learning (ML) tops the chart with the most number of active jobs, according to data shared by staffing companies and employment platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/Machine-Learning-ML-Engineer.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "publishedDateTime": "2024-02-08T08:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-meet-tara-the-ai-digital-worker-whos-helping-financial-institutions-stop-the-bad-guys.md",
       "title": "Meet Tara - the AI Digital Worker who's helping financial institutions \"stop the bad guys\"",
       "excerpt": "To that end, towards the end of last year the firm announced the rollout of its no code Work.AI platform and a partnership deal with a legal software company Epiq. Based in New York, Epiq wanted to build its own legal Digital Workers and is now using WorkFusion’s no code Work.AI platform. Famularo comments:",
@@ -1306,58 +1350,6 @@
         "name": "Insurancenewsnet.com",
         "domain": "insurancenewsnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-using-ai-to-help-create-a-fintech-game-changer.md",
-      "title": "Using AI To Help Create A Fintech Game-Changer",
-      "excerpt": "In today’s fast-paced economy, fintech companies are increasingly turning to AI to gain a competitive edge. From early-stage startups to late-stage enterprises, AI has emerged with multifaceted applications and disruptive technology to revolutionize the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6442fb6e1e6588f81da821c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/",
-      "publishedDateTime": "2024-01-19T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

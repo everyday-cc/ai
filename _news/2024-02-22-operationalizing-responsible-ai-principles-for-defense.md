@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/operationalizing-responsible-ai-principle
 webUrl: "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/"
 type: article
 quality: 119
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/151712-CRM_0323_feature_analytics-ORG.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "VA puts AI use cases into ‘operational phase’ to meet its health care mission"
+    excerpt: "VA has identified over 100 AI use cases so far. VA Chief Technology Officer Charles Worthington told members of the House VA Committee last week that 40 of them are in an “operational phase,” and being put to use in the field."
+    publishedDateTime: 2024-02-23T02:01:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/va-puts-ai-use-cases-into-operational-phase-to-meet-its-health-care-mission/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 36
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/03/electronic-health-record-military.png"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Demystifying artificial intelligence for mineral exploration"
     excerpt: "Artificial intelligence is not a replacement for traditional geological expertise; rather, it complements human knowledge and experience."

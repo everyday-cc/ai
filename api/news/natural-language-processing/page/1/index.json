@@ -10,7 +10,7 @@
       "originalUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -462,49 +462,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-welcome-to-the-era-of-mobile-ai.md",
-      "title": "Welcome to the Era of Mobile AI",
-      "excerpt": "One of the most welcomed AI features is Circle to Search with Google, an incredible new tool for intuitive discovery. Our communication tools for removing language barriers, such as Live Translate, Chat Assist and Interpreter, have captured the imagination ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928",
-      "originalUrl": "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/TM%20Roh_Editorial.jpg?itok=Ir3q2Fow",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928",
-      "publishedDateTime": "2024-02-20T10:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1474,6 +1431,58 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time.md",
+      "title": "Roblox's new AI chat translator can help you understand 16 languages in real time",
+      "excerpt": "However, language barriers can often pose a barrier to making those connections, and Roblox's new AI chat translator seeks to tackle that. On Monday, Roblox released real-time AI chat translations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
+      "originalUrl": "https://www.zdnet.com/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/837e9a56008ea0a05685512d2539cee0edf12658/2024/02/06/5320fc4d-26fb-42a8-87ea-1ab8e30c3499/screenshot-2024-02-06-at-10-47-15am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
+      "publishedDateTime": "2024-02-06T21:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

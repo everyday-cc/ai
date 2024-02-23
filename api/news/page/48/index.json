@@ -2,6 +2,92 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2024-01-18-top-10-best-python-libraries-for-machine-learning-in-2024.md",
+      "title": "Top 10 Best Python Libraries for Machine Learning in 2024",
+      "excerpt": "AutoML is an open-source library that automates the process of selecting the best machine learning algorithm and hyperparameters for a given dataset. It is designed to be easy to use and can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/guides/software/best-python-libraries-for-machine-learning/",
+      "originalUrl": "https://www.benzinga.com/guides/software/best-python-libraries-for-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/guides/wp-content/uploads/2024/01/Best-Python-Libraries-for-Machine-Learning-AI.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-google-planning-to-add-ai-image-generator-directly-to-bard.md",
+      "title": "Google planning to add AI image generator directly to Bard",
+      "excerpt": "Following the Search Generative Experience (SGE) and Slides, Google Bard is set to get its own image generator. As shared by Dylan Roussel on X/Twitter, an unreleased Google Bard changelog — dated for January 18 — reveals how you can “Create images ...",
+      "sourceUrl": null,
+      "webUrl": "https://9to5google.com/2024/01/17/google-bard-image-generator/",
+      "originalUrl": "https://9to5google.com/2024/01/17/google-bard-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-bard-icon-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T22:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5google",
+        "domain": "9to5google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-amd-stock-reaches-almost-unprecedented-value-thanks-to-ai-chip-demand.md",
       "title": "AMD stock reaches almost unprecedented value thanks to AI chip demand",
       "excerpt": "Analysts from major financial institutions have increased their price targets for AMD stock, which reached a 52-week high of $158.74 on Tuesday. Reports from Barclays, KeyBanc",
@@ -1071,101 +1157,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-3-ways-generative-ai-is-making-our-world-a-better-place.md",
-      "title": "3 Ways Generative AI Is Making Our World A Better Place",
-      "excerpt": "Discover three inspiring examples of how generative AI is positively transforming our world: from preserving the Icelandic language to making literature more accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a776ba6a110b06b3ce04b6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/",
-      "publishedDateTime": "2024-01-17T05:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-yuka-mammotion-unveils-intelligent-robotic-lawn-artistry.md",
-      "title": "YUKA: MAMMOTION Unveils Intelligent Robotic Lawn Artistry",
-      "excerpt": "MAMMOTION introduces YUKA, a groundbreaking 3D vision robotic lawn mower with self-emptying ... YUKA brings peace of mind with smart home voice control, rain detection, auto-charging, 4G GPS tracking, and 100% solar-powered RTK. These features not only ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.steelguru.com/innovations/yuka-mammotion-unveils-intelligent-robotic-lawn-artistry",
-      "originalUrl": "https://www.steelguru.com/innovations/yuka-mammotion-unveils-intelligent-robotic-lawn-artistry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.assettype.com/steelguru%2F2024-01%2Fedbc0b1e-8822-43cb-a2b8-c73800024a24%2FYUKA.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-          "width": 564,
-          "height": 306,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.steelguru.com/amp/story/innovations/yuka-mammotion-unveils-intelligent-robotic-lawn-artistry",
-      "cdnAmpWebUrl": "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/innovations/yuka-mammotion-unveils-intelligent-robotic-lawn-artistry",
-      "publishedDateTime": "2024-01-17T05:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Steel News",
-        "domain": "steelguru.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-26-how-is-artificial-intelligence-transforming-the-healthcare-industry-robotics-automation-news.md",
+      "title": "How Is Artificial Intelligence Transforming The Healthcare Industry? Robotics & Automation News",
+      "excerpt": "The integration of Artificial Intelligence in the field of healthcare has been massively transforming and reformulating the way we identify, examine,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
+      "originalUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-12/26/R&AN_6c365image_story.png",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-26T09:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-12-26-how-artificial-intelligence-is-snatching-away-our-jobs.md",
       "title": "How Artificial Intelligence Is Snatching Away Our Jobs",
       "excerpt": "It's happening, the worst nightmare for anyone working in the corporate world is becoming true. Artificial Intelligence is slowly taking away jobs.",
@@ -1376,50 +1420,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse.md",
-      "title": "Artificial Intelligence Summit: PM Modi Calls For Global Framework On Ethical Use, Warns Against Misuse",
-      "excerpt": "Speaking at the Global Partnership on Artificial Intelligence Summit, PM Narendra Modi said India is firmly committed to responsible and ethical use of AI. He also also emphasised on the need for a global framework for ethical use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130",
-      "originalUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_1/IMAGE_1646301380.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp",
-      "publishedDateTime": "2023-12-13T05:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

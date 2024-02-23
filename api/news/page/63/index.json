@@ -2,6 +2,101 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-12-27-us-sanctioned-chinese-chip-start-up-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card.md",
+      "title": "US-sanctioned Chinese chip start-up Moore Threads unveils GPU-based computing centre, AI graphics card",
+      "excerpt": "Moore Threads Intelligent Technology, a Beijing-based designer of GPUs tailored for AI training, said the new GPU will be found on its KUAE Intelligent Computing Centre, which is aimed at serving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/12/20/7246be65-c6ea-473f-b275-39e35141736d_06dd8399.jpg?itok=obd0zFrW&v=1703059591",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
+      "publishedDateTime": "2023-12-27T15:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-27-five-ways-artificial-intelligence-is-improving-health-care-in-canada.md",
+      "title": "Five ways artificial intelligence is improving health care in Canada",
+      "excerpt": "Hospitals are starting to implement artificial intelligence (AI) to help save lives – one of many advances in the controversial technology that entered our consciousness in 2023. There are wearables that track your heart rate,",
+      "sourceUrl": null,
+      "webUrl": "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada",
+      "originalUrl": "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/healthing/wp-content/uploads/2023/12/GettyImages-1516277094.jpg",
+          "width": 1296,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/",
+      "cdnAmpWebUrl": "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/",
+      "publishedDateTime": "2023-12-27T15:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winnipegsun",
+        "domain": "winnipegsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-artificial-intelligence-machine-learning-in-finance-carry-potential-risks.md",
       "title": "Artificial Intelligence, Machine Learning in finance carry potential risks",
       "excerpt": "While rapid deployment of Artificial Intelligence and Machine Learning (AI/ML) in finance is promoting efficiency gains, redefining client interfaces, augmenting forecasting accuracy, and improving risk management and compliance,",
@@ -1127,103 +1222,6 @@
         "AI Ethics",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-how-artificial-intelligence-is-snatching-away-our-jobs.md",
-      "title": "How Artificial Intelligence Is Snatching Away Our Jobs",
-      "excerpt": "It's happening, the worst nightmare for anyone working in the corporate world is becoming true. Artificial Intelligence is slowly taking away jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "originalUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oneindia.com/img/2023/12/artificial-intelligence-1703561220.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "publishedDateTime": "2023-12-26T03:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oneindia",
-        "domain": "oneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-burger-king-giving-discounts-if-facial-recognition-thinks-youre-hungover.md",
-      "title": "Burger King Giving Discounts If Facial Recognition Thinks You're Hungover",
-      "excerpt": "The Brazilian wing of Burger King announced a surveillance technology marketing stunt this week called the “Hangover Whopper,” celebrating the booze-filled days between Christmas and New Year ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/burger-king-giving-discounts-if-facial-recognition-thin-1851124496",
-      "originalUrl": "https://gizmodo.com/burger-king-giving-discounts-if-facial-recognition-thin-1851124496",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/da8531a3622c7d3557943df8cfac3e46.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-26T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

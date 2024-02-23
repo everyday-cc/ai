@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms"
 type: article
 quality: 74
-heat: 184
-published: true
+heat: -1
+published: false
 
 provider:
   name: Indiatimes
@@ -27,51 +27,189 @@ images:
     isCached: true
 
 related:
-  - title: "Softbank’s Son reportedly seeks $100B for AI chip venture"
-    excerpt: "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia."
-    publishedDateTime: 2024-02-19T16:18:00Z
-    webUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture"
-    ampWebUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
+  - title: "Explore cutting-edge AI solutions with Microsoft at NVIDIA GTC"
+    excerpt: "Join Microsoft at the NVIDIA GTC AI Conference March 18–21 at booth #1108 in San Jose, CA (or virtually) to discover how these cutting-edge Azure AI services and supercomputing infrastructure in the cloud can help power your AI transformation. \nThe post Explore cutting-edge AI solutions with Microsoft"
+    publishedDateTime: 2024-02-22T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/"
     type: article
     provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 74
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
     images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png"
-        width: 640
-        height: 360
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/AzureSEO-image-2.15.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Softbank’s great semiconductor hope Arm isn’t the AI play you think it is"
-    excerpt: "The British semiconductor designer isn’t directly involved in the hottest business in town unlike Nvidia’s GPUs, whose superior parallel processing capabilities made them perfect for training and maintaining AI models."
-    publishedDateTime: 2024-02-20T08:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html/amp"
+  - title: "Microsoft and Google are proud AI is helping you (other companies not so much)"
+    excerpt: "Google, too, showed an exceptionally touching example of AI overtly improving someone's life. Here, the company revealed how, with the new AI-powered Pixel 8, those with blindness or low vision can now frame photographs beautifully, as the phone's AI assistant guides them to the optimum framing."
+    publishedDateTime: 2024-02-18T04:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 58
+      name: ZDNet
+      domain: zdnet.com
+    quality: 100
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/02/chip.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/06ade7ecff079e652b414b009a1ae646986bf62f/2024/02/13/42b45f78-34b0-4a2c-8453-3ce03951d473/screenshot-2024-02-13-at-3-13-34pm.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft supports cloud infrastructure demand in Europe"
+    excerpt: "Demand for cloud infrastructure continues to grow as organizations focus on migrating to the cloud and building new solutions that take advantage of AI. \nThe post Microsoft supports cloud infrastructure demand in Europe appeared first on Microsoft Azure Blog.\n"
+    publishedDateTime: 2024-02-21T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-supports-cloud-infrastructure-demand-in-europe/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB14_308233_Blog_Blogheader_240219_V02.png"
+        width: 1260
+        height: 708
+        isCached: true
+  - title: "Intel strikes major chip deal with Microsoft amid AI push"
+    excerpt: "Intel has struck a potentially billion-dollar deal with Microsoft that will see the chipmaker manufacture chips designed in-house by the software giant as it looks to make the most of AI. Announced yesterday (21 February) at Intel’s first foundry event ..."
+    publishedDateTime: 2024-02-22T12:19:00Z
+    webUrl: "https://www.siliconrepublic.com/business/intel-microsoft-ai-chips-semiconductors-foundry-deal"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 71
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-23.jpeg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Microsoft Inks AI Chip Manufacturing Deal with Intel"
+    excerpt: "Microsoft in November announced that TSMC would be behind the manufacturing of the Microsoft Azure Maia AI Accelerator and the Microsoft Azure Cobalt CPU – both internally developed chips aimed at Microsoft's cloud datacenters. It's unclear whether Intel ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2024/02/22/microsoft-inks-ai-chip-manufacturing-deal-with-intel.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 71
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/semiconductor1.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft and iCreate launch iMPEL-AI program to catalyze AI startups in India"
+    excerpt: "Microsoft and iCreate, in the presence of Minister Chandrasekhar launched iMPEL-AI (iCreate-Microsoft programme for Emerging Leaders in Artificial Intelligence) programme."
+    publishedDateTime: 2024-02-21T15:56:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2835938-microsoft-and-icreate-launch-impel-ai-program-to-catalyze-ai-startups-in-india"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2835938-microsoft-and-icreate-launch-impel-ai-program-to-catalyze-ai-startups-in-india?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835938-microsoft-and-icreate-launch-impel-ai-program-to-catalyze-ai-startups-in-india?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 70
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_02_2024_20_19_09_0335102.jpg?width=1280"
+        width: 1280
+        height: 861
+        isCached: true
+  - title: "Microsoft is investing in more powerful AI tech to save company cash, here’s how"
+    excerpt: "Microsoft is developing server network cards to replace the ones offered by Nvidia, which will help the company save some cash and improve the performance of its Nvidia chip servers. Read more to know the details."
+    publishedDateTime: 2024-02-21T10:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/articleshow/107883223.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107883190,width-1280,height-720,resizemode-4/107883190.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "NVIDIA Eos DGX AI supercomputer designed for artificial intelligence"
-    excerpt: "In the fast-paced world of technology, NVIDIA has made a significant leap with the introduction of Eos, a new supercomputer that has quickly secured a"
-    publishedDateTime: 2024-02-19T07:48:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-nvidia-eos/"
+  - title: "Supermicro Expands AI Solutions For Enhanced Edge Computing Powered By Nvidia GPUs"
+    excerpt: "Supermicro (SMCI) introduces cutting-edge AI solutions, enabling real-time decision-making at the edge with NVIDIA GPU support. The advanced edge servers, featuring dual socket CPUs and powerful GPUs, position Supermicro as a leader in AI-driven edge ..."
+    publishedDateTime: 2024-02-20T11:09:00Z
+    webUrl: "https://www.benzinga.com/top-stories/24/02/37216276/supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37216276"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37216276"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 68
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/Super-Micro-Computer_0.jpeg?width=1200&height=800&fit=crop"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft is developing a network card that improves AI performance"
+    excerpt: "The Information has learned that Microsoft is developing a new network card that could improve the performance of its Maia AI server chip. As an added"
+    publishedDateTime: 2024-02-21T14:23:00Z
+    webUrl: "https://www.techspot.com/news/101960-microsoft-developing-network-card-improves-ai-performance.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 68
+  - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
+    excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
+    publishedDateTime: 2024-02-19T05:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-19/artificial-intelligence-microsoft-google-nvidia-win-as-computing-costs-surge"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 66
+  - title: "Intel will make chips for Microsoft"
+    excerpt: "US chip company Intel will make high-end semiconductors for Microsoft, the companies announced, as it seeks to compete with TSMC and Samsung to supply the next generation of silicon used in artificial intelligence for customers around the world."
+    publishedDateTime: 2024-02-22T14:35:00Z
+    webUrl: "https://arstechnica.com/gadgets/2024/02/intel-will-make-chips-for-microsoft/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 66
+  - title: "Can Nvidia Join Apple, Microsoft In $2-Trillion Club Today? Here's How Much The Stock Needs To Gain To Hit The Mark"
+    excerpt: "Reaching $2 Trillion: To reach the $2 trillion market cap, Nvidia’s stock would need to reach $804, given its 2.49 million outstanding shares. This translates to a necessary increase of $129.28, or 19.16%, from Wednesday’s closing price. Currently, only Microsoft, Apple, and Saudi Aramco boast valuations exceeding $2 trillion."
+    publishedDateTime: 2024-02-22T11:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/can-nvidia-join-apple-microsoft-in-2-trillion-club-today-here-s-how-much-the-stock-needs-to-gain-to-hit-the-mark-1033092133"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/King-County--Washington--United-States--_6.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Microsoft to Expand Its AI Infrastructure in Spain With $2.1 Billion Investment"
+    excerpt: "U.S. software giant Microsoft will expand its artificial intelligence (AI) and cloud infrastructure in Spain through an investment of $2.1 billion in the next two years, the company's Vice Chair and President Brad Smith said in a post on social media site X."
+    publishedDateTime: 2024-02-19T22:31:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
+  - title: "Microsoft tinkers with Windows for AMD AI"
+    excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
+    publishedDateTime: 2024-02-20T09:06:00Z
+    webUrl: "https://www.fudzilla.com/news/58478-microsoft-tinkers-with-windows-for-amd-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
     quality: 56
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/NVIDIA-Eos-supercomputer-built-for-artificial-intelligence-applications.jpg"
-        width: 1280
-        height: 841
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bcdf324bedc9fc853b785e501196a623_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "SoftBank Bets $100 Bn on AI Chips, Takes Aim at NVIDIA"
     excerpt: "Competing in the AI dominance race, SoftBank's CEO, Masayoshi Son, has announced a plan to gather a whopping $100 billion for his AI project."
@@ -87,57 +225,94 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "SoftBank founder looks to create $100B AI chip venture"
-    excerpt: "Masayoshi Son, founder and CEO of SoftBank Group (pictured), laid out broad plans to create a $100 billion AI chip-manufacturing venture to complement its design unit Arm by attracting funds from investors in the Middle East, Bloomberg reported."
-    publishedDateTime: 2024-02-19T00:00:00Z
-    webUrl: "https://www.mobileworldlive.com/softbank/softbank-founder-looks-to-create-100b-ai-chip-venture/"
+  - title: "Microsoft to invest $2.1bn in cloud and AI infrastructure in Spain"
+    excerpt: "Microsoft has committed to investing $2.1 billion in cloud computing and artificial intelligence (AI) infrastructure in Spain over the next two years. The planned investment was shared by the vice chair and president of Microsoft Brad Smith via a post on X following a meeting with the Prime Minister of Spain, Pedro Sanchez."
+    publishedDateTime: 2024-02-20T14:56:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-21bn-in-cloud-and-ai-infrastructure-in-spain/?ref=runtime.news"
     type: article
     provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 54
     images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2019/12/16120627/SoftBank_Masayoshi_Son_SS-e1576572684844.jpg"
-        width: 650
-        height: 399
+      - url: "https://media.datacenterdynamics.com/media/images/GGt2TbkWIAAO9R7.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Softbank to put $100bn into AI chips"
-    excerpt: "SoftBank is to put $100 billion into a project calked Izanagi to make AI chips designed by Arm. The plan is for SoftBank to put $30 billion of its own"
-    publishedDateTime: 2024-02-19T06:29:00Z
-    webUrl: "https://www.electronicsweekly.com/news/business/softbank-to-put-100bn-into-ai-chips-2024-02/"
+  - title: "Cushman & Wakefield working with Microsoft on AI"
+    excerpt: "The Microsoft Technology Centre is providing Cushman & Wakefield with access to cutting-edge research, tools, and the firm's top specialists to develop powerful and adaptable applications. It also provides insight into various areas that require AI solutions, with learning and improvement through feedback and advice."
+    publishedDateTime: 2024-02-21T07:48:00Z
+    webUrl: "https://vir.com.vn/cushman-wakefield-working-with-microsoft-on-ai-109032.html"
     type: article
     provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
     quality: 54
     images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2024/02/17120631/IMG_2799.jpeg"
-        width: 592
-        height: 1307
+      - url: "https://vir.com.vn/stores/news_dataimages/2024/022024/21/13/in_social/cb36e5d2e40cf819ff19a5af7c71a66b.jpg?randTime=1708506123"
+        width: 600
+        height: 385
         isCached: true
-  - title: "Softbank’s Masayoshi Son plans $100bn AI chip venture"
-    excerpt: "In one scenario Son is considering, SoftBank would provide $30 billion, with $70 billion possibly coming from institutions in the Middle East SoftBank founder Masayoshi Son’s plans to create a $100 billion chip venture to supply AI-enabling semiconductors."
-    publishedDateTime: 2024-02-19T08:12:00Z
-    webUrl: "https://www.businesspost.ie/news/softbanks-masayoshi-son-plans-100bn-ai-chip-venture/"
+  - title: "Intel to manufacture chips for Microsoft as AI drives demand"
+    excerpt: "Since Gelsinger took the helm three years ago, Intel has been attempting to reinvent itself as a foundry business, building chips designed by other companies, regaining an edge in making the most advanced semiconductors. Demand for them is soaring, driven by the rise of generative AI."
+    publishedDateTime: 2024-02-21T19:34:00Z
+    webUrl: "https://www.ft.com/content/be22fa9d-d5ff-415d-b7d0-1b756751e344"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 54
+      name: The Financial Times
+      domain: ft.com
+    quality: 51
+  - title: "Microsoft to Use Intel for In-House Custom AI Chip"
+    excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
+    publishedDateTime: 2024-02-21T17:21:00Z
+    webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 51
+  - title: "ICreate, Microsoft, MeitY Launch Impel-AI Programme to Empower India Innovators"
+    excerpt: "Microsoft India, iCreate, and the Ministry of Electronics and Information Technology have announced the launch of a joint artificial intelligence innovation programme."
+    publishedDateTime: 2024-02-22T09:29:00Z
+    webUrl: "https://www.ndtvprofit.com/technology/icreate-microsoft-meity-launch-impel-ai-programme-to-empower-india-innovators"
+    type: article
+    provider:
+      name: ndtvprofit
+      domain: ndtvprofit.com
+    quality: 50
     images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=6333bf6a-b549-5589-8178-8668be8928ed&type=preview&function=original"
-        width: 1600
-        height: 1067
+      - url: "https://media.assettype.com/bloombergquint%2F2024-02%2Fdce4580f-faa5-48c9-b472-e497d52d759d%2Figor_omilaev_eGGFZ5X2LnA_unsplash.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AI Leader Nvidia Rises as Forecast Tops Wall Street's Lofty Goals"
-    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. The share surge that fueled S&P 500's climb to record highs this year had sparked fears that growth at Nvidia, the bellwether for AI demand, could ..."
-    publishedDateTime: 2024-02-22T04:51:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-22/ai-leader-nvidia-rises-as-forecast-tops-wall-streets-lofty-goals"
+  - title: "Microsoft & Icreate Launch Impel-AI Programme To Empower AI Start-Ups In India"
+    excerpt: "( MENAFN - KNN India) New Delhi, Feb 22 (KNN) In a significant collaboration, Microsoft and the International Centre for Entrepreneurship and Technology (iCreate), in the presence of Union Minister Rajeev Chandrasekhar, have unveiled the iMPEL-AI (iCreate-Microsoft Programme for Emerging Leaders in Artificial Intelligence) initiative."
+    publishedDateTime: 2024-02-22T10:29:00Z
+    webUrl: "https://menafn.com/1107884792/Microsoft-Icreate-Launch-Impel-AI-Programme-To-Empower-AI-Start-Ups-In-India"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
+      name: Mena FN
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/22/KI_20343image_story.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Icreate, Microsoft, IT Ministry To Skill 11K Innovators, Startups In AI In India"
+    excerpt: "Microsoft India and iCreate (the International Centre for Entrepreneurship and Technology) will provide AI skilling opportun"
+    publishedDateTime: 2024-02-21T18:15:00Z
+    webUrl: "https://menafn.com/1107880779/Icreate-Microsoft-IT-Ministry-To-Skill-11K-Innovators-Startups-In-AI-In-India"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 49
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/21/I_0a5d1image_story.jpg"
+        width: 299
+        height: 201
+        isCached: true
   - title: "Microsoft develops AI server gear to lessen reliance on Nvidia, The Information reports"
     excerpt: "Microsoft CEO Satya Nadella has tapped Pradeep Sindhu, who co-founded networking gear developer Juniper Networks, to spearhead the network card effort, the report said citing a person with knowledge of the matter."
     publishedDateTime: 2024-02-20T18:30:00Z
@@ -152,15 +327,75 @@ related:
         width: 800
         height: 499
         isCached: true
-  - title: "SoftBank stock rises on CEO Masayoshi Son’s plan for $100 billion AI chip project"
-    excerpt: "Shares in the Tokyo-based tech investor SoftBank gained as much as 3.2% reports that 66-year-old billionaire CEO Masayoshi Son is seeking funding for a foray into AI chips to compete with Nvidia Corp."
-    publishedDateTime: 2024-02-19T14:41:00Z
-    webUrl: "https://www.livemint.com/companies/news/softbank-stock-rises-on-ceo-masayoshi-son-s-plan-for-100-billion-chip-project-11708305813911.html"
+  - title: "Competition in the cloud: Microsoft's ‘unfair’ licensing tactics go under the microscope"
+    excerpt: "Microsoft's share of the global cloud infrastructure market is on the grow at a time when its customer recruitment and retention techniques are coming under increased regulatory scrutiny"
+    publishedDateTime: 2024-02-20T05:12:00Z
+    webUrl: "https://www.computerweekly.com/news/366570212/Competition-in-the-cloud-Microsofts-unfair-licensing-tactics-under-the-microscope"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 29
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 45
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/cloud-threat-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
+  - title: "Super Micro: Riding The AI Revolution"
+    excerpt: "Super Micro Computer is experiencing significant growth in sales, with a surge of over 100% reported recently. The company is forecasting EPS growth of ~250% in the current quarter, driven by increased demand for infrastructure solutions, warranting the ..."
+    publishedDateTime: 2024-02-19T00:02:00Z
+    webUrl: "https://seekingalpha.com/article/4671278-super-micro-riding-ai-revolution"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2024/2/17/234751-17082323014345374.png"
+        width: 640
+        height: 358
+        isCached: true
+  - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
+    excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."
+    publishedDateTime: 2024-02-22T12:30:00Z
+    webUrl: "https://hothardware.com/news/nvidia-crushes-earnings-data-center-gains-ai-hits-tipping-point"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 35
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63959/content/hero-nvidia-headquarters-sign.jpg"
+        width: 708
+        height: 400
+        isCached: true
+  - title: "Opinion: Google, Microsoft will dominate AI as computing costs surge"
+    excerpt: "Technology writer Parmy Olson says Google and Microsoft will dominate artificial intelligence as computing costs surge"
+    publishedDateTime: 2024-02-19T18:30:00Z
+    webUrl: "https://www.ourmidland.com/opinion/voices/article/opinion-google-microsoft-dominate-artificial-18676153.php"
+    type: article
+    provider:
+      name: Midland Daily News
+      domain: ourmidland.com
+    quality: 34
+  - title: "Microsoft to Invest $2.1 Billion in AI and Cloud Growth in Spain"
+    excerpt: "Over the next two years to significantly scale up its artificial intelligence (AI) development and cloud computing capacities in Spain."
+    publishedDateTime: 2024-02-21T07:59:00Z
+    webUrl: "https://techreport.com/news/microsoft-to-invest-2-1-billion-in-ai-and-cloud-growth-in-spain/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
+  - title: "What’s up with… Orange and MásMóvil, Microsoft, Nokia"
+    excerpt: "Orange Spain-MásMóvil merger gets EC approval Microsoft boosts AI and cloud play in Spain with a $2.1bn investment Nokia puts Orange in a deep sleep In today’s industry news roundup: Orange and MásMóvil edge closer to finalising their planned merger ..."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://www.telecomtv.com/content/access-evolution/what-s-up-with-orange-and-m-sm-vil-microsoft-nokia-49688/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 19
   - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
     excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."
     publishedDateTime: 2024-02-21T15:23:00Z
@@ -169,6 +404,15 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
+    quality: 19
+  - title: "NVIDIA CEO Jensen Huang unveiling new AI breakthrough at GTC 2024"
+    excerpt: "For healthcare professionals, there will be valuable discussions on how AI is transforming diagnostics and patient care. The finance industry will explore how AI is being used to assess risks and detect fraud. Meanwhile, the automotive sector will present ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-ai-gtc-2024/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 19
 
 secured: "M74dLxE5cKGGaBafZyEiE7+mvUWYGRURuCWc/7xEZES3fofPYLtVohnkcSKkNd3fx627Yw5rCwMGZA2jjLpEhfXyB0wSIX/Tv9CCbAoMIUADapreqD+Q9C64RAFTXQ/+jnvWeNS5SIpo7jIA+e8IPX6yP4N4HvJSu0R87lDm7BC+saBsZmUrYtakiX0iw1plE70g4xyyMlw2AuPsqHtFFrgu9rom6YUYXYjcR/dMS5ZR271XR4vmnKQYWtXWjDMRlahDJt0CpbBDC1/9zlRZemcoGMkbXZXcMYUJjUrzZiauZE7FhMuqxZm96t8DnmL8RRkd1V52G6vxpaGBNN7ekLIbiFteWpXdDpfn89WHYnJcLU+x9dyJXg21wzEvS9/tt+0/+9Dz/V2gNi0ZPf8T/HfAHwgHguexCL7f1mCkqYcxmEADlZBt3un3kY5F+bNTAZc0O2/NaaQ4Um1M2AJaak7evHxK9jhfcZiivfSgwb6PqoYMopx8pnQyPHVU/5fuGfoidWBwW6LWYGQ5iBv0cA==;znjN5snOFW4Ko2UU+DuDdA=="

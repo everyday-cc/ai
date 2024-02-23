@@ -77,6 +77,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Global AI Regulatory Update - February 2024"
+    excerpt: "The guidance also outlines practical steps that should be taken when building generative AI solutions and that these are created in a way that takes into account legal considerations, ethics, data protection and privacy, security and governance."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/global-ai-regulatory-update-february-8837410/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7393_3758.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Wild vs. Canucks February 19 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Quinn Hughes and Matthew Boldy will be two of the most exciting players to keep an eye on when the Vancouver Canucks face the Minnesota Wild at Xcel Energy Center on Monday, February 19 at 2:00 PM ET. Kirill Kaprizov is ..."
     publishedDateTime: 2024-02-18T08:01:00Z

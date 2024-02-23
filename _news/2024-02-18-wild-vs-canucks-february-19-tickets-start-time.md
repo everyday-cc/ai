@@ -87,6 +87,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Global AI Regulatory Update - February 2024"
+    excerpt: "The guidance also outlines practical steps that should be taken when building generative AI solutions and that these are created in a way that takes into account legal considerations, ethics, data protection and privacy, security and governance."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/global-ai-regulatory-update-february-8837410/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7393_3758.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Blues vs. Maple Leafs February 19 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Toronto Maple Leafs' Mitchell Marner and the St. Louis Blues' Pavel Buchnevich are two of the most exciting players to keep an eye on when these squads face off on Monday at 1:00 PM ET, at Enterprise Center."
     publishedDateTime: 2024-02-18T22:00:00Z

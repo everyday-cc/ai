@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/european-chip-stocks-surge-aft
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31"
 type: article
 quality: 114
-heat: 474
+heat: 484
 published: true
 
 provider:
@@ -123,6 +123,22 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/manufacturing-press-imec-keynote-blog-1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Nvidia shatters stock market record by adding over $230 billion in value in one day. Here’s why it’s dominating the AI chip race"
+    excerpt: "Nvidia CEO Jensen Huang (holding one of the chip designer’s Hopper units) has led the company to the forefront of the AI chip race. Chip designer Nvidia has emerged as the clear winner in not just the early stages of the AI boom but, at least so far ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://fortune.com/2024/02/22/what-does-nvidia-do-chips-ai-jensen-huang/?taid=65d7ba889ecfc100017dec12"
+    ampWebUrl: "https://fortune.com/2024/02/22/what-does-nvidia-do-chips-ai-jensen-huang/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/what-does-nvidia-do-chips-ai-jensen-huang/amp/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 75
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1258356137_f2a144-e1708626274327.jpg?w=840"
+        width: 840
+        height: 560
         isCached: true
   - title: "Nvidia's Q4 revenue, profit soar on demand for AI chips"
     excerpt: "Nvidia’s revenue for its fiscal fourth quarter was US$22.1 billion, up from US$6.05 billion. The company based in Santa Clara, California, earned US$12.29 billion, compared to a profit of US$1.41 billion a year ago."

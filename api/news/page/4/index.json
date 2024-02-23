@@ -2,6 +2,163 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-21-robot-inventor-we-had-to-adapt-to-the-ai-revolution.md",
+      "title": "Robot inventor: 'We had to adapt to the AI revolution'",
+      "excerpt": "Sandy Enoch, the founder of Scottish tech firm Robotical, explains how he had to adapt his educational robots, designed for the classroom, to reflect the revolution taking place in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-68348353",
+      "originalUrl": "https://www.bbc.com/news/business-68348353",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1413F/production/_132693228_p0hcyy8v.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T00:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family.md",
+      "title": "Google goes “open AI” with Gemma, a free, open-weights chatbot family",
+      "excerpt": "Gemma chatbots can run locally, and they reportedly outperform Meta's Llama 2.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/civis/threads/google-goes-“open-ai”-with-gemma-a-free-open-weights-chatbot-family.1499024/page-2",
+      "originalUrl": "https://arstechnica.com/civis/threads/google-goes-“open-ai”-with-gemma-a-free-open-weights-chatbot-family.1499024/page-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65d512ac5503edf560835d2c/191:100/w_1280,c_limit/politics_gab_chatbot_extreme_racist.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-iflytek-launches-ai-powered-x3-sweeping-and-mopping-robot-in-china.md",
+      "title": "iFlytek launches AI-powered X3 sweeping and mopping robot in China",
+      "excerpt": "The chip delivers the necessary processing power for obstacle avoidance, navigation, and stain recognition, while the lidar ensures accurate mapping and object detection. Furthermore, the X3 can navigate obstacles up to 2cm high and boasts automatic night ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/21/iflytek-x3-sweeping-and-mopping-rob-launch/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/21/iflytek-x3-sweeping-and-mopping-rob-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/iFlytek-X3-653x1024.jpeg",
+          "width": 653,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-indeeds-10-highest-paid-tech-skills-generative-ai-tops-the-list.md",
       "title": "Indeed’s 10 Highest-Paid Tech Skills: Generative AI Tops the List",
       "excerpt": "It is used for applications such as computer vision and natural language processing. The ML framework was developed by Meta AI and is now part of the Linux Foundation umbrella. 6. Computer vision, $166,873: Computer vision is a field of computer science ...",
@@ -158,7 +315,7 @@
       "originalUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -780,6 +937,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-20-streamline-workflows-with-devops-solutions-from-github-and-azure.md",
+      "title": "Streamline workflows with DevOps solutions from GitHub and Azure",
+      "excerpt": "The joint solution of GitHub and Azure, combined with the power of Visual Studio, can create order for previously staggered workflows and delayed deployments.\nThe post Streamline workflows with DevOps solutions from GitHub and Azure appeared first on Microsoft Azure Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/streamline-workflows-with-devops-solutions-from-github-and-azure/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/streamline-workflows-with-devops-solutions-from-github-and-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB14_316903_Blog_Blogheader_240213_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology.md",
       "title": "Bioptimus raises $35 million seed round to develop AI foundational model focused on biology",
       "excerpt": "There’s a new generative AI startup based in Paris. But what makes Bioptimus interesting is that it plans to apply everything we’ve collectively learned about AI models over the past few years with a narrow, exclusive focus on biology. The reason why ...",
@@ -829,6 +1038,57 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-dive-into-the-future-of-cloud-analytics-with-the-fabric-career-hub.md",
+      "title": "Dive into the future of cloud analytics with the Fabric Career Hub",
+      "excerpt": "As part of our Fabric Community Hub—a virtual hangout for Fabric users to connect with community members, ask questions, and learn—we’ve developed the Fabric Career Hub. It’s your all-in-one repository for Fabric know-how, featuring every learning resource we have to help you ditch the data silos, streamline",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/02/20/dive-into-the-future-of-cloud-analytics-with-the-fabric-career-hub/",
+      "originalUrl": "https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/02/20/dive-into-the-future-of-cloud-analytics-with-the-fabric-career-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-fabric/blog/wp-content/uploads/2024/02/Picture1-for-Lanna-Fabric.jpg",
+          "width": 1419,
+          "height": 946,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
       ]
     },
     {
@@ -974,239 +1234,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti.md",
-      "title": "Will Smith parodies viral AI-generated video by actually eating spaghetti",
-      "excerpt": "Will Smith posted a video on his official Instagram feed that parodied an AI-generated video of the actor eating spaghetti that went viral last year. With the recent announcement of OpenAI's Sora video synthesis model,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/02/will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/02/will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/will_smith_parody_hero-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-ai-eu-agrees-landmark-deal-on-regulation-of-artificial-intelligence.md",
-      "title": "AI: EU agrees landmark deal on regulation of artificial intelligence",
-      "excerpt": "EU Commissioner Thierry Breton said the agreement was \"historic\" European Union officials have reached a provisional deal on the world's first comprehensive laws to regulate the use of artificial intelligence. After 36 hours of talks, negotiators agreed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform",
-      "originalUrl": "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T14:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-microsoft-to-invest-21-bln-in-spain-to-expand-ai-infrastructure.md",
-      "title": "Microsoft To Invest $2.1 Bln In Spain To Expand AI Infrastructure",
-      "excerpt": "Tech major Microsoft Corp. announced its plans to expand its artificial intelligence or AI and cloud infrastructure in Spain with an",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T14:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-british-ai-company-graphcore-is-trying-to-sell-its-accelerator-business-perhaps-to-openai.md",
-      "title": "British AI company Graphcore is trying to sell its accelerator business, perhaps to OpenAI",
-      "excerpt": "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: AI algorithms are spreading rapidly, and the demand for GPUs and other specialized chips designed to accelerate AI workloads is continuously increasing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101948-british-ai-company-graphcore-trying-sell-accelerator-business.html",
-      "originalUrl": "https://www.techspot.com/news/101948-british-ai-company-graphcore-trying-sell-accelerator-business.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-20-image-18.jpg",
-          "width": 2308,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T13:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing.md",
-      "title": "Samsung and Arm's Latest AI Chip Collaboration: A New Era for Mobile Computing",
-      "excerpt": "Arm Holdings' value skyrockets to $130 billion amid AI boom, despite recent 8.39% share price dip. This partnership, built on a long history of millions of devices featuring Arm CPU intellectual property on Samsung’s process nodes, aims to introduce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
-      "originalUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/ARM_1.png?width=1200&height=800&fit=crop",
-          "width": 830,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/37218987",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987",
-      "publishedDateTime": "2024-02-20T13:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

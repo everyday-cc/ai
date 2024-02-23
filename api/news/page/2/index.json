@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-22-ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry.md",
+      "title": "AI Is Getting To Work In The Highly Regulated Investment Management Industry",
+      "excerpt": "AI hit employment levels among the feted tech giants with 34,000 job losses this year. The AI “safety first” policy is resonating in the investment management industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/",
+      "originalUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d6dac3706cc5efc69fdc66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/",
+      "publishedDateTime": "2024-02-22T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-applying-ai-to-support-the-front-line-of-healthcare.md",
+      "title": "Applying AI To Support The Front Line Of Healthcare",
+      "excerpt": "Artificial intelligence, more commonly referred to as AI, has been around since the 1950s, but the launch of ChatGPT in November 2022 inspired a new wave of AI innovation and investment. The way AI impacts healthcare and other sectors will be one of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/615f4f6aef570f61fbfea398/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/amp/",
+      "publishedDateTime": "2024-02-22T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-how-to-build-ai-capabilities-across-an-enterprise.md",
+      "title": "How To Build AI Capabilities Across An Enterprise",
+      "excerpt": "Businesses rolling AI out across an enterprise can learn from the masters of making the most of disruption – venture investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d508ffcd2e8c866e062f4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1141,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/",
+      "publishedDateTime": "2024-02-22T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-ai-will-transform-finance-but-not-with-personalised-card-offers.md",
       "title": "AI Will Transform Finance, But Not With Personalised Card Offers",
       "excerpt": "Almost three-quarters of those surveyed identified AI as the most important factor in the development of fintech in the next five years (and almost half of them pointed to embedded finance, open banking and the digital economy as the second most important ...",
@@ -208,7 +363,7 @@
       "originalUrl": "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 474,
+      "heat": 484,
       "tags": null,
       "images": [
         {
@@ -261,7 +416,7 @@
       "originalUrl": "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -867,7 +1022,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1077,7 +1232,7 @@
       "originalUrl": "https://www.neowin.net/news/google-reveals-another-smaller-ai-model-gemma-for-researchers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1117,162 +1272,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-content-creators-face-uncomfortable-accounting-during-tax-season.md",
-      "title": "Content Creators Face Uncomfortable Accounting During Tax Season",
-      "excerpt": "What Content Creators and Content Creation Companies should consider for tax season and ither accounting areas such as revenue recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/",
-      "originalUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/659ad6221834d9b6fb2041d4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/amp/",
-      "publishedDateTime": "2024-02-21T14:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-from-script-to-distribution-ais-role-in-the-film-world.md",
-      "title": "From Script To Distribution: AI's Role In The Film World",
-      "excerpt": "AI is also playing a role in trailer creation. For instance, in 2016, IBM Watson used AI to craft a trailer for Morgan by analyzing key film moments, suggesting soundtracks and refining edits. In 2019, Adobe Sensei analyzed past Sundance Film Festival ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d4eb02bedc583914bd11fe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1542,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/amp/",
-      "publishedDateTime": "2024-02-21T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-google-launches-gemini-business-ai-adds-20-to-the-6-workspace-bill.md",
-      "title": "Google launches “Gemini Business” AI, adds $20 to the $6 Workspace bill",
-      "excerpt": "Enterprise is $30 per user per month, and it \"includes additional capabilities for AI-powered meetings, where Gemini can translate closed captions in more than 100 language pairs, and soon even take meeting notes.\"",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/google/2024/02/google-launches-gemini-business-ai-adds-20-to-the-6-workspace-bill/",
-      "originalUrl": "https://arstechnica.com/google/2024/02/google-launches-gemini-business-ai-adds-20-to-the-6-workspace-bill/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/ebUFWGby60-980x676.png",
-          "width": 980,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T14:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/supply-chain-strategy/"
 webUrl: "https://www.ibm.com/blog/supply-chain-strategy/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - IBM AI
 
 related:
-  - title: "The Role Of AI In Enhancing Incident Response Management: A Realistic Approach"
-    excerpt: "On paper, AI promises to revolutionize incident response management. However, it's crucial to consider the specific context of your organization. Take Google's incident response model, for example. When Google published its SRE book, everybody figured they could just go and implement it—often without success."
-    publishedDateTime: 2024-02-20T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/the-role-of-ai-in-enhancing-incident-response-management-a-realistic-approach/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
   - title: "Introducing The Future Of Cap Table Management: AI-Powered Solution Unveiled For The Startup Community"
     excerpt: "MENLO PARK, CALIFORNIA, UNITED STATES, February 19, 2024 /EINPresswire / -- In a development set to revolutionize the startup ecosystem, Positon AI, a leading innovator in Investment and M&A technology solutions, today announced the launch of its AI ..."
     publishedDateTime: 2024-02-19T22:55:00Z

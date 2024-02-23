@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Super Micro: Riding The AI Revolution"
-    excerpt: "Super Micro Computer is experiencing significant growth in sales, with a surge of over 100% reported recently. The company is forecasting EPS growth of ~250% in the current quarter, driven by increased demand for infrastructure solutions, warranting the ..."
-    publishedDateTime: 2024-02-19T00:02:00Z
-    webUrl: "https://seekingalpha.com/article/4671278-super-micro-riding-ai-revolution"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2024/2/17/234751-17082323014345374.png"
-        width: 640
-        height: 358
-        isCached: true
   - title: "Generative AI revolutionising banking sector: Fintech Surge 2023"
     excerpt: "Day one of Fintech Surge 2023, the global gathering for the entire fintech ecosystem, commenced today at the iconic Dubai Harbour. The event is uniting regional and global players from across the fintech industry – from banks and financial institutions to regulators,"
     publishedDateTime: 2024-02-20T21:20:00Z

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -147,6 +147,59 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-microsoft-backed-openai-valued-at-80bn-after-company-completes-deal.md",
+      "title": "Microsoft-backed OpenAI valued at $80bn after company completes deal",
+      "excerpt": "Company to sell existing shares in ‘tender offer’ led by venture firm Thrive Capital, in similar deal as early last year Microsoft-backed OpenAI has completed a deal that values the artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
+      "originalUrl": "https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/31d22fd8fcc34bb0ab7a9da447f294d8138108f9/0_142_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=cf647d3966eb3d26240a50524fea27e7",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
+      "publishedDateTime": "2024-02-19T10:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1317,51 +1370,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-artificial-intelligence-in-the-news-how-ai-retools-rationalizes-and-reshapes-journalism-and-the-public-arena.md",
-      "title": "Artificial Intelligence in the News: How AI Retools, Rationalizes, and Reshapes Journalism and the Public Arena",
-      "excerpt": "Image: DALL·E 2023 12-20-14.57.08. Prompt: generate a random fine line swirl picture high resolution the lines have the blue of Oxford university on white background Chapter 1 is broken down into three parts, exploring (i) news organizations’ motives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
-      "originalUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cjr.org/wp-content/uploads/2024/02/DALL·E-2023-12-20-14.57.08-generate-a-random-fine-line-swirl-picture-high-resolution-the-lines-have-the-blue-of-Oxford-university-on-white-background.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cjr.org",
-        "domain": "cjr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

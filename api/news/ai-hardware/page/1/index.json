@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-23-hammerspace-introduces-hyperscale-nas-for-ai-hpc.md",
+      "title": "Hammerspace Introduces Hyperscale NAS For AI & HPC",
+      "excerpt": "Hammerspace unveiled its new high-performance NAS architecture, Hyperscale NAS, to cater to the growing demands of enterprise AI, machine learning, deep learning initiatives, and the increasing use of GPU computing both on-premises and in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d805bc11a4068e97b82a16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1049,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
+      "publishedDateTime": "2024-02-22T22:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-openais-sora-has-left-ai-experts-either-enthused-or-skeptical-its-left-most-everyone-else-terrified.md",
       "title": "OpenAI’s Sora has left AI experts either enthused or skeptical. It’s left most everyone else terrified",
       "excerpt": "including access to the highly coveted Nvidia H100s and over 15 different Nvidia GPU SKUs all together, allowing customers to deploy AI without massive infrastructure investments. Yesterday, it announced a new AI chatbot it says will make this process even ...",
@@ -114,7 +166,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -209,7 +261,7 @@
       "originalUrl": "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 474,
+      "heat": 484,
       "tags": null,
       "images": [
         {
@@ -262,7 +314,7 @@
       "originalUrl": "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -314,7 +366,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1003,92 +1055,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-20-softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips.md",
-      "title": "Softbank wants $100 billion to compete with Nvidia for AI chips",
-      "excerpt": "SoftBank's Masayoshi Son aims to raise $100 billion for a chip venture named Izanagi, focused on AI computing and artificial general intelligence. The project plans to challenge Nvidia's dominance, collaborate with OpenAI, and achieve AGI through Arm's ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/articleshow/107856097.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/articleshow/107856097.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107856061,width-1280,height-720,resizemode-4/107856061.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms",
-      "publishedDateTime": "2024-02-20T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus.md",
-      "title": "Supermicro Expands AI Solutions For Enhanced Edge Computing Powered By Nvidia GPUs",
-      "excerpt": "Supermicro (SMCI) introduces cutting-edge AI solutions, enabling real-time decision-making at the edge with NVIDIA GPU support. The advanced edge servers, featuring dual socket CPUs and powerful GPUs, position Supermicro as a leader in AI-driven edge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/top-stories/24/02/37216276/supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus",
-      "originalUrl": "https://www.benzinga.com/top-stories/24/02/37216276/supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/Super-Micro-Computer_0.jpeg?width=1200&height=800&fit=crop",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/37216276",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37216276",
-      "publishedDateTime": "2024-02-20T11:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-20-what-are-the-best-ai-stocks-in-february-2024-our-top-3-picks.md",
       "title": "What Are the Best AI Stocks in February 2024? Our Top 3 Picks",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investing in AI stocks is thrilling, especially now in February 2024.",
@@ -1097,7 +1063,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 181,
       "tags": null,
       "images": null,
       "content": "",
@@ -1130,6 +1096,49 @@
         "IBM AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-softbanks-son-reportedly-seeks-100b-for-ai-chip-venture.md",
+      "title": "Softbank’s Son reportedly seeks $100B for AI chip venture",
+      "excerpt": "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
+      "originalUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
+      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
+      "publishedDateTime": "2024-02-19T16:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {

@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-22-explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc.md",
+      "title": "Explore cutting-edge AI solutions with Microsoft at NVIDIA GTC",
+      "excerpt": "Join Microsoft at the NVIDIA GTC AI Conference March 18–21 at booth #1108 in San Jose, CA (or virtually) to discover how these cutting-edge Azure AI services and supercomputing infrastructure in the cloud can help power your AI transformation. \nThe post Explore cutting-edge AI solutions with Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 414,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/AzureSEO-image-2.15.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-reimagining-higher-education-seneca-polytechnic-set-to-transform-postsecondary-learning-with-integration-of-microsoft-azure-ai.md",
       "title": "Reimagining higher education: Seneca Polytechnic set to transform postsecondary learning with integration of Microsoft Azure AI",
       "excerpt": "Seneca Polytechnic among the first Canadian postsecondary institutions to bring Microsoft Azure AI technologies to students to support learning and career goals  TORONTO, Feb. 22, 2024 /CNW/ - Seneca Polytechnic announced it is bringing the power of Microsoft Azure AI technology to students and employees through several new initiatives designed to prepare students for the workforce of the future.",
@@ -158,7 +210,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -343,29 +395,38 @@
       ]
     },
     {
-      "path": "_news/2024-02-20-microsoft-to-invest-21-bln-in-spain-to-expand-ai-infrastructure.md",
-      "title": "Microsoft To Invest $2.1 Bln In Spain To Expand AI Infrastructure",
-      "excerpt": "Tech major Microsoft Corp. announced its plans to expand its artificial intelligence or AI and cloud infrastructure in Spain with an",
+      "path": "_news/2024-02-20-streamline-workflows-with-devops-solutions-from-github-and-azure.md",
+      "title": "Streamline workflows with DevOps solutions from GitHub and Azure",
+      "excerpt": "The joint solution of GitHub and Azure, combined with the power of Visual Studio, can create order for previously staggered workflows and delayed deployments.\nThe post Streamline workflows with DevOps solutions from GitHub and Azure appeared first on Microsoft Azure Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457",
+      "webUrl": "https://azure.microsoft.com/en-us/blog/streamline-workflows-with-devops-solutions-from-github-and-azure/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/streamline-workflows-with-devops-solutions-from-github-and-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 89,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB14_316903_Blog_Blogheader_240213_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T14:13:00Z",
+      "publishedDateTime": "2024-02-20T17:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -381,8 +442,58 @@
         "news"
       ],
       "topics": [
-        "Meta AI",
         "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-dive-into-the-future-of-cloud-analytics-with-the-fabric-career-hub.md",
+      "title": "Dive into the future of cloud analytics with the Fabric Career Hub",
+      "excerpt": "As part of our Fabric Community Hub—a virtual hangout for Fabric users to connect with community members, ask questions, and learn—we’ve developed the Fabric Career Hub. It’s your all-in-one repository for Fabric know-how, featuring every learning resource we have to help you ditch the data silos, streamline",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/02/20/dive-into-the-future-of-cloud-analytics-with-the-fabric-career-hub/",
+      "originalUrl": "https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/02/20/dive-into-the-future-of-cloud-analytics-with-the-fabric-career-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-fabric/blog/wp-content/uploads/2024/02/Picture1-for-Lanna-Fabric.jpg",
+          "width": 1419,
+          "height": 946,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "Microsoft AI"
       ]
     },
@@ -439,6 +550,59 @@
       ]
     },
     {
+      "path": "_news/2024-02-19-microsoft-backed-openai-valued-at-80bn-after-company-completes-deal.md",
+      "title": "Microsoft-backed OpenAI valued at $80bn after company completes deal",
+      "excerpt": "Company to sell existing shares in ‘tender offer’ led by venture firm Thrive Capital, in similar deal as early last year Microsoft-backed OpenAI has completed a deal that values the artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
+      "originalUrl": "https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/31d22fd8fcc34bb0ab7a9da447f294d8138108f9/0_142_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=cf647d3966eb3d26240a50524fea27e7",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
+      "publishedDateTime": "2024-02-19T10:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good.md",
       "title": "I tested Meta's Code Lama with 3 AI coding challenges that ChatGPT aced - and it wasn't good",
       "excerpt": "Meta CEO Mark Zuckerberg recently unveiled Code Llama, a 70B parameter AI designed for coding. But how does it stack up against giants like ChatGPT? I put it to the test.",
@@ -487,58 +651,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much.md",
-      "title": "Microsoft and Google are proud AI is helping you (other companies not so much)",
-      "excerpt": "Google, too, showed an exceptionally touching example of AI overtly improving someone's life. Here, the company revealed how, with the new AI-powered Pixel 8, those with blindness or low vision can now frame photographs beautifully, as the phone's AI assistant guides them to the optimum framing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/06ade7ecff079e652b414b009a1ae646986bf62f/2024/02/13/42b45f78-34b0-4a2c-8453-3ce03951d473/screenshot-2024-02-13-at-3-13-34pm.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/",
-      "publishedDateTime": "2024-02-18T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]
@@ -1346,92 +1458,6 @@
         "name": "EURACTIV",
         "domain": "euractiv.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-how-can-businesses-empower-employees-for-innovation.md",
-      "title": "How Can Businesses Empower Employees for Innovation?",
-      "excerpt": "How Can Businesses Empower Employees for Innovation? In the quest to foster a culture of innovation, we’ve gathered insights from CEOs and founders on empowering employees to be the catalysts for change.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/how-can-businesses-empower-employees-for-innovation/",
-      "originalUrl": "https://techbullion.com/how-can-businesses-empower-employees-for-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T22:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-bidens-upcoming-physical-exam-will-not-include-a-cognitive-test-white-house-says.md",
-      "title": "Biden's upcoming physical exam will not include a cognitive test, White House says",
-      "excerpt": "President Biden will not take a cognitive test as part of his upcoming physical exam, the White House confirmed Monday. White House press secretary Karine Jean-Pierre stated that Biden's physician ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says",
-      "originalUrl": "https://www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d61beb5b-2fdb-4ed2-8828-9d637f81b42d/624998bf-6f91-4b7d-b2ce-a2b40b59bcb8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says.amp",
-      "publishedDateTime": "2024-02-12T19:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

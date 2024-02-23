@@ -18,31 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Welcome to the Era of Mobile AI"
-    excerpt: "One of the most welcomed AI features is Circle to Search with Google, an incredible new tool for intuitive discovery. Our communication tools for removing language barriers, such as Live Translate, Chat Assist and Interpreter, have captured the imagination ..."
-    publishedDateTime: 2024-02-20T10:33:00Z
-    webUrl: "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 59
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/TM%20Roh_Editorial.jpg?itok=Ir3q2Fow"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Is AI Biased - Does It Help Or Hinder Women As They Rise To The Top?"
-    excerpt: "Simply put, women must overcome many biases in a world often tilted against them to reach the C-Suite. Will AI help on hinder this rise?"
-    publishedDateTime: 2024-02-20T13:01:00Z
-    webUrl: "https://www.forbes.com/sites/barbarakurshan/2024/02/20/is-ai-biaseddoes-it-help-or-hinder-women-as-they-rise-to-the-top/"
+  - title: "AI Is Getting To Work In The Highly Regulated Investment Management Industry"
+    excerpt: "AI hit employment levels among the feted tech giants with 34,000 job losses this year. The AI “safety first” policy is resonating in the investment management industry."
+    publishedDateTime: 2024-02-22T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d6dac3706cc5efc69fdc66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "The Role Of AI In Enhancing Incident Response Management: A Realistic Approach"
+    excerpt: "On paper, AI promises to revolutionize incident response management. However, it's crucial to consider the specific context of your organization. Take Google's incident response model, for example. When Google published its SRE book, everybody figured they could just go and implement it—often without success."
+    publishedDateTime: 2024-02-20T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/the-role-of-ai-in-enhancing-incident-response-management-a-realistic-approach/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
 
 secured: "zkIqhPpMozfy3ysVnERSRa+3rEb49ya/qYgZlszb3hR4WaOjdBnYq7IpsjznTiTqhvRA5pNmdIDi86dcId+89m8m0YxjFcPIp0fr6NUjOEfxYYfyXnYtkTAmXOiIrdXEy70UlLusniuuqx6IhOtYMSJjIuR9U3BChEDF9s9gQI7lBXvHlI1EEiZhAi8tP20xSDeJBBDEKMVwFA9Ty4DX3S5yd/kHjVFwQR5PcxJQUhDMz3wcsYU63KBgFLvFz9VGrLx8VFWyAoGaX8L6H7Yo5LGmgBiufzdAtuh+MpZt9VgHscCWp8rOqqzWMJQ3JkPQ17wB9/NanZ+npbAwZNd9KUF30Fcqj4+T6k9YRTJAakw=;F4ip1yNfYKBeO34k138j0w=="
 ---

@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Tech firms sign effort to fight artificial intelligence's poll interference"
-    excerpt: "Signatories of the tech accord, which was announced at the Munich Security Conference, include companies that are building generative AI models used to create content, including OpenAI"
-    publishedDateTime: 2024-02-18T16:15:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
+  - title: "Fintech Monite Announces Additional Funding to Support US Expansion Efforts"
+    excerpt: "Monite's seed funding has reached $16M in order to support US expansion efforts. The company has been working to enhance financial services."
+    publishedDateTime: 2024-02-20T13:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221689-fintech-monite-announces-additional-funding-to-support-us-expansion-efforts/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221689-fintech-monite-announces-additional-funding-to-support-us-expansion-efforts/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221689-fintech-monite-announces-additional-funding-to-support-us-expansion-efforts/amp/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 35
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 42
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/05/US-Dollars-Money-Grant.jpg"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "67y/OGj8RAhkGQbL0u2IB6PL0V5cZ/oTuwjY7SfreCpTjXemq8outWwrKtP1M5eSpF3eykFX6QmDKVGRToL5GZ5wgYbGdwdimmGYloz8QwtS9sABb6IouwHXXG2eM0Ico53dkm7KFRqoasC1L6SJGQAFh0+6yHSurkpQGuGUl0Ol2K33IBf39hArSZtGAh6yf8UVMM9DjZ5z2+ytelu3uywE8KqWoRmLlUgwlUfgEXVwqYxAgBks6Y/tSPElBNMfV/JkEAfiPsZdtIRiqrZ0q7E8LxLLS9Ou40n4yS/9JNOZ6GEyowBzr3MvRXMrDUHYl0GYwHhI3EkVJzVWb8eB30+zNeE/ES9hXqLEfwsykFI=;XoFgj/IBVbboSMkvdQxxWA=="
 ---

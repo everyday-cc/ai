@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-01-18-galaxy-ai-3-samsung-galaxy-s24-features-for-monolingual-travelers.md",
-      "title": "Galaxy AI: 3 Samsung Galaxy S24 features for monolingual travelers",
-      "excerpt": "Galaxy AI frees you from needing a third-party app to communicate with others who don't speak your language. Translations and transcriptions happen right on the device, the new Galaxy S24 series to be precise, so you can enjoy a native experience without cluttering your home screen with various apps.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
-      "originalUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/04lR797zwN3HWWHcL9znOEh/hero-image.fill.size_1200x675.v1705518088.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T19:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-18-fowl-language-ai-is-learning-to-analyze-chicken-communications-to-help-us-understand-what-all-the-cluckings-about.md",
       "title": "Fowl language: AI is learning to analyze chicken communications to help us understand what all the clucking’s about",
       "excerpt": "This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the",
@@ -1350,6 +1307,58 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-24-business-tech-news-roundup-10-windows-11-ai-features-you-can-use-today.md",
+      "title": "Business Tech News Roundup: 10 Windows 11 AI Features You Can Use Today",
+      "excerpt": "For their most recent campaign, Thomas explained how they hired one actor and used AI to reproduce the actor’s voice (and translate the script) into several different languages for each market. “We can now make the character say different things very ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/12/24/business-tech-news-roundup-10-windows-11-ai-features-you-can-use-today/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/12/24/business-tech-news-roundup-10-windows-11-ai-features-you-can-use-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6585adcd849dbdf5b0cf2ad8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/12/24/business-tech-news-roundup-10-windows-11-ai-features-you-can-use-today/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/12/24/business-tech-news-roundup-10-windows-11-ai-features-you-can-use-today/amp/",
+      "publishedDateTime": "2023-12-24T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],
