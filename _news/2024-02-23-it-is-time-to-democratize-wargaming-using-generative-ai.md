@@ -24,17 +24,6 @@ images:
     height: 2340
     isCached: true
 
-related:
-  - title: "Using artificial intelligence to improve administrative process in Medicaid"
-    excerpt: "Abstract Administrative burden across state–federal benefits programs is unsustainable, and artificial intelligence (AI) and associated technologies have emerged and resulted in significant interest as possible solutions."
-    publishedDateTime: 2024-02-20T18:23:00Z
-    webUrl: "https://www.aei.org/research-products/report/using-artificial-intelligence-to-improve-administrative-process-in-medicaid/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 30
-
 secured: "eAUEB8i2ZjtwEuGBxJkiZ+0/vqyyNm30lp4jDV6AOvwtp53ojy2lGcYK1T6WvChV0H71S8VcaM0NazZKBkgEp6DL5VyFIPx87QbLMmf1tWOT3PWY6U3ZYgotfeKHFsModsr791mpszKRL14EmL01Yxdvrojl4Hxk1w7Eb8k2tvwDgnevl0b/8iQj1x/mu6LI0I0PEfkHGeNZC4OGhEUXOVgy6TyLdo9hZZl7lNJznrxrLNxl6nGyJT+akv4Yzp2dO4AWTmXN0To7GcVqreUTUjHSDv2Csg7EceYBI/isDWyChPKcdNzWQz22Y4UHu1ep4BcKA/hknRYIKHYh9StzfIWnF1YJNtZCgyxbcj6iML5u75w+Qe0qJIeHmuMSQFS4t8vZXyJK81uM5I76ranhIVoQlv/2Z9Fx6yz5pq3K2Ma/bNvUPKwiq8sjpLsV14i2tj9gO3krhwPCAHQMVrMk4RF1jJCbzUr3iVCZElj8VMeNbbAgrSiJeTm8RNaL7R8jJBT1iFWdmm9Bv2VZC9DrMg==;txMde2/Hke1Y1De4n6YTyA=="
 ---
 

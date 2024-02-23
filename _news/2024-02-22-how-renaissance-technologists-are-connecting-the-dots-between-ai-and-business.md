@@ -71,20 +71,6 @@ related:
         width: 1024
         height: 642
         isCached: true
-  - title: "These Are the Jobs That AI Is Actually Replacing in 2024"
-    excerpt: "The Impact of Technology on the Workplace study from Tech.co found which jobs and tasks were most at risk for AI replacement."
-    publishedDateTime: 2024-02-18T12:00:00Z
-    webUrl: "https://tech.co/news/ai-replacing-jobs"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/02/15110645/ai-jobs-1.jpg"
-        width: 1920
-        height: 960
-        isCached: true
 
 secured: "Dww4JMQEe8d5++7O3Up+NAN+/uGX04EAhf8XEcW0zcEkTk66qEw9fgpcvu18aLF73192yQ4TXtPu5v1HeOz4PHjEfKXquRWxaNXcV7eQzHee9kyXXTl9mrC6AbxL5WXbJuh6yk3FS4H6iICFT7cOYheMJQ6su07mCiEPu9D+gxi8dGfgqebqJ6VZUwuSbwiIEDTGoDaQgqJidt08kExBLBqZvoffWywJwKW6i60G/zYilFDscqzgQj0NpeHc3POzLV3dmV2DUIRVZojCfOtDMAj9GhiB0mxJXbMtBeWoqNoplxqIcilMwD6RDdQGeaMGOwzILlQM5jD3D9nW+b64AzZGPwtVwkwO/KSGEF+Kmv9WBMSOoc9LLuoN/4ZXSY9VxsYy5mcdLw5AB5vRoEZEhTyYLigWxQXFbi92wjN1uMPJjU+Z+3Pkx4sd1fpAGApZO1thXhnYQLbYxvgmFODbyeOj63xYAubClBqPx1C6X7SH0iU3rAcaMMUO6ugS1nVSEi7wCMXlAT7XwkYkhry7Lg==;Rzb6Kjj/Mf8kbdVYH3w/jA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/european-chip-stocks-surge-aft
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31"
 type: article
 quality: 114
-heat: 514
+heat: 524
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Lists Huawei as an AI Chip-Making Rival for the First Time"
+    excerpt: "based Nvidia used to be a major supplier of chips for Chinese companies, but the situation changed after Huawei was added to a U.S. trade sanction list in 2019. Nvidia's finance chief said on a call with analysts this week that sales of AI chips to China ..."
+    publishedDateTime: 2024-02-23T11:58:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 104
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nokia, Nvidia collaborate on AI for mobile networks"
     excerpt: "Nokia will also use Nvidia chips for AI applications and RAN acceleration, which will pave the way for “AI-RAN.” The idea is to remove complexity and provide flexibility, to allow customers to get their Cloud RAN services up and running much faster."
     publishedDateTime: 2024-02-21T12:44:00Z

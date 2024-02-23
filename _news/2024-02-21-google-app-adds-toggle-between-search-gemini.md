@@ -246,6 +246,17 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "Google’s AI Chatbot Gemini Faces IT Ministry’s Ire Over Responses On PM Modi"
+    excerpt: "The Rule 3(1)(b) of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules ... came days after Chandrasekhar said that draft laws to regulate the AI space would be brought out by June or July this year."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://inc42.com/buzz/googles-ai-chatbot-gemini-faces-it-ministrys-ire-over-responses-on-pm-modi/"
+    ampWebUrl: "https://inc42.com/buzz/googles-ai-chatbot-gemini-faces-it-ministrys-ire-over-responses-on-pm-modi/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/googles-ai-chatbot-gemini-faces-it-ministrys-ire-over-responses-on-pm-modi/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 36
   - title: "Google apologizes after new Gemini AI refuses to show achievements of White people"
     excerpt: "Gemini, once known as Google Bard, is part of the emerging fleet of multimodal large language models (LLMs) offered to the public. These advanced algorithms tailor responses based on language, tone, and training data, thus possessing the ability to produce ..."
     publishedDateTime: 2024-02-22T00:04:00Z

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia Lists Huawei as an AI Chip-Making Rival for the First Time"
+    excerpt: "based Nvidia used to be a major supplier of chips for Chinese companies, but the situation changed after Huawei was added to a U.S. trade sanction list in 2019. Nvidia's finance chief said on a call with analysts this week that sales of AI chips to China ..."
+    publishedDateTime: 2024-02-23T11:58:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 104
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia: Artificial intelligence at 'tipping point' boss says"
     excerpt: "The boss of the world's most valuable chip maker Nvidia says artificial intelligence (AI) is at a \"tipping point\" as it announced record sales. Chief executive Jensen Huang's comments came as the technology giant posted record figures for the most recent quarter, after revenues surged by 265% to $22bn (£17.4bn) from a year earlier."
     publishedDateTime: 2024-02-22T01:37:00Z

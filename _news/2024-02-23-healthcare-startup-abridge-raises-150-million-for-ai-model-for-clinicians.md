@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Healthcare startup Abridge raises $150 million for AI model for clinicians"
-excerpt: "(Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications."
-publishedDateTime: 2024-02-23T00:01:00Z
-originalUrl: "https://www.business-reporter.co.uk/news/news/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians-9985"
-webUrl: "https://www.business-reporter.co.uk/news/news/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians-9985"
+excerpt: "Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications."
+publishedDateTime: 2024-02-23T10:57:00Z
+originalUrl: "https://www.business-reporter.co.uk/news/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians-9985"
+webUrl: "https://www.business-reporter.co.uk/news/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians-9985"
 type: article
 quality: 52
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: business-reporter.co.uk
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/041/1200_800031JAN24_12.png"
@@ -60,6 +60,6 @@ related:
       domain: betakit.com
     quality: 11
 
-secured: "BxNIxjnXyW40P86l5D4S/KUh/DC5IPK1RAjfbg7sJWwKIajHNwViRPlezS1YoGGshMZnVbDkyBN2Aq5jvsgrvZKGK/d+h4UXcsozPKWK+QmiiPxaloc3Tbih1taFaA87J4eJVnRcYNs1OoDfju7yt1Cq+lULstvgLhHxqrle7FyYmLIr8LTObllceSCXXJacjO4xJ/6GEXk1msZ4xqmGF0FoanJfV3Ob30GADgyG066sbdXfRbu8PfG6IUcswg4IZn+o/3XVIInYXwBZOsXwBS4W+BdVjgXnoaMdnEY0rgFAMK6xYyqO3CqpSu8JGl9oUwckzCHsx734wxM4TclNotFD0ouDEAyCmYqrvdtOnRc=;g7ixWPwnUjJjgeorYE9gdQ=="
+secured: "g6IcZG7X38g34EW6DAb2IFbjvbFZCT/qNzrKZYIc28RS0Bgwtu9ruBE0uSMefhzA54f0RIYV9BYYdDSJKMT74cOZCMfEyzysTJOFCQ7LBooLANxAPCXYEK7A2r9VnHk/tdOdBGlM3gz7fvXL+DWtslLpPW3gBi6aor2AJ6cHQnvNPgJtRVn5PjfT/kFnMaLLcxiBw19WE3djo3O2wyQr/XRMRslktGWcpanQn7nedY45jYZjAHCMgmkPXbBTzM4qygrlasJ2CssLqsp4788shjT6vKPGjob40syqYp3KX9FN/+3g8Y+P9H1BlsaXnp7dyTNBoliFGiKBr/mihULHjkK4LpNz5oa7fFtVXKDobXU=;wQDFIEXff1mFPf+jWe9PEQ=="
 ---
 

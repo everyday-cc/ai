@@ -94,15 +94,6 @@ related:
         height: 580
         isCached: true
   - title: "3 Under-the-Radar Fintech Stocks Ready to Make a Move"
-    excerpt: "The word \"in\". A play button in the shape of a television screen. A stylized camera. InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks continue to lead the way with groundbreaking innovations in payments and customer services."
-    publishedDateTime: 2024-02-18T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-under-the-radar-fintech-stocks-ready-to-make-a-move-1033078326"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "3 Under-the-Radar Fintech Stocks Ready to Make a Move"
     excerpt: "The post 3 Under-the-Radar Fintech Stocks Ready to Make a Move appeared first on InvestorPlace."
     publishedDateTime: 2024-02-18T18:00:00Z
     webUrl: "https://www.nasdaq.com/articles/3-under-the-radar-fintech-stocks-ready-to-make-a-move"

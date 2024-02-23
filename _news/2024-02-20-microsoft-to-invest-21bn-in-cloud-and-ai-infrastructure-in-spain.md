@@ -113,6 +113,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft to Use Intel for In-House Custom AI Chip"
+    excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
+    publishedDateTime: 2024-02-21T17:21:00Z
+    webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 71
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/intel-soc.jpg"
+        width: 1066
+        height: 600
+        isCached: true
   - title: "AWS Storage VP leaves for Microsoft Azure"
     excerpt: "Amazon Web Services Vice President of AWS Infrastructure Hardware Ahmed Shihab has left the company to go to cloud computing rival Microsoft Azure. Shihab was responsible for the innovation, building and operation of all of AWS’ storage and compute systems,"
     publishedDateTime: 2024-02-23T05:15:00Z
@@ -126,6 +140,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/media_124c2ecccde6f6fc4487d1334de898b149887fec2.png"
         width: 500
         height: 375
+        isCached: true
+  - title: "Gemini AI turns up in Chrome browser to help you write, as Google plays catch-up with Microsoft Edge"
+    excerpt: "The AI will help you craft any written content in Chrome. So, for example, if you’re creating a sales listing for a GPU so you can upgrade to a better model, it can knock up something and automatically pull over extra details that might be useful such as ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.techradar.com/computing/chrome/gemini-ai-turns-up-in-chrome-browser-to-help-you-write-as-google-plays-catch-up-with-microsoft-edge"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 71
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/x6LMvCvfaP44cXGUjWmq3V-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft and iCreate launch iMPEL-AI program to catalyze AI startups in India"
     excerpt: "Microsoft and iCreate, in the presence of Minister Chandrasekhar launched iMPEL-AI (iCreate-Microsoft programme for Emerging Leaders in Artificial Intelligence) programme."
@@ -284,15 +312,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 51
-  - title: "Microsoft to Use Intel for In-House Custom AI Chip"
-    excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
-    publishedDateTime: 2024-02-21T17:21:00Z
-    webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
     quality: 51
   - title: "ICreate, Microsoft, MeitY Launch Impel-AI Programme to Empower India Innovators"
     excerpt: "Microsoft India, iCreate, and the Ministry of Electronics and Information Technology have announced the launch of a joint artificial intelligence innovation programme."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverles
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html/amp"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:

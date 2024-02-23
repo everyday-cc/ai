@@ -29,14 +29,14 @@ related:
   - title: "Elon Musk Claims Neuralink's First Human Patient Can Control Cursor With Thoughts"
     excerpt: "Neuralink's first human test subject has made a 'full recovery' and can telepathically move a cursor around a screen, says founder Elon Musk."
     publishedDateTime: 2024-02-20T14:58:00Z
-    webUrl: "https://uk.pcmag.com/health-fitness/150963/elon-musk-claims-neuralinks-first-human-patient-can-control-cursor-with-thoughts"
+    webUrl: "https://au.pcmag.com/health-fitness/103920/elon-musk-claims-neuralinks-first-human-patient-can-control-cursor-with-thoughts"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 64
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/e/elon-musk-/elon-musk-claims-neuralinks-first-human-patient-can-control_dzhh.1200.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/e/elon-musk-/elon-musk-claims-neuralinks-first-human-patient-can-control_4whx.1200.jpg"
         width: 1200
         height: 675
         isCached: true

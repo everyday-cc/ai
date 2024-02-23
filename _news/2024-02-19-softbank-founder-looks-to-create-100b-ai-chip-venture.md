@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Project Izanagi: Masayoshi Son plans $100bn AI chip venture"
-    excerpt: "SoftBank founder Masayoshi Son hopes to raise $100 billion so that he can build an AI chip venture that can compete with Nvidia. Bloomberg reports that project 'Izanagi' could see $30bn invested by SoftBank, and $70bn put in by Middle Eastern investors."
-    publishedDateTime: 2024-02-18T12:32:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/project-izanagi-masayoshi-son-plans-100bn-ai-chip-venture/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/GettyImages-901847120_1.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Softbank to put $100bn into AI chips"
     excerpt: "SoftBank is to put $100 billion into a project calked Izanagi to make AI chips designed by Arm. The plan is for SoftBank to put $30 billion of its own"
     publishedDateTime: 2024-02-19T06:29:00Z

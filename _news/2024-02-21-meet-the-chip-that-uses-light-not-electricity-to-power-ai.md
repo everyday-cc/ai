@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/"
 webUrl: "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s Chess Experiments Reveal How to Boost the Power of AI"
-    excerpt: "By rewarding computers that combined different approaches to solve chess puzzles, Google created an enhanced AI that could defeat its existing champion, AlphaZero."
-    publishedDateTime: 2024-02-18T13:00:00Z
-    webUrl: "https://www.wired.com/story/google-artificial-intelligence-chess/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/65cf8b0dbdfe2a615c153428/191:100/w_1280,c_limit/Quanta-CreativeChess-byNashWeerasekera-Lede-scaled.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "New chip opens door to AI computing at light speed"
     excerpt: "Engineers have developed a new chip that uses light waves, rather than electricity, to perform the complex math essential to training AI. The chip has the potential to radically accelerate the processing speed of computers while also reducing their energy consumption."
     publishedDateTime: 2024-02-21T00:02:00Z

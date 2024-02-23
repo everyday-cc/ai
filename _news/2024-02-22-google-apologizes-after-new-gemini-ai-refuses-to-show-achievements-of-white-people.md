@@ -246,6 +246,17 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "Google’s AI Chatbot Gemini Faces IT Ministry’s Ire Over Responses On PM Modi"
+    excerpt: "The Rule 3(1)(b) of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules ... came days after Chandrasekhar said that draft laws to regulate the AI space would be brought out by June or July this year."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://inc42.com/buzz/googles-ai-chatbot-gemini-faces-it-ministrys-ire-over-responses-on-pm-modi/"
+    ampWebUrl: "https://inc42.com/buzz/googles-ai-chatbot-gemini-faces-it-ministrys-ire-over-responses-on-pm-modi/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/googles-ai-chatbot-gemini-faces-it-ministrys-ire-over-responses-on-pm-modi/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 36
   - title: "Duet AI is now Google Gemini, ready to help in Gmail, Docs, and other Workspace apps"
     excerpt: "Continue to check back with us as we will be adding more information as it becomes available. Google Bard is now Google Gemini. Google Assistant is in the process of being replaced by Google Gemini. If you're in the Google ecosystem, it seems there's no ..."
     publishedDateTime: 2024-02-21T00:00:00Z

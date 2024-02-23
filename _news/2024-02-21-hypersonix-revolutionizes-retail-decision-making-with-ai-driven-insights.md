@@ -18,20 +18,68 @@ topics:
   - AI
 
 related:
-  - title: "AI to Track Hypersonic Missiles"
-    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/02/ai-to-track-hypersonic-missiles.html"
+  - title: "Revolutionizing Business Decision-Making: The Impact Of Generative AI On Predictive Analytics"
+    excerpt: "When approached strategically, generative AI can help empower employees across functions and domains to leverage the insights provided by predictive analytics."
+    publishedDateTime: 2024-02-23T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/amp/"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-21-at-9.48.23-AM.jpg"
-        width: 1224
-        height: 672
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61a4de65ba77a906d470c192/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
         isCached: true
+  - title: "Dive into the future of cloud analytics with the Fabric Career Hub"
+    excerpt: "As part of our Fabric Community Hub—a virtual hangout for Fabric users to connect with community members, ask questions, and learn—we’ve developed the Fabric Career Hub. It’s your all-in-one repository for Fabric know-how, featuring every learning resource we have to help you ditch the data silos, streamline"
+    publishedDateTime: 2024-02-20T16:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/02/20/dive-into-the-future-of-cloud-analytics-with-the-fabric-career-hub/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-fabric/blog/wp-content/uploads/2024/02/Picture1-for-Lanna-Fabric.jpg"
+        width: 1419
+        height: 946
+        isCached: true
+  - title: "Using artificial intelligence to improve administrative process in Medicaid"
+    excerpt: "Abstract Administrative burden across state–federal benefits programs is unsustainable, and artificial intelligence (AI) and associated technologies have emerged and resulted in significant interest as possible solutions."
+    publishedDateTime: 2024-02-20T18:23:00Z
+    webUrl: "https://www.aei.org/research-products/report/using-artificial-intelligence-to-improve-administrative-process-in-medicaid/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 30
+  - title: "Clara Analytics receives funding boost from Nationwide"
+    excerpt: "CLARA Analytics and Nationwide are deepening their current partnership."
+    publishedDateTime: 2024-02-22T09:44:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99743/clara-analytics-receives-funding-boost-from-nationwide"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "The Impact of Gen AI on Job Roles and Skilling"
+    excerpt: "Explore the impact of Generative AI on job roles and skilling, as discussed by Khushal Bakshi, Director of Talent Acquisition at Ascendion. Learn about the evolving job landscape driven by AI and machine learning."
+    publishedDateTime: 2024-02-20T13:15:00Z
+    webUrl: "https://www.dqindia.com/business-technologies/the-impact-of-gen-ai-on-job-roles-and-skilling-3867757"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
 
 secured: "7LPq5AfDM+zCMIITb6T4SSLn4RdT94182DsYlX2VUVHi13aybDExR3OPRYwdG1/WQe+AFNkGgPudC4uGxCNqNJ52QDKAnKZsfJMCvG0deMwC/OwOiMr73YcGpabw/0oCX/qY7tkvb55W+0TjmpBRnHTENvk+pzCUNFrIsx2bikgLZkN+2WLdmPR41SrXAHwFygPkIxdVel8m81eFabi1pELHNjA8txek5ggPbF3WIbRcIyK1hcRvzFBGAA+p1ZeMWcSGeP8pDJMd/jflhK0RHokVO26C3zTOxfyg6UCxt2vixJMKAYadtdbRJrFEqbmYdt1ph0cpbVrFYkA03TTxHROuO48ryVEfrFIdxz37OMCB0Bh6+LFE7VWeX3MBJzl3pNNNasw/jfA3XieU4rq/iJbIqBKYv5MitHMU0LEY6iVYoHi9liI+gxiBV4q4IJvNfcX9/CfA3jLWLl5yseh7cppMNAdrEsgYFusD5yA+95ibzSkFvD7pmx2ditcmmlXJwWOmEz21HrVB4133tsldQA==;6OgDM+42koQyY5PfzYCmMg=="
 ---

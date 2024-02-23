@@ -34,15 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Nvidia Just Bought This Under-the-Radar Artificial Intelligence (AI) Stock. Should You Buy It, Too?"
-    excerpt: "According to Nvidia 's 13F filing for the fourth quarter of 2023, it purchased 1,730,883 shares in SoundHound AI. It doesn't specify what price Nvidia paid, but the position is worth $6.5 million at SoundHound's current stock price of $3.76."
-    publishedDateTime: 2024-02-18T15:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-just-bought-this-under-the-radar-artificial-intelligence-ai-stock.-should-you-buy"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 48
 
 secured: "qXn8AoDYr4NqFvAMadFeiFGE4X5F8f0ujjrjtiV8V8CcnCFtzv2xc8eFB6kcQ98i4SJ8W95fvyC0vMPK31UX1uPvvw/2lroqhd1Ke8OD3yWLQdA5ASq9QQb7uQpb3EvXQ+Ik4c6TuxFa+9F7w8YLdHAkSVPZWRkEPALp83T1/I/6WM4xvnzZtU+S8b26o96YLfDgITZieOvRjHwOkXFbIS2ncglqvdXAvMOWsCEc1jSzHSLOrYXbSbjNK6ZiASZ6NojzvclEqxLOu9UTY/zs7WrbqOQOe8XKbtEcCXWg8myYs0fuDp+n4V6jbzZB8NDE0KGhRo+6EE3L4gJ6a0CX/t0inCO4hpFSEgaDMTALM/E=;S30WpfKw9crZZXN4tZjLgw=="
 ---

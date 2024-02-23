@@ -7,8 +7,8 @@ originalUrl: "https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/02/20/d
 webUrl: "https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/02/20/dive-into-the-future-of-cloud-analytics-with-the-fabric-career-hub/"
 type: article
 quality: 72
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -28,34 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "Exasol Unveils New Suite of AI Tools to Turbocharge Enterprise Data Analytics"
-    excerpt: "Exasol today announced Espresso AI at TDWI Transform 2024 with the launch of three new artificial intelligence (AI)"
-    publishedDateTime: 2024-02-21T22:37:00Z
-    webUrl: "https://www.datanami.com/this-just-in/exasol-unveils-new-suite-of-ai-tools-to-turbocharge-enterprise-data-analytics/"
+  - title: "Revolutionizing Business Decision-Making: The Impact Of Generative AI On Predictive Analytics"
+    excerpt: "When approached strategically, generative AI can help empower employees across functions and domains to leverage the insights provided by predictive analytics."
+    publishedDateTime: 2024-02-23T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/amp/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 40
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-        width: 2560
-        height: 1336
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61a4de65ba77a906d470c192/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
         isCached: true
-  - title: "Exploring Key Trends in Big Data Analytics: Essential Insights for You"
-    excerpt: "In the dynamic landscape of big data analytics, remaining ahead of the curve holds paramount importance. From the integration of machine learning to the advent of real-time data processing, numerous trends are reshaping the methodologies we employ to analyze and interpret data in contemporary times."
-    publishedDateTime: 2024-02-22T07:00:00Z
-    webUrl: "https://techbullion.com/exploring-key-trends-in-big-data-analytics-essential-insights-for-you/"
+  - title: "Using artificial intelligence to improve administrative process in Medicaid"
+    excerpt: "Abstract Administrative burden across state–federal benefits programs is unsustainable, and artificial intelligence (AI) and associated technologies have emerged and resulted in significant interest as possible solutions."
+    publishedDateTime: 2024-02-20T18:23:00Z
+    webUrl: "https://www.aei.org/research-products/report/using-artificial-intelligence-to-improve-administrative-process-in-medicaid/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 26
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/Big-Data-Analytics.jpg"
-        width: 1000
-        height: 500
-        isCached: true
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 30
   - title: "Clara Analytics receives funding boost from Nationwide"
     excerpt: "CLARA Analytics and Nationwide are deepening their current partnership."
     publishedDateTime: 2024-02-22T09:44:00Z
@@ -70,43 +67,24 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Nationwide Ventures deepens partnership with CLARA Analytics through investment"
-    excerpt: "Nationwide Ventures, the investment arm of the renowned insurance and financial services company, has made a significant investment in CLARA, further"
-    publishedDateTime: 2024-02-22T06:00:00Z
-    webUrl: "https://www.reinsurancene.ws/nationwide-ventures-deepens-partnership-with-clara-analytics-through-investment/"
+  - title: "The Impact of Gen AI on Job Roles and Skilling"
+    excerpt: "Explore the impact of Generative AI on job roles and skilling, as discussed by Khushal Bakshi, Director of Talent Acquisition at Ascendion. Learn about the evolving job landscape driven by AI and machine learning."
+    publishedDateTime: 2024-02-20T13:15:00Z
+    webUrl: "https://www.dqindia.com/business-technologies/the-impact-of-gen-ai-on-job-roles-and-skilling-3867757"
     type: article
     provider:
-      name: reinsurancene
-      domain: reinsurancene.ws
-    quality: 20
-    images:
-      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2021/07/clara-analytics-logo.png"
-        width: 740
-        height: 350
-        isCached: true
-  - title: "Exasol Unveils New Suite of AI Tools to Turbocharge Enterprise Data Analytics"
-    excerpt: "Espresso AI makes AI more affordable and accessible, enabling customers to leapfrog expensive, time-consuming experimentation and achieve immediate ROILAS"
-    publishedDateTime: 2024-02-21T10:27:00Z
-    webUrl: "https://www.01net.it/exasol-unveils-new-suite-of-ai-tools-to-turbocharge-enterprise-data-analytics-2/"
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
+  - title: "Hypersonix Revolutionizes Retail Decision-Making with AI-Driven Insights"
+    excerpt: "Hypersonix is a pioneer in the field of AI-driven analytics dedicated to empowering eCommerce and retail businesses."
+    publishedDateTime: 2024-02-20T19:31:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/02/20/hypersonix-revolutionizes-retail-decision-making-with-ai-driven-insights/72674306007/"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: USA Today
+      domain: usatoday.com
     quality: 16
-  - title: "Ontotext Enhances the Performance of LLMs and Downstream Analytics with Latest Version of Ontotext Metadata Studio"
-    excerpt: "This latest release provides out-of-the-box, rapid natural language processing (NLP) prototyping and development so organizations can iteratively create a text analytics service that best serves their domain knowledge. As part of Ontotext’s AI-in-Action ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ontotext-enhances-the-performance-of-llms-and-downstream-analytics-with-latest-version-of-ontotext-metadata-studio/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 2
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-        width: 2560
-        height: 1336
-        isCached: true
 
 secured: "mU7wzQ+K4HW6mUJo3tIOTlIF2YNFIG/Aj+K+K9bT0BylGTXBRwUZwlB4HtVfuuJIE83TIJzqd6/rw4LYU1UuQE8MY80UiU6HJa4B3J5V8g641pOgROZmE0kDH0RErDrF+3sJDPyrhWynteB9LDBkX1WX6OvzUd9iuMuf6wwt28p6IAgs9w8DeFj13rPzg3qHevLwGFRyozhBiB566MjAVQix5atNJ0KxYAp2aV6b/gmVfgqlGjyqJ3M2xBLANmBV2D2v48Zs6AO/DvzfErMt2LFoUq8+vRJHr182G0L/7/SZJo4BMjslIzrlT5glvz5QYrL36tqevcEddcF9XTLn3QvN7c35euzR5okoAppjNPA=;Q19McWIoFf+PCvBOagA+SA=="
 ---

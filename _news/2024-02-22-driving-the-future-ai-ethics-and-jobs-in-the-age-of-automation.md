@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/driving-the-future
 webUrl: "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006"
 type: article
 quality: 86
-heat: 116
+heat: 118
 published: true
 
 provider:

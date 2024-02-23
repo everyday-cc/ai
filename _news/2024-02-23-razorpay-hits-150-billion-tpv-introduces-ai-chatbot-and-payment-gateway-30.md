@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Razorpay Launches AI Chatbot RAY, Marketing Suite Engage To Expand Offerings"
+    excerpt: "The fintech major also launched two new AI-based products – Razorpay FraudShield and AI-Powered RTO (Return To Origin) Suite. The products are designed to reduce chargebacks and safeguard businesses from potential frauds and RTOs. Razorpay also launched ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://inc42.com/buzz/razorpay-launches-ai-chatbot-ray-marketing-suite-engage-to-expand-offerings/"
+    ampWebUrl: "https://inc42.com/buzz/razorpay-launches-ai-chatbot-ray-marketing-suite-engage-to-expand-offerings/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/razorpay-launches-ai-chatbot-ray-marketing-suite-engage-to-expand-offerings/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 53
 
 secured: "7m8WAmJDHp81YSXzjs5xgKQzv4gBaFabVwE13kKlE/Xw8MboDvDSEgeNSLaeGzTVQhQQ3JDbaaQaOLQI9QvKLN0HxrWUD8JhblDs7uUmTNxfLZG5hWb2hePnabLLaXKon3dwQaDzAYizipKrxlzBq4dwnW73BfT2MwP+RugeV2P059r6bOcoNPXevGAFlBRebfQf64voIvYGfIxH5bljDSdji0okSlba7mEbp3ye1cYIgeETqBTkRZX6zgTyQlDcs+KZK/N64VHkrUW3WqPE0V9iKnU5A/amcxDM2nAEKzYcqxMip+HZ8q0VOBSJPGJe4R/BUXY1AtGhInCDSTqB6vZ3moGtVbHOP49DA9Ff79w=;v9oFnVR0jiKSxFs0pAz8Ug=="
 ---

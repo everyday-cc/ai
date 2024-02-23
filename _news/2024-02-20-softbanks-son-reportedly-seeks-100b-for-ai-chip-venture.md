@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-
 cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2021/02/chip.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Project Izanagi: Masayoshi Son plans $100bn AI chip venture"
-    excerpt: "SoftBank founder Masayoshi Son hopes to raise $100 billion so that he can build an AI chip venture that can compete with Nvidia. Bloomberg reports that project 'Izanagi' could see $30bn invested by SoftBank, and $70bn put in by Middle Eastern investors."
-    publishedDateTime: 2024-02-18T12:32:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/project-izanagi-masayoshi-son-plans-100bn-ai-chip-venture/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/GettyImages-901847120_1.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "SoftBank founder looks to create $100B AI chip venture"
     excerpt: "Masayoshi Son, founder and CEO of SoftBank Group (pictured), laid out broad plans to create a $100 billion AI chip-manufacturing venture to complement its design unit Arm by attracting funds from investors in the Middle East, Bloomberg reported."

@@ -67,20 +67,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
-  - title: "These Are the Jobs That AI Is Actually Replacing in 2024"
-    excerpt: "The Impact of Technology on the Workplace study from Tech.co found which jobs and tasks were most at risk for AI replacement."
-    publishedDateTime: 2024-02-18T12:00:00Z
-    webUrl: "https://tech.co/news/ai-replacing-jobs"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/02/15110645/ai-jobs-1.jpg"
-        width: 1920
-        height: 960
-        isCached: true
 
 secured: "oFfjjUd4DeRJc6hRSZw37yzIRsByQeL7nO4z18KpVrR1GCVoWTn/JB/OPE2PD17NKSMdXCR8J8NDnJSEv35LmeZX7Gkrr1GzaVsFZWNR5WrHrV3bHG/hSZHNwd1k1xkYu8JMqvkEziMnWJzMNTKeQ3CYA0A6qIG7toWusPidF6A0zIu1rAcdBQ2A564iF++pN9UfnEXlWaUHcmtr0BMOxIpVYSyKgJbB++1fooeUKffwqZ8EPYD12eUmS98Vun+i7B+X0NL4EqPBe8PueViz08erD3EFy54n9gxl75zkyTN9KruSoSEYyiwWI9TUVITTtKHRhGbB+7HuYIc0FKStQ/SbncanlSxYhXNiTVdysq8=;3P19ZlqLzzVskEl3ETYAQQ=="
 ---

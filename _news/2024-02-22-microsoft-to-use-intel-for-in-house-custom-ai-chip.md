@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-21T17:21:00Z
 originalUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
 webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
 type: article
-quality: 51
+quality: 71
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/intel-soc.jpg"
+    width: 1066
+    height: 600
+    isCached: true
 
 related:
   - title: "Explore cutting-edge AI solutions with Microsoft at NVIDIA GTC"
@@ -121,6 +127,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/media_124c2ecccde6f6fc4487d1334de898b149887fec2.png"
         width: 500
         height: 375
+        isCached: true
+  - title: "Gemini AI turns up in Chrome browser to help you write, as Google plays catch-up with Microsoft Edge"
+    excerpt: "The AI will help you craft any written content in Chrome. So, for example, if you’re creating a sales listing for a GPU so you can upgrade to a better model, it can knock up something and automatically pull over extra details that might be useful such as ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.techradar.com/computing/chrome/gemini-ai-turns-up-in-chrome-browser-to-help-you-write-as-google-plays-catch-up-with-microsoft-edge"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 71
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/x6LMvCvfaP44cXGUjWmq3V-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft and iCreate launch iMPEL-AI program to catalyze AI startups in India"
     excerpt: "Microsoft and iCreate, in the presence of Minister Chandrasekhar launched iMPEL-AI (iCreate-Microsoft programme for Emerging Leaders in Artificial Intelligence) programme."
@@ -461,6 +481,6 @@ related:
       domain: geeky-gadgets.com
     quality: 19
 
-secured: "T9yq2QtkTBZPBjSU31iHbXfPUvLlbSG9CWpX/OZINMk8MWHH96qN6eV30br6SqXw0QamOIJ2qHBwOY7dwvaGH8fvUQ1D09yRPvFvJtKQosgkC8raZ7F4DTYcA2L6wRNT7ofFOM1soJ47lR82nGwSsYbaqFfGC0FDavIpRsUxUywNL+UlvPk4BUGbzCnChmQnJ+ufQcdXdJA9sVH7Ghs7gCOakwIihqoYRlZ9JChhv6RMS4Lhp/zlGl0bBpU+gBwTVUJR6rp3fwwM7oorVkZBHyahiK7+sISVhMHjaJKPjkgJuTtp30hHL6HNYLE2rXRwqCiLxvh4LQIzR3pdbSfvMpIpliaFrzIpwHzPNvsPkss=;aAiS6gJ/CU8x/oDbHRIkmA=="
+secured: "HknIX13q9aeDxwG3PhAqXCaO5kO84LAymj4AdzPWhOXT4yiwabdVYPgnPnc6teK4ERlERQx7++8oCe+89e70RvNr6i1N/5UCZp4pEyiX8WjnbCmZrSj6aOngtIBkpKGvcKtvJIscCPZ5OcPOhor08zWiqo5wOPBIrnzPBQnPrI2uFdW5gpQ+CwLCkxBeN+UeCpAp2Kc57UI/FrQurcUO0azUOPpuBbWZD7vNLmtq+Y/ES7RD5ovEU2Fq6m5NJhV/HXs4Z8cHjTLvhdxd+kdCgEgidfjvKnjAcpZ0ElDJmmQ3QOAqOBEXn1y40cdKdJP38whJkDAg2XxGoT/uoU4wvFY0bXbJfoYLPjL5Xx6YKfU=;Lnl/LY4VyZ8uRtxCRigY3A=="
 ---
 

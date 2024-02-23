@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-p
 cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
-  - title: "These Are the Jobs That AI Is Actually Replacing in 2024"
-    excerpt: "The Impact of Technology on the Workplace study from Tech.co found which jobs and tasks were most at risk for AI replacement."
-    publishedDateTime: 2024-02-18T12:00:00Z
-    webUrl: "https://tech.co/news/ai-replacing-jobs"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/02/15110645/ai-jobs-1.jpg"
-        width: 1920
-        height: 960
-        isCached: true
 
 secured: "uRIa+bB+ibDfpeHKizejF4NKCfUSXKIbW8+tcBtF26s+7FIul3/7W8xDJy3feSHrpxFmMys+HTZQ8oiQuBqcFiOxseVs0+2GuirhY2JYsrgAulSQr4NGqf1mkqI0Ejo72tV73M81ImoeeyKk890WLPdqGKnO9IgeqFv+qjvSVpGyvaajlZ6+yt6F5DefLlOHJtDMNS4OycQPvOO3weU75N/nJt65F5U19Xrs9G5/8R1yhdBvGBjAspFiDXfwxerQga08YFwZylSlm8PADU7l6HI0XQhFlT+/KziQRc3Kwb+sPNbimQf3B5LWkrGSxjKYigrx27O+WcPXY995N4xCJKExhemM6vU80uslljN4yrD902NU1mD0Iuu7AA4oj9LSdoYabBK1tKlX0vEsgo4DITBIR4fVUx8lHsfJnS5X58q1bYqEx/uTjbhIQr2LRCCyHj0FZbkmveFRU5vOaIHzw/YzonojgRj2nmIbC2n64TX/3Y8k+9PC3xtfNk7AfJzpU/R4ssVTYIqKokVSelRXKw==;ftCmRvSoCz8rkiNLAV/58Q=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/business-news/the-top-three-reasons-s
 webUrl: "https://www.entrepreneur.com/business-news/the-top-three-reasons-smb-owners-need-ai-assistant-in/469873"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Entrepreneur
@@ -27,6 +27,22 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "Oppo to infuse phones with its own AI assistant"
+    excerpt: "AI provides innovative mobile capabilities, including better quality images and multi-language translation, and assists users to better craft written content. Oppo says it will provide AI capabilities as well as a development platform to support the new ec ..."
+    publishedDateTime: 2024-02-23T04:21:00Z
+    webUrl: "https://www.itweb.co.za/article/oppo-to-infuse-phones-with-its-own-ai-assistant/VgZey7JlNODqdjX9"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/03/Find-N2-Flip-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "66iCWZiqwhKQEjIJcu4bIaIUPBf7OME7uGTXGQBc3A9AU3yNHS9VDVe38dB8kPVVPD2OxJr/BIKGWjPosmV3xAF11j585ttokLdepPHftKmJt+rJ8veeFKjjKg0s70ZRCFdOjtvVm75W6aoJZT/jJbGlr0vhuZzzsNvfrkrDNYIn94S7l5KtZOUxeDrjUm9J1QBgdWDGsW3Keokv6Qa4GBtC7GjKmjrfOOkwBDsLJwOneUfwcR39zUbXc3EHc7tvRbyecvjmR+orIQ7m1TTelt/XSINd3EGgbxS06r+vAsOtlk+A7BZSbKYs8JfcZY87R2zAbf4TX+JsK1AgLsxNxyTHFqysraz67O8k+NqRsq5IIQ2tCm4yAAOYy29HroU9xHcKuqmQ+0FMAt+JUSCRVikjEMIzLo4jSyEmw/w+1waeu+N3da/dV8R7mu6xYO4Vfi9sxHVRIKQw0T+MGwftjcpny/UnNIknEpaJ5DjcF9TPZiBjZXhUR5zw7HgHQzP17p/HVAl4haMNaoa+D1SRww==;pBiZ7yEYY09GINzY1H9Ffw=="
 ---

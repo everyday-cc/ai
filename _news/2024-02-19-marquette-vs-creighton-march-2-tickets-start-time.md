@@ -24,62 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Creighton vs. Marquette March 2 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Creighton Bluejays (19-7, 10-5 Big East) face the Marquette Golden Eagles (19-6, 10-4 Big East) in a clash of Big East teams at 2:30 PM ET on Saturday. The game airs on FOX. Watch college basketball, other live sports ..."
-    publishedDateTime: 2024-02-18T11:21:00Z
-    webUrl: "https://www.1011now.com/sports/betting/2024/03/02/creighton-vs-marquette-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: 1011 Now
-      domain: 1011now.com
-    quality: 22
-    images:
-      - url: "https://gray-koln-prod.cdn.arcpublishing.com/resizer/v2/LHSBHP6UXFP75AKUITA45TMHXQ.jpg?auth=f368a4708548bbc223af28d51802254c74a196ada506f31f21e35ff315fac349&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Denver vs. St. Thomas March 2 Women's Basketball Tickets & Start Time"
-    excerpt: "Denver Pioneers vs. Saint Thomas Tommies women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-18T12:21:00Z
-    webUrl: "https://www.kktv.com/sports/betting/2024/03/02/denver-vs-st-thomas-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KKTV11
-      domain: kktv.com
-    quality: 22
-    images:
-      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/GKDKMRQY5BM7XMLGSMXDN55XOM.jpg?auth=e2776a7911a0c02370b7782343c2752becf6b9d85b6ebf5699f1110a4e0ec138&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Kentucky vs. Arkansas March 2 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Saturday's SEC slate includes the Kentucky Wildcats (18-7, 8-4 SEC) facing the Arkansas Razorbacks (12-13, 3-9 SEC) at 1:30 PM ET on CBS. Watch college basketball, other live sports and more on Fubo! Use our link to sign ..."
-    publishedDateTime: 2024-02-18T11:23:00Z
-    webUrl: "https://www.kfvs12.com/sports/betting/2024/03/02/kentucky-vs-arkansas-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KFVS12
-      domain: kfvs12.com
-    quality: 22
-    images:
-      - url: "https://gray-kfvs12-prod.cdn.arcpublishing.com/resizer/v2/FFZFH7ULVRMQXCH73XJ3XH6F74.jpg?auth=5b3b7980147ffd9a03d0f2768db8da330efb93e612c872a249d1d4aaca3738ce&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Mercer vs. Furman March 2 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Furman Paladins (14-12, 8-5 SoCon) face the Mercer Bears (12-15, 5-9 SoCon) in a clash of SoCon teams at 2:00 PM ET on Saturday. The game airs on ESPN+. Watch college basketball, other live sports and more on Fubo!"
-    publishedDateTime: 2024-02-18T11:22:00Z
-    webUrl: "https://www.wtvm.com/sports/betting/2024/03/02/mercer-vs-furman-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WTVM
-      domain: wtvm.com
-    quality: 22
-    images:
-      - url: "https://gray-wtvm-prod.cdn.arcpublishing.com/resizer/v2/C5YDTBL4ERMZJCSQZWKO7TKQ5M.jpg?auth=7169d079fe969c2962e0a9057ce4f53ec6371f61f287ad057a2af06b731247ba&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Florida vs. Auburn March 3 Women's Basketball Tickets & Start Time"
     excerpt: "Florida Gators vs. Auburn Tigers women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-18T22:22:00Z
@@ -122,20 +66,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Colorado vs. Washington State March 2 Women's Basketball Tickets & Start Time"
-    excerpt: "Colorado Buffaloes vs. Washington State Cougars women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-18T12:21:00Z
-    webUrl: "https://www.kktv.com/sports/betting/2024/03/02/colorado-vs-washington-state-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KKTV11
-      domain: kktv.com
-    quality: 19
-    images:
-      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/LFDYLTZBCZOT7GZJOEXFWKHIXU.jpg?auth=e84eee55febd580e90b96286cf9cafc296ccfe4dbcb3a9894560aee09bafe3d3&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Hawaii vs. UC Riverside March 3 Women's Basketball Tickets & Start Time"
     excerpt: "Hawaii Rainbow Wahine vs. UC Riverside Highlanders women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-18T14:21:00Z
@@ -159,15 +89,20 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Charleston (SC) vs. Hofstra March 2 Tickets & Start Time"
-    excerpt: "Saturday's CAA schedule includes the Charleston (SC) Cougars (19-7, 10-3 CAA) meeting the Hofstra Pride (16-11, 9-5 CAA) at 2:00 PM ET on FloHoops. If you're looking to go to this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-02-18T14:23:00Z
-    webUrl: "https://www.wmbfnews.com/sports/betting/2024/03/02/charleston-sc-vs-hofstra-buy-college-basketball-tickets/"
+  - title: "Northern Colorado vs. Northern Arizona March 4 Women's Basketball Tickets & Start Time"
+    excerpt: "Northern Colorado Bears vs. Northern Arizona Lumberjacks women's basketball game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-20T12:20:00Z
+    webUrl: "https://www.kktv.com/sports/betting/2024/03/04/northern-colorado-vs-northern-arizona-buy-womens-college-basketball-tickets/"
     type: article
     provider:
-      name: WMBF News
-      domain: wmbfnews.com
-    quality: 2
+      name: KKTV11
+      domain: kktv.com
+    quality: 14
+    images:
+      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/GK432CLSK5K7ZOYDRHK6MZJZJY.jpg?auth=c0b541ca16a422c62e8738be47889a290243a33cd420d8f965365d8324b615e4&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Citadel vs. Samford March 2 Tickets & Start Time"
     excerpt: "The Samford Bulldogs (23-4, 12-2 SoCon) meet the Citadel Bulldogs (10-17, 2-12 SoCon) in a matchup of SoCon squads at 3:00 PM ET on Saturday. The game will be available on ESPN+. If you're looking to catch this game in person, head to StubHub or Ticketmaster to buy your tickets!"
     publishedDateTime: 2024-02-18T14:31:00Z
@@ -185,6 +120,15 @@ related:
     provider:
       name: WILX-TV
       domain: wilx.com
+    quality: 2
+  - title: "Florida International vs. Western Kentucky March 2 Tickets & Start Time"
+    excerpt: "Florida International Panthers vs. Western Kentucky Hilltoppers game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-18T14:24:00Z
+    webUrl: "https://www.wflx.com/sports/betting/2024/03/02/florida-international-vs-western-kentucky-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WFLX
+      domain: wflx.com
     quality: 2
   - title: "Georgia Tech vs. Florida State March 2 Tickets & Start Time"
     excerpt: "Georgia Tech Yellow Jackets vs. Florida State Seminoles game with ticket info, start time, stats, odds and TV channel."

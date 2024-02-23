@@ -9,7 +9,7 @@ ampWebUrl: "https://glamsham.com/world/technology/razorpay-surpasses-150-bn-in-t
 cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot?amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Razorpay Launches AI Chatbot RAY, Marketing Suite Engage To Expand Offerings"
+    excerpt: "The fintech major also launched two new AI-based products – Razorpay FraudShield and AI-Powered RTO (Return To Origin) Suite. The products are designed to reduce chargebacks and safeguard businesses from potential frauds and RTOs. Razorpay also launched ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://inc42.com/buzz/razorpay-launches-ai-chatbot-ray-marketing-suite-engage-to-expand-offerings/"
+    ampWebUrl: "https://inc42.com/buzz/razorpay-launches-ai-chatbot-ray-marketing-suite-engage-to-expand-offerings/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/razorpay-launches-ai-chatbot-ray-marketing-suite-engage-to-expand-offerings/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 53
   - title: "Razorpay Hits $150 Billion TPV, Introduces AI Chatbot and Payment Gateway 3.0"
     excerpt: "AI Nucleus,' the new checkout option is expected to boost conversions by more than 30%, leading to increased revenues for businesses. Razorpay's CEO and Co-Founder, Harshil Mathur, highlighted the transformative impact on the Indian fintech industry ..."
     publishedDateTime: 2024-02-23T00:01:00Z

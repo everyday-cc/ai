@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia Just Bought This Under-the-Radar Artificial Intelligence (AI) Stock. Should You Buy It, Too?"
-    excerpt: "According to Nvidia 's 13F filing for the fourth quarter of 2023, it purchased 1,730,883 shares in SoundHound AI. It doesn't specify what price Nvidia paid, but the position is worth $6.5 million at SoundHound's current stock price of $3.76."
-    publishedDateTime: 2024-02-18T15:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-just-bought-this-under-the-radar-artificial-intelligence-ai-stock.-should-you-buy"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 48
   - title: "Nvidia data center revenues up 409%, AI earnings beat Wall Street expectations"
     excerpt: "Revenues across the company were up 256 percent over the same quarter last year to $22.10 billion, while data center-specific revenues jumped 409 percent to $18.4bn. Analysts expected Nvidia’s data center unit to record $17.06bn in sales for its fiscal fourth quarter."
     publishedDateTime: 2024-02-21T22:47:00Z
