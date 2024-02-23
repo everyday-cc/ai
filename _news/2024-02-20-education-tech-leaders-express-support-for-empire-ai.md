@@ -36,6 +36,20 @@ related:
         width: 1045
         height: 696
         isCached: true
+  - title: "House leaders launch bipartisan artificial intelligence task force"
+    excerpt: "WASHINGTON — Senate Majority Leader Chuck Schumer, D-N.Y., has convened high-profile forums on artificial intelligence for months. Now, the two leaders of the House are getting in on the action ..."
+    publishedDateTime: 2024-02-20T09:20:00Z
+    webUrl: "https://www.aol.com/house-leaders-launch-bipartisan-artificial-141958600.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Qqtj8yuEFoZ0TJq19.sVpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/7cba56fe4aa11da51e08440d607cddc3"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "2zixAyK6m+e2oGaHuLRGkgJD2jE6b0zBPfBTxyDeHxgcNvRx29WoH9R+/js54vy4DD64QzC3K7dIDk5per51sfpdWD37PMQpwrs+lJOTzNb/YnwSnyE4pQd9HmGquO3oPB0yryCeKzYmzQIL50JYn60R4oWb/DiClfjBSt90V6VMczSyvTpSDrsw20FbpXvi8QPRkIxs/Bhd9AKKBaCb5WZcSsNRIJc6U0WHLm/kX2gaYJw1A4IM7bYGnsVSUDovqozqn7sFrb5KsgtPz3zVhcRCM/9NVxIIBL2VWyMvEhtqDNx8IxygQXXArNJQGQJFnV24EbXBdqxj0BT4WlyvbTPUZrMx/NwJn4dJf8VktJo=;aZCIOK3bJqG5cJOAbOx3Fg=="
 ---

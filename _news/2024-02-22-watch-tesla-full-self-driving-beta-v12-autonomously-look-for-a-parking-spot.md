@@ -7,8 +7,8 @@ originalUrl: "https://electrek.co/2024/02/21/tesla-full-self-driving-beta-v12-au
 webUrl: "https://electrek.co/2024/02/21/tesla-full-self-driving-beta-v12-autonomously-look-parking-spot/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Electrek
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Autopilot, Full-Self Driving Often Gets Bashed But Try Driving In Los Angeles"
-    excerpt: "Tesla's Autopilot and Full-Self Driving often get criticized for being unsafe but try the alternative: driving in Los Angeles among extremely distracted drivers."
-    publishedDateTime: 2024-02-18T09:04:00Z
-    webUrl: "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d1b374f35c7377c0601772/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 559
-        isCached: true
   - title: "Can Tesla’s Full Self-Driving mode be trusted?"
     excerpt: "In May of 2022, Hans von Ohain and his friend Erik Rossiter went golfing in Evergreen, Colo. Hans showed off his Tesla’s new Full Self-Driving mode. The friends shared drinks and played 21 holes of golf. But Hans never made it home."
     publishedDateTime: 2024-02-21T22:37:00Z

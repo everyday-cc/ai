@@ -109,6 +109,22 @@ related:
         width: 1680
         height: 971
         isCached: true
+  - title: "From stunts to Oscar: Jackie Chan's epic journey to academy recognition!"
+    excerpt: "Jackie Chan's acceptance speech was a heartfelt narrative of his journey in the cinematic world, from a young boy watching the Oscars with his parents to an international icon. He humorously recalled a meeting with Sylvester Stallone, where he was enamored ..."
+    publishedDateTime: 2024-02-23T07:44:00Z
+    webUrl: "https://www.desimartini.com/international/celebrities/from-stunts-to-oscar-jackie-chans-epic-journey-to-academy-recognition/e18885e9e8239/"
+    ampWebUrl: "https://www.desimartini.com/international/amp/celebrities/from-stunts-to-oscar-jackie-chans-epic-journey-to-academy-recognition/e18885e9e8239/"
+    cdnAmpWebUrl: "https://www-desimartini-com.cdn.ampproject.org/c/s/www.desimartini.com/international/amp/celebrities/from-stunts-to-oscar-jackie-chans-epic-journey-to-academy-recognition/e18885e9e8239/"
+    type: article
+    provider:
+      name: Desimartini
+      domain: desimartini.com
+    quality: 43
+    images:
+      - url: "https://imagesv2.desimartini.com/images/202308/chris-tucker-and-jackie-chan-1691674776.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI hardware startup Recogni raises $102M for self-driving solutions"
     excerpt: "Object detection requires a great deal of data taken from video and other sensors and Recogni’s hardware allows for more rapid recognition. The company said that its chips allow for higher computational power at lower energy use, meaning higher efficiency."
     publishedDateTime: 2024-02-20T17:05:00Z

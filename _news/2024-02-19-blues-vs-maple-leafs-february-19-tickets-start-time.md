@@ -95,25 +95,11 @@ related:
     provider:
       name: JD Supra
       domain: jdsupra.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7393_3758.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Wild vs. Canucks February 19 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Quinn Hughes and Matthew Boldy will be two of the most exciting players to keep an eye on when the Vancouver Canucks face the Minnesota Wild at Xcel Energy Center on Monday, February 19 at 2:00 PM ET. Kirill Kaprizov is ..."
-    publishedDateTime: 2024-02-18T08:01:00Z
-    webUrl: "https://www.kcrg.com/sports/betting/2024/02/19/wild-vs-canucks-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 22
-    images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/v2/KUPQAZZM3JJMTANWHE6WHS2HE4.jpg?auth=698eaa9b25ac2d9e0bc28e6bd8fa73be9e424b1ee9c93525b3ae96b4a8a69cda&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Avalanche vs. Canucks February 20 Tickets & Start Time"
     excerpt: "The Colorado Avalanche's Cale Makar and the Vancouver Canucks' Quinn Hughes are two of the most exciting players to keep an eye on when these squads play on Tuesday at 9:00 PM ET, at Ball Arena. If you're looking to go to this matchup in person, head to Ticketmaster to purchase your tickets!"

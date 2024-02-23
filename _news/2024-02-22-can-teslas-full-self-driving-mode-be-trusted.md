@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Autopilot, Full-Self Driving Often Gets Bashed But Try Driving In Los Angeles"
-    excerpt: "Tesla's Autopilot and Full-Self Driving often get criticized for being unsafe but try the alternative: driving in Los Angeles among extremely distracted drivers."
-    publishedDateTime: 2024-02-18T09:04:00Z
-    webUrl: "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d1b374f35c7377c0601772/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 559
-        isCached: true
   - title: "Watch Tesla Full Self-Driving Beta v12 autonomously look for a parking spot"
     excerpt: "A Tesla driver using the new Full Self-Driving (FSD) Beta v12 software managed to showcase a new behavior: FSD Beta autonomously looking for a parking spot. The Tesla v12 software update is expected to introduce what CEO Elon Musk has been calling “end ..."
     publishedDateTime: 2024-02-21T16:24:00Z

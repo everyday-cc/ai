@@ -78,6 +78,6 @@ related:
       domain: miningreview.com
     quality: 19
 
-secured: "xBWUzB7dRUiRFSOQ9cmFXX9nN+kJBjOkDNpiVJ+56jaMLiNdSGNHigwHPkaugYVWPU15he/HN2GPX2rvVz9e/ntztd0ZAnC4CJHQhAzm5lZsDUl2fFv9jGAzMCrSolLPsrot95hlCZ1wVydSqwESdpiuUFuyEPwmyq+rO+3ym1S032OFlRYMXjoJm+9jL/WzkTYapEyUQO6Biaf6U2EGZ+xNWm8oscCqLFVSTKd70Ni7E7pJtLGxdrRGv9L2dYsGqCEwoxK1Eh+BMTmfCqqchvLKXMhtzsCMEk/xOGtqG8amRILiRMT+SeHM80XSAb2hxsD7CFwiFFTwcdKxN0ZMjueJ//aI/gSHZwA2H1/E/ac=;mPVaoeE+ehQf9vK3FFVu4A=="
+secured: "2INmDLc2nChqJbL0Q8eG16wHE4f4LoIb0Umi7fbJFfFu3cDJRoUagDbHqQtHeNRexEb6nwTYgkHFo7vnsPRljNs8gTHVeQ5YwRCTirH8mLB+4IH23Fuox1oSntXcyC5o6nFwLbosNxFKvU7vtt0zzoi6e8kMpOSHAM4/QEuYCeGd2aiSn9ZjNS6KzaHSDp+r02r9EBk3MYvSNBaJVBUfnp+o/gP/KqHKb8rTK/ql0xFBbSGrjlgLLZYYYdGxGYC2oFXhgsSac/b05bikJ1EoVb3YI09Gh3vWy6hMZ/KDvy/HWDifgZ95bn+J6DrKGfc+z1ht8TnJx0W5j0zUx3pScPiHeZBadu3S2GD4q0qDZhg=;FjWPk1nCBAmuCB3coRWfzA=="
 ---
 

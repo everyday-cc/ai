@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "House leaders launch bipartisan artificial intelligence task force"
+    excerpt: "WASHINGTON — Senate Majority Leader Chuck Schumer, D-N.Y., has convened high-profile forums on artificial intelligence for months. Now, the two leaders of the House are getting in on the action ..."
+    publishedDateTime: 2024-02-20T09:20:00Z
+    webUrl: "https://www.aol.com/house-leaders-launch-bipartisan-artificial-141958600.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Qqtj8yuEFoZ0TJq19.sVpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/7cba56fe4aa11da51e08440d607cddc3"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Education, Tech Leaders Express Support for Empire AI"
     excerpt: "\"Who better to be able to address questions of ethics, of any kind of misconduct with AI, than folks in academia, the objective researchers in that field,\" said Matos Rodríguez. \"This is an indispensable part of how we're going to have an ecosystem that ..."
     publishedDateTime: 2024-02-20T00:00:00Z

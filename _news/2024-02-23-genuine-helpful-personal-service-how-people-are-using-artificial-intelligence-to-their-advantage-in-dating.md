@@ -7,7 +7,7 @@ originalUrl: "https://www.kcra.com/article/ai-dating-scene/46774460"
 webUrl: "https://www.kcra.com/article/ai-dating-scene/46774460"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 674
     isCached: true
 
-secured: "UmNjoYCbJOUoXnPXFaEWjgXiiMr/n7uLxn+0Nz3mvwO4vt3xirBinDZTh1nIlx7JAcj1PKwYtAeucOiy9/RPqLBFxzZLvxaRCksyHtn/fO1/fcGFVHrLyGdTQJRWPhGxJzcTiUGwxYaFJj6dDyRAHRWEw//RljJO93hineXjxOAykB7yHxJut1l4soEdXd7KKiupdiQF3+VQGta4dZOT7Jn87n0PxSVCZaxfEK0hzJLopKXNFqxU53JWM5v7jyyH+Ho0MRlz5sgbdA1qhDf/ATpn/CQVw+qP5+hFRZn/D/ICzhpFdgPzj/mme0FXtEY5j39T0t660W6ZsLXdSI6GzstElHf9z2/QK/oXCJugnUk=;45QDyzsguFKcANoB876MKg=="
+related:
+  - title: "'Genuine, helpful, personal service': How people are using artificial intelligence to their advantage in dating"
+    excerpt: "As artificial intelligence continues to expand, many are curious about how it will affect dating and relationships.Through a survey of 5,000 people and Cosmopolitan employees using new AI tools and applications, Cosmopolitan was able to deduce how Gen Z ..."
+    publishedDateTime: 2024-02-22T04:35:00Z
+    webUrl: "https://www.wisn.com/article/ai-dating-scene/46774460"
+    type: article
+    provider:
+      name: WISN 12 NEWS
+      domain: wisn.com
+    quality: 19
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cosmo-ai-dating-opener-65cbf5224f580.png?crop=0.995xw:1.00xh;0.00481xw,0&resize=1200:*"
+        width: 1200
+        height: 674
+        isCached: true
+
+secured: "lEXu3oT0cFaM/zRLLnjCJyMmJvDAXKsZezQBI3+0SWy/MX06JlXy0AR7PCkQlW208rbPLzhnn19jhHYJFPzrz7oj83yicw5ZvhiNBt/eBxfjS2vPj7FFdq1got2P3JiLcgFRo6wMzl8ZW9fkCfew0fDXH75An+PW1tR2/oe+6lhJCr81DfWp2uIIklkTlBmLBY9YvMP03vPh0qbGhZYbWDqFMurkrJ/EaXulIl8CHWmwZdZviHd823Jm87vfu+wW5XUYGu5uaiJzwElAXGjvQb3IUeQID3rkhpAUhtb3wi6F0wDUejtA4gafqsDBmROFusHdscATRRncNpBqoZ7/9dwapqNEM78yiSg4c6UdxQyA7yE4OXkyenUlx7REkljUu5TRPpwgDEYIC5BytHT62rIWFIvKV9OtJsWsHVZQIPzRnVVAzNGrkyzO3179VK4fYZvWDHFnIj0+2mBh4XcXEuXsfjId9N9uSTh+YUT6TllMddwEkzg4BPfr7wFkLcYHPVNTHwnOHCMpgRiD9OsFtA==;sNy90Sit7qFxDupIoWLDzQ=="
 ---
 

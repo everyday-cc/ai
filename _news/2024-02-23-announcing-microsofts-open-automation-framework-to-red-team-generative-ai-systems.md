@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft plans €2B investment in AI and cloud infrastructure in Spain"
+    excerpt: "Microsoft’s European charm offensive continues, with a collaboration with the Spanish Government to strengthen cybersecurity and implement AI in the Spanish administration."
+    publishedDateTime: 2024-02-22T14:40:00Z
+    webUrl: "https://www.computerworld.com/article/3713200/microsoft-plans-2b-investment-in-ai-and-cloud-infrastructure-in-spain.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713200/microsoft-plans-2b-investment-in-ai-and-cloud-infrastructure-in-spain.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713200/microsoft-plans-2b-investment-in-ai-and-cloud-infrastructure-in-spain.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/12/12/shutterstock_editorial_1934605040-100947085-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel strikes major chip deal with Microsoft amid AI push"
     excerpt: "Intel has struck a potentially billion-dollar deal with Microsoft that will see the chipmaker manufacture chips designed in-house by the software giant as it looks to make the most of AI. Announced yesterday (21 February) at Intel’s first foundry event ..."
     publishedDateTime: 2024-02-22T12:19:00Z
@@ -270,6 +286,15 @@ related:
         width: 600
         height: 385
         isCached: true
+  - title: "AWS Storage VP Leaves For Microsoft Azure"
+    excerpt: "AWS and Microsoft Azure compete heavily in several massive tech industries such as cloud computing, artificial intelligence and cloud storage, including in object, file and block storage. For example, AWS is the world’s market-share leader in cloud ..."
+    publishedDateTime: 2024-02-22T14:40:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/aws-storage-vp-leaves-for-microsoft-azure-storage"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 51
   - title: "Intel to manufacture chips for Microsoft as AI drives demand"
     excerpt: "Since Gelsinger took the helm three years ago, Intel has been attempting to reinvent itself as a foundry business, building chips designed by other companies, regaining an edge in making the most advanced semiconductors. Demand for them is soaring, driven by the rise of generative AI."
     publishedDateTime: 2024-02-21T19:34:00Z
@@ -441,6 +466,6 @@ related:
       domain: geeky-gadgets.com
     quality: 19
 
-secured: "tC1zqJPM9sRMFWkJkddnixdKdFkRkqNgpYT7uN2uS2lS0Hdg0pjXBL+jkDqusfKLk/sD+E3s2UrSKlR4Xfd2CW9yRCZQCNFZNkZG5DuKA4FoewzEdO/NctXrnz2NCvlRjQjjZWu4cNJX1IzUuADNI1uNwynKMcnIPHXhLK0zROOrMAyiywSz/ridkhdqLMd7wIAxzIIuzuQCMu/0kkO+O6GW4e+pvDL7DRZSSMFdW+svjh9CHVrPSZfDx2odjJ7SL4sfdxHca2erNJBlTQnOjfrg9POI1H0V3u7yBhArUT/6idT1ba4GnLEPMscFXdw6TiIC1kKIZoJUzrprYccKvJokLuN/1GhnNnhT87N7Y0Y=;0a6vZTDRHrAK7dLtsY2evA=="
+secured: "uFcTpeRmPKw3GrLPr7HBcGBYoalENFQeKigEulsxUkyPAbVviOpaFqyEphMt0HLwd5STZKnKSvur51WLxen2GbfbwVdOgNjulJQh+mtFs6QPMGeEeGWMbyP7sTkz9t6Oq7j1AnjrRdJLmLKFF6HOhQ3gccCIaSgOjzdd5EePg05HEyo1LViVZAMRBFV7oE5XSC8Q+2aV+oWqiqF7ER6i66oRpZCsVXwpbdI64mMk6dd8veXFYgA+3jvuvoYJYgXaVN/RNn0NaZYZUP0EGsg0+FEZ8nS9Dg/rxdFAWKxNqC28BOTK6dMTx9UqxjEYh/Y0A+PZ/qH/EfY22+5J+ZChy63bRtkYYumC7eL2Yp2zEoppSmYZVQ9SD8Bl9XP4+mbxyw6ZexiTBGauPrcSgPPehEP9bBcmJSQAJ2wAG11Ym93IZ/DtmEuXj0gCD7bGu/ukw2msXxQIXKqrehF3br31CaLoskrJVdN4Ps8Tko4yKpvgiR7ziJ0G5sdOKNZh6uD9KpOVUPqh5pKT6n4JVyRPkg==;o9HX2EnmFrgS/IiMCqccTw=="
 ---
 

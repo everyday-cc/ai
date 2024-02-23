@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Sam Altman's new AI chip startup awaiting US approval: reports"
-    excerpt: "Sam Altman, CEO of OpenAI, the parent company of ChatGPT, is awaiting approval from the US government for his new AI chips startup, according to a recent report by Bloomberg News. The report suggests that this emerging venture has the potential to trigger concerns related to national security and antitrust issues."
-    publishedDateTime: 2024-02-18T08:26:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/sam-altmans-new-ai-chip-startup-awaiting-us-approval-reports-3546751"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/sam-altmans-new-ai-chip-startup-awaiting-us-approval-reports-3546751?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/sam-altmans-new-ai-chip-startup-awaiting-us-approval-reports-3546751?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 74
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/02/18/sam_altman.jpg"
-        width: 750
-        height: 393
-        isCached: true
   - title: "OpenAI unveils AI that instantly generates eye-popping videos"
     excerpt: "SAN FRANCISCO — In April, a New York startup called Runway AI unveiled technology that let people generate videos, like a cow at a birthday party or a dog chatting on a smartphone, simply by typing a sentence into a box on a computer screen. The four ..."
     publishedDateTime: 2024-02-22T00:05:00Z

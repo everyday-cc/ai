@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "Robot inventor: 'We had to adapt to the AI revolution'"
-    excerpt: "Sandy Enoch, the founder of Scottish tech firm Robotical, explains how he had to adapt his educational robots, designed for the classroom, to reflect the revolution taking place in artificial intelligence."
-    publishedDateTime: 2024-02-21T00:17:00Z
-    webUrl: "https://www.bbc.com/news/business-68348353"
+    excerpt: "Produced, filmed and edited by Dougal Shaw Sandy Enoch of Robotical explains why he had to pivot his educational robot company due to AI. Hovhannes ... shares advice for start-ups for our CEO ..."
+    publishedDateTime: 2024-02-21T03:43:00Z
+    webUrl: "https://www.bbc.com/news/av/business-68348353"
     type: article
     provider:
       name: BBC

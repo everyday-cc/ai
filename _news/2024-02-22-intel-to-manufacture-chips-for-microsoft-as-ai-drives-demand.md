@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft plans €2B investment in AI and cloud infrastructure in Spain"
+    excerpt: "Microsoft’s European charm offensive continues, with a collaboration with the Spanish Government to strengthen cybersecurity and implement AI in the Spanish administration."
+    publishedDateTime: 2024-02-22T14:40:00Z
+    webUrl: "https://www.computerworld.com/article/3713200/microsoft-plans-2b-investment-in-ai-and-cloud-infrastructure-in-spain.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713200/microsoft-plans-2b-investment-in-ai-and-cloud-infrastructure-in-spain.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713200/microsoft-plans-2b-investment-in-ai-and-cloud-infrastructure-in-spain.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/12/12/shutterstock_editorial_1934605040-100947085-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel strikes major chip deal with Microsoft amid AI push"
     excerpt: "Intel has struck a potentially billion-dollar deal with Microsoft that will see the chipmaker manufacture chips designed in-house by the software giant as it looks to make the most of AI. Announced yesterday (21 February) at Intel’s first foundry event ..."
     publishedDateTime: 2024-02-22T12:19:00Z
@@ -260,6 +276,15 @@ related:
         width: 600
         height: 385
         isCached: true
+  - title: "AWS Storage VP Leaves For Microsoft Azure"
+    excerpt: "AWS and Microsoft Azure compete heavily in several massive tech industries such as cloud computing, artificial intelligence and cloud storage, including in object, file and block storage. For example, AWS is the world’s market-share leader in cloud ..."
+    publishedDateTime: 2024-02-22T14:40:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/aws-storage-vp-leaves-for-microsoft-azure-storage"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 51
   - title: "Microsoft to Use Intel for In-House Custom AI Chip"
     excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
     publishedDateTime: 2024-02-21T17:21:00Z

@@ -91,15 +91,6 @@ related:
         width: 900
         height: 514
         isCached: true
-  - title: "Google’s new AI bot pauses image generation tool after race controversy"
-    excerpt: "Google Gemini, formerly known as Google Bard, was launched in March 2023 in limited release as a chatbot powered by Google’s large language model. The product was renamed in February as “Gemini” to reflect the “advanced tech at its core” after ..."
-    publishedDateTime: 2024-02-22T09:22:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/2867994/googles-ai-bot-pauses-image-generation-race-controversy/"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 19
   - title: "Google pauses AI image generation of people after diversity backlash"
     excerpt: "Tech giant responds to complaints that Gemini model was creating images of people in historically inaccurate contexts"
     publishedDateTime: 2024-02-22T11:43:00Z
