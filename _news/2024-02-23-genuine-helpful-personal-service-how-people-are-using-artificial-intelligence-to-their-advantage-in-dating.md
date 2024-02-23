@@ -1,21 +1,21 @@
 ---
 category: news
 title: "'Genuine, helpful, personal service': How people are using artificial intelligence to their advantage in dating"
-excerpt: "As artificial intelligence continues to expand, many are curious how it will affect dating and relationships in general."
-publishedDateTime: 2024-02-22T21:57:00Z
-originalUrl: "https://www.wcvb.com/article/ai-dating-scene/46774460"
-webUrl: "https://www.wcvb.com/article/ai-dating-scene/46774460"
+excerpt: "what are the ethics here? What concerns should people have when it comes to things like safety and privacy?\"You profiled some of the apps that promise to supercharge your dating life with AI. Which ones stood out and why?Reeves: \"Scimatch is a really ..."
+publishedDateTime: 2024-02-22T18:57:00Z
+originalUrl: "https://www.ksbw.com/article/ai-dating-scene/46774460"
+webUrl: "https://www.ksbw.com/article/ai-dating-scene/46774460"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: WCVB Channel 5 Boston
-  domain: wcvb.com
+  name: KSBW The Central Coast
+  domain: ksbw.com
 
 topics:
-  - AI in Healthcare
+  - AI Ethics
   - AI
 
 images:
@@ -40,6 +40,6 @@ related:
         height: 674
         isCached: true
 
-secured: "xA07M7x8f4npedP7cTgJfXw8X3HtcVMoZt965bdeB1GBR5PFGAbY9wUHzvhsDTNwApr6FiDs4Ztb4icYYALbDyQvyq97ZTFocpECc0jNHzvBGSyNg1quaZxAqTwrBtywF2Q17PCWr7ZMZqVMXHgB8HsXWUvxbrgkN6wtLVd/OpkdNz/1dYthw0u7MWXmBsHKmMQeJjA46OZa84hRP4klpSUjUKmym8ThllhgoINBzwY2mYIhzgjjrwbJTUpdAkMZ3SCxVeBrt70ezpJMrCy3YXkXyoNFH2AH3F+Yi3/giCh14OghGlZ2YAjEul9Yxz/QaavHQEsq3gbHR6qT71VCm8+riKpbRyUs3vTA8gJ+IOU=;tG4Pb7GBa0sGTqlemWcTKQ=="
+secured: "rEds5xuRYBspz7RgA2ag8e9MbOv47W5N7MuglHLmCbGTpqqsz/Y3mjhYcCQyiKYLGEuqWi3HiE7E4yn9xbfUbNTVMhjOy7ejKOfg0qeWtiCnrP2DNb9whH5pmy4FjuPZLRucyAmEjLKb9SwUYOnPuSf3vT/oXouR+47hm03KiqXMywtLBEpL4d94FFlt78NCEx/2fmRn3t4cixOZ5V2fx6ApeEf/4gJ3R6Lc0Ea8tBiSMOgdABoQArI4n+5AAbVfBxcs6iN0GyjIB44z6n5WJKncupVqrpkDfbAOW18QxKgXWGtDzLPYXreBZUQbu3o3XUcHGOW6PjaSyek0SoIz4O28jCiDYSikulks+C2CcCs=;/Fiz4VE0d7c7Qk4wtaeJlQ=="
 ---
 

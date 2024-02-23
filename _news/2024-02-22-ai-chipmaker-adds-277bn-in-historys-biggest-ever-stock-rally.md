@@ -66,6 +66,22 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Google halts AI tool's ability to produce images of people after backlash over struggles with race"
+    excerpt: "The incident is also yet another setback for Google as it races to take on OpenAI and other players in the competitive generative AI space. In February, shortly after introducing its generative AI tool - then called Bard and since renamed Gemini - Google's ..."
+    publishedDateTime: 2024-02-23T08:02:00Z
+    webUrl: "https://abc7news.com/google-ai-gemini-people-of-color-race-backlash/14460904/"
+    ampWebUrl: "https://abc7news.com/amp/google-ai-gemini-people-of-color-race-backlash/14460904/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/google-ai-gemini-people-of-color-race-backlash/14460904/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 45
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google apologizes for AI bot generating inaccurate images of ‘diverse’ historical figures"
     excerpt: "Google Gemini, formerly known as Google Bard, was launched in March 2023 in limited release as a chatbot powered by Google’s large language model. The product was renamed in February as “Gemini” to reflect the “advanced tech at its core” after ..."
     publishedDateTime: 2024-02-21T18:09:00Z

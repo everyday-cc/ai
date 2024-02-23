@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-gener
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html"
 type: article
 quality: 64
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Google halts AI tool's ability to produce images of people after backlash over struggles with race"
+    excerpt: "The incident is also yet another setback for Google as it races to take on OpenAI and other players in the competitive generative AI space. In February, shortly after introducing its generative AI tool - then called Bard and since renamed Gemini - Google's ..."
+    publishedDateTime: 2024-02-23T08:02:00Z
+    webUrl: "https://abc7news.com/google-ai-gemini-people-of-color-race-backlash/14460904/"
+    ampWebUrl: "https://abc7news.com/amp/google-ai-gemini-people-of-color-race-backlash/14460904/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/google-ai-gemini-people-of-color-race-backlash/14460904/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 45
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI chipmaker adds $277bn in history’s biggest ever stock rally"
     excerpt: "Waymo had been seeking permission to expand to Los Angeles ... EDDIE MULHOLLAND for The Telegraph Google has suspended its artificial intelligence image generator after it was ridiculed for generating ethnically diverse images of historical characters ..."
     publishedDateTime: 2024-02-22T13:49:00Z

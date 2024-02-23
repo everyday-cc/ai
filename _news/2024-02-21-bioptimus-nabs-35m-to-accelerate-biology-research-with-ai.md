@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Infusion of Artificial Intelligence in Biology"
+    excerpt: "In the early 1990s, protein biologists invested in solving a challenge that had riddled them for decades. The protein folding problem centered on the idea that biologists should be able to predict the three-dimensional structure of a protein based on its ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.the-scientist.com/infusion-of-artificial-intelligence-in-biology-71665"
+    type: article
+    provider:
+      name: The Scientist
+      domain: the-scientist.com
+    quality: 37
+    images:
+      - url: "https://cdn.the-scientist.com/assets/articleNo/71665/aImg/52217/66166-ts-newsletter-ai-image-ac-800x560-m.jpg"
+        width: 800
+        height: 560
+        isCached: true
 
 secured: "yvD/+c6siIrTMxIe+PjePT4AgRt/tV8Vuz5sLpabTf8Pc04Gm7KszbF0s1b+VbzRFOxC619miLpLRiFnqn8jXIkhEdu4n4ypAmbqzX1siHXlMwiTDIC7GhqS5zrRL3K+fC9Z/8PHDnLzr3Doy8w69nJ9JsqaIj+hbBRV60CGhKQ+a011tCWzluelpxRBoxoZw+kjKlV7t8naqGGMC5kBgQ42gE9yUVFNW6VN/IVBG7F+KcC9kgB+JmPOTKYA2OrKPVQNjz7NaqBCQPNPfumkYa+vwrNhvqoAGXpB4mgonIPG6jrnnVKO40DCSL7NxU11Q6MZwaIIa0TMP1NbGQMvzC3OspATsz85/uiTcAFP+NQpqO20C26gw5xdiqlwvFVUKvoZsFzHjIC26g0RJp7pNnCUQsm6rWfHKNeIlRVJFjGuRWf15JsUA/nYd+7+uNaAy8xU1Ebt6E8QL/qUBuD8EXmRXq4KECU7tjb5VVT1WBM68D9WvNtUZNkfS4kVS0jPzrVVVOFMhrcvMSOfeiIrCA==;BGV0cC7XLtXvOZLI8/4Yrw=="
 ---

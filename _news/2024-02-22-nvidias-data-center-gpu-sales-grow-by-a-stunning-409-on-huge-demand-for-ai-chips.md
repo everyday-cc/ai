@@ -328,6 +328,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia sees historic stock rise on AI chips success"
+    excerpt: "The world is at an AI \"tipping point,\" said Nvidia chief executive Jensen Huang as he delivered another heady sales forecast. Demand for the microchips that power AI is now \"surging worldwide across companies, industries and nations.\""
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://theweek.com/business/nvidia-ai-chips-2-trillion-value"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/iU4tEXfouy5wiksQZ6gAJX-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia Earnings Are Coming. Why It’s Time to Think About AI Chip Competition."
     excerpt: "It’s not an exaggeration to say that the tech sector's recent rally might depend on Nvidia beating expectations for its earnings report this week. However, stockholders in the chip maker should be looking beyond the immediate horizon and particularly at potential competitive threats."
     publishedDateTime: 2024-02-20T09:37:00Z
@@ -521,6 +535,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 21
+  - title: "Nvidia surges on AI boom, rally on Wall Street"
+    excerpt: "Nvidia’s stock price surged Thursday after delivering another blowout quarter, setting off a rally in other technology companies that carried Wall Street to another record high."
+    publishedDateTime: 2024-02-23T11:00:00Z
+    webUrl: "https://www.avpress.com/business/nvidia-surges-on-ai-boom-rally-on-wall-street/article_d5e04c3c-d1ef-11ee-ac29-e3591cce011b.html"
+    type: article
+    provider:
+      name: Antelope Valley Press
+      domain: avpress.com
+    quality: 19
   - title: "AI-darling Nvidia's earnings could boost its sway over U.S. stock market"
     excerpt: "No single stock has embodied the U.S. market’s artificial intelligence fervor as much as Nvidia Corp, leaving Wall Street tied to the fluctuations of its volatile shares. The semiconductor company, whose chips are considered the gold standard in the AI industry,"
     publishedDateTime: 2024-02-22T14:51:00Z

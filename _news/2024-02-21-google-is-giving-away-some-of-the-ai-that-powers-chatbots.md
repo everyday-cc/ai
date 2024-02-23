@@ -37,6 +37,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Google DeepMind C.E.O. Demis Hassabis on the Path From Chatbots to A.G.I."
+    excerpt: "For more audio journalism and storytelling, download New York Times Audio, a new iOS app available for news subscribers. Hosted by Kevin Roose and Casey Newton Produced by Davis Land and Rachel Cohn Edited by Jen Poyant Engineered by Chris Wood Original mu ..."
+    publishedDateTime: 2024-02-23T10:04:00Z
+    webUrl: "https://www.nytimes.com/2024/02/23/podcasts/google-deepmind-demis-hassabis.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 48
   - title: "Inference.ai’s new generative AI chatbot takes the guesswork out of GPU sourcing"
     excerpt: "Inference.ai offers an extensive selection of GPUs, with a fleet of 18 different processors from Nvidia Corp., including its most advanced H100 model. It also offers four models from Nvidia’s rival Advanced Micro Devices Inc., including the all-new MI300X that was specifically designed to handle generative AI workloads."
     publishedDateTime: 2024-02-21T14:12:00Z

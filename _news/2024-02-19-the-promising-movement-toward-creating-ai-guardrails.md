@@ -55,6 +55,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "How Artificial Intelligence Is Reshaping Banking"
+    excerpt: "Artificial intelligence is transforming the banking industry, with far-reaching implications for traditional banks and neobanks alike. This transition from classic, data-driven AI to advanced, generative AI provides increased efficiency and client ..."
+    publishedDateTime: 2024-02-23T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/how-artificial-intelligence-is-reshaping-banking/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "A Look Inside Anthropic Highlights the Crazy Growth of AI Tech"
     excerpt: "Amid the explosive growth of AI tech, one of the buzziest in the headlines is among the least recognized: Anthropic. Founded 2021 in San Francisco by former team members of the other, super-buzzy artificial intelligence company OpenAI,"
     publishedDateTime: 2024-02-20T16:51:00Z

@@ -32,12 +32,12 @@ related:
   - title: "Google suspends AI chatbot from creating human images after it put people of color in Nazi-era uniforms"
     excerpt: "Google has suspended the Gemini AI chatbot’s ability to generate images of people and has vowed to fix what it called “inaccuracies in some historical” depictions."
     publishedDateTime: 2024-02-23T09:15:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/google-suspends-ai-chatbot-from-creating-human-images-after-it-put-people-of-color-in-nazi-era-uniforms/"
+    webUrl: "https://www.seattletimes.com/business/technology/google-suspends-ai-chatbot-from-creating-human-images-after-it-put-people-of-color-in-nazi-era-uniforms/?n=@"
     type: article
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 3
+    quality: 1
 
 secured: "s9+8ce+oRg+Tjh2OVTzHjswA5vYClzcOrIc9+6OmHCM62Hslcvh+763JJrZpol/hsn99J0kzR/baoWp4dZfOI5FaSWMkWzZgH5WFZ6e1CejHajZUeeGiiYSjWTegn3u20s1Rh/PrJMgI74yKU07Sv1jocnhgio3NgoRTB/5YOYy34UV3T5zygTnn0b70mPWqBk/eY2g4Z3aB4LntSKiDZ7EHqHEM0EjAy5C7MaWzYFiqu8y/1eBwE45zdLE3l+M597UVK/FpavmIjbS9Az4WUzM8Uxuxu5NQ1PLyakmvGgQUsfEZp1TsvDeN9+xSI9KmMzjPbjkUcgWqfnfw661gfeHNUl3Sz0qr26C1A0JFytY=;q9ueNDHvYvZiKBfUSIQN0Q=="
 ---

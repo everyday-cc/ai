@@ -47,6 +47,15 @@ related:
         width: 1078
         height: 718
         isCached: true
+  - title: "AI-assisted inventions: USPTO’s most recent guidance for determining inventorship"
+    excerpt: "A natural person’s contribution to an AI-assisted invention is insufficient to be deemed an inventor in the following circumstances: If a natural person simply identifies a problem, outlines a general goal or determines a research plan. A natural person ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ai-assisted-inventions-uspto-s-most-8093773/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 14
 
 secured: "p2JDeF9dsbdfzfEuhJtwr1538G6HHXXJ2ySdBfJ6vZI72KwAKhjPpAK5diDN0aMcCeWeNp1k7C1AZ3vw7AhnFIPMqcZ/Spex0sgnFuQhvIHWCWVaa0S8xJN1QuVsq4qx7PxkNvkNVO3iMtvxJ1EXWUQIjHP8gC2YRZzl9iV3LNJrN9Gfcm7ghM579/JP4HC/4hnRjUD8owkRgUgigulgpn4SygtBNv/CtY+iFFsGcpciYlrWNutdHwMaH0ABtXgbNoQwmXVc3BO0fGL8SLQbYNeeHAaxF77hu/ysdNzcus7ILbmIv899Ir2iQlHraCxQTECEtYf4F8E4WdzBq8DT6EK0t5/iGtmfMJDAmiEXuIU=;d93ARwP85Mda+xT6sPmZDg=="
 ---

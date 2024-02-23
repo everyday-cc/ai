@@ -39,6 +39,15 @@ related:
         width: 348
         height: 249
         isCached: true
+  - title: "Translation Management Systems Market worth $5.7 billion by 2030 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The Translation Management Systems Market is set to experience rapid growth, projected to surge from USD 2.2 billion in 2024 to USD 5.7 billion by 2030, at a CAGR of 17.2% during the forecast period of 2024–2030,"
+    publishedDateTime: 2024-02-19T15:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/19/9964070.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "wNZh1PFX3DkKrok7Cvul25JoISuM3f4GYTbK4w5EDztpTEBGkp81AZYGOB/d7y5UKSF/Si6vxxM+xUKcclDfHpgbnqoxm93aThPiEztwhz7jGm7NDdsRGXPdA2BRYe7SCEAligsxGysDQM8rxkKz6l9H+VemrBaKTtNL6Ub6nJ1kFTB7A89Fwni4SzI1GYuaD+MUZYvBbsoqvOEuEMYIgfogKzhKfMQ/OQZNKUscFwR6KRwjBktFqTprjsGqmrth07GKWs7/yipVb88OdwxIUbz45BcWwNyhWsUBDqkmFjzaGXB2Aiuhenm/FU1Wek7mvToaUEiHBMclbAkeuBBgUDjTbfpPIC806YZCZXO1sgU=;qVeJaIIzPJ3hrwCeTU00Kg=="
 ---

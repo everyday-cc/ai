@@ -55,6 +55,20 @@ related:
         width: 1260
         height: 708
         isCached: true
+  - title: "Microsoft's Photos app gains AI object removal on Windows 11/10"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: This new AI-powered tool reflects a growing trend. From Google Photos to Adobe's Firefly, more apps are integrating smart algorithms to enhance and ..."
+    publishedDateTime: 2024-02-23T11:39:00Z
+    webUrl: "https://www.techspot.com/news/102006-microsoft-photos-app-gains-ai-object-removal-windows.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 86
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-23-image-11.jpg"
+        width: 1703
+        height: 1080
+        isCached: true
   - title: "Microsoft plans €2B investment in AI and cloud infrastructure in Spain"
     excerpt: "Microsoft’s European charm offensive continues, with a collaboration with the Spanish Government to strengthen cybersecurity and implement AI in the Spanish administration."
     publishedDateTime: 2024-02-22T14:40:00Z
@@ -140,6 +154,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/x6LMvCvfaP44cXGUjWmq3V-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft turns to NVIDIA’s competitor Intel to strike AI chip deal"
+    excerpt: "Intel scores a big client in Microsoft Corp for Intel Foundry, its sustainable systems foundry business tailored for making AI chips."
+    publishedDateTime: 2024-02-23T14:19:00Z
+    webUrl: "https://interestingengineering.com/innovation/microsoft-intel-ai-chip"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 71
+    images:
+      - url: "https://cms.interestingengineering.com/wp-content/uploads/2024/02/lalala_b81534.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft and iCreate launch iMPEL-AI program to catalyze AI startups in India"
     excerpt: "Microsoft and iCreate, in the presence of Minister Chandrasekhar launched iMPEL-AI (iCreate-Microsoft programme for Emerging Leaders in Artificial Intelligence) programme."

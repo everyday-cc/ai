@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmiweb.com/press-release/2024-02-19/global-healthca
 webUrl: "https://www.pharmiweb.com/press-release/2024-02-19/global-healthcare-biometrics-market-to-surge-to-us-208-billion-by-2033-with-facial-recognition-dr"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Translation Management Systems Market worth $5.7 billion by 2030 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The Translation Management Systems Market is set to experience rapid growth, projected to surge from USD 2.2 billion in 2024 to USD 5.7 billion by 2030, at a CAGR of 17.2% during the forecast period of 2024–2030,"
-    publishedDateTime: 2024-02-19T15:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/19/9964070.htm"
+  - title: "GHMC invites bids for facial-recognition biometrics attendance system through mobile app"
+    excerpt: "The Greater Hyderabad Municipal Corporation (GHMC) has, through a request for proposals (RFP), invited bids from contractors for the introduction of facial recognition biometrics for recording attendance at all levels. Describing it as an ‘artificial ..."
+    publishedDateTime: 2024-02-23T15:12:00Z
+    webUrl: "https://www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: The Hindu
+      domain: thehindu.com
+    quality: 35
+    images:
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "QEIkxnlPNTyQG3W2ZkutbfHTPy3hQQyG4kg5KdD40rynadH66lNY2eN7MjiNjoHCWizRhYdFfhmyNVBmLAxWEOmm0Ln1Vywp6eRjJn72D0FZOSxY73nloPV280kpUz4Sr1JN3nqxPn1gpWn35x+TyK3Riy/m5WmK4nVVr2m9kWg7/7Sa/U/M8NvQWVx0KEXYNct4IAbIaUWmj9hDCJZlfVTC+Wpa5WZ8XkqeUoHEUexNgOHgSzw8yHP5+wD/QUp/m/LiD0AFDDWFk5gjsCNI829JYRi0nItlUSGDzQuAyN+yVqPp7ft0vh71Zh+GRfuHZswQa18I3mIedPYtNqfgLl3zd22FP3T3MdQEbn7giVo=;q2mme1ZmqvxdzVIk0BQ5SQ=="
 ---

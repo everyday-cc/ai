@@ -24,17 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Nokia Announces GenAI Assistant Integrated with NetGuard Cybersecurity Dome to Strengthen Network Protection"
-    excerpt: "Cybersecurity Dome is Nokia’s extended detection response market (XDR) security platform that provides CSPs and enterprises with strong, 5G network defenses through a series of AI and machine learning capabilities. Amid the rising sophistication and ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/nokia-announces-genai-assistant-integrated-with-netguard-cybersecurity-dome-to-strengthen-network-protection/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
-
 secured: "5u27v42af8xwKijkp7mq4/jnpelhUKGj5CijSnBogA3kYpAe6kfCHWeVKNKskLGsR4RB8LCDyyY9o3iwM5ynlTp4N3S5mHz2AFHJeDDn+/QB+CuxwOtEqto00S4KYT5Ewex9mf5tO+C/rMS70UderGILuSb6ZvsMtSLuC1n23P1CEt9Xtk+UNLLb1hgclOPvE8xP1Azc5cI0hgMCNaLDsx5H0vEPqYi3FPjJ5caka7rZyWxHecFOyksZJqIrsVLnYqFRggFfWA9BYXap2uwVICOxhPZZuJB7qvCHByGB9VESne5JCXyBkTEWMaO1gcRecgPL27P5X9z6g8IDKGiDJ6nFQLJmLiIL86miAHvdiMI=;DQanpsU4AfTddyV/TFkMbw=="
 ---
 

@@ -26,17 +26,6 @@ images:
     height: 576
     isCached: true
 
-related:
-  - title: "Apple Vision Pro: Returning $3,500 Device Over Comfort, Lack of Apps and Price"
-    excerpt: "The Apple Vision Pro has now been available for two weeks — and some of Apple’s most dedicated customers are returning the device to get back their $3,500. Also: Apple’s longest-serving product designer retires,"
-    publishedDateTime: 2024-02-18T13:45:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2024-02-18/apple-vision-pro-returning-3-500-device-over-comfort-lack-of-apps-and-price-lsrk88mq"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 30
-
 secured: "I+d15BfWatJepc2sGsZ2ehdV6TsfdIxUUhb2Ka6AuZTUsHCXvqjQLj1izq9piYAegAgUNEUtg9X6pMXui1BQeAxn+Diphcpwn+7MsrGV/HmmNveTW7kqMcVMoz1zugn+MWXfcZsLSs8jdlWjEqPhGseXL8nBxa/gpjDmpAsLn6QShGSzV1HidSvrj7x089viup/h43qG3f89Xj/DytKlfQFBQXGGsotYSXozOVoH90RyvdRN6frR64so3Pkz/B6o8d70fjBiv/eXAOsznx5YZYY1vhOB7JHG4rhNdB14EXnTDwlpM9tgNVvE7RgiWYfqRqdOJM0G7J4D6KQ0096/xojq+9JfcvwlZyzDBzzBqaE=;ys82DQNU804ZZLkUREaWcQ=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Google suspends AI chatbot from creating human images after it put people of color in Nazi-era uniforms"
 excerpt: "Google has suspended the Gemini AI chatbot’s ability to generate images of people and has vowed to fix what it called “inaccuracies in some historical” depictions."
 publishedDateTime: 2024-02-23T09:15:00Z
-originalUrl: "https://www.seattletimes.com/business/technology/google-suspends-ai-chatbot-from-creating-human-images-after-it-put-people-of-color-in-nazi-era-uniforms/"
-webUrl: "https://www.seattletimes.com/business/technology/google-suspends-ai-chatbot-from-creating-human-images-after-it-put-people-of-color-in-nazi-era-uniforms/"
+originalUrl: "https://www.seattletimes.com/business/technology/google-suspends-ai-chatbot-from-creating-human-images-after-it-put-people-of-color-in-nazi-era-uniforms/?n=@"
+webUrl: "https://www.seattletimes.com/business/technology/google-suspends-ai-chatbot-from-creating-human-images-after-it-put-people-of-color-in-nazi-era-uniforms/?n=@"
 type: article
-quality: 3
+quality: 1
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: seattletimes.com
 
 topics:
-  - Google AI
   - AI
 
 related:
@@ -34,6 +33,6 @@ related:
         height: 550
         isCached: true
 
-secured: "ktQXnNHc2S1mx2Vz8qNBt29n52XigXVju/L7Udu9xRhXs6g5lH34jgE4abDa9eQGGstTO6emlzRVdtkOw1w1Ue1p12ubrSvDK8QkRucPtD4YHQokIE5OHAcinhx+vYZJrK+V1pgfkszG6hoK2RG1fvUSCpuvVYK+gJLn+RnSmU5zW210/UK2/0NwcUAtKXRbCFOjZHIrRme0ixPLiVuUmuApiSw5AnhXCIfcvTiGvaAIA+yZ5iK3/UOOv2Id2rCJCi0rX3et5+ik+SC6A/huMc3TXKfdqUTXJFtQkb9fZbHVdV+hd2/lhc7XWwMKOL317AThdvtCxzUngYn4VxsJamngmZSFMuAonVdPiw+rPc3w85cSZUXIJQvmsTImXPnXam152v0HlhB+Y40VcdZpt5EbPiLDY8vAqz5DNSQM/Xb4e1U60RsLtyOoJNbcZpMjb5UhwFZ3MTb/cLdsj8eKic10I2upv1LaUDi7yPT+ezFRZh8Dqy7HBHp1NMpSyiUlTcOGTAGl24Y3pl9aFebnHQ==;LGjc04ttgMVtektdLKP0qQ=="
+secured: "bvFB7f8dfGtt+FtNjUrEotb9LSRwYEr493x7+T0p9a/12k2xwXpKPiZs8m/Z1y2R6xm3bd3AzAG+nYYwAG+5NO0biE7v/nvk8pKwz9O/DWZKhsDTOGxJWlJpb0fugu5mivafNvrdgEQr1Uql6FkjmdPCJnVIi4ZxKcJo5M6iBz0HTaRDpW/e1TNFNaLEHk8b4oSQOQ2SK2/2wYDHWBLYJbcsIB6Vn9wYTykZ1uZfGImClA9XsyqZQGSA5cFgsNRaRsBz4t5RZd71mGlNDAmI7cb1CDJVYY3c/5Ej37AkFHoumG65KBcRGT3mEk/A8l51j5g7K27L2kAnrY+yjLF2BkQ3FNzyPgtxiYazntuOAkPnHAiFySv2V/aPaRS9oFehS+bmc0GH0J0QrmV6k/WaHqinLTHpP17rAs5YEtgGT1dPGRbYgvECxCONL6ICR/2RgTixtnBVqDZXLfjaVJiyZMU/ecOa1jesHrDaJaauEFnYgYIEqBijjkVAOosSNlUptHwtFsTwvfFTS1IQ27Y/qA==;O+IkUlD9fqKuIaWDF2uTmQ=="
 ---
 

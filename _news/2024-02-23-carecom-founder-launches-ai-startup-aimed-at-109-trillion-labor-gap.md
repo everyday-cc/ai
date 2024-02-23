@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-l
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/amp/"
 type: article
 quality: 87
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Startup launches AI-backed education, health, edutainment content service"
-    excerpt: "A start-up has recently announced that it will provide curated education, health, and edutainment services targeting specific needs using artificial intelligence."
-    publishedDateTime: 2024-02-18T14:18:00Z
-    webUrl: "https://www.business-standard.com/companies/start-ups/startup-launches-ai-backed-education-health-edutainment-content-service-124021800332_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 33
   - title: "Levr.ai closes $1-million seed round for AI-powered loan platform for small businesses"
     excerpt: "Vancouver-based FinTech startup Levr.ai has secured $1 million CAD in seed financing to continue scaling its artificial intelligence (AI)-powered loan software for small businesses. The seed round comes a year after Levr.ai raised $1-million in pre-seed ..."
     publishedDateTime: 2024-02-20T00:00:00Z

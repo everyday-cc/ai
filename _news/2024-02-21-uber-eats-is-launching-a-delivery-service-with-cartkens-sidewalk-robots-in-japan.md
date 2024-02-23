@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/"
 type: article
 quality: 84
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Uber Eats to begin self-driving robot deliveries in Japan"
+    excerpt: "Uber announced that its Uber Eats business is partnering with Mitsubishi Electric and delivery robotics company Cartken to begin transporting food using self-driving robots in Japan. The sidewalk ..."
+    publishedDateTime: 2024-02-21T02:03:00Z
+    webUrl: "https://www.cnbc.com/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 91
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107375734-1708453458974-cut10_043.jpg?v=1708453538"
+        width: 2400
+        height: 1601
+        isCached: true
   - title: "No tip required: Self-driving robots will now deliver Uber Eats orders in Tokyo"
     excerpt: "These robots are equipped with artificial intelligence and advanced sensors to navigate sidewalks and detect any obstacles in their path. These robots have six wheels and can carry up to 27 litres of cargo. They travel at a walking pace of up to 3.3 miles ..."
     publishedDateTime: 2024-02-21T10:55:00Z
@@ -46,6 +62,20 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-107883741,width-1280,height-720,resizemode-4/107883741.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Cruise May Resume Self-Driving Taxi Tests in Texas Soon"
+    excerpt: "GM-owned Cruise is getting ready to put its self-driving taxis back on the road, four months after one of its vehicles ran over a woman in San Francisco and dragged her 20 feet. The driverless car company is reportedly looking to resume robotaxi testing ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/151043/cruise-may-resume-self-driving-taxi-tests-in-texas-soon"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 54
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/c/cruise-may/cruise-may-resume-self-driving-taxi-tests-in-texas-soon_gaue.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Uber Eats is launching robot deliveries in Japan"
     excerpt: "Uber announced a partnership Tuesday between robotics firm Cartken and Japanese industrial titan Mitsubishi Electric to launch autonomous sidewalk robots that will start delivering Eats ... Cartken’s Model C robots use AI and computer vision technologies ..."

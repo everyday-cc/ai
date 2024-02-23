@@ -51,6 +51,17 @@ related:
         width: 1200
         height: 685
         isCached: true
+  - title: "Nvidia briefly hits $2 trillion valuation as AI frenzy grips Wall Street"
+    excerpt: "The milestone followed another bumper revenue forecast from the chip designer that drove up its market value by $277 billion on Thursday - Wall Street's largest one-day gain on record. Its rapid ascent in the past year has led analysts to draw parallels to the picks and shovels providers during the gold rush of 1800s as Nvidia's chips are used by almost all generative AI players from chatGPT-maker OpenAI to Google."
+    publishedDateTime: 2024-02-23T16:24:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 38
 
 secured: "xjLjECdIRzYIpQRc4cU3SRkvDweEwDIkwQVMHYJ8jFsIMIDWKM0vmYYjFOG79LbnsIJVc6qslhccgR0xZCI/sqKZCcmZL4zaGpG6Tcwf2cIpYv8r/yMzoxno78hpoBmeaivaKWY38Km+Q6FDRuI3A+8VEVidPd/W5bkg6nei40Py0AA070bFCLGZZ03IiALTUFkCBwuR4w/K1bNmUFZmkZUqA8wKalmHIdl9Avrr6aujX0Cs6dNR6rFB9WTTe62LYOB0PIoZtI2lEpizklMyNqcRXmP9u4Z4AjlyVaLu/8ihGic6IrVtc9Z3QcSalB/HDnAUPL7jmVsdjwyl4UVAndXGvjaxFsMhLyBa4CxYMdM=;KGyoJuq/GrhAdoO5q6q9SQ=="
 ---

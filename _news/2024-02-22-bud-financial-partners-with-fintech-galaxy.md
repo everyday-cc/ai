@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Insights From The 2023 Fintech Index"
-    excerpt: "Much ink has been spilled about where fintech is going. It is refreshing to ground this in a retrospective. In this vein, I wanted to deep dive on three reflections from this excellent report by F-Prime: The 2023 Fintech Index."
-    publishedDateTime: 2024-02-18T15:29:00Z
-    webUrl: "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/"
-    ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cccfddcfc776b96c7ac6f9/0x0.png?format=png&height=900&width=1600&fit=bounds"
-        width: 1430
-        height: 782
-        isCached: true
   - title: "Bud Financial, Fintech Galaxy in tie-up to boost Open Banking"
     excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. Tangible benefits This collaboration is all about ..."
     publishedDateTime: 2024-02-22T00:00:00Z

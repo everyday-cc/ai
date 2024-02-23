@@ -34,6 +34,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Google DeepMind C.E.O. Demis Hassabis on the Path From Chatbots to A.G.I."
+    excerpt: "For more audio journalism and storytelling, download New York Times Audio, a new iOS app available for news subscribers. Hosted by Kevin Roose and Casey Newton Produced by Davis Land and Rachel Cohn Edited by Jen Poyant Engineered by Chris Wood Original mu ..."
+    publishedDateTime: 2024-02-23T10:04:00Z
+    webUrl: "https://www.nytimes.com/2024/02/23/podcasts/google-deepmind-demis-hassabis.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 48
   - title: "Google Is Giving Away Some of the A.I. That Powers Chatbots"
     excerpt: "Those are resources that most organizations — let alone individuals — do not have. Cade Metz writes about artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas of technology. More about Cade Metz Nico Grant is a ..."
     publishedDateTime: 2024-02-21T13:00:00Z

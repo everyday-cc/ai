@@ -67,7 +67,7 @@ related:
     provider:
       name: BizTech
       domain: biztechmagazine.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202402/AI%20myths%20hero-%20sized%20for%20CMS_.jpg?itok=suO1VbZu"
         width: 1440

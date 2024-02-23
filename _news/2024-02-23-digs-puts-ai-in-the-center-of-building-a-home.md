@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Intersection of Artificial Intelligence and Society"
-    excerpt: "AI won’t replace people; instead, people with AI will replace people without AI. According to experts, the increasing prevalence of artificial intelligence is expected to improve the lives of the majority of people in the next decade."
-    publishedDateTime: 2024-02-18T15:52:00Z
-    webUrl: "https://dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/"
-    ampWebUrl: "https://dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/amp/"
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 61
-    images:
-      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "AI and the classroom"
     excerpt: "The News spoke with members of the University’s English and Computer Science departments, along with faculty associated with Poorvu and the Executive Committee, to recap the University’s evolving response to the rise of artificial intelligence."
     publishedDateTime: 2024-02-20T04:58:00Z

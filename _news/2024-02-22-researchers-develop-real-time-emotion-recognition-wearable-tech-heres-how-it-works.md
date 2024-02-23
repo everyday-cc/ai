@@ -5,9 +5,11 @@ excerpt: "Kang, in his research paper \"On the Praxes and Politics of AI Speech 
 publishedDateTime: 2024-02-22T11:02:00Z
 originalUrl: "https://www.techtimes.com/articles/301938/20240222/researchers-develop-real-time-emotion-recognition-wearable-tech.htm"
 webUrl: "https://www.techtimes.com/articles/301938/20240222/researchers-develop-real-time-emotion-recognition-wearable-tech.htm"
+ampWebUrl: "https://www.techtimes.com/amp/articles/301938/20240222/researchers-develop-real-time-emotion-recognition-wearable-tech.htm"
+cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301938/20240222/researchers-develop-real-time-emotion-recognition-wearable-tech.htm"
 type: article
-quality: 0
-heat: 0
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,7 +19,14 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
-secured: "6plSjEf5AUw8AkMDCiYL/G+8gFvOLATNunikrF1RtRoUkQrOJXxVqgL0OfAm/FziEdt1OE9CcdmQWdNzV3MTfulj9cZ7J/4uaU3B7+r+39S1o3p0GZrTk+ZJCp2xG861LurTbKzqefDyrXr7s9/d3IpFI7h/ARtm9T0zCdLupW52g1GwUnorEGIpoIT4JqKbDNUG5/mil/8x/hJd2e371+AMQ3g5arQqf5CRN5aZw/pFKg/TYqDECfMi+x8KerqM9pmt2UwhaDpVo1H3at1RYDbOM093HD4FIdE3AJXVW1g7jGB7knVcA4+A1Lf4uMi2GkryWNUzt4gV1XdaJN++7dI+UEpxo3OSsjtR7skaXAP3sx13jz0HcKfk+K3Ma3FXX6IqS22VUV7nG/ptCTfFZF7pr4BGFq9MbaTB+k6CP3ZBXJqsZsUGQaM8uijXx0Z2rluqLY4iqWeyVsmejsF6KK3WYx82DUBHS89n+uzL90C4da9+nCoNRH3rRDmeIpT1JTp28q4IHGG9lY3nBpK59w==;9T9NN5TUZEnwJSuXgxCw6w=="
+images:
+  - url: "https://1734811051.rsc.cdn77.org/data/images/full/443992/researchers-develop-real-time-emotion-recognition-wearable-tech-how-it-works.jpg"
+    width: 1024
+    height: 683
+    isCached: true
+
+secured: "B3OTVCOyFuoHtu1M0aemdpwdaR64XKq/MIS+9BBSOoMyf6LGdAvscI905gdA8lHBEy6fiH6iZUoc2YpmGDqcZmiEQX8ELR+ewaKv79xEhttCNkFXVCGtkn1amJ5FblpMM0wgXaN6+vidfFi7bjlbFH1vya6+mItZAfqz+T5sDKsgYrXnVd1S5++LBf2kwqxOSp0F6uxxDEpWtepV7/K5BGwntS6PcSMeY2DF51R7WJCRpFBl7w/M1534uw8NMd3mlOt3DwE5fTTRL3pPDRciZ34QFbCu9neU+9JMU/QliOmtUwSM/8CjeLdR0HHvGXp7jj8P2XkxkQm7/DRe2M6XGpAknjNxLmaZgLBWOw1V5ls=;mE+uYR12+KTws9AAq7EM1Q=="
 ---
 

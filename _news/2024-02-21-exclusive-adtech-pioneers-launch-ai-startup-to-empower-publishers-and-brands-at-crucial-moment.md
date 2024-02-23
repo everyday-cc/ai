@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "AI Startup Firsthand Offers Brands New Control Over Content"
+    excerpt: "Adtech experts from companies like DoubleClick and AppNexus have launched an innovative AI startup, Firsthand. It gives brands and publishers the ability to create their own AI representatives, enhancing user engagement, privacy, and content control."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.dmnews.com/ai-startup-firsthand-offers-brands-new-control-over-content/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 17
+
 secured: "vmPkv377orWR2kAf1/WZ+pX4uzn0ehhXHpNk1pBOa6KVDZLO+BXmczpubDpnHe6tFmZtNAxTiQ+ycOszQnGu0nPYWYBcU/GseuJztJ4R1Xclfrcprwfgq212v5Pzf1KM0DDj5l0yeklMtQ10gNtATQrglYaS8ubIlrzDABrN5mM7FLyxFYVmVHzJquG/Z1xOrmM4xIKKdzqkZJKmcllNYrycA303Yrdxz6LsvWNw2LxViPwsMLO+KIT7RepeG6jU9aNyBvie7IWOGKv/A3oCKtbTOPFJ3p1PjBapJIhW0zXjN3pPp7co/UVoBxbzNKE7J4721tOQ5QS+q2VvQ3F6eZwmvq+kfbgfMxyhvNI0In4=;vBbxzPNLvBF2g0tmcf8igQ=="
 ---
 
