@@ -43,20 +43,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "CoSupport AI Achieved the Patent for Its Customer Support Solutions That Innovate Business Operations"
-    excerpt: "Three years of practice and research resulted in two major advancements. In the fall of 2023, the team introduced the beta version of the constellation of AI solutions for customer support; by the beginning of 2024, there were three products in the company ..."
-    publishedDateTime: 2024-02-18T00:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cosupport-ai-achieved-the-patent-for-its-customer-support-solutions-that-innovate-business-operations-1033077939"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/m8peYqu8QTRJ07Vav1My3LsSxxP2/89121825-1708219871-1.jpg"
-        width: 800
-        height: 535
-        isCached: true
   - title: "Health Beat: AI advances in healthcare"
     excerpt: "Artificial Intelligence is revolutionizing the healthcare landscape, especially in cardiovascular medicine. From precise diagnosis to personalized treatment plans, experts say medical professionals are leveraging AI technologies to help save lives."
     publishedDateTime: 2024-02-21T00:00:00Z

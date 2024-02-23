@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-22T09:59:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-every-investor-needs-to-own-today-1033094009"
 webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-every-investor-needs-to-own-today-1033094009"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 related:
   - title: "7 Ways to Invest in AI Smart Home Devices"

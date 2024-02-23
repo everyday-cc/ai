@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/excellent-nvidia-e
 webUrl: "https://markets.businessinsider.com/news/stocks/excellent-nvidia-earnings-confirm-the-epic-opportunity-in-ai-1033094503"
 type: article
 quality: 67
-heat: 167
+heat: 169
 published: true
 
 provider:

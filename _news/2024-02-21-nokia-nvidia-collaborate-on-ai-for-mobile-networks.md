@@ -217,6 +217,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Asian Chip Stocks Gain After Nvidia Signals Booming AI Demand"
+    excerpt: "Shares of Asian chip makers rose Thursday after strong earnings from Nvidia buttressed expectations of booming global demand for semiconductors used in artificial intelligence."
+    publishedDateTime: 2024-02-22T10:17:00Z
+    webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2?mod=tech_lead_pos2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
   - title: "Nvidia Has Begun Sampling Two New AI Chips for China Market, Says CEO"
     excerpt: "The chips include most of Nvidia's newest features for AI work, but have had some of their computing power cut back to comply with new U.S. rules, according to the newsletter's analysis of the chips' specifications. Reuters reported earlier this month that ..."
     publishedDateTime: 2024-02-22T06:23:00Z

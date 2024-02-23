@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-22T15:00:00Z
 originalUrl: "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006"
 webUrl: "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006"
 type: article
-quality: 84
-heat: 114
+quality: 86
+heat: 116
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1708458393-AIEthicsandJobsintheAgeofAutomation.jpg?format=pjeg&auto=webp"

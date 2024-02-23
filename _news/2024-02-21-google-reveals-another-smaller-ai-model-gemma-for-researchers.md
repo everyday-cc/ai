@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/google-reveals-another-smaller-ai-model-g
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-reveals-another-smaller-ai-model-gemma-for-researchers/"
 type: article
 quality: 89
-heat: 209
+heat: 211
 published: true
 
 provider:

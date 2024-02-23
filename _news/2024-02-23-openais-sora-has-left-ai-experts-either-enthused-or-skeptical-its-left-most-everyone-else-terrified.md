@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/"
 type: article
 quality: 73
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://menafn.com/updates/pr/2024-02/21/TC_a5f74image_story.jpg"
         width: 960
         height: 640
-        isCached: true
-  - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
-    excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
-    publishedDateTime: 2024-02-18T00:59:00Z
-    webUrl: "https://dailyhodl.com/2024/02/17/two-ai-related-crypto-assets-rally-as-openai-launches-text-to-video-artificial-intelligence-model/"
-    type: article
-    provider:
-      name: The Daily Hodl
-      domain: dailyhodl.com
-    quality: 39
-    images:
-      - url: "https://dailyhodl.com/wp-content/uploads/2024/02/two-rally-text-video.jpg"
-        width: 1365
-        height: 800
         isCached: true
   - title: "OpenAI begins testing its text-to-video AI Sora with creatives"
     excerpt: "OpenAI has unveiled its latest AI model, although it's not being released to the public just yet. Sora is a text-to-video model."

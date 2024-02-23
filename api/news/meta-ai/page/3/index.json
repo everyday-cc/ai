@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-31-gopi-krishnaswamy-founder-ceo-llama-author-teacher-google-leadership-institute-to-conduct-session-on-mindfulness-for-sustained-success.md",
+      "title": "Gopi Krishnaswamy, Founder & CEO, Llama, Author, Teacher - Google Leadership Institute to conduct session on ‘Mindfulness for Sustained Success’",
+      "excerpt": "Gopi Krishnaswamy, a Zen practitioner, teacher, and author, is a senior executive turned Mindfulness Meditation teacher who walked away from conventional corporate success into Zen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.media4growth.com/ooh-news/gopi-krishnaswamy-founder-ceo-llama-author-teacher-google-leadership-institute-to-conduct-session-on-mindfulness-for-sustained-success-7266",
+      "originalUrl": "https://www.media4growth.com/ooh-news/gopi-krishnaswamy-founder-ceo-llama-author-teacher-google-leadership-institute-to-conduct-session-on-mindfulness-for-sustained-success-7266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.media4growth.com/public/thumbs/news/2024/01/7266/m4g-thumbnail-13_440_851.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.media4growth.com/ooh-news/lite/gopi-krishnaswamy-founder-ceo-llama-author-teacher-google-leadership-institute-to-conduct-session-on-mindfulness-for-sustained-success-7266",
+      "cdnAmpWebUrl": "https://www-media4growth-com.cdn.ampproject.org/c/s/www.media4growth.com/ooh-news/lite/gopi-krishnaswamy-founder-ceo-llama-author-teacher-google-leadership-institute-to-conduct-session-on-mindfulness-for-sustained-success-7266",
+      "publishedDateTime": "2024-01-31T05:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "media4growth",
+        "domain": "media4growth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-building-gen-ai-literacy-at-hbcus-to-future-proof-black-families.md",
+      "title": "Building Gen AI Literacy At HBCUs To Future-Proof Black Families",
+      "excerpt": "Today’s Black undergraduates keen on building generational wealth might consider this a “future problem,” but it demands their immediate attention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
+      "originalUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b97c08e6d3b73cdce01372/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/",
+      "publishedDateTime": "2024-01-30T22:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-meta-used-copyright-to-protect-its-ai-model-but-argues-against-the-law-for-everyone-else.md",
       "title": "Meta used copyright to protect its AI model, but argues against the law for everyone else",
       "excerpt": "Meta thinks effectively that everything available on the internet falls under \"fair use,\" because AI models like Llama do not exploit or reproduce copyrighted works. (Although they, in fact, very often, do). However, a few months before pushing this ...",
@@ -1296,92 +1392,6 @@
       "provider": {
         "name": "The Financial Times",
         "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-powerful-ai-tools-for-academics-and-researchers.md",
-      "title": "Powerful AI tools for academics and researchers",
-      "excerpt": "Here are some other articles you may find of interest on the subject of AI tools : For those in the clinical and biomedical sectors, Evidence Hunt is a tool you can’t afford to miss. It specializes in producing literature summaries tailored to your specific research questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/ai-tools-for-academics-researchers/",
-      "originalUrl": "https://www.geeky-gadgets.com/ai-tools-for-academics-researchers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/artificial-intelligent-powered-tools-for-academics-and-researchers.jpg",
-          "width": 1280,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T11:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-how-to-build-a-chatbot-with-the-llama-2-model.md",
-      "title": "How to build a chatbot with the Llama 2 model",
-      "excerpt": "Open-source large language models like Llama 2 can be used by anyone with basic coding knowledge to build on or modify or just use a copy of the model. Building a chatbot using such a model is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/how-to-build-a-chatbot-with-the-llama-2-model/article67701325.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/how-to-build-a-chatbot-with-the-llama-2-model/article67701325.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/s8vxk0/article67701321.ece/alternates/FREE_1200/2023-12-14T140124Z_457661628_RC2CX1AR8QDS_RTRMADP_3_HEALTH-AI-WHITE-HOUSE.JPG",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/how-to-build-a-chatbot-with-the-llama-2-model/article67701325.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/how-to-build-a-chatbot-with-the-llama-2-model/article67701325.ece/amp/",
-      "publishedDateTime": "2024-01-03T19:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -401,6 +401,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-08-sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure.md",
+      "title": "Sarvam AI partners Microsoft to bring its voice-based AI tools to Azure",
+      "excerpt": "Indian generative AI startup Sarvam AI on Thursday announced its collaboration with Microsoft to make its Indic voice Large Language Model (LLM) available on Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure-857334",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure-857334",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2024/02/08/1421652-health.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-assosia-and-simpson-associates-team-up-to-unlock-product-matching-potential-with-machine-learning.md",
       "title": "Assosia And Simpson Associates Team Up To Unlock Product Matching Potential With Machine Learning",
       "excerpt": "The Assosia-Simpson Associates POC explores the potential of ML to revolutionise product matching. By creating, training, and fine-tuning multiple models based on specific datasets, this project aims to unlock hidden connections and deliver tangible benefits, such as:",
@@ -456,40 +499,6 @@
       "provider": {
         "name": "Finanznachrichten",
         "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure.md",
-      "title": "Sarvam AI partners Microsoft to bring its voice-based AI tools to Azure",
-      "excerpt": "Indian generative AI startup Sarvam AI on Thursday announced its collaboration with Microsoft to make its Indic voice Large Language",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure",
-      "originalUrl": "https://glamsham.com/world/technology/sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure?amp",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure?amp",
-      "publishedDateTime": "2024-02-08T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
         "images": null,
         "publishers": null,
         "authors": null

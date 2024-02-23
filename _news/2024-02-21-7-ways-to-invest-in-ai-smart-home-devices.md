@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-s
 webUrl: "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices"
 type: article
 quality: 51
-heat: 75
+heat: 71
 published: true
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
+    quality: 51
   - title: "VW partner Xpeng to hire 4,000, invest in artificial intelligence"
     excerpt: "Xpeng, which has VW Group as a partner, plans to release around 30 new products or revised models within three years."
     publishedDateTime: 2024-02-19T13:14:00Z

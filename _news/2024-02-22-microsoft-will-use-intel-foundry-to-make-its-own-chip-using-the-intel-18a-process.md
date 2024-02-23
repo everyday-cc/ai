@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/"
 type: article
 quality: 101
-heat: 231
+heat: 233
 published: true
 
 provider:

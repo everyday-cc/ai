@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: The Guardian
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI deepfakes come of age as billions prepare to vote in a bumper year of elections"
+    excerpt: "Governments and tech companies are locked in debate over how best to police an information ecosystem that is at serious risk of disruption"
+    publishedDateTime: 2024-02-22T23:00:00Z
+    webUrl: "https://www.theguardian.com/world/2024/feb/23/ai-deepfakes-come-of-age-as-billions-prepare-to-vote-in-a-bumper-year-of-elections"
+    ampWebUrl: "https://amp.theguardian.com/world/2024/feb/23/ai-deepfakes-come-of-age-as-billions-prepare-to-vote-in-a-bumper-year-of-elections"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/23/ai-deepfakes-come-of-age-as-billions-prepare-to-vote-in-a-bumper-year-of-elections"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 51
+    images:
+      - url: "https://i.guim.co.uk/img/media/541306e3e1cb3b0b0132f5fde08ac4c24ff8235b/0_0_2500_1500/master/2500.jpg?width=620&quality=85&auto=format&fit=max&s=53f84826792b1ec1902c6007211ee06e"
+        width: 620
+        height: 372
+        isCached: true
   - title: "In the Face of Nefarious Deepfakes, Congress Must Curb the Abuses of Artificial Intelligence"
     excerpt: "In light of a string of notable AI-generated frauds, policymakers should take swift action to stop further abuses."
     publishedDateTime: 2024-02-22T17:02:00Z

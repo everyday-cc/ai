@@ -2,6 +2,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-10-superai-asias-premier-artificial-intelligence-conference-debuts-in-singapore.md",
+      "title": "SuperAI, Asia's Premier Artificial Intelligence Conference, Debuts in Singapore",
+      "excerpt": "Edward Snowden, Benedict Evans and Balaji Srinivasan amongst others to take the stage at SuperAI from 5-6 June 2024 SINGAPORE, Jan. 10, 2024 /PRNewswire/ --SuperAI, Asia's premier artificial intelligence (AI) conference,",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaysiasun.com/news/274090199/superai-asia-premier-artificial-intelligence-conference-debuts-in-singapore",
+      "originalUrl": "https://www.malaysiasun.com/news/274090199/superai-asia-premier-artificial-intelligence-conference-debuts-in-singapore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1705653033793.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T02:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona.md",
+      "title": "Waymo’s Driverless Cars Are Hitting the Highway Sans Safety Drivers in Arizona",
+      "excerpt": "“Cruise’s implosion has left Waymo as the undisputed leader in the driverless taxi market ... especially loves learning about and sharing big ideas and advances in artificial intelligence, computing, robotics, biotech, neuroscience, and space.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2024/01/10/waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona/",
+      "originalUrl": "https://singularityhub.com/2024/01/10/waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-ai-acquisitions-whos-leading-the-charge-and-why.md",
       "title": "AI Acquisitions: Who’s Leading the Charge and Why?",
       "excerpt": "\"Explore the dynamic world of AI acquisitions by major tech players. Dive into strategies, challenges, and impacts",
@@ -1252,110 +1329,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-self-driving-vehicles-are-finding-a-home-in-industrial-operations.md",
-      "title": "Self-Driving Vehicles Are Finding a Home in Industrial Operations",
-      "excerpt": "Autonomous trucks may be running into trouble on the highway, but the technology behind self-driving vehicles is getting traction deeper inside shipping operations in freight yards, warehouses and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-vehicles-are-finding-a-home-in-industrial-operations-096784fe?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-vehicles-are-finding-a-home-in-industrial-operations-096784fe?mod=latest_headlines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-903976/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T19:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x.md",
-      "title": "Waymo says its self-driving cars are safer than human drivers by up to 10x",
-      "excerpt": "Waymo claims its self-driving cars are 57% less likely to be in a crash and 85% less likely to injure anyone – or 90% less likely in SF.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/",
-      "originalUrl": "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/12/BlogAsset1_SafetyPaper_Hero_VR4-2.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T20:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

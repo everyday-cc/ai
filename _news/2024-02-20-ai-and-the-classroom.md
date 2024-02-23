@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Digs Puts AI In The Center Of Building A Home"
+    excerpt: "This tool enhances the build process by providing instant, detailed responses to questions related to product information, installation decisions, specifications, warranties, and more using natural language processing. Digs AI also produces a perfectly ..."
+    publishedDateTime: 2024-02-22T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/"
+    ampWebUrl: "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d69484e5055638edd7b24c/0x0.jpg?format=jpg&crop=1617,909,x292,y158,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "The Intersection of Artificial Intelligence and Society"
     excerpt: "AI won’t replace people; instead, people with AI will replace people without AI. According to experts, the increasing prevalence of artificial intelligence is expected to improve the lives of the majority of people in the next decade."
     publishedDateTime: 2024-02-18T15:52:00Z

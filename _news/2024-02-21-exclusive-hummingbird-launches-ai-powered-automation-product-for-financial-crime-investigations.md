@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/automation/exclusive-hummingbird-launches-
 webUrl: "https://venturebeat.com/automation/exclusive-hummingbird-launches-ai-powered-automation-platform-for-financial-crime-investigations/?n=@"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "EXCLUSIVE: SoundHound's AI Voice Technology Revolutionizes Restaurant, Automotive Industries"
-    excerpt: "\"Spatial computing also undoubtedly needs to look to voice and conversational AI to fully unlock its ... We feel like we’ve earned the recognition we’re getting,\" he said."
-    publishedDateTime: 2024-02-21T10:28:00Z
-    webUrl: "https://www.benzinga.com/top-stories/24/02/37238490/exclusive-soundhounds-ai-voice-technology-revolutionizes-restaurant-automotive-industries"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37238490"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37238490"
+  - title: "Allocations, AI-powered investing platform, tops $2 billion as alternative asset demand booms"
+    excerpt: "Consumer fintech apps have trained a new generation to expect slick digital experiences. So there’s a huge opportunity for platforms like Allocations to become the mobile back office for alternative investing. As Advani says, “AI will be instrumental ..."
+    publishedDateTime: 2024-02-22T12:38:00Z
+    webUrl: "https://venturebeat.com/ai/allocations-ai-powered-investing-platform-tops-2-billion-as-alternative-asset-demand-booms/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/July-18--2023--Brazil--In-This-Photo-Ill.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_painting_of_a_large_bag_of_money_in_front_of_82336f47-5b3b-4293-aac9-902411ec5923-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
   - title: "Exclusive: Hummingbird launches AI-powered automation platform for financial crime investigations"
     excerpt: "But even as the threats multiply thanks to gen AI — and the losses pile-up, with an estimated $485.6 billion lost to fraud globally in 2024, according to research from Nasdaq — there are technologists working on new ways to use AI and machine learning ..."

@@ -225,6 +225,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Asian Chip Stocks Gain After Nvidia Signals Booming AI Demand"
+    excerpt: "Shares of Asian chip makers rose Thursday after strong earnings from Nvidia buttressed expectations of booming global demand for semiconductors used in artificial intelligence."
+    publishedDateTime: 2024-02-22T10:17:00Z
+    webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2?mod=tech_lead_pos2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
   - title: "Nvidia rises most in about nine months as AI drives sales"
     excerpt: "Revenue in the current period will be about US$24 billion ($32.24 billion), the company said in a statement Wednesday."
     publishedDateTime: 2024-02-22T15:08:00Z

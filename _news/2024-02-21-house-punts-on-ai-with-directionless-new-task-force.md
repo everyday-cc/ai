@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionle
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/amp/"
 type: article
 quality: 87
-heat: 141
+heat: 137
 published: true
 
 provider:

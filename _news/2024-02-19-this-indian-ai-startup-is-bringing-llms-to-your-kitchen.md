@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trends Shaping India’s Healthcare Startup Landscape"
-    excerpt: "We anticipate the startup investments to be limited to the $1 Bn mark this ... We have seen exponential growth of AI and its promise (field changes every few weeks now) last year. 2024 will see increased interest in AI-first startups which leverage ..."
-    publishedDateTime: 2024-02-18T00:00:00Z
-    webUrl: "https://inc42.com/resources/trends-shaping-indias-healthcare-startup-landscape/"
-    ampWebUrl: "https://inc42.com/resources/trends-shaping-indias-healthcare-startup-landscape/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/trends-shaping-indias-healthcare-startup-landscape/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 39
 
 secured: "jf3fYsaWp26KU+uP189kvlEx1ERvAhexRifWsrR5rw3rOaTpcq6DOpnddpnsqMesDXa98jgLOmpxgFMlhHsxcNhd+cP1hmpArIzdDIGFoGw61vWR1y7hi8Hq3fk7SJAFiyTD8yJpslRWyvE9sp+vuDje7HX378PsjAajFlX71WlivPyBmdxpNDgmO/XT7oVYIRXwtlzWlIf7yve2oQxykqxkZeUdCOs3Uo8gNJ5/n036g5wviVkpI+GP3SPfeGba5RY9JtE/+cN/OilFGtYObiP/9MSJzXHE+k75QQIN1ePekJE1vOD8ahCEU1UNriSL8hgpQQk3hW8a2dN56fqW2xfRIKwcdTkgErKeONkmMZjdOpASy2XYciKxy08H6EiNFqFk4fneMjNuT7RY9GqFSlwGpKVTZWjJEADqmCyJWoKT89o5jWgqYqDbfD8TluX3PedU9Aa+WBVafq2fqTJuCNLpYE0YSWUfyABK7dZzikVzZYGvbwSKdwFQy/GzHlVI28qh5kptMO9RS/anXFlqcQ==;YjK+CrY/D0B/pT8FvmxC5Q=="
 ---

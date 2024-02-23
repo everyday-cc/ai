@@ -168,6 +168,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "'Facial recognition' error message on vending machine sparks concern at University of Waterloo"
+    excerpt: "A set of smart vending machines at the University of Waterloo is expected to be removed from campus after students raised privacy concerns about their software."
+    publishedDateTime: 2024-02-22T22:05:00Z
+    webUrl: "https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 29
+    images:
+      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/2/22/vending-machine-facial-recognition-1-6779840-1708642383265.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "Researchers Develop Real-Time Emotion Recognition Wearable Tech: Here's How It Works"
     excerpt: "Kang, in his research paper \"On the Praxes and Politics of AI Speech Emotion Recognition,\" notes that \"there is no scientific consensus on what is meant by \"emotion\"-researchers have examined various phenomena spanning brain modes, feelings, sensations ..."
     publishedDateTime: 2024-02-22T11:02:00Z

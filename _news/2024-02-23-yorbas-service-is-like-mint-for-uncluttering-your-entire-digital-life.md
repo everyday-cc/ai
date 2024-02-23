@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-un
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

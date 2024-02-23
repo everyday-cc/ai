@@ -62,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -86,6 +86,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-allocations-ai-powered-investing-platform-tops-2-billion-as-alternative-asset-demand-booms.md",
+      "title": "Allocations, AI-powered investing platform, tops $2 billion as alternative asset demand booms",
+      "excerpt": "Consumer fintech apps have trained a new generation to expect slick digital experiences. So there’s a huge opportunity for platforms like Allocations to become the mobile back office for alternative investing. As Advani says, “AI will be instrumental ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/allocations-ai-powered-investing-platform-tops-2-billion-as-alternative-asset-demand-booms/",
+      "originalUrl": "https://venturebeat.com/ai/allocations-ai-powered-investing-platform-tops-2-billion-as-alternative-asset-demand-booms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_painting_of_a_large_bag_of_money_in_front_of_82336f47-5b3b-4293-aac9-902411ec5923-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T12:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -166,7 +218,7 @@
       "originalUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1381,49 +1433,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-meet-tara-the-ai-digital-worker-whos-helping-financial-institutions-stop-the-bad-guys.md",
-      "title": "Meet Tara - the AI Digital Worker who's helping financial institutions \"stop the bad guys\"",
-      "excerpt": "To that end, towards the end of last year the firm announced the rollout of its no code Work.AI platform and a partnership deal with a legal software company Epiq. Based in New York, Epiq wanted to build its own legal Digital Workers and is now using WorkFusion’s no code Work.AI platform. Famularo comments:",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys",
-      "originalUrl": "https://diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2024-02/Screenshot%202024-02-07%20at%2010.41.02.png",
-          "width": 1422,
-          "height": 1014,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys?amp",
-      "publishedDateTime": "2024-02-07T14:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

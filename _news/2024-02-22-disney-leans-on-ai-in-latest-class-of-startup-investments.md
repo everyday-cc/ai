@@ -23,6 +23,22 @@ images:
     height: 853
     isCached: true
 
+related:
+  - title: "Disney Taps AI and VR Startups for its 10th Accelerator Program"
+    excerpt: "The Walt Disney Company has announced the 10th class of its annual accelerator program, in which the entertainment giant identifies startups working with emerging technologies and gives them funding and mentorship to boost their growth. Of the five selected for the 2024 class, four are AI companies."
+    publishedDateTime: 2024-02-23T00:10:00Z
+    webUrl: "https://www.inc.com/ben-sherry/disney-taps-ai-vr-startups-for-its-10th-accelerator-program.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/disney-accelerator-program-ai-vr-inc-1845891248_537739_a38tjs.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
 secured: "YbZ+n9gI4IlSaLrhgNvfAIzOjNioqmQQT2FmcyhxMmebwX3R9Ym1C7KS5StJkNUC3mCUFvRbbjorfNigc0KA0LMYGMpTTOdNXZk9lTKN0OUv2sCo1QD5mAsTmNJdbWBZVAC72UqpPZod0slmvDQZSTvDdxnrpc3vplPp+3GnZipfPqozRtJHaD2+ywVBJyH0n7raD6uwCIyak32+VVZhPCscFycM6jDPn7wmIRm3VrWBf1lf2fvLFbTQOIajUNxKPIzYymFT7/oYNCtQLz5zFQWEmbSF4jSoQsS2AVBAOiB6WKq0xTWQ9EM3uYtazbywoiytzv3826XJ8dScdP5C5RENz+Emu1xDrSc2IiPnukNIgbBKyWh1aiPQj9A057rguwPojwvmQ0Dojb4sWttm7s4g3Ty5CK3R/S21nrN2kYoNIO6KrYemVirzdlL45t1YmmeLv+3hyO0Gc56t6OyvVr2u62z12pTgvtIdm31SGUd27UtjVMcSaUdne6t2kG9zpgMATQ1sHoE12nZHmQwkUQ==;QZF8AqBL9DvDF+WldshPXw=="
 ---
 

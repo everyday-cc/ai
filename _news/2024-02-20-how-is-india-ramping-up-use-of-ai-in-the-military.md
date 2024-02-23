@@ -9,8 +9,8 @@ ampWebUrl: "https://www.firstpost.com/explainers/how-is-india-ramping-up-use-of-
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Firstpost
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trends Shaping India’s Healthcare Startup Landscape"
-    excerpt: "We anticipate the startup investments to be limited to the $1 Bn mark this ... We have seen exponential growth of AI and its promise (field changes every few weeks now) last year. 2024 will see increased interest in AI-first startups which leverage ..."
-    publishedDateTime: 2024-02-18T00:00:00Z
-    webUrl: "https://inc42.com/resources/trends-shaping-indias-healthcare-startup-landscape/"
-    ampWebUrl: "https://inc42.com/resources/trends-shaping-indias-healthcare-startup-landscape/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/trends-shaping-indias-healthcare-startup-landscape/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 39
   - title: "This Indian AI Startup is Bringing LLMs to Your Kitchen"
     excerpt: "India's AI-powered home appliance company that featured on Shark Tank India, recently secured a ₹34 crore seed round at a valuation of ₹143 crore."
     publishedDateTime: 2024-02-19T11:49:00Z

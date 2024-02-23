@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/early-adopters-fast-tracking-gen-ai-int
 webUrl: "https://venturebeat.com/ai/early-adopters-fast-tracking-gen-ai-into-production-according-to-new-report/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "3 Ways Top Marketers Are Putting AI Into Action"
-    excerpt: "ChatGPT may have sparked the revolution, but a year later, marketers are discovering endless possibilities with AI. Here's how it can boost your efficiency, accuracy--and creativity."
-    publishedDateTime: 2024-02-19T08:36:00Z
-    webUrl: "https://www.inc.com/amanda-pressner-kreuser/3-ways-top-marketers-are-putting-ai-into-action.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1953449102_537414_uofog6.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "/1uw6K/OE5TcDABVib0xwdEelmJbjADVr8lOjM3zGcyk/Vg+NuNrmUdZ+EfqLy00dN7iijl/Val9YiTvfED/Ul0HZgLEi2Yo7er+I/siXwmatu2GjpGl++gQVQLGpmeRM1rUO8gynAfs9jlQ1Sm9tIvABpVANEWWjK9xPwamNCBNu7Vj7pNJEBbhKpop7K8DOj56ksDEP754/MP/+2lsfVGLSBp0nO945Wm9yP5cr63OY9S6ZhGcgKCh6pX++2y/dblVIQ1TYPQOoxe/SVmeKa0djaU2xdtH8XwQtaJSYuQHeYBE0JyXotk5608nVB+VkLT5cInRSKJ/iEbMpM0kS9/oZHlpgNVXv2HZCihfThV7tctHbJGqlGrLatsBpbHQ6rO/5FLbc7o6oy2PfjNkHcSyr4jHhZUkWCZY8j448R2NfpB1yDFMTrg7v9TE7098rASGpuRRUAXn85RVTwl+cvbBJPT4XCfA6zs26Vcqe7EVeX+go4aUsUikREHFpXsUmBh+Eh10yhC7dc5D2M8ngw==;hhYQP+Ln2p/0Q9TOFAZ58A=="
 ---

@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Allocations, AI-powered investing platform, tops $2 billion as alternative asset demand booms"
+    excerpt: "Consumer fintech apps have trained a new generation to expect slick digital experiences. So there’s a huge opportunity for platforms like Allocations to become the mobile back office for alternative investing. As Advani says, “AI will be instrumental ..."
+    publishedDateTime: 2024-02-22T12:38:00Z
+    webUrl: "https://venturebeat.com/ai/allocations-ai-powered-investing-platform-tops-2-billion-as-alternative-asset-demand-booms/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_painting_of_a_large_bag_of_money_in_front_of_82336f47-5b3b-4293-aac9-902411ec5923-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Exclusive: Hummingbird launches AI-powered automation product for financial crime investigations"
     excerpt: "It's aimed at eliminating the manual, repetitive tasks that bog down investigators and compliance teams at large financial institutions."
     publishedDateTime: 2024-02-20T20:55:00Z
@@ -36,22 +50,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-20-00.08.12-Create-a-minimalist-and-vector-art-style-scene-reminiscent-of-a-golden-age-sci-fi-publication.-The-image-should-showcase-a-robotic-hummingbird-design.webp?w=1200&strip=all"
         width: 1200
         height: 685
-        isCached: true
-  - title: "EXCLUSIVE: SoundHound's AI Voice Technology Revolutionizes Restaurant, Automotive Industries"
-    excerpt: "\"Spatial computing also undoubtedly needs to look to voice and conversational AI to fully unlock its ... We feel like we’ve earned the recognition we’re getting,\" he said."
-    publishedDateTime: 2024-02-21T10:28:00Z
-    webUrl: "https://www.benzinga.com/top-stories/24/02/37238490/exclusive-soundhounds-ai-voice-technology-revolutionizes-restaurant-automotive-industries"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37238490"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37238490"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/July-18--2023--Brazil--In-This-Photo-Ill.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
         isCached: true
 
 secured: "xjLjECdIRzYIpQRc4cU3SRkvDweEwDIkwQVMHYJ8jFsIMIDWKM0vmYYjFOG79LbnsIJVc6qslhccgR0xZCI/sqKZCcmZL4zaGpG6Tcwf2cIpYv8r/yMzoxno78hpoBmeaivaKWY38Km+Q6FDRuI3A+8VEVidPd/W5bkg6nei40Py0AA070bFCLGZZ03IiALTUFkCBwuR4w/K1bNmUFZmkZUqA8wKalmHIdl9Avrr6aujX0Cs6dNR6rFB9WTTe62LYOB0PIoZtI2lEpizklMyNqcRXmP9u4Z4AjlyVaLu/8ihGic6IrVtc9Z3QcSalB/HDnAUPL7jmVsdjwyl4UVAndXGvjaxFsMhLyBa4CxYMdM=;KGyoJuq/GrhAdoO5q6q9SQ=="

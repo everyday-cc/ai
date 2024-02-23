@@ -227,6 +227,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Asian Chip Stocks Gain After Nvidia Signals Booming AI Demand"
+    excerpt: "Shares of Asian chip makers rose Thursday after strong earnings from Nvidia buttressed expectations of booming global demand for semiconductors used in artificial intelligence."
+    publishedDateTime: 2024-02-22T10:17:00Z
+    webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2?mod=tech_lead_pos2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
   - title: "Nvidia Has Begun Sampling Two New AI Chips for China Market, Says CEO"
     excerpt: "The chips include most of Nvidia's newest features for AI work, but have had some of their computing power cut back to comply with new U.S. rules, according to the newsletter's analysis of the chips' specifications. Reuters reported earlier this month that ..."
     publishedDateTime: 2024-02-22T06:23:00Z
@@ -473,6 +482,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "zNjYB0OEK6yMQbGiOcINfrl/PDNlk4pWeYVHKHje4xINN9Np+Llt5/nJjDdstz/1oi/JM3sRXfWkWrRErBLK2hpojuK9VY3xJsbnXuLhnc+Bgh9Z8D7vNywrtwTKbhgXGkbPKj2Z/WPUNo6b+UyTw7AVBhodOdofH6k714H6fhTrRUDmLQTZ5W/5izQf/dpH19zY1YW9OiNi4Av34QCW6VJTdT9BCzPGc6bKEEVw+++kqzDpbFcSAPXfKkCFDY4PgLVUP3dUUeO++aRO5LrVE8ezjpp/MjEd8fNTtZt9C+Gl80qbnfIreThOIl9CeogEWHhZoK+jQQu4gEX2RM3TX4ypg4ZovPUpS1Xl8e4Cicg=;8LLLmJnXlyZEMfvc/Cryew=="
+secured: "rkQDZqMYOvThVUUfX85xevqFMd/+qYZXmQfnMwiw2DEDQhuQYw6DaQd2YQPAixKwtJekYpoWnXYq8ij4dggVsCHSQjfAk1orXA48Y6l31Af403tdWHaHHESlEab/ZQIfHhb60CQib0ROnjE5s8A98S2M2bTQGaBwGffOAdCpLzLh0aUanRjM+JwHxGcp1h8s3vzqrGiYA0gBg2XS6cN3LwS3Yo77V2aJKkRNBzufJSSvpbCLcLfdPm+QX0+aiLWRUGQ7PEovNkfoR5roz8WftNR4UudsOpqxDkOSOGiLfTgOt85lnMzXdMQounp21KmgRQpAHXue9G1PtYEkr4JaUZ7N1EqOHTYcc5oFOGZzfK78OFH18kxMYeseavG+HPHXr2zKsR0HeBwkTSrcrORo1s2YM3ThmyWUsFbx+3zkQALbwgeYL7yN5gUOOggxDqWd11Oyigph18d/5dsRZM+6qZGTfT/Uf6PmAxk/ETbwKB9gI7u9BNNDeaidQdrjQH+r2246iLYcFyS39ZbHqL+awQ==;0L77uYp3raoUMNfliZTJig=="
 ---
 

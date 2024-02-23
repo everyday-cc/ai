@@ -27,7 +27,7 @@ related:
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1708458393-AIEthicsandJobsintheAgeofAutomation.jpg?format=pjeg&auto=webp"
         width: 2000

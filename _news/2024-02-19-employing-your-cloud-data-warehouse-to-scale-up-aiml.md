@@ -3,8 +3,8 @@ category: news
 title: "Employing your cloud data warehouse to scale up AI/ML"
 excerpt: "AI can unlock the power of enterprise data, providing companies can get it to the right place in the right state"
 publishedDateTime: 2024-02-19T14:02:00Z
-originalUrl: "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/"
-webUrl: "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/"
+originalUrl: "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/?td=rt-9bq"
+webUrl: "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/?td=rt-9bq"
 ampWebUrl: "https://www.theregister.com/AMP/2024/02/19/employing_your_cloud_data_warehouse/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2024/02/19/employing_your_cloud_data_warehouse/"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 365
     isCached: true
 
-secured: "lt6V2jYuuiJY6uyJ1th3fFXxGYwBoz1KjQaiYBjMAgqcTziiWDIpujJn5SxzF9qAHx3R5DSPXoeXlQPQNOeRNV8soncgOqyG10lawY8rDGWDzINtPbUWb6IA+gSvhqd71vvYkbmTfVsWK1Yn57SUdMMj/Mpj/bfMo6//wcFmbV8dLID1Ogb+JEKmparxUha6qN7wAm8WfNfB//CzzHt/9AjJb3KFJqcL7bh+DjtF2d90s8SJv0So6YBcYOTPaEgjJfZcvrccV94gldCZsFXT6ngFSWMfk9Rz9wg1hIfykqtdyLf7ZmNzq4+1QHs47aSypPhfW+1QbGYW9zZ7/NJqVYxtqDJ6lql1XXwN4/C0DYfqLjiDz3mZyi+e/sVwDKs5KfLsQSgGiF/c+DVNofTSwZ/3tKTrTfR4rZMl/dO9qI8xwpSoWdadK5tDqixx6hJejvulTYb3OaY1//L0M5j//Owha54sqc+/TMjH1kIgcCzK7kYYdBXmEs2yObdz5OlSD+dUl8IOp0q/Sl+k3MCy/g==;uxGVpKkslak/S+TfJYCKVg=="
+secured: "36uFaD4ifzD2/VnYCkxqCyV/6Q7uBq8ylrHjsYSV+chB9dGhsldl+OfNbK/lACTwUet77j66hN1nM5VHkk6z3ghFLJ2nJtRW2olDZQyyuT11Ev12a+XB/saV+9+M6eXDBoyaAmWhfuQ0maGdPjcCWtCK1IpHYYFGMiRO06E+IhXFc5+l5LzA/KfD9PyPAZ0PagbJN7sesnATmV6tplnyl52fuzbtt784Ry4Wb1Q8UZhy7m0N3sr/qZh8LScUoOC2+HfvTjkihcWs4mB8EdQdtu7IIjB9Kns7dM0+LWDGCGuNmJ/2iWevwbDzCgmMyWL3+iZDC0pruGs5EoN1yC7vQxaMLWUvtx8tCkUk4a2Euqg=;XL46LSuhheY/Cd9jY8lssQ=="
 ---
 

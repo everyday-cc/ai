@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airpo
 webUrl: "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html"
 type: article
 quality: 84
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -157,6 +157,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/4ef37542c3cc2ff649810ff60e33df053916a1e0/0_154_5606_3364/master/5606.jpg?width=620&quality=85&auto=format&fit=max&s=36f6ccc3adc05e89802428d4ecc9cf12"
         width: 620
         height: 372
+        isCached: true
+  - title: "'Facial recognition' error message on vending machine sparks concern at University of Waterloo"
+    excerpt: "A set of smart vending machines at the University of Waterloo is expected to be removed from campus after students raised privacy concerns about their software."
+    publishedDateTime: 2024-02-22T22:05:00Z
+    webUrl: "https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 29
+    images:
+      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/2/22/vending-machine-facial-recognition-1-6779840-1708642383265.jpg"
+        width: 1020
+        height: 574
         isCached: true
   - title: "Wyandot Nation of Kansas renews effort to to win federal recognition as a sovereign tribe"
     excerpt: "Federal recognition entails the United States acknowledging a tribe as a separate government entity — denoting their right to self-governance. Currently, the U.S. recognizes 574 tribal nations. For the Wyandot Nation of Kansas to join them,"
