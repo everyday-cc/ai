@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
+  - title: "US will need 'CHIPS Act 2' investment into semiconductor manufacturing to be the best for AI"
+    excerpt: "US Commerce Secretary Gina Raimondo said that the US needs continued investment in semiconductor manufacturing in order to take global leadership and meet demand from AI technologies ... to be - whether you call it Chips Two or something else - continued ..."
+    publishedDateTime: 2024-02-22T14:35:00Z
+    webUrl: "https://www.tweaktown.com/news/96403/us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 43
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96403_403_us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "Five of the Top Artificial Intelligence Stocks to Invest in Immediately"
     excerpt: "With artificial intelligence impacting just about every industry in the world, the market could be worth about $594 billion by 2032, according to Precedence Research. All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE ..."
     publishedDateTime: 2024-02-22T16:57:00Z

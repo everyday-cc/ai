@@ -77,6 +77,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "As Nvidia's downgraded AI chips go unwanted in China, who is the biggest beneficiary?"
+    excerpt: "Recently, DIGITIMES has had several reports and comments regarding Nvidia's launch of the 2-gen downgraded AI chip H20 designed exclusively for China, but a lack of interest from Chinese customers. It's worth discussing which semiconductor company will..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.digitimes.com/news/a20240221PD213/ai-chips-huawei-china-ai-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 47
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240221pd213_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "Wbz0Yp+BKP3LLtmIvn6JEMvx8IaE10zTA5rbWfzioXKQ9/lSNQxEdIxqFYit7Q7nLQzqAXoFBqLIAH8hD7ZIBQA1h64NEcuV6YSZWE06KPZFtQUM3QvFi+jjnRkJ2h9+M6/0tVlSr23kd87SIGlnFw5PQ546o7PvKCqyirieFoURO5fKlxKbXsk8o3hVkEQ18tkyW5D3ay8cgUC4yBQgl8Hq5ojBtzf2J44dFGEzWMqwj/bFVPMOMqlWClAoqfPtxikkjpWcNYUO1M0dBuK2ylSd5/Z32cJsCW+7606+S2n7teoeZn8BzaZvI4KxpLAlzQXZQQPi99wU52YUdb5X/c5NFqGIJe6MajuJGDVYc9CQuc/LkmG5zc85zP5wVq33N7oZ7b1oeDWRuSgRiT5VQD0fAoSweck7zHLArzVa1JXdqZR/roNunfcIeBtKZDTS89s6M+xNzLQTVnSuCDQj7U5n88RnWYAGPUnEoIFGUtI300O3shF7OWfN+QeTh7sCDl+LaVB/QLl0sVAxP9tFKg==;y+hT4CRxdQK4PGUJa2rCPg=="
 ---

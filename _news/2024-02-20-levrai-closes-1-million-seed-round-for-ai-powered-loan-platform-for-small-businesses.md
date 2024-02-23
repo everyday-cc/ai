@@ -35,6 +35,15 @@ related:
         width: 897
         height: 674
         isCached: true
+  - title: "Healthcare Startup Abridge Raises $150 Million for AI Model for Clinicians"
+    excerpt: "Healthcare Startup Abridge Raises $150 Million for AI Model for Clinicians By Krystal Hu (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told ..."
+    publishedDateTime: 2024-02-23T00:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-23/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
   - title: "Startup launches AI-backed education, health, edutainment content service"
     excerpt: "A start-up has recently announced that it will provide curated education, health, and edutainment services targeting specific needs using artificial intelligence."
     publishedDateTime: 2024-02-18T14:18:00Z

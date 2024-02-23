@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-l
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare Startup Abridge Raises $150 Million for AI Model for Clinicians"
+    excerpt: "Healthcare Startup Abridge Raises $150 Million for AI Model for Clinicians By Krystal Hu (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told ..."
+    publishedDateTime: 2024-02-23T00:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-23/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
   - title: "Startup launches AI-backed education, health, edutainment content service"
     excerpt: "A start-up has recently announced that it will provide curated education, health, and edutainment services targeting specific needs using artificial intelligence."
     publishedDateTime: 2024-02-18T14:18:00Z
@@ -49,6 +58,6 @@ related:
       domain: betakit.com
     quality: 11
 
-secured: "bp0TU/9Nfky4ZCjpX67kioa6HcJZFCCoOK6Su719Cx/5vuFsuYAdXDy0idMsLE3/UdwG/hJWil2JyXqJ/qhOhj+fYO1H5iutUGW8JFXGsOQt3SXjAFhSqmCII48kwQEPMxVtmNoy/9FKN7NTnr/Rb4MvomKE1ev04h/ZAButLSatsw0s4IA46rpa1LRMVMYeYH8fskY1W9ihYfUaS712H8WSZkIneWfS5xh51khiz4BBU/f7gNGnMS5wMsAjHKIIyV0Vjnf11XQBt3VQMoO3p45YtCuYbeeSVPw4hGRHgQ1Njum3KiIZCLU5mbDsv+2IdwJU22mF1ES810mIHI7gPhhO4jWdOB1DaqjfBgT3pXCd7++7oWj/tGJugZ95btDZf1uuLeJALw4TyCzKJvIrFvaLIce8e09BV1D12J1jP+JPwQiQDtOCeFflx/lk2xmZOa49UomNqkAUAWjtCBqkA7qw9sfrcHDXLcGTPw7CpwmaGiSg87Y9Stoa/+TkR7+QrKnSJRtbYIf6s8seWseBmw==;B8ZtoBDRW2GUFCLC+92qCg=="
+secured: "rTggBz+IQ3iMl2yVIf2ILu+oliNIS4R4uD8iMrF0jW6QtWpsiMN4U7zR9Kgo/t6onH0RL9nDb7wjN8J+dAHWPef+J+R+3iMKD3nmLnLFUJTOPcARX3xWZqCsIhCZZs4mqilL5M+s3L56aUpnVrEyhr+MdvUTvg+MoPs0qQhnrTGgz+RS6VxlFzanP5ACFSiv92S3I0HO3Kyn1BiSDGsRepsJik5k6jlWI5t3DoIpkbRr4NGvK+eVgof+A224QkTeQqWo6g4X+LWxXlA7aAyhRk1K6HaFnTIvUIEDbtjO75ovARi/oN5PY87+tMRlgUOm0kxdxmh6r6V2b7tYX2XJJxb86Z2db3JuuHf/Jwat9DSi+Y6Wphf3hAzBc/3uFyYuT63cuVR0RnecIKmTw3Ic5JLtc6akumt8rRFbPEIiSRZ3k+uzBebw5KutispLBaxrnmKgjocXVAthazdhEL5DSLM6QfBh0t6ch1KytV/sRJAp9Y97+0e3Bx9Dy2pJgUCHX2UtZqHZZXhJVXhYMi4w+w==;mSr0uF7CWlDSABRNH4HN4Q=="
 ---
 

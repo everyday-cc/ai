@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/"
 type: article
 quality: 81
-heat: 111
+heat: 112
 published: true
 
 provider:

@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-di
 ampWebUrl: "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d"
 type: article
-quality: 80
-heat: 82
+quality: 82
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.wsj.net/im-928820/social"

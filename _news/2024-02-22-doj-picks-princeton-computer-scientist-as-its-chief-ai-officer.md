@@ -24,22 +24,6 @@ images:
     height: 320
     isCached: true
 
-related:
-  - title: "Master of Science in Computer Science"
-    excerpt: "Computer Vision and Databases. The Computer Science Master of Science curriculum requires that students take between 30 and 34 credits. In addition to 12 credits in core courses, students may take electives grouped into one of the following areas ..."
-    publishedDateTime: 2024-02-18T06:08:00Z
-    webUrl: "https://www.uml.edu/Sciences/computer-science/Programs/Masters/"
-    type: article
-    provider:
-      name: UMass Lowell
-      domain: uml.edu
-    quality: 24
-    images:
-      - url: "https://www.uml.edu/images/computerscience-rover-opt_tcm18-74439.jpg?w=x"
-        width: 370
-        height: 305
-        isCached: true
-
 secured: "bTuTAHRthlfjDl8RRv3KYN7va0dkbqbM5jAftZifYQPxjSf3lv2w5Vi9UjJezHPbINyPuAYqbKrQtM5eliwqUroSt8maY4GmPzF0tFMKNZWXc91tVYau4pe1+ubLBm0nA1eBcKNBb9RruNJogKPoGrw5NtAY3WmKXOC/lrY/cvglmTdG2Ir1zMWKbnDH58CyhadZyHOxqecPdW/QPxI56i/NStVp/1ysxUwRY9g1Hb8KwH/70cwlab4kXC+0lmPoaoxxItQxPjsQKAG06wFqR8YnyKguKdebrIEaM3++2eCr0obJV9QFHcy6wVrEFsuykEx5S5kg+qS9q2RCQWc/Q2B4+mPxzj58F/oQTxxHtTt7p5Soflj79g8uhJ4sSm31XBfZ85T0E3DRckePQnEXHF4vF96nd8cbE5B7NUgZY/AJMo2h5uxlFBb5IeAjeVCX79zRHIiKVH4NhyvH4RCkEL6dgn7vthk4emmt8rkYLZ/EWeSHe0CUIn2goUIgnUMhoHH4bJpBaUIWeKU0xf1IFg==;3jjQGgvW7Uvm7/nvTpV12g=="
 ---
 

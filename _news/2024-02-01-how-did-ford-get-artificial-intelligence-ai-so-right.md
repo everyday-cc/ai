@@ -1,30 +1,20 @@
 ---
 category: news
 title: "How Did Ford Get Artificial Intelligence (AI) So Right?"
-excerpt: "Regulators have suspended Cruise's driverless testing and deployment permits. Ford ending its investment in Argo AI cost the company $2.7 billion. GM's Cruise subsidiary plans to restart ..."
-publishedDateTime: 2024-02-01T06:38:00Z
-originalUrl: "https://www.fool.com/investing/2024/02/01/how-did-ford-get-artificial-intelligence-ai-so-rig/"
-webUrl: "https://www.fool.com/investing/2024/02/01/how-did-ford-get-artificial-intelligence-ai-so-rig/"
+excerpt: "Roughly a year ago the sky seemed to be the limit for General Motors' (NYSE: GM) driverless vehicle ambitions, spearheaded by its operations at Cruise. It was a goldmine of potential and a way for ..."
+publishedDateTime: 2024-02-01T11:38:00Z
+originalUrl: "https://www.nasdaq.com/articles/how-did-ford-get-artificial-intelligence-ai-so-right"
+webUrl: "https://www.nasdaq.com/articles/how-did-ford-get-artificial-intelligence-ai-so-right"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/763067/cruise-first-riders-cheddar.jpg"
-    width: 3840
-    height: 2160
-    isCached: true
-
-secured: "mPt/KHSqrcPCYEHqvmCFDWxKCzC54HcjrIyGLyH/Z9XkNYMX4jhtk3Ly7xRGs6zp6XDPL4NdGymZRJHx04wo7plyC07+/od/FtbpLMLD3VErp4ArP5pJZ+AjM1H9uxYTVxguOfav8rJTuB7wAo6bo7ioD4clb5Z0vRBYYTESQnkLxkTqjH7u8nATc750LWJK7fpLETciLMhwqgrqmsIZP701d6efy33PMQ6/UXwhmhHXpyEqzy8qsD0CISZ4RTFZWBqmIrTzE0fvGMRwMx4duXuy6fbhtW189FfKA9Ftge60/NF+dHdkbRs2zwsn/2ot+Oq5x0UB6RlgnAI6Q3jaLMLlK/e4QDSXOTJzkFvereI=;BZs3qDN1Fb+Glp2UJEK+4A=="
+secured: "4I1PcO2avlWdonjlQtoUMTonbUiod4ttNYjQL7cWoHfTvmAgXKY4T4IpctbERYGJo7Y9NvuEP3oNCs0rNWH8H93e//9l+0NsYiLzlU0WD83JnuiIx7zpArrcWn/r1sAV5JHcS2qN9xN7/WZDlTS4PP5duJnvFwqKjsbHRsgC6i0YLDEQGH1egWHLa7ARi5X4Jc9aPvaVcPl2d7NYvsC+3Z2uZ/9UdCtdIUSk2sXaUf0+Wi52VIjd9BpN0S37OaPq2Dp1AxxShFkFeYtf6+RYwn/4QRv5IBQw8KbG1OPingJsWGfvMcUz7FdGo7vw+x6kk76N+apEVuCKy2w1arI1Ea225Toqjn77cyZXz5nawg0=;KFF6xziS4I5aDYkV3+thyw=="
 ---
 

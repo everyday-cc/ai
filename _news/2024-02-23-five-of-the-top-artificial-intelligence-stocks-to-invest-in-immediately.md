@@ -43,6 +43,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
+  - title: "US will need 'CHIPS Act 2' investment into semiconductor manufacturing to be the best for AI"
+    excerpt: "US Commerce Secretary Gina Raimondo said that the US needs continued investment in semiconductor manufacturing in order to take global leadership and meet demand from AI technologies ... to be - whether you call it Chips Two or something else - continued ..."
+    publishedDateTime: 2024-02-22T14:35:00Z
+    webUrl: "https://www.tweaktown.com/news/96403/us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 43
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96403_403_us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
 
 secured: "zkIqhPpMozfy3ysVnERSRa+3rEb49ya/qYgZlszb3hR4WaOjdBnYq7IpsjznTiTqhvRA5pNmdIDi86dcId+89m8m0YxjFcPIp0fr6NUjOEfxYYfyXnYtkTAmXOiIrdXEy70UlLusniuuqx6IhOtYMSJjIuR9U3BChEDF9s9gQI7lBXvHlI1EEiZhAi8tP20xSDeJBBDEKMVwFA9Ty4DX3S5yd/kHjVFwQR5PcxJQUhDMz3wcsYU63KBgFLvFz9VGrLx8VFWyAoGaX8L6H7Yo5LGmgBiufzdAtuh+MpZt9VgHscCWp8rOqqzWMJQ3JkPQ17wB9/NanZ+npbAwZNd9KUF30Fcqj4+T6k9YRTJAakw=;F4ip1yNfYKBeO34k138j0w=="
 ---

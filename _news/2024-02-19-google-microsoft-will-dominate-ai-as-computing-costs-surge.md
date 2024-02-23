@@ -96,6 +96,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "AWS Storage VP leaves for Microsoft Azure"
+    excerpt: "Amazon Web Services Vice President of AWS Infrastructure Hardware Ahmed Shihab has left the company to go to cloud computing rival Microsoft Azure. Shihab was responsible for the innovation, building and operation of all of AWS’ storage and compute systems,"
+    publishedDateTime: 2024-02-23T05:15:00Z
+    webUrl: "https://www.crn.com.au/news/aws-storage-vp-leaves-for-microsoft-azure-605432"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 71
+    images:
+      - url: "https://i.nextmedia.com.au/News/media_124c2ecccde6f6fc4487d1334de898b149887fec2.png"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Microsoft and iCreate launch iMPEL-AI program to catalyze AI startups in India"
     excerpt: "Microsoft and iCreate, in the presence of Minister Chandrasekhar launched iMPEL-AI (iCreate-Microsoft programme for Emerging Leaders in Artificial Intelligence) programme."
     publishedDateTime: 2024-02-21T15:56:00Z
@@ -287,6 +301,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Announcing Microsoft’s open automation framework to red team generative AI Systems"
+    excerpt: "Read about Microsoft's new open automation framework, PyRIT, to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems."
+    publishedDateTime: 2024-02-22T16:59:00Z
+    webUrl: "https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 50
+    images:
+      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2024/02/MSFT_Security_FEB09_316427_Blog_Blogheader_240216_V02.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Icreate, Microsoft, IT Ministry To Skill 11K Innovators, Startups In AI In India"
     excerpt: "Microsoft India and iCreate (the International Centre for Entrepreneurship and Technology) will provide AI skilling opportun"
     publishedDateTime: 2024-02-21T18:15:00Z
@@ -374,6 +402,15 @@ related:
     provider:
       name: The Tech Report
       domain: techreport.com
+    quality: 34
+  - title: "Microsoft and MeitY Collaborate to Boost AI Startups in India"
+    excerpt: "In my free time, I'm either binge-watching an anime or off on a hike. Microsoft has partnered with Indian institute iCreate to select AI innovators under the iMPEL-AI programme. Under this, 100 startups from across the country will... Back in June 2023 ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.medianama.com/2024/02/223-microsoft-meity-collaboration-ai-startups/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
     quality: 34
   - title: "What’s up with… Orange and MásMóvil, Microsoft, Nokia"
     excerpt: "Orange Spain-MásMóvil merger gets EC approval Microsoft boosts AI and cloud play in Spain with a $2.1bn investment Nokia puts Orange in a deep sleep In today’s industry news roundup: Orange and MásMóvil edge closer to finalising their planned merger ..."

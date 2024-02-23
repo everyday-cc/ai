@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-22-ai-set-to-drive-major-tech-advancements-in-2024-ieee-study-finds.md",
+      "title": "AI set to drive major tech advancements in 2024, IEEE study finds",
+      "excerpt": "A new global survey by the Institute of Electrical and Electronics Engineers (IEEE) finds artificial intelligence will be the top technology in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/artificial-intelligence-set-to-drive-major-tech-advancements-in-2024-ieee-study-finds/",
+      "originalUrl": "https://venturebeat.com/ai/artificial-intelligence-set-to-drive-major-tech-advancements-in-2024-ieee-study-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Vector_art_of_artificial_intelligence_holding_the_wor_72f60434-128b-4a2f-a0bb-3430590f3fc9-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T03:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-employers-are-failing-women-on-healthcare-uk-research-shows.md",
       "title": "Employers Are Failing Women On Healthcare, U.K. Research Shows",
       "excerpt": "women workers being absent. Employers are sabotaging their own productivity and competitiveness by failing to provide female workers with adequate care and support for certain health conditions, according to new research based on the experiences of more ...",
@@ -840,17 +892,17 @@
     {
       "path": "_news/2024-02-13-during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research.md",
       "title": "During Edmonds College talk, virologist explains how AI is changing gene therapy research",
-      "excerpt": "If artificial intelligence can help physicians predict who is more or less likely to get a medical condition, it may also help molecular biologists predict which gene or gene",
+      "excerpt": "If artificial intelligence can help physicians predict who is more or less likely to get a medical condition, it may also help molecular biologists",
       "sourceUrl": null,
-      "webUrl": "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
-      "originalUrl": "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
+      "webUrl": "https://mltnews.com/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
+      "originalUrl": "https://mltnews.com/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://myedmondsnews.com/wp-content/uploads/2024/02/IMG_7313.jpg",
+          "url": "https://mltnews.com/wp-content/uploads/2024/02/IMG_7313.jpg",
           "width": 1024,
           "height": 575,
           "title": null,
@@ -865,8 +917,8 @@
       "publishedDateTime": "2024-02-12T17:52:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "My Edmonds News",
-        "domain": "myedmondsnews.com",
+        "name": "Mountlake Terrace News",
+        "domain": "mltnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1317,49 +1369,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes.md",
-      "title": "Voice-based conversational artificial intelligence may improve insulin management for diabetes",
-      "excerpt": "This randomized clinical trial demonstrated that compared with the standard of care, voice-based conversational artificial intelligence (VBAI) improved time to optimal insulin dosing, insulin adherence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.physiciansweekly.com/voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes/",
-      "originalUrl": "https://www.physiciansweekly.com/voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.physiciansweekly.com/wp-content/uploads/2024/02/image1707213623.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

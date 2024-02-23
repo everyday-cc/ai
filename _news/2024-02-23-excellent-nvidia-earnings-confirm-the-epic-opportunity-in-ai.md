@@ -67,6 +67,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "As Nvidia's downgraded AI chips go unwanted in China, who is the biggest beneficiary?"
+    excerpt: "Recently, DIGITIMES has had several reports and comments regarding Nvidia's launch of the 2-gen downgraded AI chip H20 designed exclusively for China, but a lack of interest from Chinese customers. It's worth discussing which semiconductor company will..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.digitimes.com/news/a20240221PD213/ai-chips-huawei-china-ai-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 47
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240221pd213_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
     excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
     publishedDateTime: 2024-02-20T05:59:00Z

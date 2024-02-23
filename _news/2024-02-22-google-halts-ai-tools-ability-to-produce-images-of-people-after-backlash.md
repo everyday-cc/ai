@@ -60,6 +60,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "AI chipmaker adds $277bn in history’s biggest ever stock rally"
+    excerpt: "Waymo had been seeking permission to expand to Los Angeles ... EDDIE MULHOLLAND for The Telegraph Google has suspended its artificial intelligence image generator after it was ridiculed for generating ethnically diverse images of historical characters ..."
+    publishedDateTime: 2024-02-22T13:49:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2024/02/22/japan-market-ai-nikkei-lloyds-rolls-royce-wwp/?utmsource=email"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 39
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/business/2024/02/22/TELEMMGLPICT000364020243_17086164820190_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf-0Jyi0jPPD6Zx1hiwTPhlc.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Google apologizes for AI bot generating inaccurate images of ‘diverse’ historical figures"
     excerpt: "Google Gemini, formerly known as Google Bard, was launched in March 2023 in limited release as a chatbot powered by Google’s large language model. The product was renamed in February as “Gemini” to reflect the “advanced tech at its core” after ..."
     publishedDateTime: 2024-02-21T18:09:00Z
