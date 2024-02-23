@@ -41,6 +41,20 @@ related:
         width: 1049
         height: 699
         isCached: true
+  - title: "Hammerspace Debuts New Architecture Category for Meeting AI and ML Compute Needs at Scale"
+    excerpt: "Hammerspace, the company orchestrating the Next Data Cycle, is debuting Hyperscale NAS, a new, high-performance NAS architecture designed to handle today's most advanced compute environments-including AI,"
+    publishedDateTime: 2024-02-23T18:12:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Hammerspace-Debuts-New-Architecture-Category-for-Meeting-AI-and-ML-Compute-Needs-at-Scale-162717.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 47
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hammerspace Unveils New Hyperscale NAS Architecture for Training Enterprise AI Models at Scale"
     excerpt: "Hammerspace today unveiled the high-performance NAS architecture needed to address the requirements of broad-based"
     publishedDateTime: 2024-02-22T17:51:00Z

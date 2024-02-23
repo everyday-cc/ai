@@ -24,6 +24,17 @@ images:
     height: 2340
     isCached: true
 
+related:
+  - title: "IDTechEx Discusses Advanced Semiconductor Packaging Trends in AI and HPC"
+    excerpt: "CAMBRIDGE, UK – Advanced semiconductor packaging technologies like 2.5D and 3D hybrid bonding, along with emerging solutions like silicon photonics, are critical in optimizing system performance and fostering the next wave of AI and HPC chip innovation."
+    publishedDateTime: 2024-02-23T18:27:00Z
+    webUrl: "https://circuitsassembly.com/ca/current/40225-idtechex-discusses-advanced-semiconductor-packaging-trends-in-ai-and-hpc.html"
+    type: article
+    provider:
+      name: Circuit
+      domain: circuitsassembly.com
+    quality: 18
+
 secured: "ZwCQC4qawE+5hVh1AzWthzqlzPiqeRKbDY7qhmUDFCJZHO62xjNVTJSUwuHlNAJUmw83JT9txRp2Fra+qmQJ4q6a4hZ++dzMNWCarznH55BbptzjkOpdN1tqJsIOwG69GWsGRJxDkBJDSw3KhF3Ylj1b0KSQEf3EVTuUy9V2ZOXQNR/jBkJpLAFCg8Wj++kpzL4ioDpEsSjnONUpMKb7qvff+rtzytgFCmob8Z+uqtIWTN5KV/LocguaDLw334zvDmY/NUDca0KuTPcWgIE/1e9wLN2jv5yRZBevi7Q9abLBhMO9Bne1C9aQwGBe9RuY7T5BFegICEtjKj/fGY9wrVsnBxJsZ4LeIkrM7tmTqUU=;8Y04LgzZ37oQZQJZs0SFwA=="
 ---
 

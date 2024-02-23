@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/tech-giants-promise-to-comb
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.globalgovernmentforum.com/wp-content/uploads/Untitled-1240-x-828-px-1-620x414.png"
         width: 620
         height: 414
-        isCached: true
-  - title: "Tech companies sign accord to combat AI-generated election trickery"
-    excerpt: "By Matt O’Brien and Ali SwensonThe Major technology companies signed a pact Feb. 16 to voluntarily adopt “reasonable precautions” to prevent artificial intelligence tools from being used to […]"
-    publishedDateTime: 2024-02-18T17:15:00Z
-    webUrl: "https://afro.com/tech-companies-sign-accord-to-combat-ai-generated-election-trickery/"
-    type: article
-    provider:
-      name: Afro
-      domain: afro.com
-    quality: 37
-    images:
-      - url: "https://afro.com/wp-content/uploads/2024/02/ai-technology-microchip-background-digital-transformation-concept-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
 
 secured: "vvp/jJl7BSwRPlSFYA+jA52bW3xLclU5HcybOK/dGTmXa8v686XQImy8KWCHKU0SCWcAINDBl0aC+iWJuc0iFmkHlbvkbDWCRVO/I5rVMJIwucUbgMbeKTyq8zKg/yN6PImDXZ2da1qp86aMfCBSontDEFbdGWPSsnFPOvJcmBQaqCOmtsif/P1EeYlJaIgDW88dNAXa1rqBywpFrJRsEk7MtzEcWrdLaBeXPfxuhmBtjOtJI82IUo+Xbdea1BGIqHbenwXYWxjc7vCNVRDLkIuGpQjfx0y+TMaKEb1CqRqT/GVGD3G2nau+heoIn6ekXN60hBZ9E9f/m9hiMfLgn4I1ZqRKAh0WfuBxqyAD8oA=;4ua7QPvUV+gKzhCHjxOUTg=="

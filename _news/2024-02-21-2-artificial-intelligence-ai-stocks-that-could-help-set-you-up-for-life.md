@@ -89,20 +89,6 @@ related:
         width: 509
         height: 339
         isCached: true
-  - title: "Billionaire Investor Chase Coleman Has 46% of His Portfolio Invested in 5 Brilliant Artificial Intelligence (AI) Growth Stocks"
-    excerpt: "Billionaire investor Chase Coleman is one of Wall Street's original whiz kids. When he was just 24 years old, he founded Tiger Global Management with starting capital from his former boss and mentor, the iconic hedge fund manager Julian Robertson, Jr ..."
-    publishedDateTime: 2024-02-18T18:19:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/24165944/billionaire-investor-chase-coleman-has-46-of-his-portfolio-invested-in-5-brilliant-artificial-intelligence-ai-growth-stocks/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 24
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/c348d765c631813a40150e0474c2faaf/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f765420%252fa-person-looking-at-a-mobile-device-while-seated-at-a-computer-desk-with-an-overlay-of-ai-algorithms-and-stock-price-graphs.jpg%26amp%3Bw%3D700"
-        width: 3000
-        height: 1999
-        isCached: true
 
 secured: "hlZ3Yi/tNf7JVqUyUuijnbYxzJ/QfJcaaVA24ffx3atBE5LzULWrg9gqh8R1obafKDo8FRilH2cW4NQenG2hXMjb18AB0xFzj8txIOyorJqKUXv3B+CCmWFQu8uwSIAsqfYYrRFArcnb3Rfz1wCnqfcSozjvzrMXik3YdK1ozcSTMZ7ozNyu9oYMPK44zT2KmFDl2dcZ64iwtCziEk3zEcevipIya3NcJZPRn1nM5oqFSTDCGfp071l/zin28xf9hQQ5V2FJHg0DPOxDaBlJ6mmZxl0XL6qYdXf5Q8zQE3MsMTo7m5kR2KgHpdQEuNzmGm3kShZ6xUHVUGuh0Bjqbhj/CiTOg1DVuWRci51yTA4ZZXdWh/lxjaOk1eMw6Yj7+3EuRDeUdlM+qgzasnTYRJ+JZwEbF7y+Q/CQqZadbGHO9Ke3hCSGY9J8XEDUstoEmNq2DOh2QQvMBsgjYpOMcVjXX5hxe6RaISWIQxIGG5NpRJAX2q+sdj0RhUjChjs+4lchJJSVufv5SMCglAOTRw==;u2p3WiURCQinYJkXOdKTWQ=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-23T00:01:00Z
 originalUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-briefing-house-4203945/"
 webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-briefing-house-4203945/"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15445_5839.jpg"

@@ -46,7 +46,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NC Representatives host Biden administration senior officers, discuss AI"
+    excerpt: "Rep. Valerie Foushee, (D-NC 4th) and Rep. Deborah Ross, (D-NC 2nd) hosted a roundtable with senior administration officers from the Biden Administration and local industry leaders to discuss government use of Artificial Intelligence."
+    publishedDateTime: 2024-02-23T17:39:00Z
+    webUrl: "https://www.dailytarheel.com/article/2024/02/city-valerie-foushee-deborah-ross-government-use-of-ai-roundtable"
+    type: article
+    provider:
+      name: The Daily Tar Heel
+      domain: dailytarheel.com
+    quality: 38
+    images:
+      - url: "https://snworksceo.imgix.net/dth/90ae76c9-6be5-4ebe-acde-1cb52fb98c65.sized-1000x1000.jpg?w=800&h=600"
+        width: 800
+        height: 567
+        isCached: true
 
-secured: "65R44WGJA6aC7qdb4gWXUR1w3V171Z/OlzXQpGYjUDtBz+lwLmURHwEC0JVc58VsUzpIg+zrrAZmeNkpTNQA4aForejXzIBcbztz+QonB5SLrdvyZIoem1BMGObAAlbkNFpv3jYoNkv9+FayGmf6+VDDyttCY0uondCdEAbM92f0MSX6rKwgDcZE9avpqYmbvkyy1JhAQT9YXs403eF4GVn6P4Vg1sq0DlCv2uaU0s6Pukbu4hwKznypS9dEVl8m8qbLpwgvkfUSnVb9uaZLUXYsUBF44C+5eZFvMI81PWAZ0IH6Suam56TZZgvoG7XbLGLBHX+yMp2BDwVfUyFC0KrdPpxuWNwxTCdWhnIlf/k=;x4vnqO5hbkK/FcW031KcEw=="
+secured: "GOhZnfzL0SXCHK817CBNvR8hNSxWw9TJwMbTOfE2BJw5gQby6FuZzGeMX4XfqFDr6pyMwad3cUGB+i8kgR8fssEUO65Xo0kGV5SwMY6XYPu+ZgPHFJ8MFhNb1rAFolYpWzD7C3qhuepyrdFRMPOgDrWEQ32PybZIBgFLDggzaFxFsUf19omLrm8fDhOPZqmjzU/kttxdrcRM5kDPE/xwrB0OpbfXOpljP82OfPryN7/wuubBcqv7m5gK3OtSQWpq0B4VPbc+1p5MUqLQgH+fyFPIKvF/37bghtCq5Pw2IrFdEw9qFt8H6QtHIRlJydNTuABERjsdG0CfkhCY2pfq01Xlo/IFRqCWLY+/QZxRdtN6AepQPQb11ASqQyTr0/Rprpa1+h1iHzTDRjrtUXw8MCSKV8nMXk/A/GrmxFs0bmGiPjLebFLxql4n4GOCQ7qCWS0+vQim0Pu8ExBYffyf5kAh48UfSDKtxkGABAWw+wHEmt+CHQx5PO0+zfyhQ5qr0Ckt6a/2sv2FM3SYpn/0gA==;YBTnvahvNqfu9bptBEhBYQ=="
 ---
 

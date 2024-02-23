@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Live: UK’s Serco ordered to stop using facial recognition to monitor staff"
-excerpt: "Live: UK’s Serco ordered to stop using facial recognition to monitor staff on facebook (opens in a new window) Live: UK’s Serco ordered to stop using facial recognition to monitor staff on linkedin (opens in a new window) Live: UK’s Serco ordered to ..."
-publishedDateTime: 2024-02-22T23:45:00Z
-originalUrl: "https://www.ft.com/content/00ae3e53-7f67-40ce-8333-88c74755799a"
-webUrl: "https://www.ft.com/content/00ae3e53-7f67-40ce-8333-88c74755799a"
+excerpt: "UK public service contractor Serco has been slammed by the country’s data watchdog for using facial recognition and fingerprint scanning to monitor and pay its staff, and ordere"
+publishedDateTime: 2024-02-22T23:41:00Z
+originalUrl: "https://www.ft.com/content/cbfd0094-2219-4f64-a5b0-c06f05c5b81c"
+webUrl: "https://www.ft.com/content/cbfd0094-2219-4f64-a5b0-c06f05c5b81c"
 type: article
 quality: 17
 heat: -1
@@ -72,6 +72,6 @@ related:
       domain: mirror.co.uk
     quality: 17
 
-secured: "Jf8lFlZFCej13PnpoKhljVXTQm5E+u8wddEhiqBPHNmX+L/lhtt3gPnC7HX7OLYqfQ3k5loV2A1rqSf2yBRVFdqcm+bHtfBiT/Jc4StknE5tZ4icsYQSFa633tYxh7o1jASYWELZfEh7wA/91irmnmhur8CZf5QtlpIz7UtnDYfp/IIzj2b726EyDonYL9qziK5qJromhC9gYsfo3r5o0mSzkLb7FTlgHGdSKretmwRPtiYjj1q4eulygxezAq0jL9V+whIqnr6GIoRnPn8rwL4akMPoKbtUBoTUhdd57t/XpYXsAWeIrchzoQulUQqHvcj9FMcRub4TC0r6THl3A2wYIYPyN694iTsP5rMT/F0=;LM20peRxVPRzOxWXYnuLAA=="
+secured: "Ppilj1XO7faowqDhpCknbvxVMQm5paLPKRG+i+eBI4Ru8tb737ejIYyxEC9dtHz0BNHIRIhEVrPYZmwuyvzmwTdrtKS0UPxvytXl89r9iNwKLzGJw03ELSoe8pX0319uHHEYkHue8f0w/E/vENnB0pDScIMLMLykMs/1bTnkMe1dyL+iuV/JD0gg5z4UEm/rpGhysdvm5GooIzd1G841o0P+qVWPpEOM8aGdEck2Uxxz5HBQVQsTcKmmSgWTfcQ/IhCAEuWFh6sVuc6391rWJze0ZZ3gZ58JpBfwg10ZNn+fjwFkW4MFxu7EwRdDMouoKxJS6WUo2XyhCOMCEzZCqpsQnaNPoOdbAKeUSiSM1aU=;KJQXLJFNDl5MS+20TVN60g=="
 ---
 

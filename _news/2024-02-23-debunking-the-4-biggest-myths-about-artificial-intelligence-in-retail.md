@@ -43,22 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-02-19T17:38:00Z
-    webUrl: "https://techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/"
-    ampWebUrl: "https://techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2024/02/women-in-ai-cover.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The 3 biggest misconceptions about AI"
     excerpt: "A trio of experts share the most common misunderstandings they’ve heard with it comes to AI and students—and reveal the truth behind them."
     publishedDateTime: 2024-02-19T09:59:00Z
@@ -114,20 +98,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/legal-tech-767x633.jpg"
         width: 767
         height: 633
-        isCached: true
-  - title: "Uptrends.AI Releases AI-Powered Platform To Streamline Stock Market News Monitoring"
-    excerpt: "The Uptrends v3 release focuses on providing investors with actionable and personalized insights to help them make informed decisions sans information overload."
-    publishedDateTime: 2024-02-20T00:58:00Z
-    webUrl: "https://siliconprairienews.com/2024/02/uptrends-ai-releases-ai-powered-platform-to-streamline-stock-market-news-monitoring/"
-    type: article
-    provider:
-      name: Silicon Prairie News
-      domain: siliconprairienews.com
-    quality: 31
-    images:
-      - url: "https://siliconprairienews.com/wp-content/uploads/2024/02/Uptrends_AI.jpeg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Automation and integration, AI and VR – this year’s biggest IOT trends might not be what you expect"
     excerpt: "Among the applications of generative AI and large language models were live translator devices and pocket-sized AI devices designed to manage tasks through interactions with typical mobile apps. Urban mobility is taking off too, quite literally ..."

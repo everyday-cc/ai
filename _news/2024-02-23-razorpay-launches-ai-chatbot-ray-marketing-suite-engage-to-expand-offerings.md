@@ -54,6 +54,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Gateway 3.0 to AI 'RAY': Razorpay launches a suite of fintech products"
+    excerpt: "The Bengaluru-based fintech firm marked its foray into the marketing and growth solutions space as it launched Engage; a full-stack marketing growth suite"
+    publishedDateTime: 2024-02-23T14:17:00Z
+    webUrl: "https://www.business-standard.com/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
   - title: "Razorpay Hits $150 Billion TPV, Introduces AI Chatbot and Payment Gateway 3.0"
     excerpt: "AI Nucleus,' the new checkout option is expected to boost conversions by more than 30%, leading to increased revenues for businesses. Razorpay's CEO and Co-Founder, Harshil Mathur, highlighted the transformative impact on the Indian fintech industry ..."
     publishedDateTime: 2024-02-23T00:01:00Z

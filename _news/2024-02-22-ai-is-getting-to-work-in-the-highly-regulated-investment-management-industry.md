@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96403_403_us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai_full.jpg"
         width: 1500
         height: 857
+        isCached: true
+  - title: "New York Department of Financial Services Issues Proposed Circular Letter on Use of AI in Insurance Industry"
+    excerpt: "On Jan, 17, 2024 the New York State Department of Financial Services ... system is defined as “any machine-based system designed to perform functions normally associated with human intelligence, such as reasoning, learning, and self-improvement, that ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-york-department-of-financial-3487429/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 20
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15417_0919.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Five of the Top Artificial Intelligence Stocks to Invest in Immediately"
     excerpt: "With artificial intelligence impacting just about every industry in the world, the market could be worth about $594 billion by 2032, according to Precedence Research. All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE ..."

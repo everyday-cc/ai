@@ -7,8 +7,8 @@ originalUrl: "https://htxt.co.za/2024/02/19/facial-recognition-will-feature-at-m
 webUrl: "https://htxt.co.za/2024/02/19/facial-recognition-will-feature-at-many-airports-moving-forward/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Htxt.Africa
@@ -34,20 +34,6 @@ related:
       name: Investing
       domain: investing.com
     quality: 34
-  - title: "'Facial recognition' error message on vending machine sparks concern at University of Waterloo"
-    excerpt: "A set of smart vending machines at the University of Waterloo is expected to be removed from campus after students raised privacy concerns about their software."
-    publishedDateTime: 2024-02-22T22:05:00Z
-    webUrl: "https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 29
-    images:
-      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/2/22/vending-machine-facial-recognition-1-6779840-1708642383265.jpg"
-        width: 1020
-        height: 574
-        isCached: true
 
 secured: "ljNttj7HY1/JnT2wk4LOz3bs1+0NfrJHkJ4niX3ue/1dU7CLgZYXO2HaNvfkOjtoKoOdBcFuePnOT5n2RlCgZwGZfCX0+cRyfBrz4O25Zng4Q0lHFYBO4zyNLBvRUCFtNAwyqImCQN3378vS5bXMROfXv0XaAjltN9K7AUuoLeGNZscknqBRzhMYx+/lwcFRxJxn/+/kwEOZfX+FPN79INUQ6p7K9HWFQNa5GXsGRcKCtneFwl6f8LCpMfKFOgXrg5+m+XydFtpbvCJpD5o9MmhrrphO9hM8k8bxCQuoA3IQRva34W2AYHhYwcJ6xZT9XeJPMLgfzBOs0ljbq0sUGsc9OVrc00LyYLrtGzUvXd4=;aCIu302wX6dErb9x0YnwKA=="
 ---

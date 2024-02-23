@@ -26,29 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition will feature at many airports moving forward"
-    excerpt: "These include the use of facial recognition software to speed up the pre-check and verification process of passengers, which has been utilised in some way since 2019 by the TSA. It is set to ..."
-    publishedDateTime: 2024-02-19T11:43:00Z
-    webUrl: "https://htxt.co.za/2024/02/19/facial-recognition-will-feature-at-many-airports-moving-forward/"
+  - title: "Canadian university vending machine error reveals use of facial recognition"
+    excerpt: "University of Waterloo dispenser displays facial recognition message despite no prior indication it was monitoring students A malfunctioning vending machine at a Canadian university has inadvertently revealed that a number of them have been using facial ..."
+    publishedDateTime: 2024-02-23T18:27:00Z
+    webUrl: "https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo?ref=mc.news"
+    ampWebUrl: "https://amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
     type: article
     provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 54
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "http://htxt.co.za/wp-content/uploads/2024/02/tusik-only-yOd-gjE7D68-unsplash.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://i.guim.co.uk/img/media/be91b776e57ce787c55cc38b4f6f4e6846c79bb6/0_0_4000_2667/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=75c5c858f2563718de3d235eccecc6b8"
+        width: 620
+        height: 413
         isCached: true
-  - title: "Akasa Air adopts Digi Yatra’s facial recognition system at 9 airports"
-    excerpt: "Akasa Air on Tuesday confirmed the adoption of Digi Yatra’s facial recognition system across nine major airports across the country including Bengaluru, New Delhi, Varanasi, Hyderabad, Lucknow, Ahmedabad,"
-    publishedDateTime: 2024-02-20T09:45:00Z
-    webUrl: "https://in.investing.com/news/akasa-air-adopts-digi-yatras-facial-recognition-system-at-9-airports-4026041"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 34
 
 secured: "TMdVn+00RjylUj1zhcOvzP9GsAIp4Mm+aoCoz4sl9A57H6es50UH5wdX4JdUA6KbkJOgoi/0/09MNIdJ6JYrb17Y0czAWzNf54MckKvlKjOe/MoqitL90rMV8kvpUsO5T/TlRVpqPdsW/zU3pgzby9aKZXxJFEnjaNrs0gT28d5nQ9ZB6bV01GNgZubxXu6eYT/THa8IkC8wOKhnDd1QLxS69C/4d4jTNS/LCgAmuk0ITgYCCCrsp+/aBv0tdj/SLtJftUYzkeqgCZxnNSXuJPuPss/z7E0+6D0BEsGnKS3wRrQS16tUuJLk3gORuEd+bgMs/J1ksneM6m2aTRGcUltmAjcuGvmAPs55wq0lI1vFyMsJHCE5jY+X4JEVb0NB+mi/jR6uT7P9bob5UOxOkXTh+mKI4kByx8iPljs8Aa0vq6cDJ83C+gIppuGZ7vjJhM8hfrnVWifAbbrQr7s0lJgsvWTSjAyUnwC0x7aqDUPuhLvpZyalPsXQ2h7GSd1Gno8V9jU/qbQRQ7JRz+2nyg==;AVbWky0MmzKDWyAPX3VfIQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo204727877516"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo204727877516"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/85b9bcd7e3ff51ae576931202a82643999beb84a/0_117_3513_2108/master/3513.jpg?width=620&quality=85&auto=format&fit=max&s=ffd921ab2e83d531bc5e26f5eda61f30"
         width: 620
         height: 372
+        isCached: true
+  - title: "NC Representatives host Biden administration senior officers, discuss AI"
+    excerpt: "Rep. Valerie Foushee, (D-NC 4th) and Rep. Deborah Ross, (D-NC 2nd) hosted a roundtable with senior administration officers from the Biden Administration and local industry leaders to discuss government use of Artificial Intelligence."
+    publishedDateTime: 2024-02-23T17:39:00Z
+    webUrl: "https://www.dailytarheel.com/article/2024/02/city-valerie-foushee-deborah-ross-government-use-of-ai-roundtable"
+    type: article
+    provider:
+      name: The Daily Tar Heel
+      domain: dailytarheel.com
+    quality: 38
+    images:
+      - url: "https://snworksceo.imgix.net/dth/90ae76c9-6be5-4ebe-acde-1cb52fb98c65.sized-1000x1000.jpg?w=800&h=600"
+        width: 800
+        height: 567
         isCached: true
 
 secured: "SFrxOG9GiCK8FD6fMc0PT1Jq6uPOgBZCDud1/k97TzwI5PcIWdmbQKcp2XYUH70cBVVNAKRWsUg0G02epePvQHY2ZjOBJtNFhwn6U8g1V5nOhY26KBRAQObP8mcEmZ6PWRKCHUzez0wvTuKUIua+GZWmiVRXnFDubeoL0gBOT2HNFqePGqG6Lgu6tPTZfyzs1Nv+bCcYQ1NG5pmWwiru8ZrFP6CvZI1ntPup+l/eABJm4cNDisd1mbBgg69lRT4/lbR2nJoo7Q2jzpl/M6qSarYmIgLxY8jQ24SXeZT5I57Jv5GaAFIgVevsPbhpv6KtLm6iG1Ykn/+/WlT/7UWLNxtpFRslAvrnDbUPD2+gf6+nmxQzg2K5uSlJkDdUe35/sVms7s39gBTKzaZniHvYTVScMbu6N8EqQC13qwP3oBsGqGt3oxK+3Pe5OV+OVSgCVhgskzUXv8/LXItFy2XvI+mXNNJRP+emPFiq3CYkqbIdDO4xyF+W+cpFu+hLkVSZepL1NudpbhvwK/E/CdVLIQ==;ZQ2jJdHbkhwZpQxqQ972Rw=="

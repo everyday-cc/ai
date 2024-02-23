@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-02-19T17:38:00Z
-    webUrl: "https://techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/"
-    ampWebUrl: "https://techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2024/02/women-in-ai-cover.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Debunking The 4 Biggest Myths About Artificial Intelligence in Retail"
     excerpt: "There are many popular myths circulating about AI, according to one Gartner report. And as retailers integrate AI solutions into their businesses, it’s important to know which common beliefs about the technology are myths and which ones are factual. Here are four big AI myths — and the truths about them."
     publishedDateTime: 2024-02-23T01:06:00Z
@@ -128,20 +112,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/legal-tech-767x633.jpg"
         width: 767
         height: 633
-        isCached: true
-  - title: "Uptrends.AI Releases AI-Powered Platform To Streamline Stock Market News Monitoring"
-    excerpt: "The Uptrends v3 release focuses on providing investors with actionable and personalized insights to help them make informed decisions sans information overload."
-    publishedDateTime: 2024-02-20T00:58:00Z
-    webUrl: "https://siliconprairienews.com/2024/02/uptrends-ai-releases-ai-powered-platform-to-streamline-stock-market-news-monitoring/"
-    type: article
-    provider:
-      name: Silicon Prairie News
-      domain: siliconprairienews.com
-    quality: 31
-    images:
-      - url: "https://siliconprairienews.com/wp-content/uploads/2024/02/Uptrends_AI.jpeg"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "kLD4bTghKJsjBERgV1J8fpwPXyHfYWR3p+LSsOnPEAsyrJe1R4eGBhmxmzqDMzJkXSX6wDMDMJwF4Kj2orUlhhRJXw23VwiahgWf9Dz1CdVELsB9xO7aD/qte7oKrPuNH0fIGnXMYlE4NZWKNoYxe18CGN+kEk3FEsgLUuFUhz11g8r/rjXt+QUzrEIooDzEYc01BcS8kSG2XomM9qN+q3dSvEo1AAc6cSYhqsNT0CUeXorn5eYxiU8XRzoQpG0mOJ4T+4/R1r6twaxHYLc+llMQhDl+EZx0kvu+3CLwjdta7A09cv1D16AVbUIJ2J9Y27RqsXxquS1fNaX50yyqNmoECzKO9d5Wqo+dmCK3Zn0=;4afeOf3syEWs7LoaSW78pA=="

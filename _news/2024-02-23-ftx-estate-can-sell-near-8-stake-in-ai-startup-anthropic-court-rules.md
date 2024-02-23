@@ -36,6 +36,15 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "FTX Gets Bankruptcy Court Approval to Sell Shares in AI Startup Anthropic"
+    excerpt: "Authorization for the sale enables the bankrupt crypto exchange to unload its stake at “the most optimal and appropriate time” given the increased interest in artificial intelligence."
+    publishedDateTime: 2024-02-23T16:57:00Z
+    webUrl: "https://www.wsj.com/articles/ftx-gets-bankruptcy-court-approval-to-sell-shares-in-ai-startup-anthropic-279048cc"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 46
   - title: "FTX Cleared to Sell Its Stake in AI Startup Anthropic: Report"
     excerpt: "U.S. Federal Judge John Dorsey has permitted FTX to sell its shares in the artificial intelligence firm Anthropic."
     publishedDateTime: 2024-02-23T05:05:00Z

@@ -57,6 +57,20 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "New York Department of Financial Services Issues Proposed Circular Letter on Use of AI in Insurance Industry"
+    excerpt: "On Jan, 17, 2024 the New York State Department of Financial Services ... system is defined as “any machine-based system designed to perform functions normally associated with human intelligence, such as reasoning, learning, and self-improvement, that ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-york-department-of-financial-3487429/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 20
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15417_0919.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "zkIqhPpMozfy3ysVnERSRa+3rEb49ya/qYgZlszb3hR4WaOjdBnYq7IpsjznTiTqhvRA5pNmdIDi86dcId+89m8m0YxjFcPIp0fr6NUjOEfxYYfyXnYtkTAmXOiIrdXEy70UlLusniuuqx6IhOtYMSJjIuR9U3BChEDF9s9gQI7lBXvHlI1EEiZhAi8tP20xSDeJBBDEKMVwFA9Ty4DX3S5yd/kHjVFwQR5PcxJQUhDMz3wcsYU63KBgFLvFz9VGrLx8VFWyAoGaX8L6H7Yo5LGmgBiufzdAtuh+MpZt9VgHscCWp8rOqqzWMJQ3JkPQ17wB9/NanZ+npbAwZNd9KUF30Fcqj4+T6k9YRTJAakw=;F4ip1yNfYKBeO34k138j0w=="
 ---

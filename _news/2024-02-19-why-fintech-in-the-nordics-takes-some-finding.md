@@ -89,15 +89,6 @@ related:
         width: 870
         height: 580
         isCached: true
-  - title: "3 Under-the-Radar Fintech Stocks Ready to Make a Move"
-    excerpt: "The post 3 Under-the-Radar Fintech Stocks Ready to Make a Move appeared first on InvestorPlace."
-    publishedDateTime: 2024-02-18T18:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-under-the-radar-fintech-stocks-ready-to-make-a-move"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Bud joins forces with Fintech Galaxy"
     excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. This collaboration is all about bringing tangible ..."
     publishedDateTime: 2024-02-21T09:57:00Z

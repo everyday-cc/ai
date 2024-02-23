@@ -49,9 +49,9 @@ related:
       domain: infosecurity-magazine.com
     quality: 17
   - title: "Live: UK’s Serco ordered to stop using facial recognition to monitor staff"
-    excerpt: "Live: UK’s Serco ordered to stop using facial recognition to monitor staff on facebook (opens in a new window) Live: UK’s Serco ordered to stop using facial recognition to monitor staff on linkedin (opens in a new window) Live: UK’s Serco ordered to ..."
-    publishedDateTime: 2024-02-22T23:45:00Z
-    webUrl: "https://www.ft.com/content/00ae3e53-7f67-40ce-8333-88c74755799a"
+    excerpt: "UK public service contractor Serco has been slammed by the country’s data watchdog for using facial recognition and fingerprint scanning to monitor and pay its staff, and ordere"
+    publishedDateTime: 2024-02-22T23:41:00Z
+    webUrl: "https://www.ft.com/content/cbfd0094-2219-4f64-a5b0-c06f05c5b81c"
     type: article
     provider:
       name: The Financial Times

@@ -90,20 +90,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 33
-  - title: "Billionaire Investor Chase Coleman Has 46% of His Portfolio Invested in 5 Brilliant Artificial Intelligence (AI) Growth Stocks"
-    excerpt: "Billionaire investor Chase Coleman is one of Wall Street's original whiz kids. When he was just 24 years old, he founded Tiger Global Management with starting capital from his former boss and mentor, the iconic hedge fund manager Julian Robertson, Jr ..."
-    publishedDateTime: 2024-02-18T18:19:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/24165944/billionaire-investor-chase-coleman-has-46-of-his-portfolio-invested-in-5-brilliant-artificial-intelligence-ai-growth-stocks/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 24
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/c348d765c631813a40150e0474c2faaf/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f765420%252fa-person-looking-at-a-mobile-device-while-seated-at-a-computer-desk-with-an-overlay-of-ai-algorithms-and-stock-price-graphs.jpg%26amp%3Bw%3D700"
-        width: 3000
-        height: 1999
-        isCached: true
 
 secured: "h8/O00xcogdW3LSpfcS5ggiu/TsWHOiwFnj9XkL+UTlDdrCGbMQam0RKG7oiRQm92b6Ea+BmgrWUDCNyuMWqHll3Iz3MHnmC+fLs89SZ7xONSD0mfgo2K73OWfuAHM+Wvcq2rlhLe7JhKW8MT/3837Fk8bH6rPo09LBg9CZPBUvMBtncEAYVvtSHzxDliTfT5omHFFnyImAshyiH+gOHatB+RFpqxT8S4OTYX+Gql5m3TglhbQCHJC3CMM91FtnLzxHV53HyoYaXyHLHonvU1haEujkzRGB+X4NZ5jmpLYs9ktWunllh/IbGYUI2U/3kdhspD11w1exVZtXtUI5sg4MwX6rypo/OgY6IOFODmI4=;3/SVQm6eodEpQ3Koxpo5qQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prse
 webUrl: "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Federal and State Lawmakers Launch AI Task Forces — AI: The Washington Report"
+    excerpt: "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report"
+    ampWebUrl: "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 56
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI-Artificial-Intelligence-Abstract-Art-367016941_1.jpg?h=c4779ecb&itok=G8TpDj02"
+        width: 602
+        height: 300
+        isCached: true
   - title: "Commerce Department Launches Cross-Sector Consortium on AI Safety — AI: The Washington Report"
     excerpt: "To achieve the objectives set out by the AI EO, the AISIC has convened leading AI developers, research institutions, and civil society groups. At launch, the AISIC has over 200 members, and that number will likely grow in the coming months. According to ..."
     publishedDateTime: 2024-02-19T00:00:00Z

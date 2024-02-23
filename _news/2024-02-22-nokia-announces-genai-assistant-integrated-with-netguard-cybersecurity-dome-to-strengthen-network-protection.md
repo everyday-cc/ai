@@ -27,7 +27,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_714494782.jpeg"
         width: 1400
@@ -55,6 +55,20 @@ related:
       - url: "https://back.3blmedia.com/sites/default/files/inline-images/AI_Cybersecurity_HARMAN_2.19.24A.jpg"
         width: 768
         height: 402
+        isCached: true
+  - title: "“Let’s Talk Compliance”: Health Care Privacy and Cybersecurity"
+    excerpt: "There are lively debates on what is true AI or simply smart algorithms. In this webinar, AI is discussed as an impact on health care and the potential risks it may bring as more and more turn toward AI for assistance. Wider AI adoption could save the U.S ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/let-s-talk-compliance-health-care-7490060/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 24
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Vectra AI and Gigamon Announce New OEM Partnership to Reduce Cybersecurity Risk for Large Enterprise Organizations"
     excerpt: "The Vectra AI Platform leverages the integration with Gigamon GigaVUE Cloud Suite and is available now through Vectra AI, Vectra AI Reseller Partners, and the AWS, Microsoft Azure, and Google Cloud marketplace. For more information, visit: https://www.vectra.ai/products/platform."

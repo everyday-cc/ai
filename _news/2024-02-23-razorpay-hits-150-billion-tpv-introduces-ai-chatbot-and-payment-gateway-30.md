@@ -68,6 +68,17 @@ related:
       name: inc42
       domain: inc42.com
     quality: 53
+  - title: "Gateway 3.0 to AI 'RAY': Razorpay launches a suite of fintech products"
+    excerpt: "The Bengaluru-based fintech firm marked its foray into the marketing and growth solutions space as it launched Engage; a full-stack marketing growth suite"
+    publishedDateTime: 2024-02-23T14:17:00Z
+    webUrl: "https://www.business-standard.com/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
 
 secured: "7m8WAmJDHp81YSXzjs5xgKQzv4gBaFabVwE13kKlE/Xw8MboDvDSEgeNSLaeGzTVQhQQ3JDbaaQaOLQI9QvKLN0HxrWUD8JhblDs7uUmTNxfLZG5hWb2hePnabLLaXKon3dwQaDzAYizipKrxlzBq4dwnW73BfT2MwP+RugeV2P059r6bOcoNPXevGAFlBRebfQf64voIvYGfIxH5bljDSdji0okSlba7mEbp3ye1cYIgeETqBTkRZX6zgTyQlDcs+KZK/N64VHkrUW3WqPE0V9iKnU5A/amcxDM2nAEKzYcqxMip+HZ8q0VOBSJPGJe4R/BUXY1AtGhInCDSTqB6vZ3moGtVbHOP49DA9Ff79w=;v9oFnVR0jiKSxFs0pAz8Ug=="
 ---

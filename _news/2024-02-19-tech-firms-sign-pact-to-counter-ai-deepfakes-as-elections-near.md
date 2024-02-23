@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tech companies sign accord to combat AI-generated election trickery"
-    excerpt: "By Matt O’Brien and Ali SwensonThe Major technology companies signed a pact Feb. 16 to voluntarily adopt “reasonable precautions” to prevent artificial intelligence tools from being used to […]"
-    publishedDateTime: 2024-02-18T17:15:00Z
-    webUrl: "https://afro.com/tech-companies-sign-accord-to-combat-ai-generated-election-trickery/"
-    type: article
-    provider:
-      name: Afro
-      domain: afro.com
-    quality: 37
-    images:
-      - url: "https://afro.com/wp-content/uploads/2024/02/ai-technology-microchip-background-digital-transformation-concept-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "bdtDyUrqecssztp5hTjUCWzmPzpwhU/DxJX9D1rrg8khw8/pUaIB6bdgkggqjvZlBiCEqeFB+MC6m+VCec8Ute47eD5yy1sElxxsfLjE0+RHbfDEyTIRjwicoy75Dr43javUWJO9+wQXOBRH8rNjHX6bpjxvplBKAX4QNzKXcfsnlgcS8cXg48JsmnK//AJ+itnyrnU5spa/gl5QHDpJNsW5V+iyFluGFPnPpeAav0Y/AqgiS6kRAV7e+LZ7pjTjFhqNODLfTfX1Dx3W77e+roOK/mbSOTOdyRAarM8j9Rx7afDLHvkIez2JnR5lwxGj3Lbfn8b5aVWhac8QTh1vF1JWcT/UYtGanRWiIPgUSnIX0lQychR/3c98vlZbRCNEA10fQPtE2Dltpqi72+1icCWVv6daurDUfqo4qpMtOU1s4akB0MDK4zHc1++MPEb1+nxabtfi7ctPRjq846JLBhqzghwxoPT88NC2cJ0fIzq6U98fkQTAgD4dfulgTrEYtjIUhQ3wtCJJUZfiADKQoA==;+lhvzfiD7p9wpR1pcu4dlg=="
 ---

@@ -77,15 +77,6 @@ related:
         width: 870
         height: 580
         isCached: true
-  - title: "3 Under-the-Radar Fintech Stocks Ready to Make a Move"
-    excerpt: "The post 3 Under-the-Radar Fintech Stocks Ready to Make a Move appeared first on InvestorPlace."
-    publishedDateTime: 2024-02-18T18:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-under-the-radar-fintech-stocks-ready-to-make-a-move"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Why Fintech In The Nordics Takes Some Finding"
     excerpt: "Attendees gather at GoWest Nordic Venture Capital Forum in Gothenburg. February 2024. Despite the international renown and impact of Klarna, fintech was not one of the hot topics of conversation at the recent GoWest Nordic Venture Capital Forum."
     publishedDateTime: 2024-02-19T12:34:00Z

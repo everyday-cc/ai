@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/european-chip-stocks-surge-aft
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31"
 type: article
 quality: 114
-heat: 544
+heat: 564
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "US chipmaker Nvidia scales $2tn amid artificial intelligence boom"
+    excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
+    publishedDateTime: 2024-02-23T16:16:00Z
+    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/6eb6701b827383e927741aa77b9fb8d3308ff274/0_491_7488_4495/master/7488.jpg?width=620&quality=85&auto=format&fit=max&s=39f3cc2637afa6532a061368f40528be"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Nvidia rises most in about nine months as AI drives sales"
     excerpt: "Revenue in the current period will be about US$24 billion ($32.24 billion), the company said in a statement Wednesday."
     publishedDateTime: 2024-02-22T15:08:00Z
@@ -566,6 +582,15 @@ related:
       name: The Spokesman-Review
       domain: spokesman.com
     quality: 17
+  - title: "Nvidia's 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
+    excerpt: "(AP) — Nvidia Corp., which has seen its value skyrocket over the past year thanks to soaring demand for its graphics chips used for artificial intelligence, posted stronger-than-expected results for the latest quarter, with its revenue more than tripling ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/nvidia-s-4q-revenue-profit-soar-thanks-to-demand-18680502.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 6
   - title: "Chipmaker Nvidia Just Posted Unbelievable Revenue Growth. It's All Down to the AI Revolution"
     excerpt: "The reason is simple, according to the company's CEO Jensen Huang. It's because \"accelerated computing and generative AI have hit the tipping point,\" and demand for powerful chips that can help with all the number crunching needed to make AI work is \"surging worldwide across companies, industries and nations.\""
     publishedDateTime: 2024-02-22T18:15:00Z

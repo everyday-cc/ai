@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/vcs-clamoring-invest-medical-scrib
 webUrl: "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Business Insider
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Recogni Inc. doubles total funding to develop generative AI chips"
+    excerpt: "Artificial intelligence startup Recogni Inc. announced it raised a mega funding round after expanding its reach into generative artificial intelligence. The San Jose startup historically has developed hardware to help autonomous vehicles understand object ..."
+    publishedDateTime: 2024-02-21T15:15:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2024/02/21/recogni-102m-series-c.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 36
 
 secured: "FR8XHrmxvkg5cAoh7BDhWRi7aPAifshIoGU+L+Ab2huBx+bvX2Uhmj+f7knGaWhSn3SyUWpqgGm5/bxTTMRwwfyjVrmMA1I6ugZNDyim8YC51AYI7LP0qUCKNE2IScpQk1F/hjYG3gffMN7ZTE4BT4GWECk3rH0rcba41SxhuwTmxHayOYxP0Y2vLWkzYItPnBoU5OIG2AGFv3p7pFmuDMrW6j15I+OalSqH906pU+tVl7rvl8QDQMBMcbL0zp/Gd9ioZG8cG+ZR0/99rcYheyCqWJzRYIVUvXaRglzV/1F8jhCGLoNwIFDDuLUP5875Hq/ObQmmMa2b1Wh+48pv6TrMWyuU/1NRGLJJ+m+sD8k=;7LjN1skpGMuh0RaQ3CCrZQ=="
 ---

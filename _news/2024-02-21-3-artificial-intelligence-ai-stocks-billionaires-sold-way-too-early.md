@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires
 webUrl: "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires-sold-way-too-early/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 33
-  - title: "Billionaire Investor Chase Coleman Has 46% of His Portfolio Invested in 5 Brilliant Artificial Intelligence (AI) Growth Stocks"
-    excerpt: "Billionaire investor Chase Coleman is one of Wall Street's original whiz kids. When he was just 24 years old, he founded Tiger Global Management with starting capital from his former boss and mentor, the iconic hedge fund manager Julian Robertson, Jr ..."
-    publishedDateTime: 2024-02-18T18:19:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/24165944/billionaire-investor-chase-coleman-has-46-of-his-portfolio-invested-in-5-brilliant-artificial-intelligence-ai-growth-stocks/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 24
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/c348d765c631813a40150e0474c2faaf/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f765420%252fa-person-looking-at-a-mobile-device-while-seated-at-a-computer-desk-with-an-overlay-of-ai-algorithms-and-stock-price-graphs.jpg%26amp%3Bw%3D700"
-        width: 3000
-        height: 1999
-        isCached: true
 
 secured: "NQxI/b2Ydz+224D3JmJZ7hUPeKxbvrn+WZVrL8rAMbz/ZTrKhW91d8rlBmjGETLr41drP9vABjcGIh3uzNHI7CWY190UXvb20i/Qt+huWN+/YJdJ9wh4+pr1QYpeilVCZptKX/sSg0f6ABo5Y3X6skRhgF/hEoFdWAahS40c4+JHzNWkiay+5V8x77eoTkKIUsuRtp5LtD1sPzlFg9b80d+C7HSYVsmMZpx08AWN0KsQtBAmhZLDyzbnaixvBDDA8knnwKvyUn0e3fKUc2TTVfLEbr92Fqprq+xDdarRLfy8uYxxqhK5R80okELU6bSpC5mqrM0GjTq8NF1u6MNuTSgAgUXEWBoy/tVNdKC45pI=;9Q0JLOONeqo2zp1DQOt8cQ=="
 ---

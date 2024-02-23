@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-22T00:00:00Z
 originalUrl: "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/"
 webUrl: "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/"
 type: article
-quality: 65
-heat: 105
+quality: 67
+heat: 117
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_714494782.jpeg"
@@ -52,6 +53,20 @@ related:
         width: 768
         height: 402
         isCached: true
+  - title: "“Let’s Talk Compliance”: Health Care Privacy and Cybersecurity"
+    excerpt: "There are lively debates on what is true AI or simply smart algorithms. In this webinar, AI is discussed as an impact on health care and the potential risks it may bring as more and more turn toward AI for assistance. Wider AI adoption could save the U.S ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/let-s-talk-compliance-health-care-7490060/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 24
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Vectra AI and Gigamon Announce New OEM Partnership to Reduce Cybersecurity Risk for Large Enterprise Organizations"
     excerpt: "The Vectra AI Platform leverages the integration with Gigamon GigaVUE Cloud Suite and is available now through Vectra AI, Vectra AI Reseller Partners, and the AWS, Microsoft Azure, and Google Cloud marketplace. For more information, visit: https://www.vectra.ai/products/platform."
     publishedDateTime: 2024-02-20T15:29:00Z
@@ -71,6 +86,6 @@ related:
       domain: datanami.com
     quality: 0
 
-secured: "tnCkNQD8C3xNDG23lCS49UELmeq1dURgrUI6RXH/5cogajePnHyAIr3qW/V9m5w9/on5MxPpgYyVIWRtPpLIwZTfbMsyB/YoeqZ9pafCvKyX3P+NqxGf1tDSAiU0e0x2n+g68ofm0pIsu8rcmy/8IUZuhlUDT257nMeXVsjbkXUzavigo+JUN364nMEYPw/PFsafqzltKiCTkzfUPLsZorAUFAcTA2g5/bQDcQpEUuaqDv8XJqCkLYLQ9mzDbUz2A6mtuPE+qn4YezLKaY5gEv5Af1LxfqZ7z+4cN/A0CCdI5poHYFWnPAhn2zo4UnOTza7SvFUui6q4iuKpsUHnxhuetb5Uo/S87aum2Cao3/E=;dDBuKitO1hKMwRhw7XJXIw=="
+secured: "tcDa1wJQNGBRDmWR0hmtx98bu+bAm64LzuVkDO6QbBZq2gIO16SSDjMAzIwSNjhYf5sAtDRY2mrTHl/KUwDQNKknzaTaHcsKEv06OunGAhvGZdjlsWlm9mfIjk6xzaprpQR53tMNTcu9cLcXEYJYkjtW4WetS4XN5S3Ra2G6xvl1xdjk04pd17Xh12WUdcsprVUyjxxEpIttVven9eAzdtJIE/JzNPG6/5pk3vLuxxXCZfPySB3bc0OhCrEzit2xLOkMVlbgBIvV26gIiyS0zmcyynkMhzKR79M2ATyignPduxAQuXKi/FrZX8qTJ6/CDxi1yG74M0tCGfCdLR+WVCMABROwVG5cuQGHDdI1KtPE07noUUb3aZ7AZ7qc6w/X1mXePh6v/yRsWZlF6Cw/O7Kk70cONHAbxhaCo6FhoTRYcazc53SwH/6VgGk/RKVk8Cpg6m45BUM8dhQqWHrjoNy6lWdYAjR/5jz5S/w31BaIVpEojEn4AS/BQ3KVhzOWV5tVt2kZJ8uUTu57ZFPIOQ==;fVYGXgc6Cx+NUu3KncBZEg=="
 ---
 
