@@ -35,20 +35,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "The 3 biggest misconceptions about AI"
-    excerpt: "A trio of experts share the most common misunderstandings they’ve heard with it comes to AI and students—and reveal the truth behind them."
-    publishedDateTime: 2024-02-19T09:59:00Z
-    webUrl: "https://www.eschoolnews.com/digital-learning/2024/02/19/misconceptions-ai-students/"
-    type: article
-    provider:
-      name: eSchool News
-      domain: eschoolnews.com
-    quality: 39
-    images:
-      - url: "https://www.eschoolnews.com/files/2024/02/misconceptions-AI-classroom-students-learning.jpeg"
-        width: 500
-        height: 331
-        isCached: true
 
 secured: "kChxNBM4qmayESmKxMcTigCseZ3lNyuxgCS7RZW7teGgF2mz5CS0jT04G0GL1ceO/CQXn2WFcV8Y28ZvmM2mDLxkzDktEl5asECCAWBMWyqYydfkaXLpHZ1Fi56X3mqWNauFy97kwyhGJaC6YQinIhlJT02XB44/D5jN8pLCLjFznFKow9K3ZgvXMyHwXzbvb/EpZY4O1QRhfgagNg2itm8dT6L9xMxkadwYR3rUQ6Z3iWHT++rBAyHKSeWnYpOu6PBSXzZUS5b0Rsy20j46Wm6SgvpTF0ZC0pl9VjrSXxFPZ5wLTmQx6d/57QSJQE+rSH/Wm0wY/xtv9N6Ruyf/YPyF9RCAs0AGCdO2vz7XZqpIQHKLzi2eTezCK5yzRd3mRLnZ8MUuTrbdxDx1uhzZpTeCiOmJKSNek9DQKhN5GpPX8BK1Lor4V5tRjEGL11lDVhw6HdlIhEHKyPGv+7LALXAWvQj5Q5khnlNmX0gXZ+HOvtzOEAU5Bm0frv1bZLZftBopTk4g6nixRvzSCUOclg==;6+Mw9VB3UMRQlRuwmKq0vw=="
 ---

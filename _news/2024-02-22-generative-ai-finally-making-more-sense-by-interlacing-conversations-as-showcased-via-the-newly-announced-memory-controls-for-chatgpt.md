@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://menafn.com/updates/pr/2024-02/19/KT_70ff5image_story.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "These six young people died by gun violence. Now their AI-generated voices are sending gun control pleas to lawmakers"
-    excerpt: "A new campaign is encouraging Americans to send pre-made voice messages to members of Congress pleading for stricter measures on gun control. But there’s a wrinkle: The six messages are all from young people who died by gun violence,"
-    publishedDateTime: 2024-02-19T10:57:00Z
-    webUrl: "https://www.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 46
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/still-20390859-1034-5420000000001-still.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
         isCached: true
   - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
     excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"

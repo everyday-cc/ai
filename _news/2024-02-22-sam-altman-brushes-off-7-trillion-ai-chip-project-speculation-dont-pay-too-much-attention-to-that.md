@@ -67,20 +67,6 @@ related:
         width: 760
         height: 570
         isCached: true
-  - title: "Zuck backs Altman's £5.5 trillion AI chip plan"
-    excerpt: "It is not bonkers Meta Platforms boss Mark Zuckerberg gave his views on the £5.5 trillion AI chipmaking plan by OpenAI chief Sam Altman last week. .While he called the number \"sky-high\", Zuckerberg also said he believed in the need for such a plan for the future of artificial intelligence."
-    publishedDateTime: 2024-02-19T10:36:00Z
-    webUrl: "https://www.fudzilla.com/news/pc-hardware/58472-zuck-backs-altman-s-5-5-trillion-ai-chip-plan"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/fe80dc7fc24c7d1357f3aefa8ac33b93_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Opinion: Artificial intelligence must reflect the diversity of humanity. New technology can help."
     excerpt: "On my last visit to La Jolla Cove, this scenic corner of San Diego sparked a question for me: What does artificial intelligence, AI, think about places like La Jolla Cove? Whose opinions and voices shape what an AI system believes? It highlights the ..."
     publishedDateTime: 2024-02-21T14:08:00Z

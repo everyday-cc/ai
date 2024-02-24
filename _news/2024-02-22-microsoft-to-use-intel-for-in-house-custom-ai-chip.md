@@ -282,20 +282,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "SoftBank Bets $100 Bn on AI Chips, Takes Aim at NVIDIA"
-    excerpt: "Competing in the AI dominance race, SoftBank's CEO, Masayoshi Son, has announced a plan to gather a whopping $100 billion for his AI project."
-    publishedDateTime: 2024-02-19T09:45:00Z
-    webUrl: "https://analyticsindiamag.com/softbank-bets-100-billion-on-ai-chips-takes-aim-at-nvidia/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-Most-Powerful-5-AI-Chips-Released-in-2023.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft to invest $2.1bn in cloud and AI infrastructure in Spain"
     excerpt: "Microsoft has committed to investing $2.1 billion in cloud computing and artificial intelligence (AI) infrastructure in Spain over the next two years. The planned investment was shared by the vice chair and president of Microsoft Brad Smith via a post on X following a meeting with the Prime Minister of Spain, Pedro Sanchez."
     publishedDateTime: 2024-02-20T14:56:00Z

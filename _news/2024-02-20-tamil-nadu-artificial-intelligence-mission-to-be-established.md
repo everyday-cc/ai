@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-artific
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/tamil-nadu-artificial-intelligence-mission-to-be-established/article67864691.ece/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,48 @@ images:
     isCached: true
 
 related:
-  - title: "Tamil Nadu Budget 2024: Welfare of women and transgender people, promotion of Tamil and other highlights"
-    excerpt: "The announcements aimed at achieving the “7 grand Tamil dream” foucssing on social justice, welfare of the marginalised, transforming Tamil youth as global achievers, knowledge-based economy, equality focused on the welfare of women, sustainable future, and Tamil language and culture."
-    publishedDateTime: 2024-02-19T12:34:00Z
-    webUrl: "https://indianexpress.com/article/cities/chennai/tamil-nadu-budget-2024-women-transgender-welfare-tamil-promotion-9169382/"
-    ampWebUrl: "https://indianexpress.com/article/cities/chennai/tamil-nadu-budget-2024-women-transgender-welfare-tamil-promotion-9169382/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chennai/tamil-nadu-budget-2024-women-transgender-welfare-tamil-promotion-9169382/lite/"
+  - title: "New mission to set standards for use of AI"
+    excerpt: "Tamil Nadu is establishing an AI mission directly under chief minister M K Stalin to develop guidelines for “constructively leveraging” AI in areas such as education, employment, industry, and medicine."
+    publishedDateTime: 2024-02-20T02:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/articleshow/107836525.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 27
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://images.indianexpress.com/2024/02/WhatsApp-Image-2024-02-19-at-17.56.03_f408a3bc.jpg"
-        width: 1600
+      - url: "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg"
+        width: 1280
+        height: 854
+        isCached: true
+  - title: "Creating Guidelines for the Use of Gen AI Across Campus"
+    excerpt: "Conatser: One of the first conversations that we had as the ADVANCE team, and one that we have on a regular basis, is that these guidelines are specifically addressing generative AI. Whenever we start sliding into other language like AI and machine ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://campustechnology.com/articles/2024/02/21/creating-guidelines-for-the-use-of-gen-ai-across-campus.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 37
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2024/02/20240220ai.jpg"
+        width: 644
+        height: 300
+        isCached: true
+  - title: "DOJ Signals Tough Stance on Crimes Involving Misuse of Artificial Intelligence"
+    excerpt: "Her remarks focused on the U.S. Department of Justice’s (DOJ) use of artificial intelligence (AI) in its enforcement efforts and DOJ’s position on prosecution of those who misuse AI. DAG Monaco’s remarks come on the heels of other Administration ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/doj-signals-tough-stance-on-crimes-4117169/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 33
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16056_1548.jpg"
+        width: 1200
         height: 900
         isCached: true
 

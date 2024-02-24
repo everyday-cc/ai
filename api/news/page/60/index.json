@@ -2,6 +2,58 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2024-01-08-heres-what-google-assistant-with-bard-will-look-like-on-android.md",
+      "title": "Here's what Google Assistant with Bard will look like on Android",
+      "excerpt": "Google Assistant with Bard is coming soon, and leaked screenshots showcase the various UI and features of the AI assistant in action.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-assistant-with-bard-android-ui-3400661/",
+      "originalUrl": "https://www.androidauthority.com/google-assistant-with-bard-android-ui-3400661/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/10/Assistant-with-Bard-Presentation-at-Made-by-Google-Event-2023.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T06:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-08-revolutionizing-healthcare-the-impact-of-artificial-intelligence-on-medical-diagnosis-and-treatment.md",
       "title": "Revolutionizing Healthcare: The Impact of Artificial Intelligence on Medical Diagnosis and Treatment",
       "excerpt": "Introduction: In recent years, the intersection of healthcare and artificial intelligence (AI) has given rise to groundbreaking innovations that are reshaping the landscape of medical diagnosis and treatment.",
@@ -1052,49 +1104,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-6-features-that-could-come-to-google-bard-in-2024.md",
-      "title": "6 Features That Could Come To Google Bard in 2024",
-      "excerpt": "After a slow start, Google Bard is catching up to its AI competitors such as OpenAI’s Chat GPT and 2024 will see the addition of a host of new features to the search giant’s AI product, although it’s not certain which of these features will make it out of development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
-      "originalUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.talkandroid.com/wp-content/uploads/2024/01/Google-Bard.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T22:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "talkandroid.com",
-        "domain": "talkandroid.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

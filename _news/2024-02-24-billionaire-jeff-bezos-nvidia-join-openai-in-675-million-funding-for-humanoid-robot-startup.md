@@ -110,6 +110,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Bezos, Microsoft join OpenAI in humanoid robot startup"
+    excerpt: "Jeff Bezos, Microsoft and other big technology names are investing in a business, Figure, that's developing humanlike robots."
+    publishedDateTime: 2024-02-23T23:15:00Z
+    webUrl: "https://www.seattletimes.com/business/bezos-microsoft-join-openai-in-humanoid-robot-startup/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 51
   - title: "Bezos and Nvidia Partner with OpenAI to Fund Humanoid Robot Startup: Bloomberg"
     excerpt: "In a bold move signaling a profound shift in the tech landscape, industry titans Amazon.com (AMZN.O), Nvidia (NVDA.O), and others are channelling significant investments into Figure AI, a startup at the forefront of developing human-like robots."
     publishedDateTime: 2024-02-24T05:51:00Z
@@ -125,6 +134,6 @@ related:
         height: 675
         isCached: true
 
-secured: "VfcaZ5al7NjU8jWmUSMvaqhV793XsVvkNTwD1yeWcNZrF5G4ixWwtR7y5VFnMKNPFg6Jn1kSoxfsWK7XlVJUa+h+TyWWFqXhoKITKa6UZSwOnNaReEoWaLyY1DYhhmtpLDQiWU6P9Khw1GrAqJKGC2ZyHvlsIxEuUeuuEiw7fud/6ZwMJIaIgcCHuarUF5o1II/MFwsQoqqeqxoX3lC68yRzec1NyTfh7KrCIkcnrwddR9EKqOwp/4PCWmtJeG22Z8BvHfUO8BpLzfj0CPs4yWYPjE+cKp5mUWTS+L5geQtC6gah6ap8yvCToq/TenWLQbEUSutFYBa3eBc7Kt7VewUviGQ+9JM3/klPRhSr1Qc=;pqgDfvZu68Qkhd95+ugmoA=="
+secured: "OOoHZxYWL96OOv965LkvY6engYuTGR32hGgPB27f1w/Y9u/1i4BrENSExI8SeMq1ttxIcWFrorB/F6bjNURzwQxPZtnvrnpL1u+3Hp9hmbNSdLZTblecWh4BM0kgQrWw6HD2AxjXoj6UdK84PLdYxhVYkR+hEq32bsvBQ3QfcCQw9ZbggnqjPf58JXMtLymdFVWMHJN1gqw3ypqrhvvyRSlYPsh02W7AltZOGYA6Pnb3QHaKoE608EEe86KgF+d42rr2cG53GVHDpXx1E8uzx8eYeKA42OQAX1PziWS2T+rmfHXpY0N5tfjvh1jQbPNu8f8fnwqdNzWCnekxKo3HMMxIkuPlZQpHXiCrKncb6JfmHikpOngfr2AkipsEn9MIx4SfqlhBV9lwUprWOIt60qsEs7TnBHSUCavsRzuYIUmb3Jvx3oX9E2EkPVfP7suGIKrh/zAymaex+G8p4eQbxXnFbyE1o0x2EJQNHiXT87ALMhzo7OGu4Gmkv7jb1CLQi+GJpjUYONImcm8TVDQbmg==;xt0itCScHOMq/tp1Zr0HeQ=="
 ---
 

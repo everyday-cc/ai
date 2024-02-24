@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews4.com/amp/news/nation-world/facial-recognition-softwa
 cdnAmpWebUrl: "https://abcnews4-com.cdn.ampproject.org/c/s/abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,31 @@ images:
     width: 648
     height: 365
     isCached: true
+
+related:
+  - title: "Best translation software of 2024"
+    excerpt: "This can apply to anything from office documents to your website to marketing material into different languages. While translation software previously suffered from limitations in how well it ..."
+    publishedDateTime: 2024-02-22T07:32:00Z
+    webUrl: "https://www.techradar.com/best/best-translation-software"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/C6bmmDwjYdb4D4whKn5yVc-1200-80.jpg"
+        width: 610
+        height: 344
+        isCached: true
+  - title: "Ranking the World’s Largest Translation and Localization Companies"
+    excerpt: "Unpacking insights from the 2024 Slator LSPI, TransPerfect's leadership shakeup, Language AI Briefing launch, and notable M&A."
+    publishedDateTime: 2024-02-23T08:05:00Z
+    webUrl: "https://slator.com/ranking-worlds-largest-translation-localization-companies/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "Y/rKGx+Fz3EiqHI33q/gd8NcuKS25bTvZbr1ibnAjpzv12NGrcrdp28QW53vEV1tizTDHbJjrRqTAydY1rHPmkf57htSumWxg8qwcej/jezuOpjSkf48nAzrxa4yZ1C81bTEAjXz1a3WpmczQRWom7etJ16McF3jtN8dZfZjccWvARjNkk0vqyB81zHJuxSc/gVoF315E/cLP/YWw886nGxjMbAjgm+2jdOeknArz85QilRHc8/tX2s3Eal6LSOI6wS5mjbYCASICnjdmlz1XP/Z6wmhLskLr7Tzdhhyxx4BVo1WtGRnd2V6tRJ5PtUFeKpXUkIQkInWQxtC91AmOhgsgQhXw+NtVUAgPGE3lPAHfpV7CMLXStqCQXPSSu8ihp+mvLVGlx19aRuEFE87yss8AhhBIKLhOI/L7E27Je1Rgm0Jpm/6fumSkW1bTxSiLZtRFDh24pKec6277vmzKM7VHXSutTAdNC2KJjoc9kENHbOAYxPLRSJnRQDMDQr6SwHvenONQzthBq+9DvFtcw==;4tcAS8AucBhQ+PShHzotyQ=="
 ---

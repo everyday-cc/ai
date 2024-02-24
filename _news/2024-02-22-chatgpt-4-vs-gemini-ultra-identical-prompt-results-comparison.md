@@ -25,17 +25,6 @@ images:
     height: 744
     isCached: true
 
-related:
-  - title: "Google’s Next-Gen LLM Gemini 1.5 Takes the Token Race to ChatGPT"
-    excerpt: "Google announces the launch of Gemini 1.5, an AI model that can process up to 1 million tokens in a single prompt."
-    publishedDateTime: 2024-02-19T10:30:00Z
-    webUrl: "https://www.techopedia.com/google-gemini-1.5-tokens-race"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 21
-
 secured: "6cPgPYDvoHcUEuHSmvHfAMBaB3Ap84zHavR/gQrjVQTJz5gMLllYuUkIR/kK+Md0ldWVJMSCrGlRn0ddrCqngl/Punvj5OapwrtFby6fjn5zOESis6DWtwGHMw4+36j3+pfg0hQPKoXmQC5ymq0kyZiy7HtalLz+1eKGQoEEYbyUt14L/EDNo0oax3xh2i6nymbk9ngF51aafX2w0CpSwEuVX6G7otNz9Lv1sDDrKDh2oHX6kjJbnCgeRY2OW+fgvTxpD+ihu9L3A6zeIhEhBqrwrFJKiVdvcHYVy+TPqdoql2nE9VJ2+bNMlTI83CcNsBuQwxsBa3+4qYjpThgUyDRIhdA/slIKAADgBHwBbjJsVpzYNiyZrdK3ICm57eKst7YVO//8tKrJnvhkAU6OEgPfnc+S74GMvhkkmXK6sP7hYLmqqbFsZcE1XhjL5kEQsksVkXxKSNHGDbjCt2mIEYNMrirUQZBouW5F3Q1AQujmZzGxSc4aW1AUrKZXNSZjURmKr+ZC5OBo2W4zDmlWMw==;NmEHM/VfblRsxLvoCkDAFQ=="
 ---
 

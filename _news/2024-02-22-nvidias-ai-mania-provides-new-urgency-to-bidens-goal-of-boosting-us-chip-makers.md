@@ -572,20 +572,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 34
-  - title: "First in the world and surrounded by debates: the European Artificial Intelligence Act"
-    excerpt: "After almost three years, still a world first: the Artificial Intelligence Act of the European ... but also by private entities providing essential public services, in healthcare, education, insurance and banking. High-risk systems have to be reported ..."
-    publishedDateTime: 2024-02-19T10:21:00Z
-    webUrl: "https://www.portfolio.hu/en/economy/20240219/first-in-the-world-and-surrounded-by-debates-the-european-artificial-intelligence-act-669783"
-    type: article
-    provider:
-      name: Portfolio
-      domain: portfolio.hu
-    quality: 31
-    images:
-      - url: "https://cdn.portfolio.hu/articles/images-lg/a/r/t/artificial-intelligence-to-impact-almost-one-million-jobs-in-hungary-321937.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Nvidia shatters stock market record by adding over $230 billion in value in one day. Here’s why it’s dominating the AI chip race"
     excerpt: "CEO Jensen Huang says early bets on AI made Nvidia “the only company that got it,” and competitors are racing to catch up."
     publishedDateTime: 2024-02-22T21:32:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/information-technology/2024/02/will-smith-
 webUrl: "https://arstechnica.com/information-technology/2024/02/will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti/"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Ars Technica
@@ -26,22 +26,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "Sora's AI-generated video reaches scary levels of realism - and this is just the start"
-    excerpt: "Will we soon be watching AI-generated movies? Looking at these new videos made by Sora, it's only a matter of time!"
-    publishedDateTime: 2024-02-19T10:25:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/soras-ai-generated-video-reaches-scary-levels-of-realism-and-this-is-just-the-start"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
-    quality: 29
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/saj5mXt5zp6UBeKygyazDE-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "x0hFFq+CbMk64oEyYXqdI03TsvIEMaixPB0Wm1yNcTF5VdeOemrq25gEwzafD/AYRRDwcccnkD7AmCUSrbzcCD79jLQ75ih0gr3KJMCQ+8HvGuluzVVZY7Q+CG4nvA5Ev04ksWKgyDs2BxwPnGX48i0wOVfec77Bvho440IPS8afi6ycKPWwvk74u6XIHrojPEKBG5ukVGkn9ktBync/Bztaz0nP3NvsZ5Ifp4KflDmRciwTtN4D39rqd8qHqquQg9oQDTg8dLSqzdJarGZWm4e9QdZIWDQMTTLuuv5WauKUgUewIzTP29hzAU4awfZyV5ScbnN16+AyfuJwcncIAn3QV6VeglUOLOUoyMCksJksaj1wr9jC7DsFOqiZRpt3YJtDP+XLUMf+arM7/Tiils95ir6hVv5vHcOl4o0u1qODldwp0KNENpp2B+eDGLqxo0eVEgl/KX2jliufzF1FX2lKcylfHSYWpXsiGsK9Sm66QjII8J2uyORRRjksZYuIBWHkW9upM51WsZeQcsLtUA==;ywhFRhJauOmn+yJ5EjpDew=="
 ---
