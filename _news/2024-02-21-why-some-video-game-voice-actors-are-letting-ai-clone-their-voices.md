@@ -79,20 +79,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
-    excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds"
-    publishedDateTime: 2024-02-19T04:43:00Z
-    webUrl: "https://www.washingtonpost.com/business/2024/02/19/aigenerated-voice-clones-video-game-actors-replica-studios-sagaftra/b88abcd2-cf13-11ee-ac8b-765284b5203e_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSMEONGPCMI65LELOZJIJNJAHY_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Some video game actors are letting AI clone their voices, with positive results"
     excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker’s permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
     publishedDateTime: 2024-02-19T15:27:00Z

@@ -52,20 +52,6 @@ related:
         width: 1260
         height: 708
         isCached: true
-  - title: "Interoperability is not AI"
-    excerpt: "But interoperability is not AI. John Ameriks, head of Vanguard’s Quantitative Equity Group, explains the rationale behind dataset selection and how the group has been using machine learning. Research management system providers are building on their AI capabilities using LLMs to improve the research process, but challenges remain."
-    publishedDateTime: 2024-02-19T04:57:00Z
-    webUrl: "https://www.waterstechnology.com/emerging-technologies/7951677/interoperability-is-not-ai"
-    type: article
-    provider:
-      name: WatersTechnology
-      domain: waterstechnology.com
-    quality: 37
-    images:
-      - url: "https://www.waterstechnology.com/sites/default/files/styles/metatag_image_large/public/2024-02/GettyImages-1220591821.jpg?h=bb652acd&itok=PCEglsgX"
-        width: 1200
-        height: 743
-        isCached: true
 
 secured: "sU8qwM1rAwaVHFozmMTvaz0ZxP6olLzm9qSK6ksm8EYovu9dBf1nyVBL9HzmJ0xaEHSdocRoTeHojfM+KUIVlgrR8F3YZ2nG661+Iw1I6zBWVwHEyBKJaW5I+WbjCrujZCTIEK/mar6V49vzTKblx1EspPuRacXYNpcguXGdMDUriaiSjASCR7FAVSfqvnlbn8kKkN1AIGd1r8IgvXkMsRwriyy5KIKaqHLKj2TUtEGss3Pn7e2jZN5ZCwFq0CxgkjxQdsqrhd04/inctE+hpR0U6bpgIDU8IMKP7rKVJ61+uzFgwKPKPrTxnF3ohVHqMJU5z7dtcfG4HAMMGCC0yr7d7vYHmh40dpacqaMCXx8=;t2y4N8P44phzc37VhXDM7Q=="
 ---

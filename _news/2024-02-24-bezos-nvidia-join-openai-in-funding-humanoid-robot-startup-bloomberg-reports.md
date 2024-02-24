@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 643
         isCached: true
+  - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup"
+    excerpt: "Amazon.com founder Jeff Bezos, Nvidia and other big technology names are investing in startup Figure AI that develops human-like robots, Bloomberg News reported on Friday, citing people with knowledge of the situation. Figure AI, also backed by ChatGPT ..."
+    publishedDateTime: 2024-02-24T02:49:00Z
+    webUrl: "https://www.deccanherald.com/business/companies/bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-2908429"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 54
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2024-02%2Fce366bbc-f292-4548-9612-7ef6122f3da6%2Ffile7i8g4bc6jq97pogz5q5.jpg?rect=0%2C0%2C600%2C315&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Jeff Bezos, Nvidia join OpenAI in funding humanoid robot startup"
     excerpt: "Advt The AI robotics industry has been busy lately. Earlier this year, OpenAI-backed Norwegian robotics startup 1X Technologies AS raised $100 million. Vancouver-based Sanctuary AI is developing a humanoid robot called Phoenix. And Tesla Inc. is working on ..."
     publishedDateTime: 2024-02-24T02:37:00Z

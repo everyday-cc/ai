@@ -2,6 +2,49 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2023-12-05-revolutionising-retail-the-power-of-ai-and-computer-vision.md",
+      "title": "Revolutionising Retail: The Power of AI and Computer Vision",
+      "excerpt": "By Iu Ayala, Founder and CEO of Gradient Insight Introduction: Beyond Buzzwords to Game-Changing Impact In the ever-evolving landscape of retail, the integration of artificial intelligence (AI) has transcended the realm of buzzwords to become a formidable game-changer.",
+      "sourceUrl": null,
+      "webUrl": "https://businessmondays.co.uk/revolutionising-retail-the-power-of-ai-and-computer-vision/",
+      "originalUrl": "https://businessmondays.co.uk/revolutionising-retail-the-power-of-ai-and-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.businessmondays.co.uk/wp-content/uploads/2023/12/pwxesdwrwde-scaled.jpg",
+          "width": 1068,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T16:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessmondays",
+        "domain": "businessmondays.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-introducing-ai-in-a-minute-a-video-series-on-the-tech-behind-generative-ai.md",
       "title": "Introducing AI in a Minute: A video series on the tech behind generative AI",
       "excerpt": "See how AI capabilities work and the tech behind generative AI in simple videos on topics like large language models, prompt engineering, and vector search.",
@@ -1000,50 +1043,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-google-bard-director-talks-usage-ethics-and-competitive-advantage.md",
-      "title": "Google Bard Director Talks Usage, Ethics, And Competitive Advantage",
-      "excerpt": "In an exclusive interview, the Director of Product Management for Google Bard discusses usage, ethical challenges, and synergy with Search. Google created Bard primarily to assist with creative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/google-bard-director-talks-usage-ethics-and-competitive-advantage/502965/",
-      "originalUrl": "https://www.searchenginejournal.com/google-bard-director-talks-usage-ethics-and-competitive-advantage/502965/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/google-bard-director-interview-656e427053e80-sej.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Searchenginejournal.com",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

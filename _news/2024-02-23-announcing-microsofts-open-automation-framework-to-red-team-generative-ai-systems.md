@@ -245,15 +245,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 68
-  - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
-    excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
-    publishedDateTime: 2024-02-19T05:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-19/artificial-intelligence-microsoft-google-nvidia-win-as-computing-costs-surge"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 66
   - title: "Intel will make chips for Microsoft"
     excerpt: "US chip company Intel will make high-end semiconductors for Microsoft, the companies announced, as it seeks to compete with TSMC and Samsung to supply the next generation of silicon used in artificial intelligence for customers around the world."
     publishedDateTime: 2024-02-22T14:35:00Z

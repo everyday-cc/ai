@@ -87,6 +87,22 @@ related:
         width: 1440
         height: 742
         isCached: true
+  - title: "AI in action transforming announcement strategies in financial trading"
+    excerpt: "After financial announcements, AI plays a critical role in post-announcement analysis by aiding traders in deciphering the market's reaction. This analysis helps in refining strategies for future events, as AI models evaluate the effectiveness of previous approaches and suggest adjustments."
+    publishedDateTime: 2024-02-23T11:16:00Z
+    webUrl: "https://www.fxstreet.com/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115"
+    ampWebUrl: "https://www.fxstreet.com/amp/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 59
+    images:
+      - url: "https://editorial.fxstreet.com/images/Macroeconomics/EconomicIndicator/EconomicHealth/GDP/Growth/man-drawing-a-growing-graph-gm493075642-76712039_Small.jpg"
+        width: 320
+        height: 232
+        isCached: true
   - title: "Transforming broadcasting with artificial intelligence and machine learning"
     excerpt: "In common with industries across the modern economy, the broadcast media industry is currently on its own artificial intelligence (AI) and machine learning (ML) journey, with organisations at various stages of evaluation and implementation. But in ..."
     publishedDateTime: 2024-02-22T00:00:00Z

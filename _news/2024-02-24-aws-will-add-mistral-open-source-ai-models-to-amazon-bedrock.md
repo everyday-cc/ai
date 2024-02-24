@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-mod
 webUrl: "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/amazon-3.png"
         width: 933
         height: 519
-        isCached: true
-  - title: "101 on OpenAI's new text to video AI model, Sora"
-    excerpt: "Sora is OpenAI's newest AI model that can create realistic and imaginative scenes simply with text instructions. Here's a breakdown of exactly what you need to know about Sora and how it can help industry professionals in the space."
-    publishedDateTime: 2024-02-19T03:43:00Z
-    webUrl: "https://www.marketing-interactive.com/101-sora-openai-video-text"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 39
-    images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/article_images/101-sora-openai-video-text/1708314097_artificial%20intelligence%20%281%29.png?auto_optimize=medium"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Biden administration seeks input on rules for open-source artificial intelligence"
     excerpt: "The Biden administration is seeking input from experts on what sorts of guardrails are recommended for open-source artificial intelligence models. The National Telecommunications and Information Administration announced Wednesday that it is seeking ..."

@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-20T10:23:00Z
 originalUrl: "https://www.imd.org/reflections/how-machine-learning-is-reshaping-business-in-2023/"
 webUrl: "https://www.imd.org/reflections/how-machine-learning-is-reshaping-business-in-2023/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.imd.org/wp-content/uploads/2022/11/IMD-Logo-Blue-on-White-safe-space-RGB-1200x630-1.jpg"

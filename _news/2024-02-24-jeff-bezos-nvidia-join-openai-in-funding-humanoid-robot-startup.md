@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 643
         isCached: true
+  - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup"
+    excerpt: "Amazon.com founder Jeff Bezos, Nvidia and other big technology names are investing in startup Figure AI that develops human-like robots, Bloomberg News reported on Friday, citing people with knowledge of the situation. Figure AI, also backed by ChatGPT ..."
+    publishedDateTime: 2024-02-24T02:49:00Z
+    webUrl: "https://www.deccanherald.com/business/companies/bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-2908429"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 54
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2024-02%2Fce366bbc-f292-4548-9612-7ef6122f3da6%2Ffile7i8g4bc6jq97pogz5q5.jpg?rect=0%2C0%2C600%2C315&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup, Bloomberg reports"
     excerpt: "Figure AI, also backed by ChatGPT-maker OpenAI and Microsoft, is raising about $675 million in a funding round that carries a pre-money valuation of about $2 billion, according to the report. Bezos had committed $100 million through his firm Explore Investments LLC and Microsoft is investing $95 million,"
     publishedDateTime: 2024-02-23T22:22:00Z
@@ -54,6 +68,6 @@ related:
         height: 534
         isCached: true
 
-secured: "v/XhNPQuRFP1R1jGtxa79mNBnTPRVM39cChfssMQT2cC9zbjatY+6d/bU7j5535Zx7ANMVeiv5jBdQs4ylOS8cXxuhEqxI7qxgeHfg/t+Xoxgr9dykHW9DrGnFeEW0y4XX0/8dS9HeXYTBTufcFgLhCDz+Tpe5EI3lv81KexaZEhD4PRCAczszXRyGJST/fb9jfSKwzwotHwbFqHeIuvJLYOwvUdkxcHqHGyJXcInqTDQGgEudeCwaQpNBFxJr6nwSF/xsIh0pWW/VRsMBGDw4MYH78hp8jTUWMkYEKhH9pKtKemfIuK4/l/Db81y6ZbMLWDaPqe8aCef3GFFKrB9JJkx6V3RexRHnUHowQyFuo=;etYHm8CNXtdBbD2VjRdMtQ=="
+secured: "elfD2GwJFTdkdE9r1nKkkuiKqbqtjxJyQoScuP1ZeKldxnxYrRG1Zcj3O/0pkWDzgK0to7wsB9nIxT7ZfK5gl8vJ61L+8tfDJyFUZs7ZpLCtWPwpjW623ZAG8XvtLQiPZ9TrV3yvZalny6/il56+mijNqKUjN4zYwEvcT/+ymxdm8sTlt/uXa7/cSUVraXi10btGOMGY0KRRr9b7Imsa2by9leMwYh+NbnR0noCS8Uu4exs7lDCybxsNkxWTRpblwKNnxlKNZhUqnClQWe3gDRDgI99impk7WBAbjjqBgYkfICkdYbRqXd68ivzyf4SPuPvCp2CrsGl4pA0B1yg0Zix3vHRs+/4xtftIaTfhK/Bhd4rr5ZlPx0UGQNW2wTH+lJ/b0F/KL5+IXOGHV8dPwNLOMbDzPyTPMXi/Q4Pz4+X1jDCjahsCjHyrrH3a7U1cOTTqZlp+e7VuqrzlI7CQIj6tKraxqpf4f5x7x54Vv97p8KXRxcheaOYwvG6nfupjGbxDsrDN7DXyw764U8DwQA==;t1C1MQXYYe95qSWLg+JzIQ=="
 ---
 

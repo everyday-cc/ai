@@ -2,6 +2,49 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2024-01-11-llama-pro-ai-progressive-llama-with-block-expansion-research-paper.md",
+      "title": "LLaMA Pro AI progressive LLaMA with block expansion research paper",
+      "excerpt": "Artificial intelligence (AI) is constantly evolving, and researchers are always on the lookout for ways to improve how these systems learn. A recent",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/llama-pro/",
+      "originalUrl": "https://www.geeky-gadgets.com/llama-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/LLaMA-Pro-AI-model.jpg",
+          "width": 1280,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T10:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-the-future-of-artificial-intelligence-ai-in-2024-and-beyond.md",
       "title": "The future of artificial intelligence (AI) in 2024 and beyond",
       "excerpt": "Find out how artificial intelligence (AI) will shape the future in 2024 and why 'future literacy' and 'future agency' are crucial. We shed light on the technological trend, the social impact and the need for new skills in this hyper-digital era.",
@@ -997,40 +1040,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-mastering-google-bard-prompts-and-techniques-for-ai-powered-productivity.md",
-      "title": "Mastering Google Bard Prompts and Techniques for AI-Powered Productivity",
-      "excerpt": "Google Bard, a groundbreaking advancement in artificial intelligence, marks the beginning of a revolutionary phase in AI-driven creative and productive",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/mastering-google-bard-prompts-and-techniques-for-ai-powered-productivity/",
-      "originalUrl": "https://www.geeky-gadgets.com/mastering-google-bard-prompts-and-techniques-for-ai-powered-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T10:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

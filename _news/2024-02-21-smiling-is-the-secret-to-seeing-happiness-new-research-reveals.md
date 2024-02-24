@@ -31,7 +31,7 @@ related:
     provider:
       name: IMD business school
       domain: imd.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.imd.org/wp-content/uploads/2022/11/IMD-Logo-Blue-on-White-safe-space-RGB-1200x630-1.jpg"
         width: 1200

@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Stitch Fix files patent for optimizing computer machine learning for personalized clothing recommendations"
+    excerpt: "According to GlobalData’s company profile on Stitch Fix, AI assisted CAD was a key innovation area identified from patents. Stitch Fix's grant share as of January 2024 was 49%. Grant share is based on the ratio of number of grants to total number of patents."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.just-drinks.com/data-insights/stitch-fix-files-patent-for-optimizing-computer-machine-learning-for-personalized-clothing-recommendations/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 23
+    images:
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2021/04/report-mobile.png"
+        width: 388
+        height: 544
+        isCached: true
 
 secured: "6qVYgDt0vnXK1Q4nKptbnYSROIInMrgTbRyajlpIH31rDDeCe9AkygzquXWN5PsNSu2m1kO2Tfvj2qVi41xrt6PNBGnCc9tUK7DJUxWU0qCGFeh+EXP8N4ATHrBAQyAZOBM7iC2zsmWxXfqTd9QaAb88tDzjlLN4b5skkRuhjquHn+o+AGXvqm/DtHZeoLjinNKZIH2jEsi40PZ0v6cNZyvIIwm0+dARQcOCizXxT+5Bs8m0oamUqRAHaSyGlePM1D0WyQYVc1mHfVBknXa5/73aIAVn5Z/XrptoUN1bgCBaf25y4giF2ZwUARGvLSGCG8qRzXGUIZpbl9bM4LZalw2Wclx4O42e/4/dyOJcibmn33FHCuq+k5IFSH67hwX7UGUryf/64USYv5Jojudbayg5ruz0EylDOklLj2Ak9fTU2/04qAiUbn0X+63ZWhfsXZD5m0N+Te6rIy/h3nPYI5qvabcIIYyTZwvw3O9az51/zlkvSwEmjlvNNcf39tZwjuo22uiC35eLIo/AiHtuVw==;DpJun39Wiyq8TYRKKXUTVw=="
 ---

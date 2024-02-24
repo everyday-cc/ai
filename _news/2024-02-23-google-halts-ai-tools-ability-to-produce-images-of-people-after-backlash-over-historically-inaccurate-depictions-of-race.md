@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-gener
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html"
 type: article
 quality: 64
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google apologizes for ahistorical and inaccurate Gemini AI images: ‘We missed the mark’"
+    excerpt: "After Google's AI chatbot Gemini generated embarrassing and inaccurate images of historical figures, the company apologized and paused the feature, capping a rocky start to its AI ambitions versus rivals like OpenAI."
+    publishedDateTime: 2024-02-24T02:51:00Z
+    webUrl: "https://venturebeat.com/ai/google-apologizes-for-ahistorical-and-inaccurate-gemini-ai-images-we-missed-the-mark/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Vector_art_of_the_Google_emoji_sad_6bc7dd63-fd90-41c3-b706-9a73f5266310-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Google pauses AI-generated images of people after ethnicity criticism"
     excerpt: "Company says it will adjust its Gemini model after criticism of ethnically diverse Vikings and second world war German soldiers"
     publishedDateTime: 2024-02-22T11:55:00Z

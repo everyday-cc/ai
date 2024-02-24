@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2024/02/vending-machine-error-
 webUrl: "https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students/"
 type: article
 quality: 51
-heat: 73
+heat: 71
 published: true
 
 provider:

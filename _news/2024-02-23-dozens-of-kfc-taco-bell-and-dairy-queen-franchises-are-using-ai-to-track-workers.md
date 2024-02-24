@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-23T11:30:00Z
 originalUrl: "https://www.forbes.com/sites/rashishrivastava/2024/02/23/dozens-of-kfc-taco-bell-and-dairy-queen-franchises-are-using-ai-to-track-workers/"
 webUrl: "https://www.forbes.com/sites/rashishrivastava/2024/02/23/dozens-of-kfc-taco-bell-and-dairy-queen-franchises-are-using-ai-to-track-workers/"
 type: article
-quality: 62
-heat: 62
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65d7b8c5cc56d6090c003328/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

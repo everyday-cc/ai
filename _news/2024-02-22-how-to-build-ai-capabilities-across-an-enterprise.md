@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/02/Cloud_Blog_Abstract-08.jpg"
         width: 1260
         height: 708
-        isCached: true
-  - title: "Interoperability is not AI"
-    excerpt: "But interoperability is not AI. John Ameriks, head of Vanguard’s Quantitative Equity Group, explains the rationale behind dataset selection and how the group has been using machine learning. Research management system providers are building on their AI capabilities using LLMs to improve the research process, but challenges remain."
-    publishedDateTime: 2024-02-19T04:57:00Z
-    webUrl: "https://www.waterstechnology.com/emerging-technologies/7951677/interoperability-is-not-ai"
-    type: article
-    provider:
-      name: WatersTechnology
-      domain: waterstechnology.com
-    quality: 37
-    images:
-      - url: "https://www.waterstechnology.com/sites/default/files/styles/metatag_image_large/public/2024-02/GettyImages-1220591821.jpg?h=bb652acd&itok=PCEglsgX"
-        width: 1200
-        height: 743
         isCached: true
 
 secured: "uScB2+MJW1gcwnWUdkD1RV1F71RcLSp/AqjjXe9j0rgc8nvB86LTmeJ8SN2J8pERTTqx7z3DudXILFuO09RAezvcgzRFhcOtsFIZI6WBW7C59q9dhK+OznyuadVELRKgzaVKV2WeCqss+fjwX2mjLXhy/p221FZ+hCTBzkdOfaf90mkinGahG0OydA0TK5r7yCe7ttl3SUYrz3Rtrs5Y6Qap8UAo8+XXYZKpYP1ZOx6hi0FCjKB4pCT/ESafPwF/L+cbPZp4OX2pQkidhEwsYMWRM+R0W9Xq0nBklNyklMU/KEDiRRSJlwYoWar90PNplrwE3SLY9tESwTa6qSLbzKn1K/lYhLJZJu+qCi5Ckaw6hyHF8JoPvbXaXRo2WeEu0HCJK7LaH4XhkGLuFp9tr/2sGIiaBAJVtDt2GsneLvyiW72lkIeAfdOEqXdco07hkTE5YBsr24sIIPXfD0HU/pwO6mFXWG5U0JFUVEgSp9qmTlxQc9VTHEAoIxAHFSRvSRZaT52R0ZcSv4UP0dDyaQ==;zHQbQLOt6zz3+YUQjijWVA=="
