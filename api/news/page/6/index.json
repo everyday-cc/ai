@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-21-getting-ai-right-for-security-5-principles.md",
+      "title": "Getting AI Right for Security: 5 Principles",
+      "excerpt": "By Kevin Kennedy, SVP Products, Vectra AI Now more than ever, companies need effective security solutions. The cost of global cybercrime is projected to grow by seventeen percent each year, reaching a",
+      "sourceUrl": null,
+      "webUrl": "https://www.cyberdefensemagazine.com/getting-ai-right-for-security-5-principles/",
+      "originalUrl": "https://www.cyberdefensemagazine.com/getting-ai-right-for-security-5-principles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cyberdefensemagazine.com/wp-content/uploads/2024/02/Getting-AI-Right-for-Security-5-Principles.jpg",
+          "width": 780,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T17:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cyber Defense Magazine",
+        "domain": "cyberdefensemagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-streamline-workflows-with-devops-solutions-from-github-and-azure.md",
       "title": "Streamline workflows with DevOps solutions from GitHub and Azure",
       "excerpt": "The joint solution of GitHub and Azure, combined with the power of Visual Studio, can create order for previously staggered workflows and delayed deployments.\nThe post Streamline workflows with DevOps solutions from GitHub and Azure appeared first on Microsoft Azure Blog.\n",
@@ -748,7 +792,7 @@
       "originalUrl": "https://www.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin?ref=biztoc.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1192,58 +1236,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david.md",
-      "title": "Ultrathin, energy-efficient facial recognition can identify Michelangelo’s David",
-      "excerpt": "Packing in all those optical components like lasers makes commercial dot projectors rather bulky, so it can be harder to integrate for some applications such as robotics and augmented reality, as well as the next generation of facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
-      "originalUrl": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/david1CROP-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T22:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

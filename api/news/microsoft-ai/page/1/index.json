@@ -256,6 +256,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-22-generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt.md",
+      "title": "Generative AI Finally Making More Sense By Interlacing Conversations As Showcased Via The Newly Announced Memory-Controls For ChatGPT",
+      "excerpt": "Each time that you log-in to a generative AI app, you either start a new conversation or can continue a previously saved conversation. While using the generative AI app, you can also opt to begin a new conversation and thus momentarily switch away from a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d6e5fd83c3617da31ba59a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/",
+      "publishedDateTime": "2024-02-22T10:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-cloud-and-ai-apps-take-center-stage-in-net-9.md",
       "title": "Cloud and AI apps take center stage in .NET 9",
       "excerpt": "A first preview release of the next .NET sets the scene for a year of platform development focused on cloud-native and AI-powered applications. Just three months into the tenure of .NET 8, it’s already time for Microsoft and the .NET Foundation to start ...",
@@ -414,12 +466,64 @@
       ]
     },
     {
+      "path": "_news/2024-02-21-chatgpt-is-losing-its-mind-and-no-one-seems-to-know-why.md",
+      "title": "ChatGPT is losing its mind and no one seems to know why",
+      "excerpt": "Users of ChatGPT have shared screenshots of their interactions with the chatbot on social media after it started responding with nonsense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65d62092a3bd891424f8e2e6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp",
+      "publishedDateTime": "2024-02-21T15:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-td-cowen-on-microsoft-no-shortage-of-demand-for-azure-and-ai-workloads.md",
       "title": "TD Cowen on Microsoft : 'No shortage of demand for Azure and AI workloads'",
       "excerpt": "TD Cowen analysts reiterated an Outperform rating on Microsoft (NASDAQ: MSFT) and the price target of $455, citing continued demand for Azure and AI workloads.",
       "sourceUrl": null,
-      "webUrl": "https://au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207",
-      "originalUrl": "https://au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207",
+      "webUrl": "https://www.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986",
+      "originalUrl": "https://www.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
@@ -436,9 +540,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://m.au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207?ampMode=1",
-      "cdnAmpWebUrl": "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207?ampMode=1",
-      "publishedDateTime": "2024-02-21T14:20:00Z",
+      "ampWebUrl": "https://m.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986?ampMode=1",
+      "cdnAmpWebUrl": "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986?ampMode=1",
+      "publishedDateTime": "2024-02-21T13:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Investing",
@@ -1373,110 +1477,6 @@
         "name": "UPI",
         "domain": "upi.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to.md",
-      "title": "ChatGPT will now remember its past conversations with you (if you want it to)",
-      "excerpt": "ChatGPT is getting the ability to recall snippets of information you ask it to remember. Here's how the feature works and how to opt in (or out!).",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0158482f6f193a8a559fa7321f542920f39da6ab/2024/02/09/898f9e84-a9f2-4253-bf86-0010c41b58d4/chatgpt1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "publishedDateTime": "2024-02-13T13:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-apple-wont-be-forced-to-open-imessage-to-rivals-eu-decides-as-it-also-lets-three-microsoft-services-off-dma-hook.md",
-      "title": "Apple won’t be forced to open iMessage to rivals, EU decides, as it also lets three Microsoft services off DMA hook",
-      "excerpt": "So the decisions mean there’s no expansion of the initial list of 22 core platform services the Commission announced last year. Apple and Microsoft were both confirmed as DMA “gatekeepers ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/13/apple-wont-be-forced-to-open-imessage-to-rivals-eu-decides-as-it-also-lets-three-microsoft-services-off-dma-hook/",
-      "originalUrl": "https://techcrunch.com/2024/02/13/apple-wont-be-forced-to-open-imessage-to-rivals-eu-decides-as-it-also-lets-three-microsoft-services-off-dma-hook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1395137091.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/13/apple-wont-be-forced-to-open-imessage-to-rivals-eu-decides-as-it-also-lets-three-microsoft-services-off-dma-hook/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/13/apple-wont-be-forced-to-open-imessage-to-rivals-eu-decides-as-it-also-lets-three-microsoft-services-off-dma-hook/amp/",
-      "publishedDateTime": "2024-02-13T12:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

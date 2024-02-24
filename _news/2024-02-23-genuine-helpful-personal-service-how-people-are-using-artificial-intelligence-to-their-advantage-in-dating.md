@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-22T18:57:00Z
 originalUrl: "https://www.ksbw.com/article/ai-dating-scene/46774460"
 webUrl: "https://www.ksbw.com/article/ai-dating-scene/46774460"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cosmo-ai-dating-opener-65cbf5224f580.png?crop=0.995xw:1.00xh;0.00481xw,0&resize=1200:*"
@@ -39,6 +40,6 @@ related:
         height: 674
         isCached: true
 
-secured: "Co0JXMuFbSBaVvbj0m5YyE/OO0TqsrYDcfoS6DvktSm06iR48HNvMI6w1VqgACQ6fZa9ozJTijwlSO2XGt8aXX3DbnrkzRXOjSjtpj42Su7whMA5x/2QWjL3WwQrem3AH13vm04z/zQ3yifhu6Upk0Z9J+pt7jwE+1W61ErzgIwWby3oqERTdN7SFvB2fm2RLWoF3JmPi/cqHstRGsZNjJ62xgH77HwtEKBn4kw8Dg7bPoYKOdcVasV4yTx0FQbCtOVUWn6N31Mw6y2ohHx4pxoL4nknKuhc9wYVEH3sFAcM4i/qjiSJGBmCmu/RYUz34vdMzuSqsFZdR25st0OVdbgdJSP8waGscQ2k7l0H2ho=;D2s3DYXtzNtH+zV2JJgWKQ=="
+secured: "P7MixRbovemeE97MDX6KWOzuVpBBo4ayDo13g3QahnxGUDRALfGbP/r2Q1ErfQK3eviap9p6z9YYWgqTkC+aVC5B4IK8T+8UG3aRxCxptAXI7ZwvuNj3udDTlq9P40ePUe4hJh2bzfasCZ0eRZyTU0UOL6Otj25VlPSIIGnpDlLJGg8H5CyubTckZn46xSRcphQCcLPiS0hlkozYiMSbWZY9C6/0fbrsTBR+hToxZVXP2FSullUnWF1A2iszud/SVOtb021Xj11VqAzIKiumR3W9UE4lvcivJb1t+p6f5JqMfil5D7xevpEXzF2v9aiY5D1IJdieeZTMYwQ6lqyIdm89vawc57QuPG1E0yiw9p6QMf33+cj25c6j1f6VAYM5dC+0GFZNcYLna8z7XKODQjOU+z+n0ufT4nb7Tna92G0Tkp4DHDZx7GVBt2gx746PugXbJl37r0Sls3fGqn6QeUuOHp5kYfVunL4DA2fhaClE0i/+JNpvphwle412b1NcYd94Y3v7WoIp0LhLqEvK9A==;BHtqGwdHXxaaXOsov4ckhA=="
 ---
 

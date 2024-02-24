@@ -65,18 +65,18 @@ related:
         height: 720
         isCached: true
   - title: "Cruise May Resume Self-Driving Taxi Tests in Texas Soon"
-    excerpt: "GM-owned Cruise is getting ready to put its self-driving taxis back on the road, four months after one of its vehicles ran over a woman in San Francisco and dragged her 20 feet. The driverless car company is reportedly looking to resume robotaxi testing ..."
+    excerpt: "GM-owned Cruise is getting ready to put its self-driving taxis back on the road, four months after one of its vehicles ran over a woman in San Francisco and dragged her 20 feet. The driverless car company is reportedly looking to resume robotaxi testing \"in the coming weeks,\" Bloomberg reports, and may begin operations in Houston or Dallas."
     publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/151043/cruise-may-resume-self-driving-taxi-tests-in-texas-soon"
+    webUrl: "https://www.pcmag.com/news/cruise-may-resume-self-driving-taxi-tests-in-texas-soon"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 54
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/c/cruise-may/cruise-may-resume-self-driving-taxi-tests-in-texas-soon_gaue.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/02kFODpY8Ryo8exFhjTmVoR-1.fit_lim.size_1200x630.v1708698476.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Uber Eats is launching robot deliveries in Japan"
     excerpt: "Uber announced a partnership Tuesday between robotics firm Cartken and Japanese industrial titan Mitsubishi Electric to launch autonomous sidewalk robots that will start delivering Eats ... Cartken’s Model C robots use AI and computer vision technologies ..."

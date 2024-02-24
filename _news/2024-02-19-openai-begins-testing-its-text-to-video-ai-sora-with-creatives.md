@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Is This Real? OpenAI's Sora Creates Eerie Videos, Fueling Debate On Ethics And Regulation In AI Content"
-    excerpt: "OpenAI's latest creation, Sora, is causing quite a stir among creators and tech enthusiasts alike. Announced by CEO Sam Altman, Sora marks a significant advancement in artificial intelligence, particularly in the realm of video generation."
-    publishedDateTime: 2024-02-19T08:39:00Z
-    webUrl: "https://in.mashable.com/tech/69881/is-this-real-openais-sora-creates-eerie-videos-fueling-debate-on-ethics-and-regulation-in-ai-content"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 68
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/6cover_3kry.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "With Sora, OpenAI highlights the mystery and clarity of its mission | The AI Beat"
     excerpt: "Sora, OpenAI's new text-to-video model, may be a black-box mystery, but the company's unwavering mission to develop AGI is not."
     publishedDateTime: 2024-02-19T15:23:00Z
@@ -83,19 +69,19 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "Openai's New Generative Tool Sora Could Revolutionize Marketing And Content Creation"
-    excerpt: "Sora is a text-to-video model that significantly advances the integration of deep learning , natural language processing and computer vision to transform textual prompts into detailed and coherent life-like video content. In contrast to previous text-to ..."
-    publishedDateTime: 2024-02-21T19:10:00Z
-    webUrl: "https://menafn.com/1107882862/Openais-New-Generative-Tool-Sora-Could-Revolutionize-Marketing-And-Content-Creation"
+  - title: "OpenAI’s new generative tool Sora could revolutionize marketing and content creation"
+    excerpt: "As with any technological advancement, professionals will need to adapt and find ways to integrate Sora into their workflows, leveraging its strengths to complement their own skills and creativity."
+    publishedDateTime: 2024-02-21T19:44:00Z
+    webUrl: "https://theconversation.com/openais-new-generative-tool-sora-could-revolutionize-marketing-and-content-creation-223806"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: The Conversation
+      domain: theconversation.com
     quality: 49
     images:
-      - url: "https://menafn.com/updates/pr/2024-02/21/TC_a5f74image_story.jpg"
-        width: 960
-        height: 640
+      - url: "https://images.theconversation.com/files/576885/original/file-20240220-21-7jmy8i.jpg?ixlib=rb-1.1.0&rect=23%2C359%2C3906%2C1950&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "lIlph+0KWXO/2BBYZnoqM/JwOCbAWOUhNrNFst412sLx5KFWKnTmzEGqF0Zh/338DYt7HZi+LBq6zA+h0BpsE118o9RT2VglqaHXyxWhRquJAGO3Pk4AV0fIvIp6udgfmlezs5Le9SDsNoFvXQs4qFIfuDvUVyDVRcGQH6JDomcyIjTW+helEHOFeobolmOt70qrTRiGjGzGflYphUPSjGmbIWw6iRPkQubChIx5GyOssAXNobtGdLymSsubm2FMMykvjkhhEgDUqGOyw9zA666N86ILjIVbzAcsvrfj+AMmBO5xZ0YiquyFjuLqcec3pBg8u+ocC7pDExr2Rnzb5WR1YBa4Zcb9bbcxKsCKFIM=;tiSIg+IA52jAEmrUkzK+zw=="

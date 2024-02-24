@@ -37,15 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "How artificial intelligence influences technological innovation"
-    excerpt: "With artificial intelligence (AI) becoming massively entrenched in everyday life, enterprises are using the emerging technology to foster innovation."
-    publishedDateTime: 2024-02-19T08:55:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/752767/how-artificial-intelligence-influences-technological-innovation/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 19
   - title: "Elevating Legal Workflows with AI-Driven Text Summarization"
     excerpt: "The generative AI capabilities include natural language processing and natural language generation that create new sentences in the summary going beyond the source text. The ability to better understand language and infer context is what makes the ..."
     publishedDateTime: 2024-02-21T00:00:00Z

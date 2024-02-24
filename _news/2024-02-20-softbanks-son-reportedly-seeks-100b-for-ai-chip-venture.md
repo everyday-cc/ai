@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-
 cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2021/02/chip.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Softbank’s Masayoshi Son plans $100bn AI chip venture"
-    excerpt: "In one scenario Son is considering, SoftBank would provide $30 billion, with $70 billion possibly coming from institutions in the Middle East SoftBank founder Masayoshi Son’s plans to create a $100 billion chip venture to supply AI-enabling semiconductors."
-    publishedDateTime: 2024-02-19T08:12:00Z
-    webUrl: "https://www.businesspost.ie/news/softbanks-masayoshi-son-plans-100bn-ai-chip-venture/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 54
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=6333bf6a-b549-5589-8178-8668be8928ed&type=preview&function=original"
-        width: 1600
-        height: 1067
         isCached: true
   - title: "SoftBank stock rises on CEO Masayoshi Son’s plan for $100 billion AI chip project"
     excerpt: "Shares in the Tokyo-based tech investor SoftBank gained as much as 3.2% reports that 66-year-old billionaire CEO Masayoshi Son is seeking funding for a foray into AI chips to compete with Nvidia Corp."

@@ -2,6 +2,57 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-12-28-navigate-the-promises-and-risks-of-ai-assisted-coding.md",
+      "title": "Navigate The Promises And Risks Of AI-Assisted Coding",
+      "excerpt": "AI-assisted coding today is imprecise and error-prone. A 2023 study found that popular AI assistants only generate correct code between 31.1% and 65.2% of the cases. A human developer shipping code of such low quality would have a hard time keeping their job, so why do we accept such a low performance rate when it comes to AI?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62dae46f55a065951d9391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/amp/",
+      "publishedDateTime": "2023-12-28T12:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-spying-on-beavers-from-space-could-help-save-california.md",
       "title": "Spying on Beavers From Space Could Help Save California",
       "excerpt": "A group of scientists taught an algorithm to spot beaver ponds in satellite imagery, which has the potential to help drought-ridden areas like California bounce back.",
@@ -1181,50 +1232,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-best-ai-tools-of-2023-chatgpt-rules-the-roost-followed-by-copilot-midjourney-and-more.md",
-      "title": "Best AI tools of 2023: ChatGPT rules the roost, followed by Copilot, Midjourney, and more",
-      "excerpt": "The year witnessed some insane AI tools coming to the fore. Here’s a look at some that we tried and what lies ahead for AI in 2024",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/Social-Media-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/",
-      "publishedDateTime": "2023-12-27T09:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "These six young people died by gun violence. Now their AI-generated voices are sending gun control pleas to lawmakers"
-    excerpt: "A new campaign is encouraging Americans to send pre-made voice messages to members of Congress pleading for stricter measures on gun control. But there’s a wrinkle: The six messages are all from young people who died by gun violence,"
-    publishedDateTime: 2024-02-19T10:57:00Z
-    webUrl: "https://www.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 46
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/still-20390859-1034-5420000000001-still.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI-generated voices of gun violence victims are sending pleas to lawmakers"
     excerpt: "The AI-generated voice messages from young people killed by gun violence are part of a new campaign launched last week by two groups to urge lawmakers to act on gun control."
     publishedDateTime: 2024-02-19T13:57:00Z

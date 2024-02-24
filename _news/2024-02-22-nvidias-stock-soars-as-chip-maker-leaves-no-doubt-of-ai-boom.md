@@ -397,6 +397,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bezos, Nvidia, and OpenAI back humanoid robot startup Figure AI"
+    excerpt: "Figure AI is in the process of securing approximately $675 million in a funding round, reflecting a pre-money valuation of around $2 billion."
+    publishedDateTime: 2024-02-24T01:18:00Z
+    webUrl: "https://www.republicworld.com/tech/artificial-intelligence/bezos-nvidia-and-openai-back-humanoid-robot-startup-figure-ai/"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 54
+    images:
+      - url: "https://img.republicworld.com/rimages/NEW-DSCF1820Desktop10923A3-170875733297316_9.webp"
+        width: 1779
+        height: 1001
+        isCached: true
   - title: "Nvidia Earnings Are Coming. Why It’s Time to Think About AI Chip Competition."
     excerpt: "It’s not an exaggeration to say that the tech sector's recent rally might depend on Nvidia beating expectations for its earnings report this week. However, stockholders in the chip maker should be looking beyond the immediate horizon and particularly at potential competitive threats."
     publishedDateTime: 2024-02-20T09:37:00Z

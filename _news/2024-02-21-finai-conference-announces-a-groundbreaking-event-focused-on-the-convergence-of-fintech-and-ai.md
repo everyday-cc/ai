@@ -25,21 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Monite Announces Additional Funding to Support US Expansion Efforts"
-    excerpt: "Monite's seed funding has reached $16M in order to support US expansion efforts. The company has been working to enhance financial services."
-    publishedDateTime: 2024-02-20T13:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221689-fintech-monite-announces-additional-funding-to-support-us-expansion-efforts/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221689-fintech-monite-announces-additional-funding-to-support-us-expansion-efforts/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221689-fintech-monite-announces-additional-funding-to-support-us-expansion-efforts/amp/"
+  - title: "Generative AI Finally Making More Sense By Interlacing Conversations As Showcased Via The Newly Announced Memory-Controls For ChatGPT"
+    excerpt: "Each time that you log-in to a generative AI app, you either start a new conversation or can continue a previously saved conversation. While using the generative AI app, you can also opt to begin a new conversation and thus momentarily switch away from a ..."
+    publishedDateTime: 2024-02-22T10:57:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/05/US-Dollars-Money-Grant.jpg"
-        width: 1280
-        height: 960
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d6e5fd83c3617da31ba59a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
+  - title: "From Code To Conversation: Can AI Teach Robots Arabic?"
+    excerpt: "The problem is, you will get to the point where there is no more data that's naturally created and the moment we start generating artificial data and training AI systems on that, it's like creating monsters,” says Habash, previously a research scientist ..."
+    publishedDateTime: 2024-02-19T23:32:00Z
+    webUrl: "https://menafn.com/1107872689/From-Code-To-Conversation-Can-AI-Teach-Robots-Arabic"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/19/KT_70ff5image_story.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "These six young people died by gun violence. Now their AI-generated voices are sending gun control pleas to lawmakers"
+    excerpt: "A new campaign is encouraging Americans to send pre-made voice messages to members of Congress pleading for stricter measures on gun control. But there’s a wrinkle: The six messages are all from young people who died by gun violence,"
+    publishedDateTime: 2024-02-19T10:57:00Z
+    webUrl: "https://www.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 46
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/still-20390859-1034-5420000000001-still.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "67y/OGj8RAhkGQbL0u2IB6PL0V5cZ/oTuwjY7SfreCpTjXemq8outWwrKtP1M5eSpF3eykFX6QmDKVGRToL5GZ5wgYbGdwdimmGYloz8QwtS9sABb6IouwHXXG2eM0Ico53dkm7KFRqoasC1L6SJGQAFh0+6yHSurkpQGuGUl0Ol2K33IBf39hArSZtGAh6yf8UVMM9DjZ5z2+ytelu3uywE8KqWoRmLlUgwlUfgEXVwqYxAgBks6Y/tSPElBNMfV/JkEAfiPsZdtIRiqrZ0q7E8LxLLS9Ou40n4yS/9JNOZ6GEyowBzr3MvRXMrDUHYl0GYwHhI3EkVJzVWb8eB30+zNeE/ES9hXqLEfwsykFI=;XoFgj/IBVbboSMkvdQxxWA=="

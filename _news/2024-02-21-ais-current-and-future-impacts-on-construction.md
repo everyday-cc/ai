@@ -36,6 +36,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "ChatGPT in medical education: Generative AI and the future of artificial intelligence in health care"
+    excerpt: "The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about the future of AI in medicine and medical education."
+    publishedDateTime: 2024-02-23T14:00:00Z
+    webUrl: "https://www.ama-assn.org/practice-management/digital/chatgpt-medical-education-generative-ai-and-future-artificial"
+    type: article
+    provider:
+      name: Ama-assn.org
+      domain: ama-assn.org
+    quality: 73
+    images:
+      - url: "https://www.ama-assn.org/sites/ama-assn.org/files/2024-02/au-social-022324.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Redefining pharmaceutical case processing in the age of AI and automation"
     excerpt: "Incorporating artificial intelligence (AI) in the form of natural language processing (NLP) using large language models (LLM) and automation into pharmaceutical case processing marks a turning point for the industry. AI's ability to analyse vast ..."
     publishedDateTime: 2024-02-22T00:00:00Z

@@ -25,70 +25,15 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "I tested Meta's Code Lama with 3 AI coding challenges that ChatGPT aced - and it wasn't good"
-    excerpt: "Meta CEO Mark Zuckerberg recently unveiled Code Llama, a 70B parameter AI designed for coding. But how does it stack up against giants like ChatGPT? I put it to the test."
-    publishedDateTime: 2024-02-19T08:40:00Z
-    webUrl: "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/"
+  - title: "Climate change predictions: Anticipating and adapting to a warming world"
+    excerpt: "In an era of accelerating climate change, evolving technologies can help people predict the near-future and adapt.\nThe post Climate change predictions: Anticipating and adapting to a warming world appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-20T20:00:00Z
+    webUrl: "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 95
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/1ccf148eef076cac3e9b8d3a9942ad0f45134b0b/2024/02/19/91f4a2a2-3674-4726-9ea0-825a6c9f6629/gettyimages-699283090.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ChatGPT is losing its mind and no one seems to know why"
-    excerpt: "Users of ChatGPT have shared screenshots of their interactions with the chatbot on social media after it started responding with nonsense."
-    publishedDateTime: 2024-02-21T15:12:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/65d62092a3bd891424f8e2e6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Meet Groq, a Lightning Fast AI Accelerator that Beats ChatGPT and Gemini"
-    excerpt: "Groq has released an LPU which is taking the AI industry by storm. It generates output at lightning speed, beating both ChatGPT and Gemini."
-    publishedDateTime: 2024-02-22T00:10:00Z
-    webUrl: "https://beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/"
-    ampWebUrl: "https://beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 75
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2024/02/groq-logo.jpg"
-        width: 1250
-        height: 750
-        isCached: true
-  - title: "Generative AI Finally Making More Sense By Interlacing Conversations As Showcased Via The Newly Announced Memory-Controls For ChatGPT"
-    excerpt: "Each time that you log-in to a generative AI app, you either start a new conversation or can continue a previously saved conversation. While using the generative AI app, you can also opt to begin a new conversation and thus momentarily switch away from a ..."
-    publishedDateTime: 2024-02-22T10:57:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d6e5fd83c3617da31ba59a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
-        isCached: true
+      name: IBM
+      domain: ibm.com
+    quality: 81
   - title: "ChatGPT Stock Predictions: 3 Artificial Intelligence Companies the AI Bot Thinks Have 10X Potential"
     excerpt: "Artificial intelligence (AI) stocks are a shining example of potential. They exist in the fast-paced world of finance. Here, data and insight are the driving forces behind the future. Today, we explore this possibility via AI stock forecasts. There is a ..."
     publishedDateTime: 2024-02-19T15:20:00Z
@@ -98,125 +43,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "The 7 Best Free AI Logo Generators That Aren’t ChatGPT"
-    excerpt: "Some AI logo generators will automate the entire process from start to finish based on a single prompt, while others will ask you a few supplementary questions to ensure you’re on the same page. There are also some logo generators we’ve tried that ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://tech.co/news/best-free-ai-logo-generators"
+  - title: "ChatGPT Stock Predictions: 3 Hydrogen Companies the AI Bot Thinks Have 10X Potential"
+    excerpt: "The research becomes more interesting when AI-based stock forecasts and future practices of hydrogen energy meet at the junction. However, concerning the ChatGPT usage as a whole, it was something new. I was able to supplement this data with current trends ..."
+    publishedDateTime: 2024-02-21T12:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-hydrogen-companies-the-ai-bot-thinks-have-10x-potential-1033089318"
     type: article
     provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 54
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/02/20074049/AdobeStock_583862221-1.jpeg"
-        width: 1920
-        height: 960
-        isCached: true
-  - title: "Groq AI's LPU: The breakthrough answer to ChatGPT's GPU woes?"
-    excerpt: "He said GPU systems still have a place when talking about running smaller ... Despite being created in 2016 with the name trademarked shortly after, Elon Musk’s own AI chatbot “Grok” only appeared on the scene in November 2023 and became widely ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://cointelegraph.com/news/groq-breakthrough-answer-chatgpt"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+  - title: "ChatGPT Stock Predictions: 3 Electric Vehicle Companies the AI Bot Thinks Have 10X Potential"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Electric vehicle stocks stand out as a beacon of innovation and possibility in"
+    publishedDateTime: 2024-02-20T18:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-electric-vehicle-companies-the-ai-bot-thinks-have-10x-potential-1033084668"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 51
-  - title: "Forget ChatGPT — Groq is the new AI model to beat with blistering computation speed"
-    excerpt: "Groq (not to be confused with Elon Musk’s Grok chatbot — and no they aren’t too happy with the similar names) specializes in developing high-performance processors and software solutions for AI, machine learning (ML), and high-performance computing applications."
-    publishedDateTime: 2024-02-20T15:54:00Z
-    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-groq-is-the-new-ai-model-to-beat-with-blistering-computation-speed"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 50
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xXxEjXREsFJxKk7bjXZPfn-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Hackers Could Use ChatGPT to Target 2024 Elections"
-    excerpt: "T he rise of generative AI tools like ChatGPT has increased the potential for a wide range of attackers to target elections around the world in 2024, according to a new report by cybersecurity giant Crowdstrike."
-    publishedDateTime: 2024-02-21T19:35:00Z
-    webUrl: "https://time.com/6717129/hackers-ai-2024-elections/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 49
-  - title: "N.Y. judge criticizes law firm for citing ChatGPT in attorney fee bid"
-    excerpt: "A federal judge in Manhattan on Thursday chided a law firm for citing results generated by an artificial intelligence program to help justify its bid for attorney fees in a case against New York City's Department of Education."
-    publishedDateTime: 2024-02-22T22:47:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/ny-judge-criticizes-law-firm-citing-chatgpt-attorney-fee-bid-2024-02-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-  - title: "Learn all about ChatGPT with this $20 course"
-    excerpt: "Don't miss your chance to grab this Introduction to ChatGPT e-course, which is on sale for just $20 (reg. $80)."
-    publishedDateTime: 2024-02-23T20:03:00Z
-    webUrl: "https://www.zdnet.com/article/learn-all-about-chatgpt-with-this-20-course/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
-  - title: "Scientists Are Putting ChatGPT Brains Inside Robot Bodies. What Could Possibly Go Wrong?"
-    excerpt: "As a dinner-handling robot formulates its “policy”—the plan of action it will follow to fulfill its instructions—it will have to be knowledgeable about not just the partic"
-    publishedDateTime: 2024-02-20T14:22:00Z
-    webUrl: "https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 44
-  - title: "Aiming AI at society’s toughest challenges"
-    excerpt: "It has birthed trailblazing Alphabet subsidiaries such as Waymo, the self-driving vehicle rideshare ... s happening in this movement—it’s democratizing access to artificial intelligence so everyone can get involved. How can companies unlock the value ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.strategy-business.com/article/Aiming-AI-at-societys-toughest-challenges"
-    type: article
-    provider:
-      name: Strategy+Business
-      domain: strategy-business.com
-    quality: 39
-    images:
-      - url: "https://www.strategy-business.com/media/image/44856520_thumb5_690x4002.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
-    excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"
-    publishedDateTime: 2024-02-21T17:56:00Z
-    webUrl: "https://www.inc.com/kit-eaton/recuriters-missingsigns-that-tech-job-applicants-are-using-chatgpt-to-cheat.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 36
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1817371209_537674_a49pzl.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Groq AI model goes viral and rivals ChatGPT, challenges Elon Musk’s Grok"
-    excerpt: "Groq AI model goes viral on social media after public demos emerge showcasing its rapid computation speed, outperforming ChatGPT and sparking discussions about its potential to revolutionize AI applications."
-    publishedDateTime: 2024-02-19T13:35:00Z
-    webUrl: "https://cointelegraph.com/news/groq-ai-model-viral-rivals-chat-gpt"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 35
-  - title: "GitHub Copilot vs. ChatGPT: Which is Better for Coding?"
-    excerpt: "In essence, both GitHub Copilot and ChatGPT have unique strengths that can be strategically utilized for different aspects of software development. While Copilot enhances hands-on coding and productivity, ChatGPT provides foundational support in planning and problem-solving."
-    publishedDateTime: 2024-02-19T15:45:00Z
-    webUrl: "https://www.techopedia.com/github-copilot-vs-chatgpt-which-is-better-for-coding"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 21
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
 
 secured: "xa2bHgHcEJZjK/VTE21PMagrgiqK2JJtUR89B09PY+7vlTe1LO3+PC21fx4oRXg1Mi4rPNL5Ipnj7Qux1gLh+2Ymtpv9cH05mWedShDBY8twg6SuOBzfYggdCfnEr35xxT5do+LAFQWoYbfgEN2FvX6D8QPt1wIggVCfxU0Jpj5zjrYZUUy2nr8HlV13o/PNPzaGbq07CEUa0ZLmwNQgGE1f9MAhBLKLESmVu2XngK4JpFAuS1xl7RWzme+kYnnc1CJNc+Lem69k+xZD4JQGuAp96F+h9HOBtjeRKmhRL9NkYVhp6LxeVjAz1HTJq/TJV0nSTTy4m5BKMFnOBq8rjyuYYpPxoVNzNRplsUAxsZ2vIDItSN1wKfW57PrFcALUCVwDcdyb6hIfmrqKA7WLTaq6BgnN8rsAD/qwlheYr7TvvHnI3Df5eJOZQ/bc/BulGjbal4a20QM/ECKq6U+2kVGuLTsCaLAU+oS8uklI9R9D7rx9qzWri79vcogOlkBEtGHTDB6Vw93HipAuXu545A==;RG4yOIHobiSpAtq/7GT09g=="
 ---

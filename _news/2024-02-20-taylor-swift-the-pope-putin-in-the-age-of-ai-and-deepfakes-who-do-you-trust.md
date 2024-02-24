@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/541306e3e1cb3b0b0132f5fde08ac4c24ff8235b/0_0_2500_1500/master/2500.jpg?width=620&quality=85&auto=format&fit=max&s=53f84826792b1ec1902c6007211ee06e"
         width: 620
         height: 372
+        isCached: true
+  - title: "Tech firms sign pact to counter AI deepfakes as elections near"
+    excerpt: "Companies that signed the Tech Accord to Combat Deceptive Use of AI at the Munich Security Conference on 16 February include Google, IBM, Amazon, Microsoft, Facebook and Instagram’s parent company Meta, OpenAI, and X (formerly Twitter)."
+    publishedDateTime: 2024-02-19T15:31:00Z
+    webUrl: "https://www.globalgovernmentforum.com/tech-firms-sign-pact-to-counter-ai-deepfakes-as-elections-near/"
+    type: article
+    provider:
+      name: globalgovernmentforum.com
+      domain: globalgovernmentforum.com
+    quality: 39
+    images:
+      - url: "https://www.globalgovernmentforum.com/wp-content/uploads/Untitled-1240-x-828-px-1-620x414.png"
+        width: 620
+        height: 414
         isCached: true
   - title: "In the Face of Nefarious Deepfakes, Congress Must Curb the Abuses of Artificial Intelligence"
     excerpt: "In light of a string of notable AI-generated frauds, policymakers should take swift action to stop further abuses."

@@ -43,6 +43,31 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Billionaire Jeff Bezos, Nvidia join OpenAI in $675 million funding for humanoid robot startup"
+    excerpt: "Tech moguls, including Jeff Bezos, are delving into the world of human-like robots, a venture driven by the quest to"
+    publishedDateTime: 2024-02-24T07:58:00Z
+    webUrl: "https://nairametrics.com/2024/02/24/billionaire-jeff-bezos-nvidia-join-openai-in-675-million-funding-for-humanoid-robot-startup/"
+    ampWebUrl: "https://nairametrics.com/2024/02/24/billionaire-jeff-bezos-nvidia-join-openai-in-675-million-funding-for-humanoid-robot-startup/?amp=1"
+    cdnAmpWebUrl: "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2024/02/24/billionaire-jeff-bezos-nvidia-join-openai-in-675-million-funding-for-humanoid-robot-startup/?amp=1"
+    type: article
+    provider:
+      name: Nairametrics
+      domain: nairametrics.com
+    quality: 63
+    images:
+      - url: "https://nairametrics.com/wp-content/uploads/2023/10/Jeff-Bezos.png"
+        width: 1694
+        height: 1058
+        isCached: true
+  - title: "Bezos, Nvidia Join OpenAI in Funding Humanoid Robot Startup, Bloomberg Reports"
+    excerpt: "(Reuters) -Amazon.com founder Jeff Bezos, Nvidia and other big technology names are investing in startup Figure AI that develops human-like robots, Bloomberg News reported on Friday, citing people with knowledge of the situation."
+    publishedDateTime: 2024-02-23T20:22:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-23/bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-bloomberg-reports"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Bezos and Nvidia join OpenAI in funding humanoid robot startup"
     excerpt: "Jeff Bezos, Nvidia and other big technology names are investing in a business that’s developing human-like robots, according to people with knowledge of the situation, part of a scramble to find new applications for artificial intelligence. The startup ..."
     publishedDateTime: 2024-02-24T00:00:00Z
@@ -56,6 +81,20 @@ related:
       - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/24/282434.jpg"
         width: 1000
         height: 643
+        isCached: true
+  - title: "Bezos, Nvidia join OpenAI in funding robot startup"
+    excerpt: "The AI robotics industry has been busy lately. Earlier this year, OpenAI-backed Norwegian robotics startup 1X Technologies AS raised US$100 million. Vancouver-based Sanctuary AI is developing a humanoid robot called Phoenix. And Tesla Inc. is working on a ..."
+    publishedDateTime: 2024-02-24T07:06:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/bezos-nvidia-join-openai-funding-robot-startup"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 54
+    images:
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/24/e4ba9ee9a6ace9819ce589b5e8bea6e4babae8b29de4bd90e696afefbc88jeff20bezosefbc89e8a2abe78886e69699e585a9e5b9b4e5858de7b9b3e7a885efbc8ce5bc95e799bce786b1e8adb0e38082e6b39.jpg"
+        width: 880
+        height: 587
         isCached: true
   - title: "Jeff Bezos, Nvidia join OpenAI in funding humanoid robot startup"
     excerpt: "Advt The AI robotics industry has been busy lately. Earlier this year, OpenAI-backed Norwegian robotics startup 1X Technologies AS raised $100 million. Vancouver-based Sanctuary AI is developing a humanoid robot called Phoenix. And Tesla Inc. is working on ..."
@@ -85,21 +124,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup, Bloomberg reports"
-    excerpt: "Figure AI, also backed by ChatGPT-maker OpenAI and Microsoft, is raising about $675 million in a funding round that carries a pre-money valuation of about $2 billion, according to the report. Bezos had committed $100 million through his firm Explore Investments LLC and Microsoft is investing $95 million,"
-    publishedDateTime: 2024-02-23T22:22:00Z
-    webUrl: "https://www.aol.com/news/bezos-nvidia-join-openai-funding-202228535.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 50
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/fc4f5b2e6b306a32dda4bbede7b6897a"
-        width: 800
-        height: 534
-        isCached: true
 
-secured: "XWhet6coW4nB3rKOz1uEdAtZoFv4SdNichhhmvjZTt11dmxj2A2TZbcsCW58wGozCOoqIWDm4yIze9kMPo58ncNQN5gatfXQYXnRItZhv2NG/YIBVb9jxxWQtlF5Wsjpq7+nyXUXcjQD0GtzeMGDbPVs7ejSWZkOpSJSqj7wwoIVcYo7XRs3sy/cAdPhI2TEzsZvdG2z+i3pHmyyreaw4vBJmp1oQainF/38obJp9F7mW6stJARsjIE0sdi1ElLBBLLwZdIUJN+OQzWlh88M2gzHrSNuxCDz1N8ARfYJYRbct+BANCj4O4q1JD7hzi9zNFaWozY7xiR7nm1I96VQzDr6Nw7CbI934jV35HhY1lY=;kfpVsuZJzHCD5gWyy7dnZA=="
+secured: "bcb42nZ6lfG6/yOXWpkPRLetihBPbdLTt6JwonvEcbzPub4FkgVZnUrtYbRVnvDtQwSYWKOz6lcjfAfbQ3THgT7H+3aGYT6l2nFGOqNSmKxzyHTFhaq/HiSZsmlQfW/A0cqnU48kpNx3dMJ+N7ctHu4ek9CeX6UAZW2NYCCqCS6REO2r9PPzjOBzJeQeKtBNxMHb9xiJMrLROfyyfcB68OP2X8xOrmCPFT44/w83lSzm7k1Bwteo09eforp6DiHjA/ZO8CpIc2drftyIdAG4b87FG9Zo6REOmr5YMXWGlHuOQKvwAj5o9JqUZFnPqzRlDdg2eKY8ywwGZwrTa2OEQ34W2AINthSKNi9v8bWAAq0dlPJClIOh8q/ACwdRLEL3ONjbnlEQvdDGHEeZFQyYSTe6ivRIblrnwtBPXuYEZaYqBt5xVd3NlJIk0eimKH0LBN+ozNvkDOsHK8gfXh2FRQNNwrMAJQ4ZEn/u9RxMbMMmnr/E6MOCt7TByy22hagviqLLjsx0S43thJaSYd19Kw==;5H+lOdqnIcV+DFfWqkmXRQ=="
 ---
 

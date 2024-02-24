@@ -54,6 +54,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Tech firms sign pact to counter AI deepfakes as elections near"
+    excerpt: "Companies that signed the Tech Accord to Combat Deceptive Use of AI at the Munich Security Conference on 16 February include Google, IBM, Amazon, Microsoft, Facebook and Instagram’s parent company Meta, OpenAI, and X (formerly Twitter)."
+    publishedDateTime: 2024-02-19T15:31:00Z
+    webUrl: "https://www.globalgovernmentforum.com/tech-firms-sign-pact-to-counter-ai-deepfakes-as-elections-near/"
+    type: article
+    provider:
+      name: globalgovernmentforum.com
+      domain: globalgovernmentforum.com
+    quality: 39
+    images:
+      - url: "https://www.globalgovernmentforum.com/wp-content/uploads/Untitled-1240-x-828-px-1-620x414.png"
+        width: 620
+        height: 414
+        isCached: true
 
 secured: "uSqOQUWRsLdE6CZ1A5YrSdOl0VCbLdeN5tfrFtzMcj5CmiFde8M2SBvjFY08JD2hFmwMLQhwj+rpm/pyvKCuDvjskBtOkeakm2bym2/V7bUpqD/rZiKwNB/T+eWxqwpukIfv/1o0R1XhKxr9WIHR5rL+UV+mSX9NXd1J6gx0Lmck+hV/7xjEdgdAbBkezxyzdUW44dS8z94L82PsHEe1vTPnFwAUSvGJRoWIDL5no93vYTJLFkU69MeaqOFmshBZdGRCgcdySioI9DrphEkY8GxLUU4zZjOptwjML8ELr10NMum0QnLVfdsH8LKCCffgtRROF/xYVtHphK4l5bTPbA+QkCVKuMbOiSCB3Af0uRn9GKnHrAhSIir0ytFSUFinok6/1j7TZGQGvI0Jl9VrOXOyaUmbXSt7KjnEYMB8q7Y5AxTlFZaR0iKb++mB4WJRpaHe7fL6i8oh/Edg8VeDoxS5WMEcG7iIkNMbfd273ssXqn2RrGoOScHwi+sF/TIjjZY/AP+6QI9KlQ5lVG3+Gg==;j5C7t19vw+g8RY2rQSMkZQ=="
 ---

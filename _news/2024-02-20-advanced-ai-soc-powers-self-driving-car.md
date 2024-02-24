@@ -40,20 +40,6 @@ related:
         width: 640
         height: 800
         isCached: true
-  - title: "AWS launches program to boost AI and tech competency for small and medium businesses"
-    excerpt: "Amazon Web Services (AWS) recently launched a new program aimed at helping small- and medium-sized businesses build competencies in areas like artificial intelligence (AI), the cloud and other skillsets to be more competitive. \"Small businesses often don ..."
-    publishedDateTime: 2024-02-19T07:18:00Z
-    webUrl: "https://www.aol.com/aws-launches-program-boost-ai-151834099.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 47
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/PpNJP4_cOBlYG1x1noZw7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/ed616f10d94cec74df632a21ff34cf1d"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Mortgage startup Tomo enters the home portal wars with AI tools"
     excerpt: "Mortgage startup Tomo has thrust itself into the \"portal wars\" arena with the launch of AI-powered Tomo Real Estate, its new home search site."
     publishedDateTime: 2024-02-21T13:22:00Z

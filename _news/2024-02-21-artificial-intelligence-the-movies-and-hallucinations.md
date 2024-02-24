@@ -38,6 +38,15 @@ related:
         width: 644
         height: 300
         isCached: true
+  - title: "Artificial intelligence hallucinations in legal research may be a thing of the past"
+    excerpt: "Lexis+ and Paxton.AI are examples of legal tech solutions incorporating RAG technology. As AI technology evolves quickly, it may soon render any attempts by courts and law societies to limit AI use irrelevant. It appears that technology will solve its problems."
+    publishedDateTime: 2024-02-23T20:54:00Z
+    webUrl: "https://www.canadianlawyermag.com/news/opinion/artificial-intelligence-hallucinations-in-legal-research-may-be-a-thing-of-the-past/383942"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 13
 
 secured: "jBvx/OaCmkouGR9NHG9OI169Su0OJ/eshZP0CJuqttEYY1i0S4ODLG9zMTDR9bV3QMF89zY7qNd3Pdb9WsxDlXvmPUe1G8BRA49HUHtN77PGmB0JU4TkUY4a0ZJmKTbvscF0yoNBR7aMyH1bd0lCGfICNcjvUl27RXGmConTBmb7npVSDfPsfni2MN+3QIzYtexysaUUZxjor2U9BOE9gKT6NA/m2Xc6oTKBOe793i7DMRMdZjqvC6jBKGS02UAEqHXA48daZyTa5ytNfhPIE0LvgGXW4x0IpBlxn/ucyLqGOS95dl8iT3ZOtbXFT2396ieBPJ4myq9hptccUjpMp3vdZ3UujsN5uDIblTjN3oY=;x4ViXTf5GSvw/uLJsNL1JA=="
 ---

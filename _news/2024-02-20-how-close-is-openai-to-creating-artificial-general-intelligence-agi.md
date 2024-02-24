@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI artificial general intelligence (AGI) developments"
-    excerpt: "OpenAI has reportedly made a significant breakthrough in artificial general intelligence (AGI) development, which has been somewhat obscured"
-    publishedDateTime: 2024-02-19T08:28:00Z
-    webUrl: "https://www.geeky-gadgets.com/openai-artificial-general-intelligence-agi-developments/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-AGI-advancements.jpg"
-        width: 1280
-        height: 818
-        isCached: true
   - title: "Bill Foster, a particle physicist-turned-congressman, on why he’s worried about artificial general intelligence"
     excerpt: "In a Q&A with FedScoop, the Illinois Democrat and House AI task force member discusses his optimism and pessimism on potential AI legislation and his fears about AGI."
     publishedDateTime: 2024-02-23T21:36:00Z

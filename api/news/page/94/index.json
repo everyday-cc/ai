@@ -2,6 +2,40 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2023-12-04-robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study.md",
+      "title": "Robot chemist powered by artificial intelligence could create oxygen needed for humans colonising Mars: study",
+      "excerpt": "A robot chemist powered by artificial intelligence could solve the puzzle of providing oxygen to humans on Mars, according to the results of a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.skynews.com.au/world-news/robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study/news-story/48bba79253158e6802b6570faff5703c",
+      "originalUrl": "https://www.skynews.com.au/world-news/robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study/news-story/48bba79253158e6802b6570faff5703c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.skynews.com.au/world-news/robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study/news-story/48bba79253158e6802b6570faff5703c?amp",
+      "cdnAmpWebUrl": "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/world-news/robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study/news-story/48bba79253158e6802b6570faff5703c?amp",
+      "publishedDateTime": "2023-12-04T00:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky News Australia",
+        "domain": "skynews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-ai-networks-are-more-vulnerable-to-malicious-attacks-than-previously-thought.md",
       "title": "AI networks are more vulnerable to malicious attacks than previously thought",
       "excerpt": "Artificial intelligence tools hold promise for applications ... on determining how common these sorts of adversarial vulnerabilities are in AI deep neural networks. They found that the vulnerabilities are much more common than previously thought.",
@@ -991,49 +1025,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-brfs-center-for-molecular-imaging-and-therapy-to-acquire-states-most-advanced-petct-scanner-by-january.md",
-      "title": "BRF’s Center for Molecular Imaging and Therapy to acquire state’s most advanced PET/CT scanner by January",
-      "excerpt": "SHREVEPORT, La. - Northwest Louisiana is closer to offering the state’s most technologically advanced PET/CT scanner to patients of BRF’s Center for Molecular Imaging and Therapy (CMIT). BRF has relea",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktbs.com/news/brf-s-center-for-molecular-imaging-and-therapy-to-acquire-state-s-most-advanced-pet/article_4c7c084e-9137-11ee-8c5d-233fa7517f2b.html",
-      "originalUrl": "https://www.ktbs.com/news/brf-s-center-for-molecular-imaging-and-therapy-to-acquire-state-s-most-advanced-pet/article_4c7c084e-9137-11ee-8c5d-233fa7517f2b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/7/b3/7b34c022-9137-11ee-b60c-037a81950478/656b682f59fe6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-02T16:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTBS",
-        "domain": "ktbs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

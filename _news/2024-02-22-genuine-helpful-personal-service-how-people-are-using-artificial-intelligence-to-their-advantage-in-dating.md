@@ -33,7 +33,7 @@ related:
     provider:
       name: KSBW The Central Coast
       domain: ksbw.com
-    quality: 17
+    quality: 19
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cosmo-ai-dating-opener-65cbf5224f580.png?crop=0.995xw:1.00xh;0.00481xw,0&resize=1200:*"
         width: 1200

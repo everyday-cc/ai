@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cruise May Resume Self-Driving Taxi Tests in Texas Soon"
-excerpt: "GM-owned Cruise is getting ready to put its self-driving taxis back on the road, four months after one of its vehicles ran over a woman in San Francisco and dragged her 20 feet. The driverless car company is reportedly looking to resume robotaxi testing ..."
+excerpt: "GM-owned Cruise is getting ready to put its self-driving taxis back on the road, four months after one of its vehicles ran over a woman in San Francisco and dragged her 20 feet. The driverless car company is reportedly looking to resume robotaxi testing \"in the coming weeks,\" Bloomberg reports, and may begin operations in Houston or Dallas."
 publishedDateTime: 2024-02-23T00:01:00Z
-originalUrl: "https://uk.pcmag.com/cars-auto/151043/cruise-may-resume-self-driving-taxi-tests-in-texas-soon"
-webUrl: "https://uk.pcmag.com/cars-auto/151043/cruise-may-resume-self-driving-taxi-tests-in-texas-soon"
+originalUrl: "https://www.pcmag.com/news/cruise-may-resume-self-driving-taxi-tests-in-texas-soon"
+webUrl: "https://www.pcmag.com/news/cruise-may-resume-self-driving-taxi-tests-in-texas-soon"
 type: article
 quality: 54
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/c/cruise-may/cruise-may-resume-self-driving-taxi-tests-in-texas-soon_gaue.1200.jpg"
-    width: 1200
-    height: 675
+  - url: "https://i.pcmag.com/imagery/articles/02kFODpY8Ryo8exFhjTmVoR-1.fit_lim.size_1200x630.v1708698476.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -115,6 +115,6 @@ related:
       domain: indiatimes.com
     quality: 21
 
-secured: "fWxSSVfFqkB8YwJXlPxjSI7g5mvbfyN9zWx3BKI+Ek5Djw1fcKAV7wWxkvU4ssBaKfDLWNkTgxKNNV2EeiQROBgkgmTy+sBH3+aTFxaHfnRaaNk5Qv0xL2cEgnDUgRxg+HefFy146+caYXXe5qSCRLU8fnJuDKFQCdv9s5jKWhzw4Ivx7o8ICUS6rfa6TY/Fnn14WyIqIAMLy5FrEM20UNkXte6YiaK6RnjrWMahGhnd4Y394Sf4Feh/OY0209ttt3Bk2VOcuIo4yjS44pRnosPXjYCs+UpauwqR8ffs0nB2OrP2kw/Q0r5riziQnqoOOh9QoPqtj4XjBbmCzU57iAnRVqG6/ZmXMN2HXZn62Mg=;q/DJyaYRLyyVXV15yaEexA=="
+secured: "Y/UqlizQu6nyrv6xDCxkaYre/0YmNpg4bCQaBnL3sk6U3HE5bjCzHecTt/uLEXQ2o8TwLvcbR9pe7/7bUnQdpEy/Yrw85wte4wb+yqVZnDWHNnItMm/qlKKuzAZ5/rXYKb3MwkJj30n9IBHuMwH0LW7/t0RreG5jb40pMgL5pedtxfroWWb9PvvSe2C5T6cLo7eHc3x1Wvzc+/LOuxeT05fFLcJqWA61vksof4jAeqCXobbPEV0cnFIF6PvJc4ohceYcPsuSrBB1noThMaJrgxiY0h5DzsZlf4Ks7Vn93SaxgsaSA39Wvpi5HjRGEJ9FSYZzqE9d1UUHzaqpNrLPrAIZiMkW3GWIq2m0Uf4jW4c=;RT1lMsRUvfULo/RGQayTRw=="
 ---
 

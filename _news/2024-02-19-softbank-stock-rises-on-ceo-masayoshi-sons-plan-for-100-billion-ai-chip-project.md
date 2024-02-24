@@ -51,20 +51,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Softbank’s Masayoshi Son plans $100bn AI chip venture"
-    excerpt: "In one scenario Son is considering, SoftBank would provide $30 billion, with $70 billion possibly coming from institutions in the Middle East SoftBank founder Masayoshi Son’s plans to create a $100 billion chip venture to supply AI-enabling semiconductors."
-    publishedDateTime: 2024-02-19T08:12:00Z
-    webUrl: "https://www.businesspost.ie/news/softbanks-masayoshi-son-plans-100bn-ai-chip-venture/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 54
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=6333bf6a-b549-5589-8178-8668be8928ed&type=preview&function=original"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "0X8pMwuP4ok/+GlbTRchGEubGocjlcJZRnVGewG4yeOG7YorDmbmX3g46V3fuDPnPcHLAbshyOTLFhRPPJ3xcunxraf2AehjL4na5ImSDDpMMMHQRV4meW1FSFWSFPWEjPajrgVv3uGCofA4rcJh3npUbKHuhzW6jglARK5jQd6MEHQ370OB8rdc9s22g+dKFnXS3Pw9fhQhq66bdA2wL5MzB+Ld91RCsxVTamkJI9bRWOi3ok6vesd27IEEY57Au7F+eLIivu2BPNvbikxwz5AduqVXwIlYmjjRCnUVEQAy+xH/66XT0W6wKLI6HdV9584Hh6vMe9eG3HuArV+8VMLjuFqjzcCxAQRWQaODAbwiSUtzwfJGSs6V2vbizsgJq/Nw7ArEkECBDLKx/Fel2ijpTZ/PtnQlZ4o1W8qLatzDWongxLv+/Q/dFrtYv2fxxB32jyIU2EYm/xXUvKENGAAtQj6/ystgAdHxfuwdSW9bL6H6kqxWiVfXiE+7n2wJ04dmHFvJhoolWlpNAmdyYA==;gPOa1b5/XSxFY2fnw+DQVQ=="
 ---

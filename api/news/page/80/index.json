@@ -2,6 +2,58 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2023-12-13-google-debuts-imagen-2-with-text-and-logo-generation.md",
+      "title": "Google debuts Imagen 2 with text and logo generation",
+      "excerpt": "Called Imagen 2, Google’s enhanced model — which was quietly launched in preview at the tech giant’s I/O conference in May — was developed using technology from Google DeepMind ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/",
+      "originalUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-944347618.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/amp/",
+      "publishedDateTime": "2023-12-13T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models.md",
       "title": "Google unveils MedLM, a family of healthcare-focused generative AI models",
       "excerpt": "AI in healthcare, historically, has been met with mixed success. Babylon Health, an AI startup backed by the U.K.’s National Health Service, has found itself under repeated scrutiny for making claims that its disease-diagnosing tech can perform better ...",
@@ -1127,49 +1179,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-gpai-should-help-frame-sustainable-ai-rules-pm.md",
-      "title": "GPAI should help frame sustainable AI rules: PM",
-      "excerpt": "The prime minister emphasized that a large part of the course of AI development will come through “human and democratic values”",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html",
-      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/12/12/1600x900/PTI12-12-2023-000248B-0_1702401366273_1702401381608.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html",
-      "publishedDateTime": "2023-12-13T04:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

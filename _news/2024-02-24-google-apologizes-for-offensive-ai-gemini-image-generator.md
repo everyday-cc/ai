@@ -329,15 +329,6 @@ related:
         width: 512
         height: 252
         isCached: true
-  - title: "Google AI Chief Touts Ultra Low Resource Machine Translation in Gemini 1.5 Pro Launch"
-    excerpt: "Google promotes its latest large language model, Gemini 1.5 Pro, with a case study on low-resource translation using just one book."
-    publishedDateTime: 2024-02-19T08:10:00Z
-    webUrl: "https://slator.com/google-ai-chief-touts-ultra-low-resource-machine-translation-gemini-1-5-pro-launch/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 27
   - title: "Google Renames Bard to Gemini"
     excerpt: "A monthly overview of things you need to know as an architect or aspiring architects."
     publishedDateTime: 2024-02-20T00:00:00Z
@@ -431,6 +422,6 @@ related:
       domain: androidheadlines.com
     quality: 4
 
-secured: "77Awjcxq0SSKjnIZfSRdONxmuxbd+2/ZR5NPZL9oWLPoUt8qkY+ZNtawEV3xiXMHmjdsn+OlYGChFHrWbMNoY4J+dYggZ2Tm5dr9LptD3ZbNBhbGelxP2AgFMqdeMsPWgdnTruDiVivWPuMtj5glehR5kKo6avgfgBUHXqdELtqwGR13n6LwjxJUENYrXZ/uoSbaSm5hYbunlk2rv2mlurKB/x8nysPKLNWzb47hHhPpEvMc1piCHfifAhoUOHP5LQi9rX7Fgww3YFYfoHoCkWNrR8LjLRHxRtdtW9mnOXcdYsPi4wCicGqGSK4LQDKyjh5ObcigNMP6BfFUxWvro/SHjc/nwpv9Z8TBP3ua6Og=;ggoHX3diBk5w0aWYjUR+Kg=="
+secured: "my6QLxKy08nAF+UXPFuSNuF80RQw5QWMGgnEebsISfaOR5tdoPSRdK6p1DhYfq/FNcLaGxq+/vkUeaPppgyDu18ObSpOK5rhdvLXSeBR/vQ6mbKeTHOH2A/BLx1E8NkVnXYd8hOXftviERjlIUllhGX6ZYREikCLZGbXHIiT2UpotbfJ16vYmNCCfpTfXCexROVJecHtBmB40+fgnMSvaWST/HmuTzDXYx5JfDXNmiBNu7/jEsUOVl9C32Dcbp2ffxcUE3rQ1wZmSYJIeEZ6+kMVBL4OdUJPjXYTc1HcqRkfUxdesWPK3MkNCnjCNccuMRO/cVyz5klfPAqfWxt+Vab5mnBGUIi75vkjrrJWJigP2HE9DTtFfcmQPowfqGaSItRO0wn/bywGgcxXQ0KW05952chT5gU9lUVqgq1/B/dU6x4+cqPq3yrZXqVEJrc94F3gBnGYB3duTxtve7AzbIhrAZwJIVy8XAaf2h5OccWDi9Yy7mGpSC3Jby8hvpBB7juEYyGhoPTF9DTZ4Lpl9Q==;8DLypYLs1mkMClP5CRX0UQ=="
 ---
 

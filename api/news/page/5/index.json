@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-21-robot-inventor-we-had-to-adapt-to-the-ai-revolution.md",
+      "title": "Robot inventor: 'We had to adapt to the AI revolution'",
+      "excerpt": "Produced, filmed and edited by Dougal Shaw Sandy Enoch of Robotical explains why he had to pivot his educational robot company due to AI. Hovhannes ... shares advice for start-ups for our CEO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/business-68348353",
+      "originalUrl": "https://www.bbc.com/news/av/business-68348353",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1413F/production/_132693228_p0hcyy8v.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T03:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-galaxy-ai-will-soon-power-intelligent-health-experiences-on-samsungs-wearables.md",
       "title": "Galaxy AI will soon power 'intelligent health experiences' on Samsung's Wearables",
       "excerpt": "Samsung has announced that Galaxy AI will soon power intelligent health features on its wearables. Here's what's new.",
@@ -973,7 +1025,7 @@
       "originalUrl": "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 121,
       "tags": null,
       "images": null,
       "content": "",
@@ -1058,7 +1110,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": null,
       "content": "",
@@ -1193,50 +1245,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-getting-ai-right-for-security-5-principles.md",
-      "title": "Getting AI Right for Security: 5 Principles",
-      "excerpt": "By Kevin Kennedy, SVP Products, Vectra AI Now more than ever, companies need effective security solutions. The cost of global cybercrime is projected to grow by seventeen percent each year, reaching a",
-      "sourceUrl": null,
-      "webUrl": "https://www.cyberdefensemagazine.com/getting-ai-right-for-security-5-principles/",
-      "originalUrl": "https://www.cyberdefensemagazine.com/getting-ai-right-for-security-5-principles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cyberdefensemagazine.com/wp-content/uploads/2024/02/Getting-AI-Right-for-Security-5-Principles.jpg",
-          "width": 780,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T17:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyber Defense Magazine",
-        "domain": "cyberdefensemagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

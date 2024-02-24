@@ -2,6 +2,39 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2023-12-14-chinese-ai-startup-01ai-looks-to-raise-200-million-sources.md",
+      "title": "Chinese AI startup 01.AI looks to raise $200 million -sources",
+      "excerpt": "BEIJING/HONG KONG (Reuters) -Beijing-based AI startup 01.AI is raising up to $200 million in fresh capital, two sources familiar with the matter said, building on a valuation of $1 billion reached last month on the back of surging global interest in open ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/chinese-ai-startup-01-ai-092630675.html",
+      "originalUrl": "https://www.aol.com/chinese-ai-startup-01-ai-092630675.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T04:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-police-suggest-facial-recognition-cameras-to-discourage-bank-robbers.md",
       "title": "Police suggest facial recognition cameras to discourage bank robbers",
       "excerpt": "The Ho Chi Minh City police want cameras installed at all banks to recognize the faces of visitors to dissuade robbers.",
@@ -1108,58 +1141,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-google-debuts-imagen-2-with-text-and-logo-generation.md",
-      "title": "Google debuts Imagen 2 with text and logo generation",
-      "excerpt": "Called Imagen 2, Google’s enhanced model — which was quietly launched in preview at the tech giant’s I/O conference in May — was developed using technology from Google DeepMind ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/",
-      "originalUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-944347618.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/amp/",
-      "publishedDateTime": "2023-12-13T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

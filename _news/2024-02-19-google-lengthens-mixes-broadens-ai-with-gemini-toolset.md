@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-leng
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
 type: article
 quality: 93
-heat: 403
+heat: 393
 published: true
 
 provider:
@@ -335,15 +335,6 @@ related:
         width: 512
         height: 252
         isCached: true
-  - title: "Google AI Chief Touts Ultra Low Resource Machine Translation in Gemini 1.5 Pro Launch"
-    excerpt: "Google promotes its latest large language model, Gemini 1.5 Pro, with a case study on low-resource translation using just one book."
-    publishedDateTime: 2024-02-19T08:10:00Z
-    webUrl: "https://slator.com/google-ai-chief-touts-ultra-low-resource-machine-translation-gemini-1-5-pro-launch/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 27
   - title: "Google Renames Bard to Gemini"
     excerpt: "A monthly overview of things you need to know as an architect or aspiring architects."
     publishedDateTime: 2024-02-20T00:00:00Z

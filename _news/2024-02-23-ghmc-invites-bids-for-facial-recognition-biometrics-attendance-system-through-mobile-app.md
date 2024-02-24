@@ -26,22 +26,6 @@ images:
     height: 1200
     isCached: true
 
-related:
-  - title: "Global Healthcare Biometrics Market to surge to US$ 20.8 Billion by 2033, with Facial Recognition driving the growth | FMI"
-    excerpt: "Healthcare Biometrics MarketAs per the latest market insights, the global healthcare biometrics market demand is on an upward trajectory, set to witness significant expansion over the coming decade. Forecasts project a robust Compound Annual Growth Rate (CAGR) of 18."
-    publishedDateTime: 2024-02-19T07:16:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2024-02-19/global-healthcare-biometrics-market-to-surge-to-us-208-billion-by-2033-with-facial-recognition-dr"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 30
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
-
 secured: "0ETZSct4Bn83wIR0UmqDCboMt+r1BgGuPp4gObT1arjXAOiz1aBCbSbkFe/uXjjIWIn24CM+n9iOEjB82GBBzoE4DUn68b7uuD+G5Uk/VWup7sl6JcPjbYtRFg01/wAdCyGYBMTeVDiGPt2YDZ/cJ+WRPuk9TNzQ5G9Gk9u4MYxQrr2z0SqGhqRrR/lHOyuPHXWATOPS/gOiDQv2DogJYyUtPxNrnSrXysK6Ur3FlNWkl9j2yuGGwmoAPELy8i0ESzVey1N+AsSlILOw1PrVy0F4fk9NRrfglaDTC1CuJ7xsFJgby7qRmpdVys1gDOwszTD72irC5izsCk4xct40h3mK3izWU9WcCUoU1fjuANw=;T5OYlmYjloUEQR/emV2JZw=="
 ---
 

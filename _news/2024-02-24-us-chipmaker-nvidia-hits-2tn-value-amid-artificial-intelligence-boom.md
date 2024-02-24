@@ -392,6 +392,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bezos, Nvidia, and OpenAI back humanoid robot startup Figure AI"
+    excerpt: "Figure AI is in the process of securing approximately $675 million in a funding round, reflecting a pre-money valuation of around $2 billion."
+    publishedDateTime: 2024-02-24T01:18:00Z
+    webUrl: "https://www.republicworld.com/tech/artificial-intelligence/bezos-nvidia-and-openai-back-humanoid-robot-startup-figure-ai/"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 54
+    images:
+      - url: "https://img.republicworld.com/rimages/NEW-DSCF1820Desktop10923A3-170875733297316_9.webp"
+        width: 1779
+        height: 1001
+        isCached: true
   - title: "Nvidia Earnings Are Coming. Why It’s Time to Think About AI Chip Competition."
     excerpt: "It’s not an exaggeration to say that the tech sector's recent rally might depend on Nvidia beating expectations for its earnings report this week. However, stockholders in the chip maker should be looking beyond the immediate horizon and particularly at potential competitive threats."
     publishedDateTime: 2024-02-20T09:37:00Z
@@ -654,6 +668,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "r3uMhJ6qFHXY7v9iJzfHCM1nddKo8aN9TfNrIWI5YP1dsiAmyNED+dXGujrfj1C6HQonPwkOhUOUYeU1sWR2FtvWm7W71cjdjHGIgZYo/0fwC1hr45WAb/sgPOhSZwykHpJWx74uSweKGYi3d+rnT3/QmLOVUgVks8MlXtztdpzx5fTpetCXidfPrBvV+H8/zK1p7f5BjIQqu2W8SKlVQfg1rC+yWV8+0P3QnG254kvjkLDf9qILxsfWU0aFdV69YTInl7AEuRQLbI8RfFFu5zwPGjwDNhaKeENEvTDC6EAGLMdbeSTxjRLcqioEQ+YX7tf5YbSa0X4fEelDpcbp+hqYZ0jlX3veMz6haz/HbS8=;Ni6WjKGJrmC75dVyfgo/6g=="
+secured: "40YCoEj/PrBsYY0mrBzxtnBFgGjoiZOPgt9hy52Lv7sOZ1dtkrS9LudQZ74zaWPGtGlAsFDr8kOMSM3NTrH8f/h/PO0z63ftjy01lpceqpmtAMOdSJN+WHoHAlypvk2rtdMQKnhL63djFYXN2YdAFMrP5ZhOAsmdV/+lCw9osxMM+CeT/7OHhUtgW2POnjHfM0cgCRI89+fIqlgQcrbeBClZXnfl2ZHx/GNJiK6/APgIpXgboCRNUSUxP4hN4koEg7naDx2V05FTS+snHwoVMJf4aVEMRICPv1UL3DAW5rGC0d6MVjNsGyfHI96QeCbIPqKLSIwMnt4OwN7KN9iQjQ4i0EgBk6Jwgev6/u9n8lY3sJDpAOpd0M3nU6m6k3RTmR15Xm3fEQos69UbMfs2azt850Cx1OSXg6Em3xvZJTtwYlDt3uVhhZge2u6FHNmBPdKSxDtBV485vGbWyHsy63Vnuay1tS066hVu+A21BNt52n8pM798DoJS+6RRc3ajVw+tYuowmfk/kQ18LOG/Ag==;XNWItBAw0wHRypiCled5Qw=="
 ---
 

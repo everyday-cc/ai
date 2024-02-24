@@ -343,15 +343,6 @@ related:
         width: 512
         height: 252
         isCached: true
-  - title: "Google AI Chief Touts Ultra Low Resource Machine Translation in Gemini 1.5 Pro Launch"
-    excerpt: "Google promotes its latest large language model, Gemini 1.5 Pro, with a case study on low-resource translation using just one book."
-    publishedDateTime: 2024-02-19T08:10:00Z
-    webUrl: "https://slator.com/google-ai-chief-touts-ultra-low-resource-machine-translation-gemini-1-5-pro-launch/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 27
   - title: "Google App Adds Toggle Between Search & Gemini"
     excerpt: "The popular Google app, the Google Search app, now has a toggle at the top to quickly switch between Google Search and Gemini (formerly Google Bard). It shows up at the top and is defaulted to Google Search with the super G logo but you can see the Gemini logo that you can tap on to switch to Gemini."
     publishedDateTime: 2024-02-21T07:11:00Z

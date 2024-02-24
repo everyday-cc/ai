@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI artificial general intelligence (AGI) developments"
-    excerpt: "OpenAI has reportedly made a significant breakthrough in artificial general intelligence (AGI) development, which has been somewhat obscured"
-    publishedDateTime: 2024-02-19T08:28:00Z
-    webUrl: "https://www.geeky-gadgets.com/openai-artificial-general-intelligence-agi-developments/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-AGI-advancements.jpg"
-        width: 1280
-        height: 818
-        isCached: true
   - title: "How close is OpenAI to creating Artificial General Intelligence (AGI)?"
     excerpt: "Artificial General Intelligence (AGI) is a class of artificial intelligence that is capable of understanding and applying knowledge across"
     publishedDateTime: 2024-02-20T10:33:00Z
