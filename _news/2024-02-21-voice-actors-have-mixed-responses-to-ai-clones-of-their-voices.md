@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
+    excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker's permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
+    publishedDateTime: 2024-02-24T18:51:00Z
+    webUrl: "https://bismarcktribune.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_4e1465c6-6329-544b-b1ca-b0c248d920b9.html"
+    type: article
+    provider:
+      name: The Bismarck Tribune
+      domain: bismarcktribune.com
+    quality: 26
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/4/e1/4e1465c6-6329-544b-b1ca-b0c248d920b9/65d8c7ed6be48.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why some video game voice actors are letting AI clone their voices"
     excerpt: "Although AI's reputation among artists isn't strong, video game voice actors are finding ways to combine ethical practices with their artistry."
     publishedDateTime: 2024-02-21T03:22:00Z

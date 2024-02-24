@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 19
-  - title: "How Artificial Intelligence is affecting the college process"
-    excerpt: "Artificial Intelligence is changing the world – and possibly the way your child attends college. Teen Life Coach Desiree Panlilio joins Gayle Guyardo the host of the"
-    publishedDateTime: 2024-02-19T18:20:00Z
-    webUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-the-college-process/"
-    type: article
-    provider:
-      name: WFLA News Channel 8
-      domain: wfla.com
-    quality: 17
 
 secured: "3RDr3lycIWq+vMNtjWd6pvwSoD8mh15ABa7siLaJ+mlnM5UGNuW3Fzu/TUxP5/EYgSdWGzNOKsY078y99fjm5Bbd2kU3PyNzaU286kKqabA729I5gJrmYT44lQSvKUHiskX8nJfxMg6yIGFG5Ewq2uqU0TorQe4jSKlH5qZFw7UT4kAGhO4xSOUHHUdqSKKzLny2vrNRVtmRaLKMbrcaEtoFz7/8DhXUZlqWj5a8ze6MzYAjVV9Ju6esYtzw0/q9+nKUJ2bf7tlr44Q0odXOh8PsM7HdzwI9gVxKK8ttCvQFwI1c5KsjIops2uvZStiVOgM1JF3JkEOgvUb2pUSaifAlodd1Q6Emr3hk+djvuK8=;5x0T89Yi34i+wvemaKkpjQ=="
 ---

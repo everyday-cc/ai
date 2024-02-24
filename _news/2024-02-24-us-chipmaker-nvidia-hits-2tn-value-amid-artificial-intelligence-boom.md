@@ -3,8 +3,8 @@ category: news
 title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
 excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
 publishedDateTime: 2024-02-23T20:18:00Z
-originalUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
 ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
 type: article
@@ -654,6 +654,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "40YCoEj/PrBsYY0mrBzxtnBFgGjoiZOPgt9hy52Lv7sOZ1dtkrS9LudQZ74zaWPGtGlAsFDr8kOMSM3NTrH8f/h/PO0z63ftjy01lpceqpmtAMOdSJN+WHoHAlypvk2rtdMQKnhL63djFYXN2YdAFMrP5ZhOAsmdV/+lCw9osxMM+CeT/7OHhUtgW2POnjHfM0cgCRI89+fIqlgQcrbeBClZXnfl2ZHx/GNJiK6/APgIpXgboCRNUSUxP4hN4koEg7naDx2V05FTS+snHwoVMJf4aVEMRICPv1UL3DAW5rGC0d6MVjNsGyfHI96QeCbIPqKLSIwMnt4OwN7KN9iQjQ4i0EgBk6Jwgev6/u9n8lY3sJDpAOpd0M3nU6m6k3RTmR15Xm3fEQos69UbMfs2azt850Cx1OSXg6Em3xvZJTtwYlDt3uVhhZge2u6FHNmBPdKSxDtBV485vGbWyHsy63Vnuay1tS066hVu+A21BNt52n8pM798DoJS+6RRc3ajVw+tYuowmfk/kQ18LOG/Ag==;XNWItBAw0wHRypiCled5Qw=="
+secured: "QIH2O7NsjGZzCN9AhdnP71ksSWHnAAd7+sDMCv6KqUkI5F79qceuxDc6zYmQrFPUXmKhDJy3v7KFL3snVF9CL9RSm36cDCH8Uzn/DTf3V+fwzacBJqKajvDDG+LS2HMTa56lgr8gWRvyUmZ2rpZ+HWBpJCpIp6ZUl3CpIZjHT3oBoy9iA+T6wm4B8cFt8lczPBKWtGgSy/7282R+oYMJ5ZdK585vx1Olr3L5560Xx0UaMWqh4J3ipFGHmIGnJFVWU7npBik/ULHzOvgNnnmP8vz6h5ILM21HHhul31uBxNqp8AtRRXds+2ZNV0/Ih0UJTHcVSBBo25AHxyUKmekMKooblHO0wun0Z6sPN9aBwd4=;aSob2D0FBQb+I7hBnJhWlA=="
 ---
 

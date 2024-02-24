@@ -24,6 +24,22 @@ images:
     height: 263
     isCached: true
 
+related:
+  - title: "Going Beyond the Case of Black Box AutoML"
+    excerpt: "A monthly overview of things you need to know as an architect or aspiring architects."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.infoq.com/presentations/automl-lale/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/presentations/automl-lale/en/card_header_image/twitter_card+%2842%29-1707823246301.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "nEkyLBbAlac5A3ewk8VMYLpMHtrsnVJDGZJGAh+pC3ddMRHUeuY6nrqdlQhYvEAPheooKSzCxU0v2jQlm2oBWW5BErEVztB8qvKLiOk/SsHeFo0Daxy29rcduNeHCZG5EJbjuu00MZ4Mprf2ATa7xK8ekrgKCgqjPAps3/raVTIrZugVZxQfeJRyMxpCQNNPgEEtfilsZrAJbAEeErr8n6GCS/dWWo51rYDzJ5Isav+RXNr6BfFWrjdf+kq9FM1l84LD1099VcKgCwXpa9AbKAYZgqithGYDMpTvtFd4Hazf5Qj5r3VkImFulEvmtSk+vEMT4fvGdu+WF+bRyIp9k/CsDXbl+d40Xf6A/iCaXaA=;xVpmKE6hBlN9nWs2ffEjcg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-02-19T17:38:00Z
-    webUrl: "https://techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/"
-    ampWebUrl: "https://techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2024/02/women-in-ai-cover.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tackling AI bias in employment"
     excerpt: "One way to mitigate AI risk in employment and bias more generally is allowing researchers and smaller players, instead of just a handful of big companies, to examine models."
     publishedDateTime: 2024-02-22T17:25:00Z

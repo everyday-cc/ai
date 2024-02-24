@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/02/your-reddit
 webUrl: "https://arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Reddit Inks Deal To Rake In Millions Selling Your Data To Train AI"
-    excerpt: "This is evidently what Reddit is doing now with its user-generated content data, as it has reportedly penned a $60 million deal with an AI startup. Earlier this week, reports surfaced which explained that Reddit purportedly signed an agreement with an ..."
-    publishedDateTime: 2024-02-19T17:05:00Z
-    webUrl: "https://hothardware.com/news/reddit-inks-deal-to-rake-in-millions-selling-your-content-to-train-ai"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 37
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/63935/content/reddit-inks-deal-to-rake-in-millions-selling-your-content-to-train-ai.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Reddit Inks Landmark $60 Million AI Content Licensing Agreement with Google"
     excerpt: "Filed by the Clarkson Law Firm, the complaint asserted Google scraped users’ data without consent to improve AI services like writing assistant Bard. It hinged on Google’s updated privacy policy, expressly mentioning mining publicly available ..."
     publishedDateTime: 2024-02-23T02:18:00Z

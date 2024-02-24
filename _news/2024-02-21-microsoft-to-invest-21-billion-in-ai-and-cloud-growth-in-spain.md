@@ -433,15 +433,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "Opinion: Google, Microsoft will dominate AI as computing costs surge"
-    excerpt: "Technology writer Parmy Olson says Google and Microsoft will dominate artificial intelligence as computing costs surge"
-    publishedDateTime: 2024-02-19T18:30:00Z
-    webUrl: "https://www.ourmidland.com/opinion/voices/article/opinion-google-microsoft-dominate-artificial-18676153.php"
-    type: article
-    provider:
-      name: Midland Daily News
-      domain: ourmidland.com
-    quality: 34
   - title: "Microsoft and MeitY Collaborate to Boost AI Startups in India"
     excerpt: "In my free time, I'm either binge-watching an anime or off on a hike. Microsoft has partnered with Indian institute iCreate to select AI innovators under the iMPEL-AI programme. Under this, 100 startups from across the country will... Back in June 2023 ..."
     publishedDateTime: 2024-02-23T00:01:00Z

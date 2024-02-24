@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-24-what-are-amazons-best-black-friday-deals-this-year.md",
+      "title": "What Are Amazon’s Best Black Friday Deals This Year?",
+      "excerpt": "Learn more. People / Tyler Roeland Shoppers, ready your carts: Amazon’s annual Black Friday is here — and this year there are tons of deals. Amazon’s annual Black Friday Sale started ...",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/when-is-amazon-black-friday-sale-2023-8385789",
+      "originalUrl": "https://people.com/when-is-amazon-black-friday-sale-2023-8385789",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://people.com/thmb/I_pql_QzpuPoYH-pD_BsedWJBns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(2999x0:3001x2)/peo-amazon-black-friday-explainer-tout-4b61d6aaa6c944d1a9d12a11a9a92572.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T13:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-fluency-and-amazon-to-work-on-ai-and-machine-learning.md",
       "title": "Fluency and Amazon to work on AI and machine learning",
       "excerpt": "Fluency, the data and technology division of M&C Saatchi Group, has partnered with Amazon Web Services on scaling artificial intelligence, machine learning and generative AI.",

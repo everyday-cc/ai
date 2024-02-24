@@ -44,17 +44,19 @@ related:
         isCached: true
   - title: "Inside UPenn's new Artificial Intelligence degree program debuting fall 2024"
     excerpt: "University of Pennsylvania attendees will soon be able to earn a degree in artificial intelligence (AI) through its School of Engineering beginning this upcoming fall."
-    publishedDateTime: 2024-02-21T00:56:00Z
-    webUrl: "https://www.aol.com/news/inside-upenns-artificial-intelligence-degree-225636799.html"
+    publishedDateTime: 2024-02-20T22:56:00Z
+    webUrl: "https://www.fox29.com/news/university-of-pennsylvania-school-of-engineering-to-offer-new-artificial-intelligence-ai-degree"
+    ampWebUrl: "https://www.fox29.com/news/university-of-pennsylvania-school-of-engineering-to-offer-new-artificial-intelligence-ai-degree.amp"
+    cdnAmpWebUrl: "https://www-fox29-com.cdn.ampproject.org/c/s/www.fox29.com/news/university-of-pennsylvania-school-of-engineering-to-offer-new-artificial-intelligence-ai-degree.amp"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 36
+      name: FOX 29
+      domain: fox29.com
+    quality: 56
     images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
+      - url: "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/02/932/470/vlcsnap-2024-02-14-07h23m26s871.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
 
 secured: "v9rO7Fqwlpiher2ylAb4JY6eK0r7L6kquSiaOg9YI/0IN2c4MAeyBCyuE8TDnfw6OLr6XoP+JVC/SOn1cAR9+KuhyLnrbSbrNUksfwfwZJUepyy9rax6mDMXu0bhMuFK85zPIoRUZBTIfRMnR9JQAKa56euzzgZFf5ssUFQZO/hnzPr4jClgotdDTSdodMz82aiO327vTK9fTN8tP/ytGvt9oPASRxaTGgAuenDKJfRkCC72QRbYBycMA9RlZFt/g7F1kWn4DQLBChd5UWonLjbnQktNdsgAHE1KEPmokjKZLIEXvf73ldVB27Ik3qUfRp8oWl8f4pe5zSBAXkJBVE2B6v4P6CAQmZpQaoYzdA2EuWfgE29RSzfGoPfImjeMYHv7/K6kz3WTQG4QUPhEK1z7hfFSPtjoPowtSTflzzr2okhpOf1Hmq1t8JixjtgTJ85aP6L5fuVlJTkvYE4BLBxDUBpSfi3R9cYUUeHd7lBNn3CR2nYzVEVRGvAcouC30LTxT6hKz7B+IgdH8jUXdA==;wQmqDsXZOGaltPUR4nKiEA=="

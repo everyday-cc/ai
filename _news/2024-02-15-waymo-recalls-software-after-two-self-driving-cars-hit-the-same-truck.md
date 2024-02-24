@@ -3,8 +3,8 @@ category: news
 title: "Waymo recalls software after two self-driving cars hit the same truck"
 excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its vehicles hit the same truck minutes apart."
 publishedDateTime: 2024-02-14T17:28:00Z
-originalUrl: "https://edition.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
-webUrl: "https://edition.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+originalUrl: "https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+webUrl: "https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 450
     isCached: true
 
-secured: "MpdAF59CNU/DmGI56L92oqR/817BkyZf7fMFfzyeoRSLVJpNWO8RABuryIxNas/PPJr7pdATDztxHPXsKbVz6gp48SVOPaoAjs5jJdVbVIGS4rhpsgAt3+scO6pkklcEBJMq+B0I1oCp4IkdncIpA2Fy9TMj80nS40U1MbVnDMjsiKWrOJIM+E/1KYmJMgpAN11qST5EhIU6DNNZDCjwgMEFR1FM9vvaRWkz6EDEVA/ZyH03TkKuv5MczoFfahSVwawsnk6wNNzOv7xfgQdL0VJ+VsC9P61TMQ4DKmi2+Dp1eP0oVIouN6GSunWg5CGFM/ghZgBc7R8JhIZNOqhuH0i0uJ0jJ7EvOWoUru/502A=;+GrG/+cplLXnx7bhzeP9Pg=="
+secured: "V+c+vXq6NghcdMKUU64YqdRF0+lO+11GeVE099+eQV9Phu0FC6oyfLcPwjkMrZrNxLNOsVCjK6pbwPTnJnDJOZmm1ifVTfNnMmo0V7IwX314HBC8us3WkFBa1KyXoLAOyR+glUxA3eYY9v7CH1rWUodf+D+XWXjyzJn+2tOkwumt00K4dR7gYzJ8iPvS5WhKMpkIB+XKrZhmzwGWsLNqnieE5yuGsJGuKE42HRpEVOwVuG2+AfvRar8++2oc0ryTh4+AWSnrGA9bHn73OMfLb2XU+oxl/+yhS6f2NaBXfzz0GxQArS3VQ6ozV8NlkAN8PgsFWXQjmD/lXlsxkpQf9U+NT/ptKG3PAM2K9uXIxRA=;nbtxBvB/MBDSwjA2+q9/kA=="
 ---
 

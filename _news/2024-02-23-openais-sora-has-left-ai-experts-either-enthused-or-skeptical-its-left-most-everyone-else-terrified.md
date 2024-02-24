@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI Sora video footage brought to life by AI-generated sounds"
-    excerpt: "OpenAI released a new AI model called Sora that could generate high-resolution video clips from text prompts. But they're all essentially clever silent films. Now ElevenLabs has added background sounds to Sora-created footage."
-    publishedDateTime: 2024-02-19T17:26:00Z
-    webUrl: "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 69
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/7df3253/2147483647/strip/true/crop/1903x999+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc0%2F79%2F292b13454764b891a7d395388ef8%2F01.jpg&na.image_optimisation=0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI’s new generative tool Sora could revolutionize marketing and content creation"
     excerpt: "As with any technological advancement, professionals will need to adapt and find ways to integrate Sora into their workflows, leveraging its strengths to complement their own skills and creativity."
     publishedDateTime: 2024-02-21T19:44:00Z

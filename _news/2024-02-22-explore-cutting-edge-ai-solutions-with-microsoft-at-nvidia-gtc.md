@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-sol
 webUrl: "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/"
 type: article
 quality: 104
-heat: 464
+heat: 454
 published: true
 
 provider:
@@ -429,15 +429,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "Opinion: Google, Microsoft will dominate AI as computing costs surge"
-    excerpt: "Technology writer Parmy Olson says Google and Microsoft will dominate artificial intelligence as computing costs surge"
-    publishedDateTime: 2024-02-19T18:30:00Z
-    webUrl: "https://www.ourmidland.com/opinion/voices/article/opinion-google-microsoft-dominate-artificial-18676153.php"
-    type: article
-    provider:
-      name: Midland Daily News
-      domain: ourmidland.com
-    quality: 34
   - title: "Microsoft to Invest $2.1 Billion in AI and Cloud Growth in Spain"
     excerpt: "Over the next two years to significantly scale up its artificial intelligence (AI) development and cloud computing capacities in Spain."
     publishedDateTime: 2024-02-21T07:59:00Z

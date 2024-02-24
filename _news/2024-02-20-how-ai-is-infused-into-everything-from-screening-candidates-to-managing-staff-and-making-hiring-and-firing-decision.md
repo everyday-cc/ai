@@ -46,20 +46,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "Use Amazon Titan models for image generation, editing, and searching"
-    excerpt: "Amazon Bedrock provides a broad range of high-performing foundation models from Amazon and other leading AI companies, including Anthropic, AI21, Meta, Cohere, and Stability AI, and covers a wide range of use cases, including text and image generation, searching, chat, reasoning and acting agents, and"
-    publishedDateTime: 2024-02-19T17:53:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-titan-models-for-image-generation-editing-and-searching/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/19/thumb-dogs_1000x500.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "ARTIFICIAL INTELLIGENCE: MATTERS ARISING"
     excerpt: "“Understanding emotions and interpreting personal touches are quintessential human traits that arise from our complex neural networks and emotional intelligence. AI might be able to recognise fa­cial expressions, but it cannot understand the depth of emo­tions that underlie them.”"
     publishedDateTime: 2024-02-20T23:46:00Z

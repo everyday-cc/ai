@@ -74,15 +74,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 19
-  - title: "How Artificial Intelligence is affecting the college process"
-    excerpt: "Artificial Intelligence is changing the world – and possibly the way your child attends college. Teen Life Coach Desiree Panlilio joins Gayle Guyardo the host of the"
-    publishedDateTime: 2024-02-19T18:20:00Z
-    webUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-the-college-process/"
-    type: article
-    provider:
-      name: WFLA News Channel 8
-      domain: wfla.com
-    quality: 17
 
 secured: "66gCfhHXdf7Hi49JaVxhkg0JUOqNXij+R/SgatiDUKIym7rpMhCCbyIBreQ1XeW+cuAfzGsKyXhQwwcCoP3ZTxQ/R8uNZniZ0cUdk3G/ki4ABOgB3pm4aM+HCFxUUsRa1pwLIdvQeB+4KsKf1dRZRVL5g/t/X50zPaDkHBW3sZjpvchCN1ysZcN2n0NiXW2C6oW0SO1X4O4b9v/Kvx8pwZ4Ypc1J1nIpbPwVeOKGuu8vRN/XQh4RlDjgSFNT37JMmG88x1AwCSHywOhJait/P+FBy9Io94tpcbcRLwTRL4yRppgCXK2tCSyv3jnpJG7zLvzmH37gIWkL0dG5fOtHBg8edj2Rxg24ZtfIcc59vI0=;z5zf2TAOMA2QY9X/2tgDsg=="
 ---

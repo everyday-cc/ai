@@ -71,20 +71,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Reddit Inks Deal To Rake In Millions Selling Your Data To Train AI"
-    excerpt: "This is evidently what Reddit is doing now with its user-generated content data, as it has reportedly penned a $60 million deal with an AI startup. Earlier this week, reports surfaced which explained that Reddit purportedly signed an agreement with an ..."
-    publishedDateTime: 2024-02-19T17:05:00Z
-    webUrl: "https://hothardware.com/news/reddit-inks-deal-to-rake-in-millions-selling-your-content-to-train-ai"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 37
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/63935/content/reddit-inks-deal-to-rake-in-millions-selling-your-content-to-train-ai.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Reddit strikes $60M deal allowing Google to train AI models on its posts, unveils IPO plans"
     excerpt: "SAN FRANCISCO (AP) — Reddit has struck a deal with Google that allows the search giant to use posts from the online discussion site for training its artificial intelligence models and to improve services such as Google Search."
     publishedDateTime: 2024-02-22T20:28:00Z

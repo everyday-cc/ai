@@ -42,20 +42,6 @@ related:
         width: 840
         height: 630
         isCached: true
-  - title: "OpenAI Sora video footage brought to life by AI-generated sounds"
-    excerpt: "OpenAI released a new AI model called Sora that could generate high-resolution video clips from text prompts. But they're all essentially clever silent films. Now ElevenLabs has added background sounds to Sora-created footage."
-    publishedDateTime: 2024-02-19T17:26:00Z
-    webUrl: "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 69
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/7df3253/2147483647/strip/true/crop/1903x999+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc0%2F79%2F292b13454764b891a7d395388ef8%2F01.jpg&na.image_optimisation=0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Decentralized AI On Blockchain Rivals OpenAI's Lead"
     excerpt: "Decentralized AI projects like Gensyn, OORT, and Bittensor are emerging to accelerate AI development by leveraging decentralization's benefits"
     publishedDateTime: 2024-02-24T12:33:00Z

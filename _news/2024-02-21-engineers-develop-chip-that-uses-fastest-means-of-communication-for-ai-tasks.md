@@ -43,17 +43,19 @@ related:
         isCached: true
   - title: "Inside UPenn's new Artificial Intelligence degree program debuting fall 2024"
     excerpt: "University of Pennsylvania attendees will soon be able to earn a degree in artificial intelligence (AI) through its School of Engineering beginning this upcoming fall."
-    publishedDateTime: 2024-02-21T00:56:00Z
-    webUrl: "https://www.aol.com/news/inside-upenns-artificial-intelligence-degree-225636799.html"
+    publishedDateTime: 2024-02-20T22:56:00Z
+    webUrl: "https://www.fox29.com/news/university-of-pennsylvania-school-of-engineering-to-offer-new-artificial-intelligence-ai-degree"
+    ampWebUrl: "https://www.fox29.com/news/university-of-pennsylvania-school-of-engineering-to-offer-new-artificial-intelligence-ai-degree.amp"
+    cdnAmpWebUrl: "https://www-fox29-com.cdn.ampproject.org/c/s/www.fox29.com/news/university-of-pennsylvania-school-of-engineering-to-offer-new-artificial-intelligence-ai-degree.amp"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 36
+      name: FOX 29
+      domain: fox29.com
+    quality: 56
     images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
+      - url: "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/02/932/470/vlcsnap-2024-02-14-07h23m26s871.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
 
 secured: "+pkPpBxULsvL5NTltiwSamYULi6wuJi8xbvnjsySV3Ev0P0f4YasHXNpjn+zW9Jdyz17TJMSURp/au/Rc0oA1s+ExZ3w1njY3loRyhrDKOxyQAEgRBmLB11P7CjmI/xQe9CmAD+m+ZRJRc0OP758cdZv6pEQ33YyabX89wsbrFolFUVNJPOmm3PcdZYbBNA21X2WZ0Bh9HygfqXDMBaLorg6ozUmZbnCNPvd5ARFBgF/6VNjPHkHzgtvSA4zB8vYb+KNpvSbFfYnYCZ5oS+ijTgFr0Pei40Sb47FtY41/lPi2sjuQsaJhk9UXL7gM6OX/gvvGQWWqEDGruji4EelcIhqwhwGe0O5Kd7Ew4mydlI=;mVYdXjqTna52iEPagXVbhg=="
