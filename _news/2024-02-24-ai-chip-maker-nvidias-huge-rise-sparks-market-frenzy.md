@@ -279,6 +279,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
+    excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
+    publishedDateTime: 2024-02-23T20:18:00Z
+    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/6eb6701b827383e927741aa77b9fb8d3308ff274/0_491_7488_4495/master/7488.jpg?width=620&quality=85&auto=format&fit=max&s=39f3cc2637afa6532a061368f40528be"
+        width: 620
+        height: 372
+        isCached: true
   - title: "US chipmaker Nvidia scales $2tn amid artificial intelligence boom"
     excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
     publishedDateTime: 2024-02-23T16:16:00Z
@@ -593,15 +609,6 @@ related:
       name: The Spokesman-Review
       domain: spokesman.com
     quality: 17
-  - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
-    excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
-    publishedDateTime: 2024-02-23T17:51:00Z
-    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "Nvidia becomes AI poster-child following earnings, trillion dollar valuation"
     excerpt: "\"Accelerated computing and generative AI have hit the tipping point. Demand is surging worldwide across companies, industries, and nations,\" Nvidia CEO Jensen Huang said in an earnings call."
     publishedDateTime: 2024-02-23T21:52:00Z
@@ -630,6 +637,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "FsiEKGEUrlQ1VsG1AXKfMOhk2FNG7W0AVbC34+ypLCzc6UBnkfDPIy/uJfffZiZBrVQ1UWao/jVuAJgNLxsEotHMzvE1Zn1zDFoeL8QqFRKgFbUAZkvgc+3NBoV7AmY88o0cxUvxwoBt+MPWIAULF4YypoeH5U9IOL9qosK65vLwlbFvNXQUK2tlV0IFLmJSohuc2zPYO2Hm3VhKmzvusFt6/wBn8TUAbfiqos1FAisXko2H9K3NUdqldWJLoDLAecGM3TxRYFmkpPt8XhvYm80cfEulsDoPWTfKFAYbXXfBYkrIjLJndn7ek+SmRYtrJtOIjdscvTbJ/g3xdrEKL+oS+q9SQXGxDfnFzZ0dfHM=;z2KROjFjHlczE2OyBHl+oQ=="
+secured: "845ygbcIduPTvORmCgE2dYQhGMZwtLTIcvEVjazo2ahddkVecpUQ4Hcmk4CYQy/Gnya3blse0GbnmTrFxLb6yzHz2JHlTxQA8D0JJtntGHNlfScmq9ADRYFb6whSgAaD9jlLWKAMW3EYdrFOhvhi9+ZWyTRat7RHsnvsMQH8+Wt8YdCjYIhjXsy8sWONsZ5AByMbPoMjvom2bphLLtmBNqVm10TJdyaqO3vNx9GdjfoP/4hADWrRljpjyBWUG71Su89t6utlrZZHxVwJctRxdhyUZOXdlN+/3JwVEjIzqyLF2THB8BwlPn6U9Gwpx3R++UYHrK7WrodoDivFAnwZvFasQ+aDIlirjt+mWbmkR6kOs72Kxf9vCR3FgHLXIkBeIhBWhWEf2qlFTW1Qx0nrCFBMbXahDPYuIJ6wEGyv1bJAK7NUNHEUdwC9UjCuklAI4YPN6bQVRFEt3Rtn2m1Jj3WSVNA+tOuS43R3tIknpgj2xGEJ/oWtSd7pa03wR5r9yd8S21Z4vY8Jp9XJK/9emw==;RPiKWux73TJ5FT3cNNsKcw=="
 ---
 

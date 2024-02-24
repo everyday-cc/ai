@@ -70,7 +70,7 @@ related:
     provider:
       name: Axios
       domain: axios.com
-    quality: 19
+    quality: 21
 
 secured: "yOl0m4iWUlkoL3ScoD8cYpKF3etB3Cj8eRpX8hfrtNiFA7B7SFG1hcfuqtFALCXSBbV3uRglgc2sKFK5HWlZnDRgySYLJJYiGs9gZkc91GUBEajA4b66MeZRImQL3KAyXX+GFqjgReHNve/wwZopDPv4/Ce12DztQJBbDjp4KuUS52epG1JvdYkBwzFgcO/JOLS0MKoLBrm5QtxoLCRsbjOdHhn5f7Wte+XUkf+cvgOCC4lIqnKu8qGlMpUstflldG3NHU+xXPswup8yuuFAp/cov1tVtfIYAaQMRAA1IsrN0n8Ka9TUlxGZlwb+InaGRxnugia1I0iL4cPmkVIcP0wvpFxXF7w2y3tQPjc6DN4=;nZ1eoCVHJDwrmBIl/DOCEQ=="
 ---

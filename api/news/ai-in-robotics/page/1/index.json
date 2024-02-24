@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-24-bezos-and-nvidia-join-openai-in-funding-humanoid-robot-startup.md",
+      "title": "Bezos and Nvidia join OpenAI in funding humanoid robot startup",
+      "excerpt": "Jeff Bezos, Nvidia and other big technology names are investing in a business that’s developing human-like robots, according to people with knowledge of the situation, part of a scramble to find new applications for artificial intelligence. The startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.japantimes.co.jp/business/2024/02/24/tech/bezos-nvidia-openai/",
+      "originalUrl": "https://www.japantimes.co.jp/business/2024/02/24/tech/bezos-nvidia-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/24/282434.jpg",
+          "width": 1000,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ジャパンタイムズ",
+        "domain": "japantimes.co.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-the-ai-seo-tango-when-robots-write-like-hemingway.md",
       "title": "The AI-SEO Tango: When Robots Write Like Hemingway",
       "excerpt": "As artificial intelligence (AI) reshapes content creation, its capacity to mimic human writing accelerates, transforming what once seemed like science fiction into reality. Yet, this technological leap prompts a critical inquiry: What are the bounds of AI ...",
@@ -1342,49 +1385,6 @@
       "provider": {
         "name": "Finanznachrichten",
         "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-automotive-industry-likely-to-continue-leading-robotics-growth-says-a3.md",
-      "title": "Automotive industry likely to continue leading robotics growth, says A3",
-      "excerpt": "The automotive industry will keep driving North American robotics adoption despite the current economic slowdown, according to A3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/automotive-industry-continues-leading-robotics-growth-says-a3/",
-      "originalUrl": "https://www.therobotreport.com/automotive-industry-continues-leading-robotics-growth-says-a3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/ABB_Automotive_Manufacturing.jpg",
-          "width": 770,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T17:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

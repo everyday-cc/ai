@@ -2,11 +2,13 @@
 category: news
 title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
 excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
-publishedDateTime: 2024-02-23T17:51:00Z
-originalUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
+publishedDateTime: 2024-02-23T20:18:00Z
+originalUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/6eb6701b827383e927741aa77b9fb8d3308ff274/0_491_7488_4495/master/7488.jpg?width=620&quality=85&auto=format&fit=max&s=39f3cc2637afa6532a061368f40528be"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "European Chip Stocks Surge After Nvidia Sales Reach New Heights on Booming AI Demand"
@@ -632,6 +640,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "JFNTRRvqnFzqPz7Ow7FNSdEa+faSQIsO7eSgsPVWgLvlcDMgHL2cC+bIm0gDiJa8Cw2r0zN7U2jMgxNeMolZO7+Skek8A43IQAgUR7/3EbciSBt1tauALL36k8Z/AzcHo6hSpWL17ZKLwFnAZCcesjt2rBibeLMU5sczNQnZUtA4waC3E5g+aopLLZWQ1bsyXvAkMrRXvIdDprW6WhEPJwfM5w9DPL3eLSrNxDbkAvzsQuXP85w6n3o5w5DQBhEeu8GiXocWhl4mg6FuPoGIiBe4zcyVQIViZsnFxkazY19X/awoL3/8tvA4YixaooEFCCTfQI1SDyU61iOE/BvfkoYMX0uLP737sd5lXQg2TkZd8Ky6bdhWWX7A8XE8KIAW0ywmE6hKEddYucnmkyACPZeYh8grbnFnK7Z5Hcj+STq0OyL9JKILO3eyBJB3q9AkPg9pvmHAZgxNN9eRApiSsTcwEl+suh+AlhZdt6K+OaHEVIgvLJbgtkWeNF/yZANIDGYT0SvcIKBgug9iEafIvQ==;63OVVJ/R9MCuDcl6IIEStQ=="
+secured: "kty4TLPKeb3eMHi1jSKlSgzlXUPiuFW5Qk1gq1RArMd64hRLSQpNPA89jbnLBIVmYx9uwf+OBGagVdfUMbYdeiZpnk3YG8m3Oq998xsk0IUpPis6QCHtYmqUB0Av2d5UgQ+oGPW6Cqp0HR6kgyB7xN5mt9aD4uoF8cQ9tTScxccZrNf2CgA4EMVXZq4nOSTHbmUZBlTIGDVo1LFzQf7FtfOn+ISQi1TJ6vWTZl3A39vV8AKOfd/Oa6unI0IiySNaqGSyZialOPGXWS8TofNC5rA1O18eMfgoTDLodBZIMz5C2+WwAjDM/5Bto6P86pISD5wo0KraxNXmCovwAxFXWhCTIZtOaYH4S0EIh/DMuKA=;5gfALU8vxJE/gDxNHGu/FQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/utilizing-artificial-intelligence-for-
 webUrl: "https://semiengineering.com/utilizing-artificial-intelligence-for-efficient-semiconductor-manufacturing/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Lightning AI Collaborates with AWS to Offer Enterprises Optimized Performance for Building and Deploying AI Products"
-    excerpt: "The SCA allows Lightning AI to leverage AWS compute services to power generative artificial intelligence (AI) services and to provide first-class support for Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances, powered by AWS Trainium accelerators ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/lightning-ai-collaborates-with-aws-to-offer-enterprises-optimized-performance-for-building-and-deploying-ai-products/"
+  - title: "BE Semiconductor Earnings Rebound, Driven by Demand for AI"
+    excerpt: "The chip equipment maker’s market positioning helped it weather an “industry downturn as severe as the 2017-2019 period,” the company said in a statement"
+    publishedDateTime: 2024-02-22T08:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-22/be-semiconductor-earnings-rebound-driven-by-demand-for-ai"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 11
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
+  - title: "Silicon Valley Should Carefully Assess its AI and Semiconductor Dealings in the Middle East"
+    excerpt: "international network of AI chip factories. Nvidia CEO Jensen Huang recently traveled to the region and declared that every country should seek a sovereign AI capability by buying more chips and building their own AI computing infrastructure. Others are ..."
+    publishedDateTime: 2024-02-21T14:00:00Z
+    webUrl: "https://www.csis.org/analysis/silicon-valley-should-carefully-assess-its-ai-and-semiconductor-dealings-middle-east"
+    type: article
+    provider:
+      name: csis.org
+      domain: csis.org
+    quality: 29
+    images:
+      - url: "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-02/AdobeStock_240414070_Crop1_0.jpg?VersionId=HvBci.GeRv6TyCmT8kjikv586kujEWVl"
+        width: 4160
+        height: 2340
+        isCached: true
 
 secured: "wMUIfLNVCNoQm+FWlrW5G9AibMBDIVf1tMF1840aujPDeQTb6auJwGAVSRBjh7eomIZWd6Rf++DH5jjpWNKuf+5QUmvDkbs2Aw58rgQyqh/R/fNVJkIc7HMJVJ2HPlvK6RscGSnXWdWFYSvxPHe5qFeKsp5R5wUbOHgvi24xD8tfN2UvkfDf6kE1szs8iJWF1axybbFqUkynj7v3StbhYlR2fIwxhAMKJIP1zbg2aeiqZrkAFI0wpk1g7M2YK6zczQd+qmywreDJLf373PYgJ5v657XRP9sLc0dKLDebLKLiV+QHSE7bPC/Vyqc7Nie9ChqsVZGj34NPc62n/YY0epp3fFTWqqtLn1uMsfsHdeU=;gmcFYZKTQT5xG4M425D7Hg=="
 ---

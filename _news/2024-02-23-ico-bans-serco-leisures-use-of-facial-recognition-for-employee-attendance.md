@@ -35,6 +35,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Leisure centre operator ordered to axe facial recognition tech monitoring workers’ attendance"
+    excerpt: "A LEISURE centre operator has been ordered to stop using facial recognition technology to monitor employee attendance. Serco Leisure was using it alongside fingerprint scanning on more than 2,000"
+    publishedDateTime: 2024-02-23T23:50:00Z
+    webUrl: "https://www.thesun.co.uk/money/26150134/serco-leisure-facial-recognition-tech-workers/"
+    ampWebUrl: "https://www.thesun.co.uk/money/26150134/serco-leisure-facial-recognition-tech-workers/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/money/26150134/serco-leisure-facial-recognition-tech-workers/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 48
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2024/02/businesswoman-facial-recognition-biometrics-751788830.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Real-time wearable human emotion recognition technology developed"
     excerpt: "The research team conducted real-time emotion recognition experiments, collecting multimodal data such as facial muscle deformation and voice. The system exhibited high emotional recognition accuracy with minimal training. Its wireless and customizable ..."
     publishedDateTime: 2024-02-22T00:00:00Z

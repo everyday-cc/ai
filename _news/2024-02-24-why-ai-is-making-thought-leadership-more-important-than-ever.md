@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "WTEAGuvukJ7ByPUYy5t300RU03srT1PypgNhKqFVX0GQqMZ0zaMAKW/Ihhs06w6jksw5SE1J96lpomiBH0DmMCtwl3HYiRY9RSXctTJXNEvkJilUv5Y+OZT1kL7H1/9ihKQwRibK3tcSfauyNDq1O/MnpZv2imwrbYq/AGz35m82VgjL/0FNneATpXQJQYSlDkbwHb5/HE61hsk3eWyKZ6sjw7utLNzCYq6AftemuZZa2sOKNRAtcN6QpU0wDfQqf7OeiBgWMVFIjMzX7d9YFX/YSBoqxdkiQXHKOWq35hqB6CsSfpdIA5eTtzpexozJIhn+ltw3Y3asrzKnw9sxTcoGCg+iWZ246ttc/VpjNr4=;W8ygSxeRnIjXBs66RkeE5w=="
+secured: "x+VfuNp3/i0UAa5Xcwjry9+3n/o5NAeW/0FcoZ7yZYIh1rYglS7vWmh4LxB4CxIUqkplUI4qtfPsI5bOF9psTTrldCU7TC/hrrxnnh0oXd3vaKJUneqM+i4fAJ0+DrpRPJbh5vskgwzlcoS0hyNjauZrhonMMrGqcvAUApdlC/f2oc0QLgo7ghgsSCi2/26h1YhDzKvpwRcqeV61CHhA/YlXOCtY3zA2BkV6ZNSVZvx87+q5YpdWtZ3mkbu9zfPX/U1MFe8QW1USwK1MTzb3reHMZXPh2rcNgQGluMwHwb7Hg44ZXB4eljCP5L88d/3XeoY4ic+j9eTv5EHIakpugPE0yiKhjKAkQyFlt8xd3UDIP/BulMHyUKdF7El8LatoCkaBT4XWZNwfybb2xE4yq9QConsne2UzDqe3/J3SS8jeRWdUYVoxYQS83fYx1fg8Z4/LRK0HeHdvKtzeZv1XlwAzXXx4jXISaF5W90jwSzLWBnOXA6bq7HagL6UU0UqVMcVTz0ghgyB7iJ70ZbNduw==;4ymsq4ZCzZq+n1dfzijFrQ=="
 ---
 

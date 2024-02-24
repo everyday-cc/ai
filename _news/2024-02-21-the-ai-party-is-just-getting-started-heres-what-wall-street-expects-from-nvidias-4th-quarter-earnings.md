@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-earnings-pr
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-earnings-preview-what-wall-street-expects-nvda-ai-2024-2"
 type: article
 quality: 51
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/nvidia_jensen_huang.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI helped NVIDIA break Wall Street record, and now the tech giant is the fourth most valuable company in the world"
+    excerpt: "In our NVIDIA GeForce RTX 4070 Super Founders Edition review, the GPU earned a near-perfect 4.5/5. Of course, even NVIDIA's gaming segment is tied tightly with AI. Over 500 games and apps support AI-powered RTX features like DLSS and ray tracing as of late ..."
+    publishedDateTime: 2024-02-23T17:43:00Z
+    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/ai-helped-nvidia-break-wall-street-records-and-now-the-tech-giant-is-the-fourth-most-valuable-company-in-the-world"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 17
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/qNEGpKmTksNsH6mbYkVNed-1200-80.jpg"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Nvidia just crushed earnings again. Top analyst says it’s another ‘drop the mic’ moment that confirms the AI revolution"
     excerpt: "The semiconductor giant, whose chips are foundational for generative AI, even had Goldman Sachs analysts label it “the most important stock on planet earth” before its fourth-quarter earnings release. And CEO Jensen Huang & Co. managed to live up to ..."

@@ -1,27 +1,59 @@
 ---
 category: news
-title: "Bezos, Nvidia Join OpenAI in Funding Humanoid Robot Startup, Bloomberg Reports"
-excerpt: "Amazon.com founder Jeff Bezos, Nvidia and other big technology names are investing in a startup Figure AI that works in developing human-like robots, Bloomberg News reported on Friday, citing people with knowledge of the situation."
-publishedDateTime: 2024-02-23T20:22:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2024-02-23/bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-bloomberg-reports"
-webUrl: "https://www.usnews.com/news/technology/articles/2024-02-23/bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-bloomberg-reports"
+title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup, Bloomberg reports"
+excerpt: "Figure AI, also backed by ChatGPT-maker OpenAI and Microsoft, is raising about $675 million in a funding round that carries a pre-money valuation of about $2 billion, according to the report. Bezos had committed $100 million through his firm Explore Investments LLC and Microsoft is investing $95 million,"
+publishedDateTime: 2024-02-23T22:22:00Z
+originalUrl: "https://www.aol.com/news/bezos-nvidia-join-openai-funding-202228535.html"
+webUrl: "https://www.aol.com/news/bezos-nvidia-join-openai-funding-202228535.html"
 type: article
-quality: 60
-heat: 60
+quality: 50
+heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "WIWF7rkRJlVppdQATqnbT7PcV+uqspOgSeEoEgon8LsJQ/OflSvmmeo1GgMGuH/eDUCxB45XI8sPim4pbprzoSZqBT8qSUoX/S1EANFA/T2FNMrEna+DdzkNm0J/AmOxLPlRtHkCrRYc9HDh2sh/rA8wb5CyMfvwn6/HCBSTHacsErwZ+9HJEBYGqexpYcDQ5VU4Rol++qIdi1Dk3+jQGustmF/3qmBurxdQpwzPodB/NYky+w+43JhyA5QWCTzjbOHMdH0nJ+B+clZPFFc/GYLsLdPviE07QRgkDsYEKrOci0RykhleDOQRMQ2wHkpDxRrA6Gbz1/2Wiyn9lDtj4E9IWXEPaYZ6OPjQuEYuTTQws3G0SeIAXgtNk+zWeUM38f6OnPguNiZW9PfdH+F2j+CDezGUjpunfYzcwoN5WD+1VTA20cd5LDh/CN6f5nU8Yycn0bdVzLbl0WTm+Y226a5eHO9nABA4+AZOBH9Hbf0bonW+NpmO/l8Wbvjym4lE+QJ/PlV3e2FIVcVJqCjc2Q==;ml7shyHa7Pyc94c+BwS0LQ=="
+images:
+  - url: "https://media.zenfs.com/en/aol_reuters_29/fc4f5b2e6b306a32dda4bbede7b6897a"
+    width: 800
+    height: 534
+    isCached: true
+
+related:
+  - title: "Bezos and Nvidia join OpenAI in funding humanoid robot startup"
+    excerpt: "Jeff Bezos, Nvidia and other big technology names are investing in a business that’s developing human-like robots, according to people with knowledge of the situation, part of a scramble to find new applications for artificial intelligence. The startup ..."
+    publishedDateTime: 2024-02-24T00:00:00Z
+    webUrl: "https://www.japantimes.co.jp/business/2024/02/24/tech/bezos-nvidia-openai/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 54
+    images:
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/24/282434.jpg"
+        width: 1000
+        height: 643
+        isCached: true
+  - title: "Jeff Bezos, Nvidia join OpenAI in funding humanoid robot startup"
+    excerpt: "Advt The AI robotics industry has been busy lately. Earlier this year, OpenAI-backed Norwegian robotics startup 1X Technologies AS raised $100 million. Vancouver-based Sanctuary AI is developing a humanoid robot called Phoenix. And Tesla Inc. is working on ..."
+    publishedDateTime: 2024-02-24T02:37:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup/107956623"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107956623,imgsize-1171641,width-1200,height=765,overlay-ettelecom/internet/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+
+secured: "7WIhp69EMplFGRifGtYIcACUncGyC2DyOZiTgY+bAGV4+8Zz4LPR9SYxDrwpm5xed3nayClebo5nioEXIgyQzvay3+aMnqxKV0kqhbUjYP0dgXNjHocO5LGYQvTclNbcN9k4fJ3SGY9xjeGI6GCOqoXYyUuU44uD2KjOn0x9Mbl/bA2C9PNzHKK1HvYvutSoqHmjcFk/REBcneUs9eXQ3j5awUbJANIHHCupCpqrdweCITarrGuNiBIzzYVFjNUr5ZNeRxkWE/Cjq6XznrvK1k+Y0FZPUC5KqidO3573bdt8B02859t/TBG4/KFNFthyjDCoNyLZatoCl9JoUUSQCRPfZJwPRDBs9oV94gy+FbU=;PlVQUPefyNKRS62o7oqbfg=="
 ---
 

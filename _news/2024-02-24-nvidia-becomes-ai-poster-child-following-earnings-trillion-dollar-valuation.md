@@ -287,6 +287,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
+    excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
+    publishedDateTime: 2024-02-23T20:18:00Z
+    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/6eb6701b827383e927741aa77b9fb8d3308ff274/0_491_7488_4495/master/7488.jpg?width=620&quality=85&auto=format&fit=max&s=39f3cc2637afa6532a061368f40528be"
+        width: 620
+        height: 372
+        isCached: true
   - title: "US chipmaker Nvidia scales $2tn amid artificial intelligence boom"
     excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
     publishedDateTime: 2024-02-23T16:16:00Z
@@ -600,15 +616,6 @@ related:
     provider:
       name: The Spokesman-Review
       domain: spokesman.com
-    quality: 17
-  - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
-    excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
-    publishedDateTime: 2024-02-23T17:51:00Z
-    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
     quality: 17
   - title: "Nvidia's 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
     excerpt: "(AP) — Nvidia Corp., which has seen its value skyrocket over the past year thanks to soaring demand for its graphics chips used for artificial intelligence, posted stronger-than-expected results for the latest quarter, with its revenue more than tripling ..."

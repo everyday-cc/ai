@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Chinese AI groups use cloud services to evade US chip export controls"
-    excerpt: "Essential digital access to quality FT journalism on any device. All discounts based on monthly full price over contract term. Cancel subscription renewal anytime. SAVE 40% ON YEAR 1 5,748 kr. 3,425 kr. for 1 year 285.42 kr. monthly equivalent Then 739 kr ..."
-    publishedDateTime: 2024-02-19T01:47:00Z
-    webUrl: "https://www.ft.com/content/9706c917-6440-4fa9-b588-b18fbc1503b9?_hsenc=p2ANqtz-_O7jzuUM2GswA4pqUdHJGw605HfbEkT_nKT3wem5rQ-ZIPu3ilowf56qBjs1I-CUZSUWCO"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Nvidia hires ex-Xpeng staffers to boost its autonomous driving business in China"
     excerpt: "Nvidia has reportedly hired multiple high-performing ex-Xpeng Motors employees to be part of its automotive team in China. The US chip powerhouse is"
     publishedDateTime: 2024-02-20T10:00:00Z

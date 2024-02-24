@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-mode
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -62,7 +62,21 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Decentraland and Emerging AI Crypto Set for Major Developments"
+    excerpt: "Decentraland (MANA) is working to improve its performance due to its difficulties and restrictions last year. Its development path has … Continue reading"
+    publishedDateTime: 2024-02-23T18:00:00Z
+    webUrl: "https://finbold.com/decentraland-and-emerging-ai-crypto-set-for-major-developments/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 39
+    images:
+      - url: "https://assets.finbold.com/uploads/2024/02/image1-28.jpg"
+        width: 1999
+        height: 1125
+        isCached: true
 
-secured: "djXY937nBdqplofG2tquwUWoOB0UVL76HK0cE7Vc/wZMphKuplsSOqGNwhRwAhBAKTC82NX1UVJL1sokIju6dUUdZRqlfBx5jc1TbPlSaekkZH0U3j1raHntQuaOqbGxUc3wa1qEB4dc3HWc1fdEafTSLVNsN3TKtr4vo/Xhl2x2hAcmy573A6MlW2av8IKmMWhkxWonyWLROiXh1fmIH8fjpz/PPBm69T92ikGtofGt+Y20FNxZBPgqQfjpJ16zEWiA58SGO5wUu55lV0bwwMgvJ6FERy/c7z9QFFYJ5p2f9wTvxQgU848CDmVDt90BNByx3mRrRTp+oK6rqW4hRuEiH108Jz4VohnZbTWHOow=;CD9YQPZvzoyOOz9jhtp7dA=="
+secured: "4yIbUt5AIBU6GElDHGtJRfmGNjV1LgIYPysnvzUBMlt3wDKKpCUUYl14Qh/MvR06qqYSI+mQWczaBmN1+VGshDSDZXE+GTu5vyiNHi6XzqnGGHJ9uvo9FHNtzay9PhhpDQGzMqIS3R+IhhMAZ4WJ2RI8iKzJvILkBDZOJN/0RC0CCEn9o0vfCInrZAVqc8DdReTKOhypAqQLHqe84CbcLRPVZ8MREflrWyuC1HoSgGV3Bajw0DTSQCphi8ZAzsgRQf0xJFDgYW8o3UCqL7S+2IzVgwsf4xgF/UyGskKRXjajNwR+5IYVZdzXZEFhNCRtac8f5Rmbt0zBjE6yUkSMIXpUdfVRrF9DmomhzWU0+QBUpqEAH5iiYjNpiEtVqIz5/BwUJATXVZLEoIbyo359eJc1/PziaJGLXuVvH1H6dNRjjUKLEjCqR1GxoOHJxh0J/+X9GGtYAGN54NDYNFEEALDXrT6RW8U8mtqKwsOpXTuLlYubtCC0uV5VkNRUtGr+e26C/5sflai7MAM2Ffm5yg==;O2KNmQebeEBwDcbsOxlYtA=="
 ---
 

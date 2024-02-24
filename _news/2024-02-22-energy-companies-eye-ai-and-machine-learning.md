@@ -59,6 +59,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Decentraland and Emerging AI Crypto Set for Major Developments"
+    excerpt: "Decentraland (MANA) is working to improve its performance due to its difficulties and restrictions last year. Its development path has … Continue reading"
+    publishedDateTime: 2024-02-23T18:00:00Z
+    webUrl: "https://finbold.com/decentraland-and-emerging-ai-crypto-set-for-major-developments/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 39
+    images:
+      - url: "https://assets.finbold.com/uploads/2024/02/image1-28.jpg"
+        width: 1999
+        height: 1125
+        isCached: true
 
 secured: "DYr6Em4QhSxpyfn7K8P/R3F2Qgj/4T+csBf7OK241XXEUGQ9gOGIHG0uCk1ULx0gQf1cxvHlbN6918n6Wm12jVCGL4ZC3oOGO9h5m5OjdGGIgW+0U7/KskOIgkxWOFCckznxV53681nK56fDBhpDFlXMDkw8pY8hU/7zHS2iyMUNCWJrOJCR7O+/zSKc0kGkjIofZ0PVOTt5znXNaIfFrckDCpcK2kUVRp0iG94yDG0HiaJEcKaAGgcGQpz0U9x4yseVaV7U2b633MhlNDB+HkGc7ctPuAJsLH2LzLY23s+sVZj1gJK5eSnnU2N4SA6KIbJnATm6iV7AMEZzIXPWXxAuGhGuuCtx3GG4PpP70Ag=;dFwb6XrJY4zODp86Oig8/w=="
 ---

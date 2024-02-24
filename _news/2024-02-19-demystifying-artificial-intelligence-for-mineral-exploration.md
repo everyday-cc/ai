@@ -42,17 +42,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "How Generative AI Is Reshaping Online Trading"
-    excerpt: "Generative AI empowers traders to stay ahead of the curve and make informed decisions in a dynamic market environment"
-    publishedDateTime: 2024-02-19T02:30:00Z
-    webUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/"
-    ampWebUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 39
   - title: "AI-Powered Analytics Drives Real-Time Personalization"
     excerpt: "Securing the right talent is pivotal to any AI initiative. Employing data scientists and AI specialists is a good start, but organizations should also look for ways to upskill current employees to work with AI systems. Ensure high levels of data quality."
     publishedDateTime: 2024-02-22T00:00:00Z

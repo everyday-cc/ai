@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-22T17:25:00Z
 originalUrl: "https://www.axios.com/pro/tech-policy/2024/02/22/government-companies-try-to-tackle-ai-bias-in-employment"
 webUrl: "https://www.axios.com/pro/tech-policy/2024/02/22/government-companies-try-to-tackle-ai-bias-in-employment"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Meta AI
 
 related:
   - title: "AI is having a 1995 moment"

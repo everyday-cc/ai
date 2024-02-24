@@ -675,58 +675,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-19-kakao-ventures-backs-korean-startup-that-makes-ai-models-faster-and-cheaper-to-run.md",
-      "title": "Kakao Ventures Backs Korean Startup That Makes AI Models Faster And Cheaper To Run",
-      "excerpt": "Two-year-old startup SqueezeBits recently raised a $2 million pre-Series A round from investors including Kakao Ventures, Samsung Next and Posco Venture Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkang/2024/02/19/kakao-ventures-backs-korean-startup-that-makes-ai-models-faster-and-cheaper-to-run/",
-      "originalUrl": "https://www.forbes.com/sites/johnkang/2024/02/19/kakao-ventures-backs-korean-startup-that-makes-ai-models-faster-and-cheaper-to-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d1fd7d30c64345a507f9d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T05:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2024-02-17-artificial-intelligence-and-natural-language-processing.md",
       "title": "Artificial Intelligence and Natural Language Processing",
       "excerpt": "To save content items to your account, please confirm that you agree to abide by our usage policies. If this is the first time you use this feature, you will be asked to authorise Cambridge Core to connect with your account. Find out more about saving ...",
@@ -1222,6 +1170,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-15-ai-gives-a-voice-for-people-with-speech-limitations.md",
+      "title": "AI Gives a Voice for People With Speech Limitations",
+      "excerpt": "The AI technology is based on machine learning and speech recognition algorithms that are unique to each user. Voiceitt asks a new user to repeat dozens of words, phrases and sentences to learn the speech patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodnet.org/articles/ai-gives-voice-for-people-speech-limitations",
+      "originalUrl": "https://www.goodnet.org/articles/ai-gives-voice-for-people-speech-limitations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T00:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Goodnet",
+        "domain": "goodnet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking.md",
       "title": "Use PC without mouse or by speech alone; Use mouse without clicking",
       "excerpt": "In this post, we will show you how to use your PC without the mouse or by speech alone or use your mouse without clicking by moving it only. Windows offers built-in ...",
@@ -1251,6 +1233,49 @@
       "provider": {
         "name": "TWCN Tech News",
         "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-uncovering-voice-recognition-technologies-market-potentials-beyond-the-basics.md",
+      "title": "Uncovering Voice Recognition Technologies Market Potentials Beyond The Basics",
+      "excerpt": "ResearchVise has recently added a holistic report titled, “ Global Voice Recognition Technologies Market Size, Share, Trends, by Type, Application, and Region, Forecast to 2032” to its products and services. The aim of this is to help users, investors, and business owners gain insights into market dynamics and make investment plans accordingly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.opprairie.com/news/uncovering-voice-recognition-technologies-market-potentials-beyond-the-basics/51199/",
+      "originalUrl": "https://www.opprairie.com/news/uncovering-voice-recognition-technologies-market-potentials-beyond-the-basics/51199/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.opprairie.com/wp-content/uploads/2024/02/Forging.png",
+          "width": 633,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T06:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Orland Park Prairie",
+        "domain": "opprairie.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1470,50 +1495,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-the-language-of-ai-defining-the-most-common-terms.md",
-      "title": "The Language of AI: Defining the Most Common Terms",
-      "excerpt": "Natural Language Processing: A branch of AI that uses machine learning to process and interpret text and data. Neural Network: A computer system made up of interconnected \"artificial neurons\" that help computers learn from data and recognize patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/special-reports/features/108692",
-      "originalUrl": "https://www.medpagetoday.com/special-reports/features/108692",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/108xxx/108692.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
