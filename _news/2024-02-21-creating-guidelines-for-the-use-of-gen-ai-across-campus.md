@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 854
         isCached: true
-  - title: "Tamil Nadu Artificial Intelligence Mission to be established"
-    excerpt: "Tamil Nadu Artificial Intelligence Mission to leverage AI in education, industry, and medicine; State Data Centre upgrade and Wi-Fi expansion."
-    publishedDateTime: 2024-02-19T17:04:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-artificial-intelligence-mission-to-be-established/article67864691.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-artificial-intelligence-mission-to-be-established/article67864691.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/tamil-nadu-artificial-intelligence-mission-to-be-established/article67864691.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/ew3omn/article67864765.ece/alternates/FREE_1200/2024-02-19T141103Z_275614176_RC2Q56AQ23MP_RTRMADP_3_TECH-AI.JPG"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "DOJ Signals Tough Stance on Crimes Involving Misuse of Artificial Intelligence"
     excerpt: "Her remarks focused on the U.S. Department of Justice’s (DOJ) use of artificial intelligence (AI) in its enforcement efforts and DOJ’s position on prosecution of those who misuse AI. DAG Monaco’s remarks come on the heels of other Administration ..."
     publishedDateTime: 2024-02-21T00:00:00Z

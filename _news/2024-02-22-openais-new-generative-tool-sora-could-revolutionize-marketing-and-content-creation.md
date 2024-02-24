@@ -56,34 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "With Sora, OpenAI highlights the mystery and clarity of its mission | The AI Beat"
-    excerpt: "Sora, OpenAI's new text-to-video model, may be a black-box mystery, but the company's unwavering mission to develop AGI is not."
-    publishedDateTime: 2024-02-19T15:23:00Z
-    webUrl: "https://venturebeat.com/ai/with-sora-openai-highlights-the-mystery-and-clarity-of-its-mission-the-ai-beat/"
+  - title: "Decentralized AI On Blockchain Rivals OpenAI's Lead"
+    excerpt: "Decentralized AI projects like Gensyn, OORT, and Bittensor are emerging to accelerate AI development by leveraging decentralization's benefits"
+    publishedDateTime: 2024-02-24T12:33:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2024/02/24/decentralized-ai-on-blockchain-rivals-openais-lead/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-18-at-7.20.26-PM.png?w=1200&strip=all"
-        width: 1199
-        height: 674
-        isCached: true
-  - title: "OpenAI begins testing its text-to-video AI Sora with creatives"
-    excerpt: "OpenAI has unveiled its latest AI model, although it's not being released to the public just yet. Sora is a text-to-video model."
-    publishedDateTime: 2024-02-19T14:55:00Z
-    webUrl: "https://musically.com/2024/02/19/openai-begins-testing-its-text-to-video-ai-sora-with-creatives/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2024/02/Screenshot-2024-02-19-at-11.38.08.png?fit=739%2C397&ssl=1"
-        width: 739
-        height: 397
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "o6vKF4exR1XZ4hBOTs5usxh0gUqtaOCbiZtHwegs8QKyxvj10NhyGlNS5V/iyLqyjyBIC1q4TpEFH/Pi0k7576kSCcqe0MUJ2BpvUBMNrSaBwgrmC0MYIA1oO/SWYVtTq8dFpE+wd1L16OtA81w+3XAxxsO9aM1kWNgoEokE0OPo/DFemzQOHKLg40/o9ZecRMV3TQ0BKKe5WRb+BTPxqEyZH/r1IVIw5vER1zJ58GcDY24YQHfLxV3Y+uCu4dxY3MdQQHqyQYX6H5dvwdY1cPNAIkH9unHP6VbrKQWNmJEdq0vCi5F9FRWRGsxOOLtWDqKphQycvAkhYgMYTEDmCDTaGOO/SbBf1pOQyXTQ0MI=;L5ZS2Z2SOnysX7Yhb2xU/g=="
 ---

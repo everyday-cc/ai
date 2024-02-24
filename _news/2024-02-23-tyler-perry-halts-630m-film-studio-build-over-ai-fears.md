@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/entertainment-arts-68384657.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-68384657.amp"
 type: article
 quality: 87
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Tyler Perry thinks AI can create movies almost as well as he can and is worried about Hollywood's future"
+    excerpt: "Tyler Perry says OpenAI's 'mind-blowing' Sora video tool will make Hollywood studio stages obsolete."
+    publishedDateTime: 2024-02-24T14:00:00Z
+    webUrl: "https://www.businessinsider.com/tyler-perry-ai-studio-productions-movies-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "Tyler Perry halts $800m studio expansion after being shocked by AI"
     excerpt: "US film and TV mogul says he has paused his plans, having seen demonstrations of OpenAI video generator"
     publishedDateTime: 2024-02-23T16:20:00Z

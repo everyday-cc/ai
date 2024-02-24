@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "With Sora, OpenAI highlights the mystery and clarity of its mission | The AI Beat"
-    excerpt: "Sora, OpenAI's new text-to-video model, may be a black-box mystery, but the company's unwavering mission to develop AGI is not."
-    publishedDateTime: 2024-02-19T15:23:00Z
-    webUrl: "https://venturebeat.com/ai/with-sora-openai-highlights-the-mystery-and-clarity-of-its-mission-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-18-at-7.20.26-PM.png?w=1200&strip=all"
-        width: 1199
-        height: 674
-        isCached: true
   - title: "OpenAI’s new generative tool Sora could revolutionize marketing and content creation"
     excerpt: "As with any technological advancement, professionals will need to adapt and find ways to integrate Sora into their workflows, leveraging its strengths to complement their own skills and creativity."
     publishedDateTime: 2024-02-21T19:44:00Z
@@ -73,20 +59,15 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "OpenAI begins testing its text-to-video AI Sora with creatives"
-    excerpt: "OpenAI has unveiled its latest AI model, although it's not being released to the public just yet. Sora is a text-to-video model."
-    publishedDateTime: 2024-02-19T14:55:00Z
-    webUrl: "https://musically.com/2024/02/19/openai-begins-testing-its-text-to-video-ai-sora-with-creatives/"
+  - title: "Decentralized AI On Blockchain Rivals OpenAI's Lead"
+    excerpt: "Decentralized AI projects like Gensyn, OORT, and Bittensor are emerging to accelerate AI development by leveraging decentralization's benefits"
+    publishedDateTime: 2024-02-24T12:33:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2024/02/24/decentralized-ai-on-blockchain-rivals-openais-lead/"
     type: article
     provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2024/02/Screenshot-2024-02-19-at-11.38.08.png?fit=739%2C397&ssl=1"
-        width: 739
-        height: 397
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "S6yauvf5vtZtJcHIisUiJID1OB/ZFtOzyTtRK7H2pU+it17nY/AXV571NxEM8jf8lhvSrqYyJeymP8GqD8L76tyi++POHxHZTIT9d4purtly4Ik/fWtGUvvtgzJAhVkuZAPq56pSFUiiqSsY/1n6Rxr39IP5TW+0V8bMgNXTf/l3Dq4D/oBznHD0exaK1u/z5eDOFrdUVDc9llROe4Zee2CBbz8L+CEk+eK0iWhWv2Mv5c36jru/Kn9v3fbaOcXtvNQMx8ZmBpylKH8vlgLkdr9u8+oktFWLgMt/YH3YT2zH/XfDCAfF4xB0jZyAq0xXwKkGLkRwwdAlVoYWs77OMdB9823fdDrzdhsm3EVfMus=;5DGFWK4JNse26F54RBVcWA=="
 ---

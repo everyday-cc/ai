@@ -35,6 +35,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tech Titans Join OpenAI in $675M Funding for Figure AI’s Humanoid Robotics"
+    excerpt: "Major tech players Amazon, Nvidia, and Microsoft are investing heavily in Figure AI, a humanoid robotics venture supported by OpenAI. The $675 million funding round signals growing interest in AI startups and potential advancements in robotics technology."
+    publishedDateTime: 2024-02-24T13:39:00Z
+    webUrl: "https://coingape.com/amazon-nvidia-microsoft-join-openai-in-675m-figure-ai-investment/"
+    ampWebUrl: "https://coingape.com/amazon-nvidia-microsoft-join-openai-in-675m-figure-ai-investment/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/amazon-nvidia-microsoft-join-openai-in-675m-figure-ai-investment/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 67
   - title: "Opinion: AI, Elections And Law - Why No Country Can Tackle AI Alone"
     excerpt: "Talks between EU and India on tackling the threat of online disinformation reflect the need for collective global action against the risks posed by generative AI."
     publishedDateTime: 2024-02-21T08:30:00Z

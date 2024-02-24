@@ -685,36 +685,36 @@
       ]
     },
     {
-      "path": "_news/2024-02-21-7-ways-to-invest-in-ai-smart-home-devices.md",
-      "title": "7 Ways to Invest in AI Smart Home Devices",
-      "excerpt": "An indirect way to invest in smart home devices is to target property management firms that make smart building technology a priority to increase their profit margins. A property may require less maintenance or be more energy efficient once these devices get installed.",
+      "path": "_news/2024-02-20-welcome-to-the-era-of-mobile-ai.md",
+      "title": "Welcome to the Era of Mobile AI",
+      "excerpt": "One of the most welcomed AI features is Circle to Search with Google, an incredible new tool for intuitive discovery. Our communication tools for removing language barriers, such as Live Translate, Chat Assist and Interpreter, have captured the imagination ...",
       "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices",
-      "originalUrl": "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices",
+      "webUrl": "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928",
+      "originalUrl": "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 79,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/TM%20Roh_Editorial.jpg?itok=Ir3q2Fow",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T20:22:00Z",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928",
+      "publishedDateTime": "2024-02-20T10:33:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -724,8 +724,7 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
@@ -789,7 +788,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/articleshow/107836525.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {

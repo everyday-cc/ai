@@ -41,15 +41,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "ChatGPT Stock Predictions: 3 Artificial Intelligence Companies the AI Bot Thinks Have 10X Potential"
-    excerpt: "Artificial intelligence (AI) stocks are a shining example of potential. They exist in the fast-paced world of finance. Here, data and insight are the driving forces behind the future. Today, we explore this possibility via AI stock forecasts. There is a ..."
-    publishedDateTime: 2024-02-19T15:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-artificial-intelligence-companies-the-ai-bot-thinks-have-10x-potential-1033080966"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "ChatGPT Stock Predictions: 3 Hydrogen Companies the AI Bot Thinks Have 10X Potential"
     excerpt: "The research becomes more interesting when AI-based stock forecasts and future practices of hydrogen energy meet at the junction. However, concerning the ChatGPT usage as a whole, it was something new. I was able to supplement this data with current trends ..."
     publishedDateTime: 2024-02-21T12:33:00Z

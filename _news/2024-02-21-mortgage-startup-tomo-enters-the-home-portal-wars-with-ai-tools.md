@@ -39,20 +39,6 @@ related:
         width: 640
         height: 800
         isCached: true
-  - title: "Advanced AI SoC Powers Self-Driving Car"
-    excerpt: "How Ambarella’s system improves radar sensing. How the AV3 family addresses automotive applications like self-driving cars. What’s inside the CV3 system-on-chip (SoC)? Advanced driver-assistance systems (ADAS) need high-performance computing engines to ..."
-    publishedDateTime: 2024-02-19T16:51:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded/machine-learning/video/21283011/electronic-design-advanced-ai-soc-powers-self-driving-car"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 41
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2024/02/65d380ff27048b001ec2a75c-maxresdefault.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "gPAPWxE4J2/AeqYg8eWRlUhydoyYReV3esrFg5+dxoCpSfMfi46iBtqWO3OEd/kOlzocvpUVfsst1IGwL67iwLbo5sOtVo9t3C3jLNAjS0nPSMn1xexKl5hN4y/4G6qVkWm9dreE0PoHfbkhktSjs3e7ANBgIlnldWn9hUKvM9DQU/wBXzEIvEXVwa4Qq2Pba/6qHCo5Toq0XUYfb3C1Bzt17k5TM9pTx8cLgYAWNRqfPMnTeIRYT5RhZ67tYdOUF3hzxO4h+/5zpl9drj/dc4vZyyxEs3R1VwKSuXcQNYM0Gl6g1p6mrXqjrJHqkywrO4p/uNYt7LVSaONEySXZ7MUz2LlccAXenusEr7EgPrJzICLyjv2lj6NWIvXNUGcsg+mFG0SAdux0xnq58/uLo7R0J4DSHmx+r6brQ6igpfTpc5FqfmIFo9IxRCLx9XJ4n6RSzQZvEZpnVK9p9NDaPDZ+GcDgfujFsDrxR6FFSl2/ZjqZGnhr90MwBywi553RImJwkM59fKtIiXuUHyrmcg==;Tg89zCiwsGHHZFK6igj7YA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/operationalizing-responsible-ai-principle
 webUrl: "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/"
 type: article
 quality: 119
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -80,15 +80,6 @@ related:
         width: 388
         height: 544
         isCached: true
-  - title: "Demystifying artificial intelligence for mineral exploration"
-    excerpt: "Artificial intelligence is not a replacement for traditional geological expertise; rather, it complements human knowledge and experience."
-    publishedDateTime: 2024-02-19T13:33:00Z
-    webUrl: "https://www.miningreview.com/exploration/demystifying-artificial-intelligence-for-mineral-exploration/"
-    type: article
-    provider:
-      name: Miningreview
-      domain: miningreview.com
-    quality: 19
 
 secured: "2INmDLc2nChqJbL0Q8eG16wHE4f4LoIb0Umi7fbJFfFu3cDJRoUagDbHqQtHeNRexEb6nwTYgkHFo7vnsPRljNs8gTHVeQ5YwRCTirH8mLB+4IH23Fuox1oSntXcyC5o6nFwLbosNxFKvU7vtt0zzoi6e8kMpOSHAM4/QEuYCeGd2aiSn9ZjNS6KzaHSDp+r02r9EBk3MYvSNBaJVBUfnp+o/gP/KqHKb8rTK/ql0xFBbSGrjlgLLZYYYdGxGYC2oFXhgsSac/b05bikJ1EoVb3YI09Gh3vWy6hMZ/KDvy/HWDifgZ95bn+J6DrKGfc+z1ht8TnJx0W5j0zUx3pScPiHeZBadu3S2GD4q0qDZhg=;FjWPk1nCBAmuCB3coRWfzA=="
 ---

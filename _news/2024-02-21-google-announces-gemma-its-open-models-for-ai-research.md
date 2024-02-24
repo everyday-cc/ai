@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "As Google Retracts Gemini, Deepak Chopra Reflects On Morality In AI"
+    excerpt: "No algorithm is morally agnostic. The latest controversy over Google’s Gemini, reiterates that. A conversation with Deepak Chopra on morality, AI and consciousness."
+    publishedDateTime: 2024-02-24T16:40:00Z
+    webUrl: "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65da18ddc87c42bb00cf1eb9/0x0.jpg?format=jpg&crop=2495,1405,x0,y399,safe&height=900&width=1600&fit=bounds"
+        width: 1598
+        height: 900
+        isCached: true
   - title: "Google replaces Duet AI with Gemini for Workspace, brings Business and Enterprise plans"
     excerpt: "Duet AI customers will be upgraded to the Gemini Enterprise plans automatically. Gemini Enterprise comes with language translation for closed captions in AI-powered meetings. This means that Gemini can translate content in over 100 language pairs."
     publishedDateTime: 2024-02-21T16:38:00Z
@@ -259,15 +275,6 @@ related:
         width: 1193
         height: 637
         isCached: true
-  - title: "Google Teases Innovative New Android Abilities With Gemini AI"
-    excerpt: "Update February 19th: Google could be building a new Chromebook with a built-in Assistant hardware key according to a new report by Chrome Unboxed. The site discovered a file in the Chromium Repositories that references an Assistant key for a yet-be-released Chromebook codenamed “Xol.”"
-    publishedDateTime: 2024-02-19T13:06:00Z
-    webUrl: "https://www.forbes.com/sites/jaymcgregor/2024/02/19/google-gemini-ai-android-pixel-8-pro-feature/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Google pauses AI image generation of people after Gemini creates questionable content"
     excerpt: "After Google's Gemini created woefully inaccurate historical imagery, Google pressed \"pause\" on AI image generation of people."
     publishedDateTime: 2024-02-22T14:46:00Z

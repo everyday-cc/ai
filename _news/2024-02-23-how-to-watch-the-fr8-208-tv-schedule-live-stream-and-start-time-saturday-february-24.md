@@ -7,7 +7,7 @@ originalUrl: "https://www.kcrg.com/sports/betting/2024/02/24/fr8-208-nascar-live
 webUrl: "https://www.kcrg.com/sports/betting/2024/02/24/fr8-208-nascar-live-stream-tv/"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -24,17 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "How to Watch the DAYTONA 500: TV Schedule, Live Stream and Start Time - Monday, February 19"
-    excerpt: "See how to watch the 2024 DAYTONA 500 on Monday, February 19 live streaming or on TV, with channel info, start time and more."
-    publishedDateTime: 2024-02-20T02:29:00Z
-    webUrl: "https://www.hawaiinewsnow.com/sports/betting/2024/02/19/daytona-500-nascar-live-stream-tv/"
+  - title: "Avalanche vs. Canucks February 20 Tickets & Start Time"
+    excerpt: "The Colorado Avalanche's Cale Makar and the Vancouver Canucks' Quinn Hughes are two of the most exciting players to keep an eye on when these squads play on Tuesday at 9:00 PM ET, at Ball Arena. If you're looking to go to this matchup in person, head to Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-02-20T06:01:00Z
+    webUrl: "https://www.kktv.com/sports/betting/2024/02/20/avalanche-vs-canucks-buy-nhl-tickets/"
     type: article
     provider:
-      name: Hawaii News Now
-      domain: hawaiinewsnow.com
-    quality: 12
+      name: KKTV11
+      domain: kktv.com
+    quality: 22
     images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/v2/XQGRX4ITKNPHHDYQQU2YSPGL7Q.jpg?auth=8a1e6ae0f2c024d45281f914bb8ac047c55cd7bd145698f5977cdc9e7ca54c2c&width=1200&height=600&smart=true"
+      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/U4LK6BI2MVL3JHU6NY7GK27C24.jpg?auth=c891a7573bc973f061eb23438138ffb1be08ed94762211612c1cb26ecd1e2971&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

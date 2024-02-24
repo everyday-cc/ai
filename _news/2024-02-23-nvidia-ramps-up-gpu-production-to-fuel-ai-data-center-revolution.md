@@ -49,15 +49,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "NVIDIA’s AI personal assistant demo available for RTX GPU PCs"
-    excerpt: "If your PC is running an RTX GPU you might be interested to know NVIDIA has released a tech demo of a new AI personal assistant or chatbot to"
-    publishedDateTime: 2024-02-19T14:15:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-chat-bot-rtx-ai-pcs/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 34
 
 secured: "FbD43G6Lkmrq7duq0QzcX759yzLH2W2j4dMHBO3WGaXmJjQGPxsoayyEiGKR1H2n65Bw41q0y1P+0hpHmrZwrUDkuZj50VCgkz2JwC+v7s/LlN3drb+JSoue+al7P9r4VO2UGxWf8o9YUdy/hC3RsYNybQSjRJk8gMFv7xf18mDcr36+6TyvkedsZf3wZD0Vo59GOvM8q1SZm67uEWoLzSyWhEB5NCGOutV9tZfYdSN3T/MdKfOQoyyhQe4n3iuodFuDtPlaw1N26t6ZGlA51vUaPOi5DDgGCPGZzIHQrRFUdPJhTLm0JBcDZ5+kv3AE9DhesE0dhh0cwFmGMoPNx1AR8afKuKoKJ+qP1Kg8eKM=;W1h+h44R2DQ/Fh0objt2oA=="
 ---

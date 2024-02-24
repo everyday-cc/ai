@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/softbanks-great-semiconduc
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/softbanks-great-semiconductor-hope-arm-isnt-the-ai-play-you-think-it-is-12311751.html/amp"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -25,33 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Softbank’s Son reportedly seeks $100B for AI chip venture"
-    excerpt: "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia."
-    publishedDateTime: 2024-02-19T16:18:00Z
-    webUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture"
-    ampWebUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 74
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "SoftBank stock rises on CEO Masayoshi Son’s plan for $100 billion AI chip project"
-    excerpt: "Shares in the Tokyo-based tech investor SoftBank gained as much as 3.2% reports that 66-year-old billionaire CEO Masayoshi Son is seeking funding for a foray into AI chips to compete with Nvidia Corp."
-    publishedDateTime: 2024-02-19T14:41:00Z
-    webUrl: "https://www.livemint.com/companies/news/softbank-stock-rises-on-ceo-masayoshi-son-s-plan-for-100-billion-chip-project-11708305813911.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 29
 
 secured: "tcyDlrk1wvm1JGUeT4VswOwF2WuUYt1bOQ0CCyWRlJ4qkc+td9zz5obxRRPtiz3A8P6t5G7UXqU6W6wqZc+CzErk6tFf+2tTTBNbBawoWqOBSk+t46QHNU8Q8dJm1JKp7H4U55L1ELV2j6DRGVlzZYCCes9Pba0S/yoQ0truan08gTKMMiS88255qRX1FOPPDM1FQ0P6xPeKgmO6aZ2A5kpPI42wXrd0DxycjOmkkmXoaxfdTD27Pn+E01QieFn8n7M9E8EAxadHWqbuhQV74+QeVdK/JdnlfofPibDgvHGUdKcffbIgUkjFsu638R9fa0c2STuEns4LCO60hKlUPIosRDBqFpGEuHI3HzEVh8Q=;CIBe1CcTqSostsIPSMLqnA=="
 ---

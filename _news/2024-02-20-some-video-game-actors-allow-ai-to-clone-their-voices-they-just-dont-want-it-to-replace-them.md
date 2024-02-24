@@ -24,54 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Now that artificial intelligence can clone voices, video game actors must weigh their options"
-    excerpt: "Some video game voice actors are willing to lend their voices to AI voice cloning technology, but concerns linger over fair compensation and fair use of their auditory likeness."
-    publishedDateTime: 2024-02-19T15:06:00Z
-    webUrl: "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options"
-    ampWebUrl: "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp"
+  - title: "Welcome to the Era of Mobile AI"
+    excerpt: "One of the most welcomed AI features is Circle to Search with Google, an incredible new tool for intuitive discovery. Our communication tools for removing language barriers, such as Live Translate, Chat Assist and Interpreter, have captured the imagination ..."
+    publishedDateTime: 2024-02-20T10:33:00Z
+    webUrl: "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 78
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 59
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451d7a28-5ceb-42ad-b0e1-c8f9bd7377b7/b53347c0-06fb-4863-9de7-c0ae58861e24/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/TM%20Roh_Editorial.jpg?itok=Ir3q2Fow"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Voice actors have mixed responses to AI clones of their voices"
-    excerpt: "As video game worlds get larger, some game studios are experimenting with AI tools to give voice to a potentially unlimited number of characters and conversations."
-    publishedDateTime: 2024-02-20T17:44:00Z
-    webUrl: "https://www.ktvb.com/article/news/nation-world/voice-actors-video-games-ai/507-34a4d807-4e65-4562-bd03-8e8c93a37a4d"
+  - title: "Is AI Biased - Does It Help Or Hinder Women As They Rise To The Top?"
+    excerpt: "Simply put, women must overcome many biases in a world often tilted against them to reach the C-Suite. Will AI help on hinder this rise?"
+    publishedDateTime: 2024-02-20T13:01:00Z
+    webUrl: "https://www.forbes.com/sites/barbarakurshan/2024/02/20/is-ai-biaseddoes-it-help-or-hinder-women-as-they-rise-to-the-top/"
     type: article
     provider:
-      name: KTVB
-      domain: ktvb.com
-    quality: 39
-    images:
-      - url: "https://media.ktvb.com/assets/CCT/images/da2901ff-b962-493f-bfd7-29302950fc2e/da2901ff-b962-493f-bfd7-29302950fc2e_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Why some video game voice actors are letting AI clone their voices"
-    excerpt: "Although AI's reputation among artists isn't strong, video game voice actors are finding ways to combine ethical practices with their artistry."
-    publishedDateTime: 2024-02-21T03:22:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/some-video-game-actors-are-letting-ai-clone-their-voices-they-just-dont-want-it-to-replace-them/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
-  - title: "Some video game actors are letting AI clone their voices, with positive results"
-    excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker’s permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
-    publishedDateTime: 2024-02-19T15:27:00Z
-    webUrl: "https://www.pennlive.com/entertainment/2024/02/some-video-game-actors-are-letting-ai-clone-their-voices-with-positive-results.html"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 15
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "zacHJLBehAS6ghndzNjEUqX2MfFNH4ESRR6PCQW1dNclEPlUKWbXt5UZLSfdrtvaO3SXkSBwAf8z4c+XNV6wUB8wUx65/Smj6v73lalsS/1hK+zxe6BRyx+P55K647AHnZ7VTdf7j4IxFfskngAZ4d1Ah8LANdsjTgPhYP5tIeNoxzOc3d3LmzXjYTextnjcPB55WZayAD2L9Fgd+Td6RKfmwYVW0yWCq9DZBo9gNTeMKd/ccUTq6Ywye1t1vcWJuEQalmpa1U0XkmOflwD8QI1s6gTvW+/eo/BLJrN7ROxpxzqBtW+XN3TubSUL6nIRDLL+wbvjrb8FvBgNA1Tg9uO4xtZB1rFaGYgz31N7ZSs=;YPojsQkc85XmHXCmjL1SGw=="
 ---

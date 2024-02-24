@@ -55,15 +55,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "The Promising Movement Toward Creating AI Guardrails"
-    excerpt: "There's an ambitious blueprint underway for building public trust in AI through a pledge to safety, fairness, and accountability."
-    publishedDateTime: 2024-02-19T13:09:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2024/02/19/the-promising-movement-toward-creating-ai-guardrails/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "A Look Inside Anthropic Highlights the Crazy Growth of AI Tech"
     excerpt: "Amid the explosive growth of AI tech, one of the buzziest in the headlines is among the least recognized: Anthropic. Founded 2021 in San Francisco by former team members of the other, super-buzzy artificial intelligence company OpenAI,"
     publishedDateTime: 2024-02-20T16:51:00Z

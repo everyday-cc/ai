@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Advanced AI SoC Powers Self-Driving Car"
-    excerpt: "How Ambarella’s system improves radar sensing. How the AV3 family addresses automotive applications like self-driving cars. What’s inside the CV3 system-on-chip (SoC)? Advanced driver-assistance systems (ADAS) need high-performance computing engines to ..."
-    publishedDateTime: 2024-02-19T16:51:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded/machine-learning/video/21283011/electronic-design-advanced-ai-soc-powers-self-driving-car"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 41
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2024/02/65d380ff27048b001ec2a75c-maxresdefault.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mortgage startup Tomo enters the home portal wars with AI tools"
     excerpt: "Mortgage startup Tomo has thrust itself into the \"portal wars\" arena with the launch of AI-powered Tomo Real Estate, its new home search site."
     publishedDateTime: 2024-02-21T13:22:00Z

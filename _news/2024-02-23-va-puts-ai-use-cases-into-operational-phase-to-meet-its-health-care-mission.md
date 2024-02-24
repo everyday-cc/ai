@@ -76,15 +76,6 @@ related:
         width: 388
         height: 544
         isCached: true
-  - title: "Demystifying artificial intelligence for mineral exploration"
-    excerpt: "Artificial intelligence is not a replacement for traditional geological expertise; rather, it complements human knowledge and experience."
-    publishedDateTime: 2024-02-19T13:33:00Z
-    webUrl: "https://www.miningreview.com/exploration/demystifying-artificial-intelligence-for-mineral-exploration/"
-    type: article
-    provider:
-      name: Miningreview
-      domain: miningreview.com
-    quality: 19
 
 secured: "1spizXALQiNX0wn4VLtOJPA3kR4LAf3azqr0SS0GcSF/tHVUbyLnI2EKg8YiZaV6GlmU/4sKoYxLilntwPas0pK3fTXvQh6GmL36aI29NOxnJWQ6LVI258myl19mcm+HLm2wgjSRKkMcb1vntYCk1oTG1x+7LVG1BysVP5OIYX+Z6dfidJogysGR+hl4K2LxW8b4LWaiRhEZ7nnhMMCL2omd9fYCW+DEEgtqFeOf84q5FD9pTNn3/ZNCBlVCUmQ2MbtCIHdgw/S2vk3St/gUHnZWt0l6WMj6dlalqWMR3APc6wfZzUFz3uM+Y2QAd7hQ9KFzeM5K222cOjm1rZqBpEJiz7kdAlmUVtaOpmt8zJH64ly2Sry8hVwrZzdErgR6S1SEOX78Dj5SHTv2KiIvX7rfXrSpM2mbqURv60zRyXQOA0FgOzTJCXUOVeu3KXLLcYgDJC1iunRVShH626v3iJA8ulGS3KUp9fpONlaSgbylfBABMtzIY2pbMSpGSybe/RVbRbBE4J6CwPCDPm/NlQ==;OAWQzl0+vbzPvOTkd4loBQ=="
 ---

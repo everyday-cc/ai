@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pasadenastarnews.com/2024/02/19/how-real-estate-listings
 cdnAmpWebUrl: "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How real estate listings and potentially jobs are shifting to AI"
-    excerpt: "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said."
-    publishedDateTime: 2024-02-19T15:30:00Z
-    webUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
-    ampWebUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 59
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643"
-        width: 1024
-        height: 642
-        isCached: true
   - title: "How renaissance technologists are connecting the dots between AI and business"
     excerpt: "\"Courses in AI and machine learning are fundamental, of course, but studies in psychology, human behavior, and ethics are also really relevant to the evolution of technology work.\" Training programs \"should focus on developing a holistic understanding of ..."
     publishedDateTime: 2024-02-22T13:15:00Z

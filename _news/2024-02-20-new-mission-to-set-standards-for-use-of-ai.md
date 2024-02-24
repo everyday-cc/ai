@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tamil Nadu Artificial Intelligence Mission to be established"
-    excerpt: "Tamil Nadu Artificial Intelligence Mission to leverage AI in education, industry, and medicine; State Data Centre upgrade and Wi-Fi expansion."
-    publishedDateTime: 2024-02-19T17:04:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-artificial-intelligence-mission-to-be-established/article67864691.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-artificial-intelligence-mission-to-be-established/article67864691.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/tamil-nadu-artificial-intelligence-mission-to-be-established/article67864691.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/ew3omn/article67864765.ece/alternates/FREE_1200/2024-02-19T141103Z_275614176_RC2Q56AQ23MP_RTRMADP_3_TECH-AI.JPG"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Creating Guidelines for the Use of Gen AI Across Campus"
     excerpt: "Conatser: One of the first conversations that we had as the ADVANCE team, and one that we have on a regular basis, is that these guidelines are specifically addressing generative AI. Whenever we start sliding into other language like AI and machine ..."
     publishedDateTime: 2024-02-21T00:00:00Z

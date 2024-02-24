@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-29-comparison-of-pathologist-and-deep-learningbased-prostate-cancer-grading-for-prediction-of-metastatic-outcomes-in-primary-prostate-cancer.md",
+      "title": "Comparison of pathologist and deep learning–based prostate cancer grading for prediction of metastatic outcomes in primary prostate cancer.",
+      "excerpt": "Comparison of whole slide image–based deep learning algorithms and genomic classifiers for assessing the risk of prostate cancer metastasis in surgically treated patients. Long-term results of dose escalation (80 vs 70 Gy) combined with long-term ...",
+      "sourceUrl": null,
+      "webUrl": "https://ascopubs.org/doi/10.1200/JCO.2024.42.4_suppl.345",
+      "originalUrl": "https://ascopubs.org/doi/10.1200/JCO.2024.42.4_suppl.345",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ascopubs.org",
+        "domain": "ascopubs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-utilizing-active-microparticles-for-artificial-intelligence.md",
       "title": "Utilizing active microparticles for artificial intelligence",
       "excerpt": "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists have now created a type of neural network that works not with ...",
@@ -1256,40 +1290,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-novel-neuromorphic-artificial-neural-network-circuit-architecture.md",
-      "title": "Novel Neuromorphic Artificial Neural Network Circuit Architecture",
-      "excerpt": "However, current artificial neural network circuit architectures do not fully embrace small-world neural network models. Here, we present the neuromorphic Mosaic: a non-von Neumann systolic architecture employing distributed memristors for in-memory ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/novel-neuromorphic-artificial-neural-network-circuit-architecture/",
-      "originalUrl": "https://semiengineering.com/novel-neuromorphic-artificial-neural-network-circuit-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

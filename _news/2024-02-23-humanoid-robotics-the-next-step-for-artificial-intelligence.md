@@ -7,8 +7,8 @@ originalUrl: "https://www.cybersecurityintelligence.com/blog/humanoid-robotics-t
 webUrl: "https://www.cybersecurityintelligence.com/blog/humanoid-robotics-the-next-step-for-artificial-intelligence-7458.html"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: cybersecurityintelligence.com
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Robotics to Play Key Roles in Space Exploration"
-    excerpt: "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us."
-    publishedDateTime: 2024-02-19T14:52:00Z
-    webUrl: "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 69
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Why Artificial Intelligence Matters In Robotic Technology Robotics & Automation News"
     excerpt: "Artificial intelligence (AI) has emerged as a groundbreaking force in a plethora of sectors, including transportation, healthcare, finance, and agriculture. In the realm of robotics, AI is redefining the landscape, as well as human-machine interaction."
     publishedDateTime: 2024-02-22T04:13:00Z

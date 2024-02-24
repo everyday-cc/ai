@@ -34,6 +34,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "visionOS 1.1 beta 3 now available with several improvements for Apple Vision Pro"
+    excerpt: "Apple is seeding visionOS 1.1 beta 3 to Vision Pro developers. Here's everything we know about this upcoming update."
+    publishedDateTime: 2024-02-20T18:14:00Z
+    webUrl: "https://bgr.com/tech/visionos-1-1-beta-3-now-available-with-several-improvements-for-apple-vision-pro/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 34
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/11/apple-vision-pro-visionos-bgr-2.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
   - title: "You better not cry while wearing the Apple Vision Pro"
     excerpt: "Crying while watching movies with the Vision Pro isn't recommended, or supported - here's what you need to know."
     publishedDateTime: 2024-02-23T18:28:00Z

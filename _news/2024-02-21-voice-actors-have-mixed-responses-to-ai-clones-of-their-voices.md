@@ -7,7 +7,7 @@ originalUrl: "https://www.ktvb.com/article/news/nation-world/voice-actors-video-
 webUrl: "https://www.ktvb.com/article/news/nation-world/voice-actors-video-games-ai/507-34a4d807-4e65-4562-bd03-8e8c93a37a4d"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Now that artificial intelligence can clone voices, video game actors must weigh their options"
-    excerpt: "Some video game voice actors are willing to lend their voices to AI voice cloning technology, but concerns linger over fair compensation and fair use of their auditory likeness."
-    publishedDateTime: 2024-02-19T15:06:00Z
-    webUrl: "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options"
-    ampWebUrl: "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 78
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451d7a28-5ceb-42ad-b0e1-c8f9bd7377b7/b53347c0-06fb-4863-9de7-c0ae58861e24/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Some Video Game Actors Allow AI to Clone Their Voices. They Just Don't Want It to Replace Them"
-    excerpt: "Game makers say AI clones could save time and money, and some performers are giving it a shot, as long as they're fairly paid."
-    publishedDateTime: 2024-02-19T17:31:00Z
-    webUrl: "https://www.inc.com/associated-press/some-video-game-actors-allow-ai-to-clone-their-voices-they-just-dont-want-it-to-replace-them.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 25
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1353302248_wf7a0q.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Why some video game voice actors are letting AI clone their voices"
     excerpt: "Although AI's reputation among artists isn't strong, video game voice actors are finding ways to combine ethical practices with their artistry."
     publishedDateTime: 2024-02-21T03:22:00Z
@@ -64,15 +34,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
-  - title: "Some video game actors are letting AI clone their voices, with positive results"
-    excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker’s permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
-    publishedDateTime: 2024-02-19T15:27:00Z
-    webUrl: "https://www.pennlive.com/entertainment/2024/02/some-video-game-actors-are-letting-ai-clone-their-voices-with-positive-results.html"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 15
 
 secured: "tHLWMvb4GTIwaOTxhXt6Rw3abkiFlXzrgCV0tFEujRzLZW1ZVKxV8xpPzB2D2RokuRGVYp/XG3qlMtmeK5K4MYl76majuy7PePkUMpcDWQ2aw8qRaS+fpG96j8xXSEhlyCpKlWJ9lKwSJzyx4xiyN5We4f1urG9VKHeKjaSCbM3VtzHZ+88RJ4Aaxk9AMvqO8VpCqjnuNfbLjmJ3hgv5YDMAHZGmMOesr6Am70OD9LWlJBN5SgG/kq2UB5KQJX+H06vzrWQHjWDS3P2TP13+g837msZmW0uK1YPiothV9U3G4KcpyC96ZySinEcymwrTaZ66HXqmaMMhlSvKIX0F1C2W0AcDfyBNAqSPvlDL/ns=;CSq0xIvqyYTtnud+05aXEw=="
 ---

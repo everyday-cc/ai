@@ -2,21 +2,21 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2024-02-21-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform.md",
-      "title": "Assert AI Unveils Pratham: World's First No-code Computer Vision Platform",
-      "excerpt": "Pratham, which translates to first in Hindi, employs an innovative framework that places the power of computer vision directly into the hands of users, allowing them to analyze and utilize video data effortlessly.",
+      "path": "_news/2024-02-21-you-can-now-use-your-voice-to-launch-galaxy-ai-features.md",
+      "title": "You can now use your voice to launch Galaxy AI features",
+      "excerpt": "You can activate live translation, summarization functionality ... Bixby’s support for Galaxy AI features is available in all the assistant’s supported languages, including English, Chinese, French, German, Korean, and Spanish.",
       "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform",
+      "webUrl": "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/",
+      "originalUrl": "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280",
-          "width": 1280,
-          "height": 853,
+          "url": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-GalaxyAI-Transcription-Summary.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,61 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp",
-      "publishedDateTime": "2024-02-21T05:13:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T07:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-iaea-designates-collaborating-centre-on-artificial-intelligence-for-nuclear-power.md",
+      "title": "IAEA designates Collaborating Centre on artificial intelligence for nuclear power",
+      "excerpt": "Collaborating Centre agreement will support IAEA programmatic activities and knowledge sharing on advancements and innovation in AI for nuclear power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2835405-iaea-designates-collaborating-centre-on-artificial-intelligence-for-nuclear-power",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2835405-iaea-designates-collaborating-centre-on-artificial-intelligence-for-nuclear-power",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/30_01_2019_17_12_13_1544156.jpg?width=1280",
+          "width": 1280,
+          "height": 746,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2835405-iaea-designates-collaborating-centre-on-artificial-intelligence-for-nuclear-power?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835405-iaea-designates-collaborating-centre-on-artificial-intelligence-for-nuclear-power?amp",
+      "publishedDateTime": "2024-02-21T06:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "devdiscourse",
@@ -40,7 +92,6 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -408,7 +459,7 @@
       "originalUrl": "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -963,7 +1014,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1059,50 +1110,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-21-7-ways-to-invest-in-ai-smart-home-devices.md",
-      "title": "7 Ways to Invest in AI Smart Home Devices",
-      "excerpt": "An indirect way to invest in smart home devices is to target property management firms that make smart building technology a priority to increase their profit margins. A property may require less maintenance or be more energy efficient once these devices get installed.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices",
-      "originalUrl": "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T20:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2024-02-20-climate-change-predictions-anticipating-and-adapting-to-a-warming-world.md",
       "title": "Climate change predictions: Anticipating and adapting to a warming world",
       "excerpt": "In an era of accelerating climate change, evolving technologies can help people predict the near-future and adapt.\nThe post Climate change predictions: Anticipating and adapting to a warming world appeared first on IBM Blog.\n",
@@ -1111,7 +1118,7 @@
       "originalUrl": "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": null,
       "content": "",

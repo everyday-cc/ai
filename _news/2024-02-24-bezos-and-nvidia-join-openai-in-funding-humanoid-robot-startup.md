@@ -138,6 +138,15 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Bezos and Nvidia Team Up With OpenAI to Fund Humanoid Robot Startup"
+    excerpt: "According to Bloomberg news sources, Amazon founder Jeff Bezos, along with Nvidia and other prominent tech players, are funneling investments into Figure"
+    publishedDateTime: 2024-02-24T14:12:00Z
+    webUrl: "https://propakistani.pk/2024/02/24/bezos-and-nvidia-team-up-with-openai-to-fund-humanoid-robot-startup/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 34
 
 secured: "m2jM2qZywvNj8EMsDptkVcLKFFhVDIdiRiWfXvqjAWxkU81yzWO+JF4rGAHqoh0knfL7gBx+SBLjBa7zqTs2qUr+X2YFXZuwqOpvz+CfM/ADlBZeDhAU2NEdq2j/jcpt/Sw7DZNx02FFHqcabNro2+NRHXQqVmHd7MFlQPvPCZ32ey+fQ3ZgBER87B63Trp+ot/5e7sQjdJwWbc9eORa8YLb0usnRnGNoGA/HORi5zdw5p7xUL/15eiTTzQx1Kh0NhNQoMUcR2ZqS6bMRiVX2VXL3NEdXkU3kVbgbiXya2+O/GV6GProreGBa/q315GMLYcngMnQZ4sHU7G9+vzvDOm1XyBSGr0qphue1NbE0cU=;IpvHw/wuPN6V6kZsWBV9TA=="
 ---

@@ -33,15 +33,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 51
-  - title: "VW partner Xpeng to hire 4,000, invest in artificial intelligence"
-    excerpt: "Xpeng, which has VW Group as a partner, plans to release around 30 new products or revised models within three years."
-    publishedDateTime: 2024-02-19T13:14:00Z
-    webUrl: "https://europe.autonews.com/automakers/xpeng-boost-workforce-25-invest-ai-driving-tech"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 17
 
 secured: "LbWDGcywgVaHB6IIH7xU3T4YZ5fbJUXYgHsDiVvT7a6bxJMgkl9mN7okFmekL2iAh3qsIWhra4gF2ysnscr7DsfhwTXYZyJkCSXWrRDoOIlxuH7Q7HuSlgRTqF10Aj7hVJIondhgvImeBHhEYOnHfVTx84vedBVVfuMgpNSy2t87jwTNiS47vkmIsY921xcyDiCuAtn62yKv0H6BCFYgFSZCS6Uw9ZGXuAVcl7+6X0yFnFCpbrqaXcctW09T2LQX3yXq+dQeHUynq1Ox6YK+V8sUS+0rLXOJJsaigRRaNEe5JT7JWnrPZv03gtXW2jqGBGum4Sg3ukG11K75hGQ/qFkFTKZyQcCKRKIqjBM2JwpDmxygRuOvrXN8gl7hlgNHhXJJak6Ef7xIzwXayl3eg7cY3Pat38kEkNw/RgoYx9NCCeEO0NnmsWMn2/8mWh2186uWaaJt/FVREGQe2y1dKIkhd0fLQmpOOaEWZLU0NkBqd7vmGOfDhFWq4PeZAJReUuZki879tIAEt+kks+KN+w==;86Cu5Y9sltgD1kbMaB4OEQ=="
 ---

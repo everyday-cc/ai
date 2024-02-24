@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "The Promising Movement Toward Creating AI Guardrails"
-    excerpt: "There's an ambitious blueprint underway for building public trust in AI through a pledge to safety, fairness, and accountability."
-    publishedDateTime: 2024-02-19T13:09:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2024/02/19/the-promising-movement-toward-creating-ai-guardrails/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "How Artificial Intelligence Is Reshaping Banking"
     excerpt: "Artificial intelligence is transforming the banking industry, with far-reaching implications for traditional banks and neobanks alike. This transition from classic, data-driven AI to advanced, generative AI provides increased efficiency and client ..."
     publishedDateTime: 2024-02-23T13:15:00Z

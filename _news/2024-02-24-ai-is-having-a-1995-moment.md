@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2024/02/women-in-ai-cover.jpg?resize=1200,675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How Artificial Intelligence is affecting social media"
-    excerpt: "The transformative power of Artificial Intelligence (A.I.) is reshaping our world, offering both unprecedented benefits and complex challenges, particularly in the realm of"
-    publishedDateTime: 2024-02-19T14:54:00Z
-    webUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/"
-    ampWebUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/"
-    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/"
-    type: article
-    provider:
-      name: WFLA News Channel 8
-      domain: wfla.com
-    quality: 57
-    images:
-      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2024/02/B-Block-How-Artificial-Intelligence-is-affecting-social-media.jpg?w=1280"
-        width: 640
-        height: 360
         isCached: true
   - title: "Tackling AI bias in employment"
     excerpt: "One way to mitigate AI risk in employment and bias more generally is allowing researchers and smaller players, instead of just a handful of big companies, to examine models."

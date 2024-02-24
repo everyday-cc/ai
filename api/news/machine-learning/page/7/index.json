@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-05-neural-network-is-more-powerful-than-any-other-methods-of-propaganda-shevtsov.md",
+      "title": "Neural network is more powerful than any other methods of propaganda - Shevtsov",
+      "excerpt": "Neural network is more powerful than any other methods of propaganda. Political scientist Yuri Shevtsov told about it in the project \"In theme\" on YouTube-channel BELTA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvr.by/eng/news/obshchestvo/neyroset_moshchnee_nezheli_lyubye_drugie_metody_propagandy_shevtsov/",
+      "originalUrl": "https://www.tvr.by/eng/news/obshchestvo/neyroset_moshchnee_nezheli_lyubye_drugie_metody_propagandy_shevtsov/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tvr.by/upload/iblock/1ee/41a97ld61s9cvutzx0fapgxr28fq41sp.jpg",
+          "width": 870,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T19:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvr.by",
+        "domain": "www.tvr.by",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-mapping-mars-deep-learning-could-help-identify-jezero-crater-landing-site.md",
       "title": "Mapping Mars: Deep learning could help identify Jezero Crater landing site",
       "excerpt": "Preparations for a safe landing on Earth, such as finding the most even terrain and equipping the appropriate landing gear, are also crucial for Mars missions.",
@@ -1215,60 +1258,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-microsoft-mlnet-30-expands-deep-learning-capabilities.md",
-      "title": "Microsoft ML.NET 3.0 expands deep learning capabilities",
-      "excerpt": "Update to the machine learning framework for .NET developers brings new capabilities in object detection, named entity recognition, and question answering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/04/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large-100946747-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.amp.html",
-      "publishedDateTime": "2023-11-29T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

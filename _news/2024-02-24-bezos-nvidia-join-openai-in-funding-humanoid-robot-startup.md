@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-19126871.htm/amp"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -138,6 +138,15 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Bezos and Nvidia Team Up With OpenAI to Fund Humanoid Robot Startup"
+    excerpt: "According to Bloomberg news sources, Amazon founder Jeff Bezos, along with Nvidia and other prominent tech players, are funneling investments into Figure"
+    publishedDateTime: 2024-02-24T14:12:00Z
+    webUrl: "https://propakistani.pk/2024/02/24/bezos-and-nvidia-team-up-with-openai-to-fund-humanoid-robot-startup/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 34
 
 secured: "sZLI+xWGLnGY8An2gdwT+oCwve9SaQiu6SZlph9vPthZRCh2JQsPJeO8X2nMxJsHM2lmQ1026I+4kFT3Ur16AHQsTHlXgEtqAVJaBTb12VP6FB4mMp151tvID+D5zOQz+jmjoIbVb5TWzpbbZ0AEmiAwbSZDIznFYMdA4i8zavs3qW11k94sSJze4aOvRdl703hX5BwF67M+qHi0481qyy3D8NZFfxPaQmUXqGxRqPu9pMED+TDcn3GJlNuFTSAmLvA0vbXt/n8zwF9J+1UlHeY2HXNbPVDwq2/d4pKR+JwGbKrCy+Z/Cc7qS21B9J601jYZx/+XALvf9ZfIhuitu0MSatZlqkYZQ4H7jI3ZGvY=;Y2S74iVYppJd9fwFAvKCZQ=="
 ---

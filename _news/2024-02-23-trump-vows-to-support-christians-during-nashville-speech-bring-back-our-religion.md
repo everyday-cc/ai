@@ -21,13 +21,18 @@ topics:
 related:
   - title: "'Bring back our religion’: Trump vows to support Christians during Nashville speech"
     excerpt: "Before Trump walked on stage, the crowd stood in recognition of “the January 6th hostages,\" referring to those who face federal charges for their role in storming the U.S. Capitol. His speech began at 9:42 p.m. and wrapped shortly before 11 p.m. During ..."
-    publishedDateTime: 2024-02-23T07:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2024/02/22/donald-trump-nashville-visit-vows-support-christians-national-religious-broadcasters-conference/72662111007/"
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.aol.com/bring-back-religion-trump-vows-053553322.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 0
+      name: AOL
+      domain: aol.com
+    quality: 18
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/8xMTYaRIh.mswIl1yxcDKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://media.zenfs.com/en/aol_gannett_aggregated_707/8e172e3c3e853ff11f539a9d71a92e4b"
+        width: 1200
+        height: 764
+        isCached: true
 
 secured: "1kzvtzUiH4mayipkgzmj4cpU6sWxXzLNiG0AG+YIqp0+xW4nlwKuFM9Z4t5T9Td9DwWz0IkVHvyWdpGFNpgBDwA1BMkg3uubvtYalM2ebkiIgCho7pKn71SVUKlqKe2aUjxFFZCRyS/RKzVqJFHDA434GO4pmwSW/f9ilP7clt/IH8RZ+75r4NcUsA3TLIEE9gmyREY8BQf6yreA3LGjomUDSR8padXOf49wZNIVrLfHoP4fN9o2EDbsCTscyiOaYjpOwj8pgryu+xS7f1JCAW79aNFl38IQJ8FnXNLmnu7lnREgtY5hY3qkeCSCiwbfrdeeHc1zYqs84vDJFHYdJGFp2bn+nqhu0J3kM+RPvr2nPqDIfB8PY0K2Ey5j2PBWW4LDLXVQQTi24/M18TbEBUi/vyudHAh3fRAqL4LCoR966VeZXlaHMTHpFXl1C8kW6c8u7z4e8Rgb34hqnJCWS3xTEH3sFK50YANbSq8xSngQmADYY53tTvAkdTcM9lG/Q3eh3bg9Pt3qbk+IvHT/lQ==;7HqnpjX7+id0t9J+JRVBgg=="
 ---
