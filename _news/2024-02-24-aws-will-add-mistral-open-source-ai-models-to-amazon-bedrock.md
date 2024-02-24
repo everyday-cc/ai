@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-mod
 webUrl: "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock/"
 type: article
 quality: 86
-heat: 106
+heat: 109
 published: true
 
 provider:

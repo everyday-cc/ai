@@ -50,20 +50,6 @@ related:
       name: New Atlas
       domain: newatlas.com
     quality: 34
-  - title: "Apple Vision Pro 2 could launch sooner than we all expected"
-    excerpt: "With Vision Pro now available for a couple of weeks, the next iteration of Apple's spatial computer might launch sooner than we all realized."
-    publishedDateTime: 2024-02-19T11:54:00Z
-    webUrl: "https://bgr.com/tech/apple-vision-pro-2-could-launch-sooner-than-we-all-expected/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 24
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2024/02/apple-vision-pro-on-bgr.jpg?quality=82&strip=all"
-        width: 1812
-        height: 900
-        isCached: true
   - title: "What Apple’s New Vision Pro Headset Might Do to Our Brain"
     excerpt: "Apple released its long-awaited Vision Pro mixed-reality headset this month. The company describes the device, which has a starting price of $3,500, as a “spatial computer,” an alternative to a standard laptop or desktop. Apple’s ads have shown ..."
     publishedDateTime: 2024-02-21T00:00:00Z

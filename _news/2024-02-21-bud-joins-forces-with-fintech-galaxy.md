@@ -91,15 +91,6 @@ related:
         width: 870
         height: 580
         isCached: true
-  - title: "Why Fintech In The Nordics Takes Some Finding"
-    excerpt: "Attendees gather at GoWest Nordic Venture Capital Forum in Gothenburg. February 2024. Despite the international renown and impact of Klarna, fintech was not one of the hot topics of conversation at the recent GoWest Nordic Venture Capital Forum."
-    publishedDateTime: 2024-02-19T12:34:00Z
-    webUrl: "https://www.forbes.com/sites/sarahkocianski/2024/02/19/why-fintech-in-the-nordics-takes-some-finding/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "Why KYB Should Be a Priority for Fintech Startups Right From the Start"
     excerpt: "Fintech startups are disrupting the financial services industry in exciting new ways. However, with innovation comes risk. As fintech companies enable speedy, paperless transactions and expand access to financial services,"
     publishedDateTime: 2024-02-20T13:55:00Z
@@ -109,15 +100,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
-  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
-    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
-    publishedDateTime: 2024-02-19T12:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "BbwtepkQXZUejz7Vg7ibxyjaivkTrisi8OEpgsyakdTvRQPY78m0NW0o7q+TFnCP6SkrTeqoRDsHkkL/QLe9/QEMaVxgO5Yh/k0gGF87NQEtIaPE4XaLDpPtXB0MOjv3Co3MQawefVt+kJ3fP2CZMXaqLZLpeXAaPu66FTHXmZxher/QEih7RoxsQyfKeS8iUvHPa69q4tjdiezQ3tLTiBbxCSpK07UVzK+iQ49MA3ybQbnbujx1UwlE+SMIDM6jQ3HQ8Q0gy0MnnbYmPRDGocvf+gDqFc9yVkDab9bRtwyp4xIYRYqPAK29klngiI2+OwlTsBGhaUTOIBLU9nCv1jEhVwvKKVXVLx9lYoE/3t4=;VPHnvGaGCM6p8zzFNnsCAA=="
 ---

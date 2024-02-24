@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Lengthens, Mixes, Broadens AI With Gemini Toolset"
-    excerpt: "The need to mix, broaden and lengthen our use of AI with fluid tokenization control and Mixture-of-Experts (MoE) architectures is very of the moment."
-    publishedDateTime: 2024-02-19T12:20:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d3469af364a6540e831a99/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1484
-        height: 900
-        isCached: true
   - title: "First Gemini, now Gemma: Google's new, open AI models target developers"
     excerpt: "On Wednesday, Google unveiled Gemma, a family of lightweight, open models developed by DeepMind and other teams across Google that are charged with AI development and research. Introducing Gemma: a family of lightweight, state-of-the-art open models for ..."
     publishedDateTime: 2024-02-21T17:40:00Z
@@ -60,6 +44,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/19d439c154585632ba0a2af6f0b59b09165842fc/2024/02/21/99f54a4d-e622-4973-bb1d-68f9ce9f9971/woman-glkasses3gettyimages-1469706451.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google reveals another smaller AI model, Gemma, for researchers"
+    excerpt: "In a blog post, Google stated that Gemma was developed by its UK-based DeepMind along with other teams at the company. Gemma does share some \"technical and infrastructure components\" with its bigger brother Gemini. There are two specific models available ..."
+    publishedDateTime: 2024-02-21T14:43:00Z
+    webUrl: "https://www.neowin.net/news/google-reveals-another-smaller-ai-model-gemma-for-researchers/"
+    ampWebUrl: "https://www.neowin.net/amp/google-reveals-another-smaller-ai-model-gemma-for-researchers/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-reveals-another-smaller-ai-model-gemma-for-researchers/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 89
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2024/02/1708523960_google-gemma_story.jpg"
+        width: 760
+        height: 450
         isCached: true
   - title: "Chrome gets a built-in AI writing tool powered by Gemini"
     excerpt: "Google Chrome is getting a new AI writing generator today. At its core, this Gemin-powered tool is essentially the existing \"Help me write\" feature from"
@@ -93,6 +93,76 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Gemma: Introducing new state-of-the-art open models"
+    excerpt: "Gemma is built for responsible AI development from the same research and technology used to create Gemini models."
+    publishedDateTime: 2024-02-21T13:06:16Z
+    webUrl: "https://deepmind.google/discover/blog/gemma-introducing-new-state-of-the-art-open-models/"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 74
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemma-social-share.width-1300.jpg"
+        width: 1300
+        height: 731
+        isCached: true
+  - title: "Gemini models are coming to Performance Max"
+    excerpt: "New improvements and AI-powered features are coming to Performance Max, including Gemini models for text generation."
+    publishedDateTime: 2024-02-22T17:00:00Z
+    webUrl: "https://blog.google/products/ads-commerce/gemini-models-are-coming-to-performance-max/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 74
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header-option1-headline.width-1300.png"
+        width: 1300
+        height: 733
+        isCached: true
+  - title: "Google's Latest AI Language Models Are Open Weight, Not Open Source"
+    excerpt: "Google Deepmind on Wednesday unveiled its newest set of AI models. Called Gemma, they are open for commercial use and redistribution by AI developers and researchers—a departure for a company that has been recently criticized for its closed AI technology by others in the field championing open collaboration in AI research."
+    publishedDateTime: 2024-02-21T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/richardnieva/2024/02/20/google-gemma/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d55ad7bfa4295a4a8bf111/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "Google Enters the Lightweight AI Market With Gemma"
+    excerpt: "Google has released Gemma, a family of AI models based on the same research as Gemini. Developers can’t quite get their hands into the engine of Google Gemini yet, but what the tech giant released on Feb. 21 is a smaller, open source model for ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.techrepublic.com/article/google-gemma-chat-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240221-google-gemma-chat-ai.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Google goes “open AI” with Gemma, a free, open-weights chatbot family"
+    excerpt: "Gemma chatbots can run locally, and they reportedly outperform Meta's Llama 2."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://arstechnica.com/civis/threads/google-goes-“open-ai”-with-gemma-a-free-open-weights-chatbot-family.1499024/page-2"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/65d512ac5503edf560835d2c/191:100/w_1280,c_limit/politics_gab_chatbot_extreme_racist.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Google Launches Two Free 'Gemma' AI Models Inspired by Gemini"
     excerpt: "Google has launched two new open AI models, Gemma 2B and Gemma 7B, with the goal of supporting AI use in third-party applications. The Gemma models vary in size, meaning the simpler Gemma 2B may be better for less intensive AI applications, while Google data suggests that Gemma 7B could outperform other AI models like Mistral or Meta's LLAMA-2."
     publishedDateTime: 2024-02-21T15:58:00Z
@@ -106,6 +176,36 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/035OJKlW9wJhW9L0j1OcXpo-1.fit_lim.size_1200x630.v1708530102.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Google goes “open AI” with Gemma, a free, open-weights chatbot family"
+    excerpt: "Developed by Google DeepMind and other Google AI teams, Gemma pulls from techniques learned during the development of Gemini, which is the family name for Google's most capable (public-facing) commercial LLMs, including the ones that power its Gemini AI assistant. Google says the name comes from the Latin gemma, which means \"precious stone.\""
+    publishedDateTime: 2024-02-21T22:00:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemma_header_1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Google's Gemma is now optimized for NVIDIA's AI platforms"
+    excerpt: "This system lets users have access to generative AI capabilities on their own local PCs, provided they’re using an NVIDIA RTX GPU. This system effectively allows users to provide local files on their PC to a local AI in order to personalize the experience."
+    publishedDateTime: 2024-02-21T16:30:00Z
+    webUrl: "https://www.shacknews.com/article/138819/nvidia-google-gemma-optimization"
+    ampWebUrl: "https://www.shacknews.com/article/138819/nvidia-google-gemma-optimization?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138819/nvidia-google-gemma-optimization?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 59
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/02/21/nvidia-google-gemma-optimization_feature.jpg"
+        width: 1280
+        height: 680
         isCached: true
   - title: "Google’s Gemini for Workspace expands genAI access to SMBs"
     excerpt: "This reflects a similar change to Google’s general purpose Bard chatbot, which switched to Gemini earlier this month. Gemini for Workspace is available via two pricing plans. Gemini Enterprise replaces Duet AI for Workspace Enterprise, which launched ..."
@@ -122,6 +222,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2024/02/gemini-emailpoc_light_mode_x4.max-1700x1700-100961521-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 697
+        isCached: true
+  - title: "Google Launches Gemma, a Family of Open-Source Lightweight AI Models for Developers"
+    excerpt: "Gemma’s open-source AI models are built from the same research and technology used to create the Gemini models."
+    publishedDateTime: 2024-02-22T07:59:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 53
+    images:
+      - url: "https://i.gadgets360cdn.com/large/google_gemma_ai_1708588635642.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google Addresses Gemini AI's 'Embarrassing' Image Generation with Detailed Explanation"
     excerpt: "Google ceased allowing users to generate images of people using its Gemini AI tool, a move that occurred shortly after the feature's launch in Gemini (previously known as Bard). Raghavan states that Google intends to conduct further testing on Gemini AI's ..."
@@ -185,6 +301,48 @@ related:
         width: 2560
         height: 1336
         isCached: true
+  - title: "Gemma: Google unveils open AI models"
+    excerpt: "Gemma models, developed by Google DeepMind in collaboration with other teams across Google, are built upon the same cutting-edge technology as the acclaimed Gemini models. The models are available in two sizes, Gemma 2B and Gemma 7B, with parameters ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.computing.co.uk/news/4177191/gemma-google-unveils-open-ai-models"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/d662e90/41b584f4-5cd8-4ea2-94b0-9321b8ec8ddb/8/Gemma-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "Google Gemma AI vs Llama-2 performance benchmarks"
+    excerpt: "The Gemma suite consists of four models. Two of these are particularly powerful, with 7 billion parameters, while the other two are still quite robust with 2 billion parameters. The number of parameters is a way of measuring how complex the models are and ..."
+    publishedDateTime: 2024-02-22T10:30:00Z
+    webUrl: "https://www.geeky-gadgets.com/gemma-ai-vs-llama-2/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Gemma-vs-Llama-2.jpg"
+        width: 1280
+        height: 801
+        isCached: true
+  - title: "Google Gemma open source AI models launch"
+    excerpt: "“A family of lightweight, state-of-the art open models built from the same research and technology used to create the Gemini models” – Google. At the heart of Gemma’s introduction is the Responsible Generative AI Toolkit. This toolkit is crafted to ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemma-ai-models/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Gemma-state-of-the-art-open-AI-models.jpg"
+        width: 1280
+        height: 751
+        isCached: true
   - title: "Google's Gemini AI accused of acting too 'woke', company admits mistake"
     excerpt: "The row erupted after a user pointed out that Gemini, earlier known as Bard, was showing inaccurate images when asked to furnish certain information"
     publishedDateTime: 2024-02-22T10:53:00Z
@@ -196,6 +354,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "Google Gemma open source AI prompt performance is slow and inaccurate"
+    excerpt: "Gemma AI models provide a choice between 7B parameters, for efficient deployment and development on consumer-size GPU and TPU and 2B versions for CPU and on-device applications. Both come in base and instruction-tuned variants. Despite the accessibility ..."
+    publishedDateTime: 2024-02-23T09:18:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemma-open-source-ai-performance/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1Mn0U6HGLeg%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Google apologizes for ‘offensive’ AI Gemini image generator"
     excerpt: "Google apologized for its overly diverse artificial intelligence image generator, which appeared unable to depict white people in any fashion."
     publishedDateTime: 2024-02-24T04:06:00Z
@@ -277,6 +449,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 36
+  - title: "Google's lightweight and free Gemma AI models are optimized to run on NVIDIA GPUs"
+    excerpt: "\"Built from the same research and technology used to create the Gemini models,\" Google's new lightweight Gemma LLMs have been designed to run natively on local PC hardware powered by NVIDIA GPUs. For use in third-party AI applications, Gemma 2B and Gemma ..."
+    publishedDateTime: 2024-02-22T12:36:00Z
+    webUrl: "https://www.tweaktown.com/news/96379/googles-lightweight-and-free-gemma-ai-models-are-optimized-to-run-on-nvidia-gpus/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96379_01_googles-lightweight-gemma-ai-optimized-to-run-on-nvidia-gpus_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Google apologizes after new Gemini AI refuses to show achievements of White people"
     excerpt: "Gemini, once known as Google Bard, is part of the emerging fleet of multimodal large language models (LLMs) offered to the public. These advanced algorithms tailor responses based on language, tone, and training data, thus possessing the ability to produce ..."
     publishedDateTime: 2024-02-22T00:04:00Z
@@ -389,6 +575,38 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "Exploring Gemini 1.5: How Google’s Latest Multimodal AI Model Elevates the AI Landscape Beyond Its Predecessor"
+    excerpt: "Google's Enhanced Multimodal AI Model Surpasses Its Predecessor with Advanced Data Integration and Processing Capabilities. Explore the future of AI technology through its innovative approach, expanded capabilities,"
+    publishedDateTime: 2024-02-20T18:18:00Z
+    webUrl: "https://www.unite.ai/exploring-gemini-1-5-how-googles-latest-multimodal-ai-model-elevates-the-ai-landscape-beyond-its-predecessor/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 21
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2024/01/8281caa378152b406774ba0954bddc90-400x240.jpg"
+        width: 400
+        height: 240
+        isCached: true
+  - title: "Google announces Gemma, its open models for AI research"
+    excerpt: "Gemma was developed by Google DeepMind and other teams across the company, and is “built from the same research and technology used to create the Gemini models,” including technical and infrastructure components. Name-wise, it’s Latin for “precious ..."
+    publishedDateTime: 2024-02-21T13:00:00Z
+    webUrl: "https://9to5google.com/2024/02/21/google-gemma/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 19
+  - title: "Google releases Gemma lightweight AI open models"
+    excerpt: "Google introduces Gemma, a new family of open-source lightweight AI models that allow developers and researchers to build large language models (LLM) with only a desktop."
+    publishedDateTime: 2024-02-22T04:16:00Z
+    webUrl: "https://cybernews.com/tech/google-ai-releases-gemma-open-source-models/"
+    type: article
+    provider:
+      name: cybernews
+      domain: cybernews.com
+    quality: 19
   - title: "Google updates Gemini AI, apologizes for 'woke' inaccurate imagery"
     excerpt: "These two updates followed the most recent one on Feb. 8, through which Google rebranded its chatbot from Bard to Gemini and included many upgraded features and capabilities. However, neither of the updates mentioned any change to Gemini’s image output."
     publishedDateTime: 2024-02-22T00:00:00Z
@@ -416,6 +634,15 @@ related:
       name: Fox Business
       domain: foxbusiness.com
     quality: 11
+  - title: "Centre To Issue Notice To Google Over Gemini AI's 'Biased' Response To Query On PM Modi: Report"
+    excerpt: "The Ministry of Electronics and Information Technology (Meity) is likely to issue a notice to Google over its AI platform Gemini's“biased” response"
+    publishedDateTime: 2024-02-23T20:08:00Z
+    webUrl: "https://menafn.com/1107891937/Centre-To-Issue-Notice-To-Google-Over-Gemini-AIs-Biased-Response-To-Query-On-PM-Modi-Report"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 7
   - title: "Google paused Gemini's ability to generate images of people"
     excerpt: "Not too long ago, Google gave Bard the ability to generate images along with text. That functionality remained during the switch over to Gemini. You’re able to ask Gemini to generate images of pretty much anything. However, people are finding that ..."
     publishedDateTime: 2024-02-22T00:00:00Z
@@ -425,6 +652,15 @@ related:
       name: Android
       domain: androidheadlines.com
     quality: 4
+  - title: "Google Challenges Meta’s Llama 2 with Lightweight Open Source LLM, Gemma"
+    excerpt: "Google has unveiled Gemma, a new family of open models, leveraging the research and technology behind the existing Gemini models."
+    publishedDateTime: 2024-02-22T07:59:00Z
+    webUrl: "https://analyticsindiamag.com/google-challenges-metas-llama-2-with-lightweight-open-source-llm-gemma/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 3
 
 secured: "yhLKi9VK6CgwA7weGDnYKQKVRN4k0DpDYSrahOBU3Egzp0rVF0Ke7vUSzrqtr9dENIr/aKQOFJw6gvkZAb3/LzPRYfKD9b3miHj/kAhlvKkTfdGNYTY2a1EuNunUHBg1PhwOXajlU3TqyTNVxyBkTWX4DM+uuClornthLv+CavJEXNQAphsBosfPmu+CjpuHO3jFJGK16ruDi8MW+SZKdsH+QrrCODXir1JZNfzUh/SmfCkD2pH+KOTvX2YleE0r+UgPJ7Kr4hvgHqkeXhVcMu11ixBGRwKjvek2CLQ9vsCBt4mLCRnb8/1JZ5Hw6rdO1SS1cb1tMfOagz4/iwdo+vcTO0OsoEUj9VsZYhbdUkfZTddYWpNZHi63UIttK4J9VlDTOGj15AJuhJ/FFH2qw1AwCNdfbnYJSsVKEYRT4ITWjnMXW2eJd9oh/zD3+iGSLBtl4vbiEnhCNYhWVqVgAL8Brtiv++Ya5QHbEOyu7rt39PfWqHVcpJvdeU/5OxJ0LkLeEnA+fX7k4Plh1O6o8A==;medJoKmSMK0QngKp+o3H9Q=="
 ---

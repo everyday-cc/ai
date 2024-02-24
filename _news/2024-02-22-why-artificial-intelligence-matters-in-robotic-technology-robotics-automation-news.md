@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "MassRobotics returns as strategic partner for 2024 Robotics Summit & Expo"
-    excerpt: "MassRobotics will announce Form & Function Challenge winners and host an engineering career fair at the 2024 Robotics Summit & Expo."
-    publishedDateTime: 2024-02-19T13:00:00Z
-    webUrl: "https://www.therobotreport.com/massrobotics-strategic-partner-2024-robotics-summit-expo/"
+  - title: "AI and Robotics to Play Key Roles in Space Exploration"
+    excerpt: "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us."
+    publishedDateTime: 2024-02-19T14:52:00Z
+    webUrl: "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 83
+      name: Electropages
+      domain: electropages.com
+    quality: 69
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2024/02/form-and-function-group-picture-edited.jpg"
-        width: 770
-        height: 501
+      - url: "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Humanoid Robotics: The Next Step For Artificial Intelligence"
     excerpt: "Robotic technology is evolving at unprecedented speed, to the point where robots can learn by watching what humans do."

@@ -38,15 +38,6 @@ related:
         width: 780
         height: 588
         isCached: true
-  - title: "CPKC Stadium will use artificial intelligence for Security Screenings"
-    excerpt: "Pillars using AI technology will help fans seamlessly walk into CPKC Stadium while screening people for weapons."
-    publishedDateTime: 2024-02-19T11:33:00Z
-    webUrl: "https://www.kmbc.com/article/cpkc-stadium-will-use-artificial-intelligence-for-security-screenings/46852044"
-    type: article
-    provider:
-      name: KMBC Kansas City
-      domain: kmbc.com
-    quality: 34
 
 secured: "fvA6fXDdR0Feft1esPD74ebfMWOZMAFDSemGYVAkA0uzyD4z3TS5LgdJEAo7VJpCOHto7QfbT2/jArP0f/pOku7WFsh1fUfZJyTIbGZGgQTALFpVV1oFNMFDTiVaeF49ouTSD9BSXj2fdnYzdfAer9DuHX4lE/XqTloOdyXwkNSW+NtHz2ANUyBapOBwk2G4WAHSko0GoNVlZ4iX9SR6GK51eqBGg3AsvlJxfrVwOx8q+wE4cTFnMr9hryFQSyiXIMe6kDdNmp+23egTxBYOFHU2T4ap+HgXdnKUuy6N7UEFMM+qQQ0hllBpb0qZPOhTxuRN9TAHVECrPY+KVPVfWXAhdvgRK79JI8Z5u9Y/XaQ=;5tIsTNl0W8hwPilat6hlyg=="
 ---

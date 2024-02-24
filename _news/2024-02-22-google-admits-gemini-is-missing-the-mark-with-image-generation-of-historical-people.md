@@ -7,7 +7,7 @@ originalUrl: "https://9to5google.com/2024/02/21/google-gemini-historical-people-
 webUrl: "https://9to5google.com/2024/02/21/google-gemini-historical-people-image-generation/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Gemini models are coming to Performance Max"
-    excerpt: "New improvements and AI-powered features are coming to Performance Max, including Gemini models for text generation."
-    publishedDateTime: 2024-02-22T17:00:00Z
-    webUrl: "https://blog.google/products/ads-commerce/gemini-models-are-coming-to-performance-max/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 74
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header-option1-headline.width-1300.png"
-        width: 1300
-        height: 733
-        isCached: true
 
 secured: "W1y6gQCWZBQ/i30KPYmxICvqWnCK/WnoP/tX/nixQpZmhwVOfhc7JpRzF/DIu1KBwpU0mDDl41AXgbYUoW+Gho7YXCo7ESKpWscfZcndik+JumpvkP8Sl/TY173skGoh7v/qVoOTYhP3JlmqfkZxOW6TRoEj8UYb5EYk3gBZjrFDG4oxytHRQNksVS+hkQnOogip37z3D+rPZ2i2BmAkuLBfH6lnQfGCfUL9u2f+21HXShgPflWDLGCP7GeTWUHQ5HzWJ+y7VGaJKWsAc2B55tLrjQKpqnm6UXP/dY/dRefLfdfe9Y8K/B9i6rw1EehtQDvwPkEzo7P+c0ECd3ReoLHiNHuOqPnAPaZhyhzEWOg=;ZiWhye++fjdVh+u8RJitgA=="
 ---

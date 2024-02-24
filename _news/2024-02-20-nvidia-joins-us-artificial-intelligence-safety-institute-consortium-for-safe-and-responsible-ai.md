@@ -86,20 +86,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Nvidia Is Now a $2 Trillion-Dollar Company Thanks to AI Dominance"
-    excerpt: "Nvidia joins Microsoft and Apple as the three US-based companies to reach the $2 trillion market cap. Despite companies like Microsoft looking to make its own AI chips and rely less on Nvidia, a recent report from Reuters claims that Nvidia is working on a new $30 billion business unit that will focus on creating custom AI chips for companies."
-    publishedDateTime: 2024-02-23T19:15:00Z
-    webUrl: "https://www.ign.com/articles/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 39
-    images:
-      - url: "https://assets-prd.ignimgs.com/2024/02/23/nvidia-blogroll-logos-1708718418344.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Wbz0Yp+BKP3LLtmIvn6JEMvx8IaE10zTA5rbWfzioXKQ9/lSNQxEdIxqFYit7Q7nLQzqAXoFBqLIAH8hD7ZIBQA1h64NEcuV6YSZWE06KPZFtQUM3QvFi+jjnRkJ2h9+M6/0tVlSr23kd87SIGlnFw5PQ546o7PvKCqyirieFoURO5fKlxKbXsk8o3hVkEQ18tkyW5D3ay8cgUC4yBQgl8Hq5ojBtzf2J44dFGEzWMqwj/bFVPMOMqlWClAoqfPtxikkjpWcNYUO1M0dBuK2ylSd5/Z32cJsCW+7606+S2n7teoeZn8BzaZvI4KxpLAlzQXZQQPi99wU52YUdb5X/c5NFqGIJe6MajuJGDVYc9CQuc/LkmG5zc85zP5wVq33N7oZ7b1oeDWRuSgRiT5VQD0fAoSweck7zHLArzVa1JXdqZR/roNunfcIeBtKZDTS89s6M+xNzLQTVnSuCDQj7U5n88RnWYAGPUnEoIFGUtI300O3shF7OWfN+QeTh7sCDl+LaVB/QLl0sVAxP9tFKg==;y+hT4CRxdQK4PGUJa2rCPg=="
 ---

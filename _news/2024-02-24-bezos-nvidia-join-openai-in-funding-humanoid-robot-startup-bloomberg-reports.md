@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Bezos, Nvidia Join OpenAI in Funding Humanoid Robot Startup, Bloomberg Reports"
-excerpt: "(Reuters) -Amazon.com founder Jeff Bezos, Nvidia and other big technology names are investing in startup Figure AI that develops human-like robots, Bloomberg News reported on Friday, citing people with knowledge of the situation."
-publishedDateTime: 2024-02-23T20:22:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2024-02-23/bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-bloomberg-reports"
-webUrl: "https://www.usnews.com/news/technology/articles/2024-02-23/bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-bloomberg-reports"
+title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup, Bloomberg reports"
+excerpt: "Figure AI, also backed by ChatGPT-maker OpenAI and Microsoft, is raising about $675 million in a funding round that carries a pre-money valuation of about $2 billion, according to the report. Bezos had committed $100 million through his firm Explore Investments LLC and Microsoft is investing $95 million,"
+publishedDateTime: 2024-02-24T01:33:00Z
+originalUrl: "https://www.aol.com/news/bezos-nvidia-join-openai-funding-202228535.html"
+webUrl: "https://www.aol.com/news/bezos-nvidia-join-openai-funding-202228535.html"
 type: article
-quality: 60
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://media.zenfs.com/en/aol_reuters_29/fc4f5b2e6b306a32dda4bbede7b6897a"
+    width: 800
+    height: 534
+    isCached: true
 
 related:
   - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup"
@@ -137,6 +139,6 @@ related:
         height: 675
         isCached: true
 
-secured: "XSIii4Wp+nBnFm0c7YIAhf82Mmp37fgKd6pjNRwl60GA64tmknx2OAvLMuSsAZDxtHrWPj01x6hQV4NSIRtVb5duwl/HAzA0FjD/QjekEbHiVmSqybWPMH38+LV/jBBcpE6H6Hc3qmUmfjobP8pywqQ91KTp3LO4IerVClmfce4Pzb56Bxn8LwSRoS39q5Dgpx4lCsPS/qRlk8R2D8DgelL4YHIyuKeNwEJ9PYaBSWZ8sAo58pZW6GNrVmmFhDtM9C23sLVefKPoBjlm3rivVq7NuD8Rc4T/+stNPP3hQd3e3F9bdNr8JBjZfsP0A5z14VnCp9qdOKzjcjbPhoNJQhMqwtISv6RFQ49uYw6S7ir7/sOwtXOc49pWWMgsBu59Jdhzj6rBrlfy6dwh0VjJw3MTXDLgjp7hPZ/3+axlTjg5lk5dEmDTE3WLApnk/fykNeAxwahjcDMLab/KqIE3fuDfqT0HtS/NR826bwQ/m2NU99a6l8Gz34UZhGGhl6g5rytuf3U89HYqLFIgD913FQ==;ZpDj3wsj9d7B85qqHJmKdA=="
+secured: "vu8M86U+rALbFrwyqRsXBiuITefdB1aYAfN5yDRbWpQ/Qt+jDwcr0Vp8LH9rzZG6JAfKPEE1jh0Iu9NzKxp8GoMaVb2hcmJ7xSw/U1virnaQqCWx/nTXZG6/Kn8ZTpQQYeK/wPag/Ik7P5jxVq22L8qshctQmORB2UaXXfZWFDk99npZq/dl8sefs235fw3h25KL0oqfDLKhl367KTavYYKTkIsNvipiw9CJSVyzaCRPU7wDDNvmzouMq9qcsYTFOxvT0RmURGHSAYAxPRZPicUospQWtyYFwLzvqFOtNYmi/sLnT+ZNvsQhvuyLrdIthGHOJLbFA9DcjTcNyEO0cfxzAxpTJW4+xnoHN7L33kY=;M7Cz7EWDR3qz4+wquByf/g=="
 ---
 

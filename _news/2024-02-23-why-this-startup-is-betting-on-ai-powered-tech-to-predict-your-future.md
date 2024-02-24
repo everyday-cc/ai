@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-o
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/amp_articleshow/107923269.cms"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Watch this eerily silent vision of the future — where offices are filled with weird, AI-powered robots"
-    excerpt: "In a new video, 1X's EVE robots work together in silence in a test environment, performing actions such as sorting mail, handling objects and tidying up a child's toys."
-    publishedDateTime: 2024-02-19T12:30:00Z
-    webUrl: "https://www.livescience.com/technology/robotics/watch-this-eerily-silent-vision-of-the-future-where-offices-are-filled-with-weird-ai-trained-robots"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 1
 
 secured: "y+QrNna+jaGE15iPFvraFllM20OrxtdgC9qFji9pTcb7DaZFasldPpqT2NJqTEabN42D5Oe4LqpfeXGCduhXFUaaMuEUxjuzbHtULPPARNR6eIFpFgNDVT1qUu4FfkGzS6Y39ZWM2PN6baZBy8Sx3hp+B9Q3S1GG2WrDmMomEY178h4bnmDVkkftNLwgvlXZpMYr7hPG0WPaJIPvjZlfRLVXsL8XfyghTWK9pfVh1YJaZ9LynbHef/LR0F0N0GVIQKUuxbajVkP2+AxvSx2mXTKO6LY7SWJVle16FzOgI9ZrsGuuAy+Cmk+Kj6O/qL5RMeNd+TBHgg8IxJnVsv75oZlSKzF//l/GO+jou6LSCFU=;8rCarQ0rQ/ZEh+v31u2wAA=="
 ---

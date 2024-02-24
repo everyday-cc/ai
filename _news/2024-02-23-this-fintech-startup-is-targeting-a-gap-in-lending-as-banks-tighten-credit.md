@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/this-fintech-startup-is-target
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
 type: article
 quality: 87
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
         width: 870
         height: 580
         isCached: true
-  - title: "Why Fintech In The Nordics Takes Some Finding"
-    excerpt: "Attendees gather at GoWest Nordic Venture Capital Forum in Gothenburg. February 2024. Despite the international renown and impact of Klarna, fintech was not one of the hot topics of conversation at the recent GoWest Nordic Venture Capital Forum."
-    publishedDateTime: 2024-02-19T12:34:00Z
-    webUrl: "https://www.forbes.com/sites/sarahkocianski/2024/02/19/why-fintech-in-the-nordics-takes-some-finding/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "Bud joins forces with Fintech Galaxy"
     excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. This collaboration is all about bringing tangible ..."
     publishedDateTime: 2024-02-21T09:57:00Z
@@ -113,15 +104,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
-  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
-    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
-    publishedDateTime: 2024-02-19T12:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "jpUlTdG7cBKd6iJzK75B97lIEcBrQqD/BxiwZeoqoUAMVsYftinFbE0eoTUxLzOVsaBmLAQ/I4VBGOM7nPnEl3j2NNGGTLnvSEV07DSGD9oZ1yISruI/2aS+FGSt0PD9abEMiChbj00NGkNqqrp/bXMb0Hn8tQCFGRzpimAusU76jddNgXqsORh91Bi+VwHAv7JafXQcebwEewS2ZGVtoNPOOGFvFjixja7nH0/4kVMr+5crm4Ch5OQ8pZTcvlikSAE2ICnxR+QbZYaVn8Q3c3ij457keuwHrHQ9HBNfEGU1vXWyOl7TRFYRseM0XeMLaBPqLy+M6i5muJtc67HLUsEYKyuo7aOF8Cz1psD3J4c=;BYyPL+FR/ITzfgQzlHdcGg=="
 ---

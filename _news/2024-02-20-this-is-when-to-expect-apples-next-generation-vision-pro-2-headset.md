@@ -36,20 +36,6 @@ related:
       name: New Atlas
       domain: newatlas.com
     quality: 34
-  - title: "Apple Vision Pro 2 could launch sooner than we all expected"
-    excerpt: "With Vision Pro now available for a couple of weeks, the next iteration of Apple's spatial computer might launch sooner than we all realized."
-    publishedDateTime: 2024-02-19T11:54:00Z
-    webUrl: "https://bgr.com/tech/apple-vision-pro-2-could-launch-sooner-than-we-all-expected/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 24
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2024/02/apple-vision-pro-on-bgr.jpg?quality=82&strip=all"
-        width: 1812
-        height: 900
-        isCached: true
   - title: "The next Apple Vision Pro could be at least 18 months away, report suggests"
     excerpt: "Anyone waiting for the second-generation Apple Vision Pro before taking the plunge could be waiting another 18 months at least, a new report claims."
     publishedDateTime: 2024-02-19T19:04:00Z

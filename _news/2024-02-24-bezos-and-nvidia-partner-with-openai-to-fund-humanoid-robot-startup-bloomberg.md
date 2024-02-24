@@ -57,15 +57,6 @@ related:
         width: 1694
         height: 1058
         isCached: true
-  - title: "Bezos, Nvidia Join OpenAI in Funding Humanoid Robot Startup, Bloomberg Reports"
-    excerpt: "(Reuters) -Amazon.com founder Jeff Bezos, Nvidia and other big technology names are investing in startup Figure AI that develops human-like robots, Bloomberg News reported on Friday, citing people with knowledge of the situation."
-    publishedDateTime: 2024-02-23T20:22:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-23/bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-bloomberg-reports"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
   - title: "Jeff Bezos, Nvidia Join Forces in $675M Investment for Humanoid Robots"
     excerpt: "The AI robotics industry is witnessing significant activity ... as previously reported by TechTimes. Utilizing artificial intelligence and advanced technologies akin to \"Google Maps\" for Earth's crust, KoBold aims to enhance copper and cobalt exploration."
     publishedDateTime: 2024-02-23T19:02:00Z
@@ -133,6 +124,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 51
+  - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup, Bloomberg reports"
+    excerpt: "Figure AI, also backed by ChatGPT-maker OpenAI and Microsoft, is raising about $675 million in a funding round that carries a pre-money valuation of about $2 billion, according to the report. Bezos had committed $100 million through his firm Explore Investments LLC and Microsoft is investing $95 million,"
+    publishedDateTime: 2024-02-24T01:33:00Z
+    webUrl: "https://www.aol.com/news/bezos-nvidia-join-openai-funding-202228535.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 50
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/fc4f5b2e6b306a32dda4bbede7b6897a"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "qHXDlpquu7Ux4+PjUvwscEtwq4CJ+guAp1IpsulD36FHZG0FKy5TvNRuiIKNjzEMpRweq9H84oVvvr3wvUHWpdOT5zwM15JXzEFKX4LFXEGqI2QuEFuZDxldq9hdRUtqbRyeO/ZWBBQ+0XOfBfKlEsffZHGwoH3Uw2Gi3p2hCz2vxMyjPrXI1vVNuUE8BedXspg9A0TMj5ttSLRbplJPStoWFQJuDMrnMaNdAiUEeBGkcQXiS8/u0hPg737WpZQI0T8ftess0029tEJUfGEgf6epzAcRfFayGpSmIgHMRgebE9WxzzzzfmKpinp8MwBywKSArsJrLospoENB8muj9lIbZpPeCXZjh5lGwTvAeyrsOj+13ySDju9RLHbsV2kpuPPDtKHQn9e0vOE6J6j6peZr90gxuCo0zAywXvF4nBZn8mYdotJyi4hLLkmUacejGC7GRVoOAkxsXPs+Qn8/x8OpRB9JIO2BWlcRzINxYa+sfcnDNucoa/YC1fyNcDxK9DsZki2ie54+DfjCnujkQw==;lWP325SoKIdTllmEJPrsuA=="
 ---

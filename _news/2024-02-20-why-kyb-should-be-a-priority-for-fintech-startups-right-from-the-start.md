@@ -85,15 +85,6 @@ related:
         width: 870
         height: 580
         isCached: true
-  - title: "Why Fintech In The Nordics Takes Some Finding"
-    excerpt: "Attendees gather at GoWest Nordic Venture Capital Forum in Gothenburg. February 2024. Despite the international renown and impact of Klarna, fintech was not one of the hot topics of conversation at the recent GoWest Nordic Venture Capital Forum."
-    publishedDateTime: 2024-02-19T12:34:00Z
-    webUrl: "https://www.forbes.com/sites/sarahkocianski/2024/02/19/why-fintech-in-the-nordics-takes-some-finding/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "Bud joins forces with Fintech Galaxy"
     excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. This collaboration is all about bringing tangible ..."
     publishedDateTime: 2024-02-21T09:57:00Z
@@ -108,15 +99,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
-    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
-    publishedDateTime: 2024-02-19T12:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "PfILyfwPy8id29knokvXjexZDgzI2/NSceVU9A/AeLl6S8UDXxP+/PMJ9QnpbQF4LnUJWd2VubIVZrbC5lWEg9/0T+EoEO5T8YaoPsXLI7m9yNPollIg613Mb4tZ2QdzcGiQucW7hfWYs6QeJSD6g8KmLcHzo3hv/onKS0rpRndIz3Ano4mfEe363b/aXgR9+kU80vasCYgQ2c99W2KwmD3yH+83Vm8gsnzirL4nTtKNUEu7IAPkJ7snCWcOpnORjz0q0AFmlhNByVlOoioB/fyzg4yigfjII5kxtqyqcS7q8A/zyFGKV0LS5zh8EMYwITEff0soseRQC27KNal0JiQ+v0yQcU5oahWYH2L9Gh9T3QCzjv6UcqfsXq6ErRR59mb01hYlI6djlCm4dQ4B1qE482h4YSogxksWpJtlmcC7Z7MEKRa9UsQ4zPflijWohNQzHAgHkl6u1k7lwyDwjT0V/RlmGg740PN2gplo1aHnS6zSL1ldpgWA+ccuSZRKsrUZB7JDRyU8okwp7WxeCg==;GCEz5IB3Fge/JtcUxkz47g=="
 ---

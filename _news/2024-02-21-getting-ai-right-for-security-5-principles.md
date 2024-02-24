@@ -7,8 +7,8 @@ originalUrl: "https://www.cyberdefensemagazine.com/getting-ai-right-for-security
 webUrl: "https://www.cyberdefensemagazine.com/getting-ai-right-for-security-5-principles/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Cyber Defense Magazine
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "CPKC Stadium will use artificial intelligence for Security Screenings"
-    excerpt: "Pillars using AI technology will help fans seamlessly walk into CPKC Stadium while screening people for weapons."
-    publishedDateTime: 2024-02-19T11:33:00Z
-    webUrl: "https://www.kmbc.com/article/cpkc-stadium-will-use-artificial-intelligence-for-security-screenings/46852044"
-    type: article
-    provider:
-      name: KMBC Kansas City
-      domain: kmbc.com
-    quality: 34
   - title: "Redefining Cyber Security: Check Point Unveils Quantum Force Gateway Series - The Ultimate AI-Powered Cloud Delivered Security Solution"
     excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading AI-powered, cloud-delivered cyber security platform provider, introduces Check Point Quantum Force series: an innovative lineup of ten high-performance firewalls designed to meet and exceed the stringent security demands of enterprise data centers,"
     publishedDateTime: 2024-02-21T08:42:00Z

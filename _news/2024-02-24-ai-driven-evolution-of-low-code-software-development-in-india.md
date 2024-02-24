@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This Indian AI Startup is Bringing LLMs to Your Kitchen"
-    excerpt: "India's AI-powered home appliance company that featured on Shark Tank India, recently secured a ₹34 crore seed round at a valuation of ₹143 crore."
-    publishedDateTime: 2024-02-19T11:49:00Z
-    webUrl: "https://analyticsindiamag.com/this-indian-ai-startup-is-bringing-llms-to-your-kitchen/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/apliance.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "HndMY6Sx41OMyL37rWUQM1ve7DkrNfdrQg4wDns8iDq60YNe3vQC1rkSOc4dY9PhakUOH5c55MgYrTi9RrP32YwwXLsJc4elX40Gneyh8sZhFJLHNSmgdaTcczkR5fdRZ43ADm38+hNRYDzPllCrIe6uQOfAmGQTckaBQ0LAXe91FBgoV/ayzduqw482nCZGLfJzddII7gi0Iluxshgh+FjpF6lTzAWigNrHS0gZP+l428gnkQDky9DX6wlZontSOAuAFVIA8XUWgBR/CdnitJpgM9C6WcQDyvDqfDm0E+13XgHU2ly37ND1nmD4fr7iZvl6ydF9AJAe41d6OrpZiPL91PyPCkM6UjThyAVAhoY=;LCpI6AWtfETBmByBshJ5gw=="
 ---

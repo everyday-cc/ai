@@ -80,15 +80,6 @@ related:
         width: 870
         height: 580
         isCached: true
-  - title: "Why Fintech In The Nordics Takes Some Finding"
-    excerpt: "Attendees gather at GoWest Nordic Venture Capital Forum in Gothenburg. February 2024. Despite the international renown and impact of Klarna, fintech was not one of the hot topics of conversation at the recent GoWest Nordic Venture Capital Forum."
-    publishedDateTime: 2024-02-19T12:34:00Z
-    webUrl: "https://www.forbes.com/sites/sarahkocianski/2024/02/19/why-fintech-in-the-nordics-takes-some-finding/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "Bud joins forces with Fintech Galaxy"
     excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. This collaboration is all about bringing tangible ..."
     publishedDateTime: 2024-02-21T09:57:00Z
@@ -112,15 +103,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
-  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
-    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
-    publishedDateTime: 2024-02-19T12:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "Lg+OsV+HTrQCzfRyksq59aml1b39wt2x90Ipgg9GrAAKlPVT5tpEI2BZXVA686S1jBpOGbDWeLnvw5W9yXWPGs2VX0yPm4pYYk0odjzGT/63gxxyAP1WPdukwHkbQSziX8+FvhqXzOx/owlHS9rJEjAuS7vR0d6t9cYS0CkmQ+FCc0bM97oB11p07LJ1FITl/ZTbEeSl3ejSJR2c+gcCMYuGq3cgnrudzAMDI5//e/e5qnUE5DY0fMaEyqVhSqhfAuQ6/8whpHdposdzr4t2bR1Xg4mWQj5OdiwJxfMS5vzc13Feum3Uxe62dPdWpAOXDiG/WlWhD+qyglwisfl8/IEdu2xXXKEwYVjAfF0gCYY=;jU+q2pjIgfgJgc9l16lVVg=="
 ---

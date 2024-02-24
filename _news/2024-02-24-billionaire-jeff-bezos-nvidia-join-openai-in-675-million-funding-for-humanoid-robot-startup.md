@@ -43,15 +43,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Bezos, Nvidia Join OpenAI in Funding Humanoid Robot Startup, Bloomberg Reports"
-    excerpt: "(Reuters) -Amazon.com founder Jeff Bezos, Nvidia and other big technology names are investing in startup Figure AI that develops human-like robots, Bloomberg News reported on Friday, citing people with knowledge of the situation."
-    publishedDateTime: 2024-02-23T20:22:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-23/bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-bloomberg-reports"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
   - title: "Jeff Bezos, Nvidia Join Forces in $675M Investment for Humanoid Robots"
     excerpt: "The AI robotics industry is witnessing significant activity ... as previously reported by TechTimes. Utilizing artificial intelligence and advanced technologies akin to \"Google Maps\" for Earth's crust, KoBold aims to enhance copper and cobalt exploration."
     publishedDateTime: 2024-02-23T19:02:00Z
@@ -132,6 +123,20 @@ related:
       - url: "https://www.goodreturns.in/img/2024/02/ai-human12-1708753262.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup, Bloomberg reports"
+    excerpt: "Figure AI, also backed by ChatGPT-maker OpenAI and Microsoft, is raising about $675 million in a funding round that carries a pre-money valuation of about $2 billion, according to the report. Bezos had committed $100 million through his firm Explore Investments LLC and Microsoft is investing $95 million,"
+    publishedDateTime: 2024-02-24T01:33:00Z
+    webUrl: "https://www.aol.com/news/bezos-nvidia-join-openai-funding-202228535.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 50
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/fc4f5b2e6b306a32dda4bbede7b6897a"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "OOoHZxYWL96OOv965LkvY6engYuTGR32hGgPB27f1w/Y9u/1i4BrENSExI8SeMq1ttxIcWFrorB/F6bjNURzwQxPZtnvrnpL1u+3Hp9hmbNSdLZTblecWh4BM0kgQrWw6HD2AxjXoj6UdK84PLdYxhVYkR+hEq32bsvBQ3QfcCQw9ZbggnqjPf58JXMtLymdFVWMHJN1gqw3ypqrhvvyRSlYPsh02W7AltZOGYA6Pnb3QHaKoE608EEe86KgF+d42rr2cG53GVHDpXx1E8uzx8eYeKA42OQAX1PziWS2T+rmfHXpY0N5tfjvh1jQbPNu8f8fnwqdNzWCnekxKo3HMMxIkuPlZQpHXiCrKncb6JfmHikpOngfr2AkipsEn9MIx4SfqlhBV9lwUprWOIt60qsEs7TnBHSUCavsRzuYIUmb3Jvx3oX9E2EkPVfP7suGIKrh/zAymaex+G8p4eQbxXnFbyE1o0x2EJQNHiXT87ALMhzo7OGu4Gmkv7jb1CLQi+GJpjUYONImcm8TVDQbmg==;xt0itCScHOMq/tp1Zr0HeQ=="

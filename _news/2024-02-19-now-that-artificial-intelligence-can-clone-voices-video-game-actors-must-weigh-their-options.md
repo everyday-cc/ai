@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/artificial-intelligence-clone-voices-v
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp"
 type: article
 quality: 78
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice actors face a reckoning in the age of AI—but some are leaning into the technology to give themselves an edge"
-    excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker’s permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
-    publishedDateTime: 2024-02-19T12:39:00Z
-    webUrl: "https://fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/"
-    ampWebUrl: "https://fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 67
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1383909511-e1708346325898.jpg?w=840"
-        width: 840
-        height: 472
-        isCached: true
   - title: "Voice actors have mixed responses to AI clones of their voices"
     excerpt: "As video game worlds get larger, some game studios are experimenting with AI tools to give voice to a potentially unlimited number of characters and conversations."
     publishedDateTime: 2024-02-20T17:44:00Z

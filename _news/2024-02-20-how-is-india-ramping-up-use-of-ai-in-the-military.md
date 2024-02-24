@@ -9,8 +9,8 @@ ampWebUrl: "https://www.firstpost.com/explainers/how-is-india-ramping-up-use-of-
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Firstpost
@@ -42,20 +42,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-23T154757.676.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "This Indian AI Startup is Bringing LLMs to Your Kitchen"
-    excerpt: "India's AI-powered home appliance company that featured on Shark Tank India, recently secured a ₹34 crore seed round at a valuation of ₹143 crore."
-    publishedDateTime: 2024-02-19T11:49:00Z
-    webUrl: "https://analyticsindiamag.com/this-indian-ai-startup-is-bringing-llms-to-your-kitchen/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/apliance.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "bBwLVSX+N8aY7AJSr2yzMzS6HRyXKW6Gt2Jey/Ox3vsSC+q7gDi570YSc6GX6e0v3r55DIptHQyGGuE7mYINjm84WyL1KrT0rpjPFvO605DPT0W6toCt3L5+cKGlPfLuXn6yGyoaLlcMU8o5rd8VIM4BOHL8RWpCd86TpZ1mfRqawB5nbt+U6SSCW5Wd3+yShUjxADyMUZFh0gzfASkNqptzX9E6VdEffxC0/nShO8rp4PQJpEP3+KMA3ZqSEZqYifDLyAo7K7Zv+karuIdYiaFvKrdQ3OY6ZslyyK5P/uVal9JcjOR65/1wGhL361Jdi6tWm4xCHwLjpLCjVKN26IxeNP83sJ38Hs6Q7O1arLQ=;LBrLc0baLdOnNLWYnToVPg=="

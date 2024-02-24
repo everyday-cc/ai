@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google employees are posting internal memes poking fun at how many AI models and names the company launched"
+    excerpt: "In the last three months, Google has launched Gemini, killed Bard and renamed it Gemini, launched a better version called Gemini Advanced (not to be confused with Gemini Ultra, which is the name of the model), launched another improved version called ..."
+    publishedDateTime: 2024-02-21T20:25:00Z
+    webUrl: "https://www.businessinsider.com/google-employees-memes-ai-brand-strategy-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/65d636c5a3bd891424f8f4e7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "1v6pcGFKjG0MxQ+sOhNr17uSSSmArWcs9Axk9jSN1ISycj0WVu/hLxVI8TJZF1MBFsGGjUbODgZM8TwSOzJCG4Tq65oy/dv3aYct33gub2f6JsyQ/KALS+coPn8Rqo4OiUekxCWk8/mIqZnfLQ6gLfBhDOsDdT5x4774zABRPD7acRyxFDRGCL2mD81wO15GdNQ9ATPye9/lIpQ+3s3qsUF/vI+l91ijxY/7rKW05wlxk1WnY/uiSWa4zYdXBPKtiNYKR2oHnCPwaFeDz7utzcDXOtVWvX9/fkJZFoAe54ePPolZsFlchEE/O9YAaeKtKxA6AFVULBW+TEwYZM9nqzRc+8TmQmbFQA/P/5BqSuP5aZYvxuE9hSGqgFCVQ+Q0HRtuFobRD6zt95EEVwgEfQvo+CFJfK58DKNgK0OTm+uPKrMZkyWeTyATH+9CVeSXNLKkipf74086BhGlYXkxLkYdULh3JTHDSAz+TyE2PLkw3tPDmuGSBNKZR2EPpY85WuY6QwBiL4q38fwALa/ASg==;IdBnhWauOqK8bt/4ntPwyA=="
 ---

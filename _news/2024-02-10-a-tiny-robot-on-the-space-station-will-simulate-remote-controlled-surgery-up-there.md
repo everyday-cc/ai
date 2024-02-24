@@ -2,25 +2,27 @@
 category: news
 title: "A tiny robot on the space station will simulate remote-controlled surgery up there"
 excerpt: "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a ..."
-publishedDateTime: 2024-02-10T11:30:00Z
-originalUrl: "https://www.kuow.org/stories/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there"
-webUrl: "https://www.kuow.org/stories/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there"
+publishedDateTime: 2024-02-10T13:22:00Z
+originalUrl: "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/"
+webUrl: "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/"
+ampWebUrl: "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/?outputType=amp"
+cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/?outputType=amp"
 type: article
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: OPB
+  domain: opb.org
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/3027e8178cb986b4feb8b79e9b912c3d.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 657
-    height: 492
+  - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/B5WBQ32ZD4P27EACRGUHXVYO7U.jpg?auth=af1d0e097f4ba70c7df6eb56dd8c32ba676c0132fdc3657af7a7b9edbd21b212&width=767"
+    width: 767
+    height: 574
     isCached: true
 
-secured: "euA+crCG6FcIBgBrETZN9tNJ+vbpk1F7s8Ch+ZltRjWKdTkU87SJggMFsxzeyXxbJUklck/lQ9YY6oMIvjMklLDYfQ01/HYAd25OMtmvKi982/P6TSTMIg/WN0LCRnABSG/6ksLaka0U4sPAuL11zDWBY+5ZjrH3dF7AUBh7auemK79NYO358ZfgZikLeZtgXqZtcjDhiRhso+o6PRijVKzbBNiPVg5xEtrIrWhcW4nCONNrOAgAA+SltKo0Hhw5T9pK9Y1Rz5+cP4exMIktCH6/6K+X7Ats8uwO4IHZQu03hVzPpGKhEm47DCrSAe/zfqu77m2Abw5sn6J6sXn7aci3pGbqul4/f1jPxN48Jrs=;zn74sDzEJhFkHujRewSHsQ=="
+secured: "b0QxPy+3ysqKmcXkyG0wNkcDizQAhztny0zGIdxkuVL0KFEVsW86NFsxuksL6ges+R/E8mUm20Tjbfmtyi32U5oLqCKacF0UPrkg+RRAS2EfJ51qyIX4NK0HirhG81ZwNPyguJTph2+rw+XKzDl6CzlL3BsaO/FnGjMDFqK9afj6vLz7IopJwviiUPy/dzrmII9zAtNkuf0bz0ASP41LHUoj7rCaYTQFw+zXddxvbZ/ZCfBAqExJ6754BLSgaIbIDxEhVYm/3Y7d5ey/P84Nypnhxen7aSeK2UupQWjgFS19VeAIKSgN9m8GmpIHfI50Yv2hxSIOEQoTamnHOozgCWwT14Y9tm1e0SDNJTTs/fo=;4puqFdiBdwElxHTI3b9mrQ=="
 ---
 

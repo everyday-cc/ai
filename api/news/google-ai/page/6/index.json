@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-12-04-deepminds-cofounder-demis-hassabis-is-a-chess-champion-who-landed-funding-from-peter-thiel-by-talking-about-a-key-tension-in-the-game.md",
-      "title": "DeepMind's cofounder Demis Hassabis is a chess champion who landed funding from Peter Thiel by talking about a key tension in the game",
-      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Before DeepMind's Demis Hassabis became a leading figure in AI, he was a chess master who had won multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/deepmind-founder-demis-hassabis-chess-champion-peter-thiel-funding-2023-12",
-      "originalUrl": "https://www.businessinsider.com/deepmind-founder-demis-hassabis-chess-champion-peter-thiel-funding-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/656ce64a7a3c8094d5d90843?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/deepmind-founder-demis-hassabis-chess-champion-peter-thiel-funding-2023-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-founder-demis-hassabis-chess-champion-peter-thiel-funding-2023-12?amp",
-      "publishedDateTime": "2023-12-03T21:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-02-this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans.md",
       "title": "This DeepMind AI Rapidly Learns New Skills Just by Watching Humans",
       "excerpt": "Most algorithms learn to mimic humans from hundreds or thousands of examples. But a new AI from Google DeepMind picks up new skills from humans on the fly.",

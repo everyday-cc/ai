@@ -28,20 +28,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "The five reasons people give for returning the Vision Pro"
-    excerpt: "Friday was the day when the 14-day return period expired for those who bought their spatial computer on day one, and Apple is reportedly taking a keen interest in reasons people give for returning the Vision Pro. A new report over the weekend didn’t ..."
-    publishedDateTime: 2024-02-19T11:58:00Z
-    webUrl: "https://9to5mac.com/2024/02/19/returning-the-vision-pro/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/Reasons-for-returning-the-Vision-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Apple Vision Pro Impressions: One Week Later"
     excerpt: "Vision Pro's spatial computing functionality heralds a new era in computing, where the boundaries between the virtual and real blur and the digital realm become an intrinsic part of our everyday lives."
     publishedDateTime: 2024-02-20T14:00:00Z
