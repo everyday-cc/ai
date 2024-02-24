@@ -337,6 +337,20 @@ related:
         width: 1456
         height: 832
         isCached: true
+  - title: "Google apologizes over Gemini image generation inaccuracies"
+    excerpt: "Google LLC has apologized after its Gemini chatbot generated images that incorrectly depicted racially diverse characters in historical contexts."
+    publishedDateTime: 2024-02-23T23:19:00Z
+    webUrl: "https://siliconangle.com/2024/02/23/google-apologizes-gemini-image-generation-inaccuracies/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Gemini.png"
+        width: 759
+        height: 428
+        isCached: true
   - title: "Google Pauses Gemini Image Generation"
     excerpt: "Google paused its Gemini image generation capabilities after users complained of its inaccurate and offensive output."
     publishedDateTime: 2024-02-23T21:33:00Z

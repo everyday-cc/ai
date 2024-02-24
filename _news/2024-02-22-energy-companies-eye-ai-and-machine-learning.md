@@ -25,24 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "AI's promise and problem for law and learning"
-    excerpt: "AI is a large field of academic research and practical application ... Each new human has an advanced start point from which to generate new thought and discovery. Artificial means something made by humans, rather than occurring naturally."
-    publishedDateTime: 2024-02-21T19:18:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/ais-promise-problem-law-learning-2024-02-21/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "Top Tech Learning Resources For Both Pros And Laypeople"
-    excerpt: "Below, 20 members of Forbes Technology Council share a varied selection of affordable (often free), practical and effective tech learning resources. Whether you’re a tech leader building a learning culture, a seasoned tech pro or an interested layperson ..."
-    publishedDateTime: 2024-02-20T15:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/top-tech-learning-resources-for-both-pros-and-laypeople/"
+  - title: "Using AI To Modernize Drug Development And Lessons Learned"
+    excerpt: "This article discusses AI uses cases, in drug development and interviews the CEO of BioPhy and provides insights on being an entrepreneur, and guiding our youth."
+    publishedDateTime: 2024-02-23T23:35:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 34
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63e97e97ff0dadf0a54143fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1443
+        height: 900
+        isCached: true
+  - title: "How To Handle The AI Ethics Dilemma In Your Business Development"
+    excerpt: "The Role Of AI Ethics In Sales & Business Pulling from my vast experience in this area, I'd like to chat about what AI ethics means in the world of sales and business. First off, there's the big deal about data privacy. Sales AI tools are like sponges ..."
+    publishedDateTime: 2024-02-21T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/21/how-to-handle-the-ai-ethics-dilemma-in-your-business-development/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Accelerating Product Development For The AI Age"
+    excerpt: "The sudden emergence of ChatGPT kicked off a race to create new products powered by generative artificial intelligence."
+    publishedDateTime: 2024-02-20T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/accelerating-product-development-for-the-ai-age/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "DYr6Em4QhSxpyfn7K8P/R3F2Qgj/4T+csBf7OK241XXEUGQ9gOGIHG0uCk1ULx0gQf1cxvHlbN6918n6Wm12jVCGL4ZC3oOGO9h5m5OjdGGIgW+0U7/KskOIgkxWOFCckznxV53681nK56fDBhpDFlXMDkw8pY8hU/7zHS2iyMUNCWJrOJCR7O+/zSKc0kGkjIofZ0PVOTt5znXNaIfFrckDCpcK2kUVRp0iG94yDG0HiaJEcKaAGgcGQpz0U9x4yseVaV7U2b633MhlNDB+HkGc7ctPuAJsLH2LzLY23s+sVZj1gJK5eSnnU2N4SA6KIbJnATm6iV7AMEZzIXPWXxAuGhGuuCtx3GG4PpP70Ag=;dFwb6XrJY4zODp86Oig8/w=="
 ---

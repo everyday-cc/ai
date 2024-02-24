@@ -36,20 +36,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 62
-  - title: "Commerce Department Launches Cross-Sector Consortium on AI Safety — AI: The Washington Report"
-    excerpt: "To achieve the objectives set out by the AI EO, the AISIC has convened leading AI developers, research institutions, and civil society groups. At launch, the AISIC has over 200 members, and that number will likely grow in the coming months. According to ..."
-    publishedDateTime: 2024-02-19T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/commerce-department-launches-cross-3265822/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 28
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16070_4112.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "zaDn6KxBAfsbU0FKwcbiiVDSXjUgSOJ/My+7MNdU00zAXtvPgV+ufJBt+nX5bVgWyBfPXqz9crlc+aFPRynyyfAI+ilS08L28i7cjEgUIYfs/obsy5omQyIH63ww/oWMxKuxJakrKqAOK0B+3HDGsipEsfqIj5izpzlUAi6VKekKUxRAsa2vwFH2Ocj8eCmflr/tj7wkpEdKbMpozzHO6fhffkERvExAmITr7EosQsvu+Q5ir2/1pcwOFenFX3FtZwND4YkLNw53viNXGFZSXXiuoi5sFssu5bp8ZjYWE+U3v6mlkYqK+Ms6M8yyL2hv3BXMEDDgH9zn6rNedOOvHM+OYcln7tRgIoy3RQd+qm8=;48aZyYMUSqfNBGcd0dAIjA=="
 ---

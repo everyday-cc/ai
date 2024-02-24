@@ -43,15 +43,6 @@ related:
         width: 900
         height: 599
         isCached: true
-  - title: "Accelerating Product Development For The AI Age"
-    excerpt: "The sudden emergence of ChatGPT kicked off a race to create new products powered by generative artificial intelligence."
-    publishedDateTime: 2024-02-20T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/accelerating-product-development-for-the-ai-age/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "yVIWN5CD0L9RUeasSMNG1ho+oFZhWcB8waWktsmK1iZWWd26Q6JKuGIfsf5LwE7Dgzr/iYSPnLVBHTCBMeMhXLupCSmV+nht5G4GhhddIWxRPtfftDRDU9OALVIbcgz1xIjh+Qhb9OG5CuXuq122EKwJ0dOjte1NcPAhkqMxwwl3DvKGW6wN++BF1KaHRONw9+gf9FQJkPJdLHkL64MaN7jW8Cv00tlmBUBYcMOocjoVw2IqLzsiUHwwftqBqyjRG+3V4VAcaU4EWcKcjtdJidpxtCMiYEsQaqJo7PAQ3MaDgqt8UyxOnjJSZ8ZmDuj9kJgA9Qll6v9SmZ3i3SnTzGe2SxSv8+zhD1RQgxd0h88=;XPAH0WTH+dKai9oOGYMg5A=="
 ---

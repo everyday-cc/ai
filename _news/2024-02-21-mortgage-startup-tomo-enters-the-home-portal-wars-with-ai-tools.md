@@ -39,6 +39,20 @@ related:
         width: 640
         height: 800
         isCached: true
+  - title: "AWS launches program to boost AI and tech competency for small and medium businesses"
+    excerpt: "Amazon Web Services (AWS) recently launched a new program aimed at helping small- and medium-sized businesses build competencies in areas like artificial intelligence (AI), the cloud and other skillsets to be more competitive. \"Small businesses often don ..."
+    publishedDateTime: 2024-02-19T07:18:00Z
+    webUrl: "https://www.aol.com/aws-launches-program-boost-ai-151834099.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 47
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/PpNJP4_cOBlYG1x1noZw7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/ed616f10d94cec74df632a21ff34cf1d"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Advanced AI SoC Powers Self-Driving Car"
     excerpt: "How Ambarella’s system improves radar sensing. How the AV3 family addresses automotive applications like self-driving cars. What’s inside the CV3 system-on-chip (SoC)? Advanced driver-assistance systems (ADAS) need high-performance computing engines to ..."
     publishedDateTime: 2024-02-19T16:51:00Z
@@ -53,15 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS launches program to boost AI and tech competency for small and medium businesses"
-    excerpt: "Amazon Web Services (AWS) recently launched a new program aimed at helping small- and medium-sized businesses build competencies in areas like artificial intelligence (AI), the cloud and other skillsets to be more competitive. \"Small businesses often don ..."
-    publishedDateTime: 2024-02-19T10:18:00Z
-    webUrl: "https://www.aol.com/finance/aws-launches-program-boost-ai-151834099.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 27
 
 secured: "gPAPWxE4J2/AeqYg8eWRlUhydoyYReV3esrFg5+dxoCpSfMfi46iBtqWO3OEd/kOlzocvpUVfsst1IGwL67iwLbo5sOtVo9t3C3jLNAjS0nPSMn1xexKl5hN4y/4G6qVkWm9dreE0PoHfbkhktSjs3e7ANBgIlnldWn9hUKvM9DQU/wBXzEIvEXVwa4Qq2Pba/6qHCo5Toq0XUYfb3C1Bzt17k5TM9pTx8cLgYAWNRqfPMnTeIRYT5RhZ67tYdOUF3hzxO4h+/5zpl9drj/dc4vZyyxEs3R1VwKSuXcQNYM0Gl6g1p6mrXqjrJHqkywrO4p/uNYt7LVSaONEySXZ7MUz2LlccAXenusEr7EgPrJzICLyjv2lj6NWIvXNUGcsg+mFG0SAdux0xnq58/uLo7R0J4DSHmx+r6brQ6igpfTpc5FqfmIFo9IxRCLx9XJ4n6RSzQZvEZpnVK9p9NDaPDZ+GcDgfujFsDrxR6FFSl2/ZjqZGnhr90MwBywi553RImJwkM59fKtIiXuUHyrmcg==;Tg89zCiwsGHHZFK6igj7YA=="
 ---

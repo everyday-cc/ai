@@ -49,20 +49,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "You Can Now Run Your Own ChatGPT From Your Nvidia GPU"
-    excerpt: "you can install a generative AI chatbot right on your computer and tailor it to your own needs. Before you start, make sure you're running the latest drivers for your Nvidia GPU—the GeForce ..."
-    publishedDateTime: 2024-02-19T00:00:00Z
-    webUrl: "https://lifehacker.com/tech/run-local-ai-llm-from-nvidia-gpu"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 56
-    images:
-      - url: "https://lifehacker.com/imagery/articles/01HQ0F1JESFFD264PR1C0ACSDA/hero-image.fill.size_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia ramps up GPU production to fuel AI data center revolution"
     excerpt: "The chipmaker expects demand to outpace supply through the year. “We’ll do our best,” CEO Jensen Huang said Wednesday."
     publishedDateTime: 2024-02-22T23:01:00Z

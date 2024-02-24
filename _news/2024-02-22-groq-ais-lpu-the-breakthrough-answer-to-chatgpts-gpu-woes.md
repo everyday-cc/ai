@@ -102,20 +102,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "I used ChatGPT to create AI images — this is how you can do it yourself"
-    excerpt: "Creating AI images with ChatGPT is quick and easy ... With ChatGPT 4 selected, you’ll see an option to start a new conversation or if you’re a returning user, you can resume one that’s already started. Creating images works with either option."
-    publishedDateTime: 2024-02-19T00:00:00Z
-    webUrl: "https://www.tomsguide.com/ai/i-used-chatgpt-to-create-ai-images-this-is-how-you-can-do-it-yourself"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/UTmP5HMxmYERz3CxgNA467-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The 7 Best Free AI Logo Generators That Aren’t ChatGPT"
     excerpt: "Some AI logo generators will automate the entire process from start to finish based on a single prompt, while others will ask you a few supplementary questions to ensure you’re on the same page. There are also some logo generators we’ve tried that ..."
     publishedDateTime: 2024-02-21T00:00:00Z
@@ -180,6 +166,20 @@ related:
       name: Scientific American
       domain: scientificamerican.com
     quality: 44
+  - title: "Aiming AI at society’s toughest challenges"
+    excerpt: "It has birthed trailblazing Alphabet subsidiaries such as Waymo, the self-driving vehicle rideshare ... s happening in this movement—it’s democratizing access to artificial intelligence so everyone can get involved. How can companies unlock the value ..."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://www.strategy-business.com/article/Aiming-AI-at-societys-toughest-challenges"
+    type: article
+    provider:
+      name: Strategy+Business
+      domain: strategy-business.com
+    quality: 39
+    images:
+      - url: "https://www.strategy-business.com/media/image/44856520_thumb5_690x4002.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
     excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"
     publishedDateTime: 2024-02-21T17:56:00Z

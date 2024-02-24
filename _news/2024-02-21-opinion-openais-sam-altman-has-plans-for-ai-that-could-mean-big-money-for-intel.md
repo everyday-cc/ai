@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/openais-sam-altman-has-plans-f
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/fe80dc7fc24c7d1357f3aefa8ac33b93_L.jpg"
         width: 620
         height: 465
-        isCached: true
-  - title: "101 on OpenAI's new text to video AI model, Sora"
-    excerpt: "Sora is OpenAI's newest AI model that can create realistic and imaginative scenes simply with text instructions. Here's a breakdown of exactly what you need to know about Sora and how it can help industry professionals in the space."
-    publishedDateTime: 2024-02-19T03:43:00Z
-    webUrl: "https://www.marketing-interactive.com/101-sora-openai-video-text"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 39
-    images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/article_images/101-sora-openai-video-text/1708314097_artificial%20intelligence%20%281%29.png?auto_optimize=medium"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Sam Altman Brushes Off $7 Trillion AI Chip Project Speculation: 'Don't Pay Too Much Attention To That'"
     excerpt: "OpenAI CEO Sam Altman denies reports of seeking $7 trillion for AI chip project, urges not to pay attention. Project estimated to cost $5-7 trillion."

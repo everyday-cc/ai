@@ -5,9 +5,11 @@ excerpt: "One highly visible use of AI in the financial industry that can be sup
 publishedDateTime: 2024-02-23T19:06:00Z
 originalUrl: "https://biztechmagazine.com/article/2024/02/how-does-high-performance-computing-and-ai-help-financial-firms-perfcon"
 webUrl: "https://biztechmagazine.com/article/2024/02/how-does-high-performance-computing-and-ai-help-financial-firms-perfcon"
+ampWebUrl: "https://biztechmagazine.com/article/2024/02/how-does-high-performance-computing-and-ai-help-financial-firms-perfcon?amp"
+cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/02/how-does-high-performance-computing-and-ai-help-financial-firms-perfcon?amp"
 type: article
-quality: 19
-heat: 19
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -17,7 +19,14 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
-secured: "P0paehMSYjW6wb9aS9P77Wiqs2mts/Lt95961INN6P7NrRawApzEUUHOQgILaJ23LEpUMYsZf5rwTMJPKY/J1djvpugHpktH8q7sN4o9YcFyW1NwT3mwnYZJIeg0z9lwPXt7EUi1adoZYa6totabiNu3BwnXPFSJcmUOwJqQtxXhQKusw4Hel3atRwGWawpgMaY6jBrQqGM7OsmgvOYo4DR9/B8em+UMtuEFor8rqVKnGa7bk2wzqe1DQdEUBg4iDMNOV2iKhq+FZ2zm4FAgQ38dea1P76rPmWKQ7l7DZ8n06jWpQIjrTxJVuNnTDZCoqo2uEJ+w0OrB5maTSTUr3JFzvjSivKAa9YQ4kv0Rx5l9KVMXsBlwdu4YEg45n64jow1P7RaFSIDLIuSLCa6e+xtXb2y8ewQ0v5FH0AQ630h3HuOZOwcvPkskHzvikDCpdF5v7vWQ+G8IvOgGdwbccqBVERE3GLLtBHVEFQYQQD3QIVaP9ZmAsVA1fo9beY0sfAe9stmrchyF18yeJ5Uy2w==;nnopJcEIVNw8HrCNa4Achg=="
+images:
+  - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202402/GettyImages-1310993304_cropt.jpg?itok=OhLdhr45"
+    width: 1440
+    height: 500
+    isCached: true
+
+secured: "UrMoI7b5nCziOS5bEzJFH68f2S/ODN4+mvpaxfeydrRgYILTV/TrNMp+ipAAnNvDmzbTRMgBQNvFSzskqddFWsONPLAQ2gK/ehTyanNG+QPlOPfDCG6S5ew/Hb6aexnxypbZd5EZ0eR7cF7WH3jTDC6XwAREb1Kptjlp8vlkLKexH6zzOGboJjQz7rH/xe+hfYKbDO1ukTufI+OZjukuqAmil7yzYu+Tx18hT1hH6jsf0gmeGU69HktxbxAk8dlHmQHZ+Y5fhMCxQv/KvYlhBnaUtqkMobcm4+r2cPQOyvbhAQBeWq4RgeWqW6fD1TdfEGx8gCYYeEJSR4kD5wj2PeXsWOM4Xeegf7okJSFoQlI=;tEu10Z7pfaR00hHRTpduIw=="
 ---
 

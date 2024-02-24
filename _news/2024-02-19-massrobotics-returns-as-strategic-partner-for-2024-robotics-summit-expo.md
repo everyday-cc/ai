@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/massrobotics-strategic-partner-2024
 webUrl: "https://www.therobotreport.com/massrobotics-strategic-partner-2024-robotics-summit-expo/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Humanoid Robotics: The Next Step For Artificial Intelligence"
+    excerpt: "Robotic technology is evolving at unprecedented speed, to the point where robots can learn by watching what humans do."
+    publishedDateTime: 2024-02-23T15:04:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/humanoid-robotics-the-next-step-for-artificial-intelligence-7458.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 69
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/andy-kelly-0E_vhMVqL9g-unsplash%20free%20human%20&%20Robot.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Why Artificial Intelligence Matters In Robotic Technology Robotics & Automation News"
     excerpt: "Artificial intelligence (AI) has emerged as a groundbreaking force in a plethora of sectors, including transportation, healthcare, finance, and agriculture. In the realm of robotics, AI is redefining the landscape, as well as human-machine interaction."
     publishedDateTime: 2024-02-22T04:13:00Z

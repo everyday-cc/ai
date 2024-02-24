@@ -7,7 +7,7 @@ originalUrl: "https://www.sandiegouniontribune.com/business/nation/story/2024-02
 webUrl: "https://www.sandiegouniontribune.com/business/nation/story/2024-02-23/google-says-its-ai-image-generator-would-sometimes-overcompensate-for-race"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Google says its AI image-generator would sometimes 'overcompensate' for race"
+    excerpt: "It was built atop an earlier Google research experiment called Imagen 2. Google has known for a while that such tools can be unwieldly. In a 2022 technical paper, the researchers who developed Imagen warned that generative AI tools can be used for ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.wral.com/story/google-says-its-ai-image-generator-would-sometimes-overcompensate-for-race/21298041/"
+    ampWebUrl: "https://www.wral.com/amp/21298041/"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21298041/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 56
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/technology/2024/02/22/21295823/65d921a890be7-media_9eb0816c8a2943e990424b9e3b8d6996-DMID1-621shpc5b-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "/u9L3Yl0n0EyvR7JxkqPn2dHgc9SZt2x7jByEf8uPPFatNOnNwMXSUcmZgphRl9EqnfI2LGV6r9InCIvsra4ppykOeWui1G2EEquVDqIJFdLbuPXDuHAeJRCD4BsOYsdJXApdEiwf4H3S+L+kvucSPd/mNL0o9pnaEZFb+vvbgVyvtZQfY2RXO+9G2sjQ80PhiNCEshw2VOYhJ8qIPskWQ36JN81ap5okwkBEg1L50Zi3rkG0wKZdHIoWMKuuT+PtlqW9xtqYdIEO5bt3M27fTI1nf40WVki0osPRGTPStRHEAe01kyf1Ypz5Y0cwT/PcJl61IDCPxnfPzq1FYZsH4UbLhhcMh0SXQvDtwzFC84=;OSZNYXYqpRmlpiA+aQqZKA=="
 ---

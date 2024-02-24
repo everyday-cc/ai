@@ -1,0 +1,78 @@
+---
+category: news
+title: "AWS will add Mistral open source AI models to Amazon Bedrock"
+excerpt: "It makes total sense for AWS to offer a wide range of models, and the move follows its cloud competitor Microsoft adding Meta's open-source"
+publishedDateTime: 2024-02-23T23:35:00Z
+originalUrl: "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock/"
+webUrl: "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock/"
+type: article
+quality: 86
+heat: 116
+published: true
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_Amazon_Bedrock_with_a_server_in_the_middle_148a2a0c-76a0-4b9e-b66e-11d18d68cf1c-transformed.png?fit=750%2C600&#038;strip=all"
+    width: 750
+    height: 600
+    isCached: true
+
+related:
+  - title: "AWS brings Mistral AI’s open-source LLMs to Amazon Bedrock"
+    excerpt: "Mistral’s two open-source LLMs will become available alongside the more than half a dozen foundation models already accessible through Bedrock. Some of those models, namely the Amazon Titan series, were developed by AWS. Bedrock also provides managed versions of neural networks from Meta Platforms Inc., Anthropic PBC and other major market players."
+    publishedDateTime: 2024-02-23T21:35:00Z
+    webUrl: "https://siliconangle.com/2024/02/23/aws-brings-mistral-ais-open-source-llms-amazon-bedrock/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/amazon-3.png"
+        width: 933
+        height: 519
+        isCached: true
+  - title: "101 on OpenAI's new text to video AI model, Sora"
+    excerpt: "Sora is OpenAI's newest AI model that can create realistic and imaginative scenes simply with text instructions. Here's a breakdown of exactly what you need to know about Sora and how it can help industry professionals in the space."
+    publishedDateTime: 2024-02-19T03:43:00Z
+    webUrl: "https://www.marketing-interactive.com/101-sora-openai-video-text"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 39
+    images:
+      - url: "https://marketing-interactive-assets.b-cdn.net/article_images/101-sora-openai-video-text/1708314097_artificial%20intelligence%20%281%29.png?auto_optimize=medium"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Biden administration seeks input on rules for open-source artificial intelligence"
+    excerpt: "The Biden administration is seeking input from experts on what sorts of guardrails are recommended for open-source artificial intelligence models. The National Telecommunications and Information Administration announced Wednesday that it is seeking ..."
+    publishedDateTime: 2024-02-21T10:10:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/2866026/biden-administration-on-rules-for-open-source-artificial-intelligence/"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 32
+    images:
+      - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2023/12/ap23303701688356.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+
+secured: "3NPe59v8a2Q39wUrYaEZ2AOspMY69oqwTt4jRQibvTtwJlhXm0bTdBpuGZypk7e03v3MIMk+aP8s9fBdp0u9eZHlVD3oiNDF/HZsG4eJbQkG34ptuJPqfjkpXYQKSFI/bsZSJH1Ciy/y1dPQmy/rH8US019vTHtGP02rnuSj3GufNEAu0zAcGEorSjC/sYVW3hffDZ8ID13NJLS7yeyBhZXkATffnwB49WFj6OadinXz44lziXqBM7u1v4q03knpXQ+aOOGotpJGX6+n+MSKngJpwgog8AJEtoy3pXcb/oUs7r+UTOFhiYXEUr59ghKElLV2aCXcnuQXnNQzpg8nBpSeKuPf9qziSqsiQT+MTgw=;EKFXGQA5stFKVhrEiPkzcw=="
+---
+

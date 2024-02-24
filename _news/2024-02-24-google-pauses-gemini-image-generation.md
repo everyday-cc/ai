@@ -350,6 +350,20 @@ related:
         width: 1456
         height: 832
         isCached: true
+  - title: "Google apologizes over Gemini image generation inaccuracies"
+    excerpt: "Google LLC has apologized after its Gemini chatbot generated images that incorrectly depicted racially diverse characters in historical contexts."
+    publishedDateTime: 2024-02-23T23:19:00Z
+    webUrl: "https://siliconangle.com/2024/02/23/google-apologizes-gemini-image-generation-inaccuracies/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Gemini.png"
+        width: 759
+        height: 428
+        isCached: true
   - title: "Google updates Gemini AI, apologizes for 'woke' inaccurate imagery"
     excerpt: "These two updates followed the most recent one on Feb. 8, through which Google rebranded its chatbot from Bard to Gemini and included many upgraded features and capabilities. However, neither of the updates mentioned any change to Gemini’s image output."
     publishedDateTime: 2024-02-22T00:00:00Z

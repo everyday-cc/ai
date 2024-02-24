@@ -438,20 +438,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Super Micro: Riding The AI Revolution"
-    excerpt: "Super Micro Computer is experiencing significant growth in sales, with a surge of over 100% reported recently. The company is forecasting EPS growth of ~250% in the current quarter, driven by increased demand for infrastructure solutions, warranting the ..."
-    publishedDateTime: 2024-02-19T00:02:00Z
-    webUrl: "https://seekingalpha.com/article/4671278-super-micro-riding-ai-revolution"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2024/2/17/234751-17082323014345374.png"
-        width: 640
-        height: 358
-        isCached: true
   - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
     excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."
     publishedDateTime: 2024-02-22T12:30:00Z

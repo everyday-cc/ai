@@ -51,6 +51,20 @@ related:
         width: 800
         height: 557
         isCached: true
+  - title: "When the AI-Powered Killer Drones Start Talking to Each Other"
+    excerpt: "To donate by check, phone, or other method, see our More Ways to Give page. Quality journalism. Progressive values. Direct to your inbox."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://www.commondreams.org/opinion/killer-drone-swarms-ai"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 39
+    images:
+      - url: "https://www.commondreams.org/media-library/swarm-of-drones.jpg?id=51510340&width=1200&height=600&coordinates=0%2C177%2C0%2C177"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "csh3egz3vR1S0rFeyDrECJJIETZI3/yVrjNU17yy/HPch3Rm3I/TaTL2Z1rfxpzBDPggi3dhIk2ZM41BefklA1IAXXSiSxT+18PI2pLfiVTyAsL/kGAeAEbiGqahxhrwFiDKdglE2JPckq7bYwgVP7uIwGz5JpBweU5Dw2a6btuocXKK5lcyfPKqbby4P2ap9gsC/3rwlTX/2t6eJyeJSVy6slwGoYph/IGS8O0ewJMvHJtZODnLhxdf/CGAN0R78Jjekf6qJq+hLBXMRhOFv0ZsEO8ZioO2GxJfhwOfp5L9azWW9f73gHQGO0XXVgMT9u8SIHSsCeEl/BxtH9wC/7W2pLceEKGaZOJkCnkSqiU=;788MBVXh+BCG8mrczzozgQ=="
 ---

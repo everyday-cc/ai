@@ -22,37 +22,44 @@ topics:
   - AI
 
 related:
-  - title: "MBZUAI and UNDP partnership to advance use of artificial intelligence for sustainable development"
-    excerpt: "As part of the collaboration, the university becomes the founding knowledge partner for the UNDP’s AI for Sustainable Development Platform"
-    publishedDateTime: 2024-02-19T10:01:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/mbzuai-and-undp-partnership-to-advance-use-of-artificial-intelligence-for-sustainable-development-co48dptc?amp=1"
+  - title: "Using AI To Modernize Drug Development And Lessons Learned"
+    excerpt: "This article discusses AI uses cases, in drug development and interviews the CEO of BioPhy and provides insights on being an entrepreneur, and guiding our youth."
+    publishedDateTime: 2024-02-23T23:35:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/Y2RhYzNkNWUtNmE0MC00/0/jji-mbzuai-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 599
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63e97e97ff0dadf0a54143fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1443
+        height: 900
         isCached: true
-  - title: "New mission to set standards for use of AI"
-    excerpt: "Tamil Nadu is establishing an AI mission directly under chief minister M K Stalin to develop guidelines for “constructively leveraging” AI in areas such as education, employment, industry, and medicine."
-    publishedDateTime: 2024-02-20T02:54:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/articleshow/107836525.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms"
+  - title: "How To Handle The AI Ethics Dilemma In Your Business Development"
+    excerpt: "The Role Of AI Ethics In Sales & Business Pulling from my vast experience in this area, I'd like to chat about what AI ethics means in the world of sales and business. First off, there's the big deal about data privacy. Sales AI tools are like sponges ..."
+    publishedDateTime: 2024-02-21T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/21/how-to-handle-the-ai-ethics-dilemma-in-your-business-development/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Energy companies eye AI and machine-learning"
+    excerpt: "Energy companies are now experimenting with artificial intelligence and machine-learning technology designed to detect cracks and flaws in power lines — before they turn into deadly blazes or turn off electricity across a metropolitan region, writes ..."
+    publishedDateTime: 2024-02-21T23:34:00Z
+    webUrl: "https://www.politico.com/newsletters/power-switch/2024/02/21/energy-companies-eye-ai-and-machine-learning-00142402"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
     images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg"
-        width: 1280
-        height: 854
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "coHf0LkGB+OTtFk0UnEbLQP3hurE0vjkadAZU1rnWtBlEQa42fA16By4Nnf5yohArm9sQtg+EAFXsS4tl0uukEr5R3q8Ffg0j0gKfAKdy9yVDCkUc+8G3iTtGgn5VsTgRy4Ybo8Dif1pirUT7DTLEsd2LKoICi6hJyUxjKnS6kJRvp1nRNzOQNzYKVdkLoghENKqLGGPcvTXW6HKl2B5tNMnb0/w5OzI6WGi9WGRfVMd/3R90rs2/LzBmzcaG+nD1AdF7k+w4ynGGPCWo87oXzLrWatASLdI0MhUpDF9MzpPWKilVnZEaz/NtRXlf0zaXp7dvqEeKpkg7fa+aZrwBhQ9uG5cmqJtoPId7R+TGaExeywQ5PON75SF9Up+cQBzJyJfM9TjmXhOnf5CMem8aiWkHS2RWC4e0F7GfdTdv7+zmYsyMynlOKsPfDdl8qbdx0AxK/JSIJ7CkqGzaDclT2UWEYZZR0UojFyYi9Q1+z+aKzQV9uN2as0XlDPkwNudZcu/rUmlW3og0HioOi1V5w==;Ne0S+R6LiMKnimJB+rxCUw=="

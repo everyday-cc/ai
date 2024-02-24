@@ -2,11 +2,11 @@
 category: news
 title: "AWS launches program to boost AI and tech competency for small and medium businesses"
 excerpt: "Amazon Web Services (AWS) recently launched a new program aimed at helping small- and medium-sized businesses build competencies in areas like artificial intelligence (AI), the cloud and other skillsets to be more competitive. \"Small businesses often don ..."
-publishedDateTime: 2024-02-19T10:18:00Z
-originalUrl: "https://www.aol.com/finance/aws-launches-program-boost-ai-151834099.html"
-webUrl: "https://www.aol.com/finance/aws-launches-program-boost-ai-151834099.html"
+publishedDateTime: 2024-02-19T07:18:00Z
+originalUrl: "https://www.aol.com/aws-launches-program-boost-ai-151834099.html"
+webUrl: "https://www.aol.com/aws-launches-program-boost-ai-151834099.html"
 type: article
-quality: 27
+quality: 47
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/PpNJP4_cOBlYG1x1noZw7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/ed616f10d94cec74df632a21ff34cf1d"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "PromoAI Empowers Small Businesses To Efficiently Launch and Manage Social Media Campaigns With Advanced AI Tool"
@@ -62,6 +68,6 @@ related:
         height: 676
         isCached: true
 
-secured: "pRS+CCLZm8EmseNWDQju5DOC0cygoNmuOHM6pR39iNuC6oycyGf0HFGJDAjr+9WDe8dIbGG3QuMrMQdAd8IND6aZsFvqf2NlXsG8LOFUiA8+jKOROMOUf7zdmaDIrZO+56R6q0CCeQfK1NLBdvxexIgInHOW4hfHWbY07rjRvYGH6lCHLWCqspZTE+Cs7N7+v6STAEAGzfItOax+vw6jjHzt47njPplujJjBGl6Rr8zB4MtHx8oTVQyzeFazii6q+BRgGd7NsJMnj4V2W0CQGORDBAqV9nuWRwsKprpjMqouEip8GTzivLzqyv3l/MEzb5lG6R/9IeMXDox/rMx7u2xVDkakKp5twhkHJA4BAKk=;PQhuLhidC7jfwMz/0VcXKg=="
+secured: "qmx69GMspAjYdpGRjovv6QLcM4DVzB+2p0Wgpnr0Z7KXXNrU3lzkzBBfFxIQR9/wN0rfgSkHa5I4yVIJT3rIDeiExlH48nETxQLoBqaVkFO0PrI6QqFN754V++L7NvVxqQIll3g2r1tLjM1nXs0KpjpVgeJNWreqxv+/7v5sDsj9hNB0ef5AerYzTfDfZx4k6ueRRqGmYlkB43BBhJukLU/gBnMQ9PzTfNkq0p1ZYW5gdcz/iXNe6BY+uKZKUKIOG6+PScHrTlFHnuqleNGsaJOWWNvcgDkckXQZRH9c/s2vm8OHEbPPPsKhYKHHDUAR2k3hqI+3Xyhj7YpV0l0LtnGLQNeoHsuD+vwtVv1mdYo=;bEOcGzLQO9EVr4NuiRD2LQ=="
 ---
 

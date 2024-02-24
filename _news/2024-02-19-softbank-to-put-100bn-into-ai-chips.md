@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "SoftBank founder looks to create $100B AI chip venture"
-    excerpt: "Masayoshi Son, founder and CEO of SoftBank Group (pictured), laid out broad plans to create a $100 billion AI chip-manufacturing venture to complement its design unit Arm by attracting funds from investors in the Middle East, Bloomberg reported."
-    publishedDateTime: 2024-02-19T00:00:00Z
-    webUrl: "https://www.mobileworldlive.com/softbank/softbank-founder-looks-to-create-100b-ai-chip-venture/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 54
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2019/12/16120627/SoftBank_Masayoshi_Son_SS-e1576572684844.jpg"
-        width: 650
-        height: 399
-        isCached: true
   - title: "Softbank’s Masayoshi Son plans $100bn AI chip venture"
     excerpt: "In one scenario Son is considering, SoftBank would provide $30 billion, with $70 billion possibly coming from institutions in the Middle East SoftBank founder Masayoshi Son’s plans to create a $100 billion chip venture to supply AI-enabling semiconductors."
     publishedDateTime: 2024-02-19T08:12:00Z
