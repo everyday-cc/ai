@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/intelligent-w
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/intelligent-ways-entrepreneurs-can-leverage-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/23/intelligent-ways-entrepreneurs-can-leverage-artificial-intelligence/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

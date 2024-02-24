@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-24T02:51:00Z
 originalUrl: "https://venturebeat.com/ai/google-apologizes-for-ahistorical-and-inaccurate-gemini-ai-images-we-missed-the-mark/"
 webUrl: "https://venturebeat.com/ai/google-apologizes-for-ahistorical-and-inaccurate-gemini-ai-images-we-missed-the-mark/"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Vector_art_of_the_Google_emoji_sad_6bc7dd63-fd90-41c3-b706-9a73f5266310-transformed.webp?w=1200&strip=all"

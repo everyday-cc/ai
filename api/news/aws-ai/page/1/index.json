@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-23-debunking-the-4-biggest-myths-about-artificial-intelligence-in-retail.md",
+      "title": "Debunking The 4 Biggest Myths About Artificial Intelligence in Retail",
+      "excerpt": "There are many popular myths circulating about AI, according to one Gartner report. And as retailers integrate AI solutions into their businesses, it’s important to know which common beliefs about the technology are myths and which ones are factual. Here are four big AI myths — and the truths about them.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail",
+      "originalUrl": "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202402/AI%20myths%20hero-%20sized%20for%20CMS_.jpg?itok=suO1VbZu",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp",
+      "publishedDateTime": "2024-02-23T01:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story.md",
       "title": "Streamline diarization using AI as an assistive technology: ZOO Digital’s story",
       "excerpt": "ZOO Digital provides end-to-end localization and media services to adapt original TV and movie content to different languages, regions, and cultures. It makes globalization easier for the world’s best content creators. Trusted by the biggest names in entertainment, ZOO Digital delivers high-quality localization",
@@ -1315,49 +1358,6 @@
       "provider": {
         "name": "TelecomTV",
         "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-amazon-web-services-ceo-dishes-on-bostons-ai-scene-and-harvard-square-pizza.md",
-      "title": "Amazon Web Services CEO dishes on Boston’s AI scene — and Harvard Square pizza",
-      "excerpt": "senior vice president and head scientist for artificial general intelligence, and Raj Aggarwal, general manager of GenAI at AWS. But the area was also hit by deep layoffs in the company’s Alexa ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2024/02/06/business/amazon-web-services-head-dishes-bostons-ai-scene-harvard-square-pizza/",
-      "originalUrl": "https://www.bostonglobe.com/2024/02/06/business/amazon-web-services-head-dishes-bostons-ai-scene-harvard-square-pizza/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/vAVgn87cGxjqvv-ar8qrmZYbJ9k=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/VANIQEJKYUPLKTBKMK5LFILHVE.jpg",
-          "width": 506,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

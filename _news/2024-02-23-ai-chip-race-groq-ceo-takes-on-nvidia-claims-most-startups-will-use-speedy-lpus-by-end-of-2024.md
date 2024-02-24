@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-23T10:02:00Z
 originalUrl: "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/"
 webUrl: "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/"
 type: article
-quality: 73
-heat: 83
+quality: 75
+heat: 85
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI Hardware
   - AI
   - Meta AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-23-12.49.17-A-dynamic-and-dramatic-representation-of-AI-chips-racing-at-lightning-fast-speed-leaving-competitors-in-the-dust.-The-scene-is-set-on-a-futuristic-ra.webp?w=1200&strip=all"

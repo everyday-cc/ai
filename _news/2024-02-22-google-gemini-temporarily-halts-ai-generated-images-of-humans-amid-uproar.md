@@ -206,6 +206,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "Google apologizes for ‘offensive’ AI Gemini image generator"
+    excerpt: "Google apologized for its overly diverse artificial intelligence image generator, which appeared unable to depict white people in any fashion."
+    publishedDateTime: 2024-02-24T04:06:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/2875709/google-apologizes-offensive-ai-gemini-image-generator/"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 39
+    images:
+      - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/02/AP24053522088699.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Google debuts Gemini for Business as tech firms seek to monetize AI investments"
     excerpt: "So far, Microsoft has managed to illustrate that point to investors, saying AI services contributed 6 percentage points of growth to Azure revenue in its latest quarter. That's an increase from 3 percentage points in the prior period. Revenue for the ..."
     publishedDateTime: 2024-02-21T10:00:00Z

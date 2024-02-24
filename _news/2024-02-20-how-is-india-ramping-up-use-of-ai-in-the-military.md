@@ -9,8 +9,8 @@ ampWebUrl: "https://www.firstpost.com/explainers/how-is-india-ramping-up-use-of-
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Firstpost
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-driven evolution of low-code software development in India"
+    excerpt: "Artificial Intelligence (AI) is orchestrating a paradigm shift across industries, and its transformative influence on the software development landscape, particularly within the context of low-code development is becoming increasingly evident."
+    publishedDateTime: 2024-02-24T05:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-23T154757.676.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "This Indian AI Startup is Bringing LLMs to Your Kitchen"
     excerpt: "India's AI-powered home appliance company that featured on Shark Tank India, recently secured a ₹34 crore seed round at a valuation of ₹143 crore."
     publishedDateTime: 2024-02-19T11:49:00Z

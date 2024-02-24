@@ -2,6 +2,100 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2024-02-07-dutch-intelligence-blames-chinese-state-for-cyber-espionage-in-the-netherlands.md",
+      "title": "Dutch Intelligence Blames Chinese State for Cyber Espionage in the Netherlands",
+      "excerpt": "The Dutch intelligence agency said it uncovered a Chinese-state-backed attempt to use malware to spy on a computer network that’s used by the country’s armed forces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-06/dutch-intelligence-blames-chinese-state-for-cyber-espionage-in-the-netherlands",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-06/dutch-intelligence-blames-chinese-state-for-cyber-espionage-in-the-netherlands",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai.md",
+      "title": "5 steps board members and startup leaders can take to prepare for a future shaped by GenAI",
+      "excerpt": "AI is on the minds of nearly every enterprise and startup leader today, challenging human decision-makers with a constant stream of “what if” scenarios for how we will work and live in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/",
+      "originalUrl": "https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1074644658.jpg?resize=1200,776",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T15:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-roblox-launches-real-time-ai-chat-translation-tool-will-support-16-languages.md",
       "title": "Roblox Launches Real-Time AI Chat Translation Tool, Will Support 16 Languages",
       "excerpt": "Announcing the new feature in a post, Roblox Chief Technology Officer Daniel Sturman said, “Using AI to automate real-time translations in text chat removes language barriers and brings more people together,",
@@ -970,83 +1064,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-china-willing-to-join-global-efforts-on-ai-ethics-governance.md",
-      "title": "China willing to join global efforts on AI ethics, governance",
-      "excerpt": "China is also willing to listen to all parties, carry out communication, exchanges and pragmatic cooperation on global AI, jointly build an open, fair and effective governance mechanism, and promote AI to benefit all mankind, Wang added.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202402/06/WS65c18f1da3104efcbdae9e48.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202402/06/WS65c18f1da3104efcbdae9e48.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202402/06/65c18f1da3104efc330270ae.jpeg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T01:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-roblox-builds-in-house-llm-adds-real-time-ai-translation-to-metaverse.md",
-      "title": "Roblox builds in-house LLM, adds real-time AI translation to metaverse",
-      "excerpt": "According to a Feb. 5 statement by Roblox chief technology officer Dan Sturman, the new system required the firm to build its own in-house LLM to be able to translate text-based messages at a base latency of 100 milliseconds — making conversations feel instantaneous for users.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/roblox-ai-translation-llm-metaverse-languages",
-      "originalUrl": "https://cointelegraph.com/news/roblox-ai-translation-llm-metaverse-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T01:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
         "images": null,
         "publishers": null,
         "authors": null

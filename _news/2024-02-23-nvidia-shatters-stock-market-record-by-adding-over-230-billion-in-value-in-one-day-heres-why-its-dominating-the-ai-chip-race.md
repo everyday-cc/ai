@@ -296,7 +296,7 @@ related:
   - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
     excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
     publishedDateTime: 2024-02-23T20:18:00Z
-    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
     type: article
@@ -495,6 +495,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/fotolia_32602248_subscription_l(1)_1.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Nvidia and AI fuel market frenzy"
+    excerpt: "Nvidia, which two years ago made most of its money from selling graphics cards for computer games, has now become the world’s third largest company by market value."
+    publishedDateTime: 2024-02-24T05:56:00Z
+    webUrl: "https://www.wsws.org/en/articles/2024/02/24/kelf-f24.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 39
+    images:
+      - url: "https://www.wsws.org/asset/49eb1a00-3ba0-4e35-b8c5-ee263a717b10?rendition=1600x900"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Nvidia app launches in beta: Nvidia's new GPU control panel is much faster, no log in required"
     excerpt: "One is RTX Dynamic Vibrance, which Nvidia says is an AI-enhanced adaptive vibrance feature you can apply ... with AMD's offering and no longer a point of discussion when comparing GPU brands. If you want to try out the Nvidia App beta you should be able ..."

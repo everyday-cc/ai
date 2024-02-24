@@ -65,22 +65,6 @@ related:
         width: 1119
         height: 630
         isCached: true
-  - title: "Mark Zuckerbeg Explains Why Tech Layoffs Are Happening. It's Not Because Of AI"
-    excerpt: "Meta announced several rounds of layoffs as part of Mark Zuckerberg's \"year of efficiency\" in which thousands of employees lost their jobs in the past few months."
-    publishedDateTime: 2024-02-19T05:57:00Z
-    webUrl: "https://www.ndtv.com/feature/mark-zuckerbeg-explains-why-tech-layoffs-are-happening-its-not-because-of-ai-5085495"
-    ampWebUrl: "https://www.ndtv.com/feature/mark-zuckerbeg-explains-why-tech-layoffs-are-happening-its-not-because-of-ai-5085495/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/mark-zuckerbeg-explains-why-tech-layoffs-are-happening-its-not-because-of-ai-5085495/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 55
-    images:
-      - url: "https://c.ndtvimg.com/2023-01/21mqmg78_mark-zuckerberg-getty_625x300_30_January_23.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Samsung Galaxy AI for Business is here"
     excerpt: "The AI future we’ve long been promised is within reach ... The feature can also extract and summarise text straight from physical books and papers and can translate notes into other languages, while its Browsing Assist capabilities can turn long ..."
     publishedDateTime: 2024-02-20T06:02:00Z

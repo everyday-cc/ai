@@ -54,7 +54,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Vector_art_of_the_Google_emoji_sad_6bc7dd63-fd90-41c3-b706-9a73f5266310-transformed.webp?w=1200&strip=all"
         width: 1200

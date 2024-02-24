@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/driving-the-future
 webUrl: "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006"
 type: article
 quality: 86
-heat: 120
+heat: 116
 published: true
 
 provider:
@@ -63,6 +63,6 @@ related:
       domain: fxstreet.com
     quality: 19
 
-secured: "UiQRPx8DJSXcsyrM0jOKQ8xcDCIYbAki8wD2yQTIDrR0jLQqwd6QFx5OPDhhxTxV3jiomlJ8iZZmg2JvWCqbKa3rTqB+oA6W6lpZBDPlC3I69X6d57fk0qLzGYEr15yYxU/cbDZSxRMV7HihA8P7yyxKfwlRPl1eoXY6ipfckguOdjwq1bNY/JFQQt/j2NEPHv0mqGozOmiEE7fK7oz02Zh4WVyUang/0HNN+dRpR8QI2pGRNfk14L1elL0AI9V2Tv72z44uU2KZlPVxD281IgjpDHVzlt1A0LS93hl/vCCp5mGx7h86dnA0VRBinMLckIeUg9K44J4TFv5F/WyDT+EN0nvirWcl3Blz53LYB8I=;OXZ2IPJJlV7LL7H+PRQR2Q=="
+secured: "aUGQEZE7Jy+Hh2WyaNIeOHTkQ0pEzQrkYcojufHhkHa1BueJCB6R28+qMwg7nTbc3wI8euJ6EoRR3qVrzDWXMwAj6PhcAgEFLNcxzCU4JaV8b+fD4neo1P7UFhEq+MhUX/bGnLzuSubq/UZJvbqRDEnsX0+oPEvv3JKGIGK76wngCnd6cClxrckaNOE6p3WWlDV1IH3NyDg93ELEmttfqvwOBiI8qSj+dJA0MM1a7lQ0LMZiJ41AG4V1WfHw0chXR9Dmv83c1FJXolh6+TaWmWAqubGrUh+BGYaJA1u950ljC4b/Xz4x3k6OoD+Zde3KA+1b52MiFLC7b2gvlF+xVTpTWM4OtTHh4wRFQnMjEeCtdpcrhPziujKfFsSLI/JL7Z7odxA2jmOwnvfTT3TKSXUlV6gEyjoAHBZ8SoWDIxQiKmznix6AvrY8hbioyIg6rKfFjIJZuwtZpMtvLgTloIXW385sTlT1Ip5ixBqJsAsCHFnBK/7W7NQFae+Z8oOaRmSj4imArTEGVqW09E1Otw==;RzOUX23F/n7YAvRukbGLXQ=="
 ---
 

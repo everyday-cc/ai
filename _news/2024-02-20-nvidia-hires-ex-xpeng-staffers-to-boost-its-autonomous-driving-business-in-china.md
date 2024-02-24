@@ -7,7 +7,7 @@ originalUrl: "https://technode.com/2024/02/20/nvidia-hires-ex-xpeng-staffers-to-
 webUrl: "https://technode.com/2024/02/20/nvidia-hires-ex-xpeng-staffers-to-boost-its-autonomous-driving-business-in-china/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 2560
     height: 1680
     isCached: true
-
-related:
-  - title: "Chinese EV Maker Xpeng to Hire 4,000, Invest in AI"
-    excerpt: "SHANGHAI/BEIJING (Reuters) - Chinese electric vehicle maker Xpeng said it would hire 4,000 this year and invest millions in artificial intelligence, as it seeks to survive what it describes as a \"bloody sea\" of competition in the world's largest auto market."
-    publishedDateTime: 2024-02-19T06:48:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/chinese-ev-maker-xpeng-to-hire-4-000-invest-in-ai"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
 
 secured: "P9ROgmZmmX6cgTCXGKotpXakw21g/AtGHXKTFTyRalrGk59fVjoPHGRSiHM5jIiiP7N06wlY8qbbrpzZXm0zVXNGqYx6/OvgPfzTWWyk3u721MBIUkhcf+RUxw20Kp5sXDKUNfw6IXhlFxTHsXOeQDhYB3WiMGpsayNIhDdLSpCm35QmnplxdFsS5gfj9oKt0UKQfjldlJjzGPlGTNGSQUOchFu0WSmipoh1dX5qo+diENyn1AM7jY7WkrVPAKeZ8hxrMYv1ymlGZkB2N++vbpkPxEroeUss+g+cd3G6txZ9KkBDi4NRfmLKC1eXfeg4pe9KlasbeOjHQ9uwDNPthtgxnJ1FPXohUBbT5hqsaEL6OCQXQsms68BoSOF88X8UnDROvjL58Tzi5PH4cPSglKA0ElTL8X9vsKk5kCMPXi5uVYLDojYnlkW5/mPwFwGA/V72BJ+JMSjgNEEkyF7y59lDCFMbTCAgmNmfcQg8wJ66o10Hssv/6n+NFmfZWa35krbrIcMGw6vV1AHtm4MSjQ==;NOFkICmYPt98QpKeA3ZrYw=="
 ---

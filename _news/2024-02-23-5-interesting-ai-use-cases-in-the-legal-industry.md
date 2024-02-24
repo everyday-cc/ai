@@ -24,103 +24,82 @@ images:
     isCached: true
 
 related:
-  - title: "The Biggest AI Trends In The 10 Years"
-    excerpt: "Let’s look ahead just 10 years to 2034. Halfway through the next decade, a lot will have changed, but what will AI look like? Here’s what I think!"
-    publishedDateTime: 2024-02-19T06:01:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/"
+  - title: "AI Is Getting To Work In The Highly Regulated Investment Management Industry"
+    excerpt: "AI hit employment levels among the feted tech giants with 34,000 job losses this year. The AI “safety first” policy is resonating in the investment management industry."
+    publishedDateTime: 2024-02-22T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 86
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d2fc479802aab1c9b744d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d6dac3706cc5efc69fdc66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Debunking The 4 Biggest Myths About Artificial Intelligence in Retail"
-    excerpt: "There are many popular myths circulating about AI, according to one Gartner report. And as retailers integrate AI solutions into their businesses, it’s important to know which common beliefs about the technology are myths and which ones are factual. Here are four big AI myths — and the truths about them."
-    publishedDateTime: 2024-02-23T01:06:00Z
-    webUrl: "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail"
-    ampWebUrl: "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp"
+  - title: "The Role Of AI In Enhancing Incident Response Management: A Realistic Approach"
+    excerpt: "On paper, AI promises to revolutionize incident response management. However, it's crucial to consider the specific context of your organization. Take Google's incident response model, for example. When Google published its SRE book, everybody figured they could just go and implement it—often without success."
+    publishedDateTime: 2024-02-20T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/the-role-of-ai-in-enhancing-incident-response-management-a-realistic-approach/"
     type: article
     provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 74
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202402/AI%20myths%20hero-%20sized%20for%20CMS_.jpg?itok=suO1VbZu"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "The 3 biggest misconceptions about AI"
-    excerpt: "A trio of experts share the most common misunderstandings they’ve heard with it comes to AI and students—and reveal the truth behind them."
-    publishedDateTime: 2024-02-19T09:59:00Z
-    webUrl: "https://www.eschoolnews.com/digital-learning/2024/02/19/misconceptions-ai-students/"
-    type: article
-    provider:
-      name: eSchool News
-      domain: eschoolnews.com
-    quality: 39
-    images:
-      - url: "https://www.eschoolnews.com/files/2024/02/misconceptions-AI-classroom-students-learning.jpeg"
-        width: 500
-        height: 331
-        isCached: true
-  - title: "Expert warn how AI could destroy humankind in just two years"
-    excerpt: "An artificial intelligence researcher has said that if they were forced to give probabilities, AI will become so sophisticated humanity could be wiped out."
-    publishedDateTime: 2024-02-21T06:47:00Z
-    webUrl: "https://www.tweaktown.com/news/96346/expert-warn-how-ai-could-destroy-humankind-in-just-two-years/index.html"
+      name: Forbes
+      domain: forbes.com
+    quality: 43
+  - title: "US will need 'CHIPS Act 2' investment into semiconductor manufacturing to be the best for AI"
+    excerpt: "US Commerce Secretary Gina Raimondo said that the US needs continued investment in semiconductor manufacturing in order to take global leadership and meet demand from AI technologies ... to be - whether you call it Chips Two or something else - continued ..."
+    publishedDateTime: 2024-02-22T14:35:00Z
+    webUrl: "https://www.tweaktown.com/news/96403/us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai/index.html"
     type: article
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 39
+    quality: 43
     images:
-      - url: "https://static.tweaktown.com/news/9/6/96346_561516615_researchers-warn-how-ai-could-destroy-humankind-in-just-two-years_full.png"
+      - url: "https://static.tweaktown.com/news/9/6/96403_403_us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai_full.jpg"
         width: 1500
-        height: 862
+        height: 857
         isCached: true
-  - title: "Experts warn how AI could destroy humankind in just two years"
-    excerpt: "In a new article published by The Guardian, Tom Lamont, the author of the piece, set out to talk to as many AI doomsayers as possible ... researcher at a nonprofit called Machine Intelligence Research Institute in Berkeley, California, and according ..."
-    publishedDateTime: 2024-02-20T17:14:00Z
-    webUrl: "https://www.tweaktown.com/news/96346/experts-warn-how-ai-could-destroy-humankind-in-just-two-years/index.html"
+  - title: "How to navigate talent management in the age of AI"
+    excerpt: "Valuing human skills, fostering inclusivity and navigating the ethics of AI can make tech roles sustainable and fulfilling."
+    publishedDateTime: 2024-02-23T21:20:00Z
+    webUrl: "https://www.ciodive.com/news/AI-tech-talent-management-mastercard/707910/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
+      name: CIO Dive
+      domain: ciodive.com
     quality: 39
     images:
-      - url: "https://static.tweaktown.com/news/9/6/96346_561516615_researchers-warn-how-ai-could-destroy-humankind-in-just-two-years_full.png"
-        width: 1500
-        height: 862
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
         isCached: true
-  - title: "Automation and integration, AI and VR – this year’s biggest IOT trends might not be what you expect"
-    excerpt: "Among the applications of generative AI and large language models were live translator devices and pocket-sized AI devices designed to manage tasks through interactions with typical mobile apps. Urban mobility is taking off too, quite literally ..."
-    publishedDateTime: 2024-02-21T06:54:00Z
-    webUrl: "https://www.itweb.co.za/article/automation-and-integration-ai-and-vr-this-years-biggest-iot-trends-might-not-be-what-you-expect/lLn147mQpYV7J6Aa"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 25
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2024/02/iONLINE-Trends-2024-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Best AI Image Generators in 2024"
-    excerpt: "Generally considered the best AI image tool, Midjourney was developed by the independent research lab Midjourney, Inc, and is still in open beta. Critics say this tool generates complex, relatively high-quality imagery, but also requires a little finessing ..."
+  - title: "New York Department of Financial Services Issues Proposed Circular Letter on Use of AI in Insurance Industry"
+    excerpt: "On Jan, 17, 2024 the New York State Department of Financial Services ... system is defined as “any machine-based system designed to perform functions normally associated with human intelligence, such as reasoning, learning, and self-improvement, that ..."
     publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://tech.co/news/best-ai-image-generators"
+    webUrl: "https://www.jdsupra.com/legalnews/new-york-department-of-financial-3487429/"
     type: article
     provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 19
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 20
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15417_0919.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Five of the Top Artificial Intelligence Stocks to Invest in Immediately"
+    excerpt: "With artificial intelligence impacting just about every industry in the world, the market could be worth about $594 billion by 2032, according to Precedence Research. All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE ..."
+    publishedDateTime: 2024-02-22T16:57:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BAC/pressreleases/24275348/five-of-the-top-artificial-intelligence-stocks-to-invest-in-immediately/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 17
 
 secured: "jMjyrkHQqcOgX/EhdJ9A9QGceT5rfbacbACnOWcUhHS0plKumn+xxVOXUbShAD1+QVAyEJO0bEXTrbybYS3nQEgAgtV5ZjaKMOxuDa3buB2AQxKipDUO5ypWTzwJruJJ2w6U7Lm4aKAe4lu8OUc/QZL/O5mqELTMGsXc0QInslk0QHizQwD0at6I9dJwMQ5AobcOG6QUyaRJbOewiAtAz/9l1ZiK/rSfH97763z0Sg7sBVxk2Bd/KgIV7Qk56U/f3zMSe1hTAsxLTkRAb7BFdTiPFaW2LORYA8oYBpPCEr5yGM0IkYXFkID9uo/99m/bbXEn8zcCmpwphcJR3RbOss37J3WnyNgdcoGQoiep49k=;rMXQDYaMV3zGcSfGXfz69g=="
 ---

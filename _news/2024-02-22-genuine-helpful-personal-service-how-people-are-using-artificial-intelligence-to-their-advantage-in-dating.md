@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "'Genuine, helpful, personal service': How people are using artificial intelligence to their advantage in dating"
-    excerpt: "As artificial intelligence continues to expand, many are curious how it will affect dating and relationships in general."
-    publishedDateTime: 2024-02-22T21:57:00Z
-    webUrl: "https://www.wesh.com/article/ai-dating-scene/46774460"
+    excerpt: "As artificial intelligence continues to expand, many are curious about how it will affect dating and relationships.Through a survey conducted by Cosmopolitan and Bumble of 5,000 singles ages 18 to 42 using new AI tools and applications, Cosmopolitan was ..."
+    publishedDateTime: 2024-02-22T18:57:00Z
+    webUrl: "https://www.ksbw.com/article/ai-dating-scene/46774460"
     type: article
     provider:
-      name: WESH
-      domain: wesh.com
-    quality: 19
+      name: KSBW The Central Coast
+      domain: ksbw.com
+    quality: 17
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cosmo-ai-dating-opener-65cbf5224f580.png?crop=0.995xw:1.00xh;0.00481xw,0&resize=1200:*"
         width: 1200

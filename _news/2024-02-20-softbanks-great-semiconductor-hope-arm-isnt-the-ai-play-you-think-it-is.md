@@ -43,20 +43,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Softbank to put $100bn into AI chips"
-    excerpt: "SoftBank is to put $100 billion into a project calked Izanagi to make AI chips designed by Arm. The plan is for SoftBank to put $30 billion of its own"
-    publishedDateTime: 2024-02-19T06:29:00Z
-    webUrl: "https://www.electronicsweekly.com/news/business/softbank-to-put-100bn-into-ai-chips-2024-02/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 54
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2024/02/17120631/IMG_2799.jpeg"
-        width: 592
-        height: 1307
-        isCached: true
   - title: "Softbank’s Masayoshi Son plans $100bn AI chip venture"
     excerpt: "In one scenario Son is considering, SoftBank would provide $30 billion, with $70 billion possibly coming from institutions in the Middle East SoftBank founder Masayoshi Son’s plans to create a $100 billion chip venture to supply AI-enabling semiconductors."
     publishedDateTime: 2024-02-19T08:12:00Z

@@ -1,20 +1,24 @@
 ---
 category: news
-title: "San Francisco Waymo arson sparks fresh debate on self-driving cars"
-excerpt: "An autonomous Waymo robotaxi, by contrast ... and a more generalized fear of artificial-intelligence, according to officials and academics. Others in San Francisco, where such vehicles have ..."
-publishedDateTime: 2024-02-13T08:42:00Z
-originalUrl: "https://www.autonews.com/mobility-report/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars"
-webUrl: "https://www.autonews.com/mobility-report/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars"
+title: "San Francisco Waymo Arson Sparks Fresh Debate on Self-Driving Cars"
+excerpt: "Bryant Walker Smith, a professor at the University of South Carolina with expertise in autonomous-vehicle law, said the episode raises a fair question about whether self-driving cars can or should be able to detect areas crowded with pedestrians and navigate around them."
+publishedDateTime: 2024-02-13T11:06:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2024-02-13/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars"
+webUrl: "https://money.usnews.com/investing/news/articles/2024-02-13/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars"
 type: article
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "K763efAlpN4GuqUWamPHcBeYcp9FU1zSERqeO0aKoMPV12yms4sCwapj8TtENE6UP13bfiXYfpAigdYAbFpSSv9iKOjggpU/uIrzVx7vp+5DcvIr6Uvq3QC52rgCFHi1UnWOv4nLNXX6UVA86FmKCKy5TrLEStv9Vbi2AuAfDu35PSUBt/d2CIYnOVcdHVWX99CSM/74LyHWXkrMDe/RlOI2nhOHGMxlbv1IgAN6JpZXrto36bEg7px/df4n0vpaG1tP7SkPbh4RhGttH8JiQR9aIlsGhn1uIDtZrFQlOAH7AB5QFpe/rhtlWWrrfbr7EmynGbMFYeULkv/KIQColaj1zr9+B4oG2+MkGpzCy0g=;oqKx43XKokJII2SuMqA8vA=="
+secured: "LhF3KosmeKYhL9einEG5UGFPLjV5CAmgKa1tfQcE8wcYG9cI6BOSfICd91cGyvZA93fQa/P0q9UCpgWsubMJCKP0gkZLz9Z2N9DxWBxV+JSsKjFzLzwpdPHjG68G+v1NYUCHRAZ/dWOximu7LLxGldO6toKQtAKoWB1wK4JL9lRweVpfVVQXbKW1UkvVoUMHfyoghQop6cKr74rZru9/ixphB7iAIZzpeJPEs+wUb09SOp2Q2ktYnkDzlbBpEy7r0irJSWX1gBWIJji60u5WhC9MPA6jpVGsWmnIbKCL5Y4osl0bNfqF/enx0MTwNMzsZb4SfCzM4xWL+DWmM1hG18CYV8BtuEqtYzP6cITHJz4=;k4PiSH4zsTTRhT7sAUSMnQ=="
 ---
 

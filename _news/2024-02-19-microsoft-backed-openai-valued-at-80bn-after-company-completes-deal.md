@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/16/microsoft-openai-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Bezos, Microsoft join OpenAI in humanoid robot startup"
+    excerpt: "Jeff Bezos, Microsoft and other big technology names are investing in a business, Figure, that's developing humanlike robots."
+    publishedDateTime: 2024-02-23T23:15:00Z
+    webUrl: "https://www.seattletimes.com/business/bezos-microsoft-join-openai-in-humanoid-robot-startup/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 51
 
 secured: "KbdKPu6ZH85eS52GsT1AojLTdXGCNexdSV+gDVzDJmxn6TS1Fc2e5SQTmNg8yBrRU2+wHXE6X/CPLnR3ZE65Er7mftolbzMV/BYOELoZ0r0SZYqm397UalTO+q9JWLRxyhxvqdzw3JQlqTmiZbKkXejxMIMDhgVnhG0Xhs9sTVyAGbDKJpPCREeHK8bLPElE0Xcf+hdC9CD/sS2/DIcXusrtUklEVjH0ZESei2r7reBOMdzly4DZEBiS4CY7QAyAK3wRm7argMxgQ1ofp7wzP4pBSMRwffKJwZKstiYMSNXfYdAtzEtizseWHp+4gC5zmx0kOQuEI0baMBfBz7sb0qVb3eC5kiy/A7986cgHnZs=;z2IXchKeHqF7vH2ozUbIaQ=="
 ---

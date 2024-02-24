@@ -10,7 +10,7 @@
       "originalUrl": "https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -642,50 +642,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-comcast-must-face-speech-recognition-patent-case-us-appeals-court-says.md",
-      "title": "Comcast must face speech-recognition patent case, US appeals court says",
-      "excerpt": "A U.S. appeals court on Friday revived a patent lawsuit against Comcast over voice-recognition technology for television systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/litigation/comcast-must-face-speech-recognition-patent-case-us-appeals-court-says-2024-02-16/",
-      "originalUrl": "https://www.reuters.com/legal/litigation/comcast-must-face-speech-recognition-patent-case-us-appeals-court-says-2024-02-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T17:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -1424,6 +1380,49 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-profiling-in-a-digital-age-facial-recognition-video-surveillance-and-policing.md",
+      "title": "Profiling in a Digital Age: Facial Recognition, Video Surveillance, and Policing",
+      "excerpt": "The Surveillance, Criminalization, and Punishment speaker series is organized by Katy Naples-Mitchell, Program Director of the Program in Criminal Justice Policy and Management, and Sandra Susan Smith,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hks.harvard.edu/events/profiling-digital-age-facial-recognition-video-surveillance-and-policing",
+      "originalUrl": "https://www.hks.harvard.edu/events/profiling-digital-age-facial-recognition-video-surveillance-and-policing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hks.harvard.edu/sites/default/files/event_images/47920.jpg",
+          "width": 640,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T02:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "www.hks.harvard.edu",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

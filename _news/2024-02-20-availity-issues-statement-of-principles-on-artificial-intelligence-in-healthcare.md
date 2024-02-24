@@ -3,8 +3,8 @@ category: news
 title: "Availity Issues Statement of Principles on Artificial Intelligence in Healthcare"
 excerpt: "Availity, the nation's largest real-time health information network, issued the company's Responsible Artificial Intelligence (AI) Principles. The principles represent Availity's commitment to the development, integration, and deployment of AI-powered tools to maximize meaningful and beneficial use in the delivery of healthcare."
 publishedDateTime: 2024-02-20T15:20:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm"
 type: article
 quality: 64
 heat: 94
@@ -58,6 +58,6 @@ related:
         height: 474
         isCached: true
 
-secured: "/iyatkrGBB3GnGCLjnaTPYt42la1+s2Lwrx7Voocz62efNvD4XPQ6puAo5GNgknXtJt1duo3XhV6/PCaR5XPdZl5DUBNBehypx/MNAwQ4Qs2UuJuN38eZujIVeVPdBmSBVvk5K8FX+tRyzhcDdeR7x5IYb/F9Rt2JMFVUWw9pij4AnfNICa4cH1xX00bpgLAK5QZDjLchRB4Ifa50QIvzaaEuOo1Ti5hu0ruQNx3CwoXY4KHmdMiefd6hrf1w8TAecCCoqfwwd3Gsc2cMfddn8jJLoz73f66LCTANXoaAZ5IhMxhbv+Pjwp+6BcU/g5OejHKJnwDFTiaYLFwFt9+cOJLdiR+1I/LBkcaTevTug4=;Sx5tZ47Bc+HHelxN/Swurg=="
+secured: "sNExZr05K7uhWbc6pfbeYuSNBB3OWM0wwbM43zZCGqLxyEetZiI92E258E68jrKmBFG+rGCaTHmVGaF0Emn2evJdh4ZvedqaXjXB1z7g+9AMACKb+J0Foh7RXfG0GUwxjT/JBRBiNQ9HoVBKB0Ii0QWDif4KWeI99CNzIUtNDER71RydyfSpHQ9KhePc/wY7YUlhGaS0eWcizjVskWhAl9lKorRVTcrDOFiJp6EbClljm1BSvD2D9uppRT4EsF6LyMxcMfykFPGHUDRnQ5mYSULjfljffPmRtEhZE1b++5iyjcb51FNMpBAzktAWr2LhLgEH4HjgmI5RvSpCwDg6hTpgpnpXaNj52Vi93hhEAxc=;Twp+FGpJvE67KYq9b0YWMQ=="
 ---
 

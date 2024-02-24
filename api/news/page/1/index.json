@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-24-bezos-and-nvidia-join-openai-in-funding-humanoid-robot-startup.md",
-      "title": "Bezos and Nvidia join OpenAI in funding humanoid robot startup",
-      "excerpt": "Jeff Bezos, Nvidia and other big technology names are investing in a business that’s developing human-like robots, according to people with knowledge of the situation, part of a scramble to find new applications for artificial intelligence. The startup ...",
+      "path": "_news/2024-02-24-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup.md",
+      "title": "Bezos, Nvidia join OpenAI in funding humanoid robot startup",
+      "excerpt": "Apart from Jeff Bezos and Nvidia, other technology companies are involved as well. Intel Corp.’s venture capital arm is pouring in $25 million, and LG Innotek is providing $8.5 million. Samsung’s investment group,",
       "sourceUrl": null,
-      "webUrl": "https://www.japantimes.co.jp/business/2024/02/24/tech/bezos-nvidia-openai/",
-      "originalUrl": "https://www.japantimes.co.jp/business/2024/02/24/tech/bezos-nvidia-openai/",
+      "webUrl": "https://www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-19126871.htm",
+      "originalUrl": "https://www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-19126871.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/24/282434.jpg",
-          "width": 1000,
-          "height": 643,
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/12/technology-3389904-1280-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T00:00:00Z",
+      "ampWebUrl": "https://www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-19126871.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-19126871.htm/amp",
+      "publishedDateTime": "2024-02-24T06:19:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "ジャパンタイムズ",
-        "domain": "japantimes.co.jp",
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -250,7 +250,7 @@
       "originalUrl": "https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -561,7 +561,7 @@
       "originalUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -708,7 +708,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -864,7 +864,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -903,7 +903,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -915,7 +916,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -956,7 +957,8 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Meta AI"
+        "Meta AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1096,6 +1098,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-23-debunking-the-4-biggest-myths-about-artificial-intelligence-in-retail.md",
+      "title": "Debunking The 4 Biggest Myths About Artificial Intelligence in Retail",
+      "excerpt": "There are many popular myths circulating about AI, according to one Gartner report. And as retailers integrate AI solutions into their businesses, it’s important to know which common beliefs about the technology are myths and which ones are factual. Here are four big AI myths — and the truths about them.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail",
+      "originalUrl": "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202402/AI%20myths%20hero-%20sized%20for%20CMS_.jpg?itok=suO1VbZu",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp",
+      "publishedDateTime": "2024-02-23T01:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.md",
       "title": "California blocks driverless Waymo expansion, Motorola launches £90 smartphone",
       "excerpt": "California has blocked a Google-backed driverless car company from expanding to more cities after a series of accidents. The California Public Utilities Commission (CPUC) has suspended a request by Waymo, which is owned by Google’s parent company ...",
@@ -1189,49 +1234,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-nvidia-acknowledges-huawei-as-major-ai-chip-competitor.md",
-      "title": "Nvidia Acknowledges Huawei as Major AI Chip Competitor",
-      "excerpt": "In a significant revelation, Nvidia has recognized Huawei as a competitor across various categories, notably in the business of artificial intelligence (AI) chips. The Santa Clara-based tech giant highlighted Huawei, a prominent player in China’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922",
-      "originalUrl": "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telecomlead.com/wp-content/uploads/2023/08/Generative-AI-chips-NVIDIA.jpg",
-          "width": 640,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922?amp=1",
-      "cdnAmpWebUrl": "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922?amp=1",
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecom Lead",
-        "domain": "telecomlead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

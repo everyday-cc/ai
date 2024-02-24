@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-02-aws-reinvent-2023-how-ai-is-impacting-the-state-of-cloud-security.md",
+      "title": "AWS re:Invent 2023: How AI Is Impacting the State of Cloud Security",
+      "excerpt": "The cybersecurity landscape is currently shifting in response to the implementation of artificial intelligence in cloud security.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2023/12/aws-reinvent-2023-how-ai-impacting-state-cloud-security",
+      "originalUrl": "https://biztechmagazine.com/article/2023/12/aws-reinvent-2023-how-ai-impacting-state-cloud-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202312/Steve%20Schmidt%20session_0.jpg?itok=gCbG5yZE",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2023/12/aws-reinvent-2023-how-ai-impacting-state-cloud-security?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/12/aws-reinvent-2023-how-ai-impacting-state-cloud-security?amp",
+      "publishedDateTime": "2023-12-01T21:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-12-02-unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations.md",
       "title": "Unveiling AWS’ AI frontier: A deep dive into the three-layer stack and other innovations",
       "excerpt": "Artificial intelligence is running at such a speed that companies not keeping pace are immediately left behind. Compared to other players, such as OpenAI Inc. and Microsoft Corp., there’s been a long-held notion that Amazon Web Services Inc. is behind the AI innovation curve.",
@@ -1233,40 +1277,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-how-aws-empowers-asean-organisations-to-innovate-with-generative-ai.md",
-      "title": "How AWS empowers Asean organisations to innovate with generative AI",
-      "excerpt": "With Amazon Bedrock, organisations like NUHS can build and scale generative AI applications to transform the customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theedgesingapore.com/digitaledge/digital-economy/how-aws-empowers-asean-organisations-innovate-generative-ai",
-      "originalUrl": "https://www.theedgesingapore.com/digitaledge/digital-economy/how-aws-empowers-asean-organisations-innovate-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/how-aws-empowers-asean-organisations-innovate-generative-ai",
-      "cdnAmpWebUrl": "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/how-aws-empowers-asean-organisations-innovate-generative-ai",
-      "publishedDateTime": "2023-11-28T23:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Edge Singapore",
-        "domain": "theedgesingapore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

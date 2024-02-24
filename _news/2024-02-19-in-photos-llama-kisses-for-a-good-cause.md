@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "IN PHOTOS: Llama Kisses For a Good Cause"
+    excerpt: "Smooch-A-Llama Rama at Moose River Farm in Old Forge took place on Saturday."
+    publishedDateTime: 2024-02-19T16:26:00Z
+    webUrl: "https://www.wktv.com/video/in-photos-llama-kisses-for-a-good-cause/video_b5516a20-2095-56ff-977a-484dff7aec6e.html"
+    type: article
+    provider:
+      name: WKTV
+      domain: wktv.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/b/55/b5516a20-2095-56ff-977a-484dff7aec6e/65d3902965217.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "4U5SnC0GlgTeLS8CcnpAvszzzU0zMQ9nhuTUzrxADPizKR4dAI7uwPgUJADt39k4ZFrTZSYEWTZ4iZ/d8Ww7EhO5Yo+V8VVggmxV8kSPeFQ/BZYBxFJRz+tVSPF0KVHL4tZvFmtZlQ+5K8CFhdWmgIKKeMfgqGOR+SPOk5UxA19NLlhr1/De/xO5NyW9w9ITTAQpy5q2N4b4zMU7GV3ynY4u4T7VRHv+quZSEAdkq2IOYNwJncT5079WNM8VeMfDAG7ooM/teNMcJqH9TzpbTpb4r0JTtI2P3D+CHtRAyCM0ZwPsObWwvt7Zfsb+vmzl8DkYv0fwOPufPSpE0cBecYQAf0VPhBsTGnbtwy7e9u+dtb6InKDLMHiwwQO5BEXoENYrcT9m8xQWiSLS+EaymQzpJr4X8r1/c2BZeHrzsIulcsdzoehDdIdcPWAm3AXmkciePwU2fUjxJvmn9r/cpinJkao5bFyruRwHp5TtRq1Mh+c2ZyCDazfHvMj2fKs3Ul1Wdb77Mvo/+VOD/z5Y5g==;84GfCQ+zjijBHdzmAYGc5Q=="
 ---
 

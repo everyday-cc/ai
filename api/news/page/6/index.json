@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-20-streamline-workflows-with-devops-solutions-from-github-and-azure.md",
+      "title": "Streamline workflows with DevOps solutions from GitHub and Azure",
+      "excerpt": "The joint solution of GitHub and Azure, combined with the power of Visual Studio, can create order for previously staggered workflows and delayed deployments.\nThe post Streamline workflows with DevOps solutions from GitHub and Azure appeared first on Microsoft Azure Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/streamline-workflows-with-devops-solutions-from-github-and-azure/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/streamline-workflows-with-devops-solutions-from-github-and-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB14_316903_Blog_Blogheader_240213_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology.md",
       "title": "Bioptimus raises $35 million seed round to develop AI foundational model focused on biology",
       "excerpt": "There’s a new generative AI startup based in Paris. But what makes Bioptimus interesting is that it plans to apply everything we’ve collectively learned about AI models over the past few years with a narrow, exclusive focus on biology. The reason why ...",
@@ -203,8 +255,8 @@
       "title": "Availity Issues Statement of Principles on Artificial Intelligence in Healthcare",
       "excerpt": "Availity, the nation's largest real-time health information network, issued the company's Responsible Artificial Intelligence (AI) Principles. The principles represent Availity's commitment to the development, integration, and deployment of AI-powered tools to maximize meaningful and beneficial use in the delivery of healthcare.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
@@ -1006,7 +1058,7 @@
       "originalUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1101,6 +1153,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-20-how-is-india-ramping-up-use-of-ai-in-the-military.md",
+      "title": "How is India ramping up use of AI in the military?",
+      "excerpt": "India in 2023 deployed AI systems to keep an eye on its borders with Pakistan and China. The Indian Army has procured a slew of hi-tech weapons and its developing military grade AI along with the MeiTy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html",
+      "originalUrl": "https://www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/uploads/2024/02/ai-2024-02-7e36e8e23545dc74b14ec939839ba44c.jpg?im=FitAndFill=(1200,675)",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html/amp",
+      "publishedDateTime": "2024-02-20T05:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david.md",
       "title": "Ultrathin, energy-efficient facial recognition can identify Michelangelo’s David",
       "excerpt": "Packing in all those optical components like lasers makes commercial dot projectors rather bulky, so it can be harder to integrate for some applications such as robotics and augmented reality, as well as the next generation of facial recognition technology.",
@@ -1149,109 +1244,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-qloo-leading-ai-advances-culture-and-taste-intelligence.md",
-      "title": "Qloo Leading AI Advances Culture And Taste Intelligence",
-      "excerpt": "3. Rigorous Legal Compliance: Qloo engages external legal counsel to review all its data practices, ensuring they align with the highest standards of intellectual property laws and data privacy regulations. This guarantees that all of their AI development processes are legally sound and ethically responsible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3d38b3a691de5c282c09f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/amp/",
-      "publishedDateTime": "2024-02-19T21:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-reddit-sells-training-data-to-unnamed-ai-company-ahead-of-ipo.md",
-      "title": "Reddit sells training data to unnamed AI company ahead of IPO",
-      "excerpt": "On Friday, Bloomberg reported that Reddit has signed a contract allowing an unnamed AI company to train its models on the site's content, according to people familiar with the matter. The move comes as the social media platform nears the introduction of its initial public offering (IPO), which could happen as soon as next month.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1232875671-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T21:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

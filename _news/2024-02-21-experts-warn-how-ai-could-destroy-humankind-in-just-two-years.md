@@ -25,52 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Biggest AI Trends In The 10 Years"
-    excerpt: "Let’s look ahead just 10 years to 2034. Halfway through the next decade, a lot will have changed, but what will AI look like? Here’s what I think!"
-    publishedDateTime: 2024-02-19T06:01:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d2fc479802aab1c9b744d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Debunking The 4 Biggest Myths About Artificial Intelligence in Retail"
-    excerpt: "There are many popular myths circulating about AI, according to one Gartner report. And as retailers integrate AI solutions into their businesses, it’s important to know which common beliefs about the technology are myths and which ones are factual. Here are four big AI myths — and the truths about them."
-    publishedDateTime: 2024-02-23T01:06:00Z
-    webUrl: "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail"
-    ampWebUrl: "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 74
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202402/AI%20myths%20hero-%20sized%20for%20CMS_.jpg?itok=suO1VbZu"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "The 3 biggest misconceptions about AI"
-    excerpt: "A trio of experts share the most common misunderstandings they’ve heard with it comes to AI and students—and reveal the truth behind them."
-    publishedDateTime: 2024-02-19T09:59:00Z
-    webUrl: "https://www.eschoolnews.com/digital-learning/2024/02/19/misconceptions-ai-students/"
-    type: article
-    provider:
-      name: eSchool News
-      domain: eschoolnews.com
-    quality: 39
-    images:
-      - url: "https://www.eschoolnews.com/files/2024/02/misconceptions-AI-classroom-students-learning.jpeg"
-        width: 500
-        height: 331
-        isCached: true
   - title: "Expert warn how AI could destroy humankind in just two years"
     excerpt: "An artificial intelligence researcher has said that if they were forced to give probabilities, AI will become so sophisticated humanity could be wiped out."
     publishedDateTime: 2024-02-21T06:47:00Z
@@ -85,43 +39,6 @@ related:
         width: 1500
         height: 862
         isCached: true
-  - title: "5 Interesting AI Use Cases In the Legal Industry"
-    excerpt: "“You [can] provide some inputs [like] the case protocol, the complaint, something to that effect,” into the generative AI tool and “start interviewing your corpus of of documents… it’s more than just a chatbot.” Once the “hot documents” are ..."
-    publishedDateTime: 2024-02-22T22:01:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/02/22/5-interesting-real-life-use-cases-for-ai-in-the-legal-industry/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/legal-tech-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Automation and integration, AI and VR – this year’s biggest IOT trends might not be what you expect"
-    excerpt: "Among the applications of generative AI and large language models were live translator devices and pocket-sized AI devices designed to manage tasks through interactions with typical mobile apps. Urban mobility is taking off too, quite literally ..."
-    publishedDateTime: 2024-02-21T06:54:00Z
-    webUrl: "https://www.itweb.co.za/article/automation-and-integration-ai-and-vr-this-years-biggest-iot-trends-might-not-be-what-you-expect/lLn147mQpYV7J6Aa"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 25
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2024/02/iONLINE-Trends-2024-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Best AI Image Generators in 2024"
-    excerpt: "Generally considered the best AI image tool, Midjourney was developed by the independent research lab Midjourney, Inc, and is still in open beta. Critics say this tool generates complex, relatively high-quality imagery, but also requires a little finessing ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://tech.co/news/best-ai-image-generators"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 19
 
 secured: "S6aNLK6+zWSxYXlucGQSKHjysIUwfU4080D3blcEBNTrWRbuZfSWZrAipVoj0lNf2vv88w0kZvwphWf4troGWSvYqzNdFSZXwtYWpfoDciB+m6Dgg33vLF1oOfUrY0zmAp0IN1jlPDLkMT/hfPyCdypcTPubgIM3RrB6OH+q62AIND8xUWYtTZRB5UaOn4XKDljoVOzcHsiu93ViKnNwc8DDdkLElj1Z5rwP9hYl6B7Y4N1op2S2BMYM8NseUI3rWtlJTIU7LVXWi+SFWoDY7pAW2IAeEDxfJMPFAxjeuM/BRZVpY/J5ElxL+NG9Ep2VzwvrjdNQScuTvYAIG6jJZUZU8cPmYqPBIph0Ui+e1HA=;uY5F3F+BELcYIiB1nW2TFg=="
 ---

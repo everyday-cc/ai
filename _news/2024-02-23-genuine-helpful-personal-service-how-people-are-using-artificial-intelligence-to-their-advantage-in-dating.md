@@ -1,21 +1,20 @@
 ---
 category: news
 title: "'Genuine, helpful, personal service': How people are using artificial intelligence to their advantage in dating"
-excerpt: "As artificial intelligence continues to expand, many are curious how it will affect dating and relationships in general."
-publishedDateTime: 2024-02-22T21:57:00Z
-originalUrl: "https://www.wesh.com/article/ai-dating-scene/46774460"
-webUrl: "https://www.wesh.com/article/ai-dating-scene/46774460"
+excerpt: "As artificial intelligence continues to expand, many are curious about how it will affect dating and relationships.Through a survey conducted by Cosmopolitan and Bumble of 5,000 singles ages 18 to 42 using new AI tools and applications, Cosmopolitan was ..."
+publishedDateTime: 2024-02-22T18:57:00Z
+originalUrl: "https://www.ksbw.com/article/ai-dating-scene/46774460"
+webUrl: "https://www.ksbw.com/article/ai-dating-scene/46774460"
 type: article
-quality: 19
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: KSBW The Central Coast
+  domain: ksbw.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -40,6 +39,6 @@ related:
         height: 674
         isCached: true
 
-secured: "0KJkEPgB2Uv0u2TEK485NMdBH2uF5ld+O4V+15XMnJd7Ijhic4RWOjGzc0rxIELiwXRnq2nXTWNDBA2siAeHNjTFU5Q05YM+FATTjcK2g9CLTBU8Xtk4nFuHgrL7gAqz4X1qQggigoXmiASRF/2VncVmETDevwYWunVfy7X8x/xGOcZWXWHdNA9w6d+vJJS/QSpQET8sdbYJiXJwCCQvZ6wqNTHQg9GWAuqwNx5ynS3c0SBxwI3fyL1TxqtmfI2Of2CDdB1Kc5nHqSS8bN2muXhDa1YhPpb9kJXWbr8TQBF+eQ6cD4NVpU8wxILdFbp7By8AxMEYB2iYSC5kDwUaV9YVJIYik3Z7DQZa1WRj9qFXjHEnzZcmNfDngzBaUbI0R9EFQDcDeoJN23ExivIIIvIuD46CF1Euc902wZ5Djpu1e6Qfo+gfeHQkqwxZIXp/01oc6C7JKk7z6GC5TNAUGCoN6pt1/IhFyO/ttbh/7D82s4C6CRq3ykEB684adNKsa9L+VTJUVBxJ/67Brqg/Tw==;4YBa/oE9s9xBy3vYe+odKg=="
+secured: "Co0JXMuFbSBaVvbj0m5YyE/OO0TqsrYDcfoS6DvktSm06iR48HNvMI6w1VqgACQ6fZa9ozJTijwlSO2XGt8aXX3DbnrkzRXOjSjtpj42Su7whMA5x/2QWjL3WwQrem3AH13vm04z/zQ3yifhu6Upk0Z9J+pt7jwE+1W61ErzgIwWby3oqERTdN7SFvB2fm2RLWoF3JmPi/cqHstRGsZNjJ62xgH77HwtEKBn4kw8Dg7bPoYKOdcVasV4yTx0FQbCtOVUWn6N31Mw6y2ohHx4pxoL4nknKuhc9wYVEH3sFAcM4i/qjiSJGBmCmu/RYUz34vdMzuSqsFZdR25st0OVdbgdJSP8waGscQ2k7l0H2ho=;D2s3DYXtzNtH+zV2JJgWKQ=="
 ---
 

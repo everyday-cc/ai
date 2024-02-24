@@ -78,6 +78,20 @@ related:
         width: 822
         height: 822
         isCached: true
+  - title: "5 Interesting AI Use Cases In the Legal Industry"
+    excerpt: "“You [can] provide some inputs [like] the case protocol, the complaint, something to that effect,” into the generative AI tool and “start interviewing your corpus of of documents… it’s more than just a chatbot.” Once the “hot documents” are ..."
+    publishedDateTime: 2024-02-22T22:01:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/02/22/5-interesting-real-life-use-cases-for-ai-in-the-legal-industry/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/legal-tech-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Five of the Top Artificial Intelligence Stocks to Invest in Immediately"
     excerpt: "With artificial intelligence impacting just about every industry in the world, the market could be worth about $594 billion by 2032, according to Precedence Research. All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE ..."
     publishedDateTime: 2024-02-22T16:57:00Z

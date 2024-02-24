@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107891937/Centre-To-Issue-Notice-To-Google-Ove
 webUrl: "https://menafn.com/1107891937/Centre-To-Issue-Notice-To-Google-Over-Gemini-AIs-Biased-Response-To-Query-On-PM-Modi-Report"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Meta AI
   - AI
+
+related:
+  - title: "Google warned over AI tool response on Modi"
+    excerpt: "Google's AI tool Gemini's response to a question around Prime Minister Narendra Modi is in direct violation of IT rules as well as several provisions of the criminal code, minister"
+    publishedDateTime: 2024-02-24T06:58:00Z
+    webUrl: "https://www.thehansindia.com/news/national/google-warned-over-ai-tool-response-on-modi-860597"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/national/google-warned-over-ai-tool-response-on-modi-860597"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/national/google-warned-over-ai-tool-response-on-modi-860597"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/09/05/1377954-rajeev-chandrasekhar.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "ZLZr1CiUC7a53NE8GoWjjMbaXlK/H7ONUmaozTpO62CjfBKPoM8bZ9P7K19sevb/bX2LB92Pafxi9oAd2h/WqKboeYLCefrUYMZrChDmhDzwlwaKMtVOE/+mG0t0Ci74g2eUNyN6pKs/8l1+ghR5LG2WqQHxILcAKkNQg8boj8E3ueIDlh6TT/e7qyn+6HbhYOotfi1RRfcNgmkoQyLunvddhHyUXrK0UfRVbxnNpRJ4/eRThqTzgWO6nUb8y3lN+t/sUKk0BeNHVUom6Vg7am8hGX/tWRzOeJOHUy/9sKe03aiw0MxA0YvMYEMF1Kjx/3mOBI0pDsyFZDEK+DgfQWZAtIuksgzqv+e/NHVFHaI6zNa44G+r8aAz/VwTAyOshIaEJ0AGiI52GZOGplqRKtDP2W+BPVZ9vMXOwE7wODzPchgBRXcALt6nCNN6B/WZM/sV7lBhqX0Y34aSUYo35bnC3gEKzFcwYTr+oytYsPXBs+kptku2GklkYwv002eXZkfjUEtlhGmCvaKtCYy/VA==;QZEd/9XMN9Q9TrQXuhYxBw=="
 ---

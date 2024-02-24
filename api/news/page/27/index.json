@@ -2,6 +2,92 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2024-02-03-10-must-have-tools-for-your-firearm-workspace.md",
+      "title": "10 Must-Have Tools For Your Firearm Workspace",
+      "excerpt": "The Federal Bureau of Investigation (FBI) is initiating Project Tyr, an effort to employ Amazon’s artificial intelligence-driven Rekognition cloud service to identify firearms—among other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanrifleman.org/content/10-must-have-tools-for-your-firearm-workspace/",
+      "originalUrl": "https://www.americanrifleman.org/content/10-must-have-tools-for-your-firearm-workspace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.americanrifleman.org/media/i2qb4rnw/tools_gunsmith_carter_workbench.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Rifleman",
+        "domain": "americanrifleman.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-biden-arrasa-en-las-primarias-de-carolina-del-sur-y-llama-perdedor-a-trump.md",
+      "title": "Biden Arrasa En Las Primarias De Carolina Del Sur Y Llama \"Perdedor\" A Trump",
+      "excerpt": "Añade citas de Biden, simpatizantes demócr... Already a Barron's subscriber? Sign In",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
+      "originalUrl": "https://www.barrons.com/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP8281762384358363907959724513602719109110---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
+      "publishedDateTime": "2024-02-03T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-03-microsoft-azure-the-hidden-insights-beneath-the-surface-reiterate-buy-rating.md",
       "title": "Microsoft Azure: The Hidden Insights Beneath The Surface, Reiterate Buy Rating",
       "excerpt": "On the latest fiscal Q2 earnings call, CEO Satya Nadella offered new insights into how Azure is capitalizing on the AI opportunity. We simplify the jargon and complexities to help investors better ...",
@@ -1063,110 +1149,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-amazon-pharmacy-fights-for-recognition.md",
-      "title": "Amazon Pharmacy Fights For Recognition",
-      "excerpt": "It sounds terrific. Amazon uses licensed pharmacists who check every order before it goes to a customer. Importantly, the service is accredited by both the NABP Digital Pharmacy and URAC Mail Service Pharmacy until January 1, 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/",
-      "originalUrl": "https://www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bc0c6761f7d8f74b3eb8dd/0x0.jpg?format=jpg&crop=1613,907,x0,y247,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/amp/",
-      "publishedDateTime": "2024-02-02T11:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-revolutionizing-governance-ai-driven-citizen-engagement.md",
-      "title": "Revolutionizing Governance: AI-Driven Citizen Engagement",
-      "excerpt": "Government-citizen engagement has come a long way over the past decade, with governments increasingly adopting AI-powered analytics, automated processes and chatbots to engage with citizens and gain insights into their concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e17c192129886e2734b4ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/amp/",
-      "publishedDateTime": "2024-02-02T11:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
