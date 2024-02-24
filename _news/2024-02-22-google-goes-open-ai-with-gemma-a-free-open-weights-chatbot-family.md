@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-21T22:00:00Z
 originalUrl: "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/"
 webUrl: "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - Google AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemma_header_1-760x380.jpg"
@@ -375,6 +376,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "New Gemma large language AI model from Google can run on your computer"
+    excerpt: "Google has launched a new artificial intelligence (AI) large language model, Gemma, which is free to download and can run on users' computers. The AI is optimised for Nvidia graphics processing units (GPUs) for performance, and can also run in the cloud."
+    publishedDateTime: 2024-02-23T04:30:00Z
+    webUrl: "https://www.interest.co.nz/technology/126523/new-gemma-large-language-ai-model-google-can-run-your-computer"
+    type: article
+    provider:
+      name: Interest
+      domain: interest.co.nz
+    quality: 39
+    images:
+      - url: "https://www.interest.co.nz/sites/default/files/2024-02/google_gemma.jpg"
+        width: 1352
+        height: 1008
+        isCached: true
   - title: "Google apologizes for ‘offensive’ AI Gemini image generator"
     excerpt: "Google apologized for its overly diverse artificial intelligence image generator, which appeared unable to depict white people in any fashion."
     publishedDateTime: 2024-02-24T04:06:00Z
@@ -623,6 +638,33 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 19
+  - title: "Google Gemini Failure Offers Lessons For SEO"
+    excerpt: "Gemini Image Generator failure explain how Google's search ranking algorithms might also fail"
+    publishedDateTime: 2024-02-24T12:17:00Z
+    webUrl: "https://www.searchenginejournal.com/google-gemini-fail-and-seo/509190/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 19
+  - title: "Experience the AI Revolution with the Google Gemini App"
+    excerpt: "In the ever-evolving world of mobile technology, Google Gemini APK stands as a testament to the power of artificial intelligence (AI) in reshaping how we engage with our Android devices. Developed by Google LLC and readily available on Google Play,"
+    publishedDateTime: 2024-02-24T16:44:00Z
+    webUrl: "https://techbullion.com/experience-the-ai-revolution-with-the-google-gemini-app/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
+  - title: "Google explains what went wrong with Gemini's image-generation capabilities"
+    excerpt: "Following days of widespread criticism and backlash, Google has explained what went wrong with Gemini image generation"
+    publishedDateTime: 2024-02-24T19:22:00Z
+    webUrl: "https://www.androidpolice.com/google-gemini-image-generation-what-went-wrong/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 17
   - title: "Google pauses Gemini AI image generator after it created inaccurate historical pictures"
     excerpt: "Google on Thursday said it is pausing its Gemini artificial intelligence image generation feature after saying it offers \"inaccuracies\" in historical pictures. Users on social media had been complaining that the AI tool generates images of historical ..."
     publishedDateTime: 2024-02-22T00:00:00Z

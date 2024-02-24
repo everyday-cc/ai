@@ -27,77 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Embracing AI: Transforming Fear Into Opportunity For Your Teams"
-    excerpt: "Open communication about your company's AI strategy and its implications for the workforce can build trust and engagement among employees. It's essential for us corporate leaders to navigate this transition responsibly, embracing AI while investing in upskilling and reskilling employees to work alongside these technologies."
-    publishedDateTime: 2024-02-19T19:47:00Z
-    webUrl: "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/"
-    ampWebUrl: "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/amp/"
+  - title: "AI at work: partner or rival? | How Artificial Intelligence is transforming the traditional workplace"
+    excerpt: "“This is a time of ‘reinvent or perish’.” A lot of creative professionals are discovering AI’s ability to act, not as artificial intelligence but ‘augmented’ intelligence, that complements their own thought processes and creativity. Varsha ..."
+    publishedDateTime: 2024-02-23T10:08:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/artificial-intelligence-workplace-uses-partner-or-rival-new-trends-creative-design-animation-accounting-finance-software/article67866141.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/artificial-intelligence-workplace-uses-partner-or-rival-new-trends-creative-design-animation-accounting-finance-software/article67866141.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/artificial-intelligence-workplace-uses-partner-or-rival-new-trends-creative-design-animation-accounting-finance-software/article67866141.ece/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d3afc79a5bb99433115e55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
-        isCached: true
-  - title: "How AI Is Infused Into Everything From Screening Candidates To Managing Staff And Making Hiring And Firing Decision"
-    excerpt: "Artificial intelligence is becoming ubiquitous in the interviewing and hiring process. It carries out the initial screening of applicants to the final stage of decision making. Managers can now make better and more informed decisions about their staff and promotions."
-    publishedDateTime: 2024-02-20T15:53:00Z
-    webUrl: "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-is-infused-into-everything-from-screening-candidates-to-managing-staff-and-making-hiring-and-firing-decision/"
-    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-is-infused-into-everything-from-screening-candidates-to-managing-staff-and-making-hiring-and-firing-decision/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2024/02/20/how-ai-is-infused-into-everything-from-screening-candidates-to-managing-staff-and-making-hiring-and-firing-decision/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d4ca166995204ec823cdea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1036
-        height: 691
-        isCached: true
-  - title: "ARTIFICIAL INTELLIGENCE: MATTERS ARISING"
-    excerpt: "“Understanding emotions and interpreting personal touches are quintessential human traits that arise from our complex neural networks and emotional intelligence. AI might be able to recognise fa­cial expressions, but it cannot understand the depth of emo­tions that underlie them.”"
-    publishedDateTime: 2024-02-20T23:46:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising?amp=1"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising?amp=1"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 61
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/ARTIFICIAL-INTELLIGENCE.jpg"
-        width: 1440
-        height: 742
-        isCached: true
-  - title: "Rethinking AI: From playing around to strategic business transformation"
-    excerpt: "leveraging platforms like Microsoft Azure, facilitates swift, scalable and cost-effective solutions. Integration into workflow: Identifying workflows for AI implementation is pivotal. Opt for use-cases with ample data available for machine learning and ..."
-    publishedDateTime: 2024-02-20T06:35:00Z
-    webUrl: "https://www.itweb.co.za/article/rethinking-ai-from-playing-around-to-strategic-business-transformation/G98Yd7LG48PvX2PD"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/06/Hennie-Fouche-02June2023.jpg"
+      - url: "https://th-i.thgim.com/public/incoming/qqcfwv/article67873940.ece/alternates/FREE_1200/AI%20in%20work%20place%2002.png"
         width: 1200
-        height: 675
+        height: 672
         isCached: true
-  - title: "Transforming broadcasting with artificial intelligence and machine learning"
-    excerpt: "In common with industries across the modern economy, the broadcast media industry is currently on its own artificial intelligence (AI) and machine learning (ML) journey, with organisations at various stages of evaluation and implementation. But in ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/transforming-broadcasting-with-artificial-intelligence-and-machine-learning"
+  - title: "AI At Work: Bringing Outside Potential Into Radio"
+    excerpt: "The NBA has been on the leading edge with AI, partnering with Microsoft’s Azure platform to analyze social media data to create a personalized fan experience. They have also partnered with a company called Second Spectrum to use machine learning ..."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://radioink.com/2024/02/20/buzz-knight-ai-at-work-bringing-outside-potential-into-radio/"
     type: article
     provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 32
+      name: Radio Ink
+      domain: radioink.com
+    quality: 19
 
 secured: "cYWOl0C3LW06fRTl2n2y/mMeEbGWjGR8B0lcVMMGMKlep04uhDuJ4ISbs3LLz0YYD9AWQWXIIh31vD4oDwyBQQGe/0Tp+FqgQNd7DKmWbMfwTbbD7oZbTxpeECIM2IqcK/GUh4MohoAMmXvi2wfusAEa1qqNPo/Ow7eO8Z3D663Pb7fBi0A8er9Adc1iKrm3GpSi/mDBxhDippBoABXf0Ob7jGh59w6VJMFzn9pVKuifH5TIGttEkeriRBtTuJ6bLVJIsZNDIXm1uLzPWjURk/hZjK3dexvHhfZQungtOKUoFw1T+g/qQaJp6d5O2Yb48TZqMbLX34kiwKCqtyxN/mJflD9tEQrLqSQIOdJj+3U=;Dms9K+M4tcoykMe5a4h1NA=="
 ---

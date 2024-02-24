@@ -30,77 +30,70 @@ images:
     isCached: true
 
 related:
-  - title: "Embracing AI: Transforming Fear Into Opportunity For Your Teams"
-    excerpt: "Open communication about your company's AI strategy and its implications for the workforce can build trust and engagement among employees. It's essential for us corporate leaders to navigate this transition responsibly, embracing AI while investing in upskilling and reskilling employees to work alongside these technologies."
-    publishedDateTime: 2024-02-19T19:47:00Z
-    webUrl: "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/"
-    ampWebUrl: "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/amp/"
+  - title: "The AI Craze Is Highlighting The Cooling Crunch"
+    excerpt: "Direct-to-chip and immersion cooling come in two subtypes ... But it’s coming. Until then, all the AI and HPC workloads flying around require alternative cooling methods—now, today, already. So what are you going to do? Moor Insights & Strategy ..."
+    publishedDateTime: 2024-02-20T21:15:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d3afc79a5bb99433115e55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d526d643a30a9ca3ffb4c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 896
         isCached: true
-  - title: "ARTIFICIAL INTELLIGENCE: MATTERS ARISING"
-    excerpt: "“Understanding emotions and interpreting personal touches are quintessential human traits that arise from our complex neural networks and emotional intelligence. AI might be able to recognise fa­cial expressions, but it cannot understand the depth of emo­tions that underlie them.”"
-    publishedDateTime: 2024-02-20T23:46:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising?amp=1"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising?amp=1"
+  - title: "How Artificial Intelligence is transforming consumerism"
+    excerpt: "Artificial Intelligence is taking over and changing the way we interact with people, products and organizations. Founder and CEO of Rebelstork, Emily Hosie, joined Gayle"
+    publishedDateTime: 2024-02-20T16:48:00Z
+    webUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-transforming-consumerism/"
+    ampWebUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-transforming-consumerism/amp/"
+    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-transforming-consumerism/amp/"
     type: article
     provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 61
+      name: WFLA News Channel 8
+      domain: wfla.com
+    quality: 57
     images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/ARTIFICIAL-INTELLIGENCE.jpg"
-        width: 1440
-        height: 742
+      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2024/02/E-Block-How-Artificial-Intelligence-is-transforming-consumerism.jpg?w=1280"
+        width: 640
+        height: 360
         isCached: true
-  - title: "AI in action transforming announcement strategies in financial trading"
-    excerpt: "After financial announcements, AI plays a critical role in post-announcement analysis by aiding traders in deciphering the market's reaction. This analysis helps in refining strategies for future events, as AI models evaluate the effectiveness of previous approaches and suggest adjustments."
-    publishedDateTime: 2024-02-23T11:16:00Z
-    webUrl: "https://www.fxstreet.com/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115"
-    ampWebUrl: "https://www.fxstreet.com/amp/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115"
-    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115"
+  - title: "How Artificial Intelligence Is Reshaping Banking"
+    excerpt: "Artificial intelligence is transforming the banking industry, with far-reaching implications for traditional banks and neobanks alike. This transition from classic, data-driven AI to advanced, generative AI provides increased efficiency and client ..."
+    publishedDateTime: 2024-02-23T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/how-artificial-intelligence-is-reshaping-banking/"
     type: article
     provider:
-      name: FXStreet
-      domain: fxstreet.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "A Look Inside Anthropic Highlights the Crazy Growth of AI Tech"
+    excerpt: "Amid the explosive growth of AI tech, one of the buzziest in the headlines is among the least recognized: Anthropic. Founded 2021 in San Francisco by former team members of the other, super-buzzy artificial intelligence company OpenAI,"
+    publishedDateTime: 2024-02-20T16:51:00Z
+    webUrl: "https://www.inc.com/kit-eaton/a-look-inside-anthropic-highlights-crazy-growth-of-ai-tech.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
     images:
-      - url: "https://editorial.fxstreet.com/images/Macroeconomics/EconomicIndicator/EconomicHealth/GDP/Growth/man-drawing-a-growing-graph-gm493075642-76712039_Small.jpg"
-        width: 320
-        height: 232
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1452604857_wvvmju.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Rethinking AI: From playing around to strategic business transformation"
-    excerpt: "leveraging platforms like Microsoft Azure, facilitates swift, scalable and cost-effective solutions. Integration into workflow: Identifying workflows for AI implementation is pivotal. Opt for use-cases with ample data available for machine learning and ..."
-    publishedDateTime: 2024-02-20T06:35:00Z
-    webUrl: "https://www.itweb.co.za/article/rethinking-ai-from-playing-around-to-strategic-business-transformation/G98Yd7LG48PvX2PD"
+  - title: "How AI is affecting students in high school"
+    excerpt: "Some students might see AI as a “cheat code” of sorts and a way to avoid doing original work or fully embracing the learning process. Address the issue of ethics and AI with your student regularly. Acknowledge the ways that students could use AI ..."
+    publishedDateTime: 2024-02-21T09:41:00Z
+    webUrl: "https://www.dailyherald.com/20240221/submitted-content/how-ai-is-affecting-students-in-high-school/"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/06/Hennie-Fouche-02June2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Transforming broadcasting with artificial intelligence and machine learning"
-    excerpt: "In common with industries across the modern economy, the broadcast media industry is currently on its own artificial intelligence (AI) and machine learning (ML) journey, with organisations at various stages of evaluation and implementation. But in ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/transforming-broadcasting-with-artificial-intelligence-and-machine-learning"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 32
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
 
 secured: "nyI6IP9JPJTKuRC47TdlQn3j4sH7gl5CoRb4XHowyOCP2fARMlKWtKLa1csA+wprlzEtME7FGwNfySo1icG7oI2mlbw6mlF68lqu0jgvrbkvwCuU7OKm/2CibRHYQRsWzBVxJACFLWVm/pQsUWHJe5+s3tbaRzxZqR7kCJJ9Zoi6ntU9KTSMa2HlQixgeisBxdvcPvfpjZPRUZ97/UKs0/aQCsgCC7ZQ+QO9mJQTz7bIh1r4cz9x4/3FemoQL+F9tPVQ1pbqJpkLZjngqoCCv++sOdCd912cjAzdtmFYjLOsuILOct72PQ1ov29hFJnFm5p1ja/dB5TE4jpyLEyHIuE51q2NT87WRvursBQgvdI=;DpOHoEMF+q976f0RacVYIQ=="
 ---

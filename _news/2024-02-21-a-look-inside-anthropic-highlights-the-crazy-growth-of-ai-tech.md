@@ -40,6 +40,22 @@ related:
         width: 1600
         height: 896
         isCached: true
+  - title: "How AI Is Infused Into Everything From Screening Candidates To Managing Staff And Making Hiring And Firing Decision"
+    excerpt: "Artificial intelligence is becoming ubiquitous in the interviewing and hiring process. It carries out the initial screening of applicants to the final stage of decision making. Managers can now make better and more informed decisions about their staff and promotions."
+    publishedDateTime: 2024-02-20T15:53:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-is-infused-into-everything-from-screening-candidates-to-managing-staff-and-making-hiring-and-firing-decision/"
+    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-is-infused-into-everything-from-screening-candidates-to-managing-staff-and-making-hiring-and-firing-decision/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2024/02/20/how-ai-is-infused-into-everything-from-screening-candidates-to-managing-staff-and-making-hiring-and-firing-decision/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d4ca166995204ec823cdea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1036
+        height: 691
+        isCached: true
   - title: "How Artificial Intelligence is transforming consumerism"
     excerpt: "Artificial Intelligence is taking over and changing the way we interact with people, products and organizations. Founder and CEO of Rebelstork, Emily Hosie, joined Gayle"
     publishedDateTime: 2024-02-20T16:48:00Z

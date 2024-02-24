@@ -2,27 +2,21 @@
 category: news
 title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
 excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker's permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
-publishedDateTime: 2024-02-24T18:51:00Z
-originalUrl: "https://bismarcktribune.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_4e1465c6-6329-544b-b1ca-b0c248d920b9.html"
-webUrl: "https://bismarcktribune.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_4e1465c6-6329-544b-b1ca-b0c248d920b9.html"
+publishedDateTime: 2024-02-24T19:00:00Z
+originalUrl: "https://omaha.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_b4b4e9d8-0b08-5736-a58b-8c7516a261ae.html"
+webUrl: "https://omaha.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_b4b4e9d8-0b08-5736-a58b-8c7516a261ae.html"
 type: article
-quality: 26
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: The Bismarck Tribune
-  domain: bismarcktribune.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/4/e1/4e1465c6-6329-544b-b1ca-b0c248d920b9/65d8c7ed6be48.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Voice actors have mixed responses to AI clones of their voices"
@@ -49,6 +43,6 @@ related:
       domain: seattletimes.com
     quality: 19
 
-secured: "e78d7DvktsEhY5PFQ7J14mofhOG81Rtl9Yj2mUk/YaR1Ql5l+l/pcld4vw2AWDXy5/cbtYQojDFcjfa+NpDeedr1LTCg1O3OYRgcE/EhJnTbQCBp/+xdMmFgZo/EzJPM1aevjoyNA3nM+Y5j16jOZW5zBRLdR/eOE/el+DlkjsyvjsEcf8CDUdgp+tnNmIqpz13gOZaanY3zZGIYIsUDi1C36L3XHe1Qds2LqIZQ8dgeBbSlFvdDEiT0GCJx+CSMs/oBCY49XPLos89RmnR8Zcm9kx4gXiMAzfQnhHYDn8Zx6qAqCFtE28fM2uPJn1dbdp9xprjHrB6DHtVxhtdmGL20KP4hjC510X0PMBQ4nGM=;BiyX3oKt8Btelh0Be42PhA=="
+secured: "pqI7493jDT6V1WqQMfgP/cDlp2MADyEKIAxik4hfPq8mBvZob6jtuu6/6bePyWbF47OYbNOABoxBQXhtqPSjFi4tOkeLqN3tsmR2BJnPhYrJwOUt4on/7usY2zjV0/yRDWmbtQcoDqYGEFyp5jGneNfVMsH1olJU/A/JRlktswWfmUkld9b1TTMGoEo8SZYVrmm68BwNt5koxG0xkGV5JmVTSqZE599WmpN1B54BDdbW99Ze3jsOnqccGKp5JcAqA7IbpAGI4w0QqArWnQ0eXNOrMt6BKxwGqLZ++sne46YxlX8DrK8aF9mcDtUZrOzuJiH4DAYDx5U9Igt38opfL0IH3KeK3oEc6V+24GpNZCuswv1j+Klk3NcEZIGUtafIOCo44pavKq4TUR/EcLYJ3mWm39GvYJvzITfGV97gfBMKBRYOgCKmwm2QUtaQL1Um8URlM83MbX8YWCe2IyjXndFyYAQPnrqk+v7UY7r4F+nWhmpRe0oDouPx04FfK2tagc9uwsu7IMC4cBr0rmsa8A==;/6Rh7TI3FVoIzVOOL0uJ2A=="
 ---
 

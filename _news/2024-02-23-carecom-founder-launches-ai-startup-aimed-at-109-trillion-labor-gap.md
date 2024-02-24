@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-l
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/amp/"
 type: article
 quality: 87
-heat: 113
+heat: 107
 published: true
 
 provider:

@@ -34,6 +34,15 @@ related:
       name: Science|Business
       domain: sciencebusiness.net
     quality: 16
+  - title: "Elemental Cognition Sets New Standard for Generative AI, Achieves 100% Accuracy in Complex Reasoning Scenarios"
+    excerpt: "Elemental Cognition (EC) is the next wave of enterprise AI that delivers the reliability, accuracy, and transparency businesses need. EC combines the fluency of large language models with the rigor of formal reasoning to create a neuro-symbolic AI architecture that can solve complex problems when businesses can't afford to be wrong."
+    publishedDateTime: 2024-02-20T18:44:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274132235/elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 0
 
 secured: "10BV0tDLvdpwTDE6uu9NNwq/O3DmyIOKQvMymnAKf1kAysBllmSk5IDXVOKdxLsw5g0EUBw1L/RS5TN9x0EWSd71E1jS9h7QAfbFtg+e1Xig48q5kjzm9lZ1po/uqmhpvbFMlprAxfqtEzzQzFPx2gBgUBgmNKlx36eemLe/NPlrSdFbWA6X7QVIxbweN1+wpRIPkPk4gdrJoBCW5jDgvLTb1uXStgvntTx7xwIRyuSlA3ieIJ/iKbGnDGK0fqmHe2YLhMEY9Z6Tg7FGxiKEI7l5WKUJBcjPLOdlHhpFthdtdZRmb9AFCJYDpeiIW/kYXqkKjbNp6KlyGm1PoVfA8cQ4e+yOIpD8PCuRQJgB1xt/mvbx9291TFHGP+e8lF8advTjwb/mYmht3+RWLtj0cnoR+eOQ3v6SG5cesAVU7zhViFhy409ch5UVfnYZUVN/r8236TwLpBI9yjCyzV3iUZ8OJGCLFO0Gyz+Gvz91/8Vu9dN565YZn5kI6szlatC2VRcSQZm9czkmOofxZmukfg==;ncIPq2mrYGNF4pOr64JCqw=="
 ---

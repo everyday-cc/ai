@@ -103,6 +103,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
+  - title: "India’s Fintech M&A Count Hits 30 in 2023, Lending Sector Tops List"
+    excerpt: "Lending Fintech companies accounted for 30% of all Fintech acquisitions in India in 2023, highlighting a shift in market dynamics amid growing regulatory"
+    publishedDateTime: 2024-02-24T18:10:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221865-indias-fintech-ma-count-hits-30-in-2023-lending-sector-tops-list/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
 
 secured: "Lg+OsV+HTrQCzfRyksq59aml1b39wt2x90Ipgg9GrAAKlPVT5tpEI2BZXVA686S1jBpOGbDWeLnvw5W9yXWPGs2VX0yPm4pYYk0odjzGT/63gxxyAP1WPdukwHkbQSziX8+FvhqXzOx/owlHS9rJEjAuS7vR0d6t9cYS0CkmQ+FCc0bM97oB11p07LJ1FITl/ZTbEeSl3ejSJR2c+gcCMYuGq3cgnrudzAMDI5//e/e5qnUE5DY0fMaEyqVhSqhfAuQ6/8whpHdposdzr4t2bR1Xg4mWQj5OdiwJxfMS5vzc13Feum3Uxe62dPdWpAOXDiG/WlWhD+qyglwisfl8/IEdu2xXXKEwYVjAfF0gCYY=;jU+q2pjIgfgJgc9l16lVVg=="
 ---

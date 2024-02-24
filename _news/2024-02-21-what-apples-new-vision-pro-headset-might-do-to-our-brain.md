@@ -44,20 +44,6 @@ related:
       name: New Atlas
       domain: newatlas.com
     quality: 34
-  - title: "The next Apple Vision Pro could be at least 18 months away, report suggests"
-    excerpt: "Anyone waiting for the second-generation Apple Vision Pro before taking the plunge could be waiting another 18 months at least, a new report claims."
-    publishedDateTime: 2024-02-19T19:04:00Z
-    webUrl: "https://www.tweaktown.com/news/96298/the-next-apple-vision-pro-could-be-at-least-18-months-away-report-suggests/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 22
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96298_02_the-next-apple-vision-pro-could-be-at-least-18-months-away-report-suggests_full.jpg"
-        width: 1500
-        height: 999
-        isCached: true
   - title: "Stunning visionOS 2 concept shows off 7 features I want Apple to add to the Vision Pro"
     excerpt: "I hope visionOS 2 brings at least these seven Apple Vision Pro possible features to help Apple improve its first spatial computer."
     publishedDateTime: 2024-02-23T20:14:00Z

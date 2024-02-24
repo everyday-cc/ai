@@ -36,6 +36,20 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Bezos and Nvidia Collaborate with OpenAI to Finance Humanoid Robot Startup"
+    excerpt: "Jeff Bezos of Amazon, alongside Nvidia, have pooled their resources to invest in Figure AI, a startup focused on advancing human-like robots."
+    publishedDateTime: 2024-02-24T22:14:00Z
+    webUrl: "https://techstory.in/bezos-and-nvidia-collaborate-with-openai-to-finance-figure-ai/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 69
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2024/02/720x480.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Billionaire Jeff Bezos, Nvidia join OpenAI in $675 million funding for humanoid robot startup"
     excerpt: "Tech moguls, including Jeff Bezos, are delving into the world of human-like robots, a venture driven by the quest to"
     publishedDateTime: 2024-02-24T07:58:00Z

@@ -23,17 +23,6 @@ images:
     height: 576
     isCached: true
 
-related:
-  - title: "Crypto advocates discuss the impact of AI growth toward sentience"
-    excerpt: "AI's future, potential ethical rights and the urgent need for a change in outlook were the focus of a recent discussion."
-    publishedDateTime: 2024-02-19T21:00:00Z
-    webUrl: "https://www.thestreet.com/crypto/innovation/crypto-advocates-discuss-the-impact-of-ai-growth-toward-sentience"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
-
 secured: "7n/gwgTQiVIFseIXdms2hWWyID38wZXeSRHg/3gZGlrDzEkLA3qMrpiLHFbIJA5jh8nIiYUm7cz7uRUG/9X5cYkwi6ZCXbwFgCOfYClRxWr/k52Bua1Gb3M2ULQ7ES4Sk2T5G+VzxRA4Z2pqAA2g6E/lerVRKrkUztc4AvFOmG4KffzS5+2JT4AE8YIRCT7p4Cc1Ngs9rp2nWH91JVjYJcnuGHsKyfyJbFtyBSjHkbxCS07yspn8RkrZTIskkulk0jbhKjDXlaBnUBHR5THxA71VWrxi5ZYGETd973PjSqzKcpw7Ug7VLM7w5+AWmDe/TnH8EXa60iGNuavD5uJVFatRQTgY4erCvBCJamIIvqmvkVtSsyk103Ufaxz5y7ZTCW0axt6rkn5zBzmKjsB2V8wD8rsWXnF5N/sK3FBapxIWNfZpq2f25BODJHoMrnEcEYkaEz70LI1GK+WGAkwyCG6GXN2m2vmVpSyO5Qr5+2uw/NN8YJUYMJdINvNzLlvoegYOudHjzIOah7fDMqn1SA==;LATjnenu9K695LJDh4Zr/w=="
 ---
 

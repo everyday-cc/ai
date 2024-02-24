@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/this-fintech-startup-is-target
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -103,6 +103,15 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
+    quality: 4
+  - title: "India’s Fintech M&A Count Hits 30 in 2023, Lending Sector Tops List"
+    excerpt: "Lending Fintech companies accounted for 30% of all Fintech acquisitions in India in 2023, highlighting a shift in market dynamics amid growing regulatory"
+    publishedDateTime: 2024-02-24T18:10:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221865-indias-fintech-ma-count-hits-30-in-2023-lending-sector-tops-list/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 4
 
 secured: "jpUlTdG7cBKd6iJzK75B97lIEcBrQqD/BxiwZeoqoUAMVsYftinFbE0eoTUxLzOVsaBmLAQ/I4VBGOM7nPnEl3j2NNGGTLnvSEV07DSGD9oZ1yISruI/2aS+FGSt0PD9abEMiChbj00NGkNqqrp/bXMb0Hn8tQCFGRzpimAusU76jddNgXqsORh91Bi+VwHAv7JafXQcebwEewS2ZGVtoNPOOGFvFjixja7nH0/4kVMr+5crm4Ch5OQ8pZTcvlikSAE2ICnxR+QbZYaVn8Q3c3ij457keuwHrHQ9HBNfEGU1vXWyOl7TRFYRseM0XeMLaBPqLy+M6i5muJtc67HLUsEYKyuo7aOF8Cz1psD3J4c=;BYyPL+FR/ITzfgQzlHdcGg=="

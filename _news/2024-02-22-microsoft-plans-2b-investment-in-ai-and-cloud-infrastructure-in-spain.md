@@ -249,15 +249,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft to Expand Its AI Infrastructure in Spain With $2.1 Billion Investment"
-    excerpt: "U.S. software giant Microsoft will expand its artificial intelligence (AI) and cloud infrastructure in Spain through an investment of $2.1 billion in the next two years, the company's Vice Chair and President Brad Smith said in a post on social media site X."
-    publishedDateTime: 2024-02-19T22:31:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
   - title: "Microsoft and OpenAI-backed robotics startup secures funding from Bezos, Nvidia - report"
     excerpt: "The company, which also enjoys backing from OpenAI and Microsoft Corp . (NASDAQ: MSFT ), is in the process of raising approximately $675 million in a funding round, giving it a pre-money valuation of approximately $2 billion."
     publishedDateTime: 2024-02-23T20:13:00Z

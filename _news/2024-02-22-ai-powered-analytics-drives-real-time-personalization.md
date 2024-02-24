@@ -55,7 +55,7 @@ related:
     provider:
       name: federalnewsnetwork.com
       domain: federalnewsnetwork.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/03/electronic-health-record-military.png"
         width: 1200

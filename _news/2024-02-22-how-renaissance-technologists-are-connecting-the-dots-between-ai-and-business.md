@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/how-renaissance-technologists-are-co
 webUrl: "https://www.zdnet.com/article/how-renaissance-technologists-are-connecting-the-dots-between-ai-and-business/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -23,21 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "How real estate listings and potentially jobs are shifting to AI"
-    excerpt: "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said."
-    publishedDateTime: 2024-02-19T22:30:00Z
-    webUrl: "https://www.pasadenastarnews.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
-    ampWebUrl: "https://www.pasadenastarnews.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
+  - title: "Artificial intelligence and 6G technologies for achieving as safe interconnected mobility as possible"
+    excerpt: "A multidisciplinary team from the UPC is working on the development of a network that, combining artificial intelligence with 6G technologies, remote"
+    publishedDateTime: 2024-02-22T09:38:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/243001"
     type: article
     provider:
-      name: Pasadena Star-News
-      domain: pasadenastarnews.com
-    quality: 57
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 22
     images:
-      - url: "https://www.pasadenastarnews.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643"
-        width: 1024
-        height: 642
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/db897644-a15c-42ce-ad84-4369b9ac29e2--r2ksm.jpg"
+        width: 400
+        height: 217
         isCached: true
 
 secured: "Dww4JMQEe8d5++7O3Up+NAN+/uGX04EAhf8XEcW0zcEkTk66qEw9fgpcvu18aLF73192yQ4TXtPu5v1HeOz4PHjEfKXquRWxaNXcV7eQzHee9kyXXTl9mrC6AbxL5WXbJuh6yk3FS4H6iICFT7cOYheMJQ6su07mCiEPu9D+gxi8dGfgqebqJ6VZUwuSbwiIEDTGoDaQgqJidt08kExBLBqZvoffWywJwKW6i60G/zYilFDscqzgQj0NpeHc3POzLV3dmV2DUIRVZojCfOtDMAj9GhiB0mxJXbMtBeWoqNoplxqIcilMwD6RDdQGeaMGOwzILlQM5jD3D9nW+b64AzZGPwtVwkwO/KSGEF+Kmv9WBMSOoc9LLuoN/4ZXSY9VxsYy5mcdLw5AB5vRoEZEhTyYLigWxQXFbi92wjN1uMPJjU+Z+3Pkx4sd1fpAGApZO1thXhnYQLbYxvgmFODbyeOj63xYAubClBqPx1C6X7SH0iU3rAcaMMUO6ugS1nVSEi7wCMXlAT7XwkYkhry7Lg==;Rzb6Kjj/Mf8kbdVYH3w/jA=="

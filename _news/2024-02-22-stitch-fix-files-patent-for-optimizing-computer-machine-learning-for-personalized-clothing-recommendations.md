@@ -49,6 +49,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "VA puts AI use cases into ‘operational phase’ to meet its health care mission"
+    excerpt: "VA has identified over 100 AI use cases so far. VA Chief Technology Officer Charles Worthington told members of the House VA Committee last week that 40 of them are in an “operational phase,” and being put to use in the field."
+    publishedDateTime: 2024-02-23T02:01:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/va-puts-ai-use-cases-into-operational-phase-to-meet-its-health-care-mission/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 38
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/03/electronic-health-record-military.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI-Powered Analytics Drives Real-Time Personalization"
     excerpt: "Securing the right talent is pivotal to any AI initiative. Employing data scientists and AI specialists is a good start, but organizations should also look for ways to upskill current employees to work with AI systems. Ensure high levels of data quality."
     publishedDateTime: 2024-02-22T00:00:00Z
@@ -62,20 +76,6 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/151712-CRM_0323_feature_analytics-ORG.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "VA puts AI use cases into ‘operational phase’ to meet its health care mission"
-    excerpt: "VA has identified over 100 AI use cases so far. VA Chief Technology Officer Charles Worthington told members of the House VA Committee last week that 40 of them are in an “operational phase,” and being put to use in the field."
-    publishedDateTime: 2024-02-23T02:01:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/va-puts-ai-use-cases-into-operational-phase-to-meet-its-health-care-mission/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/03/electronic-health-record-military.png"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "pc/24hpZsK8Fh9Wuc1L45xnllKzI4UsGHTjJh+ez8nXSYiAO/U+H4K9NlXjm0NaYC0UbU6Xb5lMSh/oY6D+EwTJDktW6lYWAfyvu+OETVH10SZ2uonSoDnm8C1l6+5/3E3U71iadlL2c1Jl76W5NnWYImLMsVYFMb3R64BKqC2WJ7T9ho0T6Cjq9g03Ckc6IQZ5ZxE0EbKZZfan5r8Eq+KuROVZ7h3rW1nIxt/nLNqzf7sBV7LRhQH/0qrBCQZiMgAxrdbWwBEPmLhfqBhMPn+OzDnGi0zTh8iI8uugMQwNZDeAEXHMdNzIpEgnb7M3kQ4AmUvAiAUBFT5kpD689Qwmk45Xht7nxY529ynG2e2Y=;wwo6JyopXGvPXtZhGPGsPA=="

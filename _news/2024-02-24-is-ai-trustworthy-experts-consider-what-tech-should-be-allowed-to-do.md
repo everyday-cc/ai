@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-te
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53"
 type: article
 quality: 89
-heat: 89
+heat: 93
 published: true
 
 provider:

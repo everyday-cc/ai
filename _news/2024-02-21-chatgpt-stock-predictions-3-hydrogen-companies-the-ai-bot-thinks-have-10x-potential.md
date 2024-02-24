@@ -33,15 +33,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 81
-  - title: "ChatGPT Stock Predictions: 3 Artificial Intelligence Companies the AI Bot Thinks Have 10X Potential"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) stocks are a shining example of potential. They"
-    publishedDateTime: 2024-02-19T21:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-artificial-intelligence-companies-the-ai-bot-thinks-have-10x-potential-1033080966?user-agent=mozilla%2f5.0 %28windows nt 10.0%3b win64%3b x64%29 applewebkit%2f537.36 %28khtml%2c like gecko%29 chrome%2f102.0.5005.63 safari%2f537.36"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "ChatGPT Stock Predictions: 3 Electric Vehicle Companies the AI Bot Thinks Have 10X Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Electric vehicle stocks stand out as a beacon of innovation and possibility in"
     publishedDateTime: 2024-02-20T18:45:00Z

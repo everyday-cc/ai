@@ -3,12 +3,10 @@ category: news
 title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
 excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
 publishedDateTime: 2024-02-23T20:18:00Z
-originalUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
-webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
-ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+originalUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://i.guim.co.uk/img/media/6eb6701b827383e927741aa77b9fb8d3308ff274/0_491_7488_4495/master/7488.jpg?width=620&quality=85&auto=format&fit=max&s=39f3cc2637afa6532a061368f40528be"
-    width: 620
-    height: 372
-    isCached: true
 
 related:
   - title: "European Chip Stocks Surge After Nvidia Sales Reach New Heights on Booming AI Demand"
@@ -608,6 +600,15 @@ related:
       name: Antelope Valley Press
       domain: avpress.com
     quality: 19
+  - title: "Nokia and Nvidia partner for AI mobile networks"
+    excerpt: "Telco OEM Nokia plans to develop AI-ready radio access network (RAN) solutions in partnership with GPU darling Nvidia. As part of Nokia's anyRAN effort, the companies will develop cloud-network technology and explore how AI can revolutionize the industry."
+    publishedDateTime: 2024-02-24T20:07:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nokia-and-nvidia-partner-on-ai-mobile-networks/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
   - title: "AI-darling Nvidia's earnings could boost its sway over U.S. stock market"
     excerpt: "No single stock has embodied the U.S. market’s artificial intelligence fervor as much as Nvidia Corp, leaving Wall Street tied to the fluctuations of its volatile shares. The semiconductor company, whose chips are considered the gold standard in the AI industry,"
     publishedDateTime: 2024-02-22T14:51:00Z
@@ -654,6 +655,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "QIH2O7NsjGZzCN9AhdnP71ksSWHnAAd7+sDMCv6KqUkI5F79qceuxDc6zYmQrFPUXmKhDJy3v7KFL3snVF9CL9RSm36cDCH8Uzn/DTf3V+fwzacBJqKajvDDG+LS2HMTa56lgr8gWRvyUmZ2rpZ+HWBpJCpIp6ZUl3CpIZjHT3oBoy9iA+T6wm4B8cFt8lczPBKWtGgSy/7282R+oYMJ5ZdK585vx1Olr3L5560Xx0UaMWqh4J3ipFGHmIGnJFVWU7npBik/ULHzOvgNnnmP8vz6h5ILM21HHhul31uBxNqp8AtRRXds+2ZNV0/Ih0UJTHcVSBBo25AHxyUKmekMKooblHO0wun0Z6sPN9aBwd4=;aSob2D0FBQb+I7hBnJhWlA=="
+secured: "6jrFOkNXqLjocchjWNUwgBF/cszQes3jg5wV+7TlqAYAhF96HZ40IYQKLhYgU9amIuInl9xcZBlHfhz3PHM9WMUAUvojgREsyM5TJgvxul51492E6IyEallzTLmPy9GiUrnJIMOzpGieM7Vw3jfihMLxEINYvvUWsIWZ3Pkf0UOHIgRWThDQ/1v5d38TjXM2718jXsh+jNRoQjnjWkmrSc+YkS221Pri2xaDfMOmxaN4dK03+JsY/XaNTwZHU/ob9v+ksKZNyHkcZH6sHr6mNJZiCKB26+frvtZRytoIZL+zcFYbSSmwlJ+uajyfQSPYiyB3Fz3+S/bFFwnXfEncs6C2aV5jBuKYrZ7ivqZ/cjtOxJNurEwbbREcptLwOpmb7nrL4S65YlV7XmR0JDACZ8o05fNNioqmFKeEiE6kSHgFH3P0vfH02qqZtYNymIDEOJE7jcHxsxkFlUz2iAxPZR3UufVK8PLVkKKA4RHindbBY4sfrHj42lm5nq2KVWz8CV2hR7PdG48QcP04Z9Pm8A==;mhPczE8fb3Ocg85pcXTnIw=="
 ---
 

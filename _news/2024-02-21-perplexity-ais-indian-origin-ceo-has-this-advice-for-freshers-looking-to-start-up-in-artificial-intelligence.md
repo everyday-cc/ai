@@ -34,6 +34,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Transforming broadcasting with artificial intelligence and machine learning"
+    excerpt: "In common with industries across the modern economy, the broadcast media industry is currently on its own artificial intelligence (AI) and machine learning (ML) journey, with organisations at various stages of evaluation and implementation. But in ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/transforming-broadcasting-with-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 32
 
 secured: "UDSIVqBgs/ws1wUTIyNO9Ndw+ad/ss/munn5c/j9aDQPN6K8pwCBY4/M0RRZIF9oaz55L37OD7tUWSt7Qtq5kO6mB2BDTwb1LKnmWwqvdYw9qnXFCeLZ2iI+l8Q1R/OwTPD29l5Sr9u1+QErpSoc+U5auk0MjOFFktW+GQAN3Sns8zzehZ/uSEbr+6BqAm9dnXoJnqL50j4VRAXinZwrsxpPx/5i15xQSHWzctg22P4AXHVYgf2/VYlY/dvT7iIrr1aCKD4xnvPBCPT0bdYs4SxkdKVKDNu/qy5mxObq440NxrqRhMgB4HIW2OSIJN51PCF+a+edNTgO6mBFqqDsUQ64VUzOcme4ONEHjcVTRP/UIoff3bZIbDGdDm42OJ3wFFHmT6j3u7CaVR8KUn86NRRwuU9VEOS37nvCP9mEnQ6yYMH8MeUqjj4sP6SxS7S4oAaF/KFsGTl1o74HivGbxuf8cu0UwQZnOfLcL9stdGVZQNWIlG6Zewi+9eR5VT40wuLsNMpdzTmeSzYL0YVsQA==;oxsuw8cbVuQJYccnHlmIUg=="
 ---
