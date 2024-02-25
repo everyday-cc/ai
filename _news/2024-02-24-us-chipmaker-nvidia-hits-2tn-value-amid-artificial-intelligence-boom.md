@@ -448,6 +448,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "5 History Lessons For Nvidia From The 80-Year History Of AI"
+    excerpt: "Predictions are difficult, but we have lots of data at our disposal that may help us make educated guesses about the future. It’s called history."
+    publishedDateTime: 2024-02-25T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Nvidia’s AI Dominance Heralds New Era in Computing"
     excerpt: "In a tech industry renowned for short-lived frenzies, some chip executives and analysts see the AI boom as increasingly sustainable."
     publishedDateTime: 2024-02-22T13:44:00Z
@@ -677,6 +686,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "7MHM3h8lea3wWFKZfJoqz9oxjbN456m3JkDsUqEaHgCJj0VzrUrhEER2tYfRilKWXpljIjTSXTOLfDPWJdUjiVdEUowzaFUcQ2vm3NhuMRAEQ3xl10cezTukwcdE8A3cN0WCZ//ej74LkA/845bxi2ScKrHnRAYLnLwqdeU3BAYyuZ8/hnb/hHDKPm5puJqm/BZLVb7fGJDB6Ekru45q4uLdGaZPkI0G3xdY6lO+gGF9pcn6N9CtJc7fVsyjkcDCv1YUkJCx5X9N3lrX5acYO1F+m7A/EuIWpn2wjSZpy8DlFGXMXpcVR+FlCEapFe49oriU+sfO4IjC2QCyQKnMgeDUzaIpGBVX6V69oDSoj9QvtmYU9NmPMVK8HQlEu5/3PyXsd0TGViulWE2vYQ4KzSIzR1yN+ogzLGGlw4U0/DqlsxeKpWg2WGRf6HH10j0/tcLIjIaY6Yk4U0Oieht5x5GuU+bJ164YAvHIzEz1d/R08OCEidlTb50GAwwhQqu5+FeO1nmAHTncHE7F03huKQ==;fFcHPRl4OKT/0pKAbukIsw=="
+secured: "GDuRz306s2ZiYilUsh2E0XoCD6KFabXtBZq/qb4tmChUIZtRiOep+hODBJkaB4dKcI/koycu9hB4M/5z3+LusGNCoy+WZRtEHYG2JUlH3Hf60UziiQelcO05S4lR2bqrJGWs5NdsnjVbAYA4gfujMHBT7bk8TCv9V/IljRHCAJrNhdnK08n8tJjiBvsWV1/jGqi7RoH+2mPQYgwIA7Qe8v8ptxM1RIGfdYo1cRJyjXeuP5keZlLTLqBKxG0F6d2fmeNdz4PnXk+cgaDGPdS3rH/LvuJZ+N9rh3cTTKjKP8C57x25f0LhLgBiZ7f5HiV+gnvmKmg+Y2ez2CZFqqP/5SFjb4RZ+B3VsNj0msd+rfU=;/rc8qHxdwdJb8BnBy+vrxw=="
 ---
 

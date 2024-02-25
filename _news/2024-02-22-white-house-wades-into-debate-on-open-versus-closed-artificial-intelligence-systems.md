@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "White House Wades Into Debate on ‘Open’ Versus ‘Closed’ Artificial Intelligence Systems"
+    excerpt: "White House seeks comments on the risks and benefits of having an AI system’s key components publicly available for anyone to use and modify."
+    publishedDateTime: 2024-02-24T19:24:00Z
+    webUrl: "https://www.securityweek.com/white-house-wades-into-debate-on-open-versus-closed-artificial-intelligence-systems/"
+    ampWebUrl: "https://www.securityweek.com/white-house-wades-into-debate-on-open-versus-closed-artificial-intelligence-systems/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/white-house-wades-into-debate-on-open-versus-closed-artificial-intelligence-systems/amp/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 49
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ZGA16QGdbdVHSKf5UWWoYChgSp4tvNPT3vOzu8sDgGSkK2PFa4TKND/iRq85kTWWWFSfKjZaNZ+ZeMag80lLjp/kt6n/FEEGSFfctm4dG6OEYoWoG3rcVM2hNAMwbMO16EI0xwS3P01DAhEJYzlDEkqRmgjtjwFYoTs2UX9wvKAzRBd+QwaLJ1/AtKkN2A+Li+aw3g/jawEVunRA444qSmTtpEwd7WP944qHgeRbYCHjVKXzdj+XUeLhbPbXnBjGT2O+8jbcTdTsjGcabXbkrZXYWX5PT2NUziN0UzPIEOAhnTuIKfzmZkuPkEiJpp25fALVozAY/Wgno5krDDVSySR/K74m1QHvR8r9SfvKF6sKkbeDQQi2e1KQKEKOTzWixBJ5J0OMBGfaBoKF+LSfCqr5rPHC+Idv+tdNICvYIjxjMxw08Up3+sXh42fstVw2B+dBJzvBHjBvusHXkj1F27H4wTZywCzSUo1ISNlwhtjPWG+PWiHE/htUw6Gp/4Y3mhfIcvR0GWy2iaMWyjfyrA==;+1Zclw7YmNLYry8hDjHjJw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/biden-administration-enters-de
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "White House Wades Into Debate on ‘Open’ Versus ‘Closed’ Artificial Intelligence Systems"
+    excerpt: "White House seeks comments on the risks and benefits of having an AI system’s key components publicly available for anyone to use and modify."
+    publishedDateTime: 2024-02-24T19:24:00Z
+    webUrl: "https://www.securityweek.com/white-house-wades-into-debate-on-open-versus-closed-artificial-intelligence-systems/"
+    ampWebUrl: "https://www.securityweek.com/white-house-wades-into-debate-on-open-versus-closed-artificial-intelligence-systems/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/white-house-wades-into-debate-on-open-versus-closed-artificial-intelligence-systems/amp/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 49
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "White House wades into debate on 'open' versus 'closed' artificial intelligence systems"
     excerpt: "The Biden administration is wading into a contentious debate about whether the most powerful artificial intelligence systems should be “open-source” or closed."
     publishedDateTime: 2024-02-21T19:21:00Z

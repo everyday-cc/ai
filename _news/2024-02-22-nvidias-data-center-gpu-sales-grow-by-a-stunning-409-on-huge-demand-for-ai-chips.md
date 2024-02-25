@@ -446,6 +446,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "5 History Lessons For Nvidia From The 80-Year History Of AI"
+    excerpt: "Predictions are difficult, but we have lots of data at our disposal that may help us make educated guesses about the future. It’s called history."
+    publishedDateTime: 2024-02-25T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Nvidia’s AI Dominance Heralds New Era in Computing"
     excerpt: "In a tech industry renowned for short-lived frenzies, some chip executives and analysts see the AI boom as increasingly sustainable."
     publishedDateTime: 2024-02-22T13:44:00Z

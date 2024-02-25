@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Vectra AI and Gigamon Announce New OEM Partnership to Reduce Cybersecurity Risk for Large Enterprise Organizations"
-    excerpt: "The Vectra AI Platform leverages the integration with Gigamon GigaVUE Cloud Suite and is available now through Vectra AI, Vectra AI Reseller Partners, and the AWS, Microsoft Azure, and Google Cloud marketplace. For more information, visit: https://www.vectra.ai/products/platform."
-    publishedDateTime: 2024-02-20T15:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964831.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "d1LYe2ToAKrp8muu9Ahxccf5h5BdiTcgBTNSFbXCo2vL8kOk5TCMbj9XOeywM0QnDWTZMvEAGYFfj5e8bQAmfH/J9n2qXYd9ENKBhzlzPlK+QCwNXMpqVRoWfsvTq6K5QeRsiqdQLvfrhe9uKqjvLuucMg/uEDA4H/+7wUk2/ZKSgcqE7HouiehHBJqYLXMt7SxhEg689IjLgnfA83eqlP5j4jN5MFp3ucQRYChlGHNyYmZbm6H9CEfLE3IhO02U+H5HLsGWlifAezZjShM0iqpeH6t6C0Zy4Vb2l8AWt/xaUFRSilVr7EU7SWTpXXFCWaP7AHbqiZ1+4kIdF0GwuP29JdBWJW7Jqivz3TjTwkMO1ch4pi559OlHuYtaeyiYea9dSay/2QPPMqJuvze7tTUNfx0weYeDG48XhnH2wu0+jLWhfhl1BAKdhXafqxWKmf3rj5pyT3u5jWGTYR60/7TZYDW/VXSI9I7DPThiX6n3/pn0XB5PuE8AmnrvrKNMhcFrRO5ljtvx9LS7eQRDuQ==;5vvNu3EddIrIqGqqn86xMA=="
 ---

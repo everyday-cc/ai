@@ -47,24 +47,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 41
-  - title: "Adobe's New AI Assistant Is Designed to Read PDFs for You"
-    excerpt: "Adobe is getting into the AI assistant game. The assistant, which is rolling out in beta today as a part of Adobe Acrobat and Adobe Reader, is a new tool that \"reads\" through documents and can answer questions related to their content,"
-    publishedDateTime: 2024-02-20T14:20:00Z
-    webUrl: "https://www.inc.com/ben-sherry/adobes-new-ai-assistant-is-designed-to-read-pdfs-for-you.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
-  - title: "Adobe Brings Conversational AI to Trillions of PDFs with the New AI Assistant in Reader and Acrobat"
-    excerpt: "AI Assistant leverages the same artificial intelligence and machine learning models behind Acrobat Liquid Mode, the award-winning technology that supports responsive reading experiences for PDFs on mobile."
-    publishedDateTime: 2024-02-20T15:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-adobe-brings-conversational-ai-trillions-pdfs-with-new-/2024/02/20/9964741.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "APynNBNcywok1mReCrWCHfH0n5WgmKniGdGySGqAAvyqVAgv6Qh5gRF26r1LdjQ/Tw2s0wbQhK6zwya3CsMR86FzJgwMd1xcHu0Hd9Ms0aEt+xUXR4zfown3kluXX4pn0RjVoVopHwsGPqSeR28vOKUQql8uheZMbYMWKprDYX97TLLgzNPTfQVRhScnwA8jBE0Kn5L2Ij4LSNOndPY2LzE1LiMUzaPeLoB1ZrGxoc9ziWS9dtyP+qSnw7/S9BOo4phk2HKGQlmm9ZkWRSlSfvA5TjfUL/LufwlBSMWXhAny9LJa05CVf9fkYbg1mJfJK3JfsSmgGTrpPhu0iCBBLH6afBvw1eHCXKNThasDzJr2oxAdKpjlbCFsOG9YGGfb2ROAMpjJSasKcJxneSPabjF+YYIl/rmGKpnWpkzBY0OksJ5Pw4UxzAOX9TnGFvcWlzBjwd9+vYZ7Q/ed6ojXaNLh8OWke2DyoO6N4iL6+j6eptu/spdUC/NNrv6ogAzWYoGvDt9OPmw8dZfZxQSHEA==;JmHGrNtqxQPRFqV68X8ycA=="
 ---

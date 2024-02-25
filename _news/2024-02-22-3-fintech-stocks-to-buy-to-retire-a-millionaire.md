@@ -85,15 +85,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Why KYB Should Be a Priority for Fintech Startups Right From the Start"
-    excerpt: "Fintech startups are disrupting the financial services industry in exciting new ways. However, with innovation comes risk. As fintech companies enable speedy, paperless transactions and expand access to financial services,"
-    publishedDateTime: 2024-02-20T13:55:00Z
-    webUrl: "https://techbullion.com/why-kyb-should-be-a-priority-for-fintech-startups-right-from-the-start/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
   - title: "India’s Fintech M&A Count Hits 30 in 2023, Lending Sector Tops List"
     excerpt: "Lending Fintech companies accounted for 30% of all Fintech acquisitions in India in 2023, highlighting a shift in market dynamics amid growing regulatory"
     publishedDateTime: 2024-02-24T18:10:00Z

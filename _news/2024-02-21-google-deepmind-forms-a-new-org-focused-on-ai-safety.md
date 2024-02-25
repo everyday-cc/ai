@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-fo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google DeepMind alumni unveil Bioptimus: Aiming to build first universal biology AI model"
-    excerpt: "Today the Paris-based Bioptimus, which plans to build the first universal AI foundation model for biology, emerged from stealth with $35M."
-    publishedDateTime: 2024-02-20T14:17:00Z
-    webUrl: "https://venturebeat.com/ai/google-deepmind-alumni-unveil-bioptimus-aiming-to-build-first-universal-biology-ai-model/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 77
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-20-08.57.21-A-panoramic-detailed-image-showcasing-the-different-scales-of-biology-in-a-seamless-transition.-The-image-begins-with-a-magnified-view-of-molecules-.webp?w=1200&strip=all"
-        width: 1200
-        height: 685
-        isCached: true
   - title: "Google DeepMind debuts Gemma open models, offers developer alternative to Gemini API"
     excerpt: "Google DeepMind announced it had released Gemma — new 2B and 7B open models built from the same R&D used to create Gemini."
     publishedDateTime: 2024-02-21T13:00:00Z
@@ -82,15 +68,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 48
-  - title: "AI hallucinations will largely be eliminated by next year, says DeepMind’s Mustafa Suleyman"
-    excerpt: "Suleyman said eliminating hallucination would have a dramatic impact on education because these conversational AI's are friendly and fluent."
-    publishedDateTime: 2024-02-20T14:35:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-hallucinations-will-largely-be-eliminated-by-next-year-says-deepminds-mustafa-suleyman-12315081.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 24
   - title: "Andrew Yang and 300 international experts petition for government action on AI deepfakes"
     excerpt: "A coalition of 300 international experts drafted a letter calling for government action to address the proliferation of deepfakes, urging criminalization and penalties for those involved in their creation and dissemination."
     publishedDateTime: 2024-02-21T13:18:00Z

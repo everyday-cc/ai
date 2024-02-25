@@ -7,7 +7,7 @@ originalUrl: "https://www.cuinsight.com/is-ai-coming-for-your-bank-job/"
 webUrl: "https://www.cuinsight.com/is-ai-coming-for-your-bank-job/"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1000
     height: 500
     isCached: true
+
+related:
+  - title: "AI-silicon: On the nose or a nose job?"
+    excerpt: "The new AI wars in technology industry are happening on wafer-thin ice, oops, silicon. Here’s why and how savagely!"
+    publishedDateTime: 2024-02-25T15:00:00Z
+    webUrl: "https://www.dqindia.com/features/ai-silicon-on-the-nose-or-a-nose-job-3997202"
+    ampWebUrl: "https://www.dqindia.com/features/ai-silicon-on-the-nose-or-a-nose-job-3997202"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/features/ai-silicon-on-the-nose-or-a-nose-job-3997202"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/1vI22jgRsCdtfCIWaSmL.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "aWzV/x2fcKYuF7sTMl2G+G39aTq7TN2UnRpBnL+5l8P1l5LGZiTOtQOlhoWXXvEW/6Q0i6n6lINX2EK8awUldYurnRqsXpWMzt+qse5vWKpxodq3hi+0R8RKlkccqMBbzI7ICBI1U91uXCPbZffI/7gJjTQcno3cd0/Izc2FO0ewxwyfZ7RMmjhMu99gyXT4DFn/ys6ouNJaBwYfBF7iV6JTlScLmP2DWz/ttGTQ3pUws9t+z3AjTJ3LAv+0e+1iv3eDJSYBxZuyP9Pufs/keSgu90WSZDQHqW2tkx4FJFhtE6osKtldaOl5FSRv16Ce3pu+lOM7QG2eRZ6O5bUKP6tea1SGPsTR36VDPwtv452jFl5lyyqdV/5R+I90D6hKwfyNKr1l0EkhsligCcGex5FalTThz2jOkQV940vWH72P4Nc5/lyjB4p1uODFaOlHy4P82HXgA5k6q2GAScapML+5s44DGoJIxcaD8IosBIXQU6T6AyJSn4sDm/qEgZzniIAv7phtxGmO96R6A/OIGA==;Wd4DswEMwddntJiu9zTurQ=="
 ---

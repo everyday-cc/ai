@@ -30,7 +30,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/657c05994692840d3efcf0b9/0x0.jpg?format=jpg&crop=3259,2445,x276,y0,safe&height=900&width=1600&fit=bounds"
         width: 1200
@@ -125,20 +125,6 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2024/02/20074049/AdobeStock_583862221-1.jpeg"
         width: 1920
         height: 960
-        isCached: true
-  - title: "Forget ChatGPT — Groq is the new AI model to beat with blistering computation speed"
-    excerpt: "Groq (not to be confused with Elon Musk’s Grok chatbot — and no they aren’t too happy with the similar names) specializes in developing high-performance processors and software solutions for AI, machine learning (ML), and high-performance computing applications."
-    publishedDateTime: 2024-02-20T15:54:00Z
-    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-groq-is-the-new-ai-model-to-beat-with-blistering-computation-speed"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 50
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xXxEjXREsFJxKk7bjXZPfn-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
     excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"

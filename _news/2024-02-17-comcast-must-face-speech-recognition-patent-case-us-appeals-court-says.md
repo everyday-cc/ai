@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Comcast must face speech-recognition patent case, US appeals court says"
-excerpt: "Feb 16 (Reuters) - A U.S. appeals court on Friday revived a patent lawsuit against Comcast CMCSA.O over voice-recognition technology for television systems. The U.S. Court of Appeals for the ..."
-publishedDateTime: 2024-02-16T18:08:00Z
-originalUrl: "https://www.nasdaq.com/articles/comcast-must-face-speech-recognition-patent-case-us-appeals-court-says"
-webUrl: "https://www.nasdaq.com/articles/comcast-must-face-speech-recognition-patent-case-us-appeals-court-says"
+excerpt: "A U.S. appeals court on Friday revived a patent lawsuit against Comcast over voice-recognition technology for television systems."
+publishedDateTime: 2024-02-16T17:11:00Z
+originalUrl: "https://www.reuters.com/legal/litigation/comcast-must-face-speech-recognition-patent-case-us-appeals-court-says-2024-02-16/"
+webUrl: "https://www.reuters.com/legal/litigation/comcast-must-face-speech-recognition-patent-case-us-appeals-court-says-2024-02-16/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
 
-secured: "QFE2j6YfTDS7WAUJ81/Z+iRtkCzAGam2bcC35hLiuna+Jz+4X+x1s35Gru/QAY37e+sa0OObtd3O1nevHtHBcpqwWFeiH3fkmw2EHpwFP8VW6IkmaTQNYx4jYY/H6EwRH0+scp+4/3gsr89f0pYfFLhps+hRuLZbZ/3aMPlLK3+mG2RC7BqN5XJadq0p6HI3TZWl30wnhmG5R1awR6TuQibo9DBh+ERMso5vhSzpGC6CTIrJZpwHMN4ZU6lG8PphtU0CMkwL8FLn+Ob2qFfpcQFF7dK2m3XA08X88FcjNr8kVTvLW05ytBkBwaElomqvmXv0u2rOaOHe9PpsxizF5CKlkBHEPiNG0wxmz+dm4Js=;KjkVud1Y5ABi/0O95JE66w=="
+secured: "g3ebCQjfhVi/Dr0kxKBe/9nmgFDSTnjxGcrjMmW7f0QA8n/BKNkR6/OJ1ygYBDvKbLEzbaoxzvA90fv+FWfPXK33dJ0SoCzEah2c1wjbMRZ2AG1enWJidxGNrxG2yhN7oz4qvrbMfBYALQcoF2vYOzm/o/SzKfwWqTCVtoKd03P8T2z5kFVDoVUeGLOs8XubVP9kZQ2/r8BJ/i41+igl4ORiqIbAugREZ7M8J64vNlm6DyBplEzQiiAYtYOlPFc7GNgELeMXw4wKnmSk3wQk/BDF46QAceM1nEC2bWVHC4mrXlCOapQC/syhIofMlO/dbYrsxnn+zwZvihUDoD0ZWJ9mAmiXJ4shcFBerCE8j9Pa+5NjFf71NzdUuuIa379H+llGnKct80Fxgs7ycQRwzLD4Ytiz8XQwUIOj+KoirwOODiB/f8fQjXxsqR/MaJKBHWeHODAxFAl5R3mLlaP88Ex/N7GmRA6YZdKqHf1WQSe3UDd7Ti1xRF74BCjmsg423qAdk2gAD9BmO5UuDwHyJA==;Vc/QJhmg9GkfKaXYzQaQ5Q=="
 ---
 

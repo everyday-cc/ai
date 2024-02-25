@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Where To Attend An Online AI Bootcamp In 2024"
-    excerpt: "If you want to work in a specific AI niche, such as machine learning engineering or natural language processing, make sure your prospective program’s course offerings, hands-on components and curriculum align with your goals. Current tech professionals ..."
-    publishedDateTime: 2024-02-20T13:58:00Z
-    webUrl: "https://www.forbes.com/advisor/education/bootcamps/best-online-ai-bootcamps/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://www.forbes.com/advisor/wp-content/uploads/2024/02/Where-To-Attend-An-Online-AI-Bootcamp-In-year-EDU-FI.jpg"
-        width: 958
-        height: 539
-        isCached: true
   - title: "Upgrad Uses AI To Translate Certs & Bootcamps Into Local Languages"
     excerpt: "(MENAFN- IANS) New Delhi, Feb 21 (IANS) Ronnie Screwvala-founded edtech platform upGrad on Wednesday said that it plans to enhance its product diaspora by translating popular Certs & Bootcamps into local languages using artificial intelligence (AI ..."
     publishedDateTime: 2024-02-21T00:45:00Z

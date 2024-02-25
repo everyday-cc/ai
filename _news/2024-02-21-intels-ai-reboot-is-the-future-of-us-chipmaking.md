@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
 webUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://media.wired.com/photos/65d679d633ef175be68cdac6/191:100/w_1280,c_limit/Pat-Glesinger-Intel-CEO-Q&A-Business-1767731700.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "Intel Bridges AI Chip Gap"
+    excerpt: "Intel is well-positioned to capitalize on emerging opportunities in the semiconductor landscape and bridge the AI chip shortage gap. Yiazou Capital Research members get exclusive access to our real-world portfolio. See all our investments here » Through ..."
+    publishedDateTime: 2024-02-25T14:00:00Z
+    webUrl: "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://media.gettyimages.com/id/1251437157/photo/microchip-and-intel-logo-displayed-on-a-phone-screen-are-seen-in-this-multiple-exposure.jpg?b=1&s=594x594&w=0&k=20&c=HFVH7KxmOihjyT8EjTR8pO5m_rgbZfpLmjn4pVRwaAE="
+        width: 594
+        height: 396
         isCached: true
   - title: "CEOs of OpenAI and Intel cite artificial intelligence's voracious appetite for processing power"
     excerpt: "OpenAI Sam Altman, right, discusses the need for more chips designed for artificial intelligence with Intel CEO Pat Gelsinger on Wednesday, Feb. 21, 2024, during a conference in San Jose, Calif.Michael Liedtke/AP Intel CEO Pat Gelsinger discusses his ..."

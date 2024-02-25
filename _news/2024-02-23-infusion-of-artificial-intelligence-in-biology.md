@@ -24,31 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Bioptimus raises $35 million seed round to develop AI foundational model focused on biology"
-    excerpt: "There’s a new generative AI startup based in Paris. But what makes Bioptimus interesting is that it plans to apply everything we’ve collectively learned about AI models over the past few years with a narrow, exclusive focus on biology. The reason why ..."
-    publishedDateTime: 2024-02-20T16:52:00Z
-    webUrl: "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/"
-    ampWebUrl: "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/"
+  - title: "The Potential of AI and Nanotech in Precision Medicine"
+    excerpt: "Innovative technologies are bringing new capabilities to health care and precision medicine that once would be considered in the realm of science fiction. In 1966, the science-fiction film Fantastic Voyage told the story of a team of scientists and their submarine vessel who were shrunken to about the size of a microbe and had 60 minutes to find and treat a blood clot after being injected into the bloodstream before they return to their normal size."
+    publishedDateTime: 2024-02-23T00:53:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202402/the-potential-of-ai-and-nanotech-in-precision-medicine"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202402/the-potential-of-ai-and-nanotech-in-precision-medicine?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202402/the-potential-of-ai-and-nanotech-in-precision-medicine?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1362476720.jpg?resize=1200,800"
-        width: 1200
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/pic11.jpg?itok=l0c057fQ"
+        width: 1528
         height: 800
         isCached: true
-  - title: "Bioptimus nabs $35M to accelerate biology research with AI"
-    excerpt: "Bioptimus, a French artificial intelligence startup led by former DeepMind researchers, launched today with $35 million in seed funding. Healthcare-focused venture capital firm Sofinnova Partners led the investment. It was joined by more than a half-dozen ..."
-    publishedDateTime: 2024-02-20T19:12:00Z
-    webUrl: "https://siliconangle.com/2024/02/20/bioptimus-nabs-35m-accelerate-biology-research-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "7XR8s6S/u1qomX64YzkXsgfH6yjRkZJiYTlJul9P6krexQiHizL20sykhFtDnW6q5F1NtrgSV5yp8NMlH3oVoIArRq5Xj23XRUXwOqp+Ryh/xm6lDWLr3kqdB0HO6+cKJikQzVKUM4KE1HjNE+nC1C/dsPJSNvYiYOdhV7eUh1VObnbCHb3CdopG0NJaawCCZKBDybNjAVw3ZLwYmMSCbzRQb6Epfzc5G7DUrbHPL8xY04Ry5KVgxVTZHzFcpsF7oFIw+rIGuyjhCcb0sIdFDdoCKsQZO/btBtKugi/fmAT/r+6UackGtCBcejKfFWA/MReGwun4lX1Ljmx8cfnDK5QSg3FSh7WrPykSskaOsaM=;ohqF8mFh4ponxNxXipLMJg=="
 ---

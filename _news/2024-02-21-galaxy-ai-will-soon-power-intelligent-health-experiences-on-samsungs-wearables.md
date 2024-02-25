@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-34
 webUrl: "https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/"
 type: article
 quality: 62
-heat: 82
+heat: 102
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung Galaxy AI Confirmed to Come to Galaxy Wearables"
+    excerpt: "In other words, get ready to see Galaxy AI soar across Samsung’s wearable ecosystem. The support could possibly bring smarter health monitoring, seamless language translation, and who knows what other surprises to your wrist (and finger) soon!"
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/"
+    ampWebUrl: "https://www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/04/Samsung-Galaxy-Watch5-Pro-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Samsung says more Galaxy devices will get AI features, announces major update"
     excerpt: "With this update, more Samsung Galaxy users can take advantage of the communication-enhancing AI features on AI-supported models"
     publishedDateTime: 2024-02-22T10:42:00Z
@@ -60,6 +76,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "AI Features Are Coming to Samsung Wearables and Tablets"
+    excerpt: "Samsung's mobile president says the tech giant will add AI-powered tools to more of its devices, but it's currently unclear when such features might hit the market."
+    publishedDateTime: 2024-02-21T13:46:00Z
+    webUrl: "https://www.pcmag.com/news/ai-features-coming-to-samsung-wearables-tablets"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
 
 secured: "0I98qdA3ki8sV7sYRkP/tMNQiVtdJNr37lexknouAgSFP8Vrdr4uLq/9dg34x1XCEZAOjXgkhSl4y5RqW+DFSjLg9k9wJuMy912TysTEuVfTLJ7k6duevU4HVdMvyXJNdTic8au5ircQLE20A307iZKMs1xNb9Gi/UzbNpPUzPf3Vg0ffuoQ5BHK64OuiGv76P09xCkxDK+64WMwKub0wYax1Tb59zlgevhvM6w28Vf6EgX3cKFOOyGuKYgcm+IhuO4OBY3EuU+D2vThPA0nPtx5yGQi8YtVB9sn6iLmMzUWry12viYMy6PwEf66BIwdHnP7QncNMK/NWiCFay4tKdUWA8e8tTRiGtLh5kecRRg=;OKy9cTCGe6Rut6VJrPbmwA=="
 ---

@@ -18,20 +18,24 @@ topics:
   - AI
 
 related:
-  - title: "China-based Startup Moonshot AI Secures a Whopping US$ 1 Billion in Funding"
-    excerpt: "This financial milestone for Moonshot AI is part of a larger trend in China, where there's a noticeable rush to support AI startups"
-    publishedDateTime: 2024-02-20T15:15:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/20/china-moonshot-ai-funding-1-billion/"
+  - title: "Abridge, an AI start­up for med­ical notes, rais­es $150M"
+    excerpt: "Abridge raised a Series C just four months after its last round, as investors remain interested in betting big on health AI even in a tougher market for health tech. Abridge chief"
+    publishedDateTime: 2024-02-23T12:43:00Z
+    webUrl: "https://endpts.com/abridge-an-ai-startup-for-medical-notes-raises-150m/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 65
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/07/hitesh-choudhary-t1PaIbMTJIM-unsplash-1024x575-1.jpg"
-        width: 1024
-        height: 575
-        isCached: true
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 17
+  - title: "Health startup raises $60M to automate clinical intakes through AI"
+    excerpt: "Fabric plans to invest in its digital software, acquire tech firms and grow its workforce with the new funding."
+    publishedDateTime: 2024-02-23T09:33:00Z
+    webUrl: "https://www.crainsnewyork.com/health-pulse/health-startup-raises-60m-automate-clinical-intakes-through-ai"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 17
 
 secured: "SCnCOaAS6T6z3Toob7SIkbsyf4gbr/L/dNXzTqPaUjOMvQBfezwaD/d17hQlHrH7uEwLYJu38NFYOqIbLUeZJzWOlvaAPT+mnQuRez86poeOuxQGnL04DMphsiAme8/qqYMioIw1SV+nl4NY3cdCGoBIQlF+LQinwXyAs2Y+F48Hy2UfkJTDh+JgVuP9QDXrKYCUtJWpJDlzZcIl+0MoJhF3mbQnt1ugeqBnhqMvav0FoNbZShwpIrE2QDxRnfw5X1tb5x2GBHU5QXtzinBzGbRt5ifX0PkXK6TCXgrdp759SN8g7ogFSlaojYvPq0T5Zcb46SBEXGzHkhI95SkTbDZWmRXff8m8cxesv7hEy4yB/CUrrLgk/lYPnK0FnXN1UZPa+7B/6iLXQ5CVrrCM49fo9GTXq2zVAhnNFkhaf+P51CmKJyMGfYIsmckSEWx2kQ5DWSQ4JZ7B/F7cl8pUihaMnXuyhDO+m6eViNaOTNhDcJgbMKkqSZbjLUD9+2Oj9S4gZ475f9pegNYUFubimw==;dFfJgOCywv8Gp88uayGALQ=="
 ---

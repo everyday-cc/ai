@@ -39,15 +39,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "UK offers EU cooperation on artificial intelligence policy and copyright"
-    excerpt: "The UK’s artificial intelligence minister has offered to work with the EU on regulation, and said that London would likely take an approach to copyright in AI that was “reasonably close” to Brussels."
-    publishedDateTime: 2024-02-20T14:59:00Z
-    webUrl: "https://sciencebusiness.net/news/ai/uk-offers-eu-cooperation-artificial-intelligence-policy-and-copyright"
-    type: article
-    provider:
-      name: Science|Business
-      domain: sciencebusiness.net
-    quality: 16
 
 secured: "10BV0tDLvdpwTDE6uu9NNwq/O3DmyIOKQvMymnAKf1kAysBllmSk5IDXVOKdxLsw5g0EUBw1L/RS5TN9x0EWSd71E1jS9h7QAfbFtg+e1Xig48q5kjzm9lZ1po/uqmhpvbFMlprAxfqtEzzQzFPx2gBgUBgmNKlx36eemLe/NPlrSdFbWA6X7QVIxbweN1+wpRIPkPk4gdrJoBCW5jDgvLTb1uXStgvntTx7xwIRyuSlA3ieIJ/iKbGnDGK0fqmHe2YLhMEY9Z6Tg7FGxiKEI7l5WKUJBcjPLOdlHhpFthdtdZRmb9AFCJYDpeiIW/kYXqkKjbNp6KlyGm1PoVfA8cQ4e+yOIpD8PCuRQJgB1xt/mvbx9291TFHGP+e8lF8advTjwb/mYmht3+RWLtj0cnoR+eOQ3v6SG5cesAVU7zhViFhy409ch5UVfnYZUVN/r8236TwLpBI9yjCyzV3iUZ8OJGCLFO0Gyz+Gvz91/8Vu9dN565YZn5kI6szlatC2VRcSQZm9czkmOofxZmukfg==;ncIPq2mrYGNF4pOr64JCqw=="
 ---

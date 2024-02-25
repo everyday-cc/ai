@@ -207,6 +207,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Google's Gemini Proves AI Isn't Ready To Replace Your Smart Assistant"
+    excerpt: "Some experts in the field, most notably Bill Gates, now believe that AI is plateauing. We've made the leap to natural language processing, but turning that genuinely impressive capability into a genuinely reliable and useful application remains a hurdle to ..."
+    publishedDateTime: 2024-02-24T19:15:00Z
+    webUrl: "https://www.slashgear.com/1521993/google-gemini-ai-replace-smart-assistant/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/googles-gemini-proves-ai-isnt-ready-to-replace-your-smart-assistant/l-intro-1708034922.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google's Gemma is now optimized for NVIDIA's AI platforms"
     excerpt: "This system lets users have access to generative AI capabilities on their own local PCs, provided they’re using an NVIDIA RTX GPU. This system effectively allows users to provide local files on their PC to a local AI in order to personalize the experience."
     publishedDateTime: 2024-02-21T16:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-earnings-pr
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-earnings-preview-what-wall-street-expects-nvda-ai-2024-2"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "Nvidia’s Q4 earnings will be a referendum on the AI trade. Revenue expected to jump 234%"
-    excerpt: "Shares of the AI chip darling have skyrocketed 184% over the last 12 months, easily outpacing rivals AMD (AMD) and Intel (INTC), which saw their shares rise 91% and 67%, respectively. Nvidia’s incredible run briefly pushed its market capitalization past ..."
-    publishedDateTime: 2024-02-20T14:02:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-q4-earnings-referendum-ai-190148756.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 10
 
 secured: "BFW+FmQqIgpCcCwx8zWsuuHB91GBFAql5yzuJrlLYG85JELan0FdCBwouC3mDEey9mNGt+/MjeWlUR2MpjMLvgwqa7B88GTfm0oV7fby0+pY5D/gIhD5GehiAHexEoAhQ4P9N0Ns7dPYj3wFCdPQwjGoXxm8QMfQvrA96EBX5Thk6XgG7d6dLxsppr7cN/s4kuCUDj2jQ1Y1Dlgqc5rlTBWQXv7cHTTR/lMpJBbxJK9SQZ91a9IXSIxwgXVSI2JTdCobW3wYdBsR0kKqsZE8+Tk9RucI5EUysVF5+t2bc4OvTdDVpJoJmFaUO0fiRsAcg/z/uR9Li5rudKKFb/cqWs0iRk41+PQ6BykUi96CQVc=;IFXSIpR+IeyKh2A3l1m60w=="
 ---

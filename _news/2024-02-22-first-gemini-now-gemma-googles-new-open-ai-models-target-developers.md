@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/first-gemini-now-gemma-goog
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/"
 type: article
 quality: 91
-heat: 591
+heat: 601
 published: true
 
 provider:
@@ -193,6 +193,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/035OJKlW9wJhW9L0j1OcXpo-1.fit_lim.size_1200x630.v1708530102.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Google's Gemini Proves AI Isn't Ready To Replace Your Smart Assistant"
+    excerpt: "Some experts in the field, most notably Bill Gates, now believe that AI is plateauing. We've made the leap to natural language processing, but turning that genuinely impressive capability into a genuinely reliable and useful application remains a hurdle to ..."
+    publishedDateTime: 2024-02-24T19:15:00Z
+    webUrl: "https://www.slashgear.com/1521993/google-gemini-ai-replace-smart-assistant/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/googles-gemini-proves-ai-isnt-ready-to-replace-your-smart-assistant/l-intro-1708034922.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Gemini is rolling out to Google One AI Premium subscribers, here's what you can use it for"
     excerpt: "Google is rolling out Gemini to Google One AI Premium subscribers, letting them use generative AI across Gmail, Docs, Sheets, and more."

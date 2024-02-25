@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Global AI Regulatory Update - February 2024"
+    excerpt: "The guidance also outlines practical steps that should be taken when building generative AI solutions and that these are created in a way that takes into account legal considerations, ethics, data protection and privacy, security and governance."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/global-ai-regulatory-update-february-8837410/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 41
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7393_3758.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Lightning vs. Capitals February 22 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Pay attention to Nikita Kucherov and Alexander Ovechkin in particular on Thursday, when the Tampa Bay Lightning face the Washington Capitals at Amalie Arena, beginning at 7:00 PM ET. One of the major contributors this ..."
     publishedDateTime: 2024-02-21T22:03:00Z

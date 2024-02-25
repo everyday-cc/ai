@@ -64,15 +64,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "How to prepare for generative AI and the future of work"
-    excerpt: "Tony Holmes explains how generative AI will transform the workplace and provides tips to prepare employees and use AI for collaboration and innovation."
-    publishedDateTime: 2024-02-20T15:48:00Z
-    webUrl: "https://www.pluralsight.com/resources/blog/data/generative-ai-future-of-work"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 19
   - title: "Planning a Career in the Age of AI"
     excerpt: "After decades of industrial robots, factory layoffs, and outsourcing, automation has finally arrived in the cubicle. A recent Wall Street Journal article spotlighted how the new “robots for the mind”—the complex algorithms and language models of generative AI—are creating rising uncertainty in the professional class."
     publishedDateTime: 2024-02-20T19:16:00Z

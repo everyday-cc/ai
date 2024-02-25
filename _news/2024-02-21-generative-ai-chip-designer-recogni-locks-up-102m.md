@@ -7,7 +7,7 @@ originalUrl: "https://news.crunchbase.com/semiconductors-and-5g/generative-ai-ch
 webUrl: "https://news.crunchbase.com/semiconductors-and-5g/generative-ai-chip-designer-recogni/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Recogni raises $102m to develo AI inference chip"
-    excerpt: "AI startup Recogni has raised $102 million in a Series C funding round."
-    publishedDateTime: 2024-02-20T15:58:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/recogni-raises-102m-to-develop-ai-inference-chip/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Recogni.2e16d0ba.fill-1200x630.jpg"
-        width: 1190
-        height: 625
-        isCached: true
   - title: "AI hardware startup Recogni raises $102M for self-driving solutions"
     excerpt: "Object detection requires a great deal of data taken from video and other sensors and Recogni’s hardware allows for more rapid recognition. The company said that its chips allow for higher computational power at lower energy use, meaning higher efficiency."
     publishedDateTime: 2024-02-20T17:05:00Z

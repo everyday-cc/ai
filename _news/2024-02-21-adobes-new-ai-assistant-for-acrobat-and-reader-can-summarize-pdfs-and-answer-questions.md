@@ -51,24 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe's New AI Assistant Is Designed to Read PDFs for You"
-    excerpt: "Adobe is getting into the AI assistant game. The assistant, which is rolling out in beta today as a part of Adobe Acrobat and Adobe Reader, is a new tool that \"reads\" through documents and can answer questions related to their content,"
-    publishedDateTime: 2024-02-20T14:20:00Z
-    webUrl: "https://www.inc.com/ben-sherry/adobes-new-ai-assistant-is-designed-to-read-pdfs-for-you.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
-  - title: "Adobe Brings Conversational AI to Trillions of PDFs with the New AI Assistant in Reader and Acrobat"
-    excerpt: "AI Assistant leverages the same artificial intelligence and machine learning models behind Acrobat Liquid Mode, the award-winning technology that supports responsive reading experiences for PDFs on mobile."
-    publishedDateTime: 2024-02-20T15:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-adobe-brings-conversational-ai-trillions-pdfs-with-new-/2024/02/20/9964741.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "2tUn0PGBt0YWI43tHFShaS0+RjndFIVwrL9rWNa8foDYbcaf39JBtbbpqQ3TPJza9GmADmJVK/MRKoR4Mn/+59uU/2fQAMlgXnadIUecmDaaxlo7uEet1uyRminneDR5ytJsfSkEXJ/JDUBQ6ZdHP//S7EC2lqJzdfAFaDSdb3Rat+K8YAyhUOalUZCUPHsg5knPjmd5zSkqj+HF9GnHRzJMPPvL87v022KtraefoR+neD0qnXaHxz6aV9atI5pvdnL386gIukAVx2DonrXSmq7cyp3OLeJd/71o9ilW60zWGvTS2IAgjDiIzH+ecSnSaZ8JhTrreEXD7935fQO/dbifPL/uWV4HIK3HEX3we1PNCzHg9Mm0cSCUvydX6vHhTwQDy8+0j4/MZjp25V1/uIriwLlTfRtmy+O6MN7Cb904/PeO5drvpGlDy6/gQCIFHcofqgXzOOxH29VhBDcSQytqOfWJboU/F3IuVBQohhfMnhwDyhj1Q7EdB5oNFJ02aSuluBBPhYaVeBsPXiOxnA==;KPGEAuz0rAWIVk1Z9FSBHw=="
 ---

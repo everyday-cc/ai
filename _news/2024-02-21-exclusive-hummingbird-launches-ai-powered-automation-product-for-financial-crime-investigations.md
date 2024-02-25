@@ -54,6 +54,15 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 38
+  - title: "Collaboration delivers AI-as-a-service platform"
+    excerpt: "The combination of Supermicro’s Nvidia MGX-based servers and Vapor IO’s 5G- and AI-as-a-Service brings AI and 5G to the intelligent edge."
+    publishedDateTime: 2024-02-20T19:13:00Z
+    webUrl: "https://www.electronicproducts.com/collaboration-delivers-ai-as-a-service-platform/"
+    type: article
+    provider:
+      name: Electronic Products
+      domain: electronicproducts.com
+    quality: 19
 
 secured: "hv69HiZ3gZyArUTls3QXGRnPocS8l1X7ZhumsJFyPWx0b2sxefqEF8++CXkmLE0O1JISWHZOwa8OTUoC43dyY59PkF1Yiu+IKmQlBWf9d5lnMydmgN0q8I8gpX568xWxC1RLCfKzOG4lho3Y16kP1z/PRgq+opVKlvh2N3n1PoX1ZDCrr1Qb7n2bROLvXqWLP2fivryBeoDS++mu2i5/yAgmZolNHcBbu5gw8mUAHbsnaVwjNKghv1m3LDrS1V29/yrLI9+4s4xN4Z6U+S4aVVtZONGxYvxsyU4IiRyIT0730VI8s8SCN6NJ//hZ5r1UMuTX6+IjcfAyxJeqIbQs6UpdFocxCnl03O4xgen15CE=;Cvpw68Xxo5ZWRTiFGHvzYw=="
 ---

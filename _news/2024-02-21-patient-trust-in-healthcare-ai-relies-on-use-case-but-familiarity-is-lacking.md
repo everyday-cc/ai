@@ -20,20 +20,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Availity Issues Statement of Principles on Artificial Intelligence in Healthcare"
-    excerpt: "Availity, the nation's largest real-time health information network, issued the company's Responsible Artificial Intelligence (AI) Principles. The principles represent Availity's commitment to the development, integration, and deployment of AI-powered tools to maximize meaningful and beneficial use in the delivery of healthcare."
-    publishedDateTime: 2024-02-20T15:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 64
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Hartford HealthCare Launches Center for AI Innovation"
     excerpt: "Hartford HealthCare’s Center for AI Innovation will support the research and development of artificial intelligence technologies to improve patient care."
     publishedDateTime: 2024-02-21T13:00:00Z

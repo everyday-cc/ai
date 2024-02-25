@@ -222,20 +222,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft to invest $2.1bn in cloud and AI infrastructure in Spain"
-    excerpt: "Microsoft has committed to investing $2.1 billion in cloud computing and artificial intelligence (AI) infrastructure in Spain over the next two years. The planned investment was shared by the vice chair and president of Microsoft Brad Smith via a post on X following a meeting with the Prime Minister of Spain, Pedro Sanchez."
-    publishedDateTime: 2024-02-20T14:56:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-21bn-in-cloud-and-ai-infrastructure-in-spain/?ref=runtime.news"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/GGt2TbkWIAAO9R7.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cushman & Wakefield working with Microsoft on AI"
     excerpt: "The Microsoft Technology Centre is providing Cushman & Wakefield with access to cutting-edge research, tools, and the firm's top specialists to develop powerful and adaptable applications. It also provides insight into various areas that require AI solutions, with learning and improvement through feedback and advice."
     publishedDateTime: 2024-02-21T07:48:00Z
@@ -356,6 +342,15 @@ related:
       name: MediaNama
       domain: medianama.com
     quality: 34
+  - title: "Microsoft Will Be One Of The Biggest Beneficiaries Of Artificial Intelligence"
+    excerpt: "Microsoft is uniquely positioned to capitalize on the trends of the future and combine them with its own products. And this combination is likely to result in tremendous value for their customers. In addition, it is likely that Microsoft will gain market ..."
+    publishedDateTime: 2024-02-24T11:15:00Z
+    webUrl: "https://seekingalpha.com/article/4673167-microsoft-will-be-one-of-the-biggest-beneficiaries-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 31
   - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
     excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."
     publishedDateTime: 2024-02-21T15:23:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/driving-the-future
 webUrl: "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -39,6 +39,17 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "India’s AI Future: A Bold And A Different Vision To Win"
+    excerpt: "40% of the nearly $8 Bn investment in Indian AI startups was made last year, indicating bullish global sentiment in the sector To embed AI innovation deep into the ecosystem, AI4Bharat is building open-source AI for Indian languages."
+    publishedDateTime: 2024-02-25T15:32:00Z
+    webUrl: "https://inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/"
+    ampWebUrl: "https://inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 39
   - title: "Redefining pharmaceutical case processing in the age of AI and automation"
     excerpt: "Incorporating artificial intelligence (AI) in the form of natural language processing (NLP) using large language models (LLM) and automation into pharmaceutical case processing marks a turning point for the industry. AI's ability to analyse vast ..."
     publishedDateTime: 2024-02-22T00:00:00Z

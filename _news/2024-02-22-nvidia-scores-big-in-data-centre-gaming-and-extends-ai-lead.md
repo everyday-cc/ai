@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 746
         isCached: true
-  - title: "IAEA Designates First Collaborating Centre on Artificial Intelligence for Nuclear Power"
-    excerpt: "The IAEA has designated the Center for Science of Information at Purdue University in the United States of America as the first IAEA Collaborating Centre to support the Agency’s activities on artificial intelligence (AI) for nuclear power applications, including reactor design, plant operations, and training and education."
-    publishedDateTime: 2024-02-20T13:30:00Z
-    webUrl: "https://www.iaea.org/newscenter/news/iaea-designates-first-collaborating-centre-on-artificial-intelligence-for-nuclear-power"
-    type: article
-    provider:
-      name: iaea.org
-      domain: iaea.org
-    quality: 11
 
 secured: "dei3s13U+goBSiNLWQN11RIcrfEwYwIOqrDnCm2VqEfSVZYqZYexYJAfj0w8jbMqNyh/Pv1mRHSgX9vvi34OrSB16nM8IdvUewBvikx2vyMSwy0BcM3QdOzjSIBDknEPDM3Ju036mUeYMqwGFPO0FsZZIp0QlriA7u7quf6V6lXJJRIPctRhLVuiImnOovPxoZRijC023Q+RdquDwS3YWSgggPPd8+U0l7Yd7QNh2KD9vMmLExnzc6nT9HPj2EWwme7KognuGaITGimcKHyZWmY3O388J6yl1tkwokfgzfFTgiYFLISTjxJOZ4Z9hHKNEgZJzTtB7ruqCZpHz1U/DdALUYpJ8N80catINkLcQOY=;uW+PouttxajUmDbDnD1QfQ=="
 ---

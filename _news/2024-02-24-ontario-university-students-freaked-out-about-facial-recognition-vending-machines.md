@@ -63,6 +63,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Facial recognition: Coming soon to an airport near you"
+    excerpt: "This passenger screening using facial recognition software and made available to select travelers at La Guardia by Delta Air Lines and the Transportation Security Administration, is just one example of how biometric technology, which uses an individual’s ..."
+    publishedDateTime: 2024-02-25T05:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-coming-soon-to-an-airport-near-you/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
   - title: "'Facial recognition' error message on vending machine sparks concern at University of Waterloo"
     excerpt: "A set of smart vending machines at the University of Waterloo is expected to be removed from campus after students raised privacy concerns about their software."
     publishedDateTime: 2024-02-22T22:05:00Z

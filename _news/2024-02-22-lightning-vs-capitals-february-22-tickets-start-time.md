@@ -33,6 +33,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 43
+  - title: "Global AI Regulatory Update - February 2024"
+    excerpt: "The guidance also outlines practical steps that should be taken when building generative AI solutions and that these are created in a way that takes into account legal considerations, ethics, data protection and privacy, security and governance."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/global-ai-regulatory-update-february-8837410/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 41
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7393_3758.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Predators vs. Kings February 22 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Among the best players to keep an eye on when the Los Angeles Kings meet the Nashville Predators on Thursday at Crypto.com Arena -- beginning at 10:30 PM ET -- are the Kings' Adrian Kempe and the Predators' Filip Forsberg."
     publishedDateTime: 2024-02-21T22:04:00Z

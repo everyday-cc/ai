@@ -19,77 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Samsung and Arm's Latest AI Chip Collaboration: A New Era for Mobile Computing"
-    excerpt: "Arm Holdings' value skyrockets to $130 billion amid AI boom, despite recent 8.39% share price dip. This partnership, built on a long history of millions of devices featuring Arm CPU intellectual property on Samsung’s process nodes, aims to introduce ..."
-    publishedDateTime: 2024-02-20T13:08:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37218987"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987"
+  - title: "Allocations, AI-powered investing platform, tops $2 billion as alternative asset demand booms"
+    excerpt: "Consumer fintech apps have trained a new generation to expect slick digital experiences. So there’s a huge opportunity for platforms like Allocations to become the mobile back office for alternative investing. As Advani says, “AI will be instrumental ..."
+    publishedDateTime: 2024-02-22T12:38:00Z
+    webUrl: "https://venturebeat.com/ai/allocations-ai-powered-investing-platform-tops-2-billion-as-alternative-asset-demand-booms/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 70
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/ARM_1.png?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
-        isCached: true
-  - title: "Samsung Galaxy AI Confirmed to Come to Galaxy Wearables"
-    excerpt: "In other words, get ready to see Galaxy AI soar across Samsung’s wearable ecosystem. The support could possibly bring smarter health monitoring, seamless language translation, and who knows what other surprises to your wrist (and finger) soon!"
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/"
-    ampWebUrl: "https://www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/04/Samsung-Galaxy-Watch5-Pro-1200x675.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_painting_of_a_large_bag_of_money_in_front_of_82336f47-5b3b-4293-aac9-902411ec5923-transformed.webp?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 672
         isCached: true
-  - title: "Samsung Bringing One UI 6.1, Galaxy AI Update to More Devices Starting Late March"
-    excerpt: "With this announcement, it means we’re a mere month away from more folks getting to play with Galaxy AI. Having been using it on the Galaxy S24 Ultra for a month now, I can tell you that the Interpreter mode is quite solid, Live Translate is helpful in ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/"
-    ampWebUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
-    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
+  - title: "Exclusive: Hummingbird launches AI-powered automation product for financial crime investigations"
+    excerpt: "It's aimed at eliminating the manual, repetitive tasks that bog down investigators and compliance teams at large financial institutions."
+    publishedDateTime: 2024-02-20T20:55:00Z
+    webUrl: "https://venturebeat.com/automation/exclusive-hummingbird-launches-ai-powered-automation-platform-for-financial-crime-investigations/?n=@"
     type: article
     provider:
-      name: Droid Life
-      domain: droid-life.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 56
     images:
-      - url: "https://www.droid-life.com/wp-content/uploads/2024/02/Galaxy-AI-Devices-600x315-cropped.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "AI Features Are Coming to Samsung Wearables and Tablets"
-    excerpt: "Samsung's mobile president says the tech giant will add AI-powered tools to more of its devices, but it's currently unclear when such features might hit the market."
-    publishedDateTime: 2024-02-21T13:46:00Z
-    webUrl: "https://www.pcmag.com/news/ai-features-coming-to-samsung-wearables-tablets"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
-  - title: "Lightning AI Signs Strategic Collaboration Agreement with AWS to Offer Enterprises Optimized Performance for Building and Deploying AI Products"
-    excerpt: "Last month, the company announced Lightning Studios, which are cloud-based virtual environments where AI researchers and developers can code on the browser or from their laptops to develop and ship AI together."
-    publishedDateTime: 2024-02-21T15:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965744.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-20-00.08.12-Create-a-minimalist-and-vector-art-style-scene-reminiscent-of-a-golden-age-sci-fi-publication.-The-image-should-showcase-a-robotic-hummingbird-design.webp?w=1200&strip=all"
         width: 1200
-        height: 627
+        height: 685
         isCached: true
+  - title: "Nvidia briefly hits $2 trillion valuation as AI frenzy grips Wall Street"
+    excerpt: "The milestone followed another bumper revenue forecast from the chip designer that drove up its market value by $277 billion on Thursday - Wall Street's largest one-day gain on record. Its rapid ascent in the past year has led analysts to draw parallels to the picks and shovels providers during the gold rush of 1800s as Nvidia's chips are used by almost all generative AI players from chatGPT-maker OpenAI to Google."
+    publishedDateTime: 2024-02-23T16:24:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 38
 
 secured: "7mBft5rGdDkQLdcylv1FsRAq6QvPmOOoOHhy/F/LBZnoLP8vpEUdrm5QR9NadPwrq6TE7X1cHR/3q4VFGH5Tu16bKPKxZyhiXqDpQKX1+HxSbc6n3OidSYIvumBvRlCAdiSfANl6CDfVfsYzX771fF03z4DZQhtv1S2DfA8KKc+kQMBsBr/nk+p7Ow+i452W+bS+UstJel2XE3kVxc7yx2mH3iaKJjxO52a4dkdRHtrLexVwN1CuQcZWegJXSy53FyZUDsiXbHVIsxwyRcNDbaY7FkJqYVM4GWInTjERpupgJaF43uyhP5+ChkEELwgxwUeyfmDOVBEkFHROYIVw7DWC5gdt2tPHy9yM8H4JoPQhlmStPT5sMzB+hbwfttmFT6bM2Qg+obz6ngay3UR+CgPD3d5utZG+rrRSAQPaHRaLmmSBrsm1FPyRKo/UUIHKF960YLRsqwVYfJnitNp1Yx4IqhlZeFEf+agGJKI4Q+aQE1nxCChkmgpumuJxfMOCPbtrvdTUlZuOUb6AXIPblA==;h1oAwroa0EDouyr3f3MPHA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-on-amaz
 webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://res.infoq.com/news/2024/02/amazon-q-aws-glue-etl/en/headerimage/generatedHeaderImage-1708360298379.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Lightning AI Signs Strategic Collaboration Agreement with AWS to Offer Enterprises Optimized Performance for Building and Deploying AI Products"
+    excerpt: "Last month, the company announced Lightning Studios, which are cloud-based virtual environments where AI researchers and developers can code on the browser or from their laptops to develop and ship AI together."
+    publishedDateTime: 2024-02-21T15:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965744.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "TCX/JmBFRr19e2F1cH0lerUVQ0aOy2ctpkwM4lG0hwU5mPhncQHk/jpGznyRErPCV121kJMQcYSsFdD/WZqBwiehJOrvnu6pvwFBdm41vqUL73B1vSO1to5TrwPLHQUVF6D2wTDpHWbLLMJSkqKUVTlft8/DfYo0yLQZEOYVM12E2a7EWMESR7J46RplAQHdO2VjfNkEEtsyQbKI0wY+MQI70BS9SjMVN21zHUf3yCACyDGMA4Tahm9IQWspNwEsfpiGrFqk0W4Uy8JDs3Mf2XEaTmOmwmeLrmhy7EDe/Zt2nQGjPU+evE4tHoNsWOmylDuYpMAvPP7+fAPl6OFaeAN+0tWesCqwVD+CNjOk5Qg=;Yo0Lj9KtJDX6aeQIciQ4bw=="

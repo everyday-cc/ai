@@ -193,6 +193,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Google's Gemini Proves AI Isn't Ready To Replace Your Smart Assistant"
+    excerpt: "Some experts in the field, most notably Bill Gates, now believe that AI is plateauing. We've made the leap to natural language processing, but turning that genuinely impressive capability into a genuinely reliable and useful application remains a hurdle to ..."
+    publishedDateTime: 2024-02-24T19:15:00Z
+    webUrl: "https://www.slashgear.com/1521993/google-gemini-ai-replace-smart-assistant/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/googles-gemini-proves-ai-isnt-ready-to-replace-your-smart-assistant/l-intro-1708034922.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Gemini is rolling out to Google One AI Premium subscribers, here's what you can use it for"
     excerpt: "Google is rolling out Gemini to Google One AI Premium subscribers, letting them use generative AI across Gmail, Docs, Sheets, and more."
     publishedDateTime: 2024-02-21T15:01:00Z

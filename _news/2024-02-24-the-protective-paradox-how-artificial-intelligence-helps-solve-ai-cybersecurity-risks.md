@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Vectra AI and Gigamon Announce New OEM Partnership to Reduce Cybersecurity Risk for Large Enterprise Organizations"
-    excerpt: "The Vectra AI Platform leverages the integration with Gigamon GigaVUE Cloud Suite and is available now through Vectra AI, Vectra AI Reseller Partners, and the AWS, Microsoft Azure, and Google Cloud marketplace. For more information, visit: https://www.vectra.ai/products/platform."
-    publishedDateTime: 2024-02-20T15:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964831.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Nokia Announces GenAI Assistant Integrated with NetGuard Cybersecurity Dome to Strengthen Network Protection"
     excerpt: "Cybersecurity Dome is Nokia’s extended detection response market (XDR) security platform that provides CSPs and enterprises with strong, 5G network defenses through a series of AI and machine learning capabilities. Amid the rising sophistication and ..."
     publishedDateTime: 2024-02-22T00:00:00Z

@@ -27,6 +27,15 @@ related:
       name: ENDPOINTS NEWS
       domain: endpts.com
     quality: 17
+  - title: "Generative AI startup Abridge secures $150M in new funding"
+    excerpt: "The clinical documentation space has been buzzing with interest since ChatGPT's public launch in November 2022."
+    publishedDateTime: 2024-02-23T03:01:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/nuance-abridge-funding-lightspeed-venture-partners-generative-AI"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 17
 
 secured: "a53Gzsnq5dZIPurBmRwbJ1GGJwNOORT68BGzajY+POnEFLWGEa9xneWoVr6rPC2+FKfDvM6fJexWhFKFnVqfEfnbpNlt/hRHIB9mgK9kepW0lLG3T3kftDK2TS5UpvBT95nUI8mxQQgvx5HGFtOkCf6nMozz/+nn3BSO/TcBGERZItIOhNHEkuxMf81r7kaNYvFwsSe5IZryVUYUv9F/spqTp/tiH4VLm1zh+ErPSnjaoUYnJP5zKXGLEef6CEhHwhBx691qWclx3O1wH48VhUbayFQ4Y1C9WhSuMtEJhezI32YZits3emvnfRNZ3yVSnRG2RtAaDfEWoQtxh3KWPpoje188NxOCf56REOgQmmWGYwQR2b0aD1SPVK2T5x9OSi8o2KVAHAo8ZQnZ8hJLmU9Q/1OA7HQYSfSO21zeRSZnBEDAyMvomsGQ3OzQfCk4fq58UhWHQgd6T0V8iPAHugjR1X4y2nV0dQzBFLWD8GSsXvLZ/lVQaK+RheWJp5OtS6KI3+ttY92kxFobjBehXQ==;hsuD56cLKnqTORjnJ2lcOA=="
 ---

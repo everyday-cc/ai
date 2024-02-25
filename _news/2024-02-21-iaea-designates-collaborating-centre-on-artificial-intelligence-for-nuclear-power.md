@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2835405-iaea-designa
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835405-iaea-designates-collaborating-centre-on-artificial-intelligence-for-nuclear-power?amp"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: devdiscourse
@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 624
         isCached: true
-  - title: "IAEA Designates First Collaborating Centre on Artificial Intelligence for Nuclear Power"
-    excerpt: "The IAEA has designated the Center for Science of Information at Purdue University in the United States of America as the first IAEA Collaborating Centre to support the Agency’s activities on artificial intelligence (AI) for nuclear power applications, including reactor design, plant operations, and training and education."
-    publishedDateTime: 2024-02-20T13:30:00Z
-    webUrl: "https://www.iaea.org/newscenter/news/iaea-designates-first-collaborating-centre-on-artificial-intelligence-for-nuclear-power"
-    type: article
-    provider:
-      name: iaea.org
-      domain: iaea.org
-    quality: 11
 
 secured: "EBhtzu3JGCnVyinSkV6Rjn0ZftSxAZbyvZ5Q3RY4XS0k3Pm5YCqwHhGjO97+munbBlorPXhI6zxNp4eHDrzy0kpbTUgfgDNbDA49FeZpwmvJPyahvogtQE1BtbH8ALTxwHLecpA0HcxefgSuO0C1JchCzQHUnvEYRgmhCsTOBIAVu7hhFjRfp5hdq4IIQ+fFaGeqTWARMa3eD0r8I7bt7t9EsvdxuxdmmBwyETP265y0sstwl/GTPkXjbcw/HOXvpMsSWh210mLXn67MUSukQ1KBapJlOCzUCmcns/I+N+OM3byURCEfv7iX3PkXs/wpshyjz1lJ/KNfgTfnEP2ILmjVr1A9J7FXGC3dg8mevupngt/DqyeqsWlkBRQ+pubIZ2HX3Pt5bbNq9zlZjALkrRthX/mEoapcXmWLxdkpont0lBWu1bAHzoAstEkpm1IkPj9pjeKEDCgpdl+VwN0+/fd8WoWi0JjsWmLfaXMNXLc5Js3EOCMP3ax5/JDuWySA4KWibhc8kK0aAysu4d4PRw==;VGOcuocy4EEvtsZypfgCFA=="
 ---

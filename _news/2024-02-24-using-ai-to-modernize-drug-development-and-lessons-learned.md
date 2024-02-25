@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-mode
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/amp/"
 type: article
 quality: 87
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Accelerating Product Development For The AI Age"
-    excerpt: "The sudden emergence of ChatGPT kicked off a race to create new products powered by generative artificial intelligence."
-    publishedDateTime: 2024-02-20T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/accelerating-product-development-for-the-ai-age/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Energy companies eye AI and machine-learning"
     excerpt: "Energy companies are now experimenting with artificial intelligence and machine-learning technology designed to detect cracks and flaws in power lines — before they turn into deadly blazes or turn off electricity across a metropolitan region, writes ..."
     publishedDateTime: 2024-02-21T23:34:00Z

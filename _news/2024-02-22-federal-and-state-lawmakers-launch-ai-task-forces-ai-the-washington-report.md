@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/federal-and-state-lawmakers-lau
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: The National Law Review
@@ -27,15 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI: EU agrees landmark deal on regulation of artificial intelligence"
-    excerpt: "EU Commissioner Thierry Breton said the agreement was \"historic\" European Union officials have reached a provisional deal on the world's first comprehensive laws to regulate the use of artificial intelligence. After 36 hours of talks, negotiators agreed ..."
-    publishedDateTime: 2024-02-20T14:31:00Z
-    webUrl: "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform"
+  - title: "Artificial Intelligence Briefing: House Launches Bipartisan AI Task Force"
+    excerpt: "The House of Representatives aims to keep the U.S. at the leading edge of AI policy and innovation with a bipartisan task force while the FTC considers expanding a rule to crack down on AI impersonation. Meanwhile, a recent ruling in Canada warns ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-briefing-house-4203945/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 62
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 55
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15445_5839.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Washington puzzles over AI in health care"
+    excerpt: "Lawmakers and regulators in Washington are starting to puzzle over how to regulate artificial intelligence in health care—and the AI industry thinks there’s a good chance they’ll mess it up. “It’s an incredibly daunting problem,” said Bob ..."
+    publishedDateTime: 2024-02-22T13:00:00Z
+    webUrl: "https://www.popsci.com/technology/ai-health-care-regulation-questions/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 19
 
 secured: "zaDn6KxBAfsbU0FKwcbiiVDSXjUgSOJ/My+7MNdU00zAXtvPgV+ufJBt+nX5bVgWyBfPXqz9crlc+aFPRynyyfAI+ilS08L28i7cjEgUIYfs/obsy5omQyIH63ww/oWMxKuxJakrKqAOK0B+3HDGsipEsfqIj5izpzlUAi6VKekKUxRAsa2vwFH2Ocj8eCmflr/tj7wkpEdKbMpozzHO6fhffkERvExAmITr7EosQsvu+Q5ir2/1pcwOFenFX3FtZwND4YkLNw53viNXGFZSXXiuoi5sFssu5bp8ZjYWE+U3v6mlkYqK+Ms6M8yyL2hv3BXMEDDgH9zn6rNedOOvHM+OYcln7tRgIoy3RQd+qm8=;48aZyYMUSqfNBGcd0dAIjA=="
 ---

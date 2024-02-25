@@ -50,15 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Accelerating Product Development For The AI Age"
-    excerpt: "The sudden emergence of ChatGPT kicked off a race to create new products powered by generative artificial intelligence."
-    publishedDateTime: 2024-02-20T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/accelerating-product-development-for-the-ai-age/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Decentraland and Emerging AI Crypto Set for Major Developments"
     excerpt: "Decentraland (MANA) is working to improve its performance due to its difficulties and restrictions last year. Its development path has … Continue reading"
     publishedDateTime: 2024-02-23T18:00:00Z

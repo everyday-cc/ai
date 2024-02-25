@@ -24,22 +24,6 @@ images:
     height: 700
     isCached: true
 
-related:
-  - title: "Northland news in brief: Former cop up for national sports award; first local supermarket to get facial recognition"
-    excerpt: "He has won the national championship held at Waipu 18 times which led to him represent New Zealand in overseas championships. He has competed in games and gatherings in Finland, US, Australia, Malaysia,"
-    publishedDateTime: 2024-02-20T17:00:00Z
-    webUrl: "https://www.nzherald.co.nz/northern-advocate/news/northland-news-in-brief-former-cop-up-for-national-sports-award-first-local-supermarket-to-get-facial-recognition/WSKUF4SL2VCRJA2K2D42J5VDBU/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 17
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/FbpKls-5Nj5pVA64TtIw-FRbeuk=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/72JBU6DZ5JC3BHDAMQLMXZYAJQ.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "bP5rAYPdYzD/8MjvsAJVhFloxpKpi/bmplLPGAuxdrB9uqwKPlThDUZJ3p7FQuDMUqGo2zGcq/2A8VSRGmFM1tU6f/6veUeIB+MtLpDqusd7gNhQzTgp3G7UNy9PpV+ZjPkYFWXhgTTH25X3mFXzdRYBuGJuFwubz1BVA8OAuQEy8GBhll77ZPwXEzN6+2fi18bkR4pgekD3FDtlHbtOEm7pYse8AJb1iLJ4i7zYdUx9DoCnDXzgic+hA7S7qUsZBmgWASDxPz+KBaR0pwOu3JdBSpgolt0SMjeq9eGVqJeLhMwjYmsMDCprjb9EEQp7rI1SXxXOeSOi9ih0Hwuc5al4hFHbq2lKpMOeZWnJbqsyJP6g6zAnYlETcidLWiR9bRdwKAwjk60j1rh3EuEOaDKmiVabemeKaVBeNZ5dZqDSbGEaVYJ79hQtOlDllzQCstm2O6R0qU0Hes4OqAUUNrSB/wlLo/hBbc1VtlubKeRmVkdwzPkQCVdBnog4p9Ly2g1ra6seGQzT0+ewmwWp2g==;kSy+j0Ue/iFBkmcsoiwBcA=="
 ---
 

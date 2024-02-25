@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "India's Artificial Intelligence market to touch USD 17-billion by 2027: Nasscom-BCG report"
-    excerpt: "Globally, investments in AI have seen 24 per cent CAGR since 2019, with 2023 seeing close to USD 83-billion investment"
-    publishedDateTime: 2024-02-20T16:04:00Z
-    webUrl: "https://www.telegraphindia.com/business/indias-artificial-intelligence-market-to-touch-usd-17-billion-by-2027-nasscom-bcg-report/cid/2001808"
-    ampWebUrl: "https://www.telegraphindia.com/amp/business/indias-artificial-intelligence-market-to-touch-usd-17-billion-by-2027-nasscom-bcg-report/cid/2001808"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/indias-artificial-intelligence-market-to-touch-usd-17-billion-by-2027-nasscom-bcg-report/cid/2001808"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 49
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Aug/1691457943_newartificialinteligence.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "AYolCLsl7jYMBKKinW8SFVMJd5NhgKRLNIHwbeT0qsqRad6/ugaJsfecHQp7Ixf2pAvdQLlA88SgAATR8xIVNy4MDPW53JoFOMzG0y4qlyeoedIUEUMl0F3QEjudpoGrJlmBcSpw6qQV6Uez3Lz0W8mpwjz2tyfP5XCUrC1GgIZ44FaC50/nzm+3oBRQufECaoOH/n41cbGZwN11xgdf6AhoqAejEOfWzjH3YoTzaXx4m7bGIe7V/boCBy84pgEHzvNvTh1NTy0BzaYdTPWCQTg2OBt+Q3JJJAEPEdwXvSe8KOVVumdKQpVJIl5cevGnQtroSLyVUJn/YsF4G934mOt9+JSoyUbuwXuV4Yeq2SY=;spbci28Gcq/A9qol8ysqaQ=="
 ---

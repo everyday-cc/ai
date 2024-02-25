@@ -38,20 +38,6 @@ related:
         width: 1141
         height: 760
         isCached: true
-  - title: "The AI capabilities you need to power your AI transformation"
-    excerpt: "Learn how your organization can use Microsoft Copilot and the Microsoft Cloud to unlock productivity, build your AI capability, and innovate safely."
-    publishedDateTime: 2024-02-20T16:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/02/20/the-ai-capabilities-you-need-to-power-your-ai-transformation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/02/Cloud_Blog_Abstract-08.jpg"
-        width: 1260
-        height: 708
-        isCached: true
 
 secured: "sU8qwM1rAwaVHFozmMTvaz0ZxP6olLzm9qSK6ksm8EYovu9dBf1nyVBL9HzmJ0xaEHSdocRoTeHojfM+KUIVlgrR8F3YZ2nG661+Iw1I6zBWVwHEyBKJaW5I+WbjCrujZCTIEK/mar6V49vzTKblx1EspPuRacXYNpcguXGdMDUriaiSjASCR7FAVSfqvnlbn8kKkN1AIGd1r8IgvXkMsRwriyy5KIKaqHLKj2TUtEGss3Pn7e2jZN5ZCwFq0CxgkjxQdsqrhd04/inctE+hpR0U6bpgIDU8IMKP7rKVJ61+uzFgwKPKPrTxnF3ohVHqMJU5z7dtcfG4HAMMGCC0yr7d7vYHmh40dpacqaMCXx8=;t2y4N8P44phzc37VhXDM7Q=="
 ---

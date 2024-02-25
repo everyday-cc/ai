@@ -22,21 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Samsung and Arm's Latest AI Chip Collaboration: A New Era for Mobile Computing"
-    excerpt: "Arm Holdings' value skyrockets to $130 billion amid AI boom, despite recent 8.39% share price dip. This partnership, built on a long history of millions of devices featuring Arm CPU intellectual property on Samsung’s process nodes, aims to introduce ..."
-    publishedDateTime: 2024-02-20T13:08:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37218987"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987"
+  - title: "Galaxy AI will soon power 'intelligent health experiences' on Samsung's Wearables"
+    excerpt: "Samsung has announced that Galaxy AI will soon power intelligent health features on its wearables. Here's what's new."
+    publishedDateTime: 2024-02-21T03:09:00Z
+    webUrl: "https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 70
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 62
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/ARM_1.png?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Samsung-Galaxy-Watch-6-Wear-OS-4-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Samsung Galaxy AI Confirmed to Come to Galaxy Wearables"
     excerpt: "In other words, get ready to see Galaxy AI soar across Samsung’s wearable ecosystem. The support could possibly bring smarter health monitoring, seamless language translation, and who knows what other surprises to your wrist (and finger) soon!"
@@ -54,44 +52,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Samsung Bringing One UI 6.1, Galaxy AI Update to More Devices Starting Late March"
-    excerpt: "With this announcement, it means we’re a mere month away from more folks getting to play with Galaxy AI. Having been using it on the Galaxy S24 Ultra for a month now, I can tell you that the Interpreter mode is quite solid, Live Translate is helpful in ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/"
-    ampWebUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
-    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
+  - title: "Samsung says more Galaxy devices will get AI features, announces major update"
+    excerpt: "With this update, more Samsung Galaxy users can take advantage of the communication-enhancing AI features on AI-supported models"
+    publishedDateTime: 2024-02-22T10:42:00Z
+    webUrl: "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html"
     type: article
     provider:
-      name: Droid Life
-      domain: droid-life.com
-    quality: 54
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 56
     images:
-      - url: "https://www.droid-life.com/wp-content/uploads/2024/02/Galaxy-AI-Devices-600x315-cropped.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.hindustantimes.com/ht-img/img/2024/02/22/1600x900/UI_61_update_1708598318695_1708598318930.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Collaboration delivers AI-as-a-service platform"
-    excerpt: "The combination of Supermicro’s Nvidia MGX-based servers and Vapor IO’s 5G- and AI-as-a-Service brings AI and 5G to the intelligent edge."
-    publishedDateTime: 2024-02-20T19:13:00Z
-    webUrl: "https://www.electronicproducts.com/collaboration-delivers-ai-as-a-service-platform/"
+  - title: "Samsung Expands Galaxy AI Features Across Latest Devices with One UI 6.1 Update"
+    excerpt: "“Our goal with Galaxy AI is not only to pioneer a new era of mobile ... The features include the ability to adjust message tone and translate messages in 13 different languages using Chat Assist. Galaxy users can experience the power of real-time ..."
+    publishedDateTime: 2024-02-22T12:43:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
     type: article
     provider:
-      name: Electronic Products
-      domain: electronicproducts.com
-    quality: 19
-  - title: "Lightning AI Signs Strategic Collaboration Agreement with AWS to Offer Enterprises Optimized Performance for Building and Deploying AI Products"
-    excerpt: "Last month, the company announced Lightning Studios, which are cloud-based virtual environments where AI researchers and developers can code on the browser or from their laptops to develop and ship AI together."
-    publishedDateTime: 2024-02-21T15:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965744.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 55
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.deccanchronicle.com/h-upload/2024/02/22/1076664-new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-news-thumb-1440x9601.jpg"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "EQgVnyM5dT/HgmdUb4sr4znCyTIYuEsLBPkOyNoDIIZvCXM7GqmKGhH2JNq96mxE2/c5GJYJUTntvODQduT64eMY2J2/dbExIYHtagA3F5Po3NeF+jv6ycm6QzhBdTvz+J5Ap7/6qP1wfaRX+dYxzncHqIJ134RPF2ONda4RhQzakftq/+sPw4hdilkGsdn4PHqADBqJgI0USzSe5ApwPRxzQB/uiHEjKWHQ076cPAlN08wRbvVqlrt5SdU9j/YTaNcakk6OxRPt57i6baHe3fgJVL2S/Fs95K+jN6kj86uraEvJyZbPCMZQZwPlGAGlgoMEnHk/lh+JneRG10buCrtw31cSgrn2S9x0xrFKCUZahhC2TJjB6OGeysF+pgwdPDZZWf1JANet5Ab4/AQyt/S/3aAVB37L9V8rm9PyvPppyEWEfNShWJxdSLTwdd4YdFvKaCU8GQlRNS7aeymNb8YiDUxVJYLGG8gNAiksFuXtpoQ89l+ETAnwtTruONWuTs9y0s+ajP/UY3mudEW8zQ==;FkR8pdsZJkw3gTP5P7Wdrw=="

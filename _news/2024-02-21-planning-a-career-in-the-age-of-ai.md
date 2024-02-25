@@ -72,15 +72,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How to prepare for generative AI and the future of work"
-    excerpt: "Tony Holmes explains how generative AI will transform the workplace and provides tips to prepare employees and use AI for collaboration and innovation."
-    publishedDateTime: 2024-02-20T15:48:00Z
-    webUrl: "https://www.pluralsight.com/resources/blog/data/generative-ai-future-of-work"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 19
 
 secured: "q67WE6k5FFcGOR/tc+Hy5ddgRYuO8AGbgeSrjmgT/F6OhGeP8+HA1N3oF+xgtlVEyfzKt2ML7kk+lx7OeqbCa+iI13V5sm0CwX9xLbXP8A4WkzoqM5hNGUbpzJTmdOadiLBVnlEXl+u6DhaYrp8MFtlhE3uSwr74tP4q/p1neJQxrUdLUOnr7iTeOvH+PQwiJBWZbKd+eg8GOk2HTqJEuS2D6Os9lMZNgsM6tUCDjGVOKGC1ISDTt0QDrVGcLFdUhHyIRiVSxMMv8yqyctWAM4ONeCWkK3qsXr2Q4dYT4GUmtHHrvaqMNYx/ekUTBTbaScU7JgvE0TptQgX+F1hzyjDhthCimk7Pt3rJvoYsuYU=;nWm8H3Mv6T8e8IhVzgUv8w=="
 ---

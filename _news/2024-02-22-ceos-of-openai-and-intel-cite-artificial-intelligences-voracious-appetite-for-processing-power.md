@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Intel Bridges AI Chip Gap"
+    excerpt: "Intel is well-positioned to capitalize on emerging opportunities in the semiconductor landscape and bridge the AI chip shortage gap. Yiazou Capital Research members get exclusive access to our real-world portfolio. See all our investments here » Through ..."
+    publishedDateTime: 2024-02-25T14:00:00Z
+    webUrl: "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://media.gettyimages.com/id/1251437157/photo/microchip-and-intel-logo-displayed-on-a-phone-screen-are-seen-in-this-multiple-exposure.jpg?b=1&s=594x594&w=0&k=20&c=HFVH7KxmOihjyT8EjTR8pO5m_rgbZfpLmjn4pVRwaAE="
+        width: 594
+        height: 396
+        isCached: true
 
 secured: "VPg2PEDnUfQ00Jx0ohZPHW9vvxIqVeBcxYDZ0khwNQDeJ51zl4df0XJYdxtVYfckct/aTa5VLlXgtf9MpFeFtFE+bUfdQf/FOfaXHl+Lytd2+NvXloJ0aX8q3ij0OpPZKrN6/1Bl6TQ94crZzeu1a5GtCcl4CmKNMQOmM5MxDvi5bLlicIb3WTiLifsdxLQjGNeydaKQCirT7sSRwqOotnW3XWQGo+S9EgzCrHOngj8q1SlIcMa2vNsiFLlZbutbbdJC5ysMe0hNmxdpHsBwZwpeVmrPNroTV79k6Ay755l6YJXB1HYzEST6bKnxnH/Z91p9ndBBPjNH1fJrJtx9wnHVY9rzBRpni1NVeF3OWSdIFDAKhFyoMfaiqVgb+K/EtIl+Pw6KFOw1wS6MWRNvn1EODfy5JPxCHHaK38x62AW2x5Z/YnLVfV+xYn0kt9zGYKLlCnh7LpdLxRTEE8ViKDVUCULsHJCYhthyVOYeTgPG2Ubc3sBQBQOqNgiJqMAqom1axbUrXrYs3OcHgLXTzg==;M/TQHtbWEfHFJ6oI0yE1sg=="
 ---

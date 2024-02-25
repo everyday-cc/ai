@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2024/02/21/tesla-full-self-driving-beta-v12-au
 webUrl: "https://electrek.co/2024/02/21/tesla-full-self-driving-beta-v12-autonomously-look-parking-spot/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Autopilot vs. full self-driving: What’s the difference?"
-    excerpt: "It’s no longer the only company with self-driving cars on the road, but Tesla was one of the first brands to make this innovative functionality available to the public. Thanks to an array of ..."
-    publishedDateTime: 2024-02-20T16:15:00Z
-    webUrl: "https://www.digitaltrends.com/cars/tesla-autopilot-vs-full-self-driving/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 49
   - title: "Can Tesla’s Full Self-Driving mode be trusted?"
     excerpt: "In May of 2022, Hans von Ohain and his friend Erik Rossiter went golfing in Evergreen, Colo. Hans showed off his Tesla’s new Full Self-Driving mode. The friends shared drinks and played 21 holes of golf. But Hans never made it home."
     publishedDateTime: 2024-02-21T22:37:00Z

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Recogni raises $102m to develo AI inference chip"
-    excerpt: "AI startup Recogni has raised $102 million in a Series C funding round."
-    publishedDateTime: 2024-02-20T15:58:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/recogni-raises-102m-to-develop-ai-inference-chip/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Recogni.2e16d0ba.fill-1200x630.jpg"
-        width: 1190
-        height: 625
-        isCached: true
   - title: "Generative AI Chip Designer Recogni Locks Up $102M"
     excerpt: "Although most startup chipmakers have not seen much love from investors so far this year, Recogni, which is developing its AI inference chip for both the generative AI and automotive industries, seems to have bucked that trend."
     publishedDateTime: 2024-02-20T18:22:00Z

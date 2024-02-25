@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/adobes-ai-assistant-can-summarize-pdfs-
 webUrl: "https://www.pcmag.com/news/adobes-ai-assistant-can-summarize-pdfs-powerpoints-for-you"
 type: article
 quality: 69
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -52,24 +52,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 41
-  - title: "Adobe's New AI Assistant Is Designed to Read PDFs for You"
-    excerpt: "Adobe is getting into the AI assistant game. The assistant, which is rolling out in beta today as a part of Adobe Acrobat and Adobe Reader, is a new tool that \"reads\" through documents and can answer questions related to their content,"
-    publishedDateTime: 2024-02-20T14:20:00Z
-    webUrl: "https://www.inc.com/ben-sherry/adobes-new-ai-assistant-is-designed-to-read-pdfs-for-you.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
-  - title: "Adobe Brings Conversational AI to Trillions of PDFs with the New AI Assistant in Reader and Acrobat"
-    excerpt: "AI Assistant leverages the same artificial intelligence and machine learning models behind Acrobat Liquid Mode, the award-winning technology that supports responsive reading experiences for PDFs on mobile."
-    publishedDateTime: 2024-02-20T15:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-adobe-brings-conversational-ai-trillions-pdfs-with-new-/2024/02/20/9964741.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "VRsuz4h4/3OovU9znsqc9yZjL4DJ2ms+ZBNUwXxms+jepjTHhI7H2qUWOBL3KSWx3jP3DPXPN9xdb9HqCpPogaXkABpT9XelmwgQyF9GwoOKwHabALMU41XFatmuWyfjbyUkAd9SgKQuVzZVgCVe/D7zexF+NlJdZB1El5NdAYsBy6TL5jcJVL6bQkfEPg0BQz/QxwDNMqCTR3+fZynbk1CXEi0D1meEP0fuMNz2+Ykv/TaP2lrAaG6UmrBEHdxpI6BsusLpoobYDVvf4pB79CusmVFaY/S6m9u6vxCnjBHaWY0kG8f6kl4cAjZ9GlJvNQ8kSZLGJNaP180GxRYiTbYgXuPllLeIwqimyGthGxKu7Ou9olzmQyEHo45cH8yGsbFCXzTphRXi6PDeo/DMjYUEwgwLB3oQucy8ZSr3m9ZtJPJmjKjajnUyhwTOH1VwfSV4a6bfDq1hphn4AQTdEaBjXEyhFZGCcFMx2dnKoxmwDrlHeGms2hZOmRvsI5Y28y6mxJn7ea/PHh+bQha00Q==;K1+17qW5xgkOGQT/m53glA=="
 ---

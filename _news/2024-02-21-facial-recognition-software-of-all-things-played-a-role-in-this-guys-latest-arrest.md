@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Facial recognition software, of all things, played a role in this guy's latest arrest"
-excerpt: "But besides “video surveillance within the store,” the arrest report cites “new facial recognition software Lowe's has installed,” which helped the detective compare pictures of Saunders ..."
-publishedDateTime: 2024-02-20T22:42:00Z
-originalUrl: "https://local12.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
-webUrl: "https://local12.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
-ampWebUrl: "https://local12.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
-cdnAmpWebUrl: "https://local12-com.cdn.ampproject.org/c/s/local12.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
+excerpt: "But besides “video surveillance within the store,” the arrest report cites “new facial recognition software Lowe's has installed,” which helped the detective compare pictures of Saunders at the store with pictures from his driver’s license."
+publishedDateTime: 2024-02-20T22:43:00Z
+originalUrl: "https://abcnews4.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
+webUrl: "https://abcnews4.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
+ampWebUrl: "https://abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
+cdnAmpWebUrl: "https://abcnews4-com.cdn.ampproject.org/c/s/abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Local 12 WKRC Cincinnati
-  domain: local12.com
+  name: abcnews4
+  domain: abcnews4.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://local12.com/resources/media/586a0d1f-edce-4faa-93aa-00320b004454-medium16x9_20030610JasonVincentSaundersMarionCo.PNG"
+  - url: "https://abcnews4.com/resources/media/586a0d1f-edce-4faa-93aa-00320b004454-medium16x9_20030610JasonVincentSaundersMarionCo.PNG"
     width: 648
     height: 365
     isCached: true
@@ -51,6 +51,6 @@ related:
       domain: slator.com
     quality: 4
 
-secured: "fwyyqxBmFHG87Mvy9/CxhrBQa7/NxnBM5AG9n8yuELN+pfDdgdss4KrAu44AeXIoCC81jHzm6qLEixQ1fNMdhAIZiOdP8nUbwotE4bkzEy9XvcE85A3K+wlyzRTtjVuXQBzrYIO7Dj5vrI3+yURhxUkNod1L+jl3QCerSBvaB3Q+n0KTd/uU8eL7tg6TnbpHyVd9cOWyW7MaUYg/gKti3QQQXaFhC3Gy1R1DPj0VKlDMxBV1OUzdcoCBfbMO2brtXgKfAmtfumghXl15mbCvY9thB3J5tmGnNfJTWLFycvYLfKXzZ0UtBIVPRYTGpju1LTHICqKsDedwIckd7yQix6DO68k3Y9Dg5GeVDNCoYwk=;svu1dfOLJHGacyXr8DgGVw=="
+secured: "gTrZeZbwYAldTXVaCxyvO1zHaosLn+e8YkrApAVl4RAXAPfpKXI1yy0E56ZmJ9N7aW1F8/ZYmUF4kM6b4WCePEjPTEdRO9sHHdtNDgHOBcrZWtKKKn35A/oBcYoBQi7b8I7Z3sUowPsGjwmizl5+Q1oxTai1R7sxIbVJgzsjuG183cXlMOElADNuOmCuMSKZaTtzmaK2lirRMhBUk642wtwsgDrbhwfNDw3Kazv3l5+wXKQad20Svy9No2u6qzpHk6ZmzErSboKxgoh2n9c5BBHfMWb4ZfMjyqXKqyRmBhdYys7TIbZmkhxGGqkhMalmPY4NecAhY6hSpiGGSFErNxKQk1U7sbLy8v7rL0QjrZw=;+FZZwvZ7/jXMtL+PL3xP4w=="
 ---
 

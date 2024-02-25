@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittle
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
 type: article
-quality: 91
-heat: 181
+quality: 93
+heat: 173
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI Ethics
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/657c05994692840d3efcf0b9/0x0.jpg?format=jpg&crop=3259,2445,x276,y0,safe&height=900&width=1600&fit=bounds"
@@ -122,20 +123,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "Forget ChatGPT — Groq is the new AI model to beat with blistering computation speed"
-    excerpt: "Groq (not to be confused with Elon Musk’s Grok chatbot — and no they aren’t too happy with the similar names) specializes in developing high-performance processors and software solutions for AI, machine learning (ML), and high-performance computing applications."
-    publishedDateTime: 2024-02-20T15:54:00Z
-    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-groq-is-the-new-ai-model-to-beat-with-blistering-computation-speed"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 50
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xXxEjXREsFJxKk7bjXZPfn-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
     excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"
     publishedDateTime: 2024-02-21T17:56:00Z
@@ -160,6 +147,6 @@ related:
       domain: siliconangle.com
     quality: 31
 
-secured: "GANSXTLY8QehuC70mD6fgt4kT/vuVVy8ZtS7+PQLpxXaN2fIXUc3hoMt41JHJuuSCq8H3fJE3Dd6DlNEc7KQUHKGx5gZL+i8+TsOV/zfj/VNFLRSrEEA9Qdr/VOo4Sm9ZVsq3QociZP+ZqUBbVvRtxbptNNvjYXLm1cFX9oQ1XUnbEJ9zEqYtlygfAI8pr331pOOB1saQ0CXxcS425v4Ml0vMQMcidCxUH7lgCu1RmsQyqlR0IbcLz3MkTSu6egcH44H47azifSbJDJq/JWUI9d9pj4fYbyNlWfQAkAo3m9pTWDtrnsFoxOyCJljtvDsR8ZvF9Lqt1aha+YiVo/ZBa2kpszh+Whd/eBUyE5f8gQ=;+Uzonn3yxjFBH3EWmkxLfQ=="
+secured: "wXYPMc6Jfsats7dqeaRCSX4qyHv4BuCSnrgLivIMFfltD0nh7ip4raT7HuIa4nPD5JbAzrodGzLgOEKHZgWrovjmJc99e8StPAV/YjBA2o/Qo+1Bs5NgMeUBV4VgWV2mS+RMGGhBcJEsFZ4DbdDk0m3U0tWqcWKJQWT9x8zHu4wMvLutxWvVQWnXKtvNpiYHdlmpMDkBneSLIjiLn9AdVC3BS3bpzfynxQTy4xbAgyLAIUDXUuvGksLUKpXQzKtVEL9A1HVxG6tlzZlma+E6tKa1GkH00ipJdc2OSujP5PS8gK6/IYrdbulqNTRWeVhtaalhCrlqmAXlhr8JjSJk89wAlb/9CWF/wjmUcdU8N+SRtQI1MVN/xJfc+/2hTm1HZ29+tbPjE92PeNx8kii4TyZArJKm2QEGwZthBSSDILwf9KI2O9zu3ze24UQp1jxs7vzrN2R+qh6JuRTYqip7xL36dl5q44/2YkMHdWjOttao+eLPc2A/KGgEDyCuQ95XxAdHeFJi8Dps0wllzvlSag==;0/3L+KAvbyupd9aFboy27g=="
 ---
 

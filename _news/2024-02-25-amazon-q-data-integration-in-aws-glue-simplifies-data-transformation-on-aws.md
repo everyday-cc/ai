@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "Lightning AI Signs Strategic Collaboration Agreement with AWS to Offer Enterprises Optimized Performance for Building and Deploying AI Products"
+    excerpt: "Last month, the company announced Lightning Studios, which are cloud-based virtual environments where AI researchers and developers can code on the browser or from their laptops to develop and ship AI together."
+    publishedDateTime: 2024-02-21T15:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965744.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "42GcSCBrHQJAT945wTdHtD6Nxpxsp2+AzLabLQXvevlSgcRT57ERKGMl83VsJWu4iEniwIfENoM858Y3AQuhRf0ecShBUGsFYgPJAszPt/nmYL2N1/dQaJ9XDHQe6NUhmD3JESH0QeLMxeJE4ppxZcVkW2i9cO7MMZQrAZ+lK12rWhC/6hQlkymJAkR+bdW3vTiW+HL9mOwc6X7F18oJeSEAj8Y5y9pJJa9jZYzmRkroGg7x7c7lIr3uyzs5qKd5POR8uRllTt6aR1ew/Qc+Jw86zjEolHxOT5kcvT3a8VIrxIwrkl68A79PIcUlZlRz4M0WJKnxPUBLEU/l9mUQIHe9RUucZWdghLKbQM7gDJY=;W6wdQZ0tL715t24ZmDIOYA=="
 ---

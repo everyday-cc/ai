@@ -35,38 +35,6 @@ related:
         width: 1600
         height: 896
         isCached: true
-  - title: "How AI Is Infused Into Everything From Screening Candidates To Managing Staff And Making Hiring And Firing Decision"
-    excerpt: "Artificial intelligence is becoming ubiquitous in the interviewing and hiring process. It carries out the initial screening of applicants to the final stage of decision making. Managers can now make better and more informed decisions about their staff and promotions."
-    publishedDateTime: 2024-02-20T15:53:00Z
-    webUrl: "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-is-infused-into-everything-from-screening-candidates-to-managing-staff-and-making-hiring-and-firing-decision/"
-    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-is-infused-into-everything-from-screening-candidates-to-managing-staff-and-making-hiring-and-firing-decision/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2024/02/20/how-ai-is-infused-into-everything-from-screening-candidates-to-managing-staff-and-making-hiring-and-firing-decision/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d4ca166995204ec823cdea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1036
-        height: 691
-        isCached: true
-  - title: "How Artificial Intelligence is transforming consumerism"
-    excerpt: "Artificial Intelligence is taking over and changing the way we interact with people, products and organizations. Founder and CEO of Rebelstork, Emily Hosie, joined Gayle"
-    publishedDateTime: 2024-02-20T16:48:00Z
-    webUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-transforming-consumerism/"
-    ampWebUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-transforming-consumerism/amp/"
-    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-transforming-consumerism/amp/"
-    type: article
-    provider:
-      name: WFLA News Channel 8
-      domain: wfla.com
-    quality: 57
-    images:
-      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2024/02/E-Block-How-Artificial-Intelligence-is-transforming-consumerism.jpg?w=1280"
-        width: 640
-        height: 360
-        isCached: true
   - title: "How Artificial Intelligence Is Reshaping Banking"
     excerpt: "Artificial intelligence is transforming the banking industry, with far-reaching implications for traditional banks and neobanks alike. This transition from classic, data-driven AI to advanced, generative AI provides increased efficiency and client ..."
     publishedDateTime: 2024-02-23T13:15:00Z
@@ -76,20 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "A Look Inside Anthropic Highlights the Crazy Growth of AI Tech"
-    excerpt: "Amid the explosive growth of AI tech, one of the buzziest in the headlines is among the least recognized: Anthropic. Founded 2021 in San Francisco by former team members of the other, super-buzzy artificial intelligence company OpenAI,"
-    publishedDateTime: 2024-02-20T16:51:00Z
-    webUrl: "https://www.inc.com/kit-eaton/a-look-inside-anthropic-highlights-crazy-growth-of-ai-tech.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1452604857_wvvmju.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "raNDQ+q4nYpQ5xxeqgMADRj8eH+LPIexi8sqAmTASelQIC5UELEZPLrP/meuztqXwK8pK0yyxSwjr6ILDY2TFvSX1cZRS9eKPmYqBcNJ5sZN6bEiBwe/S65O1aMSWbw7CtrU3vg0HsGRmBhmSfu6UkrhJqcKIDwFdLsw+9JD7SA7lwgVAuPjgnhmpLQ3+EueIWpkiEebJBM2kM6rq2aUFimu15Sir/Qq+4tRFazsvaB6CXXvXHEMfmOlGhJn7C0rs+6WNysR8EOLwk7eTa+D/7hKOXgBxm9/NSbNa2or8vhVYcee3i4C+Vh3200qcMQK88VpTT/7xbCCe6Nqh/pFyQcnYwI1/O6dl9OnM6qC1E4=;6Jxv9cbIOaeE2UpdRlymDg=="
 ---
