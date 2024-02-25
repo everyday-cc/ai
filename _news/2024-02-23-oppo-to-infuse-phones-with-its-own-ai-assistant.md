@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 671
         isCached: true
+  - title: "Adobe's new AI assistant for Acrobat and Reader can summarize PDFs and answer questions"
+    excerpt: "Read our ethics statement. What just happened? With PDFs being the preferred format for documents used by organizations, it shouldn't come as too much of a surprise to learn that Adobe has launched an artificial intelligence assistant for its Reader and ..."
+    publishedDateTime: 2024-02-21T05:17:00Z
+    webUrl: "https://www.techspot.com/news/101959-adobe-new-ai-acrobat-reader-can-summarize-pdfs.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 41
 
 secured: "Spa0htRYuR/HDVaJN8ThH/8zjfCBOrdfXaDxGhdnfKhD/EhDMCUs8udbjPEJKcNorejYTW3lsDUuNE/l+97Lq70naO5kLGtWZepsGHlxcAVpekgb0VrpjHbKz7sfAjQwtWNWvL/qO58zVn836+LEnKv90ddgsZWQiz9O37sYWg0GBw5KJ2fVBCf0B19pjCy5ZtJC1tujOFroalZg0EbY1/VUGPNm3qhV7zZVH1vHdVp1S9zl5Hm6rK5Tt0tYnAt1ddGIr0tvDqcmzh6dtJxUfls2CiSc+/xwwNOw6uHs/S38Yj0rUBIDIM2LgX60IPXhxve9d9wtqg81twmTsIzqBuDKHV9jJTuItapSwK7Bmfg=;8W7mymKQIG0sJeJyO+wx0w=="
 ---

@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Suddenly Reveals Bad News For Millions Of Microsoft Users"
+    excerpt: "Which brings us to OpenAI’s ChatGPT (key shareholder—Microsoft) versus Google’s Gemini (née Bard). Currently, these two generative AI platforms are in the box seat for first mover advantage in AI-based search. This will step beyond browsers and task ..."
+    publishedDateTime: 2024-02-25T15:11:00Z
+    webUrl: "https://www.forbes.com/sites/zakdoffman/2024/02/25/google-suddenly-reveals-bad-news-for-millions-of-microsoft-users/"
+    ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/02/25/google-suddenly-reveals-bad-news-for-millions-of-microsoft-users/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/02/25/google-suddenly-reveals-bad-news-for-millions-of-microsoft-users/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65db651e54a80e758fd9cf16/0x0.jpg?format=jpg&crop=1909,1243,x138,y116,safe&height=900&width=1600&fit=bounds"
+        width: 1382
+        height: 900
+        isCached: true
   - title: "Microsoft supports cloud infrastructure demand in Europe"
     excerpt: "Demand for cloud infrastructure continues to grow as organizations focus on migrating to the cloud and building new solutions that take advantage of AI. \nThe post Microsoft supports cloud infrastructure demand in Europe appeared first on Microsoft Azure Blog.\n"
     publishedDateTime: 2024-02-21T16:00:00Z
@@ -295,20 +311,6 @@ related:
       - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2024/02/MSFT_Security_FEB09_316427_Blog_Blogheader_240216_V02.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft develops AI server gear to lessen reliance on Nvidia, The Information reports"
-    excerpt: "Microsoft CEO Satya Nadella has tapped Pradeep Sindhu, who co-founded networking gear developer Juniper Networks, to spearhead the network card effort, the report said citing a person with knowledge of the matter."
-    publishedDateTime: 2024-02-20T18:30:00Z
-    webUrl: "https://www.aol.com/news/microsoft-develops-ai-server-gear-163026760.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 46
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/48d82f19bb621e96dabc6afe0e2885c1"
-        width: 800
-        height: 499
         isCached: true
   - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
     excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."

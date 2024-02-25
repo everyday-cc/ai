@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolution
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/amp/"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using artificial intelligence to improve administrative process in Medicaid"
-    excerpt: "Abstract Administrative burden across state–federal benefits programs is unsustainable, and artificial intelligence (AI) and associated technologies have emerged and resulted in significant interest as possible solutions."
-    publishedDateTime: 2024-02-20T18:23:00Z
-    webUrl: "https://www.aei.org/research-products/report/using-artificial-intelligence-to-improve-administrative-process-in-medicaid/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 30
   - title: "Clara Analytics receives funding boost from Nationwide"
     excerpt: "CLARA Analytics and Nationwide are deepening their current partnership."
     publishedDateTime: 2024-02-22T09:44:00Z

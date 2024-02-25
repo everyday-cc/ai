@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/life-entertainment/nation-world/artificia
 webUrl: "https://www.stltoday.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_13091813-b921-5086-a4e3-ae9c0b06a3c3.html"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice actors have mixed responses to AI clones of their voices"
-    excerpt: "As video game worlds get larger, some game studios are experimenting with AI tools to give voice to a potentially unlimited number of characters and conversations."
-    publishedDateTime: 2024-02-20T17:44:00Z
-    webUrl: "https://www.ktvb.com/article/news/nation-world/voice-actors-video-games-ai/507-34a4d807-4e65-4562-bd03-8e8c93a37a4d"
-    type: article
-    provider:
-      name: KTVB
-      domain: ktvb.com
-    quality: 39
-    images:
-      - url: "https://media.ktvb.com/assets/CCT/images/da2901ff-b962-493f-bfd7-29302950fc2e/da2901ff-b962-493f-bfd7-29302950fc2e_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Why some video game voice actors are letting AI clone their voices"
     excerpt: "Although AI's reputation among artists isn't strong, video game voice actors are finding ways to combine ethical practices with their artistry."
     publishedDateTime: 2024-02-21T03:22:00Z

@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2024-02-06-roblox-adds-instant-text-translation-using-ai-plans-to-apply-the-tech-to-voice-chat.md",
+      "title": "Roblox adds instant text translation using AI, plans to apply the tech to voice chat",
+      "excerpt": "Immensely popular sandbox game Roblox has added real-time text translation to its in-game chat, powered by AI. Its developers are already looking at applying the tech to other multilingual elements in the game, including voice chat that mimics the speaker’s tone and expression.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rockpapershotgun.com/roblox-adds-instant-text-translation-using-ai-plans-to-apply-the-tech-to-voice-chat",
+      "originalUrl": "https://www.rockpapershotgun.com/roblox-adds-instant-text-translation-using-ai-plans-to-apply-the-tech-to-voice-chat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsio.reedpopcdn.com/roblox-text-translation.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T18:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rock Paper Shotgun",
+        "domain": "rockpapershotgun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-successfully-implementing-natural-language-processing-and-genai-with-knowledge-management.md",
       "title": "Successfully implementing natural language processing and GenAI with knowledge management",
       "excerpt": "Experts from Datavid joined KMWorld's webinar, Integrating LLMs With a Private Knowledge Platform, to discuss the benefits, latest advancements, and best practices for integrating AI/LLMs into private knowledge platforms.",
@@ -1076,49 +1119,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-the-ai-revolution-transforming-supply-chain-and-logistics-with-artificial-intelligence.md",
-      "title": "The AI Revolution: Transforming Supply Chain and Logistics with Artificial Intelligence",
-      "excerpt": "As this vital technology continues to advance at an exponential rate, businesses that embrace AI in their supply chain operations will be well-positioned for long-term success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/38972-the-ai-revolution-transforming-supply-chain-and-logistics-with-artificial-intelligence",
-      "originalUrl": "https://www.supplychainbrain.com/articles/38972-the-ai-revolution-transforming-supply-chain-and-logistics-with-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/2024/01/29/thumb/SCB_Q1_2024_COVER.jpg?crop=1&height=348&t=1707109367&width=271",
-          "width": 271,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T05:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

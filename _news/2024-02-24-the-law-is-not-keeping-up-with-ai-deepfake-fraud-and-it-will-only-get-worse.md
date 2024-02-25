@@ -36,6 +36,17 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 37
+  - title: "Facebook whistleblower, AI godfather join hundreds calling for deepfake regulation"
+    excerpt: "Facebook whistleblower Frances Haugen, former Democratic presidential candidate Andrew Yang and one of the “godfathers” of artificial intelligence (AI), Yoshua Bengio, were among hundreds who ..."
+    publishedDateTime: 2024-02-21T17:45:00Z
+    webUrl: "https://thehill.com/policy/technology/4480812-facebook-whistleblower-ai-godfather-deepfake-regulation/"
+    ampWebUrl: "https://thehill.com/policy/technology/4480812-facebook-whistleblower-ai-godfather-deepfake-regulation/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4480812-facebook-whistleblower-ai-godfather-deepfake-regulation/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 33
 
 secured: "zFZ+7WaRCo/mpZRWIXMbZFeE8OXEGkXhCrP70XB9oHC7UtKAb1IjJ1owP6MR5qqMbMqb1TcAVhj2ZHEd/TfWPKqN5StQ9QkdzCUk5ZDRM1GgYm5anV5qgu/c1LuanvLB/3ba3qlvnWEHeN9Cvv8w2dflaVdW1a9C9AMADVeW4oeh0Hc/SkIrCKXimZkW3y4K2cFXMmIzk9Pzys6yTg1W52S9Yhora4ZV1OVnZM50pTwPbrZw2SyHCDCWBh5TiqFW6Wse+CboYdOm3l76g3PU0WaPapKNYI1qgiYyORXBB58gyfdpQuPoJ7CNPo+U7qlvMEfdUEwGf66TTeYDXK5QkXpRHBe3Obx5lEj0gwhNnKQ=;vXEmhkbtYaiPm/80DtzrWg=="
 ---

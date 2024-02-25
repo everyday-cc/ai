@@ -45,6 +45,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Facial recognition software discovered in college campus vending machines"
+    excerpt: "The University of Waterloo in Ontario, Canada, began removing its vending machines after discovering facial recognition technology on one of them. The machine's operators and manufacturers"
+    publishedDateTime: 2024-02-25T14:56:00Z
+    webUrl: "https://www.techspot.com/news/102013-facial-recognition-software-discovered-college-campus-vending-machines.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 68
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-24-image-12.jpg"
+        width: 2407
+        height: 1460
+        isCached: true
   - title: "Vending machine error reveals secret face image database of college students"
     excerpt: "The scandal started when a student using the alias SquidKid47 posted an image on Reddit showing a campus vending machine error message, \"Invenda.Vending.FacialRecognitionApp.exe,\" displayed after the machine failed to launch a facial recognition application that nobody expected to be part of the process of using a vending machine."
     publishedDateTime: 2024-02-23T22:03:00Z

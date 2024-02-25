@@ -43,6 +43,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Adobe's new AI assistant for Acrobat and Reader can summarize PDFs and answer questions"
+    excerpt: "Read our ethics statement. What just happened? With PDFs being the preferred format for documents used by organizations, it shouldn't come as too much of a surprise to learn that Adobe has launched an artificial intelligence assistant for its Reader and ..."
+    publishedDateTime: 2024-02-21T05:17:00Z
+    webUrl: "https://www.techspot.com/news/101959-adobe-new-ai-acrobat-reader-can-summarize-pdfs.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 41
   - title: "Oppo to infuse phones with its own AI assistant"
     excerpt: "AI provides innovative mobile capabilities, including better quality images and multi-language translation, and assists users to better craft written content. Oppo says it will provide AI capabilities as well as a development platform to support the new ec ..."
     publishedDateTime: 2024-02-23T04:21:00Z

@@ -21,14 +21,14 @@ related:
   - title: "Ex-Yahoo CEO Marissa Mayer discusses the current tech scene from vantage point of her AI startup"
     excerpt: "Former Yahoo CEO Marissa Mayer now runs an artificial intelligence startup called Sunshine that makes an app for managing personal contacts. She recently shared her views on AI and other tech topics."
     publishedDateTime: 2024-02-24T16:44:00Z
-    webUrl: "https://napavalleyregister.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_5f2443fd-55d0-55c7-a538-2c12e51fcf95.html"
+    webUrl: "https://madison.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_8b25a4b4-66a8-554a-9ca2-5c4c4975130e.html"
     type: article
     provider:
-      name: Napa Valley Register
-      domain: napavalleyregister.com
+      name: Madison.com
+      domain: madison.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/5/f2/5f2443fd-55d0-55c7-a538-2c12e51fcf95/65d637f564546.preview.jpg?crop=1764%2C926%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/b2/8b25a4b4-66a8-554a-9ca2-5c4c4975130e/65d637f4dd733.preview.jpg?crop=1764%2C926%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

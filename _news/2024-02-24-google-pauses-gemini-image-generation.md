@@ -578,20 +578,6 @@ related:
         width: 759
         height: 428
         isCached: true
-  - title: "Exploring Gemini 1.5: How Google’s Latest Multimodal AI Model Elevates the AI Landscape Beyond Its Predecessor"
-    excerpt: "Google's Enhanced Multimodal AI Model Surpasses Its Predecessor with Advanced Data Integration and Processing Capabilities. Explore the future of AI technology through its innovative approach, expanded capabilities,"
-    publishedDateTime: 2024-02-20T18:18:00Z
-    webUrl: "https://www.unite.ai/exploring-gemini-1-5-how-googles-latest-multimodal-ai-model-elevates-the-ai-landscape-beyond-its-predecessor/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 21
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2024/01/8281caa378152b406774ba0954bddc90-400x240.jpg"
-        width: 400
-        height: 240
-        isCached: true
   - title: "Google announces Gemma, its open models for AI research"
     excerpt: "Gemma was developed by Google DeepMind and other teams across the company, and is “built from the same research and technology used to create the Gemini models,” including technical and infrastructure components. Name-wise, it’s Latin for “precious ..."
     publishedDateTime: 2024-02-21T13:00:00Z
