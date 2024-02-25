@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
+    excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds. Some are also starting to use artificial intelligence to generate synthetic voice clones."
+    publishedDateTime: 2024-02-24T17:45:00Z
+    webUrl: "https://www.stltoday.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_13091813-b921-5086-a4e3-ae9c0b06a3c3.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 26
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/30/13091813-b921-5086-a4e3-ae9c0b06a3c3/65d8c7ef619be.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why some video game voice actors are letting AI clone their voices"
     excerpt: "Although AI's reputation among artists isn't strong, video game voice actors are finding ways to combine ethical practices with their artistry."
     publishedDateTime: 2024-02-21T03:22:00Z
@@ -34,15 +48,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
-  - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
-    excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker's permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
-    publishedDateTime: 2024-02-24T19:00:00Z
-    webUrl: "https://omaha.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_b4b4e9d8-0b08-5736-a58b-8c7516a261ae.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 6
 
 secured: "tHLWMvb4GTIwaOTxhXt6Rw3abkiFlXzrgCV0tFEujRzLZW1ZVKxV8xpPzB2D2RokuRGVYp/XG3qlMtmeK5K4MYl76majuy7PePkUMpcDWQ2aw8qRaS+fpG96j8xXSEhlyCpKlWJ9lKwSJzyx4xiyN5We4f1urG9VKHeKjaSCbM3VtzHZ+88RJ4Aaxk9AMvqO8VpCqjnuNfbLjmJ3hgv5YDMAHZGmMOesr6Am70OD9LWlJBN5SgG/kq2UB5KQJX+H06vzrWQHjWDS3P2TP13+g837msZmW0uK1YPiothV9U3G4KcpyC96ZySinEcymwrTaZ66HXqmaMMhlSvKIX0F1C2W0AcDfyBNAqSPvlDL/ns=;CSq0xIvqyYTtnud+05aXEw=="
 ---

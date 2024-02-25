@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-19126871.htm/amp"
 type: article
 quality: 74
-heat: 174
+heat: 180
 published: true
 
 provider:

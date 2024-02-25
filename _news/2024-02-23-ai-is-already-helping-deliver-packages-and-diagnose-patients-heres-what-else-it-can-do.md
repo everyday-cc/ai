@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d"
 type: article
 quality: 82
-heat: 90
+heat: 82
 published: true
 
 provider:

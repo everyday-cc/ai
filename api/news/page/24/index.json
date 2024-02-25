@@ -2,49 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2024-02-06-voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes.md",
-      "title": "Voice-based conversational artificial intelligence may improve insulin management for diabetes",
-      "excerpt": "This randomized clinical trial demonstrated that compared with the standard of care, voice-based conversational artificial intelligence (VBAI) improved time to optimal insulin dosing, insulin adherence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.physiciansweekly.com/voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes/",
-      "originalUrl": "https://www.physiciansweekly.com/voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.physiciansweekly.com/wp-content/uploads/2024/02/image1707213623.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-06-artificial-intelligence-for-the-financial-market-machine-learning-enhances-stock-return-prediction.md",
       "title": "Artificial Intelligence for the Financial Market: Machine Learning Enhances Stock Return Prediction",
       "excerpt": "In the complex world of financial markets ... especially in global stock investments. However, Machine Learning (ML) methods, a branch of Artificial Intelligence (AI), offer a promising solution.",
@@ -1060,6 +1017,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-global-forum-on-the-ethics-of-ai-2024.md",
+      "title": "Global Forum on the Ethics of AI 2024",
+      "excerpt": "The 2 nd Global Forum on the Ethics of Artificial Intelligence: Changing the Landscape of AI Governance, took place in the Brdo Congress Centre of Kranj on 5 and 6 February 2024. This Forum brought together the experiences and expertise of countries at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unesco.org/en/forum-ethics-ai",
+      "originalUrl": "https://www.unesco.org/en/forum-ethics-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unesco.org/sites/default/files/styles/best_image/public/2024-01/ethicsofai_banner_1800px.jpg?itok=spmQQkq6",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNESCO",
+        "domain": "unesco.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

@@ -48,20 +48,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "When the AI-Powered Killer Drones Start Talking to Each Other"
-    excerpt: "To donate by check, phone, or other method, see our More Ways to Give page. Quality journalism. Progressive values. Direct to your inbox."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.commondreams.org/opinion/killer-drone-swarms-ai"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 39
-    images:
-      - url: "https://www.commondreams.org/media-library/swarm-of-drones.jpg?id=51510340&width=1200&height=600&coordinates=0%2C177%2C0%2C177"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "e7DVELJxdVadIMGOZp1/imU/CzzoyfDFhJbSjagPXrHbaV79OaVVesrIW2mA5NxhcrcCyCkiwgLqv9/8qXVisP192uSWNHX5lhh2OuCMN/m5WUInsrsh2uQb2DvKbK/hG9SXNGcT3UN/WM9hSMLOuetubTS/8oHhtzldfNZqbYsiXsuOGlzOVvgmzSnw4JW6T+pgrzAv9BQ0XAS4JVC5B8k4wDPTBKm3Lw3eu9guuDjsV7MuydviEZBb8suYkVocayqnJ2ktzeRrn1sx85nEF+rTv2lvpsIBAlUWqrWH43NqOYy5Nv6PKvkW2dkCmMNvX5o6m6r96so2pdO6uPeWQkYok0GwGUk97Hkx+Do0eIHXmtFRadCn05VaNySKysGd7Ex9VWtSlwpBh6zCnWPh1Ih4nRsMOBUutBwhGh5Nyyw7TlGcZK5JZwTE8WkmtSTExDy8pBq19VDjXraG34sBrcrkw2tgPLye5gwaNC3/oxae/mxbjWyx+B68vjVFoG3x9cpmIO0Vn3OxMcz/Snnw1Q==;hLWYduIaBNV8/W7vmLp3Cw=="
 ---

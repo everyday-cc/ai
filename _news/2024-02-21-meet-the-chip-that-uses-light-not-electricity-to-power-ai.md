@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/"
 webUrl: "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1402/12/01/1402120109340937829427454.jpg"
         width: 800
         height: 557
-        isCached: true
-  - title: "When the AI-Powered Killer Drones Start Talking to Each Other"
-    excerpt: "To donate by check, phone, or other method, see our More Ways to Give page. Quality journalism. Progressive values. Direct to your inbox."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.commondreams.org/opinion/killer-drone-swarms-ai"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 39
-    images:
-      - url: "https://www.commondreams.org/media-library/swarm-of-drones.jpg?id=51510340&width=1200&height=600&coordinates=0%2C177%2C0%2C177"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "CvS7EC+FGu78z4xGJz2Jrf+45O8VesisrodtdtBSkrsWVAI9vIF600Hd9d/3yT3eZgLAeFHFtRppfuTVreIRv1HpVYn3Ge9KQIuIe4CpC7KFdFCcYu8ZP1tKliCKeJms9PQzNE0thSfciC85ukKccr28aBqXeAoGW+y4bHEdowo2mwHh/YuAOrcJ+aS4utTU/VkeEYHY4HNIrK0mWwwLWqZzWL96tTRGlCFKQ0USVwrMl6c0dWP91alsEyZmjp3BjD/hD2eB9vbVB7rny8LdyBAdCvJGOBHHj7MZ9Lfyewkis1V0JFLT8U00JgcxSrUWCFhovCFBXPnvXDqIY5OPgqPDkP9lOA0g1WblSPBl2ng=;MdPmJmUA94GnkG23Slqm+g=="

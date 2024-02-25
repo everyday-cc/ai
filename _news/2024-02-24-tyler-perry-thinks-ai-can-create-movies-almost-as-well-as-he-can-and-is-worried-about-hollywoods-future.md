@@ -47,6 +47,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 17
+  - title: "Tyler Perry Halts $800M Studio Expansion Due To Advanced Artificial Intelligence, Admits ‘Jobs Are Going To Be Lost’"
+    excerpt: "Tyler Perry is halting plans for an $800 million studio expansion due to rapid developments he's witnessing with artificial intelligence. Tyler Perry is halting plans for an $800 million studio expansion due to rapid developments he’s witnessing with ..."
+    publishedDateTime: 2024-02-24T00:00:00Z
+    webUrl: "https://www.blackenterprise.com/tyler-perry-halts-800m-studio-expansion-openai/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 14
+    images:
+      - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2023/11/GettyImages-1232534928-1.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "+AJ3ManoUEuBHL4xYBNhWQWvZfaXyweYlG+gzIp1i4Vq/1D/25XUE7NTNsHM00fB5rkvrmI0+tDuM+se/GdBjFSReSajOSgvC6zChMq49OBw1F2IqNn5BvQD/q3PPfg7hhtHrtDgCuJE97t2R8qZwC7GHiM/Wlh99eqSfogN7udggDnb7lr0iVBBVRsh96QhE13P7eWLap/6tSPurJQkK3CP+lJk6FPl+hSgyCSV95wfIJGgMYUHCH7En6WObWTwE5Cz9iDNfvpKZJXPFzn+fvtyj5C759hvVemOHXl3ne1nCo7hnIMuGrzu/mhux03/cZaJPjVqyzlDtZ3A6kCx1vJrvZTN//XwUSZ32ZI1dMWJXMAAqVE8632YYf887pySTmTee1W89/OT4IWsfY8HJ0A69vA7kOn6hEEgP4H/rlhmUMc+QgZW1s4oc8fNmShrTa7uHrxKb8k1gqJ6xnxJGJV6SlZBDrfWnW/Wziy3cb8azTSyjlCVFQGMEfn493DhTfQw2wjFAQwVmikaJjv2Ow==;30wNaKojU9brTer1UTJv/Q=="
 ---

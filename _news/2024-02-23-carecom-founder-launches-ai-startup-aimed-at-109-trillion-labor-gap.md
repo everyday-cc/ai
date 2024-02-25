@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-l
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Levr.ai closes $1-million seed round for AI-powered loan platform for small businesses"
-    excerpt: "Vancouver-based FinTech startup Levr.ai has secured $1 million CAD in seed financing to continue scaling its artificial intelligence (AI)-powered loan software for small businesses. The seed round comes a year after Levr.ai raised $1-million in pre-seed ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://betakit.com/levr-ai-closes-1-million-seed-round-for-ai-powered-loan-platform-for-small-businesses/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 11
 
 secured: "rTggBz+IQ3iMl2yVIf2ILu+oliNIS4R4uD8iMrF0jW6QtWpsiMN4U7zR9Kgo/t6onH0RL9nDb7wjN8J+dAHWPef+J+R+3iMKD3nmLnLFUJTOPcARX3xWZqCsIhCZZs4mqilL5M+s3L56aUpnVrEyhr+MdvUTvg+MoPs0qQhnrTGgz+RS6VxlFzanP5ACFSiv92S3I0HO3Kyn1BiSDGsRepsJik5k6jlWI5t3DoIpkbRr4NGvK+eVgof+A224QkTeQqWo6g4X+LWxXlA7aAyhRk1K6HaFnTIvUIEDbtjO75ovARi/oN5PY87+tMRlgUOm0kxdxmh6r6V2b7tYX2XJJxb86Z2db3JuuHf/Jwat9DSi+Y6Wphf3hAzBc/3uFyYuT63cuVR0RnecIKmTw3Ic5JLtc6akumt8rRFbPEIiSRZ3k+uzBebw5KutispLBaxrnmKgjocXVAthazdhEL5DSLM6QfBh0t6ch1KytV/sRJAp9Y97+0e3Bx9Dy2pJgUCHX2UtZqHZZXhJVXhYMi4w+w==;mSr0uF7CWlDSABRNH4HN4Q=="
 ---

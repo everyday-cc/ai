@@ -2,41 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-12-04-letter-artificial-intelligence-can-be-a-useful-workforce-tool.md",
-      "title": "Letter: Artificial intelligence can be a useful workforce tool",
-      "excerpt": "It seems every time I read new research about the impact of artificial intelligence on the UK labour market I come across a new threat to another set of occupations. This time (“City workers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/96dae3d3-9563-4f90-aa19-afa632d058cd",
-      "originalUrl": "https://www.ft.com/content/96dae3d3-9563-4f90-aa19-afa632d058cd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-12-03-how-artificial-intelligence-is-redefining-health-care-in-india.md",
       "title": "How artificial intelligence is redefining health care in India",
       "excerpt": "But now, it has come down to just four of them as everything is done by artificial intelligence (AI).” Now all they have to do is simply tell the machine orally that they need to do an MRI, say, of the knee for trauma.",

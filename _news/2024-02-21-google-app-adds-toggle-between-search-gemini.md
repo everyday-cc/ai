@@ -550,20 +550,6 @@ related:
         width: 512
         height: 252
         isCached: true
-  - title: "Google Renames Bard to Gemini"
-    excerpt: "A monthly overview of things you need to know as an architect or aspiring architects."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.infoq.com/news/2024/02/google-bard-gemini/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 24
-    images:
-      - url: "https://res.infoq.com/news/2024/02/google-bard-gemini/en/headerimage/generatedHeaderImage-1708182945608.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google apologizes over Gemini image generation inaccuracies"
     excerpt: "Google LLC has apologized after its Gemini chatbot generated images that incorrectly depicted racially diverse characters in historical contexts."
     publishedDateTime: 2024-02-23T23:19:00Z

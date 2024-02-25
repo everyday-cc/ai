@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-career-advice-coach-gen-z-workers
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-career-advice-coach-gen-z-workers-get-ahead-2024-2?amp"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/444049/workers-still-input-sensitive-information-when-using-ai-tools-despite-security-risks.jpg"
         width: 1500
         height: 924
-        isCached: true
-  - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
-    excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds. Some are also starting to use artificial intelligence to generate synthetic voice clones that can save money or bring more characters to life."
-    publishedDateTime: 2024-02-20T00:40:00Z
-    webUrl: "https://www.nbcnewyork.com/news/tech/video-game-actors-ai-voice-clone/5151319/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/tech/video-game-actors-ai-voice-clone/5151319/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/tech/video-game-actors-ai-voice-clone/5151319/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 46
-    images:
-      - url: "https://media.nbcnewyork.com/2024/02/AP24036573718196.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "EHZRAeM9ByJxCxRuT20Am2wHMYfoDzyZbT5R1MKFZMGlPM4HB+Rn3xi4KmNvrkzsxOSYJMWijP4GR5h4PcwEP5oi+FYrgkmd6xdLMF7AtlUooziVi7m3c0jsvKwo/VD2M/DxgTlDrXNLvHanFJbfSwd54I0yljiWUrHxLhteSUSFjv+cUzXTHUBkzwlaefCufwg5aMy6BBtcbpMs5NBje4GFlpEMDp4Njc4oIzmKRA25m3iaBHlMY6HJ4Vr5rGdhB7USqdoRyDB5TiBQ+KydJB6pJDO/E8x9g1tY5+LqXbwbwFtghZAfEOkSKQC87ZwCVmBIHKPxLGouN/ERYp/ejdfHwJVxBFyNLs2PMt9lRvk=;0gKAXoa/MmmXSzJ+V0OCTw=="

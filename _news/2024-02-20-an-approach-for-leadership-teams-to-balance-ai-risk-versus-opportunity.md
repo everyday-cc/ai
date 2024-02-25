@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Education, Tech Leaders Express Support for Empire AI"
-    excerpt: "\"Who better to be able to address questions of ethics, of any kind of misconduct with AI, than folks in academia, the objective researchers in that field,\" said Matos Rodríguez. \"This is an indispensable part of how we're going to have an ecosystem that ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/education-tech-leaders-express-support-for-empire-ai"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 36
 
 secured: "9Y2SWx+FMDKLnLTHAkU0S/sjEMZ+3o8GyH3NpajiYAb7uX+1aclTTjWjifZI1/PwxE6yfe37W7sACJkIH6JPHUUpAvWXjTXiChO+Tu/V4H4oAtkSpscZ3cc+07zAPg90o73MEC2Eq9vwkITKUnqCXyvLYpLIUxZY9GaYTLkawTSaXYX5eqG73nyjfuKstoChsWhy/2pQ5YQNVKsLN3dakd5i23seiGDJ8QbnnUfKX8BG+D/Lf+ij39/giqA6FEeJGpZpZXd1uU/4tE78CKQ/f1PUwwFYa3bX7UZVwah55lQEoaxOXE+CWHirzHZAc3HjIBCKA73RWk4sdlWZgo3lfAwiT9bYT+aWphRbZHk7TEMWvBeVoM22xEHtsCQGYMHfWXdNGxuYSaJQvIp/Dm4yhUOekstik9JinqaUguGnu6dkCl38dKWa6zl0VBUl5dcYjhc362kkRmuGXGVYvR34eamxizREonRpNewQDc0fPzDrEMktNGt3jQ3KyKIvBHSnoLll//CekgyquBQL+7SpPg==;SvD6Xu+Aw68vIKVvsPqJDQ=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "From Code To Conversation: Can AI Teach Robots Arabic?"
-    excerpt: "The problem is, you will get to the point where there is no more data that's naturally created and the moment we start generating artificial data and training AI systems on that, it's like creating monsters,” says Habash, previously a research scientist ..."
-    publishedDateTime: 2024-02-19T23:32:00Z
-    webUrl: "https://menafn.com/1107872689/From-Code-To-Conversation-Can-AI-Teach-Robots-Arabic"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/19/KT_70ff5image_story.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "67y/OGj8RAhkGQbL0u2IB6PL0V5cZ/oTuwjY7SfreCpTjXemq8outWwrKtP1M5eSpF3eykFX6QmDKVGRToL5GZ5wgYbGdwdimmGYloz8QwtS9sABb6IouwHXXG2eM0Ico53dkm7KFRqoasC1L6SJGQAFh0+6yHSurkpQGuGUl0Ol2K33IBf39hArSZtGAh6yf8UVMM9DjZ5z2+ytelu3uywE8KqWoRmLlUgwlUfgEXVwqYxAgBks6Y/tSPElBNMfV/JkEAfiPsZdtIRiqrZ0q7E8LxLLS9Ou40n4yS/9JNOZ6GEyowBzr3MvRXMrDUHYl0GYwHhI3EkVJzVWb8eB30+zNeE/ES9hXqLEfwsykFI=;XoFgj/IBVbboSMkvdQxxWA=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Asian Chip Stocks Gain After Nvidia Signals Booming AI Demand"
 excerpt: "Shares of Asian chip makers rose Thursday after strong earnings from Nvidia buttressed expectations of booming global demand for semiconductors used in artificial intelligence."
-publishedDateTime: 2024-02-22T10:17:00Z
-originalUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2?mod=tech_lead_pos2"
-webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2?mod=tech_lead_pos2"
+publishedDateTime: 2024-02-22T05:18:00Z
+originalUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2"
+webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2"
 type: article
 quality: 64
 heat: -1
@@ -390,6 +390,20 @@ related:
         width: 1779
         height: 1001
         isCached: true
+  - title: "How the AI frenzy put a rocket under chip maker Nvidia"
+    excerpt: "Nvidia, the maker of graphics processing units (GPU) revealed last week that it earned $30 billion in annual profit — sales doubled to $61 billion. Nvidia’s stock surged 16.4 per cent to $785.38, valuing the company at $1.9 trillion. The only companies ..."
+    publishedDateTime: 2024-02-25T00:19:00Z
+    webUrl: "https://www.thetimes.co.uk/article/nvidia-earnings-stock-share-prices-wall-street-w9gpssjz8"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F46ff9054-e1e9-4f27-8daf-be2cea7c2859.jpg?crop=3716%2C2090%2C0%2C193&resize=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Nvidia Earnings Are Coming. Why It’s Time to Think About AI Chip Competition."
     excerpt: "It’s not an exaggeration to say that the tech sector's recent rally might depend on Nvidia beating expectations for its earnings report this week. However, stockholders in the chip maker should be looking beyond the immediate horizon and particularly at potential competitive threats."
     publishedDateTime: 2024-02-20T09:37:00Z
@@ -656,6 +670,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "JuGrqdcBLgNhiPPun9YuPAhP+zKDgX9b6cuWwBtnlOCkCs0cifRd1B+FIcYkBZCImJdWpIqFUzk9fUDm3r2H+gIOhPJA7aNOCUZ6MdhM9e2evQrBsLWPEN0uJuInsrcREw4fKgdnCQAEsrDTf+IW8n+28qWr8AnUVPvzDGDuH3KX0a2sQg14mDY9BbE2DkBpzK0kmrs74ppWwSHD+62oJVHWgyXhuCKVCqHhKRDngvV7QbgqaRwt6crC/DulRCth9Blzq+Zs5+KrwFUpNF/nHw49v8mtjj87EGlzgkUKwdgiBlwYYLlIcFDQtjUBIkDHNMLhNKNH9l0BBG7kbmhce9MlpfjcOPkbjBv8oC5AqmAeToasw18867GSaiCsD0OdMQgPQDGO0SwO0XgkoCgaGksPy3UONDefKUGvfInaRJ5Ng9hPxHmw/vJZByRy8ChcWa6UQ5k6C0HssKW1L2Rg4QOOlPHqijEFoQ++5dkQml6afizaEkE0hYT71xXEqLsqF0ddh0h8oKjNELGBXyPoLA==;nsD8ixzXiuLS3cNuImrcQA=="
+secured: "+cxnhVX9fI3U4JXrrdMrHZCmnjHy3ujy+3ndWJAzbeg8DJJOgsYiNrF+FJ/KyDE6YfXM+ljs541vZqUiSbHwrPU7xUH3nFBwJtaAPxS/sAi/m7zbp+LAXYdVffY6xmk1oqxo2MNzQh/VVbyP/5qfTSS37kKSmvE+/7Mpflo/P5VgEtjo9S5RTwx++aclw8U7ZgmCKzEw1ye3L756ijKbcwc3kn9qx1q4Qlo/EKRE5O1NhSkoMz77p+ouqF9AHLJGteRR78/dJOhIDK2Oo1o7kMQrzL9kegOOY9c+Jd9aMfT2C/JVsQp03unPPI93S5gUmmzJuFNu0P/8SQ+9yJzKBiFJznP0L9YFiRwSHMLeBs9q3Suqg0TJzNzfYMo9k1bRv5Zlk/24WS1UDOX9t9CJxFExnQE7Sq0mOAxUpP1PsnuudfGOjRsWvl8Ow0R7FLsl9LuZlkD8fV2TEQ8aB1ETKgLb33OpXlJpcGpEGnTCiTD6EsaMDuT8q5cVpfRBhp2Ce/g5Rc8P+AsUeDmHq4Ffng==;HtYGRXdgA5AJLH7ck3SPtg=="
 ---
 

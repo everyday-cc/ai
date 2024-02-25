@@ -100,15 +100,6 @@ related:
         width: 948
         height: 710
         isCached: true
-  - title: "PDFs get smart as Adobe brings generative AI to Reader and Acrobat"
-    excerpt: "and has been developed in line with the vendor’s AI Ethics processes. The assistant currently uses the Microsoft Azure OpenAI Service but Adobe insists it is not tied to any specific LLM, and will use a selection of technologies as needed to address a ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://diginomica.com/pdf-smart-adobe-generative-ai-reader-acrobat"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 21
   - title: "Adobe's New AI Assistant Is Designed to Read PDFs for You"
     excerpt: "Adobe is getting into the AI assistant game. The assistant, which is rolling out in beta today as a part of Adobe Acrobat and Adobe Reader, is a new tool that \"reads\" through documents and can answer questions related to their content,"
     publishedDateTime: 2024-02-20T14:20:00Z

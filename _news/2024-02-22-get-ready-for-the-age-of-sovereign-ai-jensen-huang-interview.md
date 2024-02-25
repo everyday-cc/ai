@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-j
 webUrl: "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/"
 type: article
 quality: 69
-heat: 85
+heat: 79
 published: true
 
 provider:

@@ -2,40 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2024-02-16-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-new-solutions.md",
-      "title": "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions",
-      "excerpt": "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T16:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-16-ai-chip-tags-can-fight-espionage-from-hostile-states-report-says.md",
       "title": "AI chip tags can fight espionage from hostile states, report says",
       "excerpt": "A new report from Cambridge University warns that AI regulators are overlooking hardware. They advise a firm focus on AI chips",
@@ -1130,6 +1096,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-ai-is-supercharging-parametric-insurance.md",
+      "title": "AI Is Supercharging Parametric Insurance",
+      "excerpt": "Considering its 200-year history, parametric insurance has been slow to adopt, with conventional insurers regarding it as a niche proposition, suited for the",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/",
+      "originalUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca298f61d43ff4607a297b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1316,
+          "height": 877,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/amp/",
+      "publishedDateTime": "2024-02-15T08:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

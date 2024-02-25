@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
-excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker's permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
-publishedDateTime: 2024-02-24T19:00:00Z
-originalUrl: "https://omaha.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_b4b4e9d8-0b08-5736-a58b-8c7516a261ae.html"
-webUrl: "https://omaha.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_b4b4e9d8-0b08-5736-a58b-8c7516a261ae.html"
+excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds. Some are also starting to use artificial intelligence to generate synthetic voice clones."
+publishedDateTime: 2024-02-24T17:45:00Z
+originalUrl: "https://www.stltoday.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_13091813-b921-5086-a4e3-ae9c0b06a3c3.html"
+webUrl: "https://www.stltoday.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_13091813-b921-5086-a4e3-ae9c0b06a3c3.html"
 type: article
-quality: 6
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/30/13091813-b921-5086-a4e3-ae9c0b06a3c3/65d8c7ef619be.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Voice actors have mixed responses to AI clones of their voices"
@@ -43,6 +49,6 @@ related:
       domain: seattletimes.com
     quality: 19
 
-secured: "pqI7493jDT6V1WqQMfgP/cDlp2MADyEKIAxik4hfPq8mBvZob6jtuu6/6bePyWbF47OYbNOABoxBQXhtqPSjFi4tOkeLqN3tsmR2BJnPhYrJwOUt4on/7usY2zjV0/yRDWmbtQcoDqYGEFyp5jGneNfVMsH1olJU/A/JRlktswWfmUkld9b1TTMGoEo8SZYVrmm68BwNt5koxG0xkGV5JmVTSqZE599WmpN1B54BDdbW99Ze3jsOnqccGKp5JcAqA7IbpAGI4w0QqArWnQ0eXNOrMt6BKxwGqLZ++sne46YxlX8DrK8aF9mcDtUZrOzuJiH4DAYDx5U9Igt38opfL0IH3KeK3oEc6V+24GpNZCuswv1j+Klk3NcEZIGUtafIOCo44pavKq4TUR/EcLYJ3mWm39GvYJvzITfGV97gfBMKBRYOgCKmwm2QUtaQL1Um8URlM83MbX8YWCe2IyjXndFyYAQPnrqk+v7UY7r4F+nWhmpRe0oDouPx04FfK2tagc9uwsu7IMC4cBr0rmsa8A==;/6Rh7TI3FVoIzVOOL0uJ2A=="
+secured: "yZYtm6ntb0VVSihdlLgPOQGqOp+aMfZfq8cJma+Xxpd4hRRcfJAtspo8V6Had3kxSoUye8iwOKWZ0zPP4havF14OwNGreRsp+9a8ynMNme4zIVEwnZ6In+YhrSDJVbDTSojSlafB7hTsVFtg0j/y6Ys2TXZTpbH8zfrV9U0kqeOgvJcEOkmX1cxVTsjy3DRr9LQTYvqZTYprVhWcJ2qEhoNO8ZeFgyDM7wCxX4cyzA94w2wX9mJMw1gbdKzsDzoTquPH0lG83pG2wCrkWsVw5W8T7MiBJziFLP7KQR9t1bc0PaJVrAomcCDBn7qRSvWVaPc3DEZoO6M57qyjIwPOClaHl3ZxTDD8tTGWHrfNNeM=;Ia570AuqLAPbc2R1TOoShw=="
 ---
 

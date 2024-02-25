@@ -28,15 +28,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 65
-  - title: "More airports are using facial recognition technology"
-    excerpt: "The Transportation Security Administration is planning to widen its use of facial recognition technology, hoping to speed up the boarding process. More than 30 airports across the country are already using such technology. The TSA plans to roll it out to ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.wbur.org/hereandnow/2024/02/20/facial-recognition-airports"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 34
   - title: "EQS-News: artec technologies AG: AI-supported open source technology proves its worth in crisis situations"
     excerpt: "AI-supported open source technology proves its worth in crisis situations AI-based transcription and translation in over 50 different languages New perspectives for broadcasters, press and news agencies, crisis centres,news services and many other areas ..."
     publishedDateTime: 2024-02-22T05:46:00Z

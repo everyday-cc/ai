@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Airports face biometrics systems arrive in Philippines, Nigeria and Spain"
+    excerpt: "In Bangkok, adoption is low for biometrics at check-in, while airports in Spain and the Philippines are implementing it for the first time."
+    publishedDateTime: 2024-02-20T22:16:00Z
+    webUrl: "https://www.biometricupdate.com/202402/airports-face-biometrics-systems-arrive-in-philippines-nigeria-and-spain"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/23090230/woman-phone-airport-scaled.jpg"
+        width: 2048
+        height: 1363
+        isCached: true
   - title: "GHMC invites bids for facial-recognition biometrics attendance system through mobile app"
     excerpt: "The Greater Hyderabad Municipal Corporation (GHMC) has, through a request for proposals (RFP), invited bids from contractors for the introduction of facial recognition biometrics for recording attendance at all levels. Describing it as an ‘artificial ..."
     publishedDateTime: 2024-02-23T15:12:00Z

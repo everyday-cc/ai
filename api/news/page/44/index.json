@@ -2,48 +2,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2024-01-23-peak-xv-backed-healthtech-startup-qureai-in-talks-for-fresh-funding.md",
-      "title": "Peak XV-backed healthtech startup Qure.ai in talks for fresh funding",
-      "excerpt": "Qure.ai Technologies Pvt. Ltd, a health-tech startup that uses artificial intelligence for medical imaging diagnostics, has hit the market to raise what could be its biggest institutional round of funding till date, two people aware of the development told ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding",
-      "originalUrl": "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.vccircle.com/uploads/2024/01/Qure-CEO.jpg",
-          "width": 712,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding?amp=1",
-      "cdnAmpWebUrl": "https://www-vccircle-com.cdn.ampproject.org/c/s/www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding?amp=1",
-      "publishedDateTime": "2024-01-22T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VCCircle",
-        "domain": "vccircle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-23-is-there-ai-discussion-fatigue-in-healthcare.md",
       "title": "Is there AI discussion fatigue in healthcare?",
       "excerpt": "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ...",
@@ -1151,6 +1109,40 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-opinion-harvard-president-failed-to-defend-free-speech.md",
+      "title": "Opinion: Harvard president failed to defend free speech",
+      "excerpt": "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php",
+      "originalUrl": "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T11:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

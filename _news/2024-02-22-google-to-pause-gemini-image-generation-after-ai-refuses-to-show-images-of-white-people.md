@@ -544,20 +544,6 @@ related:
         width: 512
         height: 252
         isCached: true
-  - title: "Google Renames Bard to Gemini"
-    excerpt: "A monthly overview of things you need to know as an architect or aspiring architects."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.infoq.com/news/2024/02/google-bard-gemini/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 24
-    images:
-      - url: "https://res.infoq.com/news/2024/02/google-bard-gemini/en/headerimage/generatedHeaderImage-1708182945608.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google App Adds Toggle Between Search & Gemini"
     excerpt: "The popular Google app, the Google Search app, now has a toggle at the top to quickly switch between Google Search and Gemini (formerly Google Bard). It shows up at the top and is defaulted to Google Search with the super G logo but you can see the Gemini logo that you can tap on to switch to Gemini."
     publishedDateTime: 2024-02-21T07:11:00Z

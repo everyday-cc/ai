@@ -2,40 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2024-02-17-hartford-healthcare-launches-new-center-to-use-artificial-intelligence-in-hospitals.md",
-      "title": "Hartford HealthCare launches new center to use artificial intelligence in hospitals",
-      "excerpt": "HARTFORD — Hartford HealthCare is launching a new center dedicated to using artificial intelligence in healthcare, which officials said is the first in New England and one of a few in the United ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/recordjournal/article/hartford-healthcare-ai-artificial-intelligence-18668344.php",
-      "originalUrl": "https://www.timesunion.com/recordjournal/article/hartford-healthcare-ai-artificial-intelligence-18668344.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-17T06:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-17-samsung-galaxy-s24-ultra-vs-google-pixel-8-pro-a-tough-battle.md",
       "title": "Samsung Galaxy S24 Ultra vs. Google Pixel 8 Pro: a tough battle",
       "excerpt": "Beyond photographic features, the Pixel 8 Pro also includes built-in proofreading tools in Gboard, object and pet recognition for the selfie camera, and the ability for Google Assistant to summarize a web page for you. Suffice it to say that Google will ...",
@@ -477,6 +443,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-17-comcast-must-face-speech-recognition-patent-case-us-appeals-court-says.md",
+      "title": "Comcast must face speech-recognition patent case, US appeals court says",
+      "excerpt": "Feb 16 (Reuters) - A U.S. appeals court on Friday revived a patent lawsuit against Comcast CMCSA.O over voice-recognition technology for television systems. The U.S. Court of Appeals for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/comcast-must-face-speech-recognition-patent-case-us-appeals-court-says",
+      "originalUrl": "https://www.nasdaq.com/articles/comcast-must-face-speech-recognition-patent-case-us-appeals-court-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T18:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-customer-service-vs-customer-experience-key-differentiators.md",
       "title": "Customer service vs customer experience: Key differentiators",
       "excerpt": "What is customer service vs customer experience? Here are the key differences, and why your business needs to excel at both.\nThe post Customer service vs customer experience: Key differentiators appeared first on IBM Blog.\n",
@@ -575,49 +575,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-comcast-must-face-speech-recognition-patent-case-us-appeals-court-says.md",
-      "title": "Comcast must face speech-recognition patent case, US appeals court says",
-      "excerpt": "A U.S. appeals court on Friday revived a patent lawsuit against Comcast over voice-recognition technology for television systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/litigation/comcast-must-face-speech-recognition-patent-case-us-appeals-court-says-2024-02-16/",
-      "originalUrl": "https://www.reuters.com/legal/litigation/comcast-must-face-speech-recognition-patent-case-us-appeals-court-says-2024-02-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T17:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1244,6 +1201,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-karnataka-budget-state-bets-big-on-artificial-intelligence-machine-learning.md",
+      "title": "Karnataka Budget: State bets big on Artificial Intelligence & Machine Learning",
+      "excerpt": "Siddaramaiah also unveiled a stipend of Rs 15,000 for 200 engineering graduates enrolled in 6 to 12-month vocational training courses, including Artificial Intelligence and Machine Learning, at institutions like IISc,",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/karnataka-budget-state-bets-big-on-artificial-intelligence-machine-learning-12291701.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/karnataka-budget-state-bets-big-on-artificial-intelligence-machine-learning-12291701.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/08/software2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/karnataka-budget-state-bets-big-on-artificial-intelligence-machine-learning-12291701.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/karnataka-budget-state-bets-big-on-artificial-intelligence-machine-learning-12291701.html/amp",
+      "publishedDateTime": "2024-02-16T11:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

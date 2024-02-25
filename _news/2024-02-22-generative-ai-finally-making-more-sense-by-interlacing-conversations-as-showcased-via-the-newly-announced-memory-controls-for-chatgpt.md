@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "From Code To Conversation: Can AI Teach Robots Arabic?"
-    excerpt: "The problem is, you will get to the point where there is no more data that's naturally created and the moment we start generating artificial data and training AI systems on that, it's like creating monsters,” says Habash, previously a research scientist ..."
-    publishedDateTime: 2024-02-19T23:32:00Z
-    webUrl: "https://menafn.com/1107872689/From-Code-To-Conversation-Can-AI-Teach-Robots-Arabic"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/19/KT_70ff5image_story.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
     excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"
     publishedDateTime: 2024-02-20T18:23:00Z

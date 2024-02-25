@@ -442,15 +442,6 @@ related:
       name: MediaNama
       domain: medianama.com
     quality: 34
-  - title: "What’s up with… Orange and MásMóvil, Microsoft, Nokia"
-    excerpt: "Orange Spain-MásMóvil merger gets EC approval Microsoft boosts AI and cloud play in Spain with a $2.1bn investment Nokia puts Orange in a deep sleep In today’s industry news roundup: Orange and MásMóvil edge closer to finalising their planned merger ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.telecomtv.com/content/access-evolution/what-s-up-with-orange-and-m-sm-vil-microsoft-nokia-49688/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 19
   - title: "NVIDIA CEO Jensen Huang unveiling new AI breakthrough at GTC 2024"
     excerpt: "For healthcare professionals, there will be valuable discussions on how AI is transforming diagnostics and patient care. The finance industry will explore how AI is being used to assess risks and detect fraud. Meanwhile, the automotive sector will present ..."
     publishedDateTime: 2024-02-22T00:00:00Z

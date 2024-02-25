@@ -37,9 +37,9 @@ related:
       domain: businessinsider.com
     quality: 45
   - title: "Exasol Unveils New Suite of AI Tools to Turbocharge Enterprise Data Analytics"
-    excerpt: "Espresso AI makes AI more affordable and accessible, enabling customers to leapfrog expensive, time-consuming experimentation and achieve immediate ROILAS"
-    publishedDateTime: 2024-02-21T10:27:00Z
-    webUrl: "https://www.01net.it/exasol-unveils-new-suite-of-ai-tools-to-turbocharge-enterprise-data-analytics-2/"
+    excerpt: "Amazon SageMaker, Azure ML, Jupyter, and more. With this new feature, data scientists can easily use Exasol for AI-related tasks such as data loading, data preparation, model training, model optimization, and model deployment. “Exasol’s new AI ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.01net.it/exasol-unveils-new-suite-of-ai-tools-to-turbocharge-enterprise-data-analytics/"
     type: article
     provider:
       name: 01Net

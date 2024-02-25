@@ -41,15 +41,6 @@ related:
         width: 1045
         height: 696
         isCached: true
-  - title: "Education, Tech Leaders Express Support for Empire AI"
-    excerpt: "\"Who better to be able to address questions of ethics, of any kind of misconduct with AI, than folks in academia, the objective researchers in that field,\" said Matos Rodríguez. \"This is an indispensable part of how we're going to have an ecosystem that ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/education-tech-leaders-express-support-for-empire-ai"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 36
 
 secured: "aiO3RBHvvgzJ+hXZ4cqIiOwtfTxM/kYNHaZSpI/bw1HRChpZsITn8PNwTGik1bt7MnmZMKTSdg2Zp2KIPOpk6q7uxLb02DZ2L7iyKM0RFBAwemUOj9KAyG3RU8Ep+fxfRxKQn+96vSYNFyMTKzer3TaP62QPF1taX4Gt2LAmllg4j7TUX/EZxU5GyiqTjznJ+qckbk8c7sx6iG1OVVg9KsjlPeinv+l566MEaFw+R/Pr+7L292DG8DGs1LL2NirRt700eJ1nZb6dzIWDhweOj1R5Wr0RZe7eIsJ4Bw4vx2XQnehmIdP7CnkXvbv/nZmHpcoquAbN9rasjTYdH8RbQptcF4OmYI/FvQbwaSp8teg=;L9uA/Gab/Owng0Kyfn9jVA=="
 ---

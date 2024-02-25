@@ -70,15 +70,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "Neuralink's First Human Patient Able to Control Computer Mouse With His Mind, Says Musk"
-    excerpt: "The study uses a robot to surgically place a brain-computer interface implant in a region of the brain that controls the intention to move, Neuralink has said, adding that the initial goal is to enable people to control a computer cursor or keyboard using ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.inc.com/reuters/neuralinks-first-human-patient-able-to-control-computer-mouse-with-his-mind-says-musk.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 0
 
 secured: "XVw2lta4wem45/iA0EBzANTaTCwDSMV9jLY0S5ClvsuAKchhrkhTlLSX3xCVQOykb+liVQOVIUjugjVn503B/8Wt9TGxFub32c9Ex3ZiJOu8LnR6Cp/ivfkS7q9lsf/tP9zx6Lws1UeASzZ73M5ZkxUyI8f2schVgAHvocAvJM1eGHXuVgK/l3o5ex/D37HwiMcqNI/krroMZq3ZYTszBbO4YB0n3LtulYTEMjn9ltGyA0650wrBdAU9pBGTJ4k8tQwkaAVE4ssdCoiUaEcQBD28LM1LfsIcAwSg1d3fJWyd1kqoMfUezyGT62t4aDrc+fj/z72iUolX98Xn12+SS1d8e2u1vlfxhlAV9BFF778SAqBjd7duw+iWIG73+cCuqqxrO99Yfw5w1Ybe6CeZtgJ0CCbdO+yf2wZg6Qe2z81C0ojzDkp07NbaNIDoKm+zqpxM8X07tiDTXO+rrX5dT3lMRIWiEtUkSmKAAz8CIrI2YWxzB5R0inU8G3xTndJu7he7yBYeJ2LwAwL84qsLbw==;+riwzpFyv40D5fBm5F7Yhw=="
 ---

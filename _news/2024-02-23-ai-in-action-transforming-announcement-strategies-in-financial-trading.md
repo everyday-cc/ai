@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "AI At Work: Bringing Outside Potential Into Radio"
-    excerpt: "The NBA has been on the leading edge with AI, partnering with Microsoft’s Azure platform to analyze social media data to create a personalized fan experience. They have also partnered with a company called Second Spectrum to use machine learning ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://radioink.com/2024/02/20/buzz-knight-ai-at-work-bringing-outside-potential-into-radio/"
-    type: article
-    provider:
-      name: Radio Ink
-      domain: radioink.com
-    quality: 19
 
 secured: "cYWOl0C3LW06fRTl2n2y/mMeEbGWjGR8B0lcVMMGMKlep04uhDuJ4ISbs3LLz0YYD9AWQWXIIh31vD4oDwyBQQGe/0Tp+FqgQNd7DKmWbMfwTbbD7oZbTxpeECIM2IqcK/GUh4MohoAMmXvi2wfusAEa1qqNPo/Ow7eO8Z3D663Pb7fBi0A8er9Adc1iKrm3GpSi/mDBxhDippBoABXf0Ob7jGh59w6VJMFzn9pVKuifH5TIGttEkeriRBtTuJ6bLVJIsZNDIXm1uLzPWjURk/hZjK3dexvHhfZQungtOKUoFw1T+g/qQaJp6d5O2Yb48TZqMbLX34kiwKCqtyxN/mJflD9tEQrLqSQIOdJj+3U=;Dms9K+M4tcoykMe5a4h1NA=="
 ---

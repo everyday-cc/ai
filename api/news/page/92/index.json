@@ -2,50 +2,6 @@
   "page": 92,
   "value": [
     {
-      "path": "_news/2023-12-05-salus-advances-web3-security-with-deep-learning-in-new-research.md",
-      "title": "Salus Advances Web3 Security with Deep Learning in New Research",
-      "excerpt": "Blockchain firm Salus has advanced its Web3 security potential after conducting deep learning research published by 'Scientific Reports'.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coinspeaker.com/salus-web3-security-deep-learning/",
-      "originalUrl": "https://www.coinspeaker.com/salus-web3-security-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/12/salus-web3-security-deep-learning.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.coinspeaker.com/salus-web3-security-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/salus-web3-security-deep-learning/amp/",
-      "publishedDateTime": "2023-12-05T11:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "coinspeaker",
-        "domain": "coinspeaker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-12-05-deep-learning-models-can-improve-low-field-mri-images-for-better-clinical-diagnoses.md",
       "title": "Deep learning models can improve low-field MRI images for better clinical diagnoses",
       "excerpt": "While low-field MRI scans have several logistical advantages, 64mT scans can also present discrepancies affecting the clinical diagnosis. For example, diagnosing certain conditions such as hydrocephalus critically depends on the precise estimation of brain morphometric measurements.",
@@ -1029,6 +985,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide.md",
+      "title": "AI Poised to Enhance Student and Faculty Experiences: Info-Tech Research Group Publishes New Industry Guide",
+      "excerpt": "The newly published resource includes use cases on the topic of AI in the classroom and covers the technology involved, the benefits to the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide-1032872109",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide-1032872109",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2292604/Info_Tech_Research_Group_AI_Poised_to_Enhance_Student_and_Facult.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T23:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
         "AI"
       ]
     }

@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/14/c6e557b5-25b8-4f3c-a481-5ca0aa402adb/thumbnail/1200x630/67e6c2c7e150e5208b95f490e6930778/gettyimages-851054066.jpg?v=99cbd804c3e0f1c84ac31cc518eb26be"

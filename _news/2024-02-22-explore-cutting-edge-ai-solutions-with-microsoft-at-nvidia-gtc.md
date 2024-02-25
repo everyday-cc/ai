@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-sol
 webUrl: "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/"
 type: article
 quality: 104
-heat: 444
+heat: 434
 published: true
 
 provider:
@@ -438,15 +438,6 @@ related:
       name: MediaNama
       domain: medianama.com
     quality: 34
-  - title: "What’s up with… Orange and MásMóvil, Microsoft, Nokia"
-    excerpt: "Orange Spain-MásMóvil merger gets EC approval Microsoft boosts AI and cloud play in Spain with a $2.1bn investment Nokia puts Orange in a deep sleep In today’s industry news roundup: Orange and MásMóvil edge closer to finalising their planned merger ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.telecomtv.com/content/access-evolution/what-s-up-with-orange-and-m-sm-vil-microsoft-nokia-49688/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 19
   - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
     excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."
     publishedDateTime: 2024-02-21T15:23:00Z

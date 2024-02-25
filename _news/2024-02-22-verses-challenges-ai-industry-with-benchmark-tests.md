@@ -22,22 +22,6 @@ topics:
   - Meta AI
   - AI
 
-related:
-  - title: "Aiming AI at society’s toughest challenges"
-    excerpt: "It has birthed trailblazing Alphabet subsidiaries such as Waymo, the self-driving vehicle rideshare ... s happening in this movement—it’s democratizing access to artificial intelligence so everyone can get involved. How can companies unlock the value ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.strategy-business.com/article/Aiming-AI-at-societys-toughest-challenges"
-    type: article
-    provider:
-      name: Strategy+Business
-      domain: strategy-business.com
-    quality: 39
-    images:
-      - url: "https://www.strategy-business.com/media/image/44856520_thumb5_690x4002.jpg"
-        width: 690
-        height: 400
-        isCached: true
-
 secured: "O2AjErKgFOHchvQ/a/qrkmxRy6B7NP+uI5j1sYkr+C3U7u/+62zDD8xoKVUayrLY5XVCNPlrkGtu3UI/UvFN4aPMbBC3oqtqj7NNSz8OC6+Yz4PT7nCp5+oPfsDC+avynHpQ33SvARl03iS1ZZRdKhVf3vTu3D1Ilp/VI9HI5np992YBGMjujXaie2DSpYDLNF8sF88ywfinKlAT5DZzoxxBmXNIQ0E/3iT3JMkOiPRufVr2mZTpBSZXVdIVGK4rCj3JbHQQQ0RxmZ4D50iZW+Q2A8q6nryQKevweKliUTcQeMD4WjH2P2hfT0f0WPkKysAPQoemQ8COUHoc24Enk1dj2YrwbxV0I7d777JSnC0=;8XUk6ZIYNEumC3LANRQRDA=="
 ---
 

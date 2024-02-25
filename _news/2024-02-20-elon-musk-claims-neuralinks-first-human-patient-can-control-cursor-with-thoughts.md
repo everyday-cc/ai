@@ -7,7 +7,7 @@ originalUrl: "https://au.pcmag.com/health-fitness/103920/elon-musk-claims-neural
 webUrl: "https://au.pcmag.com/health-fitness/103920/elon-musk-claims-neuralinks-first-human-patient-can-control-cursor-with-thoughts"
 type: article
 quality: 64
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
     provider:
       name: Irish Sun
       domain: thesun.ie
-    quality: 0
-  - title: "Neuralink's First Human Patient Able to Control Computer Mouse With His Mind, Says Musk"
-    excerpt: "The study uses a robot to surgically place a brain-computer interface implant in a region of the brain that controls the intention to move, Neuralink has said, adding that the initial goal is to enable people to control a computer cursor or keyboard using ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.inc.com/reuters/neuralinks-first-human-patient-able-to-control-computer-mouse-with-his-mind-says-musk.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
     quality: 0
 
 secured: "AciLR80YbEEIuY1pnrbWcDZxoE5fE/0kAaV3TxaOe45GtNzxSGFFaVgj4hPFQ6KLyWND4XIhyEIHhRfBtnaMVfaXuH03ZXzIbug/Z7e/iARfpFZu4EzO6YPa6ewEtNQcF/PIuNBU0VpJqKrrTIzH1cjrX9X7BJBJRQaYIes+I9NB5ZD4mo6HQDF2/6Wslpd87SjNXYu8jbjz4mIIX6GFI1nCw3/sPw9F6C4wDja/2mvQO1iF/iUQuhOURKZUnXq2JjFUpd/hhFB8nLsHtPAS6+J5/NhCp0CUAFCnKvwdI0zGQJXoRgvpS5TTsQuyhcVGWy0d3tjV2aDoyaTvoNnSzpFmP9MwrFk0YklxwC2lEJs=;WFCytcS5teLP1iVzzZQ+GQ=="

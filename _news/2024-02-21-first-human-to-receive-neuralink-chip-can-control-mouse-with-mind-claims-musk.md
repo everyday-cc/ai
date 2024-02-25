@@ -72,15 +72,6 @@ related:
       name: Irish Sun
       domain: thesun.ie
     quality: 0
-  - title: "Neuralink's First Human Patient Able to Control Computer Mouse With His Mind, Says Musk"
-    excerpt: "The study uses a robot to surgically place a brain-computer interface implant in a region of the brain that controls the intention to move, Neuralink has said, adding that the initial goal is to enable people to control a computer cursor or keyboard using ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://www.inc.com/reuters/neuralinks-first-human-patient-able-to-control-computer-mouse-with-his-mind-says-musk.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 0
 
 secured: "F2qviSuuQtSXtuoWvkRefG6brxD2ss5+AiQb6eiXI0PhmsQmhhrYmIBYWe/XTH7MJz9y5CROmHuWeUCGe5de1T1+oTu5V5Eli5X9KEiXlCIoOQ1Tfj/vg9wUe/iiBRdetBw+sw0jQ1qcxtYLEwctz8qKpq1I4AhFZt7RrnVGAkg0eRKJHHC1w2OhF9HJyYokuSpf4fFe18ZdJ6z2LIqz6jjuu3hDyQNBlS8w0qkM1lGVs2GNcb5FeN9LFiCBGLoxf3IJ596u8zYBIGLPJAVVGIEjZLj8YlyCyoJyvJYhpSO3wvQorI4mEdIYEOfz+lhv/9dwpF9nRr9qw927JiQpRk+2aXIqtu1lKJPVaDQqx8o=;sXIQBEP5gHoRkO2rJwtqVg=="
 ---
