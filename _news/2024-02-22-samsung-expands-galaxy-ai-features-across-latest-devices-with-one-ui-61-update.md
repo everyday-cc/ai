@@ -57,22 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How Samsung S24 Ultra's intelligent Galaxy AI features are redefining the future of productivity"
-    excerpt: "The Samsung Galaxy S24 Ultra is a game-changer for professionals, offering innovative features and cutting-edge technology. From Circle to Search to the S Pen, this smartphone enhances productivity, communication,"
-    publishedDateTime: 2024-02-20T12:01:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/cons-products/electronics/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity/articleshow/107854885.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/cons-products/electronics/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity/amp_articleshow/107854885.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/cons-products/electronics/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity/amp_articleshow/107854885.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 46
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-32116,msid-107855087/how-samsung-s24-ultras-intelligent-galaxy-ai-features-are-redefining-the-future-of-productivity.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "uaaCStd5i6jId8SVKdtxB+mLos1ZWmiMf6Wo8wEkzrHAOGG93pR1eX9OuJVZWyhcVMVArmSLpRGBhzfCMaj/aTmlDQLCwOmNddpH0aSRREILz4E5oUQz+J9hdfxKPRahYa1orFlb/nqV81cAW/TA4YZYtfyU3A69a55wL6/FdARbPwuDTfQyotJy6eeK0ywMWc6al0Pb/eBVs9wk1uaLgmNiJbJVae/0rbTcBCubsdQKOQxgG+gsM8AebcPh8wUtFHeChLimHKoqHex3KlL9q8YREAPGeFCTSjP3Ejs3BJ5X+2LbpLyFtAEk+fP3IgjdfnIvuhGmpnaMWHN5A0HGeye2V6XnN5OcKohLKbjgy1Q=;9LWqydOnRe0FGW78y2zcuQ=="
 ---

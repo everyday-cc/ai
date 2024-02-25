@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
+    excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"
+    publishedDateTime: 2024-02-20T18:23:00Z
+    webUrl: "https://menafn.com/1107875740/FinAI-Conference-Announces-A-Groundbreaking-Event-Focused-On-The-Convergence-Of-Fintech-And-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145749"
+        width: 416
+        height: 250
+        isCached: true
   - title: "Bud Financial partners with Fintech Galaxy to take financial services personalization to new heights as the MENA region embraces Open Banking"
     excerpt: "Data intelligence platform Bud Financial (Bud) is joining forces with Fintech Galaxy, a leader in Open Banking and financial innovation,"
     publishedDateTime: 2024-02-22T14:22:00Z

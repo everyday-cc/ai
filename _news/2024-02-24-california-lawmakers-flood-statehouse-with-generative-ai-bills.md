@@ -24,22 +24,6 @@ images:
     height: 633
     isCached: true
 
-related:
-  - title: "Princess Victoria and Prince Daniel Visit California"
-    excerpt: "Per Swedish royal family, \"The trip is made at the request of the government and the purpose is to broaden and develop relations with California in innovation, green transition and emerging technologies with a focus on artificial intelligence (AI)."
-    publishedDateTime: 2024-02-20T11:22:00Z
-    webUrl: "https://www.aol.com/princess-victoria-prince-daniel-visit-162200697.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_towncountry_108/33cdbeb39cc82efbcddf06e308907311"
-        width: 683
-        height: 384
-        isCached: true
-
 secured: "SUfLnY0G04lIJcugvNCO2kIHXuw8FxR83jMJ+bIxZiGwn05Ru7lm8LSU3vwJrVC7OJJvadjS+fpB5pRtg57DT/AV9mrmqU4rh+A3owkkmNCf6GZBfbdtKgizlB7IcAolDyMjteMGI08c7keHSCT13nicSy0H1GRnm2XAde4jVd2fIdJ1fp9eXe88qyCeIrs4gc2+9xLyTJyJySMDjHkWGTSsZf0bVJwrZvVuussbT4xucIWkIbbshbsT2347Dv6mnsg87sza974F/fypPbecbx4Lk/bW5skISeH+D8yZWzsPCJvgsZudjcSCnW8vBSKQRC8xs2lCfdsPGczVng3T/vz+QW6uiETVtgZTW4hBHhY=;C0oIH3RLzKkKmiqDARJUSQ=="
 ---
 

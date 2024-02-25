@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chie
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/00gGCdUOwn2gbxeJgLZKAYU-1.fit_lim.size_1200x630.v1708557191.jpg"
         width: 1119
         height: 630
+        isCached: true
+  - title: "Samsung Galaxy S23 WILL Get Galaxy AI Next Month"
+    excerpt: "Here’s a quick rundown of what you’ll be able to do with Samsung’s Galaxy AI ... Real-time Call Translation: The update will enable real-time translation during calls, allowing users to understand conversations in foreign languages without language ..."
+    publishedDateTime: 2024-02-25T00:00:00Z
+    webUrl: "https://www.knowyourmobile.com/news/samsung-galaxy-s23-will-get-galaxy-ai-next-month/"
+    type: article
+    provider:
+      name: Know Your Mobile
+      domain: knowyourmobile.com
+    quality: 39
+    images:
+      - url: "https://www.knowyourmobile.com/wp-content/uploads/2024/01/Samsung-Galaxy-AI.png"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Samsung One UI 6.1 update brings AI to more Galaxy smartphones"
     excerpt: "Samsung has announced that it is bringing its AI tools to more Samsung Galaxy devices with the release of the new Samsung One UI 6.1 software update. This"

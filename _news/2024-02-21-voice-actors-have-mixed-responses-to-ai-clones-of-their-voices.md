@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
+    excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds. Some are also starting to use artificial intelligence to generate synthetic voice clones."
+    publishedDateTime: 2024-02-24T17:45:00Z
+    webUrl: "https://www.stltoday.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_13091813-b921-5086-a4e3-ae9c0b06a3c3.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 26
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/30/13091813-b921-5086-a4e3-ae9c0b06a3c3/65d8c7ef619be.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why some video game voice actors are letting AI clone their voices"
     excerpt: "Although AI's reputation among artists isn't strong, video game voice actors are finding ways to combine ethical practices with their artistry."
     publishedDateTime: 2024-02-21T03:22:00Z

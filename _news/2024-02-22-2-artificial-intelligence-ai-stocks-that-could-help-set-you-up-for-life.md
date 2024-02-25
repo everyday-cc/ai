@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Investing in Artificial Intelligence (AI) Stocks Can Be Risky; Here's a Terrific Way to Do It"
+    excerpt: "Should you invest $1,000 in iShares Robotics and Artificial Intelligence Multisector ETF right now? Before you buy stock in iShares Robotics and Artificial Intelligence Multisector ETF , consider ..."
+    publishedDateTime: 2024-02-21T11:09:00Z
+    webUrl: "https://www.nasdaq.com/articles/investing-in-artificial-intelligence-ai-stocks-can-be-risky-heres-a-terrific-way-to-do-it"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 53
   - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
     excerpt: "So, here are two AI stocks that could set you up for life. Nvidia has become a Wall Street darling since the start of last year after snapping up an estimated 80% to 95% market share in AI graphics processing units (GPUs), the chips necessary for training and running AI models."
     publishedDateTime: 2024-02-21T14:20:00Z

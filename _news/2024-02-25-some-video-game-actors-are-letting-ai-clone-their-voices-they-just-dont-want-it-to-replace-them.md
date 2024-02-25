@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI Biased - Does It Help Or Hinder Women As They Rise To The Top?"
-    excerpt: "Simply put, women must overcome many biases in a world often tilted against them to reach the C-Suite. Will AI help on hinder this rise?"
-    publishedDateTime: 2024-02-20T13:01:00Z
-    webUrl: "https://www.forbes.com/sites/barbarakurshan/2024/02/20/is-ai-biaseddoes-it-help-or-hinder-women-as-they-rise-to-the-top/"
+  - title: "Voice actors have mixed responses to AI clones of their voices"
+    excerpt: "As video game worlds get larger, some game studios are experimenting with AI tools to give voice to a potentially unlimited number of characters and conversations."
+    publishedDateTime: 2024-02-20T17:44:00Z
+    webUrl: "https://www.ktvb.com/article/news/nation-world/voice-actors-video-games-ai/507-34a4d807-4e65-4562-bd03-8e8c93a37a4d"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: KTVB
+      domain: ktvb.com
+    quality: 39
+    images:
+      - url: "https://media.ktvb.com/assets/CCT/images/da2901ff-b962-493f-bfd7-29302950fc2e/da2901ff-b962-493f-bfd7-29302950fc2e_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Why some video game voice actors are letting AI clone their voices"
+    excerpt: "Although AI's reputation among artists isn't strong, video game voice actors are finding ways to combine ethical practices with their artistry."
+    publishedDateTime: 2024-02-21T03:22:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/some-video-game-actors-are-letting-ai-clone-their-voices-they-just-dont-want-it-to-replace-them/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "K5JPBdJkPlNkmOepmrtkQ6nVYuItIUOp16+SdZNVE2a6Zz9oYygBdTYz2plJ2l2Q24/1BDEirTLK6+RgTbn3BGvaWLlQoZzEwZIWd3mB1wpmhmM+j20aVYd80CIVpNwBCewjByJeSkVtU5xMj4PYMiz5r3w5CFyvReJGiI/7ivGz26QlWcWg2FmBXQQPbVXcst6pOJ8NAqLD/DlRarwC4tDbp/Eqq9TIPymvXNz4/i1B3p0z4ZPHZ7WX22BIFdT4pBZNcW6NQAYWAGMHlwHE9At4SmDOBfeME+PvusEyFsDRtNFFJPHS2CPOXQumNx0/LSRzze9x9cdrQwprS28IVNCm3Ww0b6zQhJ29rrxOFo/G2UvKCWpFkx0fX4X6pRRQUqxIEyOqHClX3fspLZYezYKdvTA4Rtk0SR9s+YH9s+L7kQbSP3udkQDW84TrAfr5koaTPb7jslj397TfWD8FhZ45zW4F5LSNxi5m9oJg4BJrenaxNRZR+93Wj20xD5bYb3sX9AzOw/xYp+6d9NHu1Q==;XM22QAKSJoFuREVMHD0aZg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-
 webUrl: "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Bixby Integrated with Galaxy AI features"
-    excerpt: "Samsung has announced that its Bixby voice-activated assistant now works with a range of Galaxy AI features, These features were launched recently with"
-    publishedDateTime: 2024-02-20T12:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/samsung-bixby-integrated-with-galaxy-ai-features-20-02-2024/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Samsung-Bixby.jpg"
-        width: 1000
-        height: 720
-        isCached: true
   - title: "Samsung is bringing these Galaxy AI features to older devices"
     excerpt: "At its core, the tool essentially adds a translation tool to any phone call powered by AI. When speaking to someone who understands a different language, Live Translate will translate and regenerate your voice into that language. When the other party ..."
     publishedDateTime: 2024-02-22T18:13:00Z

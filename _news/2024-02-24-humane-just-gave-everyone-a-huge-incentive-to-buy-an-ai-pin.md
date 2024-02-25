@@ -7,7 +7,7 @@ originalUrl: "https://www.inverse.com/tech/humane-ai-pin-subscription-three-mont
 webUrl: "https://www.inverse.com/tech/humane-ai-pin-subscription-three-months-free"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,59 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How to stand out from the crowd when everyone uses generative AI"
+    excerpt: "The way to do this is by transforming your proprietary data — structured and unstructured — into vector embeddings, which capture the semantic meaning and contextual information of data, making them suitable for various tasks like text classification, machine translation, sentiment analysis, and more."
+    publishedDateTime: 2024-02-20T16:48:00Z
+    webUrl: "https://www.infoworld.com/article/3713060/how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 69
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/02/istock-1886529055-100961409-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Retrieval augmented generation (RAG): The open-book test for generative AI"
+    excerpt: "The release of ChatGPT in November 2022 marked a groundbreaking moment for AI, introducing the world to an entirely new realm of possibilities created by the fusion of generative AI (genAI) and machine learning foundation models, or large language models (LLMs)."
+    publishedDateTime: 2024-02-20T16:37:00Z
+    webUrl: "https://www.infoworld.com/article/3713062/retrieval-augmented-generation-rag-the-open-book-test-for-generative-ai.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 67
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/02/istock-1398462038-100961413-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Sound Group Embraces Generative AI to Unveil New AI-Powered Applications"
+    excerpt: "The Company expects to further develop and enrich its suite of AI products by actively integrating AIGC technologies. Constantly engaged in in-depth research and exploration of cutting-edge technologies such as AIGC, Sound Group leverages its strengths and ..."
+    publishedDateTime: 2024-02-21T06:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sound-group-embraces-generative-ai-to-unveil-new-ai-powered-applications-1033087122"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+  - title: "Creating Guidelines for the Use of Gen AI Across Campus"
+    excerpt: "Conatser: One of the first conversations that we had as the ADVANCE team, and one that we have on a regular basis, is that these guidelines are specifically addressing generative AI. Whenever we start sliding into other language like AI and machine ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://campustechnology.com/articles/2024/02/21/creating-guidelines-for-the-use-of-gen-ai-across-campus.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 37
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2024/02/20240220ai.jpg"
+        width: 644
+        height: 300
+        isCached: true
 
 secured: "0fR2D5/j5R2zhUV5GIPW/TkxAThL61ACISfQOU9F9p77moheDq8PfhdVnfWUQR/RXvSn8gRoaE4Kq3vAn9916HSTnPUXSUdtoBSEFyi8EXFFRTs+QkAlESwaKiZtBU2FK8bZe81AhfnbzsBgzdPrI95Slsn3hVT4VdH2yHPG8IKMxErz5E9CjL0StJhaVvGTg6GTMDvxkQvgF7DOmkqsJmqyfwjBm//fUYedzBbOXxHsydvwgM/fjJaKeU5hyV47nL5YPpZ5dzRqGEN5MT0iM2rA4tPecXcqLim5QcjvI+W621f5h3cOe2ob3Fx5FnGF6BNiAxo15ur5XfnCqquMMzADBcdcHcVoAaeoQCv2ZNk=;Uk+QWyldh8xR3WEvSomSIA=="
 ---

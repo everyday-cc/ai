@@ -20,52 +20,140 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Gab’s Racist AI Chatbots Have Been Instructed to Deny the Holocaust"
-    excerpt: "In recent years it has thrived as a haven for people who have been kicked off mainstream platforms like Twitter, Instagram, and Facebook. As generative AI chatbots such as OpenAI’s ChatGPT have become popular, the right has increasingly claimed that the ..."
-    publishedDateTime: 2024-02-21T11:31:00Z
-    webUrl: "https://www.wired.com/story/gab-ai-chatbot-racist-holocaust/"
+  - title: "Exposing The Brittleness Of Generative AI As Exemplified By The Recent Gibberish Meltdown Of ChatGPT"
+    excerpt: "Generative AI is brittle, though most people don't realize this crucial revelation. An example can be seen in the recent incident of a gibberish meltdown of ChatGPT."
+    publishedDateTime: 2024-02-25T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://media.wired.com/photos/65d512ac5503edf560835d2c/191:100/w_1280,c_limit/politics_gab_chatbot_extreme_racist.jpg"
-        width: 1280
-        height: 670
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657c05994692840d3efcf0b9/0x0.jpg?format=jpg&crop=3259,2445,x276,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Google Is Giving Away Some of the A.I. That Powers Chatbots"
-    excerpt: "Those are resources that most organizations — let alone individuals — do not have. Cade Metz writes about artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas of technology. More about Cade Metz Nico Grant is a ..."
-    publishedDateTime: 2024-02-21T13:00:00Z
-    webUrl: "https://www.nytimes.com/2024/02/21/technology/google-open-source-ai.html"
+  - title: "How Generative AI Will Enhance The Supply Chain"
+    excerpt: "AI, in general, has been making waves in supply chain functions for a while now – particularly when it comes to demand planning and optimizing delivery."
+    publishedDateTime: 2024-02-23T05:07:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/23/how-generative-ai-will-enhance-the-supply-chain/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/23/how-generative-ai-will-enhance-the-supply-chain/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/23/how-generative-ai-will-enhance-the-supply-chain/amp/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 34
-  - title: "First there were AI chatbots. Now AI assistants can order Ubers and book vacations"
-    excerpt: "A new batch of AI-powered devices known as AI agents are all the rage in Silicon Valley. They're devices with a voice assistant that can complete real-world tasks for you."
-    publishedDateTime: 2024-02-21T10:25:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1232561606"
-    type: article
-    provider:
-      name: Capital Public Radio
-      domain: capradio.org
-    quality: 31
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media.npr.org/assets/img/2024/02/20/stellakalinina_rabbitr1_30_3981-7ce1580c8a503e314ae6d3f6207c96de5052868a.jpg?s=6"
-        width: 948
-        height: 710
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d835e4285f2d23c7fd9d0b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "How AI health care chatbots learn from the questions of an Indian women's organization"
-    excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.wral.com/story/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/21295384/"
+  - title: "Meet Groq, a Lightning Fast AI Accelerator that Beats ChatGPT and Gemini"
+    excerpt: "Groq has released an LPU which is taking the AI industry by storm. It generates output at lightning speed, beating both ChatGPT and Gemini."
+    publishedDateTime: 2024-02-22T00:10:00Z
+    webUrl: "https://beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/"
+    ampWebUrl: "https://beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/amp/"
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
-    quality: 11
+      name: Beebom
+      domain: beebom.com
+    quality: 75
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2024/02/groq-logo.jpg"
+        width: 1250
+        height: 750
+        isCached: true
+  - title: "Generative AI Finally Making More Sense By Interlacing Conversations As Showcased Via The Newly Announced Memory-Controls For ChatGPT"
+    excerpt: "Each time that you log-in to a generative AI app, you either start a new conversation or can continue a previously saved conversation. While using the generative AI app, you can also opt to begin a new conversation and thus momentarily switch away from a ..."
+    publishedDateTime: 2024-02-22T10:57:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d6e5fd83c3617da31ba59a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
+  - title: "ChatGPT in medical education: Generative AI and the future of artificial intelligence in health care"
+    excerpt: "The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about the future of AI in medicine and medical education."
+    publishedDateTime: 2024-02-23T14:00:00Z
+    webUrl: "https://www.ama-assn.org/practice-management/digital/chatgpt-medical-education-generative-ai-and-future-artificial"
+    type: article
+    provider:
+      name: Ama-assn.org
+      domain: ama-assn.org
+    quality: 73
+    images:
+      - url: "https://www.ama-assn.org/sites/ama-assn.org/files/2024-02/au-social-022324.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Apple Introduces ChatGPT Like Tool – Ask AI; Here’s What It Can Do"
+    excerpt: "After a long-time secrecy on Artificial Intelligence, Apple's new 'Ask AI', which resembles OpenAI's ChatGPT. Here are all its features."
+    publishedDateTime: 2024-02-25T09:30:00Z
+    webUrl: "https://www.india.com/technology/apple-introduces-chatgpt-like-tool-ask-ai-heres-what-it-can-do-6747265/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 56
+    images:
+      - url: "https://static.india.com/wp-content/uploads/2024/02/IDC-Story-30-1.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The 7 Best Free AI Logo Generators That Aren’t ChatGPT"
+    excerpt: "Some AI logo generators will automate the entire process from start to finish based on a single prompt, while others will ask you a few supplementary questions to ensure you’re on the same page. There are also some logo generators we’ve tried that ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://tech.co/news/best-free-ai-logo-generators"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 54
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2024/02/20074049/AdobeStock_583862221-1.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "Forget ChatGPT — Groq is the new AI model to beat with blistering computation speed"
+    excerpt: "Groq (not to be confused with Elon Musk’s Grok chatbot — and no they aren’t too happy with the similar names) specializes in developing high-performance processors and software solutions for AI, machine learning (ML), and high-performance computing applications."
+    publishedDateTime: 2024-02-20T15:54:00Z
+    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-groq-is-the-new-ai-model-to-beat-with-blistering-computation-speed"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 50
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xXxEjXREsFJxKk7bjXZPfn-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
+    excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"
+    publishedDateTime: 2024-02-21T17:56:00Z
+    webUrl: "https://www.inc.com/kit-eaton/recuriters-missingsigns-that-tech-job-applicants-are-using-chatgpt-to-cheat.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 36
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1817371209_537674_a49pzl.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "OQqGYvkuPPqEgMrD3aeITEkKsGmzw9GgVpXHyhE+BGOsDNxNM8S+uWkxcgZTL6bdNPU7CTXnhjiP4HTiTY1kk9tcrx85zvhNAFkLLSOOv/SbfdkHLzlBUL01vHFw9bbhM42r1O9F6x7r2hLwOjaug7DdFJCyruRwm3pLXUD/UfcR3pTnTodD95G6bnbXY8VmjOCEYCJp9rfHmvBqq2Am5iK/PtZYouYj+sZDaJWCajecu/ku+IFALG2sZ5ZHmOM0oD4/cEkUei6S6G51Whng3ySRz+jAVUwHP3sP+D/bG2mLfoZccG003PizadwMWizS39Rqtpx+6yYn+7Pgmi2w6aPrMchSrEdkIoiqZDzuM7+VKgVT72+lUPa6lDf9JBzdnjowhRkMysA34/2rKikqe+BhVm2CxfUXRres9P3A0vN35IPjj12YcU5xtTLeyeBeDCUG/pwNxGU1ufe5cs1gfErfe06TBJFyr4tDJKFtOiLkGs0K3Xbr8qpL/uJa5khvVvKrFbWuHM38R95tciHANA==;gYJLg9LycYJSxfkNWMLe5Q=="
 ---

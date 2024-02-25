@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hammerspace Hyperscale NAS Targets Fast File Services For AI On GPU Servers"
+    excerpt: "“It is the best architecture for general AI training, GPU computing, and other forms of unstructured data process.” There is a broad-based adoption of different forms of GPU processing going ..."
+    publishedDateTime: 2024-02-23T21:00:00Z
+    webUrl: "https://www.crn.com/news/storage/2024/hammerspace-hyperscale-nas-targets-fast-file-services-for-ai-on-gpu-servers"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 32
   - title: "Hammerspace Unveils New Hyperscale NAS Architecture for Training Enterprise AI Models at Scale"
     excerpt: "Hammerspace today unveiled the high-performance NAS architecture needed to address the requirements of broad-based"
     publishedDateTime: 2024-02-22T17:51:00Z

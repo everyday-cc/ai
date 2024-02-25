@@ -26,21 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT is losing its mind and no one seems to know why"
-    excerpt: "Users of ChatGPT have shared screenshots of their interactions with the chatbot on social media after it started responding with nonsense."
-    publishedDateTime: 2024-02-21T15:12:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp"
+  - title: "Exposing The Brittleness Of Generative AI As Exemplified By The Recent Gibberish Meltdown Of ChatGPT"
+    excerpt: "Generative AI is brittle, though most people don't realize this crucial revelation. An example can be seen in the recent incident of a gibberish meltdown of ChatGPT."
+    publishedDateTime: 2024-02-25T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://i.insider.com/65d62092a3bd891424f8e2e6?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657c05994692840d3efcf0b9/0x0.jpg?format=jpg&crop=3259,2445,x276,y0,safe&height=900&width=1600&fit=bounds"
         width: 1200
-        height: 600
+        height: 900
+        isCached: true
+  - title: "How Generative AI Will Enhance The Supply Chain"
+    excerpt: "AI, in general, has been making waves in supply chain functions for a while now – particularly when it comes to demand planning and optimizing delivery."
+    publishedDateTime: 2024-02-23T05:07:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/23/how-generative-ai-will-enhance-the-supply-chain/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/23/how-generative-ai-will-enhance-the-supply-chain/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/23/how-generative-ai-will-enhance-the-supply-chain/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d835e4285f2d23c7fd9d0b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Meet Groq, a Lightning Fast AI Accelerator that Beats ChatGPT and Gemini"
     excerpt: "Groq has released an LPU which is taking the AI industry by storm. It generates output at lightning speed, beating both ChatGPT and Gemini."
@@ -58,6 +74,50 @@ related:
         width: 1250
         height: 750
         isCached: true
+  - title: "Generative AI Finally Making More Sense By Interlacing Conversations As Showcased Via The Newly Announced Memory-Controls For ChatGPT"
+    excerpt: "Each time that you log-in to a generative AI app, you either start a new conversation or can continue a previously saved conversation. While using the generative AI app, you can also opt to begin a new conversation and thus momentarily switch away from a ..."
+    publishedDateTime: 2024-02-22T10:57:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d6e5fd83c3617da31ba59a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
+  - title: "ChatGPT in medical education: Generative AI and the future of artificial intelligence in health care"
+    excerpt: "The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about the future of AI in medicine and medical education."
+    publishedDateTime: 2024-02-23T14:00:00Z
+    webUrl: "https://www.ama-assn.org/practice-management/digital/chatgpt-medical-education-generative-ai-and-future-artificial"
+    type: article
+    provider:
+      name: Ama-assn.org
+      domain: ama-assn.org
+    quality: 73
+    images:
+      - url: "https://www.ama-assn.org/sites/ama-assn.org/files/2024-02/au-social-022324.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Apple Introduces ChatGPT Like Tool – Ask AI; Here’s What It Can Do"
+    excerpt: "After a long-time secrecy on Artificial Intelligence, Apple's new 'Ask AI', which resembles OpenAI's ChatGPT. Here are all its features."
+    publishedDateTime: 2024-02-25T09:30:00Z
+    webUrl: "https://www.india.com/technology/apple-introduces-chatgpt-like-tool-ask-ai-heres-what-it-can-do-6747265/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 56
+    images:
+      - url: "https://static.india.com/wp-content/uploads/2024/02/IDC-Story-30-1.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The 7 Best Free AI Logo Generators That Aren’t ChatGPT"
     excerpt: "Some AI logo generators will automate the entire process from start to finish based on a single prompt, while others will ask you a few supplementary questions to ensure you’re on the same page. There are also some logo generators we’ve tried that ..."
     publishedDateTime: 2024-02-21T00:00:00Z
@@ -72,33 +132,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "Hackers Could Use ChatGPT to Target 2024 Elections"
-    excerpt: "T he rise of generative AI tools like ChatGPT has increased the potential for a wide range of attackers to target elections around the world in 2024, according to a new report by cybersecurity giant Crowdstrike."
-    publishedDateTime: 2024-02-21T19:35:00Z
-    webUrl: "https://time.com/6717129/hackers-ai-2024-elections/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 49
-  - title: "N.Y. judge criticizes law firm for citing ChatGPT in attorney fee bid"
-    excerpt: "A federal judge in Manhattan on Thursday chided a law firm for citing results generated by an artificial intelligence program to help justify its bid for attorney fees in a case against New York City's Department of Education."
-    publishedDateTime: 2024-02-22T22:47:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/ny-judge-criticizes-law-firm-citing-chatgpt-attorney-fee-bid-2024-02-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-  - title: "Learn all about ChatGPT with this $20 course"
-    excerpt: "Don't miss your chance to grab this Introduction to ChatGPT e-course, which is on sale for just $20 (reg. $80)."
-    publishedDateTime: 2024-02-23T20:03:00Z
-    webUrl: "https://www.zdnet.com/article/learn-all-about-chatgpt-with-this-20-course/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
   - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
     excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"
     publishedDateTime: 2024-02-21T17:56:00Z
@@ -113,24 +146,15 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "ChatGPT has been generating bizarre nonsense (more than usual)"
-    excerpt: "Users shared ChatGPT’s strange , and at times esoteric-sounding responses through screenshots which show the model unexpectedly weaving between multiple languages, generating random words, and repeating phrases over and over again. Emojis, sometimes with no clear relation to users prompt questions, also frequently appeared."
-    publishedDateTime: 2024-02-21T20:00:00Z
-    webUrl: "https://www.popsci.com/technology/chatgpt-bizarre-nonsense/"
+  - title: "Inference.ai’s new generative AI chatbot takes the guesswork out of GPU sourcing"
+    excerpt: "Inference.ai offers an extensive selection of GPUs, with a fleet of 18 different processors from Nvidia Corp., including its most advanced H100 model. It also offers four models from Nvidia’s rival Advanced Micro Devices Inc., including the all-new MI300X that was specifically designed to handle generative AI workloads."
+    publishedDateTime: 2024-02-21T14:12:00Z
+    webUrl: "https://siliconangle.com/2024/02/21/inference-ais-new-generative-ai-chatbot-takes-guesswork-gpu-sourcing/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 19
-  - title: "Why Was ChatGPT Suddenly Speaking Spanglish?"
-    excerpt: "OpenAI's text-generation tool experienced a mysterious glitch on Tuesday. The results were sometimes funny, but show the dangers of relying too much on new technologies that can go awry in unexpected ways."
-    publishedDateTime: 2024-02-21T19:38:00Z
-    webUrl: "https://www.inc.com/jennifer-conrad/why-was-chatgpt-suddenly-speaking-spanglish.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 19
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
 
 secured: "4zTfJe6UVxH+4fwWTWcBqBkRy0rTncVb6cHe9pdt1+31YpUfTsiCKnZK3oM6TSOkR7sw7ITIU3TO7Rv+39sv2zyTWkzhV6v7Pvn68xW5kOipJwZO8DPEtmzTQ2SkQuRrLqW50f9wjUOUqNlye7u7K7L6fZq19FzkZfa7u0DV6LAUfISYRokOoHWq/bX5h8nXQAnzDqMJdm5q152lMqPm4/IA5sJJeorW1RolKRoFT1Q5qyEBk4TgVjfY5fyJYH5BId3NlJl7G/tF9zarXs8TndrwuS/9iGWmPXxF/COcLLvOMOz0S5Nw3gytKqtLx2dkFGiNsHMB9S/p9cN1FFiz4k8xLEWQqe3OyHEexogcOmw=;sOtI6vWTSVg/pFSesihHWw=="
 ---

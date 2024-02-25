@@ -110,6 +110,20 @@ related:
         width: 1694
         height: 1058
         isCached: true
+  - title: "Jeff Bezos, Nvidia Back $2 Billion Humanoid Robot Venture with OpenAI, Microsoft: Report"
+    excerpt: "Jeff Bezos, Nvidia Corp., and other major technology companies are investing in a company that develops humanoid robots as part of a scramble to discover new applications for artificial intelligence,"
+    publishedDateTime: 2024-02-25T12:19:00Z
+    webUrl: "https://www.econotimes.com/Jeff-Bezos-Nvidia-Back-2-Billion-Humanoid-Robot-Venture-with-OpenAI-Microsoft-Report-1672214"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 62
+    images:
+      - url: "https://f1.econotimes.com/2024/02/eiaw9t4hrx_th_1024x0.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Jeff Bezos, Nvidia Join Forces in $675M Investment for Humanoid Robots"
     excerpt: "The AI robotics industry is witnessing significant activity ... as previously reported by TechTimes. Utilizing artificial intelligence and advanced technologies akin to \"Google Maps\" for Earth's crust, KoBold aims to enhance copper and cobalt exploration."
     publishedDateTime: 2024-02-23T19:02:00Z

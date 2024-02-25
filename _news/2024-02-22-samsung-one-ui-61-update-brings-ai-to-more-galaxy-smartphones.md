@@ -65,6 +65,20 @@ related:
         width: 1119
         height: 630
         isCached: true
+  - title: "Samsung Galaxy S23 WILL Get Galaxy AI Next Month"
+    excerpt: "Here’s a quick rundown of what you’ll be able to do with Samsung’s Galaxy AI ... Real-time Call Translation: The update will enable real-time translation during calls, allowing users to understand conversations in foreign languages without language ..."
+    publishedDateTime: 2024-02-25T00:00:00Z
+    webUrl: "https://www.knowyourmobile.com/news/samsung-galaxy-s23-will-get-galaxy-ai-next-month/"
+    type: article
+    provider:
+      name: Know Your Mobile
+      domain: knowyourmobile.com
+    quality: 39
+    images:
+      - url: "https://www.knowyourmobile.com/wp-content/uploads/2024/01/Samsung-Galaxy-AI.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "PDG6OcOI2ku9uDpzGTOz25ME3vf7iVl+BIhkJF+M+iQB+jml0tfZIx8V+SJ+wjuXAtgI1AIbATPh8By/l+xyv+/MVAWyWJMa3lz2U2ZmE9scbw5RS7GpFir70wLXq1s9IRLKDVjmzKM/QL4Qb7o3+EGzqnKYbDhG2knqV7QErazmglSBoKAacStW1kCPDXec5X9urlPU3Fqb8VvFzNoWdCnWkbmpsRG0aMaSk/IpdPU3BgW1z+LUOw3PC5fCPES/pCtvoFEkWxH8a0vTNeq1tDVGoBLv2lcMQl25/6uw3uYRZz2bUNrUJet8tqSMeaPrBUGlULDH7am7Yk0WaXim/Lm15jXSRRameFmJDaqEudaNQC/w1VZFhND4nvxvJDmT2JMvjxXWVT73DlS+WdOZTxfF+Sg2rHK57axhvW9QdmQO6rLfJqezfie46bJVw1qGYG6wrAN6ANLCqmRLvYlZYp0ps58D3nCXjcq9c5hJICyjn0cUXe5e7Obl3GjOSNc9jmhdtDxVW8MnsGncK+X29A==;ngPBoGouN7wnX0PkARimGQ=="
 ---

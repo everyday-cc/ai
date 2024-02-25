@@ -38,20 +38,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "ChatGPT in medical education: Generative AI and the future of artificial intelligence in health care"
-    excerpt: "The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about the future of AI in medicine and medical education."
-    publishedDateTime: 2024-02-23T14:00:00Z
-    webUrl: "https://www.ama-assn.org/practice-management/digital/chatgpt-medical-education-generative-ai-and-future-artificial"
-    type: article
-    provider:
-      name: Ama-assn.org
-      domain: ama-assn.org
-    quality: 73
-    images:
-      - url: "https://www.ama-assn.org/sites/ama-assn.org/files/2024-02/au-social-022324.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI's Current And Future Impacts On Construction"
     excerpt: "As we've been hearing across the media landscape, AI is here to stay. While most people are aware of the digital-first uses of AI for things like ChatGPT and NFL analytics, AI has and will continue to transform traditional industries like construction as well."
     publishedDateTime: 2024-02-21T12:45:00Z

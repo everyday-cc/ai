@@ -41,15 +41,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "The Role Of AI In Enhancing Incident Response Management: A Realistic Approach"
-    excerpt: "On paper, AI promises to revolutionize incident response management. However, it's crucial to consider the specific context of your organization. Take Google's incident response model, for example. When Google published its SRE book, everybody figured they could just go and implement it—often without success."
-    publishedDateTime: 2024-02-20T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/the-role-of-ai-in-enhancing-incident-response-management-a-realistic-approach/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
   - title: "How to navigate talent management in the age of AI"
     excerpt: "Valuing human skills, fostering inclusivity and navigating the ethics of AI can make tech roles sustainable and fulfilling."
     publishedDateTime: 2024-02-23T21:20:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Nvidia Is Now a $2 Trillion-Dollar Company Thanks to AI Dominance"
 excerpt: "Nvidia joins Microsoft and Apple as the three US-based companies to reach the $2 trillion market cap. Despite companies like Microsoft looking to make its own AI chips and rely less on Nvidia, a recent report from Reuters claims that Nvidia is working on a new $30 billion business unit that will focus on creating custom AI chips for companies."
-publishedDateTime: 2024-02-24T15:07:00Z
-originalUrl: "https://me.ign.com/en/pc/218439/news/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
-webUrl: "https://me.ign.com/en/pc/218439/news/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
+publishedDateTime: 2024-02-23T19:20:00Z
+originalUrl: "https://www.ign.com/articles/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
+webUrl: "https://www.ign.com/articles/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
 type: article
 quality: 39
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.ign.com/t/ign_me/news/n/nvidia-is-/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-domin_cga7.1200.jpg"
-    width: 1200
-    height: 675
+  - url: "https://assets-prd.ignimgs.com/2024/02/23/nvidia-blogroll-logos-1708718418344.jpg?width=1280"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 900
         isCached: true
 
-secured: "jjofSw53qkYTzFFXZLG+C4Bl34JpwRg+xkm8cfkCiufLFr+4rAG0R4ZLGYmsMLmT9BKkiD8c7W7FUUSyLXuIrRoWetMLcrO1p+3Lnn+zCW3NJ0ScnxaLpIE83KJKBzLn2hywqFR/a4ijRh4mxZ7F0/oNEW0LHlX1WP7vPYDBJA72Xs1Pm97x5SJr1QBvQcIhMyIn1r8/OJDfHdS6GSxKjI/er9RzzggRqu9mZv3pXgUArNP3owl6b993zxBbsE7VLtvfo75HbDscy4CMxfyrdtE5vAq3oJ31zOMLIlxXeZoe9S18sTnpbkCeA+iIC0isOU8SE/tCU1c5FJY7jtHTQpb6at5esFiz3drXdkcsZ+s=;5McE/p9gLxvOO3Ol2ShiZw=="
+secured: "Itf+3aOjbnqjTiYZmEKZk9SqqilwOfKkEbnGcWNLec09C9nWVAs36/HemodAYtVnzSpwTSF49ZOjTO6qTL9Ev5fOyK6C+KywYMykuk7eYtdCfWzJ6ehwxEaNZWC3dyQETmB4+CpcNoXKJC2hbsWCHUdKpJYVXgg7cxX3pR7bDe4eai3E8Gu7w1LUKYdS+fw7B6aEGgjbb84xQxRJJfJHZEsL5YPaBdoezMViO3T0lp5KrWAg9YH94gy2H3AX7uHz42hQhdxlU5FKgw6UJeumVR4WBAJXcBWjIDe56XuovTAhW52ZRmUmhNISkT6l9DZGQ6NLCuRNGYQ4Q+wpAi01MfLKRtg0J+PRrk5o9wOajfI=;whDUWHrkwmLmvdQzhy0wqA=="
 ---
 

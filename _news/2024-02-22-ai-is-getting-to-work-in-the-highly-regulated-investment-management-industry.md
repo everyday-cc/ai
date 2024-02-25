@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Role Of AI In Enhancing Incident Response Management: A Realistic Approach"
-    excerpt: "On paper, AI promises to revolutionize incident response management. However, it's crucial to consider the specific context of your organization. Take Google's incident response model, for example. When Google published its SRE book, everybody figured they could just go and implement it—often without success."
-    publishedDateTime: 2024-02-20T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/the-role-of-ai-in-enhancing-incident-response-management-a-realistic-approach/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
   - title: "US will need 'CHIPS Act 2' investment into semiconductor manufacturing to be the best for AI"
     excerpt: "US Commerce Secretary Gina Raimondo said that the US needs continued investment in semiconductor manufacturing in order to take global leadership and meet demand from AI technologies ... to be - whether you call it Chips Two or something else - continued ..."
     publishedDateTime: 2024-02-22T14:35:00Z

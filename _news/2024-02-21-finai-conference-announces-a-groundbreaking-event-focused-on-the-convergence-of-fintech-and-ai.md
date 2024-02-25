@@ -25,22 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Finally Making More Sense By Interlacing Conversations As Showcased Via The Newly Announced Memory-Controls For ChatGPT"
-    excerpt: "Each time that you log-in to a generative AI app, you either start a new conversation or can continue a previously saved conversation. While using the generative AI app, you can also opt to begin a new conversation and thus momentarily switch away from a ..."
-    publishedDateTime: 2024-02-22T10:57:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/22/generative-ai-finally-making-more-sense-by-interlacing-conversations-as-showcased-via-the-newly-announced-memory-controls-for-chatgpt/amp/"
+  - title: "Fintech Monite Announces Additional Funding to Support US Expansion Efforts"
+    excerpt: "Monite's seed funding has reached $16M in order to support US expansion efforts. The company has been working to enhance financial services."
+    publishedDateTime: 2024-02-20T13:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221689-fintech-monite-announces-additional-funding-to-support-us-expansion-efforts/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221689-fintech-monite-announces-additional-funding-to-support-us-expansion-efforts/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221689-fintech-monite-announces-additional-funding-to-support-us-expansion-efforts/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 42
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d6e5fd83c3617da31ba59a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/05/US-Dollars-Money-Grant.jpg"
+        width: 1280
+        height: 960
         isCached: true
+  - title: "Bud Financial partners with Fintech Galaxy to take financial services personalization to new heights as the MENA region embraces Open Banking"
+    excerpt: "Data intelligence platform Bud Financial (Bud) is joining forces with Fintech Galaxy, a leader in Open Banking and financial innovation,"
+    publishedDateTime: 2024-02-22T14:22:00Z
+    webUrl: "https://menafn.com/1107886236/Bud-Financial-partners-with-Fintech-Galaxy-to-take-financial-services-personalization-to-new-heights-as-the-MENA-region-embraces-Open-Banking"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "67y/OGj8RAhkGQbL0u2IB6PL0V5cZ/oTuwjY7SfreCpTjXemq8outWwrKtP1M5eSpF3eykFX6QmDKVGRToL5GZ5wgYbGdwdimmGYloz8QwtS9sABb6IouwHXXG2eM0Ico53dkm7KFRqoasC1L6SJGQAFh0+6yHSurkpQGuGUl0Ol2K33IBf39hArSZtGAh6yf8UVMM9DjZ5z2+ytelu3uywE8KqWoRmLlUgwlUfgEXVwqYxAgBks6Y/tSPElBNMfV/JkEAfiPsZdtIRiqrZ0q7E8LxLLS9Ou40n4yS/9JNOZ6GEyowBzr3MvRXMrDUHYl0GYwHhI3EkVJzVWb8eB30+zNeE/ES9hXqLEfwsykFI=;XoFgj/IBVbboSMkvdQxxWA=="
 ---

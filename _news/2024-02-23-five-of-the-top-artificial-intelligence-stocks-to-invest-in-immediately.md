@@ -34,15 +34,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "The Role Of AI In Enhancing Incident Response Management: A Realistic Approach"
-    excerpt: "On paper, AI promises to revolutionize incident response management. However, it's crucial to consider the specific context of your organization. Take Google's incident response model, for example. When Google published its SRE book, everybody figured they could just go and implement it—often without success."
-    publishedDateTime: 2024-02-20T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/the-role-of-ai-in-enhancing-incident-response-management-a-realistic-approach/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
   - title: "US will need 'CHIPS Act 2' investment into semiconductor manufacturing to be the best for AI"
     excerpt: "US Commerce Secretary Gina Raimondo said that the US needs continued investment in semiconductor manufacturing in order to take global leadership and meet demand from AI technologies ... to be - whether you call it Chips Two or something else - continued ..."
     publishedDateTime: 2024-02-22T14:35:00Z

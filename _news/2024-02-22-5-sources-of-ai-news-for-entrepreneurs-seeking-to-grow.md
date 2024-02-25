@@ -45,6 +45,20 @@ related:
         width: 1363
         height: 900
         isCached: true
+  - title: "Navigating The AI Paradigm Shift In Business"
+    excerpt: "AI can help business leaders make successful decisions, add sustainable strategies to their business operations, and help them adapt to ever-changing markets."
+    publishedDateTime: 2024-02-25T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/rhettpower/2024/02/25/navigating-the-ai-paradigm-shift-in-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d918195ce4dc7116060068/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Riding the AI Wave: How AMD Stock Is Setting Up for a Stellar 2024"
     excerpt: "An Advanced Micro Devices (NASDAQ:AMD) stock analysis must account for the company’s decision to enter the AI chip market. The company’s stock is already off to a good start in 2024. Shares have risen 17.9% on a year-to-date basis. That means both the ..."
     publishedDateTime: 2024-02-21T05:31:00Z

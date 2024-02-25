@@ -41,20 +41,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "With the Rise of AI, What IP Disputes in Healthcare Are Likely to Emerge?"
-    excerpt: "Click here to view an example of this. Most of these uses of AI do not require FDA approval. There will be some ethics issues raised by physicians using this for assisting in diagnoses, but that will be at a different level. For devices, the trained AI ..."
-    publishedDateTime: 2024-02-20T12:35:00Z
-    webUrl: "https://medcitynews.com/2024/02/with-the-rise-of-ai-what-ip-disputes-in-healthcare-are-likely-to-emerge/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 57
-    images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
-        width: 788
-        height: 443
-        isCached: true
   - title: "Re-Evaluating Corporate Culture in the Age of Artificial Intelligence"
     excerpt: "However, the behavioral component or human synthesis with AI and the manner in which it is deployed internally, beyond mere corporate logistics, seems to be a puzzle piece that is consistently missing."
     publishedDateTime: 2024-02-21T17:55:00Z
@@ -64,6 +50,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "A Snapshot of Artificial Intelligence in Health Care"
+    excerpt: "Artificial intelligence (AI) has an important role in the future of health care. With its potential to parse through vast amounts of data, glean critical insights, build predictive models ..."
+    publishedDateTime: 2024-02-23T16:13:00Z
+    webUrl: "https://www.statnews.com/a-snapshot-of-artificial-intelligence-in-health-care/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 39
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Meta-Image-Premier-Pulse-Check-Report-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "How to prepare for generative AI and the future of work"
     excerpt: "Tony Holmes explains how generative AI will transform the workplace and provides tips to prepare employees and use AI for collaboration and innovation."
     publishedDateTime: 2024-02-20T15:48:00Z

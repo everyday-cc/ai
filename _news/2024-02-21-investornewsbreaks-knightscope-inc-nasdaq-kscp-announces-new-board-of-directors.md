@@ -24,17 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Knightscope Welcomes New Board of Directors"
-    excerpt: "William Santana Li remains Chairman of the Board, President and Chief Executive Officer. In addition, the following new directors have been appointed, succeeding Patricia Howell, Linda Keene Solomon, and Patricia L. Watkins."
-    publishedDateTime: 2024-02-20T13:01:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964409.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-
 secured: "FusZaaKeD6OqX2gytO0nvy0bqb9fd5iTryJrMRQCgEFDaBsvUH4OZgSwphPiUZLAGrro17qRbkpO2A0kmDrEZ1kbt8WEFfmAjP8UZ5kHgeaDCnZYWig21/9wZomp1jbLrved8PSjF/ZJQApVcqoQfRFAA7TGGvTmKTY9pv6SEGdWIVrzfutjuD05gTCb7YaI5AGHN6Npg/aPUjjL1rOTHQM8uUGfj7Byr4zw3a4WkwaoH5XotpiYntf0XuNfDPdTKgrLek0LrGO4JEICGkliSGgc/UbCCBEl4tX+/ElNIbDhrOj5RLmydTbQqGh1jrgqDj3yqC6ZOWFmkfy7kh3qPRSgGeiPYEb5ejRXZvzj5vo=;qWeWQWywzUH8F5+YMGfmSg=="
 ---
 

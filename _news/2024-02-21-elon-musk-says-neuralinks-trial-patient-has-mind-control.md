@@ -47,20 +47,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Elon Musk claims 1st Neuralink implant patient can already control a mouse with their thoughts"
-    excerpt: "During a livestreamed Spaces event with journalist Katherine Brodsky on Monday night, according to Reuters, Musk reported that Neuralink’s technology has enabled the first implantee to control a computer ... the company’s R1 robot."
-    publishedDateTime: 2024-02-20T12:37:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/elon-musk-claims-1st-neuralink-implant-patient-can-already-control-mouse-their-thoughts"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 27
-    images:
-      - url: "https://qtxasset.com/quartz/qcloud5/media/image/neuralink-musk.jpg?VersionId=8wZ.M0IgsRAZXjocvfvTrmHiSfaLEaZ2"
-        width: 1024
-        height: 625
-        isCached: true
   - title: "Elon Musk claims first human brain implant Neuralink is a SUCCESS with ‘Patient Zero’s’ mind control powers unveiled"
     excerpt: "ELON Musk has announced the first Neuralink brain chip implant has been successful. The tech mogul revealed the human subject implanted with the ambitious chip has fully recovered – and"
     publishedDateTime: 2024-02-20T14:33:00Z

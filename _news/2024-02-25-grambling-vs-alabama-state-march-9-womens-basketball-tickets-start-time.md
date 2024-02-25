@@ -24,31 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Baylor vs. Texas March 4 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Monday's Big 12 schedule includes the Baylor ... Jackson State March 2 Tickets & Start Time Texas A&M-Commerce vs. Houston Christian March 2 Tickets & Start Time UT Rio Grande Valley vs. Cal Baptist March 2 Tickets ..."
-    publishedDateTime: 2024-02-20T11:25:00Z
-    webUrl: "https://www.kwtx.com/sports/betting/2024/03/04/baylor-vs-texas-buy-college-basketball-tickets/"
+  - title: "Creighton vs. Villanova March 9 Tickets & Start Time"
+    excerpt: "Saturday's Big East schedule includes the Villanova Wildcats (15-11, 8-7 Big East) versus the Creighton Bluejays (20-7, 11-5 Big East) at 2:30 PM ET on FOX. If you're looking to attend this matchup in person, head to StubHub or Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-02-25T04:24:00Z
+    webUrl: "https://www.wowt.com/sports/betting/2024/03/09/creighton-vs-villanova-buy-college-basketball-tickets/"
     type: article
     provider:
-      name: KWTX
-      domain: kwtx.com
+      name: WOWT.com
+      domain: wowt.com
     quality: 22
     images:
-      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/CX56WMHIPRLETHG7PCIJPRVP2Y.jpg?auth=fc2b4bacca1dd6ad9fa7048fda4f01ad6b9c7040af77d27c45df673c4535767c&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Grambling vs. Bethune-Cookman March 4 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Bethune-Cookman Wildcats (12-14 ... Texas A&M-CC March 2 Tickets & Start Time SE Louisiana vs. Incarnate Word March 4 Tickets & Start Time McNeese vs. Nicholls State March 2 Tickets & Start Time LSU vs."
-    publishedDateTime: 2024-02-20T11:25:00Z
-    webUrl: "https://www.fox8live.com/sports/betting/2024/03/04/grambling-vs-bethune-cookman-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WVUE FOX 8 News
-      domain: fox8live.com
-    quality: 22
-    images:
-      - url: "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/v2/SRIKMMTWTFMXTEICQCZMAKIROI.jpg?auth=b74f7a7e3dd716d4dc36466a8567095bba41ec5ead21697cc09c9cbf1c7e2fcc&width=1200&height=600&smart=true"
+      - url: "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/v2/OXJGNJJ2MROAHHFSBJRZRC6BPM.jpg?auth=3439832cdb44f3b21c7abeac4364b596932c561b0f120df20b4850cb6cddd07c&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
@@ -77,20 +63,6 @@ related:
     quality: 22
     images:
       - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/v2/TEMY2ZH2YVOP3GJTHK36NYKFKM.jpg?auth=fe03af73bf84fa1d9072da274bbcb2e47707513ea59f75c810d8acbbf868f6f7&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Northern Colorado vs. Northern Arizona March 4 Women's Basketball Tickets & Start Time"
-    excerpt: "Northern Colorado Bears vs. Northern Arizona Lumberjacks women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-20T12:20:00Z
-    webUrl: "https://www.kktv.com/sports/betting/2024/03/04/northern-colorado-vs-northern-arizona-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KKTV11
-      domain: kktv.com
-    quality: 14
-    images:
-      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/GK432CLSK5K7ZOYDRHK6MZJZJY.jpg?auth=c0b541ca16a422c62e8738be47889a290243a33cd420d8f965365d8324b615e4&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

@@ -77,6 +77,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Self-driving taxis suspended in L.A., NorCal"
+    excerpt: "Self-driving car company Waymo may no longer offer rides in its robotaxis after the California Public Utilities Commission suspended their ability to transport members of the public. According to ..."
+    publishedDateTime: 2024-02-21T18:13:00Z
+    webUrl: "https://ktla.com/news/local-news/self-driving-taxis-suspended-in-l-a-norcal/"
+    ampWebUrl: "https://ktla.com/news/local-news/self-driving-taxis-suspended-in-l-a-norcal/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/self-driving-taxis-suspended-in-l-a-norcal/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 44
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2018/12/promo368224873.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Uber Eats is launching robot deliveries in Japan"
     excerpt: "Uber announced a partnership Tuesday between robotics firm Cartken and Japanese industrial titan Mitsubishi Electric to launch autonomous sidewalk robots that will start delivering Eats ... Cartken’s Model C robots use AI and computer vision technologies ..."
     publishedDateTime: 2024-02-21T02:24:00Z

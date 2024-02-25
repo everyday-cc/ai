@@ -39,50 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Meet Groq, a Lightning Fast AI Accelerator that Beats ChatGPT and Gemini"
-    excerpt: "Groq has released an LPU which is taking the AI industry by storm. It generates output at lightning speed, beating both ChatGPT and Gemini."
-    publishedDateTime: 2024-02-22T00:10:00Z
-    webUrl: "https://beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/"
-    ampWebUrl: "https://beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 75
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2024/02/groq-logo.jpg"
-        width: 1250
-        height: 750
-        isCached: true
-  - title: "The 7 Best Free AI Logo Generators That Aren’t ChatGPT"
-    excerpt: "Some AI logo generators will automate the entire process from start to finish based on a single prompt, while others will ask you a few supplementary questions to ensure you’re on the same page. There are also some logo generators we’ve tried that ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://tech.co/news/best-free-ai-logo-generators"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 54
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/02/20074049/AdobeStock_583862221-1.jpeg"
-        width: 1920
-        height: 960
-        isCached: true
-  - title: "Forget ChatGPT — Groq is the new AI model to beat with blistering computation speed"
-    excerpt: "Groq (not to be confused with Elon Musk’s Grok chatbot — and no they aren’t too happy with the similar names) specializes in developing high-performance processors and software solutions for AI, machine learning (ML), and high-performance computing applications."
-    publishedDateTime: 2024-02-20T15:54:00Z
-    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-groq-is-the-new-ai-model-to-beat-with-blistering-computation-speed"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 50
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xXxEjXREsFJxKk7bjXZPfn-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Hackers Could Use ChatGPT to Target 2024 Elections"
     excerpt: "T he rise of generative AI tools like ChatGPT has increased the potential for a wide range of attackers to target elections around the world in 2024, according to a new report by cybersecurity giant Crowdstrike."
     publishedDateTime: 2024-02-21T19:35:00Z
@@ -101,20 +57,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
-    excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"
-    publishedDateTime: 2024-02-21T17:56:00Z
-    webUrl: "https://www.inc.com/kit-eaton/recuriters-missingsigns-that-tech-job-applicants-are-using-chatgpt-to-cheat.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 36
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1817371209_537674_a49pzl.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "ChatGPT has been generating bizarre nonsense (more than usual)"
     excerpt: "Users shared ChatGPT’s strange , and at times esoteric-sounding responses through screenshots which show the model unexpectedly weaving between multiple languages, generating random words, and repeating phrases over and over again. Emojis, sometimes with no clear relation to users prompt questions, also frequently appeared."
     publishedDateTime: 2024-02-21T20:00:00Z

@@ -29,38 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to Build Generative AI Agents with Joon Sung Park"
-    excerpt: "Joon’s research seeks to answer this question by applying LLMs to a long-standing challenge in computer science: the creation of AI agents that can authentically simulate human behavior. This ambition traces back to the earliest days of AI in the 1950s ..."
-    publishedDateTime: 2024-02-20T12:19:00Z
-    webUrl: "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/"
-    ampWebUrl: "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d560ded33037465f55d4ad/0x0.png?format=png&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
-        isCached: true
-  - title: "How Generative AI Will Enhance The Supply Chain"
-    excerpt: "AI, in general, has been making waves in supply chain functions for a while now – particularly when it comes to demand planning and optimizing delivery."
-    publishedDateTime: 2024-02-23T05:07:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/23/how-generative-ai-will-enhance-the-supply-chain/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/23/how-generative-ai-will-enhance-the-supply-chain/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/23/how-generative-ai-will-enhance-the-supply-chain/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d835e4285f2d23c7fd9d0b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How to stand out from the crowd when everyone uses generative AI"
     excerpt: "The way to do this is by transforming your proprietary data — structured and unstructured — into vector embeddings, which capture the semantic meaning and contextual information of data, making them suitable for various tasks like text classification, machine translation, sentiment analysis, and more."
     publishedDateTime: 2024-02-20T16:48:00Z
@@ -75,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "American Honda IT to fuel innovation with generative AI"
-    excerpt: "As for that AI strategy, American Honda’s deep experience with machine learning positions it well to capitalize ... and use of both AWS and Microsoft Azure. The key to a successful AI strategy, in part, is the quality and cleanliness of both structured ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html"
-    ampWebUrl: "https://www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html?amp=1"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html?amp=1"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2024/02/bob-brizendine-stylized_1600x900px.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Sound Group Embraces Generative AI to Unveil New AI-Powered Applications"
     excerpt: "The Company expects to further develop and enrich its suite of AI products by actively integrating AIGC technologies. Constantly engaged in in-depth research and exploration of cutting-edge technologies such as AIGC, Sound Group leverages its strengths and ..."
     publishedDateTime: 2024-02-21T06:30:00Z
@@ -100,15 +52,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Adobe’s Market Resilience and Growth Potential Amidst Generative AI Advancements"
-    excerpt: "Analyst Kash Rangan of Goldman Sachs reiterated a Buy rating on Adobe (ADBE – Research Report), with a price target of ... In a similar vein, Rangan anticipates that generative AI will expand the sector further by lowering the barriers to content ..."
-    publishedDateTime: 2024-02-21T05:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/adobe-s-market-resilience-and-growth-potential-amidst-generative-ai-advancements-1033086827"
+  - title: "Creating Guidelines for the Use of Gen AI Across Campus"
+    excerpt: "Conatser: One of the first conversations that we had as the ADVANCE team, and one that we have on a regular basis, is that these guidelines are specifically addressing generative AI. Whenever we start sliding into other language like AI and machine ..."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://campustechnology.com/articles/2024/02/21/creating-guidelines-for-the-use-of-gen-ai-across-campus.aspx"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 37
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2024/02/20240220ai.jpg"
+        width: 644
+        height: 300
+        isCached: true
+  - title: "Humane Just Gave Everyone a Huge Incentive To Buy an AI Pin"
+    excerpt: "Humane has announced that everyone who buys an Ai Pin by March 31, 2024 will get the first three months of its required subscription ($30 per month) for free. Additionally, the company's making shipping for the Ai Pin free."
+    publishedDateTime: 2024-02-23T16:45:00Z
+    webUrl: "https://www.inverse.com/tech/humane-ai-pin-subscription-three-months-free"
+    type: article
+    provider:
+      name: Inverse
+      domain: inverse.com
+    quality: 37
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2024/2/23/5b03b5d1-929d-486a-831a-d6c5283b66d1-humane-ai-pin-interface.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1YNQ6Z8oW+6naKodJ3qH3z6TgMEU1IJHhUJyHGd5kpccJYYxs+zvczeoc4m8O55LM70SFfZVnrGdzmxFuh+nj26J5l+3ZULNXyI8AO3DB0Vb+zpJauBZElagAbwUO9ACHCXqXdL/CbpyJ2AX3SiAAHsQJ7tKh/SBjdiD5/65OZYTMM9AYyhMxFpcnxL0zwaEmtMSClP/SWP0A3KPXaXPsS+L/RI0H8KKmNLEadYUN1vljyS9ZX41iA2Q+DWI2Sr9pPp+YwKmH1mgG+QrRkvkvM0qvH9WbCa1SaQAyFcYwNcN3dxmhCPa2Q1HIsh2yXi2IZv/AwnsBPVDujAbmhS0ysn9y1mvaneLof/s8q9X2ZOvV+eSs8mOhODC/Wg+LPe9cq7ot9xvjgWaVb3YW2tFEsv6YqMfwmc60KmZsri8IJq8UHfWp0alzjVREJ0fgA2rworPvHXOqKQnCKe/Oz9h1J3iBlIm/nb+5u7+uf0xEqvMFsgNcpI1ar0fT0wCBDJOPN+b/qZc3NTreRJmsvLXAw==;wHCPiNQrxsI6zYp+JAW/Nw=="
 ---

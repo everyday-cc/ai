@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/chicago/news/2024/02/22/accenture-arti
 webUrl: "https://www.bizjournals.com/chicago/news/2024/02/22/accenture-artificial-intelligence-chicago.html"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -16,19 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Accenture Boosts AI-Powered Customer Insights with GemSeek Acquisition"
-    excerpt: "Accenture (NYSE: ACN) has announced its acquisition of GemSeek, a prominent player in customer experience analytics, as part of its ongoing inves"
-    publishedDateTime: 2024-02-20T12:52:00Z
-    webUrl: "https://news.europawire.eu/accenture-boosts-ai-powered-customer-insights-with-gemseek-acquisition/eu-press-release/2024/02/20/13/19/51/130317/"
-    ampWebUrl: "https://news.europawire.eu/accenture-boosts-ai-powered-customer-insights-with-gemseek-acquisition/eu-press-release/2024/02/20/13/19/51/130317/?amp"
-    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/accenture-boosts-ai-powered-customer-insights-with-gemseek-acquisition/eu-press-release/2024/02/20/13/19/51/130317/?amp"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 39
 
 secured: "0oQiCcOm/fMJpNqnnRP6KUefB2ZW+C0GYesF+6Q6X3kAFpTI6XcnIeEwdLfTQ1Y5hXeW0bh+9KXhaqmW12BX3JMPLNSS5uGGMVkK0hk2+zTXLnli4pPrqqA+VJMoRFj3KDQpa48KEggveNgISQbOeLCz3pNLMeHVCtondtoJT7UIzBk7uKnDBiJGJjlSpdtGRlX9Rb+xKjqBe6i5KNkIpiw/2k7Qk18TU0pyVmZRZTOLaQPq7ADqvksWXZF/ko5JkqMOQtmopm18azcZHPrTG9+Uu2XIRNZiAPI03+T3YqRAtxAzkUHOFbq+eVP9KjDFlF6DqTP5rgftHJ4npw54Cma1SkTO+CAKcVSfOSABeo0itVbNFdd9Zk/O2/ELas2Nh4vAq1qqJL0Hn18JJ5r3Hhdk3pxzdL1cxgMXPmbxrVQnE1YWOV7RQX74bX1gGmFtMXjjcm4xX2NnYMxGxcmLkyk2knS2mgcvQCqTNVumiauJTUxBtM3EaAvWvXm1fYszIzCjwlElXvzQ39lwFwcb8Q==;HQyGbBuHicgDpdJ/ytY21g=="
 ---
