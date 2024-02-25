@@ -370,20 +370,6 @@ related:
         width: 800
         height: 499
         isCached: true
-  - title: "Competition in the cloud: Microsoft's ‘unfair’ licensing tactics go under the microscope"
-    excerpt: "Microsoft's share of the global cloud infrastructure market is on the grow at a time when its customer recruitment and retention techniques are coming under increased regulatory scrutiny"
-    publishedDateTime: 2024-02-20T05:12:00Z
-    webUrl: "https://www.computerweekly.com/news/366570212/Competition-in-the-cloud-Microsofts-unfair-licensing-tactics-under-the-microscope"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 45
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/cloud-threat-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
     excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."
     publishedDateTime: 2024-02-22T12:30:00Z

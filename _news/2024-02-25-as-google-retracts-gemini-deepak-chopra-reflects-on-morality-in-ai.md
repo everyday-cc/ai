@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-g
 ampWebUrl: "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65da18ddc87c42bb00cf1eb9/0x0.jpg?format=jpg&crop=2495,1405,x0,y399,safe&height=900&width=1600&fit=bounds"

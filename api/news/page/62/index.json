@@ -2,6 +2,92 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2024-01-05-google-bard-advanced-tipped-to-arrive-as-paid-subscription-might-be-linked-to-google-one.md",
+      "title": "Google Bard Advanced Tipped to Arrive as Paid Subscription, Might Be Linked to Google One",
+      "excerpt": "Bard Advanced is scheduled to arrive in early 2024 and is expected to be powered by Google's advanced Gemini Ultra AI model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808",
+      "originalUrl": "https://www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/google_bard_unsplash_mojahid-mottakin_1689225787604.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808/amp",
+      "publishedDateTime": "2024-01-05T12:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-05-neurons-and-networks-how-ai-networks-are-like-neurodiverse-brains.md",
+      "title": "Neurons and networks: How AI networks are like neurodiverse brains",
+      "excerpt": "Neural networks mimic the structure of a human brain. But as Connective3’s Tom Lanaway argues, not all human brains are ‘structured’ the same. So what happens when AI meets neurodiversity?",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrum.com/opinion/2024/01/05/neurons-and-networks-how-ai-networks-are-neurodiverse-brains",
+      "originalUrl": "https://www.thedrum.com/opinion/2024/01/05/neurons-and-networks-how-ai-networks-are-neurodiverse-brains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/666306/milad-fakurian-58z17lnvs4u-unsplash_1.jpg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format",
+          "width": 1280,
+          "height": 973,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T10:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-05-2024-digital-transformation-financial-services-trends.md",
       "title": "2024: Digital Transformation & Financial Services Trends",
       "excerpt": "FinTech Magazine gets the outlooks from industry experts on the future of financial services and what form digital transformation will take as we enter 2024, featuring leaders from Intellias and Confluent. Below, Peter Pugh-Jones discusses the importance of back-office efficiencies for financial institutions in 2024.",
@@ -988,83 +1074,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-02-unlocking-the-power-of-privacy-enhancing-technologies-in-financial-services.md",
-      "title": "Unlocking the Power of Privacy-Enhancing Technologies in Financial Services",
-      "excerpt": "Banks depend on data throughout their operations, but when it falls into the wrong hands, the results are catastrophic. Protecting data is a crucial but complicated task. Privacy-enhancing technologies (PETs) meet this challenge by specifically and efficiently safeguarding data,",
-      "sourceUrl": null,
-      "webUrl": "https://internationalbanker.com/technology/unlocking-the-power-of-privacy-enhancing-technologies-in-financial-services/",
-      "originalUrl": "https://internationalbanker.com/technology/unlocking-the-power-of-privacy-enhancing-technologies-in-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-02T11:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Banker",
-        "domain": "internationalbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-02-deep-learning-for-phase-recovery.md",
-      "title": "Deep learning for phase recovery",
-      "excerpt": "(a) Deep-learning-pre-processing for phase recovery. (b) Deep-learning-in-processing for phase recovery. (c) Deep-learning-post-processing for phase recovery. (d) Deep learning for phase processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1030138",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1030138",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/48c99788-c3b5-44bf-acc5-c0c78850f1a6/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-02T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

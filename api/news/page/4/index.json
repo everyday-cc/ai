@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-22-stakeholders-to-discuss-trust-security-and-privacy-in-ai-era.md",
+      "title": "Stakeholders to Discuss Trust, Security and Privacy in AI Era",
+      "excerpt": "Blockchain and the FinTech society have managed to create a new world that is much more inclusive, and full of opportunities. Based on a report by Gartner, which predicted that by 2024, 40 per cent of privacy compliance technology will rely on AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Naira.jpg",
+          "width": 753,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era?amp=1",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era?amp=1",
+      "publishedDateTime": "2024-02-21T23:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike.md",
       "title": "Cybercriminals are using Meta's Llama 2 AI, according to CrowdStrike",
       "excerpt": "Cybercrime outfits have taken fledgling steps to use generative AI to stage attacks, including Meta's Llama 2 large language model, according to cybersecurity firm CrowdStrike in its annual Global Threat Report, published Wednesday. The group Scattered ...",
@@ -742,7 +786,7 @@
       "originalUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -754,7 +798,7 @@
           "isCached": true
         }
       ],
-      "content": "\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/",
@@ -942,6 +986,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-21-td-cowen-on-microsoft-no-shortage-of-demand-for-azure-and-ai-workloads.md",
+      "title": "TD Cowen on Microsoft : 'No shortage of demand for Azure and AI workloads'",
+      "excerpt": "TD Cowen analysts reiterated an Outperform rating on Microsoft (NASDAQ: MSFT) and the price target of $455, citing continued demand for Azure and AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207",
+      "originalUrl": "https://au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXMPED0P1G8_L.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207?ampMode=1",
+      "cdnAmpWebUrl": "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207?ampMode=1",
+      "publishedDateTime": "2024-02-21T14:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-intels-ai-reboot-is-the-future-of-us-chipmaking.md",
       "title": "Intel's AI Reboot Is the Future of US Chipmaking",
       "excerpt": "Rival Nvidia, which mints chips with TSMC, became the AI industry’s workhorse and has seen its business soar. But Gelsinger argues that with AI still growing fast and millions of AI chips expected to be needed, Intel can become a major player.",
@@ -990,49 +1077,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-td-cowen-on-microsoft-no-shortage-of-demand-for-azure-and-ai-workloads.md",
-      "title": "TD Cowen on Microsoft : 'No shortage of demand for Azure and AI workloads'",
-      "excerpt": "TD Cowen analysts reiterated an Outperform rating on Microsoft (NASDAQ: MSFT) and the price target of $455, citing continued demand for Azure and AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986",
-      "originalUrl": "https://www.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/news/LYNXMPED0P1G8_L.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986?ampMode=1",
-      "cdnAmpWebUrl": "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986?ampMode=1",
-      "publishedDateTime": "2024-02-21T13:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1097,7 +1141,7 @@
       "originalUrl": "https://www.wired.com/story/gab-ai-chatbot-racist-holocaust/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1243,57 +1287,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-vcs-are-clamoring-to-back-screaming-hot-startups-using-ai-for-medical-records.md",
-      "title": "VCs are clamoring to back 'screaming hot' startups using AI for medical records",
-      "excerpt": "Most recently, Ambience Healthcare announced a $70 million Series B round in February, co-led by Kleiner Perkins and Open AI Startup Fund and including existing investors Andreessen Horowitz and Optum Ventures. Medical-scribe startup Nabla raised a Series ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2",
-      "originalUrl": "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65cf847ef533b039a884865f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

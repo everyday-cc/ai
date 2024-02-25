@@ -24,91 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "This new AI Assistant from Adobe lets you chat with your PDFs at no additional cost"
-    excerpt: "Getting started is easy. All Acrobat and Reader users will have to do is open the applications, where they will find the AI Assistant in beta, which they can then use for a range of tasks, including providing answers to recommended or user-generated questions through a chatbot."
-    publishedDateTime: 2024-02-20T06:01:00Z
-    webUrl: "https://www.zdnet.com/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/"
+  - title: "Gab’s Racist AI Chatbots Have Been Instructed to Deny the Holocaust"
+    excerpt: "In recent years it has thrived as a haven for people who have been kicked off mainstream platforms like Twitter, Instagram, and Facebook. As generative AI chatbots such as OpenAI’s ChatGPT have become popular, the right has increasingly claimed that the ..."
+    publishedDateTime: 2024-02-21T11:31:00Z
+    webUrl: "https://www.wired.com/story/gab-ai-chatbot-racist-holocaust/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/0551db9716d6cec71a6e47019995b146b120ebd6/2024/02/19/66af0daa-4e89-472c-92ff-221a0f127dba/a249585c-e21d-4694-bd61-6384a61dfe26.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Adobe's AI Assistant Can Summarize PDFs, PowerPoints for You"
-    excerpt: "Adobe promises customer data won't be used to train its latest AI model, which can quickly read and pull key takeaways from PDFs, Microsoft Word docs, and PowerPoint presentations."
-    publishedDateTime: 2024-02-20T17:53:00Z
-    webUrl: "https://www.pcmag.com/news/adobes-ai-assistant-can-summarize-pdfs-powerpoints-for-you"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Wired
+      domain: wired.com
     quality: 69
     images:
-      - url: "https://i.pcmag.com/imagery/articles/04FOeQe1PQMSVO52EUTBJk2-1.fit_lim.size_1200x630.v1708450480.jpg"
-        width: 1120
-        height: 630
+      - url: "https://media.wired.com/photos/65d512ac5503edf560835d2c/191:100/w_1280,c_limit/politics_gab_chatbot_extreme_racist.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "New Adobe 'AI Assistant' will tackle your long, dense PDFs"
-    excerpt: "AI Assistant also provides citations and clickable links ... Before that, she co-founded a startup consulting business for emerging entrepreneurial hubs in South America, Europe, and Asia. You can find her on Twitter at @cecily_mauran."
-    publishedDateTime: 2024-02-21T18:04:00Z
-    webUrl: "https://mashable.com/article/adobe-ai-assistant-summarize-edit-pdfs"
+  - title: "Google Is Giving Away Some of the A.I. That Powers Chatbots"
+    excerpt: "Those are resources that most organizations — let alone individuals — do not have. Cade Metz writes about artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas of technology. More about Cade Metz Nico Grant is a ..."
+    publishedDateTime: 2024-02-21T13:00:00Z
+    webUrl: "https://www.nytimes.com/2024/02/21/technology/google-open-source-ai.html"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03RxUKgIX9M8PDtGsMArUdH/hero-image.fill.size_1200x675.v1708536414.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Adobe adds AI assistant to Acrobat, Reader in effort to maintain relevance in PDF market"
-    excerpt: "Adobe has introduced an AI Assistant to Reader and Acrobat, aiming to modernize document management and maintain its edge in a market evolving with large language model technologies."
-    publishedDateTime: 2024-02-21T08:04:00Z
-    webUrl: "https://venturebeat.com/ai/adobe-adds-ai-assistant-to-acrobat-reader-in-effort-to-maintain-relevance-in-pdf-market/"
+      name: The New York Times
+      domain: nytimes.com
+    quality: 34
+  - title: "Inference.ai’s new generative AI chatbot takes the guesswork out of GPU sourcing"
+    excerpt: "Inference.ai offers an extensive selection of GPUs, with a fleet of 18 different processors from Nvidia Corp., including its most advanced H100 model. It also offers four models from Nvidia’s rival Advanced Micro Devices Inc., including the all-new MI300X that was specifically designed to handle generative AI workloads."
+    publishedDateTime: 2024-02-21T14:12:00Z
+    webUrl: "https://siliconangle.com/2024/02/21/inference-ais-new-generative-ai-chatbot-takes-guesswork-gpu-sourcing/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Vector_art_of_PDF_documents_shown_in_the_color_of_Ado_9a02f824-942c-4598-b478-c817bd8af268-transformed.webp?w=1200&strip=all"
-        width: 1200
-        height: 671
-        isCached: true
-  - title: "Adobe's new AI assistant for Acrobat and Reader can summarize PDFs and answer questions"
-    excerpt: "Read our ethics statement. What just happened? With PDFs being the preferred format for documents used by organizations, it shouldn't come as too much of a surprise to learn that Adobe has launched an artificial intelligence assistant for its Reader and ..."
-    publishedDateTime: 2024-02-21T05:17:00Z
-    webUrl: "https://www.techspot.com/news/101959-adobe-new-ai-acrobat-reader-can-summarize-pdfs.html"
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+  - title: "How AI health care chatbots learn from the questions of an Indian women's organization"
+    excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.wral.com/story/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/21295384/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 41
-  - title: "Adobe's New AI Assistant Is Designed to Read PDFs for You"
-    excerpt: "Adobe is getting into the AI assistant game. The assistant, which is rolling out in beta today as a part of Adobe Acrobat and Adobe Reader, is a new tool that \"reads\" through documents and can answer questions related to their content,"
-    publishedDateTime: 2024-02-20T14:20:00Z
-    webUrl: "https://www.inc.com/ben-sherry/adobes-new-ai-assistant-is-designed-to-read-pdfs-for-you.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
-  - title: "Adobe Brings Conversational AI to Trillions of PDFs with the New AI Assistant in Reader and Acrobat"
-    excerpt: "AI Assistant leverages the same artificial intelligence and machine learning models behind Acrobat Liquid Mode, the award-winning technology that supports responsive reading experiences for PDFs on mobile."
-    publishedDateTime: 2024-02-20T15:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-adobe-brings-conversational-ai-trillions-pdfs-with-new-/2024/02/20/9964741.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: WRAL
+      domain: wral.com
+    quality: 11
 
 secured: "bMVnQQSAF6F6oKBXTknsZxQtcSBIeUrWl0Rk6mpe7J2qk49ejnJlN185yLJ8ojvzI6n9u+fdCuPwhCacthS2MQSYjcf0zCxFoa/5TG4NgbkPZojsYJZycEk/EGJyFENfFv6hGfm/OMyNhwX3di1sZrMaMakbBo67xbTY9fijAe6Uf9OU1oorjgA/bP0TKIRroee+xxQhuciats4XUvuIqvHFkJxn3bhfegKp4pchbnzC6YK2sC2QJIIhkn7mmfHw0ihemejFqUl66UOnxhF58JC0skaGyd9peU/yOkFLg8zY/DZU+BP0g7RxxfmMx3r1xIDiGZVrIDALICz3GXbsyxfc6tZ1Zdll0Ohrc3WtDjU=;oPL5pRlFO8Ezu44Mu3z8Xg=="
 ---

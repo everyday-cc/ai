@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-04-meet-the-humanoid-robot-that-learns-from-natural-language-mimics-human-emotions.md",
+      "title": "Meet the humanoid robot that learns from natural language, mimics human emotions",
+      "excerpt": "Alter3 is an example of how natural language processing and robotics can work together to create pretty incredible interactions. By using GPT-4, the robot can perform a variety of tasks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions",
+      "originalUrl": "https://www.foxnews.com/tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/1-Meet-Alter3-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions-giving-instructions.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-04T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-01-04-crawford-technologies-launches-ai-driven-language-translation-solution.md",
       "title": "Crawford Technologies launches AI-driven Language Translation Solution",
       "excerpt": "Crawford Technologies, a leading provider of innovative document solutions that streamline, improve and manage customer communications, announced the",
@@ -1391,49 +1444,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-ray-ban-meta-smart-glasses-the-ai-stuff-meta-promised-is-finally-here-apparently.md",
-      "title": "Ray-Ban Meta Smart Glasses: The AI stuff Meta promised is finally here, apparently",
-      "excerpt": "Up to this point, Meta's smart glasses venture has felt mostly like a dud because the glasses were primarily used for taking social media photos and videos. The newer ones did come packaged with a Meta AI voice assistance, but prior to this update, it was mostly just a Siri clone.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/meta-ray-ban-glasses-ai-features",
-      "originalUrl": "https://mashable.com/article/meta-ray-ban-glasses-ai-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mashable.com/images/group-black-logo-purple.png",
-          "width": 2420,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T16:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

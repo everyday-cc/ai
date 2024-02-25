@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-24-why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities.md",
+      "title": "Why AI can (and should) lead to a renaissance in the humanities",
+      "excerpt": "We need more than ever to understand one another, which means not relying on AI to translate until we have bothered to learn each other’s languages and cultures. Let’s not approach everything through a narrow lens For example, the temptation for some ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities/",
+      "originalUrl": "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/a_robot_playing_the_violin_surrounded_by_represe-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-24T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-ai21-labs-outperforms-generic-llms-with-task-specific-models.md",
       "title": "AI21 Labs Outperforms Generic LLMs With Task-Specific Models",
       "excerpt": "AI21 Labs distinguishes itself in the competitive large language model landscape with its emphasis on specialized, task-specific models.",
@@ -1424,58 +1477,6 @@
         "name": "The Orland Park Prairie",
         "domain": "opprairie.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-language-of-love-lets-use-ai-to-find-the-heart-of-human-potential.md",
-      "title": "Language Of Love: Let’s Use AI to Find the Heart Of Human Potential",
-      "excerpt": "AI can serve as a bridge to clarity across different and also within the same languages, building bridges between cultures through mastering language and reducing bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc31fd62e34c5e08f238e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
-      "publishedDateTime": "2024-02-14T03:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

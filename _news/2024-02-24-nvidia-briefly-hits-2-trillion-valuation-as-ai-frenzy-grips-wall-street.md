@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 685
         isCached: true
-  - title: "Exclusive: Hummingbird launches AI-powered automation platform for financial crime investigations"
-    excerpt: "But even as the threats multiply thanks to gen AI — and the losses pile-up, with an estimated $485.6 billion lost to fraud globally in 2024, according to research from Nasdaq — there are technologists working on new ways to use AI and machine learning ..."
-    publishedDateTime: 2024-02-20T05:54:00Z
-    webUrl: "https://venturebeat.com/automation/exclusive-hummingbird-launches-ai-powered-automation-platform-for-financial-crime-investigations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 36
 
 secured: "anjs2IHTCeybNGgvIhiIt++Kn/O1/lQWpXtMjgW0aqGvkQ+QHtjS1/xPu5AnjwY3LO3CulqrgL/bIu5Uux3KdLeQTxmkiQ7VykFE3hbMhfGrZJvTC9OIlYU/Gm2TGoeynwv0S5eQH0QgG5edEPlu/cGgcgecYm0a9BnfKKGyuCZxhgu5MAf9T9p2N1Dly0vIx7mPvt6nAnG7+g3KfhNwkF1FYnxtnXxPFJrQEqYIPNBARlx5xBoyCIzvDlkNK/rq0NG6yX+3kcKMIHqIlwVmMMmCHm3LKLESCi9DRe46SHllQBtSLYmzY3zOJqz7PCp7zRVuia3Q6Ptrp31WugCX+W/bKtFWGo/5JAWf31AumMk=;/RF7znrCY5zaQzSBAcjqbg=="
 ---

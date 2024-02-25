@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei
 cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922?amp=1"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20240221pd213_files/1_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
-    excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
-    publishedDateTime: 2024-02-20T05:59:00Z
-    webUrl: "https://www.tweaktown.com/news/96310/nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 40
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96310_01_nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai_full.jpg"
-        width: 1500
-        height: 796
         isCached: true
 
 secured: "h28FVhCCNhfTiS7dsdwAZBJkIFqNPBwcHqIfQaX3gzcwzvNZp9tA838EPoGRil/UzGTsOnxuVSsInL08Ax55k8kbPDcgCRKUwodXaeWZ6PV4w5IeSMQZdiOlpma4Okt+XTctiEME6AFKS2EodlgPJ+ZKY5mReHbZP+MnHcjIEd8SCF/4h5jUiHqV5lowwlDLYrzT3TIxJMBUAPWCMygsqiA7Mb08VE1EZAQsfBN2jHMJ7hWJN0NIOLub3T4br/IWc4pmeHGARPgO2WNVjPGm/2yOncPqadq6iNdVfuhymN7G7scGXFUzow9TxTEXsQiFZDPSJ9AJnwF6DVvGjnG6r4YtH+MJs87iMYeGIIfEqSw=;ldt2u8HlwntFHyepaIj0PA=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/21/artificial-intellig
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising?amp=1"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: This Day
@@ -26,22 +26,6 @@ images:
     width: 1440
     height: 742
     isCached: true
-
-related:
-  - title: "Rethinking AI: From playing around to strategic business transformation"
-    excerpt: "leveraging platforms like Microsoft Azure, facilitates swift, scalable and cost-effective solutions. Integration into workflow: Identifying workflows for AI implementation is pivotal. Opt for use-cases with ample data available for machine learning and ..."
-    publishedDateTime: 2024-02-20T06:35:00Z
-    webUrl: "https://www.itweb.co.za/article/rethinking-ai-from-playing-around-to-strategic-business-transformation/G98Yd7LG48PvX2PD"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/06/Hennie-Fouche-02June2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "eMo4+EOJIscl/w5tAyq29TArBChki8el0v11LvtI+4/lDBsOp2LzQ9Lq0ta38hiaLIAhYYorFiIyC89nhj5fZGboCSBnck++AodCGNeYfYQEbOT0N8mB+Dy561Lrmmb7fKhMe8aM2ZlTeMtcbRRbPFtnLrBVkO/vmwVuuQyn3Rcxmz9YnRjSdcQlmpeAlto3rl5qiAEasQMzhsYyhTzOhdNvTheWz+k7ftAGRZMk0L0bWYoj8RUBTtoCu+fyCSyYpZBcVSAT5iEgjWGNhVMfVon51amwBcv25iV9v+CzQDDpSYwV+pRIbP+Jkc8e1iUjy9BacA7Nw1E89gSIBTrfoG1eQuemUp6f44oWPOAxUuJnCspLH+IsK8AzvignMVX/IuFv1ngBCzVOQq8wKAQUvTIRUsP9BwGr5FJ3fo6vfb8qNzx+O94zivJwgoiYAeNTX515NffdUmFmHyCqClPioNmKPNZvjmAmqa7MktDKgia2BWRdOhBvzr9abF9az0OXzrFjmdLFIcfsID3MtorBBg==;VfXs8ZucD/d6BJTFv4IFjQ=="
 ---

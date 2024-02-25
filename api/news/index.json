@@ -150,6 +150,59 @@
       ]
     },
     {
+      "path": "_news/2024-02-24-why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities.md",
+      "title": "Why AI can (and should) lead to a renaissance in the humanities",
+      "excerpt": "We need more than ever to understand one another, which means not relying on AI to translate until we have bothered to learn each other’s languages and cultures. Let’s not approach everything through a narrow lens For example, the temptation for some ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities/",
+      "originalUrl": "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/a_robot_playing_the_violin_surrounded_by_represe-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-24T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-02-24-integration-of-antidetect-with-ai-new-security-age-or-global-risk.md",
       "title": "Integration Of Antidetect With AI: New Security Age Or Global Risk?",
       "excerpt": "Unveil AI's impact on cybersecurity, merging advanced tech with ethics, shaping digital rights, and protecting online identities.",
@@ -210,7 +263,7 @@
       "originalUrl": "https://www.foxnews.com/tech/stop-loading-the-dishwasher-this-robot-aims-to-do-all-the-cleanup-for-you",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1193,57 +1246,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-a-once-in-a-generation-investment-opportunity-1-artificial-intelligence-ai-growth-stock-to-buy-now-and-hold-forever.md",
-      "title": "A Once-in-a-Generation Investment Opportunity: 1 Artificial Intelligence (AI) Growth Stock to Buy Now and Hold Forever",
-      "excerpt": "One company has been at the forefront of this shift for decades. It's been roughly a year since the latest developments in generative artificial intelligence (AI) burst onto the scene, captivating Main Street and Wall Street alike. These next-gen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/23/a-once-in-a-generation-investment-opportunity-1-ar/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/23/a-once-in-a-generation-investment-opportunity-1-ar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/766348/a-person-typing-on-a-laptop-with-various-ai-icons-displayed-bove.jpg",
-          "width": 2500,
-          "height": 1668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T08:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

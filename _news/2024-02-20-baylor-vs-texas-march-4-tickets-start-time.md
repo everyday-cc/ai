@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Grambling vs. Alabama State March 9 Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. Saturday's SWAC schedule includes the Alabama State Hornets (3-22) against the Grambling Tigers (17-8), at 3:00 PM ET. Watch college basketball, other live sports and more on Fubo! Use our link to sign up for a free trial."
+    publishedDateTime: 2024-02-25T06:52:00Z
+    webUrl: "https://www.ksla.com/sports/betting/2024/03/09/grambling-vs-alabama-state-buy-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KSLA
+      domain: ksla.com
+    quality: 20
+    images:
+      - url: "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/v2/DPXTLIKTXFNFNADRX37XADT5BE.jpg?auth=c46e24d4772c7ffa36c501273d80fe798fe4b38b618f30553056ac16bc309e90&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Northern Colorado vs. Northern Arizona March 4 Women's Basketball Tickets & Start Time"
     excerpt: "Northern Colorado Bears vs. Northern Arizona Lumberjacks women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-20T12:20:00Z

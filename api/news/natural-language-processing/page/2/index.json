@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-14-language-of-love-lets-use-ai-to-find-the-heart-of-human-potential.md",
+      "title": "Language Of Love: Let’s Use AI to Find the Heart Of Human Potential",
+      "excerpt": "AI can serve as a bridge to clarity across different and also within the same languages, building bridges between cultures through mastering language and reducing bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc31fd62e34c5e08f238e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
+      "publishedDateTime": "2024-02-14T03:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-10-ai-tools-for-australian-businesses-in-2024.md",
       "title": "10 AI Tools For Australian Businesses In 2024",
       "excerpt": "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,",
@@ -1296,60 +1348,6 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-creepy-embodied-ai-avatar-gives-a-face-and-a-voice-to-chatgpt-interaction.md",
-      "title": "Creepy embodied AI avatar gives a face and a voice to ChatGPT interaction",
-      "excerpt": "WEHEAD is a head-shaped artificial intelligence device that connects to ChatGPT and mimics a person and displays a face, expressions and a voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/creepy-embodied-ai-avatar-gives-face-voice-to-chatgpt-interaction",
-      "originalUrl": "https://www.foxnews.com/tech/creepy-embodied-ai-avatar-gives-face-voice-to-chatgpt-interaction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/6-Ready-for-an-AI-device-that-gives-a-face-and-a-voice-to-your-cha.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
       ]
     }
   ],

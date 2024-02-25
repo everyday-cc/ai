@@ -65,15 +65,6 @@ related:
         width: 1119
         height: 630
         isCached: true
-  - title: "Samsung Galaxy AI for Business is here"
-    excerpt: "The AI future we’ve long been promised is within reach ... The feature can also extract and summarise text straight from physical books and papers and can translate notes into other languages, while its Browsing Assist capabilities can turn long ..."
-    publishedDateTime: 2024-02-20T06:02:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/samsung-galaxy-ai-for-business-is-here-db309a5a-470f-42a4-82f8-4b010534a055"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 19
 
 secured: "PDG6OcOI2ku9uDpzGTOz25ME3vf7iVl+BIhkJF+M+iQB+jml0tfZIx8V+SJ+wjuXAtgI1AIbATPh8By/l+xyv+/MVAWyWJMa3lz2U2ZmE9scbw5RS7GpFir70wLXq1s9IRLKDVjmzKM/QL4Qb7o3+EGzqnKYbDhG2knqV7QErazmglSBoKAacStW1kCPDXec5X9urlPU3Fqb8VvFzNoWdCnWkbmpsRG0aMaSk/IpdPU3BgW1z+LUOw3PC5fCPES/pCtvoFEkWxH8a0vTNeq1tDVGoBLv2lcMQl25/6uw3uYRZz2bUNrUJet8tqSMeaPrBUGlULDH7am7Yk0WaXim/Lm15jXSRRameFmJDaqEudaNQC/w1VZFhND4nvxvJDmT2JMvjxXWVT73DlS+WdOZTxfF+Sg2rHK57axhvW9QdmQO6rLfJqezfie46bJVw1qGYG6wrAN6ANLCqmRLvYlZYp0ps58D3nCXjcq9c5hJICyjn0cUXe5e7Obl3GjOSNc9jmhdtDxVW8MnsGncK+X29A==;ngPBoGouN7wnX0PkARimGQ=="
 ---

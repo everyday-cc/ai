@@ -2,9 +2,9 @@
 category: news
 title: "Asian Chip Stocks Gain After Nvidia Signals Booming AI Demand"
 excerpt: "Shares of Asian chip makers rose Thursday after strong earnings from Nvidia buttressed expectations of booming global demand for semiconductors used in artificial intelligence."
-publishedDateTime: 2024-02-22T05:18:00Z
-originalUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2"
-webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2"
+publishedDateTime: 2024-02-22T10:17:00Z
+originalUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2?mod=tech_lead_pos2"
+webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2?mod=tech_lead_pos2"
 type: article
 quality: 64
 heat: -1
@@ -282,6 +282,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
+    excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
+    publishedDateTime: 2024-02-23T20:18:00Z
+    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/6eb6701b827383e927741aa77b9fb8d3308ff274/0_491_7488_4495/master/7488.jpg?width=620&quality=85&auto=format&fit=max&s=39f3cc2637afa6532a061368f40528be"
+        width: 620
+        height: 372
+        isCached: true
   - title: "US chipmaker Nvidia scales $2tn amid artificial intelligence boom"
     excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
     publishedDateTime: 2024-02-23T16:16:00Z
@@ -647,15 +663,6 @@ related:
       name: The Spokesman-Review
       domain: spokesman.com
     quality: 17
-  - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
-    excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
-    publishedDateTime: 2024-02-23T20:18:00Z
-    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "Nvidia becomes AI poster-child following earnings, trillion dollar valuation"
     excerpt: "\"Accelerated computing and generative AI have hit the tipping point. Demand is surging worldwide across companies, industries, and nations,\" Nvidia CEO Jensen Huang said in an earnings call."
     publishedDateTime: 2024-02-23T21:52:00Z
@@ -684,6 +691,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "+cxnhVX9fI3U4JXrrdMrHZCmnjHy3ujy+3ndWJAzbeg8DJJOgsYiNrF+FJ/KyDE6YfXM+ljs541vZqUiSbHwrPU7xUH3nFBwJtaAPxS/sAi/m7zbp+LAXYdVffY6xmk1oqxo2MNzQh/VVbyP/5qfTSS37kKSmvE+/7Mpflo/P5VgEtjo9S5RTwx++aclw8U7ZgmCKzEw1ye3L756ijKbcwc3kn9qx1q4Qlo/EKRE5O1NhSkoMz77p+ouqF9AHLJGteRR78/dJOhIDK2Oo1o7kMQrzL9kegOOY9c+Jd9aMfT2C/JVsQp03unPPI93S5gUmmzJuFNu0P/8SQ+9yJzKBiFJznP0L9YFiRwSHMLeBs9q3Suqg0TJzNzfYMo9k1bRv5Zlk/24WS1UDOX9t9CJxFExnQE7Sq0mOAxUpP1PsnuudfGOjRsWvl8Ow0R7FLsl9LuZlkD8fV2TEQ8aB1ETKgLb33OpXlJpcGpEGnTCiTD6EsaMDuT8q5cVpfRBhp2Ce/g5Rc8P+AsUeDmHq4Ffng==;HtYGRXdgA5AJLH7ck3SPtg=="
+secured: "aQKc7PtPPgD7kbjI9A24+4wq898QqZXOFgLQdN0sdKc0KMtTjWWhkTqUCTc26MxYQVyokkspL04GPeG35QFVmo7Yqk94bDFfppEn275TZTgu5XyqSP8OEpk8U8aMRCZHSeNts2Ogd5tKPFpIcVFiyEayR8ROVMkZ9rGuDJ041JjJUSDgmL2sIIWJVKTOq4VhK0VUc503FBqmmwEX/H4Qao9w87RH+cgG5t8fY8e8o6m/Z1aAIjpU96bXvfvM24J34qQ3QztDi26ItobXqTJfBBhleSCD/2Y9a50tCgpGTqvrap5w8KKAc9mI9wMJwlP3yy/Z/Bp5LnyRGehoiyIxd1hAVExSttT6FG0O3QBBOTpXRCh0lkYVKVK2YDVvPzxs8ItEbpaq8qFTMyD5POoGZDcyLTEvJ49lTR+DmOGwhsqDAASHqGgg0GuuWooLZuzcFCZWpsAM0LvcjIY+f2vbLex5HKqRxHKDpz3SzSXfYFKB8dmDBg/+jdl++6wWeY1/o1EI/bpcb7idIkrmlNAlhg==;pyzGUS2aVVKzMpZ02GIgiw=="
 ---
 

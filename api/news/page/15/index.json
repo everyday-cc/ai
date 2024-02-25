@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-02-13-how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker.md",
+      "title": "How BigBasket improved AI-enabled checkout at their physical stores using Amazon SageMaker",
+      "excerpt": "This post is co-written with Santosh Waddi and Nanda Kishore Thatikonda from BigBasket. BigBasket is India’s largest online food and grocery store. They operate in multiple ecommerce channels such as quick commerce, slotted delivery, and daily subscriptions. You can also buy from their physical stores",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/02/self-checkout-1243x630.png",
+          "width": 1243,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T17:44:51Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-san-mateo-county-wants-to-keep-driverless-cars-away-for-now.md",
       "title": "San Mateo County wants to keep driverless cars away for now",
       "excerpt": "Those who follow the driverless car business said there is also likely some public backlash as machines and artificial intelligence make a deeper move into our lives.",
@@ -1166,49 +1218,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-online-content-moderation-tools-market-booming-with-top-key-players-executing-different-strategies-and-plans.md",
-      "title": "Online Content Moderation Tools Market Booming With Top Key Players Executing Different Strategies And Plans",
-      "excerpt": "Our report delivers an in-depth grasp of market dynamics, empowering businesses to make informed decisions and tap into fresh opportunities. Additionally, through Porter’s Five Forces Analysis, the report sheds light on the competitive terrain, enabling market participants to discern diverse competitive scenarios and strategize accordingly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.opprairie.com/news/online-content-moderation-tools-market-booming-with-top-key-players-executing-different-strategies-and-plans/47078/",
-      "originalUrl": "https://www.opprairie.com/news/online-content-moderation-tools-market-booming-with-top-key-players-executing-different-strategies-and-plans/47078/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.opprairie.com/wp-content/uploads/2024/02/Space-based-Nuclear-Weapon.png",
-          "width": 563,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T09:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Orland Park Prairie",
-        "domain": "opprairie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

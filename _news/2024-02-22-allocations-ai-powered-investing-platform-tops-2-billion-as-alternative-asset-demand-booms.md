@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/allocations-ai-powered-investing-platfo
 webUrl: "https://venturebeat.com/ai/allocations-ai-powered-investing-platform-tops-2-billion-as-alternative-asset-demand-booms/"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 38
-  - title: "Exclusive: Hummingbird launches AI-powered automation platform for financial crime investigations"
-    excerpt: "But even as the threats multiply thanks to gen AI — and the losses pile-up, with an estimated $485.6 billion lost to fraud globally in 2024, according to research from Nasdaq — there are technologists working on new ways to use AI and machine learning ..."
-    publishedDateTime: 2024-02-20T05:54:00Z
-    webUrl: "https://venturebeat.com/automation/exclusive-hummingbird-launches-ai-powered-automation-platform-for-financial-crime-investigations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 36
 
 secured: "2VSn8Vn5SMmX11YiDQM/NV23SAI/mXE+mhJO/jGYco4fhZJP6FEhMqpO0oM9kXmxCkdd/G4Znv1+O1Bhjr2J1vEe20mFV0d85Q3GP6B9a2BzdLeiT02knD5AWqcca8wBj/wuHh+6uL05AEx/6/YWHKdimIbahFeBgQwxs+u2nexVW+i5Npn/fmZyr8Swhklr6PfdZk067GwIgftehUq4JOaN1IP9vGKRxhOYZ2yQzJZjssJ1JDEgcHP95U9+5ISfA1ESCTKBwES3W7/TBg/7q+lj4FB4xeO1yPGeLmkgIV9WVo/jWlj3ixocg+MhK/lM65ZBYaXVLshQ/+K0RbbPzzl65Z/hacR0ak3WL4KezSmts6wv+iJUsjVQAEXp+bAJVe3Q5V3jO3ubfN0xGp4GQ7BzGsvLUCw0To+MXzKEt3n4M+eDW603xYmLc98lEREkWIXZbyz75qYPwzJp7IdFCFBpfDlQiV34/XFgnaAeLY5zdM1Nur4uA7l6sQtAYXRA7Z9U8hoPPB80v3w0G4bFbw==;/5M//zTIyTiDLSRYbCjIjw=="
 ---

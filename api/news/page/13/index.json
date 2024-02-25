@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-02-15-equity-bret-taylor-has-a-brand-new-ai-startup.md",
+      "title": "Equity: Bret Taylor has a brand new AI startup",
+      "excerpt": "The AI agent space is busy, but Sierra has already raised $110 ... and it’s working on payments in Latin America. So this is a big FinTech round in a region that was once absolutely bonkers for FinTech and given the venture pullback we’ve seen in ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/",
+      "originalUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/",
+      "publishedDateTime": "2024-02-14T16:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-slack-rolls-out-generative-ai-search-and-summarization.md",
       "title": "Slack Rolls Out Generative AI Search and Summarization",
       "excerpt": "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance.",
@@ -1145,49 +1197,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression.md",
-      "title": "Machine Learning Can Predict Eyes at Risk for Diabetic Retinopathy Progression",
-      "excerpt": "Automated machine learning models may help identify eyes at risk for diabetic retinopathy (DR) progression based on ultra-widefield retinal images, according to a study published online Feb. 8 in JAMA Ophthalmology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.physiciansweekly.com/machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression/",
-      "originalUrl": "https://www.physiciansweekly.com/machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.shortpixel.ai/spai2/q_lossy+ret_img+to_webp/www.physiciansweekly.com/wp-content/uploads/2024/02/image1708768822.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T06:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -24,6 +24,19 @@ images:
     height: 768
     isCached: true
 
+related:
+  - title: "A self-driving car ride"
+    excerpt: "The future car is likely electric, shared and self-driving. You may have heard this statement before, but the truth is, it is not a car of the future; it is here today."
+    publishedDateTime: 2024-02-22T17:12:00Z
+    webUrl: "https://www.business-standard.com/opinion/columns/a-self-driving-car-ride-124022201286_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/opinion/columns/a-self-driving-car-ride-124022201286_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/opinion/columns/a-self-driving-car-ride-124022201286_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 24
+
 secured: "UqLevN1agPT8x/GVd+LdeAllcpatb2hT0UW4q2eOefEIqUIG5XqB2GGLz29eHGvDj8CGnnWD0zLbIhvAf9/pN9KdHWsXDyFQZapbaYbuwADbg/gV9HmwMuSjwwFFegJuH0L8huMjisno53x0o4KLvI5/RNZKI0B4oQw2/XXykLRIkcz/rd6XFXktaiyFjzjqYI83ZLr1jOoKd/yLzvHcT65ILp/oipRaS5JI09uNBqJ0+pELlisDfU7vsWwd3Cforz0fHR/WsD06chZDbQ4iHo7hkJYTBnPg/sSrs91iExeuEFnHa5tTeNzcxnvOM+llabDjgNK9+QmM4d7Bwr2IgV3M0Hw3gnTpfKHfki8vE8dZMwT0mVIsfqAqWKlO9r8xpwTPsURoOZ7vnXsgc/bwxGojCn4DTM5dIkgTkEPz8fYgClyd9XV+XldoxBJwdR/Z5IaW+zhpOMtkvfi8E3+9eYOn/s/ztd7d9oZJoGh+zvc8O4r437Kgkf2nHhYOzOxPpq2PRR/RAmYpLnXzWKjuqg==;BW/W8WG4b0lPU55uW7zXDA=="
 ---
 

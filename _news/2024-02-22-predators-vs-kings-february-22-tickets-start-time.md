@@ -33,20 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 43
-  - title: "Wild vs. Jets February 20 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Winnipeg Jets' Sean Monahan and the Minnesota Wild's Joel Eriksson Ek will be two of the top players to keep an eye on when these squads play on Tuesday at 8:00 PM ET, at Canada Life Centre. Minnesota's Kirill ..."
-    publishedDateTime: 2024-02-20T06:23:00Z
-    webUrl: "https://www.wowt.com/sports/betting/2024/02/20/wild-vs-jets-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WOWT.com
-      domain: wowt.com
-    quality: 22
-    images:
-      - url: "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/v2/CC6I6CFUKBMNPF7KJQKKEUON4E.jpg?auth=0f872b2e08e562a6ee990d121dd0bf5097964a41ed3f35dbf9116214b7a62765&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Lightning vs. Capitals February 22 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Pay attention to Nikita Kucherov and Alexander Ovechkin in particular on Thursday, when the Tampa Bay Lightning face the Washington Capitals at Amalie Arena, beginning at 7:00 PM ET. One of the major contributors this ..."
     publishedDateTime: 2024-02-21T22:03:00Z
@@ -58,6 +44,20 @@ related:
     quality: 22
     images:
       - url: "https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/v2/4JZ4U4E6BFIJLN3M7YHW5UIS64.jpg?auth=1d60a41492ac6f628a2d6035be241e41ac2b59476a8c8b3614d71c875207393c&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Lightning vs. Devils February 25 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. When the New Jersey Devils meet the Tampa Bay Lightning at Prudential Center on Sunday (the puck drops at 1:00 PM ET), Jack Hughes and Brayden Point will be two of the top players to watch. Nikita Kucherov is an important ..."
+    publishedDateTime: 2024-02-25T06:21:00Z
+    webUrl: "https://www.wtoc.com/sports/betting/2024/02/25/lightning-vs-devils-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: WTOC-TV
+      domain: wtoc.com
+    quality: 22
+    images:
+      - url: "https://gray-wtoc-prod.cdn.arcpublishing.com/resizer/v2/UFGLTQM2WRMOTNLIFA72DKZGTI.jpg?auth=decc9684e5ae5ebe86eb05dc246eb69b3dd7ed10fdb5650b0b258b5a48180838&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

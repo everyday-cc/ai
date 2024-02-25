@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-14-ai-can-help-do-your-taxes-how-hr-block-utilizes-microsofts-azure-openai-for-customers.md",
+      "title": "AI Can Help Do Your Taxes: How H&R Block Utilizes Microsoft's Azure OpenAI For Customers",
+      "excerpt": "The company is using AI technology from Microsoft Corporation's MSFT Azure OpenAI to help streamline the tax preparation process. H&R Block said it is the only company in the tax industry to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/12/36245483/ai-can-help-do-your-taxes-how-h-r-block-utilizes-microsofts-azure-openai-for-customers",
+      "originalUrl": "https://www.benzinga.com/news/23/12/36245483/ai-can-help-do-your-taxes-how-h-r-block-utilizes-microsofts-azure-openai-for-customers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Taxes_6.jpeg?width=1200&height=800&fit=crop",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36245483",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36245483",
+      "publishedDateTime": "2023-12-14T14:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision.md",
       "title": "Microsoft drastically expands Azure AI Studio to include Llama 2 Model-as-a-Service, GPT-4 Turbo with Vision",
       "excerpt": "Today, the company announced that it is making Meta Platforms’ rival open-sourced AI model Llama 2 available in Azure AI Studio, its cloud platform AI clearinghouse, in the form of a “model-as-a-service.” Similar to the now old acronym of SaaS ...",
@@ -1311,58 +1354,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-microsoft-bets-big-on-uk-ai-with-32bn-investment.md",
-      "title": "Microsoft Bets Big on UK AI with $3.2bn Investment",
-      "excerpt": "Microsoft’s biggest investment in the U.K. will see the company double its AI data centre footprint and deliver training to 1m+ people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-uk-ai-investment/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-uk-ai-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/12/AdobeStock_611053470.jpeg",
-          "width": 1400,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T04:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

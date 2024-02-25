@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2024-01-29-skusat-k-to-have-centre-for-ai-machine-learning.md",
-      "title": "SKUSAT-K to have centre for AI, machine learning",
-      "excerpt": "The Council gave in-principle approvals to various agenda points presented during the meeting including the setting up of Centre of Artificial Intelligence and Machine Learning in Agriculture (CAIML); SKUAST-K Innovation, Incubation and Entrepreneurship ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
-      "originalUrl": "https://www.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.tribuneindia.com/Content/images/Homepage_Assets/whatsapp.png",
-          "width": 360,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
-      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
-      "publishedDateTime": "2024-01-29T02:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-29-comparison-of-pathologist-and-deep-learningbased-prostate-cancer-grading-for-prediction-of-metastatic-outcomes-in-primary-prostate-cancer.md",
       "title": "Comparison of pathologist and deep learning–based prostate cancer grading for prediction of metastatic outcomes in primary prostate cancer.",
       "excerpt": "Comparison of whole slide image–based deep learning algorithms and genomic classifiers for assessing the risk of prostate cancer metastasis in surgically treated patients. Long-term results of dose escalation (80 vs 70 Gy) combined with long-term ...",
@@ -1280,6 +1237,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-after-ais-summer-whats-next-for-artificial-intelligence.md",
+      "title": "After AI’s summer: What’s next for artificial intelligence?",
+      "excerpt": "The most optimistic promises of AI will likely not be realized in 2024. Hopefully, any disappointments will not result in another AI winter.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/after-ais-summer-whats-next-for-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/after-ais-summer-whats-next-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/artificial_intelligence_bot_surrounded_by_flower-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T03:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

@@ -90,22 +90,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Nothing special about human mind that can't be reproduced by AI: DeepMind co-founder"
-    excerpt: "AI would be very useful without consciousness and not with it because it will be quite a slippery concept, said Mustafa Suleyman"
-    publishedDateTime: 2024-02-20T07:03:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/nothing-special-about-human-mind-that-cant-be-reproduced-by-ai-deepmind-co-founder-12310281.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/nothing-special-about-human-mind-that-cant-be-reproduced-by-ai-deepmind-co-founder-12310281.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/nothing-special-about-human-mind-that-cant-be-reproduced-by-ai-deepmind-co-founder-12310281.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 67
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/01/Mustafa-Suleyman-Twitter-MustafaSuleyman.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Google DeepMind C.E.O. Demis Hassabis on the Path From Chatbots to A.G.I."
     excerpt: "For more audio journalism and storytelling, download New York Times Audio, a new iOS app available for news subscribers. Hosted by Kevin Roose and Casey Newton Produced by Davis Land and Rachel Cohn Edited by Jen Poyant Engineered by Chris Wood Original mu ..."
     publishedDateTime: 2024-02-23T10:04:00Z

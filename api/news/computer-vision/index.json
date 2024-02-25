@@ -498,6 +498,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-17-somalilands-struggle-for-recognition-amidst-global-geopolitical-dynamics.md",
+      "title": "Somaliland’s struggle for recognition amidst global geopolitical dynamics",
+      "excerpt": "The Republic of Somaliland finds itself at a critical juncture in its journey for international recognition. The catalyst for this seismic development",
+      "sourceUrl": null,
+      "webUrl": "https://www.thereporterethiopia.com/38680/",
+      "originalUrl": "https://www.thereporterethiopia.com/38680/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-17T08:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ethiopian",
+        "domain": "thereporterethiopia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-17-samsung-galaxy-s24-ultra-vs-google-pixel-8-pro-a-tough-battle.md",
       "title": "Samsung Galaxy S24 Ultra vs. Google Pixel 8 Pro: a tough battle",
       "excerpt": "Beyond photographic features, the Pixel 8 Pro also includes built-in proofreading tools in Gboard, object and pet recognition for the selfie camera, and the ability for Google Assistant to summarize a web page for you. Suffice it to say that Google will ...",
@@ -1369,49 +1403,6 @@
       "provider": {
         "name": "www.hks.harvard.edu",
         "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-clearview-ai-is-still-collecting-photos-of-australians-for-its-facial-recognition-database.md",
-      "title": "Clearview AI is still collecting photos of Australians for its facial recognition database",
-      "excerpt": "Clearview AI said it can't stop using Australians' data for its facial recognition software because it can't tell who's Australian. Clearview AI has continued to collect millions of images of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crikey.com.au/2024/02/08/clearview-ai-australia-facial-recognition-data/",
-      "originalUrl": "https://www.crikey.com.au/2024/02/08/clearview-ai-australia-facial-recognition-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crikey.com.au/wp-content/uploads/2024/02/AdobeStock_455113640_Editorial_Use_Only-copy.jpg",
-          "width": 1480,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T14:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crikey",
-        "domain": "crikey.com.au",
         "images": null,
         "publishers": null,
         "authors": null

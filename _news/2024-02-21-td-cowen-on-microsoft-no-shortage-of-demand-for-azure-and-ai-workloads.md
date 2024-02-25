@@ -2,11 +2,11 @@
 category: news
 title: "TD Cowen on Microsoft : 'No shortage of demand for Azure and AI workloads'"
 excerpt: "TD Cowen analysts reiterated an Outperform rating on Microsoft (NASDAQ: MSFT) and the price target of $455, citing continued demand for Azure and AI workloads."
-publishedDateTime: 2024-02-21T13:16:00Z
-originalUrl: "https://www.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986"
-webUrl: "https://www.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986"
-ampWebUrl: "https://m.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986?ampMode=1"
-cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3309986?ampMode=1"
+publishedDateTime: 2024-02-21T14:20:00Z
+originalUrl: "https://au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207"
+webUrl: "https://au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207"
+ampWebUrl: "https://m.au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207?ampMode=1"
+cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/td-cowen-on-microsoft--no-shortage-of-demand-for-azure-and-ai-workloads-432SI-3125207?ampMode=1"
 type: article
 quality: 87
 heat: 97
@@ -42,6 +42,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "WnQX6W0TOrqUkS8Hd3PGgLA6uxg0ESi/LZ4OFwHBAGbDqK0JWlThE0LpoR+nQNKBMxHvtEiDajjI1dDX7wpgfl1QImE1L2at4rS/uYtbqp5n+MSpUsmpJ/4hJZO0a1ZvxVL/yNvadZFdF1JosFGv7S5ojexqak1TQbgraYHAF3y2qrW0nchp80aP7PdBtPrwzpNgXfaZ0RsZbLLxcI66MQGFlm89QNMvC3nxwe4NPwF8Lr4ijIgniwGcwP/WFwg6CNMba2qmBgbKajXtYuHR4AU1AMcexIbK0/bIOF1wi0Q4Wb19pMyymFUOerBr3k/isM2H4MlstdWBFrpGvD0Rd2kjbD3Z30pnUUXjufe56PbokPZI1vdoh5oMyO99tK6QOOhxE5nKVa8SIuHcBJ7LUSM2ZSe4FfXTz8VSj//MGDABHUmcIk5P9lTXkX8NFqOHktfv1/IYr1GANghfzffyMxZeR1H8XruXCaAbTN9UpKpYyODxBY4EG2YWXH14WaFdGByrtMK2xHQw9pYghPsVEA==;ZUgUSg3kvSjRxgNVFOFatA=="
+secured: "wf8wYQWHRuGkPVUW2NDpPfc/qNJF7wuQiDUKJNIfVwhC7o3zl06jW6aZ/g0pnY39uK15TwlR/tG2pkkXnpQ4tYyOp12ITfbvTD+wBgrmo51rotkuqNPWL7inTrC10xVuyMPpVIrwtuuGXZsA8caQXW9PlAgaCNvwQ/kvg6xqY2/49VcuE1wdGqrB3FcN/iOxglQuQfXBf8eufv1MswgKbn9fMekYkyKHuhe1iRWuQeMsQEzFa5/w/SMYRFyNHhChIc/ew6NMKM4cITVJTsDdc/v6NKX9Xnf4+dfTp7x/knp+fqQ7oN705mSBO5G8PlvGsT1MAfc5peAK8txaKD4Q9sYCHGWDYhSVux11AJwHV+E=;Dz8MHYnzSYDMBo17TpJaWQ=="
 ---
 

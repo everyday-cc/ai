@@ -37,6 +37,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "First there were AI chatbots. Now AI assistants can order Ubers and book vacations"
+    excerpt: "A new batch of AI-powered devices known as AI agents are all the rage in Silicon Valley. They're devices with a voice assistant that can complete real-world tasks for you."
+    publishedDateTime: 2024-02-21T10:25:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1232561606"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 31
+    images:
+      - url: "https://media.npr.org/assets/img/2024/02/20/stellakalinina_rabbitr1_30_3981-7ce1580c8a503e314ae6d3f6207c96de5052868a.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
   - title: "Inference.ai’s new generative AI chatbot takes the guesswork out of GPU sourcing"
     excerpt: "Inference.ai offers an extensive selection of GPUs, with a fleet of 18 different processors from Nvidia Corp., including its most advanced H100 model. It also offers four models from Nvidia’s rival Advanced Micro Devices Inc., including the all-new MI300X that was specifically designed to handle generative AI workloads."
     publishedDateTime: 2024-02-21T14:12:00Z

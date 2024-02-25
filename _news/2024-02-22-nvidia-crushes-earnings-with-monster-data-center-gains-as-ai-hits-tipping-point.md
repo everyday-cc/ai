@@ -384,20 +384,6 @@ related:
         width: 800
         height: 499
         isCached: true
-  - title: "Competition in the cloud: Microsoft's ‘unfair’ licensing tactics go under the microscope"
-    excerpt: "Microsoft's share of the global cloud infrastructure market is on the grow at a time when its customer recruitment and retention techniques are coming under increased regulatory scrutiny"
-    publishedDateTime: 2024-02-20T05:12:00Z
-    webUrl: "https://www.computerweekly.com/news/366570212/Competition-in-the-cloud-Microsofts-unfair-licensing-tactics-under-the-microscope"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 45
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/cloud-threat-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Microsoft to Invest $2.1 Billion in AI and Cloud Growth in Spain"
     excerpt: "Over the next two years to significantly scale up its artificial intelligence (AI) development and cloud computing capacities in Spain."
     publishedDateTime: 2024-02-21T07:59:00Z

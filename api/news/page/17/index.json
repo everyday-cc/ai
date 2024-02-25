@@ -2,6 +2,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2024-02-13-the-rise-of-the-bank-chief-ai-officer.md",
+      "title": "The rise of the bank chief AI officer",
+      "excerpt": "The escalated interest in artificial intelligence that OpenAI started over a year ago when it made its ChatGPT public has led to a relatively new C-suite role at banks: The chief AI officer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer",
+      "originalUrl": "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/48d7485/2147483647/strip/true/crop/600x315+0+12/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F02%2Fe1%2Ff57a9b8b40cb9b303029d0308944%2Fventuro-dominic-us-bank.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-how-the-australian-government-sees-ai-accelerating-productivity.md",
       "title": "How the Australian Government Sees AI Accelerating Productivity",
       "excerpt": "Regulation could inhibit the productivity gains of AI, according to the Australian Productivity Commission in a new, lengthy and wide-ranging research report.",
@@ -1101,49 +1145,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-vehicle-ablaze-in-san-francisco.md",
-      "title": "Crowd sets Waymo self-driving vehicle ablaze in San Francisco",
-      "excerpt": "Feb 11 (Reuters) - A crowd vandalized and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned (GOOGL.O), opens new tab company and authorities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?taid=65c9ace088998b0001e22471",
-      "originalUrl": "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?taid=65c9ace088998b0001e22471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T23:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

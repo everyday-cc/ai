@@ -61,15 +61,6 @@ related:
         width: 616
         height: 366
         isCached: true
-  - title: "Samsung Galaxy AI for Business is here"
-    excerpt: "The AI future we’ve long been promised is within reach ... The feature can also extract and summarise text straight from physical books and papers and can translate notes into other languages, while its Browsing Assist capabilities can turn long ..."
-    publishedDateTime: 2024-02-20T06:02:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/samsung-galaxy-ai-for-business-is-here-db309a5a-470f-42a4-82f8-4b010534a055"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 19
   - title: "Samsung One UI 6.1 update brings AI to more Galaxy smartphones"
     excerpt: "Samsung has announced that it is bringing its AI tools to more Samsung Galaxy devices with the release of the new Samsung One UI 6.1 software update. This"
     publishedDateTime: 2024-02-22T14:01:00Z

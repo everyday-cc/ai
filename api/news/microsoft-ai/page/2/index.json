@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-13-eu-says-apple-imessage-3-microsoft-services-are-not-digital-gatekeepers.md",
+      "title": "EU says Apple iMessage, 3 Microsoft services are not digital 'gatekeepers'",
+      "excerpt": "Feb. 13 (UPI) --The European Commission said the four platform services by Apple and Microsoft should not be considered \"gatekeepers\" as defined by the Digital Markets Act after an investigation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/5401707846789/2024/1/033a3a5736c93029032c750c2036488e/v1.5/EU-says-Apple-iMessage-3-Microsoft-services-are-not-digital-gatekeepers.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
+      "publishedDateTime": "2024-02-13T14:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to.md",
       "title": "ChatGPT will now remember its past conversations with you (if you want it to)",
       "excerpt": "ChatGPT is getting the ability to recall snippets of information you ask it to remember. Here's how the feature works and how to opt in (or out!).",
@@ -1256,50 +1299,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.md",
-      "title": "Microsoft, Lenovo, Big Tech Companies Sign UNESCO AI Ethics Recommendation",
-      "excerpt": "The tech giants will be required to safeguard human rights in all stages of AI development, design, acquisition, sale, and usage under the terms of a new agreement signed by the tech corporations GSMA, INNIT, Lenovo Group, LG AI Research, Mastercard, Microsoft, Salesforce, and Telefonica.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "originalUrl": "https://www.techtimes.com/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/435738/unesco-unveils-first-ever-global-guidance-on-generative-ai-in-education-research.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "publishedDateTime": "2024-02-06T03:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

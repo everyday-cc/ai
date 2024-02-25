@@ -76,20 +76,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
-    excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
-    publishedDateTime: 2024-02-20T05:59:00Z
-    webUrl: "https://www.tweaktown.com/news/96310/nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 40
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96310_01_nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai_full.jpg"
-        width: 1500
-        height: 796
-        isCached: true
 
 secured: "TCWhuUyRFneix2odohYVNb9tbAQYCHbYTjeR1ZOmI5gcsDsSo7ADxmZQzjN4sDBFWP1CIkSIWndORQRKb1l/RS4/KvySiBlygKkladHBfuV/VTXgYkSqmoXzS3+/7wzx5icAGRP/CTeYPVzV2HCuE/RkrjbUOI1OPcfsI6HGk4DDjqodZokEXlqyb4a0epIbluTOw1G8OuZLtvQy9sp6YNeXgKvJusfw5daFvWLJmZXezwN9iOjLm06bpJZnIptRe66a3hZvE28emoqeciCvTuSUZy4090/w8Aw3zWE35xqREfxnjE21MTrm8HZdeR7KyRMNtU38FIETlgcP0l0AiOI48ZNhnDe/NnP8ptyA6oo=;vMWZFPErgK+HMB3/x1Oirw=="
 ---

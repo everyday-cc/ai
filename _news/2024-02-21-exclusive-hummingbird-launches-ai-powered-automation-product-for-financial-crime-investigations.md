@@ -54,15 +54,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 38
-  - title: "Exclusive: Hummingbird launches AI-powered automation platform for financial crime investigations"
-    excerpt: "But even as the threats multiply thanks to gen AI — and the losses pile-up, with an estimated $485.6 billion lost to fraud globally in 2024, according to research from Nasdaq — there are technologists working on new ways to use AI and machine learning ..."
-    publishedDateTime: 2024-02-20T05:54:00Z
-    webUrl: "https://venturebeat.com/automation/exclusive-hummingbird-launches-ai-powered-automation-platform-for-financial-crime-investigations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 36
 
 secured: "hv69HiZ3gZyArUTls3QXGRnPocS8l1X7ZhumsJFyPWx0b2sxefqEF8++CXkmLE0O1JISWHZOwa8OTUoC43dyY59PkF1Yiu+IKmQlBWf9d5lnMydmgN0q8I8gpX568xWxC1RLCfKzOG4lho3Y16kP1z/PRgq+opVKlvh2N3n1PoX1ZDCrr1Qb7n2bROLvXqWLP2fivryBeoDS++mu2i5/yAgmZolNHcBbu5gw8mUAHbsnaVwjNKghv1m3LDrS1V29/yrLI9+4s4xN4Z6U+S4aVVtZONGxYvxsyU4IiRyIT0730VI8s8SCN6NJ//hZ5r1UMuTX6+IjcfAyxJeqIbQs6UpdFocxCnl03O4xgen15CE=;Cvpw68Xxo5ZWRTiFGHvzYw=="
 ---

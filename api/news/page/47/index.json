@@ -2,6 +2,101 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2024-01-20-when-states-try-to-take-away-americans-freedom-of-thought.md",
+      "title": "When States Try to Take Away Americans’ Freedom of Thought",
+      "excerpt": "He refused to do so, calling the requirement “McCarthyist” and an affront to his free-speech rights ... demonstrate “an ongoing awareness and recognition of racial, social and cultural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/01/20/opinion/campus-free-speech.html",
+      "originalUrl": "https://www.nytimes.com/2024/01/20/opinion/campus-free-speech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/01/20/opinion/20statespeech/20statespeech-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-patent-issued-for-financial-autopilot-uspto-11861694-united-services-automobile-association.md",
+      "title": "Patent Issued for Financial autopilot (USPTO 11861694): United Services Automobile Association",
+      "excerpt": "United Services Automobile Association has been issued patent number 11861694, according to news reporting originating out of Alexandria, Virginia, by NewsRx editors. The patent’ s inventors are Hendry,",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-financial-autopilot-uspto-11861694-united-services-automobile-association",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-financial-autopilot-uspto-11861694-united-services-automobile-association",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T22:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-20-this-ai-robot-was-made-to-help-seniors-combat-loneliness.md",
       "title": "This AI robot was made to help seniors combat loneliness",
       "excerpt": "One in 3 adults ages 50 to 80 reported feeling isolated from others in the past year, according to the 2023 National Poll on Healthy Aging.",
@@ -1036,112 +1131,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner.md",
-      "title": "ChatGPT goes to college: OpenAI finds its first higher education partner",
-      "excerpt": "While some schools ban the use of generative AI, Arizona State University becomes the first college to implement ChatGPT Enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2372eed714badfd193c24dff4c994ee251cdcb3e/2024/01/19/07c812ae-e03d-4645-ac93-fae1d19d88fb/gettyimages-1406728413.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/",
-      "publishedDateTime": "2024-01-19T09:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-bard-ai-is-coming-to-google-messages.md",
-      "title": "Bard AI is coming to Google Messages",
-      "excerpt": "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-messages-bard-3405223/",
-      "originalUrl": "https://www.androidauthority.com/google-messages-bard-3405223/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T09:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

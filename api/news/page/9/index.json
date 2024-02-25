@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-17-somalilands-struggle-for-recognition-amidst-global-geopolitical-dynamics.md",
+      "title": "Somaliland’s struggle for recognition amidst global geopolitical dynamics",
+      "excerpt": "The Republic of Somaliland finds itself at a critical juncture in its journey for international recognition. The catalyst for this seismic development",
+      "sourceUrl": null,
+      "webUrl": "https://www.thereporterethiopia.com/38680/",
+      "originalUrl": "https://www.thereporterethiopia.com/38680/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-17T08:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ethiopian",
+        "domain": "thereporterethiopia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-17-after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race.md",
       "title": "After Sam Altman, SoftBank founder Masayoshi Son joins AI chip race",
       "excerpt": "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion for his AI venture",
@@ -1174,58 +1208,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-the-iphone-16-could-feature-major-neural-engine-upgrade-for-on-device-generative-ai-tasks.md",
-      "title": "The iPhone 16 could feature major Neural Engine upgrade for on-device generative AI tasks",
-      "excerpt": "Apple's future generation of iPhone, iPad, and MacBook chips, the M4 and A18, will have an increased number of cores in their improved Neural Engines, writes",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101910-iphone-16-could-feature-major-neural-engine-upgrade.html",
-      "originalUrl": "https://www.techspot.com/news/101910-iphone-16-could-feature-major-neural-engine-upgrade.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-04-image-20.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T11:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

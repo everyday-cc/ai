@@ -29,91 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "This new AI Assistant from Adobe lets you chat with your PDFs at no additional cost"
-    excerpt: "Getting started is easy. All Acrobat and Reader users will have to do is open the applications, where they will find the AI Assistant in beta, which they can then use for a range of tasks, including providing answers to recommended or user-generated questions through a chatbot."
-    publishedDateTime: 2024-02-20T06:01:00Z
-    webUrl: "https://www.zdnet.com/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/"
+  - title: "The Top Three Reasons SMB Owners Need AI Assistant in Acrobat"
+    excerpt: "Instead of struggling to recall all the details of a 50-page brand guide or distill key takeaways from a dense research document, I now plug the document text into Acrobat and AI Assistant gives me the power to get to the information I need, fast."
+    publishedDateTime: 2024-02-21T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/the-top-three-reasons-smb-owners-need-ai-assistant-in/469873"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/0551db9716d6cec71a6e47019995b146b120ebd6/2024/02/19/66af0daa-4e89-472c-92ff-221a0f127dba/a249585c-e21d-4694-bd61-6384a61dfe26.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Adobe's AI Assistant Can Summarize PDFs, PowerPoints for You"
-    excerpt: "Adobe promises customer data won't be used to train its latest AI model, which can quickly read and pull key takeaways from PDFs, Microsoft Word docs, and PowerPoint presentations."
-    publishedDateTime: 2024-02-20T17:53:00Z
-    webUrl: "https://www.pcmag.com/news/adobes-ai-assistant-can-summarize-pdfs-powerpoints-for-you"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 69
     images:
-      - url: "https://i.pcmag.com/imagery/articles/04FOeQe1PQMSVO52EUTBJk2-1.fit_lim.size_1200x630.v1708450480.jpg"
-        width: 1120
-        height: 630
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1708452261-Adobe-E-Hero.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "New Adobe 'AI Assistant' will tackle your long, dense PDFs"
-    excerpt: "AI Assistant also provides citations and clickable links ... Before that, she co-founded a startup consulting business for emerging entrepreneurial hubs in South America, Europe, and Asia. You can find her on Twitter at @cecily_mauran."
-    publishedDateTime: 2024-02-21T18:04:00Z
-    webUrl: "https://mashable.com/article/adobe-ai-assistant-summarize-edit-pdfs"
+  - title: "Oppo to infuse phones with its own AI assistant"
+    excerpt: "AI provides innovative mobile capabilities, including better quality images and multi-language translation, and assists users to better craft written content. Oppo says it will provide AI capabilities as well as a development platform to support the new ec ..."
+    publishedDateTime: 2024-02-23T04:21:00Z
+    webUrl: "https://www.itweb.co.za/article/oppo-to-infuse-phones-with-its-own-ai-assistant/VgZey7JlNODqdjX9"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
     images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03RxUKgIX9M8PDtGsMArUdH/hero-image.fill.size_1200x675.v1708536414.png"
+      - url: "https://www.itweb.co.za/static/pictures/2023/03/Find-N2-Flip-2023.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe's new AI assistant for Acrobat and Reader can summarize PDFs and answer questions"
-    excerpt: "Read our ethics statement. What just happened? With PDFs being the preferred format for documents used by organizations, it shouldn't come as too much of a surprise to learn that Adobe has launched an artificial intelligence assistant for its Reader and ..."
-    publishedDateTime: 2024-02-21T05:17:00Z
-    webUrl: "https://www.techspot.com/news/101959-adobe-new-ai-acrobat-reader-can-summarize-pdfs.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 41
-  - title: "First there were AI chatbots. Now AI assistants can order Ubers and book vacations"
-    excerpt: "A new batch of AI-powered devices known as AI agents are all the rage in Silicon Valley. They're devices with a voice assistant that can complete real-world tasks for you."
-    publishedDateTime: 2024-02-21T10:25:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1232561606"
-    type: article
-    provider:
-      name: Capital Public Radio
-      domain: capradio.org
-    quality: 31
-    images:
-      - url: "https://media.npr.org/assets/img/2024/02/20/stellakalinina_rabbitr1_30_3981-7ce1580c8a503e314ae6d3f6207c96de5052868a.jpg?s=6"
-        width: 948
-        height: 710
-        isCached: true
-  - title: "Adobe's New AI Assistant Is Designed to Read PDFs for You"
-    excerpt: "Adobe is getting into the AI assistant game. The assistant, which is rolling out in beta today as a part of Adobe Acrobat and Adobe Reader, is a new tool that \"reads\" through documents and can answer questions related to their content,"
-    publishedDateTime: 2024-02-20T14:20:00Z
-    webUrl: "https://www.inc.com/ben-sherry/adobes-new-ai-assistant-is-designed-to-read-pdfs-for-you.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
-  - title: "Adobe Brings Conversational AI to Trillions of PDFs with the New AI Assistant in Reader and Acrobat"
-    excerpt: "AI Assistant leverages the same artificial intelligence and machine learning models behind Acrobat Liquid Mode, the award-winning technology that supports responsive reading experiences for PDFs on mobile."
-    publishedDateTime: 2024-02-20T15:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-adobe-brings-conversational-ai-trillions-pdfs-with-new-/2024/02/20/9964741.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "FXHpC/YKh8blxWCaqqV/Wf4mMWGbg458ixO0e32Mg8kJkbgD17+hSTirdk3jK3/irHINEu9LpOt3RSECAhELw9PUjyNzazCJESrp7PCFtCqaz4WAGsaJCAfiESpDBQpY7vhh2kiQeTnHkgAjClr/s0H3ZSKGqXqgAWDaOG34+p9JVWLKTsHtTzM1LgFGB468yRYFOZpHtujl2J1PSocBGiPmGP91wpm8Q0JihAgWYJkIYL/txElJSiyWAGFFgWFLhNMfon34cJtlgDXjjvj4gALp1CMUDffzcGXaB7Q54KVHAXofh0onV8nTLfNtVrDke+w5rT1SWV/2No/t7t3scahrI1NjsNwZqPoq8n3qyKc=;3/ORCbZ8H7aw69AF+6yPCQ=="
 ---

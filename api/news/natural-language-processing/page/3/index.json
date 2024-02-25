@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-31-creepy-embodied-ai-avatar-gives-a-face-and-a-voice-to-chatgpt-interaction.md",
+      "title": "Creepy embodied AI avatar gives a face and a voice to ChatGPT interaction",
+      "excerpt": "WEHEAD is a head-shaped artificial intelligence device that connects to ChatGPT and mimics a person and displays a face, expressions and a voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/creepy-embodied-ai-avatar-gives-face-voice-to-chatgpt-interaction",
+      "originalUrl": "https://www.foxnews.com/tech/creepy-embodied-ai-avatar-gives-face-voice-to-chatgpt-interaction",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/6-Ready-for-an-AI-device-that-gives-a-face-and-a-voice-to-your-cha.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-we-have-nothing-to-fear-from-ai-incorporating-deep-learning.md",
       "title": "We Have Nothing To Fear From AI: Incorporating Deep Learning",
       "excerpt": "You will often hear people talking about deep learning as part of the AI conversation; this term can sound sinister when in fact it is the opposite. Deep learning needs lots of data. But it also needs people to harness and turn it into a competitive advantage.",
@@ -1355,49 +1409,6 @@
       "provider": {
         "name": "USA Today",
         "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-david-lammys-speech-disrupted-by-pro-palestinian-protesters.md",
-      "title": "David Lammy’s speech disrupted by pro-Palestinian protesters",
-      "excerpt": "David Lammy’s speech calling for a ceasefire in Gaza was disrupted by pro-Palestinian protesters. Labour’s shadow foreign secretary was addressing the Fabian Society conference on Saturday when flag-waving demonstrators mounted the stage shouting: “When will you condemn the genocide?",
-      "sourceUrl": null,
-      "webUrl": "https://www.ealingtimes.co.uk/news/national/24063575.david-lammys-speech-disrupted-pro-palestinian-protesters/",
-      "originalUrl": "https://www.ealingtimes.co.uk/news/national/24063575.david-lammys-speech-disrupted-pro-palestinian-protesters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ealingtimes.co.uk/resources/images/17666148/?type=og-image",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ealing Times",
-        "domain": "ealingtimes.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

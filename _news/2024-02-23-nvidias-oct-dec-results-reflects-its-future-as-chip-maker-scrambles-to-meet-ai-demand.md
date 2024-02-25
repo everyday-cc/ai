@@ -263,8 +263,8 @@ related:
         isCached: true
   - title: "Asian Chip Stocks Gain After Nvidia Signals Booming AI Demand"
     excerpt: "Shares of Asian chip makers rose Thursday after strong earnings from Nvidia buttressed expectations of booming global demand for semiconductors used in artificial intelligence."
-    publishedDateTime: 2024-02-22T05:18:00Z
-    webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2"
+    publishedDateTime: 2024-02-22T10:17:00Z
+    webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2?mod=tech_lead_pos2"
     type: article
     provider:
       name: Wall Street Journal
@@ -279,6 +279,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
+    excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
+    publishedDateTime: 2024-02-23T20:18:00Z
+    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/6eb6701b827383e927741aa77b9fb8d3308ff274/0_491_7488_4495/master/7488.jpg?width=620&quality=85&auto=format&fit=max&s=39f3cc2637afa6532a061368f40528be"
+        width: 620
+        height: 372
+        isCached: true
   - title: "US chipmaker Nvidia scales $2tn amid artificial intelligence boom"
     excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
     publishedDateTime: 2024-02-23T16:16:00Z
@@ -643,15 +659,6 @@ related:
     provider:
       name: The Spokesman-Review
       domain: spokesman.com
-    quality: 17
-  - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
-    excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
-    publishedDateTime: 2024-02-23T20:18:00Z
-    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
     quality: 17
   - title: "Nvidia becomes AI poster-child following earnings, trillion dollar valuation"
     excerpt: "\"Accelerated computing and generative AI have hit the tipping point. Demand is surging worldwide across companies, industries, and nations,\" Nvidia CEO Jensen Huang said in an earnings call."

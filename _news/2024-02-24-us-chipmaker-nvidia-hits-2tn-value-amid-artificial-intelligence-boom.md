@@ -3,10 +3,12 @@ category: news
 title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
 excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
 publishedDateTime: 2024-02-23T20:18:00Z
-originalUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/6eb6701b827383e927741aa77b9fb8d3308ff274/0_491_7488_4495/master/7488.jpg?width=620&quality=85&auto=format&fit=max&s=39f3cc2637afa6532a061368f40528be"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "European Chip Stocks Surge After Nvidia Sales Reach New Heights on Booming AI Demand"
@@ -274,8 +282,8 @@ related:
         isCached: true
   - title: "Asian Chip Stocks Gain After Nvidia Signals Booming AI Demand"
     excerpt: "Shares of Asian chip makers rose Thursday after strong earnings from Nvidia buttressed expectations of booming global demand for semiconductors used in artificial intelligence."
-    publishedDateTime: 2024-02-22T05:18:00Z
-    webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2"
+    publishedDateTime: 2024-02-22T10:17:00Z
+    webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2?mod=tech_lead_pos2"
     type: article
     provider:
       name: Wall Street Journal
@@ -683,6 +691,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "6jrFOkNXqLjocchjWNUwgBF/cszQes3jg5wV+7TlqAYAhF96HZ40IYQKLhYgU9amIuInl9xcZBlHfhz3PHM9WMUAUvojgREsyM5TJgvxul51492E6IyEallzTLmPy9GiUrnJIMOzpGieM7Vw3jfihMLxEINYvvUWsIWZ3Pkf0UOHIgRWThDQ/1v5d38TjXM2718jXsh+jNRoQjnjWkmrSc+YkS221Pri2xaDfMOmxaN4dK03+JsY/XaNTwZHU/ob9v+ksKZNyHkcZH6sHr6mNJZiCKB26+frvtZRytoIZL+zcFYbSSmwlJ+uajyfQSPYiyB3Fz3+S/bFFwnXfEncs6C2aV5jBuKYrZ7ivqZ/cjtOxJNurEwbbREcptLwOpmb7nrL4S65YlV7XmR0JDACZ8o05fNNioqmFKeEiE6kSHgFH3P0vfH02qqZtYNymIDEOJE7jcHxsxkFlUz2iAxPZR3UufVK8PLVkKKA4RHindbBY4sfrHj42lm5nq2KVWz8CV2hR7PdG48QcP04Z9Pm8A==;mhPczE8fb3Ocg85pcXTnIw=="
+secured: "MbmEbafnTk3aBw1W6HvZTquFjvKPCPp5WLnjSvvTQW+r9ANVYfnYjQ+tcRp9X1MiDAklaRb818ScRuxtlyYyryAnILIEUR+GkekyXpv7BGkgKueJFRwTmrr7fVz1NMQz51/cQdH72VQ0t2X8d1HrTZNQ+GfJY3QPTKUH0/J1n2efmr+Lm/7kgCZmzOk5d70HI8C7Pt9q6WFck3EGinDSug8ZFMoMoriYyQRvZdzYnNSKfTojViSAIyFMLLFmUcQdZUxWDk/G7JLoZR+8poX5wCAXLdVgQyZIIotPXJi14Du0nw3JHD6jCZLqtUH2wPe/0AF3t3q4NHLaLQKtAD/K44NQEtd05LQMPfKdtCc4XAI=;7EiGclNB+RdmvSAyQIr/dA=="
 ---
 

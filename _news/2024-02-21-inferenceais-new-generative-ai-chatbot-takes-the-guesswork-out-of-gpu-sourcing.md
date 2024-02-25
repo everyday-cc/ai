@@ -43,6 +43,20 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 34
+  - title: "First there were AI chatbots. Now AI assistants can order Ubers and book vacations"
+    excerpt: "A new batch of AI-powered devices known as AI agents are all the rage in Silicon Valley. They're devices with a voice assistant that can complete real-world tasks for you."
+    publishedDateTime: 2024-02-21T10:25:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1232561606"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 31
+    images:
+      - url: "https://media.npr.org/assets/img/2024/02/20/stellakalinina_rabbitr1_30_3981-7ce1580c8a503e314ae6d3f6207c96de5052868a.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
   - title: "How AI health care chatbots learn from the questions of an Indian women's organization"
     excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
     publishedDateTime: 2024-02-22T00:00:00Z

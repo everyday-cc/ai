@@ -37,20 +37,6 @@ related:
         width: 2560
         height: 1793
         isCached: true
-  - title: "Penn Engineers Develop Chip That Uses Light to Power AI"
-    excerpt: "University of Pennsylvania engineers have developed a new chip that uses light waves, rather than electricity, to perform the complex math essential to training AI."
-    publishedDateTime: 2024-02-20T06:23:00Z
-    webUrl: "https://www.tasnimnews.com/en/news/2024/02/20/3042075/penn-engineers-develop-chip-that-uses-light-to-power-ai"
-    type: article
-    provider:
-      name: Tasnim News Agency
-      domain: tasnimnews.com
-    quality: 54
-    images:
-      - url: "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1402/12/01/1402120109340937829427454.jpg"
-        width: 800
-        height: 557
-        isCached: true
 
 secured: "csh3egz3vR1S0rFeyDrECJJIETZI3/yVrjNU17yy/HPch3Rm3I/TaTL2Z1rfxpzBDPggi3dhIk2ZM41BefklA1IAXXSiSxT+18PI2pLfiVTyAsL/kGAeAEbiGqahxhrwFiDKdglE2JPckq7bYwgVP7uIwGz5JpBweU5Dw2a6btuocXKK5lcyfPKqbby4P2ap9gsC/3rwlTX/2t6eJyeJSVy6slwGoYph/IGS8O0ewJMvHJtZODnLhxdf/CGAN0R78Jjekf6qJq+hLBXMRhOFv0ZsEO8ZioO2GxJfhwOfp5L9azWW9f73gHQGO0XXVgMT9u8SIHSsCeEl/BxtH9wC/7W2pLceEKGaZOJkCnkSqiU=;788MBVXh+BCG8mrczzozgQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/tech/stop-loading-the-dishwasher-this-robo
 webUrl: "https://www.foxnews.com/tech/stop-loading-the-dishwasher-this-robot-aims-to-do-all-the-cleanup-for-you"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Stop loading the dishwasher; this robot aims to do all the cleanup for you"
+    excerpt: "Who couldn't use a little help cleaning up around the house? Right? Imagine a little helper robot that could clean up rooms around your home all by itself. Scientists at New York University and AI at Meta have joined forces to develop a robot to do just that."
+    publishedDateTime: 2024-02-24T20:00:00Z
+    webUrl: "https://wfin.com/fox-technology-news/stop-loading-the-dishwasher-this-robot-aims-to-do-all-the-cleanup-for-you/"
+    type: article
+    provider:
+      name: WFIN
+      domain: wfin.com
+    quality: 52
+    images:
+      - url: "https://wfin.com/wp-content/uploads/2024/02/Blanchard-E-sandusky-accident-800x445-1-390x205.jpg"
+        width: 390
+        height: 205
+        isCached: true
 
 secured: "lsLPMrIpyZkndFmtns5dzvWMhf++TzDbF8l8HoODF5xNnsD/XF2mqNGLapok7exNJ1E/3bqWgXipbomqfY9BHuboG67TID244ZKX6XXtsO+K7ToX2W2dYXnX1UPcHWqkDABbyMKVu52pAMGAkfBub4GV0kwBUzkTEELrSY6kmGBbUi0utKqqJ2YIlV0VishTwoKyGutSN2uKo90dsDPjfQZAZXcQXeGr1wyG88VlL9f/UldoNyThb064zlj1hAke+vHt/ts+Qv+lqWSWjrmHtDLqt5h0/bdYn5fVNLKAQQY6yN69KwHJe9wMm5CLeF/Ku8cuMflDc2n1OJVuR+btdNr3kNkJ0z9Fzk7qfPJt1VNceC7bYmcrLsqFNY7dfZYcXg2klC5K6jJA14rLH/C0P0L2nbxflbYzqGXc7hASn18UEFAMVogTdK96RdMogbXaz0pnAgZ/kxm849/Fj9KzDUONJp2Hmmn00SG+3n/2Lw1SbtskhSk+GVaxaeNPftEFDgYL+IEaKpW75AVsXqSuag==;K/i1LxNBhR4v+gnOIDIqng=="
 ---

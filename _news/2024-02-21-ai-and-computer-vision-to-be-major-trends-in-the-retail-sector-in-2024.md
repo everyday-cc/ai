@@ -7,7 +7,7 @@ originalUrl: "https://www.esmmagazine.com/features/ai-and-computer-vision-to-be-
 webUrl: "https://www.esmmagazine.com/features/ai-and-computer-vision-to-be-major-trends-in-the-retail-sector-in-2024-259826"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "China and US should join their strengths in AI revolution"
-    excerpt: "From media to finance, healthcare to transportation, GenAI, as a representative of universal AI technology, is making inroads primarily into the \"soft\" aspects of the service and manufacturing sectors. The sectors with the highest potential value include retail, consumer goods, finance, pharmaceuticals and medical products."
-    publishedDateTime: 2024-02-21T01:01:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202402/21/WS65d5382ba31082fc043b8335.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 41
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202402/21/65d54123a31082fc2b68ddb4.jpeg"
-        width: 474
-        height: 316
-        isCached: true
 
 secured: "644LrYsvEPPFe+/+guO8DWmLphhDkkZIkFf3PegmmO4SU30kAbvzgTvClKkF4oOkLA0Z5B3d27LDM9akHDriWpJgzUucn+vmzB+n9MMzOOl6pyosutdK3KfVuSo6J8p2ObOzL7nZfp5jHgNe72nxf6jxxO1Tivds1oQ7RmZNpiPLosEtOICEh7rgr2oEakcJPGNC6T7n+NP8NAmTl1FXpEzVj/RT9ir1qMEkXmfp6O69s88V2aWkoOaV8VXbcKlrCpgALXt1tAvmpTD8UyxK7yZvkIhIFXLWnvqt0kEoln2U0fwIFuoWHlATXpjuRk7MHKlGtB82eVlM+29fI/o37DXOJ23dR1BpeypoWcXTgNZbzF+/CD/YJV6JliZH0r/z2hJDDVz1V7CXoODDmrRcMD15lS9IgJftUKYOaMS+VURL5O0AAjKp6VKKmFSVVp2eDWd16+3X/JrA/3sEfMdfZK/TsdeOxfVwe3zKHOV5dyH0xLD1eP4BHLEyMHZSChW6/0Nui2/JPS6K67aqlBb5Cg==;LRPe6jKcXXP3r2xjMxzxEQ=="
 ---

@@ -54,7 +54,7 @@
       "originalUrl": "https://www.foxnews.com/tech/stop-loading-the-dishwasher-this-robot-aims-to-do-all-the-cleanup-for-you",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -201,7 +201,7 @@
       "originalUrl": "https://www.bbc.com/news/av/business-68348353",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -348,50 +348,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-artificial-intelligence-matters-arising.md",
-      "title": "ARTIFICIAL INTELLIGENCE: MATTERS ARISING",
-      "excerpt": "“Understanding emotions and interpreting personal touches are quintessential human traits that arise from our complex neural networks and emotional intelligence. AI might be able to recognise fa­cial expressions, but it cannot understand the depth of emo­tions that underlie them.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/ARTIFICIAL-INTELLIGENCE.jpg",
-          "width": 1440,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising?amp=1",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/21/artificial-intelligence-matters-arising?amp=1",
-      "publishedDateTime": "2024-02-20T23:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1423,6 +1379,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-14-best-robotics-stocks-to-buy-now.md",
+      "title": "14 Best Robotics Stocks To Buy Now",
+      "excerpt": "The robotics market’s expansion is attributed to significant technological advancements in artificial intelligence and machine learning, a surge in demand for automation due to increasing labor shortages and rising labor costs, government initiatives and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/",
+      "originalUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/11/15152835/HHGC-insidermonkey-1700080113045.jpg?auto=format&expires=1739318400&w=400&h=225&fit=crop",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/?amp=1",
+      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/?amp=1",
+      "publishedDateTime": "2024-02-13T14:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
