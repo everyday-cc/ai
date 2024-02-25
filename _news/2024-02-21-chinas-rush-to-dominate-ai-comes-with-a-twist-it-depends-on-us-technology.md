@@ -43,6 +43,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "China’s rush to dominate AI comes with a twist: It depends on US technology"
+    excerpt: "In interviews, Dr Lee presented his AI system as an alternative to options such as Meta’s generative AI model LLaMA. There was just one twist: Some of the technology in 01.AI’s system came from LLaMA. Dr Lee’s start-up then built on Meta’s ..."
+    publishedDateTime: 2024-02-25T02:03:00Z
+    webUrl: "https://www.straitstimes.com/business/china-s-rush-to-dominate-ai-comes-with-a-twist-it-depends-on-us-technology"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/02/25/CHINAAIAMBITION1.JPG"
+        width: 860
+        height: 573
+        isCached: true
 
 secured: "zPl6ew/Ljjg6qVD4IL2wb5h8g/09Cd/WJ/nFfHYNyXyqgGmbFiTB0LpLGn/4tpl2/5lbt0cSy7rXz9+HvHoSuMo9L0TEmnDyUDtbH8o+6l0zByzTyrGaYME38lZOk9NfWt/pujnBs0CZy/uKNxIR1h5XoNIT0fDAozKElIFzQUJJFnnGMMVF83wexTZyttxgcIV0cEcIKGDdGugAMakhkte7AiBs3dKAs9X3hSoVsiBgehts79MhdyCvCz0fgvWivhL3IYHFEWkids32sVY/aVepSPcJmozoERGg7jTIHg6zYiZwfLvV7S5QPI7K+HSggqmtB+9GeaLxuEVkm3hAim7OBu0ODiuT4WtGHxy5RDo=;zducPiUY1Nb4TC31ct1AxQ=="
 ---

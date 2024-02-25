@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-gener
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html"
 type: article
 quality: 64
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -113,6 +113,20 @@ related:
       - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/01/google.jpg"
         width: 2290
         height: 1325
+        isCached: true
+  - title: "Google Pauses AI Image Creation Amidst Uproar Over Racially Diverse Historical Depictions"
+    excerpt: "Google Gemini halts image generation due to controversial, culturally insensitive depictions of historical figures."
+    publishedDateTime: 2024-02-25T00:53:00Z
+    webUrl: "https://hoodline.com/2024/02/google-pauses-ai-image-creation-amidst-uproar-over-racially-diverse-historical-depictions/"
+    type: article
+    provider:
+      name: Hoodline
+      domain: hoodline.com
+    quality: 30
+    images:
+      - url: "https://img.hoodline.com/2024/2/google-pauses-ai-image-creation-amidst-uproar-over-racially-diverse-historical-depictions.webp"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Google accused of being \"woke\" after Gemini creates inaccurate, racially diverse historical images"
     excerpt: "Social media users have been posting the images created by Gemini on sites such as X. Some of the more striking ones include a prompt to"

@@ -1,31 +1,25 @@
 ---
 category: news
 title: "Assert AI Unveils Pratham: World's First No-code Computer Vision Platform"
-excerpt: "Pratham, which translates to first in Hindi, employs an innovative framework that places the power of computer vision directly into the hands of users, allowing them to analyze and utilize video data effortlessly."
-publishedDateTime: 2024-02-21T05:13:00Z
-originalUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform"
-webUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform"
-ampWebUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp"
+excerpt: "In a pioneering move, Assert AI proudly announces the launch of Pratham, a groundbreaking platform that is patented for its innovative approach to democratizing computer vision and artificial intelligence."
+publishedDateTime: 2024-02-21T07:40:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/assert-ai-unveils-pratham-world-s-first-no-code-computer-vision-platform-124022100398_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/assert-ai-unveils-pratham-world-s-first-no-code-computer-vision-platform-124022100398_1.html"
+ampWebUrl: "https://www.business-standard.com/amp/content/press-releases-ani/assert-ai-unveils-pratham-world-s-first-no-code-computer-vision-platform-124022100398_1.html"
+cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/press-releases-ani/assert-ai-unveils-pratham-world-s-first-no-code-computer-vision-platform-124022100398_1.html"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 53
+heat: 53
+published: false
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280"
-    width: 1280
-    height: 853
-    isCached: true
-
-secured: "Ro5V3CKn73RlMK+T+IFJqP+Yec0SbA8ws7keCnVMuvNQIJOn5Wvw8NkaaEvGV53KcRWGJhO3RIRemN8Jmf+jA7sY9nfH3/qN7VU6qiN1XKPeA3lpQpqRmZRtUF18LNeUYYBjs+UeS2mHA59ejmYWKiRgTC3pGq2RlVYYiOqCL8Qwa837Lmz0kV/irWz9UB7FWsTdX5rEk9CT/7lYGuVccgqI7YAamJRlljqVoifIWw780TvxfIPaTFnD3pxKLoUChZeh85G2o0kIm5SfcOlniELjenYwX96zpLNJymwpAmhp7QxtXj9NaDUZ8qB3r5VrNl3W55AJK98Hs7obKBmxvVD3+Y1RyMD0HXUGg72SQfo=;790aier/STI2BdRQ8A2c/Q=="
+secured: "jr1LLTcvOaSY/9XXpVQoGGe+BM1F5BCZ57ExO1F2TT0vAhXI8pqY67CBqgwxzCzvzTcUbq+8Lh1PR1hUlcY26oZGqMwBPeHQNW+87XGhGcElHDIcEnEx8u/uZ/2K45C5wV7mI/bViK2CJV492fjM0JkIHCXEPRAMwR+XzuQPiGrKgP8Tp+6giXNZYMxIIC5q+Jrukv+AY17wT2LffqBhAfyQP5/hWZqAgK/5GAcbICWrInsDPxXTRNMOaro27Cyy2Qv4n3NVxcKkJ5IEaXX+bstq0kL6I7FxlImnZvGNZB6GggSzlylghs4Dvb0hghJjpbLi075ZO6OIRvyqqxCRT9y0bEVAhsTy2zF+TweDnQOCwptoqnUj9D2yXJJO2lCF8uPaXV2TpCRUI13QB658YhWm44p/GuhDbm79Y6wCOznTb87WK4BbuDS4so8tMhtzGGET267nIdcor13yvb+1GB9YA43N81MvCV/r0RAMkNIBPUDNkJxrw8AMpfpfigtPtBWUa1uuAEs+/N+1w2UKpg==;HTJqw+8Y//qT2ha/pDKjSw=="
 ---
 

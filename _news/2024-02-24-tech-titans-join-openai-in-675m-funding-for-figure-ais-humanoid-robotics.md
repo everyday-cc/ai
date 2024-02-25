@@ -21,72 +21,206 @@ topics:
   - AI
 
 related:
-  - title: "Opinion: OpenAI’s Sam Altman has plans for AI that could mean big money for Intel"
-    excerpt: "Open AI CEO Sam Altman drew widespread attention recently when he appealed for up to $7 trillion to develop silicon-chip manufacturing capacity that can power artificial intelligence. The unprecedented scope of this vision, equal to more than 20% of U.S ..."
-    publishedDateTime: 2024-02-21T01:54:00Z
-    webUrl: "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
+  - title: "Amazon founder Jeff Bezos joins Microsoft, ChatGPt maker OpenAI to invest in this robotics company"
+    excerpt: "ARK Venture Fund, Aliya Capital Partners, and Tamarack are also among the startup's investors ... may surpass larger competitors. Figure AI, based in Sunnyvale, California, develops general-purpose humanoid robots capable of operating in various ..."
+    publishedDateTime: 2024-02-25T02:19:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 107
     images:
-      - url: "https://images.mktw.net/im-806855/social"
+      - url: "https://static.toiimg.com/thumb/msid-107974425,width-1280,height-720,resizemode-4/107974425.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
-  - title: "Opinion: AI, Elections And Law - Why No Country Can Tackle AI Alone"
-    excerpt: "Talks between EU and India on tackling the threat of online disinformation reflect the need for collective global action against the risks posed by generative AI."
-    publishedDateTime: 2024-02-21T08:30:00Z
-    webUrl: "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192"
-    ampWebUrl: "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1"
+  - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup"
+    excerpt: "Apart from Jeff Bezos and Nvidia, other technology companies are involved as well. Intel Corp.’s venture capital arm is pouring in $25 million, and LG Innotek is providing $8.5 million. Samsung’s investment group,"
+    publishedDateTime: 2024-02-24T06:19:00Z
+    webUrl: "https://www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-19126871.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-19126871.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-19126871.htm/amp"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 74
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/12/technology-3389904-1280-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
+  - title: "Microsoft is investing in more powerful AI tech to save company cash, here’s how"
+    excerpt: "Microsoft is developing server network cards to replace the ones offered by Nvidia, which will help the company save some cash and improve the performance of its Nvidia chip servers. Read more to know the details."
+    publishedDateTime: 2024-02-21T10:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/articleshow/107883223.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107883190,width-1280,height-720,resizemode-4/107883190.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Bezos and Nvidia Collaborate with OpenAI to Finance Humanoid Robot Startup"
+    excerpt: "Jeff Bezos of Amazon, alongside Nvidia, have pooled their resources to invest in Figure AI, a startup focused on advancing human-like robots."
+    publishedDateTime: 2024-02-24T22:14:00Z
+    webUrl: "https://techstory.in/bezos-and-nvidia-collaborate-with-openai-to-finance-figure-ai/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 69
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2024/02/720x480.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Intel will make chips for Microsoft"
+    excerpt: "US chip company Intel will make high-end semiconductors for Microsoft, the companies announced, as it seeks to compete with TSMC and Samsung to supply the next generation of silicon used in artificial intelligence for customers around the world."
+    publishedDateTime: 2024-02-22T14:35:00Z
+    webUrl: "https://arstechnica.com/gadgets/2024/02/intel-will-make-chips-for-microsoft/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 66
+  - title: "Billionaire Jeff Bezos, Nvidia join OpenAI in $675 million funding for humanoid robot startup"
+    excerpt: "Tech moguls, including Jeff Bezos, are delving into the world of human-like robots, a venture driven by the quest to"
+    publishedDateTime: 2024-02-24T07:58:00Z
+    webUrl: "https://nairametrics.com/2024/02/24/billionaire-jeff-bezos-nvidia-join-openai-in-675-million-funding-for-humanoid-robot-startup/"
+    ampWebUrl: "https://nairametrics.com/2024/02/24/billionaire-jeff-bezos-nvidia-join-openai-in-675-million-funding-for-humanoid-robot-startup/?amp=1"
+    cdnAmpWebUrl: "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2024/02/24/billionaire-jeff-bezos-nvidia-join-openai-in-675-million-funding-for-humanoid-robot-startup/?amp=1"
+    type: article
+    provider:
+      name: Nairametrics
+      domain: nairametrics.com
+    quality: 63
+    images:
+      - url: "https://nairametrics.com/wp-content/uploads/2023/10/Jeff-Bezos.png"
+        width: 1694
+        height: 1058
+        isCached: true
+  - title: "Jeff Bezos, Nvidia Join Forces in $675M Investment for Humanoid Robots"
+    excerpt: "The AI robotics industry is witnessing significant activity ... as previously reported by TechTimes. Utilizing artificial intelligence and advanced technologies akin to \"Google Maps\" for Earth's crust, KoBold aims to enhance copper and cobalt exploration."
+    publishedDateTime: 2024-02-23T19:02:00Z
+    webUrl: "https://www.techtimes.com/articles/301997/20240223/jeff-bezos-nvidia-join-forces-675m-investment-humanoid-robots.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/301997/20240223/jeff-bezos-nvidia-join-forces-675m-investment-humanoid-robots.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301997/20240223/jeff-bezos-nvidia-join-forces-675m-investment-humanoid-robots.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
     quality: 59
     images:
-      - url: "https://c.ndtvimg.com/2023-08/295nvsms_deepfake-generic_625x300_22_August_23.jpg?ver-20240117.06"
-        width: 1200
-        height: 738
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444061/amazon-ceo-and-blue-origin-founder-jeff-bezos-speaks-at-air-force-association-air-space-and-cyber-conference.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "OpenAI unveils AI that instantly generates eye-popping videos"
-    excerpt: "SAN FRANCISCO — In April, a New York startup called Runway AI unveiled technology that let people generate videos, like a cow at a birthday party or a dog chatting on a smartphone, simply by typing a sentence into a box on a computer screen. The four ..."
-    publishedDateTime: 2024-02-22T00:05:00Z
-    webUrl: "https://www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/"
-    ampWebUrl: "https://www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/amp/"
-    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/amp/"
+  - title: "Microsoft and OpenAI-backed robotics startup secures funding from Bezos, Nvidia - report"
+    excerpt: "The company, which also enjoys backing from OpenAI and Microsoft Corp . (NASDAQ: MSFT ), is in the process of raising approximately $675 million in a funding round, giving it a pre-money valuation of approximately $2 billion."
+    publishedDateTime: 2024-02-23T20:13:00Z
+    webUrl: "https://za.investing.com/news/microsoft-and-openaibacked-robotics-startup-secures-funding-from-bezos-nvidia--report-432SI-3022163"
     type: article
     provider:
-      name: West Hawaii Today
-      domain: westhawaiitoday.com
+      name: Investing
+      domain: investing.com
     quality: 57
+  - title: "Bezos and Nvidia join OpenAI in funding humanoid robot startup"
+    excerpt: "Jeff Bezos, Nvidia and other big technology names are investing in a business that’s developing human-like robots, according to people with knowledge of the situation, part of a scramble to find new applications for artificial intelligence. The startup ..."
+    publishedDateTime: 2024-02-24T00:00:00Z
+    webUrl: "https://www.japantimes.co.jp/business/2024/02/24/tech/bezos-nvidia-openai/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 54
     images:
-      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2024/02/web1_altman-2-22.jpg"
-        width: 760
-        height: 570
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/24/282434.jpg"
+        width: 1000
+        height: 643
         isCached: true
-  - title: "Sam Altman Brushes Off $7 Trillion AI Chip Project Speculation: 'Don't Pay Too Much Attention To That'"
-    excerpt: "OpenAI CEO Sam Altman denies reports of seeking $7 trillion for AI chip project, urges not to pay attention. Project estimated to cost $5-7 trillion."
-    publishedDateTime: 2024-02-22T13:01:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37261076/sam-altman-brushes-off-7-trillion-ai-chip-project-speculation-dont-pay-too-much-attention-to-that"
+  - title: "Bezos, Nvidia join OpenAI in funding robot startup"
+    excerpt: "The AI robotics industry has been busy lately. Earlier this year, OpenAI-backed Norwegian robotics startup 1X Technologies AS raised US$100 million. Vancouver-based Sanctuary AI is developing a humanoid robot called Phoenix. And Tesla Inc. is working on a ..."
+    publishedDateTime: 2024-02-24T07:06:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/bezos-nvidia-join-openai-funding-robot-startup"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
-  - title: "Opinion: Artificial intelligence must reflect the diversity of humanity. New technology can help."
-    excerpt: "On my last visit to La Jolla Cove, this scenic corner of San Diego sparked a question for me: What does artificial intelligence, AI, think about places like La Jolla Cove? Whose opinions and voices shape what an AI system believes? It highlights the ..."
-    publishedDateTime: 2024-02-21T14:08:00Z
-    webUrl: "https://www.sandiegouniontribune.com/opinion/commentary/story/2024-02-21/opinion-artificial-intelligence-ai-diversity-humanity-bespoke-model"
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 54
+    images:
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/24/e4ba9ee9a6ace9819ce589b5e8bea6e4babae8b29de4bd90e696afefbc88jeff20bezosefbc89e8a2abe78886e69699e585a9e5b9b4e5858de7b9b3e7a885efbc8ce5bc95e799bce786b1e8adb0e38082e6b39.jpg"
+        width: 880
+        height: 587
+        isCached: true
+  - title: "Jeff Bezos, Nvidia join OpenAI in funding humanoid robot startup"
+    excerpt: "Advt The AI robotics industry has been busy lately. Earlier this year, OpenAI-backed Norwegian robotics startup 1X Technologies AS raised $100 million. Vancouver-based Sanctuary AI is developing a humanoid robot called Phoenix. And Tesla Inc. is working on ..."
+    publishedDateTime: 2024-02-24T02:37:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup/107956623"
     type: article
     provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 4
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107956623,imgsize-1171641,width-1200,height=765,overlay-ettelecom/internet/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Bezos, Microsoft join OpenAI in humanoid robot startup"
+    excerpt: "Jeff Bezos, Microsoft and other big technology names are investing in a business, Figure, that's developing humanlike robots."
+    publishedDateTime: 2024-02-23T23:15:00Z
+    webUrl: "https://www.seattletimes.com/business/bezos-microsoft-join-openai-in-humanoid-robot-startup/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 51
+  - title: "Bezos and Nvidia Partner with OpenAI to Fund Humanoid Robot Startup: Bloomberg"
+    excerpt: "In a bold move signaling a profound shift in the tech landscape, industry titans Amazon.com (AMZN.O), Nvidia (NVDA.O), and others are channelling significant investments into Figure AI, a startup at the forefront of developing human-like robots."
+    publishedDateTime: 2024-02-24T05:51:00Z
+    webUrl: "https://www.goodreturns.in/news/bezos-and-nvidia-partner-with-openai-to-fund-humanoid-robot-startup-bloomberg-1332525.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 50
+    images:
+      - url: "https://www.goodreturns.in/img/2024/02/ai-human12-1708753262.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup, Bloomberg reports"
+    excerpt: "Figure AI, also backed by ChatGPT-maker OpenAI and Microsoft, is raising about $675 million in a funding round that carries a pre-money valuation of about $2 billion, according to the report. Bezos had committed $100 million through his firm Explore Investments LLC and Microsoft is investing $95 million,"
+    publishedDateTime: 2024-02-24T01:33:00Z
+    webUrl: "https://www.aol.com/news/bezos-nvidia-join-openai-funding-202228535.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 50
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/fc4f5b2e6b306a32dda4bbede7b6897a"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Bezos and Nvidia Team Up With OpenAI to Fund Humanoid Robot Startup"
+    excerpt: "According to Bloomberg news sources, Amazon founder Jeff Bezos, along with Nvidia and other prominent tech players, are funneling investments into Figure"
+    publishedDateTime: 2024-02-24T14:12:00Z
+    webUrl: "https://propakistani.pk/2024/02/24/bezos-and-nvidia-team-up-with-openai-to-fund-humanoid-robot-startup/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 34
 
 secured: "UTecZzHdNZ2/XSiO8Z/15ZxxYHetYPm2YN6UlC7CksAeHiBZu1y/BGqU3yjzykGiwL2SYWMkUFno7YJMSlsdACPF9ehJpVt//RtoU+bx8G5XggS6zQjt9JC4HMVqgizJqcuAH793gnlo14mwCfJnHqGfdGbkHy6YovVKv5LvLxWBiU+MmhNT7zFvlZw3O6Owo/ESm2zN3MhaGSJhcH06wMhBVCuohqU9BJrKA0jg5wDxMQLXj2ogd3bIkhm8ZInlz7ZMln7ONtvLW+Cg4ThfoSxZ2IDF18A7k5eK3D67a73ezU5V6h8Ddk27epYELOub4/U1jOgjrXNo3d6iO28JYZUlIeu3mzDazsCENIR4+QcUjT2B6lMuEmxunjcAe0CQtu2w95a3yoBEF9Ov9vzsQWuDV2M65BdGn/u7GX6QTEUrxCOadCYC4PWo28k52J811iylKcVKo2f+sYGTaDfbJuS9Ih5mZ7z0Gqihp03bjK3nAgawIIbu+5Bt+T99tribXQFlHcLKOE3ZxlrVx96oZA==;NePc7vPxeu7TKTT5hl+15g=="
 ---

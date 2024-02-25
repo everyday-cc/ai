@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/world/2024/feb/23/vending-machine-facial
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "A Vending Machine Error Revealed Secret Face Recognition Tech"
+    excerpt: "Canada-based University of Waterloo is racing to remove M&M-branded smart vending machines from campus after outraged students discovered the machines were covertly collecting face recognition data without their consent. The scandal started when a student ..."
+    publishedDateTime: 2024-02-24T17:01:00Z
+    webUrl: "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/65d91d8d6248d84bf2a999c2/191:100/w_1280,c_limit/vending%20machine%20facial%20recognition.png"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Vending machine error reveals secret face image database of college students"
     excerpt: "The scandal started when a student using the alias SquidKid47 posted an image on Reddit showing a campus vending machine error message, \"Invenda.Vending.FacialRecognitionApp.exe,\" displayed after the machine failed to launch a facial recognition application that nobody expected to be part of the process of using a vending machine."
     publishedDateTime: 2024-02-23T22:03:00Z

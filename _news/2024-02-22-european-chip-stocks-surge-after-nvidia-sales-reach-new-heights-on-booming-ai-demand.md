@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/european-chip-stocks-surge-aft
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31"
 type: article
 quality: 114
-heat: 624
+heat: 634
 published: true
 
 provider:
@@ -405,6 +405,20 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F46ff9054-e1e9-4f27-8daf-be2cea7c2859.jpg?crop=3716%2C2090%2C0%2C193&resize=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "The AI chip behind Nvidia’s supersonic stock rally"
+    excerpt: "Demand for Nvidia’s H100 is so great that some customers are having to wait as long as six months to receive it."
+    publishedDateTime: 2024-02-25T02:02:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/nvidia-h100-this-is-the-chip-behind-ais-supersonic-stock-rally/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 54
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2024/02/407967706-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Nvidia Earnings Are Coming. Why It’s Time to Think About AI Chip Competition."
     excerpt: "It’s not an exaggeration to say that the tech sector's recent rally might depend on Nvidia beating expectations for its earnings report this week. However, stockholders in the chip maker should be looking beyond the immediate horizon and particularly at potential competitive threats."

@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "A Vending Machine Error Revealed Secret Face Recognition Tech"
+    excerpt: "Canada-based University of Waterloo is racing to remove M&M-branded smart vending machines from campus after outraged students discovered the machines were covertly collecting face recognition data without their consent. The scandal started when a student ..."
+    publishedDateTime: 2024-02-24T17:01:00Z
+    webUrl: "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/65d91d8d6248d84bf2a999c2/191:100/w_1280,c_limit/vending%20machine%20facial%20recognition.png"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Canadian university vending machine error reveals use of facial recognition"
     excerpt: "Snack dispenser at University of Waterloo shows facial recognition message on screen despite no prior indication"
     publishedDateTime: 2024-02-23T17:56:00Z

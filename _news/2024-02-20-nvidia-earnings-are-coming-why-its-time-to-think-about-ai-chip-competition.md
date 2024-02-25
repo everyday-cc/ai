@@ -415,6 +415,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "The AI chip behind Nvidia’s supersonic stock rally"
+    excerpt: "Demand for Nvidia’s H100 is so great that some customers are having to wait as long as six months to receive it."
+    publishedDateTime: 2024-02-25T02:02:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/nvidia-h100-this-is-the-chip-behind-ais-supersonic-stock-rally/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 54
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2024/02/407967706-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "BESI exceeds fourth-quarter targets on demand for AI-related chipmaking parts"
     excerpt: "Orders and year-end backlog for hybrid bonding — a form of chip packaging required for AI applications — nearly doubled from last year, BESI said, adding that around a half of fourth-quarter orders were for its most advanced hybrid bonding systems."
     publishedDateTime: 2024-02-22T01:38:00Z

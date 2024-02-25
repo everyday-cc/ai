@@ -112,6 +112,20 @@ related:
         width: 2290
         height: 1325
         isCached: true
+  - title: "Google Pauses AI Image Creation Amidst Uproar Over Racially Diverse Historical Depictions"
+    excerpt: "Google Gemini halts image generation due to controversial, culturally insensitive depictions of historical figures."
+    publishedDateTime: 2024-02-25T00:53:00Z
+    webUrl: "https://hoodline.com/2024/02/google-pauses-ai-image-creation-amidst-uproar-over-racially-diverse-historical-depictions/"
+    type: article
+    provider:
+      name: Hoodline
+      domain: hoodline.com
+    quality: 30
+    images:
+      - url: "https://img.hoodline.com/2024/2/google-pauses-ai-image-creation-amidst-uproar-over-racially-diverse-historical-depictions.webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google accused of being \"woke\" after Gemini creates inaccurate, racially diverse historical images"
     excerpt: "Social media users have been posting the images created by Gemini on sites such as X. Some of the more striking ones include a prompt to"
     publishedDateTime: 2024-02-22T13:14:00Z

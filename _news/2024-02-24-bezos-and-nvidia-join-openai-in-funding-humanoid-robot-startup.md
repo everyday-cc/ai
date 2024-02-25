@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon founder Jeff Bezos joins Microsoft, ChatGPt maker OpenAI to invest in this robotics company"
+    excerpt: "ARK Venture Fund, Aliya Capital Partners, and Tamarack are also among the startup's investors ... may surpass larger competitors. Figure AI, based in Sunnyvale, California, develops general-purpose humanoid robots capable of operating in various ..."
+    publishedDateTime: 2024-02-25T02:19:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 107
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107974425,width-1280,height-720,resizemode-4/107974425.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup"
     excerpt: "Apart from Jeff Bezos and Nvidia, other technology companies are involved as well. Intel Corp.’s venture capital arm is pouring in $25 million, and LG Innotek is providing $8.5 million. Samsung’s investment group,"
     publishedDateTime: 2024-02-24T06:19:00Z
@@ -41,6 +57,22 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Microsoft is investing in more powerful AI tech to save company cash, here’s how"
+    excerpt: "Microsoft is developing server network cards to replace the ones offered by Nvidia, which will help the company save some cash and improve the performance of its Nvidia chip servers. Read more to know the details."
+    publishedDateTime: 2024-02-21T10:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/articleshow/107883223.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107883190,width-1280,height-720,resizemode-4/107883190.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bezos and Nvidia Collaborate with OpenAI to Finance Humanoid Robot Startup"
     excerpt: "Jeff Bezos of Amazon, alongside Nvidia, have pooled their resources to invest in Figure AI, a startup focused on advancing human-like robots."
     publishedDateTime: 2024-02-24T22:14:00Z
@@ -55,6 +87,26 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Tech Titans Join OpenAI in $675M Funding for Figure AI’s Humanoid Robotics"
+    excerpt: "Major tech players Amazon, Nvidia, and Microsoft are investing heavily in Figure AI, a humanoid robotics venture supported by OpenAI. The $675 million funding round signals growing interest in AI startups and potential advancements in robotics technology."
+    publishedDateTime: 2024-02-24T13:39:00Z
+    webUrl: "https://coingape.com/amazon-nvidia-microsoft-join-openai-in-675m-figure-ai-investment/"
+    ampWebUrl: "https://coingape.com/amazon-nvidia-microsoft-join-openai-in-675m-figure-ai-investment/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/amazon-nvidia-microsoft-join-openai-in-675m-figure-ai-investment/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 67
+  - title: "Intel will make chips for Microsoft"
+    excerpt: "US chip company Intel will make high-end semiconductors for Microsoft, the companies announced, as it seeks to compete with TSMC and Samsung to supply the next generation of silicon used in artificial intelligence for customers around the world."
+    publishedDateTime: 2024-02-22T14:35:00Z
+    webUrl: "https://arstechnica.com/gadgets/2024/02/intel-will-make-chips-for-microsoft/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 66
   - title: "Billionaire Jeff Bezos, Nvidia join OpenAI in $675 million funding for humanoid robot startup"
     excerpt: "Tech moguls, including Jeff Bezos, are delving into the world of human-like robots, a venture driven by the quest to"
     publishedDateTime: 2024-02-24T07:58:00Z
@@ -87,6 +139,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft and OpenAI-backed robotics startup secures funding from Bezos, Nvidia - report"
+    excerpt: "The company, which also enjoys backing from OpenAI and Microsoft Corp . (NASDAQ: MSFT ), is in the process of raising approximately $675 million in a funding round, giving it a pre-money valuation of approximately $2 billion."
+    publishedDateTime: 2024-02-23T20:13:00Z
+    webUrl: "https://za.investing.com/news/microsoft-and-openaibacked-robotics-startup-secures-funding-from-bezos-nvidia--report-432SI-3022163"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 57
   - title: "Bezos, Nvidia join OpenAI in funding robot startup"
     excerpt: "The AI robotics industry has been busy lately. Earlier this year, OpenAI-backed Norwegian robotics startup 1X Technologies AS raised US$100 million. Vancouver-based Sanctuary AI is developing a humanoid robot called Phoenix. And Tesla Inc. is working on a ..."
     publishedDateTime: 2024-02-24T07:06:00Z

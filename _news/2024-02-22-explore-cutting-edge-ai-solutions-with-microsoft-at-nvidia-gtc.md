@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-sol
 webUrl: "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/"
 type: article
 quality: 104
-heat: 434
+heat: 414
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft releases its internal generative AI red teaming tool to the public"
+    excerpt: "The toolkit, \"battle-tested by the Microsoft AI team,\" sends a malicious prompt to the generative AI system, and once it receives a response, its scoring agent gives the system a score, which is used to send a new prompt based on previous scoring feedback."
+    publishedDateTime: 2024-02-22T09:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-releases-tool-used-for-internal-gen-ai-red-teaming-to-the-public/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-tool-used-for-internal-gen-ai-red-teaming-to-the-public/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-tool-used-for-internal-gen-ai-red-teaming-to-the-public/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/8048191236819c93d80005f6862e992e2ca70d91/2024/02/22/cf222808-ba3b-4363-8e88-d53087a9e55a/gettyimages-1840823044.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft supports cloud infrastructure demand in Europe"
     excerpt: "Demand for cloud infrastructure continues to grow as organizations focus on migrating to the cloud and building new solutions that take advantage of AI. \nThe post Microsoft supports cloud infrastructure demand in Europe appeared first on Microsoft Azure Blog.\n"
     publishedDateTime: 2024-02-21T16:00:00Z
@@ -189,22 +205,6 @@ related:
         width: 1280
         height: 861
         isCached: true
-  - title: "Microsoft is investing in more powerful AI tech to save company cash, here’s how"
-    excerpt: "Microsoft is developing server network cards to replace the ones offered by Nvidia, which will help the company save some cash and improve the performance of its Nvidia chip servers. Read more to know the details."
-    publishedDateTime: 2024-02-21T10:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/articleshow/107883223.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107883190,width-1280,height-720,resizemode-4/107883190.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Supermicro Expands AI Solutions For Enhanced Edge Computing Powered By Nvidia GPUs"
     excerpt: "Supermicro (SMCI) introduces cutting-edge AI solutions, enabling real-time decision-making at the edge with NVIDIA GPU support. The advanced edge servers, featuring dual socket CPUs and powerful GPUs, position Supermicro as a leader in AI-driven edge ..."
     publishedDateTime: 2024-02-20T11:09:00Z
@@ -230,15 +230,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 68
-  - title: "Intel will make chips for Microsoft"
-    excerpt: "US chip company Intel will make high-end semiconductors for Microsoft, the companies announced, as it seeks to compete with TSMC and Samsung to supply the next generation of silicon used in artificial intelligence for customers around the world."
-    publishedDateTime: 2024-02-22T14:35:00Z
-    webUrl: "https://arstechnica.com/gadgets/2024/02/intel-will-make-chips-for-microsoft/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 66
   - title: "Can Nvidia Join Apple, Microsoft In $2-Trillion Club Today? Here's How Much The Stock Needs To Gain To Hit The Mark"
     excerpt: "Reaching $2 Trillion: To reach the $2 trillion market cap, Nvidia’s stock would need to reach $804, given its 2.49 million outstanding shares. This translates to a necessary increase of $129.28, or 19.16%, from Wednesday’s closing price. Currently, only Microsoft, Apple, and Saudi Aramco boast valuations exceeding $2 trillion."
     publishedDateTime: 2024-02-22T11:12:00Z
@@ -253,15 +244,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft and OpenAI-backed robotics startup secures funding from Bezos, Nvidia - report"
-    excerpt: "The company, which also enjoys backing from OpenAI and Microsoft Corp . (NASDAQ: MSFT ), is in the process of raising approximately $675 million in a funding round, giving it a pre-money valuation of approximately $2 billion."
-    publishedDateTime: 2024-02-23T20:13:00Z
-    webUrl: "https://za.investing.com/news/microsoft-and-openaibacked-robotics-startup-secures-funding-from-bezos-nvidia--report-432SI-3022163"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 57
   - title: "Microsoft tinkers with Windows for AMD AI"
     excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
     publishedDateTime: 2024-02-20T09:06:00Z
