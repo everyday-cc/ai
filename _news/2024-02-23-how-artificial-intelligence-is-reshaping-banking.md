@@ -23,31 +23,31 @@ topics:
   - Meta AI
 
 related:
-  - title: "The AI Craze Is Highlighting The Cooling Crunch"
-    excerpt: "Direct-to-chip and immersion cooling come in two subtypes ... But it’s coming. Until then, all the AI and HPC workloads flying around require alternative cooling methods—now, today, already. So what are you going to do? Moor Insights & Strategy ..."
-    publishedDateTime: 2024-02-20T21:15:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/"
+  - title: "AI is having a 1995 moment"
+    excerpt: "The analyst said the hunger for Nvidia's AI chips from leading software providers like Salesforce, Adobe, and Oracle is a \"transformational tech trend we have not seen since the start of the Internet in the mid 90's.\" But that doesn't mean major AI ..."
+    publishedDateTime: 2024-02-23T18:19:00Z
+    webUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d526d643a30a9ca3ffb4c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 896
+      - url: "https://i.insider.com/65d8ca26ce7f1785b2e37b7b?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "How AI is affecting students in high school"
-    excerpt: "Some students might see AI as a “cheat code” of sorts and a way to avoid doing original work or fully embracing the learning process. Address the issue of ethics and AI with your student regularly. Acknowledge the ways that students could use AI ..."
-    publishedDateTime: 2024-02-21T09:41:00Z
-    webUrl: "https://www.dailyherald.com/20240221/submitted-content/how-ai-is-affecting-students-in-high-school/"
+  - title: "Tackling AI bias in employment"
+    excerpt: "One way to mitigate AI risk in employment and bias more generally is allowing researchers and smaller players, instead of just a handful of big companies, to examine models."
+    publishedDateTime: 2024-02-22T17:25:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2024/02/22/government-companies-try-to-tackle-ai-bias-in-employment"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
+      name: Axios
+      domain: axios.com
+    quality: 21
 
 secured: "9w418FJDObdn92BI+sczZyJMdwMM9VUOdiT5gaKLP/HXPQpDwueaXrr8qdPqLs+cY+pQwbJr4NT3LErvGI/wKRt5tLlyhJT8CUuguqhEvpxMKkIWHVudChuGJLYnC4O++XyD0Jd4KavLVCrur7W+kmqZU5VsHd/y6RUcGeDvTb/KIy3sudklkCMrzX87JH+YnIJvQfPCyWk/ISBtVVBUpufCeLmQlDMJBk8GgNwWeEt8phLaCFWJJ82n/hdcDalNSUHkpWiyVOsoC5QZhXSGWfKwfKrATX31GGAE82gjfvffsWPDX82XLN1NH0G52YKSOA33A9toOOxvjCMjH+QLfZM3aW1HObUpGtPW5bFjjFodT/TcPRtdwRR5Vb/xvms17VqByZZENS5axkCwH1SbDXbGkEgTli/pmzjGVGe9UNYB3m3gkujsdma9xnkeZ9FzMnt6ToCYaHA9U7Iwvih7/f538zuD3ExWGxbt2A+ZBT3xcDmtGsMcJaWYqJ0vOvVoU14kUeHa4XPz+qb7kL5oWw==;mnJdcwGxp08KTQWUTF7afg=="
 ---

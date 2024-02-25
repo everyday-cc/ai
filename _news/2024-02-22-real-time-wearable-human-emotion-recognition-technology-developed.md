@@ -23,74 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "Serco ordered to stop using facial recognition technology to monitor staff"
-    excerpt: "Biometric data of more than 2,000 staff at 38 leisure centres was unlawfully processed to check attendance, watchdog finds"
-    publishedDateTime: 2024-02-23T15:08:00Z
-    webUrl: "https://www.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data"
-    ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data"
+  - title: "Researchers Develop Real-Time Emotion Recognition Wearable Tech: Here's How It Works"
+    excerpt: "Kang, in his research paper \"On the Praxes and Politics of AI Speech Emotion Recognition,\" notes that \"there is no scientific consensus on what is meant by \"emotion\"-researchers have examined various phenomena spanning brain modes, feelings, sensations ..."
+    publishedDateTime: 2024-02-22T11:02:00Z
+    webUrl: "https://www.techtimes.com/articles/301938/20240222/researchers-develop-real-time-emotion-recognition-wearable-tech.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/301938/20240222/researchers-develop-real-time-emotion-recognition-wearable-tech.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301938/20240222/researchers-develop-real-time-emotion-recognition-wearable-tech.htm"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: techtimes
+      domain: techtimes.com
+    quality: 39
     images:
-      - url: "https://i.guim.co.uk/img/media/f3eb9064c7eebda6ad4ccb3ba8cbbb086373408d/0_254_2510_1506/master/2510.jpg?width=620&quality=85&auto=format&fit=max&s=4413607da87aca8a8593db9e01911b28"
-        width: 620
-        height: 372
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/443992/researchers-develop-real-time-emotion-recognition-wearable-tech-how-it-works.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Leisure centre operator ordered to axe facial recognition tech monitoring workers’ attendance"
-    excerpt: "A LEISURE centre operator has been ordered to stop using facial recognition technology to monitor employee attendance. Serco Leisure was using it alongside fingerprint scanning on more than 2,000"
-    publishedDateTime: 2024-02-23T23:50:00Z
-    webUrl: "https://www.thesun.co.uk/money/26150134/serco-leisure-facial-recognition-tech-workers/"
-    ampWebUrl: "https://www.thesun.co.uk/money/26150134/serco-leisure-facial-recognition-tech-workers/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/money/26150134/serco-leisure-facial-recognition-tech-workers/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 48
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2024/02/businesswoman-facial-recognition-biometrics-751788830.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "ICO Bans Serco Leisure's Use of Facial Recognition for Employee Attendance"
-    excerpt: "Serco Leisure has been ordered to stop using facial recognition technology (FRT) and fingerprint scanning to monitor employee attendance by the UK’s data protection enforcement authority. The Information Commissioner’s Office (ICO) said the company ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/ico-bans-serco-facial-recognition/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
-  - title: "Live: UK’s Serco ordered to stop using facial recognition to monitor staff"
-    excerpt: "UK public service contractor Serco has been slammed by the country’s data watchdog for using facial recognition and fingerprint scanning to monitor and pay its staff, and ordere"
-    publishedDateTime: 2024-02-22T23:41:00Z
-    webUrl: "https://www.ft.com/content/cbfd0094-2219-4f64-a5b0-c06f05c5b81c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "Outsourcer Serco ordered to stop using facial recognition to monitor staff"
-    excerpt: "Outsourcer Serco has been ordered to stop using facial recognition and fingerprint scanning to monitor attendance and pay staff as the UK watchdog cracks down for the first time on an employer processing the biometric data of its workers."
-    publishedDateTime: 2024-02-23T13:56:00Z
-    webUrl: "https://www.ft.com/content/0da706ab-803f-430d-bea9-485962cbc201"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "Serco Leisure ordered to stop using facial recognition tech on 2,000 staff"
-    excerpt: "Serco Leisure has been told to stop using facial recognition tech on workers. The UK's privacy watchdog said Serco Leisure was wrong to use this tech to check if staff were at work. The Information Commissioner's Office (ICO) found that Serco Leisure and ..."
-    publishedDateTime: 2024-02-23T12:50:00Z
-    webUrl: "https://www.mirror.co.uk/money/serco-leisure-ordered-stop-using-32196019"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 17
 
 secured: "KW/EZlEORuJIzqih2E7rHEzNnZvJwahxDSoVowG/lEGdZWJQhJh8ODHcgFMv5Qnqb294zmt9L6yOa3DJHtHl4BLnhM2YOdXOvgXEf/W8s8kb13csyhzZSd3zJic8ZG3SOB8qlsGjZBBni22jWfnHkp+eNcftMJkk5+CcLOx4PfFIOTRJtsIUyqP9ir4SK9tAG4TRO9EXQyVbYLvum0T6shvduaTIgyZd76f+bCJLVtHnPpXwgGgyCqQvs9K1Qo4NVgzMx7HUgcTI6IlMomDOq6vTv2fPf3X4irXGdmBWNLyEcLkRiYc2Q2MkBj55/5e+nyibI9AG0iLHo8m0TXpOQDFLiMW29DEuB3RYgBKl47w=;NGaw7ZKb/OLznswMl9SWLg=="
 ---

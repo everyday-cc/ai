@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Predators vs. Kings February 22 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Among the best players to keep an eye on when the Los Angeles Kings meet the Nashville Predators on Thursday at Crypto.com Arena -- beginning at 10:30 PM ET -- are the Kings' Adrian Kempe and the Predators' Filip Forsberg."
-    publishedDateTime: 2024-02-21T22:04:00Z
-    webUrl: "https://www.wsfa.com/sports/betting/2024/02/22/predators-vs-kings-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WSFA
-      domain: wsfa.com
-    quality: 22
-    images:
-      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/KAC6D45ELNPOJI6S476NBXKDEE.jpg?auth=297a6e35d00c054dc3b7192d23c581ab1a4f7bc7a122bfca761b1e95370e3f6c&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Lightning vs. Devils February 25 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. When the New Jersey Devils meet the Tampa Bay Lightning at Prudential Center on Sunday (the puck drops at 1:00 PM ET), Jack Hughes and Brayden Point will be two of the top players to watch. Nikita Kucherov is an important ..."
     publishedDateTime: 2024-02-25T06:21:00Z

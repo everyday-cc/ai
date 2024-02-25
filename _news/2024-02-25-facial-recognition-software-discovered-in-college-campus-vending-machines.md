@@ -73,15 +73,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Facial recognition: Coming soon to an airport near you"
-    excerpt: "This passenger screening using facial recognition software and made available to select travelers at La Guardia by Delta Air Lines and the Transportation Security Administration, is just one example of how biometric technology, which uses an individual’s ..."
-    publishedDateTime: 2024-02-25T05:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-coming-soon-to-an-airport-near-you/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 34
   - title: "'Facial recognition' error message on vending machine sparks concern at University of Waterloo"
     excerpt: "A set of smart vending machines at the University of Waterloo is expected to be removed from campus after students raised privacy concerns about their software."
     publishedDateTime: 2024-02-22T22:05:00Z
@@ -106,6 +97,6 @@ related:
       domain: blogto.com
     quality: 14
 
-secured: "aEDYQwiop8o5SSxbzTUHT5yBTEWlqz8PaqEufCtEpLZh3MpPoUPCQLlsi/TxqX7OBp+7chLrlc4PFREdSoELm2kQkIwjkbv49NqSXG8MMDcviurjJlR+nMED7GAbN93gF87nhzP4pMRshmeFPyH7fIdE8ignxOdWI6EG1f6vmyHjH8zvpN1kGJS6o5Y/i5Wh1U29ZtELDYUfj+yV8TTyhev/nTYj5AK3D4kp2i8ijQDTZCcNr6K6GY3S3iE/L1EaD4MBZrth+/6jzZhvkfL1YlM7AjZzT8vBJ/pUTiI8pbibzu2i9WQ3OGPwh36VlYmiuUGW6JvJuHcJNcZyoVhKrjomDoy+G6GAGRHarwZG+qc=;DUH1/fAH/WatLAbAZnxS5Q=="
+secured: "6hkBcxD4DtFskX3gqttYtUTNAYgounbQEmvnrgJgDggWBa4pKQ9QvDBItibrliV4RYHxQByIjbjX7IDQRMQ0wB5czu6+N5XK2f/syRzQgTcsrk77TIABPHvLqrBIjsNMus8iCgcaw/qD9iueMufubV5245pu2PT73ZkPAMSL2x073Q4771EtV3w66be3NwVBOMhfIMMTYx3CzVUfzqc453goVTvv4LH6SUNOkewyRCSrBg4ODUKqNRvmpMDS7T4LIefruhaqZLZLU1W/pRfEizhAIFwPIQunTZ6wP801PBAMDjEv7AS6EbPf8u2CKX3O/L43FGLGuA1BGS6nmSbKQyvhiR04DtzMpCC2MtRkoLS1sd7g6wqjEPG1JrS2joDQj5wdAmexQW3dbp/KpjBSMucVS8mwGnPfcgumXM1YHKPqmBQpQ3C8u2rTLdctmPElkI9CQAxizOB1Eo6U4e9V+BOx/Cx6xObp5jXezL08huKRcDq6hheoGBxIOZxiEPQPA5QUHhLejF3K8FzssYXwPA==;Sm+C963KkELJOstmTZIruw=="
 ---
 

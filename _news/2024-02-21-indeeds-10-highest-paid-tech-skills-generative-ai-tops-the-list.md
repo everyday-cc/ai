@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/indeed-highest-paid-tech-skil
 webUrl: "https://www.techrepublic.com/article/indeed-highest-paid-tech-skills/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1400
     height: 979
     isCached: true
+
+related:
+  - title: "Companies Need To Get Onboard The Generative AI Train"
+    excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
+    publishedDateTime: 2024-02-25T19:21:00Z
+    webUrl: "https://www.forbes.com/sites/sylvainduranton/2024/02/25/companies-need-to-get-onboard-the-generative-ai-train/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "94ZZpTZiJfY3qYV4ynfm7WHjVbUlHQ4dSd3ShTN2xnP00lN84LNTNnsYdx97R8KLdH4jNml2rCSm3GpfpP7NqkZMdJtsJXSPJnCfCHEgnkczGw9U0YeaOYTv64lphQonlPNpbs0buprhMhGem3gfU0bU2DFOO0iEs2iFmMPDP1MIy27YLX9J77dqGePBJDbUbmb5/Mkqciv/dBb9Q1FGtwrF5VbAMzDNwyg55ScdI4BiX6Pb4Xx7iXI/2VXctXZVD+OKR10fmNLBB/XVJl8SUOEjHZCKAUgWZnPSouqiLLm83nBj/NSPvKBJzXhCRzIFOsgqH7fwvtyfQkNSM5wiGeDGcuVYrjF5SYMPwifKuwmo0zm7D2cK1k1mY7vvT6SqCMn6rw2QWlto8RYfrc17+hJzJy9f3L9ICQUaA7oMKe4dvB4+ooUUw67qVhX1yarOm3dot8c5/aF1ApP/p9uzOOTOFCLczKZTAjELAX9UfCHXc+kc3qBoq5rLUKSMjFQ3IBgyIgMGjd1lA0eaP+UfYA==;0yRfwCzwKY2dxYVEWBPTxw=="
 ---

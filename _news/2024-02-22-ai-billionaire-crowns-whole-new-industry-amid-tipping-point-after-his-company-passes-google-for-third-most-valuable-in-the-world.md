@@ -39,6 +39,20 @@ related:
         width: 506
         height: 337
         isCached: true
+  - title: "Nvidia data center revenues up 409%, AI earnings beat Wall Street expectations"
+    excerpt: "Revenues across the company were up 256 percent over the same quarter last year to $22.10 billion, while data center-specific revenues jumped 409 percent to $18.4bn. Analysts expected Nvidia’s data center unit to record $17.06bn in sales for its fiscal fourth quarter."
+    publishedDateTime: 2024-02-21T22:47:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-data-center-revenues-up-409-ai-gpu-earnings-beat-wall-street-expectations/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/nvidia_jensen_huang.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4YhKvwlRcdc+dkVrPt4AwqkML1IcP5iR4tamCjmPwFHjXa8FVX/4PRN99QWLAhC0rwceXrUMqQpgXhsr+TKIVb+E91IkhccdD/+zCi0dtqZkRBOsc098L2yQw3jt2SDTdAiwjnkcfWQLCsXfV1+TydahVrxRuF9+uUN/N5tkh7qhzoUrXji9MygAHfSPJzgo40PrpnolP2AEvqErsyScs5VcU+5ThYavmT11/069jSEWfVWMLsLtdZHMeoOagxaXwv1mKGIDuViDwVtvt1wHKi8nwxlGKAv8oGpnmSUqUo+8jvYDPb7gfZwQwEKt4YZa75nWpVSmhotk9Q0t7mIAmNkmWv2bl5bioDyDWeg5Xv4=;9UFUzWwlAuZH04C1hd223g=="
 ---

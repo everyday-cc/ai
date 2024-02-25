@@ -33,15 +33,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Generative AI revolutionising banking sector: Fintech Surge 2023"
-    excerpt: "Day one of Fintech Surge 2023, the global gathering for the entire fintech ecosystem, commenced today at the iconic Dubai Harbour. The event is uniting regional and global players from across the fintech industry – from banks and financial institutions to regulators,"
-    publishedDateTime: 2024-02-20T21:20:00Z
-    webUrl: "https://wam.ae/en/article/3unfjb-generative-revolutionising-banking-sector-fintech"
-    type: article
-    provider:
-      name: wam.ae
-      domain: wam.ae
-    quality: 34
 
 secured: "N3BD+daa/z3ukS9asYKuLBJw1gpTKJ/u5bc0+WC3ETlgDayIDxfHmhTsPovUauvqxdL2kEMBdSSM8P6IRGykPGrtc6psbnlXRAX6QNtyjUdE3t90tuLOwmDqXlmwQBshryx+wzORbAT9Bg+wh/RdkRHgmm8RAhIGSBM69Dhz133i+9MZoqzgM214TA5JX8oGInbKo4w6uUnkiXo4Do1IowlwVWbJXXwEnOtA8/cvCdcj3Ic+xXSH89SUds/6M34IDiPXms4y3DtiHVzY796FeBHJ7x5KsG8LmCnb99mLoCgm3ju+q+SQxfgic/Mr/8L+pPWvX6q5Y3s53TyXol3nMRtJ8V3jsOT/S153df/pQgg=;wXdbcoPehGTnFyDlWsumwg=="
 ---

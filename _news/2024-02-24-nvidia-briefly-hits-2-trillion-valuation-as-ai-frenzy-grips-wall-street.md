@@ -35,29 +35,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Exclusive: Hummingbird launches AI-powered automation product for financial crime investigations"
-    excerpt: "It's aimed at eliminating the manual, repetitive tasks that bog down investigators and compliance teams at large financial institutions."
-    publishedDateTime: 2024-02-20T20:55:00Z
-    webUrl: "https://venturebeat.com/automation/exclusive-hummingbird-launches-ai-powered-automation-platform-for-financial-crime-investigations/?n=@"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 56
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-20-00.08.12-Create-a-minimalist-and-vector-art-style-scene-reminiscent-of-a-golden-age-sci-fi-publication.-The-image-should-showcase-a-robotic-hummingbird-design.webp?w=1200&strip=all"
-        width: 1200
-        height: 685
-        isCached: true
-  - title: "Collaboration delivers AI-as-a-service platform"
-    excerpt: "The combination of Supermicro’s Nvidia MGX-based servers and Vapor IO’s 5G- and AI-as-a-Service brings AI and 5G to the intelligent edge."
-    publishedDateTime: 2024-02-20T19:13:00Z
-    webUrl: "https://www.electronicproducts.com/collaboration-delivers-ai-as-a-service-platform/"
-    type: article
-    provider:
-      name: Electronic Products
-      domain: electronicproducts.com
-    quality: 19
 
 secured: "anjs2IHTCeybNGgvIhiIt++Kn/O1/lQWpXtMjgW0aqGvkQ+QHtjS1/xPu5AnjwY3LO3CulqrgL/bIu5Uux3KdLeQTxmkiQ7VykFE3hbMhfGrZJvTC9OIlYU/Gm2TGoeynwv0S5eQH0QgG5edEPlu/cGgcgecYm0a9BnfKKGyuCZxhgu5MAf9T9p2N1Dly0vIx7mPvt6nAnG7+g3KfhNwkF1FYnxtnXxPFJrQEqYIPNBARlx5xBoyCIzvDlkNK/rq0NG6yX+3kcKMIHqIlwVmMMmCHm3LKLESCi9DRe46SHllQBtSLYmzY3zOJqz7PCp7zRVuia3Q6Ptrp31WugCX+W/bKtFWGo/5JAWf31AumMk=;/RF7znrCY5zaQzSBAcjqbg=="
 ---

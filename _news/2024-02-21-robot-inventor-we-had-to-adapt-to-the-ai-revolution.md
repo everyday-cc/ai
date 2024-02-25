@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/business-68348353"
 webUrl: "https://www.bbc.com/news/av/business-68348353"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI revolutionising banking sector: Fintech Surge 2023"
-    excerpt: "Day one of Fintech Surge 2023, the global gathering for the entire fintech ecosystem, commenced today at the iconic Dubai Harbour. The event is uniting regional and global players from across the fintech industry – from banks and financial institutions to regulators,"
-    publishedDateTime: 2024-02-20T21:20:00Z
-    webUrl: "https://wam.ae/en/article/3unfjb-generative-revolutionising-banking-sector-fintech"
-    type: article
-    provider:
-      name: wam.ae
-      domain: wam.ae
-    quality: 34
   - title: "AI-assisted inventions: USPTO’s most recent guidance for determining inventorship"
     excerpt: "A natural person’s contribution to an AI-assisted invention is insufficient to be deemed an inventor in the following circumstances: If a natural person simply identifies a problem, outlines a general goal or determines a research plan. A natural person ..."
     publishedDateTime: 2024-02-22T00:00:00Z

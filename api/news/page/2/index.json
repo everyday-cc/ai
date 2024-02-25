@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-24-can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse.md",
+      "title": "Can AMD Dethrone Nvidia as the Artificial Intelligence (AI) Powerhouse?",
+      "excerpt": "Therefore, I believe AMD will carve out a high-growth niche in the AI market in the same way it expanded into the gaming GPU and data center GPU markets. But I don't think it will replace Nvidia as the AI kingpin. When our analyst team has a stock tip ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/3e1f5bb4b863195ee11d3a05ccd4a572/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f766178%252fblue-semiconductor.jpg%26amp%3Bw%3D700",
+          "width": 2270,
+          "height": 1320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T16:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-tyler-perry-halts-630m-film-studio-build-over-ai-fears.md",
+      "title": "Tyler Perry halts £630m film studio build over AI fears",
+      "excerpt": "US film and TV giant Tyler Perry says he's putting a $800m (£630m) expansion of his studio on hold after becoming concerned over new AI technology. He was due to add 12 sound stages to his Atlanta complex, but says he has been put off by the release of OpenAI's video generator Sora.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6038/production/_132723642_gettyimages-2014322799.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-68384657.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-68384657.amp",
+      "publishedDateTime": "2024-02-23T15:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-humanoid-robotics-the-next-step-for-artificial-intelligence.md",
+      "title": "Humanoid Robotics: The Next Step For Artificial Intelligence",
+      "excerpt": "Robotic technology is evolving at unprecedented speed, to the point where robots can learn by watching what humans do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cybersecurityintelligence.com/blog/humanoid-robotics-the-next-step-for-artificial-intelligence-7458.html",
+      "originalUrl": "https://www.cybersecurityintelligence.com/blog/humanoid-robotics-the-next-step-for-artificial-intelligence-7458.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cybersecurityintelligence.com/files/upload/htmleditor/andy-kelly-0E_vhMVqL9g-unsplash%20free%20human%20&%20Robot.jpg",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T15:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cybersecurityintelligence.com",
+        "domain": "cybersecurityintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-ai-chip-sales-are-driving-stock-markets-to-new-records.md",
       "title": "AI chip sales are driving stock markets to new records",
       "excerpt": "Nvidia's unprecedented leap in revenue from higher chip sales for AI and cloud use speaks volumes about the future of the technology and its impact on the economy.",
@@ -210,7 +347,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -358,7 +495,7 @@
       "originalUrl": "https://www.fool.com/investing/2024/02/23/a-once-in-a-generation-investment-opportunity-1-ar/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1063,162 +1200,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life.md",
-      "title": "Yorba’s service is like Mint for uncluttering your entire digital life",
-      "excerpt": "Spend enough time online, and you’ll collect a digital paper trail of accounts, logins, subscriptions, mailing lists, and passwords wrapped up in data breaches. A new startup called Yorba can help you get a better handle on your ever-expanding digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/",
-      "originalUrl": "https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/yorba-featured-image.jpg?resize=1200,731",
-          "width": 1200,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/amp/",
-      "publishedDateTime": "2024-02-22T18:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-3-ways-ai-can-help-you-switch-careers.md",
-      "title": "3 Ways AI Can Help You Switch Careers",
-      "excerpt": "Instead, you may succeed in a career where you can still use some, if not most of your existing skills. This is where AI can help. Ask it to research some roles, industries, and even companies for you, and see which ones spark your interest. It can look so ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-you-switch-careers/",
-      "originalUrl": "https://www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-you-switch-careers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d7236af64a1309313ba836/0x0.jpg?format=jpg&crop=6001,3372,x0,y3,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-you-switch-careers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-you-switch-careers/amp/",
-      "publishedDateTime": "2024-02-22T17:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-openais-sora-has-left-ai-experts-either-enthused-or-skeptical-its-left-most-everyone-else-terrified.md",
-      "title": "OpenAI’s Sora has left AI experts either enthused or skeptical. It’s left most everyone else terrified",
-      "excerpt": "including access to the highly coveted Nvidia H100s and over 15 different Nvidia GPU SKUs all together, allowing customers to deploy AI without massive infrastructure investments. Yesterday, it announced a new AI chatbot it says will make this process even ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/",
-      "originalUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-2013766961-e1708621527967.jpg?w=840",
-          "width": 840,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/",
-      "publishedDateTime": "2024-02-22T17:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "GHMC Adopts AI Facial Recognition for Sanitation Staff Attendance Management"
+    excerpt: "Hyderabad: The GHMC has decided to use an artificial intelligence-driven mobile-based facial recognition biometric system to manage the attendance of staff in its sanitation wing. The"
+    publishedDateTime: 2024-02-25T21:19:00Z
+    webUrl: "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 71
+    images:
+      - url: "https://www.deccanchronicle.com/h-upload/2024/02/04/1074120-ghmc.jpg"
+        width: 400
+        height: 240
+        isCached: true
   - title: "Serco ordered to stop using facial recognition technology to monitor staff"
     excerpt: "Biometric data of more than 2,000 staff at 38 leisure centres was unlawfully processed to check attendance, watchdog finds"
     publishedDateTime: 2024-02-23T15:08:00Z
@@ -35,40 +51,45 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Leisure centre operator ordered to axe facial recognition tech monitoring workers’ attendance"
-    excerpt: "A LEISURE centre operator has been ordered to stop using facial recognition technology to monitor employee attendance. Serco Leisure was using it alongside fingerprint scanning on more than 2,000"
-    publishedDateTime: 2024-02-23T23:50:00Z
-    webUrl: "https://www.thesun.co.uk/money/26150134/serco-leisure-facial-recognition-tech-workers/"
-    ampWebUrl: "https://www.thesun.co.uk/money/26150134/serco-leisure-facial-recognition-tech-workers/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/money/26150134/serco-leisure-facial-recognition-tech-workers/amp/"
+  - title: "Benton County Sheriff's Office looks to purchase facial recognition platform powered by artificial intelligence"
+    excerpt: "Ton-That stated that under the National Institute of Standards and Technology's facial recognition vendor test which measures the accuracy of the artificial intelligence, Clearview AI matched the correct image from a lineup of 12 million photos at a rate of 99.85 percent. Ton-That claimed this is more accurate than the human eye."
+    publishedDateTime: 2024-02-22T01:34:00Z
+    webUrl: "https://www.nbcrightnow.com/tricities/benton-county-sheriffs-office-looks-to-purchase-facial-recognition-platform-powered-by-artificial-intelligence/article_17922c5e-d123-11ee-bb4e-f77413235c2b.html"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 48
+      name: NBC Right Now
+      domain: nbcrightnow.com
+    quality: 36
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2024/02/businesswoman-facial-recognition-biometrics-751788830.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
+      - url: "https://bloximages.newyork1.vip.townnews.com/nbcrightnow.com/content/tncms/assets/v3/editorial/d/b9/db98f62c-2a4f-11ed-b886-d7830e1f6b65/631143a14e2ad.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Real-time wearable human emotion recognition technology developed"
-    excerpt: "The research team conducted real-time emotion recognition experiments, collecting multimodal data such as facial muscle deformation and voice. The system exhibited high emotional recognition accuracy with minimal training. Its wireless and customizable ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2024/02/240222122318.htm"
+  - title: "GHMC invites bids for facial-recognition biometrics attendance system through mobile app"
+    excerpt: "The Greater Hyderabad Municipal Corporation (GHMC) has, through a request for proposals (RFP), invited bids from contractors for the introduction of facial recognition biometrics for recording attendance at all levels. Describing it as an ‘artificial ..."
+    publishedDateTime: 2024-02-23T15:12:00Z
+    webUrl: "https://www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece/amp/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
+      name: The Hindu
+      domain: thehindu.com
+    quality: 35
+    images:
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Facial recognition: Coming soon to an airport near you"
+    excerpt: "This passenger screening using facial recognition software and made available to select travelers at La Guardia by Delta Air Lines and the Transportation Security Administration, is just one example of how biometric technology, which uses an individual’s ..."
+    publishedDateTime: 2024-02-25T05:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-coming-soon-to-an-airport-near-you/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 34
-  - title: "Live: UK’s Serco ordered to stop using facial recognition to monitor staff"
-    excerpt: "UK public service contractor Serco has been slammed by the country’s data watchdog for using facial recognition and fingerprint scanning to monitor and pay its staff, and ordere"
-    publishedDateTime: 2024-02-22T23:41:00Z
-    webUrl: "https://www.ft.com/content/cbfd0094-2219-4f64-a5b0-c06f05c5b81c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "Outsourcer Serco ordered to stop using facial recognition to monitor staff"
     excerpt: "Outsourcer Serco has been ordered to stop using facial recognition and fingerprint scanning to monitor attendance and pay staff as the UK watchdog cracks down for the first time on an employer processing the biometric data of its workers."
     publishedDateTime: 2024-02-23T13:56:00Z
@@ -77,15 +98,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 17
-  - title: "Serco Leisure ordered to stop using facial recognition tech on 2,000 staff"
-    excerpt: "Serco Leisure has been told to stop using facial recognition tech on workers. The UK's privacy watchdog said Serco Leisure was wrong to use this tech to check if staff were at work. The Information Commissioner's Office (ICO) found that Serco Leisure and ..."
-    publishedDateTime: 2024-02-23T12:50:00Z
-    webUrl: "https://www.mirror.co.uk/money/serco-leisure-ordered-stop-using-32196019"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
     quality: 17
 
 secured: "iCckL8BOl2HSrFNHpiWvoZvogDRfoizBoa28kEmj9+1GZG9gSQplYML6vu4PatEL//ZTRFOT/tfGCcN9e2bdJbpvjbo2QnToK5vrRIwAoAEWjN+Cspe2M2CiXQcQp5e1Xf5izsdH6vfRf7EX2N2kLAXbHboelELka4bV4mV7UynyxzLf2jr3ljPgZyHb96qcUgZtlES+E0CQT/pG4svbk1pjE8Aywgd56nvz77WMIxTAzd2IcpAM79+qiLrqpjeU1jixocVTOfKgvhxlD4ZBAC1Tqjh5TL7lDtDqR3wyngXMZFH/rLVSwGfC6NlMyXVgduk/tE82uCp71L3yPCYn4x1ukSC/NffnvmbaIi6sN9ni5nzmputqbbCsg4KFK80yCVCIAn9S/jpiyYih+q8HnvGZ0rRFzYfpVXUMEpm5nHKK+/po8gXKmKwJIbB6FYxGavMcQ4H4lKhUpZbdy/1xO/VkBMkx1hd9UzlIm7j0YBMOcwQPoSXZxQf5wrYcJo3zW8sQf4wyzH4VtbRS7ykMuA==;nT41c1sO2qkzafLzKJ7nKQ=="

@@ -2,6 +2,144 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-11-29-how-ai-sees-the-world-what-happened-when-we-trained-a-deep-learning-model-to-identify-poverty.md",
+      "title": "How AI 'sees' the world: What happened when we trained a deep learning model to identify poverty",
+      "excerpt": "To most effectively deliver aid to alleviate poverty, you have to know where the people most in need are. In many countries, this is often done with household surveys. But these are usually infrequent and cover limited locations.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-11-ai-world-deep-poverty.html",
+      "originalUrl": "https://techxplore.com/news/2023-11-ai-world-deep-poverty.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-ai-sees-the-worldw.jpg",
+          "width": 1280,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-11-ai-world-deep-poverty.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-world-deep-poverty.amp",
+      "publishedDateTime": "2023-11-28T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-china-circumvents-gpu-ban-by-stripping-geforce-rtx-3090-cards-as-ai-race-heats-up.md",
+      "title": "China Circumvents GPU Ban By Stripping GeForce RTX 3090 Cards As AI Race Heats Up",
+      "excerpt": "With the stock of GeForce RTX 4090 disappearing rapidly, China has turned to the GeForce RTX 3090 as a backup choice.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards",
+      "originalUrl": "https://hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/63199/content/3090.jpg",
+          "width": 708,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards",
+      "publishedDateTime": "2023-11-28T17:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-the-social-side-of-ai-think-carefully-about-the-future.md",
+      "title": "The Social Side Of AI: Think Carefully About The Future",
+      "excerpt": "But AI is going to be social, too – it's going to have a social context. One way to explain that is that with ‘humans in the loop’ and assistive AI, the AI has to be able to interact with humans in particular ways. So what about the social end of AI research?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-of-ai-think-carefully-about-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-of-ai-think-carefully-about-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655a427d46c7abb4b9c20364/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-of-ai-think-carefully-about-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-of-ai-think-carefully-about-the-future/amp/",
+      "publishedDateTime": "2023-11-28T17:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-chatgpts-first-year-udemy-data-highlights-unprecedented-global-demand-for-generative-ai-skills.md",
       "title": "ChatGPT's First Year: Udemy Data Highlights Unprecedented Global Demand for Generative AI Skills",
       "excerpt": "We believe Udemy was the first global learning platform to provide content on learning generative AI skills, with a ChatGPT course on Udemy just 11 days after its launch,” said Scott Rogers, Senior Vice President of Supply Strategy at Udemy.",
@@ -1014,126 +1152,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-ai-service-robotics-latam.md",
-      "title": "AI Service Robotics - LATAM",
-      "excerpt": "The market size in the AI Service Robotics market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market volume of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/latam",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/latam",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T07:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-natural-language-processing-latam.md",
-      "title": "Natural Language Processing - LATAM",
-      "excerpt": "The market size in the Natural Language Processing market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/latam",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/latam",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T07:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-natural-language-processing-latest.md",
-      "title": "Natural Language Processing - Latest",
-      "excerpt": "To save this undefined to your undefined account, please select one or more formats and confirm that you agree to abide by our usage policies. If this is the first time you used this feature, you will be asked to authorise Cambridge Core to connect with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/natural-language-processing/latest-issue",
-      "originalUrl": "https://www.cambridge.org/core/journals/natural-language-processing/latest-issue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T07:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

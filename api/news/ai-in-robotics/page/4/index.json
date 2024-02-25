@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-22-robotic-priests-ai-cults-and-a-bible-by-chatgpt-why-people-around-the-world-are-worshipping-robots-and-artificial-intelligence.md",
+      "title": "Robotic priests, AI cults and a 'Bible' by ChatGPT: Why people around the world are worshipping robots and artificial intelligence",
+      "excerpt": "Robot priest Mindar is six feet four inches ... dedicated to building a new God with 'Christian morals' using artificial intelligence. Other quasi-religious movements which 'worship' AI include ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12974317/robotic-priests-ai-cult-chatgpt-bible.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12974317/robotic-priests-ai-cult-chatgpt-bible.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2024/01/22/15/80133115-0-image-a-1_1705936006585.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T15:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-21-on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt.md",
       "title": "On Using Generative AI As A Lie Detector Including Trying To Bust The Infamous Two Truths And A Lie Gambit Via ChatGPT",
       "excerpt": "Once you start lying, it will never end ... Giulio Sandini and Francesco Rea, Frontiers in Robotics and AI, July 2019. Here are some key points made in the study (excerpted): “Considering all the results from previous studies on the physiological ...",
@@ -1277,40 +1321,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
-      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
-      "excerpt": "Latte art is a skill that can take months if not years of practice to master — but not for this barista powered by artificial intelligence ... founder of food tech startup Artly Coffee, one ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
-      "originalUrl": "https://www.newsday.com/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
-      "publishedDateTime": "2024-01-15T14:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -618,15 +618,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Forget Nvidia: These 3 Artificial Intelligence (AI) Stocks Can Be the Next Stock-Split Stocks"
-    excerpt: "At the moment, nothing is garnering the attention of professional and everyday investors quite like artificial intelligence (AI). AI, which involves the use of software and systems to oversee tasks normally overseen by humans, has application across almost ..."
-    publishedDateTime: 2024-02-20T20:40:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AVGO/pressreleases/24196240/forget-nvidia-these-3-artificial-intelligence-ai-stocks-can-be-the-next-stock-split-stocks/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 21
   - title: "Nokia and Nvidia partner for AI mobile networks"
     excerpt: "Telco OEM Nokia plans to develop AI-ready radio access network (RAN) solutions in partnership with GPU darling Nvidia. As part of Nokia's anyRAN effort, the companies will develop cloud-network technology and explore how AI can revolutionize the industry."
     publishedDateTime: 2024-02-24T20:07:00Z

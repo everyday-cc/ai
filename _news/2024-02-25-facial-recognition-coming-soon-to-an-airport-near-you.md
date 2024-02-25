@@ -19,87 +19,86 @@ topics:
   - AI
 
 related:
-  - title: "A Vending Machine Error Revealed Secret Face Recognition Tech"
-    excerpt: "Canada-based University of Waterloo is racing to remove M&M-branded smart vending machines from campus after outraged students discovered the machines were covertly collecting face recognition data without their consent. The scandal started when a student ..."
-    publishedDateTime: 2024-02-24T17:01:00Z
-    webUrl: "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/"
+  - title: "GHMC Adopts AI Facial Recognition for Sanitation Staff Attendance Management"
+    excerpt: "Hyderabad: The GHMC has decided to use an artificial intelligence-driven mobile-based facial recognition biometric system to manage the attendance of staff in its sanitation wing. The"
+    publishedDateTime: 2024-02-25T21:19:00Z
+    webUrl: "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 71
     images:
-      - url: "https://media.wired.com/photos/65d91d8d6248d84bf2a999c2/191:100/w_1280,c_limit/vending%20machine%20facial%20recognition.png"
-        width: 1280
-        height: 670
+      - url: "https://www.deccanchronicle.com/h-upload/2024/02/04/1074120-ghmc.jpg"
+        width: 400
+        height: 240
         isCached: true
-  - title: "Facial recognition software discovered in college campus vending machines"
-    excerpt: "The University of Waterloo in Ontario, Canada, began removing its vending machines after discovering facial recognition technology on one of them. The machine's operators and manufacturers"
-    publishedDateTime: 2024-02-25T14:56:00Z
-    webUrl: "https://www.techspot.com/news/102013-facial-recognition-software-discovered-college-campus-vending-machines.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-24-image-12.jpg"
-        width: 2407
-        height: 1460
-        isCached: true
-  - title: "Canadian university vending machine error reveals use of facial recognition"
-    excerpt: "Snack dispenser at University of Waterloo shows facial recognition message on screen despite no prior indication"
-    publishedDateTime: 2024-02-23T17:56:00Z
-    webUrl: "https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
+  - title: "Serco ordered to stop using facial recognition technology to monitor staff"
+    excerpt: "Biometric data of more than 2,000 staff at 38 leisure centres was unlawfully processed to check attendance, watchdog finds"
+    publishedDateTime: 2024-02-23T15:08:00Z
+    webUrl: "https://www.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data"
+    ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 57
     images:
-      - url: "https://i.guim.co.uk/img/media/be91b776e57ce787c55cc38b4f6f4e6846c79bb6/0_0_4000_2667/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=75c5c858f2563718de3d235eccecc6b8"
+      - url: "https://i.guim.co.uk/img/media/f3eb9064c7eebda6ad4ccb3ba8cbbb086373408d/0_254_2510_1506/master/2510.jpg?width=620&quality=85&auto=format&fit=max&s=4413607da87aca8a8593db9e01911b28"
         width: 620
-        height: 413
+        height: 372
         isCached: true
-  - title: "Vending machine error reveals secret face image database of college students"
-    excerpt: "The scandal started when a student using the alias SquidKid47 posted an image on Reddit showing a campus vending machine error message, \"Invenda.Vending.FacialRecognitionApp.exe,\" displayed after the machine failed to launch a facial recognition application that nobody expected to be part of the process of using a vending machine."
-    publishedDateTime: 2024-02-23T22:03:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students/"
+  - title: "Benton County Sheriff's Office looks to purchase facial recognition platform powered by artificial intelligence"
+    excerpt: "Ton-That stated that under the National Institute of Standards and Technology's facial recognition vendor test which measures the accuracy of the artificial intelligence, Clearview AI matched the correct image from a lineup of 12 million photos at a rate of 99.85 percent. Ton-That claimed this is more accurate than the human eye."
+    publishedDateTime: 2024-02-22T01:34:00Z
+    webUrl: "https://www.nbcrightnow.com/tricities/benton-county-sheriffs-office-looks-to-purchase-facial-recognition-platform-powered-by-artificial-intelligence/article_17922c5e-d123-11ee-bb4e-f77413235c2b.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 51
+      name: NBC Right Now
+      domain: nbcrightnow.com
+    quality: 36
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/mm-camera-spy-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://bloximages.newyork1.vip.townnews.com/nbcrightnow.com/content/tncms/assets/v3/editorial/d/b9/db98f62c-2a4f-11ed-b886-d7830e1f6b65/631143a14e2ad.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "'Facial recognition' error message on vending machine sparks concern at University of Waterloo"
-    excerpt: "A set of smart vending machines at the University of Waterloo is expected to be removed from campus after students raised privacy concerns about their software."
-    publishedDateTime: 2024-02-22T22:05:00Z
-    webUrl: "https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835"
+  - title: "GHMC invites bids for facial-recognition biometrics attendance system through mobile app"
+    excerpt: "The Greater Hyderabad Municipal Corporation (GHMC) has, through a request for proposals (RFP), invited bids from contractors for the introduction of facial recognition biometrics for recording attendance at all levels. Describing it as an ‘artificial ..."
+    publishedDateTime: 2024-02-23T15:12:00Z
+    webUrl: "https://www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece/amp/"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 29
+      name: The Hindu
+      domain: thehindu.com
+    quality: 35
     images:
-      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/2/22/vending-machine-facial-recognition-1-6779840-1708642383265.jpg"
-        width: 1020
-        height: 574
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
         isCached: true
-  - title: "Ontario university students freaked out about facial recognition vending machines"
-    excerpt: "A set of smart vending machines at the University of Waterloo has stirred up quite the controversy among students, who quickly raised privacy"
-    publishedDateTime: 2024-02-23T19:34:00Z
-    webUrl: "https://www.blogto.com/city/2024/02/ontario-university-facial-recognition-machines-privacy/"
+  - title: "ICO Bans Serco Leisure's Use of Facial Recognition for Employee Attendance"
+    excerpt: "Serco Leisure has been ordered to stop using facial recognition technology (FRT) and fingerprint scanning to monitor employee attendance by the UK’s data protection enforcement authority. The Information Commissioner’s Office (ICO) said the company ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/ico-bans-serco-facial-recognition/"
     type: article
     provider:
-      name: blogTO
-      domain: blogto.com
-    quality: 14
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
+  - title: "Outsourcer Serco ordered to stop using facial recognition to monitor staff"
+    excerpt: "Outsourcer Serco has been ordered to stop using facial recognition and fingerprint scanning to monitor attendance and pay staff as the UK watchdog cracks down for the first time on an employer processing the biometric data of its workers."
+    publishedDateTime: 2024-02-23T13:56:00Z
+    webUrl: "https://www.ft.com/content/0da706ab-803f-430d-bea9-485962cbc201"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "+b1F8JWIaRO6sryVBBzWjbp01Vq9VOGmpN804v/HNmxUIpWqR3a+XwxR7ZRqccTq2a3xRLuYrcvWynFvpJGjhiaGVLOq0NILJ3QTV5dP5SPT1CYFtfxaqpHiRZMkoL4tYKffFTYAUkWqG6HcvYXFn11R7tfwxpnF7uyjhj0dJnqgF6JraA1Mm+lH8zONjqbFT1/36apDDCMMnrUJTYJozudx7N1/TuQlpr9sHnZYqq0Ebiw5rWWsZhv7yLochYfSyEDKo52NaT6YgZH95TAZnfENjzk2RGVWZ6/O+Yu609nFnYio+mgaCb++RIkMU4EY2ATpzVy9HiAPYbBCBOIFWRd2lPVdffr/ucWGrIEfGQc=;lPx/dlrG99pIpAzQQfA1lA=="
 ---

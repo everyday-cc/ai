@@ -617,15 +617,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Forget Nvidia: These 3 Artificial Intelligence (AI) Stocks Can Be the Next Stock-Split Stocks"
-    excerpt: "At the moment, nothing is garnering the attention of professional and everyday investors quite like artificial intelligence (AI). AI, which involves the use of software and systems to oversee tasks normally overseen by humans, has application across almost ..."
-    publishedDateTime: 2024-02-20T20:40:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AVGO/pressreleases/24196240/forget-nvidia-these-3-artificial-intelligence-ai-stocks-can-be-the-next-stock-split-stocks/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 21
   - title: "Nvidia surges on AI boom, rally on Wall Street"
     excerpt: "Nvidia’s stock price surged Thursday after delivering another blowout quarter, setting off a rally in other technology companies that carried Wall Street to another record high."
     publishedDateTime: 2024-02-23T11:00:00Z

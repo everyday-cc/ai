@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-dis
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era?amp=1"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 753
     height: 450
     isCached: true
-
-related:
-  - title: "Can Unicorns Save Us? Investors Pour Money Into Cybersecurity and AI Companies as Threats Mount"
-    excerpt: "Unicorn companies in cybersecurity and AI defied fundraising challenges to achieve growth, driven by hype over generative AI and ongoing data privacy concerns."
-    publishedDateTime: 2024-02-20T20:18:00Z
-    webUrl: "https://www.inc.com/chloe-aiello/ai-cybersecurity-lead-unicorn-charge-in-2023-amid-challenging-market.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 7
 
 secured: "kAmRCzs7pwC/mBDBJNuKhA3PVoEf1mYgd3wWr8aLW5gxl1iPi0VSxAWsF40PFyeSvLH4O6/Zo7UUXzp06fxtL+YE8a+6CyIcQiRWYAavp1OUoyVAP7945w7wuc1XzQBazoW3aOqNH8tKC+hQAA79hLjez65JArsVi0Jc53vvbEtloeu+GBUPHPqeo+TgTQZelVe2aIU+2b3pMgHfAXc832YvnwMzYdfDfCats01Jx3NMr+tWtAIZAr/+If+/xLNmJ7HQos4bN75sj75ZI8PTEfS9cjoky4DyUBrdZ3Gmd5oLmG4iD2nTb5uN/VMmzd4231GUOgelQyjQwXG9butGKYnZKpo6BC14Wb6XG+EyzHc=;Ne+4SOypclx07Jt/0ykAsA=="
 ---

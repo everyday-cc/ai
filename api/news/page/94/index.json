@@ -2,6 +2,126 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2023-12-05-neural-network-is-more-powerful-than-any-other-methods-of-propaganda-shevtsov.md",
+      "title": "Neural network is more powerful than any other methods of propaganda - Shevtsov",
+      "excerpt": "Neural network is more powerful than any other methods of propaganda. Political scientist Yuri Shevtsov told about it in the project \"In theme\" on YouTube-channel BELTA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvr.by/eng/news/obshchestvo/neyroset_moshchnee_nezheli_lyubye_drugie_metody_propagandy_shevtsov/",
+      "originalUrl": "https://www.tvr.by/eng/news/obshchestvo/neyroset_moshchnee_nezheli_lyubye_drugie_metody_propagandy_shevtsov/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tvr.by/upload/iblock/1ee/41a97ld61s9cvutzx0fapgxr28fq41sp.jpg",
+          "width": 870,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T19:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvr.by",
+        "domain": "www.tvr.by",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-mapping-mars-deep-learning-could-help-identify-jezero-crater-landing-site.md",
+      "title": "Mapping Mars: Deep learning could help identify Jezero Crater landing site",
+      "excerpt": "Preparations for a safe landing on Earth, such as finding the most even terrain and equipping the appropriate landing gear, are also crucial for Mars missions.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-12-mars-deep-jezero-crater-site.html",
+      "originalUrl": "https://phys.org/news/2023-12-mars-deep-jezero-crater-site.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/mapping-mars-deep-lear.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-12-mars-deep-jezero-crater-site.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-mars-deep-jezero-crater-site.amp",
+      "publishedDateTime": "2023-12-04T18:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-aws-reinvent-wrap-up-15-huge-products-and-partner-launches.md",
+      "title": "AWS re:Invent Wrap-up: 15 Huge Products And Partner Launches",
+      "excerpt": "Invent 2023 new cloud product launches include chips, Amazon generative AI, partner tools, channel incentives and AWS Marketplace offers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/aws-re-invent-wrap-up-15-huge-products-and-partner-launches",
+      "originalUrl": "https://www.crn.com/news/cloud/aws-re-invent-wrap-up-15-huge-products-and-partner-launches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T18:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models.md",
       "title": "Small But Mighty: Small Language Models Breakthroughs in the Era of Dominant Large Language Models",
       "excerpt": "Explore the revolution of Small Language Models, efficient, cost-effective AI alternatives challenging dominant Large Language Models.",
@@ -956,119 +1076,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week.md",
-      "title": "Xiao-I Showcases Hua Zang Universal Large Language Model and Its Cutting-Edge Applications at Abu Dhabi Finance Week",
-      "excerpt": "Mr. Hui Yuan, Chairman of the Board and CEO of Xiao-I Corporation (NASDAQ: AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, recently took the stage at the Abu Dhabi Finance Week (\"ADFW\") alongside distinguished speakers to share a practical application of Hua Zang Universal Large Language Model (\"LLM\").",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week-1032868782",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week-1032868782",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T02:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-in-digital-era-experts-push-for-use-of-handwriting-for-mental-health-therapy.md",
-      "title": "In digital era, experts push for use of handwriting for mental health therapy",
-      "excerpt": "Kolkata: In the age of artificial intelligence and electronic gadgets, psychologists are adopting handwriting as a therapeutic tool for the treatment .",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/kolkata/in-digital-era-experts-push-for-use-of-handwriting-for-mental-health-therapy/articleshow/105712611.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/kolkata/in-digital-era-experts-push-for-use-of-handwriting-for-mental-health-therapy/articleshow/105712611.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T02:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-can-broadcoms-latest-silicon-ai-chip-revolutionize-network-efficiency.md",
-      "title": "Can Broadcom’s latest silicon AI chip revolutionize network efficiency?",
-      "excerpt": "Broadcom's Trident 5-X12 chip revolutionizes AI cluster networking with advanced AI and neural network technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2023/12/how-is-broadcoms-ai-chip-redefining-networking/",
-      "originalUrl": "https://techwireasia.com/2023/12/how-is-broadcoms-ai-chip-redefining-networking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T01:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

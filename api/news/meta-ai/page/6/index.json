@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-30-setting-guardrails-for-ai-research.md",
+      "title": "Setting guardrails for AI research",
+      "excerpt": "A Yamhill County Sheriff’s Office deputy has been charged with 12 misdemeanor counts related to exposing his genitals and performing sexual acts in public, according to court documents. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kptv.com/video/2023/11/29/setting-guardrails-ai-research/",
+      "originalUrl": "https://www.kptv.com/video/2023/11/29/setting-guardrails-ai-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kptv-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F12-19-2023%2Ft_c737743c93c5445bbe6679331d91ffbe_name_YT_THUMBNAIL___2023_12_19T071706_059.jpg?auth=2aa769262d83acf8aff8a78385c0f46c48eeb0b03e7cea02235995d11b000c52&width=800&height=450&smart=true",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.kptv.com/video/2023/11/29/setting-guardrails-ai-research/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kptv-com.cdn.ampproject.org/c/s/www.kptv.com/video/2023/11/29/setting-guardrails-ai-research/?outputType=amp",
+      "publishedDateTime": "2023-11-29T21:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 12 Oregon",
+        "domain": "kptv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-keras-30-deep-learning-api-backs-tensorflow-pytorch-jax.md",
       "title": "Keras 3.0 deep learning API backs TensorFlow, PyTorch, Jax",
       "excerpt": "Full rewrite of the deep neural network API supports Keras workflows on top of the three leading machine learning frameworks.",

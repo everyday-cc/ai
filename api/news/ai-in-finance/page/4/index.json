@@ -2,59 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-12-19-hitch-integrates-generative-ai-into-immutable-miniverse-nfts.md",
-      "title": "Hitch integrates generative AI into Immutable Miniverse NFTs",
-      "excerpt": "Do you want to get the latest gaming industry news straight to your inbox? Sign up for our daily and weekly newsletters here. Hitch Interactive, a startup focused on AI, robotics, fintech, and the metaverse, announced it has integrated generative AI into ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/hitch-integrates-generative-ai-into-immutable-miniverse-nfts/",
-      "originalUrl": "https://venturebeat.com/games/hitch-integrates-generative-ai-into-immutable-miniverse-nfts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/hitch.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T06:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-12-17-is-ai-the-future-of-business-finance.md",
       "title": "Is AI The Future Of Business Finance?",
       "excerpt": "Let’s explore the benefits of AI in finance, its limitations, and its potential impact on the future of business finances.",
@@ -1349,6 +1296,50 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-helios-enhances-its-suite-of-customized-investment-models-with-machine-learning.md",
+      "title": "Helios Enhances its Suite of Customized Investment Models with Machine Learning",
+      "excerpt": "New feature aggregates and analyzes data in real-time to bolster the firm's quantitative investment methodologies while optimizing client outcomes Helios, pioneer of the Insourced Chief Investment Off",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b36001022/helios-enhances-its-suite-of-customized-investment-models-with-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b36001022/helios-enhances-its-suite-of-customized-investment-models-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36001022",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36001022",
+      "publishedDateTime": "2023-11-29T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

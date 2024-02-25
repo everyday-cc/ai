@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/best/best-translation-software"
 webUrl: "https://www.techradar.com/best/best-translation-software"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: TechRadar
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition software, of all things, played a role in this guy's latest arrest"
-    excerpt: "But besides “video surveillance within the store,” the arrest report cites “new facial recognition software Lowe's has installed,” which helped the detective compare pictures of Saunders at the store with pictures from his driver’s license."
-    publishedDateTime: 2024-02-20T22:43:00Z
-    webUrl: "https://abcnews4.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
-    ampWebUrl: "https://abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
-    cdnAmpWebUrl: "https://abcnews4-com.cdn.ampproject.org/c/s/abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
-    type: article
-    provider:
-      name: abcnews4
-      domain: abcnews4.com
-    quality: 52
-    images:
-      - url: "https://abcnews4.com/resources/media/586a0d1f-edce-4faa-93aa-00320b004454-medium16x9_20030610JasonVincentSaundersMarionCo.PNG"
-        width: 648
-        height: 365
-        isCached: true
   - title: "Ranking the World’s Largest Translation and Localization Companies"
     excerpt: "Unpacking insights from the 2024 Slator LSPI, TransPerfect's leadership shakeup, Language AI Briefing launch, and notable M&A."
     publishedDateTime: 2024-02-23T08:05:00Z

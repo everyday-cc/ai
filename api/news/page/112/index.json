@@ -2,6 +2,143 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2023-11-20-save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts.md",
+      "title": "Save up to 45% with Roborock Black Friday robot vacuum and mop discounts",
+      "excerpt": "Invest in a Roborock vacuum and mop to help with holiday cleaning by taking advantage of huge discounts for Black Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts",
+      "originalUrl": "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/57157-116216-1-xl.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts/amp/",
+      "publishedDateTime": "2023-11-20T10:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-pro-take-vcs-ignore-their-own-advice-in-pursuit-of-generative-ai.md",
+      "title": "Pro Take: VCs Ignore Their Own Advice in Pursuit of Generative AI",
+      "excerpt": "Venture investors are diving into generative AI—and breaking some of their own rules in the process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pro-take-vcs-ignore-their-own-advice-in-pursuit-of-generative-ai-8fedcc09",
+      "originalUrl": "https://www.wsj.com/articles/pro-take-vcs-ignore-their-own-advice-in-pursuit-of-generative-ai-8fedcc09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-882321/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T10:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-integrating-healthcare-apps-and-data-with-fhir-hl7.md",
+      "title": "Integrating healthcare apps and data with FHIR + HL7",
+      "excerpt": "HL7 has provided a standard set of patient attributes and clinical events to improve interoperability in healthcare.\nThe post Integrating healthcare apps and data with FHIR + HL7 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/integrating-healthcare-apps-and-data-with-fhir-hl7/",
+      "originalUrl": "https://www.ibm.com/blog/integrating-healthcare-apps-and-data-with-fhir-hl7/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-microsoft-hires-ex-openai-leaders-altman-and-brockman-to-lead-new-ai-group.md",
       "title": "Microsoft hires ex-OpenAI leaders Altman and Brockman to lead new AI group",
       "excerpt": "Altman has been the public face of OpenAI, the most valuable U.S. startup. It’s not only widely estimated to be leading the current AI race but has in less than a year also assumed the position of kingmaker for thousands of other startups that are ...",

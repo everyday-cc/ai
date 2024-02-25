@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-26-ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management.md",
+      "title": "GHMC Adopts AI Facial Recognition for Sanitation Staff Attendance Management",
+      "excerpt": "Hyderabad: The GHMC has decided to use an artificial intelligence-driven mobile-based facial recognition biometric system to manage the attendance of staff in its sanitation wing. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
+      "originalUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deccanchronicle.com/h-upload/2024/02/04/1074120-ghmc.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
+      "publishedDateTime": "2024-02-25T21:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-ai-startup-figure-ai-scores-675m-from-bezos-nvidia-and-others-to-advance-humanoid-robots.md",
+      "title": "AI startup 'Figure AI' scores $675M from Bezos, Nvidia, and others to advance humanoid robots",
+      "excerpt": "Figure AI develops human-like robots powered by artificial intelligence. It raised around $675 million in a recent funding round, with Amazon founder Jeff Bezos and Nvidia",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html",
+      "originalUrl": "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-25-image-3.jpg",
+          "width": 2000,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T19:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition.md",
+      "title": "3 Robotics Stocks That Could Be Multibaggers in the Making: February Edition",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As technology continues to advance at an unprecedented pace, robotics stands",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition-1033099946",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition-1033099946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T19:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing.md",
+      "title": "8 TED Talks To Help You Prepare For The Era Of AI-Driven Spatial Computing",
+      "excerpt": "The Humane AI Pin might not be the device we all use ... Thousands of TED Talks have inspired and sparked ideas and imagination. These TED Talks are the start of a journey to understand Spatial Computing, how it works, and why it's necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/",
+      "originalUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dbbe3f64a8766c81ca8d55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/",
+      "publishedDateTime": "2024-02-25T18:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-25-vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations.md",
       "title": "Vendasta CEO Interview: Roots To Trusted Generative AI Innovations",
       "excerpt": "This article is an interview and research of Vendasta a rising AI unicorn building trusted AI foundations with a compelling vision to strengthen SMB's globally.",
@@ -166,7 +356,7 @@
       "originalUrl": "https://cyberguy.com/ai/construction-workers-being-replaced-by-ai-robot-bricklayers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -253,7 +443,7 @@
       "originalUrl": "https://www.gizmochina.com/2024/02/25/honor-magicbook-pro-16-laptop-launched-mwc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -305,7 +495,7 @@
       "originalUrl": "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -555,58 +745,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-investing-in-the-next-wave-of-explosive-ai-growth.md",
-      "title": "Investing in the Next Wave of Explosive AI Growth",
-      "excerpt": "So are OpenAI, the world’s most influential AI startup, Amazon (AMZN), Tesla (TSLA) and Samsung. Not to mention the world’s richest men, Elon Musk and Jeff Bezos. AI 2.0: The Rise of the Robot Yes, I’m talking about AI-powered robots like the ones ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/yzJturJFFghqcyCNnIaAZy189Vj69lRLjtitfmAF0N-Xp39dl-O4uudjIW7n0Jhc-aiVtqt5DbyRvyRrSQzuQixXkooUvMk5Hk_qks8N-V69kdPAQFOdRIOpPU9cMhnz9MzgaKBWuSKmZj_uduuGNg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T08:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1022,7 +1160,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1114,152 +1252,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-tyler-perry-halts-630m-film-studio-build-over-ai-fears.md",
-      "title": "Tyler Perry halts £630m film studio build over AI fears",
-      "excerpt": "US film and TV giant Tyler Perry says he's putting a $800m (£630m) expansion of his studio on hold after becoming concerned over new AI technology. He was due to add 12 sound stages to his Atlanta complex, but says he has been put off by the release of OpenAI's video generator Sora.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6038/production/_132723642_gettyimages-2014322799.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-68384657.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-68384657.amp",
-      "publishedDateTime": "2024-02-23T15:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff.md",
-      "title": "Serco ordered to stop using facial recognition technology to monitor staff",
-      "excerpt": "Biometric data of more than 2,000 staff at 38 leisure centres was unlawfully processed to check attendance, watchdog finds",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
-      "originalUrl": "https://www.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f3eb9064c7eebda6ad4ccb3ba8cbbb086373408d/0_254_2510_1506/master/2510.jpg?width=620&quality=85&auto=format&fit=max&s=4413607da87aca8a8593db9e01911b28",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
-      "publishedDateTime": "2024-02-23T15:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-humanoid-robotics-the-next-step-for-artificial-intelligence.md",
-      "title": "Humanoid Robotics: The Next Step For Artificial Intelligence",
-      "excerpt": "Robotic technology is evolving at unprecedented speed, to the point where robots can learn by watching what humans do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cybersecurityintelligence.com/blog/humanoid-robotics-the-next-step-for-artificial-intelligence-7458.html",
-      "originalUrl": "https://www.cybersecurityintelligence.com/blog/humanoid-robotics-the-next-step-for-artificial-intelligence-7458.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cybersecurityintelligence.com/files/upload/htmleditor/andy-kelly-0E_vhMVqL9g-unsplash%20free%20human%20&%20Robot.jpg",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T15:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cybersecurityintelligence.com",
-        "domain": "cybersecurityintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

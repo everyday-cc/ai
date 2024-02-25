@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-01-robots-and-ai-tools-set-to-revolutionise-real-estate.md",
+      "title": "Robots And AI Tools Set To Revolutionise Real Estate",
+      "excerpt": "TRIPLER, the world's leading PropTech company, is going to revolutionise the real estate landscape by introducing robots and Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107794781/Robots-And-AI-Tools-Set-To-Revolutionise-Real-Estate",
+      "originalUrl": "https://menafn.com/1107794781/Robots-And-AI-Tools-Set-To-Revolutionise-Real-Estate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2024-01/31/KT_bd395image_story.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T04:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-3d-printed-pneumatic-modules-replace-electric-controls-in-soft-robots.md",
       "title": "3D-printed pneumatic modules replace electric controls in soft robots",
       "excerpt": "A research team develops 3D-printed pneumatic logic modules that control the movements of soft robots using only air pressure. These modules enable logical switching of the air flow and can thus ...",
@@ -1308,50 +1351,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-robotic-priests-ai-cults-and-a-bible-by-chatgpt-why-people-around-the-world-are-worshipping-robots-and-artificial-intelligence.md",
-      "title": "Robotic priests, AI cults and a 'Bible' by ChatGPT: Why people around the world are worshipping robots and artificial intelligence",
-      "excerpt": "Robot priest Mindar is six feet four inches ... dedicated to building a new God with 'Christian morals' using artificial intelligence. Other quasi-religious movements which 'worship' AI include ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12974317/robotic-priests-ai-cult-chatgpt-bible.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12974317/robotic-priests-ai-cult-chatgpt-bible.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2024/01/22/15/80133115-0-image-a-1_1705936006585.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T15:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -64,15 +64,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Planning a Career in the Age of AI"
-    excerpt: "After decades of industrial robots, factory layoffs, and outsourcing, automation has finally arrived in the cubicle. A recent Wall Street Journal article spotlighted how the new “robots for the mind”—the complex algorithms and language models of generative AI—are creating rising uncertainty in the professional class."
-    publishedDateTime: 2024-02-20T19:16:00Z
-    webUrl: "https://www.aei.org/articles/planning-a-career-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
 
 secured: "kR/KwGJ/gT+vgGTZQrcFBauXnc1FIEQnTcah2aw5R6IhDeEZFi6PYCMxWfc3e/i82r66rcwN0RKOwgWiBSN7tN4KD6tgUSch+z8iYwVE38jsUPh/ct2Q32oawD4VwaKOYri7fle+GHr1f6ra8BEWQsYqhffM3qYfzTEXoptzoVZsy2vLX6NiB23b+Rh1w/wwWKtxIvfydjDwFD6uLX3XlQSykaNPlpymLtBfcQEN3BhZcj7GGAcIVZC0y+zE78308ohieyN0c90B2ZWqm3B8MelO9T3cn8ZB26aJ6X+KClFGP8CCxPzn7rNzbz/3fO2o6zxdbKbbNK06Psv8KErTLc/zwODGpnkdHTtWHxqhJlw=;FBlOQhD98lK2H3w8+8rEbQ=="
 ---

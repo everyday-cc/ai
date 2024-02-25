@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
 type: article
 quality: 89
-heat: 103
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Is Reshaping Banking"
+    excerpt: "Artificial intelligence is transforming the banking industry, with far-reaching implications for traditional banks and neobanks alike. This transition from classic, data-driven AI to advanced, generative AI provides increased efficiency and client ..."
+    publishedDateTime: 2024-02-23T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/how-artificial-intelligence-is-reshaping-banking/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Tackling AI bias in employment"
     excerpt: "One way to mitigate AI risk in employment and bias more generally is allowing researchers and smaller players, instead of just a handful of big companies, to examine models."
     publishedDateTime: 2024-02-22T17:25:00Z

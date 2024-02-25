@@ -33,22 +33,6 @@ related:
         width: 610
         height: 344
         isCached: true
-  - title: "Facial recognition software, of all things, played a role in this guy's latest arrest"
-    excerpt: "But besides “video surveillance within the store,” the arrest report cites “new facial recognition software Lowe's has installed,” which helped the detective compare pictures of Saunders at the store with pictures from his driver’s license."
-    publishedDateTime: 2024-02-20T22:43:00Z
-    webUrl: "https://abcnews4.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
-    ampWebUrl: "https://abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
-    cdnAmpWebUrl: "https://abcnews4-com.cdn.ampproject.org/c/s/abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion"
-    type: article
-    provider:
-      name: abcnews4
-      domain: abcnews4.com
-    quality: 52
-    images:
-      - url: "https://abcnews4.com/resources/media/586a0d1f-edce-4faa-93aa-00320b004454-medium16x9_20030610JasonVincentSaundersMarionCo.PNG"
-        width: 648
-        height: 365
-        isCached: true
 
 secured: "U5dH4kstTOL5lxgnplSDGCyOTR9FkgtZFElwF9A0qkDIo74gJIvPmhnuVgZ/vx3uqWwRQbrNpM/djqbLLZ1UXFzVwWAoj0YlAh+TB6u6JD/YaTthKSuigPja9/Vxji5sT6YV3LZHG9xoumJSbSqAIbpa9JH+UOBdmpSmPTjxjZXL181Aa+dQ4AhXG2ibm+ovJVAlK+ZUlEHmuoznKrWy2dV+9O+gylXEQlD31gqy0wSytNsYxanq/+JOcF8SOUgV3Mn6se6P0y9Bi5yGQw2lkX9O6OdotNBnCqE+IPOIq7OGImAreisOAaVjePH6j4hVXyU7Bfb+RrHoJ2LivfIq2LCvyA6cFMjM+9tNlW6WV2g=;DGfrEuDMBXyIUqMD6f7/Uw=="
 ---

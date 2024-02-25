@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-13-ezviz-now-offers-consumers-a-full-smart-home-solution-with-the-introduction-of-its-affordable-yet-feature-packed-re4-and-re4-plus-smart-robot.md",
+      "title": "Ezviz Now Offers Consumers a Full Smart Home Solution With the Introduction of Its Affordable Yet Feature Packed RE4 and RE4 Plus Smart Robot Vacuums",
+      "excerpt": "EZVIZ, a global leader in smart home technology, known previously for its indoor and outdoor security cameras, is now set to offer consumers a fully comprehensive smart home solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=14531",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=14531",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14531_1702445923552312.png",
+          "width": 778,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T05:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-tesla-unveils-optimus-gen-2-its-next-generation-humanoid-robot.md",
       "title": "Tesla unveils Optimus Gen 2: its next generation humanoid robot",
       "excerpt": "Tesla has unveiled “Optimus Gen 2”, a new generation of its humanoid robot that should be able to take over repetitive tasks from humans. Optimus, also known as Tesla Bot, has not been taken seriously by many outside of the more hardcore Tesla fans,",
@@ -1221,49 +1264,6 @@
       "provider": {
         "name": "The Chronicle",
         "domain": "dukechronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-nearterm-realworld-humanoid-robots-and-super-ai.md",
-      "title": "Nearterm Realworld Humanoid Robots and Super AI",
-      "excerpt": "Like mass produced Futurama Bender but performing the factory work tasks instead of being a lazy drinking robot. If Elon is correct and we have Artificial Super Intelligence in three years. This would be very much like the Star Trek Data Android for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2023/12/nearterm-realworld-humanoid-robots-and-super-ai.html",
-      "originalUrl": "https://www.nextbigfuture.com/2023/12/nearterm-realworld-humanoid-robots-and-super-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/12/Screen-Shot-2023-12-01-at-4.29.13-PM.jpg",
-          "width": 1776,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T19:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
         "images": null,
         "publishers": null,
         "authors": null

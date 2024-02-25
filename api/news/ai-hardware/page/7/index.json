@@ -2,6 +2,93 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-08-how-google-deepminds-ai-breakthrough-could-revolutionise-chip-battery-development.md",
+      "title": "How Google DeepMind’s AI breakthrough could revolutionise chip, battery development",
+      "excerpt": "AI researchers have predicted the structures of more than 2 million new materials, and published a list of the 381,000 most stable ones. They say their work is currently equivalent to nearly 800 years of knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/",
+      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/12/google-AI-deepmind.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/lite/",
+      "publishedDateTime": "2023-12-08T06:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-the-tidal-wave-of-rising-gpu-tam-raises-all-boats.md",
+      "title": "The Tidal Wave Of Rising GPU TAM Raises All Boats",
+      "excerpt": "The world has gone nuts for generative AI, and it is going to get a whole lot crazier. Like $400 billion a year in GPU hardware spending by 2027 crazier. If you don’t think this is an enormous amount of spending,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/12/07/the-tidal-wave-of-rising-gpu-tam-raises-all-boats/",
+      "originalUrl": "https://www.nextplatform.com/2023/12/07/the-tidal-wave-of-rising-gpu-tam-raises-all-boats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/12/amd-keynote-lisa-su-tam-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/12/07/the-tidal-wave-of-rising-gpu-tam-raises-all-boats/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/12/07/the-tidal-wave-of-rising-gpu-tam-raises-all-boats/amp/",
+      "publishedDateTime": "2023-12-08T01:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators.md",
       "title": "Supermicro Extends AI and GPU Rack Scale Solutions with Support for AMD Instinct MI300 Series Accelerators",
       "excerpt": "SAN JOSE, Calif., Dec. 7, 2023 — Supermicro, Inc., a Total IT Solution Manufacturer for AI, Cloud, Storage, and 5G/Edge, is announcing three new additions to its AMD-based H13 generation of GPU Servers, optimized to deliver leading-edge performance and ...",
@@ -1303,92 +1390,6 @@
       "provider": {
         "name": "TelecomTV",
         "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-nvidia-delays-rollout-of-new-custom-made-ai-chip-for-china-shares-dip.md",
-      "title": "Nvidia delays rollout of new custom-made AI chip for China, shares dip",
-      "excerpt": "Nvidia (NASDAQ: NVDA) has informed Chinese customers of a delay in launching its new artificial intelligence chip, the H20, designed to comply with U.S. export rules. Shares in the chipmaker declined 2.2% in pre-market Friday trade.",
-      "sourceUrl": null,
-      "webUrl": "https://au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505",
-      "originalUrl": "https://au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/news/LYNXMPEB1A16P_L.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505?ampMode=1",
-      "cdnAmpWebUrl": "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505?ampMode=1",
-      "publishedDateTime": "2023-11-24T10:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-thousands-of-rtx-4090-gpus-are-being-rebuilt-for-ai-computing-in-china.md",
-      "title": "Thousands of RTX 4090 GPUs Are Being Rebuilt for AI Computing in China",
-      "excerpt": "In China, Nvidia's RTX 4090 is being repurposed in the thousands. The GPU components are taken out, and put in a new PCB and cooler design!",
-      "sourceUrl": null,
-      "webUrl": "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/",
-      "originalUrl": "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2023/11/nvidia-geforce-rtx-4090.jpg",
-          "width": 1250,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/",
-      "publishedDateTime": "2023-11-24T05:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
         "images": null,
         "publishers": null,
         "authors": null

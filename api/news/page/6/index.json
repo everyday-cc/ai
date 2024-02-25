@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-21-the-top-three-reasons-smb-owners-need-ai-assistant-in-acrobat.md",
+      "title": "The Top Three Reasons SMB Owners Need AI Assistant in Acrobat",
+      "excerpt": "Instead of struggling to recall all the details of a 50-page brand guide or distill key takeaways from a dense research document, I now plug the document text into Acrobat and AI Assistant gives me the power to get to the information I need, fast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/business-news/the-top-three-reasons-smb-owners-need-ai-assistant-in/469873",
+      "originalUrl": "https://www.entrepreneur.com/business-news/the-top-three-reasons-smb-owners-need-ai-assistant-in/469873",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1708452261-Adobe-E-Hero.png?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-tokyo-startup-attuned-is-trying-to-use-ai-to-motivate-workers.md",
+      "title": "Tokyo startup Attuned is trying to use AI to motivate workers.",
+      "excerpt": "Over 27 million California residents are under flood watches. CNN meteorologist explains",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
+      "originalUrl": "https://www.cnn.com/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/240221072734-exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business-00002001.png?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
+      "publishedDateTime": "2024-02-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-upenn-develops-optical-chip-to-process-complex-math-for-ai.md",
       "title": "UPenn develops optical chip to process complex math for AI",
       "excerpt": "Computing optically could cut the cost of AI: Prof. Nader Engheta. Engineers at the University of Pennsylvania (UPenn) have developed a new optical chip to perform the complex math essential to training AI. Its developers say that the chip has the ...",
@@ -10,7 +113,7 @@
       "originalUrl": "https://optics.org/news/15/2/28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1112,100 +1215,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-elon-musk-claims-neuralinks-first-human-patient-can-control-cursor-with-thoughts.md",
-      "title": "Elon Musk Claims Neuralink's First Human Patient Can Control Cursor With Thoughts",
-      "excerpt": "Neuralink's first human test subject has made a 'full recovery' and can telepathically move a cursor around a screen, says founder Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/health-fitness/103920/elon-musk-claims-neuralinks-first-human-patient-can-control-cursor-with-thoughts",
-      "originalUrl": "https://au.pcmag.com/health-fitness/103920/elon-musk-claims-neuralinks-first-human-patient-can-control-cursor-with-thoughts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/e/elon-musk-/elon-musk-claims-neuralinks-first-human-patient-can-control_4whx.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T14:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-ai-eu-agrees-landmark-deal-on-regulation-of-artificial-intelligence.md",
-      "title": "AI: EU agrees landmark deal on regulation of artificial intelligence",
-      "excerpt": "EU Commissioner Thierry Breton said the agreement was \"historic\" European Union officials have reached a provisional deal on the world's first comprehensive laws to regulate the use of artificial intelligence. After 36 hours of talks, negotiators agreed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform",
-      "originalUrl": "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T14:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

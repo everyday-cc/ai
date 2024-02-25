@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-20-elon-musk-claims-neuralinks-first-human-patient-can-control-cursor-with-thoughts.md",
+      "title": "Elon Musk Claims Neuralink's First Human Patient Can Control Cursor With Thoughts",
+      "excerpt": "Neuralink's first human test subject has made a 'full recovery' and can telepathically move a cursor around a screen, says founder Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/health-fitness/103920/elon-musk-claims-neuralinks-first-human-patient-can-control-cursor-with-thoughts",
+      "originalUrl": "https://au.pcmag.com/health-fitness/103920/elon-musk-claims-neuralinks-first-human-patient-can-control-cursor-with-thoughts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/e/elon-musk-/elon-musk-claims-neuralinks-first-human-patient-can-control_4whx.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T14:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-ai-eu-agrees-landmark-deal-on-regulation-of-artificial-intelligence.md",
+      "title": "AI: EU agrees landmark deal on regulation of artificial intelligence",
+      "excerpt": "EU Commissioner Thierry Breton said the agreement was \"historic\" European Union officials have reached a provisional deal on the world's first comprehensive laws to regulate the use of artificial intelligence. After 36 hours of talks, negotiators agreed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform",
+      "originalUrl": "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T14:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-the-revolution-that-wasnt-how-ai-drones-have-fizzled-in-ukraine-so-far.md",
       "title": "The revolution that wasn’t: How AI drones have fizzled in Ukraine (so far)",
       "excerpt": "Last fall, both Russia and Ukraine boasted of fielding drones that tracked targets using AI algorithms. Now new expert analysis suggests that neither side got it to work well enough for war — but the US and China might.",
@@ -1147,92 +1241,6 @@
         "IBM AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-softbanks-son-reportedly-seeks-100b-for-ai-chip-venture.md",
-      "title": "Softbank’s Son reportedly seeks $100B for AI chip venture",
-      "excerpt": "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
-      "originalUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
-      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
-      "publishedDateTime": "2024-02-19T16:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai.md",
-      "title": "How real estate listings and potentially jobs are shifting to AI",
-      "excerpt": "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
-      "originalUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ocregister.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643",
-          "width": 1024,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
-      "publishedDateTime": "2024-02-19T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orange County Register",
-        "domain": "ocregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

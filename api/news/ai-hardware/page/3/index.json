@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-04-foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage.md",
+      "title": "Foxconn expects 2024 to be slightly better, faces AI chip shortage",
+      "excerpt": "Foxconn, formally called Hon Hai Precision Industry Co Ltd, will report fourth quarter earnings next month when it will also update its outlook for this year. It releases January sales data on Monday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm",
+      "originalUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2024/02/foxconn-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm/amp",
+      "publishedDateTime": "2024-02-04T10:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-04-is-there-a-bubble-in-ai-stocks.md",
+      "title": "Is There A Bubble In AI Stocks?",
+      "excerpt": "Talk of price to innovation ratios by Morgan Stanley has triggered talk of a bubble in AI stocks. Is this just the beginning of a run up in stock prices?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
+      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65be8742c9d836097bc8f8e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
+      "publishedDateTime": "2024-02-03T18:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-03-nvidia-h100-ai-gpus-might-cost-3-to-6-times-as-much-as-amds-mi300s.md",
       "title": "Nvidia H100 AI GPUs might cost 3 to 6 times as much as AMD's MI300s",
       "excerpt": "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: The two GPU rivals may argue over who has the more powerful AI acceleration graphics card, but there's no doubt about which hardware is more expensive.",
@@ -1372,92 +1467,6 @@
       "provider": {
         "name": "The Korea Times",
         "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand.md",
-      "title": "Memory Chip Giant SK Hynix Returns To Profit On Strong AI Demand",
-      "excerpt": "The world's second-largest memory chip maker, South Korea's SK Hynix, said on Thursday it had returned to profit after four consecutive quarters of losses driven by demand for chips used in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3",
-      "originalUrl": "https://www.barrons.com/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP9831328596374683969694032955726021614765---1.jpg",
-          "width": 768,
-          "height": 519,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3",
-      "publishedDateTime": "2024-01-25T06:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-amd-launches-radeon-rx-7600-xt-gpu-with-fluid-motion-frames-technology.md",
-      "title": "AMD launches Radeon RX 7600 XT GPU with Fluid Motion Frames Technology",
-      "excerpt": "AMD compares the performance of the Radeon RX 7600 XT GPU with the NVIDIA GeForce RTX 2060 and claims to offer 1.9x faster gaming and raytracing performance. The graphics card does support all the latest Radeon software technologies such as AMD Fluid Motion Frames (AFMF), which generates additional frames to make the game look smoother.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/",
-      "originalUrl": "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2024/01/amd-radeon-rx-7600-xt.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/lite/",
-      "publishedDateTime": "2024-01-25T06:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

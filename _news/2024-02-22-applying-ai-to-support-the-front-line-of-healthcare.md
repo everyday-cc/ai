@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Planning a Career in the Age of AI"
-    excerpt: "After decades of industrial robots, factory layoffs, and outsourcing, automation has finally arrived in the cubicle. A recent Wall Street Journal article spotlighted how the new “robots for the mind”—the complex algorithms and language models of generative AI—are creating rising uncertainty in the professional class."
-    publishedDateTime: 2024-02-20T19:16:00Z
-    webUrl: "https://www.aei.org/articles/planning-a-career-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
 
 secured: "QJwdS+07qoIM6g75bQ1zI9mUYdjN4ADl5f/M/xPpBqX8AkHRaR82uCGGWJWghzKE4QqSjkleefxZGtvU/Hf+Lji12WYwG/SsU9hvU9dBrtYi5BPLHo1m/3/lehnk9cSBAkZfCrTt6Q+NNQHvZ7w5XmUQ3axjB1dxjM+VG18f1nqVGewJw/pp+n+YhdBjCuLPiPkSa4aqhAfrSZzJVROCesAv9tOByIVQmpWmjs23ZVYro/D3pXtfUBG16a2/AJ4nlM85mpE3SmDU8ql2jLHojrrv0Iv2w3I/5d79phjr8N4u4wKoOzqHkECgbwnQ/KDge2KtU09hTZbs9I+HwwJcStno/JzW99BFVI68GtMacs8n1mx861BH+A9Nb4mpyNCadMX6YL+orDLnb2Fh2zEqqjl3l7ilLp8t+cpUa3XFLrulh3lPu55TA3aqC9/LDbIREgroZtLnZQB2rPCWJe8wG0FXjS1khtDYUiCzxZZn1Mg7FDpj08UAL7itYry971mq42mwUhyLbObNN5RSrsk6DA==;aM4KTzS2mS01Ehyb8zeZkQ=="
 ---

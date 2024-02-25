@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "10 Predictions about Learning Recovery, Innovation In Public Education in 2024"
-    excerpt: "Robin Lake looks into her crystal ball at a possible future of state takeovers, school staffing shifts, personalized AI, political upheaval everywhere"
-    publishedDateTime: 2024-02-25T13:30:00Z
-    webUrl: "https://www.the74million.org/article/10-predictions-about-learning-recovery-innovation-in-public-education-in-2024/"
+  - title: "Tech-Driven Efficiency: How Automation is Reshaping Fintech Operations"
+    excerpt: "Backed by these enablers, the fintech market in India is projected to reach $150 billion by 2025. Artificial intelligence: AI is a core component of the fintech world that is used for better loan decision-making, credit risk assessment, fraud detection ..."
+    publishedDateTime: 2024-02-21T07:19:00Z
+    webUrl: "https://www.dqindia.com/news/tech-driven-efficiency-how-automation-is-reshaping-fintech-operations-3872791"
+    ampWebUrl: "https://www.dqindia.com/news/tech-driven-efficiency-how-automation-is-reshaping-fintech-operations-3872791"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/tech-driven-efficiency-how-automation-is-reshaping-fintech-operations-3872791"
     type: article
     provider:
-      name: The 74
-      domain: the74million.org
-    quality: 37
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
     images:
-      - url: "https://www.the74million.org/wp-content/uploads/2024/02/crystal-ball-top-10-robin-lake-825x495.jpg?cb=722676"
-        width: 825
-        height: 495
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/6Sn3FzcPTAGFkaKUbre7.png"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "Bud Financial partners with Fintech Galaxy to take financial services personalization to new heights as the MENA region embraces Open Banking"
+    excerpt: "Data intelligence platform Bud Financial (Bud) is joining forces with Fintech Galaxy, a leader in Open Banking and financial innovation,"
+    publishedDateTime: 2024-02-22T14:22:00Z
+    webUrl: "https://menafn.com/1107886236/Bud-Financial-partners-with-Fintech-Galaxy-to-take-financial-services-personalization-to-new-heights-as-the-MENA-region-embraces-Open-Banking"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "6dIu6+FZc9bcoh8i4GKjLw4iO4rBtXLC0EdE5fZ+ZSL9uzbcsuKgjySSsflIMwkvo9XBGPB4C+ZXzNQCyLgh88b/lFGlIY0AzN84CDa/Xz/v7cZaxmhNILp35rMVcRXDIUV6lzqXw5NWQwYwnXrFC2ztXz77RI+s6H/dA1rDG8yZmWXt15JN5sY5i0iKc8ZRgUkIYiXSH63pOO/LofrJBkRArV4+Eeg3UMez7SNiojIEQNJS+nNd3kfC8P+M9LyOjLPTmfHrgo/6DsAY4p8Aly9NpkjrYi5/8jnS5n4yoJrTZsUBCmWh/qsIfr+SmR23FtWpkQTq1fq3ynjggYhf7/VjgJflO1fPCuDKimwfop1WjUlyK2i9mjBD2u4koA+uj5JaJjTJQG3/SLdAr3TwJSpXdBv1PU3UWEfavdtf+gHXanJuHdXlM7MpaEVRHVd9oNJv6YIhJGv7G2FZUFQy9SS8cddCningwPXGqRLIfLTTmKtQrFY019bX5BRLH/FIoIrbj1Crt3pAedKMpL08CQ==;I9hykpGRcwCVcgBscDDLfg=="
 ---

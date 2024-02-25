@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-26-ai-startup-figure-ai-scores-675m-from-bezos-nvidia-and-others-to-advance-humanoid-robots.md",
+      "title": "AI startup 'Figure AI' scores $675M from Bezos, Nvidia, and others to advance humanoid robots",
+      "excerpt": "Figure AI develops human-like robots powered by artificial intelligence. It raised around $675 million in a recent funding round, with Amazon founder Jeff Bezos and Nvidia",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html",
+      "originalUrl": "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-25-image-3.jpg",
+          "width": 2000,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T19:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-02-25-exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt.md",
       "title": "Exposing The Brittleness Of Generative AI As Exemplified By The Recent Gibberish Meltdown Of ChatGPT",
       "excerpt": "Generative AI is brittle, though most people don't realize this crucial revelation. An example can be seen in the recent incident of a gibberish meltdown of ChatGPT.",
@@ -527,6 +580,49 @@
         "Microsoft AI",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-us-forms-task-force-to-explore-guardrails-for-ai.md",
+      "title": "US forms task force to explore guardrails for AI",
+      "excerpt": "it will substantially foster AI advancement in terms of security, privacy, ethics, and sustainability, which will be critical for the public trust on AI in the long run.” According to Counterpoint Research Senior Analyst, Akshara Bassi, “AI regulation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.html",
+      "originalUrl": "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.amp.html",
+      "publishedDateTime": "2024-02-21T12:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1398,110 +1494,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-end-of-life-the-one-decision-ai-cannot-predict.md",
-      "title": "End-Of-Life: The One Decision AI Cannot Predict",
-      "excerpt": "An experienced weaver of health, technology, ethics and spirituality ... Predictive algorithms need data to base their prediction on, and in medicine, AI models are often trained on a large comprehensive dataset with relevant fields of information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/",
-      "originalUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65be62c3f49f05c2d210397e/0x0.jpg?format=jpg&crop=1993,1120,x0,y755,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/amp/",
-      "publishedDateTime": "2024-02-10T14:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-latest-windows-build-boosts-copilot-with-advanced-ai-functions.md",
-      "title": "Latest Windows build boosts Copilot with advanced AI functions",
-      "excerpt": "The release notes for Windows Insider build 26052 include notable information and updates in several areas. Chief among them is Copilot, which Microsoft hopes to use",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101837-windows-copilot-updates-tease-further-ai-integration.html",
-      "originalUrl": "https://www.techspot.com/news/101837-windows-copilot-updates-tease-further-ai-integration.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-18-image-10.jpg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T00:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

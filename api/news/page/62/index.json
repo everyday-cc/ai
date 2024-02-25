@@ -2,6 +2,127 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2024-01-06-new-google-bard-leak-reveals-a-ton-of-new-features-headed-for-googles-chatgpt-rival.md",
+      "title": "New Google Bard leak reveals a ton of new features headed for Google's ChatGPT rival",
+      "excerpt": "Google has some big plans for its Google Bard AI assistant, but while the company is staying tight-lipped on an official launch date for now, a new leak may have blown the lid on a few of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/news/new-google-bard-leak-reveals-a-ton-of-new-features-headed-for-googles-chatgpt-rival",
+      "originalUrl": "https://www.tomsguide.com/news/new-google-bard-leak-reveals-a-ton-of-new-features-headed-for-googles-chatgpt-rival",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UwRPt67EGYTn2rJV4e2m3m-1200-80.jpg",
+          "width": 1116,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-schwarzenegger-for-president-arnold-should-run-and-not-just-because-hed-beat-trump.md",
+      "title": "Schwarzenegger for president? Arnold should run – and not just because he'd beat Trump.",
+      "excerpt": "You also may not realize that, in real life, the door just opened for you to be pulled back into the FUBAR (“F’ed Up Beyond All Recognition”) of our national ... this makes clear that you can run. Who could object without looking like a hypocrite?",
+      "sourceUrl": null,
+      "webUrl": "https://www.palmbeachpost.com/story/opinion/2024/01/06/arnold-schwarzenegger-run-president-2024/72121096007/",
+      "originalUrl": "https://www.palmbeachpost.com/story/opinion/2024/01/06/arnold-schwarzenegger-run-president-2024/72121096007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Palm Beach Post",
+        "domain": "palmbeachpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-6-features-that-could-come-to-google-bard-in-2024.md",
+      "title": "6 Features That Could Come To Google Bard in 2024",
+      "excerpt": "After a slow start, Google Bard is catching up to its AI competitors such as OpenAI’s Chat GPT and 2024 will see the addition of a host of new features to the search giant’s AI product, although it’s not certain which of these features will make it out of development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
+      "originalUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.talkandroid.com/wp-content/uploads/2024/01/Google-Bard.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T22:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "talkandroid.com",
+        "domain": "talkandroid.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-06-google-is-reportedly-working-on-an-advanced-version-of-its-bard-chatbot.md",
       "title": "Google Is Reportedly Working on an Advanced Version of Its Bard Chatbot",
       "excerpt": "Google is seemingly working on developing a more advanced version of its Bard chatbot. Launched in May 2023, Google’s conversational AI bot was designed to be a competitor to ChatGPT but fell flat with many users compared to OpenAI ’s model.",
@@ -947,154 +1068,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-human-brain-is-superior-and-more-efficient-than-artificial-intelligence-scientists-say.md",
-      "title": "Human brain is superior and more efficient than artificial intelligence, scientists say",
-      "excerpt": "Most modern AI consist of artificial neural networks, which are layers of 'nodes' or neurons similar to what you might find in the brain. When an AI makes a mistake it adjusts the connections ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12925689/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12925689/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2024/01/04/11/79609597-0-image-a-28_1704366728030.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12925689/amp/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12925689/amp/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
-      "publishedDateTime": "2024-01-04T11:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-meet-the-humanoid-robot-that-learns-from-natural-language-mimics-human-emotions.md",
-      "title": "Meet the humanoid robot that learns from natural language, mimics human emotions",
-      "excerpt": "Alter3 is an example of how natural language processing and robotics can work together to create pretty incredible interactions. By using GPT-4, the robot can perform a variety of tasks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions",
-      "originalUrl": "https://www.foxnews.com/tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/1-Meet-Alter3-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions-giving-instructions.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-04T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-what-microsofts-custom-silicon-means-for-azure.md",
-      "title": "What Microsoft’s custom silicon means for Azure",
-      "excerpt": "Microsoft is laying the groundwork for a hardware-accelerated Azure cloud with its own custom AI silicon, Arm server processors, virtualization offload, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.amp.html",
-      "publishedDateTime": "2024-01-04T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

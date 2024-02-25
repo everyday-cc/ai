@@ -64,15 +64,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Planning a Career in the Age of AI"
-    excerpt: "After decades of industrial robots, factory layoffs, and outsourcing, automation has finally arrived in the cubicle. A recent Wall Street Journal article spotlighted how the new “robots for the mind”—the complex algorithms and language models of generative AI—are creating rising uncertainty in the professional class."
-    publishedDateTime: 2024-02-20T19:16:00Z
-    webUrl: "https://www.aei.org/articles/planning-a-career-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
 
 secured: "MAvV0nCTyW3AVZ1w8j49jFE6N43PnICLnOqZTkhrOqRQ/+33t6Qte15S22h/lJrFNT3cTvDXW6BJgFyKHXzv1ctoEiW0FA9BodrQUwKMZTSIxwe2IGAFhMTIRVDKw0iruURE9MTAJyEN1SWP/POMo6MVWxKAOzZB34m1ZDDy/Y9voZXSSWkwgc8o0HfuJXIcE+vsdCni3Nnz/IIu7GWCudYfGHZbmViabeK1buiCLHK4G17dq9ah+y5g8QytAIz30mG1pQTnqK5Xw/lqAwr6ThtKB3Sbdc+F/1wAu0yc+CasN7uzGvOVoufjfEh1zUYolgbSYy8p3K44AbtvSkpgjUXeX8InH1kfma74/c5BsEdRNhyBt7cBfPHXPSfI9TCgxBFkSPJIFPZkfuXRHZb0WQCP0at4j0KTiykVi998JQT0amvbVQCWR9HryQO4KKvp7sIRcf5etfVC0PsClZzMv/8QI1yj9NPNfntwcIlLbcbNQ3/Nhou6W7UHXaNum0ZtL1S8ganzjGS3WglcfV2KJQ==;DG5rNZRfs3Y7HE3utsijRg=="
 ---

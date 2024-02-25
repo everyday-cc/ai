@@ -25,22 +25,6 @@ images:
     height: 495
     isCached: true
 
-related:
-  - title: "Future-Ready: Predictions and Innovations Shaping Smartphone Tech in 2024"
-    excerpt: "These features may include automatic scene recognition and optimization, real-time object tracking and focus, and AI-powered photo editing tools. The Rise of Foldable Phones: It has been a few years since the introduction of foldable phones, but they have ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.informationng.com/2024/02/future-ready-predictions-and-innovations-shaping-smartphone-tech-in-2024.html"
-    type: article
-    provider:
-      name: INFORMATION NIGERIA
-      domain: informationng.com
-    quality: 23
-    images:
-      - url: "https://www.informationng.com/wp-content/uploads/2024/02/k.jpg"
-        width: 1265
-        height: 843
-        isCached: true
-
 secured: "qFBLa5vniVlhRMJxShuGrgyHPEjkyv/qXnl4ItOce4ZEF5x3NgjvFBeswXb9ek5SWQuPflsFpNSd/+TlVjdAEB0+bXvIpvZszhyLzOByGFaYWw2t/mD+Hd78epSndKQ0v/OjATBpIY+2LVTp2BXkxo06DYNIZVr5cdutZEkKMKZxkmmG1liCR80T9wpNWuozvvQNIhSIjdFZDOhFFrmf06FP4yceAOLupKWz8G2h4fhIWpXZ2ik5G7d32Kt44rlpZdsNsg7MZdnsLDVYTObinq9yrA5wYf27+IvhqRl2ix+r184lltP7LzGR2P6scNIMckHixYaFsdQSWN0HQobPMYwM1qoUmcP/CGahaE/FsUE=;H1XARJVp4K/vnCL4wTukiQ=="
 ---
 

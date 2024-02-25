@@ -36,6 +36,20 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Insights Into Challenges And Opportunities Of Artificial intelligence (AI) in Logistics Market"
+    excerpt: "Artificial intelligence (AI) in Logistics Industry Analysis Report 2024"
+    publishedDateTime: 2024-02-21T12:40:00Z
+    webUrl: "https://www.opprairie.com/news/insights-into-challenges-and-opportunities-of-artificial-intelligence-ai-in-logistics-market/95435/"
+    type: article
+    provider:
+      name: The Orland Park Prairie
+      domain: opprairie.com
+    quality: 42
+    images:
+      - url: "https://www.opprairie.com/wp-content/uploads/2024/02/Capture-40.png"
+        width: 563
+        height: 322
+        isCached: true
   - title: "Artificial intelligence in education: Return of the once-feared calculator or a new opportunity?"
     excerpt: "When pocket calculators emerged in the 1970s, rather than being viewed as time-saving instruments to enhance and accelerate learning, the response was more hostile. Sheela VanHoose leads the education policy unit at TSG Advisors, overseeing a team of ..."
     publishedDateTime: 2024-02-22T00:00:00Z

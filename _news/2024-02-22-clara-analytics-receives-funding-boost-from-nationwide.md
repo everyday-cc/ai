@@ -41,15 +41,6 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "Hypersonix Revolutionizes Retail Decision-Making with AI-Driven Insights"
-    excerpt: "Hypersonix is a pioneer in the field of AI-driven analytics dedicated to empowering eCommerce and retail businesses."
-    publishedDateTime: 2024-02-20T19:31:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/02/20/hypersonix-revolutionizes-retail-decision-making-with-ai-driven-insights/72674306007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 16
 
 secured: "oCGID7vTw8UJ1SrX5gv2diHeOO2Mqli/cvugimXnn/RBDSBtaTEMcKtAnrL8r+IE6X32YwtNjTRTbXZNSLN1hOYXEKyLq623+AAGyQFBNmLBufUZjNyTJTu2FXmsUNw9ybUI3eo2jszxwhnJPydT7xY60+5WlAtlRmJzWsQed9YmeZrgQF6S8UHe6KUIUs1HS9tUB07CaSUXW06g+mA+HUzXUGn5gdrbUCW0DdcLt6byHuOoNST/vF6GWykqd2gdlR2WI3LII6H2h0Kvzyax+TT/qiIy+X4yPG65IFHY+d2GaLxoZ3ZRWucA+z7ncMxKeNbXbemepm6qjYw0xPOw14BeXah6KB0E7NFy0o0gMlQ=;iYNVZbsynkAAePZFmPPlIw=="
 ---

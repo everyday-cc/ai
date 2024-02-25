@@ -3,16 +3,16 @@ category: news
 title: "'Genuine, helpful, personal service': How people are using artificial intelligence to their advantage in dating"
 excerpt: "As artificial intelligence continues to expand, many are curious how it will affect dating and relationships in general."
 publishedDateTime: 2024-02-22T21:57:00Z
-originalUrl: "https://www.wcvb.com/article/ai-dating-scene/46774460"
-webUrl: "https://www.wcvb.com/article/ai-dating-scene/46774460"
+originalUrl: "https://www.wlwt.com/article/ai-dating-scene/46774460"
+webUrl: "https://www.wlwt.com/article/ai-dating-scene/46774460"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: WCVB Channel 5 Boston
-  domain: wcvb.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - AI in Healthcare
@@ -40,6 +40,6 @@ related:
         height: 674
         isCached: true
 
-secured: "OFrX3IXVJ2OB0TocB2ehwYW4i5Dn3QxPMwDVwwLYeD25HXz/IbZFklj8+YdMhp5t7zDw52epGwctnnWzX6SkqXdVUSHDByrvZvG9bxyBZi9QJkCdhyuLNFD/zXObiogGfMdiXsbiBqgI54IIlX1j4HU6+6lhiXdRVHhEFA9v7L7sjvafTBlbNNpoAj029q7gF/EtOoCqg7/OQIrbPkkO8m3H+fCdaCnR53NilPrFJOB/dRvCFAzruzakln0SNUxVst0UUrwwcfAgfBITRclq76l4UNAldh66pYcuQvd3uQ4M6aO7vkjcUPkslb4+1taodAZo5YQy4mJdLOe5cyInjPfjltHyEVmYwqgjgdkHb3t0RSM2a+lkzS/XYRj9hipQ1VHh4pPAilyw1XUk0k8igEcO915FD9+dW+7ndBiXMAi0uknqZ5IXF6PAQpISpr05do1rHfZ9EBTa/32DYOKI/UbYaCf4FesvWnTeV4S5dhtGymxqu/R8MIjhq5o6N368P6Txf4Kt2B3tMEttipna5g==;PRtx8CVGVNQ7sLcU9iE2Qg=="
+secured: "PnkJohRahtXC6ykM0DIlCFJDcB9LLSOdIes0zEQKkJZX4ICtgOD8VhwwHj32wSefRNyxc3SXFVdBZyNakVcW70BG/0KX7hUJHbKi/cSKNqtUUbnoBkNJckA4nQvjTVgtzFnMgRQozOUU+3/92S8X+Fn3jRTQXaaMc6Yn8vWmVYo5z7DNMtuaKvszplaRnU7sszH4mrV4aXALyDUgTlurqaEE0fa7sbtBjhrx87Q6gphzJtvZ+M8730mEM18zDlGVZqC6OGB0n2GvUrTabN72KEThfboh0S+10+aEvgCDwF7pF3U8s9XW2cw6snxPTRBBc0uJ7XLlgSUubvyLqhisyMp0eHcRl/CqXeQ3rNFaQGo=;MuyGpP/4RDBIw01QdmeJ6g=="
 ---
 

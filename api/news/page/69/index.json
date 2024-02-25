@@ -2,6 +2,144 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-12-22-how-ai-could-shake-up-alternative-financing.md",
+      "title": "How AI Could Shake Up Alternative Financing",
+      "excerpt": "The financial services sector has historically resisted large-scale change until new offerings were sufficiently vetted, easily deployable and standardized. Innovations such as credit cards, electronic payment systems, blockchains and peer-to-peer lending took several years to be embraced in the banking and finance industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/22/how-ai-could-shake-up-alternative-financing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/22/how-ai-could-shake-up-alternative-financing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65846eb6688e37659b2f7349/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/22/how-ai-could-shake-up-alternative-financing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/22/how-ai-could-shake-up-alternative-financing/amp/",
+      "publishedDateTime": "2023-12-22T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-expect-a-deepfakes-boom-as-hackers-master-use-of-ai-machine-learning.md",
+      "title": "Expect A Deepfakes Boom As Hackers Master Use Of AI, Machine Learning",
+      "excerpt": "With the growth of Large Language Models (LLMs) like OpenAI's ChatGPT, Artificial Intelligence (AI) exploded in the public a",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107646232/Expect-A-Deepfakes-Boom-As-Hackers-Master-Use-Of-AI-Machine-Learning",
+      "originalUrl": "https://menafn.com/1107646232/Expect-A-Deepfakes-Boom-As-Hackers-Master-Use-Of-AI-Machine-Learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-12/22/I_20e52image_story.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T10:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship.md",
+      "title": "Chatty robot helps seniors fight loneliness through AI companionship",
+      "excerpt": "The women are some of the first in the country to receive the robot ElliQ, whose creators, Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_a343409477b7aea350254f94daf52eb7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
+      "publishedDateTime": "2023-12-22T08:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-machine-learning-can-predict-aggressive-behaviors-in-youth-with-autism.md",
       "title": "Machine Learning Can Predict Aggressive Behaviors in Youth With Autism",
       "excerpt": "For inpatient youths with autism, machine learning analyses of preceding changes in peripheral physiology can predict imminent aggressive behaviors before they occur, according to a study published online Dec.",
@@ -1050,126 +1188,6 @@
         "AI",
         "Microsoft AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-some-news-orgs-burnish-their-brands-by-giving-ai-the-cold-shoulder.md",
-      "title": "Some news orgs burnish their brands by giving AI the cold shoulder",
-      "excerpt": "You know things are getting weird when people’s grandparents are playing with technology that over half the population thinks is bad news and many think is the beginning of the end of humanity. Not Facebook. ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.niemanlab.org/2023/12/some-news-orgs-burnish-their-brands-by-giving-ai-the-cold-shoulder/",
-      "originalUrl": "https://www.niemanlab.org/2023/12/some-news-orgs-burnish-their-brands-by-giving-ai-the-cold-shoulder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.niemanlab.org/images/ben-brock-johnson-2023.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T16:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nieman Journalism Lab",
-        "domain": "niemanlab.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor.md",
-      "title": "Reshoring manufacturing to the US: The role of AI, automation and digital labor",
-      "excerpt": "Here are some concrete recommendations and examples from IBM for companies considering reshoring manufacturing\nThe post Reshoring manufacturing to the US: The role of AI, automation and digital labor appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor/",
-      "originalUrl": "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-centific-and-telaid-partner-to-bring-ai-and-computer-vision-to-retail.md",
-      "title": "Centific and Telaid Partner to Bring AI and Computer Vision to Retail",
-      "excerpt": "AI-Powered Computer Vision Meets Deployment Expertise for Retail and QSR Innovation SEATTLE, Dec. 21, 2023 /PRNewswire/ -- Centific, a global provider of AI and data services, has announced its partnership with Telaid ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/the-wire/centific-and-telaid-partner-to-bring-ai-and-computer-vision-to-retail/",
-      "originalUrl": "https://www.cmswire.com/the-wire/centific-and-telaid-partner-to-bring-ai-and-computer-vision-to-retail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T14:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

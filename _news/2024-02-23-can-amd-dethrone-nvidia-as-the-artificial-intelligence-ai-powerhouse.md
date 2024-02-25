@@ -33,6 +33,20 @@ related:
         width: 2270
         height: 1320
         isCached: true
+  - title: "You Don't Have to Buy Nvidia to Benefit From Its Explosive Artificial Intelligence (AI) Growth. You Can Buy These 2 Stocks Instead."
+    excerpt: "The artificial intelligence (AI) chip leader scored big as more and more ... Let's take a closer look at each. Amazon's AWS is the world's leading cloud services provider, and it also generally drives overall profitability at the company."
+    publishedDateTime: 2024-02-25T16:53:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/24332121/you-dont-have-to-buy-nvidia-to-benefit-from-its-explosive-artificial-intelligence-ai-growth-you-can-buy-these-2-stocks-instead/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 24
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/2ec00bbf61b510c5198c8ff57771a7eb/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f766577%252fgettyimages-1325466022.jpg%26amp%3Bw%3D700"
+        width: 2121
+        height: 1414
+        isCached: true
 
 secured: "6Wu5ed8/qBx2sZ9RLU+2dx69y/r/OHKJpeQoF5v7CzjeyeKLiDeLPt1bbVd672D6eAXy/d6uTLJwkVN6Z5f1D5v/G9RpuAvRlL6WwmmhM9A1cPJPHtZL7XPdDjXo/hDqMUz2LGtqW7xcB4mDaU6mZHaiDYhrs/9ellicGu8Yk8hPfnbt+/jRGRr9OVc87HARbrjJUjWoPldpD+3OcA27TVk476mMJ/UYvORz1BU3aEuxiA7FpWLRkEDIaE5iuBPKpGU7pKkotvkJr9PAk2s4FM/qsVeUMGYJz470JbflAsdROrI4Zrv1NaSoT7062JnCzWY849wn7Fbtd0UafYwHUhhYfLXgfX72awi7QEp66U7LqcRGW3CC0XBsUO/O2xfXZvkKtXirDGSzOwQoCWeimCt2i0JK63apLfJyF88wGeR1s6xmc87khMPnDp6JEp/iIbuYvgysmi6MVYIVCDtd05UOpYIJVGA0rJ2/aDy0tGHpdXrh4p/TgzHqFiY20TiNEjHk+U8jrDiAVpGIY/SWlQ==;5GgTD1WES5Yp4CGNCAozJw=="
 ---

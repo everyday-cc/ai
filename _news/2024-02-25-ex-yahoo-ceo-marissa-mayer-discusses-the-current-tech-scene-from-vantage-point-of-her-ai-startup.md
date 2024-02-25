@@ -3,22 +3,22 @@ category: news
 title: "Ex-Yahoo CEO Marissa Mayer discusses the current tech scene from vantage point of her AI startup"
 excerpt: "Former Yahoo CEO Marissa Mayer now runs an artificial intelligence startup called Sunshine that makes an app for managing personal contacts. She recently shared her views on AI and other tech topics."
 publishedDateTime: 2024-02-24T16:44:00Z
-originalUrl: "https://madison.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_8b25a4b4-66a8-554a-9ca2-5c4c4975130e.html"
-webUrl: "https://madison.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_8b25a4b4-66a8-554a-9ca2-5c4c4975130e.html"
+originalUrl: "https://journalstar.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_6aaa791b-fc69-555e-b0c3-da539c60f9dd.html"
+webUrl: "https://journalstar.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_6aaa791b-fc69-555e-b0c3-da539c60f9dd.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Lincoln Journal Star
+  domain: journalstar.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/b2/8b25a4b4-66a8-554a-9ca2-5c4c4975130e/65d637f4dd733.preview.jpg?crop=1764%2C926%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/6/aa/6aaa791b-fc69-555e-b0c3-da539c60f9dd/65d637f494bc7.preview.jpg?crop=1764%2C926%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -34,6 +34,6 @@ related:
       domain: japantoday.com
     quality: 6
 
-secured: "EwaYKlD3gnLwpQg7qCry1m9OpRHruiYI0ELpr6DWvvYCikcvuETqJE2t6mc8ObGJ/7krwUaLlXImCwHmFWvyNumnRIHoq1X/tz7jGm295TfVAng6MzHhTpuvW/O13ESiGyWB3wA9kq8/bz+rQHLAg+f6A2RjWnZ6MQJ/ZXQZjUJri8XUj3Rs57y4TX15j63Kwd8hBDvoJRgzLD7+OyfPHTHzNdHPpXwm0dh+NGS1P61barKoE+XwVGgPPk/CTMdkrT/2C4sqbU0mthTbJeJ0mvTjTQ8o2QLnLEdRmmPk5IlEcj2tMqD2SzLz0a0wtC3rVym7Uc8ESR4Zm5PpG3+nC2ds8DDsqiOBwa4Z0dU2zgE=;Fm2ij8R+kBqi7Ex7xYqqyA=="
+secured: "uzVnmK07UQF7yVJ/Kh0DtI+DeD+gAwHungWn7sSc326ThcYGiY62YyBYoSihnI4a/O0vcADOvt8nlOfjC5fnE+xm7u7OlPRVf55gS4mX/SfbIl4dV1A7lzcTJcNWqaaEqVG9W9PL6xadOgDWpBVB6jmVPma9ILL+GZHvedJ8/Twv1l92YGj/V/QO1ZTwoEV+dM7vH2yCH44SwyBuSOgh1QK4qsHzCvHV+UpGwcwbjz0IniTX6lsyPvGVgp/DF6vXD35RGd8natOJLp/9zNVX1jyZeR10GNbSbmOoKNxolYhqw0EUAx7zQZ8kE+yxTc4SjKCHaVc7AitIUNJTMyslxjL/JWeON9KcNsujLgpI9hk=;TFFA1SikXnUE3Eo/DzUZsQ=="
 ---
 

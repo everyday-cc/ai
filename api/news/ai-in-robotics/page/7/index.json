@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-22-remote-controlled-robot-has-tv-eyes-soft-touch.md",
+      "title": "Remote-Controlled Robot Has TV “Eyes,” Soft Touch",
+      "excerpt": "Your support for Society for Science helps counter misinformation and create a more informed public. And right now, your year-end gift could go twice as far — because a generous supporter is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/archive/remote-controlled-robot-has-tv-eyes-soft-touch",
+      "originalUrl": "https://www.sciencenews.org/archive/remote-controlled-robot-has-tv-eyes-soft-touch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2019/08/sn-fallback.png",
+          "width": 990,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-robots-and-artificial-intelligence.md",
       "title": "Robots and Artificial Intelligence",
       "excerpt": "As new threats like deep fakes become cheaper and more widespread, these upcoming elections could serve as a test run for democracy in the artificial intelligence (AI) era. What risks does AI pose ...",
@@ -1300,49 +1343,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-ezviz-now-offers-consumers-a-full-smart-home-solution-with-the-introduction-of-its-affordable-yet-feature-packed-re4-and-re4-plus-smart-robot.md",
-      "title": "Ezviz Now Offers Consumers a Full Smart Home Solution With the Introduction of Its Affordable Yet Feature Packed RE4 and RE4 Plus Smart Robot Vacuums",
-      "excerpt": "EZVIZ, a global leader in smart home technology, known previously for its indoor and outdoor security cameras, is now set to offer consumers a fully comprehensive smart home solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=14531",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=14531",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14531_1702445923552312.png",
-          "width": 778,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T05:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
         "images": null,
         "publishers": null,
         "authors": null

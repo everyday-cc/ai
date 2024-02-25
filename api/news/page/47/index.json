@@ -2,6 +2,135 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2024-01-20-history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does.md",
+      "title": "History Suggests the Nasdaq Will Surge in 2024: My Top 7 Artificial Intelligence (AI) Growth Stocks to Buy Before It Does",
+      "excerpt": "Detailed price information for Compass Inc Cl A (COMP-N) from The Globe and Mail including charting and trades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/COMP-N/pressreleases/23482304/history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/COMP-N/pressreleases/23482304/history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/5a2f12308459f594ac354dba874464fc/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f761668%252fa-robotic-hand-interacting-with-a-visual-ai-touchscreen-display.jpg%26amp%3Bw%3D700",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-david-lammys-speech-disrupted-by-pro-palestinian-protesters.md",
+      "title": "David Lammy’s speech disrupted by pro-Palestinian protesters",
+      "excerpt": "David Lammy’s speech calling for a ceasefire in Gaza was disrupted by pro-Palestinian protesters. Labour’s shadow foreign secretary was addressing the Fabian Society conference on Saturday when flag-waving demonstrators mounted the stage shouting: “When will you condemn the genocide?",
+      "sourceUrl": null,
+      "webUrl": "https://www.ealingtimes.co.uk/news/national/24063575.david-lammys-speech-disrupted-pro-palestinian-protesters/",
+      "originalUrl": "https://www.ealingtimes.co.uk/news/national/24063575.david-lammys-speech-disrupted-pro-palestinian-protesters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ealingtimes.co.uk/resources/images/17666148/?type=og-image",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T14:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ealing Times",
+        "domain": "ealingtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-love-machina-review-provocative-but-unfocused-doc-tackles-romance-and-robotics.md",
+      "title": "‘Love Machina’ Review: Provocative but Unfocused Doc Tackles Romance and Robotics",
+      "excerpt": "One of the great pleasures of reviewing documentaries, though, is that every few months a new film will pull back the curtain on the latest advancement in artificial intelligence or consciousness-infused robotics. Fairly consistently, the answer is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/",
+      "originalUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2024/01/LoveMachina-Still1-copy.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/amp/",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/amp/",
+      "publishedDateTime": "2024-01-20T14:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-20-google-deepmind-scientists-said-to-be-in-talks-to-leave-and-form-ai-startup.md",
       "title": "Google DeepMind Scientists Said to Be in Talks to Leave and Form AI Startup",
       "excerpt": "DeepMind scientists have held discussions with potential investors about a financing round that may exceed EUR 200 million (roughly Rs. 1,800 crore).",
@@ -1023,127 +1152,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-meta-to-develop-artificial-general-intelligence.md",
-      "title": "Meta To Develop Artificial General Intelligence",
-      "excerpt": "The Facebook founder said that Meta had built ... He further said that two of the company's AI research teams - FAIR and GenAI are working together to accelerate this project.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/meta-to-develop-artificial-general-intelligence-1032981000",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/meta-to-develop-artificial-general-intelligence-1032981000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.md",
-      "title": "Figure-01: Humanoid Robot Learns to Make Coffee By Watching Videos",
-      "excerpt": "The Figure-01 robot, equipped with artificial intelligence (AI), showcased its ability to watch and learn from human actions during a demonstration at Figure's San Francisco headquarters. Responding to a human request for coffee, the robot, having ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "originalUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/442710/figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.png",
-          "width": 467,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "publishedDateTime": "2024-01-19T14:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features.md",
-      "title": "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features",
-      "excerpt": "Face recognition technology follows earlier biometric surveillance techniques, including fingerprints, passport photos and iris scans. It’s the first that can be done without the subject’s knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/nation-world/crime-courts/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying/article_ca215e11-9ce4-5a0f-b781-9a6941c72e22.html",
-      "originalUrl": "https://www.stltoday.com/news/nation-world/crime-courts/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying/article_ca215e11-9ce4-5a0f-b781-9a6941c72e22.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T13:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

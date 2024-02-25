@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-26-ai-startup-figure-ai-scores-675m-from-bezos-nvidia-and-others-to-advance-humanoid-robots.md",
+      "title": "AI startup 'Figure AI' scores $675M from Bezos, Nvidia, and others to advance humanoid robots",
+      "excerpt": "Figure AI develops human-like robots powered by artificial intelligence. It raised around $675 million in a recent funding round, with Amazon founder Jeff Bezos and Nvidia",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html",
+      "originalUrl": "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-25-image-3.jpg",
+          "width": 2000,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T19:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition.md",
+      "title": "3 Robotics Stocks That Could Be Multibaggers in the Making: February Edition",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As technology continues to advance at an unprecedented pace, robotics stands",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition-1033099946",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition-1033099946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T19:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-25-construction-workers-being-replaced-by-ai-robot-bricklayers.md",
       "title": "Construction workers being replaced by AI robot bricklayers",
       "excerpt": "Monumental is a startup that offers brick-laying services with its AI-powered robots that can work with humans to fill the labor gap.",
@@ -10,7 +106,7 @@
       "originalUrl": "https://cyberguy.com/ai/construction-workers-being-replaced-by-ai-robot-bricklayers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -141,58 +237,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-24-investing-in-the-next-wave-of-explosive-ai-growth.md",
-      "title": "Investing in the Next Wave of Explosive AI Growth",
-      "excerpt": "So are OpenAI, the world’s most influential AI startup, Amazon (AMZN), Tesla (TSLA) and Samsung. Not to mention the world’s richest men, Elon Musk and Jeff Bezos. AI 2.0: The Rise of the Robot Yes, I’m talking about AI-powered robots like the ones ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/yzJturJFFghqcyCNnIaAZy189Vj69lRLjtitfmAF0N-Xp39dl-O4uudjIW7n0Jhc-aiVtqt5DbyRvyRrSQzuQixXkooUvMk5Hk_qks8N-V69kdPAQFOdRIOpPU9cMhnz9MzgaKBWuSKmZj_uduuGNg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T08:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2024-02-23-humanoid-robotics-the-next-step-for-artificial-intelligence.md",
       "title": "Humanoid Robotics: The Next Step For Artificial Intelligence",
       "excerpt": "Robotic technology is evolving at unprecedented speed, to the point where robots can learn by watching what humans do.",
@@ -296,7 +340,7 @@
       "originalUrl": "https://www.bbc.com/news/av/business-68348353",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1391,49 +1435,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-y-combinator-seeks-startups-in-robotics-space-and-defense.md",
-      "title": "Y Combinator Seeks Startups in Robotics, Space and Defense",
-      "excerpt": "Y Combinator is one of the most prominent and competitive Silicon Valley startup accelerators, and has backed companies including Airbnb Inc., DoorDash Inc. and Stripe Inc. Apple Inc. ’s longest-serving senior industrial designer is leaving the company, marking the near-complete turnover of a team once led by Jony Ive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-14/y-combinator-seeks-startups-in-robotics-space-and-defense",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-14/y-combinator-seeks-startups-in-robotics-space-and-defense",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

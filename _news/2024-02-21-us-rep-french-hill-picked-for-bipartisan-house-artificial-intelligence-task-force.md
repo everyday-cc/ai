@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "House punts on AI with directionless new task force"
-    excerpt: "The House of Representatives has founded a Task Force on artificial intelligence that will \"ensure America Keeps leading in this strategic area,\" as"
-    publishedDateTime: 2024-02-20T22:53:00Z
-    webUrl: "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/"
-    ampWebUrl: "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/capitol-congress-hearing-government-techcrunch-bryce-durbin.jpeg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "US forms task force to explore guardrails for AI"
     excerpt: "it will substantially foster AI advancement in terms of security, privacy, ethics, and sustainability, which will be critical for the public trust on AI in the long run.” According to Counterpoint Research Senior Analyst, Akshara Bassi, “AI regulation ..."
     publishedDateTime: 2024-02-21T12:16:00Z
@@ -49,6 +33,29 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Best 7 Tech Stocks to Buy for AI Cloud Exposure"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Cloud AI combines the power of artificial intelligence with the power of cloud"
+    publishedDateTime: 2024-02-22T03:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-best-7-tech-stocks-to-buy-for-ai-cloud-exposure-1033090179"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "CSIU's AI taskforce initiative unveiled"
+    excerpt: "2024 initiative — artificial intelligence — was discussed during Wednesday night's board meeting. CSIU has established a task force to study A.I. in such areas as productivity, safety and ethics. \"We want to lead in this area, as opposed to being a ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.dailyitem.com/news/csius-ai-taskforce-initiative-unveiled/article_80241ba0-d1ba-11ee-887f-47a18f368b5d.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "How a New Bipartisan Task Force Is Thinking About Artificial Intelligence"
     excerpt: "On Tuesday, speaker of the House of Representatives Mike Johnson and Democratic leader Hakeem Jeffries launched a bipartisan Task Force on Artificial Intelligence. Johnson, a Louisiana Republican, and Jeffries,"
