@@ -33,20 +33,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
-    excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds. Some are also starting to use artificial intelligence to generate synthetic voice clones."
-    publishedDateTime: 2024-02-24T17:45:00Z
-    webUrl: "https://www.stltoday.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_13091813-b921-5086-a4e3-ae9c0b06a3c3.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 26
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/30/13091813-b921-5086-a4e3-ae9c0b06a3c3/65d8c7ef619be.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HzO3iKe2AcBc/KA8xBcBbkGKZN3XFOR+9hZ5n4/SQNaT9c2tDJxQBzr079iU7xqT4fB4Uy2/ArGApkcMnXu05FIoJu/JdKo7zUT8nkaGbMZeLWaSvATCCW42r9u9SYsT5ZjI3bC/8KzAFAVKlU0iFyBDD7u2FrCs9a+nmf4+i3HhmT15MgpYEMTgfa9w4l4Bil5aZlI1ks9XKxaQvQs/ZnUdnucsF87t7srPbfcQlnoYYgMcDXhbNzy1hm1wkNKDO6aEpbCT6EW1/WaqYJiC/BGINw5M3OOkg38hQyb5RyM3hc5RfJB7jEM49k2FdGPgisDDuWZFqvPJVG28PdOaSZIE04cXE6vdClEvY2VJB5p1hj2xCkdmYGuPpvfAq1QbBZaJyrai5UbbNr/ciOR6r3zbcQTydiOZTH0ZIn3FDnhUIaGniEh279CZ1HUguPw4m9YkQlmCis9S1ZKXcolIh+6CY8bLa5IHd3D1K97Cu+Lpm9b0/7wuwSDzSJR4mb1FrSrlHKm8IqUuHqVQaH033Q==;S9EF0wu1mJhc1aH6QLEdLw=="
 ---

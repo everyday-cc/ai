@@ -254,20 +254,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft tinkers with Windows for AMD AI"
-    excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
-    publishedDateTime: 2024-02-20T09:06:00Z
-    webUrl: "https://www.fudzilla.com/news/58478-microsoft-tinkers-with-windows-for-amd-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/bcdf324bedc9fc853b785e501196a623_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Cushman & Wakefield working with Microsoft on AI"
     excerpt: "The Microsoft Technology Centre is providing Cushman & Wakefield with access to cutting-edge research, tools, and the firm's top specialists to develop powerful and adaptable applications. It also provides insight into various areas that require AI solutions, with learning and improvement through feedback and advice."
     publishedDateTime: 2024-02-21T07:48:00Z

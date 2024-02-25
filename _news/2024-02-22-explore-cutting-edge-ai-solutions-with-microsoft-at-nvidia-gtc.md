@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-sol
 webUrl: "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/"
 type: article
 quality: 104
-heat: 404
+heat: 394
 published: true
 
 provider:
@@ -243,20 +243,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/King-County--Washington--United-States--_6.jpeg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Microsoft tinkers with Windows for AMD AI"
-    excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
-    publishedDateTime: 2024-02-20T09:06:00Z
-    webUrl: "https://www.fudzilla.com/news/58478-microsoft-tinkers-with-windows-for-amd-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/bcdf324bedc9fc853b785e501196a623_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "Microsoft to invest $2.1bn in cloud and AI infrastructure in Spain"
     excerpt: "Microsoft has committed to investing $2.1 billion in cloud computing and artificial intelligence (AI) infrastructure in Spain over the next two years. The planned investment was shared by the vice chair and president of Microsoft Brad Smith via a post on X following a meeting with the Prime Minister of Spain, Pedro Sanchez."

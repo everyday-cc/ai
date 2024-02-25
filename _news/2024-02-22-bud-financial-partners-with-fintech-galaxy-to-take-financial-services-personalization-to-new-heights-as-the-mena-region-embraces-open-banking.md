@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Navigating Retail's New Reality: Omnichannel, Hyper-Personalization And Beyond"
-    excerpt: "While AI has been touted by many as a silver bullet for addressing key challenges, it is not the only solution available and may not work for every retail company."
-    publishedDateTime: 2024-02-20T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/amp/"
+  - title: "Fintech Monite Announces Additional Funding to Support US Expansion Efforts"
+    excerpt: "Monite's seed funding has reached $16M in order to support US expansion efforts. The company has been working to enhance financial services."
+    publishedDateTime: 2024-02-20T13:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221689-fintech-monite-announces-additional-funding-to-support-us-expansion-efforts/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221689-fintech-monite-announces-additional-funding-to-support-us-expansion-efforts/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221689-fintech-monite-announces-additional-funding-to-support-us-expansion-efforts/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 42
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f105d41e465530006d5ac69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/05/US-Dollars-Money-Grant.jpg"
+        width: 1280
+        height: 960
         isCached: true
 
 secured: "WOFmbKqCsBC1ATxm8OThKTzSesJRAh6RuUuFIJ34VCzESa+Mgo+f8RPyuK/ELhEhltDWu4e7mTFcjfxLYtaNPXxLN/PTXwuPLdQeSeoXMeBmbq2EIO5mMyTR/VqB1U1e8asIWEgEZwaRoXt7yWHstyobwXmWyH0SCP+03DkhtIFeySw+gbFVUxZxBZH4XbotpfuSHXMIN4JdOrMR1BWGYQatw57UcMCEGsUK8HbL6Z8FIx9JzB26v5lZ5cc5DBiVwsLMDmTX/t2FV5mfOcjJRAKa7QHkQYtLkQmkbig2EeCRDwjDeplDuQIWezSMVp4eFXGOduNikNdPDVwGO3sPXo4oU9sDJaHuKkyEHASzv3eBzmEQth6tyeI28JrvyFpnVOz7oJWY3rZ7Qs9QqgqS4UpaQhs7tkSVq9q2xXLes/5+kIrNFPb2vQL8j05zVYTm5ZDXCA2ji/pIsPHEzZfdX62kjNaPO5BeTw8cl1cBCKpoxji0YF9yOfXlJ5CfXUvAVYRHj3ImzPVTNxOdgAemvg==;x+gXzpDT4+JPIapukNtopA=="

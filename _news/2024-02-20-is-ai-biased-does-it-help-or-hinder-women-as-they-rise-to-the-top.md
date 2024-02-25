@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/barbarakurshan/2024/02/20/is-ai-biase
 webUrl: "https://www.forbes.com/sites/barbarakurshan/2024/02/20/is-ai-biaseddoes-it-help-or-hinder-women-as-they-rise-to-the-top/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,21 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Welcome to the Era of Mobile AI"
-    excerpt: "One of the most welcomed AI features is Circle to Search with Google, an incredible new tool for intuitive discovery. Our communication tools for removing language barriers, such as Live Translate, Chat Assist and Interpreter, have captured the imagination ..."
-    publishedDateTime: 2024-02-20T10:33:00Z
-    webUrl: "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
+  - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
+    excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds. Some are also starting to use artificial intelligence to generate synthetic voice clones."
+    publishedDateTime: 2024-02-24T17:45:00Z
+    webUrl: "https://www.stltoday.com/life-entertainment/nation-world/artificial-intelligence-ai-video-game-actors-voice-clones/article_13091813-b921-5086-a4e3-ae9c0b06a3c3.html"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 59
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 26
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/TM%20Roh_Editorial.jpg?itok=Ir3q2Fow"
-        width: 1440
-        height: 960
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/30/13091813-b921-5086-a4e3-ae9c0b06a3c3/65d8c7ef619be.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "RkmOzXoh5NFn3dQSTpddxJJXOpQfiv6ZTYbknbqUbdi9ZldC4+c6k9Juv2552bj5aLytk+J9OIsuAzQM9xRhD++h79rZ4I3LApqn3nLtyg2/nAA4WvnxVsPM5WI4G34GtjH6ACuQqBcM+NbX+j2QpwTL0uMbi3WIqDi04zquFn17sMlmHbzGJ7yacWV0y4ensgbwOYmDcNFIvnhLHJflcvPseSJj6wS5AiY7CbnUQfUJ48T1aQQWcInevJ6yABLuSg8oQTQXl3ATXV91PqBk+xaFo7VAi/xbrcvf7tqE1gImD9ttfIBjBjlxkPxTvzn9DEwuJC0qdUeS41K02j1eRSRXESpmlSeRSIEdW8YhAAdfM11JmfYIpCn6Ln1pjkDtfebwRU1bcc18zvr/zqsX6edPjpgdbLhBzeW/LhxEnObQhuBlR6wDCjlUF8ufKj8sm1cEXVhjdrpgYXwMd3N+XTVlF0k0AAN6PRj+YJivtNYEVvFmLBEMgliLvCFFNF4q7JIOIQYe8dbID11QjCcuVw==;4m/5Bq7izT83JyFmNAIPbQ=="

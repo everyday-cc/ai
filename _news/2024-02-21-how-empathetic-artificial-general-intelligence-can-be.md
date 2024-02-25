@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How close is OpenAI to creating Artificial General Intelligence (AGI)?"
-    excerpt: "Artificial General Intelligence (AGI) is a class of artificial intelligence that is capable of understanding and applying knowledge across"
-    publishedDateTime: 2024-02-20T10:33:00Z
-    webUrl: "https://www.geeky-gadgets.com/when-will-agi-arrive/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-Artificial-General-Intelligence-AGI.jpg"
-        width: 1280
-        height: 803
-        isCached: true
   - title: "Bill Foster, a particle physicist-turned-congressman, on why he’s worried about artificial general intelligence"
     excerpt: "In a Q&A with FedScoop, the Illinois Democrat and House AI task force member discusses his optimism and pessimism on potential AI legislation and his fears about AGI."
     publishedDateTime: 2024-02-23T21:36:00Z

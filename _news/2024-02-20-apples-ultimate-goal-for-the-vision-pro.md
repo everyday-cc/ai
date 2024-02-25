@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Apple Vision Pro is about to enable fully immersive 3D music production"
+    excerpt: "Producing music these days can be something of a flat experience, undertaken using powerful software running on a computer. With the sales launch of the Apple Vision Pro, DAW maker Hit'n'Mix is planning to immerse musicians in their creations."
+    publishedDateTime: 2024-02-21T13:57:00Z
+    webUrl: "https://newatlas.com/music/hitnmix-ripx-ai-daw-apple-vision-pro/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 34
   - title: "visionOS 1.1 beta 3 now available with several improvements for Apple Vision Pro"
     excerpt: "Apple is seeding visionOS 1.1 beta 3 to Vision Pro developers. Here's everything we know about this upcoming update."
     publishedDateTime: 2024-02-20T18:14:00Z
@@ -50,6 +59,20 @@ related:
       - url: "https://www.technewsworld.com/wp-content/uploads/sites/3/2024/02/Apple-Vision-Pro-unboxed.jpg"
         width: 1000
         height: 520
+        isCached: true
+  - title: "Stunning visionOS 2 concept shows off 7 features I want Apple to add to the Vision Pro"
+    excerpt: "I hope visionOS 2 brings at least these seven Apple Vision Pro possible features to help Apple improve its first spatial computer."
+    publishedDateTime: 2024-02-23T20:14:00Z
+    webUrl: "https://bgr.com/tech/stunning-visionos-2-concept-shows-off-7-features-i-want-apple-to-add-to-the-vision-pro/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 16
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/visionsos-2-concept-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
         isCached: true
   - title: "You better not cry while wearing the Apple Vision Pro"
     excerpt: "Crying while watching movies with the Vision Pro isn't recommended, or supported - here's what you need to know."

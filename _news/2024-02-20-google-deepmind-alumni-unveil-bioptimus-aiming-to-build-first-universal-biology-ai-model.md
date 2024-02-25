@@ -60,22 +60,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI regulation will be required in 5-10 years: DeepMind's Mustefa Suleyman"
-    excerpt: "Suleyman stressed the importance of regulating AI to prevent misuse of information and its impact on nation states."
-    publishedDateTime: 2024-02-20T10:45:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 73
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-9502,msid-107852095/mustefa-suleyman.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Google DeepMind debuts Gemma open models, offers developer alternative to Gemini API"
     excerpt: "Google DeepMind announced it had released Gemma — new 2B and 7B open models built from the same R&D used to create Gemini."
     publishedDateTime: 2024-02-21T13:00:00Z

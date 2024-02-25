@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-25-construction-workers-being-replaced-by-ai-robot-bricklayers.md",
+      "title": "Construction workers being replaced by AI robot bricklayers",
+      "excerpt": "Monumental is a startup that offers brick-laying services with its AI-powered robots that can work with humans to fill the labor gap.",
+      "sourceUrl": null,
+      "webUrl": "https://cyberguy.com/ai/construction-workers-being-replaced-by-ai-robot-bricklayers/",
+      "originalUrl": "https://cyberguy.com/ai/construction-workers-being-replaced-by-ai-robot-bricklayers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cyberguy.com/wp-content/uploads/2024/02/Uncomfortable-reality-leads-to-Vision-Pro-returns-585x390.jpg",
+          "width": 585,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://cyberguy.com/ai/construction-workers-being-replaced-by-ai-robot-bricklayers/amp/",
+      "cdnAmpWebUrl": "https://cyberguy-com.cdn.ampproject.org/c/s/cyberguy.com/ai/construction-workers-being-replaced-by-ai-robot-bricklayers/amp/",
+      "publishedDateTime": "2024-02-25T07:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CyberGuy",
+        "domain": "cyberguy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-25-amazon-founder-jeff-bezos-joins-microsoft-chatgpt-maker-openai-to-invest-in-this-robotics-company.md",
       "title": "Amazon founder Jeff Bezos joins Microsoft, ChatGPt maker OpenAI to invest in this robotics company",
       "excerpt": "ARK Venture Fund, Aliya Capital Partners, and Tamarack are also among the startup's investors ... may surpass larger competitors. Figure AI, based in Sunnyvale, California, develops general-purpose humanoid robots capable of operating in various ...",
@@ -54,7 +97,7 @@
       "originalUrl": "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -720,7 +763,7 @@
       "originalUrl": "https://newatlas.com/wearables/mit-csail-smart-glove-haptic-tactile-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1213,48 +1256,6 @@
         "AI",
         "Meta AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-creator-of-fake-biden-robocall-demonstrates-using-ai-to-impersonate-nbc-reporter.md",
-      "title": "Creator of fake Biden robocall demonstrates using AI to impersonate NBC reporter",
-      "excerpt": "Before the New Hampshire primary, Paul Carpenter says he was paid to create a robocall impersonating President Biden urging listeners not to vote. He demonstrated how he uses artificial intelligence to impersonate the voice of NBC News' Alex Seitz-Wald.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/creator-of-fake-biden-robocall-demonstrates-using-ai-to-impersonate-nbc-reporter-204727877516",
-      "originalUrl": "https://www.nbcnews.com/video/creator-of-fake-biden-robocall-demonstrates-using-ai-to-impersonate-nbc-reporter-204727877516",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_02/robocall_nbc-3jlgmf.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo204727877516",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo204727877516",
-      "publishedDateTime": "2024-02-23T09:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

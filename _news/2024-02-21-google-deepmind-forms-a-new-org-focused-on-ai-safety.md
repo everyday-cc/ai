@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-fo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-20-08.57.21-A-panoramic-detailed-image-showcasing-the-different-scales-of-biology-in-a-seamless-transition.-The-image-begins-with-a-magnified-view-of-molecules-.webp?w=1200&strip=all"
         width: 1200
         height: 685
-        isCached: true
-  - title: "AI regulation will be required in 5-10 years: DeepMind's Mustefa Suleyman"
-    excerpt: "Suleyman stressed the importance of regulating AI to prevent misuse of information and its impact on nation states."
-    publishedDateTime: 2024-02-20T10:45:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 73
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-9502,msid-107852095/mustefa-suleyman.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Google DeepMind debuts Gemma open models, offers developer alternative to Gemini API"
     excerpt: "Google DeepMind announced it had released Gemma — new 2B and 7B open models built from the same R&D used to create Gemini."

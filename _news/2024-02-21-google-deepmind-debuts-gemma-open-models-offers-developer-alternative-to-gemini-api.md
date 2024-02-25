@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 685
         isCached: true
-  - title: "AI regulation will be required in 5-10 years: DeepMind's Mustefa Suleyman"
-    excerpt: "Suleyman stressed the importance of regulating AI to prevent misuse of information and its impact on nation states."
-    publishedDateTime: 2024-02-20T10:45:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 73
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-9502,msid-107852095/mustefa-suleyman.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Google DeepMind C.E.O. Demis Hassabis on the Path From Chatbots to A.G.I."
     excerpt: "For more audio journalism and storytelling, download New York Times Audio, a new iOS app available for news subscribers. Hosted by Kevin Roose and Casey Newton Produced by Davis Land and Rachel Cohn Edited by Jen Poyant Engineered by Chris Wood Original mu ..."
     publishedDateTime: 2024-02-23T10:04:00Z

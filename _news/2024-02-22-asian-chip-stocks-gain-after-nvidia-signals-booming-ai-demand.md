@@ -2,9 +2,9 @@
 category: news
 title: "Asian Chip Stocks Gain After Nvidia Signals Booming AI Demand"
 excerpt: "Shares of Asian chip makers rose Thursday after strong earnings from Nvidia buttressed expectations of booming global demand for semiconductors used in artificial intelligence."
-publishedDateTime: 2024-02-22T10:17:00Z
-originalUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2?mod=tech_lead_pos2"
-webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2?mod=tech_lead_pos2"
+publishedDateTime: 2024-02-22T05:18:00Z
+originalUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2"
+webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2"
 type: article
 quality: 64
 heat: -1
@@ -285,7 +285,7 @@ related:
   - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
     excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
     publishedDateTime: 2024-02-23T20:18:00Z
-    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
     type: article
@@ -433,20 +433,6 @@ related:
       - url: "https://www.moneyweb.co.za/wp-content/uploads/2024/02/407967706-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Nvidia Earnings Are Coming. Why It’s Time to Think About AI Chip Competition."
-    excerpt: "It’s not an exaggeration to say that the tech sector's recent rally might depend on Nvidia beating expectations for its earnings report this week. However, stockholders in the chip maker should be looking beyond the immediate horizon and particularly at potential competitive threats."
-    publishedDateTime: 2024-02-20T09:37:00Z
-    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-022024/card/nvidia-earnings-are-coming-why-it-s-time-to-think-about-ai-chip-competition--t3L1dFwwER6wORkYouvd"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 51
-    images:
-      - url: "https://images.barrons.com/im-92074206/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "BESI exceeds fourth-quarter targets on demand for AI-related chipmaking parts"
     excerpt: "Orders and year-end backlog for hybrid bonding — a form of chip packaging required for AI applications — nearly doubled from last year, BESI said, adding that around a half of fourth-quarter orders were for its most advanced hybrid bonding systems."
@@ -691,6 +677,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "aQKc7PtPPgD7kbjI9A24+4wq898QqZXOFgLQdN0sdKc0KMtTjWWhkTqUCTc26MxYQVyokkspL04GPeG35QFVmo7Yqk94bDFfppEn275TZTgu5XyqSP8OEpk8U8aMRCZHSeNts2Ogd5tKPFpIcVFiyEayR8ROVMkZ9rGuDJ041JjJUSDgmL2sIIWJVKTOq4VhK0VUc503FBqmmwEX/H4Qao9w87RH+cgG5t8fY8e8o6m/Z1aAIjpU96bXvfvM24J34qQ3QztDi26ItobXqTJfBBhleSCD/2Y9a50tCgpGTqvrap5w8KKAc9mI9wMJwlP3yy/Z/Bp5LnyRGehoiyIxd1hAVExSttT6FG0O3QBBOTpXRCh0lkYVKVK2YDVvPzxs8ItEbpaq8qFTMyD5POoGZDcyLTEvJ49lTR+DmOGwhsqDAASHqGgg0GuuWooLZuzcFCZWpsAM0LvcjIY+f2vbLex5HKqRxHKDpz3SzSXfYFKB8dmDBg/+jdl++6wWeY1/o1EI/bpcb7idIkrmlNAlhg==;pyzGUS2aVVKzMpZ02GIgiw=="
+secured: "lzyMQQEkHvaqYhX69x02YsnFnHlGjITyNSMhenulYw+H1Hh2ZCem7Y+C602dxJOKa3s+hcBwFgYJODJ0xsYZ5JG5+r6dhgg5qQqDoTFat2iYCHmPv81CKaaBBBYNVyqudgm8oTw6MHCwA/dzftTblWUyfYIxEN5XeYsDEkwSq0sn2R0PGUIyfV1x4GfkVF6VocuiABKTx0yGVLNv1d6q6vLo4jofP7ty8GJc1kLglnjzBlYRtWPEwf1pYLSAiirrYkY36zHrsfUuIBjLNF53Hec5tiL+Yu8m803EvKTl4wxsOutOuX3Tiiuf9MmvPFAnqRhYF/P6lr6n8a0dln7i6cy69vmUXSb23UrzTVGY/tJfEa1vBYO+y4otUR1824+WSjy0WyGcfwp8YKbx3aRK6jFrWqOaJnEfoNzbMqKqo7M/J0e3V0ks+MjFcFjI6ZWoF4iTDHSQMRLAkvlfkj/Ypm/I5VVg4fJh/zBDyrPnSuZKij7lxfAuVw/B4bU9rNoREoVhProNB6wcXP8u5zN+6w==;aQZMcDL0QK4RKgkgnV3HIQ=="
 ---
 

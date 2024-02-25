@@ -7,7 +7,7 @@ originalUrl: "https://campustechnology.com/articles/2024/02/21/creating-guidelin
 webUrl: "https://campustechnology.com/articles/2024/02/21/creating-guidelines-for-the-use-of-gen-ai-across-campus.aspx"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 644
     height: 300
     isCached: true
+
+related:
+  - title: "Eye-opening innovations in false lashes include the use of LED, AI and robots"
+    excerpt: "SINGAPORE – Worried about robots stealing your job? It is already happening in one lash salon in California."
+    publishedDateTime: 2024-02-22T08:27:00Z
+    webUrl: "https://www.straitstimes.com/life/style/eye-opening-innovations-in-false-lashes-include-the-use-of-led-ai-and-robots"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 51
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/02/22/yulllashcollage2202.png"
+        width: 860
+        height: 573
+        isCached: true
 
 secured: "WOpS3poP0ndFg7WiQ+Ny6Ucvdufc/CDqp5fy+KUpD6gob6HyTv6/2dtKHilufYngsFiN1AyV+XGuCdjdOTqZsvojSZwBnTdcLc0KiaM1Je0gz81nRU2tYaRhpvtw2DJIEvHQxIKHHcUGjkFeH/aLWJhq2K2VI3Et+9knp000mP335ajCtI4fveUyiPHVZgZJWTDpIFcBIF/mhIJx70cQeR17j39gcQhKSexTdeWuNHpFzZGuSZl6eJ1v+m5DoFxZ6tlydWMIc0masSBMhs4keY458W8NeYF5rwAncmZ5vC4dyWNs/hXBFxHEo6n7HI1i5CSLcwgo2O13HJXIFCIGYmFc0qgL4Cam4lWWS2SlSkE=;nMYYH2qAVumlDvIpA+uXZg=="
 ---

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How close is OpenAI to creating Artificial General Intelligence (AGI)?"
-    excerpt: "Artificial General Intelligence (AGI) is a class of artificial intelligence that is capable of understanding and applying knowledge across"
-    publishedDateTime: 2024-02-20T10:33:00Z
-    webUrl: "https://www.geeky-gadgets.com/when-will-agi-arrive/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-Artificial-General-Intelligence-AGI.jpg"
-        width: 1280
-        height: 803
-        isCached: true
 
 secured: "R3ICu1dxWUylrhE2TGFJDQxwyqFr6ppXAMycRGSfsRr2CVHBJNKA24kEcb6HdVHm/H5jhAc+9PwqpYgY0mGqvAtR+ssZpPvDEVCYv9JB9CpTbyYRVfRsA/5UQFa45bJGQmTIXz+pwPDRw5+XhGkXilk+T5BxbD4IoS8hFa84/jR6Iul56CdrjUHN63+OAc6zf5MuSlu91PtgLFEtrRiuCCk2DcWotF1RftzYGWJ42gswXDjrvHPMIH0eO5gbvhGy1q/ntcOe6cTocxAPd0zowtpYpHCxmwjSc1AlQ91RY1AZlpuQK3BJDGdhHqV4YJ4iwYMXdVY+DzNA6UmPJX5qJfKv3VopaMTIIwEAaT5EcKI=;lp3LnvBBZSoX3HGQaESBzw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/currencies/ftx-estate-can
 webUrl: "https://markets.businessinsider.com/news/currencies/ftx-estate-can-sell-near-8-stake-in-ai-startup-anthropic-court-rules-1033096010"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Inside the Funding Frenzy at Anthropic, One of A.I.’s Hottest Start-Ups"
-    excerpt: "The company raised $7.3 billion over the last year, as the lure of artificial intelligence changes Silicon Valley deal-making."
-    publishedDateTime: 2024-02-20T10:02:00Z
-    webUrl: "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/images/2024/02/16/multimedia/00-anthropic-funding-jpvz/00-anthropic-funding-jpvz-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "FTX Gets Bankruptcy Court Approval to Sell Shares in AI Startup Anthropic"
     excerpt: "Authorization for the sale enables the bankrupt crypto exchange to unload its stake at “the most optimal and appropriate time” given the increased interest in artificial intelligence."
     publishedDateTime: 2024-02-23T16:57:00Z

@@ -108,15 +108,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
-  - title: "How RAG makes generative AI tools even better"
-    excerpt: "Patrick Lewis, a natural language processing research scientist with start-up Cohere, originally coined the term RAG in a paper published in 2020. Lewis pointed out that LLMs cannot easily expand or revise their memory, and they can’t straightforwardly ..."
-    publishedDateTime: 2024-02-20T11:00:00Z
-    webUrl: "https://www.computerworld.com/article/3712789/how-rag-makes-generative-ai-tools-even-better.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 21
 
 secured: "hTvVNlzcuxep7y9VjQkOWkh3q81/n3zpVW+6XT6NLbnYsp2iKe/nTTnVtqfrTFz2/r83NWM50weIwZIexarUfbT4uDIhUMvGLYRDq5SxDbvjwClaSsNCSX+TEjV7Y0l2A/RnF5ECQq557uPlWNoOXiWcn44V3MKJyxQBOMfbYYhUSOzgoJv8ly7C/WlGD3M7cngHeoxy0LGSMeayw8mRjhp/rs83oC9LiOMxR8liTq4yNROfeAZSwWfYW1Ae7GsEL3chd7D2E6IiE7FSl3vffoR2MQfD2WY0Eia3ZpIOUVRfLL+Nq14ei29n3TYJcs50Prc0wgVNcV0EicXoiBg4eGsHrYIr+6F2OJAF3NFaQKI=;t12SFd0YoGLWUQ4/dHXF+g=="
 ---

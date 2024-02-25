@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -109,15 +109,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
-  - title: "How RAG makes generative AI tools even better"
-    excerpt: "Patrick Lewis, a natural language processing research scientist with start-up Cohere, originally coined the term RAG in a paper published in 2020. Lewis pointed out that LLMs cannot easily expand or revise their memory, and they can’t straightforwardly ..."
-    publishedDateTime: 2024-02-20T11:00:00Z
-    webUrl: "https://www.computerworld.com/article/3712789/how-rag-makes-generative-ai-tools-even-better.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 21
 
 secured: "cfgES5RcUMT8Xq0J82VVLxnftO4ph2FFNF4qXRVEMfGPaWSqw1ahfphvJT581qLASADatGnZi/27GF39UEM+t4G1gQ/x8MbsAQG7WcBALG/VfImWojQjZ5sk70Oo/jpD/FCuMgomyBxDVPXjLF2cx/gVwVSOOreq3e/8yV5GWm9CiiAy6DtSMnPh8FQry/MJ4NRzs6wLTtJEvVo0m+NotN1ndJ4473/QcM2ehVx4G0C4kwlOhTSZPbO81N8y/NuB5F+2ko9AKn2jpMY1ehaQ9zrKJhj/Q3MSTJP8IU1/IT6f+bArLW2fBS/0dK/+SKdmbI7BzFuLjCXPcxLZlodiUC0C7tZwoSqP4707YjY9K7I=;SmeA6LzG1NOTxJ0TDeuJiw=="
 ---

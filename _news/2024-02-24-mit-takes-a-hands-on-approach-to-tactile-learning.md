@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/wearables/mit-csail-smart-glove-haptic-tactile-
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/mit-csail-smart-glove-haptic-tactile-learning/?amp=true"
 type: article
 quality: 74
-heat: 77
+heat: 74
 published: true
 
 provider:

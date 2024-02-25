@@ -3,8 +3,8 @@ category: news
 title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
 excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
 publishedDateTime: 2024-02-23T20:18:00Z
-originalUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
-webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+originalUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
 type: article
@@ -282,8 +282,8 @@ related:
         isCached: true
   - title: "Asian Chip Stocks Gain After Nvidia Signals Booming AI Demand"
     excerpt: "Shares of Asian chip makers rose Thursday after strong earnings from Nvidia buttressed expectations of booming global demand for semiconductors used in artificial intelligence."
-    publishedDateTime: 2024-02-22T10:17:00Z
-    webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2?mod=tech_lead_pos2"
+    publishedDateTime: 2024-02-22T05:18:00Z
+    webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2"
     type: article
     provider:
       name: Wall Street Journal
@@ -433,20 +433,6 @@ related:
       - url: "https://www.moneyweb.co.za/wp-content/uploads/2024/02/407967706-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Nvidia Earnings Are Coming. Why It’s Time to Think About AI Chip Competition."
-    excerpt: "It’s not an exaggeration to say that the tech sector's recent rally might depend on Nvidia beating expectations for its earnings report this week. However, stockholders in the chip maker should be looking beyond the immediate horizon and particularly at potential competitive threats."
-    publishedDateTime: 2024-02-20T09:37:00Z
-    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-022024/card/nvidia-earnings-are-coming-why-it-s-time-to-think-about-ai-chip-competition--t3L1dFwwER6wORkYouvd"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 51
-    images:
-      - url: "https://images.barrons.com/im-92074206/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "BESI exceeds fourth-quarter targets on demand for AI-related chipmaking parts"
     excerpt: "Orders and year-end backlog for hybrid bonding — a form of chip packaging required for AI applications — nearly doubled from last year, BESI said, adding that around a half of fourth-quarter orders were for its most advanced hybrid bonding systems."
@@ -691,6 +677,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "Z0YCVeuV26DMVPFbO3c1DTW488sFYSTLMDuMntwwZGbnlAQkZ7ykgddYgr1lGDN77FFqc363Q3+jmC1fg4a77WSCUp6buJbLRWaHTjk+EUWEUAIuX0W5PwwDh4dg0tDRih/IT5ef3vsfsB6JH8yBhrM9ROEl+A9s8yr/WjP20sLOiMFJOk9ZmXCZWU9N7pG1OBQlPoH+/HKsiO3cFjq613wVBBaHF2axF3YmbuAVhi/CCRDbMxtwBdLWQelsqlcD3YNBuDs81NSrEuX6hratd4WhxRuAk+DGM33Zem27/w9/y2F7RAYX3cOOM+DIAuNbwlPLwGWh1ahUXOLh5j7zrICg51NYxVY6t3mFCVcXlkpU0tfEH4kQCvY93SdC8lPUFrdxLLdDHGOV58Lj9s1eGRIe0JCBYHxseOMkP8PZj7WLvFh4HEsqpCEoMLXh+PAVCbkRYFZzTEOEmWi/9WtjwnNvc50zIdrJ9zdwhviJDESDk+mZ0JLYYLIDvLZBiqcpaQfOqBvrSlD9RlFmE8j38A==;gnInVpgJVnRDI7x+jUCURw=="
+secured: "fvtPo92+KDA08Tx201f6Ycb9yz1JIZIlIwxBFq3l2t/UO/wTco/sMZBBRkRXm+cZAnFC/IEMbpRShtQNjBTiDs8JjWeCEB8/2DdIbg1eU3KjADNtT9bRE6+xCSIT0bmuTrAGy712Zk4WZQEQN214KMvVcCoa1deBinvdZFRXPoCUmZk7eHGlVc7SiUDQPH5Trt78j9E/PSfmr/vRlw4Nyejhpko/KSv2VOcdSBiVEnANG053w9ZgzO4I2A2dv4RekTQYRoonVbPteOxqhey2h9SAhxFR8bYVp2NZUVlB3dd/CEiSs82mR2S2Z9PXOtgu17uVjOz1n2MgOvcL8movKTQWUEKPzkUSst05YYJnZOw=;R/9F3yQ094It/NvqlQM2ow=="
 ---
 

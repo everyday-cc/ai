@@ -2,6 +2,100 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-12-29-asa-deep-learning-model-can-improve-pain-assessment.md",
+      "title": "ASA: Deep learning model can improve pain assessment",
+      "excerpt": "An automated pain recognition system is promising for detecting pain before, during, and after surgery, according to a study presented at ANESTHESIOLOGY 2023, the annual meeting of the American Society of Anesthesiologists,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-12-asa-deep-pain.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-12-asa-deep-pain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/asa-deep-learning-mode.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-12-asa-deep-pain.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-12-asa-deep-pain.amp",
+      "publishedDateTime": "2023-12-29T10:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-soon-every-employee-will-be-both-ai-builder-and-ai-consumer.md",
+      "title": "Soon, every employee will be both AI builder and AI consumer",
+      "excerpt": "\"Standardized tools and platforms as well as advanced low- or no-code tech may enable all employees to become low-level engineers,\" suggests a recent report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/soon-every-employee-will-be-both-ai-builder-and-ai-consumer/",
+      "originalUrl": "https://www.zdnet.com/article/soon-every-employee-will-be-both-ai-builder-and-ai-consumer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2f4b417aef3f55677e66005834e8b263f4eee7e6/2023/12/29/cb186ccf-dc45-4e3e-b2d7-03e2005dc2e8/devwoman-gettyimages-1469706464.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/soon-every-employee-will-be-both-ai-builder-and-ai-consumer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/soon-every-employee-will-be-both-ai-builder-and-ai-consumer/",
+      "publishedDateTime": "2023-12-29T10:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-29-artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness.md",
       "title": "Artificial intelligence decreases barrier to treating ultrasonic brain illness",
       "excerpt": "A research team led by Dr Kim, Hyungmin of the Bionics Research Center at the Korea Institute of Science and Technology (KIST) has developed a real-time acoustic simulation technology based on generative AI to predict and correct the distortion of the ultrasound focus position caused by the skull in real-time during focused ultrasound therapy.",
@@ -1124,100 +1218,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-after-a-year-of-breathless-hype-ai-will-face-reality-in-2024.md",
-      "title": "After a year of breathless hype, AI will face reality in 2024",
-      "excerpt": "In 2023, artificial intelligence went mainstream. In 2024, tech insiders expect dramatic changes in the AI landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-predictions-2024",
-      "originalUrl": "https://thenextweb.com/news/ai-predictions-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-3-1.jpg&signature=f81a672d7e134813a7cd5360ff676a15",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-28T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech.md",
-      "title": "Revolutionizing Sales: The Impact of Artificial Intelligence in Tech",
-      "excerpt": "Introduction: The advent of Artificial Intelligence (AI) has revolutionized various industries, and one of the most significant impacts has been witnessed in the realm of sales. As businesses strive to stay ahead in the competitive landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech/",
-      "originalUrl": "https://techbullion.com/revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Sales-The-Impact-of-Artificial-Intelligence-in-Tech.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-28T07:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

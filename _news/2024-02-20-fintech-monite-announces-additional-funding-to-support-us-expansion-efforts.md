@@ -26,6 +26,17 @@ images:
     height: 960
     isCached: true
 
+related:
+  - title: "Bud Financial partners with Fintech Galaxy to take financial services personalization to new heights as the MENA region embraces Open Banking"
+    excerpt: "Data intelligence platform Bud Financial (Bud) is joining forces with Fintech Galaxy, a leader in Open Banking and financial innovation,"
+    publishedDateTime: 2024-02-22T14:22:00Z
+    webUrl: "https://menafn.com/1107886236/Bud-Financial-partners-with-Fintech-Galaxy-to-take-financial-services-personalization-to-new-heights-as-the-MENA-region-embraces-Open-Banking"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+
 secured: "OqAP1c+Fam8K6zXPrzqG02kWFrsrVYNFIC5B84FLhweR1wiiPHA1oxGTGp1d6HobsqUuHyc3eJFp2+1YZKoiLDbvLlTAKv4XQ/eNzSiRhQ7Ju1hx/GjdKFq0jsvkO396ysS/gawn1eNgHjXgCtTODkub9z8b36xhVs3Y0WYTwTMVYTni8283VR4yFM8YOTP2KkFqsXTMDUF3MOXrTLwhcz9KZ/FRurzKaRBb1397sho1VT63f6RlJ2nTrx5vtwhgICg9bi7Y/lRkrLG3dZib3LbpjGcmWwlb+R1cDz4kEawRm5M9Kbnuto9h+SQAJOLzXXjQB+enFqOmuamSSBNy6jnP80sa/sLEyvoeBbuzvaU=;QzIIorhezhr66zHP+CXZAg=="
 ---
 

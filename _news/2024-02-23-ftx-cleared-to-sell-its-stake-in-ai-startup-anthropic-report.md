@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Inside the Funding Frenzy at Anthropic, One of A.I.’s Hottest Start-Ups"
-    excerpt: "The company raised $7.3 billion over the last year, as the lure of artificial intelligence changes Silicon Valley deal-making."
-    publishedDateTime: 2024-02-20T10:02:00Z
-    webUrl: "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/images/2024/02/16/multimedia/00-anthropic-funding-jpvz/00-anthropic-funding-jpvz-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "FTX Estate Can Sell Near 8% Stake in AI StartUp Anthropic, Court Rules"
     excerpt: "FTX's request to sell its stake in Anthropic has been granted by a court.FTX and sister investment firm Alameda invested $500 million in"
     publishedDateTime: 2024-02-23T06:17:00Z

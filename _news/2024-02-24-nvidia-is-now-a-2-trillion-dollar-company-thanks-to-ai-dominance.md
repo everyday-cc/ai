@@ -2,9 +2,9 @@
 category: news
 title: "Nvidia Is Now a $2 Trillion-Dollar Company Thanks to AI Dominance"
 excerpt: "Nvidia joins Microsoft and Apple as the three US-based companies to reach the $2 trillion market cap. Despite companies like Microsoft looking to make its own AI chips and rely less on Nvidia, a recent report from Reuters claims that Nvidia is working on a new $30 billion business unit that will focus on creating custom AI chips for companies."
-publishedDateTime: 2024-02-23T19:15:00Z
-originalUrl: "https://www.ign.com/articles/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
-webUrl: "https://www.ign.com/articles/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
+publishedDateTime: 2024-02-24T15:07:00Z
+originalUrl: "https://me.ign.com/en/pc/218439/news/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
+webUrl: "https://me.ign.com/en/pc/218439/news/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
 type: article
 quality: 39
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://assets-prd.ignimgs.com/2024/02/23/nvidia-blogroll-logos-1708718418344.jpg?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://sm.ign.com/t/ign_me/news/n/nvidia-is-/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-domin_cga7.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 900
         isCached: true
 
-secured: "BJfhTKYSF/DNZ0wR3IyGcbq1pKrk1UOdBXK3MfU8el0hr94Fa9i1xRmO0qa2lZRC8A/LQVa+fqklw3/wHtFoheF+YfYMToF0m1PUlKwOWzMRaMSCH5rcNZ+VHrqanhCE75k+ICQKANOSyEz7xbfjWiKTFpwjah8CmFv9uhnGdVDxAymCxUUMgTT/DEUr8RCD/uI+FCHu2jy4YtgyLw5swhOGS26UrJJpB/mcvLD8xOKlmVrYNj8rBeafh0Yl4bwb2FziQLx/54bt0hnx/+PXm5mC6rP0lSoBAAj7JD4HJUa88Q2Kk0QZlJQpQ/LzyDSnW9oPphLiVtBl3ARrdO2tjyIsyXYjf79pPwbPMP0MWADfIYzuzPa23DnmRbh4h/1ba2OTu7WyDZGDfR0Gb++n0E+A6K9Rb5cM0B9lA5SgWCNz3/f34eYavXx+3+1bUIfbQm6+0d6NmsG57Ap7FY4BE0B+LM0j4MWs8vyj+OusW+ZJilu9cjGEqmnzl2BIJ+X1p9c9DpwSz/nF+qee+9Zh0Q==;fPJvZlJsJ645VOwOXVMOEg=="
+secured: "jjofSw53qkYTzFFXZLG+C4Bl34JpwRg+xkm8cfkCiufLFr+4rAG0R4ZLGYmsMLmT9BKkiD8c7W7FUUSyLXuIrRoWetMLcrO1p+3Lnn+zCW3NJ0ScnxaLpIE83KJKBzLn2hywqFR/a4ijRh4mxZ7F0/oNEW0LHlX1WP7vPYDBJA72Xs1Pm97x5SJr1QBvQcIhMyIn1r8/OJDfHdS6GSxKjI/er9RzzggRqu9mZv3pXgUArNP3owl6b993zxBbsE7VLtvfo75HbDscy4CMxfyrdtE5vAq3oJ31zOMLIlxXeZoe9S18sTnpbkCeA+iIC0isOU8SE/tCU1c5FJY7jtHTQpb6at5esFiz3drXdkcsZ+s=;5McE/p9gLxvOO3Ol2ShiZw=="
 ---
 
