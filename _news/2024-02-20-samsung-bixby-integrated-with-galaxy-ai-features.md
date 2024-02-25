@@ -39,22 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Samsung Integrates Galaxy AI With Bixby; Adds Voice-Enabled Artificial Intelligence Features"
-    excerpt: "Bixby is the native virtual assistant for Samsung devices Galaxy AI was launched alongside the Galaxy S24 series in January Samsung’s Galaxy AI adds features such as Call Assist, Interpreter mode"
-    publishedDateTime: 2024-02-20T08:33:00Z
-    webUrl: "https://www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690"
-    ampWebUrl: "https://www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/samsung-bixby-galaxy-ai-voice-enabled-artificial-intelligence-features-5092690/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 61
-    images:
-      - url: "https://i.gadgets360cdn.com/large/samsung_galaxy_s24series_1708417812133.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Samsung is bringing these Galaxy AI features to older devices"
     excerpt: "At its core, the tool essentially adds a translation tool to any phone call powered by AI. When speaking to someone who understands a different language, Live Translate will translate and regenerate your voice into that language. When the other party ..."
     publishedDateTime: 2024-02-22T18:13:00Z

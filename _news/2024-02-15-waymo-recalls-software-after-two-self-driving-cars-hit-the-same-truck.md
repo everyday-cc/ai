@@ -3,8 +3,8 @@ category: news
 title: "Waymo recalls software after two self-driving cars hit the same truck"
 excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its vehicles hit the same truck minutes apart."
 publishedDateTime: 2024-02-14T17:28:00Z
-originalUrl: "https://edition.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
-webUrl: "https://edition.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+originalUrl: "https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+webUrl: "https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 450
     isCached: true
 
-secured: "wxYmxHn90ihjDVm7TUkQyAmBQZkG/SE1CiJt+Lbf9L3VM6/b0c6UAfEcBN+uxsBdScsC6/bIboaLEFw3UuZUYMdRXZ5tY8BEiJR6IFfhvoZ6TnN9HET3Ve8Xybg6l7b6pqc7E+7VBBVBkDdvL6kpalNGAvDTu2EdQ1r2IspFjS8tP70zCpMPdz4mezKIzW3XJutYClF7BWMaLRS0wdJ/Ic2mGDVANIStOFfiGYTgRMHtpLVDhouUEtNChCYjDuqhDMnpaCcm0riqm9wkWp0kmpS4ExfyDOsin2AUymOchzJ9QGIoze3bwu5XDF5yK+f4+8H4vbNBm6aLP/e66/Z2az11QOaddysvbTBu4mvwCH4=;8LxR9LNjETp4CkpfiaTb1w=="
+secured: "5PK2j2h//NLrZJOMGITY5+V2VFsfnKBsEJaNzzianeL8gfsKLuIX9BdEXirhI1yJIWYogGDDO8hA7cBCJJVKDANPBj/TG61/lRZ0A3YCGMgFcyHepxNUs2eSbb/VuoM6nurLegU/h9VOBv/2kIEmu/ullbl/oqP0mLOBsibBR/3IAMrVIHD1uJY7Uw04wTgMAeNnDFiMDKq2rF1nSzIIaaS1UsxesQcIR6KOeZpLpV4OnHmdclfOVeIxcRZlXrUoMD2YxZxLwlfrh+b1ZX0d1rBpbzGNZozgFmon35Pibj3aQHCIi1jmyWTTGQNlYjSNsbvDVlZD4diKmUmD8lcXMC7yunE1S6NjVmjK1GquRqY=;M5kp0hz8YCaRvtFTkym26w=="
 ---
 

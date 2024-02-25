@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "This AI startup founded by ex-Googlers just raised $35 million. Check out the 12-slide pitch deck Bioptimus used to land the funds."
-    excerpt: "Bioptimus is the latest AI startup to emerge from France, with the company looking to create models to help accelerate innovation in life sciences."
-    publishedDateTime: 2024-02-20T08:00:00Z
-    webUrl: "https://www.businessinsider.com/bioptimus-new-ai-powered-bioscience-startup-raises-cash-top-funds-2024-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/65d36837a610a9069d5a6038?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Bioptimus nabs $35M to accelerate biology research with AI"
     excerpt: "Bioptimus, a French artificial intelligence startup led by former DeepMind researchers, launched today with $35 million in seed funding. Healthcare-focused venture capital firm Sofinnova Partners led the investment. It was joined by more than a half-dozen ..."
     publishedDateTime: 2024-02-20T19:12:00Z

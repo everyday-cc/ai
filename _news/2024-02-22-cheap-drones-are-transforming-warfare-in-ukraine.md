@@ -41,6 +41,20 @@ related:
         width: 2560
         height: 1442
         isCached: true
+  - title: "Self-driving cars: the revolution that wasn’t?"
+    excerpt: "Yet for all the grand promises made by the likes of Tesla's Elon Musk, who in 2016 claimed that autonomous driving was \"basically a solved problem\", self-driving cars and lorries are not yet a common sight on our roads; and as yet, no self-driving system has achieved the longed-for status of \"full automation\"."
+    publishedDateTime: 2024-02-25T07:03:00Z
+    webUrl: "https://theweek.com/science/self-driving-cars-revolution"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/y6RSdtH2HU4SmjiVtm3U3i-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Ks5NFvJEpv8heclQEekawDD168melEIbevakloOrFbPEjtTDYIXeLJrYhQ4wqud4TtaqvZBqYPF42dsg17v0U5iu3RHJy76o4pn7nfnL5tyH5/V3lWp2VPm128cHqumZwo5z5AFYQTsUctezGpQN1ePaR3xsSeACW+NrbJTy8iEPOqVdDBrdj8vpdzemPi/KqDjQx3Yud7FfmbbdoN/BT0Ac+dfiXDFWCvj9k+/kAsIRu+FFhZAugqMNl9qoYrk255BMArkTGtcQ8YHYH8LBTRuoFWyaw9y9AcqhQ3aahn7s4SM1ErafpdlRJB/T9uISPqWG25R27IAM3CjS8WTYWtZiKiNHXYJsa8T0BbsumHc=;+8PWGnVPAf+iZTBqbbTgdw=="
 ---

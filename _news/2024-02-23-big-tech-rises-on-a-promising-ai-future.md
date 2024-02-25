@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Unlocking Fusion Energy’s Future With Artificial Intelligence"
+    excerpt: "A Princeton-led team has developed an AI model to predict and avert plasma instabilities in fusion reactors, showcasing real-time control improvements and setting the stage for more reliable fusion energy production."
+    publishedDateTime: 2024-02-25T08:17:00Z
+    webUrl: "https://scitechdaily.com/unlocking-fusion-energys-future-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 37
+    images:
+      - url: "https://scitechdaily.com/images/Nuclear-Fusion-Energy-Reactor-Plasma-Art-Concept-Illustration.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "3CUu0mT4h0zOUAeC68j0bDfrNM5sFbkvcrZKXamwNT6UZZp0upr27WcaIM1edfzcKD40EVd2y5foVvHK3xpb+uLSSMNJ9RcjPibUb3lF8Bu5RC7oxt7NoCFWTGyCJ5H/ods6oxRuAxn4oaZBaHZMeZGW0XMihNJmxXsFXJFTmpr4R5bcxRhI/ys1RKNtoZYzX8fKrN6DEZqucUWNjPEdR68ZHcYJRB2S1Fkcg37Ns+dR6liYS7DVakmXjQ/by2Lobr1hVwic+pZEhpAW7OjG9frZbHPwNdNt5MoPKRv1bcYWhq8SRlrXZ8Ynj09/M5etOtUvF44baJRChtWRIdp03+jVuA1+90PL7w9fz1ui4ZE=;TWXQJOTzRhIpUqasBBWpjg=="
 ---

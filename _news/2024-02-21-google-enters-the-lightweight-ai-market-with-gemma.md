@@ -280,20 +280,6 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 42
-  - title: "Google Gemini 1.5 Pro AI video analysis performance tested"
-    excerpt: "Google has committed to extensive ethics and safety testing in line with AI Principles and robust safety policies. This includes conducting evaluations on content safety, representational harms, and developing tests for the novel long-context capabilities ..."
-    publishedDateTime: 2024-02-20T07:46:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-use-gemini-1-5-pro-ai-for-video-analysis/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/video-analysis-using-Google-Gemini-1.5-Pro-AI-model-.jpg"
-        width: 1280
-        height: 723
-        isCached: true
   - title: "Google Announces Gemma: A New Family of Open AI Models Inspired by Gemini"
     excerpt: "Google is excited to introduce Gemma, a new generation of open models to assist developers and researchers in building AI responsibly."
     publishedDateTime: 2024-02-22T21:27:00Z

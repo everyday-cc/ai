@@ -117,15 +117,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 21
-  - title: "The Growing Environmental Footprint Of Generative AI"
-    excerpt: "AI runs on power-hungry equipment that uses millions of gallons of fresh water. Policymakers are weighing the costs."
-    publishedDateTime: 2024-02-20T08:25:00Z
-    webUrl: "https://undark.org/2024/02/20/ai-environmental-footprint/"
-    type: article
-    provider:
-      name: Undark
-      domain: undark.org
-    quality: 19
 
 secured: "Qvwu7TsBFBnqT8BOXY3op7eObmBiPZ6F/dGST7e1cB0ynw8dFhlL/yXH+7/g2Qwo56opzTCaKXXj1pU/lp7Zi4ORSbBia8agdZeCmjUYdxnR7/bS1k4wIzPODGJRV/Vm/xldiG8gPRJ4JueMeYV0jstQOSmk6Blxf/siQt42XJWHvsFdF11wDnJ+Io0dITvm2jQpBQ1QIeWFSEuPAPHWujBQn/igjBS6ihooQeiVGCEnvTP/zl2XCsHEbdGsP3+adbJfja+dCBfSIaRQWKym38M5p3f1D8VHhcG0PGHPtpfSzVuK7JzIcm/m0iyA/G2wt7fvZfULk1id4m/pj2CxgoBqEatJ7Dvfc7OO/KkVFB3ERmB2N5aEDGubrtwzl3I71niABApdsptDASKnroV6H8z4h9OdlannrUsxMDVltceYIU7Lbx7U1q4c8pfiUcTFjdfXKIlwBk4ESbHiQhocU3eGYpihewiO7cbaTJvP/m+aFQqC7jOYDziuDiFhUXpjibvbOqyaiDbtSRD53MGLzA==;lWx0ci27qEpvOhh/tdYTzQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires
 webUrl: "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires-sold-way-too-early/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8c8a7cbccab823193093a641261da5e5/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f1f92897a92b71053db3792cf336284b1.png%26amp%3Bw%3D700"
         width: 720
         height: 456
-        isCached: true
-  - title: "My Top 5 AI Stocks"
-    excerpt: "2024 is getting off to a hot start. The major averages are up nicely, with the S&P 500 and the Nasdaq composite up by about 5%. Moreover, these advances were over significant gains last year. Thus, it should be a solid year for many high-quality stocks."
-    publishedDateTime: 2024-02-20T08:25:00Z
-    webUrl: "https://seekingalpha.com/article/4671505-my-top-five-ai-stocks"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://media.gettyimages.com/id/1778176333/photo/digital-eye.jpg?b=1&s=170667a&w=0&k=20&c=BWRANR8iHY3-bvgU3JwChDell5OR4izzYAwhiQKHQhY="
-        width: 509
-        height: 339
         isCached: true
   - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
     excerpt: "So, here are two AI stocks that could set you up for life. Nvidia has become a Wall Street darling since the start of last year after snapping up an estimated 80% to 95% market share in AI graphics processing units (GPUs), the chips necessary for training and running AI models."

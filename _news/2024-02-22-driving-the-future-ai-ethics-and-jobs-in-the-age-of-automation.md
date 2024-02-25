@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/driving-the-future
 webUrl: "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://pharmaphorum.com/sites/default/files/2024-02/data-and-artificial-intelligence-technologies.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Unlocking Fusion Energy’s Future With Artificial Intelligence"
+    excerpt: "A Princeton-led team has developed an AI model to predict and avert plasma instabilities in fusion reactors, showcasing real-time control improvements and setting the stage for more reliable fusion energy production."
+    publishedDateTime: 2024-02-25T08:17:00Z
+    webUrl: "https://scitechdaily.com/unlocking-fusion-energys-future-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 37
+    images:
+      - url: "https://scitechdaily.com/images/Nuclear-Fusion-Energy-Reactor-Plasma-Art-Concept-Illustration.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Big tech rises on a promising AI future"
     excerpt: "The Nikkei breaking fresh higher ground is the culmination of a 34-year roller-coaster journey for Japanese shares, which transitioned from being the most highly valued in the world to among the most undervalued. Now, investors are setting their sights on the sky is the limit."

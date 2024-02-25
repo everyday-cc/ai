@@ -9,8 +9,8 @@ ampWebUrl: "https://breakingdefense.com/2024/02/the-revolution-that-wasnt-how-ai
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2024/02/the-revolution-that-wasnt-how-ai-drones-have-fizzled-in-ukraine-so-far/?amp=1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Breaking Defense
@@ -40,6 +40,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.7909%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_analysis_no_age_social_wm/aa76f56ba6361f39412c6fcebdd7fdc4cb93b1f9"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Self-driving cars: the revolution that wasn’t?"
+    excerpt: "Yet for all the grand promises made by the likes of Tesla's Elon Musk, who in 2016 claimed that autonomous driving was \"basically a solved problem\", self-driving cars and lorries are not yet a common sight on our roads; and as yet, no self-driving system has achieved the longed-for status of \"full automation\"."
+    publishedDateTime: 2024-02-25T07:03:00Z
+    webUrl: "https://theweek.com/science/self-driving-cars-revolution"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/y6RSdtH2HU4SmjiVtm3U3i-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "AFDWXu0hPa8T6RqghCd6OwkDdjtn4u6Sjn6uHPuwI8GberdKoWobYm2OTyx9fmUi9oX3o4d9cOSRBch5g7hdRRR+g3+gc3SsIMhJxLyGxYNxENfhumiPzCWDXMIZszc4xlje+EuGssc+ef79Sanc8SiiGR5zlio6CN6Yl6Ec+hBZUXVaDZ3UmGAs16NIm1JZr/YBlTeWHNZ11xnI7p0u9A45wyS+9kjQ5KdKBzOk/CPLLFsjUJLaUdHemlMlgq0NJJx5ad6vjHSFaZuQ6XsMnJK3OEtfy2Tue0IHBCt31xpBP2V1+k+D4yKeR/hZRsnwyHjLXzNI2bgRLv86Z06K7jt1elBnZDfXzpq4OFKQDLlX5jBHfOA6yiSKcnQEHX2wy5WKCttpJjE7/3VekaKAImPlx2xBzqW9xWE6ZpLEK5fIR+d60NaZE8suw+/7Bt34wE895KC4WmSpFWiavU+yL5CwJaaS6F/GI6kg2wqD2YEEKTPKYDbDlmXwsHWXwFM/9mmrT7gLuC/76u4NLI6Fow==;C0yCKStkFT2JtqUnM6/+Ew=="
