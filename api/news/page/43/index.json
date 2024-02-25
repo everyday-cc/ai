@@ -2,6 +2,49 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2024-01-23-agritech-startup-raises-39m-for-autonomous-farming-platform.md",
+      "title": "AgriTech Startup Raises $39M For Autonomous Farming Platform",
+      "excerpt": "An agritech startup has raised $39 million for its autonomous tractor and farming solution, which reduces the cost of crop production",
+      "sourceUrl": null,
+      "webUrl": "https://nocamels.com/2024/01/agritech-startup-raises-39m-for-autonomous-farming-platform/",
+      "originalUrl": "https://nocamels.com/2024/01/agritech-startup-raises-39m-for-autonomous-farming-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nocamels.com/wp-content/uploads/2021/10/tractor1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-this-chinese-startup-is-winning-the-open-source-ai-race.md",
       "title": "This Chinese Startup Is Winning the Open Source AI Race",
       "excerpt": "Kai-Fu Lee, an AI expert and prominent investor who helped Google and Microsoft get established in China, says his new startup 01.AI will create the first “killer apps” of generative AI.",
@@ -1137,40 +1180,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy.md",
-      "title": "Inhibrx, Sanofi ratify $2.2B deal for AATD therapy",
-      "excerpt": "Inhibrx Inc. and Sanofi SA have agreed to a deal worth up to $2.2 billion, whereby the latter’s Aventis Inc. subsidiary will acquire INBRX-101, an optimized, recombinant alpha-1 antitrypsin (AAT) augmentation therapy undergoing a registrational trial for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bioworld.com/articles/704871-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy",
-      "originalUrl": "https://www.bioworld.com/articles/704871-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioWorld",
-        "domain": "bioworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

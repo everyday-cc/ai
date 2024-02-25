@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/biden-administration-enters-de
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel wants another $10 billion from the CHIPS Act and Biden administration"
-    excerpt: "Intel has reportedly demanded more subsidies from the Biden administration under the CHIPS Act, as it ramps up new facilities in the USA."
-    publishedDateTime: 2024-02-20T04:08:00Z
-    webUrl: "https://www.tweaktown.com/news/96316/intel-wants-another-10-billion-from-the-chips-act-and-biden-administration/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 37
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96316_145_intel-wants-another-10-billion-from-the-chips-act-and-biden-administration_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
   - title: "White House wades into debate on 'open' versus 'closed' artificial intelligence systems"
     excerpt: "The Biden administration is wading into a contentious debate about whether the most powerful artificial intelligence systems should be “open-source” or closed."
     publishedDateTime: 2024-02-21T19:21:00Z

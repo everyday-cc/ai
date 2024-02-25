@@ -2,6 +2,57 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2024-01-30-shortwave-email-client-will-show-ai-powered-summaries-automatically.md",
+      "title": "Shortwave email client will show AI-powered summaries automatically",
+      "excerpt": "The startup introduced AI-powered summaries last year, but you had to tap a button to generate that summary. Now, with the new instant summary feature, the client shows the gist of an email or a thread in one sentence automatically. You can tap on that ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/29/shortwave-email-client-will-show-ai-powered-summaries-automatically/",
+      "originalUrl": "https://techcrunch.com/2024/01/29/shortwave-email-client-will-show-ai-powered-summaries-automatically/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/01/AI-Autocomplete-full-UI.jpg?resize=1200,723",
+          "width": 1200,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/29/shortwave-email-client-will-show-ai-powered-summaries-automatically/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/29/shortwave-email-client-will-show-ai-powered-summaries-automatically/amp/",
+      "publishedDateTime": "2024-01-29T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy.md",
       "title": "This new iPhone app fuses AI with web search, saving you time and energy",
       "excerpt": "With the AI summaries, you can scan the basic facts about your topic ... Arc Search kicks in other tools to help with your searches. You can easily start a new search by tapping the Search icon at the bottom. From there, a keyboard automatically pops ...",
@@ -1162,40 +1213,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-comparison-of-pathologist-and-deep-learningbased-prostate-cancer-grading-for-prediction-of-metastatic-outcomes-in-primary-prostate-cancer.md",
-      "title": "Comparison of pathologist and deep learning–based prostate cancer grading for prediction of metastatic outcomes in primary prostate cancer.",
-      "excerpt": "Comparison of whole slide image–based deep learning algorithms and genomic classifiers for assessing the risk of prostate cancer metastasis in surgically treated patients. Long-term results of dose escalation (80 vs 70 Gy) combined with long-term ...",
-      "sourceUrl": null,
-      "webUrl": "https://ascopubs.org/doi/10.1200/JCO.2024.42.4_suppl.345",
-      "originalUrl": "https://ascopubs.org/doi/10.1200/JCO.2024.42.4_suppl.345",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ascopubs.org",
-        "domain": "ascopubs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

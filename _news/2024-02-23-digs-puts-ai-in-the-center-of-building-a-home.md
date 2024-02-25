@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI and the classroom"
-    excerpt: "The News spoke with members of the University’s English and Computer Science departments, along with faculty associated with Poorvu and the Executive Committee, to recap the University’s evolving response to the rise of artificial intelligence."
-    publishedDateTime: 2024-02-20T04:58:00Z
-    webUrl: "https://yaledailynews.com/blog/2024/02/19/ai-and-the-classroom/"
-    type: article
-    provider:
-      name: Yale Daily News
-      domain: yaledailynews.com
-    quality: 41
-    images:
-      - url: "https://yaledailynews.com/wp-content/uploads/2024/02/writingai_hm_SurbhiBharadwaj_SeniorPhotographer-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "LUllpr+IzjDxUjzwRq26LAeXbua0sZT5UNtImS2ql/qPzUFtlUt4aRD6D7Jvy6Z/9RJgPVfJf4jRTxgNH9RFfWaaWsfzxoONHXjjPJ0QhMm+nsVH595mJVLPebjoyr2qZEaDtuprcVKT7bvVhhw+HLoYvBwwGYw3cE+z4KlIrN+1FQGdH0coGRm4vVFb+S5AGvyAijA6zeg0KyCrKuJKn8R9OEMRQFq+29G25QxAsW9dtThomHNZoxhhWpavBJq6ZWDVHiKQ7uUxAcalRFSpzJtIE0BDIlLTEbkTJqYB/zD5SrPk3dSApMWBHEUaoU3IXC1va9m1cZ9ldoSy00GMPh+cDtN8jWgnOToYvDrvc8o=;398hZDblliFPQEnhea89xg=="
 ---

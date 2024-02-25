@@ -2,6 +2,40 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2024-01-17-artificial-intelligence-and-machine-learning-news.md",
+      "title": "Artificial Intelligence and Machine Learning: News",
+      "excerpt": "Find Latest News, Videos and Pictures about Artificial Intelligence and Machine Learning. Explore latest updates, news, information from NewsBytes. All about Artificial Intelligence and Machine Learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsbytesapp.com/news/science/artificial-intelligence-and-machine-learning/23",
+      "originalUrl": "https://www.newsbytesapp.com/news/science/artificial-intelligence-and-machine-learning/23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T09:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsbytesapp.com",
+        "domain": "newsbytesapp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-byd-showcased-the-intelligence-advancement-at-dream-day-2024.md",
       "title": "BYD Showcased the Intelligence Advancement at Dream Day 2024",
       "excerpt": "XUANJI Architecture empowered by AI debuted, marking a transformative leap in merging electrification with intelligence. BYD announced its plan to construct the world's first professional all-terrain test driving ... with the self-developed XUANJI ...",
@@ -1058,58 +1092,6 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-how-best-take-makes-your-group-photos-better.md",
-      "title": "How Best Take makes your group photos better",
-      "excerpt": "Learn more about how Google built Google Photo’s Best Take tool.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/photos/how-google-photos-best-take-works/",
-      "originalUrl": "https://blog.google/products/photos/how-google-photos-best-take-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Best-Take.width-1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/photos/how-google-photos-best-take-works/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/how-google-photos-best-take-works/amp/",
-      "publishedDateTime": "2024-01-16T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

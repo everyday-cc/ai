@@ -7,7 +7,7 @@ originalUrl: "https://www.kktv.com/sports/betting/2024/02/20/avalanche-vs-canuck
 webUrl: "https://www.kktv.com/sports/betting/2024/02/20/avalanche-vs-canucks-buy-nhl-tickets/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How to Watch the Fr8 208: TV Schedule, Live Stream and Start Time - Saturday, February 24"
-    excerpt: "View how Data Skrive uses AI here. Next up in the NASCAR Truck Series is the Fr8 208 -- Saturday, February 24 at 2:00 PM ET. If you'd like to check it out, and see who will take the checkered flag at Atlanta Motor Speedway (Hampton, Arkansas), read on for ..."
-    publishedDateTime: 2024-02-23T00:51:00Z
-    webUrl: "https://www.kcrg.com/sports/betting/2024/02/24/fr8-208-nascar-live-stream-tv/"
+  - title: "Healthcare S-Reits outperform in February"
+    excerpt: "HEALTHCARE-RELATED assets remain one of the most resilient commercial real estate sectors, according to the latest Healthcare Real Estate Outlook by JLL. The report identified five trends that will drive the healthcare industry in 2024: a focus on organisational fitness;"
+    publishedDateTime: 2024-02-25T02:00:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/healthcare-s-reits-outperform-february"
     type: article
     provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 13
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 39
     images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/v2/B3CEJOUBQZIGVGBRJ2NB4P5UCM.jpg?auth=dacd2db01075e33be9566ed0407e87a40d5b14d4ef20dc73990e06c0d6c0ce53&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How to Watch the RAPTOR King of Tough 250: TV Schedule, Live Stream and Start Time - Saturday, February 24"
-    excerpt: "View how Data Skrive uses AI here. Who will win the RAPTOR King of Tough 250, on Saturday, February 24 at 5:00 PM ET, at Atlanta Motor Speedway in Hampton, Arkansas? Here we have all the information you need to watch this NASCAR Xfinity Series event."
-    publishedDateTime: 2024-02-23T00:55:00Z
-    webUrl: "https://www.kwtx.com/sports/betting/2024/02/24/raptor-king-of-tough-250-nascar-live-stream-tv/"
-    type: article
-    provider:
-      name: KWTX
-      domain: kwtx.com
-    quality: 4
-    images:
-      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/OCMCO5F635MIJMHMRA3C5NERRQ.jpg?auth=54f2410204aca747039c00d0548b1e21ace5c9953bf19379f6b4ba680c650752&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/25/imgl8891.jpg"
+        width: 880
+        height: 587
         isCached: true
 
 secured: "XlmYp3Tws261Gac8m8cFlALVBDjA4jDtcrf6WzA37H0I6UiZh02uBuR1tcwiyDaRqtd+9ZNtJijU3szZoWEqJWlvSDJih9q/LK/s7Yk3ot2+MYEQ3xHGN/KjbnYtdZBX4r+1Rhg+CoLdZw3CdCQB0F3YTLHJXLMVaaKdifGGDwQFWsc/jGSb/rMACskqmV8SnoyXucnW/6PYLN+hTpA3j1fEXohRPshjcFz5cI7IvEaj/scdpEu++tRkp9ooNsp2G/TBFeRtUB4OQu0vvIcBs2I1mRHjWd2eOAcDI1GWcYUqB1ou8Tn0FfsFmnzO6E8uIckvW+3kbI2pnAIrxhc/A6iWKuATqDI/PpUNedHdED8VQXK6iBBgQyL/VhnDKMcJAcIL13B+cevNcPTG+ciO7VapH3fJbuZRYKrdFKNJDknuTEvX7IRkbA1pjuHyrHmhF6wfnKHm/WwjSm3b0Si6L/eR7xGIw5Y373CNiaLyvFEddzu2Ex9sqVT47S7MVVXCAwKWolp+IBLkV9dDFF0FMw==;cN854R0GYoiUvhZYqhlbYQ=="

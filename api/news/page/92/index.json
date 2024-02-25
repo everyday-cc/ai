@@ -2,6 +2,40 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-12-05-deep-learning-model-flags-non-smokers-at-increased-risk-for-lung-cancer.md",
+      "title": "Deep Learning Model Flags Non-Smokers at Increased Risk for Lung Cancer",
+      "excerpt": "A new model has shown that among non-smokers, there is a 2.1 times greater risk of developing lung cancer for those in high-risk groups compared to their peers.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/deep-learning-model-flags-non-smokers-at-increased-risk-for-lung-cancer",
+      "originalUrl": "https://healthitanalytics.com/news/deep-learning-model-flags-non-smokers-at-increased-risk-for-lung-cancer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-salus-advances-web3-security-with-deep-learning-in-new-research.md",
       "title": "Salus Advances Web3 Security with Deep Learning in New Research",
       "excerpt": "Blockchain firm Salus has advanced its Web3 security potential after conducting deep learning research published by 'Scientific Reports'.",
@@ -986,49 +1020,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-cybertrucks-full-self-driving-is-flawed-says-dawn-project.md",
-      "title": "Cybertruck’s Full Self-Driving is Flawed Says Dawn Project",
-      "excerpt": "Commenting on the Cybertruck’s launch, Founder of The Dawn Project Dan O’Dowd said: “ A Full Self-Driving Cybertruck is a three-ton AI-driven robot powered by software which has already resulted in at least 27 deaths.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoconnectedcar.com/2023/12/cybertrucks-full-self-driving-is-flawed-says-dawn-project/",
-      "originalUrl": "https://www.autoconnectedcar.com/2023/12/cybertrucks-full-self-driving-is-flawed-says-dawn-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/11/CybertuckScreenshot-2023-11-30-172111-1024x482.jpg",
-          "width": 1024,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T23:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoconnectedcar.com",
-        "domain": "autoconnectedcar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

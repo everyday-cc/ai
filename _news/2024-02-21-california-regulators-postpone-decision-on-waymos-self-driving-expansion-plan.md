@@ -42,6 +42,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Self-driving taxi expansion paused in L.A., Northern California"
+    excerpt: "Editor’s note: This story was updated to clarify the scope of the suspension. Self-driving car company Waymo’s plans to expand its coverage area have been put in neutral by the California ..."
+    publishedDateTime: 2024-02-21T18:13:00Z
+    webUrl: "https://ktla.com/news/local-news/self-driving-taxi-expansion-paused-in-l-a-norcal/"
+    ampWebUrl: "https://ktla.com/news/local-news/self-driving-taxi-expansion-paused-in-l-a-norcal/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/self-driving-taxi-expansion-paused-in-l-a-norcal/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 44
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2023/10/snapshot-49.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "qvvVfx62gbJTflsGIrc6x57OfWXgBFD21qLbNLJhAsc1zBzrpB71HL5BLYT42rBh3S9Q1DHgq0SZ2S+PglFLiDl1sFqPtd2JmZPGl+TSoiGbgv5hGARBuJtk0XYF8U4mO+1LPJ3tQ8CYnyL/DqVi9/FMlZpfTu5mzkOQ6Xz2Z6KDsx49iw0AwkaN0jfEI2RmphHaC5ZaaWe/4H+jJZHen98/xc0hpNvTKxw1nc/DLjnEFpxPww+VcCar/nhSPoeeR+OUI8bzE7LTGarGBIJIaD4ggFfOG36iDlwHvTeRqBFus+bvf9+1dL+1DQABMdrOJ/CxOOmL6zVIM0c3UuEBud+2GTKaivYGVb2YRju9zvepWP0bNg60zAZySNo5dnWj5TmhsPoSRSZ2SmFjYbuJ62Guv2wt/yJQ1KFoFQ6kcOtsWV4V6wuJ9k9goDINbNgeHBQg8DRl+r632GVvNwsJPxBevLAPeUrzpgDNwtnQcMec0kDNX8MZNaHGk1pWByJuHlcJoaefzAawrLOCwQNqcQ==;jq3yOlL94w+NGQRM0BeM5A=="
 ---

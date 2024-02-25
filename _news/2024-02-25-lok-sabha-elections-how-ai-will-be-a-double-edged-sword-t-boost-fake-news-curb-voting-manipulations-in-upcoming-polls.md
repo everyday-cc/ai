@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Lok Sabha Elections: How AI will be a double-edged sword t boost fake news, curb voting manipulations in upcoming polls"
-excerpt: "AI technology brings both risks and benefits to elections in India. While it can facilitate transparent vote counting, it also presents challenges such as misinformation and the need for regulatory frameworks."
-publishedDateTime: 2024-02-25T00:26:00Z
-originalUrl: "https://www.livemint.com/news/india/lok-sabha-elections-2024-how-ai-will-be-a-double-edged-sword-to-boost-fake-news-curb-voting-manipulations-11708705430974.html"
-webUrl: "https://www.livemint.com/news/india/lok-sabha-elections-2024-how-ai-will-be-a-double-edged-sword-to-boost-fake-news-curb-voting-manipulations-11708705430974.html"
-ampWebUrl: "https://www.livemint.com/news/india/lok-sabha-elections-2024-how-ai-will-be-a-double-edged-sword-to-boost-fake-news-curb-voting-manipulations/amp-11708705430974.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/lok-sabha-elections-2024-how-ai-will-be-a-double-edged-sword-to-boost-fake-news-curb-voting-manipulations/amp-11708705430974.html"
+title: "Lok Sabha Elections: How AI Will Be A Double-Edged Sword T Boost Fake News, Curb Voting Manipulations In Upcoming Polls"
+excerpt: "and the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.”\\\"However, there doesn't exist a specific law that addresses just AI and deepfake technology and targeting the individual who creates it,” noted Gangesh ..."
+publishedDateTime: 2024-02-24T23:00:00Z
+originalUrl: "https://menafn.com/1107894946/Lok-Sabha-Elections-How-AI-Will-Be-A-Double-Edged-Sword-T-Boost-Fake-News-Curb-Voting-Manipulations-In-Upcoming-Polls"
+webUrl: "https://menafn.com/1107894946/Lok-Sabha-Elections-How-AI-Will-Be-A-Double-Edged-Sword-T-Boost-Fake-News-Curb-Voting-Manipulations-In-Upcoming-Polls"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.livemint.com/lm-img/img/2024/02/24/1600x900/Election_2024_1708776024768_1708776025228.jpg"
-    width: 1600
-    height: 900
+  - url: "https://menafn.com/updates/pr/2024-02/24/LM_729f4image_story.jpg"
+    width: 800
+    height: 450
     isCached: true
 
-secured: "eROZ/EjvnsokEqi1O1Oo2OCZd+uynWSv6AuG8S2QhiPDthGbnTivlo3Xbqicpv/MRvhoMux/Pu/Zbed95sZ2bIvQmZkrVxnQhMV2a/FPGzWpbbnpvDCgZiJL3uK/1ZIcXu1/oJ83zthup7ouSxQ+NdwRwyjHEZhBzKzBhxnrIJXxvfJ2lUCq75HMmkNRMqcZkyzo77Fxap1L6VD18N2CXrOhjmLYeVEEIL7mKmcRcX4oYx/o0HQekRZ9ZqWApOnsbVgYdcxAt8ys4RfcNq12am+r4oJHzqSBPafBp6Oqp0GWSWm60gj6b4la4QnB+Y39MonobLvmEKg7mCJV90NFr0p271wzUyQi7VZzbg2FbvA=;164dKFZSDj9jVH3G7UGddQ=="
+secured: "D69Fxxcr1HL4NhHrS8mvK5TWG3DggBZOAlYC6YHuU8KgDEU+S+XxvhCdb4t/jgLqe0R7eIuaokPCtSzgqUk4ITdvk7aztMZJyZBEwOn3Ik13GKaj2QlVPUK+S3OndGqVajqVqSwydfOj4ItfLzNpw8vVu8FcqFYL87NuWHnhLRVyyskyA+uGaZaqQg+SSMpj59U8RljQ5PZ0cpgUDehxjReU/F0zTCuugsTt4r4Xn9NTYwClhpA+duI0I9yvcCV4ppkb7/c58g29EjUSI2HvyS2kf84qbEz/0U05hpTQZqgCcqcm5ZeHk1NZHMXhkMFP2QLNZDke17qKxIk0Y3ahEyAAl6IxxBtjggAb1AVk9Yg=;bTubtZL5ebkF/h1tMGWodw=="
 ---
 

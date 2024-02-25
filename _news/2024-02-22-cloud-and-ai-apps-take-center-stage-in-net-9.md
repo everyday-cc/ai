@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3713024/cloud-and-ai-apps-take-cen
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/19/11/gavel_by_thinkstock-506505112_abstract_binary_lines_fractals_by_gerd_altmann_cc0_via_pixabay_2400x1600-100815735-large-100916696-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI and the classroom"
-    excerpt: "The News spoke with members of the University’s English and Computer Science departments, along with faculty associated with Poorvu and the Executive Committee, to recap the University’s evolving response to the rise of artificial intelligence."
-    publishedDateTime: 2024-02-20T04:58:00Z
-    webUrl: "https://yaledailynews.com/blog/2024/02/19/ai-and-the-classroom/"
-    type: article
-    provider:
-      name: Yale Daily News
-      domain: yaledailynews.com
-    quality: 41
-    images:
-      - url: "https://yaledailynews.com/wp-content/uploads/2024/02/writingai_hm_SurbhiBharadwaj_SeniorPhotographer-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "/6U8aBw1dvnekVGxoAHngYZgslOyGiEoEOic3K/a48vSP2rlJaWRYe//Sc8OFXLhaiLsiWTObQDeCAFHUCI25sL7KYcCDv9xa6IIvJp7IG2Iq98m8K2b17g7rXbSbWKLKc4bMMnDJXSmM4IBJQ8H7kHzbhPMY/45bkf992vJkkgudlZmqn2dDZiw2u5U9CWy5UTdrzLicjPFXXGZb5ICPEX3IxwUfARiOB8J1l5tOZ3HksijO7bMGNxJouzdGFKbQjKMETfl3U8APR5pcbTkjK4o2Aa537qshTwnku63dx56V2KwJMjKQDy5yYjp0lkVWBUxEpZuf2f2g+Bsrm8YA6ESDa7o6GDv55klXWR+R9KKb53WKaHWkK30hae5djDzBALeNRQzM7J0w6UYpGTFA9CmoCbY6JQ39JY6UgsA2ttDbC/bEv5V1yXpDw3OazEoxUikmSAvimsaR5eqbVHP7YSkfjSPv23bQ7quKVdH23HtvZhgJ5xoZ/3Mk+u8gM/PMM/nF27M/W4zfZjyzXJeww==;bL16NRuIlpq++nA/GaI7EA=="

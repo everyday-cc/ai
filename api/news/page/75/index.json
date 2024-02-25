@@ -2,6 +2,49 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-12-18-google-announces-new-healthcare-ai-models.md",
+      "title": "Google Announces New Healthcare A.I. Models",
+      "excerpt": "Google announced new healthcare-related artificial intelligence models. Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of child sexual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/nation-world/google-announces-new-healthcare-a-i-models/video_47c28560-0616-549c-828d-800ae5ab2aa2.html",
+      "originalUrl": "https://www.stltoday.com/news/nation-world/google-announces-new-healthcare-a-i-models/video_47c28560-0616-549c-828d-800ae5ab2aa2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/7c/47c28560-0616-549c-828d-800ae5ab2aa2/6582fcced1a36.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-google-deepmind-solves-unsolvable-math-problem-with-ai.md",
       "title": "Google DeepMind Solves Unsolvable Math Problem With AI",
       "excerpt": "Generative AI tends to make things up, but Google DeepMind has devised a new LLM that sticks to mathematical truths. The company's FunSearch can solve highly complex math problems. Miraculously ...",
@@ -1104,49 +1147,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-florida-legislature-considers-creating-artificial-intelligence-advisory-council.md",
-      "title": "Florida Legislature Considers Creating 'Artificial Intelligence Advisory Council'",
-      "excerpt": "Florida Senator Joe Gruters (R) has filed a bill that would create an ‘Artificial Intelligence Advisory Council’ within Florida’s state government.  T",
-      "sourceUrl": null,
-      "webUrl": "https://floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/",
-      "originalUrl": "https://floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://floridianpress.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-20-at-10.55.01-AM-e1626792947894.png",
-          "width": 1200,
-          "height": 868,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/amp/",
-      "cdnAmpWebUrl": "https://floridianpress-com.cdn.ampproject.org/c/s/floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/amp/",
-      "publishedDateTime": "2023-12-15T22:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Floridian",
-        "domain": "floridianpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

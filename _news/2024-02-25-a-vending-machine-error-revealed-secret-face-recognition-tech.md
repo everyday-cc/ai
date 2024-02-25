@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/facial-recognition-vending-machine-err
 webUrl: "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/"
 type: article
 quality: 69
-heat: 109
+heat: 111
 published: true
 
 provider:
@@ -83,6 +83,6 @@ related:
       domain: blogto.com
     quality: 14
 
-secured: "ejItKCrGMqpAX/1xgTomfhNBwWwIEQu0bzAGauUga1WhXIsTFFgweAL0rSuUue9k6RhStXrjjZQNIhFnl3w+lyihUEUCapH3kbOjMuxQrrOd/Iq96LMJmxD6Gf0j3wMyJdHA6uljco+fj0wo7ZAq9+42x3bGbMpx90blXyGVcLGKqysyREoS983iLmuemkaup7wqfMXlFo6HGxH5cPQIhIQ4txtNFI1n/gvsA+d1mn0SmhbMVvPFvz4TNxARoj9w7Bju/YRiy85ipmBvqenSrmnsBw1eBIRzGtvbeNu5OOFTFgvqE3KWHwOUVSbhviXWPahPX1dr0XmXCgxuFIPs4HMepb1X+kefFM3shj6GR0M=;xnci3Mc3PXsynmqfRV953Q=="
+secured: "C50PsL1+lcefWJ2aQQeBfSYV3gpbYR2dTnfZKNJwK+r3FO3tn+HAAPGziiCWvipPEveUJAhIZJSupGLvk5LfWsjzZvn68n7La75w3pFKjiMNvPI6Zb5sMQ393tZEwDZ1Uxl3dz/+53nBv8nLNeKr/qjl4UkkM7gNQAN/5ow2IRjwN1ROUEicj6rt4BMtyfj65xKJEbY2JE0tzcqwS/U4mc12CLxJUSQPan6i2JJp3hfTKVz4HT0lyMgkrouBmaFjRsGUjOgqj+Mexk7Zn+kAnYSeokLdD6/iYPvGUSefxMKEjc6EWIS6psyJhEC0AxAJcsCV3RwF6dUEPTVm1V7OAdUNfZNnOuznrHf+lt4OVVAYRyLbam7dRmgCRQULX8hDkvMphRIT/kgfGSjTdD3X/GfXxg+SFhw5CjMd4rvDbwHAiPAgPqMJf5TYfRauiD+QJkCz9YI9sAP/8J6xnAv8YyipHy50YZjHAJ2tHtR9GJyh6gjNu3/Z2jp8j6gw78drF7iM0LvPTi+8mGuvKIrbZA==;AmqBDRwP8OXPaJTg+AH6/w=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-12-29-ai-can-benefit-students-and-parents-if-done-right.md",
+      "title": "AI can benefit students and parents if done right",
+      "excerpt": "Artificial intelligence worries parents but it can also be an opportunity. AI can provide an essential tool to help adults sort through choices for their children's education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/ai-benefit-students-parents-done-right",
+      "originalUrl": "https://www.foxnews.com/opinion/ai-benefit-students-parents-done-right",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de9abed0-e961-4fca-8da9-d6aaef9acfaf/4f5a4fa1-2154-46b0-aaf1-e73d5e8dc141/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/ai-benefit-students-parents-done-right.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-benefit-students-parents-done-right.amp",
+      "publishedDateTime": "2023-12-29T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-29-ambient-ai-is-here-and-we-are-blissfully-unaware-of-it.md",
       "title": "Ambient AI Is Here, And We Are Blissfully Unaware Of It",
       "excerpt": "AI will evolve to become an undercover operating system for professionals, particularly when it comes to using the technology for research and idea generation.'",
@@ -1160,57 +1211,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-ai-will-savenot-killproject-management.md",
-      "title": "AI Will Save—Not Kill—Project Management",
-      "excerpt": "AI is just the tool to give project managers the data they need to anticipate problems early on, set appropriate budgets and accurately set deadlines and timelines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/larryenglish/2023/12/27/ai-will-save-not-kill-project-management/",
-      "originalUrl": "https://www.forbes.com/sites/larryenglish/2023/12/27/ai-will-save-not-kill-project-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658c543a15cd011325b90e61/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/larryenglish/2023/12/27/ai-will-save-not-kill-project-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larryenglish/2023/12/27/ai-will-save-not-kill-project-management/amp/",
-      "publishedDateTime": "2023-12-27T16:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

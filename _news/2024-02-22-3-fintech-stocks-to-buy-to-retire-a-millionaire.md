@@ -55,15 +55,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "India finance ministry to meet fintech startups next week, source says"
-    excerpt: "India's finance ministry will hold meetings with the country's fintech startups next week to urge them to comply with regulations and hear their concerns, a source familiar with the matter told Reuters on Tuesday."
-    publishedDateTime: 2024-02-20T03:41:00Z
-    webUrl: "https://www.reuters.com/world/india/india-finance-ministry-meet-fintech-startups-next-week-source-says-2024-02-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
   - title: "Bud Financial partners with Fintech Galaxy"
     excerpt: "\"This isn't just a partnership; it's a step towards a future where finance feels friendly, accessible, and genuinely helpful,\" says Mirna Sleiman, the Founder and CEO behind Fintech Galaxy. \"We're all in to create a world where your financial services understand and adapt to you — not the other way around.\""
     publishedDateTime: 2024-02-22T06:19:00Z

@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Intel wants another $10 billion from the CHIPS Act and Biden administration"
-    excerpt: "Intel has reportedly demanded more subsidies from the Biden administration under the CHIPS Act, as it ramps up new facilities in the USA."
-    publishedDateTime: 2024-02-20T04:08:00Z
-    webUrl: "https://www.tweaktown.com/news/96316/intel-wants-another-10-billion-from-the-chips-act-and-biden-administration/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 37
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96316_145_intel-wants-another-10-billion-from-the-chips-act-and-biden-administration_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
 
 secured: "ZGA16QGdbdVHSKf5UWWoYChgSp4tvNPT3vOzu8sDgGSkK2PFa4TKND/iRq85kTWWWFSfKjZaNZ+ZeMag80lLjp/kt6n/FEEGSFfctm4dG6OEYoWoG3rcVM2hNAMwbMO16EI0xwS3P01DAhEJYzlDEkqRmgjtjwFYoTs2UX9wvKAzRBd+QwaLJ1/AtKkN2A+Li+aw3g/jawEVunRA444qSmTtpEwd7WP944qHgeRbYCHjVKXzdj+XUeLhbPbXnBjGT2O+8jbcTdTsjGcabXbkrZXYWX5PT2NUziN0UzPIEOAhnTuIKfzmZkuPkEiJpp25fALVozAY/Wgno5krDDVSySR/K74m1QHvR8r9SfvKF6sKkbeDQQi2e1KQKEKOTzWixBJ5J0OMBGfaBoKF+LSfCqr5rPHC+Idv+tdNICvYIjxjMxw08Up3+sXh42fstVw2B+dBJzvBHjBvusHXkj1F27H4wTZywCzSUo1ISNlwhtjPWG+PWiHE/htUw6Gp/4Y3mhfIcvR0GWy2iaMWyjfyrA==;+1Zclw7YmNLYry8hDjHjJw=="
 ---

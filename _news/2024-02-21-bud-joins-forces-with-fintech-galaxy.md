@@ -57,15 +57,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "India finance ministry to meet fintech startups next week, source says"
-    excerpt: "India's finance ministry will hold meetings with the country's fintech startups next week to urge them to comply with regulations and hear their concerns, a source familiar with the matter told Reuters on Tuesday."
-    publishedDateTime: 2024-02-20T03:41:00Z
-    webUrl: "https://www.reuters.com/world/india/india-finance-ministry-meet-fintech-startups-next-week-source-says-2024-02-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
   - title: "3 Fintech Stocks to Buy to Retire a Millionaire"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With high interest rates, many investors are wary of putting their money into"
     publishedDateTime: 2024-02-21T17:30:00Z

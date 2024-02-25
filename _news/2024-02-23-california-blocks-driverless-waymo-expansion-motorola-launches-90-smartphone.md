@@ -7,7 +7,7 @@ originalUrl: "https://www.techdigest.tv/2024/02/california-blocks-driverless-way
 webUrl: "https://www.techdigest.tv/2024/02/california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.html"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -34,6 +34,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Self-driving taxi expansion paused in L.A., Northern California"
+    excerpt: "Editor’s note: This story was updated to clarify the scope of the suspension. Self-driving car company Waymo’s plans to expand its coverage area have been put in neutral by the California ..."
+    publishedDateTime: 2024-02-21T18:13:00Z
+    webUrl: "https://ktla.com/news/local-news/self-driving-taxi-expansion-paused-in-l-a-norcal/"
+    ampWebUrl: "https://ktla.com/news/local-news/self-driving-taxi-expansion-paused-in-l-a-norcal/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/self-driving-taxi-expansion-paused-in-l-a-norcal/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 44
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2023/10/snapshot-49.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "California regulators postpone decision on Waymo's self-driving expansion plan"
     excerpt: "Waymo will wait a little longer to hear whether California regulators approve the self-driving tech company's ambitious expansion request. The state's Public Utilities Commission has postponed its decision on whether to approve Waymo's application ..."
     publishedDateTime: 2024-02-21T15:57:00Z

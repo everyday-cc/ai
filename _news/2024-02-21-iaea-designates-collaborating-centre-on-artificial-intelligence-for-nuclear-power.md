@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2835405-iaea-designa
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835405-iaea-designates-collaborating-centre-on-artificial-intelligence-for-nuclear-power?amp"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://biz-file.com/c/2402/728308-1200x624.jpg?5"
         width: 1200
         height: 624
-        isCached: true
-  - title: "How artificial intelligence empowers contact centre agents and supervisors for CX success"
-    excerpt: "Technology evolution has always received a mixed reception of enthusiasm and scepticism, especially when it comes to artificial intelligence (AI). The vast possibilities of AI can be daunting to those unacquainted with the reality,"
-    publishedDateTime: 2024-02-20T03:55:00Z
-    webUrl: "https://itwire.com/guest-articles/guest-opinion/how-artificial-intelligence-empowers-contact-centre-agents-and-supervisors-for-cx-success.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 30
-    images:
-      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
-        width: 600
-        height: 260
         isCached: true
   - title: "IAEA Designates First Collaborating Centre on Artificial Intelligence for Nuclear Power"
     excerpt: "The IAEA has designated the Center for Science of Information at Purdue University in the United States of America as the first IAEA Collaborating Centre to support the Agency’s activities on artificial intelligence (AI) for nuclear power applications, including reactor design, plant operations, and training and education."
