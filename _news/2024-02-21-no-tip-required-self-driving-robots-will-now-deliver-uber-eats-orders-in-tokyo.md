@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber Eats to begin self-driving robot deliveries in Japan"
-    excerpt: "Uber announced that its Uber Eats business is partnering with Mitsubishi Electric and delivery robotics company Cartken to begin transporting food using self-driving robots in Japan. The sidewalk ..."
-    publishedDateTime: 2024-02-21T02:03:00Z
-    webUrl: "https://www.cnbc.com/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 91
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107375734-1708453458974-cut10_043.jpg?v=1708453538"
-        width: 2400
-        height: 1601
-        isCached: true
   - title: "Uber Eats is launching a delivery service with Cartken’s sidewalk robots in Japan"
     excerpt: "Uber, Mitsubishi Electric and autonomous robotics startup Cartken are launching a service in Japan using self-driving sidewalk robots."
     publishedDateTime: 2024-02-21T06:03:00Z
@@ -59,50 +43,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2024/02/cartken-uber.jpg?resize=1200,800"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Cruise May Resume Self-Driving Taxi Tests in Texas Soon"
-    excerpt: "GM-owned Cruise is getting ready to put its self-driving taxis back on the road, four months after one of its vehicles ran over a woman in San Francisco and dragged her 20 feet. The driverless car company is reportedly looking to resume robotaxi testing \"in the coming weeks,\" Bloomberg reports, and may begin operations in Houston or Dallas."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.pcmag.com/news/cruise-may-resume-self-driving-taxi-tests-in-texas-soon"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 54
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02kFODpY8Ryo8exFhjTmVoR-1.fit_lim.size_1200x630.v1708698476.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Self-driving taxis suspended in L.A., NorCal"
-    excerpt: "Self-driving car company Waymo may no longer offer rides in its robotaxis after the California Public Utilities Commission suspended their ability to transport members of the public. According to ..."
-    publishedDateTime: 2024-02-21T18:13:00Z
-    webUrl: "https://ktla.com/news/local-news/self-driving-taxis-suspended-in-l-a-norcal/"
-    ampWebUrl: "https://ktla.com/news/local-news/self-driving-taxis-suspended-in-l-a-norcal/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/self-driving-taxis-suspended-in-l-a-norcal/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 44
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2018/12/promo368224873.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Uber Eats is launching robot deliveries in Japan"
-    excerpt: "Uber announced a partnership Tuesday between robotics firm Cartken and Japanese industrial titan Mitsubishi Electric to launch autonomous sidewalk robots that will start delivering Eats ... Cartken’s Model C robots use AI and computer vision technologies ..."
-    publishedDateTime: 2024-02-21T02:24:00Z
-    webUrl: "https://krdo.com/news/2024/02/20/uber-eats-is-launching-robot-deliveries-in-japan/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 39
-    images:
-      - url: "https://krdo.b-cdn.net/2024/02/Untitled-design-23-375x225.jpg"
-        width: 375
-        height: 225
         isCached: true
   - title: "Uber Eats’ self-driving delivery robots hit Japan"
     excerpt: "Uber is launching an artificial intelligence-based autonomous robot delivery service in Japan, in partnership with Mitsubishi Electric and Cartken."

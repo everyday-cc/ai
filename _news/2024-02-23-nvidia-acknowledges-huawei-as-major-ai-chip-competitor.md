@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei
 cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "NVIDIA samples two new AI GPUs for China, both comply with US export restrictions"
+    excerpt: "NVIDIA is offering customers samples of two new artificial intelligence chips for the Chinese market, where NVIDIA CEO Jensen Huang wants to defend its market dominance in China against the tides of US export restrictions on AI GPUs in the country."
+    publishedDateTime: 2024-02-25T12:19:00Z
+    webUrl: "https://www.tweaktown.com/news/96429/nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 49
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96429_804_nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "AI Leader Nvidia Rises as Forecast Tops Wall Street's Lofty Goals"
     excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. The share surge that fueled S&P 500's climb to record highs this year had sparked fears that growth at Nvidia, the bellwether for AI demand, could ..."
     publishedDateTime: 2024-02-22T04:51:00Z

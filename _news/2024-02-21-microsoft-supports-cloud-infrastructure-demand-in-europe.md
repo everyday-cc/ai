@@ -104,6 +104,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Epic and Microsoft Azure: How to Ensure a Successful Cloud Migration"
+    excerpt: "Migrating an electronic health record system’s workloads to the cloud can optimize costs and improve reliability, scalability and security."
+    publishedDateTime: 2024-02-23T23:17:00Z
+    webUrl: "https://healthtechmagazine.net/article/2024/02/epic-and-microsoft-azure-how-ensure-successful-cloud-migration"
+    ampWebUrl: "https://healthtechmagazine.net/article/2024/02/epic-and-microsoft-azure-how-ensure-successful-cloud-migration?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2024/02/epic-and-microsoft-azure-how-ensure-successful-cloud-migration?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 74
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202402/GettyImages-1305444255_cropt.jpg?itok=uXy1hMVj"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "Intel strikes major chip deal with Microsoft amid AI push"
     excerpt: "Intel has struck a potentially billion-dollar deal with Microsoft that will see the chipmaker manufacture chips designed in-house by the software giant as it looks to make the most of AI. Announced yesterday (21 February) at Intel’s first foundry event ..."
     publishedDateTime: 2024-02-22T12:19:00Z

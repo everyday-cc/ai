@@ -20,14 +20,14 @@ topics:
 
 related:
   - title: "3 AI Stocks That Every Investor Needs to Own Today"
-    excerpt: "When the AI boom came, the company successfully leveraged its leading ... server products and cloud services revenues increased by 22%, driven by Azure and other cloud services. In addition, total revenue reached $62.0 billion, an 18% YoY growth."
-    publishedDateTime: 2024-02-22T09:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-every-investor-needs-to-own-today-1033094009"
+    excerpt: "Rick Orford is a Wall Street Journal best-selling author, investor, influencer, and mentor. His work has appeared in the most authoritative publications, including Good Morning America, Washington Post, Yahoo Finance, MSN, Business Insider, NBC, FOX, CBS, and ABC News."
+    publishedDateTime: 2024-02-22T15:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-every-investor-needs-to-own-today"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "3 Hypergrowth AI Stocks to Buy That Can Beat Even Nvidia"
     excerpt: "For investors, this means that the time to focus on finding the best AI stocks to buy is now. Nvidia is leading the way, but many of its smaller peers are picking up steam. Matt Miczulski, an investment expert and editor at fintech platform Finder ..."
     publishedDateTime: 2024-02-22T15:21:00Z

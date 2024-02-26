@@ -1,27 +1,22 @@
 ---
 category: news
 title: "3 AI Stocks That Every Investor Needs to Own Today"
-excerpt: "When the AI boom came, the company successfully leveraged its leading ... server products and cloud services revenues increased by 22%, driven by Azure and other cloud services. In addition, total revenue reached $62.0 billion, an 18% YoY growth."
-publishedDateTime: 2024-02-22T09:59:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-every-investor-needs-to-own-today-1033094009"
-webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-every-investor-needs-to-own-today-1033094009"
+excerpt: "Rick Orford is a Wall Street Journal best-selling author, investor, influencer, and mentor. His work has appeared in the most authoritative publications, including Good Morning America, Washington Post, Yahoo Finance, MSN, Business Insider, NBC, FOX, CBS, and ABC News."
+publishedDateTime: 2024-02-22T15:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-every-investor-needs-to-own-today"
+webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-every-investor-needs-to-own-today"
 type: article
-quality: 51
-heat: 71
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
-  - AI Hardware
 
 related:
   - title: "3 Hypergrowth AI Stocks to Buy That Can Beat Even Nvidia"
@@ -43,6 +38,6 @@ related:
       domain: theglobeandmail.com
     quality: 34
 
-secured: "LbWDGcywgVaHB6IIH7xU3T4YZ5fbJUXYgHsDiVvT7a6bxJMgkl9mN7okFmekL2iAh3qsIWhra4gF2ysnscr7DsfhwTXYZyJkCSXWrRDoOIlxuH7Q7HuSlgRTqF10Aj7hVJIondhgvImeBHhEYOnHfVTx84vedBVVfuMgpNSy2t87jwTNiS47vkmIsY921xcyDiCuAtn62yKv0H6BCFYgFSZCS6Uw9ZGXuAVcl7+6X0yFnFCpbrqaXcctW09T2LQX3yXq+dQeHUynq1Ox6YK+V8sUS+0rLXOJJsaigRRaNEe5JT7JWnrPZv03gtXW2jqGBGum4Sg3ukG11K75hGQ/qFkFTKZyQcCKRKIqjBM2JwpDmxygRuOvrXN8gl7hlgNHhXJJak6Ef7xIzwXayl3eg7cY3Pat38kEkNw/RgoYx9NCCeEO0NnmsWMn2/8mWh2186uWaaJt/FVREGQe2y1dKIkhd0fLQmpOOaEWZLU0NkBqd7vmGOfDhFWq4PeZAJReUuZki879tIAEt+kks+KN+w==;86Cu5Y9sltgD1kbMaB4OEQ=="
+secured: "rgjlMNwGHqdaURY6eDkiKLIVaIM1hI+Oq79NbBs/1ELjJfbYCLvLB+w2XKy5xTcnU+f4Psb/kRx4XGqLVhUoyuK2Nmh2S35w8lso9b9l++e+9Irz1JWzpCA6R2C/hDyNuz6x8yMH6txhcMoswbvuqFy+8Bh68q36rwPrmtIQoFCzUw822iUi9WG2KlCfK1vOm0geL2fuEcjDhahcnTQcJUd3hABbFPXTI14imJytivqAUMhfDUD3ijZHUcaezC2BqoGURybMOaI/XNH/UzWYN9ORy2/5pOL2auValga74otgF5klCu+9fCB0oNs3PWDzFvf6sKaPC9fDrLb5NN50WRILH8wch8YzoswD33B2CjA=;JZ46tKL1JiscYIHH+/G3mg=="
 ---
 

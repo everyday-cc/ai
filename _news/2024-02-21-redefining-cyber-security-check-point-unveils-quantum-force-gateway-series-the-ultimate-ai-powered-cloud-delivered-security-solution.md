@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/redefining-cyber-s
 webUrl: "https://markets.businessinsider.com/news/stocks/redefining-cyber-security-check-point-unveils-quantum-force-gateway-series-the-ultimate-ai-powered-cloud-delivered-security-solution-1033086311"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -22,17 +22,6 @@ topics:
   - Meta AI
   - AI
   - AI in Security
-
-related:
-  - title: "Check Point Software Unveils Comprehensive 2024 Security Report, Highlighting Ransomware Surge and AI Defense Innovations"
-    excerpt: "VIENNA, Austria, Feb. 21, 2024 (GLOBE NEWSWIRE) -- Check Point Research (CPR), the Threat Intelligence arm of Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading AI-powered, cloud-delivered cyber security platform provider, released its much ..."
-    publishedDateTime: 2024-02-21T03:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/check-point-software-unveils-comprehensive-2024-security-report-highlighting-ransomware-surge-and-ai-defense-innovations-1033086313"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
 
 secured: "fvA6fXDdR0Feft1esPD74ebfMWOZMAFDSemGYVAkA0uzyD4z3TS5LgdJEAo7VJpCOHto7QfbT2/jArP0f/pOku7WFsh1fUfZJyTIbGZGgQTALFpVV1oFNMFDTiVaeF49ouTSD9BSXj2fdnYzdfAer9DuHX4lE/XqTloOdyXwkNSW+NtHz2ANUyBapOBwk2G4WAHSko0GoNVlZ4iX9SR6GK51eqBGg3AsvlJxfrVwOx8q+wE4cTFnMr9hryFQSyiXIMe6kDdNmp+23egTxBYOFHU2T4ap+HgXdnKUuy6N7UEFMM+qQQ0hllBpb0qZPOhTxuRN9TAHVECrPY+KVPVfWXAhdvgRK79JI8Z5u9Y/XaQ=;5tIsTNl0W8hwPilat6hlyg=="
 ---

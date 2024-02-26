@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Opinion: OpenAI’s Sam Altman has plans for AI that could mean big money for Intel"
-    excerpt: "Open AI CEO Sam Altman drew widespread attention recently when he appealed for up to $7 trillion to develop silicon-chip manufacturing capacity that can power artificial intelligence. The unprecedented scope of this vision, equal to more than 20% of U.S ..."
-    publishedDateTime: 2024-02-21T01:54:00Z
-    webUrl: "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://images.mktw.net/im-806855/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Opinion: AI, Elections And Law - Why No Country Can Tackle AI Alone"
     excerpt: "Talks between EU and India on tackling the threat of online disinformation reflect the need for collective global action against the risks posed by generative AI."
     publishedDateTime: 2024-02-21T08:30:00Z
@@ -50,31 +34,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "OpenAI unveils AI that instantly generates eye-popping videos"
-    excerpt: "SAN FRANCISCO — In April, a New York startup called Runway AI unveiled technology that let people generate videos, like a cow at a birthday party or a dog chatting on a smartphone, simply by typing a sentence into a box on a computer screen. The four ..."
-    publishedDateTime: 2024-02-22T00:05:00Z
-    webUrl: "https://www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/"
-    ampWebUrl: "https://www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/amp/"
-    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/amp/"
-    type: article
-    provider:
-      name: West Hawaii Today
-      domain: westhawaiitoday.com
-    quality: 57
-    images:
-      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2024/02/web1_altman-2-22.jpg"
-        width: 760
-        height: 570
-        isCached: true
-  - title: "Sam Altman Brushes Off $7 Trillion AI Chip Project Speculation: 'Don't Pay Too Much Attention To That'"
-    excerpt: "OpenAI CEO Sam Altman denies reports of seeking $7 trillion for AI chip project, urges not to pay attention. Project estimated to cost $5-7 trillion."
-    publishedDateTime: 2024-02-22T13:01:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37261076/sam-altman-brushes-off-7-trillion-ai-chip-project-speculation-dont-pay-too-much-attention-to-that"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
 secured: "XT2bla70fY2Ntdm5IsRRVRqu0NngaMArcSSHDcf2hU5hSgOXn4QuRj3+qQfWNAqoEsnEvRmDkYT/3DN2cy1AxfabvaVqfMbjjahy0SOTe/qHCOgRxxKanb6VOltpoa9CJPYOLSIi2J+6i2UvuA5VQdb1UjfrjenJXK0PPh5q0Nis9nNz2jO75uKM1g2e0EvBbtXQ71cxQBHUeduD3OYnyXx9sQsHRgL5XLKIM51dQSlAUtDj8OIFYztUrPuUXmcsU0+NkV63e7DH6tiEz00jg4J9ZTWs9svwHB2DJXA9A7NJTUV0Aq5j6X4InHOjbywrLat8blXxQzVmb1ym1PzzhyiuVEmNBTP4KXCFdUW06hgYdQUiCZj9+UqwX2P7UMxQ338tZ1thmB89/i0fjeP5zmXo4QoulW18eOLqiUjka+G0BZ3aF9lvayxMUlNtF64NqPwwLpdUdNG7DfnYdZgIV6BwwY6meCii6XaGE2NZv6N6LlQZ5c4Rr9WYTRKtMlOBs7TWMls13VaZYpmW4BYGIg==;RBaRX1XMPRAXlzmA/1IxJQ=="
 ---

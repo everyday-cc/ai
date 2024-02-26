@@ -61,6 +61,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "NVIDIA samples two new AI GPUs for China, both comply with US export restrictions"
+    excerpt: "NVIDIA is offering customers samples of two new artificial intelligence chips for the Chinese market, where NVIDIA CEO Jensen Huang wants to defend its market dominance in China against the tides of US export restrictions on AI GPUs in the country."
+    publishedDateTime: 2024-02-25T12:19:00Z
+    webUrl: "https://www.tweaktown.com/news/96429/nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 49
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96429_804_nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "As Nvidia's downgraded AI chips go unwanted in China, who is the biggest beneficiary?"
     excerpt: "Recently, DIGITIMES has had several reports and comments regarding Nvidia's launch of the 2-gen downgraded AI chip H20 designed exclusively for China, but a lack of interest from Chinese customers. It's worth discussing which semiconductor company will..."
     publishedDateTime: 2024-02-23T00:01:00Z

@@ -38,6 +38,22 @@ related:
         width: 840
         height: 630
         isCached: true
+  - title: "OpenAI unveils AI that instantly generates eye-popping videos"
+    excerpt: "SAN FRANCISCO — In April, a New York startup called Runway AI unveiled technology that let people generate videos, like a cow at a birthday party or a dog chatting on a smartphone, simply by typing a sentence into a box on a computer screen. The four ..."
+    publishedDateTime: 2024-02-22T00:05:00Z
+    webUrl: "https://www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/amp/"
+    type: article
+    provider:
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 57
+    images:
+      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2024/02/web1_altman-2-22.jpg"
+        width: 760
+        height: 570
+        isCached: true
   - title: "OpenAI’s new generative tool Sora could revolutionize marketing and content creation"
     excerpt: "As with any technological advancement, professionals will need to adapt and find ways to integrate Sora into their workflows, leveraging its strengths to complement their own skills and creativity."
     publishedDateTime: 2024-02-21T19:44:00Z

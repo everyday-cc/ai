@@ -1,0 +1,30 @@
+---
+category: news
+title: "A for artificial intelligence, B for base effect: The A-Z of Q3 earnings season"
+excerpt: "However, company managements enthusiastically tried to brighten the mood during the post-earning concalls by deploying the hottest buzzword in town — artificial intelligence. Analysts, meanwhile, urge investors to resist the temptation of counting the ..."
+publishedDateTime: 2024-02-26T02:52:00Z
+originalUrl: "https://www.moneycontrol.com/news/business/earnings/a-for-artificial-intelligence-b-for-base-effect-the-a-z-of-q3-earnings-season-12346171.html"
+webUrl: "https://www.moneycontrol.com/news/business/earnings/a-for-artificial-intelligence-b-for-base-effect-the-a-z-of-q3-earnings-season-12346171.html"
+ampWebUrl: "https://www.moneycontrol.com/news/business/earnings/a-for-artificial-intelligence-b-for-base-effect-the-a-z-of-q3-earnings-season-12346171.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/earnings/a-for-artificial-intelligence-b-for-base-effect-the-a-z-of-q3-earnings-season-12346171.html/amp"
+type: article
+quality: 53
+heat: 53
+published: false
+
+provider:
+  name: moneycontrol.com
+  domain: moneycontrol.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Q2-earnings-Auto-Sector.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "VpSA4MFWOMMe0VzDwUzqJlxd0E88hzbK2mgvH+UTQuqlXcOD8V7RTowWZLkyMHjVE2w3aBErb5nJhhyCAQuUsnAnio9pg2eSNzEdi+U8nFnvbZc+x2M8h5OgqpGSbMyO0R+tWbIY31PXnzNK0LKtNmqhJfxAUwiC1KizeYAsi/8XewFAb/2tCoyH+kZ03qkDhV5G2/awoS4Ag9QcdY9ePngN/d9BnAtBEONellraZ/iVw34ODR1kaK+DxG+scUyV7vJbnBkvHyRPsqgtUNIHEv0rqKGfHrXoaNAsixczmXtKqCVfU3HDG/WvwTSqnxIhyUC/X63TaI8tvfuU6aYVgDIDDBu16UC8IVXMP3R9LzI=;p1inIop7xtNTKjAFMiWXQA=="
+---
+

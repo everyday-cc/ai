@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-l
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/amp/"
 type: article
 quality: 83
-heat: 85
+heat: 83
 published: true
 
 provider:
