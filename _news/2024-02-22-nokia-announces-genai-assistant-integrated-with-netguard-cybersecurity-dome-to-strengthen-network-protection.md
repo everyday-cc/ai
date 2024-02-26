@@ -77,6 +77,20 @@ related:
         width: 720
         height: 377
         isCached: true
+  - title: "What organizations should know about cybersecurity in the age of artificial intelligence"
+    excerpt: "Artificial intelligence (AI) brings many benefits to organizations, from process automation and increased efficiency to enhanced customer experiences. But cybercriminals have the same access to the technology. As it evolves, so do the risks."
+    publishedDateTime: 2024-02-26T16:21:00Z
+    webUrl: "https://www.bizjournals.com/bizjournals/news/2024/02/26/what-organizations-should-know-about-cybersecurity.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 30
+    images:
+      - url: "https://media.bizj.us/view/img/12679474/gettyimages-1508780671*1200xx2121-1195-0-218.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "“Let’s Talk Compliance”: Health Care Privacy and Cybersecurity"
     excerpt: "There are lively debates on what is true AI or simply smart algorithms. In this webinar, AI is discussed as an impact on health care and the potential risks it may bring as more and more turn toward AI for assistance. Wider AI adoption could save the U.S ..."
     publishedDateTime: 2024-02-23T00:01:00Z

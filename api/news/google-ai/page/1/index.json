@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -166,7 +166,7 @@
       "originalUrl": "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -207,6 +207,59 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family.md",
+      "title": "Google goes “open AI” with Gemma, a free, open-weights chatbot family",
+      "excerpt": "Developed by Google DeepMind and other Google AI teams, Gemma pulls from techniques learned during the development of Gemini, which is the family name for Google's most capable (public-facing) commercial LLMs, including the ones that power its Gemini AI assistant. Google says the name comes from the Latin gemma, which means \"precious stone.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemma_header_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -1387,50 +1440,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-google-renames-bard-chatbot-to-gemini-what-chatgpt-rival-can-do-and-how-much-it-costs.md",
-      "title": "Google renames Bard chatbot to Gemini: What ChatGPT rival can do and how much it costs",
-      "excerpt": "Google on Thursday renamed its Bard chatbot after the new artificial intelligence that is powering it, called Gemini, and said consumers can pay for better reasoning capabilities as it vies with ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2024/02/08/business/googles-chatgpt-rival-renamed-as-gemini-heres-what-it-will-cost/",
-      "originalUrl": "https://nypost.com/2024/02/08/business/googles-chatgpt-rival-renamed-as-gemini-heres-what-it-will-cost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/02/google-gemini-chatgpt.jpg?quality=75&strip=all&1707391714&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2024/02/08/business/googles-chatgpt-rival-renamed-as-gemini-heres-what-it-will-cost/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/02/08/business/googles-chatgpt-rival-renamed-as-gemini-heres-what-it-will-cost/amp/",
-      "publishedDateTime": "2024-02-08T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

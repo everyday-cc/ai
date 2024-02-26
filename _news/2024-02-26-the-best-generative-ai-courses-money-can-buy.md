@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 180
 published: true
 
 provider:
@@ -124,6 +124,15 @@ related:
       name: adexchanger
       domain: adexchanger.com
     quality: 17
+  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
+    excerpt: "CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of its Generative AI Strategic Collaborative, an industry collective of 29 leading health systems and industry ..."
+    publishedDateTime: 2024-02-26T10:04:00Z
+    webUrl: "https://www.sacbee.com/press-releases/article285939161.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 0
 
 secured: "Kv0kKgDm8OqiQCiw9wsMKPurvu0l7ynw4nIzF7EfAOPi1pquz7swHLd/86JFUvvTy4qzSyDViuLdbvCWdhwsU8M7RQDs8iu5ObqRmQ2tRf9FvJjTqqF/OkLu6rNdzd+FdopCF2mPaiIDFcw+KVr+7JI5Pnwn45Eu2tZYEGoq+xnQQYqVoZJVP/XZnhcCn5BJB94+Db0gn3bPzEJcwntIgaw+4wg0j4gvfktDnIliUsoYu0/lzl625yJhB9qPUqsb6Jl4GKAMRSStrQAeEN9yy8r9ZLSSXaGyIjkkdfcNsmPIQANCsmKgWDNS0RzARIguUJ8InaLKq1Yuz38TwpyIUoLPDQGvmi17dRY4voebS/eczc0LPjCSjXyhM68fOxO861wckK2Zme8224g2YQofASA0lE451yVlv/YTPzNo4Ohrwjz/3taPORedUwhAmYdLJh9Pt7jxRDBx2OVEgloaZT7g4PiaYPKLD26RZjyGfoXP7mXCILTXWK334Jomokt6mDmwH9IwaUvAn5x2+N61Jw==;BzMUxYs9UQnXJ8zluJIOqw=="
 ---

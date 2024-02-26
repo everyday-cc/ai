@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2024-02-22-light-therapy-helps-ease-pain-for-cancer-patients.md",
-      "title": "Light therapy helps ease pain for cancer patients",
-      "excerpt": "Neck and head cancer patients will be able to seek a new treatment to ease the pain of radiotherapy and chemotherapy Cancer patients at a hospital trust have started using light therapy to help them with side effects caused by chemotherapy and radiotherapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo?at_format=link&at_campaign_type=owned&at_link_id=43992F9A-D147-11EE-8422-ED8E4B3AC5C4&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=bbchealth&at_link_type=web_link",
-      "originalUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo?at_format=link&at_campaign_type=owned&at_link_id=43992F9A-D147-11EE-8422-ED8E4B3AC5C4&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=bbchealth&at_link_type=web_link",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/246f/live/9faa1f10-d0f7-11ee-8a50-0f587568c5bc.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/cg3ee8xl96eo.amp",
-      "publishedDateTime": "2024-02-22T09:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-22-european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand.md",
       "title": "European Chip Stocks Surge After Nvidia Sales Reach New Heights on Booming AI Demand",
       "excerpt": "Chief Executive Jensen Huang described AI as hitting the tipping point and indicated demand ... Earlier on Thursday, SoftBank Group, the parent of British chip designer Arm Holdings, advanced more than 5%, while chip-making equipment maker Tokyo Electron ...",
@@ -62,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 634,
+      "heat": 614,
       "tags": null,
       "images": [
         {
@@ -270,7 +218,7 @@
       "originalUrl": "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -701,6 +649,59 @@
       "topics": [
         "Meta AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family.md",
+      "title": "Google goes “open AI” with Gemma, a free, open-weights chatbot family",
+      "excerpt": "Developed by Google DeepMind and other Google AI teams, Gemma pulls from techniques learned during the development of Gemini, which is the family name for Google's most capable (public-facing) commercial LLMs, including the ones that power its Gemini AI assistant. Google says the name comes from the Latin gemma, which means \"precious stone.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemma_header_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Google AI"
       ]
     },
     {

@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-11-29-amazon-q-is-an-ai-chatbot-for-businesses-and-aussies-can-test-it-now.md",
+      "title": "Amazon Q is an AI chatbot for businesses, and Aussies can test it now",
+      "excerpt": "AWS’s business intelligence platform. Amazon Q is also integrated with Amazon Connect, aiming to bolster customer service capabilities. It can be customised through proprietary data and tailored ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/technology/artificial-intelligence/aws-amazon-q-announcement-chatbot-business-australia/",
+      "originalUrl": "https://www.smartcompany.com.au/technology/artificial-intelligence/aws-amazon-q-announcement-chatbot-business-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-aws-and-nvidia-to-partner-on-new-ai-supercomputing-infrastructure.md",
       "title": "AWS and Nvidia to partner on new AI supercomputing infrastructure",
       "excerpt": "WHAT IS ARTIFICIAL INTELLIGENCE (AI)? Nvidia will also integrate its NeMo Retriever microservice into AWS to help users boost their development of generative AI tools like chatbots and ...",
@@ -1327,59 +1361,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-accelerating-aiml-development-at-bmw-group-with-amazon-sagemaker-studio.md",
-      "title": "Accelerating AI/ML development at BMW Group with Amazon SageMaker Studio",
-      "excerpt": "This post is co-written with Marc Neumann, Amor Steinberg and Marinus Krommenhoek from BMW Group. The BMW Group – headquartered in Munich, Germany – is driven by 149,000 employees worldwide and manufactures in over 30 production and assembly facilities across 15 countries. Today, the BMW Group is the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/09/blog_v1.png",
-          "width": 971,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-24T17:49:46Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

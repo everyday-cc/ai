@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-up
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1440
     height: 900
     isCached: true
-
-related:
-  - title: "Google explains Gemini’s ‘embarrassing’ AI pictures of diverse Nazis"
-    excerpt: "Google stopped letting users create images of people with its Gemini AI tool on February 22nd — just weeks after it launched image generation in Gemini (formerly known as Bard). Raghavan says Google is going to continue testing Gemini AI’s image ..."
-    publishedDateTime: 2024-02-23T20:19:00Z
-    webUrl: "https://www.theverge.com/2024/2/23/24081309/google-gemini-embarrassing-ai-pictures-diverse-nazi"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 49
 
 secured: "TgVXD+pz6BTFOgt21OAEBPeqAT9F460t4idbkN2m4TJQcuEDGDB20OY8/F35350FSAWCyJGTog0JDDcdaVdGRL0RszAz74gRtganfcTTaeXLa+MjFqCgpH6O1uFtcV83So2bJjFrcPoldyUTh34Xf4SsFd/RTa+4U2jKC+tqUhw+poChsZu7enXCC7BP1y0PmP0X01r3BJWmxqN+bmsUFXr+Ph9S7Um5iXgb2ozkAB3Dav3rCs4PrIv1QZJf4J1wjao75uKa43QZ465CohS+k6q9uzkWplKa3HkqeXRDXELl5Lw57eFPH99/kbhX+pwo4tIv+/TtM7JcC88G9OXPqGEzYuk/S0Z2LMJ2FyY4P7M=;qFhVaNrAXWVyiy+OcnjT1Q=="
 ---

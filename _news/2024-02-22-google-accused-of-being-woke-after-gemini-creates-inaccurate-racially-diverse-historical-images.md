@@ -108,20 +108,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Google apologizes for AI bot generating inaccurate images of ‘diverse’ historical figures"
-    excerpt: "Google Gemini, formerly known as Google Bard, was launched in March 2023 in limited release as a chatbot powered by Google’s large language model. The product was renamed in February as “Gemini” to reflect the “advanced tech at its core” after ..."
-    publishedDateTime: 2024-02-21T18:09:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/2867477/google-apologizes-ai-bot-generating-inaccurate-images-diverse-historical-figures/"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 30
-    images:
-      - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/01/google.jpg"
-        width: 2290
-        height: 1325
-        isCached: true
   - title: "Google Pauses AI Image Creation Amidst Uproar Over Racially Diverse Historical Depictions"
     excerpt: "Google Gemini halts image generation due to controversial, culturally insensitive depictions of historical figures."
     publishedDateTime: 2024-02-25T00:53:00Z

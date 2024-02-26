@@ -2,6 +2,103 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-20-meta-and-ibm-hold-hands-to-launch-the-ai-alliance.md",
+      "title": "Meta and IBM hold hands to launch the AI Alliance",
+      "excerpt": "Other founding members of the AI Alliance include AMD, Dell, Hugging Face, Intel, The Linux Foundation, Oracle, Red Hat, ServiceNow, and Sony. Research institutions belonging to the AI Alliance include Berkeley, CERN and Imperial College. But leading AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/meta-and-ibm-hold-hands-launch-ai-alliance",
+      "originalUrl": "https://diginomica.com/meta-and-ibm-hold-hands-launch-ai-alliance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-20%20at%2008.41.30.png",
+          "width": 1222,
+          "height": 886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/meta-and-ibm-hold-hands-launch-ai-alliance?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/meta-and-ibm-hold-hands-launch-ai-alliance?amp",
+      "publishedDateTime": "2023-12-19T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems.md",
+      "title": "Patronus AI finds ‘alarming’ safety gaps in leading AI systems",
+      "excerpt": "Patronus AI releases SimpleSafetyTests, a new diagnostic test suite for large language models that found critical safety gaps and vulnerabilities across popular AI systems like ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems/",
+      "originalUrl": "https://venturebeat.com/ai/patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_abstract_painting_of_a_yellow_triangle_caution_sign_w_bc525096-1280-41a0-adf7-04d30fe92758-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T17:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat.md",
       "title": "The widening web of effective altruism in AI security | The AI Beat",
       "excerpt": "A follow up on a VentureBeat story last week adds context about the web of effective altruism connections in AI security circles.",
@@ -1272,92 +1369,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide.md",
-      "title": "AI Poised to Enhance Student and Faculty Experiences: Info-Tech Research Group Publishes New Industry Guide",
-      "excerpt": "The newly published resource includes use cases on the topic of AI in the classroom and covers the technology involved, the benefits to the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide-1032872109",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide-1032872109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2292604/Info_Tech_Research_Group_AI_Poised_to_Enhance_Student_and_Facult.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T23:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-maracuya-by-llama-opens-in-st-augustine.md",
-      "title": "Maracuya by Llama opens in St. Augustine",
-      "excerpt": "Maracuya by Llama, West Augustine’s newest relax and unwind coffee house destination, is filling the streets with tantalizing aromas of coffees, teas, tropical beverages, deserts and grab and go ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.staugustine.com/story/lifestyle/food/2023/12/04/maracuya-by-llama-opens-in-st-augustine/71799652007/",
-      "originalUrl": "https://www.staugustine.com/story/lifestyle/food/2023/12/04/maracuya-by-llama-opens-in-st-augustine/71799652007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The St. Augustine Record",
-        "domain": "staugustine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

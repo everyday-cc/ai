@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Re-Evaluating Corporate Culture in the Age of Artificial Intelligence"
-    excerpt: "However, the behavioral component or human synthesis with AI and the manner in which it is deployed internally, beyond mere corporate logistics, seems to be a puzzle piece that is consistently missing."
-    publishedDateTime: 2024-02-21T17:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/re-evaluating-corporate-culture-in-the-age-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "A Snapshot of Artificial Intelligence in Health Care"
     excerpt: "Artificial intelligence (AI) has an important role in the future of health care. With its potential to parse through vast amounts of data, glean critical insights, build predictive models ..."
     publishedDateTime: 2024-02-23T16:13:00Z

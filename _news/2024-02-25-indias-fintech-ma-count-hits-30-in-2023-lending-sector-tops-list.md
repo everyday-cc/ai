@@ -51,15 +51,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "3 Fintech Stocks to Buy to Retire a Millionaire"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With high interest rates, many investors are wary of putting their money into"
-    publishedDateTime: 2024-02-21T17:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-to-buy-to-retire-a-millionaire-1033089203"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Bud Financial partners with Fintech Galaxy"
     excerpt: "\"This isn't just a partnership; it's a step towards a future where finance feels friendly, accessible, and genuinely helpful,\" says Mirna Sleiman, the Founder and CEO behind Fintech Galaxy. \"We're all in to create a world where your financial services understand and adapt to you — not the other way around.\""
     publishedDateTime: 2024-02-22T06:19:00Z

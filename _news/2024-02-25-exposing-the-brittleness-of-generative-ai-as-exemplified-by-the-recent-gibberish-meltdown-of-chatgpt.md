@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
 type: article
 quality: 93
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://static.india.com/wp-content/uploads/2024/02/IDC-Story-30-1.png"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
-    excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"
-    publishedDateTime: 2024-02-21T17:56:00Z
-    webUrl: "https://www.inc.com/kit-eaton/recuriters-missingsigns-that-tech-job-applicants-are-using-chatgpt-to-cheat.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 36
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1817371209_537674_a49pzl.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "wXYPMc6Jfsats7dqeaRCSX4qyHv4BuCSnrgLivIMFfltD0nh7ip4raT7HuIa4nPD5JbAzrodGzLgOEKHZgWrovjmJc99e8StPAV/YjBA2o/Qo+1Bs5NgMeUBV4VgWV2mS+RMGGhBcJEsFZ4DbdDk0m3U0tWqcWKJQWT9x8zHu4wMvLutxWvVQWnXKtvNpiYHdlmpMDkBneSLIjiLn9AdVC3BS3bpzfynxQTy4xbAgyLAIUDXUuvGksLUKpXQzKtVEL9A1HVxG6tlzZlma+E6tKa1GkH00ipJdc2OSujP5PS8gK6/IYrdbulqNTRWeVhtaalhCrlqmAXlhr8JjSJk89wAlb/9CWF/wjmUcdU8N+SRtQI1MVN/xJfc+/2hTm1HZ29+tbPjE92PeNx8kii4TyZArJKm2QEGwZthBSSDILwf9KI2O9zu3ze24UQp1jxs7vzrN2R+qh6JuRTYqip7xL36dl5q44/2YkMHdWjOttao+eLPc2A/KGgEDyCuQ95XxAdHeFJi8Dps0wllzvlSag==;0/3L+KAvbyupd9aFboy27g=="

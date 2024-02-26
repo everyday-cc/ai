@@ -39,6 +39,20 @@ related:
         width: 750
         height: 600
         isCached: true
+  - title: "Google Gemma open source AI models launch"
+    excerpt: "“A family of lightweight, state-of-the art open models built from the same research and technology used to create the Gemini models” – Google. At the heart of Gemma’s introduction is the Responsible Generative AI Toolkit. This toolkit is crafted to ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemma-ai-models/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Gemma-state-of-the-art-open-AI-models.jpg"
+        width: 1280
+        height: 751
+        isCached: true
 
 secured: "O/akcMGbO+s9D0qarRpMcP+UhK4lDlJJ/OvzPQ12X9c2BB50XTzjq+A3Uah5+2k1ZLvwN23SLrePaH3bA8o5ggj9VGE2xcRWpngBz68M5x/0+h9f3P/Fzqcmc1IktyzqK9xIFpYowQLvPBFBqiuyid70l/dQuW2aHaa70Ox/DFUIT6nsNsHhodxxzsmrQLPuIxXOYGvQa0z8wBbueBacpnAUUV54qW6ezGTAn/QhEzhQJLyfbeNVimrL8lGHoW1FrWUQRsnIvytyryAAe+lbG0NZGqNe/YHHXlD7HuyApCfulCItSgyf/n4bk2EobDDe9aZDJenJ6OvB01cya4zghguKfXP+c8OmqjICBvJpG0kHXavKyyfRwuUYGRwZkiQUrYUwgoUBMxeCtcixrQrkX8ROcBkYgeKxCSH5pfjOZy0o+jIz5IXr9Gns7V1XOumjT7cKriSfLyc/RAo51X4fSyX8/J+ebINGOWxkxXM5cYekCl9RbPQprjWDa+NGHgDmjhfgyZXA822hMHCoyJ1+WA==;lhAiLmhHcj2OpggOfEe9aw=="
 ---

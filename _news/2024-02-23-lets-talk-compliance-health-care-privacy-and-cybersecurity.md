@@ -83,6 +83,20 @@ related:
         width: 720
         height: 377
         isCached: true
+  - title: "What organizations should know about cybersecurity in the age of artificial intelligence"
+    excerpt: "Artificial intelligence (AI) brings many benefits to organizations, from process automation and increased efficiency to enhanced customer experiences. But cybercriminals have the same access to the technology. As it evolves, so do the risks."
+    publishedDateTime: 2024-02-26T16:21:00Z
+    webUrl: "https://www.bizjournals.com/bizjournals/news/2024/02/26/what-organizations-should-know-about-cybersecurity.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 30
+    images:
+      - url: "https://media.bizj.us/view/img/12679474/gettyimages-1508780671*1200xx2121-1195-0-218.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Nokia Announces GenAI Assistant Integrated with NetGuard Cybersecurity Dome to Strengthen Network Protection"
     excerpt: "Cybersecurity Dome is Nokia’s extended detection response market (XDR) security platform that provides CSPs and enterprises with strong, 5G network defenses through a series of AI and machine learning capabilities. Amid the rising sophistication and ..."
     publishedDateTime: 2024-02-22T00:00:00Z

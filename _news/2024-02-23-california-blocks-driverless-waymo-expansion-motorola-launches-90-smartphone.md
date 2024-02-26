@@ -7,8 +7,8 @@ originalUrl: "https://www.techdigest.tv/2024/02/california-blocks-driverless-way
 webUrl: "https://www.techdigest.tv/2024/02/california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.html"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 50
+published: false
 
 provider:
   name: Tech Digest
@@ -23,33 +23,6 @@ images:
     width: 725
     height: 434
     isCached: true
-
-related:
-  - title: "California puts Waymo robotaxi expansion application on hold until June 19"
-    excerpt: "SAN FRANCISCO, Feb 21 (Reuters) - A California regulator has put on hold until June 19 an application by Alphabet's (GOOGL.O), opens new tab Waymo to expand its robotaxi services to parts of the Los Angeles area and San Francisco's peninsula, amid rising ..."
-    publishedDateTime: 2024-02-21T17:49:00Z
-    webUrl: "https://www.reuters.com/technology/california-suspends-waymos-application-expand-parts-la-sfs-peninsula-2024-02-21/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "Self-driving taxi expansion paused in L.A., Northern California"
-    excerpt: "Editor’s note: This story was updated to clarify the scope of the suspension. Self-driving car company Waymo’s plans to expand its coverage area have been put in neutral by the California ..."
-    publishedDateTime: 2024-02-21T18:13:00Z
-    webUrl: "https://ktla.com/news/local-news/self-driving-taxi-expansion-paused-in-l-a-norcal/"
-    ampWebUrl: "https://ktla.com/news/local-news/self-driving-taxi-expansion-paused-in-l-a-norcal/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/self-driving-taxi-expansion-paused-in-l-a-norcal/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 44
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2023/10/snapshot-49.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "x0tLJdiMlQTjFR7pGhTXhrL9QuE55I/K0BxvKWH8c6jSx8b4zB4iwN4yNTa0YooQt/L2d/WfvUsGFu+TPu8BzhTuzCwy6LAKyRSgvbK6fwzICDpHfbkBvM2ZHQwjfll4Q8xpnjT1L/CJOrL2e8BNnLecCrq2TR2w1/hgo5p82NTgkOnnK6aa5sjZH9FXsZkzsaKbW0MYnwdHsCHrvsnyoxDmthhUmNlT2N9pLljLEOFnKXAgl1qRAmaLVWZ3fsxOzChRaD4RbrdkM3bln8tCq9igJQWIUdwOJlBY/zx4ghAvp2IM2lsG8bSqfTNNCYPKOQgKuxmkTBHN3GoB1qV6acsKRPiVRE0W/2uW1632ZcF9qhYXohFyo9Q1VxTdLeEuViadhU1ZmTNwJh/XELU5bSir+fDBXvaVD0UXEQ2xY4OrTOLYJN+an4zfMcs0SAMpwXMPn6Gl+KL294FSQ4sgQrUYZcpzcmpTTuSMflgXURFLP+KjMa/ViqBY0yCdt7dwK34l7PkvDMsyCQv7ExtSvQ==;jLqxiloZ01IufF8iB2mnwg=="
 ---

@@ -49,6 +49,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "US Military Utilizes AI In Middle East Operations: 'We've Been Using Computer Vision'"
+    excerpt: "Military confirms use of AI in airstrikes in Middle East, highlighting its growing role in combat operations & future of warfare."
+    publishedDateTime: 2024-02-26T18:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/us-military-utilizes-ai-in-middle-east-operations-we-ve-been-using-computer-vision-1033104022"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/battlefield-ai.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "IMF Urges G20 Cooperation on Climate, Global AI Principles"
     excerpt: "Cooperation by the G20, including through carbon pricing, reduced energy subsidies and border carbon adjustment mechanisms, could also help mitigate the effects of climate change and facilitate the green energy transition, the IMF said."
     publishedDateTime: 2024-02-26T14:16:00Z

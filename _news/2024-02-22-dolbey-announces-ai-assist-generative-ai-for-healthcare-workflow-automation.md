@@ -121,6 +121,15 @@ related:
       name: adexchanger
       domain: adexchanger.com
     quality: 17
+  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
+    excerpt: "CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of its Generative AI Strategic Collaborative, an industry collective of 29 leading health systems and industry ..."
+    publishedDateTime: 2024-02-26T10:04:00Z
+    webUrl: "https://www.sacbee.com/press-releases/article285939161.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 0
 
 secured: "ZwSP78WDJwvs5C3E+uvhEvHt98ch16Xi1l1EeCKFRvM50koMAHdtltB2AMU0qaCC3m7sU86DHT0rBBu4Xz3aHhWN96BRGF6bo/rVirlUWoZSu1u4c6z7VfKSOGCi46rcqhiU957I4QOk0FLnSK45K8+T9Aj1TsQWJvGklMhtYPw1o+yc3ib69xTyyoaplN8222i1DRjx6YYaTZVpxz8vg8OIIe8VphGpOtCczXYqLLuqaDv2nbAomO0kywrH6MQum024+6r65ddEiOtiK4w+FoW66K7aQDFBSd5VAOsCNz1OEcT49ut2kWXOHXvGUkJr3MiWe8ekFJGCYeqgBrOoJOeh5nugLrw6eLXY4c2nAh4=;Vx3A6ckOdqCci7EA1O01gw=="
 ---

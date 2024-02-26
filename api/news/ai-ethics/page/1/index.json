@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-27-cyber-insights-2024-artificial-intelligence.md",
+      "title": "Cyber Insights 2024: Artificial Intelligence",
+      "excerpt": "AI's progress in 2024 and beyond: 2023 was a year of hype, 2024 brings the beginning of AI reality, and 2025 likely to be its delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/",
+      "originalUrl": "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securityweek.com/wp-content/uploads/2024/02/Elia-Zaitsev-Crowdstrike.jpeg",
+          "width": 258,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/",
+      "publishedDateTime": "2024-02-26T16:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecurityWeek",
+        "domain": "securityweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-feature-singapore-embraces-ai-to-solve-everyday-problems.md",
       "title": "FEATURE – Singapore embraces AI to solve everyday problems",
       "excerpt": "The booking chatbot is among more than 100 generative AI-based solutions spurred by the AI Trailblazers project",
@@ -107,7 +150,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -161,7 +204,7 @@
       "originalUrl": "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1432,58 +1475,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-end-of-life-the-one-decision-ai-cannot-predict.md",
-      "title": "End-Of-Life: The One Decision AI Cannot Predict",
-      "excerpt": "An experienced weaver of health, technology, ethics and spirituality ... Predictive algorithms need data to base their prediction on, and in medicine, AI models are often trained on a large comprehensive dataset with relevant fields of information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/",
-      "originalUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65be62c3f49f05c2d210397e/0x0.jpg?format=jpg&crop=1993,1120,x0,y755,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/amp/",
-      "publishedDateTime": "2024-02-10T14:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

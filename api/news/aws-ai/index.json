@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-26-techniques-and-approaches-for-monitoring-large-language-models-on-aws.md",
+      "title": "Techniques and approaches for monitoring large language models on AWS",
+      "excerpt": "Large Language Models (LLMs) have revolutionized the field of natural language processing (NLP), improving tasks such as language translation, text summarization, and sentiment analysis. However, as these models continue to grow in size and complexity, monitoring their performance and behavior has become",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/26/monitoring-llm-1119x630.jpg",
+          "width": 1119,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T17:59:42Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-24-aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock.md",
       "title": "AWS will add Mistral open source AI models to Amazon Bedrock",
       "excerpt": "It makes total sense for AWS to offer a wide range of models, and the move follows its cloud competitor Microsoft adding Meta's open-source",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1289,40 +1341,6 @@
       "provider": {
         "name": "Computer Weekly",
         "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-baker-tillys-expertise-in-forensic-investigation-using-data-science-helps-pharmacy-chain-uncover-pricing-error.md",
-      "title": "Baker Tilly's Expertise in Forensic Investigation Using Data Science Helps Pharmacy Chain Uncover Pricing Error",
-      "excerpt": "NORTHAMPTON, MA / ACCESSWIRE / February 8, 2024 / Baker TillyClient backgroundThe client is a regional pharmacy chain with 25 locations throughout three states.The business challengeAfter multiple mon",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61361667-baker-tilly-s-expertise-in-forensic-investigation-using-data-science-helps-pharmacy-chain-uncover-pricing-error-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61361667-baker-tilly-s-expertise-in-forensic-investigation-using-data-science-helps-pharmacy-chain-uncover-pricing-error-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T19:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null

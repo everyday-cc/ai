@@ -32,7 +32,7 @@ related:
     provider:
       name: SecurityWeek
       domain: securityweek.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.securityweek.com/wp-content/uploads/2024/02/Elia-Zaitsev-Crowdstrike.jpeg"
         width: 258

@@ -104,20 +104,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
-    excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"
-    publishedDateTime: 2024-02-21T17:56:00Z
-    webUrl: "https://www.inc.com/kit-eaton/recuriters-missingsigns-that-tech-job-applicants-are-using-chatgpt-to-cheat.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 36
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1817371209_537674_a49pzl.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "miGm4goqw1p7J3Vbr9YYTf+0X+JwoTr8Y80VZfUYzFh72jbqnPMEmoolDHksKQarEZOyAdQELkbmPLLRsR2W7V5fbYvZ0Kze54/4mAw3BcXGLN2FysVy3k0GQmysEOqgnXiqHzDoU8HvGge+KpdJoheGx5eqBEYUSphtmOjatN0TvADRfNeGHQkuKJFo6XKQ82SS+ZGNpO9h96o7bMIYCC1XDgfd8OtUSAmcBD2tqoNunDme0bhQ4x7k+iWk+k8UGwiCow2/s/bG0vN0j+y+9PsWwDMRIAI3hS8w1ftLEGaPck5i2dAJpSagkeZ+u1Cx39dxFqv1CT8dyI7x4h46trwYiXueq3p3v55fg5HzGWU=;ZF5YaBMOSXHr+1oDFGE4ig=="
 ---

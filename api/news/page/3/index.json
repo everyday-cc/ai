@@ -355,7 +355,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-career-advice-coach-gen-z-workers-get-ahead-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -681,101 +681,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.md",
-      "title": "California blocks driverless Waymo expansion, Motorola launches £90 smartphone",
-      "excerpt": "California has blocked a Google-backed driverless car company from expanding to more cities after a series of accidents. The California Public Utilities Commission (CPUC) has suspended a request by Waymo, which is owned by Google’s parent company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2024/02/california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.html",
-      "originalUrl": "https://www.techdigest.tv/2024/02/california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2024/02/0_Moto-g4_4.webp?resize=725%2C434&#038;ssl=1",
-          "width": 725,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-cruise-may-resume-self-driving-taxi-tests-in-texas-soon.md",
-      "title": "Cruise May Resume Self-Driving Taxi Tests in Texas Soon",
-      "excerpt": "GM-owned Cruise is getting ready to put its self-driving taxis back on the road, four months after one of its vehicles ran over a woman in San Francisco and dragged her 20 feet. The driverless car company is reportedly looking to resume robotaxi testing \"in the coming weeks,\" Bloomberg reports, and may begin operations in Houston or Dallas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/cruise-may-resume-self-driving-taxi-tests-in-texas-soon",
-      "originalUrl": "https://www.pcmag.com/news/cruise-may-resume-self-driving-taxi-tests-in-texas-soon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02kFODpY8Ryo8exFhjTmVoR-1.fit_lim.size_1200x630.v1708698476.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1118,7 +1023,7 @@
       "originalUrl": "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1210,6 +1115,100 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-empower-your-technical-staff-with-hands-on-technology-training.md",
+      "title": "Empower your technical staff with hands-on technology training",
+      "excerpt": "Holistic training includes hands-on, real-world experience that teaches your technical staff how to carry out their full mission.\nThe post Empower your technical staff with hands-on technology training appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/empower-your-technical-staff-with-hands-on-technology-training/",
+      "originalUrl": "https://www.ibm.com/blog/empower-your-technical-staff-with-hands-on-technology-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T20:29:15Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-google-is-killing-gmails-basic-html-view-in-2024.md",
+      "title": "Google is killing Gmail’s basic HTML view in 2024",
+      "excerpt": "Google is currently focusing on infusing AI-powered features into its products, including Gmail. Last month, the company launched a Duet AI feature to help users write emails. Last week, it allowed the Bard chatbot to integrate with Google accounts so you ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/",
+      "originalUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/",
+      "publishedDateTime": "2024-02-22T19:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

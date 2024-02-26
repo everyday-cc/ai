@@ -149,101 +149,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-23-california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.md",
-      "title": "California blocks driverless Waymo expansion, Motorola launches £90 smartphone",
-      "excerpt": "California has blocked a Google-backed driverless car company from expanding to more cities after a series of accidents. The California Public Utilities Commission (CPUC) has suspended a request by Waymo, which is owned by Google’s parent company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2024/02/california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.html",
-      "originalUrl": "https://www.techdigest.tv/2024/02/california-blocks-driverless-waymo-expansion-motorola-launches-90-smartphone.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2024/02/0_Moto-g4_4.webp?resize=725%2C434&#038;ssl=1",
-          "width": 725,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-cruise-may-resume-self-driving-taxi-tests-in-texas-soon.md",
-      "title": "Cruise May Resume Self-Driving Taxi Tests in Texas Soon",
-      "excerpt": "GM-owned Cruise is getting ready to put its self-driving taxis back on the road, four months after one of its vehicles ran over a woman in San Francisco and dragged her 20 feet. The driverless car company is reportedly looking to resume robotaxi testing \"in the coming weeks,\" Bloomberg reports, and may begin operations in Houston or Dallas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/cruise-may-resume-self-driving-taxi-tests-in-texas-soon",
-      "originalUrl": "https://www.pcmag.com/news/cruise-may-resume-self-driving-taxi-tests-in-texas-soon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02kFODpY8Ryo8exFhjTmVoR-1.fit_lim.size_1200x630.v1708698476.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-22-backed-by-chinese-carmaker-great-wall-haomo-raises-14m-for-autonomous-driving-tech.md",
       "title": "Backed by Chinese carmaker Great Wall, Haomo raises $14M for autonomous driving tech",
       "excerpt": "After a few years of funding frenzy, autonomous driving companies in China are experiencing a slowdown in investment. Some companies are still hauling in",
@@ -1435,6 +1340,94 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-chatgpt-maker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous.md",
+      "title": "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous",
+      "excerpt": "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2024/02/13/1600x900/FILES-SEMICONDUCTORS-OPENAI-semiconductors-US-UAE-_1707821720835_1707821721048.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "publishedDateTime": "2024-02-13T10:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-why-young-chinese-women-are-dumping-real-men-for-ai-boyfriends.md",
+      "title": "Why young Chinese women are 'dumping' real men for AI boyfriends",
+      "excerpt": "Discover why young Chinese women are choosing AI boyfriends over real men. Explore the rise of virtual connections and the adaptability of artificial intelligence in meeting their emotional needs. Learn about the concerns surrounding user privacy in this booming industry.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/articleshow/107649314.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/articleshow/107649314.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107649267,width-1280,height-720,resizemode-4/107649267.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/amp_articleshow/107649314.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/amp_articleshow/107649314.cms",
+      "publishedDateTime": "2024-02-13T05:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

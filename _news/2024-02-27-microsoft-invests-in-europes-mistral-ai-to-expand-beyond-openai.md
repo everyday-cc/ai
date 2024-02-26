@@ -43,6 +43,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft announces ‘AI access principles’ to offset OpenAI competition concerns"
+    excerpt: "On the heels of Microsoft’s investment and partnership with French Large Language Model startup Mistral AI, the company continues to work hard to try to dispel the image that it’s blocking competition through its deep partnership (and financial stake ..."
+    publishedDateTime: 2024-02-26T17:30:00Z
+    webUrl: "https://techcrunch.com/2024/02/26/microsoft-ai-access-principles-openai/"
+    ampWebUrl: "https://techcrunch.com/2024/02/26/microsoft-ai-access-principles-openai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/microsoft-ai-access-principles-openai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 99
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft invests in startup Mistral AI, outlines broader AI access principles"
+    excerpt: "The company announced a multi-year partnership and an investment of undisclosed size in French startup Mistral AI as an example of its approach. Mistral AI will be able to train and deploy its AI models via Microsoft’s data centers, and Microsoft will ..."
+    publishedDateTime: 2024-02-26T10:24:00Z
+    webUrl: "https://www.geekwire.com/2024/microsoft-invests-in-startup-mistral-ai-outlines-broader-ai-access-principles/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 80
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2024/02/msft-brad-smith-mwc.png"
+        width: 1241
+        height: 779
+        isCached: true
   - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup"
     excerpt: "Apart from Jeff Bezos and Nvidia, other technology companies are involved as well. Intel Corp.’s venture capital arm is pouring in $25 million, and LG Innotek is providing $8.5 million. Samsung’s investment group,"
     publishedDateTime: 2024-02-24T06:19:00Z
@@ -253,6 +283,6 @@ related:
       domain: propakistani.pk
     quality: 34
 
-secured: "7dhWBpe//yn1S8HRSMJ/n9+Ulq8fl22k0fv8kOOFEuYfgViPYrNuyCo+iiue0BZm0WtQbRnQyADzIhULaSUP5DRh3lCYSFuJ+ssKKziEoS0B1K+nhUpk8CZwxvA3vLrllgROG76R+w1yNZz2suZC8vs471I+jZ5gu/eqFJA0EC+o2BwxFsLC4kD9Us8KfakYljiJK9vSZszn/Q6VzaKe3Cii8m1L7UAKrTLeH1iADvJqJyuwkpcDrLHO/VgeAnDNUbxxU1KCn+HwfKoV6YCVnkBeVo8kDVKrlldXyf9e0FzIONxq53/SoKkS6S4g87fXrWrYJs68kTzdve+LmiEbS9u4UkkmwcIAfcy+2agbVNQ=;vc4SjhQ8PR5qgOez+5Zhog=="
+secured: "lgmCA7zBHt5x2ASWt1bCRGS6+UiD+be12/p1p4riGvJfCuBNV4gXLO5enXLn+eqEAPT9tMylX+2okbFZVFJsOpNBaT5wmt9xAXfL64e6xomuQEhRY0i3Qlm7dPa/PwKOjqfyspfSdJcsm6teTxfdH4PPhH4qX+p6xjV5mksbS645/a8QtPXfE0PejqflRZIrwLhOxaOIqJHzLtxhWGlenppgQboQmlY83VcHElfVMLFzNDB/IXC9FqTl+o9aMM8Gp3XtOAEuTfR/dJDG7TmWPZMQ4DVywCPiiiyN+ensxLTL3i/TkN55ik8Y74/uAS0wf6QZrx/5quCik1eAzt2hPCNaVxWVEXarLSmvO4FmQaC+K/p7yZmcEdLjsUYxZyi5zLnCR5OvEnePTtCVSfaNub7XwqRg4zEDcR91L4kTS2TLTrteFBlQhIUex+dV12QrENz69WmBCbzqMiWkCTf9Aq+jV/ln0aVT/CsLDNFNntrpTWhoDjA31/Nr2Wq+JFq0SAt8FPk753eyvyD/WTPi8A==;K6QV684tXBiwkH5A8FFBGA=="
 ---
 

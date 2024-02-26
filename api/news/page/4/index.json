@@ -2,100 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-02-22-empower-your-technical-staff-with-hands-on-technology-training.md",
-      "title": "Empower your technical staff with hands-on technology training",
-      "excerpt": "Holistic training includes hands-on, real-world experience that teaches your technical staff how to carry out their full mission.\nThe post Empower your technical staff with hands-on technology training appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/empower-your-technical-staff-with-hands-on-technology-training/",
-      "originalUrl": "https://www.ibm.com/blog/empower-your-technical-staff-with-hands-on-technology-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T20:29:15Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-google-is-killing-gmails-basic-html-view-in-2024.md",
-      "title": "Google is killing Gmail’s basic HTML view in 2024",
-      "excerpt": "Google is currently focusing on infusing AI-powered features into its products, including Gmail. Last month, the company launched a Duet AI feature to help users write emails. Last week, it allowed the Bard chatbot to integrate with Google accounts so you ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/",
-      "originalUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/",
-      "publishedDateTime": "2024-02-22T19:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-23-yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life.md",
       "title": "Yorba’s service is like Mint for uncluttering your entire digital life",
       "excerpt": "Spend enough time online, and you’ll collect a digital paper trail of accounts, logins, subscriptions, mailing lists, and passwords wrapped up in data breaches. A new startup called Yorba can help you get a better handle on your ever-expanding digital ...",
@@ -252,6 +158,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-23-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini.md",
+      "title": "Chrome gets a built-in AI writing tool powered by Gemini",
+      "excerpt": "Google Chrome is getting a new AI writing generator today. At its core, this Gemin-powered tool is essentially the existing \"Help me write\" feature from",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/",
+      "originalUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 379,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-981522310.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/amp/",
+      "publishedDateTime": "2024-02-22T17:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc.md",
       "title": "Explore cutting-edge AI solutions with Microsoft at NVIDIA GTC",
       "excerpt": "Join Microsoft at the NVIDIA GTC AI Conference March 18–21 at booth #1108 in San Jose, CA (or virtually) to discover how these cutting-edge Azure AI services and supercomputing infrastructure in the cloud can help power your AI transformation. \nThe post Explore cutting-edge AI solutions with Microsoft",
@@ -260,7 +218,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 404,
+      "heat": 414,
       "tags": null,
       "images": [
         {
@@ -416,7 +374,7 @@
       "originalUrl": "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -563,7 +521,7 @@
       "originalUrl": "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -978,7 +936,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1268,6 +1226,58 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-light-therapy-helps-ease-pain-for-cancer-patients.md",
+      "title": "Light therapy helps ease pain for cancer patients",
+      "excerpt": "Neck and head cancer patients will be able to seek a new treatment to ease the pain of radiotherapy and chemotherapy Cancer patients at a hospital trust have started using light therapy to help them with side effects caused by chemotherapy and radiotherapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo?at_format=link&at_campaign_type=owned&at_link_id=43992F9A-D147-11EE-8422-ED8E4B3AC5C4&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=bbchealth&at_link_type=web_link",
+      "originalUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo?at_format=link&at_campaign_type=owned&at_link_id=43992F9A-D147-11EE-8422-ED8E4B3AC5C4&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=bbchealth&at_link_type=web_link",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/246f/live/9faa1f10-d0f7-11ee-8a50-0f587568c5bc.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/cg3ee8xl96eo.amp",
+      "publishedDateTime": "2024-02-22T09:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

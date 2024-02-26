@@ -43,6 +43,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft announces ‘AI access principles’ to offset OpenAI competition concerns"
+    excerpt: "On the heels of Microsoft’s investment and partnership with French Large Language Model startup Mistral AI, the company continues to work hard to try to dispel the image that it’s blocking competition through its deep partnership (and financial stake ..."
+    publishedDateTime: 2024-02-26T17:30:00Z
+    webUrl: "https://techcrunch.com/2024/02/26/microsoft-ai-access-principles-openai/"
+    ampWebUrl: "https://techcrunch.com/2024/02/26/microsoft-ai-access-principles-openai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/microsoft-ai-access-principles-openai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 99
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft invests in startup Mistral AI, outlines broader AI access principles"
+    excerpt: "The company announced a multi-year partnership and an investment of undisclosed size in French startup Mistral AI as an example of its approach. Mistral AI will be able to train and deploy its AI models via Microsoft’s data centers, and Microsoft will ..."
+    publishedDateTime: 2024-02-26T10:24:00Z
+    webUrl: "https://www.geekwire.com/2024/microsoft-invests-in-startup-mistral-ai-outlines-broader-ai-access-principles/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 80
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2024/02/msft-brad-smith-mwc.png"
+        width: 1241
+        height: 779
+        isCached: true
   - title: "Microsoft invests in Europe's Mistral AI to expand beyond OpenAI"
     excerpt: "Microsoft on Monday announced a new partnership with French start-up Mistral AI – Europe's answer to ChatGPT maker OpenAI — as the U.S. tech giant seeks to expand its footprint in the fast-evolving artificial intelligence industry."
     publishedDateTime: 2024-02-26T16:40:00Z

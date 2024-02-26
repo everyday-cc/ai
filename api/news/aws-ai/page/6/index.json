@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-03-amazons-290-very-best-cyber-monday-2023-deals-you-cannot-miss.md",
+      "title": "Amazon’s 290+ Very Best Cyber Monday 2023 Deals You Cannot Miss",
+      "excerpt": "Laneige lip masks, Apple AirTags, and more holiday gifts are up to 80 percent off We independently evaluate all recommended products and services. If you click on links we provide, we may receive ...",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/best-amazon-cyber-monday-deals-2023-live-8391275",
+      "originalUrl": "https://people.com/best-amazon-cyber-monday-deals-2023-live-8391275",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T17:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-03-not-all-generative-ai-highlights-from-aws-reinvent.md",
       "title": "Not all generative AI: Highlights from AWS re:Invent",
       "excerpt": "While gen AI certainly stole the spotlight, my vote for the most intriguing news from AWS was its progress extending serverless functionality to various data services, including the Aurora relational database service, the Redshift cloud data warehouse, and the ElastiCache caching service.",
@@ -1226,40 +1260,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-amazon-q-is-an-ai-chatbot-for-businesses-and-aussies-can-test-it-now.md",
-      "title": "Amazon Q is an AI chatbot for businesses, and Aussies can test it now",
-      "excerpt": "AWS’s business intelligence platform. Amazon Q is also integrated with Amazon Connect, aiming to bolster customer service capabilities. It can be customised through proprietary data and tailored ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartcompany.com.au/technology/artificial-intelligence/aws-amazon-q-announcement-chatbot-business-australia/",
-      "originalUrl": "https://www.smartcompany.com.au/technology/artificial-intelligence/aws-amazon-q-announcement-chatbot-business-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartCompany",
-        "domain": "smartcompany.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

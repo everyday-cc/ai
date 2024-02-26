@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaiss
 webUrl: "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities/"
 type: article
 quality: 71
-heat: 75
+heat: 71
 published: true
 
 provider:

@@ -263,7 +263,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-career-advice-coach-gen-z-workers-get-ahead-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -509,6 +509,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-23-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini.md",
+      "title": "Chrome gets a built-in AI writing tool powered by Gemini",
+      "excerpt": "Google Chrome is getting a new AI writing generator today. At its core, this Gemin-powered tool is essentially the existing \"Help me write\" feature from",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/",
+      "originalUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 379,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-981522310.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/amp/",
+      "publishedDateTime": "2024-02-22T17:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows.md",
       "title": "Almost half of adults on TikTok have never posted a video, research shows",
       "excerpt": "Adults on TikTok lean camera-shy, a new study from Pew Research Center suggests. A survey of 2,745 adults who use TikTok revealed that 48% of respondents",
@@ -707,6 +759,59 @@
       "topics": [
         "Meta AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family.md",
+      "title": "Google goes “open AI” with Gemma, a free, open-weights chatbot family",
+      "excerpt": "Developed by Google DeepMind and other Google AI teams, Gemma pulls from techniques learned during the development of Gemini, which is the family name for Google's most capable (public-facing) commercial LLMs, including the ones that power its Gemini AI assistant. Google says the name comes from the Latin gemma, which means \"precious stone.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemma_header_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -1444,103 +1549,6 @@
         "AI",
         "AI in Security",
         "Microsoft AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-hartford-healthcare-launches-new-ai-center-to-help-with-operations.md",
-      "title": "Hartford Healthcare launches new AI center to help with operations",
-      "excerpt": "The new artifical intelligence center will be used to improve patient experience and hospital operations, officials said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
-      "originalUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.tegna-media.com/assets/WTIC/images/a8f77546-f60e-4fdd-9688-7514cc5133aa/a8f77546-f60e-4fdd-9688-7514cc5133aa_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
-      "cdnAmpWebUrl": "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
-      "publishedDateTime": "2024-02-15T17:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fox61",
-        "domain": "fox61.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai.md",
-      "title": "Google’s new AI hub in Paris proves that Google feels insecure about AI",
-      "excerpt": "Some of Azure’s products are focused on AI, but it’s a much larger cloud provider with clients that have nothing to do with the AI industry. So it’s not just a Google thing.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/",
-      "originalUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/APPROVED_NZ7_0176.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/amp/",
-      "publishedDateTime": "2024-02-15T17:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
         "Meta AI"
       ]
     }

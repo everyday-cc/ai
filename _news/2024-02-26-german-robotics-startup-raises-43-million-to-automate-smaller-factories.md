@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/amyfeldman/2024/02/26/german-robotics
 webUrl: "https://www.forbes.com/sites/amyfeldman/2024/02/26/german-robotics-startup-raises-43-million-to-automate-smaller-factories/"
 type: article
 quality: 98
-heat: 98
+heat: 102
 published: true
 
 provider:

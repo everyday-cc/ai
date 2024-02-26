@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Robots and happy workers: Productivity surge helps explain US economy’s surprising resilience"
+title: "Robots and happy workers: Productivity surge helps explain US economy's surprising resilience"
 excerpt: "Artificial intelligence, they note, is only beginning to penetrate ... Some workers supplanted by robots do often struggle to find new work and end up settling for lower pay. Yet history suggests that in the long run, technological improvements actually ..."
-publishedDateTime: 2024-02-26T00:06:00Z
-originalUrl: "https://www.westhawaiitoday.com/2024/02/26/business/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience/"
-webUrl: "https://www.westhawaiitoday.com/2024/02/26/business/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience/"
-ampWebUrl: "https://www.westhawaiitoday.com/2024/02/26/business/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience/amp/"
-cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2024/02/26/business/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience/amp/"
+publishedDateTime: 2024-02-25T23:59:00Z
+originalUrl: "https://heraldcourier.com/news/nation-world/business/economy/us-happy-workers-robots-productivity-economic-resilience-growth/article_2be88497-56b3-5dd9-8f9a-eb842591311d.html"
+webUrl: "https://heraldcourier.com/news/nation-world/business/economy/us-happy-workers-robots-productivity-economic-resilience-growth/article_2be88497-56b3-5dd9-8f9a-eb842591311d.html"
 type: article
-quality: 63
-heat: 73
-published: true
+quality: 43
+heat: 43
+published: false
 
 provider:
-  name: West Hawaii Today
-  domain: westhawaiitoday.com
+  name: Bristol Herald Courier
+  domain: heraldcourier.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.westhawaiitoday.com/wp-content/uploads/2024/02/web1_robots-and-workers-1.jpg"
-    width: 760
-    height: 507
+  - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/2/be/2be88497-56b3-5dd9-8f9a-eb842591311d/65dbda23d1707.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -37,6 +35,6 @@ related:
       domain: gwcommonwealth.com
     quality: 23
 
-secured: "qOxKwZWfRAQWxofVHGXmvEl6HPTGMc3RcgrclPWrem3vre+y7VEZR5MQiIe/63+dxQ37X8uX6hi3/Lsg985OR7KoYo/xP6wp2sHGqA+myAWGWnz7WTYG9X1ul8Uw21H5pKGUpVjpcWLYHxa5yibkiQhwVYALNOQNlGkiIKsFZRhomrOq8/ech7d/RX/ZQBNTwwYJbHiiI7F90+IIS1sGxdxRul5viIeUQL/TTXKUWmBiEvn5Veq7vbB1KbTbCaFp4rMD53vsVbIP74H8WDGyd467ejq/08mooBQayYNsM3aieny/aWH0mzk5lqbtPY5yYRPG00HsZLhYyNFlD0EcADwFjqwSYDzPNWOEniHsV42yLJZpK0nm+rzPwlux9juztm0ZyDCpcSyVYOV9Qw57Ob76BFm36ZEVjO5EK+Gilh650kCQtte7GnJjpUky5J/nHZQfhg9hevjLQ5zE51N/Gy7CW5+QbFmlwwiEvMKcWRZDiR3zNIBz9h9hgSzAPRXwSiz2G9gZ+ZCa9ltuqEKlrA==;pVTv8Jm5udqnyEa67ZIHFw=="
+secured: "Fwp+YNJylCEYmvguM8AAug8jT1XcqCAqQxVN3MsMOTqCKWrg8AfZ5Jivmk0Pak/AxDgbLtRYPte/sxgPhclQq5vGFu3jV9Xm2E6xzvvcpE2W4QcNEqjS2STFBbrnK1dVEivJFeKY1HbRsPk0tlvUT26gNxFL3kghe1oUYC8ja1N3fpplOHB2wkTYoxZ8VoG2XrYsTBSsWBAnZ+DCxF2FI8shQVoBUPIW+8pIm/idf8xAbPY0jlJRmqwU1oKKaLGdRa39sZbwRa6+VT2JEsSA9cw3EjhvpNGLglWZO0AcU1HuboGnYkUYFRH64SPpeVxgVKiCiRd53bxdt33qpsElFnloArQXQQj1stzhm4OICz0=;fKeNDbk8ZuGbDi3kpBQRgA=="
 ---
 

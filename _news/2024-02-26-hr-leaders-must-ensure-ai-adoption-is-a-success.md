@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
+  - title: "What every business leader should know about artificial intelligence, automation and accounting"
+    excerpt: "It’s not uncommon for a business to have different software systems that don’t share information because they operate in silos. An executive could pull data from Enterprise Resource Planning and Customer Relationship Management systems but because the ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.bizjournals.com/bizjournals/news/2024/02/26/what-every-business-leader-should-know-about-a-i.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 7
 
 secured: "WmH1SKpy9qaYiQuov47UhmNI3lPIg7Co1UZtiHmej1K4szV7JkS1SBRxHmcOmOjviSkZm12YyRL/me6dE0I5j+cD8EXXZcKOTB9SuYBN1akiNcMHJGjdf/shgB3/eWZFK8j3OsAZE/X3ljbp/NXWGAOoUP+1LILt2QRvsC6fiwyHqSE6XYcZKCoCpeySTsTz3l/UBEWqUZkZVbAGBfVuhGkyhTPTEI0Qw2oX5i1FRnugsiRO77uZQjAzGgqunVgLkIYkxzj3PWSkLak2VbeZWhdLlxMqQo97hbPKkIIaGA5vW9FMfQRmHliA9zkzijXpPQ/BigcW/o1/bKDW3KUqCFQIuQLbR+ZF8TOc8wy86KU=;knEZx+cwAVTkT8HwR/4HWw=="
 ---

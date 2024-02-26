@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/cruise-may-resume-self-driving-taxi-tes
 webUrl: "https://www.pcmag.com/news/cruise-may-resume-self-driving-taxi-tests-in-texas-soon"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: PC Magazine
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving taxis suspended in L.A., NorCal"
-    excerpt: "Self-driving car company Waymo may no longer offer rides in its robotaxis after the California Public Utilities Commission suspended their ability to transport members of the public. According to ..."
-    publishedDateTime: 2024-02-21T18:13:00Z
-    webUrl: "https://ktla.com/news/local-news/self-driving-taxis-suspended-in-l-a-norcal/"
-    ampWebUrl: "https://ktla.com/news/local-news/self-driving-taxis-suspended-in-l-a-norcal/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/self-driving-taxis-suspended-in-l-a-norcal/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 44
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2018/12/promo368224873.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "GM Tries to Get Back Into Self-Driving Cars After Major Failure"
     excerpt: "The self-driving car business of General Motors Co. (NYSE: GM) seemed to have a permanent setback when one of its Cruise vehicles badly injured a woman in San Francisco last October 2. To make matters worse, the California Department of Motor Vehicles said ..."
     publishedDateTime: 2024-02-23T07:15:00Z

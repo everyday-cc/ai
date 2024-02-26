@@ -8,8 +8,8 @@ webUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intelligenc
 ampWebUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
 type: article
-quality: 57
-heat: 77
+quality: 59
+heat: 79
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.securityweek.com/wp-content/uploads/2024/02/Elia-Zaitsev-Crowdstrike.jpeg"

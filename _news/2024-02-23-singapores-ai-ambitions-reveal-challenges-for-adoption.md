@@ -37,6 +37,15 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "What every business leader should know about artificial intelligence, automation and accounting"
+    excerpt: "It’s not uncommon for a business to have different software systems that don’t share information because they operate in silos. An executive could pull data from Enterprise Resource Planning and Customer Relationship Management systems but because the ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.bizjournals.com/bizjournals/news/2024/02/26/what-every-business-leader-should-know-about-a-i.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 7
 
 secured: "nZhV15vqpteqfQURNvMLtfNLPX+HxqYZyGKJECd7VJ0++1x/XKzNHnOgV0NniBMT5ih0N8aRomrzVvdI/86vjMUzB2TcP2Azexqj1ipVdiXXF8dRsHBs//xH6KEgGgBKOqGg+pbguDpPxAtr/QsDmFl1eA5A4KCNyMdkTF+jtGBkX7UOoMpQfUU1RRYiksk5sUuc/rsSX2ydx4971u5ZknAneEYahd4KA45atyoqYXaocS32Rdm5V24Lqhn2K8GjFN6U4PhLy4xsY7Ljy4sV1atu41DLVbFE2lD8F0AIgdv7Ay8at4TRvub52BSO2XNnuwWqC4PrgoWbO3wrXRsifpzU6YKECDiwvJLWAagoXU8ut5u6ZzbSPdFNYIh7WwlVXl/o0R4ZSDhXc7rZwuq4H0S1ooG6CKm8ywsW1mV4tVDuJgGHTS3l4QjTc966Uo/P6B/gQ8nb+Gpnrqfmz/yShjyO5f/BV3Vn/VxKRWrxoge7trGT6aAl2FxVOmx3RlfNpPmtWHYsQM6+tXjdDVL3Jg==;qsOMg34pcSCSMoK42FrTwQ=="
 ---

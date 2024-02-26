@@ -39,22 +39,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Self-driving taxis suspended in L.A., NorCal"
-    excerpt: "Self-driving car company Waymo may no longer offer rides in its robotaxis after the California Public Utilities Commission suspended their ability to transport members of the public. According to ..."
-    publishedDateTime: 2024-02-21T18:13:00Z
-    webUrl: "https://ktla.com/news/local-news/self-driving-taxis-suspended-in-l-a-norcal/"
-    ampWebUrl: "https://ktla.com/news/local-news/self-driving-taxis-suspended-in-l-a-norcal/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/self-driving-taxis-suspended-in-l-a-norcal/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 44
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2018/12/promo368224873.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "UqLevN1agPT8x/GVd+LdeAllcpatb2hT0UW4q2eOefEIqUIG5XqB2GGLz29eHGvDj8CGnnWD0zLbIhvAf9/pN9KdHWsXDyFQZapbaYbuwADbg/gV9HmwMuSjwwFFegJuH0L8huMjisno53x0o4KLvI5/RNZKI0B4oQw2/XXykLRIkcz/rd6XFXktaiyFjzjqYI83ZLr1jOoKd/yLzvHcT65ILp/oipRaS5JI09uNBqJ0+pELlisDfU7vsWwd3Cforz0fHR/WsD06chZDbQ4iHo7hkJYTBnPg/sSrs91iExeuEFnHa5tTeNzcxnvOM+llabDjgNK9+QmM4d7Bwr2IgV3M0Hw3gnTpfKHfki8vE8dZMwT0mVIsfqAqWKlO9r8xpwTPsURoOZ7vnXsgc/bwxGojCn4DTM5dIkgTkEPz8fYgClyd9XV+XldoxBJwdR/Z5IaW+zhpOMtkvfi8E3+9eYOn/s/ztd7d9oZJoGh+zvc8O4r437Kgkf2nHhYOzOxPpq2PRR/RAmYpLnXzWKjuqg==;BW/W8WG4b0lPU55uW7zXDA=="
 ---

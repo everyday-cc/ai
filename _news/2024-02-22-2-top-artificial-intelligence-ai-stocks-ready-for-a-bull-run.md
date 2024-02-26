@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/02/22/artificial-intelligence-
 webUrl: "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15992_1015.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
-    excerpt: "A boom in artificial intelligence (AI ... AI can potentially boost countless industries, from healthcare to consumer tech, education, e-commerce, cloud computing, autonomous vehicles, and much more. With growth catalysts across multiple sectors, it ..."
-    publishedDateTime: 2024-02-21T18:20:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/24233681/2-artificial-intelligence-ai-stocks-that-could-help-set-you-up-for-life/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 53
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8c8a7cbccab823193093a641261da5e5/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f1f92897a92b71053db3792cf336284b1.png%26amp%3Bw%3D700"
-        width: 720
-        height: 456
         isCached: true
   - title: "2 Millionaire-Maker Artificial Intelligence (AI) Stocks"
     excerpt: "One big reason why: The current bull market, and, in particular, the artificial intelligence (AI) stocks that are powering it higher. So, let's take a look at two millionaire-maker AI stocks that still have plenty of room to run. These stocks may not be ..."

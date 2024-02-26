@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-09-baker-tillys-expertise-in-forensic-investigation-using-data-science-helps-pharmacy-chain-uncover-pricing-error.md",
+      "title": "Baker Tilly's Expertise in Forensic Investigation Using Data Science Helps Pharmacy Chain Uncover Pricing Error",
+      "excerpt": "NORTHAMPTON, MA / ACCESSWIRE / February 8, 2024 / Baker TillyClient backgroundThe client is a regional pharmacy chain with 25 locations throughout three states.The business challengeAfter multiple mon",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61361667-baker-tilly-s-expertise-in-forensic-investigation-using-data-science-helps-pharmacy-chain-uncover-pricing-error-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61361667-baker-tilly-s-expertise-in-forensic-investigation-using-data-science-helps-pharmacy-chain-uncover-pricing-error-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T19:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock.md",
       "title": "Automate the insurance claim lifecycle using Agents and Knowledge Bases for Amazon Bedrock",
       "excerpt": "Generative AI agents are a versatile and powerful tool for large enterprises. They can enhance operational efficiency, customer service, and decision-making while reducing costs and enabling innovation. These agents excel at automating a wide range of routine and repetitive tasks, such as data entry,",
@@ -1342,59 +1376,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-nvidia-teams-up-with-equinix-to-bring-generative-ai-training-to-data-centers.md",
-      "title": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers",
-      "excerpt": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers Your email has been sent Equinix Private AI can now run on NVIDIA DGX, a supercomputing platform for enterprise AI. Customers are asking for secure AI that can use current data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/",
-      "originalUrl": "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/01/tr_20240125-nvidia-equinix-generative-ai-stack-data-centers.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration enters debate on ‘open’ versus ‘closed’ artificial-intelligence systems"
-    excerpt: "President Joe Biden signs an executive order on artificial intelligence in the East Room of the White House in Washington on Oct. 30, 2023. The Biden administration is wading into a contentious debate about whether the most powerful artificial ..."
-    publishedDateTime: 2024-02-21T18:33:00Z
-    webUrl: "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://images.mktw.net/im-66491774/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "White House Wades Into Debate on ‘Open’ Versus ‘Closed’ Artificial Intelligence Systems"
     excerpt: "White House seeks comments on the risks and benefits of having an AI system’s key components publicly available for anyone to use and modify."
     publishedDateTime: 2024-02-24T19:24:00Z

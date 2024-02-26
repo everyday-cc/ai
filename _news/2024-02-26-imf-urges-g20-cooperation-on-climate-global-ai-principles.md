@@ -45,6 +45,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "US Military Utilizes AI In Middle East Operations: 'We've Been Using Computer Vision'"
+    excerpt: "Military confirms use of AI in airstrikes in Middle East, highlighting its growing role in combat operations & future of warfare."
+    publishedDateTime: 2024-02-26T18:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/us-military-utilizes-ai-in-middle-east-operations-we-ve-been-using-computer-vision-1033104022"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/battlefield-ai.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "VA puts AI use cases into ‘operational phase’ to meet its health care mission"
     excerpt: "VA has identified over 100 AI use cases so far. VA Chief Technology Officer Charles Worthington told members of the House VA Committee last week that 40 of them are in an “operational phase,” and being put to use in the field."
     publishedDateTime: 2024-02-23T02:01:00Z

@@ -179,20 +179,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft to Use Intel for In-House Custom AI Chip"
-    excerpt: "Microsoft revealed that the software giant will use Intel's 18A process to produce at least one of its new, in-house AI chip designs."
-    publishedDateTime: 2024-02-21T17:21:00Z
-    webUrl: "https://www.thurrott.com/a-i/298158/microsoft-to-use-intel-for-in-house-custom-ai-chip"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 71
-    images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/intel-soc.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "AWS Storage VP leaves for Microsoft Azure"
     excerpt: "Amazon Web Services Vice President of AWS Infrastructure Hardware Ahmed Shihab has left the company to go to cloud computing rival Microsoft Azure. Shihab was responsible for the innovation, building and operation of all of AWS’ storage and compute systems,"
     publishedDateTime: 2024-02-23T05:15:00Z
@@ -235,6 +221,34 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Canada’s Seneca Polytechnic set to integrate Microsoft Azure AI"
+    excerpt: "Seneca Polytechnic announced it will integrate Azure OpenAI to develop an AI tutor that supports enhanced learning of course material and simulated, personalized job interviews based on job postings. Seneca students will be among the first in Canada to ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.ecampusnews.com/innovation-insights/2024/02/26/microsoft-azure-integrated-seneca-polytecnic/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 69
+    images:
+      - url: "https://www.ecampusnews.com/files/2024/02/Screen-Shot-2024-02-23-at-12.01.48-PM.png"
+        width: 745
+        height: 552
+        isCached: true
+  - title: "Microsoft partners with Mistral AI in Azure supercomputing deal"
+    excerpt: "Microsoft has entered into a partnership with French generative AI lab Mistral AI to help commercialize its new generative AI language models. As part of the deal, Microsoft will support the company with Azure AI supercomputing infrastructure, including ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-partners-with-mistral-ai-in-azure-supercomputing-deal/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 69
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft teams up with Mistral to bring start-up's AI model on Azure"
     excerpt: "and code generation — is available through Azure AI Studio and Azure Machine Learning. Mistral added that the AI model achieves strong results on commonly used benchmarks, making it the world's second-ranked model generally available through an API ..."
     publishedDateTime: 2024-02-26T15:23:00Z
@@ -262,6 +276,20 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/King-County--Washington--United-States--_6.jpeg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Microsoft partners with French startup Mistral AI"
+    excerpt: "Paris: Microsoft said on Monday it had partnered with French startup Mistral AI, as the software giant seeks to tighten its grip on the emerging technology. The US firm, which has already ploughed billions into ChatGPT maker OpenAI, called Mistral \"an ..."
+    publishedDateTime: 2024-02-26T17:59:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/26/02/2024/microsoft-partners-with-french-startup-mistral-ai"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 54
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20240226_1708970117-283.jpg?1708970117"
+        width: 1024
+        height: 575
         isCached: true
   - title: "AWS Storage VP Leaves For Microsoft Azure"
     excerpt: "AWS and Microsoft Azure compete heavily in several massive tech industries such as cloud computing, artificial intelligence and cloud storage, including in object, file and block storage. For example, AWS is the world’s market-share leader in cloud ..."
@@ -337,20 +365,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Icreate, Microsoft, IT Ministry To Skill 11K Innovators, Startups In AI In India"
-    excerpt: "Microsoft India and iCreate (the International Centre for Entrepreneurship and Technology) will provide AI skilling opportun"
-    publishedDateTime: 2024-02-21T18:15:00Z
-    webUrl: "https://menafn.com/1107880779/Icreate-Microsoft-IT-Ministry-To-Skill-11K-Innovators-Startups-In-AI-In-India"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 49
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/21/I_0a5d1image_story.jpg"
-        width: 299
-        height: 201
-        isCached: true
   - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
     excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."
     publishedDateTime: 2024-02-22T12:30:00Z
@@ -420,6 +434,6 @@ related:
       domain: geeky-gadgets.com
     quality: 19
 
-secured: "6QeGjWg5T8qxyCQue47+pQOQYervBzNqH8D0hBcopMsCThKdQmjPkNB8KO+gf7NEQqgLqlQcUaGX+qtloBPmPuFyv0KxxLfF5wy6eojc9LtDjjKRHs56GxjX27JZWimWkgJ4bpZRa8PXYrWJTAgFkDscAR07egGJ3IxS0Lv6O1dwUa2khbBAkHYmCuKdwbqJ3d/ZF9NkmSwiFJlOZx6aOmRZoAyCdAZGUvqhwrqLtq7Lq30M5U+yjNAQNDjbRdECcQNpd4FFoZpWZ647+iv4F1s0aXTQ8lCmsoT+Bfj4Fbu1pKKnuA2uttU9KbL897+PsKk0H0Qm6p/fkF3m5Lu9Zu7evWSLi6qQxZvRaPr1eH8=;msYHFhMfUzd6TUHu096yEA=="
+secured: "wIdLBQHFhMgulydZV/HxmvMctsuVOGsWZjVV+IoPHVJ254/QSU7EBPzcBaYvFH8W+TMXiWmwYEAhbwbkWkjFXhANFOjhK+oba4NQQxuFb546AgU7R01q8pVpgN0xytqPHxssNkXVMr4oVbn/tZe5E9YQNfS2Pk3V9az07PWjfgcY9XMjRoRxQUmc8vqe27yfuJdyUNUU3N6G93d0c0gipeoGxCLURdLwqSPXPgQX+rPBF9LqKAyF5x3qdLAUPwB+K7JKb8c4InLjYEoZ1vD2icgGQHsUK+qgysmZ9/nEbXjNCs3tQF/yqiFg61EYJjk4BdAUqjVdVFcatW3ep5upOpHPWTRfpsqIZc0CiXWLsXJJ3/pdjFlw4xwOGkShgtnHedf86n4RqSZey8VWAU6Y6gDLmE61Xov6UTbtZshz1/zVydT9aB7OUv5cq1rjsrSp7J+P3qIpc28C0sB/3b+dLXIDpn1ZyhvZtD/x2PjL5I7WB41AoczS7OhE6K1nrV0oKsm84UPrFJk3JriGnDOcOw==;arYFyatm+x/XZH+TX7q6QQ=="
 ---
 

@@ -2,110 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-12-15-gm-self-driving-arm-cruise-is-laying-off-24-of-its-workforce.md",
-      "title": "GM self-driving arm Cruise is laying off 24% of its workforce",
-      "excerpt": "A Cruise self-driving car, which is owned by General Motors Corp, is seen outside the company's headquarters in San Francisco where it does most of its testing, in California, U.S., September 26 ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2023/12/14/tech/gm-cruise-layoffs/index.html",
-      "originalUrl": "https://edition.cnn.com/2023/12/14/tech/gm-cruise-layoffs/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/2023-11-20t222000z-618296731-rc29h4acjneq-rtrmadp-3-gm-cruise-cofounder.JPG?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/14/tech/gm-cruise-layoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/14/tech/gm-cruise-layoffs/index.html",
-      "publishedDateTime": "2023-12-14T19:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs.md",
-      "title": "Cruise slashes 24% of self-driving car workforce in sweeping layoffs",
-      "excerpt": "Cruise, the embattled GM self-driving car subsidiary, is laying off 900 employees to slash costs and attempt to revamp the company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/",
-      "originalUrl": "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741",
-          "width": 1200,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/",
-      "publishedDateTime": "2023-12-14T15:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-14-2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it.md",
       "title": "2023: The year we played with artificial intelligence — and weren’t sure what to do about it",
       "excerpt": "Artificial intelligence went mainstream in ... of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri ...",
@@ -1349,6 +1245,92 @@
         "name": "The Mirror",
         "domain": "mirror.co.uk",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-driving-expert-uses-artificial-intelligence-to-predict-how-cars-will-appear-in-the-future.md",
+      "title": "Driving expert uses artificial intelligence to predict how cars will appear in the future",
+      "excerpt": "As artificial intelligence becomes more capable ... cars will be like in the future is very lively – there is often news about how close we are to self-driving cars, or even cars that can fly. “However, it’s not easy to imagine how this highly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology",
+      "originalUrl": "https://www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/1842519_1.jpg",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology/amp",
+      "publishedDateTime": "2023-12-05T22:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-waymo-is-full-speed-ahead-as-safety-incidents-and-regulators-stymie-competitor-cruise.md",
+      "title": "Waymo is full speed ahead as safety incidents and regulators stymie competitor Cruise",
+      "excerpt": "Waymo, Alphabet's self-driving car unit, is having a relatively good couple of months – at least, compared to one of its key rivals: GM's Cruise. Formerly known as the Google self-driving car ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/12/05/waymo-chief-product-officer-on-progress-competition-vs-cruise.html",
+      "originalUrl": "https://www.cnbc.com/2023/12/05/waymo-chief-product-officer-on-progress-competition-vs-cruise.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T19:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
