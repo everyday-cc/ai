@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/deep-learning-model-accurately-
 webUrl: "https://healthitanalytics.com/news/deep-learning-model-accurately-detects-predicts-alzheimers-disease"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 690
     height: 400
     isCached: true
+
+related:
+  - title: "AI Predicts Alzheimer's Disease Risk Seven Years in Advance"
+    excerpt: "Researchers at the University of California, San Francisco (UCSF) recently developed an AI algorithm that can identify patients at risk for developing Alzheimer’s disease up to seven years in advance,"
+    publishedDateTime: 2024-02-25T16:09:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202402/ai-predicts-alzheimers-disease-risk-seven-years-in-advance"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202402/ai-predicts-alzheimers-disease-risk-seven-years-in-advance?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202402/ai-predicts-alzheimers-disease-risk-seven-years-in-advance?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/pic82.jpg?itok=O9MiiRMv"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "Jos4dfZfB/neNLoC5uHp98Zy2civVvni3unLpUdObE/nEKXvy1c7CRxvri4TbG1ejhjlrrusYTsxKTXjtpahRFeZDEn6fdZEdHDPNRrbiayKA0Lv7eAC4vqOceVJU5hkzjK8BknUkSdH8W31B1LxbuStQdu1Wb0kxMOL7boGZ/UFC7505PqSDeE3VuNl7mCnO9KosVbX2viax9rJvxrZIN5cFJlXfBQp6KBONAc3kGvNcpzXOxFH2y0m/EYGMec8HIJbixm5jwgT1+BaKz5u1Zayza448CY67Leqq6H7QatQFuNHUvN3BW58j3FsHYJvptitEdI2KHTkaimsEgEb+I7qaN0WlKDPw9R28KApP7o/F+dBRdAY8js4ZFvASg3vAbPOhZT9kUchj3SOmCRrAv66d7gMl8e1uvWd9tUykFgJY4Ec0vceE+O7TVMli8YO4NYsXNROZHbFYljIOkSskx45tmXQx78Q8XP3nmP94iKmxbXt5jPo2Rm9puJBkst/Dugl9CLsLK4dJls28pU7Ig==;4NttB7+zec+q05hO34UgRQ=="
 ---

@@ -201,21 +201,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-22-federal-and-state-lawmakers-launch-ai-task-forces-ai-the-washington-report.md",
-      "title": "Federal and State Lawmakers Launch AI Task Forces — AI: The Washington Report",
-      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
+      "path": "_news/2024-02-22-how-a-new-bipartisan-task-force-is-thinking-about-artificial-intelligence.md",
+      "title": "How a New Bipartisan Task Force Is Thinking About Artificial Intelligence",
+      "excerpt": "On Tuesday, speaker of the House of Representatives Mike Johnson and Democratic leader Hakeem Jeffries launched a bipartisan Task Force on Artificial Intelligence. Johnson, a Louisiana Republican ...",
       "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report",
-      "originalUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report",
+      "webUrl": "https://time.com/6727264/house-artificial-intelligence-task-force/",
+      "originalUrl": "https://time.com/6727264/house-artificial-intelligence-task-force/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 98,
       "tags": null,
       "images": [
         {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI-Artificial-Intelligence-Abstract-Art-367016941_1.jpg?h=c4779ecb&itok=G8TpDj02",
-          "width": 602,
-          "height": 300,
+          "url": "https://api.time.com/wp-content/uploads/2024/02/congress-ai-2024.jpg?quality=85",
+          "width": 2400,
+          "height": 1601,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -223,14 +223,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp",
-      "publishedDateTime": "2024-02-22T00:00:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T22:40:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -301,8 +310,8 @@
       "title": "Availity Issues Statement of Principles on Artificial Intelligence in Healthcare",
       "excerpt": "Availity, the nation's largest real-time health information network, issued the company's Responsible Artificial Intelligence (AI) Principles. The principles represent Availity's commitment to the development, integration, and deployment of AI-powered tools to maximize meaningful and beneficial use in the delivery of healthcare.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

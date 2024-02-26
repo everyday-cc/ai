@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-02-roboxchange-examines-real-world-operational-challenges-and-new-brains-for-robots.md",
+      "title": "RoboXchange examines real-world operational challenges and new brains for robots",
+      "excerpt": "At the first MassRobotics RoboXchange, Locus Robotics shared tips on warehouse challenges, and Opteran showed a new navigational approach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/roboxchange-examines-real-world-operational-challenges-new-brains-for-robots/",
+      "originalUrl": "https://www.therobotreport.com/roboxchange-examines-real-world-operational-challenges-new-brains-for-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/IMG_0053.jpg",
+          "width": 770,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-i-tested-a-next-gen-ai-assistant-it-will-blow-you-away.md",
+      "title": "I Tested a Next-Gen AI Assistant. It Will Blow You Away",
+      "excerpt": "WIRED experimented with a new form of voice assistant that can browse the web and perform tasks online. Siri, Alexa, and other virtual helpers could soon be much more powerful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65baf73038f4406f11e1a29c/191:100/w_1280,c_limit/business_ai_voice_assistant.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-combining-robotics-and-ai-to-create-humanoid-robots.md",
       "title": "Combining robotics and AI to create humanoid robots",
       "excerpt": "The fusion of robotics and artificial intelligence (AI) to create humanoid robots represents a frontier of innovation that captivates both the imagination",
@@ -1241,101 +1336,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-agritech-startup-raises-39m-for-autonomous-farming-platform.md",
-      "title": "AgriTech Startup Raises $39M For Autonomous Farming Platform",
-      "excerpt": "An agritech startup has raised $39 million for its autonomous tractor and farming solution, which reduces the cost of crop production",
-      "sourceUrl": null,
-      "webUrl": "https://nocamels.com/2024/01/agritech-startup-raises-39m-for-autonomous-farming-platform/",
-      "originalUrl": "https://nocamels.com/2024/01/agritech-startup-raises-39m-for-autonomous-farming-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nocamels.com/wp-content/uploads/2021/10/tractor1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-eve-the-robot-can-cook-clean-and-guard-your-home.md",
-      "title": "Eve the robot can cook, clean and guard your home",
-      "excerpt": "Kurt “CyberGuy\" Knutsson introduces you to EVE, a smart and versatile humanoid robot that uses a modified version of AI and Chat GPT-4 to handle a variety of tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home",
-      "originalUrl": "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed7f3ed3-7b32-4095-b15c-1b79086a972d/cf9675d4-15da-4a5b-ae91-590bbce4449c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home.amp",
-      "publishedDateTime": "2024-01-23T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

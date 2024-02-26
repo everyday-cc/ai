@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-26-astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain.md",
+      "title": "AstraAI: Redefining Innovation with the Ultimate AI Ecosystem in Blockchain",
+      "excerpt": "As AstraAI continues on its path of groundbreaking advancements, it is clear that the platform is not just participating in the blockchain and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-1033100075",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-1033100075",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/QnKXxXlezgzKCQkNJT1UWPIIz9jsLH7CdUAF4SwYzJwpetjMz4PPmwNINISZ-eZoeSRgRsZDofFVchvM-l0ZMqAqc-MI0DKCj1vD46GZm4qldNuOxhhh8eJEcAiRRLZUTfHl0MizY7WBdSEryBPaOow",
+          "width": 1060,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T04:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot.md",
       "title": "Razorpay surpasses $150 bn in TPV, unveils new payment gateway & AI chatbot",
       "excerpt": "Bengaluru, Feb 23 (IANS) Fintech major Razorpay on Friday announced it has achieved an annualised total payment volume (TPV) of $150 billion, and unveiled several new features including an AI chatbot. The company also launched ‘Payment Gateway 3.0 ...",
@@ -1388,49 +1440,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-elevating-financial-services-in-digital-age-hybrid-multicloud-approach.md",
-      "title": "Elevating financial services in digital age: Hybrid multicloud approach",
-      "excerpt": "While, traditionally, the financial services sector has taken a cautious approach to cloud adoption, the tide is turning, and adoption rates are accelerating across all cloud models.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/cloud-computing/elevating-financial-services-in-digital-age-hybrid-multicloud-approach/107553675",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/cloud-computing/elevating-financial-services-in-digital-age-hybrid-multicloud-approach/107553675",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-107553675,imgsize-220788,width-1200,height=765,overlay-etcio/cloud-computing/elevating-financial-services-in-digital-age-hybrid-multicloud-approach.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T09:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

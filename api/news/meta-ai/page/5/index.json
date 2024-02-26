@@ -2,6 +2,164 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-20-the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat.md",
+      "title": "The widening web of effective altruism in AI security | The AI Beat",
+      "excerpt": "A follow up on a VentureBeat story last week adds context about the web of effective altruism connections in AI security circles.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-18-16.54.03-An-abstract-illustration-depicting-the-web-of-power-over-AI-security.-The-image-shows-a-complex-network-of-interconnected-metallic-threads-forming-a-.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T17:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-why-an-ai-pioneer-is-worried.md",
+      "title": "Why an AI Pioneer Is Worried",
+      "excerpt": "This approach, known as deep learning, was on the fringes of AI research for a long time ... which could be useful in Facebook or e-commerce, but it could also be a little bit disturbing. We don't want to be manipulated behind our back.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/podcasts/the-journal/why-an-ai-pioneer-is-worried/8a11f1da-14e3-447f-904a-89818c3e36c7",
+      "originalUrl": "https://www.wsj.com/podcasts/the-journal/why-an-ai-pioneer-is-worried/8a11f1da-14e3-447f-904a-89818c3e36c7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-853641?width=1280",
+          "width": 1280,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-19-non-tech-stocks-that-could-see-shares-rise-on-ai-hype-stifel.md",
+      "title": "19 non-tech stocks that could see shares rise on AI hype: Stifel",
+      "excerpt": "The more AI is mentioned in earnings calls, the higher shares have gone in 2023, according to Stifel. Here are the 19 consumer stocks talking about AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12",
+      "originalUrl": "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/657cbd210ec98e92f7502b0a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-facebook-whistleblower-docs-how-ai-is-hurting-india-and-indians.md",
       "title": "Facebook whistleblower docs: How AI is hurting India – and Indians",
       "excerpt": "Users need to understand that since many platforms are developed outside of India, their preparedness to understand and manage nuances of language, culture, and regions fall short. Engineers are playi",
@@ -1210,154 +1368,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-surprise-warren-buffett-has-bet-over-176-billion-in-3-artificial-intelligence-ai-growth-stocks.md",
-      "title": "Surprise! Warren Buffett Has Bet Over $176 Billion in 3 Artificial Intelligence (AI) Growth Stocks",
-      "excerpt": "He went on to say, \"We've been doing research across a wide range of AI technologies ... director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/02/surprise-warren-buffett-has-bet-over-176-billion-i/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/02/surprise-warren-buffett-has-bet-over-176-billion-i/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/756245/buffett1-tmf.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-02T05:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-china-open-sources-deepseek-llm-outperforms-llama-2-and-claude-2.md",
-      "title": "China Open Sources DeepSeek LLM, Outperforms Llama 2 and Claude-2",
-      "excerpt": "DeepSeek, a company based in China which aims to “unravel the mystery of AGI with curiosity,” has released DeepSeek LLM with 67B parameters.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/china-open-sources-deepseek-llm-outperforms-llama-2-and-claude-2/",
-      "originalUrl": "https://analyticsindiamag.com/china-open-sources-deepseek-llm-outperforms-llama-2-and-claude-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2023/12/Screenshot-2023-12-01-at-3.46.51-PM.png",
-          "width": 1824,
-          "height": 948,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T10:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-meta-ai-chief-yann-lecun-on-his-open-source-mission-and-the-surprise-of-chatgpt.md",
-      "title": "Meta AI Chief Yann LeCun On His Open Source Mission And The ‘Surprise’ Of ChatGPT",
-      "excerpt": "Launched as Facebook AI Research in 2013 (the F was later changed to “Fundamental” after the company rebranded as Meta two years ago), the unit set out to pioneer scientific breakthroughs in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardnieva/2023/11/30/meta-ai-yann-lecun-fair-10th-anniversary/",
-      "originalUrl": "https://www.forbes.com/sites/richardnieva/2023/11/30/meta-ai-yann-lecun-fair-10th-anniversary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6568bd595b086434ff875bef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T18:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

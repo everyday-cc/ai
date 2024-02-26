@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-13-chatgpt-maker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous.md",
+      "title": "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous",
+      "excerpt": "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2024/02/13/1600x900/FILES-SEMICONDUCTORS-OPENAI-semiconductors-US-UAE-_1707821720835_1707821721048.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "publishedDateTime": "2024-02-13T10:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-why-young-chinese-women-are-dumping-real-men-for-ai-boyfriends.md",
       "title": "Why young Chinese women are 'dumping' real men for AI boyfriends",
       "excerpt": "Discover why young Chinese women are choosing AI boyfriends over real men. Explore the rise of virtual connections and the adaptability of artificial intelligence in meeting their emotional needs. Learn about the concerns surrounding user privacy in this booming industry.",
@@ -1229,49 +1274,6 @@
       "provider": {
         "name": "The Globe and Mail",
         "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-driverless-cars-covered-5x-more-test-miles-in-california-in-2023.md",
-      "title": "Driverless cars covered 5x more test miles in California in 2023",
-      "excerpt": "Completely driverless vehicles traveled nearly 3.3 million miles in California last year, over five times the previous year's total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Friday showed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/driverless-cars-covered-5x-more-233656256.html",
-      "originalUrl": "https://www.aol.com/news/driverless-cars-covered-5x-more-233656256.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_reuters_29/e67721439a55e6e8b4da51332dec4403",
-          "width": 800,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T06:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null

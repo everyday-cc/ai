@@ -62,7 +62,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -93,49 +93,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse.md",
-      "title": "Can AMD Dethrone Nvidia as the Artificial Intelligence (AI) Powerhouse?",
-      "excerpt": "Therefore, I believe AMD will carve out a high-growth niche in the AI market in the same way it expanded into the gaming GPU and data center GPU markets. But I don't think it will replace Nvidia as the AI kingpin. When our analyst team has a stock tip ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/3e1f5bb4b863195ee11d3a05ccd4a572/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f766178%252fblue-semiconductor.jpg%26amp%3Bw%3D700",
-          "width": 2270,
-          "height": 1320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T16:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -647,6 +604,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-22-2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run.md",
+      "title": "2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run",
+      "excerpt": "TSMC's revenue in January 2024 increased substantially, and the trend is here to stay thanks to the robust demand for AI chips. SoundHound AI shares have shot up big time of late, and the company's potential growth could help it sustain the rally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/765982/artificial-intelligence-ai-on-circuit-board.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T05:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process.md",
       "title": "Microsoft will use Intel Foundry to make its own chip using the Intel 18A process",
       "excerpt": "Today, Intel announced its renamed chip-making business as Intel Foundry. Formerly known as Intel Foundry Services, the company claims the revamped business is the \"world’s first systems foundry for the AI era.\" However, this announcement was somewhat ...",
@@ -855,7 +864,7 @@
       "originalUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {

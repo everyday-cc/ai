@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-26-modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators.md",
+      "title": "Modernizing and monetizing telecom networks with AI-powered Azure for Operators",
+      "excerpt": "Advancements in generative AI continue to accelerate the pace of industry transformation, with telecommunications emerging as a leader AI adoption. In this blog, I will share a number of exciting updates about our Azure for Operators portfolio of cloud-based solutions that enable operators to drive innovation",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB22_319562_Blog_Blogheader_240221_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-25-exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt.md",
       "title": "Exposing The Brittleness Of Generative AI As Exemplified By The Recent Gibberish Meltdown Of ChatGPT",
       "excerpt": "Generative AI is brittle, though most people don't realize this crucial revelation. An example can be seen in the recent incident of a gibberish meltdown of ChatGPT.",
@@ -266,7 +318,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 394,
+      "heat": 404,
       "tags": null,
       "images": [
         {
@@ -1455,49 +1507,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-eu-says-apple-imessage-3-microsoft-services-are-not-digital-gatekeepers.md",
-      "title": "EU says Apple iMessage, 3 Microsoft services are not digital 'gatekeepers'",
-      "excerpt": "Feb. 13 (UPI) --The European Commission said the four platform services by Apple and Microsoft should not be considered \"gatekeepers\" as defined by the Digital Markets Act after an investigation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/5401707846789/2024/1/033a3a5736c93029032c750c2036488e/v1.5/EU-says-Apple-iMessage-3-Microsoft-services-are-not-digital-gatekeepers.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2024/02/13/Belgium-Digital-Markets-Act-Apple-Microsoft-gatekeepers/5401707846789/",
-      "publishedDateTime": "2024-02-13T14:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

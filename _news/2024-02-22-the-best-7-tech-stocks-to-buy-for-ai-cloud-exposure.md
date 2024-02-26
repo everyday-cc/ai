@@ -23,64 +23,80 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "US forms task force to explore guardrails for AI"
-    excerpt: "it will substantially foster AI advancement in terms of security, privacy, ethics, and sustainability, which will be critical for the public trust on AI in the long run.” According to Counterpoint Research Senior Analyst, Akshara Bassi, “AI regulation ..."
-    publishedDateTime: 2024-02-21T12:16:00Z
-    webUrl: "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.amp.html"
+  - title: "2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run"
+    excerpt: "TSMC's revenue in January 2024 increased substantially, and the trend is here to stay thanks to the robust demand for AI chips. SoundHound AI shares have shot up big time of late, and the company's potential growth could help it sustain the rally."
+    publishedDateTime: 2024-02-22T05:25:00Z
+    webUrl: "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
     images:
-      - url: "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://g.foolcdn.com/editorial/images/765982/artificial-intelligence-ai-on-circuit-board.jpg"
+        width: 2359
+        height: 1270
         isCached: true
-  - title: "CSIU's AI taskforce initiative unveiled"
-    excerpt: "2024 initiative — artificial intelligence — was discussed during Wednesday night's board meeting. CSIU has established a task force to study A.I. in such areas as productivity, safety and ethics. \"We want to lead in this area, as opposed to being a ..."
+  - title: "Corporate Use of Third-Party Artificial Intelligence (AI) Tools"
+    excerpt: "In this podcast he shares that a great deal of risk comes from the headlong pursuit of AI technology. Businesses believe that if they are not using Ai that they will be left behind, but the adoption rate is not being matched with a complete understanding ..."
     publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.dailyitem.com/news/csius-ai-taskforce-initiative-unveiled/article_80241ba0-d1ba-11ee-887f-47a18f368b5d.html"
+    webUrl: "https://www.jdsupra.com/legalnews/corporate-use-of-third-party-artificial-86131/"
     type: article
     provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 39
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "How a New Bipartisan Task Force Is Thinking About Artificial Intelligence"
-    excerpt: "On Tuesday, speaker of the House of Representatives Mike Johnson and Democratic leader Hakeem Jeffries launched a bipartisan Task Force on Artificial Intelligence. Johnson, a Louisiana Republican, and Jeffries,"
-    publishedDateTime: 2024-02-22T00:39:00Z
-    webUrl: "https://www.aol.com/news/bipartisan-task-force-thinking-artificial-223921544.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 38
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/OFEc_OZM.iFDLuzlqzo5iQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_time_773/7b28cf692c2dc7b4fef9913c222f2d31"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15992_1015.jpg"
         width: 1200
-        height: 801
+        height: 900
         isCached: true
-  - title: "Is AI China's critical new productive force?"
-    excerpt: "And, will AI become China's critical new productive force? According to OpenAI's explainer, Sora is capable of generating complex scenes with a very high degree of accuracy, including multiple characters,"
-    publishedDateTime: 2024-02-26T00:37:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202402/26/WS65dbda20a31082fc043b8fc5.html"
+  - title: "Investing in Artificial Intelligence (AI) Stocks Can Be Risky; Here's a Terrific Way to Do It"
+    excerpt: "Should you invest $1,000 in iShares Robotics and Artificial Intelligence Multisector ETF right now? Before you buy stock in iShares Robotics and Artificial Intelligence Multisector ETF , consider ..."
+    publishedDateTime: 2024-02-21T11:09:00Z
+    webUrl: "https://www.nasdaq.com/articles/investing-in-artificial-intelligence-ai-stocks-can-be-risky-heres-a-terrific-way-to-do-it"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 37
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 53
+  - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
+    excerpt: "A boom in artificial intelligence (AI ... AI can potentially boost countless industries, from healthcare to consumer tech, education, e-commerce, cloud computing, autonomous vehicles, and much more. With growth catalysts across multiple sectors, it ..."
+    publishedDateTime: 2024-02-21T18:20:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/24233681/2-artificial-intelligence-ai-stocks-that-could-help-set-you-up-for-life/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 53
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202402/26/65dbda20a31082fc2b691ef4.jpeg"
-        width: 1078
-        height: 718
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8c8a7cbccab823193093a641261da5e5/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f1f92897a92b71053db3792cf336284b1.png%26amp%3Bw%3D700"
+        width: 720
+        height: 456
         isCached: true
+  - title: "2 Millionaire-Maker Artificial Intelligence (AI) Stocks"
+    excerpt: "One big reason why: The current bull market, and, in particular, the artificial intelligence (AI) stocks that are powering it higher. So, let's take a look at two millionaire-maker AI stocks that still have plenty of room to run. These stocks may not be ..."
+    publishedDateTime: 2024-02-25T22:49:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ROKU-Q/pressreleases/24333199/2-millionaire-maker-artificial-intelligence-ai-stocks/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 52
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8491c4b0c4718fff9818732c79734c77/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f1afd6b506400c9ddd0e2912f3863e863.png%26amp%3Bw%3D700"
+        width: 720
+        height: 421
+        isCached: true
+  - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
+    excerpt: "So, here are two AI stocks that could set you up for life. Nvidia has become a Wall Street darling since the start of last year after snapping up an estimated 80% to 95% market share in AI graphics processing units (GPUs), the chips necessary for training and running AI models."
+    publishedDateTime: 2024-02-21T14:20:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/24233681/2-artificial-intelligence-ai-stocks-that-could-help-set-you-up-for-life/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 33
 
 secured: "/pnlCcMnzA7QKLUG7vDcO9pRprsc9bsD/W/z7IzozVkuQJlNrbPTBMsPI6TZmBtV3ZZMo2Ozmj66yzqOWIhOSZ4eLaGJqlQovcQ7aEneJ2XUIYEKq7aIBh54N4Bukxe+F6SUpiaSC6fFCb7AvgWvfw+N644apqzVenxc1oM3WQ1xvUuCVNYRm8GmLm8Bb79rFwwgGGLQkyVkrxnrG3yjV1JujVV4xcgQozqCyHc2Ob62d4FA9KYbnxPR8yUw1LsPQyWAE+6O3MIjHIUHMDQaKEQrZgEiOcSqFLZjMpMEKMmNHc9suauaUhZum3xAyQtWe0qDV0FYPai//VdTLETkWDm/p5p4XtjMIQcZLfe3QoYs0X/v8jr7HRR+fvjiKvcBvz5kmQ/JDs6NWhZw1kphX63DP1KLBZ4ncnU7P6R63J5Fm/p8vMyC2w0xiyLYA5o1joyRX7isHfoFZ5nU8Uq52YyYY7CaHZzmHgwi+KW3fQ7xEtuwTg3Qmc+Qm+NzHHXbZemW6NNswdp50xoJXDO8qg==;HWTclWcPvIdoHbBTfnLmRQ=="
 ---

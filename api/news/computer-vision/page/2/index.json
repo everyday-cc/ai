@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-09-apple-vision-pro-review-answers-the-question-of-how-much-computer-is-apples-spatial-computer.md",
+      "title": "Apple Vision Pro review answers the question of ‘how much computer is Apple’s spatial computer?’",
+      "excerpt": "The first Apple Vision Pro reviews arrived last week on January 30 ahead of the February 2 product launch. A week and change later, tech journalists have had even more time to spend with Apple Vision Pro. My new favorite review is from Raymond Wong at Inverse. He spares no words when evaluating Apple Vision Pro, including as a spatial computer.",
+      "sourceUrl": null,
+      "webUrl": "https://9to5mac.com/2024/02/08/whats-a-spatial-computer/",
+      "originalUrl": "https://9to5mac.com/2024/02/08/whats-a-spatial-computer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/Apple-Vision-Pro-Recovery-Downgrade-Firmware.jpeg?quality=82&strip=all&w=1333",
+          "width": 1333,
+          "height": 999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T21:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-clearview-ai-is-still-collecting-photos-of-australians-for-its-facial-recognition-database.md",
       "title": "Clearview AI is still collecting photos of Australians for its facial recognition database",
       "excerpt": "Clearview AI said it can't stop using Australians' data for its facial recognition software because it can't tell who's Australian. Clearview AI has continued to collect millions of images of ...",
@@ -1379,58 +1422,6 @@
         "name": "Phys.org",
         "domain": "phys.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-texas-man-sues-macys-and-sunglass-hut-parent-over-wrongful-arrest-linked-to-facial-recognition.md",
-      "title": "Texas man sues Macy’s and Sunglass Hut parent over wrongful arrest linked to facial recognition",
-      "excerpt": "A Texas man is suing Macy’s and the parent company of Sunglass Hut after the two companies allegedly relied on error-prone facial recognition technology to falsely accuse him of armed robbery.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2024/01/23/tech/texas-man-sues-macys-sunglass-hut-facial-recognition/index.html",
-      "originalUrl": "https://edition.cnn.com/2024/01/23/tech/texas-man-sues-macys-sunglass-hut-facial-recognition/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-135637528.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2024/01/23/tech/texas-man-sues-macys-sunglass-hut-facial-recognition/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/01/23/tech/texas-man-sues-macys-sunglass-hut-facial-recognition/index.html",
-      "publishedDateTime": "2024-01-23T20:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

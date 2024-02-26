@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/singapore-embraces-ai-t
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/singapore-embraces-ai-to-solve-everyday-problems/article67887079.ece/amp/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "FEATURE – Singapore embraces AI to solve everyday problems"
+    excerpt: "The booking chatbot is among more than 100 generative AI-based solutions spurred by the AI Trailblazers project"
+    publishedDateTime: 2024-02-26T05:47:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 61
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-26T111246.396.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Singapore's AI ambitions reveal challenges for adoption"
     excerpt: "It’s imperative to ensure that the strategy and processes of implementing AI are holistic, responsible, and sustainable."
     publishedDateTime: 2024-02-23T03:00:00Z

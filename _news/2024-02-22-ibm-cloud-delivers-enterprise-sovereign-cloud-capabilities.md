@@ -38,6 +38,15 @@ related:
         width: 1141
         height: 760
         isCached: true
+  - title: "Intel Brings AI Everywhere Across Network, Edge, Enterprise"
+    excerpt: "Intel announced new platforms, solutions and services spanning network and edge AI, Intel Core Ultra processors and the ... Samsung has demonstrated a first-call at their research and development lab in Suwon, South Korea. Ericsson has also demonstrated ..."
+    publishedDateTime: 2024-02-26T05:55:00Z
+    webUrl: "https://www.guru3d.com/story/intel-brings-ai-everywhere-across-network-edge-enterprise/"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
 
 secured: "sU8qwM1rAwaVHFozmMTvaz0ZxP6olLzm9qSK6ksm8EYovu9dBf1nyVBL9HzmJ0xaEHSdocRoTeHojfM+KUIVlgrR8F3YZ2nG661+Iw1I6zBWVwHEyBKJaW5I+WbjCrujZCTIEK/mar6V49vzTKblx1EspPuRacXYNpcguXGdMDUriaiSjASCR7FAVSfqvnlbn8kKkN1AIGd1r8IgvXkMsRwriyy5KIKaqHLKj2TUtEGss3Pn7e2jZN5ZCwFq0CxgkjxQdsqrhd04/inctE+hpR0U6bpgIDU8IMKP7rKVJ61+uzFgwKPKPrTxnF3ohVHqMJU5z7dtcfG4HAMMGCC0yr7d7vYHmh40dpacqaMCXx8=;t2y4N8P44phzc37VhXDM7Q=="
 ---

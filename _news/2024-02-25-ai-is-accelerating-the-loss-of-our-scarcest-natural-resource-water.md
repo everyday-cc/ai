@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/cindygordon/2024/02/25/ai-is-accelerating-
 ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/25/ai-is-accelerating-the-loss-of-our-scarcest-natural-resource-water/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/25/ai-is-accelerating-the-loss-of-our-scarcest-natural-resource-water/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65db438a588321c0153e09b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

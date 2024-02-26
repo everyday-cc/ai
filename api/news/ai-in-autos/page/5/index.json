@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-14-self-driving-labs-how-ai-could-accelerate-scientific-discovery.md",
+      "title": "Self-driving labs: How AI could accelerate scientific discovery",
+      "excerpt": "Using self-driving autonomous labs, the Acceleration Consortium is making larger strides toward integrating the subdisciplines of materials science, AI, robotics, and computer modelling to test new materials in a time-efficient, cost-friendly way.",
+      "sourceUrl": null,
+      "webUrl": "https://thevarsity.ca/2024/01/13/self-driving-labs-how-ai-could-accelerate-scientific-discovery/",
+      "originalUrl": "https://thevarsity.ca/2024/01/13/self-driving-labs-how-ai-could-accelerate-scientific-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-s3.thevarsity.ca/2024/01/SCIENCE-Autonomous-_Labs-BRENNAN-KARUNARATNETHEVARSITY-lab_devices-web.jpg",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T03:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Varsity",
+        "domain": "thevarsity.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-14-improving-3d-object-detection-in-self-driving-cars.md",
       "title": "Improving 3D Object Detection in Self-Driving Cars",
       "excerpt": "A team of researchers at Ritsumeikan University have designed a new network system that could help pave the way for more efficiency and accuracy among self | Technology",
@@ -1221,49 +1264,6 @@
       "provider": {
         "name": "The Financial Times",
         "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-column-excited-about-ai-and-self-driving-cars-a-top-roboticist-is-here-to-burst-your-bubble.md",
-      "title": "Column: Excited about AI and self-driving cars? A top roboticist is here to burst your bubble",
-      "excerpt": "\"the hubris about the coming of self driving cars was at a similar level to the hubris in 2023 about ChatGPT being a step towards AGI (Artificial General Intelligence) being just around the corner.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/column-excited-ai-self-driving-110016853.html",
-      "originalUrl": "https://www.aol.com/news/column-excited-ai-self-driving-110016853.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_la_times_articles_830/95783ca652072cb3089c663f1aa51e38",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T03:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null

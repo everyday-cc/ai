@@ -2,6 +2,203 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-22-how-to-build-ai-capabilities-across-an-enterprise.md",
+      "title": "How To Build AI Capabilities Across An Enterprise",
+      "excerpt": "Businesses rolling AI out across an enterprise can learn from the masters of making the most of disruption – venture investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d508ffcd2e8c866e062f4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1141,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/",
+      "publishedDateTime": "2024-02-22T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-ai-will-transform-finance-but-not-with-personalised-card-offers.md",
+      "title": "AI Will Transform Finance, But Not With Personalised Card Offers",
+      "excerpt": "Almost three-quarters of those surveyed identified AI as the most important factor in the development of fintech in the next five years (and almost half of them pointed to embedded finance, open banking and the digital economy as the second most important ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidbirch/2024/02/22/ai-will-transform-finance-but-not-with-personalised-card-offers/",
+      "originalUrl": "https://www.forbes.com/sites/davidbirch/2024/02/22/ai-will-transform-finance-but-not-with-personalised-card-offers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d728ec8c836a16d40b9391/0x0.jpg?format=jpg&crop=3600,2025,x0,y186,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2024/02/22/ai-will-transform-finance-but-not-with-personalised-card-offers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2024/02/22/ai-will-transform-finance-but-not-with-personalised-card-offers/amp/",
+      "publishedDateTime": "2024-02-22T11:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-navigating-the-ai-wave-top-3-priorities-for-entrepreneurs-in-2024.md",
+      "title": "Navigating The AI Wave: Top 3 Priorities For Entrepreneurs In 2024",
+      "excerpt": "Here, I'll explore the top three priorities entrepreneurs and business owners must focus on to not only harness AI's potential but to do so responsibly and effectively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/22/navigating-the-ai-wave-top-3-priorities-for-entrepreneurs-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/22/navigating-the-ai-wave-top-3-priorities-for-entrepreneurs-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d61b2e0107ca31e23ae596/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1363,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/22/navigating-the-ai-wave-top-3-priorities-for-entrepreneurs-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/22/navigating-the-ai-wave-top-3-priorities-for-entrepreneurs-in-2024/amp/",
+      "publishedDateTime": "2024-02-22T11:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update.md",
+      "title": "Samsung says more Galaxy devices will get AI features, announces major update",
+      "excerpt": "With this update, more Samsung Galaxy users can take advantage of the communication-enhancing AI features on AI-supported models",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473.html",
+      "originalUrl": "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2024/02/22/1600x900/UI_61_update_1708598318695_1708598318930.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html",
+      "publishedDateTime": "2024-02-22T10:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders.md",
       "title": "Besi exceeds quarterly targets on AI-related chip parts orders",
       "excerpt": "The Dutch group's shares soared 16% in early trading after its quarterly orders increased by 30% driven by hybrid bonding, a form of chip packaging required for AI applications. Orders for the fourth quarter totalled 166 million euros ($180 million), part ...",
@@ -357,6 +554,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-22-2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run.md",
+      "title": "2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run",
+      "excerpt": "TSMC's revenue in January 2024 increased substantially, and the trend is here to stay thanks to the robust demand for AI chips. SoundHound AI shares have shot up big time of late, and the company's potential growth could help it sustain the rally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/765982/artificial-intelligence-ai-on-circuit-board.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T05:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-antlers-founder-on-its-vertical-ai-bet-in-southeast-asia.md",
       "title": "Antler’s founder on its vertical AI bet in Southeast Asia",
       "excerpt": "A growing roster of vertical AI startups is emerging in Southeast Asia to serve sectors ranging from seafood to finance. Singapore-based venture capital A growing roster of vertical AI startups is emerging in Southeast Asia to serve sectors ranging from seafood to finance.",
@@ -501,49 +750,6 @@
         "Meta AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-federal-and-state-lawmakers-launch-ai-task-forces-ai-the-washington-report.md",
-      "title": "Federal and State Lawmakers Launch AI Task Forces — AI: The Washington Report",
-      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report",
-      "originalUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI-Artificial-Intelligence-Abstract-Art-367016941_1.jpg?h=c4779ecb&itok=G8TpDj02",
-          "width": 602,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp",
-      "publishedDateTime": "2024-02-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -693,6 +899,58 @@
         "AI in Finance",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-how-a-new-bipartisan-task-force-is-thinking-about-artificial-intelligence.md",
+      "title": "How a New Bipartisan Task Force Is Thinking About Artificial Intelligence",
+      "excerpt": "On Tuesday, speaker of the House of Representatives Mike Johnson and Democratic leader Hakeem Jeffries launched a bipartisan Task Force on Artificial Intelligence. Johnson, a Louisiana Republican ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6727264/house-artificial-intelligence-task-force/",
+      "originalUrl": "https://time.com/6727264/house-artificial-intelligence-task-force/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2024/02/congress-ai-2024.jpg?quality=85",
+          "width": 2400,
+          "height": 1601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T22:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1006,258 +1264,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-new-adobe-ai-assistant-will-tackle-your-long-dense-pdfs.md",
-      "title": "New Adobe 'AI Assistant' will tackle your long, dense PDFs",
-      "excerpt": "AI Assistant also provides citations and clickable links ... Before that, she co-founded a startup consulting business for emerging entrepreneurial hubs in South America, Europe, and Asia. You can find her on Twitter at @cecily_mauran.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/adobe-ai-assistant-summarize-edit-pdfs",
-      "originalUrl": "https://mashable.com/article/adobe-ai-assistant-summarize-edit-pdfs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/03RxUKgIX9M8PDtGsMArUdH/hero-image.fill.size_1200x675.v1708536414.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T18:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-first-gemini-now-gemma-googles-new-open-ai-models-target-developers.md",
-      "title": "First Gemini, now Gemma: Google's new, open AI models target developers",
-      "excerpt": "On Wednesday, Google unveiled Gemma, a family of lightweight, open models developed by DeepMind and other teams across Google that are charged with AI development and research. Introducing Gemma: a family of lightweight, state-of-the-art open models for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
-      "originalUrl": "https://www.zdnet.com/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 551,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/19d439c154585632ba0a2af6f0b59b09165842fc/2024/02/21/99f54a4d-e622-4973-bb1d-68f9ce9f9971/woman-glkasses3gettyimages-1469706451.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
-      "publishedDateTime": "2024-02-21T17:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-empowerly-secures-15m-for-its-college-counseling-services.md",
-      "title": "Empowerly secures $15M for its college counseling services",
-      "excerpt": "Empowerly, an edtech startup that specializes in college counseling and career guidance services, raised $15 million in a recent funding round led by Edtech startup Empowerly raised $15 million in a recent funding round led by Conductive Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/",
-      "originalUrl": "https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/12/graduate.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/amp/",
-      "publishedDateTime": "2024-02-21T17:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-10-ai-bootcamps-taught-by-top-schools-companies-and-tech-experts.md",
-      "title": "10 AI bootcamps taught by top schools, companies, and tech experts",
-      "excerpt": "In the AI and Machine Learning Bootcamp, lectures will touch on how to build a machine learning model and test its effectiveness, neural networks, NLP best practices, and the role of AWS, Microsoft’s Azure AI, and SQL in machine learning. Upon completing ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/education/articles/ai-bootcamps/",
-      "originalUrl": "https://fortune.com/education/articles/ai-bootcamps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1517344698-e1708531258991.jpg?resize=1200,600",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T16:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-watch-tesla-full-self-driving-beta-v12-autonomously-look-for-a-parking-spot.md",
-      "title": "Watch Tesla Full Self-Driving Beta v12 autonomously look for a parking spot",
-      "excerpt": "A Tesla driver using the new Full Self-Driving (FSD) Beta v12 software managed to showcase a new behavior: FSD Beta autonomously looking for a parking spot. The Tesla v12 software update is expected to introduce what CEO Elon Musk has been calling “end ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2024/02/21/tesla-full-self-driving-beta-v12-autonomously-look-parking-spot/",
-      "originalUrl": "https://electrek.co/2024/02/21/tesla-full-self-driving-beta-v12-autonomously-look-parking-spot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/Tesla-FSD-Beta-v12-auto-look-for-parking.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T16:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

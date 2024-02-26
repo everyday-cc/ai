@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-26T04:30:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-1033100075"
 webUrl: "https://markets.businessinsider.com/news/stocks/astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-1033100075"
 type: article
-quality: 65
-heat: 85
+quality: 67
+heat: 87
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://lh7-us.googleusercontent.com/QnKXxXlezgzKCQkNJT1UWPIIz9jsLH7CdUAF4SwYzJwpetjMz4PPmwNINISZ-eZoeSRgRsZDofFVchvM-l0ZMqAqc-MI0DKCj1vD46GZm4qldNuOxhhh8eJEcAiRRLZUTfHl0MizY7WBdSEryBPaOow"
@@ -47,6 +48,6 @@ related:
       domain: finanznachrichten.de
     quality: 9
 
-secured: "b2Chs4GqbNldMeMqva0Pe3Qd8fEE2A/SvQX6CXh47PVakyWCLXUQgmd/PibelQzqox75bi8jqSS+2j2NXS30miBBjavR6pZz3g2phIHyhWt8QTVTQE2DLrGtdhLmQhxEaD2IRGyJfg/TV2mlwuc5mba9jsHlwTM6qpqtFEaOl9g80KhTm8ctZN9u6CpQ3qctwNGczxQrBtwRfH6ZnxN7jXbb5C6QppB+BgZjKTpFCK+Gc6mDp+4oYRHg1XBl1asjwQDZeUA0jGO4DawlETgGqr+/o1Xvx0E39VOz4zLBfS3cQFq9r9H7YSJdEUqWxSRPc3tuyhuQYe5B40sJScu7rl4Eu7iUskoHKuOSBo1oMpM=;aYJJNj/MwqRoAictDb0OBQ=="
+secured: "Yp3caCa0n9HoGKcjY/3VCEx3+aWih/YaL049PyMTzV1es5pH1AI2x15aJy9kgf1EFpfioK8lt5LUQ7wHXTfyNQPFe2zORUn9piEI5B/CJQbzo/tNmRcmmrNFDjwCq18IbK6xnmnRjYpydQoOPyqrVsAG6ekNj774idupMiInO3Cdqv3DKxLZfTkh7bYspwgYu4XSBdZyeIy50BpXvuqtOs/oiYP0IP82Rs7uAKomOhdfqoQIIxpQwzY0ou5N3+o7M6oNU+852KgGs7yu9sfLs2AyUP4CI6p1+PkefIhJpp16qh1sEypBJl3qbJNDDawZFhmIkXoiTktbM0P3UcLFx/Ux9dpwr1/5xDuR5DBWhE5yZMIkxE3LeDrIikVJ2WpSf4HHBa8ySihEuR/7oPmLXs2IF4uwdu0ThABr0JyQkgdT5PMyxeHrKBGLKdI3hRlcRYr6fa11BDYKebDsC+nTv4DAK29aU3kC5gpLqVC+K78hvqHooqrdQaDZHnCfFTZhm5yqpVz6X1EdACBYRlTDiA==;SRt/nTdxcM6ZMRZ+Jlt2MQ=="
 ---
 

@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "FEATURE – Singapore embraces AI to solve everyday problems"
+    excerpt: "The booking chatbot is among more than 100 generative AI-based solutions spurred by the AI Trailblazers project"
+    publishedDateTime: 2024-02-26T05:47:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 61
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-26T111246.396.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Singapore embraces AI to solve everyday problems"
     excerpt: "The 10-member Association of Southeast Asian Nations' guide to AI governance and ethics, released this month, recommends principles of transparency, fairness and equity, accountability and integrity, and \"human-centricity\". Yet member countries including ..."
     publishedDateTime: 2024-02-26T04:29:00Z

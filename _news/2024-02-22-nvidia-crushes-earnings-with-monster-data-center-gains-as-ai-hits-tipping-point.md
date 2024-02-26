@@ -356,6 +356,20 @@ related:
         width: 299
         height: 201
         isCached: true
+  - title: "FWD Group partners with Microsoft to shape the future of AI-driven insurance experiences"
+    excerpt: "Ryan Kim, Group Chief Digital Officer of FWD Group (Left); Bill Borden, Corporate Vice President of Worldwide Financial Services, Microsoft (Right) FWD Group plans to drive its generative AI initiatives by leveraging Microsoft's Azure OpenAI Service and ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.asiaone.com/business/fwd-group-partners-microsoft-shape-future-ai-driven-insurance-experiences"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 45
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Feb2024/Left__Ryan_Kim_Group_Chief_Digital_Officer_FWD_Group__Bill.jpg?itok=iwa78vUc"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Microsoft to Invest $2.1 Billion in AI and Cloud Growth in Spain"
     excerpt: "Over the next two years to significantly scale up its artificial intelligence (AI) development and cloud computing capacities in Spain."
     publishedDateTime: 2024-02-21T07:59:00Z

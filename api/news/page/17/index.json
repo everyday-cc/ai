@@ -2,6 +2,239 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2024-02-13-dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice.md",
+      "title": "Don't tell your AI anything personal, Google warns in new Gemini privacy notice",
+      "excerpt": "AI apps like Gemini come with a risk, which Google's new privacy warning illustrates perfectly. Here's the information Google is collecting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
+      "originalUrl": "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5a403441036ea3857a6a84f1c6db005438ecbf9f/2024/02/08/52d7fe00-8b52-4e52-9214-96dd0222cb60/gemini.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
+      "publishedDateTime": "2024-02-13T09:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-online-content-moderation-tools-market-booming-with-top-key-players-executing-different-strategies-and-plans.md",
+      "title": "Online Content Moderation Tools Market Booming With Top Key Players Executing Different Strategies And Plans",
+      "excerpt": "Our report delivers an in-depth grasp of market dynamics, empowering businesses to make informed decisions and tap into fresh opportunities. Additionally, through Porter’s Five Forces Analysis, the report sheds light on the competitive terrain, enabling market participants to discern diverse competitive scenarios and strategize accordingly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.opprairie.com/news/online-content-moderation-tools-market-booming-with-top-key-players-executing-different-strategies-and-plans/47078/",
+      "originalUrl": "https://www.opprairie.com/news/online-content-moderation-tools-market-booming-with-top-key-players-executing-different-strategies-and-plans/47078/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.opprairie.com/wp-content/uploads/2024/02/Space-based-Nuclear-Weapon.png",
+          "width": 563,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T09:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Orland Park Prairie",
+        "domain": "opprairie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-why-young-chinese-women-are-dumping-real-men-for-ai-boyfriends.md",
+      "title": "Why young Chinese women are 'dumping' real men for AI boyfriends",
+      "excerpt": "Discover why young Chinese women are choosing AI boyfriends over real men. Explore the rise of virtual connections and the adaptability of artificial intelligence in meeting their emotional needs. Learn about the concerns surrounding user privacy in this booming industry.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/articleshow/107649314.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/articleshow/107649314.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107649267,width-1280,height-720,resizemode-4/107649267.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/amp_articleshow/107649314.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/amp_articleshow/107649314.cms",
+      "publishedDateTime": "2024-02-13T05:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-nvidia-launches-the-rtx-2000-ada-gpu-and-its-not-your-typical-graphics-card.md",
+      "title": "NVIDIA Launches the RTX 2000 Ada GPU, and It’s Not Your Typical Graphics Card",
+      "excerpt": "It's strengths lie in bringing AI inference and advanced graphics capabilities to settings where larger, more power-hungry GPUs can't fit",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/13/nvidia-rtx-2000-ada-gpu-launched/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/13/nvidia-rtx-2000-ada-gpu-launched/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/NVIDIA-RTX-2000-Ada-Generation-Cover-696x496-1.jpg",
+          "width": 696,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T02:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-four-apple-and-microsoft-services-to-be-left-out-of-digital-markets-act.md",
+      "title": "Four Apple and Microsoft services to be left out of Digital Markets Act",
+      "excerpt": "Apple and Microsoft will not be designated as gatekeepers for certain platform services under the Digital Markets Act, according to an announcement from the European Commission on Tuesday (13 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euractiv.com/section/digital/news/four-apple-and-microsoft-services-to-be-left-out-of-digital-markets-act/",
+      "originalUrl": "https://www.euractiv.com/section/digital/news/four-apple-and-microsoft-services-to-be-left-out-of-digital-markets-act/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.euractiv.com/wp-content/uploads/sites/2/2024/02/shutterstock_2187517321-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T01:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EURACTIV",
+        "domain": "euractiv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat.md",
       "title": "Sam Altman and the $7T geopolitics of AI chips | The AI Beat",
       "excerpt": "Silicon Valley was arguably more captivated this weekend by OpenAI CEO Sam Altman's fundraising efforts for AI chips than the Super Bowl.",
@@ -50,6 +283,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-vectice-joins-us-governments-new-consortium-dedicated-to-ai-safety.md",
+      "title": "Vectice Joins U.S. Government’s New Consortium Dedicated to AI Safety",
+      "excerpt": "Press Release Vectice, the leader in documentation software for AI model development, joins the U.S. Government's initiative to support the development and deployment of trustworthy and safe AI. Vectice is among the first group of AI experts to join this effort,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/",
+      "originalUrl": "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T00:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -806,290 +1082,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-the-customer-experience-evolution-todays-data-driven-real-time-discipline.md",
-      "title": "The customer experience evolution: Today’s data-driven, real-time discipline",
-      "excerpt": "The future of customer experience is bright. Providing a positive customer experience can become a competitive advantage.\nThe post The customer experience evolution: Today’s data-driven, real-time discipline appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/evolution-customer-experience/",
-      "originalUrl": "https://www.ibm.com/blog/evolution-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T17:32:36Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-vectice-joins-us-governments-new-consortium-dedicated-to-ai-safety.md",
-      "title": "Vectice Joins U.S. ??Government's New Consortium Dedicated to AI Safety",
-      "excerpt": "Vectice, the leader in documentation software for AI model development, joins the U.S. Government's initiative to support the development and deployment of trustworthy and safe AI. Vectice is among the first group of AI experts to join this effort, highlighting its commitment to responsible AI development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/12/9960977.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/12/9960977.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T17:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-the-rise-of-the-bank-chief-ai-officer.md",
-      "title": "The rise of the bank chief AI officer",
-      "excerpt": "The escalated interest in artificial intelligence that OpenAI started over a year ago when it made its ChatGPT public has led to a relatively new C-suite role at banks: The chief AI officer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer",
-      "originalUrl": "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/48d7485/2147483647/strip/true/crop/600x315+0+12/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F02%2Fe1%2Ff57a9b8b40cb9b303029d0308944%2Fventuro-dominic-us-bank.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T17:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-how-the-australian-government-sees-ai-accelerating-productivity.md",
-      "title": "How the Australian Government Sees AI Accelerating Productivity",
-      "excerpt": "Regulation could inhibit the productivity gains of AI, according to the Australian Productivity Commission in a new, lengthy and wide-ranging research report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
-      "originalUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/tr_20240212-australian-government-ai-productivity.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-nvidia-launches-ada-generation-gpu-with-199b-transistors.md",
-      "title": "Nvidia launches Ada Generation GPU with 19.9B transistors",
-      "excerpt": "Nvidia unveiled its RTX 2000 Ada Generation GPU, a graphics processing unit designed to meet the demands of AI-based design and visualization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/RTX-2000-Ada-Generation-GPU.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-ai-will-boil-the-oceans.md",
-      "title": "AI Will Boil The Oceans",
-      "excerpt": "My article, “AMD And Nvidia Will Boil The Oceans ” got a lot of attention, and now Sam Altman, CEO of OpenAI, has confirmed that by reportedly looking for $7 trillion dollars to go to the next level in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
-      "originalUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637def592ce2893446588243/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
-      "publishedDateTime": "2024-02-12T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

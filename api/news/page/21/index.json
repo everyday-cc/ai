@@ -2,6 +2,194 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2024-02-09-google-bard-is-now-gemini-paid-version-has-better-ai-features.md",
+      "title": "Google Bard is Now Gemini; Paid Version has Better AI Features",
+      "excerpt": "Roughly a year after Google Bard is made available to the Philippines, Google has decided to give its Chat GPT rival a makeover by formally calling it Gemini. Its similar to how Microsoft has decided to rebrand all of its AI-powered features to Copilot.",
+      "sourceUrl": null,
+      "webUrl": "https://unbox.ph/news/google-bard-is-now-gemini-paid-version-has-better-ai-features/",
+      "originalUrl": "https://unbox.ph/news/google-bard-is-now-gemini-paid-version-has-better-ai-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T04:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Unbox",
+        "domain": "unbox.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-profiling-in-a-digital-age-facial-recognition-video-surveillance-and-policing.md",
+      "title": "Profiling in a Digital Age: Facial Recognition, Video Surveillance, and Policing",
+      "excerpt": "The Surveillance, Criminalization, and Punishment speaker series is organized by Katy Naples-Mitchell, Program Director of the Program in Criminal Justice Policy and Management, and Sandra Susan Smith,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hks.harvard.edu/events/profiling-digital-age-facial-recognition-video-surveillance-and-policing",
+      "originalUrl": "https://www.hks.harvard.edu/events/profiling-digital-age-facial-recognition-video-surveillance-and-policing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hks.harvard.edu/sites/default/files/event_images/47920.jpg",
+          "width": 640,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T02:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "www.hks.harvard.edu",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-ai-based-decision-support-boosts-post-stroke-prevention.md",
+      "title": "AI-Based Decision Support Boosts Post-Stroke Prevention",
+      "excerpt": "Opens in a new tab or window PHOENIX -- An artificial intelligence decision support ... rate of patients being prescribed dual antiplatelet therapy, statins, and anticoagulation for atrial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/meetingcoverage/isc/108665",
+      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/isc/108665",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/108xxx/108665.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-concerns-over-ai-moral-panic-or-mindful-caution.md",
+      "title": "Concerns Over AI: Moral Panic or Mindful Caution?",
+      "excerpt": "With increasingly accessible tools bringing artificial intelligence (AI) platforms to the masses, an inevitable cycle of hype, fear, and misunderstanding of AI stands to outpace bona fide developments in the technologies themselves. For example, with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/digital-games-digital-worlds/202402/concerns-over-ai-moral-panic-or-mindful-caution",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/digital-games-digital-worlds/202402/concerns-over-ai-moral-panic-or-mindful-caution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-deep-learning-for-real-time-molecular-imaging.md",
+      "title": "Deep learning for real-time molecular imaging",
+      "excerpt": "(Nanowerk News) National University of Singapore (NUS) researchers have demonstrated that deep learning allows them to observe the dynamics of single molecules more precisely and with less data than traditional evaluation methods. They used convolutional ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64622.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64622.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-identity-and-access-management-products.md",
       "title": "Identity and access management products",
       "excerpt": "The FBI has confirmed it is using Amazon’s Rekognition image and video analysis software, but Amazon says it is ‘false’ to suggest this violates the company’s self-imposed moratorium on ...",
@@ -171,6 +359,49 @@
       ],
       "topics": [
         "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-apple-vision-pro-review-answers-the-question-of-how-much-computer-is-apples-spatial-computer.md",
+      "title": "Apple Vision Pro review answers the question of ‘how much computer is Apple’s spatial computer?’",
+      "excerpt": "The first Apple Vision Pro reviews arrived last week on January 30 ahead of the February 2 product launch. A week and change later, tech journalists have had even more time to spend with Apple Vision Pro. My new favorite review is from Raymond Wong at Inverse. He spares no words when evaluating Apple Vision Pro, including as a spatial computer.",
+      "sourceUrl": null,
+      "webUrl": "https://9to5mac.com/2024/02/08/whats-a-spatial-computer/",
+      "originalUrl": "https://9to5mac.com/2024/02/08/whats-a-spatial-computer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/Apple-Vision-Pro-Recovery-Downgrade-Firmware.jpeg?quality=82&strip=all&w=1333",
+          "width": 1333,
+          "height": 999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T21:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -825,282 +1056,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers.md",
-      "title": "AI cannot be used to deny health care coverage, feds clarify to insurers",
-      "excerpt": "Health insurance companies cannot use algorithms or artificial intelligence to determine care or deny coverage to members on Medicare Advantage plans, the Centers for Medicare & Medicaid Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/",
-      "originalUrl": "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1985565682-760x380.jpeg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-changes-bards-name-to-gemini-unveils-new-android-app-and-advanced-ai-model.md",
-      "title": "Google changes Bard's name to Gemini: unveils new Android app and advanced AI model",
-      "excerpt": "Google's announcement confirms weeks of rumors that Bard was being renamed. The company unveiled the Gemini AI large language model, a direct competitor to OpenAI's GPT",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101813-google-changes-bard-name-gemini-unveils-new-android.html",
-      "originalUrl": "https://www.techspot.com/news/101813-google-changes-bard-name-gemini-unveils-new-android.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-08-image-6.jpg",
-          "width": 1920,
-          "height": 1746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-rebrands-bard-chatbot-as-gemini-rolls-out-paid-subscription.md",
-      "title": "Google rebrands Bard chatbot as Gemini, rolls out paid subscription",
-      "excerpt": "SAN FRANCISCO, Feb 8 (Reuters) - Google (GOOGL.O), opens new tab on Thursday renamed its Bard chatbot after the new artificial intelligence that is powering it, called Gemini, and said consumers can pay for better reasoning capabilities as it vies with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/google-rebrands-bard-chatbot-gemini-rolls-out-paid-subscription-2024-02-08/",
-      "originalUrl": "https://www.reuters.com/technology/google-rebrands-bard-chatbot-gemini-rolls-out-paid-subscription-2024-02-08/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T14:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-is-now-gemini-and-gemini-advanced-is-bundled-with-google-one.md",
-      "title": "Google Bard is now Gemini, and Gemini Advanced is bundled with Google One",
-      "excerpt": "After all, Google Gemini is Google’s best answer to ChatGPT, so it’s not a surprise to see Google want to forget all about Bard and Duet AI. These brands are going to be replaced by Google Gemini across the board, including on desktop and mobile devices.",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/google-bard-is-now-gemini-and-gemini-advanced-is-bundled-with-google-one/",
-      "originalUrl": "https://bgr.com/tech/google-bard-is-now-gemini-and-gemini-advanced-is-bundled-with-google-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2024/02/google-gemini-2.jpg?quality=82&strip=all",
-          "width": 1600,
-          "height": 995,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T14:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-rebrands-bard-as-gemini-launches-new-model-mobile-app.md",
-      "title": "Google Rebrands Bard As Gemini, Launches New Model & Mobile App",
-      "excerpt": "Google rebrands Bard as Gemini, upgrades it with Ultra 1.0 model, and launches mobile app for iOS and Android.",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/google-rebrands-bard-as-gemini-launches-new-model-mobile-app/507549/",
-      "originalUrl": "https://www.searchenginejournal.com/google-rebrands-bard-as-gemini-launches-new-model-mobile-app/507549/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/img_2024-02-08-073646-65c4caf5e74f1-sej.png",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T14:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Searchenginejournal.com",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-clearview-ai-is-still-collecting-photos-of-australians-for-its-facial-recognition-database.md",
-      "title": "Clearview AI is still collecting photos of Australians for its facial recognition database",
-      "excerpt": "Clearview AI said it can't stop using Australians' data for its facial recognition software because it can't tell who's Australian. Clearview AI has continued to collect millions of images of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crikey.com.au/2024/02/08/clearview-ai-australia-facial-recognition-data/",
-      "originalUrl": "https://www.crikey.com.au/2024/02/08/clearview-ai-australia-facial-recognition-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crikey.com.au/wp-content/uploads/2024/02/AdobeStock_455113640_Editorial_Use_Only-copy.jpg",
-          "width": 1480,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T14:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crikey",
-        "domain": "crikey.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

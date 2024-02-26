@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "3 Artificial Intelligence (AI) Stocks Billionaires Sold Way Too Early"
-    excerpt: "It designs central processing units (CPUs), and major chip companies pay Arm for the right to use its designs. It's a fantastic gig that generates incredibly high margins. A number of major AI players, including Nvidia (which has invested directly in Arm ..."
-    publishedDateTime: 2024-02-21T05:06:00Z
-    webUrl: "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires-sold-way-too-early/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/765866/artificial-intelligence-ai-machine-learning-facial-recogniition-getty.jpg"
-        width: 4000
-        height: 3000
-        isCached: true
   - title: "2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run"
     excerpt: "TSMC's revenue in January 2024 increased substantially, and the trend is here to stay thanks to the robust demand for AI chips. SoundHound AI shares have shot up big time of late, and the company's potential growth could help it sustain the rally."
     publishedDateTime: 2024-02-22T05:25:00Z
@@ -89,6 +75,15 @@ related:
         width: 720
         height: 421
         isCached: true
+  - title: "The Best 7 Tech Stocks to Buy for AI Cloud Exposure"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Cloud AI combines the power of artificial intelligence with the power of cloud"
+    publishedDateTime: 2024-02-22T03:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-best-7-tech-stocks-to-buy-for-ai-cloud-exposure-1033090179"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
     excerpt: "So, here are two AI stocks that could set you up for life. Nvidia has become a Wall Street darling since the start of last year after snapping up an estimated 80% to 95% market share in AI graphics processing units (GPUs), the chips necessary for training and running AI models."
     publishedDateTime: 2024-02-21T14:20:00Z

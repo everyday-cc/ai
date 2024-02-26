@@ -2,6 +2,264 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-24-why-ai-is-making-thought-leadership-more-important-than-ever.md",
+      "title": "Why AI Is Making Thought Leadership More Important Than Ever",
+      "excerpt": "As AI continues to reshape industries, redefine business models, and influence decision-making processes, the need for thought leadership is in high demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/",
+      "originalUrl": "https://www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d91c93a000071c4c6533eb/0x0.jpg?format=jpg&crop=3590,2692,x218,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/amp/",
+      "publishedDateTime": "2024-02-23T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do.md",
+      "title": "Is AI Trustworthy? Experts Consider What Tech Should Be Allowed to Do",
+      "excerpt": "Is artificial intelligence coming for your job? Is it planning something much, much worse? While debates over AI regulation play out, many boosters are pushing the tech further and further.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "originalUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-924529/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "publishedDateTime": "2024-02-23T21:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-google-issues-ai-upgrade-warning-for-millions-of-chrome-users.md",
+      "title": "Google Issues AI Upgrade Warning For Millions Of Chrome Users",
+      "excerpt": "Google continues to change its ecosystem apace, as its evolving Gemini (née Bard) AI platform burrows its way into app after app, across desktops and mobiles. In doing so, a whole new set of risks are hitting millions of users in short order. Awareness is very low—and so Google has just responded with its latest serious warning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
+      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5e66cbd8e1e6170007593a74/0x0.jpg?format=jpg&crop=2472,1545,x868,y776,safe&height=900&width=1600&fit=bounds",
+          "width": 1440,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/",
+      "publishedDateTime": "2024-02-23T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-nvidia-stock-gained-15-trillion-to-surpass-the-faangs-apple-is-next.md",
+      "title": "Nvidia Stock Gained $1.5 Trillion To Surpass The FAANGs - Apple Is Next",
+      "excerpt": "We look at why Nvidia has been able to surpass every FAANG except Apple, and why it’s inevitable that it becomes the world's most valuable company in the next 2.5 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2024/02/23/nvidia-stock-gained-15-trillion-to-surpass-the-faangsapple-is-next/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/23/nvidia-stock-gained-15-trillion-to-surpass-the-faangsapple-is-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d910f507bba2d1cdbc02f2/0x0.jpg?format=jpg&crop=3499,1968,x0,y180,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2024/02/23/nvidia-stock-gained-15-trillion-to-surpass-the-faangsapple-is-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2024/02/23/nvidia-stock-gained-15-trillion-to-surpass-the-faangsapple-is-next/amp/",
+      "publishedDateTime": "2024-02-23T20:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024.md",
+      "title": "5 ways to leverage AI to streamline your business workflows in 2024",
+      "excerpt": "Used right, AI has the potential to significantly improve the efficiency of operational workflows, and increase productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024/",
+      "originalUrl": "https://venturebeat.com/business/5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/pexels-christina-morillo-1181534-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 704,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T20:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-24-ai-is-having-a-1995-moment.md",
       "title": "AI is having a 1995 moment",
       "excerpt": "The analyst said the hunger for Nvidia's AI chips from leading software providers like Salesforce, Adobe, and Oracle is a \"transformational tech trend we have not seen since the start of the Internet in the mid 90's.\" But that doesn't mean major AI ...",
@@ -10,7 +268,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -102,49 +360,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse.md",
-      "title": "Can AMD Dethrone Nvidia as the Artificial Intelligence (AI) Powerhouse?",
-      "excerpt": "Therefore, I believe AMD will carve out a high-growth niche in the AI market in the same way it expanded into the gaming GPU and data center GPU markets. But I don't think it will replace Nvidia as the AI kingpin. When our analyst team has a stock tip ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/3e1f5bb4b863195ee11d3a05ccd4a572/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f766178%252fblue-semiconductor.jpg%26amp%3Bw%3D700",
-          "width": 2270,
-          "height": 1320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T16:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1001,207 +1216,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot.md",
-      "title": "Razorpay surpasses $150 bn in TPV, unveils new payment gateway & AI chatbot",
-      "excerpt": "Bengaluru, Feb 23 (IANS) Fintech major Razorpay on Friday announced it has achieved an annualised total payment volume (TPV) of $150 billion, and unveiled several new features including an AI chatbot. The company also launched ‘Payment Gateway 3.0 ...",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot",
-      "originalUrl": "https://glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot?amp",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot?amp",
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do.md",
-      "title": "AI Is Already Helping Deliver Packages and Diagnose Patients. Here’s What Else It Can Do.",
-      "excerpt": "Artificial intelligence is everywhere. It's helping discover new planets and detect cancer faster. And it's working in a bunch of places you likely didn't realize, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
-      "originalUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-928820/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
-      "publishedDateTime": "2024-02-22T22:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-hammerspace-introduces-hyperscale-nas-for-ai-hpc.md",
-      "title": "Hammerspace Introduces Hyperscale NAS For AI & HPC",
-      "excerpt": "Hammerspace unveiled its new high-performance NAS architecture, Hyperscale NAS, to cater to the growing demands of enterprise AI, machine learning, deep learning initiatives, and the increasing use of GPU computing both on-premises and in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d805bc11a4068e97b82a16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1049,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
-      "publishedDateTime": "2024-02-22T22:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit.md",
-      "title": "This fintech startup is targeting a gap in lending as banks tighten credit",
-      "excerpt": "“Just because the loans are smaller doesn’t mean they’re not good.” Nvidia earnings send stock rocketing as company cheers AI ‘tipping point’ Nvidia makes Wall Street history as stock surge adds $277 billion in market cap Super Micro’s stock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
-      "originalUrl": "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-26691341/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
-      "publishedDateTime": "2024-02-22T22:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

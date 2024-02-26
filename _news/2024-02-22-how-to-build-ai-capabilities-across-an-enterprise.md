@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Intel Brings AI Everywhere Across Network, Edge, Enterprise"
+    excerpt: "Intel announced new platforms, solutions and services spanning network and edge AI, Intel Core Ultra processors and the ... Samsung has demonstrated a first-call at their research and development lab in Suwon, South Korea. Ericsson has also demonstrated ..."
+    publishedDateTime: 2024-02-26T05:55:00Z
+    webUrl: "https://www.guru3d.com/story/intel-brings-ai-everywhere-across-network-edge-enterprise/"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
 
 secured: "uScB2+MJW1gcwnWUdkD1RV1F71RcLSp/AqjjXe9j0rgc8nvB86LTmeJ8SN2J8pERTTqx7z3DudXILFuO09RAezvcgzRFhcOtsFIZI6WBW7C59q9dhK+OznyuadVELRKgzaVKV2WeCqss+fjwX2mjLXhy/p221FZ+hCTBzkdOfaf90mkinGahG0OydA0TK5r7yCe7ttl3SUYrz3Rtrs5Y6Qap8UAo8+XXYZKpYP1ZOx6hi0FCjKB4pCT/ESafPwF/L+cbPZp4OX2pQkidhEwsYMWRM+R0W9Xq0nBklNyklMU/KEDiRRSJlwYoWar90PNplrwE3SLY9tESwTa6qSLbzKn1K/lYhLJZJu+qCi5Ckaw6hyHF8JoPvbXaXRo2WeEu0HCJK7LaH4XhkGLuFp9tr/2sGIiaBAJVtDt2GsneLvyiW72lkIeAfdOEqXdco07hkTE5YBsr24sIIPXfD0HU/pwO6mFXWG5U0JFUVEgSp9qmTlxQc9VTHEAoIxAHFSRvSRZaT52R0ZcSv4UP0dDyaQ==;zHQbQLOt6zz3+YUQjijWVA=="
 ---

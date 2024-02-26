@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Samsung, UK's Arm team up to produce advanced AI chips"
-    excerpt: "Samsung Foundry, Samsung Electronics' chip manufacturing arm, is teaming up with the UK's Arm to adopt the firm's design assets for Samsung's most advanced chip-making process technology, Gate-All-Around, which aims to boost the company's edge in the ..."
-    publishedDateTime: 2024-02-21T06:27:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20240221050610"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240221050610"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240221050610"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 74
-    images:
-      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F02%2F21%2F20240221050593_0.jpg"
-        width: 616
-        height: 366
-        isCached: true
   - title: "Samsung Galaxy S23 WILL Get Galaxy AI Next Month"
     excerpt: "Here’s a quick rundown of what you’ll be able to do with Samsung’s Galaxy AI ... Real-time Call Translation: The update will enable real-time translation during calls, allowing users to understand conversations in foreign languages without language ..."
     publishedDateTime: 2024-02-25T00:00:00Z

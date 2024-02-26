@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-26-cathie-wood-doubles-down-on-ai-sales-with-cut-to-tsmc-stake.md",
+      "title": "Cathie Wood Doubles Down on AI Sales With Cut to TSMC Stake",
+      "excerpt": "Cathie Wood sold shares of Taiwan Semiconductor Manufacturing Corp. for the first time in more than two years, adding to its moves to cut exposure in the chipmaker’s key customer Nvidia Corp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-26/cathie-wood-doubles-down-on-ai-sales-with-cut-to-tsmc-stake",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-26/cathie-wood-doubles-down-on-ai-sales-with-cut-to-tsmc-stake",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T05:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-feature-singapore-embraces-ai-to-solve-everyday-problems.md",
+      "title": "FEATURE – Singapore embraces AI to solve everyday problems",
+      "excerpt": "The booking chatbot is among more than 100 generative AI-based solutions spurred by the AI Trailblazers project",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-26T111246.396.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/",
+      "publishedDateTime": "2024-02-26T05:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain.md",
       "title": "AstraAI: Redefining Innovation with the Ultimate AI Ecosystem in Blockchain",
       "excerpt": "As AstraAI continues on its path of groundbreaking advancements, it is clear that the platform is not just participating in the blockchain and",
@@ -10,7 +97,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-1033100075",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -49,7 +136,111 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code.md",
+      "title": "Tabnine Brings RAG To AI Coding Assistant To Generate Contextual Code",
+      "excerpt": "Tabnine, the Tel Aviv-based AI coding platform company, has announced significant enhancements to its coding assistant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/25/tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/25/tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dc0eb2761d85c95f11dc16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/25/tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/25/tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code/amp/",
+      "publishedDateTime": "2024-02-26T04:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators.md",
+      "title": "Modernizing and monetizing telecom networks with AI-powered Azure for Operators",
+      "excerpt": "Advancements in generative AI continue to accelerate the pace of industry transformation, with telecommunications emerging as a leader AI adoption. In this blog, I will share a number of exciting updates about our Azure for Operators portfolio of cloud-based solutions that enable operators to drive innovation",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB22_319562_Blog_Blogheader_240221_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -302,7 +493,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -341,7 +532,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Meta AI"
       ]
     },
     {
@@ -353,7 +545,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/ai-is-accelerating-the-loss-of-our-scarcest-natural-resource-water/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -392,7 +584,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Meta AI"
       ]
     },
     {
@@ -693,6 +886,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-24-investing-in-the-next-wave-of-explosive-ai-growth.md",
+      "title": "Investing in the Next Wave of Explosive AI Growth",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This past week, the world’s leading AI chipmaker – Nvidia (NVDA)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242?ssp=1",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242?ssp=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/yzJturJFFghqcyCNnIaAZy189Vj69lRLjtitfmAF0N-Xp39dl-O4uudjIW7n0Jhc-aiVtqt5DbyRvyRrSQzuQixXkooUvMk5Hk_qks8N-V69kdPAQFOdRIOpPU9cMhnz9MzgaKBWuSKmZj_uduuGNg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-24T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-24-why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities.md",
       "title": "Why AI can (and should) lead to a renaissance in the humanities",
       "excerpt": "We need more than ever to understand one another, which means not relying on AI to translate until we have bothered to learn each other’s languages and cultures. Let’s not approach everything through a narrow lens For example, the temptation for some ...",
@@ -977,264 +1222,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-why-ai-is-making-thought-leadership-more-important-than-ever.md",
-      "title": "Why AI Is Making Thought Leadership More Important Than Ever",
-      "excerpt": "As AI continues to reshape industries, redefine business models, and influence decision-making processes, the need for thought leadership is in high demand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/",
-      "originalUrl": "https://www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d91c93a000071c4c6533eb/0x0.jpg?format=jpg&crop=3590,2692,x218,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/amp/",
-      "publishedDateTime": "2024-02-23T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do.md",
-      "title": "Is AI Trustworthy? Experts Consider What Tech Should Be Allowed to Do",
-      "excerpt": "Is artificial intelligence coming for your job? Is it planning something much, much worse? While debates over AI regulation play out, many boosters are pushing the tech further and further.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
-      "originalUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-924529/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
-      "publishedDateTime": "2024-02-23T21:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-google-issues-ai-upgrade-warning-for-millions-of-chrome-users.md",
-      "title": "Google Issues AI Upgrade Warning For Millions Of Chrome Users",
-      "excerpt": "Google continues to change its ecosystem apace, as its evolving Gemini (née Bard) AI platform burrows its way into app after app, across desktops and mobiles. In doing so, a whole new set of risks are hitting millions of users in short order. Awareness is very low—and so Google has just responded with its latest serious warning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
-      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5e66cbd8e1e6170007593a74/0x0.jpg?format=jpg&crop=2472,1545,x868,y776,safe&height=900&width=1600&fit=bounds",
-          "width": 1440,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/",
-      "publishedDateTime": "2024-02-23T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-nvidia-stock-gained-15-trillion-to-surpass-the-faangs-apple-is-next.md",
-      "title": "Nvidia Stock Gained $1.5 Trillion To Surpass The FAANGs - Apple Is Next",
-      "excerpt": "We look at why Nvidia has been able to surpass every FAANG except Apple, and why it’s inevitable that it becomes the world's most valuable company in the next 2.5 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2024/02/23/nvidia-stock-gained-15-trillion-to-surpass-the-faangsapple-is-next/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/23/nvidia-stock-gained-15-trillion-to-surpass-the-faangsapple-is-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d910f507bba2d1cdbc02f2/0x0.jpg?format=jpg&crop=3499,1968,x0,y180,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2024/02/23/nvidia-stock-gained-15-trillion-to-surpass-the-faangsapple-is-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2024/02/23/nvidia-stock-gained-15-trillion-to-surpass-the-faangsapple-is-next/amp/",
-      "publishedDateTime": "2024-02-23T20:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024.md",
-      "title": "5 ways to leverage AI to streamline your business workflows in 2024",
-      "excerpt": "Used right, AI has the potential to significantly improve the efficiency of operational workflows, and increase productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024/",
-      "originalUrl": "https://venturebeat.com/business/5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/pexels-christina-morillo-1181534-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T20:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

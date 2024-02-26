@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-und
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: NDTV
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Meta to Set up Team to Counter Disinformation, AI Abuse in EU Elections"
+    excerpt: "BRUSSELS (Reuters) - Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European Parliament elections in June amid concerns about election interference and misleading AI-generated content."
+    publishedDateTime: 2024-02-26T05:02:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Opinion: Artificial intelligence must reflect the diversity of humanity. New technology can help."
     excerpt: "On my last visit to La Jolla Cove, this scenic corner of San Diego sparked a question for me: What does artificial intelligence, AI, think about places like La Jolla Cove? Whose opinions and voices shape what an AI system believes? It highlights the ..."
     publishedDateTime: 2024-02-21T14:08:00Z

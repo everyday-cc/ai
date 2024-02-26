@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/amp_articleshow/107883721.cms"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Indiatimes
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber Eats is launching a delivery service with Cartken’s sidewalk robots in Japan"
-    excerpt: "Uber, Mitsubishi Electric and autonomous robotics startup Cartken are launching a service in Japan using self-driving sidewalk robots."
-    publishedDateTime: 2024-02-21T06:03:00Z
-    webUrl: "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/"
-    ampWebUrl: "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2024/02/cartken-uber.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Uber Eats’ self-driving delivery robots hit Japan"
     excerpt: "Uber is launching an artificial intelligence-based autonomous robot delivery service in Japan, in partnership with Mitsubishi Electric and Cartken."
     publishedDateTime: 2024-02-23T02:00:00Z

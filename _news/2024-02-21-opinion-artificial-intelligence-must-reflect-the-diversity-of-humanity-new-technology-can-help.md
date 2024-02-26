@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Meta to Set up Team to Counter Disinformation, AI Abuse in EU Elections"
+    excerpt: "BRUSSELS (Reuters) - Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European Parliament elections in June amid concerns about election interference and misleading AI-generated content."
+    publishedDateTime: 2024-02-26T05:02:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "XT2bla70fY2Ntdm5IsRRVRqu0NngaMArcSSHDcf2hU5hSgOXn4QuRj3+qQfWNAqoEsnEvRmDkYT/3DN2cy1AxfabvaVqfMbjjahy0SOTe/qHCOgRxxKanb6VOltpoa9CJPYOLSIi2J+6i2UvuA5VQdb1UjfrjenJXK0PPh5q0Nis9nNz2jO75uKM1g2e0EvBbtXQ71cxQBHUeduD3OYnyXx9sQsHRgL5XLKIM51dQSlAUtDj8OIFYztUrPuUXmcsU0+NkV63e7DH6tiEz00jg4J9ZTWs9svwHB2DJXA9A7NJTUV0Aq5j6X4InHOjbywrLat8blXxQzVmb1ym1PzzhyiuVEmNBTP4KXCFdUW06hgYdQUiCZj9+UqwX2P7UMxQ338tZ1thmB89/i0fjeP5zmXo4QoulW18eOLqiUjka+G0BZ3aF9lvayxMUlNtF64NqPwwLpdUdNG7DfnYdZgIV6BwwY6meCii6XaGE2NZv6N6LlQZ5c4Rr9WYTRKtMlOBs7TWMls13VaZYpmW4BYGIg==;RBaRX1XMPRAXlzmA/1IxJQ=="
 ---

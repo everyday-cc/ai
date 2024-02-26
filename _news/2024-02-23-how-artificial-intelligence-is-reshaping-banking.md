@@ -23,31 +23,38 @@ topics:
   - Meta AI
 
 related:
-  - title: "AI is having a 1995 moment"
-    excerpt: "The analyst said the hunger for Nvidia's AI chips from leading software providers like Salesforce, Adobe, and Oracle is a \"transformational tech trend we have not seen since the start of the Internet in the mid 90's.\" But that doesn't mean major AI ..."
-    publishedDateTime: 2024-02-23T18:19:00Z
-    webUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
+  - title: "Modernizing and monetizing telecom networks with AI-powered Azure for Operators"
+    excerpt: "Advancements in generative AI continue to accelerate the pace of industry transformation, with telecommunications emerging as a leader AI adoption. In this blog, I will share a number of exciting updates about our Azure for Operators portfolio of cloud-based solutions that enable operators to drive innovation"
+    publishedDateTime: 2024-02-26T04:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
     images:
-      - url: "https://i.insider.com/65d8ca26ce7f1785b2e37b7b?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB22_319562_Blog_Blogheader_240221_V01.png"
+        width: 1260
+        height: 708
         isCached: true
-  - title: "Tackling AI bias in employment"
-    excerpt: "One way to mitigate AI risk in employment and bias more generally is allowing researchers and smaller players, instead of just a handful of big companies, to examine models."
-    publishedDateTime: 2024-02-22T17:25:00Z
-    webUrl: "https://www.axios.com/pro/tech-policy/2024/02/22/government-companies-try-to-tackle-ai-bias-in-employment"
+  - title: "AWS Telecom GM sees less need for central data lakes with gen AI"
+    excerpt: "Chivas Nambiar is the general manager of the global telecom business unit at Amazon Web Services (AWS). | The telecom industry has been collecting a ton of data for decades, and now with gen AI it's able to go back and tap all that data."
+    publishedDateTime: 2024-02-21T21:51:00Z
+    webUrl: "https://www.fiercewireless.com/wireless/aws-telecom-gm-sees-less-need-central-data-lakes-gen-ai"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 21
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 34
+  - title: "Transforming broadcasting with artificial intelligence and machine learning"
+    excerpt: "In common with industries across the modern economy, the broadcast media industry is currently on its own artificial intelligence (AI) and machine learning (ML) journey, with organisations at various stages of evaluation and implementation. But in ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/transforming-broadcasting-with-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 32
 
 secured: "9w418FJDObdn92BI+sczZyJMdwMM9VUOdiT5gaKLP/HXPQpDwueaXrr8qdPqLs+cY+pQwbJr4NT3LErvGI/wKRt5tLlyhJT8CUuguqhEvpxMKkIWHVudChuGJLYnC4O++XyD0Jd4KavLVCrur7W+kmqZU5VsHd/y6RUcGeDvTb/KIy3sudklkCMrzX87JH+YnIJvQfPCyWk/ISBtVVBUpufCeLmQlDMJBk8GgNwWeEt8phLaCFWJJ82n/hdcDalNSUHkpWiyVOsoC5QZhXSGWfKwfKrATX31GGAE82gjfvffsWPDX82XLN1NH0G52YKSOA33A9toOOxvjCMjH+QLfZM3aW1HObUpGtPW5bFjjFodT/TcPRtdwRR5Vb/xvms17VqByZZENS5axkCwH1SbDXbGkEgTli/pmzjGVGe9UNYB3m3gkujsdma9xnkeZ9FzMnt6ToCYaHA9U7Iwvih7/f538zuD3ExWGxbt2A+ZBT3xcDmtGsMcJaWYqJ0vOvVoU14kUeHa4XPz+qb7kL5oWw==;mnJdcwGxp08KTQWUTF7afg=="
 ---

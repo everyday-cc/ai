@@ -342,6 +342,20 @@ related:
         width: 299
         height: 201
         isCached: true
+  - title: "FWD Group partners with Microsoft to shape the future of AI-driven insurance experiences"
+    excerpt: "Ryan Kim, Group Chief Digital Officer of FWD Group (Left); Bill Borden, Corporate Vice President of Worldwide Financial Services, Microsoft (Right) FWD Group plans to drive its generative AI initiatives by leveraging Microsoft's Azure OpenAI Service and ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.asiaone.com/business/fwd-group-partners-microsoft-shape-future-ai-driven-insurance-experiences"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 45
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Feb2024/Left__Ryan_Kim_Group_Chief_Digital_Officer_FWD_Group__Bill.jpg?itok=iwa78vUc"
+        width: 600
+        height: 450
+        isCached: true
   - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
     excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."
     publishedDateTime: 2024-02-22T12:30:00Z
@@ -402,6 +416,6 @@ related:
       domain: geeky-gadgets.com
     quality: 19
 
-secured: "5Y4WEbkIpM3U6Dk4+KHmjFmrR3XItmvZ+bn4L/wZzCveUn0Nio2eqD4AVKmHADdbUiHN08MTJoQHbAhg0P74BQU6KTq4bqVn2VjLFKrGJaj05MY8W42vemmOzELxoGq0ZBp8ZkPl7aTX/+MK73lzyU9aGzx7WiQcIUFtw0303a6rtNj8hqGxMmvrO5wph66bCMotAs26SIX++tJ3Wmt+VvTZtV1NxDiU28bGFs1E82s9yTltQAQ0Et3nGHJZsAz22nv2dSQzcV+Myte7pNZadtZMWgle4RGRplk4OEBzFUduWqrZiNB3U6+Hi+h1zzPGH+ck1Jzed2i9OePX/fKrOMqr6B7wwvTqKRWQ9kZXOAk=;EGjXYSAw/sWCfP9CSsoI7Q=="
+secured: "1Xh1+DdyGNJQI3k110Y4r7BNQA5IFQmtsfFHLmO4aYZ92YjJNv6vKVxD5eAXpOLVBpNQxYsysE6EwckoQYJnWHigxjt2S5r6ojSeisGFPWYnglet0p8cz0eyX646zWAVokw83zVwXSnSsG7ZrTQ0DFk3MEU0GS1P3rxyin4BG8PMWg4FHnnrckX0Gpu/RTtD+lD+gUULVgq0SvTbZGtDeyvYrbbB2ltYQ5uLJGICMvLlIkXFJMCj7f7GCGUGX49bC4FxuQjVfBYjufl3m1tVvIxhamyN6hDzfCIzFOMH8oj2nX/NE3pbLFOrJnqXHSHckMMk1hGD+G9AByxNZ2u9RyPV17HPcxq8DZXLY2s4p4WtfD2byPefdczbh1oeQ6+GmlbygyB77I0VkdcaXFQm5meHLMMD9w8OqBbEgHEB7c66N6LcnFYlPrGRJYWcovULzsEdipuvIs/06HWCpOm65/eCvhmijz0+nUGJbwHWJWJBPXiaFTl9QnF1yYZ0Jstxhlfve4QC053UWlLYDGwNiQ==;G9ttFb5X4aqc2gR+p6sdhA=="
 ---
 

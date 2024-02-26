@@ -2,6 +2,283 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2024-01-17-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics.md",
+      "title": "Tesla: Continuing The Short Bet, As Bull Thesis Depends Too Much On AI And Robotics",
+      "excerpt": "We will see more hype around AI/robotics, but there is no timeline for when Tesla will deliver products. Read why I decided to continue short bet on TSLA stock.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4663303-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics",
+      "originalUrl": "https://seekingalpha.com/article/4663303-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1584500014/image_1584500014.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T15:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-jfrog-aws-team-up-for-machine-learning-in-the-cloud.md",
+      "title": "JFrog, AWS team up for machine learning in the cloud",
+      "excerpt": "The JFrog Amazon SageMaker integration incorporates machine learning models into the software development lifecycle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
+      "originalUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/14/17/istock-1373029024-100944667-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html",
+      "publishedDateTime": "2024-01-17T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-how-deep-tech-can-transform-surgery.md",
+      "title": "How Deep Tech Can Transform Surgery",
+      "excerpt": "Developing and implementing deep tech solutions, like surgical robotics, into the healthcare ecosystem can launch surgical care to new heights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/17/how-deep-tech-can-transform-surgery/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/17/how-deep-tech-can-transform-surgery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-chatbot-examples-a-beginners-guide.md",
+      "title": "Chatbot examples: A beginner’s guide ",
+      "excerpt": "Chatbots have become the go-to method for organizations to provide around-the-clock customer service—learn the best ways to use them.\nThe post Chatbot examples: A beginner’s guide  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/chatbot-examples-a-beginners-guide/",
+      "originalUrl": "https://www.ibm.com/blog/chatbot-examples-a-beginners-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up.md",
+      "title": "How one IBMer is creating a more sustainable future for the island where he grew up",
+      "excerpt": "Takahito Motonaga is one IBMer making a difference in the community where he grew up: Miyakojima City, Okinawa, Japan.\nThe post How one IBMer is creating a more sustainable future for the island where he grew up appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
+      "originalUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-elon-musk-issues-ultimatum-to-tesla-give-me-more-shares-or-ai-and-robotics-development-stops.md",
+      "title": "Elon Musk issues ultimatum to Tesla: give me more shares or AI and robotics development stops",
+      "excerpt": "Writing on his own X/Twitter platform, Musk warned that unless his ownership in Tesla increased to 25%, he would be \"uncomfortable growing Tesla to be a",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
+      "originalUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2022/11/2022-11-07-image-3.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T10:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-artificial-intelligence-and-machine-learning-news.md",
       "title": "Artificial Intelligence and Machine Learning: News",
       "excerpt": "Find Latest News, Videos and Pictures about Artificial Intelligence and Machine Learning. Explore latest updates, news, information from NewsBytes. All about Artificial Intelligence and Machine Learning.",
@@ -851,247 +1128,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-maximizing-ai-growth-using-incentives-to-unlock-unutilized-gpu-resources.md",
-      "title": "Maximizing AI Growth: Using Incentives to Unlock Unutilized GPU Resources",
-      "excerpt": "With AI expected to add trillions of dollars to global economic growth by 2030, the question on everyone’s mind is how to deal with the uncertain supply of graphics processing unit (GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/maximizing-ai-growth-using-incentives-to-unlock-unutilized-gpu-resources",
-      "originalUrl": "https://www.nasdaq.com/articles/maximizing-ai-growth-using-incentives-to-unlock-unutilized-gpu-resources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T19:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-amd-shares-jump-8-to-highest-close-since-2021-on-ai-chip-demand.md",
-      "title": "AMD shares jump 8% to highest close since 2021 on AI chip demand",
-      "excerpt": "AMD is one of two major producers of graphics processing units, which were created for advanced computer games and are now key to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318.jpeg?v=1705430893",
-          "width": 4548,
-          "height": 3026,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
-      "publishedDateTime": "2024-01-16T19:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-cognigy-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Cognigy Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/",
-      "originalUrl": "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-join-us-at-the-forefront-of-ai-for-business-think-2024.md",
-      "title": "Join us at the forefront of AI for business: Think 2024",
-      "excerpt": "Join IBM at the forefront of AI for business at Think 2024 in Boston from May 20-23, 2024. We can't wait to see you there.\nThe post Join us at the forefront of AI for business: Think 2024 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/join-us-at-the-forefront-of-ai-for-business-think-2024/",
-      "originalUrl": "https://www.ibm.com/blog/join-us-at-the-forefront-of-ai-for-business-think-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T18:57:33Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-bet-on-googles-alpha-bets.md",
-      "title": "Bet On Google's 'Alpha Bets'",
-      "excerpt": "Google is the cheapest of the Magnificent 7 due to fears that large language models will cannibalize its search empire. Find out why GOOG stock is a Strong Buy.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4663105-bet-on-google-alpha-bets",
-      "originalUrl": "https://seekingalpha.com/article/4663105-bet-on-google-alpha-bets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T17:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-artificial-intelligence-helped-scientists-create-a-new-type-of-battery.md",
-      "title": "Artificial intelligence helped scientists create a new type of battery",
-      "excerpt": "It took just 80 hours, rather than decades, to identify a potential new solid electrolyte using a combination of supercomputing and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencenews.org/article/artificial-intelligence-new-battery",
-      "originalUrl": "https://www.sciencenews.org/article/artificial-intelligence-new-battery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/01/011224_ev_AI-battery_feat.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T17:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science News",
-        "domain": "sciencenews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

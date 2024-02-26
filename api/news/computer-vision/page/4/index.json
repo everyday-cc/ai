@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-28-spying-on-beavers-from-space-could-help-save-california.md",
+      "title": "Spying on Beavers From Space Could Help Save California",
+      "excerpt": "A group of scientists taught an algorithm to spot beaver ponds in satellite imagery, which has the potential to help drought-ridden areas like California bounce back.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/spying-on-beavers-from-space-could-help-save-california/",
+      "originalUrl": "https://www.wired.com/story/spying-on-beavers-from-space-could-help-save-california/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65846185a032f4fcd48c037c/191:100/w_1280,c_limit/science_beavers_climate_environment.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-revolutionizing-child-protection-the-un-and-uaes-groundbreaking-ai-for-safer-children-collaboration.md",
       "title": "Revolutionizing Child Protection: The UN And UAE’s Groundbreaking AI For Safer Children Collaboration",
       "excerpt": "UNICRI Centre for AI and Robotics, Ministry of Interior of the UAE launched AI for Safer Children initiative in combating online child sexual exploitation and abuse.",
@@ -1356,58 +1408,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-will-the-vision-pro-replace-the-mac-why-apple-will-have-to-tread-carefully.md",
-      "title": "Will the Vision Pro replace the Mac? Why Apple will have to tread carefully",
-      "excerpt": "There’s a chance the Vision Pro may replace the Mac for some users, yet Apple is trying hard to make sure that doesn’t happen -- and that you buy both products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/will-the-vision-pro-replace-the-mac/",
-      "originalUrl": "https://www.digitaltrends.com/computing/will-the-vision-pro-replace-the-mac/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/06/Apple-Vision-Pro-SDK-availability-developer-lifestyle.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/will-the-vision-pro-replace-the-mac/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/will-the-vision-pro-replace-the-mac/?amp",
-      "publishedDateTime": "2023-12-03T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

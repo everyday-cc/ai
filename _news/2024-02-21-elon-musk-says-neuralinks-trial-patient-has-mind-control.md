@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "First Human To Receive Neuralink Chip Can Control Mouse With Mind, Claims Musk"
-    excerpt: "Earlier, in January, Musk revealed that Neuralink had managed to implant its wireless brain chip in a human for the first time. In a post on X, Musk said that \"promising\" brain activity was detected in the human after the procedure and that the person was \"recovering well\"."
-    publishedDateTime: 2024-02-21T06:58:00Z
-    webUrl: "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 52
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1722345/elon-musk.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Neuralink First Human Patient Can Control Cursor With Mind"
     excerpt: "Last Month, Elon Musk’s brain implant company, Neuralink put its highly anticipated chip inside the first human patient. In a significant development, Musk claims that the patient can now move a mouse cursor using his mind. Furthermore, Elon Musk is also hoping that the patient will be able to repeatedly click the mouse in the future."
     publishedDateTime: 2024-02-21T08:17:00Z
