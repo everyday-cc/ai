@@ -2,6 +2,177 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-02-14-new-for-2024-bergara-mgmicro-lite.md",
+      "title": "New For 2024: Bergara MgMicro Lite",
+      "excerpt": "Rifle maker Bergara is already well-established in the lightweight hunter category with models like its Crest and MgLite. Now the company is taking its Premier series MgLite and making it even lighter and more compact with the MgMicro Lite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanrifleman.org/content/new-for-2024-bergara-mgmicro-lite/",
+      "originalUrl": "https://www.americanrifleman.org/content/new-for-2024-bergara-mgmicro-lite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.americanrifleman.org/media/cg3mayo0/bergara-mgmicro-lite-01.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Rifleman",
+        "domain": "americanrifleman.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-the-future-of-renewable-energy.md",
+      "title": "The future of renewable energy",
+      "excerpt": "The next generation of clean energy needs innovative technology and power generation to help the world reach net-zero emissions.\nThe post The future of renewable energy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/future-of-renewable-energy/",
+      "originalUrl": "https://www.ibm.com/blog/future-of-renewable-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-the-most-valuable-ai-use-cases-for-business.md",
+      "title": "The most valuable AI use cases for business",
+      "excerpt": "We’re all amazed by what AI can do. But the question for those of us in business is what are the best business uses?\nThe post The most valuable AI use cases for business appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars.md",
+      "title": "San Francisco Waymo arson sparks fresh debate on self-driving cars",
+      "excerpt": "A seasoned San Francisco cab driver might have avoided the intersection of Jackson Street and Grant Avenue, in the heart of the city's Chinatown on the first day of Chinese New Year. But an autonomous Waymo robotaxi did not,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksl.com/article/50875940/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars",
+      "originalUrl": "https://www.ksl.com/article/50875940/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.ksl.com/slc/2970/297026/29702659.JPG?filter=kslv2/responsive_story_lg",
+          "width": 1228,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T12:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSL",
+        "domain": "ksl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-how-a-french-health-insurance-unicorn-plans-to-leverage-ai-to-reach-profitability.md",
       "title": "How a French health insurance unicorn plans to leverage AI to reach profitability",
       "excerpt": "Alan’s meteoric rise in the French tech ecosystem has been both figurative and literal. A few years ago, the startup’s office was limited to one floor in",
@@ -994,169 +1165,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-draculas-chivito-is-this-years-best-name-for-a-newly-found-astronomical-object.md",
-      "title": "“Dracula's Chivito” Is This Year's Best Name For A Newly Found Astronomical Object",
-      "excerpt": "IFLScience needs the contact information you provide to us to contact you about our products and services. You may unsubscribe from these communications at any time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/draculas-chivito-is-this-years-best-name-for-a-newly-found-astronomical-object-72931",
-      "originalUrl": "https://www.iflscience.com/draculas-chivito-is-this-years-best-name-for-a-newly-found-astronomical-object-72931",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.iflscience.com/assets/articleNo/72931/aImg/74152/dracula-s-bun-meta.png",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-robotics-and-artificial-intelligence-revolutionizing-energy-infrastructure-maintenance.md",
-      "title": "Robotics and artificial intelligence revolutionizing energy infrastructure maintenance",
-      "excerpt": "the University of Houston is offering a timely micro-credential course focused on artificial intelligence and robotics for energy integrity and maintenance. The course, titled \"AI & Robotics for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1034485",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1034485",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-roundtable-healthcare-organizations-put-generative-ai-under-the-microscope.md",
-      "title": "Roundtable: Healthcare Organizations Put Generative AI Under the Microscope",
-      "excerpt": "The good, the bad and the unpredictable? Four industry experts discuss the role of generative artificial intelligence in healthcare and its potential.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope",
-      "originalUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202402/HTQ124_Feature_Gimbel_Hero.jpg?itok=aixW-18e",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope?amp",
-      "publishedDateTime": "2024-02-13T23:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-eu-finds-imessage-three-microsoft-products-dont-qualify-as-core-platform-services.md",
-      "title": "EU finds iMessage, three Microsoft products don’t qualify as core platform services",
-      "excerpt": "Certain provisions of the DMA only apply to products that are designated as “core platform services” by regulators. The decision the EU published today specifies iMessage and three Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/02/13/eu-finds-imessage-three-microsoft-products-dont-qualify-core-platform-services/",
-      "originalUrl": "https://siliconangle.com/2024/02/13/eu-finds-imessage-three-microsoft-products-dont-qualify-core-platform-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/photo-3.png",
-          "width": 718,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T22:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

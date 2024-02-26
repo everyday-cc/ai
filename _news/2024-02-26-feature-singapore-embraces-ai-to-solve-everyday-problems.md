@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-fea
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Singapore's AI ambitions reveal challenges for adoption"
-    excerpt: "It’s imperative to ensure that the strategy and processes of implementing AI are holistic, responsible, and sustainable."
-    publishedDateTime: 2024-02-23T03:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/singapores-ai-ambitions-reveal-challenges-adoption"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/singapores-ai-ambitions-reveal-challenges-adoption"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/singapores-ai-ambitions-reveal-challenges-adoption"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
 
 secured: "fz/evxkq+Ik//rFTfv24kKHaSzCBnzBO+nBctiaWoKju4oJR4VBhbG4C5YmtDuknBhMc45vCGXRtG1tYs3OSlLwX7AIl/VuziOsYYn0YrUvb2YI1eBJSb6/UNRdtu63bm+fnlnujyKmdppe70q+Fmjzx4p2KpDa0vk56P3CaYj+AWh6cmuhZJpd88l3kdZA0voacWhBM3/PeL5lbOr4Qbh4wY7MfB3diG6NnaA2cGlziY/7nAUZVQS/Rb49g3TUPUqO2PgEVjT3wLz/1tzhyiK9WShYUBVmtOgfx71tl9RoQqmWszNPaCtgY0sdP75k5Q3A9LkUjenP89WaDDP+bfzIuOeLU0HubGoGHikWSkLk=;TWCLy6sUSf4YnAYlLffrfQ=="
 ---

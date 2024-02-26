@@ -42,20 +42,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 44
-  - title: "Insights Into Challenges And Opportunities Of Artificial intelligence (AI) in Logistics Market"
-    excerpt: "Artificial intelligence (AI) in Logistics Industry Analysis Report 2024"
-    publishedDateTime: 2024-02-21T12:40:00Z
-    webUrl: "https://www.opprairie.com/news/insights-into-challenges-and-opportunities-of-artificial-intelligence-ai-in-logistics-market/95435/"
-    type: article
-    provider:
-      name: The Orland Park Prairie
-      domain: opprairie.com
-    quality: 42
-    images:
-      - url: "https://www.opprairie.com/wp-content/uploads/2024/02/Capture-40.png"
-        width: 563
-        height: 322
-        isCached: true
 
 secured: "6vNtubBgQlRLewvLhSDTERVKSumprAUHYwNyhJkR3M0FEao0Ky5SQUONMrpHCVuKhhqPk/br4iDNqo+qCgkyRO2SxPAYm+Zd/DgfBCEs2rucVEDM4OWayKRGJnbu3X8cQurX199rHyoxbWW3KZ78WDO3rf0m7W2Kf2meBoPSZDq5ZSnGNKAsXfvTn5tQxieMi2fL0Zl+oKn5RZ9Hy++lJ1eG+88sOY9TqRZB6grOZXv4bQtDmlOdbQ5jZIzqlPNCXCpAy8g96HEw/beLQz1B9Z0wNkdTv1nLb/hhbYJ8wSrSSxzcjJmFNXTa5OkRrEEdyyLCPIGOJ4EfQUePplJNFmnvFHVCoxeHNWMCgZnyP8+w77xWMGGm5wCObuBrlMl334a2/1G1X6yk1oC6H+Xn1B9jrW1LG/GrG2BTLbTcLkZJsMm0sdQcHwiSnVMV9Ng7MtGyZqo8wKa5HIDCnU960WKVLzcM/vCNvmZTCXlgliIB8PuSeREhjWb7nlj5an5kmSNeQLOhn2veqvj6TvsgmQ==;Oat+kshQROepnzUk3Z92ww=="
 ---

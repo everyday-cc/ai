@@ -166,7 +166,7 @@
       "originalUrl": "https://www.zdnet.com/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 541,
+      "heat": 511,
       "tags": null,
       "images": [
         {
@@ -926,6 +926,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-13-heres-why-google-renamed-bard-to-gemini-sundar-pichai-answers.md",
+      "title": "Here's Why Google Renamed Bard to Gemini: Sundar Pichai Answers",
+      "excerpt": "In a recent blog post, Google announced several pivotal changes that signify a new direction in its approach to artificial intelligence. The tech giant has decided to rename its Bard AI chatbot to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/internet/news/google-bard-ai-rebranding-to-gemini-explained-gen-091513.html",
+      "originalUrl": "https://www.gizbot.com/internet/news/google-bard-ai-rebranding-to-gemini-explained-gen-091513.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizbot.com/img/2024/02/gemini-1-1707802901.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T12:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-google-ai-bard-renamed-to-gemini-introducing-subscription-and-app.md",
       "title": "Google AI ‘Bard’ Renamed to ‘Gemini’, Introducing Subscription and App",
       "excerpt": "Google Bard is now Google Gemini. This transition comes with a new mobile app and Gemini Advanced subscription with access",
@@ -1362,49 +1405,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-rebrands-bard-chatbot-as-gemini-rolls-out-paid-subscription.md",
-      "title": "Google rebrands Bard chatbot as Gemini, rolls out paid subscription",
-      "excerpt": "SAN FRANCISCO, Feb 8 (Reuters) - Google (GOOGL.O), opens new tab on Thursday renamed its Bard chatbot after the new artificial intelligence that is powering it, called Gemini, and said consumers can pay for better reasoning capabilities as it vies with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/google-rebrands-bard-chatbot-gemini-rolls-out-paid-subscription-2024-02-08/",
-      "originalUrl": "https://www.reuters.com/technology/google-rebrands-bard-chatbot-gemini-rolls-out-paid-subscription-2024-02-08/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T14:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

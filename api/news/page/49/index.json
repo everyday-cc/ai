@@ -2,6 +2,229 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2024-01-19-exploring-the-hyper-competitive-future-of-customer-experience.md",
+      "title": "Exploring the hyper-competitive future of customer experience",
+      "excerpt": "The future of customer experience demands more data, more technology and more personalized efforts to retain customer loyalty.\nThe post Exploring the hyper-competitive future of customer experience appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/customer-experience-future/",
+      "originalUrl": "https://www.ibm.com/blog/customer-experience-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T17:26:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-apple-vision-pro-sold-out-at-least-for-pre-order.md",
+      "title": "Apple Vision Pro Sold Out, At Least For Pre-Order",
+      "excerpt": "Trying to score a pre-order for a $3,500 face computer? Good luck: Apple appears to be out of stock of Apple Vision Pro headsets, at least for the moment, in every city and state. Every geographic region I’ve tried around the United States has the same ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/19/apple-vision-pro-sold-out-at-least-for-pre-order/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/19/apple-vision-pro-sold-out-at-least-for-pre-order/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T17:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-google-makes-a-surprise-new-offer-to-all-pixel-8-pro-buyers.md",
+      "title": "Google Makes A Surprise New Offer To All Pixel 8 Pro Buyers",
+      "excerpt": "It looks like Google is planning to replace Assistant with the more accomplished generative AI chatbot, Bard, which could end up with some premium paid-for tiers soon. Your Pixel phone is a conduit to more Google subscriptions. Update January 19th ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/",
+      "originalUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6579cc1db49bac13c8c88cbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/amp/",
+      "publishedDateTime": "2024-01-19T16:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-meta-to-develop-artificial-general-intelligence.md",
+      "title": "Meta To Develop Artificial General Intelligence",
+      "excerpt": "The Facebook founder said that Meta had built ... He further said that two of the company's AI research teams - FAIR and GenAI are working together to accelerate this project.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/meta-to-develop-artificial-general-intelligence-1032981000",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/meta-to-develop-artificial-general-intelligence-1032981000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.md",
+      "title": "Figure-01: Humanoid Robot Learns to Make Coffee By Watching Videos",
+      "excerpt": "The Figure-01 robot, equipped with artificial intelligence (AI), showcased its ability to watch and learn from human actions during a demonstration at Figure's San Francisco headquarters. Responding to a human request for coffee, the robot, having ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
+      "originalUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/442710/figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.png",
+          "width": 467,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
+      "publishedDateTime": "2024-01-19T14:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features.md",
       "title": "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features",
       "excerpt": "Face recognition technology follows earlier biometric surveillance techniques, including fingerprints, passport photos and iris scans. It’s the first that can be done without the subject’s knowledge.",
@@ -937,222 +1160,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.md",
-      "title": "Amazon's AWS to invest $15 bln to expand cloud computing in Japan",
-      "excerpt": "Amazon Web Services said it plans to invest $15.24 billion in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for AI services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107278754-1690574142531-gettyimages-1532812034-app_logos.jpeg?v=1705645859",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
-      "publishedDateTime": "2024-01-19T06:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-attackers-could-eavesdrop-on-ai-conversations-on-apple-amd-imagination-and-qualcomm-gpus.md",
-      "title": "Attackers Could Eavesdrop on AI Conversations on Apple, AMD, Imagination and Qualcomm GPUs",
-      "excerpt": "Security researchers from Trail of Bits identified a GPU memory vulnerability they called LeftoverLocals. Some affected GPU vendors have issued fixes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/",
-      "originalUrl": "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/01/leftoverlocals-logo-jan-24-hero.jpeg",
-          "width": 1090,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T03:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-how-can-ai-support-value-based-care.md",
-      "title": "How Can AI Support Value-Based Care?",
-      "excerpt": "Artificial Intelligence has the potential ... 28 providers and payers made commitments for responsible use of AI in healthcare. These organizations include CVS Health, Mass General Brigham ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2024/01/artificial-intelligence-value-based-care/",
-      "originalUrl": "https://medcitynews.com/2024/01/artificial-intelligence-value-based-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2021/12/GettyImages-1300745916.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T00:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.md",
-      "title": "Mark Zuckerberg wants to build Artificial General Intelligence (AGI)",
-      "excerpt": "Mark Zuckerberg is planning more AI as the focus of global tech majors ... known for creating Facebook, the first widely used social media platform. It’s still in operation today and continues ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2024/01/mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.html",
-      "originalUrl": "https://www.androidheadlines.com/2024/01/mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-news-tagged-with-deep-learning.md",
-      "title": "News tagged with deep learning",
-      "excerpt": "The Japanese Ophthalmological Society and the National Institute of Informatics have developed and public-released an AI model to estimate an individual's sex from fundus images, using data ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/tags/deep+learning/",
-      "originalUrl": "https://medicalxpress.com/tags/deep+learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

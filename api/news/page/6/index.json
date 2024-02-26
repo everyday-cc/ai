@@ -2,6 +2,206 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-21-having-double-majors-could-make-you-less-vulnerable-to-layoffs-and-ai.md",
+      "title": "Having double majors could make you less vulnerable to layoffs and AI",
+      "excerpt": "Double majors are less likely to experience layoffs and pay cuts, per an NBER paper. This could position them well for the AI future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/having-double-majors-reduce-chance-ai-job-replacement-chatgpt-layoffs-2024-2",
+      "originalUrl": "https://www.businessinsider.com/having-double-majors-reduce-chance-ai-job-replacement-chatgpt-layoffs-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65d4e3efa3bd891424f891ba?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/having-double-majors-reduce-chance-ai-job-replacement-chatgpt-layoffs-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/having-double-majors-reduce-chance-ai-job-replacement-chatgpt-layoffs-2024-2?amp",
+      "publishedDateTime": "2024-02-21T11:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-how-this-ex-apple-guys-ai-glasses-invention-works.md",
+      "title": "How this ex-Apple guy’s AI glasses invention works",
+      "excerpt": "Here are some examples. Visual recognition: You can ask Frame glasses to identify any object, person or place that you see. For example, you can say, \"What is this?\" and Frame glasses will tell you what it is, how it works or where it comes from.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works",
+      "originalUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58e1e4e7-0f6a-46ac-adf5-e1afcdf09815/445293b3-f96a-4a00-8ec5-8c312a766ee7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works.amp",
+      "publishedDateTime": "2024-02-21T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-no-tip-required-self-driving-robots-will-now-deliver-uber-eats-orders-in-tokyo.md",
+      "title": "No tip required: Self-driving robots will now deliver Uber Eats orders in Tokyo",
+      "excerpt": "These robots are equipped with artificial intelligence and advanced sensors to navigate sidewalks and detect any obstacles in their path. These robots have six wheels and can carry up to 27 litres of cargo. They travel at a walking pace of up to 3.3 miles ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/articleshow/107883721.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/articleshow/107883721.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107883741,width-1280,height-720,resizemode-4/107883741.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/amp_articleshow/107883721.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/amp_articleshow/107883721.cms",
+      "publishedDateTime": "2024-02-21T10:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-vcs-are-clamoring-to-back-screaming-hot-startups-using-ai-for-medical-records.md",
+      "title": "VCs are clamoring to back 'screaming hot' startups using AI for medical records",
+      "excerpt": "Most recently, Ambience Healthcare announced a $70 million Series B round in February, co-led by Kleiner Perkins and Open AI Startup Fund and including existing investors Andreessen Horowitz and Optum Ventures. Medical-scribe startup Nabla raised a Series ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2",
+      "originalUrl": "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65cf847ef533b039a884865f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks.md",
       "title": "Engineers develop chip that uses ‘fastest means of communication’ for AI tasks",
       "excerpt": "Read More Engineers from the University of Pennsylvania have developed a silicon-photonic chip that uses light to perform complex math for AI tasks. This chip manipulates materials at the nanoscale and enables brain-like processing, while offering ...",
@@ -1041,203 +1241,6 @@
         "Meta AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-house-punts-on-ai-with-directionless-new-task-force.md",
-      "title": "House punts on AI with directionless new task force",
-      "excerpt": "The House of Representatives has founded a Task Force on artificial intelligence that will \"ensure America Keeps leading in this strategic area,\" as",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/",
-      "originalUrl": "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/capitol-congress-hearing-government-techcrunch-bryce-durbin.jpeg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/amp/",
-      "publishedDateTime": "2024-02-20T22:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-facial-recognition-software-of-all-things-played-a-role-in-this-guys-latest-arrest.md",
-      "title": "Facial recognition software, of all things, played a role in this guy's latest arrest",
-      "excerpt": "But besides “video surveillance within the store,” the arrest report cites “new facial recognition software Lowe's has installed,” which helped the detective compare pictures of Saunders ...",
-      "sourceUrl": null,
-      "webUrl": "https://local12.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "originalUrl": "https://local12.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://local12.com/resources/media/586a0d1f-edce-4faa-93aa-00320b004454-medium16x9_20030610JasonVincentSaundersMarionCo.PNG",
-          "width": 648,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://local12.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "cdnAmpWebUrl": "https://local12-com.cdn.ampproject.org/c/s/local12.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "publishedDateTime": "2024-02-20T22:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local 12 WKRC Cincinnati",
-        "domain": "local12.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-ai-as-startup-catalyst-what-it-can-and-cannot-deliver.md",
-      "title": "AI As Startup Catalyst: What It Can And Cannot Deliver",
-      "excerpt": "There is little doubt that artificial intelligence (AI) is and will continue to be a significant asset to existing businesses and a driver of new business creation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/20/ai-as-startup-catalyst-what-it-can-and-cannot-deliver/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/20/ai-as-startup-catalyst-what-it-can-and-cannot-deliver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d522ab8a87e06bb1fc93e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 563,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/20/ai-as-startup-catalyst-what-it-can-and-cannot-deliver/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/20/ai-as-startup-catalyst-what-it-can-and-cannot-deliver/amp/",
-      "publishedDateTime": "2024-02-20T22:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16.md",
-      "title": "Working On Those Obscure Verticals: More From The AI For Impact Class Feb. 16",
-      "excerpt": "I wrote about last week’s special guests in the previous posts, but here’s more on what happened in our class Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d520094dc046145061ba84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1456,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/20/working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16/amp/",
-      "publishedDateTime": "2024-02-20T22:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

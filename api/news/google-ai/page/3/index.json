@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-27-google-update-reveals-ai-will-start-reading-all-your-private-messages.md",
+      "title": "Google Update Reveals AI Will Start Reading All Your Private Messages",
+      "excerpt": "Bard also warns that such data analysis might bias its results. “AI algorithms can perpetuate biases present in the data they're trained on. Analyzing messages could lead to unintended profiling based on language, demographics, or social circles.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
+      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b41420a2b346798e66d370/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/",
+      "publishedDateTime": "2024-01-27T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode.md",
       "title": "New open source AI coding tool surpasses its inspiration: Google DeepMind’s AlphaCode",
       "excerpt": "A new open source AI code generation tool, AlphaCodium, has surpassed DeepMind's AlphaCode, which had Twitter/X all aflutter this week.",
@@ -1405,49 +1457,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-google-might-rebrand-assistant-with-bard-before-launch.md",
-      "title": "Google might rebrand ‘Assistant with Bard’ before launch",
-      "excerpt": "Before Assistant with Bard launches on Android, Google might be dropping the \"Assistant\" moniker and rebrand to just \"Bard.\"",
-      "sourceUrl": null,
-      "webUrl": "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/?extended-comments=1",
-      "originalUrl": "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/?extended-comments=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/assistant-with-bard-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T00:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5google",
-        "domain": "9to5google.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

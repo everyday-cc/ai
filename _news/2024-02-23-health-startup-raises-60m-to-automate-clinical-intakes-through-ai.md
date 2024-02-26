@@ -27,15 +27,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "Health Care AI Startup Raises $60 Million From General Catalyst, Thrive, GV"
-    excerpt: "Fabric Labs Inc., a startup that uses artificial intelligence to automate clinical and administrative work in health care, has raised $60 million in a funding round led by General Catalyst."
-    publishedDateTime: 2024-02-21T12:26:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-21/health-care-ai-startup-raises-60-million-from-general-catalyst-thrive-gv"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Abridge, an AI start­up for med­ical notes, rais­es $150M"
     excerpt: "Abridge raised a Series C just four months after its last round, as investors remain interested in betting big on health AI even in a tougher market for health tech. Abridge chief"
     publishedDateTime: 2024-02-23T12:43:00Z

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-08-google-rebrands-bard-chatbot-as-gemini-rolls-out-paid-subscription.md",
+      "title": "Google rebrands Bard chatbot as Gemini, rolls out paid subscription",
+      "excerpt": "SAN FRANCISCO, Feb 8 (Reuters) - Google (GOOGL.O), opens new tab on Thursday renamed its Bard chatbot after the new artificial intelligence that is powering it, called Gemini, and said consumers can pay for better reasoning capabilities as it vies with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/google-rebrands-bard-chatbot-gemini-rolls-out-paid-subscription-2024-02-08/",
+      "originalUrl": "https://www.reuters.com/technology/google-rebrands-bard-chatbot-gemini-rolls-out-paid-subscription-2024-02-08/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T14:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-google-bard-is-now-gemini-and-gemini-advanced-is-bundled-with-google-one.md",
       "title": "Google Bard is now Gemini, and Gemini Advanced is bundled with Google One",
       "excerpt": "After all, Google Gemini is Google’s best answer to ChatGPT, so it’s not a surprise to see Google want to forget all about Bard and Duet AI. These brands are going to be replaced by Google Gemini across the board, including on desktop and mobile devices.",
@@ -1383,58 +1426,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-google-update-reveals-ai-will-start-reading-all-your-private-messages.md",
-      "title": "Google Update Reveals AI Will Start Reading All Your Private Messages",
-      "excerpt": "Bard also warns that such data analysis might bias its results. “AI algorithms can perpetuate biases present in the data they're trained on. Analyzing messages could lead to unintended profiling based on language, demographics, or social circles.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
-      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b41420a2b346798e66d370/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/",
-      "publishedDateTime": "2024-01-27T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

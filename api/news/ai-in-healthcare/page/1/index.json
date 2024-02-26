@@ -10,7 +10,7 @@
       "originalUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "",
@@ -149,58 +149,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-22-ai-set-to-drive-major-tech-advancements-in-2024-ieee-study-finds.md",
-      "title": "AI set to drive major tech advancements in 2024, IEEE study finds",
-      "excerpt": "A new global survey by the Institute of Electrical and Electronics Engineers (IEEE) finds artificial intelligence will be the top technology in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/artificial-intelligence-set-to-drive-major-tech-advancements-in-2024-ieee-study-finds/",
-      "originalUrl": "https://venturebeat.com/ai/artificial-intelligence-set-to-drive-major-tech-advancements-in-2024-ieee-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Vector_art_of_artificial_intelligence_holding_the_wor_72f60434-128b-4a2f-a0bb-3430590f3fc9-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T03:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-22-how-a-new-bipartisan-task-force-is-thinking-about-artificial-intelligence.md",
       "title": "How a New Bipartisan Task Force Is Thinking About Artificial Intelligence",
       "excerpt": "On Tuesday, speaker of the House of Representatives Mike Johnson and Democratic leader Hakeem Jeffries launched a bipartisan Task Force on Artificial Intelligence. Johnson, a Louisiana Republican ...",
@@ -209,7 +157,7 @@
       "originalUrl": "https://time.com/6727264/house-artificial-intelligence-task-force/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -310,8 +258,8 @@
       "title": "Availity Issues Statement of Principles on Artificial Intelligence in Healthcare",
       "excerpt": "Availity, the nation's largest real-time health information network, issued the company's Responsible Artificial Intelligence (AI) Principles. The principles represent Availity's commitment to the development, integration, and deployment of AI-powered tools to maximize meaningful and beneficial use in the delivery of healthcare.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1399,6 +1347,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers.md",
+      "title": "AI cannot be used to deny health care coverage, feds clarify to insurers",
+      "excerpt": "Health insurance companies cannot use algorithms or artificial intelligence to determine care or deny coverage to members on Medicare Advantage plans, the Centers for Medicare & Medicaid Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/",
+      "originalUrl": "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1985565682-760x380.jpeg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

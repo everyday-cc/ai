@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/lite/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Express
@@ -36,6 +36,15 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 13
+  - title: "How AI health care chatbots learn from the questions of an Indian women's organization"
+    excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.wral.com/story/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/21295384/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 11
 
 secured: "HndMY6Sx41OMyL37rWUQM1ve7DkrNfdrQg4wDns8iDq60YNe3vQC1rkSOc4dY9PhakUOH5c55MgYrTi9RrP32YwwXLsJc4elX40Gneyh8sZhFJLHNSmgdaTcczkR5fdRZ43ADm38+hNRYDzPllCrIe6uQOfAmGQTckaBQ0LAXe91FBgoV/ayzduqw482nCZGLfJzddII7gi0Iluxshgh+FjpF6lTzAWigNrHS0gZP+l428gnkQDky9DX6wlZontSOAuAFVIA8XUWgBR/CdnitJpgM9C6WcQDyvDqfDm0E+13XgHU2ly37ND1nmD4fr7iZvl6ydF9AJAe41d6OrpZiPL91PyPCkM6UjThyAVAhoY=;LCpI6AWtfETBmByBshJ5gw=="
 ---

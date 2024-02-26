@@ -2,6 +2,309 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-23-reimagining-higher-education-seneca-polytechnic-set-to-transform-postsecondary-learning-with-integration-of-microsoft-azure-ai.md",
+      "title": "Reimagining higher education: Seneca Polytechnic set to transform postsecondary learning with integration of Microsoft Azure AI",
+      "excerpt": "Seneca Polytechnic among the first Canadian postsecondary institutions to bring Microsoft Azure AI technologies to students to support learning and career goals  TORONTO, Feb. 22, 2024 /CNW/ - Seneca Polytechnic announced it is bringing the power of Microsoft Azure AI technology to students and employees through several new initiatives designed to prepare students for the workforce of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/22/9966707.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/22/9966707.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2345557/Seneca_Polytechnic_Reimagining_higher_education__Seneca_Polytech.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T16:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap.md",
+      "title": "Care.com Founder Launches AI Startup Aimed At $10.9 Trillion Labor Gap",
+      "excerpt": "Their story and journey create powerful references in helping us understand how to pave the path forward for gender parity and address this seismic gap.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/",
+      "originalUrl": "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d66426b566a26356499580/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 897,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/amp/",
+      "publishedDateTime": "2024-02-22T16:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-operationalizing-responsible-ai-principles-for-defense.md",
+      "title": "Operationalizing responsible AI principles for defense",
+      "excerpt": "Curating responsible AI is a multifaceted challenge that demands that human values be reliably and consistently reflected in our technology.\nThe post Operationalizing responsible AI principles for defense appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/",
+      "originalUrl": "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/coding_1-2-1.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T15:35:50Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute.md",
+      "title": "Women In AI: Krystal Kauffman, research fellow at the Distributed AI Research Institute",
+      "excerpt": "Krystal Kauffman, profiled as part of TechCrunch's series on women in AI, is a research fellow at the Distributed AI Research Institute.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/",
+      "originalUrl": "https://techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/women-in-ai-Kauffman.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/amp/",
+      "publishedDateTime": "2024-02-22T15:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-driving-the-future-ai-ethics-and-jobs-in-the-age-of-automation.md",
+      "title": "Driving the Future: AI, Ethics and Jobs in the Age of Automation",
+      "excerpt": "Venture into the epicenter of innovation with Jonathan Campos as we dissect the titans of tech, steer through the self-driving revolution and grapple with AI's impact on jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1708458393-AIEthicsandJobsintheAgeofAutomation.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps.md",
+      "title": "The Nvidia app launches in beta form that will merge several of the company's GPU apps",
+      "excerpt": "The Nvidia app will also have more info on what's been added and what has been fixed for new GPU driver updates. Other changes for the new Nvidia app include improvements in the In-Game Overlay UI, and support for new AI-powered visual filters. One of them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
+      "originalUrl": "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2024/02/1708611177_nvidia-app-key-visual_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
+      "publishedDateTime": "2024-02-22T14:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-three-event-essentials-for-exhibitors.md",
       "title": "Three Event Essentials For Exhibitors",
       "excerpt": "Having a three-stage plan for before, during and after the show will mean you are prepared at every stage of the game.",
@@ -926,58 +1229,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-22-ai-set-to-drive-major-tech-advancements-in-2024-ieee-study-finds.md",
-      "title": "AI set to drive major tech advancements in 2024, IEEE study finds",
-      "excerpt": "A new global survey by the Institute of Electrical and Electronics Engineers (IEEE) finds artificial intelligence will be the top technology in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/artificial-intelligence-set-to-drive-major-tech-advancements-in-2024-ieee-study-finds/",
-      "originalUrl": "https://venturebeat.com/ai/artificial-intelligence-set-to-drive-major-tech-advancements-in-2024-ieee-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Vector_art_of_artificial_intelligence_holding_the_wor_72f60434-128b-4a2f-a0bb-3430590f3fc9-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T03:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-22-nvidias-strong-outlook-and-buy-rating-anticipating-growth-from-ai-deployments-and-new-gpu-launch.md",
       "title": "Nvidia’s Strong Outlook and Buy Rating: Anticipating Growth from AI Deployments and New GPU Launch",
       "excerpt": "Moreover, Caso anticipates a rise in the company’s revenue from China in the latter part of the year, and maintains a positive stance on the expected success of Nvidia’s B100 GPU, which is likely ... particularly from AI deployments, which have been ...",
@@ -1018,251 +1269,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets.md",
-      "title": "Galaxy AI Coming to Samsung S23, Z Flip, Z Fold 5, and Galaxy Tablets",
-      "excerpt": "One of the most touted Galaxy AI features is called Circle to Search, which lets you search for something that you see on your screen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets",
-      "originalUrl": "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00gGCdUOwn2gbxeJgLZKAYU-1.fit_lim.size_1200x630.v1708557191.jpg",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T03:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast.md",
-      "title": "Buy Rating on Amazon: Strategic Capex Reductions and AI-Driven AWS Growth Forecast",
-      "excerpt": "Amazon (AMZN – Research Report), the Consumer Cyclical sector company ... particularly with a projected increase in AWS capital spend to support burgeoning Generation AI initiatives. Despite this increase, the forecasted capital expenditures remain ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T01:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-if-ai-is-the-next-big-thing-why-cant-it-solve-world-hunger-and-stop-wars.md",
-      "title": "If AI Is The Next Big Thing, Why Can’t It Solve World Hunger and Stop Wars?",
-      "excerpt": "among the concerns is that humans may no longer know exactly how these systems work. Continue the series to learn about the privacy and ethics surrounding AI, and what the technology is capable of.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/story/if-ai-is-the-next-big-thing-why-cant-it-solve-world-hunger-and-stop-wars-1d942e22",
-      "originalUrl": "https://www.wsj.com/story/if-ai-is-the-next-big-thing-why-cant-it-solve-world-hunger-and-stop-wars-1d942e22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-926004/social",
-          "width": 1280,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/story/if-ai-is-the-next-big-thing-why-cant-it-solve-world-hunger-and-stop-wars-1d942e22",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/if-ai-is-the-next-big-thing-why-cant-it-solve-world-hunger-and-stop-wars-1d942e22",
-      "publishedDateTime": "2024-02-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-isc2-research-most-cybersecurity-professionals-expect-ai-to-impact-their-jobs.md",
-      "title": "ISC2 Research: Most Cybersecurity Professionals Expect AI to Impact Their Jobs",
-      "excerpt": "ISC2 Research: Most Cybersecurity Professionals Expect AI to Impact Their Jobs Your email has been sent How AI might affect cybersecurity pros’ tasks Top AI cybersecurity concerns and possible effects In flux Implementation of AI policies and access to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/",
-      "originalUrl": "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_714494782.jpeg",
-          "width": 1400,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-stakeholders-to-discuss-trust-security-and-privacy-in-ai-era.md",
-      "title": "Stakeholders to Discuss Trust, Security and Privacy in AI Era",
-      "excerpt": "Blockchain and the FinTech society have managed to create a new world that is much more inclusive, and full of opportunities. Based on a report by Gartner, which predicted that by 2024, 40 per cent of privacy compliance technology will rely on AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Naira.jpg",
-          "width": 753,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era?amp=1",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era?amp=1",
-      "publishedDateTime": "2024-02-21T23:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

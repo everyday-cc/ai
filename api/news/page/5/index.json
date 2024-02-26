@@ -2,6 +2,198 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-22-galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets.md",
+      "title": "Galaxy AI Coming to Samsung S23, Z Flip, Z Fold 5, and Galaxy Tablets",
+      "excerpt": "One of the most touted Galaxy AI features is called Circle to Search, which lets you search for something that you see on your screen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets",
+      "originalUrl": "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00gGCdUOwn2gbxeJgLZKAYU-1.fit_lim.size_1200x630.v1708557191.jpg",
+          "width": 1119,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T03:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast.md",
+      "title": "Buy Rating on Amazon: Strategic Capex Reductions and AI-Driven AWS Growth Forecast",
+      "excerpt": "Amazon (AMZN – Research Report), the Consumer Cyclical sector company ... particularly with a projected increase in AWS capital spend to support burgeoning Generation AI initiatives. Despite this increase, the forecasted capital expenditures remain ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T01:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-if-ai-is-the-next-big-thing-why-cant-it-solve-world-hunger-and-stop-wars.md",
+      "title": "If AI Is The Next Big Thing, Why Can’t It Solve World Hunger and Stop Wars?",
+      "excerpt": "among the concerns is that humans may no longer know exactly how these systems work. Continue the series to learn about the privacy and ethics surrounding AI, and what the technology is capable of.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/story/if-ai-is-the-next-big-thing-why-cant-it-solve-world-hunger-and-stop-wars-1d942e22",
+      "originalUrl": "https://www.wsj.com/story/if-ai-is-the-next-big-thing-why-cant-it-solve-world-hunger-and-stop-wars-1d942e22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-926004/social",
+          "width": 1280,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/story/if-ai-is-the-next-big-thing-why-cant-it-solve-world-hunger-and-stop-wars-1d942e22",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/if-ai-is-the-next-big-thing-why-cant-it-solve-world-hunger-and-stop-wars-1d942e22",
+      "publishedDateTime": "2024-02-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-stakeholders-to-discuss-trust-security-and-privacy-in-ai-era.md",
+      "title": "Stakeholders to Discuss Trust, Security and Privacy in AI Era",
+      "excerpt": "Blockchain and the FinTech society have managed to create a new world that is much more inclusive, and full of opportunities. Based on a report by Gartner, which predicted that by 2024, 40 per cent of privacy compliance technology will rely on AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Naira.jpg",
+          "width": 753,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era?amp=1",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era?amp=1",
+      "publishedDateTime": "2024-02-21T23:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-how-a-new-bipartisan-task-force-is-thinking-about-artificial-intelligence.md",
       "title": "How a New Bipartisan Task Force Is Thinking About Artificial Intelligence",
       "excerpt": "On Tuesday, speaker of the House of Representatives Mike Johnson and Democratic leader Hakeem Jeffries launched a bipartisan Task Force on Artificial Intelligence. Johnson, a Louisiana Republican ...",
@@ -10,7 +202,7 @@
       "originalUrl": "https://time.com/6727264/house-artificial-intelligence-task-force/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -375,7 +567,7 @@
       "originalUrl": "https://www.zdnet.com/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 541,
+      "heat": 511,
       "tags": null,
       "images": [
         {
@@ -480,7 +672,7 @@
       "originalUrl": "https://fortune.com/education/articles/ai-bootcamps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1094,206 +1286,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-having-double-majors-could-make-you-less-vulnerable-to-layoffs-and-ai.md",
-      "title": "Having double majors could make you less vulnerable to layoffs and AI",
-      "excerpt": "Double majors are less likely to experience layoffs and pay cuts, per an NBER paper. This could position them well for the AI future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/having-double-majors-reduce-chance-ai-job-replacement-chatgpt-layoffs-2024-2",
-      "originalUrl": "https://www.businessinsider.com/having-double-majors-reduce-chance-ai-job-replacement-chatgpt-layoffs-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65d4e3efa3bd891424f891ba?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/having-double-majors-reduce-chance-ai-job-replacement-chatgpt-layoffs-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/having-double-majors-reduce-chance-ai-job-replacement-chatgpt-layoffs-2024-2?amp",
-      "publishedDateTime": "2024-02-21T11:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-how-this-ex-apple-guys-ai-glasses-invention-works.md",
-      "title": "How this ex-Apple guy’s AI glasses invention works",
-      "excerpt": "Here are some examples. Visual recognition: You can ask Frame glasses to identify any object, person or place that you see. For example, you can say, \"What is this?\" and Frame glasses will tell you what it is, how it works or where it comes from.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works",
-      "originalUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58e1e4e7-0f6a-46ac-adf5-e1afcdf09815/445293b3-f96a-4a00-8ec5-8c312a766ee7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works.amp",
-      "publishedDateTime": "2024-02-21T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-no-tip-required-self-driving-robots-will-now-deliver-uber-eats-orders-in-tokyo.md",
-      "title": "No tip required: Self-driving robots will now deliver Uber Eats orders in Tokyo",
-      "excerpt": "These robots are equipped with artificial intelligence and advanced sensors to navigate sidewalks and detect any obstacles in their path. These robots have six wheels and can carry up to 27 litres of cargo. They travel at a walking pace of up to 3.3 miles ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/articleshow/107883721.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/articleshow/107883721.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107883741,width-1280,height-720,resizemode-4/107883741.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/amp_articleshow/107883721.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/amp_articleshow/107883721.cms",
-      "publishedDateTime": "2024-02-21T10:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-vcs-are-clamoring-to-back-screaming-hot-startups-using-ai-for-medical-records.md",
-      "title": "VCs are clamoring to back 'screaming hot' startups using AI for medical records",
-      "excerpt": "Most recently, Ambience Healthcare announced a $70 million Series B round in February, co-led by Kleiner Perkins and Open AI Startup Fund and including existing investors Andreessen Horowitz and Optum Ventures. Medical-scribe startup Nabla raised a Series ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2",
-      "originalUrl": "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65cf847ef533b039a884865f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

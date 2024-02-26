@@ -1,0 +1,23 @@
+---
+category: news
+title: "Nvidia Reveals AI-Focused RTX 500, 1000 GPUs For ‘Highly Portable’ Mobile Workstations"
+excerpt: "Nvidia has revealed the RTX 500 and 1000 Ada Generation GPUs that are designed to boost AI workflows for ultrathin laptops used by professionals and content creators."
+publishedDateTime: 2024-02-26T12:42:00Z
+originalUrl: "https://www.crn.com/news/components-peripherals/2024/nvidia-reveals-ai-focused-rtx-500-1000-gpus-highly-portable-mobile-workstations"
+webUrl: "https://www.crn.com/news/components-peripherals/2024/nvidia-reveals-ai-focused-rtx-500-1000-gpus-highly-portable-mobile-workstations"
+type: article
+quality: 26
+heat: 26
+published: false
+
+provider:
+  name: CRN
+  domain: crn.com
+
+topics:
+  - AI Hardware
+  - AI
+
+secured: "Td0v59y2x+flqR60YSwQBPH2hl0zF8TI6wXVbDIV/aVx8kOwKp7o5M0vUw+6zW1HJ41OZR8qe8xdIOFMhu5mRFr61Dsvj9PfLm+55Out05qPp0TxXIf184eSEwk7jMFi7/g57+Hxw2bahjwp/yJUc7quTzicWZT9Qr+Hc2nOViQkci09weaig2YhTgOhGzK4aLsmtZ9rEJBuFl0njNj3tj0GlbQ2tc3PxEBoF5JPzzcTKzVYm9azBFQHf/cvOBUXluih3a5xScudeyF0czasoK3lzq2saGBJPh0gtMw/qDS54G+qT6q932K6irt4Di8hh7Ug0WnNzL9fFv6MuyywA7dtuBMffNcUpVXq91aqQb7WSY7XEbEAgK/NWbpYkI2ziJbfKzVnZSbwJ6Gl5mvZqVtssBgHLXL9xJudL+91LAJBASXflhtqgZ2kHFFSZqNKhtmmRhYPyIRcVd7kWUgLcDk9mXWBcLu9xpp9xQyndSNdbuPEn1Z5enHHWEx3BwXi2ncttaYEdz2/giVlG4tqFA==;F9rlJL0JXMygArRA7A30ZA=="
+---
+

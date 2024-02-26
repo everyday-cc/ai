@@ -110,20 +110,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Gemma: Introducing new state-of-the-art open models"
-    excerpt: "Gemma is built for responsible AI development from the same research and technology used to create Gemini models."
-    publishedDateTime: 2024-02-21T13:06:16Z
-    webUrl: "https://deepmind.google/discover/blog/gemma-introducing-new-state-of-the-art-open-models/"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemma-social-share.width-1300.jpg"
-        width: 1300
-        height: 731
-        isCached: true
   - title: "Gemini models are coming to Performance Max"
     excerpt: "New improvements and AI-powered features are coming to Performance Max, including Gemini models for text generation."
     publishedDateTime: 2024-02-22T17:00:00Z
@@ -137,20 +123,6 @@ related:
       - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header-option1-headline.width-1300.png"
         width: 1300
         height: 733
-        isCached: true
-  - title: "Google's Latest AI Language Models Are Open Weight, Not Open Source"
-    excerpt: "Google Deepmind on Wednesday unveiled its newest set of AI models. Called Gemma, they are open for commercial use and redistribution by AI developers and researchers—a departure for a company that has been recently criticized for its closed AI technology by others in the field championing open collaboration in AI research."
-    publishedDateTime: 2024-02-21T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/richardnieva/2024/02/20/google-gemma/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d55ad7bfa4295a4a8bf111/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
         isCached: true
   - title: "Google Launches Two Free 'Gemma' AI Models Inspired by Gemini"
     excerpt: "Google has launched two new open AI models, Gemma 2B and Gemma 7B, with the goal of supporting AI use in third-party applications. The Gemma models vary in size, meaning the simpler Gemma 2B may be better for less intensive AI applications, while Google data suggests that Gemma 7B could outperform other AI models like Mistral or Meta's LLAMA-2."
@@ -513,15 +485,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google announces Gemma, its open models for AI research"
-    excerpt: "Gemma was developed by Google DeepMind and other teams across the company, and is “built from the same research and technology used to create the Gemini models,” including technical and infrastructure components. Name-wise, it’s Latin for “precious ..."
-    publishedDateTime: 2024-02-21T13:00:00Z
-    webUrl: "https://9to5google.com/2024/02/21/google-gemma/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 19
   - title: "Google releases Gemma lightweight AI open models"
     excerpt: "Google introduces Gemma, a new family of open-source lightweight AI models that allow developers and researchers to build large language models (LLM) with only a desktop."
     publishedDateTime: 2024-02-22T04:16:00Z

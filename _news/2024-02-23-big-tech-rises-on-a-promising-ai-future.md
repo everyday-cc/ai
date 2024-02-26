@@ -33,15 +33,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI's Current And Future Impacts On Construction"
-    excerpt: "As we've been hearing across the media landscape, AI is here to stay. While most people are aware of the digital-first uses of AI for things like ChatGPT and NFL analytics, AI has and will continue to transform traditional industries like construction as well."
-    publishedDateTime: 2024-02-21T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/ais-current-and-future-impacts-on-construction/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "India’s AI Future: A Bold And A Different Vision To Win"
     excerpt: "40% of the nearly $8 Bn investment in Indian AI startups was made last year, indicating bullish global sentiment in the sector To embed AI innovation deep into the ecosystem, AI4Bharat is building open-source AI for Indian languages."
     publishedDateTime: 2024-02-25T15:32:00Z

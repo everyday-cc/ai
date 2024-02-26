@@ -2,6 +2,204 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2023-12-11-how-accurate-were-our-2023-ai-predictions.md",
+      "title": "How Accurate Were Our 2023 AI Predictions?",
+      "excerpt": "Midjourney, which generates images from text prompts, is one of the hottest generative AI startups in the world. It has tens of millions of users and is reportedly on track to do $200 million in revenue in 2023. It has accomplished all of this without raising a cent of outside capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65651b815b8054baa375034b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1374,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/",
+      "publishedDateTime": "2023-12-11T01:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-local-llama-rancher-overcomes-obstacles-skin-cancer.md",
+      "title": "Local llama rancher overcomes obstacles, skin cancer",
+      "excerpt": "As far as transitions go, Sally Rucker traded the upscale lifestyle in Texas to toiling in the dirt to become a nationally recognized llama rancher. Rucker opened the 76-acre Stage Stop Llamas in ...",
+      "sourceUrl": null,
+      "webUrl": "https://gazette.com/pikespeakcourier/local-llama-rancher-overcomes-obstacles-skin-cancer/article_c5b5912a-961a-11ee-a598-330973c20793.html",
+      "originalUrl": "https://gazette.com/pikespeakcourier/local-llama-rancher-overcomes-obstacles-skin-cancer/article_c5b5912a-961a-11ee-a598-330973c20793.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-technologies-like-artificial-intelligence-are-changing-our-understanding-of-war.md",
+      "title": "Technologies like artificial intelligence are changing our understanding of war",
+      "excerpt": "Artificial intelligence (AI) is widely regarded as ... Technologies such as autonomous weapon systems (AWS) and cyberweapons have the potential to change conflicts and combat forever.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-12-technologies-artificial-intelligence-war.html",
+      "originalUrl": "https://phys.org/news/2023-12-technologies-artificial-intelligence-war.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/war.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-12-technologies-artificial-intelligence-war.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-technologies-artificial-intelligence-war.amp",
+      "publishedDateTime": "2023-12-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-10-use-of-ai-could-be-a-game-changer-in-tourism-industry.md",
+      "title": "Use of AI could be a game changer in tourism industry",
+      "excerpt": "December is well underway, and soon we’ll enter a new year. Looking back, how will 2023 be remembered in travel and tourism?",
+      "sourceUrl": null,
+      "webUrl": "https://www.yakimaherald.com/news/local/business/use-of-ai-could-be-a-game-changer-in-tourism-industry/article_15ec19c2-952e-11ee-a18b-e7c5f4342cee.html",
+      "originalUrl": "https://www.yakimaherald.com/news/local/business/use-of-ai-could-be-a-game-changer-in-tourism-industry/article_15ec19c2-952e-11ee-a18b-e7c5f4342cee.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-10T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yakima Herald-Republic",
+        "domain": "yakimaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-10-ai-and-robotics-the-future-that-awaits-us.md",
+      "title": "AI and Robotics: The future that awaits us",
+      "excerpt": "Stephen Hawking, a prominent figure in the discussion of artificial intelligence's potential benefits, expressed concerns about future thinking robots and even suggested that AI advancements could potentially end the human race.",
+      "sourceUrl": null,
+      "webUrl": "https://thehimalayantimes.com/opinion/ai-and-robotics-the-future-that-awaits-us",
+      "originalUrl": "https://thehimalayantimes.com/opinion/ai-and-robotics-the-future-that-awaits-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thehimalayantimes.com/ampArticle/1024410",
+      "cdnAmpWebUrl": "https://thehimalayantimes-com.cdn.ampproject.org/c/s/thehimalayantimes.com/ampArticle/1024410",
+      "publishedDateTime": "2023-12-10T11:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Himalayan Times",
+        "domain": "thehimalayantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-10-final-four-thoughts-from-aws-reinvent-2023.md",
       "title": "Final four thoughts From AWS re:Invent 2023",
       "excerpt": "It’s back. Like all re:Invents, there was plenty of news ranging from compute to generative artificial intelligence to visionary stuff, such as Project Kuiper, AWS’ low Earth orbit satellites ...",
@@ -896,237 +1094,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-how-to-build-a-successful-risk-mitigation-strategy.md",
-      "title": "How to build a successful risk mitigation strategy",
-      "excerpt": "Here are five key steps to building a strong risk mitigation strategy that can successfully work for your unique business needs.\nThe post How to build a successful risk mitigation strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/risk-mitigation-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/risk-mitigation-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T16:29:23Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-xenons-345-million-public-offering-eyepoint-pharmaceuticals-trial-success-gene-therapy-found-to-reduce-liver-cancer.md",
-      "title": "Xenon’s $345 million public offering; EyePoint Pharmaceuticals’ trial success; gene therapy found to reduce liver cancer",
-      "excerpt": "What's been going on in the world of biotech of late? Find out with Labiotech’s weekly roundup of the latest biotech news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.labiotech.eu/weekly-roundup/biotech-news-roundup-december-8-2023/",
-      "originalUrl": "https://www.labiotech.eu/weekly-roundup/biotech-news-roundup-december-8-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.labiotech.eu/wp-content/uploads/2023/12/Biotech-news.jpg",
-          "width": 1200,
-          "height": 959,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T15:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "labiotech",
-        "domain": "labiotech.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-google-deepmind-at-neurips-2023.md",
-      "title": "Google DeepMind at NeurIPS 2023",
-      "excerpt": "The Neural Information Processing Systems (NeurIPS) is the largest artificial intelligence (AI) conference in the world. NeurIPS 2023 will be taking place December 10-16 in New Orleans, USA.Teams from across Google DeepMind are presenting more than 150 papers at the main conference and workshops.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
-      "originalUrl": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/MDme_Q62zVqvTUs5uwaI3Ggy2rWIujPt2elkusnUuCA4wEo79V9mabIg66j9cr9zMso-LObOVcj6_ZnrgSMUKn6fl52kxOUEjcigXtDZ2UMuosX3-2s=w1200-h630-n-nu",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc.md",
-      "title": "How To Seize The Moment In Artificial Intelligence By Embracing GRC",
-      "excerpt": "Instead of becoming involved at a later stage, when decisions may be hard to reconsider or reverse, compliance officers should step in and lead these conversations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/08/how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/08/how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657226793e5c11e468743a62/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/08/how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/08/how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc/amp/",
-      "publishedDateTime": "2023-12-08T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-projections-aieee-robots-comes-to-the-coolidge-in-2024.md",
-      "title": "PROJECTIONS: AIEEE! ROBOTS! Comes to the Coolidge in 2024",
-      "excerpt": "Robots! Artificial intelligence is no longer the high-concept villain of some far-off future, but a major player in modern daily life and discourse. This January, we're taking a look at how ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.broadwayworld.com/boston/article/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-20231208",
-      "originalUrl": "https://www.broadwayworld.com/boston/article/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-20231208",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudimages.broadwayworld.com/columnpiccloud/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-1702029305.jpg",
-          "width": 1250,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T14:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BroadwayWorld",
-        "domain": "broadwayworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

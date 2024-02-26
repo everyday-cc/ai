@@ -109,6 +109,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-24-ai-driven-evolution-of-low-code-software-development-in-india.md",
+      "title": "AI-driven evolution of low-code software development in India",
+      "excerpt": "Artificial Intelligence (AI) is orchestrating a paradigm shift across industries, and its transformative influence on the software development landscape, particularly within the context of low-code development is becoming increasingly evident.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-23T154757.676.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/lite/",
+      "publishedDateTime": "2024-02-24T05:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-ai21-labs-outperforms-generic-llms-with-task-specific-models.md",
       "title": "AI21 Labs Outperforms Generic LLMs With Task-Specific Models",
       "excerpt": "AI21 Labs distinguishes itself in the competitive large language model landscape with its emphasis on specialized, task-specific models.",
@@ -1444,49 +1487,6 @@
       "provider": {
         "name": "Goodnet",
         "domain": "goodnet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking.md",
-      "title": "Use PC without mouse or by speech alone; Use mouse without clicking",
-      "excerpt": "In this post, we will show you how to use your PC without the mouse or by speech alone or use your mouse without clicking by moving it only. Windows offers built-in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking",
-      "originalUrl": "https://www.thewindowsclub.com/use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewindowsclub.com/wp-content/uploads/2024/02/Work-by-Speech-in-action.jpg",
-          "width": 700,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
         "images": null,
         "publishers": null,
         "authors": null

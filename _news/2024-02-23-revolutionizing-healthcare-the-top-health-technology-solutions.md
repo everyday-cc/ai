@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hartford HealthCare Launches Center for AI Innovation"
-    excerpt: "Hartford HealthCare’s Center for AI Innovation will support the research and development of artificial intelligence technologies to improve patient care."
-    publishedDateTime: 2024-02-21T13:00:00Z
-    webUrl: "https://healthitanalytics.com/news/hartford-healthcare-launches-center-for-ai-innovation"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
   - title: "Driving Accessibility in HealthTech: 3 Things Founders should Consider for Thoughtful AI Implementation in 2024"
     excerpt: "The benefits of artificial intelligence in healthcare are apparent. With careful planning, we can ensure that these developments benefit everyone, leaving no one behind in the goal of a healthier and more equal future."
     publishedDateTime: 2024-02-23T22:31:00Z

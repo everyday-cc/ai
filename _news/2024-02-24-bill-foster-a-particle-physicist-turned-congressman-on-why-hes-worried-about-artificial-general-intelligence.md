@@ -7,7 +7,7 @@ originalUrl: "https://fedscoop.com/bill-foster-house-ai-task-force/"
 webUrl: "https://fedscoop.com/bill-foster-house-ai-task-force/"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 495
     height: 337
     isCached: true
+
+related:
+  - title: "NVIDIA focuses on developing Artificial General Intelligence (AGI)"
+    excerpt: "NVIDIA's CEO, Jensen Huang, is focusing on the development of Artificial General Intelligence (AGI) by forming a specialized team lead by"
+    publishedDateTime: 2024-02-26T10:59:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-artificial-general-intelligence-agi/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/NVIDIA-AGI.jpg"
+        width: 1280
+        height: 713
+        isCached: true
 
 secured: "R3ICu1dxWUylrhE2TGFJDQxwyqFr6ppXAMycRGSfsRr2CVHBJNKA24kEcb6HdVHm/H5jhAc+9PwqpYgY0mGqvAtR+ssZpPvDEVCYv9JB9CpTbyYRVfRsA/5UQFa45bJGQmTIXz+pwPDRw5+XhGkXilk+T5BxbD4IoS8hFa84/jR6Iul56CdrjUHN63+OAc6zf5MuSlu91PtgLFEtrRiuCCk2DcWotF1RftzYGWJ42gswXDjrvHPMIH0eO5gbvhGy1q/ntcOe6cTocxAPd0zowtpYpHCxmwjSc1AlQ91RY1AZlpuQK3BJDGdhHqV4YJ4iwYMXdVY+DzNA6UmPJX5qJfKv3VopaMTIIwEAaT5EcKI=;lp3LnvBBZSoX3HGQaESBzw=="
 ---

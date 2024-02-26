@@ -2,6 +2,258 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-25-amazon-founder-jeff-bezos-joins-microsoft-chatgpt-maker-openai-to-invest-in-this-robotics-company.md",
+      "title": "Amazon founder Jeff Bezos joins Microsoft, ChatGPt maker OpenAI to invest in this robotics company",
+      "excerpt": "ARK Venture Fund, Aliya Capital Partners, and Tamarack are also among the startup's investors ... may surpass larger competitors. Figure AI, based in Sunnyvale, California, develops general-purpose humanoid robots capable of operating in various ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107974425,width-1280,height-720,resizemode-4/107974425.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms",
+      "publishedDateTime": "2024-02-25T02:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-25-honor-magicbook-pro-16-ai-powered-laptop-launched-at-mwc-intel-core-ultra-7-rtx-4060-gpu.md",
+      "title": "Honor MagicBook Pro 16 AI-powered laptop launched at MWC: Intel Core Ultra 7 & RTX 4060 GPU",
+      "excerpt": "At the Mobile World Congress (MWC) 2024, Honor introduced the Honor MagicBook Pro 16, an AI-enhanced laptop, alongside their new flagship smartphone, the Magic 6 Pro. The laptop features a sleek metal body, which is just 17.9mm thick and weighs around 1.86kg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/25/honor-magicbook-pro-16-laptop-launched-mwc/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/25/honor-magicbook-pro-16-laptop-launched-mwc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/Screenshot-2024-02-25-210840.png",
+          "width": 1072,
+          "height": 741,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-25-a-vending-machine-error-revealed-secret-face-recognition-tech.md",
+      "title": "A Vending Machine Error Revealed Secret Face Recognition Tech",
+      "excerpt": "Canada-based University of Waterloo is racing to remove M&M-branded smart vending machines from campus after outraged students discovered the machines were covertly collecting face recognition data without their consent. The scandal started when a student ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/",
+      "originalUrl": "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65d91d8d6248d84bf2a999c2/191:100/w_1280,c_limit/vending%20machine%20facial%20recognition.png",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-24T17:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-25-stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans.md",
+      "title": "Stellantis CEO says there’s still life in Waymo deal for self-driving delivery vans",
+      "excerpt": "This “deepened” partnership will focus on commercial self-driving Ram delivery vans, a target that was first announced in 2020 and promptly faded from public view. Discussions on this “improved” deal have focused, in part, on a crux around ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/",
+      "originalUrl": "https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/Waymo-LOGO-door.jpg?resize=1200,721",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/amp/",
+      "publishedDateTime": "2024-02-24T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-investing-in-the-next-wave-of-explosive-ai-growth.md",
+      "title": "Investing in the Next Wave of Explosive AI Growth",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This past week, the world’s leading AI chipmaker – Nvidia (NVDA)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242?ssp=1",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242?ssp=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/yzJturJFFghqcyCNnIaAZy189Vj69lRLjtitfmAF0N-Xp39dl-O4uudjIW7n0Jhc-aiVtqt5DbyRvyRrSQzuQixXkooUvMk5Hk_qks8N-V69kdPAQFOdRIOpPU9cMhnz9MzgaKBWuSKmZj_uduuGNg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-24T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-24-why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities.md",
       "title": "Why AI can (and should) lead to a renaissance in the humanities",
       "excerpt": "We need more than ever to understand one another, which means not relying on AI to translate until we have bothered to learn each other’s languages and cultures. Let’s not approach everything through a narrow lens For example, the temptation for some ...",
@@ -155,6 +407,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-ai-driven-evolution-of-low-code-software-development-in-india.md",
+      "title": "AI-driven evolution of low-code software development in India",
+      "excerpt": "Artificial Intelligence (AI) is orchestrating a paradigm shift across industries, and its transformative influence on the software development landscape, particularly within the context of low-code development is becoming increasingly evident.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-23T154757.676.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/lite/",
+      "publishedDateTime": "2024-02-24T05:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -917,7 +1212,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-career-advice-coach-gen-z-workers-get-ahead-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -958,291 +1253,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics.md",
-      "title": "Revolutionizing Business Decision-Making: The Impact Of Generative AI On Predictive Analytics",
-      "excerpt": "When approached strategically, generative AI can help empower employees across functions and domains to leverage the insights provided by predictive analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61a4de65ba77a906d470c192/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/amp/",
-      "publishedDateTime": "2024-02-23T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024.md",
-      "title": "AI chip race: Groq CEO takes on Nvidia, claims most startups will use speedy LPUs by end of 2024",
-      "excerpt": "But don’t sleep on Groq, the Silicon Valley-based company creating new AI chips for large language model (LLM) inference (making decisions or predictions on existing models, as opposed to training). Last weekend, Groq suddenly enjoyed a viral moment most ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/",
-      "originalUrl": "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-23-12.49.17-A-dynamic-and-dramatic-representation-of-AI-chips-racing-at-lightning-fast-speed-leaving-competitors-in-the-dust.-The-scene-is-set-on-a-futuristic-ra.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T10:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-creator-of-fake-biden-robocall-demonstrates-using-ai-to-impersonate-nbc-reporter.md",
-      "title": "Creator of fake Biden robocall demonstrates using AI to impersonate NBC reporter",
-      "excerpt": "Before the New Hampshire primary, Paul Carpenter says he was paid to create a robocall impersonating President Biden urging listeners not to vote. He demonstrated how he uses artificial intelligence to impersonate the voice of NBC News' Alex Seitz-Wald.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/creator-of-fake-biden-robocall-demonstrates-using-ai-to-impersonate-nbc-reporter-204727877516",
-      "originalUrl": "https://www.nbcnews.com/video/creator-of-fake-biden-robocall-demonstrates-using-ai-to-impersonate-nbc-reporter-204727877516",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_02/robocall_nbc-3jlgmf.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo204727877516",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo204727877516",
-      "publishedDateTime": "2024-02-23T09:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-a-once-in-a-generation-investment-opportunity-1-artificial-intelligence-ai-growth-stock-to-buy-now-and-hold-forever.md",
-      "title": "A Once-in-a-Generation Investment Opportunity: 1 Artificial Intelligence (AI) Growth Stock to Buy Now and Hold Forever",
-      "excerpt": "One company has been at the forefront of this shift for decades. It's been roughly a year since the latest developments in generative artificial intelligence (AI) burst onto the scene, captivating Main Street and Wall Street alike. These next-gen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/23/a-once-in-a-generation-investment-opportunity-1-ar/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/23/a-once-in-a-generation-investment-opportunity-1-ar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/766348/a-person-typing-on-a-laptop-with-various-ai-icons-displayed-bove.jpg",
-          "width": 2500,
-          "height": 1668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T08:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-bengaluru-to-debut-driverless-trains-all-you-need-to-know.md",
-      "title": "Bengaluru to debut driverless trains: All you need to know",
-      "excerpt": "Driverless trains are being introduced as part of the ... In case of any issues, it will generate alerts using Artificial Intelligence (AI) software. This system is equipped with a camera-based setup where track images are sent to the server.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html",
-      "originalUrl": "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2024/02/Chinese-made-driverless-train-prototype-at-Bengaluru-580x435.jpg",
-          "width": 580,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html/amp",
-      "publishedDateTime": "2024-02-23T08:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-debunking-the-4-biggest-myths-about-artificial-intelligence-in-retail.md",
-      "title": "Debunking The 4 Biggest Myths About Artificial Intelligence in Retail",
-      "excerpt": "There are many popular myths circulating about AI, according to one Gartner report. And as retailers integrate AI solutions into their businesses, it’s important to know which common beliefs about the technology are myths and which ones are factual. Here are four big AI myths — and the truths about them.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail",
-      "originalUrl": "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202402/AI%20myths%20hero-%20sized%20for%20CMS_.jpg?itok=suO1VbZu",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp",
-      "publishedDateTime": "2024-02-23T01:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

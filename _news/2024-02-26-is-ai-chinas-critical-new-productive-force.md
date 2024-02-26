@@ -38,22 +38,6 @@ related:
         width: 2400
         height: 1601
         isCached: true
-  - title: "US forms task force to explore guardrails for AI"
-    excerpt: "it will substantially foster AI advancement in terms of security, privacy, ethics, and sustainability, which will be critical for the public trust on AI in the long run.” According to Counterpoint Research Senior Analyst, Akshara Bassi, “AI regulation ..."
-    publishedDateTime: 2024-02-21T12:16:00Z
-    webUrl: "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence Briefing: House Launches Bipartisan AI Task Force"
     excerpt: "The House of Representatives aims to keep the U.S. at the leading edge of AI policy and innovation with a bipartisan task force while the FTC considers expanding a rule to crack down on AI impersonation. Meanwhile, a recent ruling in Canada warns ..."
     publishedDateTime: 2024-02-23T00:01:00Z

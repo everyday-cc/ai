@@ -2,6 +2,248 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-12-19-exclusive-jaxon-ai-teams-up-with-ibm-watsonx-in-battle-against-ai-hallucination.md",
+      "title": "Exclusive: Jaxon AI teams up with IBM watsonx in battle against AI hallucination",
+      "excerpt": "Jaxon AI's Domain-Specific AI Language (DSAIL) technology is designed to prevent hallucinations and inaccuracies with IBM watsonx models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/exclusive-jaxon-ai-teams-up-with-ibm-watson-in-battle-against-ai-hallucination/",
+      "originalUrl": "https://venturebeat.com/ai/exclusive-jaxon-ai-teams-up-with-ibm-watson-in-battle-against-ai-hallucination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/igor-omilaev-FHgWFzDDAOs-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T18:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-what-is-rum-data-and-why-does-it-matter.md",
+      "title": "What Is Rum data and why does it matter?",
+      "excerpt": "Looking to optimize the performance of your applications and services? Learn why effectively collecting and using RUM data is critical. \nThe post What Is Rum data and why does it matter? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-rum-data-and-why-does-it-matter/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-rum-data-and-why-does-it-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/What-Is-Rum-data-and-why-does-it-matter.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T18:24:24Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-ai-in-your-shoes-this-company-aims-to-accessorize-everything-you-own-with-artificial-intelligence.md",
+      "title": "AI in your shoes? This company aims to accessorize everything you own with artificial intelligence",
+      "excerpt": "Tiny systems powered with artificial intelligence could transform everyday products like dishwashers and construction helmets into smarter, safer devices, two scientists told Fox News.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence.amp",
+      "publishedDateTime": "2023-12-18T17:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead.md",
+      "title": "5 things to know: Driving innovation with AI and hybrid cloud in the year ahead",
+      "excerpt": "The rise of generative AI, evolving regulations and data sovereignty laws, and ongoing security challenges should be top of mind.\nThe post 5 things to know: Driving innovation with AI and hybrid cloud in the year ahead appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/",
+      "originalUrl": "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T17:13:44Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions.md",
+      "title": "IBM makes $2B+ deal to add more AI, cloud computing solutions",
+      "excerpt": "IBM is investing more than $2 billion in cash to bolster its artificial intelligence and cloud computing lineup by acquiring an integration platform as a service suite from Germany-based Software AG.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/",
+      "originalUrl": "https://wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/?amp=1",
+      "publishedDateTime": "2023-12-18T15:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-how-to-improve-your-privacy-on-google-bard-with-this-one-simple-setting.md",
       "title": "How to improve your privacy on Google Bard with this one simple setting",
       "excerpt": "Also: Why my two-person company bought a Google Workspace Enterprise plan And then there's Bard. We've been exploring how well the AI works, and, well, it has its issues. That said, it has a lot ...",
@@ -923,230 +1165,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos.md",
-      "title": "No, Donald Trump Never Met Martin Luther King Jr. Despite AI Photos",
-      "excerpt": "Have you seen photos of Donald Trump with Dr. Martin Luther King Jr.? They’ve been going viral on social media recently, including on X. But they’re completely fake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657f7eb09cd7ffe25a09a13f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/amp/",
-      "publishedDateTime": "2023-12-17T23:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil.md",
-      "title": "A first, PM Modi uses AI to translate speech from Hindi to Tamil",
-      "excerpt": "Inaugurates Kashi Tamil Samagam 2. In a first, Prime Minister Narendra Modi on Sunday used artificial intelligence (AI) for real-time translation of his Hindi spe",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891",
-      "originalUrl": "https://www.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/12/2023_12$largeimg_354404949.jpg",
-          "width": 866,
-          "height": 1083,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891",
-      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891",
-      "publishedDateTime": "2023-12-17T18:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-17-google-launches-a-healthcare-focused-llm.md",
-      "title": "Google Launches A Healthcare-Focused LLM",
-      "excerpt": "Google has unveiled MedLM, a collection of foundation models tailored for the healthcare industry, making it available to selected Google Cloud customers in the USA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/",
-      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657f046fb0c8270387e93d83/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/amp/",
-      "publishedDateTime": "2023-12-17T14:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-17-google-bard-advertising-gets-underway-with-harry-kane-subway-ads-video.md",
-      "title": "Google Bard advertising gets underway with Harry Kane, subway ads [Video]",
-      "excerpt": "With the addition of Gemini Pro, Google has been advertising Bard a great deal more. The latest involves Harry Kane",
-      "sourceUrl": null,
-      "webUrl": "https://9to5google.com/2023/12/17/google-bard-advertising/",
-      "originalUrl": "https://9to5google.com/2023/12/17/google-bard-advertising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-17T13:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5google",
-        "domain": "9to5google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-17-googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt.md",
-      "title": "Google's Gemini: Is the new artificial intelligence model really better than ChatGPT?",
-      "excerpt": "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI's ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html",
-      "originalUrl": "https://tech.hindustantimes.com/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/12/17/1600x900/Google_Gemini_1701885704849_1702774698630.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html",
-      "publishedDateTime": "2023-12-17T01:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

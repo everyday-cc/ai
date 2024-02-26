@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI health care chatbots learn from the questions of an Indian women's organization"
+    excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.wral.com/story/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/21295384/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 11
 
 secured: "UDSIVqBgs/ws1wUTIyNO9Ndw+ad/ss/munn5c/j9aDQPN6K8pwCBY4/M0RRZIF9oaz55L37OD7tUWSt7Qtq5kO6mB2BDTwb1LKnmWwqvdYw9qnXFCeLZ2iI+l8Q1R/OwTPD29l5Sr9u1+QErpSoc+U5auk0MjOFFktW+GQAN3Sns8zzehZ/uSEbr+6BqAm9dnXoJnqL50j4VRAXinZwrsxpPx/5i15xQSHWzctg22P4AXHVYgf2/VYlY/dvT7iIrr1aCKD4xnvPBCPT0bdYs4SxkdKVKDNu/qy5mxObq440NxrqRhMgB4HIW2OSIJN51PCF+a+edNTgO6mBFqqDsUQ64VUzOcme4ONEHjcVTRP/UIoff3bZIbDGdDm42OJ3wFFHmT6j3u7CaVR8KUn86NRRwuU9VEOS37nvCP9mEnQ6yYMH8MeUqjj4sP6SxS7S4oAaF/KFsGTl1o74HivGbxuf8cu0UwQZnOfLcL9stdGVZQNWIlG6Zewi+9eR5VT40wuLsNMpdzTmeSzYL0YVsQA==;oxsuw8cbVuQJYccnHlmIUg=="
 ---

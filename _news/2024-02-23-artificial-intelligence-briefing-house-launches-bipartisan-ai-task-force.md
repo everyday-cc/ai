@@ -40,22 +40,6 @@ related:
         width: 2400
         height: 1601
         isCached: true
-  - title: "US forms task force to explore guardrails for AI"
-    excerpt: "it will substantially foster AI advancement in terms of security, privacy, ethics, and sustainability, which will be critical for the public trust on AI in the long run.” According to Counterpoint Research Senior Analyst, Akshara Bassi, “AI regulation ..."
-    publishedDateTime: 2024-02-21T12:16:00Z
-    webUrl: "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Is AI China's critical new productive force?"
     excerpt: "And, will AI become China's critical new productive force? According to OpenAI's explainer, Sora is capable of generating complex scenes with a very high degree of accuracy, including multiple characters,"
     publishedDateTime: 2024-02-26T00:37:00Z

@@ -61,19 +61,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Google DeepMind debuts Gemma open models, offers developer alternative to Gemini API"
-    excerpt: "Google DeepMind announced it had released Gemma — new 2B and 7B open models built from the same R&D used to create Gemini."
-    publishedDateTime: 2024-02-21T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/google-deepmind-debuts-gemma-open-models-offers-developer-alternative-to-gemini-api/"
+  - title: "Google DeepMind taps the power of its AI to accelerate quantum computers"
+    excerpt: "Together with Quantinuum, DeepMind has developed a new AI model that can boost the development of quantum computers."
+    publishedDateTime: 2024-02-26T12:24:00Z
+    webUrl: "https://thenextweb.com/news/google-deepmind-ai-to-accelerate-quantum-computers"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 83
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-20T211417.437.png?w=1200&strip=all"
-        width: 1200
-        height: 750
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-26-10.jpg&signature=ae2affe139ede8d7a42bcbe87df8d1c8"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Google DeepMind C.E.O. Demis Hassabis on the Path From Chatbots to A.G.I."
     excerpt: "For more audio journalism and storytelling, download New York Times Audio, a new iOS app available for news subscribers. Hosted by Kevin Roose and Casey Newton Produced by Davis Land and Rachel Cohn Edited by Jen Poyant Engineered by Chris Wood Original mu ..."

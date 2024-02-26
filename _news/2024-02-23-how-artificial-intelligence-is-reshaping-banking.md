@@ -37,6 +37,38 @@ related:
         width: 1260
         height: 708
         isCached: true
+  - title: "Navigating The Future Through The Power Of AI, Leadership And Governance"
+    excerpt: "These regulations must balance innovation with the mitigation of risks like bias and discrimination, setting a global standard for AI ethics that can guide both public and private sector initiatives. The role of leadership is fundamentally changing in the ..."
+    publishedDateTime: 2024-02-26T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d897629f1bf0bef78f6ce4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 700
+        isCached: true
+  - title: "SK Telecom partners with AI search startup Perplexity in Korea"
+    excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters. The partnership would allow SK ..."
+    publishedDateTime: 2024-02-26T11:36:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108013968,imgsize-29740,width-1200,height=765,overlay-ettelecom/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "AWS Telecom GM sees less need for central data lakes with gen AI"
     excerpt: "Chivas Nambiar is the general manager of the global telecom business unit at Amazon Web Services (AWS). | The telecom industry has been collecting a ton of data for decades, and now with gen AI it's able to go back and tap all that data."
     publishedDateTime: 2024-02-21T21:51:00Z

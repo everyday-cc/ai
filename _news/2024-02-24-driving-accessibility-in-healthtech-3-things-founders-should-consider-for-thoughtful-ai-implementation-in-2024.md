@@ -38,15 +38,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Hartford HealthCare Launches Center for AI Innovation"
-    excerpt: "Hartford HealthCare’s Center for AI Innovation will support the research and development of artificial intelligence technologies to improve patient care."
-    publishedDateTime: 2024-02-21T13:00:00Z
-    webUrl: "https://healthitanalytics.com/news/hartford-healthcare-launches-center-for-ai-innovation"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
 
 secured: "T0CouZ0DxhVhGL4Q1DwkZw5O4AzoycZOZfOM5fC581JmQkPwJT+5xRi4hgakAoELoga6wyPNjBxLb6P5oSHJybZ2CWlDDJsDxFBuaEsdnENBgL9sSVVOTRmksuclzNxgjTFenjdncLEfhDz6UtL3SI4TjkOxTCo9TJNVur68tzdTbhevpHDOBx+NQBbqdoPgTw/O/SvIig18JM5rgj8oNe8Quu3NUdFHqhCYejsT1ybCnsuUfH96iDL0Otjjv7guaWKkz8YSFDQM5KOmDNxncDE0moZ27IDQYp099fNMX6f4634e7USvOwXefBveWPK03rFDd7Jnduh/wy7HnXjnzeITFNsEdxN98hWT9Kzq2SE=;KKknNw3R5yooGUWZeQLtrw=="
 ---

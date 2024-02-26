@@ -22,6 +22,22 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Here's How Much It Costs Apple to Make Its Vision Pro Headset"
+    excerpt: "The M2 is responsible for processing content, running the visionOS operating system, executing computer vision algorithms, and providing graphical content. The R1 chip is responsible for all of the information coming from the cameras, sensors, and microphones."
+    publishedDateTime: 2024-02-26T11:38:00Z
+    webUrl: "https://www.macrumors.com/2024/02/26/price-apple-pays-to-make-vision-pro-headset/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 24
+    images:
+      - url: "https://images.macrumors.com/t/GTChvECuUUhpj-C-9AH9Inw9q0M=/1600x/article-new/2024/01/Making-Vision-Pro.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
+
 secured: "SHRyW2V6TLL/xd16wQC31lT1Gyy2KhNpxrpXYO0UvoD35lyx5XLXfmyoDpK/+TRWQgJPEfz551QrWnhIPV87KSvi1bQWS5zvesi0eY7FdwlY8KKQw5LldrAvgn4HsmuKT4yBqGYdWEVZ0razp/WDmczcMqBE4vj4PdTJvNzKVMH60+bL3CHjBIrxtoiGNRBpYkEQ1GQu6mdjyi8vG4ynYw6ERPCGdE++b0d0Z9nyLRHD5R65dK4x/3ykYdcjnLhGMo+QWvwBOfdkeDIpDDvkhP0BxUBS6zuqNlOYHjY+POxg6cGvHpCXIpMpBBfjagbdH0wC94+71rbCZt7TNE6tgAT9OW3W3uYoRHAyjFmVeQALdtE0O9trZ+tdAkvD8QXE8GCdtBRdCOvqKmTGq+/0nCvGoV/UKEsFmCN2F5+UJ2K1Y83ciiZOSHbQicR06Za5NIknpP/BwDMW/FjFmUpf1uDRgLqjkx/HZcKjsFmP6CDzWv+dHklErwu21e0SeXzoPHrg57pZL3xun8WgBd0qQg==;aOcyhJrC7VTpoT5hKnmwFA=="
 ---
 

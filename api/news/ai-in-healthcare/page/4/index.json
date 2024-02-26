@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-01-08-option-care-health-selects-palantirs-artificial-intelligence-platform-for-enterprise-wide-digital-transformation.md",
-      "title": "Option Care Health Selects Palantir’s Artificial Intelligence Platform for Enterprise-Wide Digital Transformation",
-      "excerpt": "Option Care Health expects to use Palantir’s Artificial Intelligence Platform (AIP) across nurse scheduling, patient onboarding, purchasing optimization, and supply chain execution, among other potential use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/option-care-health-selects-palantir-s-artificial-intelligence-platform-for-enterprise-wide-digital-transformation-1032949887",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/option-care-health-selects-palantir-s-artificial-intelligence-platform-for-enterprise-wide-digital-transformation-1032949887",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-08-revolutionizing-healthcare-the-impact-of-artificial-intelligence-on-medical-diagnosis-and-treatment.md",
       "title": "Revolutionizing Healthcare: The Impact of Artificial Intelligence on Medical Diagnosis and Treatment",
       "excerpt": "Introduction: In recent years, the intersection of healthcare and artificial intelligence (AI) has given rise to groundbreaking innovations that are reshaping the landscape of medical diagnosis and treatment.",
@@ -1381,6 +1338,58 @@
         "AI in Healthcare",
         "AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-healthcare-startup-guaranteeing-prices-based-on-ai-raises-23-million.md",
+      "title": "Healthcare Startup Guaranteeing Prices Based On AI Raises $2.3 Million",
+      "excerpt": "Certainly Health, a startup that uses AI to predict consumers' out-of-pocket healthcare costs, announced it has raised its first round of funding to expand its reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup-guaranteeing-upfront-price-predictions-raises-23-million/",
+      "originalUrl": "https://www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup-guaranteeing-upfront-price-predictions-raises-23-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657c95839914a3c0932dcd56/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1392,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup-guaranteeing-upfront-price-predictions-raises-23-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup-guaranteeing-upfront-price-predictions-raises-23-million/amp/",
+      "publishedDateTime": "2023-12-15T18:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

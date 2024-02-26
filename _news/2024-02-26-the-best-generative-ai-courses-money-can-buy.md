@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 149
 published: true
 
 provider:
@@ -102,6 +102,6 @@ related:
       domain: tech.co
     quality: 19
 
-secured: "uvQQC4lKad3v0ti8o3MJ6crIgQPi+BuJZ2Mu5KYbgT0T281QFFRJEl+ErWM03umnv3a4odUYTytHW5adX4taE0QQwhhYDxlfWUJzyQzw+4ciQK4TNo81i3chgRqKMfe531/4KlJ/lKK9yP4b+bHKftoxt/RBDb1nVD69Vtwv1J9tF5Z9RxdME7JDr0z5anHleS9UhVynGycLeYPJAPWAeANy1h/kENz78qcLN5+6qiLQMUX8PJEL9u0UJBzg6HAuIcgbqpdzY0mYQqMoeCYGCTcyz2tTEn4HRjgHeYQGlRlkUSSkAKzgR7rx3sVX6cxc+Y573V4uq4S+C9UKTidRefJ56O6HASoIy9YKEt9IGfju64iL0FPm9a+rc4z9B4xT7HMfUO1qcFN2DcMdJi1pkWNEO2aV4DUzzcv0JGpRGakaBP/mx9CrcbyF/prV7jl84a0i7Rfvx2W094JaPj8aHTTj0xuHa32s1YFlXMJ/xovHmQKmF9NxI3nhtMZBoFMxLQXHAroBi6u8Lr0sVzs+mQ==;9tO8gCunQFNVs2QYFkeKOA=="
+secured: "Kv0kKgDm8OqiQCiw9wsMKPurvu0l7ynw4nIzF7EfAOPi1pquz7swHLd/86JFUvvTy4qzSyDViuLdbvCWdhwsU8M7RQDs8iu5ObqRmQ2tRf9FvJjTqqF/OkLu6rNdzd+FdopCF2mPaiIDFcw+KVr+7JI5Pnwn45Eu2tZYEGoq+xnQQYqVoZJVP/XZnhcCn5BJB94+Db0gn3bPzEJcwntIgaw+4wg0j4gvfktDnIliUsoYu0/lzl625yJhB9qPUqsb6Jl4GKAMRSStrQAeEN9yy8r9ZLSSXaGyIjkkdfcNsmPIQANCsmKgWDNS0RzARIguUJ8InaLKq1Yuz38TwpyIUoLPDQGvmi17dRY4voebS/eczc0LPjCSjXyhM68fOxO861wckK2Zme8224g2YQofASA0lE451yVlv/YTPzNo4Ohrwjz/3taPORedUwhAmYdLJh9Pt7jxRDBx2OVEgloaZT7g4PiaYPKLD26RZjyGfoXP7mXCILTXWK334Jomokt6mDmwH9IwaUvAn5x2+N61Jw==;BzMUxYs9UQnXJ8zluJIOqw=="
 ---
 

@@ -2,6 +2,176 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-02-15-jeffrey-katzenberg-joe-montana-firms-back-ai-marketing-startup.md",
+      "title": "Jeffrey Katzenberg, Joe Montana Firms Back AI Marketing Startup",
+      "excerpt": "Alembic Technologies Inc., a startup that uses artificial intelligence to help companies tell whether their marketing campaigns are working, has raised $14 million from investors including DreamWorks co-founder Jeffrey Katzenberg’s VC firm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-15/jeffrey-katzenberg-joe-montana-firms-back-ai-marketing-startup",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-15/jeffrey-katzenberg-joe-montana-firms-back-ai-marketing-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-waymo-recalls-444-self-driving-vehicles-over-software-error.md",
+      "title": "Waymo recalls 444 self-driving vehicles over software error",
+      "excerpt": "Feb 15 (Reuters) - Alphabet's (GOOGL.O), opens new tab Waymo unit has recalled 444 self-driving vehicles after two minor collisions in quick succession in Arizona ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/waymo-updates-software-over-400-recalled-vehicles-nhtsa-2024-02-15/?user_email=31c5543c1734d25c7206f5fd591525d0295bec6fe84ff82f946a34fe970a1e66",
+      "originalUrl": "https://www.reuters.com/technology/waymo-updates-software-over-400-recalled-vehicles-nhtsa-2024-02-15/?user_email=31c5543c1734d25c7206f5fd591525d0295bec6fe84ff82f946a34fe970a1e66",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology.md",
+      "title": "How Kubota is changing the status quo in agriculture and sustainability with technology",
+      "excerpt": "“It is no exaggeration to say that this initiative has just begun. With IBM, we hope to develop it into a standard in Japan and globally.\"\nThe post How Kubota is changing the status quo in agriculture and sustainability with technology appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
+      "originalUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-retail-technology-and-frontline-workers-delivering-unforgettable-customer-experiences.md",
+      "title": "Retail technology and frontline workers: Delivering unforgettable customer experiences",
+      "excerpt": "The retail industry employs millions of people, and next-generation retail employees will be impacted by the rise of generative AI.\nThe post Retail technology and frontline workers: Delivering unforgettable customer experiences appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
+      "originalUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-derwent-investments-pte-ltd-derwent-investments-singapores-ai-fintech-sector-flourishes-amidst-shifting-investment-trends.md",
       "title": "Derwent Investments Pte Ltd: Derwent Investments: Singapore's AI Fintech Sector Flourishes Amidst Shifting Investment Trends",
       "excerpt": "SINGAPORE, SINGAPORE / ACCESSWIRE / February 15, 2024 / Derwent Investments, a leading Singapore-based Wealth Management firm, has released its analysis of the investment landscape in Singapore's fint",
@@ -945,189 +1115,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential.md",
-      "title": "ChatGPT Stock Predictions: 3 Robotics & Automation Companies the AI Bot Thinks Have 10X Potential",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the bustling realm of forward-looking investments, robotics stocks stand",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T22:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-tesla-fsd-is-still-a-work-in-progress-amid-tech-challenges-lawsuits.md",
-      "title": "Tesla FSD is still a work in progress amid tech challenges, lawsuits",
-      "excerpt": "Entrepreneurs like Tesla CEO Elon Musk have said self-driving cars will make regular vehicles obsolete, but most Americans are wary. A recent survey found that three out of every four Americans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-fsd",
-      "originalUrl": "https://www.businessinsider.com/tesla-fsd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62f26cf8cc15bf00182f8eb8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-fsd?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fsd?amp",
-      "publishedDateTime": "2024-02-14T22:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-one-year-after-gpt-4-what-generative-ai-means-to-lawyers.md",
-      "title": "One Year After GPT-4: What Generative AI Means to Lawyers",
-      "excerpt": "Dr. Lingfei Wu is a distinguished engineer and entrepreneur known for his contributions in artificial intelligence, machine learning, and natural language processing. He is the Co-founder and CEO of Anytime.AI, a generative AI startup that aims to boost efficiency and effectiveness in the legal field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/therecorder/2024/02/14/one-year-after-gpt-4-what-generative-ai-means-to-lawyers/",
-      "originalUrl": "https://www.law.com/therecorder/2024/02/14/one-year-after-gpt-4-what-generative-ai-means-to-lawyers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/276/2023/09/Lawyers-Technology-Article-202309281619.jpg",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T21:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-virtual-valentine-people-are-turning-to-ai-in-search-of-emotional-connections.md",
-      "title": "Virtual valentine: People are turning to AI in search of emotional connections",
-      "excerpt": "That's because his girlfriend was generated by artificial intelligence. Carrier wasn't looking to develop a relationship with something that wasn't real, nor did he want to become the brunt of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/valentines-day-ai-companion-bot-replika-artificial-intelligence/",
-      "originalUrl": "https://www.cbsnews.com/news/valentines-day-ai-companion-bot-replika-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/14/c6e557b5-25b8-4f3c-a481-5ca0aa402adb/thumbnail/1200x630/67e6c2c7e150e5208b95f490e6930778/gettyimages-851054066.jpg?v=99cbd804c3e0f1c84ac31cc518eb26be",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/valentines-day-ai-companion-bot-replika-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/valentines-day-ai-companion-bot-replika-artificial-intelligence/",
-      "publishedDateTime": "2024-02-14T21:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

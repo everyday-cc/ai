@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "What's Stopping Cybersecurity From Being AI-Driven?"
+    excerpt: "Cybersecurity, with its reliance on big data and moving at the speed of innovation, has one of the most compelling use cases for the latest evolution of AI."
+    publishedDateTime: 2024-02-26T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d8c24e9e1d87c92efbf728/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 862
+        isCached: true
   - title: "ISC2 Research: Most Cybersecurity Professionals Expect AI to Impact Their Jobs"
     excerpt: "ISC2 Research: Most Cybersecurity Professionals Expect AI to Impact Their Jobs Your email has been sent How AI might affect cybersecurity pros’ tasks Top AI cybersecurity concerns and possible effects In flux Implementation of AI policies and access to ..."
     publishedDateTime: 2024-02-22T00:00:00Z
@@ -77,6 +93,6 @@ related:
       domain: datanami.com
     quality: 0
 
-secured: "qduytbCbV0H6XFvcuF34TuqewDSwD2E3ef7kypuj2YN7nH+eAUJMrXaCqIIXksgAgRuJZxfcpGbthTUUUharspHhurk82X794y/w+pu+pESLgnS9YknR1BxzEx2H2ekG0Hws3gzMg6gIt178xNbHf4JOFg6t2ngNc9HlUtaPfiPflAxaQLtF27ljZUZPHSqNHrECDhryny3iwfFrTUX7yatQXR9wIn1+ERHuMnsI+g66j/bGQun4NhEVBUDpwRf5silsv5xohzFEe1LjFPBWCqU7Q7VpHuvJL9fnntu+ufPokcELEMsu9ptvuoiMVlzByKhX0eZrX7WNBZ9WvSjU6f5O0gBMpYAmua3h0PGgbfE=;M16A7gj5cSIsMF9vtWQwTQ=="
+secured: "xL6kSjoFMcf1A4vu2M66eMiJH4is5b68ote3rzZ1sCn1OOy4zzq/MEN6OzGz2hzLzYLESKuv08+Smx3yp0SNSwYxRLl0phOF/5ROwtONikkTbVr81lv/bHJpc9OR9F4uKRIrvDp96/mWo/pOb/b0FH4BcZy4ceM7MbI96QgA7Y/khFs8/EoU74NJd7RRvq0FA7aLlnXwWfCO5zoo54H0xhSmFlbte/qrGFb7uG45yMVFczYLR36QGGqk7odPVy7m3liPbTcoGwHGF82ZRRLSEW7gq/R1zJAXUFb+Cc8y7GCCS6b2e4a/scdohEWoj3mouX++OPf00SKMaezclZ6E+0veWhAYT1Joy4pDoToILk6ccoPgHApT3EOPZpjcrwqsuBsfHvHc43g2kw7o2ZVio0LzYyS0ICDh01iXArhkQYjipxG//PIJgrUQGCTvv9NCil+uZ6oXJdofavsyul5mhkgiOYvz50Z6nZR4jHB6ecbJMiAyNBizUmI0lyrVOpqVLAn4klYwlhT8MjHH/rxT3A==;iEhjkpYKJfXs8CUXlDKYLQ=="
 ---
 

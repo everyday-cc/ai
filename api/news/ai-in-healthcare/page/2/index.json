@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2024-02-08-ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers.md",
-      "title": "AI cannot be used to deny health care coverage, feds clarify to insurers",
-      "excerpt": "Health insurance companies cannot use algorithms or artificial intelligence to determine care or deny coverage to members on Medicare Advantage plans, the Centers for Medicare & Medicaid Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/",
-      "originalUrl": "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1985565682-760x380.jpeg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-08-diagnosing-attention-deficit-hyperactivity-disorder-using-artificial-intelligence.md",
       "title": "Diagnosing Attention Deficit Hyperactivity Disorder Using Artificial Intelligence",
       "excerpt": "Cutting-edge research utilising artificial intelligence has shed light on the potential for a revolutionary diagnostic approach ADHD.",
@@ -1369,6 +1317,58 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-health-care-down-slightly-after-mixed-earnings-health-care-roundup.md",
+      "title": "Health Care Down Slightly After Mixed Earnings -- Health Care Roundup",
+      "excerpt": "Health-care companies fell slightly amid mixed earnings ... Evaxion Biotech shares surged, almost doubling in value, after the vaccine developer said it was applying artificial-intelligence methods to exploration of cancer vaccines, pledging to produce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
+      "originalUrl": "https://www.marketwatch.com/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
+      "publishedDateTime": "2024-01-24T22:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

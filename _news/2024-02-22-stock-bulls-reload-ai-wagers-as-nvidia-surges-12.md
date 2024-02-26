@@ -82,22 +82,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Nokia, Nvidia collaborate on AI for mobile networks"
-    excerpt: "Nokia will also use Nvidia chips for AI applications and RAN acceleration, which will pave the way for “AI-RAN.” The idea is to remove complexity and provide flexibility, to allow customers to get their Cloud RAN services up and running much faster."
-    publishedDateTime: 2024-02-21T12:44:00Z
-    webUrl: "https://www.marketwatch.com/story/nokia-nvidia-collaborate-on-ai-for-mobile-networks-a8ceace9"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/nokia-nvidia-collaborate-on-ai-for-mobile-networks-a8ceace9"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nokia-nvidia-collaborate-on-ai-for-mobile-networks-a8ceace9"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
-    images:
-      - url: "https://images.mktw.net/im-47039978/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia: Artificial intelligence at 'tipping point' boss says"
     excerpt: "The boss of the world's most valuable chip maker Nvidia says artificial intelligence (AI) is at a \"tipping point\" as it announced record sales. Chief executive Jensen Huang's comments came as the technology giant posted record figures for the most recent quarter, after revenues surged by 265% to $22bn (£17.4bn) from a year earlier."
     publishedDateTime: 2024-02-22T01:37:00Z
@@ -462,6 +446,20 @@ related:
       - url: "https://www.moneyweb.co.za/wp-content/uploads/2024/02/407967706-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Nvidia briefly hits $2trn valuation as demand for AI chips soars"
+    excerpt: "AI is a gift that keeps generating for Nvidia as it rides on a high after demand for its chips soars globally. Nvidia briefly hit the $2trn valuation mark for the first time on Friday (23 February) soon after its latest earnings call that forecasted a ..."
+    publishedDateTime: 2024-02-26T11:00:00Z
+    webUrl: "https://www.siliconrepublic.com/business/nvidia-market-value-ai-chip-demand-revenue-shares"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-27.jpeg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "BESI exceeds fourth-quarter targets on demand for AI-related chipmaking parts"
     excerpt: "Orders and year-end backlog for hybrid bonding — a form of chip packaging required for AI applications — nearly doubled from last year, BESI said, adding that around a half of fourth-quarter orders were for its most advanced hybrid bonding systems."

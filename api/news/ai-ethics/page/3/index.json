@@ -2,59 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2024-01-25-generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations.md",
-      "title": "Generative AI In Healthcare And Life Sciences: Positive Impacts And Ethical Considerations",
-      "excerpt": "Let's explore generative AI's potential to reshape healthcare and life sciences as well as the ethical considerations that must be understood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62db0023bea32ba6199391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/",
-      "publishedDateTime": "2024-01-25T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2024-01-25-apple-is-working-on-ai-models-that-can-run-on-device-rather-than-on-the-cloud.md",
       "title": "Apple is working on AI models that can run on-device rather than on the cloud",
       "excerpt": "Read our ethics statement. Forward-looking ... Part of this plan is to circumvent cloud-based AI in favor of locally-processed solutions. The Financial Times reports that Apple's hiring records, previous statements, and comments from analysts suggest ...",
@@ -1416,6 +1363,58 @@
         "AI Ethics",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-25-ai-naughty-and-nice-2023-headliners.md",
+      "title": "AI Naughty And Nice 2023 Headliners",
+      "excerpt": "It was a year of incredible naughty and nice developments advancing the field of Artificial Intelligence. 12 examples are provided on Santa Claus's 2023 register.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6589f1adc974168215d62aea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/amp/",
+      "publishedDateTime": "2023-12-25T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

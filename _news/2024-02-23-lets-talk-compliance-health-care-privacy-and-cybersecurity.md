@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "What's Stopping Cybersecurity From Being AI-Driven?"
+    excerpt: "Cybersecurity, with its reliance on big data and moving at the speed of innovation, has one of the most compelling use cases for the latest evolution of AI."
+    publishedDateTime: 2024-02-26T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d8c24e9e1d87c92efbf728/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 862
+        isCached: true
   - title: "ISC2 Research: Most Cybersecurity Professionals Expect AI to Impact Their Jobs"
     excerpt: "ISC2 Research: Most Cybersecurity Professionals Expect AI to Impact Their Jobs Your email has been sent How AI might affect cybersecurity pros’ tasks Top AI cybersecurity concerns and possible effects In flux Implementation of AI policies and access to ..."
     publishedDateTime: 2024-02-22T00:00:00Z

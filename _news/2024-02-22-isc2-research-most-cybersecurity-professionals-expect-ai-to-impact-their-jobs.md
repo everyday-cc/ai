@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/
 webUrl: "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "What's Stopping Cybersecurity From Being AI-Driven?"
+    excerpt: "Cybersecurity, with its reliance on big data and moving at the speed of innovation, has one of the most compelling use cases for the latest evolution of AI."
+    publishedDateTime: 2024-02-26T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d8c24e9e1d87c92efbf728/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 862
+        isCached: true
   - title: "The Protective Paradox: How Artificial Intelligence Helps Solve AI Cybersecurity Risks"
     excerpt: "For cybersecurity, artificial intelligence (AI) is both shield and sword. By implementing AI-driven tools, businesses are better protected against potential cyberthreats. By arming themselves with these same solutions, however, attackers are finding new ..."
     publishedDateTime: 2024-02-23T16:56:00Z

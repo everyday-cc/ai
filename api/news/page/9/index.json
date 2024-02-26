@@ -2,6 +2,196 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-19-now-that-artificial-intelligence-can-clone-voices-video-game-actors-must-weigh-their-options.md",
+      "title": "Now that artificial intelligence can clone voices, video game actors must weigh their options",
+      "excerpt": "Some video game voice actors are willing to lend their voices to AI voice cloning technology, but concerns linger over fair compensation and fair use of their auditory likeness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options",
+      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451d7a28-5ceb-42ad-b0e1-c8f9bd7377b7/b53347c0-06fb-4863-9de7-c0ae58861e24/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp",
+      "publishedDateTime": "2024-02-19T15:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs.md",
+      "title": "Empowering Small Dreams: The Essence Of A Great AI Solution For SMBs",
+      "excerpt": "For these smaller businesses, the right AI solution isn't merely a tool; it's a partner that helps them dream bigger and reach higher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/",
+      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ab0fa2b3d7aa6801dcd938/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/amp/",
+      "publishedDateTime": "2024-02-19T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-ai-and-robotics-to-play-key-roles-in-space-exploration.md",
+      "title": "AI and Robotics to Play Key Roles in Space Exploration",
+      "excerpt": "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space",
+      "originalUrl": "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T14:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electropages",
+        "domain": "electropages.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-employing-your-cloud-data-warehouse-to-scale-up-aiml.md",
+      "title": "Employing your cloud data warehouse to scale up AI/ML",
+      "excerpt": "AI can unlock the power of enterprise data, providing companies can get it to the right place in the right state",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/",
+      "originalUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/05/17/cloud_shutterstock.jpg",
+          "width": 648,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2024/02/19/employing_your_cloud_data_warehouse/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2024/02/19/employing_your_cloud_data_warehouse/",
+      "publishedDateTime": "2024-02-19T14:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-massrobotics-returns-as-strategic-partner-for-2024-robotics-summit-expo.md",
       "title": "MassRobotics returns as strategic partner for 2024 Robotics Summit & Expo",
       "excerpt": "MassRobotics will announce Form & Function Challenge winners and host an engineering career fair at the 2024 Robotics Summit & Expo.",
@@ -1040,205 +1230,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles.md",
-      "title": "Tesla Autopilot, Full-Self Driving Often Gets Bashed But Try Driving In Los Angeles",
-      "excerpt": "And what about Tesla’s FSD? “While most of the systems, such as Ford’s BlueCruise, are ring-fenced, Tesla's Full Self-Driving system allows the consumer to decide when it’s safe to use the technology. And as always, it's important to call out that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/?n=@",
-      "originalUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/?n=@",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T09:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-generative-urban-ai-is-here-are-cities-ready.md",
-      "title": "Generative Urban AI Is Here. Are Cities Ready?",
-      "excerpt": "Generative urban AI, an emerging and transformative technology poised to radically change urban planning, design, and city management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/",
-      "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d1a088fbe378e63d3de1a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/",
-      "publishedDateTime": "2024-02-18T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai.md",
-      "title": "RapidClaims Launches with Significant Funding to Revolutionize Healthcare Claim Management with AI",
-      "excerpt": "RapidClaims launches with significant funding to utilize AI in tackling healthcare claim denials, aiming to streamline medical coding and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1708041132826-0.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T04:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-how-ai-is-redefining-data-based-roles.md",
-      "title": "How AI is redefining data-based roles",
-      "excerpt": "AI will replace few if any data-related roles. Instead, AI-powered software will enhance their capabilities and encourage AI proficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-is-redefining-data-based-roles/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-is-redefining-data-based-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/data_pipelines_moving_in_different_directions_v-transformed.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T02:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

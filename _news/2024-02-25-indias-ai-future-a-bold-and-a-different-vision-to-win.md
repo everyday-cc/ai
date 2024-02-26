@@ -35,15 +35,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI's Current And Future Impacts On Construction"
-    excerpt: "As we've been hearing across the media landscape, AI is here to stay. While most people are aware of the digital-first uses of AI for things like ChatGPT and NFL analytics, AI has and will continue to transform traditional industries like construction as well."
-    publishedDateTime: 2024-02-21T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/ais-current-and-future-impacts-on-construction/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Redefining pharmaceutical case processing in the age of AI and automation"
     excerpt: "Incorporating artificial intelligence (AI) in the form of natural language processing (NLP) using large language models (LLM) and automation into pharmaceutical case processing marks a turning point for the industry. AI's ability to analyse vast ..."
     publishedDateTime: 2024-02-22T00:00:00Z

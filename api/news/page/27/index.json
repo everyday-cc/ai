@@ -2,6 +2,230 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2024-02-06-huawei-just-retasked-a-factory-to-prioritize-ai-over-its-bestselling-phone.md",
+      "title": "Huawei just retasked a factory to prioritize AI over its bestselling phone",
+      "excerpt": "Reuters reports that Huawei will focus on increasing the manufacturing of its AI chip, the Ascend 910B, at the expense of production of its Mate 60 phones in at least one facility. Chinese AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2024/2/5/24062541/huawei-ascend-chips-ai-mate-phones-pause",
+      "originalUrl": "https://www.theverge.com/2024/2/5/24062541/huawei-ascend-chips-ai-mate-phones-pause",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/7dClQwPazOCZ1AD5apVTuQH28ZE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002392/acastro_STK079_huawei_01.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T21:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications.md",
+      "title": "Dynatrace unveils AI Observability solution to benefit LLMs and generative AI-oriented applications",
+      "excerpt": "From what it’s understood, it also supports platforms for building, training, and delivering AI models, including Microsoft® Azure OpenAI Service, Amazon® SageMaker, and Google® AI Platform. Reportedly, Dynatrace AI Observability leverages the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications-3384617/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications-3384617/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-05T133449.796.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications-3384617/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications-3384617/lite/",
+      "publishedDateTime": "2024-02-05T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-miley-cyrus-thanks-family-in-full-grammys-speech-but-not-dad-billy-ray.md",
+      "title": "Miley Cyrus Thanks Family in Full Grammys Speech — But Not Dad Billy Ray",
+      "excerpt": "JC Olivera/WireImage; Gabe Ginsberg/Getty Images Miley Cyrus was in total “shock” after her 2024 Grammys wins, but her choice to leave dad Billy Ray Cyrus from her acceptance speech appears to be intentional.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/entertainment/miley-cyrus-thanks-family-full-214110046.html",
+      "originalUrl": "https://www.aol.com/entertainment/miley-cyrus-thanks-family-full-214110046.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_us_weekly_474/bfdb85a8d603758901bdb198e996eba1",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T20:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-5m-masstech-collaborative-initiative-boosts-states-robotics-sector.md",
+      "title": "$5M MassTech Collaborative initiative boosts state’s robotics sector",
+      "excerpt": "MassTech program will focus on expansion of research and development, testing, commercialization, and workforce development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/5m-masstech-collaborative-initiative-boosts-states-robotics-sector/",
+      "originalUrl": "https://www.therobotreport.com/5m-masstech-collaborative-initiative-boosts-states-robotics-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/Screen-Shot-2023-03-06-at-12.22.25-PM.png",
+          "width": 520,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T19:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "For years, IBM has been developing ways to adapt its AI supercomputer Watson to revolutionize health care, finance, law and academia. IBM’s portfolio of Watson AI solutions includes applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2024/02/artificial-intelligence-stocks-the-10-best-ai-companies-21/",
+      "originalUrl": "https://wtop.com/news/2024/02/artificial-intelligence-stocks-the-10-best-ai-companies-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent.md",
       "title": "Facebook rules allowing fake Biden “pedophile” video deemed “incoherent”",
       "excerpt": "A fake video manipulated to falsely depict President Joe Biden inappropriately touching his granddaughter has revealed flaws in Facebook's \"deepfake\" policies, Meta's Oversight Board concluded Monday.",
@@ -895,239 +1119,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-how-ethics-regulations-and-guidelines-can-shape-responsible-ai.md",
-      "title": "How Ethics, Regulations And Guidelines Can Shape Responsible AI",
-      "excerpt": "Ethics plays a crucial role in guiding the development of artificial intelligence (AI), as does outlining fundamental principles such as fairness, transparency and accountability. However, principles alone may not be sufficient, and the challenge lies in bringing clarity to these ethical foundations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/how-ethics-regulations-and-guidelines-can-shape-responsible-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/how-ethics-regulations-and-guidelines-can-shape-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6426d9b7a6e4117a2deb47c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1416,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/how-ethics-regulations-and-guidelines-can-shape-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/05/how-ethics-regulations-and-guidelines-can-shape-responsible-ai/amp/",
-      "publishedDateTime": "2024-02-05T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-artificial-intelligence-ai-in-healthcare-market-worth-1484-billion-by-2029-exclusive-report-by-marketsandmarketstm.md",
-      "title": "Artificial Intelligence (AI) In Healthcare Market Worth $148.4 Billion By 2029 - Exclusive Report By Marketsandmarketstm",
-      "excerpt": "(MENAFN- PR Newswire) CHICAGO, Feb. 5, 2024 /PRNewswire/ -- The AI in Healthcare market is projected to grow from USD 20.9 billion in 2024 and is estimated to reach USD 148.4 billion by 2029 ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107811446/Artificial-Intelligence-AI-In-Healthcare-Market-Worth-1484-Billion-By-2029-Exclusive-Report-By-Marketsandmarketstm",
-      "originalUrl": "https://menafn.com/1107811446/Artificial-Intelligence-AI-In-Healthcare-Market-Worth-1484-Billion-By-2029-Exclusive-Report-By-Marketsandmarketstm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229",
-          "width": 445,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T10:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-comprehensive-study-of-the-artificial-neural-network-market-2032-current-scenario-and-future-prospects.md",
-      "title": "Comprehensive Study Of The Artificial Neural Network Market 2032: Current Scenario And Future Prospects",
-      "excerpt": "Artificial Neural Network Market The growth of the artificial neural network market is fueled by a rise in data volume, machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107809545/Comprehensive-Study-Of-The-Artificial-Neural-Network-Market-2032-Current-Scenario-And-Future-Prospects",
-      "originalUrl": "https://menafn.com/1107809545/Comprehensive-Study-Of-The-Artificial-Neural-Network-Market-2032-Current-Scenario-And-Future-Prospects",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229",
-          "width": 445,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T09:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-looking-outside-the-magnificent-seven-stocks-could-be-a-good-idea-for-artificial-intelligence-ai-investors-heres-1-stock-that-ive-got.md",
-      "title": "Looking Outside the \"Magnificent Seven\" Stocks Could Be a Good Idea for Artificial Intelligence (AI) Investors: Here's 1 Stock That I've Got My Eye On",
-      "excerpt": "IBM's Watson governance tools have garnered interest as it pertains to compliance with AI practices. The company's consulting operation is serving as a bellwether for generative AI software revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/05/looking-outside-the-magnificent-seven-stocks-could/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/05/looking-outside-the-magnificent-seven-stocks-could/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/763057/it-solutions-server-room-data-management.jpg",
-          "width": 5760,
-          "height": 3840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T07:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-whats-standing-in-the-way-of-the-uk-being-an-ai-superpower.md",
-      "title": "What’s standing in the way of the UK being an AI superpower?",
-      "excerpt": "Artificial intelligence (AI) could bring a big economic boost says report, but there are still barriers to overcome",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/366568758/Whats-standing-in-the-way-of-the-UK-being-an-AI-superpower",
-      "originalUrl": "https://www.computerweekly.com/news/366568758/Whats-standing-in-the-way-of-the-UK-being-an-AI-superpower",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-060224-cover-500px.jpg",
-          "width": 500,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T06:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
