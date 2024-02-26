@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2024-02-06-microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.md",
-      "title": "Microsoft, Lenovo, Big Tech Companies Sign UNESCO AI Ethics Recommendation",
-      "excerpt": "The tech giants will be required to safeguard human rights in all stages of AI development, design, acquisition, sale, and usage under the terms of a new agreement signed by the tech corporations GSMA, INNIT, Lenovo Group, LG AI Research, Mastercard, Microsoft, Salesforce, and Telefonica.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "originalUrl": "https://www.techtimes.com/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/435738/unesco-unveils-first-ever-global-guidance-on-generative-ai-in-education-research.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "publishedDateTime": "2024-02-06T03:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-06-top-7-cyber-threat-hunting-tools-for-2024.md",
       "title": "Top 7 Cyber Threat Hunting Tools for 2024",
       "excerpt": "Leveraging unsupervised machine learning models, Carbon Black Endpoint can detect anomalies ... latest news and tips on the following topics and more, XaaS, AWS, Microsoft Azure, DevOps, virtualization, the hybrid cloud, and cloud security.",
@@ -1472,6 +1428,58 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-how-generative-ai-is-revolutionizing-customer-service.md",
+      "title": "How Generative AI Is Revolutionizing Customer Service",
+      "excerpt": "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/",
+      "publishedDateTime": "2024-01-26T06:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

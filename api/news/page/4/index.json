@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-22-besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders.md",
+      "title": "Besi exceeds quarterly targets on AI-related chip parts orders",
+      "excerpt": "The Dutch group's shares soared 16% in early trading after its quarterly orders increased by 30% driven by hybrid bonding, a form of chip packaging required for AI applications. Orders for the fourth quarter totalled 166 million euros ($180 million), part ...",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/devices/besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders/107912966",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/devices/besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders/107912966",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-107912966,imgsize-135456,width-1200,height=765,overlay-ettelecom/devices/besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/devices/besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders/107912966",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders/107912966",
+      "publishedDateTime": "2024-02-22T10:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-cloud-and-ai-apps-take-center-stage-in-net-9.md",
+      "title": "Cloud and AI apps take center stage in .NET 9",
+      "excerpt": "A first preview release of the next .NET sets the scene for a year of platform development focused on cloud-native and AI-powered applications. Just three months into the tenure of .NET 8, it’s already time for Microsoft and the .NET Foundation to start ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.html",
+      "originalUrl": "https://www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/shutterstock_218547988-100961470-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.amp.html",
+      "publishedDateTime": "2024-02-22T09:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-light-therapy-helps-ease-pain-for-cancer-patients.md",
       "title": "Light therapy helps ease pain for cancer patients",
       "excerpt": "Neck and head cancer patients will be able to seek a new treatment to ease the pain of radiotherapy and chemotherapy Cancer patients at a hospital trust have started using light therapy to help them with side effects caused by chemotherapy and radiotherapy.",
@@ -557,49 +652,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-22-samsung-bringing-one-ui-61-galaxy-ai-update-to-more-devices-starting-late-march.md",
-      "title": "Samsung Bringing One UI 6.1, Galaxy AI Update to More Devices Starting Late March",
-      "excerpt": "With this announcement, it means we’re a mere month away from more folks getting to play with Galaxy AI. Having been using it on the Galaxy S24 Ultra for a month now, I can tell you that the Interpreter mode is quite solid, Live Translate is helpful in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/",
-      "originalUrl": "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.droid-life.com/wp-content/uploads/2024/02/Galaxy-AI-Devices-600x315-cropped.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/",
-      "cdnAmpWebUrl": "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/",
-      "publishedDateTime": "2024-02-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Droid Life",
-        "domain": "droid-life.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-22-stakeholders-to-discuss-trust-security-and-privacy-in-ai-era.md",
       "title": "Stakeholders to Discuss Trust, Security and Privacy in AI Era",
       "excerpt": "Blockchain and the FinTech society have managed to create a new world that is much more inclusive, and full of opportunities. Based on a report by Gartner, which predicted that by 2024, 40 per cent of privacy compliance technology will rely on AI ...",
@@ -912,7 +964,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1206,59 +1258,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-chinas-rush-to-dominate-ai-comes-with-a-twist-it-depends-on-us-technology.md",
-      "title": "China’s Rush to Dominate A.I. Comes With a Twist: It Depends on U.S. Technology",
-      "excerpt": "In interviews, Mr. Lee presented his A.I. system as an alternative to options like Meta’s generative A.I. model, called LLaMA. There was just one twist: Some of the technology in 01.AI’s system came from LLaMA. Mr. Lee’s start-up then built on Meta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/21/technology/china-united-states-artificial-intelligence.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/21/technology/china-united-states-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/21/business/21CHINA-AI/21CHINA-AI-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T16:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

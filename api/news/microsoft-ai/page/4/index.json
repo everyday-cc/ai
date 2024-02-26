@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-01-26-how-generative-ai-is-revolutionizing-customer-service.md",
-      "title": "How Generative AI Is Revolutionizing Customer Service",
-      "excerpt": "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/",
-      "publishedDateTime": "2024-01-26T06:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-26-microsoft-azures-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts.md",
       "title": "Microsoft Azure's Soaring Growth and AI Innovations Signal a Bright Future for Investors: Analysts",
       "excerpt": "Piper Sandler maintained Overweight rating on Microsoft (NASDAQ: MSFT) with price target of $455. Azure growth may accelerate to $95B in 2024.",
@@ -1421,6 +1369,58 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-vodafone-signs-15-billion-microsoft-deal-for-ai-cloud-and-iot.md",
+      "title": "Vodafone signs $1.5 billion Microsoft deal for AI, cloud and IoT",
+      "excerpt": "Vodafone has agreed a 10-year partnership with Microsoft to bring generative AI, digital, enterprise and cloud services to more than 300 million businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107359216-1705391940673-gettyimages-1782796345-BC_2023StudioAI_3456.jpeg?v=1705391964",
+          "width": 4973,
+          "height": 3309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
+      "publishedDateTime": "2024-01-16T08:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

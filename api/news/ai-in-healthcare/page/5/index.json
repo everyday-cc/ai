@@ -2,6 +2,60 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-15-experts-call-for-more-diversity-to-combat-bias-in-artificial-intelligence.md",
+      "title": "Experts call for more diversity to combat bias in artificial intelligence",
+      "excerpt": "He encourages employing sociologists, lawyers, political scientists and other types of humanities-oriented academics to help contribute to the conversation around AI and ethics. Lombana-Bermudez said his hope is that future generations may alleviate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
+      "originalUrl": "https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231214172420-person-working-at-computer-stock-image-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
+      "publishedDateTime": "2023-12-15T14:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-medical-text-written-by-artificial-intelligence-outperforms-doctors.md",
       "title": "Medical Text Written By Artificial Intelligence Outperforms Doctors",
       "excerpt": "Here, I will examine their findings and discuss the impact on the future of artificial intelligence in healthcare. Rather than build an entirely new large language model from scratch, Peng and colleagues used the skeleton of ChatGPT-3. In other words ...",
@@ -1308,50 +1362,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare.md",
-      "title": "Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare.",
-      "excerpt": "In 2020, the U.S. Department of Defense officially disclosed a set of ethical principles to guide the use of Artificial Intelligence (AI) technologies on future battlefields. Despite stark differences,",
-      "sourceUrl": null,
-      "webUrl": "https://www.physiciansweekly.com/adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare/",
-      "originalUrl": "https://www.physiciansweekly.com/adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.physiciansweekly.com/wp-content/uploads/2023/08/allergy-allergist-skin-text-allergen-patient-doctor-office.jpg",
-          "width": 2384,
-          "height": 1257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T05:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

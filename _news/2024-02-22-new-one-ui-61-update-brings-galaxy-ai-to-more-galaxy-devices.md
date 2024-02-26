@@ -19,6 +19,38 @@ topics:
   - AI
 
 related:
+  - title: "Samsung says more Galaxy devices will get AI features, announces major update"
+    excerpt: "With this update, more Samsung Galaxy users can take advantage of the communication-enhancing AI features on AI-supported models"
+    publishedDateTime: 2024-02-22T10:42:00Z
+    webUrl: "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 56
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2024/02/22/1600x900/UI_61_update_1708598318695_1708598318930.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Samsung Expands Galaxy AI Features Across Latest Devices with One UI 6.1 Update"
+    excerpt: "“Our goal with Galaxy AI is not only to pioneer a new era of mobile ... The features include the ability to adjust message tone and translate messages in 13 different languages using Chat Assist. Galaxy users can experience the power of real-time ..."
+    publishedDateTime: 2024-02-22T12:43:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 55
+    images:
+      - url: "https://www.deccanchronicle.com/h-upload/2024/02/22/1076664-new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-news-thumb-1440x9601.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Samsung Bringing One UI 6.1, Galaxy AI Update to More Devices Starting Late March"
     excerpt: "With this announcement, it means we’re a mere month away from more folks getting to play with Galaxy AI. Having been using it on the Galaxy S24 Ultra for a month now, I can tell you that the Interpreter mode is quite solid, Live Translate is helpful in ..."
     publishedDateTime: 2024-02-22T00:00:00Z
@@ -35,22 +67,15 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Smartphone giants like Samsung are going to talk up ‘AI phones' this year — here's what that means"
-    excerpt: "Analysts who spoke to CNBC broadly agree on a few things — that these devices will have more advanced chips to run AI, and that those AI apps will run on-device rather than in the cloud. Device makers including Samsung are going to talk up their AI ..."
-    publishedDateTime: 2024-02-25T00:00:00Z
-    webUrl: "https://www.nbcmiami.com/news/national-international/smartphone-giants-like-samsung-are-going-to-talk-up-ai-phones-this-year-heres-what-that-means/3242154/"
-    ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/smartphone-giants-like-samsung-are-going-to-talk-up-ai-phones-this-year-heres-what-that-means/3242154/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/smartphone-giants-like-samsung-are-going-to-talk-up-ai-phones-this-year-heres-what-that-means/3242154/?amp=1"
+  - title: "AI Features Are Coming to Samsung Wearables and Tablets"
+    excerpt: "Samsung's mobile president says the tech giant will add AI-powered tools to more of its devices, but it's currently unclear when such features might hit the market."
+    publishedDateTime: 2024-02-21T13:46:00Z
+    webUrl: "https://www.pcmag.com/news/ai-features-coming-to-samsung-wearables-tablets"
     type: article
     provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 45
-    images:
-      - url: "https://media.nbcmiami.com/2024/02/107364873-1706251336811-gettyimages-1933268460-SKOREA_SAMSUNG_GALAXY_S24.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "Samsung Galaxy S24's AI features can be set to on-device-only processing — here's how it works"
     excerpt: "It is possible to use on-device AI on the Samsung Galaxy S24 series, but you'll miss out on certain features in doing so. Galaxy AI requires an internet connection for several of its sub-features, because Samsung processes (but does not keep) the data ..."
     publishedDateTime: 2024-02-23T00:01:00Z

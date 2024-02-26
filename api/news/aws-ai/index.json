@@ -294,11 +294,11 @@
       "title": "Employing your cloud data warehouse to scale up AI/ML",
       "excerpt": "AI can unlock the power of enterprise data, providing companies can get it to the right place in the right state",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/",
-      "originalUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/",
+      "webUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/?td=rt-9bq",
+      "originalUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/?td=rt-9bq",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -890,49 +890,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-13-vectice-joins-us-governments-new-consortium-dedicated-to-ai-safety.md",
-      "title": "Vectice Joins U.S. Government’s New Consortium Dedicated to AI Safety",
-      "excerpt": "Press Release Vectice, the leader in documentation software for AI model development, joins the U.S. Government's initiative to support the development and deployment of trustworthy and safe AI. Vectice is among the first group of AI experts to join this effort,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/",
-      "originalUrl": "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T00:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-13-cloud-based-hpc-to-improve-performance-and-save-resources.md",
       "title": "Cloud-Based HPC To Improve Performance And Save Resources",
       "excerpt": "HPC users are adopting and integrating artificial intelligence (AI) and machine learning (ML ... With Amazon Web Services (AWS), organizations can overcome their HPC challenges by accessing flexible compute capacity and a variety of purpose-built tools.",
@@ -962,6 +919,49 @@
       "provider": {
         "name": "The Next Platform",
         "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-vectice-joins-us-governments-new-consortium-dedicated-to-ai-safety.md",
+      "title": "Vectice Joins U.S. ??Government's New Consortium Dedicated to AI Safety",
+      "excerpt": "Vectice, the leader in documentation software for AI model development, joins the U.S. Government's initiative to support the development and deployment of trustworthy and safe AI. Vectice is among the first group of AI experts to join this effort, highlighting its commitment to responsible AI development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/12/9960977.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/12/9960977.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

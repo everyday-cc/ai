@@ -55,34 +55,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Wipro and Intel Foundry Partner to Innovate AI Chip Manufacturing"
-    excerpt: "According to a press release, the worldwide AI chip market is projected to experience a compound annual growth rate (CAGR) of 38 percent from 2023 to 2032. The collaboration between Wipro and Intel Foundry aims to meet the increasing demand for AI chip ..."
-    publishedDateTime: 2024-02-21T03:13:00Z
-    webUrl: "https://www.siliconindia.com/news/general/wipro-and-intel-foundry-partner-to-innovate-ai-chip-manufacturing-nid-227989-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/2NEZSVXJ.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Wipro and Intel Foundry Partners for Innovate AI Chip Manufacturing"
-    excerpt: "Wipro and Intel Foundry Partners for Innovate AI Chip Manufacturing - Wipro Limited , a leading technology services and consulting firm, has revealed an enhanced partnership"
-    publishedDateTime: 2024-02-21T03:10:00Z
-    webUrl: "https://www.siliconindia.com/news/general/wipro-and-intel-foundry-partners-for-innovate-ai-chip-manufacturing-nid-227989-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/2NEZSVXJ.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "sSNNMpIZ7VccSV/2pIsz4JjzpOWUA3Gbdi6kVkeGVvWsdei23G7XLWlNpcD/hKJMqBw9lH5oG0YlzhP+W2N/NzSrrhhCCR8RmGgS6l9NHKOsH1GBbLXgVMmW822uflTXGMCBryoOSO31EwPJWNOhw1Hkloc2YF6eAB/1bmQ08Jd/a/Xg3GqaMaHUeX72Kt11++pcO3ytp9R9zmcXt6LyNig/7ybjp2HN8xpzbkY45lBBBF3/BI3n+oMY+cw626CU789Xs1k5cpu3nYc39OpKPrll0OynSEpj7Eja0wqw0JS9PvwU6YjORmdOxiW6kMRrJFFC0+OOSpNY50clq/jklBRwR9ug/LtRXzc/Yq0oBTEYDDiLB8+sQO439lTZZL0j3pMSCV+ZpFvP3MoxDMlyRQkyC0PXlLLvjNSl3hGpQCnxTRMwn05KyHjU0HxMCh/b/F1FHJyyl3dUYN7kIs4fYJQLuYcxoih2GLiDqQicjfRW56vGPVD8KWfbn4Yxm9uxcAK4l145sZocQARN0NW6MA==;7BqyV1NaVVPTzqahgnf75g=="
 ---

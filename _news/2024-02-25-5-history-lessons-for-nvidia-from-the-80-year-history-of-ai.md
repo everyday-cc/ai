@@ -5,8 +5,10 @@ excerpt: "Predictions are difficult, but we have lots of data at our disposal th
 publishedDateTime: 2024-02-25T14:00:00Z
 originalUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/"
 webUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/"
+ampWebUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/amp/"
 type: article
-quality: 49
+quality: 91
 heat: -1
 published: false
 
@@ -21,6 +23,13 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65da9c4f7d1d85f773609bb1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1350
+    height: 900
+    isCached: true
 
 related:
   - title: "European Chip Stocks Surge After Nvidia Sales Reach New Heights on Booming AI Demand"
@@ -668,6 +677,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "N48wS6RoxdutbQdWKV12+EmWCYz0PhXqS6tddZapma+tcSJ6fZ8OYXeSbNSKG4ib1sco2EHtaRU/GggjmsQ8uBy7sOW4tWieQQ/1HtIIFV6FYfmMc3zUR+wJN09VpeJQkEVwTBKBjDl73fgEBVnUjp7NZKSsZpGlSAqGmmWMVBRTLXBM9hdStioxSp4g65QTaHfUDv7YGHziwccDmx6QRtdXniUwEbPzCan84+VVDjk50nIJFUpBBtdx29GVS+dW3FSSGrJVQMHjMvnGZK3tBJ9U0QYxFGiKkw0zb1ydcA5uKpmVPl2OGuxkSlMLjtIomCgGovIE+Ccpn7J6XqSRUBZ6SHw0DWv0/s1So4F0FDmhK14gJ9j266pbXN+XfiLD1tZ1eYoon3IkdUnY4FIAF+LJ+z4iKMPY80KnZJWcvjGmgoQJN6XmfThaqZZIs+xa3hdZOoxmWO/e0ZHzVI84VqRHITjMhyV7OB5ybKZmP83RBoNQy+FNwblUcm3ZJvyrI+crzHjVCKERnV7grC5kcw==;LrwO8L5cQLihobjWSx/pLQ=="
+secured: "fAYPxxfOTDJ7fs6ALzjh6IuotIkJg8Xtcejb4H/cGmDtxVM5mhrOMFIwzBmgVBkCMc3Nzz/K/oSc99F/G/+Uyrw5rx6I2vtFTrJQJ3OEP8+u3NeTG0LHD6Hd07E9l85Jgu2T+GJ93Kuhm8N3cjfKVdvLPtN+LHSlMB2/khxVHBO208E0UzZDhMdLWqoLoZCDlBIPhkLEIbkYJ6efN1iIpwF9CzUzuuCxveCU7liFekDkO22a6nwMmF/AH6paWe1djcPOkwmqNB4X7m7jGvl7b8g/1B4x+klVhv25GKqOHTi6dVsA8tRN2YgQm/n7pZXa+wwK5fB/SiMxKLZJeaQSLOzy0ymtOj3zDz0CWl+00+M=;mSNsaCYd9ydaRJq78kVJGA=="
 ---
 

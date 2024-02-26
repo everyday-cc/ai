@@ -64,6 +64,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "5 History Lessons For Nvidia From The 80-Year History Of AI"
+    excerpt: "Predictions are difficult, but we have lots of data at our disposal that may help us make educated guesses about the future. It’s called history."
+    publishedDateTime: 2024-02-25T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65da9c4f7d1d85f773609bb1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Nokia, Nvidia collaborate on AI for mobile networks"
     excerpt: "Nokia will also use Nvidia chips for AI applications and RAN acceleration, which will pave the way for “AI-RAN.” The idea is to remove complexity and provide flexibility, to allow customers to get their Cloud RAN services up and running much faster."
     publishedDateTime: 2024-02-21T12:44:00Z
@@ -450,15 +466,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "5 History Lessons For Nvidia From The 80-Year History Of AI"
-    excerpt: "Predictions are difficult, but we have lots of data at our disposal that may help us make educated guesses about the future. It’s called history."
-    publishedDateTime: 2024-02-25T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Nvidia’s AI Dominance Heralds New Era in Computing"
     excerpt: "In a tech industry renowned for short-lived frenzies, some chip executives and analysts see the AI boom as increasingly sustainable."
     publishedDateTime: 2024-02-22T13:44:00Z

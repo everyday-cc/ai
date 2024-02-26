@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-29-business-continuity-vs-disaster-recovery-which-plan-is-right-for-you.md",
+      "title": "Business continuity vs. disaster recovery: Which plan is right for you?",
+      "excerpt": "Business continuity and disaster recovery plans are risk management strategies that businesses rely on to prepare for unexpected incidents.\nThe post Business continuity vs. disaster recovery: Which plan is right for you? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/business-continuity-vs-disaster-recovery-plan/",
+      "originalUrl": "https://www.ibm.com/blog/business-continuity-vs-disaster-recovery-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/map_1-22-1.blog-lead-space-2x1-1.jpg",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T15:52:35Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity.md",
       "title": "The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity",
       "excerpt": "Bringing conversational AI virtual assistants and business automation capabilities to simplify workflows and increase efficiency.\nThe post The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity appeared first on IBM Blog.\n",
@@ -1305,40 +1356,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-2024-prediction-why-ibm-is-the-ai-stock-to-buy-and-hold-for-magnificent-growth.md",
-      "title": "2024 Prediction: Why IBM Is the AI Stock to Buy and Hold for Magnificent Growth",
-      "excerpt": "While market darlings have grabbed headlines with soaring valuations, IBM has quietly built a formidable AI arsenal, from the versatile Watson AI platform to the innovative Watsonx system tailored ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2024-prediction:-why-ibm-is-the-ai-stock-to-buy-and-hold-for-magnificent-growth",
-      "originalUrl": "https://www.nasdaq.com/articles/2024-prediction:-why-ibm-is-the-ai-stock-to-buy-and-hold-for-magnificent-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T16:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

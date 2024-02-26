@@ -2,6 +2,145 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-12-26-embracing-ai-in-communications-strategies-for-successful-agency-adoption.md",
+      "title": "Embracing AI In Communications: Strategies For Successful Agency Adoption",
+      "excerpt": "Employing these strategies can transform AI from a daunting concept to an everyday tool, enabling you to achieve more than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/amp/",
+      "publishedDateTime": "2023-12-26T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-26-how-is-artificial-intelligence-transforming-the-healthcare-industry-robotics-automation-news.md",
+      "title": "How Is Artificial Intelligence Transforming The Healthcare Industry? Robotics & Automation News",
+      "excerpt": "The integration of Artificial Intelligence in the field of healthcare has been massively transforming and reformulating the way we identify, examine,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
+      "originalUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-12/26/R&AN_6c365image_story.png",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-26T09:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-26-5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution.md",
+      "title": "5 stages of AI maturity in marketing: A blueprint for the marketing revolution",
+      "excerpt": "In the digital economy, data is the lifeblood of successful marketing strategies. As technology and AI continue to advance, businesses are increasingly turning to data-driven marketing to gain deeper",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1",
+      "originalUrl": "https://www.forbesindia.com/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2023/Dec/img_225345_aiandmarketing_bg.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1",
+      "publishedDateTime": "2023-12-26T05:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-12-26-how-artificial-intelligence-is-snatching-away-our-jobs.md",
       "title": "How Artificial Intelligence Is Snatching Away Our Jobs",
       "excerpt": "It's happening, the worst nightmare for anyone working in the corporate world is becoming true. Artificial Intelligence is slowly taking away jobs.",
@@ -1072,160 +1211,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-24-brainstorm-ai-2023-shopping-for-new-uses-of-ai-in-retail.md",
-      "title": "Brainstorm AI 2023: Shopping for New Uses of AI in Retail",
-      "excerpt": "Yasir Anwar, Chief Technology and Digital Officer, Williams-Sonoma Inc. Sravana Karnati, Senior Vice President and CTO, Walmart International, Walmart, Verne Kopytoff, Senior Editor, FORTUNE",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/Brainstorm-AI-2023-Shopping-for-New-Uses-of-AI-in-Retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137?activePlaylistName=Brainstorm AI 2023",
-      "originalUrl": "https://fortune.com/videos/watch/Brainstorm-AI-2023-Shopping-for-New-Uses-of-AI-in-Retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137?activePlaylistName=Brainstorm AI 2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/Images/posterImage-ver1-1280x720.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp",
-      "publishedDateTime": "2023-12-23T16:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-24-this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside.md",
-      "title": "This week in AI: AI ethics keeps falling by the wayside",
-      "excerpt": "a startup founder and an accomplished roboticist, to talk humanoid robots and broader trends in the robotics industry. CIOs take it slow with gen AI: Ron writes that, while CIOs are under pressure to deliver the kind of experiences people are seeing when ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/",
-      "originalUrl": "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/",
-      "publishedDateTime": "2023-12-23T16:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-24-sorry-santa-ai-is-replacing-elves-in-toy-manufacturing.md",
-      "title": "Sorry Santa, AI Is Replacing Elves In Toy Manufacturing",
-      "excerpt": "AI in Design and Prototyping Toy manufacturers have significantly enhanced their design and prototyping capabilities through AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2023/12/23/sorry-santa-ai-is-replacing-elves-in-toy-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/neilsahota/2023/12/23/sorry-santa-ai-is-replacing-elves-in-toy-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658643d2441d885475fa8a3c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1125,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2023/12/23/sorry-santa-ai-is-replacing-elves-in-toy-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2023/12/23/sorry-santa-ai-is-replacing-elves-in-toy-manufacturing/amp/",
-      "publishedDateTime": "2023-12-23T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,144 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2024-01-10-ai-starts-to-show-promise-as-tool-to-sift-mountain-of-sustainability-research.md",
+      "title": "AI starts to show promise as tool to sift mountain of sustainability research",
+      "excerpt": "AI starts to show promise as tool to sift mountain of sustainability research on facebook (opens in a new window) AI starts to show promise as tool to sift mountain of sustainability research on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/30be6feb-e038-4804-a7ba-5d0e288bac65",
+      "originalUrl": "https://www.ft.com/content/30be6feb-e038-4804-a7ba-5d0e288bac65",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F75aac64f-29af-40b1-a3a9-d0c1ffe8c05c.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-how-aws-responded-to-the-generative-ai-wave-of-2023-and-what-it-pros-should-expect-in-2024.md",
+      "title": "How AWS Responded to the Generative AI Wave of 2023 (and What IT Pros Should Expect in 2024)",
+      "excerpt": "When 2023 began, Rada Stanic, chief technologist for AWS in Australia and New Zealand, imagined the year would be dominated by helping customers build more modern data platforms in the cloud, with a bit of artificial intelligence and machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/aws-cloud-ai-2024-trends-australia/",
+      "originalUrl": "https://www.techrepublic.com/article/aws-cloud-ai-2024-trends-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/01/AdobeStock_458675015_Editorial_Use_Only.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-machine-learning-statistics-facts.md",
+      "title": "Machine learning - statistics & facts",
+      "excerpt": "Of the forms of AI used, machine learning is the simplest. Other AI subsects include deep learning, neural networks, and natural language processing. Machine learning uses datasets to categorize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/topics/9583/machine-learning/",
+      "originalUrl": "https://www.statista.com/topics/9583/machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-microsoft-azure-statistics-facts.md",
       "title": "Microsoft Azure - statistics & facts",
       "excerpt": "Microsoft Azure's key solutions include data management, media services, machine learning and artificial intelligence (AI), developer tools, and internet of things (IoT) applications.",
@@ -919,118 +1057,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-slow-and-steady-waymo-is-winning-the-self-driving-race.md",
-      "title": "Slow-and-Steady Waymo Is Winning the Self-Driving Race",
-      "excerpt": "That Waymo now stands ahead of its competitors should serve as a lesson to companies rushing forward with artificial intelligence: A little caution can pay off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2024-01-09/slow-and-steady-waymo-is-winning-the-self-driving-race-for-alphabet",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2024-01-09/slow-and-steady-waymo-is-winning-the-self-driving-race-for-alphabet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-cincinnati-hospitals-say-artificial-intelligence-like-chatgpt-can-help-patients-doctors.md",
-      "title": "Cincinnati hospitals say artificial intelligence like ChatGPT can help patients, doctors",
-      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Healthcare has been using AI in the back office for quite some time.” Christ Hospital is partnering with Microsoft and Epic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
-      "originalUrl": "https://www.usatoday.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-duolingo-translator-layoffs-spark-ai-debate.md",
-      "title": "Duolingo Translator Layoffs Spark AI Debate",
-      "excerpt": "Slator is the leading source of news and research for the global translation, localization, and language technology industry. Our Advisory practice is a trusted partner to clients looking for independent analysis. Headquartered in Zurich, Slator has a presence in Asia, Europe, and the US.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/duolingo-translator-layoffs-spark-ai-debate/",
-      "originalUrl": "https://slator.com/duolingo-translator-layoffs-spark-ai-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T10:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

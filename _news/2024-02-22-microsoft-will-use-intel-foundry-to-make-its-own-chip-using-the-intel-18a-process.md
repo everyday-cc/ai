@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/"
 type: article
 quality: 101
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -36,34 +36,6 @@ related:
     excerpt: "Wipro and Intel Foundry Partner for Innovate AI Chip Manufacturing - Wipro Limited , a leading technology services and consulting firm, has revealed an enhanced partnership"
     publishedDateTime: 2024-02-21T08:40:00Z
     webUrl: "https://www.siliconindia.com/news/general/wipro-and-intel-foundry-partner-for-innovate-ai-chip-manufacturing-nid-227989-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/2NEZSVXJ.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Wipro and Intel Foundry Partner to Innovate AI Chip Manufacturing"
-    excerpt: "According to a press release, the worldwide AI chip market is projected to experience a compound annual growth rate (CAGR) of 38 percent from 2023 to 2032. The collaboration between Wipro and Intel Foundry aims to meet the increasing demand for AI chip ..."
-    publishedDateTime: 2024-02-21T03:13:00Z
-    webUrl: "https://www.siliconindia.com/news/general/wipro-and-intel-foundry-partner-to-innovate-ai-chip-manufacturing-nid-227989-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/2NEZSVXJ.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Wipro and Intel Foundry Partners for Innovate AI Chip Manufacturing"
-    excerpt: "Wipro and Intel Foundry Partners for Innovate AI Chip Manufacturing - Wipro Limited , a leading technology services and consulting firm, has revealed an enhanced partnership"
-    publishedDateTime: 2024-02-21T03:10:00Z
-    webUrl: "https://www.siliconindia.com/news/general/wipro-and-intel-foundry-partners-for-innovate-ai-chip-manufacturing-nid-227989-cid-1.html"
     type: article
     provider:
       name: SiliconIndia

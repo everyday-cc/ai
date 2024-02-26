@@ -1,17 +1,17 @@
 ---
 category: news
 title: "STOSSEL: Artificial Intelligence may be coming for your job"
-excerpt: "The media warn that “Artificial Intelligence will replace millions of jobs.” They’re complaining about the Waymo driverless taxis already in use in part of San Francisco (and Phoenix)."
+excerpt: "The media warn that “Artificial Intelligence will replace ... They don’t drink or get distracted. Self-driving cars will replace many delivery driver jobs, taxi jobs, Uber jobs and truck ..."
 publishedDateTime: 2024-02-08T23:59:00Z
-originalUrl: "https://ottawasun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job"
-webUrl: "https://ottawasun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job"
-ampWebUrl: "https://ottawasun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/37b67055-4950-456b-b4a9-b144ece758c0/amp/"
-cdnAmpWebUrl: "https://ottawasun-com.cdn.ampproject.org/c/s/ottawasun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/37b67055-4950-456b-b4a9-b144ece758c0/amp/"
+originalUrl: "https://torontosun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job"
+webUrl: "https://torontosun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job"
+ampWebUrl: "https://torontosun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/37b67055-4950-456b-b4a9-b144ece758c0/amp/"
+cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/37b67055-4950-456b-b4a9-b144ece758c0/amp/"
 type: article
 
 provider:
-  name: ottawasun
-  domain: ottawasun.com
+  name: Toronto Sun
+  domain: torontosun.com
 
 topics:
   - AI in Autos
@@ -23,6 +23,6 @@ images:
     height: 650
     isCached: true
 
-secured: "WFyMD7ittZ7/VYtBJrikmS92t2nCmRWrcm6/Dd71aDzX0NKToyZU5JzZlDWjX9GIZ63KDt3r/jAT2iwnNiFNrXhG9Z9OoCKyog40s+zYUfIdQckPqS5pVKH5hbqB1eoOanc+8pXuGNWR9P8+S9HAYUq2gBE9Ouzd3OwaIv3zb7oSLeauFCSu7rmfqEgxKma2X7CEu0Eis/m8g7VEbnfxBqgtD20DA5CyRhAvSnM63t05EC/eC25a/V67o7UJa3iHfkAR5uu9XY3lpr8w0JfpaCoL4x8msfTtJ6JUiKFWdJlerqkvF1F+0WlA0zjkQnOkCm1UUgOY2bKLDoIrP72+YB0h5qs4nf/tnYJxsHhPqgg=;fRjYSw+Mii1LSn9l/3DgZg=="
+secured: "WAsSxav8MJvT+DvogGDPZeoifSphXEOFvvbijGjBv46fAdy/vZH5KwBJdpSaf/RzPlqPaLnc7/EQtqnAgipPWOXzyWOGicZ7JES0HV07PnQ88zkgu7968gDFg0mLq2Y/DLiDYfqEsYXdHIQojJKBAE9RJoNz7ku93faQ8jxdRNOLLIPX70jd1p2sXjuP/yl1zU/2qCtTqHamw+rKMPtiGX3xFQmP/TGBqpLQtUwvCk1zVm8Z81xnRCRZd9aHPiPl+Hqx4Q4sA9uSyUqfCMdLhkPBsVHWhdABUrLYHnphcXc52a164rrtJbTbkOFFtugk1SiJNJ2ZLqJRWZyGa+LD1Zmx4NZdhMuOJV9aRd1NzCk=;qYpkNFf5IYUsgl838+hF9g=="
 ---
 

@@ -319,6 +319,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "MWC: Long-lost Metaswitch team at Microsoft, taps AI for call fraud protection"
+    excerpt: "Microsoft announced a product that stems from its investment in Metaswitch. The UAE operator e& (formerly known as Etisalat) is now using Microsoft&nbsp | Jason Zander, EVP of strategic missions and tech at Microsoft,"
+    publishedDateTime: 2024-02-26T03:00:00Z
+    webUrl: "https://www.fiercewireless.com/wireless/long-lost-metaswitch-team-microsoft-taps-ai-call-fraud-protection"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 50
+    images:
+      - url: "https://qtxasset.com/quartz/qcloud4/media/image/Image%20%287%29.jpeg?VersionId=seOq4fAaaYtoLTTsxRJp774VFW7iBbiH"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Icreate, Microsoft, IT Ministry To Skill 11K Innovators, Startups In AI In India"
     excerpt: "Microsoft India and iCreate (the International Centre for Entrepreneurship and Technology) will provide AI skilling opportun"
     publishedDateTime: 2024-02-21T18:15:00Z

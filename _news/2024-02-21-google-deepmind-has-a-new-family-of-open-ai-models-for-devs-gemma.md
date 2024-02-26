@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind uses AI to tackle neglected deadly diseases"
+    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ..."
+    publishedDateTime: 2024-02-26T04:51:00Z
+    webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-_1bDst-wIEAkdUgaOHd1wvHTDwsPrzALuAbfBXpUkjWYwxjze4ZfL-7DtTeWCwJrBE9-Br"
+    ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google DeepMind debuts Gemma open models, offers developer alternative to Gemini API"
     excerpt: "Google DeepMind announced it had released Gemma — new 2B and 7B open models built from the same R&D used to create Gemini."
     publishedDateTime: 2024-02-21T13:00:00Z

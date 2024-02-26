@@ -2,6 +2,135 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-02-15-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade.md",
+      "title": "Microsoft: Azure And AI Are Set To Drive Growth In The Next Decade",
+      "excerpt": "The synergies between Azure, AI, and Microsoft's other businesses, such as gaming and productivity tools, give the company a competitive advantage. Microsoft has the potential to gain market share ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4670331-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade",
+      "originalUrl": "https://seekingalpha.com/article/4670331-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.gettyimages.com/id/1246495638/es/foto/this-picture-taken-on-january-23-2023-in-toulouse-southwestern-france-shows-screens-displaying.jpg?b=1&s=594x594&w=0&k=20&c=W3Ny0ZFSCnIQ3OCfOzPsYtggqLRlITk6RVjioEYfMqc=",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T04:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-innovationrx-the-feds-nutrition-labels-for-healthcare-ai.md",
+      "title": "InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI",
+      "excerpt": "To use generative AI to design what are called \"molecular glues.\" These glues bind to pathogens in the body, like cancer cells, connecting them to the protein degraders your cell uses to break down stuff it doesn't need anymore.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cd6e85e1831405583e345d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T02:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-ai-gives-a-voice-for-people-with-speech-limitations.md",
+      "title": "AI Gives a Voice for People With Speech Limitations",
+      "excerpt": "The AI technology is based on machine learning and speech recognition algorithms that are unique to each user. Voiceitt asks a new user to repeat dozens of words, phrases and sentences to learn the speech patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodnet.org/articles/ai-gives-voice-for-people-speech-limitations",
+      "originalUrl": "https://www.goodnet.org/articles/ai-gives-voice-for-people-speech-limitations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T00:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Goodnet",
+        "domain": "goodnet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-astros-to-debut-fast-entry-facial-recognition-tech-at-minute-maid-park.md",
       "title": "Astros to debut fast-entry facial recognition tech at Minute Maid Park",
       "excerpt": "A new facial recognition software will allow fans to enter Minute Maid Park faster this season. The new \"Go-Ahead Entry,\" system uses Artificial Intelligence will allow fans who sign up through ...",
@@ -1027,160 +1156,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants.md",
-      "title": "Rasa lands $30M to supercharge customer service with generative AI assistants",
-      "excerpt": "San Francisco-based Rasa, a startup working to streamline enterprise customer service with generative AI, has raised $30 million in a series C round of funding, co-led by StepStone Group and PayPal Ventures. Andreessen Horowitz (a16z), Accel and Basis Set ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants/",
-      "originalUrl": "https://venturebeat.com/ai/rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-26-11.48.35-Photo-of-a-robot-resembling-a-friendly-assistant-seated-at-a-spacious-desk-in-a-well-lit-room.-The-robots-metallic-arms-move-with-precision-as-it-t.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T15:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-nvidia-rockets-past-google-thanks-to-ai-is-this-chipmaker-unstoppable.md",
-      "title": "Nvidia Rockets Past Google, Thanks to AI! Is This Chipmaker Unstoppable?",
-      "excerpt": "Analysts are predicting a stellar performance from Nvidia in its upcoming earnings report, with expectations of a 400% increase in profit",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/14/nvidi-overtakes-alphabet-united-states/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/14/nvidi-overtakes-alphabet-united-states/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/11/Screenshot-2023-11-27-231635.png",
-          "width": 1020,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T15:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-leaders-what-are-you-doing-about-ai-fatigue.md",
-      "title": "Leaders, What Are You Doing About AI Fatigue?",
-      "excerpt": "In a world where digital transformation is as crucial as the air we breathe, there’s a quieter, more insidious transformation happening within our organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/",
-      "originalUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ccdd42394810960907e940/0x0.jpg?format=jpg&crop=2929,1372,x0,y41,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/amp/",
-      "publishedDateTime": "2024-02-14T15:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

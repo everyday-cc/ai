@@ -47,6 +47,22 @@ related:
         width: 2407
         height: 1460
         isCached: true
+  - title: "A college is removing its vending machines after a student discovered they were using facial recognition technology"
+    excerpt: "A photo shared on Reddit showed one of the vending machines with an error code suggesting it used facial recognition tech."
+    publishedDateTime: 2024-02-25T18:33:00Z
+    webUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-technology-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-technology-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-technology-2024-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/65db87806080194819fa0401?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Canadian university vending machine error reveals use of facial recognition"
     excerpt: "Snack dispenser at University of Waterloo shows facial recognition message on screen despite no prior indication"
     publishedDateTime: 2024-02-23T17:56:00Z

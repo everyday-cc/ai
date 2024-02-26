@@ -2,6 +2,125 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2024-01-23-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy.md",
+      "title": "Inhibrx, Sanofi ratify $2.2B deal for AATD therapy",
+      "excerpt": "Inhibrx Inc. and Sanofi SA have agreed to a deal worth up to $2.2 billion, whereby the latter’s Aventis Inc. subsidiary will acquire INBRX-101, an optimized, recombinant alpha-1 antitrypsin (AAT) augmentation therapy undergoing a registrational trial for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bioworld.com/articles/704871-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy",
+      "originalUrl": "https://www.bioworld.com/articles/704871-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioWorld",
+        "domain": "bioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-peak-xv-backed-healthtech-startup-qureai-in-talks-for-fresh-funding.md",
+      "title": "Peak XV-backed healthtech startup Qure.ai in talks for fresh funding",
+      "excerpt": "Qure.ai Technologies Pvt. Ltd, a health-tech startup that uses artificial intelligence for medical imaging diagnostics, has hit the market to raise what could be its biggest institutional round of funding till date, two people aware of the development told ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding",
+      "originalUrl": "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.vccircle.com/uploads/2024/01/Qure-CEO.jpg",
+          "width": 712,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding?amp=1",
+      "cdnAmpWebUrl": "https://www-vccircle-com.cdn.ampproject.org/c/s/www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding?amp=1",
+      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VCCircle",
+        "domain": "vccircle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-is-there-ai-discussion-fatigue-in-healthcare.md",
+      "title": "Is there AI discussion fatigue in healthcare?",
+      "excerpt": "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-mit-study-shows-ai-is-still-too-costly-to-replace-most-human-workers.md",
       "title": "MIT study shows AI is still too costly to replace most human workers",
       "excerpt": "According to the researchers, even if the cost of AI systems falls by 20% per year, it would still take decades for computer vision tasks to become more economically advantageous for most companies.",
@@ -1014,144 +1133,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-yes-ai-will-take-your-jobbut-not-your-career.md",
-      "title": "Yes, AI Will Take Your Job—But Not Your Career",
-      "excerpt": "The advent of AI is not just about displacing jobs but also about creating new career opportunities. Roles such as AI ethics officers or AI integration specialists are emerging at the forefront of this technological revolution. Preparing for these new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-will-take-your-job-but-not-your-career/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-will-take-your-job-but-not-your-career/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-will-take-your-job-but-not-your-career/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-will-take-your-job-but-not-your-career/amp/",
-      "publishedDateTime": "2024-01-22T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-opinion-harvard-president-failed-to-defend-free-speech.md",
-      "title": "Opinion: Harvard president failed to defend free speech",
-      "excerpt": "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php",
-      "originalUrl": "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T11:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-opinion-the-big-ai-party-is-not-cancelled-just-postponed.md",
-      "title": "Opinion: The big AI party is not cancelled, just postponed",
-      "excerpt": "The first big tech event of the year has come and gone. We went into CES expecting to be completely inundated with \"AI\", all marketing guns",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html",
-      "originalUrl": "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image.jpg",
-          "width": 3501,
-          "height": 2469,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T11:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

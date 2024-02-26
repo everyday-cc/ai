@@ -464,6 +464,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-21-facial-recognition-software-of-all-things-played-a-role-in-this-guys-latest-arrest.md",
+      "title": "Facial recognition software, of all things, played a role in this guy's latest arrest",
+      "excerpt": "But besides “video surveillance within the store,” the arrest report cites “new facial recognition software Lowe's has installed,” which helped the detective compare pictures of Saunders ...",
+      "sourceUrl": null,
+      "webUrl": "https://local12.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
+      "originalUrl": "https://local12.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://local12.com/resources/media/586a0d1f-edce-4faa-93aa-00320b004454-medium16x9_20030610JasonVincentSaundersMarionCo.PNG",
+          "width": 648,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://local12.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
+      "cdnAmpWebUrl": "https://local12-com.cdn.ampproject.org/c/s/local12.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
+      "publishedDateTime": "2024-02-20T22:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local 12 WKRC Cincinnati",
+        "domain": "local12.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-ai-as-startup-catalyst-what-it-can-and-cannot-deliver.md",
       "title": "AI As Startup Catalyst: What It Can And Cannot Deliver",
       "excerpt": "There is little doubt that artificial intelligence (AI) is and will continue to be a significant asset to existing businesses and a driver of new business creation.",
@@ -762,6 +805,40 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios.md",
+      "title": "Elemental Cognition Sets New Standard for Generative AI, Achieves 100% Accuracy in Complex Reasoning Scenarios",
+      "excerpt": "From the Inventor of IBM's Watson, Elemental Cognition's Neuro-Symbolic AI Platform Outperforms LLM Capabilities for Complex Problem Solving, Makes Generative AI Accurate and Transparent NEW YORK, NY / ACCESSWIRE / February 20, 2024 / Elemental Cognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61456702-elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61456702-elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T19:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1159,101 +1236,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-oppo-reno-11-series-to-get-an-array-of-generative-ai-features-very-soon.md",
-      "title": "OPPO Reno 11 series to get 'an array' of generative AI features very soon",
-      "excerpt": "The phone maker also revealed it would roll out generative AI features in the second quarter of 2024 to the OPPO Reno 11 series. These AI features will come to Reno 11 series owners globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/oppo-reno-11-series-ai-features-3416928/",
-      "originalUrl": "https://www.androidauthority.com/oppo-reno-11-series-ai-features-3416928/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/02/OPPO-LOGO-MWC-2023-01-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-3-machine-learning-stocks-to-turn-1000-into-1-million-february-2024.md",
-      "title": "3 Machine Learning Stocks to Turn $1000 Into $1 Million: February 2024",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Our society is always looking towards tomorrow and then the question arises,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-to-turn-1000-into-1-million-february-2024-1033084248",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-to-turn-1000-into-1-million-february-2024-1033084248",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T16:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

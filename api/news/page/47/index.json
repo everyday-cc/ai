@@ -2,6 +2,134 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2024-01-21-ai-contactless-technologies-will-affect-banking-palmpay-ceo.md",
+      "title": "AI, contactless technologies will affect banking – PalmPay CEO",
+      "excerpt": "Managing Director of PalmPay, Mr Chika Nwosu, speaks on the challenges facing the fintech industry, the importance of fostering financial inclusion",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/ai-contactless-technologies-will-affect-banking-palmpay-ceo/",
+      "originalUrl": "https://punchng.com/ai-contactless-technologies-will-affect-banking-palmpay-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2024/01/20215253/Mr-Chika-Nwosu.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/ai-contactless-technologies-will-affect-banking-palmpay-ceo/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/ai-contactless-technologies-will-affect-banking-palmpay-ceo/?amp",
+      "publishedDateTime": "2024-01-21T02:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-21-the-metaverse-flopped-so-mark-zuckerberg-is-pivoting-to-empty-ai-hype.md",
+      "title": "The Metaverse Flopped, So Mark Zuckerberg Is Pivoting to Empty AI Hype",
+      "excerpt": "division with its GenAI product team in order to expedite user access to AI features — which, as Zuckerberg pointed out, also requires a massive investment in graphics processing units (GPUs), the chips that provide the computing power for complex AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/",
+      "originalUrl": "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rollingstone.com/wp-content/uploads/2024/01/mark-zuckerberg-metaverse-AI.jpg?w=1600&h=900&crop=1",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/",
+      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/",
+      "publishedDateTime": "2024-01-21T02:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rolling Stone",
+        "domain": "rollingstone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-21-musks-ai-startup-secures-500-million.md",
+      "title": "Musk's AI startup secures $500 million",
+      "excerpt": "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/international-business/musks-ai-startup-secures-500-million/articleshow/107021302.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/international-business/musks-ai-startup-secures-500-million/articleshow/107021302.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107021312,width-1070,height-580,imgsize-28642,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms",
+      "publishedDateTime": "2024-01-21T01:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-21-davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence.md",
       "title": "Davos 2024: Top quotes from tech world’s leading minds on artificial intelligence",
       "excerpt": "In all, about 60 heads of state and 800 CEOs were in attendance among a total of 2,800 participants, as they discussed wide-ranging issues — from climate change to economic slowdowns — at both formal and informal gatherings.",
@@ -997,125 +1125,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-this-ai-robot-was-made-to-help-seniors-combat-loneliness.md",
-      "title": "This AI robot was made to help seniors combat loneliness",
-      "excerpt": "One in 3 adults ages 50 to 80 reported feeling isolated from others in the past year, according to the 2023 National Poll on Healthy Aging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kshb.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness",
-      "originalUrl": "https://www.kshb.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T20:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSHB Kansas City",
-        "domain": "kshb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news.md",
-      "title": "Google DeepMind scientists in talks to leave and form AI startup - Bloomberg News",
-      "excerpt": "Scientists Laurent Sifre and Karl Tuyls, who have already given notice to leave DeepMind, have held discussions with investors about a financing round that could raise over 200 million euros ($217 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news",
-      "originalUrl": "https://www.nasdaq.com/articles/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T19:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-how-to-build-a-successful-disaster-recovery-strategy.md",
-      "title": "How to build a successful disaster recovery strategy",
-      "excerpt": "A disaster recovery strategy lays out how your businesses will respond to a number of unplanned incidents.\nThe post How to build a successful disaster recovery strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/disaster-recovery-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/disaster-recovery-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/CR-G-265254-Hispanic-technician-examining.blog-lead-space-2x1-1.jpg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T18:07:18Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

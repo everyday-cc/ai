@@ -2,6 +2,152 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-02-15-our-next-generation-model-gemini-15.md",
+      "title": "Our next-generation model: Gemini 1.5",
+      "excerpt": "The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
+      "originalUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_gemini_1.5_blog_social_share_800x418.width-1300.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/",
+      "publishedDateTime": "2024-02-15T15:00:50Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-google-teases-an-even-better-version-of-gemini-but-youll-have-to-wait-for-it.md",
+      "title": "Google Teases an Even Better Version of Gemini, but You'll Have to Wait for It",
+      "excerpt": "Another day, another generative AI update. Google's AI subsidiary DeepMind has previewed Gemini 1.5 Pro, an upgraded model of Google's renamed Bard chatbot Gemini. Gemini got its new name less ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/google-teases-an-even-better-version-of-gemini-but-youll-have-to-wait-for-it/",
+      "originalUrl": "https://www.cnet.com/tech/google-teases-an-even-better-version-of-gemini-but-youll-have-to-wait-for-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/924ed5edfc0de9024ee6b4fb678edf3e7fe11a2a/hub/2024/02/15/f4c76374-3c54-4d63-a604-ef22b304b495/gettyimages-2004540056.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-responsible-technology-use-in-the-ai-age.md",
+      "title": "Responsible technology use in the AI age",
+      "excerpt": "AI presents distinct social and ethical challenges, but its sudden rise presents a singular opportunity for responsible adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/",
+      "originalUrl": "https://www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/02/Thoughtworks_image_2_1200x630px.jpg?w=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/amp/",
+      "publishedDateTime": "2024-02-15T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-the-2024-buyers-guide-to-industrial-generative-ai.md",
       "title": "The 2024 Buyer’s Guide To Industrial Generative AI",
       "excerpt": "Christopher Savoie, PhD, is the CEO & founder of Zapata AI. He is a published scholar in medicine, biochemistry and computer science.",
@@ -992,135 +1138,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade.md",
-      "title": "Microsoft: Azure And AI Are Set To Drive Growth In The Next Decade",
-      "excerpt": "The synergies between Azure, AI, and Microsoft's other businesses, such as gaming and productivity tools, give the company a competitive advantage. Microsoft has the potential to gain market share ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4670331-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade",
-      "originalUrl": "https://seekingalpha.com/article/4670331-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gettyimages.com/id/1246495638/es/foto/this-picture-taken-on-january-23-2023-in-toulouse-southwestern-france-shows-screens-displaying.jpg?b=1&s=594x594&w=0&k=20&c=W3Ny0ZFSCnIQ3OCfOzPsYtggqLRlITk6RVjioEYfMqc=",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T04:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-innovationrx-the-feds-nutrition-labels-for-healthcare-ai.md",
-      "title": "InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI",
-      "excerpt": "To use generative AI to design what are called \"molecular glues.\" These glues bind to pathogens in the body, like cancer cells, connecting them to the protein degraders your cell uses to break down stuff it doesn't need anymore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cd6e85e1831405583e345d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T02:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-ai-gives-a-voice-for-people-with-speech-limitations.md",
-      "title": "AI Gives a Voice for People With Speech Limitations",
-      "excerpt": "The AI technology is based on machine learning and speech recognition algorithms that are unique to each user. Voiceitt asks a new user to repeat dozens of words, phrases and sentences to learn the speech patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.goodnet.org/articles/ai-gives-voice-for-people-speech-limitations",
-      "originalUrl": "https://www.goodnet.org/articles/ai-gives-voice-for-people-speech-limitations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T00:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Goodnet",
-        "domain": "goodnet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

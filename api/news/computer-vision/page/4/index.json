@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-27-revolutionizing-child-protection-the-un-and-uaes-groundbreaking-ai-for-safer-children-collaboration.md",
+      "title": "Revolutionizing Child Protection: The UN And UAE’s Groundbreaking AI For Safer Children Collaboration",
+      "excerpt": "UNICRI Centre for AI and Robotics, Ministry of Interior of the UAE launched AI for Safer Children initiative in combating online child sexual exploitation and abuse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2023/12/26/revolutionizing-child-protection-the-un-and-uaes-groundbreaking-ai-for-safer-children-collaboration/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2023/12/26/revolutionizing-child-protection-the-un-and-uaes-groundbreaking-ai-for-safer-children-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658b9a814c2531ea90452895/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1260,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2023/12/26/revolutionizing-child-protection-the-un-and-uaes-groundbreaking-ai-for-safer-children-collaboration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/12/26/revolutionizing-child-protection-the-un-and-uaes-groundbreaking-ai-for-safer-children-collaboration/amp/",
+      "publishedDateTime": "2023-12-27T03:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-26-ai-aliens-and-giant-poo-piles-weirdest-science-stories-of-2023.md",
       "title": "AI, aliens and giant poo piles: Weirdest science stories of 2023",
       "excerpt": "The flamboyant patterns are designed to scramble AI object recognition algorithms, so they write off the wearer as a giraffe or a zebra and don’t bother running the facial recognition systems increasingly creeping into public spaces. It’s pretty pricey ...",
@@ -1363,49 +1415,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-computer-vision-eastern-africa.md",
-      "title": "Computer Vision - Eastern Africa",
-      "excerpt": "The market size in the Computer Vision market is projected to reach US$48.55m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 14.98%, resulting in a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-02T13:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

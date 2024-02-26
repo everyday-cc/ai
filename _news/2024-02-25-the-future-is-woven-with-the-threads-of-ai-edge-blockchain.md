@@ -7,7 +7,7 @@ originalUrl: "https://www.dqindia.com/features/the-future-is-woven-with-the-thre
 webUrl: "https://www.dqindia.com/features/the-future-is-woven-with-the-threads-of-ai-edge-blockchain-3996900"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AstraAI: Redefining Innovation with the Ultimate AI Ecosystem in Blockchain"
+    excerpt: "As AstraAI continues on its path of groundbreaking advancements, it is clear that the platform is not just participating in the blockchain and"
+    publishedDateTime: 2024-02-26T04:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-1033100075"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://lh7-us.googleusercontent.com/QnKXxXlezgzKCQkNJT1UWPIIz9jsLH7CdUAF4SwYzJwpetjMz4PPmwNINISZ-eZoeSRgRsZDofFVchvM-l0ZMqAqc-MI0DKCj1vD46GZm4qldNuOxhhh8eJEcAiRRLZUTfHl0MizY7WBdSEryBPaOow"
+        width: 1060
+        height: 1600
+        isCached: true
   - title: "AstraLabs Inc.: AstraAI: Redefining Innovation with the Ultimate AI Ecosystem in Blockchain"
     excerpt: "DUBAI, UAE /  / February 24, 2024 / In a mere 100 days since its launch, AstraAI has not only demonstrated its prowess in the cryptocurrency market but has also established itself as a beacon"
     publishedDateTime: 2024-02-24T20:55:00Z
