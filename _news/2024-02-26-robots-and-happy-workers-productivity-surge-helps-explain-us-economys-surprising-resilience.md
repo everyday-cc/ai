@@ -3,26 +3,20 @@ category: news
 title: "Robots and happy workers: Productivity surge helps explain US economy's surprising resilience"
 excerpt: "Artificial intelligence, they note, is only beginning to penetrate ... Some workers supplanted by robots do often struggle to find new work and end up settling for lower pay. Yet history suggests that in the long run, technological improvements actually ..."
 publishedDateTime: 2024-02-25T23:59:00Z
-originalUrl: "https://heraldcourier.com/news/nation-world/business/economy/us-happy-workers-robots-productivity-economic-resilience-growth/article_2be88497-56b3-5dd9-8f9a-eb842591311d.html"
-webUrl: "https://heraldcourier.com/news/nation-world/business/economy/us-happy-workers-robots-productivity-economic-resilience-growth/article_2be88497-56b3-5dd9-8f9a-eb842591311d.html"
+originalUrl: "https://journalstar.com/news/nation-world/business/economy/us-happy-workers-robots-productivity-economic-resilience-growth/article_b6087364-a49c-5772-8ad5-81244af17a89.html"
+webUrl: "https://journalstar.com/news/nation-world/business/economy/us-happy-workers-robots-productivity-economic-resilience-growth/article_b6087364-a49c-5772-8ad5-81244af17a89.html"
 type: article
-quality: 43
-heat: 43
+quality: 23
+heat: -1
 published: false
 
 provider:
-  name: Bristol Herald Courier
-  domain: heraldcourier.com
+  name: Lincoln Journal Star
+  domain: journalstar.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/2/be/2be88497-56b3-5dd9-8f9a-eb842591311d/65dbda23d1707.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Robots and happy workers: Productivity surge helps explain US economy's surprising resilience"
@@ -35,6 +29,6 @@ related:
       domain: gwcommonwealth.com
     quality: 23
 
-secured: "Fwp+YNJylCEYmvguM8AAug8jT1XcqCAqQxVN3MsMOTqCKWrg8AfZ5Jivmk0Pak/AxDgbLtRYPte/sxgPhclQq5vGFu3jV9Xm2E6xzvvcpE2W4QcNEqjS2STFBbrnK1dVEivJFeKY1HbRsPk0tlvUT26gNxFL3kghe1oUYC8ja1N3fpplOHB2wkTYoxZ8VoG2XrYsTBSsWBAnZ+DCxF2FI8shQVoBUPIW+8pIm/idf8xAbPY0jlJRmqwU1oKKaLGdRa39sZbwRa6+VT2JEsSA9cw3EjhvpNGLglWZO0AcU1HuboGnYkUYFRH64SPpeVxgVKiCiRd53bxdt33qpsElFnloArQXQQj1stzhm4OICz0=;fKeNDbk8ZuGbDi3kpBQRgA=="
+secured: "w7+o7dTqNvGz6kyTq7WyBDoF4WFiTu7poDRJWcNe3Q+RHVBZM0TBfszYQzh5DGNKs4z8IOv7EyBpjPZ6IkvgI345PRzRu3IXBKZAwHXMyiWiww2G2sC+cPOKO6b2oUkWlFnuWu6rBC0JRP4BczBK3I3XuKDzgSFTh4T3ClOaRbzpwBaw8C58fY4zpH0k5r4RvQ8on6Lg7l0r6oEGF5r5R8YWJY+QQsB1N+MbMH1PmoZ5S1s8lehdcCspLRwCGZ8Joko/JPG727hE+Gn6Cm1WrsKzkEToP1Y9VBc608mbSSm0Vy8AdBcp8+UliSuJ9s5pUAh8LxTltRLYrFbsx/+HbkTM8Lb+AJwZq5uUWhK36MzhbXk8nxUG10gtJ7bTWuzmAT4sCtaoF6VuwcfyyFJmOSTuSv2JGvavOE9gEovV8RgY7bWgjQnaKV2u8JKLH+8NPtMZ+wpI29QjD0lY4Y2dga5SYr6PeQeE3HGxk/rPBCvhnaUmyobOGHXKBU6VvxEzmDm/Jhg+jCXR3hZedcatnQ==;zOa1ez4qHpcDVccM7VgEmg=="
 ---
 

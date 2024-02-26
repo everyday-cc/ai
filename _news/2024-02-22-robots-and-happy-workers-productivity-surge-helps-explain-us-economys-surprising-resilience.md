@@ -7,7 +7,7 @@ originalUrl: "https://www.gwcommonwealth.com/robots-and-happy-workers-productivi
 webUrl: "https://www.gwcommonwealth.com/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -22,17 +22,12 @@ related:
   - title: "Robots and happy workers: Productivity surge helps explain US economy's surprising resilience"
     excerpt: "Artificial intelligence, they note, is only beginning to penetrate ... Some workers supplanted by robots do often struggle to find new work and end up settling for lower pay. Yet history suggests that in the long run, technological improvements actually ..."
     publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://heraldcourier.com/news/nation-world/business/economy/us-happy-workers-robots-productivity-economic-resilience-growth/article_2be88497-56b3-5dd9-8f9a-eb842591311d.html"
+    webUrl: "https://journalstar.com/news/nation-world/business/economy/us-happy-workers-robots-productivity-economic-resilience-growth/article_b6087364-a49c-5772-8ad5-81244af17a89.html"
     type: article
     provider:
-      name: Bristol Herald Courier
-      domain: heraldcourier.com
-    quality: 43
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/2/be/2be88497-56b3-5dd9-8f9a-eb842591311d/65dbda23d1707.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Lincoln Journal Star
+      domain: journalstar.com
+    quality: 23
 
 secured: "V1EouUHiWZFYg4E5TfFfs/42vT4zuTtPxxgC2nftjnkmQKs1VAltGMz5aKxjqDMCBZF7otqGsKqnxFzmR4WQgdJBRr0pM5qFbZm2zn0vx1Ti4sd5tuKG+LX9VgHsGxz7o69WllnPhyUcewjVvbK+QqZndHzgQ8oy+px3/kFKFJpjCVsZaeXRW3vWGvHeci0gZUc6E5HSp6RHvTCyMOfwVPZsYLgwsThLbkG+UkhIMvmnfItMegejRcToeVczmt+lYH3NmXSupITIGfecW4RUwIGfZTA2eVmp62wOeKn+4fCvMZQpCqXRx9zEsgPaJWC3aDIDACqRqC0Bq0oYgSONacuhY5fzIgUHU5KSAmZzjkBYtgFldDiNpH8peV4fjjJP6MjvRW86217dVnCmLOzGEXmYBT6A+5jVunsJLQCX1/kpy9iArXDwupvZ17mrqoT1hTGPu+UbtHzfEVRGvF/ejkefodT+gMp/nbx6QhzdgfAbeu589Sv3TYikJr8fb6nnCaCqjt6y/2LCGBMe+rZIrg==;gp5hD8bApOf+XKM3gdk3Nw=="
 ---

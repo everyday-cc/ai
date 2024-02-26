@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/ny-judge-criticizes-la
 webUrl: "https://www.reuters.com/legal/transactional/ny-judge-criticizes-law-firm-citing-chatgpt-attorney-fee-bid-2024-02-22/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Hackers Could Use ChatGPT to Target 2024 Elections"
-    excerpt: "T he rise of generative AI tools like ChatGPT has increased the potential for a wide range of attackers to target elections around the world in 2024, according to a new report by cybersecurity giant Crowdstrike."
-    publishedDateTime: 2024-02-21T19:35:00Z
-    webUrl: "https://time.com/6717129/hackers-ai-2024-elections/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 49
   - title: "Learn all about ChatGPT with this $20 course"
     excerpt: "Don't miss your chance to grab this Introduction to ChatGPT e-course, which is on sale for just $20 (reg. $80)."
     publishedDateTime: 2024-02-23T20:03:00Z
@@ -41,29 +32,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "ChatGPT-4 vs Gemini Ultra identical prompt results comparison"
-    excerpt: "Learn more about the differences between ChatGPT-4 vs Gemini Ultra in this battle of identical prompt results. Compared to see which AI model"
-    publishedDateTime: 2024-02-22T09:31:00Z
-    webUrl: "https://www.geeky-gadgets.com/chatgpt-4-vs-gemini-ultra/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/ChatGPT-4-vs-Gemini-Ultra-.jpg"
-        width: 1280
-        height: 744
-        isCached: true
-  - title: "Why Was ChatGPT Suddenly Speaking Spanglish?"
-    excerpt: "OpenAI's text-generation tool experienced a mysterious glitch on Tuesday. The results were sometimes funny, but show the dangers of relying too much on new technologies that can go awry in unexpected ways."
-    publishedDateTime: 2024-02-21T19:38:00Z
-    webUrl: "https://www.inc.com/jennifer-conrad/why-was-chatgpt-suddenly-speaking-spanglish.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 19
 
 secured: "rtQxl8USNvrAauLqZcKTz6m9EhxUfWGzvIa0GvmQLPXxTCz4lcJeg7nl3YAlb2zCxvJpXV6X0qSD4CVNwsmpGqxOt/tLvKHDNTcavSZpfKo9iwTP6dLChgjgzS57TsEZQDBjucK86UUlWcnGMPPRzWzxmAFms/lF8fn6dYzQ7qZaocofJYqp8C2WMLZlxtbQXkyn0E1iPgb46SyvrZc76CI0OAwjYMEexJgjkUXlLQXF79UGanB1u8c9gm6191kq36viVGWPjDwgIF88P2dSBOTt039LRjK7gDeB4rALLK3uqiIcM3FdG7WfQi3tCsT6aPLJILk82nOyFoGUEgwGEUIHOCHRMGuVj5rJXKyc2HC7WWXp95MU3p5Mehb2T9LYxatc1JBoNciT/72DAzEgyuSLRCDCQglex0C+YxLXEbDVguXD0gnxCI3hkiUh82DU7rJIe9Xhue4CixCbgaEjEEzu2IDHPfM4Pty14XksGlyEtNIaoxNkLVX7U+sGLJ5JtDQew9QWpDCMMaVclmPlSg==;nZBeoMn+RZqznsYZoYwW1w=="
 ---

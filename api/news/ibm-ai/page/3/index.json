@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-30-average-219-roi-the-total-economic-impact-of-ibm-instana-observability.md",
+      "title": "Average 219% ROI: The Total Economic Impact™ of IBM Instana Observability",
+      "excerpt": "Forrester constructed a single composite organization that aggregated the representatives’ experiences with using the Instana platform.\nThe post Average 219% ROI: The Total Economic Impact™ of IBM Instana Observability appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/average-219-roi-the-total-economic-impact-of-ibm-instana-observability/",
+      "originalUrl": "https://www.ibm.com/blog/average-219-roi-the-total-economic-impact-of-ibm-instana-observability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-30T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-forget-ibm-this-legacy-tech-giant-is-a-better-ai-stock-to-buy.md",
       "title": "Forget IBM, This Legacy Tech Giant Is a Better AI Stock to Buy",
       "excerpt": "With regard to AI, IBM looked like an early winner with Watson but struggled to monetize the advanced technology. While IBM now appears to be capitalizing on it, Oracle seems to have a more ...",
@@ -1278,49 +1320,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-mit-study-shows-ai-is-still-too-costly-to-replace-most-human-workers.md",
-      "title": "MIT study shows AI is still too costly to replace most human workers",
-      "excerpt": "According to the researchers, even if the cost of AI systems falls by 20% per year, it would still take decades for computer vision tasks to become more economically advantageous for most companies.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/01/22/mit-study-shows-ai-still-costly-replace-human-workers/",
-      "originalUrl": "https://siliconangle.com/2024/01/22/mit-study-shows-ai-still-costly-replace-human-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/robot-waiting-modern-office-job-interview-generative-ai_587448-2138.jpg",
-          "width": 900,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

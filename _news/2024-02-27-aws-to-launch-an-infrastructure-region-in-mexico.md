@@ -24,6 +24,17 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "AWS To Launch An Infrastructure Region In Mexico"
+    excerpt: "“Our investment in Mexico reflects AWS's long-term commitment to customers so they can take advantage of advanced technologies like artificial intelligence and machine learning. We look forward to helping customers in Mexico meet data residency ..."
+    publishedDateTime: 2024-02-26T14:26:00Z
+    webUrl: "https://menafn.com/1107901562/AWS-To-Launch-An-Infrastructure-Region-In-Mexico"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+
 secured: "uicJpOWzZCf/kfM73k3by41QmOOROOy9u/x/CEhr6vIaYd1sgDW+gPfrNntE0smqLmmyZVCtoaNRORGeV/koeaiB6pCcI0EoSFpKU1KUbNZrr3LGqkw8XXvdImKiIFM+FHsb3yXxSytJaqdGSUSPsevNduGlz5YxIOA7yONRNQ0/Zxuyp/2rY5F4Ndtb7WssGlPj37h5P9As1OJ/8MrHb0f1OMY4JSutpnq+IUmT8WR1hD8pV3KmmyUZh5farHJjSkfcDnbkNKPnjBrvdDWgFk6C/WRT5mm89kzmBF4SZQz49nKPz23RbYpyGEf4Qm2BnTiE1UWQN0XmyNvhurmvkJS5uYN0YUWVFfXmmPfsBvI=;7VY8NRymnBUd8mH1J0aSJg=="
 ---
 

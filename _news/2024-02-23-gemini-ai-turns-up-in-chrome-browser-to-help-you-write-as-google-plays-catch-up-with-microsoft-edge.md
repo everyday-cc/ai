@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft reveals new AI Access Principles for its services and infrastructure"
+    excerpt: "Microsoft says developers can pick how their AI models are sold, distributed, and used on Microsoft's Azure services. The company claims it will make it easier for developers to switch from Azure to another cloud developer. Also, Microsoft will not use any ..."
+    publishedDateTime: 2024-02-26T22:10:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 100
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/05/1685285989_microsoft_story.jpg"
+        width: 760
+        height: 451
+        isCached: true
   - title: "Microsoft and Mistral AI reveal partnership to help boost its AI large language models"
     excerpt: "Today, Microsoft revealed a multi-year partnership with France-based Mistral AI. In the post on its Azure blog, Microsoft said that the collaboration with Mistral AI will allow its large language models to be used on Microsoft's Azure AI supercomputing ..."
     publishedDateTime: 2024-02-26T16:32:00Z
@@ -133,6 +149,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-26-11.jpg&signature=ae92ab7c1644fc470d3931fadebc398b"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Mistral partners with Microsoft, announces new large AI model with chat app"
+    excerpt: "In MMLU tests, Mistral Large had an accuracy of 81.2%, sitting behind GPT-4’s, but doing much better than Llama 2 70B and Gemini Pro 1.0."
+    publishedDateTime: 2024-02-26T16:57:00Z
+    webUrl: "https://venturebeat.com/ai/mistral-partners-with-microsoft-announces-new-large-ai-model-with-chat-app/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/robot_writing_on_a_notepad-e1708964969795.jpg?w=1200&strip=all"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Microsoft plans €2B investment in AI and cloud infrastructure in Spain"
     excerpt: "Microsoft’s European charm offensive continues, with a collaboration with the Spanish Government to strengthen cybersecurity and implement AI in the Spanish administration."
@@ -278,6 +308,29 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft Strikes Deal with France’s Mistral AI"
+    excerpt: "Mistral AI emerged less than a year ago but is already what Microsoft ... Anthropic's Claude 2 and Google's Gemini Pro and will be available on Microsoft's Azure cloud computing platform. Mistral has also previously said it is teaming up with other big ..."
+    publishedDateTime: 2024-02-26T19:39:00Z
+    webUrl: "https://time.com/6835345/mistral-microsoft-ai-partnership/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 64
+  - title: "New Microsoft AI Tool Could Help Government Lighten Its Load"
+    excerpt: "The move, Ling wrote, enables agencies “with stringent security and compliance requirements to utilize this industry-leading generative AI service at the unclassified levels.” Microsoft is submitting Azure OpenAI Service for FedRAMP High authorization ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.govtech.com/biz/new-microsoft-ai-tool-could-help-government-lighten-its-load"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 54
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/09eb35f/2147483647/strip/true/crop/940x457+0+62/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
+        width: 1440
+        height: 700
+        isCached: true
   - title: "Microsoft partners with French startup Mistral AI"
     excerpt: "Paris: Microsoft said on Monday it had partnered with French startup Mistral AI, as the software giant seeks to tighten its grip on the emerging technology. The US firm, which has already ploughed billions into ChatGPT maker OpenAI, called Mistral \"an ..."
     publishedDateTime: 2024-02-26T17:59:00Z
@@ -300,15 +353,6 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 51
-  - title: "Intel to manufacture chips for Microsoft as AI drives demand"
-    excerpt: "Since Gelsinger took the helm three years ago, Intel has been attempting to reinvent itself as a foundry business, building chips designed by other companies, regaining an edge in making the most advanced semiconductors. Demand for them is soaring, driven by the rise of generative AI."
-    publishedDateTime: 2024-02-21T19:34:00Z
-    webUrl: "https://www.ft.com/content/be22fa9d-d5ff-415d-b7d0-1b756751e344"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
     quality: 51
   - title: "ICreate, Microsoft, MeitY Launch Impel-AI Programme to Empower India Innovators"
     excerpt: "Microsoft India, iCreate, and the Ministry of Electronics and Information Technology have announced the launch of a joint artificial intelligence innovation programme."
@@ -388,6 +432,33 @@ related:
     provider:
       name: MediaNama
       domain: medianama.com
+    quality: 34
+  - title: "Microsoft Announces Cloud Partnership With Mistral AI"
+    excerpt: "Microsoft announced a multi-year partnership with French generative AI startup Mistral AI. The company will make Mistral AI's premium models available in the Azure AI Studio and Azure Machine Learning model catalog."
+    publishedDateTime: 2024-02-26T15:02:00Z
+    webUrl: "https://www.thurrott.com/a-i/298349/microsoft-announces-cloud-partnership-with-mistral-ai"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 34
+  - title: "Microsoft Partners With French Startup Mistral AI"
+    excerpt: "Paris: Microsoft said on Monday it had partnered with French startup Mistral AI, as the software giant seeks to tighten its grip on the emerging technology. The US firm, which has already ploughed billions into ChatGPT maker OpenAI, called Mistral \"an ..."
+    publishedDateTime: 2024-02-26T14:00:00Z
+    webUrl: "https://menafn.com/1107901282/Microsoft-Partners-With-French-Startup-Mistral-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
+  - title: "Microsoft signs multi-year deal with Mistral AI"
+    excerpt: "The companies announced their deal, with Microsoft promising to supply Mistral with all of the benefits of its Azure network and services to be able to develop and research the latest in large language models (LLM). Microsoft and Mistral AI announced their ..."
+    publishedDateTime: 2024-02-26T12:44:00Z
+    webUrl: "https://www.shacknews.com/article/138879/microsoft-multi-year-deal-mistral-ai"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
     quality: 34
   - title: "MWC24: Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
     excerpt: "Using Amdocs' GenAI platform amAIz, and Microsoft Azure OpenAI Service, extended collaboration will include a GenAI lab and center of excellence"

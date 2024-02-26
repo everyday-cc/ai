@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 703
         isCached: true
+  - title: "Qualcomm debuts new wireless networking chips and AI model bundle"
+    excerpt: "New AI features are also arriving to several of Qualcomm’s existing chips in the form of a neural network bundle called the AI Hub. The first addition to the company’s product portfolio is the Snapdragon X80 5G Modem-RF System. It’s a bundle of ..."
+    publishedDateTime: 2024-02-26T19:39:00Z
+    webUrl: "https://siliconangle.com/2024/02/26/qualcomm-debuts-new-wireless-networking-chips-ai-model-bundle/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
 
 secured: "i+3VFJyCqc91DkanxgE5pSxxm72okQxDRJ0zdGZYUB0HG89B5bIRRjZlFe3NiWbqbwP+4nmFN2zTPFokBajk08qDdQoYMaVfggCDy1yA61/HOg4/0bVWJoCAiyyjnU7du1F1e15lOcmUhjYSsb3j+E5OT5u2dfPiMNvRiHtcH/tXcaIIq4iXNlUZJ/7tTM/eqNpqfJYoVgwM3e99Abiqpee/9i5acrlmmqKDDpAojN0sbAduvm41X7Vo03lWOP6+WlJbY/pGfmflBRhjOYnwOqCUSGoiCXKpnewV+fS+AAZC6CD9lkQ//N9HES6LRgsg4WdcRsECReZpgtCFr1zjz95Z2IsiZO2au+KALCAuteDapPAhb7ISmVNYrT891t9Xr/98ZIakvI82KgXxEXOyuQdDs69SNQ626QBMe6zKJzUxqIxOEfFG8kNsaDheDevI6FZUl/SL6zi9ShCrQgMsEzh5iRVhgCGhxzWR5TADOxdGZRP+CxGbFYsXni/iSV/80WOzg4dWXWXE6N4FsOEOsg==;VCtgrFhoKXa6AXEpQ4N3Rg=="
 ---

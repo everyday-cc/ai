@@ -60,20 +60,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Dolbey Announces AI Assist, Generative AI for Healthcare Workflow Automation"
-    excerpt: "Dolbey has announced AI Assist, an expansion of Fusion Narrate powered by nVoq, which offers generative AI for healthcare workflow automation. AI Assist is an evolution in speech recognition and automation technology that allows healthcare providers to access and utilize revolutionary generative AI within a private,"
-    publishedDateTime: 2024-02-21T22:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965750.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/2343691/Dolbey_and_Company_Inc_Logo.jpg"
-        width: 400
-        height: 226
-        isCached: true
   - title: "The Best 7 Tech Stocks to Buy for AI Cloud Exposure"
     excerpt: "Stock Market News, Stock Advice & Trading Tips Cloud AI combines the power of artificial intelligence with the power of cloud"
     publishedDateTime: 2024-02-22T03:42:00Z
@@ -133,7 +119,16 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 0
+  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
+    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"
+    publishedDateTime: 2024-02-26T16:04:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article285939161.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 0
 
-secured: "7MITyv5BmiDKVxagSYd33jS8cTfbbiGIRmGMivlTKH7wpE3gV0tk9y9YLiAsg0K0kqUetDTm3GxWW4Ls5h9wZuqh4llaeJL5Ekk2yB/20zdPHxEMnIbIBKfiD0mZX2LJxa7zehix/nPXjsbinjcxyQJimeyJ390BwHKOgiKi8bmQCnGed20xGZ3Z5Toi0PTzIXFO9GfIinPM7iMtXr4aKkaVQimPxD5awvng8fcZxXEN2SLZ5ozrxTTG/8NDmKjzfvXQXNXGQWAL7j9Ive27eOqVt5Fw/1DKWYLYYGlGk+i1e5y2majS4Ir/BmHJHntK9QSGHN50lNEt0rBBHbHQPAiKdXOBUNcJRMd2ysTwsdE=;0ACocrF+Fis9abwgE+NXQA=="
+secured: "rNkb/2oojTT9o8/WaI/plOnao5S65YdYSQxwD5psAxP+sBNgw1EF2xAdnkVb1VhG3mArLLwJobC5L1SYeBtBbNM6zZwxCOX507NTcGQiuN9oH1fR/xPnmbGhqBXpQgHjDqEBjXLNBAfTHEPCtn49MGOOY3gX0xu/GJCGqxu2ndO/jLNYij65IFmjOnS0zzryMAVZ96dS0w3p95SNcAoWCSDL7J+1N+jFGp5xgb1WGeBSn+VIngExxoYyXv5WHCMn5C43GFRo7lpr7OIFJQ963jhJPir42E8Ada0I6J+tmYsPZs9s5OoCF9PITWfSXmjH2j62lmX4TAtq8khEH2RjARHf7tlwD/G31IDeE9n8x9kR5YVu2GjM9rxGA9L+nFQtlRNnCC5oPLlT71xZSg9kCTdh5Zb3sFmJuUCnWPYqgtg1VKFQ0g5no8HQvMTjYnc3VmZfSwkKwAg1qs9KptjQ9e1NKlkzEQsL7NJtSLLg/yfU5CqWm62ESmMwLvNejewG+OXThRfw9BTnferoRgbYhg==;zO+wlhrVlhMSk7oMBHI7HQ=="
 ---
 

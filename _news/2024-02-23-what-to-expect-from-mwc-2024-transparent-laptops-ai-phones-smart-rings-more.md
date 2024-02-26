@@ -47,6 +47,15 @@ related:
       name: Inc
       domain: inc.com
     quality: 13
+  - title: "Cyber Criminals Are Getting Faster--and Generative AI Could Make Their Work Easier"
+    excerpt: "Cybercriminals are increasingly purchasing stolen credentials as the first step in an attack. Adding a second layer of verification can help. Apps that generate a unique security code or USB security keys are considered safer than having a code sent to a cell phone, which can be compromised in a SIM-swapping scheme."
+    publishedDateTime: 2024-02-23T19:04:00Z
+    webUrl: "https://www.inc.com/jennifer-conrad/cyber-criminals-are-getting-faster-and-generative-ai-could-make-their-work-easier.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 11
 
 secured: "6g8OWWPVguxSITW97P85YuC5AIcrWnS94ZNxVJxTcjoGm/2fwMTmaQRBMOO5PSPkWG204DsmyxFAPpt7TCS1BVbo3e58A0v8t6ApxCzEJ9Ryu88+o/7WeovnYZe3xpqdGnm8Mc19sRZyBehl/LVMBT4nsCChzAiUDG7DuZBlnfxO21aPdCtNG9NSwfe30tA8s5JGFXj/U/d9F3vQvzujCVQ3fIofeUVBn/ym4ce+ySlngwJAQh+WH5U1K1sAnS9QWTRVNFnxynmb/lV0fixnF4Ynz+H5KEUhorsDhqP706mYpZLZoA931pxOyy+A+LowFCaI1mFnTvS7BJusg+87SvlSTmSvO91dSVVmEoZaKpjbLP4TQrhqYm7MbDw/6Y1Pm9hUcO3b1WDDEia2lxi18GOVYycAuDLDJ0E4f2JH/7O44Oxq791Z4Ra9gZN516gVAYqWfParc9w85jc5wzuIahq8y10CNmZHCnl0b4ReOMZdr7jY6iw8pu0Bov7+LdKYKy08782d06bgBM6xN1jVng==;NI/z0mzlMbbN0exFTVwA0A=="
 ---

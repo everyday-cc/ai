@@ -33,6 +33,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
+  - title: "Artificial Intelligence and the Significance Crisis"
+    excerpt: "The most likely cause of this is a content blocker on your computer or network. Please allow access to our site, and then refresh this page.  You may then be asked to log in, create an account if you don't already have one,  or subscribe."
+    publishedDateTime: 2024-02-26T21:25:00Z
+    webUrl: "https://www.chronicle.com/article/artificial-intelligence-and-the-significance-crisis"
+    type: article
+    provider:
+      name: The Chronicle of Higher Education
+      domain: chronicle.com
+    quality: 17
 
 secured: "5gumS7Z9RNuz14WxMydfJCg2C5h+5J5N2EahwcbZUjGy4Q4vvVJyOCMPuURkBowtveZtw3WyQl+/ycDrmPA6dwJQPqPxSjPjmIyTE9KMZjq+VlPSHJHfZ8ttyN8GAtDsK8eVe1z6i95rExND6XFjtOScOB55Uq3maE6wi5rNMlhFy/VNRs4vSQbTr849kOR9vJmqibcCsGzA4lP2ia2DmYQbgEmYVAbgXJgYki1uYFtSNLhTMRtEzOQXtbhZGsAl+7HhD79d9S+XctlBPb0SOIHIB/G+KPIal3VPMepghWeHb1I/ThYZ9GR4wixiGQtXnfm+pm3OqdB0rrcJS6qTp3PiVM3bwDk6LYn1oJ8jAUy/nI/JJOuutG4dAyqiCSr1LrpluxZnidrPknfVLik/tA7yuRPjjhIFJ5QRihVXBNNneeJYNwWfuV94vmLZZ4IrKgApZhdAx88XeFmQukwpNLx9zwDz6JobQPV4FG3VGCqSPjQXRm+tQi7zvQAlGfoIq5tOQkNpqv/Ohr2cajTGRA==;JQSP2KTh6336YKCtnXaSEg=="
 ---

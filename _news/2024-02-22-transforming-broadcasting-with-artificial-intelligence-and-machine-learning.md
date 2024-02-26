@@ -49,22 +49,6 @@ related:
         width: 1600
         height: 700
         isCached: true
-  - title: "SK Telecom partners with AI search startup Perplexity in Korea"
-    excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters. The partnership would allow SK ..."
-    publishedDateTime: 2024-02-26T11:36:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-108013968,imgsize-29740,width-1200,height=765,overlay-ettelecom/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "How Artificial Intelligence Is Reshaping Banking"
     excerpt: "Artificial intelligence is transforming the banking industry, with far-reaching implications for traditional banks and neobanks alike. This transition from classic, data-driven AI to advanced, generative AI provides increased efficiency and client ..."
     publishedDateTime: 2024-02-23T13:15:00Z
@@ -74,15 +58,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "AWS Telecom GM sees less need for central data lakes with gen AI"
-    excerpt: "Chivas Nambiar is the general manager of the global telecom business unit at Amazon Web Services (AWS). | The telecom industry has been collecting a ton of data for decades, and now with gen AI it's able to go back and tap all that data."
-    publishedDateTime: 2024-02-21T21:51:00Z
-    webUrl: "https://www.fiercewireless.com/wireless/aws-telecom-gm-sees-less-need-central-data-lakes-gen-ai"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 34
   - title: "ARway Corporation: ARway.ai Expanding Its Spatial Computing Platform, Hires New AI Computer Vision and Machine Learning Ph.D Engineer"
     excerpt: "With a distinguished background in robotics and machine learning, Mr. Sarkar brings a wealth of experience from prestigious institutions and leading-edge projects. With an academic foundation holding a Ph.D. in Control and Automation from the Indian ..."
     publishedDateTime: 2024-02-26T12:01:00Z
@@ -92,6 +67,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 20
+  - title: "SK Telecom partners with AI search startup Perplexity in Korea"
+    excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters."
+    publishedDateTime: 2024-02-26T12:30:00Z
+    webUrl: "https://www.aol.com/news/sk-telecom-partners-ai-search-133002108.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
 
 secured: "4zidbtQEOaK2UguX9+jLfz+gjGs7d2gnbdI23XJiNn3Ql1oKiVyRyOUJ8Z//s/ffD49VG1p4emCBsnqUMD5gtcu843FAvum1VgG7xrWg9HwenPHffGbQeYgSSA87Q48PYgpbUPqmONpzXISdFP1nyQnm17/R5nBrKZwXsyS9HJ9uiS7RyOjYGSyPgfJhm5AmhhJwJoHKsqjgrpdnZpZxZeJKkvWHBG3wdBZqJk5dbU4ZheFkz57CxQNcmSGj7o/yZ73I50IFWg7+i0Vmq3fBBEigGDwfUJ/LkEPmrkZGVb9fWdcp11RMaPerOrzDHPlnyeGmhstFjxi5FeaQDrsK8L1TLhuvCVoOXMiuD50G2oE=;SL9rN1gcSk4h3zGhvmC+VA=="
 ---

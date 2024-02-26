@@ -41,20 +41,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Predators vs. Kings February 22 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Among the best players to keep an eye on when the Los Angeles Kings meet the Nashville Predators on Thursday at Crypto.com Arena -- beginning at 10:30 PM ET -- are the Kings' Adrian Kempe and the Predators' Filip Forsberg."
-    publishedDateTime: 2024-02-21T22:04:00Z
-    webUrl: "https://www.wsfa.com/sports/betting/2024/02/22/predators-vs-kings-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WSFA
-      domain: wsfa.com
-    quality: 22
-    images:
-      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/KAC6D45ELNPOJI6S476NBXKDEE.jpg?auth=297a6e35d00c054dc3b7192d23c581ab1a4f7bc7a122bfca761b1e95370e3f6c&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "Gz1e1qpzW82QwxiFXUhqot3kzxF0TXTtmvTJOT5aHSRnTXSG+hrHrbghAiQPpJD7GyNasXXdvLw1WyHq+2Wv/GO4GBBTQpa14tnCIF83bUDi2V9volWf3y9/nx3kSt3ifiFyZWc3KZNyo82hG7kr9DfrnandjpqmrwMC8yWPFaWQ96ikRvR+YyY7nUfn8DEogE+oD4C+Izv18j1WQ3a3BWL7PtHIkwsEgl7VxLInlE9x+RqZkOdnSbL3/iv5Hjg6LHZrlLUiFRyYVvBvMDWU8e3uAv8oVoch/2lL2rXyHfY0J1kAw51CHssqUygv0yeQVZq/stsZwAp+/MITeMI2j4RPFDOf24dQ2OToQBrkZsDrOoGTvPCyquWNkkDwBs/ugjXhLdQxAIQMK0f7bJM1r5jAZYLIYWa+PbJQVqdWtO1d8jWaixBsyNFo0LT+9M9+AWiRamu3fuqtp2oVfDV7rIKTf5DC1BMpPtNana48iFG6zjRecaowXScu6LeObM3UQD3mA4RZGwOLiCsm1KAqOw==;eV1OERWI35sMtZT03Pwi9w=="
 ---

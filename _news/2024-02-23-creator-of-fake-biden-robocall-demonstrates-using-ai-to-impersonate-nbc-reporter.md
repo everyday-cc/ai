@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo204727877516"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo204727877516"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/85b9bcd7e3ff51ae576931202a82643999beb84a/0_117_3513_2108/master/3513.jpg?width=620&quality=85&auto=format&fit=max&s=ffd921ab2e83d531bc5e26f5eda61f30"
         width: 620
         height: 372
+        isCached: true
+  - title: "Political consultant behind fake Biden robocalls says he was trying to highlight a need for AI rules"
+    excerpt: "The political consultant behind robocalls that mimicked President Joe Biden’s voice says he was trying to send a wake-up call about the potential malign uses of artificial intelligence, not influence"
+    publishedDateTime: 2024-02-26T22:22:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/political-consultant-fake-biden-robocalls-highlight-ai-rules-107562626"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/political-consultant-fake-biden-robocalls-highlight-ai-rules-107562626"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/political-consultant-fake-biden-robocalls-highlight-ai-rules-107562626"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_f94aa2d7f835ccc3cc254a90cd481a99_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "NC Representatives host Biden administration senior officers, discuss AI"
     excerpt: "Rep. Valerie Foushee, (D-NC 4th) and Rep. Deborah Ross, (D-NC 2nd) hosted a roundtable with senior administration officers from the Biden Administration and local industry leaders to discuss government use of Artificial Intelligence."

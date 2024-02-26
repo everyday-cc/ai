@@ -36,7 +36,7 @@ related:
     provider:
       name: Inc
       domain: inc.com
-    quality: 26
+    quality: 43
     images:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/jeff-bezos-inc-magazine_537826_bzkhkd.jpg"
         width: 1024

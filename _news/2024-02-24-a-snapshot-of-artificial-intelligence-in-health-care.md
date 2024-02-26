@@ -41,6 +41,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Why healthcare lags on AI, per Amazon"
+    excerpt: "Healthcare lags behind other industries in its adoption of artificial intelligence, largely because it lacks training capacity, according to a study commissioned by Amazon Web Services. Here are seven other things to know from the survey of 412 healthcare ..."
+    publishedDateTime: 2024-02-26T21:09:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-lags-on-ai-per-amazon.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "kR/KwGJ/gT+vgGTZQrcFBauXnc1FIEQnTcah2aw5R6IhDeEZFi6PYCMxWfc3e/i82r66rcwN0RKOwgWiBSN7tN4KD6tgUSch+z8iYwVE38jsUPh/ct2Q32oawD4VwaKOYri7fle+GHr1f6ra8BEWQsYqhffM3qYfzTEXoptzoVZsy2vLX6NiB23b+Rh1w/wwWKtxIvfydjDwFD6uLX3XlQSykaNPlpymLtBfcQEN3BhZcj7GGAcIVZC0y+zE78308ohieyN0c90B2ZWqm3B8MelO9T3cn8ZB26aJ6X+KClFGP8CCxPzn7rNzbz/3fO2o6zxdbKbbNK06Psv8KErTLc/zwODGpnkdHTtWHxqhJlw=;FBlOQhD98lK2H3w8+8rEbQ=="
 ---

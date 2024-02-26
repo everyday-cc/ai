@@ -204,6 +204,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Google's Gemini AI picture generator to relaunch in a ‘few weeks' following mounting criticism of inaccurate images"
+    excerpt: "Google plans to relaunch its image-generation AI tool in the next “few weeks,” according to Google DeepMind CEO Demis Hassabis."
+    publishedDateTime: 2024-02-26T17:27:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/5170798/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/5170798/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/5170798/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 39
+    images:
+      - url: "https://media.nbcnewyork.com/2024/02/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Pulls Gemini's AI Image Generator After ‘Woke’ Photos"
     excerpt: "The company is pausing the tool after it created historically inaccurate images such as Black Nazi soldiers and Native American U.S. senators."
     publishedDateTime: 2024-02-22T17:10:00Z
@@ -217,22 +233,6 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2813,w_5000,x_0,y_349/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1708621771/GettyImages-1848351879_rpbysy"
         width: 1480
         height: 833
-        isCached: true
-  - title: "Google's Gemini AI picture generator to relaunch in a ‘few weeks' following mounting criticism of inaccurate images"
-    excerpt: "Google plans to relaunch its image-generation AI tool in the next “few weeks,” according to Google DeepMind CEO Demis Hassabis."
-    publishedDateTime: 2024-02-26T17:27:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/5170798/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/5170798/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/5170798/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 37
-    images:
-      - url: "https://media.nbcnewyork.com/2024/02/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Google’s AI Chatbot Gemini Faces IT Ministry’s Ire Over Responses On PM Modi"
     excerpt: "The Rule 3(1)(b) of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules ... came days after Chandrasekhar said that draft laws to regulate the AI space would be brought out by June or July this year."
@@ -259,6 +259,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Google’s Gemini AI picture generator to relaunch in a 'few weeks' following mounting criticism of inaccurate images"
+    excerpt: "Google plans to relaunch its image-generation AI tool in the next \"few weeks,\" according to Google DeepMind CEO Demis Hassabis."
+    publishedDateTime: 2024-02-26T15:28:00Z
+    webUrl: "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 27
   - title: "Google apologizes over Gemini image generation inaccuracies"
     excerpt: "Google LLC has apologized after its Gemini chatbot generated images that incorrectly depicted racially diverse characters in historical contexts."
     publishedDateTime: 2024-02-23T23:19:00Z

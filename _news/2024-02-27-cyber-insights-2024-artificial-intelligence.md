@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intellig
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
       name: Inc
       domain: inc.com
     quality: 13
+  - title: "Cyber Criminals Are Getting Faster--and Generative AI Could Make Their Work Easier"
+    excerpt: "Cybercriminals are increasingly purchasing stolen credentials as the first step in an attack. Adding a second layer of verification can help. Apps that generate a unique security code or USB security keys are considered safer than having a code sent to a cell phone, which can be compromised in a SIM-swapping scheme."
+    publishedDateTime: 2024-02-23T19:04:00Z
+    webUrl: "https://www.inc.com/jennifer-conrad/cyber-criminals-are-getting-faster-and-generative-ai-could-make-their-work-easier.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 11
 
 secured: "8+k6SiIc+wJUZRGTwvWaAO4T8PF+0rsAkGKf5JmImU8Vtls6qX7rqrlpNwDl3WzD5gzmpz9gIEtaoV6M+oPHc09tm5OoJmFIESO6Uty5r3r8CteARP6iN07jOD1YU5Rarq4WB/Qjr6BWSShqzKFHB4RUHg3PB8UKsUKXUSu5i+dgiqfYQ6VslMNWsUuyXYmhjn5mLctLMY+2RniNmjHjTHNpCoOENWUOCLajfTG1RCpPRnP4asfjm7dH3dy3mQAFpK0Y0+wgtPw+NSfyHCrW8XLPK6FvMBTc8ZdxgQmiIEvX4t2qJ9NJF8g21H8RHZTW5UrkZWjKI7yHrz7KxzLiwwfYt8B4JTQCd6Et6eDIaJs=;wR4r56MUtMAg9T5et1dpxA=="
 ---

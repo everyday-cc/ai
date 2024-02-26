@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/federal-and-state-lawmakers-lau
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The National Law Review
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Briefing: House Launches Bipartisan AI Task Force"
+    excerpt: "The House of Representatives aims to keep the U.S. at the leading edge of AI policy and innovation with a bipartisan task force while the FTC considers expanding a rule to crack down on AI impersonation. Meanwhile, a recent ruling in Canada warns ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-briefing-house-4203945/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 55
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15445_5839.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Washington puzzles over AI in health care"
     excerpt: "Lawmakers and regulators in Washington are starting to puzzle over how to regulate artificial intelligence in health care—and the AI industry thinks there’s a good chance they’ll mess it up. “It’s an incredibly daunting problem,” said Bob ..."
     publishedDateTime: 2024-02-22T13:00:00Z

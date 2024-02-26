@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-ch
 webUrl: "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 38
+  - title: "Qualcomm debuts new wireless networking chips and AI model bundle"
+    excerpt: "New AI features are also arriving to several of Qualcomm’s existing chips in the form of a neural network bundle called the AI Hub. The first addition to the company’s product portfolio is the Snapdragon X80 5G Modem-RF System. It’s a bundle of ..."
+    publishedDateTime: 2024-02-26T19:39:00Z
+    webUrl: "https://siliconangle.com/2024/02/26/qualcomm-debuts-new-wireless-networking-chips-ai-model-bundle/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
 
 secured: "xuK4/SEHR2V602+PyCVCfy5VYuFvTgFZrFEODC2T4O8rRh8BW0QhbgmE6by8RR7n+JBcWwJ/FBjjibjcffLnHpHpgN6vIWIT27KgYluvTG0G+FQcKhvEtcK2kxGmpjcdW7kPROIezi+IDVaFFg2Xlc42c3Lt8K7GbkvMc+6igCFjHtIDlkYqcxdG/b2ifvu5zYZNIbdp0+UQ+Xf13Vqq5uQM79kLHw9SlcbcgaVjZTng1C3Ai0wzl1TyD+oXOdRuJgocYj7K87FQBepBRSvepMF9ztzhHc2GWx8FsSETszeHikOTyMdM804AOScZhXBLEMt1ZrC69g4mZGjQ1y7ZTaq0Nadfh6ibCjPMJls9qvoc5v5byNnNNYSY+7Dl4MeVBvzsxE7+92RJx9nRRdyDqFRIqRvCCRfn9pf5BoKvzjNMZJ7YcrSK7a4i5820ZdDAKSGlGioee2vTXaLu4k51U+JJa8b25nQvDlM0xUO5Df9LhxvFGLpdGpXZOWwDE3hvStgF2SnEGuav4hMn+hHYxg==;9vWVFP9jdGnh8WsjfsDjuQ=="
 ---

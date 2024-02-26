@@ -35,6 +35,20 @@ related:
         width: 602
         height: 300
         isCached: true
+  - title: "Artificial Intelligence Briefing: House Launches Bipartisan AI Task Force"
+    excerpt: "The House of Representatives aims to keep the U.S. at the leading edge of AI policy and innovation with a bipartisan task force while the FTC considers expanding a rule to crack down on AI impersonation. Meanwhile, a recent ruling in Canada warns ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-briefing-house-4203945/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 55
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15445_5839.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "2BTb8D13tccWTBlvWUWYbjbyYTnxfXvgdUDOz+CYAQA0wZpX4hNcr0vPwJ06S9V0k7IqJ8jZmXFLzAeTbNTc5dgQ21IQZC0up9lNGpf6EmI+DXW21u+DVnp3IreHuD9oNJ+e+x6CYRYOwCZyfGjhdFC8dQs+aRwL3wZc3n5YoyatQ9lvm4cMcxuKgz2GzrGRVzP2JuibqVYvY4axzURS395wuEh0HlJhzSha+4KEGlSghPHhHof68sltko856r900E6S5mgYvNwLH2I1eg/EGWeaq00ZZCKGF1kUEpuuT6SeSWuTjD36cu1FAmLXLc+nkvd3i31Q3zZS0Q/m7eHMjdB75vtFvE9DNsdv81Yy1vp1SRLqs61anzQYL31Jx4hmeykLrKNi8pi7Vz+gZsDLmmXt6Pi2J1XFAurYcncg0K4Rqp7iC5frfbzH9On8KY6P+zSBLVtwyrCJE/vTJpwOw3XH4pUTgtzSNKn9oN2dEUcsWxb9W75zYOQc6N0d8KrFxlmRJesDQPIw/5TAT0VTHA==;5WmQFSawChN1+1EU+7qbcg=="
 ---

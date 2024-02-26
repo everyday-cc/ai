@@ -25,22 +25,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "White House wades into debate on 'open' versus 'closed' artificial intelligence systems"
-    excerpt: "The Biden administration is wading into a contentious debate about whether the most powerful artificial intelligence systems should be “open-source” or closed."
-    publishedDateTime: 2024-02-21T19:21:00Z
-    webUrl: "https://www.click2houston.com/tech/2024/02/21/white-house-wades-into-debate-on-open-versus-closed-artificial-intelligence-systems/"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 31
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3FDNSIUQINBPPH5NDD5L6QWOT4.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
-        isCached: true
-
 secured: "2QF+ln3MFNjmbiWKOW2c4nqgkq1KrbMc4P+9WDkoF/R5MtJRLHmI+UesDeOCa35A9oONCUd5kld8fPzNT0O572fEap9HWJgQdTiX9SjYEpBnsWZd5BdRO+7IfiVBNYL28MzpANSsDE/GXhv8OtB0A2Ayqya6b2Eaemj8WGrgP81ftDPgthcti2V1w46ovC+GKN6t1KwjGNfAzKqdC0SlinDCPUhVCMjdWzMi7o4rb7IbclMtOCW7MNMNoyOFNgfYHsXqsuH53aycYdRv6bM6+9brd2hpjOh4OnPRrwTRXD6eivgFZpzvlCDvjkM5CoDDrrXMsZzgiW/9io4MtAT6agMZzRs8MBCYc55jp3MLPNc=;Tk211jHZaU6ahVu4NFyFhA=="
 ---
 

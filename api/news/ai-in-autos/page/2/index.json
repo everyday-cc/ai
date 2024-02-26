@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-13-chatgpt-maker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous.md",
+      "title": "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous",
+      "excerpt": "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2024/02/13/1600x900/FILES-SEMICONDUCTORS-OPENAI-semiconductors-US-UAE-_1707821720835_1707821721048.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "publishedDateTime": "2024-02-13T10:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-why-young-chinese-women-are-dumping-real-men-for-ai-boyfriends.md",
+      "title": "Why young Chinese women are 'dumping' real men for AI boyfriends",
+      "excerpt": "Discover why young Chinese women are choosing AI boyfriends over real men. Explore the rise of virtual connections and the adaptability of artificial intelligence in meeting their emotional needs. Learn about the concerns surrounding user privacy in this booming industry.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/articleshow/107649314.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/articleshow/107649314.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107649267,width-1280,height-720,resizemode-4/107649267.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/amp_articleshow/107649314.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/amp_articleshow/107649314.cms",
+      "publishedDateTime": "2024-02-13T05:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-enforcemintz-a-2023-legislative-push-to-address-ai-in-health-care-will-continue-in-2024.md",
       "title": "EnforceMintz — A 2023 Legislative Push to Address AI in Health Care Will Continue in 2024",
       "excerpt": "Since May 2023, federal legislators have introduced a broad array of bills designed to address the rapid promulgation of artificial intelligence (AI) technologies. In that time, over 50 bills have been introduced,",
@@ -308,6 +396,49 @@
       "provider": {
         "name": "The Globe and Mail",
         "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-stossel-artificial-intelligence-may-be-coming-for-your-job.md",
+      "title": "STOSSEL: Artificial Intelligence may be coming for your job",
+      "excerpt": "The media warn that “Artificial Intelligence will replace millions of jobs.” They’re complaining about the Waymo driverless taxis already in use in part of San Francisco (and Phoenix). The union is right to worry. Robot cars don’t get tired.",
+      "sourceUrl": null,
+      "webUrl": "https://ottawasun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/e56c1444-a011-49fd-80f7-0bd0a8f2c89d",
+      "originalUrl": "https://ottawasun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/e56c1444-a011-49fd-80f7-0bd0a8f2c89d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/ottawasun/wp-content/uploads/2024/02/1953487965-e1707321516682.jpg",
+          "width": 867,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://ottawasun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/e56c1444-a011-49fd-80f7-0bd0a8f2c89d/amp/",
+      "cdnAmpWebUrl": "https://ottawasun-com.cdn.ampproject.org/c/s/ottawasun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/e56c1444-a011-49fd-80f7-0bd0a8f2c89d/amp/",
+      "publishedDateTime": "2024-02-09T21:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ottawasun",
+        "domain": "ottawasun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1143,135 +1274,6 @@
       "provider": {
         "name": "India TV",
         "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-4-eye-catching-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear-market-dip.md",
-      "title": "4 Eye-Catching Growth Stocks You'll Regret Not Buying in the Wake of the Nasdaq Bear Market Dip",
-      "excerpt": "There's never a dull moment when investing on Wall Street. Over the last four years, the major stock indexes have bounced between bear and bull markets on a couple of occasions, with the growth-fueled Nasdaq Composite(NASDAQINDEX: ^IXIC) enduring the wildest swings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BIDU/pressreleases/23820382/4-eye-catching-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear-market-dip/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BIDU/pressreleases/23820382/4-eye-catching-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear-market-dip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/67c0f14d4bcfbf2bc0d328a54c64b812/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f763478%252fbear-market-stocks-plunge-crash-invest-correction-getty.jpg%26amp%3Bw%3D700",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T10:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-driverless-cars-covered-5x-more-test-miles-in-california-in-2023.md",
-      "title": "Driverless cars covered 5x more test miles in California in 2023",
-      "excerpt": "Completely driverless vehicles traveled nearly 3.3 million miles in California last year, over five times the previous year's total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Friday showed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/driverless-cars-covered-5x-more-233656256.html",
-      "originalUrl": "https://www.aol.com/news/driverless-cars-covered-5x-more-233656256.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_reuters_29/e67721439a55e6e8b4da51332dec4403",
-          "width": 800,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T06:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-heres-what-vws-new-ai-company-will-focus-on.md",
-      "title": "Here’s What VW’s New AI Company Will Focus On",
-      "excerpt": "VW Group launches AI Lab that will identify new product ideas based on artificial intelligence that could be incorporated into cars. The new company will collaborate with the tech sector in Europe ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoweek.com/news/a46626200/volkswagen-artificial-intelligence-lab-incubator/",
-      "originalUrl": "https://www.autoweek.com/news/a46626200/volkswagen-artificial-intelligence-lab-incubator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod/images/newaicompany-65bd11e13a1f0.jpg?crop=1.00xw:0.893xh;0,0.0115xh&resize=1200:*",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoweek",
-        "domain": "autoweek.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -65,20 +65,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Dolbey Announces AI Assist, Generative AI for Healthcare Workflow Automation"
-    excerpt: "Dolbey has announced AI Assist, an expansion of Fusion Narrate powered by nVoq, which offers generative AI for healthcare workflow automation. AI Assist is an evolution in speech recognition and automation technology that allows healthcare providers to access and utilize revolutionary generative AI within a private,"
-    publishedDateTime: 2024-02-21T22:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965750.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/2343691/Dolbey_and_Company_Inc_Logo.jpg"
-        width: 400
-        height: 226
-        isCached: true
   - title: "The Best 7 Tech Stocks to Buy for AI Cloud Exposure"
     excerpt: "Stock Market News, Stock Advice & Trading Tips Cloud AI combines the power of artificial intelligence with the power of cloud"
     publishedDateTime: 2024-02-22T03:42:00Z
@@ -129,6 +115,15 @@ related:
       name: adexchanger
       domain: adexchanger.com
     quality: 17
+  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
+    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"
+    publishedDateTime: 2024-02-26T16:04:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article285939161.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 0
 
 secured: "0H1wAZvbMZOKe3IxSPUqr6MWqVm/3ukeHL5MFjDmK21oWXFQcXpNsx0dQBHySJmuXvBucFd8Z9Z2xGATM93WWcXr6Tfw1fLjUeu4cQ+YVTNsvwnvNTjBkIl4jWyvet/V2oDFYtfVqkcp8nWmfT6OrcSl+LfDfqFydA2o5oFnwmsvk6EUlRkZ+0E0Jzrp5LRpuxHXD7GzC/cf5B0tMzdRoylxUzo2mqv8F6osjh1q3DfwyYnXC2YCh6H9mQDJGSEko0w33Syyxm2KOFPGs2Vki85UqntAmeWgA9V3ssWM2PberEZ5WsRbHdjzRCi6ZOmkOt2Mz1QtD1Fx0Bebp04vA7RIDeuD1JVbs6sWgSTacROqybNi/9roEk7vYLjmRLNPKHAFxBRdOEeYlrGFW7TRwUsmbfXruwD23e2HkIxCjQWxOgG+IdcjiFs+pkcARjA4VA5VRNA6VOeLHsVO8/D+XpVLr3coExcplhGlaLvQZuH1Uj5sSRFOzOSi2kUilhZZz3q+3LYkBwm7ow/Z3ca7jA==;Ldr1Dl0u7khVY7GP1YF5sA=="
 ---

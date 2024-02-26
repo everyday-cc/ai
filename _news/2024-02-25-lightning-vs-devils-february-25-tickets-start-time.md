@@ -52,20 +52,6 @@ related:
         width: 880
         height: 587
         isCached: true
-  - title: "Lightning vs. Capitals February 22 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Pay attention to Nikita Kucherov and Alexander Ovechkin in particular on Thursday, when the Tampa Bay Lightning face the Washington Capitals at Amalie Arena, beginning at 7:00 PM ET. One of the major contributors this ..."
-    publishedDateTime: 2024-02-21T22:03:00Z
-    webUrl: "https://www.wjhg.com/sports/betting/2024/02/22/lightning-vs-capitals-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WJHG
-      domain: wjhg.com
-    quality: 22
-    images:
-      - url: "https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/v2/4JZ4U4E6BFIJLN3M7YHW5UIS64.jpg?auth=1d60a41492ac6f628a2d6035be241e41ac2b59476a8c8b3614d71c875207393c&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How to Watch the Fr8 208: TV Schedule, Live Stream and Start Time - Saturday, February 24"
     excerpt: "View how Data Skrive uses AI here. Next up in the NASCAR Truck Series is the Fr8 208 -- Saturday, February 24 at 2:00 PM ET. If you'd like to check it out, and see who will take the checkered flag at Atlanta Motor Speedway (Hampton, Arkansas), read on for ..."
     publishedDateTime: 2024-02-23T00:51:00Z

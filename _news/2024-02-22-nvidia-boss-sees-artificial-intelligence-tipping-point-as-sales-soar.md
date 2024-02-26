@@ -105,22 +105,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Nvidia just proved the AI boom has room to run"
-    excerpt: "Nvidia announced it made $22.1 billion in revenue, beating Wall Street's estimates on the strength of its AI business."
-    publishedDateTime: 2024-02-21T21:58:00Z
-    webUrl: "https://www.businessinsider.com/nvidia-ai-sales-q4-beat-estimates-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/nvidia-ai-sales-q4-beat-estimates-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ai-sales-q4-beat-estimates-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/65d6596da3bd891424f90933?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Nvidia’s surge ripples across stock market — lifting AI, tech and semiconductor ETFs"
     excerpt: "For now, Nvidia “has met lofty expectations and that will keep general AI enthusiasm intact and that is a positive for the market, broadly speaking,” said Tom Essaye, founder and president of Sevens Report Research, in a note Thursday. See: Nvidia’s ..."
     publishedDateTime: 2024-02-22T22:27:00Z
@@ -190,22 +174,6 @@ related:
         width: 840
         height: 560
         isCached: true
-  - title: "Nvidia's Q4 revenue, profit soar on demand for AI chips"
-    excerpt: "Nvidia’s revenue for its fiscal fourth quarter was US$22.1 billion, up from US$6.05 billion. The company based in Santa Clara, California, earned US$12.29 billion, compared to a profit of US$1.41 billion a year ago."
-    publishedDateTime: 2024-02-21T22:30:00Z
-    webUrl: "https://financialpost.com/investing/nvidia-q4-revenue-profit-soar-demand-ai-chips"
-    ampWebUrl: "https://financialpost.com/investing/nvidia-q4-revenue-profit-soar-demand-ai-chips/wcm/9c69506b-d8ad-4347-95d1-dad6c95d49a9/amp/"
-    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/investing/nvidia-q4-revenue-profit-soar-demand-ai-chips/wcm/9c69506b-d8ad-4347-95d1-dad6c95d49a9/amp/"
-    type: article
-    provider:
-      name: Financial Post
-      domain: financialpost.com
-    quality: 74
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/02/no0221Nvidia-1.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Nvidia's quarterly profit skyrockets on back of AI chip demand"
     excerpt: "Nvidia said on Wednesday its profit soared to $12.3 billion in the recently ended quarter, on record high revenue driven by demand for its chips to"
     publishedDateTime: 2024-02-22T08:16:00Z
@@ -221,22 +189,6 @@ related:
       - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2024/02/22/thumbs/800x531/316190.jpg"
         width: 1600
         height: 1062
-        isCached: true
-  - title: "Nvidia shares surge past $700 as demand for AI chips shows no signs of slowing"
-    excerpt: "Nvidia stock has gained more than 30% so far this year as it jockeys with Amazon and Alphabet for a spot among the most valuable companies."
-    publishedDateTime: 2024-02-21T21:47:00Z
-    webUrl: "https://nypost.com/2024/02/21/business/nvidia-shares-surge-past-700-as-demand-for-ai-chips-shows-no-signs-of-slowing/"
-    ampWebUrl: "https://nypost.com/2024/02/21/business/nvidia-shares-surge-past-700-as-demand-for-ai-chips-shows-no-signs-of-slowing/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/02/21/business/nvidia-shares-surge-past-700-as-demand-for-ai-chips-shows-no-signs-of-slowing/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 70
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2024/02/nvidia-q4-earnings.jpg?quality=75&strip=all&1708532974&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Nvidia Targets $24 bn Revenue in First-Quarter Betting on Chips for AI Business"
     excerpt: "Nvidia, which is powering majority of chips for AI business, said it is anticipating first-quarter revenue of $24 billion with an expected growth of 233 percent. Nvidia said in a filing it had received requests from antitrust regulators in France ..."
@@ -356,20 +308,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 55
-  - title: "Nvidia projects better-than-expected revenue on AI chip demand"
-    excerpt: "One of the most closely watched companies in the AI supply chain, Nvidia projected quarterly revenue of $24.0 billion for February-April, plus or minus 2%, compared with analyst estimates of about $22 billion."
-    publishedDateTime: 2024-02-21T22:18:00Z
-    webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Nvidia-projects-better-than-expected-revenue-on-AI-chip-demand"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F3%2F47313386-7-eng-GB%2FCropped-1708549707illust_SXM2024022100000552.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Spectacular Nvidia result lifts Wall Street, AI and chip stocks"
     excerpt: "Nvidia has dominated the global market for AI chips, with massive demands for its data center chips and graphics processing units (GPUs) as companies like Microsoft and Google continue to pour billions of dollars to get ahead in the race. The results sent ..."
     publishedDateTime: 2024-02-22T00:00:00Z
@@ -477,20 +415,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "Nvidia's 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
-    excerpt: "Nvidia Corp. posted stronger-than-expected results for its latest quarter, more than tripling its revenue from a year earlier."
-    publishedDateTime: 2024-02-21T22:09:00Z
-    webUrl: "https://www.clickondetroit.com/business/2024/02/21/nvidias-4q-revenue-profit-soar-thanks-to-demand-for-its-chips-used-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 43
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7CNQF6R5YRE3LD4YNPKP7WXVBY.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Nvidia's earnings soar as AI hits the mainstream"
     excerpt: "The surge in Nvidia’s earnings has made the chip-making company the third-most valuable US-listed company in the stock market, following Microsoft and Apple, having stepped over Amazon and Alphabet to do so. The results run in favor of AI technologies ..."
     publishedDateTime: 2024-02-23T10:32:00Z

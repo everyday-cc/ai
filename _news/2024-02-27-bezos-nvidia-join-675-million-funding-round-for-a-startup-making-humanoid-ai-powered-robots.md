@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-26T18:52:00Z
 originalUrl: "https://www.inc.com/kit-eaton/jeff-bezos-nvidia-help-inject-675-million-into-a-startup-building-human-like-ai-powered-robots.html"
 webUrl: "https://www.inc.com/kit-eaton/jeff-bezos-nvidia-help-inject-675-million-into-a-startup-building-human-like-ai-powered-robots.html"
 type: article
-quality: 26
+quality: 43
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/jeff-bezos-inc-magazine_537826_bzkhkd.jpg"

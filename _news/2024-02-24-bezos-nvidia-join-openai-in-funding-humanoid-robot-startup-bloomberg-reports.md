@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup, Bloomberg reports"
-excerpt: "Figure AI, also backed by ChatGPT-maker OpenAI and Microsoft, is raising about $675 million in a funding round that carries a pre-money valuation of about $2 billion, according to the report. Bezos had committed $100 million through his firm Explore Investments LLC and Microsoft is investing $95 million,"
-publishedDateTime: 2024-02-24T01:33:00Z
-originalUrl: "https://www.aol.com/news/bezos-nvidia-join-openai-funding-202228535.html"
-webUrl: "https://www.aol.com/news/bezos-nvidia-join-openai-funding-202228535.html"
+excerpt: "Nvidia (NVDA.O), opens new tab and other big technology names are investing in startup Figure AI that develops human-like robots, Bloomberg News reported on Friday, citing people with knowledge of ..."
+publishedDateTime: 2024-02-23T23:32:00Z
+originalUrl: "https://www.reuters.com/technology/bezos-nvidia-join-openai-funding-humanoid-robot-startup-bloomberg-reports-2024-02-23/"
+webUrl: "https://www.reuters.com/technology/bezos-nvidia-join-openai-funding-humanoid-robot-startup-bloomberg-reports-2024-02-23/"
 type: article
-quality: 50
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/fc4f5b2e6b306a32dda4bbede7b6897a"
-    width: 800
-    height: 534
-    isCached: true
 
 related:
   - title: "Amazon founder Jeff Bezos joins Microsoft, ChatGPt maker OpenAI to invest in this robotics company"
@@ -86,6 +84,22 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2023/12/technology-3389904-1280-1019x573.jpg"
         width: 1019
         height: 573
+        isCached: true
+  - title: "Microsoft invests in Europe's Mistral AI to expand beyond OpenAI"
+    excerpt: "Under the deal, Mistral's large language models (LLM) — the technology behind generative AI products — will be available on Microsoft's Azure cloud computing platform, becoming only the second company to host its LLM on the platform after OpenAI."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.nbcdfw.com/news/national-international/microsoft-invests-in-europes-mistral-ai-to-expand-beyond-openai/3471498/"
+    ampWebUrl: "https://www.nbcdfw.com/news/national-international/microsoft-invests-in-europes-mistral-ai-to-expand-beyond-openai/3471498/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/microsoft-invests-in-europes-mistral-ai-to-expand-beyond-openai/3471498/?amp=1"
+    type: article
+    provider:
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 74
+    images:
+      - url: "https://media.nbcdfw.com/2024/02/107378366-1708964869127-gettyimages-1850859194-AA_16122023_1456011.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft invests in Europe's Mistral AI to expand beyond OpenAI"
     excerpt: "Microsoft on Monday announced a new partnership with French start-up Mistral AI – Europe's answer to ChatGPT maker OpenAI — as the U.S. tech giant seeks to expand its footprint in the fast-evolving artificial intelligence industry."
@@ -153,6 +167,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 66
+  - title: "Microsoft Partners With Mistral AI To Rival OpenAI"
+    excerpt: "In return, Mistral would provide commercial language models on Microsoft's Azure cloud computing platform. \"What we're fundamentally agreeing to a long-term partnership with Mistral AI so that they can train and deploy their next generation models for AI ..."
+    publishedDateTime: 2024-02-26T16:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-with-mistral-ai-to-rival-openai-1033104560"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Billionaire Jeff Bezos, Nvidia join OpenAI in $675 million funding for humanoid robot startup"
     excerpt: "Tech moguls, including Jeff Bezos, are delving into the world of human-like robots, a venture driven by the quest to"
     publishedDateTime: 2024-02-24T07:58:00Z
@@ -250,6 +273,34 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Microsoft invests in start-up Mistral, debuts AI principles"
+    excerpt: "Microsoft president and vice chair Brad Smith outlined a series of principles for the responsible deployment of AI."
+    publishedDateTime: 2024-02-26T21:06:00Z
+    webUrl: "https://www.mobileworldlive.com/microsoft/microsoft-invests-in-start-up-mistral-debuts-ai-principles/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 54
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2024/02/26202642/microsoft_smith.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Now a Microsoft partner, Mistral AI challenges OpenAI with three new LLMs"
+    excerpt: "Mistral is expanding its LLM lineup with three proprietary models headlined by Mistral Large. It can generate text in English, French, Spanish, German and Italian, as well as craft software code and solve math problems. A user prompt may contain up to 32,000 tokens, units of data that each comprise a few letters or numbers."
+    publishedDateTime: 2024-02-26T22:04:00Z
+    webUrl: "https://siliconangle.com/2024/02/26/now-microsoft-partner-mistral-ai-challenges-openai-three-new-llms/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Mistral.png"
+        width: 1000
+        height: 561
+        isCached: true
   - title: "Bezos, Microsoft join OpenAI in humanoid robot startup"
     excerpt: "Jeff Bezos, Microsoft and other big technology names are investing in a business, Figure, that's developing humanlike robots."
     publishedDateTime: 2024-02-23T23:15:00Z
@@ -283,6 +334,6 @@ related:
       domain: propakistani.pk
     quality: 34
 
-secured: "vu8M86U+rALbFrwyqRsXBiuITefdB1aYAfN5yDRbWpQ/Qt+jDwcr0Vp8LH9rzZG6JAfKPEE1jh0Iu9NzKxp8GoMaVb2hcmJ7xSw/U1virnaQqCWx/nTXZG6/Kn8ZTpQQYeK/wPag/Ik7P5jxVq22L8qshctQmORB2UaXXfZWFDk99npZq/dl8sefs235fw3h25KL0oqfDLKhl367KTavYYKTkIsNvipiw9CJSVyzaCRPU7wDDNvmzouMq9qcsYTFOxvT0RmURGHSAYAxPRZPicUospQWtyYFwLzvqFOtNYmi/sLnT+ZNvsQhvuyLrdIthGHOJLbFA9DcjTcNyEO0cfxzAxpTJW4+xnoHN7L33kY=;M7Cz7EWDR3qz4+wquByf/g=="
+secured: "OnQyhlWzDIIiYLCVw/OF9oEc1ArWF5M+Pmugj7q/WT/cG2RkhR661uH9MOKlwKEiTVFBZ7J9hxw/kzBcKhkEbzhjZOtPzLs1Y739qwZN49GF0cfL+qGVvrxWJvlVwXf2cbxpiKqYSH/0zMFAN04sX8jrCb44T0UDxld+U4qreYGfI6uwNPu0fcQ5NMsNswchDw8kjm5Qm1mF4/lHyLM9FN7QX37xCIkmz7MCwAuDvmGXa2nrED6Y1eeQCI2UUeDkHX69r0MfoTuaF4Ac9RF/iDaDdDWdDsR3EqeRuxN2h+Qi7rWw20GLYX1+8YAV80QC7Iys0CpTBs82a1eVWWvKqve16PDPIQhpv2dFINIBG5E=;xDgV4UQE6Fy32Gjhm0G3fA=="
 ---
 

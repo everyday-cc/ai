@@ -40,20 +40,6 @@ related:
         width: 880
         height: 587
         isCached: true
-  - title: "Lightning vs. Capitals February 22 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Pay attention to Nikita Kucherov and Alexander Ovechkin in particular on Thursday, when the Tampa Bay Lightning face the Washington Capitals at Amalie Arena, beginning at 7:00 PM ET. One of the major contributors this ..."
-    publishedDateTime: 2024-02-21T22:03:00Z
-    webUrl: "https://www.wjhg.com/sports/betting/2024/02/22/lightning-vs-capitals-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WJHG
-      domain: wjhg.com
-    quality: 22
-    images:
-      - url: "https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/v2/4JZ4U4E6BFIJLN3M7YHW5UIS64.jpg?auth=1d60a41492ac6f628a2d6035be241e41ac2b59476a8c8b3614d71c875207393c&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Lightning vs. Devils February 25 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. When the New Jersey Devils meet the Tampa Bay Lightning at Prudential Center on Sunday (the puck drops at 1:00 PM ET), Jack Hughes and Brayden Point will be two of the top players to watch. Nikita Kucherov is an important ..."
     publishedDateTime: 2024-02-25T06:21:00Z

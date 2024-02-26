@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnewyork.com/news/national-international/googles-gemini-a
 ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/5170798/?amp=1"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/5170798/?amp=1"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.nbcnewyork.com/2024/02/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?quality=85&strip=all&resize=1200%2C675"
@@ -259,6 +260,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Google’s Gemini AI picture generator to relaunch in a 'few weeks' following mounting criticism of inaccurate images"
+    excerpt: "Google plans to relaunch its image-generation AI tool in the next \"few weeks,\" according to Google DeepMind CEO Demis Hassabis."
+    publishedDateTime: 2024-02-26T15:28:00Z
+    webUrl: "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 27
   - title: "Google apologizes over Gemini image generation inaccuracies"
     excerpt: "Google LLC has apologized after its Gemini chatbot generated images that incorrectly depicted racially diverse characters in historical contexts."
     publishedDateTime: 2024-02-23T23:19:00Z
@@ -383,6 +393,6 @@ related:
       domain: androidheadlines.com
     quality: 4
 
-secured: "Ne5qNyaBj9f94PvQjkLRV7WX1aJCDOkorvYVj0ZqAl5BArC0xNSPkK9oU6stALdswN6O2POoRAdRm4LFSESvIUmpQFwP4Xlgo+8+GleYQwvNR1vRjRT77dwbUoo08aHYCZTYm2idNvvikmb7W1MGXBEKoQegEBxP5GDna0HUbRfEg48WQAO0KbzL21eXo+fV9dFQ9KAi8wPOyZrw9D/T+xbuewW8ACphsXlZGlKutSHloPxrZlIOEsVN+Vh1Nh1MJLFpO5+wrsNNO8ANjoHeygCLXbr1ZJ7FJArFTWUlqWcu+uOKZGbSLvhHZyHmqN/Lh8KVplFuw1m0VqIMA0xLydPg5XBzWc2zX8aiW8T4cFY=;rAQ4bhuSCokE78jxxUvgSA=="
+secured: "d+R5MIyrqFgYciasfMGbOAvDBoDEjnDx8ATHLnuB/h5IvC5R4kXGORV2BD/bdbygazXAUeJPIL9SJs0hhQD9A34FudP2gv1749L2dag2HPBldv/gr+qEY9yNcfrkhGrWFcjc9Pg2MWuiqx8YekMqORVgJaWRWiVC4vDCe0Vn2N6vdlU0l2n0tXBDTcTKsAFSJyudlYxL6BgNnxrDkT+NvmsjzI7cSwA7NEt0B4TUsjdwtIQMTDM1qvC5bHS+QEA40Hq9nbSz+cO5Rwb8eRzBCEdSvbUQtCgRr04IMq+bWO4PJk+BV9pDu1uxW1LlI6wnPNaGEI8tBH/f5mLeGPBdP0fJFN2hEBZTi51Fybng2RLz/c+w1aWxIqUn+hDG3e+Lo+YbaqrH+5E5pHpNheQNyziHsAb9nrh3gwrmaFyyZ3F1eYK96XiMyo45+/knnkpUvFCg3sE0MGODKA9saU7tBbKpKUmzO4QhGD8AOaSx98bKovP5phUFtgKIJI7aw3FOPMgA8KYSs9kETNExqNCb0A==;DyMIyKHASQ6sVqzZ5vJdOg=="
 ---
 

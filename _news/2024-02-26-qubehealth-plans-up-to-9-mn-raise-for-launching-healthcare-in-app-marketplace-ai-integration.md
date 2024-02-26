@@ -34,6 +34,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "How will we solve healthcare’s most pressing challenges? Innovative technologies provide solutions"
+    excerpt: "Despite the buzz around the use of artificial intelligence and machine learning in healthcare, many providers still find themselves burdened with manual administrative tasks. This reduces efficiency and contributes to provider’s burnout. At the same time ..."
+    publishedDateTime: 2024-02-26T20:45:00Z
+    webUrl: "https://www.beckershospitalreview.com/how-will-we-solve-healthcare-s-most-pressing-challenges-innovative-technologies-provide-solutions.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 25
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Driving Accessibility in HealthTech: 3 Things Founders should Consider for Thoughtful AI Implementation in 2024"
     excerpt: "The benefits of artificial intelligence in healthcare are apparent. With careful planning, we can ensure that these developments benefit everyone, leaving no one behind in the goal of a healthier and more equal future."
     publishedDateTime: 2024-02-23T22:31:00Z

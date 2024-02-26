@@ -96,6 +96,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
+  - title: "Samsung Galaxy Book 4 AI-Accelerated Laptops Available Now Starting at $1,450"
+    excerpt: "The new laptops and two-in-ones keep 2023's attractive designs but have boosted performance from Intel's Ultra chips and Microsoft's Copilot AI assistant. Managing Editor Josh Goldman is a laptop expert and has been writing about and reviewing them since ..."
+    publishedDateTime: 2024-02-26T20:25:00Z
+    webUrl: "https://www.cnet.com/tech/computing/samsung-galaxy-book-4-ai-accelerated-laptops-available-now-starting-at-1450/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 46
   - title: "Samsung Galaxy S23 WILL Get Galaxy AI Next Month"
     excerpt: "Here’s a quick rundown of what you’ll be able to do with Samsung’s Galaxy AI ... Real-time Call Translation: The update will enable real-time translation during calls, allowing users to understand conversations in foreign languages without language ..."
     publishedDateTime: 2024-02-25T00:00:00Z

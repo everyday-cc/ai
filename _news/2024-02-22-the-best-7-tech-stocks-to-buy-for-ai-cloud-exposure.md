@@ -69,20 +69,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Dolbey Announces AI Assist, Generative AI for Healthcare Workflow Automation"
-    excerpt: "Dolbey has announced AI Assist, an expansion of Fusion Narrate powered by nVoq, which offers generative AI for healthcare workflow automation. AI Assist is an evolution in speech recognition and automation technology that allows healthcare providers to access and utilize revolutionary generative AI within a private,"
-    publishedDateTime: 2024-02-21T22:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965750.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/2343691/Dolbey_and_Company_Inc_Logo.jpg"
-        width: 400
-        height: 226
-        isCached: true
   - title: "Companies Need To Get Onboard The Generative AI Train"
     excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
     publishedDateTime: 2024-02-25T19:21:00Z
@@ -132,6 +118,15 @@ related:
     provider:
       name: Sacramento Bee
       domain: sacbee.com
+    quality: 0
+  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
+    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"
+    publishedDateTime: 2024-02-26T16:04:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article285939161.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 0
 
 secured: "/pnlCcMnzA7QKLUG7vDcO9pRprsc9bsD/W/z7IzozVkuQJlNrbPTBMsPI6TZmBtV3ZZMo2Ozmj66yzqOWIhOSZ4eLaGJqlQovcQ7aEneJ2XUIYEKq7aIBh54N4Bukxe+F6SUpiaSC6fFCb7AvgWvfw+N644apqzVenxc1oM3WQ1xvUuCVNYRm8GmLm8Bb79rFwwgGGLQkyVkrxnrG3yjV1JujVV4xcgQozqCyHc2Ob62d4FA9KYbnxPR8yUw1LsPQyWAE+6O3MIjHIUHMDQaKEQrZgEiOcSqFLZjMpMEKMmNHc9suauaUhZum3xAyQtWe0qDV0FYPai//VdTLETkWDm/p5p4XtjMIQcZLfe3QoYs0X/v8jr7HRR+fvjiKvcBvz5kmQ/JDs6NWhZw1kphX63DP1KLBZ4ncnU7P6R63J5Fm/p8vMyC2w0xiyLYA5o1joyRX7isHfoFZ5nU8Uq52YyYY7CaHZzmHgwi+KW3fQ7xEtuwTg3Qmc+Qm+NzHHXbZemW6NNswdp50xoJXDO8qg==;HWTclWcPvIdoHbBTfnLmRQ=="

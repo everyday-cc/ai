@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Exclusive-Reddit in AI Content Licensing Deal With Google, Sources Say"
-    excerpt: "SAN FRANCISCO (Reuters) - Social media platform Reddit has struck a deal with Google to make its content available for training the search engine giant's artificial intelligence models ... of TikTok and Meta Platform's Facebook. The sources were not ..."
-    publishedDateTime: 2024-02-21T23:10:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-21/exclusive-reddit-in-ai-content-licensing-deal-with-google-sources-say"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Reddit Inks Landmark $60 Million AI Content Licensing Agreement with Google"
     excerpt: "Filed by the Clarkson Law Firm, the complaint asserted Google scraped users’ data without consent to improve AI services like writing assistant Bard. It hinged on Google’s updated privacy policy, expressly mentioning mining publicly available ..."
     publishedDateTime: 2024-02-23T02:18:00Z

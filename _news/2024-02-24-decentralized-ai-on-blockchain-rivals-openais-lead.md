@@ -54,20 +54,6 @@ related:
         width: 760
         height: 570
         isCached: true
-  - title: "OpenAI’s new generative tool Sora could revolutionize marketing and content creation"
-    excerpt: "As with any technological advancement, professionals will need to adapt and find ways to integrate Sora into their workflows, leveraging its strengths to complement their own skills and creativity."
-    publishedDateTime: 2024-02-21T19:44:00Z
-    webUrl: "https://theconversation.com/openais-new-generative-tool-sora-could-revolutionize-marketing-and-content-creation-223806"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 49
-    images:
-      - url: "https://images.theconversation.com/files/576885/original/file-20240220-21-7jmy8i.jpg?ixlib=rb-1.1.0&rect=23%2C359%2C3906%2C1950&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "eWN2PEM0CODuARKsRrpPmbUeEnybIrel6/5fr6n7f3KnjPd5X15jQEQfx/FrZQjc2iyoniANQqjT+l/k0OU8QsJv1odMHsvshHpVydFy6cq1P/7XgCuAjo2gMSMspUpMq/dUfxYKwhg+8W82jbR2yLsOvVxm8y+UxTQZiWgWuHMs/TogyWx0LBVJr2kpIJcwnD6uEnSwHyzsELtThc729NKZEcibrJZvS+5c2HD0HQ9lnPjpYa8N6vGLXrD/6e/9jAQOLShjYfmCIKWiqOi0PjaKj0qHLs3F0Y3Y4V+Xgu7rE4G3HRSmGrbV7/rm59NI1G9UgceKyp5bcg0/fPZwcEOHVFxeoWPhl8kpstZ8b1j20enMiX0zqIfl8C2LwvY5kuVR6fkS/49j5+56a/mTEpjyvSQAhET86CAM/awDCG6z43wi088dz5wv64ox0bV40Dh/RGdRHgQBo60yr7z4nq2PQDxDPyPee/IZ57DnFvdBgLQ+DRjgpEOzfkdMwFhnTOqFfxKI1dtQSV3TjM55Ow==;ydJPmOOEYjIG6Eub1W2g9w=="
 ---

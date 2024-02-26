@@ -26,34 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "How a New Bipartisan Task Force Is Thinking About Artificial Intelligence"
-    excerpt: "On Tuesday, speaker of the House of Representatives Mike Johnson and Democratic leader Hakeem Jeffries launched a bipartisan Task Force on Artificial Intelligence. Johnson, a Louisiana Republican ..."
-    publishedDateTime: 2024-02-21T22:40:00Z
-    webUrl: "https://time.com/6727264/house-artificial-intelligence-task-force/"
+  - title: "Federal and State Lawmakers Launch AI Task Forces — AI: The Washington Report"
+    excerpt: "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report"
+    ampWebUrl: "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 68
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 56
     images:
-      - url: "https://api.time.com/wp-content/uploads/2024/02/congress-ai-2024.jpg?quality=85"
-        width: 2400
-        height: 1601
+      - url: "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI-Artificial-Intelligence-Abstract-Art-367016941_1.jpg?h=c4779ecb&itok=G8TpDj02"
+        width: 602
+        height: 300
         isCached: true
-  - title: "Is AI China's critical new productive force?"
-    excerpt: "And, will AI become China's critical new productive force? According to OpenAI's explainer, Sora is capable of generating complex scenes with a very high degree of accuracy, including multiple characters,"
-    publishedDateTime: 2024-02-26T00:37:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202402/26/WS65dbda20a31082fc043b8fc5.html"
+  - title: "Washington puzzles over AI in health care"
+    excerpt: "Lawmakers and regulators in Washington are starting to puzzle over how to regulate artificial intelligence in health care—and the AI industry thinks there’s a good chance they’ll mess it up. “It’s an incredibly daunting problem,” said Bob ..."
+    publishedDateTime: 2024-02-22T13:00:00Z
+    webUrl: "https://www.popsci.com/technology/ai-health-care-regulation-questions/"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 37
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202402/26/65dbda20a31082fc2b691ef4.jpeg"
-        width: 1078
-        height: 718
-        isCached: true
+      name: Popular Science
+      domain: popsci.com
+    quality: 19
 
 secured: "W001Pnap0AeopnRX32WvwQFaAo0aBHU4erx2uj0IYrHctvVvBMDw5UcIdVjxlh6OZU4PB7pBpwl+/sUBJgzI8q5E4wbFR4vOEWCziU8/UwkhnL2c1CzZ0nTrg3uM2yCUHTMaAfZIsgXjKL8mwq/cuuYW7xXc3puPA4W6AhjZOPSWYshbJJjntuTwTfym6BJ3dPXlcS+8hAOMyeDCRZm5OglMvEFC90kGr0/e6LMXV1D1vPyHxu/I5LfxUXcWU06hHKr3F1tO8R68cLLz7eWRcSyFNE30JosmXNwo2OmPp2IiaJfwdIIJAlJPxKWIxo4QsCgh8bs2z0HYxsjBRknA9+e0no79TGBJBwF1lau8jkU=;XIuK5FpZ4ex9ZqfjvyaCfA=="
 ---

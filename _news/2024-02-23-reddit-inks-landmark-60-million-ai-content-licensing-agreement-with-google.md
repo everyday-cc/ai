@@ -7,7 +7,7 @@ originalUrl: "https://techreport.com/news/reddit-inks-landmark-60-million-ai-con
 webUrl: "https://techreport.com/news/reddit-inks-landmark-60-million-ai-content-licensing-agreement-with-google/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive-Reddit in AI Content Licensing Deal With Google, Sources Say"
-    excerpt: "SAN FRANCISCO (Reuters) - Social media platform Reddit has struck a deal with Google to make its content available for training the search engine giant's artificial intelligence models ... of TikTok and Meta Platform's Facebook. The sources were not ..."
-    publishedDateTime: 2024-02-21T23:10:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-21/exclusive-reddit-in-ai-content-licensing-deal-with-google-sources-say"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Reddit strikes $60M deal allowing Google to train AI models on its posts, unveils IPO plans"
     excerpt: "SAN FRANCISCO (AP) — Reddit has struck a deal with Google that allows the search giant to use posts from the online discussion site for training its artificial intelligence models and to improve services such as Google Search."
     publishedDateTime: 2024-02-22T20:28:00Z

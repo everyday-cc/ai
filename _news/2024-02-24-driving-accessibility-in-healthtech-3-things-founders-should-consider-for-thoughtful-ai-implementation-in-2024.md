@@ -38,6 +38,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "How will we solve healthcare’s most pressing challenges? Innovative technologies provide solutions"
+    excerpt: "Despite the buzz around the use of artificial intelligence and machine learning in healthcare, many providers still find themselves burdened with manual administrative tasks. This reduces efficiency and contributes to provider’s burnout. At the same time ..."
+    publishedDateTime: 2024-02-26T20:45:00Z
+    webUrl: "https://www.beckershospitalreview.com/how-will-we-solve-healthcare-s-most-pressing-challenges-innovative-technologies-provide-solutions.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 25
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "QubeHealth Plans Up To $9 Mn Raise For Launching Healthcare In App Marketplace, AI Integration"
     excerpt: "Healthcare-focused fintech startup QubeHealth is looking to raise between $6-$9 Mn as a part of its Series A funding round."
     publishedDateTime: 2024-02-26T13:48:00Z

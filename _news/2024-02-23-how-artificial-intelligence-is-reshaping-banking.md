@@ -53,31 +53,6 @@ related:
         width: 1600
         height: 700
         isCached: true
-  - title: "SK Telecom partners with AI search startup Perplexity in Korea"
-    excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters. The partnership would allow SK ..."
-    publishedDateTime: 2024-02-26T11:36:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-108013968,imgsize-29740,width-1200,height=765,overlay-ettelecom/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "AWS Telecom GM sees less need for central data lakes with gen AI"
-    excerpt: "Chivas Nambiar is the general manager of the global telecom business unit at Amazon Web Services (AWS). | The telecom industry has been collecting a ton of data for decades, and now with gen AI it's able to go back and tap all that data."
-    publishedDateTime: 2024-02-21T21:51:00Z
-    webUrl: "https://www.fiercewireless.com/wireless/aws-telecom-gm-sees-less-need-central-data-lakes-gen-ai"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 34
   - title: "Transforming broadcasting with artificial intelligence and machine learning"
     excerpt: "In common with industries across the modern economy, the broadcast media industry is currently on its own artificial intelligence (AI) and machine learning (ML) journey, with organisations at various stages of evaluation and implementation. But in ..."
     publishedDateTime: 2024-02-22T00:00:00Z
@@ -96,6 +71,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 20
+  - title: "SK Telecom partners with AI search startup Perplexity in Korea"
+    excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters."
+    publishedDateTime: 2024-02-26T12:30:00Z
+    webUrl: "https://www.aol.com/news/sk-telecom-partners-ai-search-133002108.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
 
 secured: "9w418FJDObdn92BI+sczZyJMdwMM9VUOdiT5gaKLP/HXPQpDwueaXrr8qdPqLs+cY+pQwbJr4NT3LErvGI/wKRt5tLlyhJT8CUuguqhEvpxMKkIWHVudChuGJLYnC4O++XyD0Jd4KavLVCrur7W+kmqZU5VsHd/y6RUcGeDvTb/KIy3sudklkCMrzX87JH+YnIJvQfPCyWk/ISBtVVBUpufCeLmQlDMJBk8GgNwWeEt8phLaCFWJJ82n/hdcDalNSUHkpWiyVOsoC5QZhXSGWfKwfKrATX31GGAE82gjfvffsWPDX82XLN1NH0G52YKSOA33A9toOOxvjCMjH+QLfZM3aW1HObUpGtPW5bFjjFodT/TcPRtdwRR5Vb/xvms17VqByZZENS5axkCwH1SbDXbGkEgTli/pmzjGVGe9UNYB3m3gkujsdma9xnkeZ9FzMnt6ToCYaHA9U7Iwvih7/f538zuD3ExWGxbt2A+ZBT3xcDmtGsMcJaWYqJ0vOvVoU14kUeHa4XPz+qb7kL5oWw==;mnJdcwGxp08KTQWUTF7afg=="
 ---

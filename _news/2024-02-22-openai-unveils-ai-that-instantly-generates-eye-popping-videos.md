@@ -42,20 +42,6 @@ related:
         width: 840
         height: 630
         isCached: true
-  - title: "OpenAI’s new generative tool Sora could revolutionize marketing and content creation"
-    excerpt: "As with any technological advancement, professionals will need to adapt and find ways to integrate Sora into their workflows, leveraging its strengths to complement their own skills and creativity."
-    publishedDateTime: 2024-02-21T19:44:00Z
-    webUrl: "https://theconversation.com/openais-new-generative-tool-sora-could-revolutionize-marketing-and-content-creation-223806"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 49
-    images:
-      - url: "https://images.theconversation.com/files/576885/original/file-20240220-21-7jmy8i.jpg?ixlib=rb-1.1.0&rect=23%2C359%2C3906%2C1950&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Decentralized AI On Blockchain Rivals OpenAI's Lead"
     excerpt: "Decentralized AI projects like Gensyn, OORT, and Bittensor are emerging to accelerate AI development by leveraging decentralization's benefits"
     publishedDateTime: 2024-02-24T12:33:00Z

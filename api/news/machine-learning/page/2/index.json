@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-08-deep-learning-for-real-time-molecular-imaging.md",
+      "title": "Deep learning for real-time molecular imaging",
+      "excerpt": "More information: Wai Hoh Tang et al, Deep learning reduces data requirements and allows real-time measurements in imaging FCS, Biophysical Journal (2023). DOI: 10.1016/j.bpj.2023.11.3403",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-02-deep-real-molecular-imaging.html",
+      "originalUrl": "https://phys.org/news/2024-02-deep-real-molecular-imaging.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-predictive-model-of-oxaliplatin-induced-liver-injury-based-on-artificial-neural-network-and-logistic-regression.md",
       "title": "Predictive model of oxaliplatin-induced liver injury based on artificial neural network and logistic regression",
       "excerpt": "Based on a previous safety evaluation of OXA, OILI was explored in depth. Artificial Neural Network(Ann) and logistic regression (LR) models were selected to predict the risk of OILI, and the performance of the two models was evaluated and compared ...",
@@ -1224,58 +1258,6 @@
         "name": "technologynetworks",
         "domain": "technologynetworks.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-tomorrowios-radar-satellites-use-machine-learning-to-punch-well-above-their-weight.md",
-      "title": "Tomorrow.io’s radar satellites use machine learning to punch well above their weight",
-      "excerpt": "Tomorrow.io just released the results from its first two radar satellites, which, thanks to machine learning, turn out to be competitive with larger, more old-school forecasting tech on Earth and in orbit. The company has been planning this mission since ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/29/tomorrow-ios-radar-satellites-use-machine-learning-to-punch-well-above-their-weight/",
-      "originalUrl": "https://techcrunch.com/2024/01/29/tomorrow-ios-radar-satellites-use-machine-learning-to-punch-well-above-their-weight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/total-coverage.jpg?resize=1200,703",
-          "width": 1200,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/29/tomorrow-ios-radar-satellites-use-machine-learning-to-punch-well-above-their-weight/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/29/tomorrow-ios-radar-satellites-use-machine-learning-to-punch-well-above-their-weight/amp/",
-      "publishedDateTime": "2024-01-29T19:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

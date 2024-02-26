@@ -39,6 +39,38 @@ related:
         width: 1280
         height: 801
         isCached: true
+  - title: "Google Gemma open source AI prompt performance is slow and inaccurate"
+    excerpt: "Gemma AI models provide a choice between 7B parameters, for efficient deployment and development on consumer-size GPU and TPU and 2B versions for CPU and on-device applications. Both come in base and instruction-tuned variants. Despite the accessibility ..."
+    publishedDateTime: 2024-02-23T09:18:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemma-open-source-ai-performance/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1Mn0U6HGLeg%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "Google releases Gemma lightweight AI open models"
+    excerpt: "Google introduces Gemma, a new family of open-source lightweight AI models that allow developers and researchers to build large language models (LLM) with only a desktop."
+    publishedDateTime: 2024-02-22T04:16:00Z
+    webUrl: "https://cybernews.com/tech/google-ai-releases-gemma-open-source-models/"
+    type: article
+    provider:
+      name: cybernews
+      domain: cybernews.com
+    quality: 19
+  - title: "Google Challenges Meta’s Llama 2 with Lightweight Open Source LLM, Gemma"
+    excerpt: "Google has unveiled Gemma, a new family of open models, leveraging the research and technology behind the existing Gemini models."
+    publishedDateTime: 2024-02-22T07:59:00Z
+    webUrl: "https://analyticsindiamag.com/google-challenges-metas-llama-2-with-lightweight-open-source-llm-gemma/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 3
 
 secured: "CogZKHczDqota2+c4AKLwVpWhQwMyv5XqUhqBHW1DEDIUSjUBT/+6XewN6ANsab8TXAkFAEGtYQuoUGLOR6/VFx3qAvKsRCC2x14X6WZ4UlHFtRn+HhyYWzycqxoO1brinlORUMDow9cfqHbNCdQrFqjWa23+/kUFl+Bq//LzoN0dta82rMFbJVMEgWhcDh4w5UJ32Nfg5Mr8Pr0mCfEqVUGFPozoXg6HY5bBLGEQmYg4SvaHsggTXQzPshXU2NQuOfiTbjEIfdWGewQrGQ95iZWjJr9P0TrsoSxUUAHECfYhS+bZtlQ3VKgByHieF+56WYPlCpNgcIhvZysWHoOfaTzo2PaoQgldLZenLXsYqV/7GItO+0GHcm6e1Qk/E7MgY8UFGYE1AtGvQj9C+xxoyvzm5f03x4cYCDfzzys6kQfEOXa17ev6iQbwqqJ2O2kUjcSiLdgDze02IpLmDeJEbc554Mb1eVntTaVxNGQ8QRkzwaPvMyvn+m3CIDszbzEJT/7YhTxvIo18MmLvpDFFQ==;SnKij0+Civw1sqnIQ3QAuQ=="
 ---

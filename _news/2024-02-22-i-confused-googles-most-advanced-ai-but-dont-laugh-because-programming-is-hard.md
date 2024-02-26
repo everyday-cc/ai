@@ -30,24 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google employees are posting internal memes poking fun at how many AI models and names the company launched"
-    excerpt: "In the last three months, Google has launched Gemini, killed Bard and renamed it Gemini, launched a better version called Gemini Advanced (not to be confused with Gemini Ultra, which is the name of the model), launched another improved version called ..."
-    publishedDateTime: 2024-02-21T20:25:00Z
-    webUrl: "https://www.businessinsider.com/google-employees-memes-ai-brand-strategy-2024-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/65d636c5a3bd891424f8f4e7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google’s new AI bot pauses image generation tool after race controversy"
     excerpt: "Google Gemini, formerly known as Google Bard, was launched in March 2023 in limited release as a chatbot powered by Google’s large language model. The product was renamed in February as “Gemini” to reflect the “advanced tech at its core” after ..."
     publishedDateTime: 2024-02-22T09:22:00Z
     webUrl: "https://www.washingtonexaminer.com/news/2867994/googles-ai-bot-pauses-image-generation-race-controversy/"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 19
+  - title: "Google’s AI bot accused of left-wing bias"
+    excerpt: "“Three weeks ago, we launched a new image generation feature for the Gemini conversational app (formerly known as Bard), which included the ability to create images of people. It’s clear that this feature missed the mark,” Google’s Knowledge and ..."
+    publishedDateTime: 2024-02-26T14:02:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/2885234/google-ai-bot-gemini-accused-left-wing-bias/"
     type: article
     provider:
       name: Washington Examiner

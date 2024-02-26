@@ -1,29 +1,21 @@
 ---
 category: news
 title: "SK Telecom partners with AI search startup Perplexity in Korea"
-excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters. The partnership would allow SK ..."
-publishedDateTime: 2024-02-26T11:36:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea/108013968"
+excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters."
+publishedDateTime: 2024-02-26T12:30:00Z
+originalUrl: "https://www.aol.com/news/sk-telecom-partners-ai-search-133002108.html"
+webUrl: "https://www.aol.com/news/sk-telecom-partners-ai-search-133002108.html"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
-  domain: indiatimes.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
-
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-108013968,imgsize-29740,width-1200,height=765,overlay-ettelecom/industry/sk-telecom-partners-with-ai-search-startup-perplexity-in-korea.jpg"
-    width: 1200
-    height: 765
-    isCached: true
 
 related:
   - title: "Modernizing and monetizing telecom networks with AI-powered Azure for Operators"
@@ -65,15 +57,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "AWS Telecom GM sees less need for central data lakes with gen AI"
-    excerpt: "Chivas Nambiar is the general manager of the global telecom business unit at Amazon Web Services (AWS). | The telecom industry has been collecting a ton of data for decades, and now with gen AI it's able to go back and tap all that data."
-    publishedDateTime: 2024-02-21T21:51:00Z
-    webUrl: "https://www.fiercewireless.com/wireless/aws-telecom-gm-sees-less-need-central-data-lakes-gen-ai"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 34
   - title: "Transforming broadcasting with artificial intelligence and machine learning"
     excerpt: "In common with industries across the modern economy, the broadcast media industry is currently on its own artificial intelligence (AI) and machine learning (ML) journey, with organisations at various stages of evaluation and implementation. But in ..."
     publishedDateTime: 2024-02-22T00:00:00Z
@@ -93,6 +76,6 @@ related:
       domain: finanznachrichten.de
     quality: 20
 
-secured: "dzL9GZZwp31FWWytJydcZTExFx1wYwTHhvYoDftDDhRqn3XhhcOxpnf7cBeI937IuhvM6X2Sp58LlQflMs9hAkJAmTK+ZwN9y6rdXzmCPQItJcIzlwnLc8MC36CVD9x5Z/xHYjKYD8XH5p/QxUH/NuAqKXwfcMCn5Rb37cd5CH8fs7fYr/5gLcEeQUY1ml+saC08GXXjYz+c4GEG8DKoTNE5BmNPZD//fHhQPksrLdC4lpLKfGfAwdDqUOyJMYE15eaGCEXH5Hjs4d2sd30wmx+3Rel6Ok/NkrzfE/DyYO3BlDODVTcOJRkw6YHCI3Z8J38FGGtTaci4rDOsSbfR9K09RRiuLsJEICWv3JOBfKU=;CoNtxzcIgcim4JcBVDqFJQ=="
+secured: "6YjX3tmuhRqYF4NqQSBesQjwmuW3bYZ3QVfs1rwzqWlRHly2BvWA0HHRoWECjtHKMxc1Ne1gRvcGCfukTA+XnTrq4+BEpjC4Fl3nQOZTT9Z05ER2SCFCJFwXLT9LqWpLTg2/KOXqTkmz0Ni1B+WjAYfPOGAU6JsGBGuc1a/ye7oeV03grXUjv2ChKxeSc+XF4LIPn7EX7Gggh9EPqjy53JSvElvSDEK1s6t9Adcv8Ie05pcIaHrqNFD7X4iVXQWtwescjnwjgHUF6vZ9CWISZ2XLBS+6Iz7ewOusVGbO3eR74onQtfn/GKvY3dqpHbUBXUMfFPXFUCro6f/8SfmwOpTw/U/QZ6p/tzCgFee2/xPpAie8ywVejtHAxVqJnh/pi95SiiZHTkmu5oLkViCKkWkFZ5JYVxoexLeP1LxiG8LBq5e7HOR77Tk0rRBpU06bJlAZFAuGEbMmXa0bwQpQSpTqruT0qstHAwpqETPd3B7pjfDTVkvQkauOWqZh7/B1n0A0XBwLzwtyoU/5dN4/pg==;sxl7jPRGrBJ4l0quTbonMQ=="
 ---
 
