@@ -2,6 +2,240 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-21-opinion-ai-elections-and-law-why-no-country-can-tackle-ai-alone.md",
+      "title": "Opinion: AI, Elections And Law - Why No Country Can Tackle AI Alone",
+      "excerpt": "Talks between EU and India on tackling the threat of online disinformation reflect the need for collective global action against the risks posed by generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192",
+      "originalUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-08/295nvsms_deepfake-generic_625x300_22_August_23.jpg?ver-20240117.06",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1",
+      "publishedDateTime": "2024-02-21T08:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips.md",
+      "title": "Mark Zuckerberg To Meet Samsung Chief In South Korea, Discuss AI Chips",
+      "excerpt": "Zuckerberg is expected to meet Samsung Electronics chairman Jay Y. Lee as early as later this month to discuss AI chip supply and other generative AI issues, South Korean newspaper Seoul Economic Daily reported earlier on Wednesday, citing unnamed sources ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939",
+      "originalUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2024-02/86jsk76g_mark-zuckerberg-bloomberg_625x300_02_February_24.jpeg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1",
+      "publishedDateTime": "2024-02-21T08:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains.md",
+      "title": "Arm unveils Arm Neoverse CSS V3 chip designs for AI efficiency gains",
+      "excerpt": "In a leap forward for AI infrastructure, Arm announced the latest advancements in its Neoverse chip technology based on the Arm computing architecture. The company unveiled two new Arm Neoverse Compute Subsystems (CSS) built on third-generation Neoverse ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains/",
+      "originalUrl": "https://venturebeat.com/ai/arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/arm-neoverse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T07:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-you-can-now-use-your-voice-to-launch-galaxy-ai-features.md",
+      "title": "You can now use your voice to launch Galaxy AI features",
+      "excerpt": "You can activate live translation, summarization functionality ... Bixby’s support for Galaxy AI features is available in all the assistant’s supported languages, including English, Chinese, French, German, Korean, and Spanish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/",
+      "originalUrl": "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-GalaxyAI-Transcription-Summary.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T07:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-first-human-to-receive-neuralink-chip-can-control-mouse-with-mind-claims-musk.md",
+      "title": "First Human To Receive Neuralink Chip Can Control Mouse With Mind, Claims Musk",
+      "excerpt": "Earlier, in January, Musk revealed that Neuralink had managed to implant its wireless brain chip in a human for the first time. In a post on X, Musk said that \"promising\" brain activity was detected in the human after the procedure and that the person was \"recovering well\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557",
+      "originalUrl": "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.co.uk/en/full/1722345/elon-musk.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T06:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes UK",
+        "domain": "ibtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan.md",
       "title": "Uber Eats is launching a delivery service with Cartken’s sidewalk robots in Japan",
       "excerpt": "Uber, Mitsubishi Electric and autonomous robotics startup Cartken are launching a service in Japan using self-driving sidewalk robots.",
@@ -725,17 +959,17 @@
     {
       "path": "_news/2024-02-21-facial-recognition-software-of-all-things-played-a-role-in-this-guys-latest-arrest.md",
       "title": "Facial recognition software, of all things, played a role in this guy's latest arrest",
-      "excerpt": "But besides “video surveillance within the store,” the arrest report cites “new facial recognition software Lowe's has installed,” which helped the detective compare pictures of Saunders at the store with pictures from his driver’s license.",
+      "excerpt": "But besides “video surveillance within the store,” the arrest report cites “new facial recognition software Lowe's has installed,” which helped the detective compare pictures of Saunders ...",
       "sourceUrl": null,
-      "webUrl": "https://abcnews4.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "originalUrl": "https://abcnews4.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
+      "webUrl": "https://local12.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
+      "originalUrl": "https://local12.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://abcnews4.com/resources/media/586a0d1f-edce-4faa-93aa-00320b004454-medium16x9_20030610JasonVincentSaundersMarionCo.PNG",
+          "url": "https://local12.com/resources/media/586a0d1f-edce-4faa-93aa-00320b004454-medium16x9_20030610JasonVincentSaundersMarionCo.PNG",
           "width": 648,
           "height": 365,
           "title": null,
@@ -745,13 +979,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "cdnAmpWebUrl": "https://abcnews4-com.cdn.ampproject.org/c/s/abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "publishedDateTime": "2024-02-20T22:43:00Z",
+      "ampWebUrl": "https://local12.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
+      "cdnAmpWebUrl": "https://local12-com.cdn.ampproject.org/c/s/local12.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
+      "publishedDateTime": "2024-02-20T22:42:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "abcnews4",
-        "domain": "abcnews4.com",
+        "name": "Local 12 WKRC Cincinnati",
+        "domain": "local12.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1022,220 +1256,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-climate-change-predictions-anticipating-and-adapting-to-a-warming-world.md",
-      "title": "Climate change predictions: Anticipating and adapting to a warming world",
-      "excerpt": "In an era of accelerating climate change, evolving technologies can help people predict the near-future and adapt.\nThe post Climate change predictions: Anticipating and adapting to a warming world appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/",
-      "originalUrl": "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios.md",
-      "title": "Elemental Cognition Sets New Standard for Generative AI, Achieves 100% Accuracy in Complex Reasoning Scenarios",
-      "excerpt": "From the Inventor of IBM's Watson, Elemental Cognition's Neuro-Symbolic AI Platform Outperforms LLM Capabilities for Complex Problem Solving, Makes Generative AI Accurate and Transparent NEW YORK, NY / ACCESSWIRE / February 20, 2024 / Elemental Cognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61456702-elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61456702-elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T19:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar.md",
-      "title": "Discussion on draft AI framework by July: MoS IT Rajeev Chandrasekhar",
-      "excerpt": "India aims to combat deepfakes with new regulations and promote trust in technology through talent-driven innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar-11708439257763.html",
-      "originalUrl": "https://www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar-11708439257763.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2024/02/20/1600x900/PTI09-05-2023-000257B-0_1694712861521_1708439367943.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar/amp-11708439257763.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar/amp-11708439257763.html",
-      "publishedDateTime": "2024-02-20T18:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story.md",
-      "title": "Streamline diarization using AI as an assistive technology: ZOO Digital’s story",
-      "excerpt": "ZOO Digital provides end-to-end localization and media services to adapt original TV and movie content to different languages, regions, and cultures. It makes globalization easier for the world’s best content creators. Trusted by the biggest names in entertainment, ZOO Digital delivers high-quality localization",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T18:18:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-adobes-ai-assistant-can-summarize-pdfs-powerpoints-for-you.md",
-      "title": "Adobe's AI Assistant Can Summarize PDFs, PowerPoints for You",
-      "excerpt": "Adobe promises customer data won't be used to train its latest AI model, which can quickly read and pull key takeaways from PDFs, Microsoft Word docs, and PowerPoint presentations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/adobes-ai-assistant-can-summarize-pdfs-powerpoints-for-you",
-      "originalUrl": "https://www.pcmag.com/news/adobes-ai-assistant-can-summarize-pdfs-powerpoints-for-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04FOeQe1PQMSVO52EUTBJk2-1.fit_lim.size_1200x630.v1708450480.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T17:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

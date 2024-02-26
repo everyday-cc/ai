@@ -25,20 +25,114 @@ images:
     isCached: true
 
 related:
-  - title: "You can now use your voice to launch Galaxy AI features"
-    excerpt: "You can activate live translation, summarization functionality ... Bixby’s support for Galaxy AI features is available in all the assistant’s supported languages, including English, Chinese, French, German, Korean, and Spanish."
-    publishedDateTime: 2024-02-21T07:51:00Z
-    webUrl: "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/"
+  - title: "Galaxy AI Coming to Samsung S23, Z Flip, Z Fold 5, and Galaxy Tablets"
+    excerpt: "One of the most touted Galaxy AI features is called Circle to Search, which lets you search for something that you see on your screen."
+    publishedDateTime: 2024-02-22T03:00:00Z
+    webUrl: "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
+      name: PC Magazine
+      domain: pcmag.com
     quality: 69
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-GalaxyAI-Transcription-Summary.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://i.pcmag.com/imagery/articles/00gGCdUOwn2gbxeJgLZKAYU-1.fit_lim.size_1200x630.v1708557191.jpg"
+        width: 1119
+        height: 630
         isCached: true
+  - title: "Samsung says more Galaxy devices will get AI features, announces major update"
+    excerpt: "With this update, more Samsung Galaxy users can take advantage of the communication-enhancing AI features on AI-supported models"
+    publishedDateTime: 2024-02-22T10:42:00Z
+    webUrl: "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 56
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2024/02/22/1600x900/UI_61_update_1708598318695_1708598318930.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Samsung Expands Galaxy AI Features Across Latest Devices with One UI 6.1 Update"
+    excerpt: "“Our goal with Galaxy AI is not only to pioneer a new era of mobile ... The features include the ability to adjust message tone and translate messages in 13 different languages using Chat Assist. Galaxy users can experience the power of real-time ..."
+    publishedDateTime: 2024-02-22T12:43:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 55
+    images:
+      - url: "https://www.deccanchronicle.com/h-upload/2024/02/22/1076664-new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-news-thumb-1440x9601.jpg"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Samsung Bringing One UI 6.1, Galaxy AI Update to More Devices Starting Late March"
+    excerpt: "With this announcement, it means we’re a mere month away from more folks getting to play with Galaxy AI. Having been using it on the Galaxy S24 Ultra for a month now, I can tell you that the Interpreter mode is quite solid, Live Translate is helpful in ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/"
+    ampWebUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
+    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
+    type: article
+    provider:
+      name: Droid Life
+      domain: droid-life.com
+    quality: 54
+    images:
+      - url: "https://www.droid-life.com/wp-content/uploads/2024/02/Galaxy-AI-Devices-600x315-cropped.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "AI Features Are Coming to Samsung Wearables and Tablets"
+    excerpt: "Samsung's mobile president says the tech giant will add AI-powered tools to more of its devices, but it's currently unclear when such features might hit the market."
+    publishedDateTime: 2024-02-21T13:46:00Z
+    webUrl: "https://www.pcmag.com/news/ai-features-coming-to-samsung-wearables-tablets"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
+  - title: "Samsung Galaxy S23 WILL Get Galaxy AI Next Month"
+    excerpt: "Here’s a quick rundown of what you’ll be able to do with Samsung’s Galaxy AI ... Real-time Call Translation: The update will enable real-time translation during calls, allowing users to understand conversations in foreign languages without language ..."
+    publishedDateTime: 2024-02-25T00:00:00Z
+    webUrl: "https://www.knowyourmobile.com/news/samsung-galaxy-s23-will-get-galaxy-ai-next-month/"
+    type: article
+    provider:
+      name: Know Your Mobile
+      domain: knowyourmobile.com
+    quality: 39
+    images:
+      - url: "https://www.knowyourmobile.com/wp-content/uploads/2024/01/Samsung-Galaxy-AI.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Samsung Galaxy S24's AI features can be set to on-device-only processing — here's how it works"
+    excerpt: "It is possible to use on-device AI on the Samsung Galaxy S24 series, but you'll miss out on certain features in doing so. Galaxy AI requires an internet connection for several of its sub-features, because Samsung processes (but does not keep) the data ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.tomsguide.com/phones/samsung-phones/how-to-use-on-device-ai-only-on-samsung-galaxy-s24"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 27
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TgpGYj9dn8G7oFPqJ2XwLk-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Samsung One UI 6.1 update brings AI to more Galaxy smartphones"
+    excerpt: "Samsung has announced that it is bringing its AI tools to more Samsung Galaxy devices with the release of the new Samsung One UI 6.1 software update. This"
+    publishedDateTime: 2024-02-22T14:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/samsung-one-ui-6-1-update-brings-ai-to-more-galaxy-smartphones-22-02-2024/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "G6366GfbGsheXI3Fo4PFN9qQTW5hhqlQhW8a+XloyMHyJ4L6UtE6RXT+0RywBZrCjwaf2zoqThwtTz09qrr7xP7iSWNFpki6r/+6E/0LupSLUtmg2uneH5MCzsj7qxAB+RDa8aRUn5mqAIkQBrlJkf9gwD9vcCdhTqTan7k6PsoeWLBmdDoi+TnzmjXvDRl0mZWgzC3CjVuridh0iI0bX6g7tnJgI1npeKUGxcsqybmm9tpwV033+XBzqtICmQnePOt0+gdQQzhwYJvzemmlh/UqdvqTTWmHFKYiT0rXx2MadSz0/teQNM9fRL1pE+meLCZjnVOiFk3NbCVCBgl/ilNT3fHVI9FSoUaYybBKcsUIi7EpiDxaDhvbhdIuQA2OvyYIKPc3cWl436704a1NxrNjcBm1aaGys++hinqTc1QoeFI1EvT0MNG11GpoyK8LyYj9BVXAtGiu45rmJBf3mTQg1M/IgDY6nUZm4LvBbAN0qQb2rr/E9NYFGtvjyRsfddoiYApDAiC6IgZhJs7uqw==;P6+hUJKUpoXQP3rbwn8FUg=="
 ---

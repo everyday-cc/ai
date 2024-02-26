@@ -7,7 +7,7 @@ originalUrl: "https://www.inverse.com/tech/humane-ai-pin-subscription-three-mont
 webUrl: "https://www.inverse.com/tech/humane-ai-pin-subscription-three-months-free"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,81 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The Best Generative AI Courses Money Can Buy"
+    excerpt: "Embark on a journey to master generative AI with the best paid courses available, covering everything from principles and prompt engineering to business applications."
+    publishedDateTime: 2024-02-26T05:58:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65dc3646f50b2433cd62402e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "American Honda IT to fuel innovation with generative AI"
+    excerpt: "As for that AI strategy, American Honda’s deep experience with machine learning positions it well to capitalize ... and use of both AWS and Microsoft Azure. The key to a successful AI strategy, in part, is the quality and cleanliness of both structured ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html"
+    ampWebUrl: "https://www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html?amp=1"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html?amp=1"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2024/02/bob-brizendine-stylized_1600x900px.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Dolbey Announces AI Assist, Generative AI for Healthcare Workflow Automation"
+    excerpt: "Dolbey has announced AI Assist, an expansion of Fusion Narrate powered by nVoq, which offers generative AI for healthcare workflow automation. AI Assist is an evolution in speech recognition and automation technology that allows healthcare providers to access and utilize revolutionary generative AI within a private,"
+    publishedDateTime: 2024-02-21T22:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965750.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/2343691/Dolbey_and_Company_Inc_Logo.jpg"
+        width: 400
+        height: 226
+        isCached: true
+  - title: "The Best 7 Tech Stocks to Buy for AI Cloud Exposure"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Cloud AI combines the power of artificial intelligence with the power of cloud"
+    publishedDateTime: 2024-02-22T03:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-best-7-tech-stocks-to-buy-for-ai-cloud-exposure-1033090179"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Companies Need To Get Onboard The Generative AI Train"
+    excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
+    publishedDateTime: 2024-02-25T19:21:00Z
+    webUrl: "https://www.forbes.com/sites/sylvainduranton/2024/02/25/companies-need-to-get-onboard-the-generative-ai-train/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "The Best AI Image Generators in 2024"
+    excerpt: "Generally considered the best AI image tool, Midjourney was developed by the independent research lab Midjourney, Inc, and is still in open beta. Critics say this tool generates complex, relatively high-quality imagery, but also requires a little finessing ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://tech.co/news/best-ai-image-generators"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 19
 
 secured: "0fR2D5/j5R2zhUV5GIPW/TkxAThL61ACISfQOU9F9p77moheDq8PfhdVnfWUQR/RXvSn8gRoaE4Kq3vAn9916HSTnPUXSUdtoBSEFyi8EXFFRTs+QkAlESwaKiZtBU2FK8bZe81AhfnbzsBgzdPrI95Slsn3hVT4VdH2yHPG8IKMxErz5E9CjL0StJhaVvGTg6GTMDvxkQvgF7DOmkqsJmqyfwjBm//fUYedzBbOXxHsydvwgM/fjJaKeU5hyV47nL5YPpZ5dzRqGEN5MT0iM2rA4tPecXcqLim5QcjvI+W621f5h3cOe2ob3Fx5FnGF6BNiAxo15ur5XfnCqquMMzADBcdcHcVoAaeoQCv2ZNk=;Uk+QWyldh8xR3WEvSomSIA=="
 ---

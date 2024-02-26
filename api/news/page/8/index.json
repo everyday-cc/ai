@@ -2,6 +2,267 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-02-20-ai-comes-to-the-world-of-beauty-as-eyelash-robot-uses-artificial-intelligence-to-place-fake-lashes.md",
+      "title": "AI comes to the world of beauty as eyelash robot uses artificial intelligence to place fake lashes",
+      "excerpt": "Artificial intelligence is making its way into esthetics with a new application in eyelash extensions. A Bay Area-based company called Luum has released an AI-powered eyelash extension machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes",
+      "originalUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
+      "publishedDateTime": "2024-02-20T10:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond.md",
+      "title": "Navigating Retail's New Reality: Omnichannel, Hyper-Personalization And Beyond",
+      "excerpt": "While AI has been touted by many as a silver bullet for addressing key challenges, it is not the only solution available and may not work for every retail company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f105d41e465530006d5ac69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/amp/",
+      "publishedDateTime": "2024-02-20T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-watch-out-workers-this-billionaires-ai-is-coming-for-blue-collar-jobs.md",
+      "title": "Watch Out, Workers: This Billionaire’s AI Is Coming For Blue Collar Jobs",
+      "excerpt": "John Fish built Boston’s largest construction firm, Suffolk, on the backs of laborers. Now, fighting a never-ending worker shortage, he’s betting the future is filled with hardwired hard hats and AI foremen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnhyatt/2024/02/20/watch-out-workers-john-fish-and-his-ai-is-coming-for-blue-collar-jobs-too/",
+      "originalUrl": "https://www.forbes.com/sites/johnhyatt/2024/02/20/watch-out-workers-john-fish-and-his-ai-is-coming-for-blue-collar-jobs-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cf6450dd61f42d45dca929/0x0.jpg?format=jpg&crop=1786,1005,x134,y75,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-inside-the-funding-frenzy-at-anthropic-one-of-ais-hottest-start-ups.md",
+      "title": "Inside the Funding Frenzy at Anthropic, One of A.I.’s Hottest Start-Ups",
+      "excerpt": "The company raised $7.3 billion over the last year, as the lure of artificial intelligence changes Silicon Valley deal-making.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/00-anthropic-funding-jpvz/00-anthropic-funding-jpvz-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T10:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-making-cloud-infrastructure-programmable-for-developers.md",
+      "title": "Making cloud infrastructure programmable for developers",
+      "excerpt": "AWS CloudFormation and Azure Resource Management were two other top contenders ... As an industry, we’ve moved beyond single machine application servers and single machine operating systems to distributed computing in the cloud, orchestrated by Kubernetes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html",
+      "originalUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/developer_programmer-100946133-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html",
+      "publishedDateTime": "2024-02-20T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-this-new-ai-assistant-from-adobe-lets-you-chat-with-your-pdfs-at-no-additional-cost.md",
       "title": "This new AI Assistant from Adobe lets you chat with your PDFs at no additional cost",
       "excerpt": "Getting started is easy. All Acrobat and Reader users will have to do is open the applications, where they will find the AI Assistant in beta, which they can then use for a range of tasks, including providing answers to recommended or user-generated questions through a chatbot.",
@@ -958,261 +1219,6 @@
         "AI",
         "AI Ethics",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-microsoft-backed-openai-valued-at-80bn-after-company-completes-deal.md",
-      "title": "Microsoft-backed OpenAI valued at $80bn after company completes deal",
-      "excerpt": "Company to sell existing shares in ‘tender offer’ led by venture firm Thrive Capital, in similar deal as early last year Microsoft-backed OpenAI has completed a deal that values the artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
-      "originalUrl": "https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/31d22fd8fcc34bb0ab7a9da447f294d8138108f9/0_142_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=cf647d3966eb3d26240a50524fea27e7",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
-      "publishedDateTime": "2024-02-19T10:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-ios-trojan-collects-face-and-other-data-for-bank-account-hacking.md",
-      "title": "iOS Trojan Collects Face and Other Data for Bank Account Hacking",
-      "excerpt": "Chinese hackers use Android and iOS trojans to obtain information needed to steal money from victims’ bank accounts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/",
-      "originalUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securityweek.com/wp-content/uploads/2023/03/spyware.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/amp/",
-      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/amp/",
-      "publishedDateTime": "2024-02-19T10:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecurityWeek",
-        "domain": "securityweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good.md",
-      "title": "I tested Meta's Code Lama with 3 AI coding challenges that ChatGPT aced - and it wasn't good",
-      "excerpt": "Meta CEO Mark Zuckerberg recently unveiled Code Llama, a 70B parameter AI designed for coding. But how does it stack up against giants like ChatGPT? I put it to the test.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "originalUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1ccf148eef076cac3e9b8d3a9942ad0f45134b0b/2024/02/19/91f4a2a2-3674-4726-9ea0-825a6c9f6629/gettyimages-699283090.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "publishedDateTime": "2024-02-19T08:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-googles-ai-boss-says-scale-only-gets-you-so-far.md",
-      "title": "Google’s AI Boss Says Scale Only Gets You So Far",
-      "excerpt": "In recent months, Hassabis has overseen a dramatic shift in pace of research and releases with the rapid development of Gemini, a ”multimodal” AI model that already powers Google’s answer to ChatGPT and a growing number of Google products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/",
-      "originalUrl": "https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65cff9cd4172e5e20e48edbb/191:100/w_1280,c_limit/Demis-Hassabis-Q&A-Business-1487212367.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year.md",
-      "title": "Tech giants promise to combat fraudulent AI content in mega elections year",
-      "excerpt": "Tech companies like Google, Meta, and OpenAI have signed an accord to filter through deceptive AI-generated content in 2024, a year with more elections than any other in history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
-      "originalUrl": "https://www.zdnet.com/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/75dbdf1f3a53cc19d05a2a68eed3479af024822e/2024/02/19/063d36af-d818-451b-8d0a-916c7feb57f1/gettyimages-1415754429.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
-      "publishedDateTime": "2024-02-19T07:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

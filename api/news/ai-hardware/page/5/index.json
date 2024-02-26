@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-17-opinion-the-betting-on-the-ai-pc-race-is-ignoring-the-true-ai-leader-nvidia.md",
+      "title": "Opinion: The betting on the ‘AI PC’ race is ignoring the true AI leader: Nvidia",
+      "excerpt": "After all, Nvidia has history on its side: It was the hardware vendor that paved the road that the AI markets are all driving down today when it introduced CUDA, programmable graphics processing unit (GPU) chips, and created a software ecosystem rivaling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/the-betting-on-the-ai-pc-race-is-ignoring-the-true-ai-leader-nvidia-70198fcf",
+      "originalUrl": "https://www.marketwatch.com/story/the-betting-on-the-ai-pc-race-is-ignoring-the-true-ai-leader-nvidia-70198fcf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-841158/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/the-betting-on-the-ai-pc-race-is-ignoring-the-true-ai-leader-nvidia-70198fcf",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/the-betting-on-the-ai-pc-race-is-ignoring-the-true-ai-leader-nvidia-70198fcf",
+      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-maximizing-ai-growth-using-incentives-to-unlock-unutilized-gpu-resources.md",
+      "title": "Maximizing AI Growth: Using Incentives to Unlock Unutilized GPU Resources",
+      "excerpt": "With AI expected to add trillions of dollars to global economic growth by 2030, the question on everyone’s mind is how to deal with the uncertain supply of graphics processing unit (GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/maximizing-ai-growth-using-incentives-to-unlock-unutilized-gpu-resources",
+      "originalUrl": "https://www.nasdaq.com/articles/maximizing-ai-growth-using-incentives-to-unlock-unutilized-gpu-resources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T19:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-amd-shares-jump-8-to-highest-close-since-2021-on-ai-chip-demand.md",
+      "title": "AMD shares jump 8% to highest close since 2021 on AI chip demand",
+      "excerpt": "AMD is one of two major producers of graphics processing units, which were created for advanced computer games and are now key to artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318.jpeg?v=1705430893",
+          "width": 4548,
+          "height": 3026,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
+      "publishedDateTime": "2024-01-16T19:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-a-flaw-in-millions-of-apple-amd-and-qualcomm-gpus-could-expose-ai-data.md",
       "title": "A Flaw in Millions of Apple, AMD, and Qualcomm GPUs Could Expose AI Data",
       "excerpt": "Patching every device affected by the LeftoverLocals vulnerability—which includes some iPhones, iPads, and Macs—may prove difficult.",
@@ -1350,144 +1488,6 @@
         "Meta AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-neurophos-secures-72-million-in-funding-round-to-create-energy-efficient-metamaterial-based-optical-ai-chips-for-data-centers.md",
-      "title": "Neurophos Secures $7.2 Million in Funding Round to Create Energy-Efficient Metamaterial-Based Optical AI Chips for Data Centers",
-      "excerpt": "Neurophos, a spinout from Duke University and Metacept Inc., announced it has raised $7.2M in a seed round to productize a breakthrough in both metamaterials and optical AI inference chips. Neurophos' optical metasurfaces are designed for use in data centers and their approach is already shattering world records in computational energy efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Neurophos-Secures-72-Million-in-Funding-Round-to-Create-Energy-Efficient-Metamaterial-Based-Optical-AI-Chips-for-Data-Centers-161885.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Neurophos-Secures-72-Million-in-Funding-Round-to-Create-Energy-Efficient-Metamaterial-Based-Optical-AI-Chips-for-Data-Centers-161885.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-global-ai-conclave-talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar.md",
-      "title": "Global AI Conclave: Talent, not chips, key to India's AI future, says Rajeev Chandrasekhar",
-      "excerpt": "The government is working 24/7 to propel India's digital economy to trillion dollars in size by 2026, Rajeev Chandrasekhar said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/12/Rajeev-770x371.jpg",
-          "width": 770,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp",
-      "publishedDateTime": "2023-12-16T09:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-intel-focusses-on-ai-at-big-event-and-for-good-reasons.md",
-      "title": "Intel Focusses On AI At Big Event, And For Good Reasons",
-      "excerpt": "Intel says the multi-chiplet Ultra is the “largest architectural change in 40 years.” In addition to 64 new cores (far fewer than AMD or many Arm designs) and the NPU, it includes integrated Wi-FI 6E, CPU frequencies up to 5.1 GHz in Turbo mode and a large 320MB cache.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657c88ad49554836f9e20ad5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/amp/",
-      "publishedDateTime": "2023-12-15T22:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

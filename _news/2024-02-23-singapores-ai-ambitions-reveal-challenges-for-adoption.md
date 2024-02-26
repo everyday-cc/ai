@@ -38,20 +38,18 @@ related:
         height: 675
         isCached: true
   - title: "Singapore embraces AI to solve everyday problems"
-    excerpt: "The 10-member Association of Southeast Asian Nations' guide to AI governance and ethics, released this month, recommends principles of transparency, fairness and equity, accountability and integrity, and \"human-centricity\". Yet member countries including ..."
-    publishedDateTime: 2024-02-26T04:29:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/singapore-embraces-ai-to-solve-everyday-problems/article67887079.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/singapore-embraces-ai-to-solve-everyday-problems/article67887079.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/singapore-embraces-ai-to-solve-everyday-problems/article67887079.ece/amp/"
+    excerpt: "Booking a badminton court at one of Singapore's 100-odd community centres can be a workout in itself, with residents forced to type in times and venues repeatedly on a website until they find a free slot."
+    publishedDateTime: 2024-02-26T07:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/26/singapore-embraces-ai-to-solve-everyday-problems"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://th-i.thgim.com/public/incoming/tbuxh4/article67887081.ece/alternates/FREE_1200/Singapore_Water_Solutions_58459.jpg"
-        width: 1200
-        height: 800
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/26/2562291.jpg"
+        width: 1240
+        height: 822
         isCached: true
 
 secured: "nZhV15vqpteqfQURNvMLtfNLPX+HxqYZyGKJECd7VJ0++1x/XKzNHnOgV0NniBMT5ih0N8aRomrzVvdI/86vjMUzB2TcP2Azexqj1ipVdiXXF8dRsHBs//xH6KEgGgBKOqGg+pbguDpPxAtr/QsDmFl1eA5A4KCNyMdkTF+jtGBkX7UOoMpQfUU1RRYiksk5sUuc/rsSX2ydx4971u5ZknAneEYahd4KA45atyoqYXaocS32Rdm5V24Lqhn2K8GjFN6U4PhLy4xsY7Ljy4sV1atu41DLVbFE2lD8F0AIgdv7Ay8at4TRvub52BSO2XNnuwWqC4PrgoWbO3wrXRsifpzU6YKECDiwvJLWAagoXU8ut5u6ZzbSPdFNYIh7WwlVXl/o0R4ZSDhXc7rZwuq4H0S1ooG6CKm8ywsW1mV4tVDuJgGHTS3l4QjTc966Uo/P6B/gQ8nb+Gpnrqfmz/yShjyO5f/BV3Vn/VxKRWrxoge7trGT6aAl2FxVOmx3RlfNpPmtWHYsQM6+tXjdDVL3Jg==;qsOMg34pcSCSMoK42FrTwQ=="

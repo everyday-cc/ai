@@ -23,80 +23,84 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run"
-    excerpt: "TSMC's revenue in January 2024 increased substantially, and the trend is here to stay thanks to the robust demand for AI chips. SoundHound AI shares have shot up big time of late, and the company's potential growth could help it sustain the rally."
-    publishedDateTime: 2024-02-22T05:25:00Z
-    webUrl: "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/"
+  - title: "The Best Generative AI Courses Money Can Buy"
+    excerpt: "Embark on a journey to master generative AI with the best paid courses available, covering everything from principles and prompt engineering to business applications."
+    publishedDateTime: 2024-02-26T05:58:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://g.foolcdn.com/editorial/images/765982/artificial-intelligence-ai-on-circuit-board.jpg"
-        width: 2359
-        height: 1270
-        isCached: true
-  - title: "Corporate Use of Third-Party Artificial Intelligence (AI) Tools"
-    excerpt: "In this podcast he shares that a great deal of risk comes from the headlong pursuit of AI technology. Businesses believe that if they are not using Ai that they will be left behind, but the adoption rate is not being matched with a complete understanding ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/corporate-use-of-third-party-artificial-86131/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 54
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15992_1015.jpg"
-        width: 1200
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65dc3646f50b2433cd62402e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
         height: 900
         isCached: true
-  - title: "Investing in Artificial Intelligence (AI) Stocks Can Be Risky; Here's a Terrific Way to Do It"
-    excerpt: "Should you invest $1,000 in iShares Robotics and Artificial Intelligence Multisector ETF right now? Before you buy stock in iShares Robotics and Artificial Intelligence Multisector ETF , consider ..."
-    publishedDateTime: 2024-02-21T11:09:00Z
-    webUrl: "https://www.nasdaq.com/articles/investing-in-artificial-intelligence-ai-stocks-can-be-risky-heres-a-terrific-way-to-do-it"
+  - title: "American Honda IT to fuel innovation with generative AI"
+    excerpt: "As for that AI strategy, American Honda’s deep experience with machine learning positions it well to capitalize ... and use of both AWS and Microsoft Azure. The key to a successful AI strategy, in part, is the quality and cleanliness of both structured ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html"
+    ampWebUrl: "https://www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html?amp=1"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html?amp=1"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 53
-  - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
-    excerpt: "A boom in artificial intelligence (AI ... AI can potentially boost countless industries, from healthcare to consumer tech, education, e-commerce, cloud computing, autonomous vehicles, and much more. With growth catalysts across multiple sectors, it ..."
-    publishedDateTime: 2024-02-21T18:20:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/24233681/2-artificial-intelligence-ai-stocks-that-could-help-set-you-up-for-life/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 53
+      name: CIO
+      domain: cio.com
+    quality: 59
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8c8a7cbccab823193093a641261da5e5/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f1f92897a92b71053db3792cf336284b1.png%26amp%3Bw%3D700"
-        width: 720
-        height: 456
+      - url: "https://www.cio.com/wp-content/uploads/2024/02/bob-brizendine-stylized_1600x900px.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "2 Millionaire-Maker Artificial Intelligence (AI) Stocks"
-    excerpt: "One big reason why: The current bull market, and, in particular, the artificial intelligence (AI) stocks that are powering it higher. So, let's take a look at two millionaire-maker AI stocks that still have plenty of room to run. These stocks may not be ..."
-    publishedDateTime: 2024-02-25T22:49:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ROKU-Q/pressreleases/24333199/2-millionaire-maker-artificial-intelligence-ai-stocks/"
+  - title: "Dolbey Announces AI Assist, Generative AI for Healthcare Workflow Automation"
+    excerpt: "Dolbey has announced AI Assist, an expansion of Fusion Narrate powered by nVoq, which offers generative AI for healthcare workflow automation. AI Assist is an evolution in speech recognition and automation technology that allows healthcare providers to access and utilize revolutionary generative AI within a private,"
+    publishedDateTime: 2024-02-21T22:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965750.htm"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 52
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8491c4b0c4718fff9818732c79734c77/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f1afd6b506400c9ddd0e2912f3863e863.png%26amp%3Bw%3D700"
-        width: 720
-        height: 421
+      - url: "https://mma.prnewswire.com/media/2343691/Dolbey_and_Company_Inc_Logo.jpg"
+        width: 400
+        height: 226
         isCached: true
-  - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
-    excerpt: "So, here are two AI stocks that could set you up for life. Nvidia has become a Wall Street darling since the start of last year after snapping up an estimated 80% to 95% market share in AI graphics processing units (GPUs), the chips necessary for training and running AI models."
-    publishedDateTime: 2024-02-21T14:20:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/24233681/2-artificial-intelligence-ai-stocks-that-could-help-set-you-up-for-life/"
+  - title: "Companies Need To Get Onboard The Generative AI Train"
+    excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
+    publishedDateTime: 2024-02-25T19:21:00Z
+    webUrl: "https://www.forbes.com/sites/sylvainduranton/2024/02/25/companies-need-to-get-onboard-the-generative-ai-train/"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 33
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Humane Just Gave Everyone a Huge Incentive To Buy an AI Pin"
+    excerpt: "Humane has announced that everyone who buys an Ai Pin by March 31, 2024 will get the first three months of its required subscription ($30 per month) for free. Additionally, the company's making shipping for the Ai Pin free."
+    publishedDateTime: 2024-02-23T16:45:00Z
+    webUrl: "https://www.inverse.com/tech/humane-ai-pin-subscription-three-months-free"
+    type: article
+    provider:
+      name: Inverse
+      domain: inverse.com
+    quality: 37
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2024/2/23/5b03b5d1-929d-486a-831a-d6c5283b66d1-humane-ai-pin-interface.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Best AI Image Generators in 2024"
+    excerpt: "Generally considered the best AI image tool, Midjourney was developed by the independent research lab Midjourney, Inc, and is still in open beta. Critics say this tool generates complex, relatively high-quality imagery, but also requires a little finessing ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://tech.co/news/best-ai-image-generators"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 19
 
 secured: "/pnlCcMnzA7QKLUG7vDcO9pRprsc9bsD/W/z7IzozVkuQJlNrbPTBMsPI6TZmBtV3ZZMo2Ozmj66yzqOWIhOSZ4eLaGJqlQovcQ7aEneJ2XUIYEKq7aIBh54N4Bukxe+F6SUpiaSC6fFCb7AvgWvfw+N644apqzVenxc1oM3WQ1xvUuCVNYRm8GmLm8Bb79rFwwgGGLQkyVkrxnrG3yjV1JujVV4xcgQozqCyHc2Ob62d4FA9KYbnxPR8yUw1LsPQyWAE+6O3MIjHIUHMDQaKEQrZgEiOcSqFLZjMpMEKMmNHc9suauaUhZum3xAyQtWe0qDV0FYPai//VdTLETkWDm/p5p4XtjMIQcZLfe3QoYs0X/v8jr7HRR+fvjiKvcBvz5kmQ/JDs6NWhZw1kphX63DP1KLBZ4ncnU7P6R63J5Fm/p8vMyC2w0xiyLYA5o1joyRX7isHfoFZ5nU8Uq52YyYY7CaHZzmHgwi+KW3fQ7xEtuwTg3Qmc+Qm+NzHHXbZemW6NNswdp50xoJXDO8qg==;HWTclWcPvIdoHbBTfnLmRQ=="
 ---

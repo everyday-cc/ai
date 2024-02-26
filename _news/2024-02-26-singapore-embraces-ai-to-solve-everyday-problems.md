@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Singapore embraces AI to solve everyday problems"
-excerpt: "The 10-member Association of Southeast Asian Nations' guide to AI governance and ethics, released this month, recommends principles of transparency, fairness and equity, accountability and integrity, and \"human-centricity\". Yet member countries including ..."
-publishedDateTime: 2024-02-26T04:29:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/singapore-embraces-ai-to-solve-everyday-problems/article67887079.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/singapore-embraces-ai-to-solve-everyday-problems/article67887079.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/singapore-embraces-ai-to-solve-everyday-problems/article67887079.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/singapore-embraces-ai-to-solve-everyday-problems/article67887079.ece/amp/"
+excerpt: "Booking a badminton court at one of Singapore's 100-odd community centres can be a workout in itself, with residents forced to type in times and venues repeatedly on a website until they find a free slot."
+publishedDateTime: 2024-02-26T07:01:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/26/singapore-embraces-ai-to-solve-everyday-problems"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/26/singapore-embraces-ai-to-solve-everyday-problems"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://th-i.thgim.com/public/incoming/tbuxh4/article67887081.ece/alternates/FREE_1200/Singapore_Water_Solutions_58459.jpg"
-    width: 1200
-    height: 800
+  - url: "https://apicms.thestar.com.my/uploads/images/2024/02/26/2562291.jpg"
+    width: 1240
+    height: 822
     isCached: true
 
 related:
@@ -55,6 +53,6 @@ related:
       domain: theedgesingapore.com
     quality: 39
 
-secured: "pZP11FYqrEn1cyBquNsTNTdUPgsEbMJS5Mj6hLFZreSNZMLlg73z4UkadUFRJATS6xRwVtAOQqdpnsJj7NsTUXNrn7T16HgmIGRx4g7BH2M4Ki2Dvb8fe4n5JPKcWs6hS1VUH3eN3sndhpJBYD9FtSF275OeXOHgRRY0bdE+Xejl1TMy38AeIAS/lE+15Or+55ywt3WQM719jwr6mn6S9x04SKrn/grCqFfqg9eZ9ViVH+UXQTPsrsIZbRETD2b3SMuPwhwg4+vSodyPkMB1oXxoeWhhXbtkmcxnZibB/19BzbEggydOSkc1SVBGYJ67PJKHa529wqzBrNZB/cVk2ZZ8PoLWGCNmL1fJ3ATsXMM=;70bYcdJtd+AcxnW41XU88Q=="
+secured: "4xB/tq/OsF18hRl3NNGK1N6nvUb8fjFL4VKiL9GshQRBi6hgNj4qVHKYi/DtuP8RIB0uI09uQU5FihgD0Joglcqrbe2018qgX2evv+NhxqRHtlG8RpDVpZTue/TO5fDvkNaskkJ4YyetbAydNJV8Q3bwyPicP1X2mHo4XbL5nji1NydWrW1vB5bLBY1Pt7u3AeNvTtMBhVhAq+HWePcpYA0MueZJ0+AEBMyDOszANcLlw3RK4LfQ9NW3ZVs8AAS2lrigpYZHQ7R8eAYR/Cdg2Ms1ZimsMsxVBMfaixP90KpTW2h93IPYyTrRuU/8MrNlUW4e17JBLhTC+BKXZhRqflz4MT4XR1ZE/FdIZBPI6Q4=;3MSiKcL6oTH2FWxPT54/Bw=="
 ---
 

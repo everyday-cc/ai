@@ -54,20 +54,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Dolbey Announces AI Assist, Generative AI for Healthcare Workflow Automation"
-    excerpt: "Dolbey has announced AI Assist, an expansion of Fusion Narrate powered by nVoq, which offers generative AI for healthcare workflow automation. AI Assist is an evolution in speech recognition and automation technology that allows healthcare providers to access and utilize revolutionary generative AI within a private,"
-    publishedDateTime: 2024-02-21T22:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965750.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/2343691/Dolbey_and_Company_Inc_Logo.jpg"
-        width: 400
-        height: 226
-        isCached: true
   - title: "AI startup Jasper acquires image generator Clipdrop from Stability AI"
     excerpt: "Feb 22 (Reuters) - U.S. writing assistant startup Jasper has acquired Clipdrop, an artificial intelligence-powered photo application from Stability AI, the company told Reuters on Wednesday, as Jasper expands its offerings to corporates. The deal ..."
     publishedDateTime: 2024-02-22T13:37:00Z

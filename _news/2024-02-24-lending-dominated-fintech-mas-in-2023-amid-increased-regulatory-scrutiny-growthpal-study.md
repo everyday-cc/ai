@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/bangalore/lending-dominated-fin
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/lending-dominated-fintech-mas-in-2023-amid-increased-regulatory-scrutiny-growthpal-study/article67871098.ece/amp/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 1001
     isCached: true
-
-related:
-  - title: "RBI ups scrutiny of fintechs with more inspections"
-    excerpt: "India's financial regulator, the Reserve Bank of India (RBI), is intensifying oversight of fintech firms after inspections revealed lapses in customer due diligence. The RBI has increased meetings with executives and invested in better technology to monitor regulatory compliance."
-    publishedDateTime: 2024-02-21T08:21:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-ups-scrutiny-of-fintechs-with-more-inspections/articleshow/107877756.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/banking/rbi-ups-scrutiny-of-fintechs-with-more-inspections/amp_articleshow/107877756.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/banking/rbi-ups-scrutiny-of-fintechs-with-more-inspections/amp_articleshow/107877756.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-263014,msid-107877905/rbi-fintech-sro.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "Y7g8uVfKPYROSzFVExp6btZbgVku0injzwhUYqXs6PPh0/+52bN67PkNLvS8EBFFIesmt6Kac+NvwZ55IBp+KL9bFQHqIFtCFYFNklXzs+9gH9hhkkdy7lPO4bip888uhBXDaBQZfjXNLJ/21CXfQ2snqRdamPqCgpYf55GMj27oohxUwFIYYg0Sxcb/ICDDLiEd9wNVX8/phwoRQteizwXmYKssciHa1Ik+GLSsBxHKH88Ven83zKVbEWR7jn75GtLvU9aYuFvppq+b5Hh2u4AyRpamrCXrM2CNM94RB44gsj1rSXSgROuimqZUDZYwkNLic/I9gzS71ktX+XzbQX3nSlRS/BNOdCQEEUDE965SFNCFOwCV742amWzJ5LsZEfJoll5Of4n/sIU9Awwi8+muxDWX+SrQwW+2SbG0+9wauJ3nYD6lPcTjuFoZr3FP3Z5tC5iQbZyk6OBmQ0UG/J14JfMjM5ZfRmOh31DDnBTvs/HjvO77fm8BFhKTVUJ4AxM2IY2cup4zb7EaAmANqw==;tNssTZPr5k+7Dv1iDkEopw=="
 ---

@@ -481,20 +481,6 @@ related:
         width: 512
         height: 252
         isCached: true
-  - title: "Google App Adds Toggle Between Search & Gemini"
-    excerpt: "The popular Google app, the Google Search app, now has a toggle at the top to quickly switch between Google Search and Gemini (formerly Google Bard). It shows up at the top and is defaulted to Google Search with the super G logo but you can see the Gemini logo that you can tap on to switch to Gemini."
-    publishedDateTime: 2024-02-21T07:11:00Z
-    webUrl: "https://www.seroundtable.com/google-app-toggle-between-search-gemini-36930.html"
-    type: article
-    provider:
-      name: Search Engine Roundtable
-      domain: seroundtable.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/images.seroundtable.com/google-toggles-1708514122.jpg"
-        width: 1456
-        height: 832
-        isCached: true
   - title: "Google apologizes over Gemini image generation inaccuracies"
     excerpt: "Google LLC has apologized after its Gemini chatbot generated images that incorrectly depicted racially diverse characters in historical contexts."
     publishedDateTime: 2024-02-23T23:19:00Z
@@ -522,6 +508,20 @@ related:
       - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/gemini-image-gen.jpg"
         width: 1066
         height: 600
+        isCached: true
+  - title: "The Google Gemini integration in Messages is now official"
+    excerpt: "Since the start of the year, we've come across multiple reports of Google Gemini (formerly Bard) integrating with Google Messages. This particular feature addition is now official, with Google announcing Gemini for Google Messages (in beta) as part of its ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.androidpolice.com/google-gemini-messages-integration-official-mwc-2024/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 24
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-1-ap-hero.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Google announces Gemma, its open models for AI research"
     excerpt: "Gemma was developed by Google DeepMind and other teams across the company, and is “built from the same research and technology used to create the Gemini models,” including technical and infrastructure components. Name-wise, it’s Latin for “precious ..."

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-26-how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity.md",
+      "title": "How IBM is helping accelerate AI adoption and application centric connectivity",
+      "excerpt": "Three key challenges, and opportunities, to which we must all pay attention, should we expect our industry to remain healthy. \nThe post How IBM is helping accelerate AI adoption and application centric connectivity appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity/",
+      "originalUrl": "https://www.ibm.com/blog/how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-24-how-to-implement-the-general-data-protection-regulation-gdpr.md",
       "title": "How to implement the General Data Protection Regulation (GDPR)",
       "excerpt": "Follow this guide to implement the General Data Protection Regulation (GDPR) within your organization.\nThe post How to implement the General Data Protection Regulation (GDPR) appeared first on IBM Blog.\n",
@@ -1264,57 +1307,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-13T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation.md",
-      "title": "Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation",
-      "excerpt": "Businesses are increasingly turning to event-driven architecture (EDA) as a strategic approach to harness real-time data.\nThe post Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation/",
-      "originalUrl": "https://www.ibm.com/blog/maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/amv-textilebusinessa141011.blog-lead-space-40x21-1-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T17:46:31Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

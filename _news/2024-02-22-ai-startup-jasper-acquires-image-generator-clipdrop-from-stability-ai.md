@@ -52,20 +52,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Dolbey Announces AI Assist, Generative AI for Healthcare Workflow Automation"
-    excerpt: "Dolbey has announced AI Assist, an expansion of Fusion Narrate powered by nVoq, which offers generative AI for healthcare workflow automation. AI Assist is an evolution in speech recognition and automation technology that allows healthcare providers to access and utilize revolutionary generative AI within a private,"
-    publishedDateTime: 2024-02-21T22:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/21/9965750.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/2343691/Dolbey_and_Company_Inc_Logo.jpg"
-        width: 400
-        height: 226
-        isCached: true
   - title: "Stable Diffusion 3 AI image generator launched by Stability AI"
     excerpt: "This level of comprehension is a testament to the strides made in AI’s ability to interpret human language and translate it into coherent visual representations. What sets Stable Diffusion 3 apart even further is its commitment to community-driven progress."
     publishedDateTime: 2024-02-23T00:01:00Z

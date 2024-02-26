@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-12-promote-resilience-and-responsible-emissions-management-with-the-ibm-maximo-application-suite.md",
+      "title": "Promote resilience and responsible emissions management with the IBM Maximo Application Suite",
+      "excerpt": "Optimization can help you predict and prevent issues, reduce emissions, ensure compliance and create a safer and healthier work environment.\nThe post Promote resilience and responsible emissions management with the IBM Maximo Application Suite appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/promote-resilience-and-emissions-management-for-asset-management-operations-with-maximo-application-suite-mas/",
+      "originalUrl": "https://www.ibm.com/blog/promote-resilience-and-emissions-management-for-asset-management-operations-with-maximo-application-suite-mas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-bayesian-health-ceo-thinks-ai-is-ready-for-prime-time.md",
       "title": "Bayesian Health CEO thinks AI is 'ready for prime time'",
       "excerpt": "Bayesian Health CEO Suchi Saria discussed the role regulators could play next year regarding the use of artificial intelligence in healthcare.",
@@ -1228,48 +1270,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-11-22T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-your-black-friday-observability-checklist.md",
-      "title": "Your Black Friday observability checklist",
-      "excerpt": "A checklist to help you find and implement the best possible observability platform to keep all your applications running bright.\nThe post Your Black Friday observability checklist appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/your-black-friday-observability-checklist/",
-      "originalUrl": "https://www.ibm.com/blog/your-black-friday-observability-checklist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T22:47:36Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

@@ -248,20 +248,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Cushman & Wakefield working with Microsoft on AI"
-    excerpt: "The Microsoft Technology Centre is providing Cushman & Wakefield with access to cutting-edge research, tools, and the firm's top specialists to develop powerful and adaptable applications. It also provides insight into various areas that require AI solutions, with learning and improvement through feedback and advice."
-    publishedDateTime: 2024-02-21T07:48:00Z
-    webUrl: "https://vir.com.vn/cushman-wakefield-working-with-microsoft-on-ai-109032.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 54
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2024/022024/21/13/in_social/cb36e5d2e40cf819ff19a5af7c71a66b.jpg?randTime=1708506123"
-        width: 600
-        height: 385
-        isCached: true
   - title: "AWS Storage VP Leaves For Microsoft Azure"
     excerpt: "AWS and Microsoft Azure compete heavily in several massive tech industries such as cloud computing, artificial intelligence and cloud storage, including in object, file and block storage. For example, AWS is the world’s market-share leader in cloud ..."
     publishedDateTime: 2024-02-22T14:40:00Z
@@ -378,15 +364,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "Microsoft to Invest $2.1 Billion in AI and Cloud Growth in Spain"
-    excerpt: "Over the next two years to significantly scale up its artificial intelligence (AI) development and cloud computing capacities in Spain."
-    publishedDateTime: 2024-02-21T07:59:00Z
-    webUrl: "https://techreport.com/news/microsoft-to-invest-2-1-billion-in-ai-and-cloud-growth-in-spain/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 34
   - title: "Microsoft Will Be One Of The Biggest Beneficiaries Of Artificial Intelligence"
     excerpt: "Microsoft is uniquely positioned to capitalize on the trends of the future and combine them with its own products. And this combination is likely to result in tremendous value for their customers. In addition, it is likely that Microsoft will gain market ..."
     publishedDateTime: 2024-02-24T11:15:00Z

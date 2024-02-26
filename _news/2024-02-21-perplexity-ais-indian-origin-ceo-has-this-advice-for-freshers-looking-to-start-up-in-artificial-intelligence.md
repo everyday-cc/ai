@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "5 AI Accounting Tools For Freelancers Running A Side Hustle In 2024"
-    excerpt: "Tracking expenses is not exactly what you set out to do as a freelancer. But with these AI-powered accounting tools, you'll be able to get back to doing what you love."
-    publishedDateTime: 2024-02-21T08:52:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/"
+  - title: "AI-driven evolution of low-code software development in India"
+    excerpt: "Artificial Intelligence (AI) is orchestrating a paradigm shift across industries, and its transformative influence on the software development landscape, particularly within the context of low-code development is becoming increasingly evident."
+    publishedDateTime: 2024-02-24T05:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/lite/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d5b9044c575d8bd5bc0be8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-23T154757.676.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "UDSIVqBgs/ws1wUTIyNO9Ndw+ad/ss/munn5c/j9aDQPN6K8pwCBY4/M0RRZIF9oaz55L37OD7tUWSt7Qtq5kO6mB2BDTwb1LKnmWwqvdYw9qnXFCeLZ2iI+l8Q1R/OwTPD29l5Sr9u1+QErpSoc+U5auk0MjOFFktW+GQAN3Sns8zzehZ/uSEbr+6BqAm9dnXoJnqL50j4VRAXinZwrsxpPx/5i15xQSHWzctg22P4AXHVYgf2/VYlY/dvT7iIrr1aCKD4xnvPBCPT0bdYs4SxkdKVKDNu/qy5mxObq440NxrqRhMgB4HIW2OSIJN51PCF+a+edNTgO6mBFqqDsUQ64VUzOcme4ONEHjcVTRP/UIoff3bZIbDGdDm42OJ3wFFHmT6j3u7CaVR8KUn86NRRwuU9VEOS37nvCP9mEnQ6yYMH8MeUqjj4sP6SxS7S4oAaF/KFsGTl1o74HivGbxuf8cu0UwQZnOfLcL9stdGVZQNWIlG6Zewi+9eR5VT40wuLsNMpdzTmeSzYL0YVsQA==;oxsuw8cbVuQJYccnHlmIUg=="

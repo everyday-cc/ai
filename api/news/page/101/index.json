@@ -2,6 +2,221 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-11-30-accelerating-gene-therapy-production.md",
+      "title": "Accelerating Gene Therapy Production",
+      "excerpt": "A key challenge for gene therapy is to minimize the dosage while concurrently devising more targeted delivery vectors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/topics/bioprocessing/accelerating-the-production-of-gene-therapies-with-ai-and-teamwork/",
+      "originalUrl": "https://www.genengnews.com/topics/bioprocessing/accelerating-the-production-of-gene-therapies-with-ai-and-teamwork/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks.md",
+      "title": "AWS CEO bats for responsible AI, says need to unlock GenAI's full potential while mitigating risks",
+      "excerpt": "He affirmed that AWS is ready to help businesses reinvent ... training and generative artificial intelligence (AI) applications. The top honcho of Amazon's cloud computing unit said Generative ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks/105590184",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks/105590184",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-105590184,imgsize-78510,width-1200,height=765,overlay-etcio/artificial-intelligence/aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T20:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-google-deepminds-new-ai-tool-helped-create-more-than-700-new-materials.md",
+      "title": "Google DeepMind’s new AI tool helped create more than 700 new materials",
+      "excerpt": "Using AI models to come up with new materials is not a novel idea. The Materials Project, a program led by Kristin Persson at Berkeley Lab, has used similar techniques to discover and improve the stability of 48,000 materials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/11/29/1084061/deepmind-ai-tool-for-new-materials-discovery/",
+      "originalUrl": "https://www.technologyreview.com/2023/11/29/1084061/deepmind-ai-tool-for-new-materials-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/11/A-Lab-Lawrence-Berkeley-National-Laboratory-Credit_-Marilyn-Sargent_Berkeley-Lab_1.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/11/29/1084061/deepmind-ai-tool-for-new-materials-discovery/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/29/1084061/deepmind-ai-tool-for-new-materials-discovery/amp/",
+      "publishedDateTime": "2023-11-29T19:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-how-does-wnij-use-artificial-intelligence-in-the-newsroom.md",
+      "title": "How does WNIJ use artificial intelligence in the newsroom?",
+      "excerpt": "No, robots do not write our stories at WNIJ. We don't use fake bylines either. But we do use some applications in our newsroom that help our reporters work more efficiently while making sure our stories are discoverable on the web.",
+      "sourceUrl": null,
+      "webUrl": "https://www.northernpublicradio.org/wnij-news/2023-11-29/how-does-wnij-use-artificial-intelligence-in-the-newsroom",
+      "originalUrl": "https://www.northernpublicradio.org/wnij-news/2023-11-29/how-does-wnij-use-artificial-intelligence-in-the-newsroom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/b52be6e/2147483647/strip/true/crop/1280x672+0+91/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F24%2F56c628bc467fab254d29f87a9a7e%2Fnote-3047435-1280.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T19:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Northern Public Radio",
+        "domain": "northernpublicradio.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-googles-deepmind-finds-22m-crystal-structures-in-materials-science-win.md",
+      "title": "Google’s DeepMind finds 2.2M crystal structures in materials science win",
+      "excerpt": "Google DeepMind researchers have discovered 2.2 million crystal structures that open potential progress in fields from renewable energy to advanced computation, and show the power of artificial intelligence to discover novel materials.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/?view=mobile",
+      "originalUrl": "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/?view=mobile",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/deepmindlist-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T18:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-m-dcps-students-can-apply-for-new-artificial-intelligence-magnet-program.md",
       "title": "M-DCPS students can apply for new Artificial Intelligence Magnet Program",
       "excerpt": "Artificial intelligence (AI), a cutting-edge programming technology, has arrived at Miami-Dade County Public Schools (M-DCPS). “I enjoy learning about the new codes, new concepts in AI and how computers can help people,",
@@ -853,271 +1068,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-ethics-in-an-age-of-privacy-and-regulation.md",
-      "title": "Ethics In An Age Of Privacy And Regulation",
-      "excerpt": "Ultimately, it is up to manufacturers, integrators, resellers and their partners to take the steps necessary to avoid both intentional and accidental misuse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/29/ethics-in-an-age-of-privacy-and-regulation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/29/ethics-in-an-age-of-privacy-and-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2ae560f07ba1a1fade19d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1330,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/29/ethics-in-an-age-of-privacy-and-regulation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/29/ethics-in-an-age-of-privacy-and-regulation/amp/",
-      "publishedDateTime": "2023-11-29T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-how-ai-could-transform-wall-street-and-personal-finance.md",
-      "title": "How AI Could Transform Wall Street And Personal Finance",
-      "excerpt": "From lightning-fast settlements to fortified cybersecurity, artificial intelligence is the tidal wave reshaping finance on Wall Street.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jaimecatmull/2023/11/29/how-ai-could-transform-wall-street-and-personal-finance/",
-      "originalUrl": "https://www.forbes.com/sites/jaimecatmull/2023/11/29/how-ai-could-transform-wall-street-and-personal-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65661a178acaebd59a6e3c8e/0x0.jpg?format=jpg&crop=3789,2131,x0,y4,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jaimecatmull/2023/11/29/how-ai-could-transform-wall-street-and-personal-finance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaimecatmull/2023/11/29/how-ai-could-transform-wall-street-and-personal-finance/amp/",
-      "publishedDateTime": "2023-11-29T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-ai-model-predicts-breast-cancer-risk-without-racial-bias.md",
-      "title": "AI Model Predicts Breast Cancer Risk Without Racial Bias",
-      "excerpt": "The predictive rate of both DCIS and invasive cancer was 0.71 across all races. The AUC in predicting DCIS was 0.77 in non-white patients and 0.71 in white patients. The AUC in predicting invasive cancer was 0.72 in non-white patients and 0.71 in white patients.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-model-predicts-breast-cancer-risk-without-racial-bias-1032857687",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-model-predicts-breast-cancer-risk-without-racial-bias-1032857687",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2285186/New_RSNA_Signature_Logo.jpg",
-          "width": 400,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T10:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-ai-fatigue-sales-challenges-and-the-problem-of-getting-big-inside-growing-tension-at-aws.md",
-      "title": "AI fatigue, sales challenges, and the problem of getting big: Inside growing tension at AWS",
-      "excerpt": "AWS is the dominant cloud provider. That success brings new challenges. The emergence of generative AI is adding to internal tensions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-aws-ai-fatigue-sales-challenges-2023-11",
-      "originalUrl": "https://www.businessinsider.com/amazon-aws-ai-fatigue-sales-challenges-2023-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65661a1cfe5bc6545ebcf3d1?width=700",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales",
-        "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-microsoft-mlnet-30-expands-deep-learning-capabilities.md",
-      "title": "Microsoft ML.NET 3.0 expands deep learning capabilities",
-      "excerpt": "Update to the machine learning framework for .NET developers brings new capabilities in object detection, named entity recognition, and question answering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/04/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large-100946747-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.amp.html",
-      "publishedDateTime": "2023-11-29T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

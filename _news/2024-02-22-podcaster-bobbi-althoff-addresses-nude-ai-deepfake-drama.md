@@ -23,6 +23,22 @@ images:
     height: 833
     isCached: true
 
+related:
+  - title: "The law is not keeping up with AI deepfake fraud, and it will only get worse"
+    excerpt: "The past few weeks have seen progressively disruptive spikes in the prevalence of the generative algorithmic tools collectively known as AI."
+    publishedDateTime: 2024-02-23T17:36:00Z
+    webUrl: "https://www.biometricupdate.com/202402/the-law-is-not-keeping-up-with-ai-deepfake-fraud-and-it-will-only-get-worse"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/19133926/deepfake-detection-scaled.jpg"
+        width: 1992
+        height: 2048
+        isCached: true
+
 secured: "/oXhFK+1quRO1ppx3AkVk0M7ie9DR/QNZv4BVmB9rlXMVYttc9YqFHzA9sp7X2rOCeuM6pz3cg29JViQKjRYvSyh6pfAhiPVJw5Guy2b3uIUXuNlCo/2y+8/qGZ+akQxZ2kiEx7g+NELP6EIN7UprlFAJqQn9RXy3QY6meKpdB1p58y+ewKGUPdw9Xfjy8S97WlJfxylAx0Xh45dZ28LBf1JBmQOqpCRC0sl2iYmOBSHWL9Iv0pV6UXL5ptpAjKS1gq1JPulObLZ7de/0zl13FhssHF8LD0ckoCCe/AWk3KMJP4ziQfPRI4yKNqdXN76DjJzQAKXTStZSlNqgOMRkFgauhj3eeuBD55CnNrXoeBqEt8lt2R6v/A7OYGzDuYPU5eQflzjJYUz8NMshmeZRxrqzAtXwqIJ7xImghHBg33+68D1ZNg6R21scAZLe/nQ9MSfAnoTeNnE4BHaJy8qINa0nQ4cfCW41f9DPkUx/jPCjNnip40AVcwD041wr3EzpSpZC5XD3+4bnea1+gYtvA==;Nzv42cV2ldWV2Mdnw2bmOg=="
 ---
 

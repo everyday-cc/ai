@@ -2,6 +2,261 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-19-microsoft-backed-openai-valued-at-80bn-after-company-completes-deal.md",
+      "title": "Microsoft-backed OpenAI valued at $80bn after company completes deal",
+      "excerpt": "Company to sell existing shares in ‘tender offer’ led by venture firm Thrive Capital, in similar deal as early last year Microsoft-backed OpenAI has completed a deal that values the artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
+      "originalUrl": "https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/31d22fd8fcc34bb0ab7a9da447f294d8138108f9/0_142_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=cf647d3966eb3d26240a50524fea27e7",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
+      "publishedDateTime": "2024-02-19T10:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-ios-trojan-collects-face-and-other-data-for-bank-account-hacking.md",
+      "title": "iOS Trojan Collects Face and Other Data for Bank Account Hacking",
+      "excerpt": "Chinese hackers use Android and iOS trojans to obtain information needed to steal money from victims’ bank accounts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/",
+      "originalUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securityweek.com/wp-content/uploads/2023/03/spyware.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/amp/",
+      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/amp/",
+      "publishedDateTime": "2024-02-19T10:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecurityWeek",
+        "domain": "securityweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good.md",
+      "title": "I tested Meta's Code Lama with 3 AI coding challenges that ChatGPT aced - and it wasn't good",
+      "excerpt": "Meta CEO Mark Zuckerberg recently unveiled Code Llama, a 70B parameter AI designed for coding. But how does it stack up against giants like ChatGPT? I put it to the test.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
+      "originalUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1ccf148eef076cac3e9b8d3a9942ad0f45134b0b/2024/02/19/91f4a2a2-3674-4726-9ea0-825a6c9f6629/gettyimages-699283090.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
+      "publishedDateTime": "2024-02-19T08:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-googles-ai-boss-says-scale-only-gets-you-so-far.md",
+      "title": "Google’s AI Boss Says Scale Only Gets You So Far",
+      "excerpt": "In recent months, Hassabis has overseen a dramatic shift in pace of research and releases with the rapid development of Gemini, a ”multimodal” AI model that already powers Google’s answer to ChatGPT and a growing number of Google products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/",
+      "originalUrl": "https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65cff9cd4172e5e20e48edbb/191:100/w_1280,c_limit/Demis-Hassabis-Q&A-Business-1487212367.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year.md",
+      "title": "Tech giants promise to combat fraudulent AI content in mega elections year",
+      "excerpt": "Tech companies like Google, Meta, and OpenAI have signed an accord to filter through deceptive AI-generated content in 2024, a year with more elections than any other in history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
+      "originalUrl": "https://www.zdnet.com/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/75dbdf1f3a53cc19d05a2a68eed3479af024822e/2024/02/19/063d36af-d818-451b-8d0a-916c7feb57f1/gettyimages-1415754429.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/",
+      "publishedDateTime": "2024-02-19T07:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-wife-of-tesla-employee-killed-in-perhaps-first-full-self-driving-crash-says-they-were-guinea-pigs.md",
       "title": "Wife of Tesla employee killed in perhaps first 'Full Self-Driving' crash says they were 'guinea pigs'",
       "excerpt": "Tesla's Full Self-Driving is still in beta testing.Niall Carson - PA Images via Getty Images Erik Rossiter, a friend of Ohain's who was in the vehicle at the time of the 2022 crash and survived ...",
@@ -1000,213 +1255,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-multiple-view-geometry-in-computer-vision.md",
-      "title": "Multiple View Geometry in Computer Vision",
-      "excerpt": "A basic problem in computer vision is to understand the structure of a real world scene given several images of it. Techniques for solving this problem are taken from projective geometry and photogrammetry. Here, the authors cover the geometric principles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/gb/universitypress/subjects/computer-science/computer-graphics-image-processing-and-robotics/multiple-view-geometry-computer-vision-2nd-edition",
-      "originalUrl": "https://www.cambridge.org/gb/universitypress/subjects/computer-science/computer-graphics-image-processing-and-robotics/multiple-view-geometry-computer-vision-2nd-edition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-17T11:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond.md",
-      "title": "AI’s pivotal role in shaping the future of finance in 2024 and beyond",
-      "excerpt": "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-16T181908.967.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/",
-      "publishedDateTime": "2024-02-17T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-ai-security-infrastructure-needed-after-malicious-foreign-actors-use-openai-to-train-operatives-expert-says.md",
-      "title": "AI security infrastructure needed after 'malicious' foreign actors use OpenAI to train operatives, expert says",
-      "excerpt": "OpenAI named five hacker groups affiliated with governments in China, Russia, North Korea and Iran who used their artificial intelligence tools for training and research purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says",
-      "originalUrl": "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451d7a28-5ceb-42ad-b0e1-c8f9bd7377b7/b53347c0-06fb-4863-9de7-c0ae58861e24/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp",
-      "publishedDateTime": "2024-02-17T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-somalilands-struggle-for-recognition-amidst-global-geopolitical-dynamics.md",
-      "title": "Somaliland’s struggle for recognition amidst global geopolitical dynamics",
-      "excerpt": "The Republic of Somaliland finds itself at a critical juncture in its journey for international recognition. The catalyst for this seismic development",
-      "sourceUrl": null,
-      "webUrl": "https://www.thereporterethiopia.com/38680/",
-      "originalUrl": "https://www.thereporterethiopia.com/38680/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-17T08:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ethiopian",
-        "domain": "thereporterethiopia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race.md",
-      "title": "After Sam Altman, SoftBank founder Masayoshi Son joins AI chip race",
-      "excerpt": "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion for his AI venture",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race",
-      "originalUrl": "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/uploads/2024/02/After-Sam-Altman-SoftBank-founder-Masayoshi-Son-joins-AI-chip-race_pic-courtesy-news-agency.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp",
-      "publishedDateTime": "2024-02-17T06:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

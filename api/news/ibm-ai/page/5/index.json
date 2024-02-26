@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-20-five-machine-learning-types-to-know.md",
+      "title": "Five machine learning types to know",
+      "excerpt": "Explore the five major machine learning types, including their unique benefits and capabilities, that teams can leverage for different tasks.\nThe post Five machine learning types to know appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/machine-learning-types/",
+      "originalUrl": "https://www.ibm.com/blog/machine-learning-types/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T20:16:52Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-unlocking-success-key-components-of-a-winning-customer-experience-strategy.md",
       "title": "Unlocking success: Key components of a winning customer experience strategy",
       "excerpt": "Customer experience is a key part of brand identity. Here are seven components to include in your customer experience strategy.\nThe post Unlocking success: Key components of a winning customer experience strategy appeared first on IBM Blog.\n",
@@ -1307,48 +1350,6 @@
       "featuredContent": null,
       "highlight": null,
       "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-promote-resilience-and-responsible-emissions-management-with-the-ibm-maximo-application-suite.md",
-      "title": "Promote resilience and responsible emissions management with the IBM Maximo Application Suite",
-      "excerpt": "Optimization can help you predict and prevent issues, reduce emissions, ensure compliance and create a safer and healthier work environment.\nThe post Promote resilience and responsible emissions management with the IBM Maximo Application Suite appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/promote-resilience-and-emissions-management-for-asset-management-operations-with-maximo-application-suite-mas/",
-      "originalUrl": "https://www.ibm.com/blog/promote-resilience-and-emissions-management-for-asset-management-operations-with-maximo-application-suite-mas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
       "tags": null,
       "images": null,
       "content": "",

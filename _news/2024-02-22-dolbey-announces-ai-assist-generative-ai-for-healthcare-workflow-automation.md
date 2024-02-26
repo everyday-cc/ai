@@ -25,82 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "Stability announces Stable Diffusion 3, a next-gen AI image generator"
-    excerpt: "Larger models also require more VRAM on GPU accelerators to run. Since 2022, we've seen Stability launch a progression of AI image-generation models: Stable Diffusion 1.4, 1.5, 2.0, 2.1, XL, XL Turbo, and now 3. Stability has made a name for itself as ..."
-    publishedDateTime: 2024-02-22T13:28:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/"
+  - title: "The Best Generative AI Courses Money Can Buy"
+    excerpt: "Embark on a journey to master generative AI with the best paid courses available, covering everything from principles and prompt engineering to business applications."
+    publishedDateTime: 2024-02-26T05:58:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sd3_cham_hero_1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "AI startup Jasper acquires image generator Clipdrop from Stability AI"
-    excerpt: "U.S. writing assistant startup Jasper has acquired Clipdrop, an artificial intelligence-powered photo application from Stability AI, the company told Reuters on Wednesday, as Jasper expands its offerings to corporates."
-    publishedDateTime: 2024-02-23T02:34:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-jasper-acquires-image-generator-clipdrop-from-stability-ai-71708611796468.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-jasper-acquires-image-generator-clipdrop-from-stability-ai-71708611796468.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-jasper-acquires-image-generator-clipdrop-from-stability-ai-71708611796468.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/02/22/1600x900/technology-5254039_1280_1708614115364_1708614134924.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65dc3646f50b2433cd62402e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
         isCached: true
-  - title: "AI startup Jasper acquires image generator Clipdrop from Stability AI"
-    excerpt: "Feb 22 (Reuters) - U.S. writing assistant startup Jasper has acquired Clipdrop, an artificial intelligence-powered photo application from Stability AI, the company told Reuters on Wednesday, as Jasper expands its offerings to corporates. The deal ..."
-    publishedDateTime: 2024-02-22T13:37:00Z
-    webUrl: "https://www.reuters.com/markets/deals/ai-startup-jasper-acquires-image-generator-clipdrop-stability-ai-2024-02-22/"
+  - title: "American Honda IT to fuel innovation with generative AI"
+    excerpt: "As for that AI strategy, American Honda’s deep experience with machine learning positions it well to capitalize ... and use of both AWS and Microsoft Azure. The key to a successful AI strategy, in part, is the quality and cleanliness of both structured ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html"
+    ampWebUrl: "https://www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html?amp=1"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1309096/american-honda-it-to-fuel-innovation-with-generative-ai.html?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2024/02/bob-brizendine-stylized_1600x900px.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "The Best 7 Tech Stocks to Buy for AI Cloud Exposure"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Cloud AI combines the power of artificial intelligence with the power of cloud"
+    publishedDateTime: 2024-02-22T03:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-best-7-tech-stocks-to-buy-for-ai-cloud-exposure-1033090179"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Companies Need To Get Onboard The Generative AI Train"
+    excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
+    publishedDateTime: 2024-02-25T19:21:00Z
+    webUrl: "https://www.forbes.com/sites/sylvainduranton/2024/02/25/companies-need-to-get-onboard-the-generative-ai-train/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 47
-  - title: "Stable Diffusion 3 AI image generator launched by Stability AI"
-    excerpt: "This level of comprehension is a testament to the strides made in AI’s ability to interpret human language and translate it into coherent visual representations. What sets Stable Diffusion 3 apart even further is its commitment to community-driven progress."
+  - title: "Humane Just Gave Everyone a Huge Incentive To Buy an AI Pin"
+    excerpt: "Humane has announced that everyone who buys an Ai Pin by March 31, 2024 will get the first three months of its required subscription ($30 per month) for free. Additionally, the company's making shipping for the Ai Pin free."
+    publishedDateTime: 2024-02-23T16:45:00Z
+    webUrl: "https://www.inverse.com/tech/humane-ai-pin-subscription-three-months-free"
+    type: article
+    provider:
+      name: Inverse
+      domain: inverse.com
+    quality: 37
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2024/2/23/5b03b5d1-929d-486a-831a-d6c5283b66d1-humane-ai-pin-interface.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Best AI Image Generators in 2024"
+    excerpt: "Generally considered the best AI image tool, Midjourney was developed by the independent research lab Midjourney, Inc, and is still in open beta. Critics say this tool generates complex, relatively high-quality imagery, but also requires a little finessing ..."
     publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/stable-diffusion-3/"
+    webUrl: "https://tech.co/news/best-ai-image-generators"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Stable-Diffusion-3-AI-image-generator.jpg"
-        width: 1280
-        height: 808
-        isCached: true
-  - title: "Stability AI announces early preview of Stable Diffusion 3 text-to-image model"
-    excerpt: "Open generative artificial intelligence startup Stability AI Ltd. today announced the early preview of Stable Diffusion 3, the next generation of its highly advanced text-to-image AI model. The new model makes a large number of improvements over its ..."
-    publishedDateTime: 2024-02-22T18:00:00Z
-    webUrl: "https://siliconangle.com/2024/02/22/stability-ai-announces-stable-diffusion-3-early-preview/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/stable-diffusion-3.png"
-        width: 900
-        height: 514
-        isCached: true
-  - title: "Google pauses AI image generation of people after diversity backlash"
-    excerpt: "Tech giant responds to complaints that Gemini model was creating images of people in historically inaccurate contexts"
-    publishedDateTime: 2024-02-22T11:43:00Z
-    webUrl: "https://www.ft.com/content/979fe974-2902-4d78-8243-a0cff68e630a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: Tech.co
+      domain: tech.co
+    quality: 19
 
 secured: "ZwSP78WDJwvs5C3E+uvhEvHt98ch16Xi1l1EeCKFRvM50koMAHdtltB2AMU0qaCC3m7sU86DHT0rBBu4Xz3aHhWN96BRGF6bo/rVirlUWoZSu1u4c6z7VfKSOGCi46rcqhiU957I4QOk0FLnSK45K8+T9Aj1TsQWJvGklMhtYPw1o+yc3ib69xTyyoaplN8222i1DRjx6YYaTZVpxz8vg8OIIe8VphGpOtCczXYqLLuqaDv2nbAomO0kywrH6MQum024+6r65ddEiOtiK4w+FoW66K7aQDFBSd5VAOsCNz1OEcT49ut2kWXOHXvGUkJr3MiWe8ekFJGCYeqgBrOoJOeh5nugLrw6eLXY4c2nAh4=;Vx3A6ckOdqCci7EA1O01gw=="
 ---

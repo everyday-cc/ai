@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/"
 type: article
 quality: 101
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wipro and Intel Foundry Partner for Innovate AI Chip Manufacturing"
-    excerpt: "Wipro and Intel Foundry Partner for Innovate AI Chip Manufacturing - Wipro Limited , a leading technology services and consulting firm, has revealed an enhanced partnership"
-    publishedDateTime: 2024-02-21T08:40:00Z
-    webUrl: "https://www.siliconindia.com/news/general/wipro-and-intel-foundry-partner-for-innovate-ai-chip-manufacturing-nid-227989-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/2NEZSVXJ.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Intel unveils its new Intel 14A process node, ready for the future of AI chip production"
     excerpt: "capabilities to help customers realize their AI ambitions. Intel Foundry announces design win: Microsoft CEO Satya Nadella shares that Microsoft has chosen a chip design it plans to produce on the 18A process. Ecosystem partners including Synopsys ..."
     publishedDateTime: 2024-02-21T14:35:00Z

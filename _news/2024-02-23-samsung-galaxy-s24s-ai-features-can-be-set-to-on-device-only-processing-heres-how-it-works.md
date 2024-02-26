@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Galaxy AI Coming to Samsung S23, Z Flip, Z Fold 5, and Galaxy Tablets"
+    excerpt: "One of the most touted Galaxy AI features is called Circle to Search, which lets you search for something that you see on your screen."
+    publishedDateTime: 2024-02-22T03:00:00Z
+    webUrl: "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00gGCdUOwn2gbxeJgLZKAYU-1.fit_lim.size_1200x630.v1708557191.jpg"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "Samsung says more Galaxy devices will get AI features, announces major update"
     excerpt: "With this update, more Samsung Galaxy users can take advantage of the communication-enhancing AI features on AI-supported models"
     publishedDateTime: 2024-02-22T10:42:00Z
@@ -82,14 +96,42 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "New One UI 6.1 Update Brings Galaxy AI To More Galaxy Devices"
-    excerpt: "Samsung accelerates the global expansion of mobile AI by enabling users to experience Galaxy AI on previous models. SEOUL, Korea– Samsung E"
-    publishedDateTime: 2024-02-22T14:33:00Z
-    webUrl: "https://menafn.com/1107886207/New-One-UI-61-Update-Brings-Galaxy-AI-To-More-Galaxy-Devices"
+  - title: "Samsung is bringing these Galaxy AI features to older devices"
+    excerpt: "At its core, the tool essentially adds a translation tool to any phone call powered by AI. When speaking to someone who understands a different language, Live Translate will translate and regenerate your voice into that language. When the other party ..."
+    publishedDateTime: 2024-02-22T18:13:00Z
+    webUrl: "https://9to5google.com/2024/02/22/samsung-ai-features-older-devices/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/Galaxy-S24-Generative-Edit-example-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Samsung Galaxy S23 WILL Get Galaxy AI Next Month"
+    excerpt: "Here’s a quick rundown of what you’ll be able to do with Samsung’s Galaxy AI ... Real-time Call Translation: The update will enable real-time translation during calls, allowing users to understand conversations in foreign languages without language ..."
+    publishedDateTime: 2024-02-25T00:00:00Z
+    webUrl: "https://www.knowyourmobile.com/news/samsung-galaxy-s23-will-get-galaxy-ai-next-month/"
+    type: article
+    provider:
+      name: Know Your Mobile
+      domain: knowyourmobile.com
+    quality: 39
+    images:
+      - url: "https://www.knowyourmobile.com/wp-content/uploads/2024/01/Samsung-Galaxy-AI.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Samsung One UI 6.1 update brings AI to more Galaxy smartphones"
+    excerpt: "Samsung has announced that it is bringing its AI tools to more Samsung Galaxy devices with the release of the new Samsung One UI 6.1 software update. This"
+    publishedDateTime: 2024-02-22T14:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/samsung-one-ui-6-1-update-brings-ai-to-more-galaxy-smartphones-22-02-2024/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 19
 
 secured: "JbKn9P0jtuJQPggyucebg7deeyt7rt+wS5nXR7uN04RDINGPG4pNdEzQPLeZV87Jd19k+swG5NQGbvDogGCIL73caOKTwvsBRBRz1dMENqW2FrvYwkynoiRvoXhPpdF8/Rly8PC+Rt5lnP3y4IAGEsdiJpC1fdK/Jj1rIL5s/UuFILlWn/v6LpoqBdYYuF3zzYKetHA4smyD94ENutUpSKj67031Cu4OiiDCsUWgfhKYmW1wyTTcNJyFLTGXzLjIv6VMzGptAgwRJ6y2Y4h2GCFskiSGqIuwVjYbaEMQHKPe33XgO0qRxv80I/VNlJw8ITULGZDnUiZfCKee7bQOeEaP96EUAQnk8yaa33JDdB8=;DfqUhYKCRDFOe0sBQdpbGg=="

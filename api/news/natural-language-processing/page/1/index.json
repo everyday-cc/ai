@@ -425,21 +425,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-22-samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update.md",
-      "title": "Samsung says more Galaxy devices will get AI features, announces major update",
-      "excerpt": "With this update, more Samsung Galaxy users can take advantage of the communication-enhancing AI features on AI-supported models",
+      "path": "_news/2024-02-22-galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets.md",
+      "title": "Galaxy AI Coming to Samsung S23, Z Flip, Z Fold 5, and Galaxy Tablets",
+      "excerpt": "One of the most touted Galaxy AI features is called Circle to Search, which lets you search for something that you see on your screen.",
       "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473.html",
+      "webUrl": "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets",
+      "originalUrl": "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 149,
       "tags": null,
       "images": [
         {
-          "url": "https://www.hindustantimes.com/ht-img/img/2024/02/22/1600x900/UI_61_update_1708598318695_1708598318930.jpg",
-          "width": 1600,
-          "height": 900,
+          "url": "https://i.pcmag.com/imagery/articles/00gGCdUOwn2gbxeJgLZKAYU-1.fit_lim.size_1200x630.v1708557191.jpg",
+          "width": 1119,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -447,14 +447,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html",
-      "publishedDateTime": "2024-02-22T10:42:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T03:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -463,8 +472,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
