@@ -83,6 +83,15 @@ related:
       name: Fierce Wireless
       domain: fiercewireless.com
     quality: 34
+  - title: "ARway Corporation: ARway.ai Expanding Its Spatial Computing Platform, Hires New AI Computer Vision and Machine Learning Ph.D Engineer"
+    excerpt: "With a distinguished background in robotics and machine learning, Mr. Sarkar brings a wealth of experience from prestigious institutions and leading-edge projects. With an academic foundation holding a Ph.D. in Control and Automation from the Indian ..."
+    publishedDateTime: 2024-02-26T12:01:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61506595-arway-corporation-arway-ai-expanding-its-spatial-computing-platform-hires-new-ai-computer-vision-and-machine-learning-ph-d-engineer-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 20
 
 secured: "4zidbtQEOaK2UguX9+jLfz+gjGs7d2gnbdI23XJiNn3Ql1oKiVyRyOUJ8Z//s/ffD49VG1p4emCBsnqUMD5gtcu843FAvum1VgG7xrWg9HwenPHffGbQeYgSSA87Q48PYgpbUPqmONpzXISdFP1nyQnm17/R5nBrKZwXsyS9HJ9uiS7RyOjYGSyPgfJhm5AmhhJwJoHKsqjgrpdnZpZxZeJKkvWHBG3wdBZqJk5dbU4ZheFkz57CxQNcmSGj7o/yZ73I50IFWg7+i0Vmq3fBBEigGDwfUJ/LkEPmrkZGVb9fWdcp11RMaPerOrzDHPlnyeGmhstFjxi5FeaQDrsK8L1TLhuvCVoOXMiuD50G2oE=;SL9rN1gcSk4h3zGhvmC+VA=="
 ---

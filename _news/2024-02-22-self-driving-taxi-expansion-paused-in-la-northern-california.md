@@ -50,15 +50,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "California regulators postpone decision on Waymo's self-driving expansion plan"
-    excerpt: "Waymo will wait a little longer to hear whether California regulators approve the self-driving tech company's ambitious expansion request. The state's Public Utilities Commission has postponed its decision on whether to approve Waymo's application ..."
-    publishedDateTime: 2024-02-21T15:57:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-waits-cpuc-approval-california"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 15
 
 secured: "Xj0Ic5WijdeWxpB+Q4QGGt16teFykPCISzdOy3wpuVDExi2hCDwcuCrKlr1YlENvbsvIsLyDSni1+MFmXsPhbz3x11a+NTPcD37w0F8uF0sJAJrmS1aBbmkZ1wGQnJSB2jCte6bkVN0y1JmDoH/EVpub7X0jybu2xdlFcYfPsQwyIiFkWqIYuXFFF+28KXwg5hygaTqEOkVSBqB+VbWddl5rNJwjAAVMoY5mkmONfj72OXw3lFV208Zy3kkCHosdGFZld1hEqN+2hyQ2pyArQ0/yi/zJAFJwzZllMoJ11jLJYKNqn8FNi64AGw9ytqhOFJHT6bD5jbITfMB//7lNT1CKIx1sLgsyeX4jATRscAY=;ZFl/y9hs14Ayzx3glVKicA=="
 ---

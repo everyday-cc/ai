@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-13-light-stimulated-adaptive-artificial-synapse-based-on-nanocrystalline-metal-oxide-film.md",
+      "title": "Light-stimulated adaptive artificial synapse based on nanocrystalline metal-oxide film",
+      "excerpt": "A new publication from Opto-Electronic Science; DOI  <a href=\" target=\"_blank\">10.29026/oes.2023.230016  discusses light-stimulated adaptive artificial synapse based on nanocrystalline metal-oxide film.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1011030",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1011030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/77863e73-0c4c-435f-bf90-7acb9181cdf7/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-vodafone-advances-its-machine-learning-skills-with-aws-deepracer-and-accenture.md",
       "title": "Vodafone advances its machine learning skills with AWS DeepRacer and Accenture",
       "excerpt": "Vodafone is transitioning from a telecommunications company (telco) to a technology company (TechCo) by 2025, with objectives of innovating faster, reducing costs, improving security, and simplifying operations. Thousands of engineers are being onboarded to contribute to this transition. By 2025, Vodafone",
@@ -1246,49 +1289,6 @@
       "provider": {
         "name": "Just Auto",
         "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-new-deep-learning-challenge-to-estimate-breast-density-from-mammograms.md",
-      "title": "New deep learning challenge to estimate breast density from mammograms",
-      "excerpt": "A new deep learning challenge has been launched by the UEF Cancer AI research team at the University of eastern Finland, led by senior researcher Hamid Behravan, PhD. The challenge aims to develop an architecture capable of automatically estimating the breast percentage density from mammograms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1010191",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1010191",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/248b62b3-17ad-45f8-9eb4-0f5396ac3067/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 302,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

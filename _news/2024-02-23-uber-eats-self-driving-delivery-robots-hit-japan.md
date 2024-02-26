@@ -24,17 +24,6 @@ images:
     height: 801
     isCached: true
 
-related:
-  - title: "Uber Eats to roll out self-driving robot chefs in Tokyo!"
-    excerpt: "Uber Eats is set to launch autonomous food delivery robots in Tokyo in partnership with Cartken and Mitsubishi Electric. The robots, called Model C, can carry up to 27 litres of cargo and navigate sidewalks at a walking pace."
-    publishedDateTime: 2024-02-21T14:57:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/tech/uber-eats-to-roll-out-self-driving-robot-chefs-in-tokyo/articleshow/107889521.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 21
-
 secured: "SFuaDaNBe6Stblzyyzz8syhzH5s4r+8ztiA06senOi2NsdsW4t6fTkS9oP5vdfqYxacM/dxYWQJrnqNWIptdGLp4/1St/ymrTieEbzFzjI2V9V6q7sDmBhrcTYbWX0s5WLS3yjMSgAvP6jCR/GLkiom2rgXjzCip+iSoKlxLORTheEkp5MoNHdzXCgVo/oR0YBf24Q1bmsKGnHkKqNkDYMuXlrfvPPoFwj+ue9ot3T2RBvjQ8IASpOEACVDRhJJw4oKUdSvPoY8/EcLN74O9NCvYu5yw93lfaG93rB059pCD5U1lf0QCcYOAIScNPplE87uJ3/EtX0XXtZDWzUoBReLqYA/G77IOULfXDA6FvEQ3A7y1m4Yg63+YEPIfrfJXC3F+zuYZXaC76CvPppx+fhBjwJj6e4fXUeksYiI6J+6VpDYPaVyB5VPsz67IUdmYRCDsHFDIt9FCL+bd3yHls+nVk9Zq9tCQWz5pyIcxvfSyKlXoIgz9G/5kRCKxhS6IVdGyOatmd0ujUsDGbtktEA==;R6uiYzNp4wCZZNbv4PD1Nw=="
 ---
 

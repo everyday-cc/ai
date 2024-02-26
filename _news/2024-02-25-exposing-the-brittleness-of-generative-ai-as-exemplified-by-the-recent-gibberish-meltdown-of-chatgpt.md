@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
 type: article
 quality: 93
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -123,15 +123,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Inference.ai’s new generative AI chatbot takes the guesswork out of GPU sourcing"
-    excerpt: "Inference.ai offers an extensive selection of GPUs, with a fleet of 18 different processors from Nvidia Corp., including its most advanced H100 model. It also offers four models from Nvidia’s rival Advanced Micro Devices Inc., including the all-new MI300X that was specifically designed to handle generative AI workloads."
-    publishedDateTime: 2024-02-21T14:12:00Z
-    webUrl: "https://siliconangle.com/2024/02/21/inference-ais-new-generative-ai-chatbot-takes-guesswork-gpu-sourcing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
 
 secured: "wXYPMc6Jfsats7dqeaRCSX4qyHv4BuCSnrgLivIMFfltD0nh7ip4raT7HuIa4nPD5JbAzrodGzLgOEKHZgWrovjmJc99e8StPAV/YjBA2o/Qo+1Bs5NgMeUBV4VgWV2mS+RMGGhBcJEsFZ4DbdDk0m3U0tWqcWKJQWT9x8zHu4wMvLutxWvVQWnXKtvNpiYHdlmpMDkBneSLIjiLn9AdVC3BS3bpzfynxQTy4xbAgyLAIUDXUuvGksLUKpXQzKtVEL9A1HVxG6tlzZlma+E6tKa1GkH00ipJdc2OSujP5PS8gK6/IYrdbulqNTRWeVhtaalhCrlqmAXlhr8JjSJk89wAlb/9CWF/wjmUcdU8N+SRtQI1MVN/xJfc+/2hTm1HZ29+tbPjE92PeNx8kii4TyZArJKm2QEGwZthBSSDILwf9KI2O9zu3ze24UQp1jxs7vzrN2R+qh6JuRTYqip7xL36dl5q44/2YkMHdWjOttao+eLPc2A/KGgEDyCuQ95XxAdHeFJi8Dps0wllzvlSag==;0/3L+KAvbyupd9aFboy27g=="
 ---

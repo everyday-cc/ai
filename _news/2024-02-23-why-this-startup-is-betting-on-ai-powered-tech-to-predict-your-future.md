@@ -26,15 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "This startup is using AI to discover new materials"
-    excerpt: "While the world fixates on text-, image- and movie-generating AI, a startup headed by a former DeepMind senior researcher is developing GenAI tech to support the manufacturing of new physical materials. Orbital Materials — founded by Jonathan Godwin ..."
-    publishedDateTime: 2024-02-21T14:00:00Z
-    webUrl: "https://techcrunch.com/2024/02/21/this-startup-is-using-ai-to-discover-new-materials/"
+  - title: "Big tech rises on a promising AI future"
+    excerpt: "The Nikkei breaking fresh higher ground is the culmination of a 34-year roller-coaster journey for Japanese shares, which transitioned from being the most highly valued in the world to among the most undervalued. Now, investors are setting their sights on the sky is the limit."
+    publishedDateTime: 2024-02-22T20:18:00Z
+    webUrl: "https://www.fxstreet.com/analysis/big-tech-rises-on-a-promising-ai-future-202402222018"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 19
 
 secured: "y+QrNna+jaGE15iPFvraFllM20OrxtdgC9qFji9pTcb7DaZFasldPpqT2NJqTEabN42D5Oe4LqpfeXGCduhXFUaaMuEUxjuzbHtULPPARNR6eIFpFgNDVT1qUu4FfkGzS6Y39ZWM2PN6baZBy8Sx3hp+B9Q3S1GG2WrDmMomEY178h4bnmDVkkftNLwgvlXZpMYr7hPG0WPaJIPvjZlfRLVXsL8XfyghTWK9pfVh1YJaZ9LynbHef/LR0F0N0GVIQKUuxbajVkP2+AxvSx2mXTKO6LY7SWJVle16FzOgI9ZrsGuuAy+Cmk+Kj6O/qL5RMeNd+TBHgg8IxJnVsv75oZlSKzF//l/GO+jou6LSCFU=;8rCarQ0rQ/ZEh+v31u2wAA=="
 ---

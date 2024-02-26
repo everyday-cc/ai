@@ -47,6 +47,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "IMF Urges G20 Cooperation on Climate, Global AI Principles"
+    excerpt: "Cooperation by the G20, including through carbon pricing, reduced energy subsidies and border carbon adjustment mechanisms, could also help mitigate the effects of climate change and facilitate the green energy transition, the IMF said."
+    publishedDateTime: 2024-02-26T14:16:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2024-02-26/imf-urges-g20-cooperation-on-climate-global-ai-principles"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "VA puts AI use cases into ‘operational phase’ to meet its health care mission"
     excerpt: "VA has identified over 100 AI use cases so far. VA Chief Technology Officer Charles Worthington told members of the House VA Committee last week that 40 of them are in an “operational phase,” and being put to use in the field."
     publishedDateTime: 2024-02-23T02:01:00Z

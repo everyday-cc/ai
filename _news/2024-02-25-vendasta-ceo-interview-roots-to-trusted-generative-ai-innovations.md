@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1201
     height: 900
     isCached: true
+
+related:
+  - title: "FasterCapital welcomes innovative startup evolve media AI to its acceleration program"
+    excerpt: "With the exponential growth of cloud data and the increasing number of devices, the need for a solution like Evolve Media AI has never been more pressing. Evolve Media AI is based in the United States and is raising $1."
+    publishedDateTime: 2024-02-26T14:14:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/fastercapital-welcomes-innovative-startup-evolve-media-ai-to-its-acceleration-program-qftn3phm"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 10
 
 secured: "bDloeWo1gwGJ+Uud74HRr466rOEn5RCt6F6Xf6FeTxT7Qdk2vNbOCgQrPDyNCwdc1MuTCmf3Ue0znIh5VpBlnzwUYuoPu5u8WUjLPPIAsA+MiH1Nav/qdB0ErAcP8NGkHI27zzy7+JREeU82HHwEOlE87ZsXVtip18vRwDgT21oIevs1aO1xoQrJf1xsYDWfcxw4FO4SwhZHagUHKWAdDmJw1S1zszniBpQIOMna74k3rzAdMIaSHKs+bufNc6G4Ec/QeVRhc6ITedt1ii218OcSdxESulC77nrfwbids4zJWBW3zB88ue3YyZwim7bLsqe3T/5djUVd/arZ5cMDIVoPj3s4B5e5pQo8tJLqaA4UraZ+Lc9bl4KlfNcYtZ0EhpygEMs1JY1RwsR/hRguiWw72pLH9hdLvz2iP+dJfiH8bw6Jn3yU392GfTc6DcTejIywHeBgvc4ZNkfGmqGSfd1T/ML9bYtfjixS/yVVuWBxMENCbQyk74VCfJF09WJUUneiwgGZrxwjIUNg2aR3+w==;ciX3tUQTUBtzd6e0Q+ydZw=="
 ---

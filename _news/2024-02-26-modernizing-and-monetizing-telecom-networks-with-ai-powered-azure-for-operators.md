@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-
 webUrl: "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/"
 type: article
 quality: 100
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -88,6 +88,15 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 32
+  - title: "ARway Corporation: ARway.ai Expanding Its Spatial Computing Platform, Hires New AI Computer Vision and Machine Learning Ph.D Engineer"
+    excerpt: "With a distinguished background in robotics and machine learning, Mr. Sarkar brings a wealth of experience from prestigious institutions and leading-edge projects. With an academic foundation holding a Ph.D. in Control and Automation from the Indian ..."
+    publishedDateTime: 2024-02-26T12:01:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61506595-arway-corporation-arway-ai-expanding-its-spatial-computing-platform-hires-new-ai-computer-vision-and-machine-learning-ph-d-engineer-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 20
 
 secured: "+aaAn5QCu0VYNN1efb0xnUG8K50Fey+Qim/nXlxZxrYq5ohG5g6EN1iwbJTJ2ixvXnAB9Xeaejf5vjtwDg2EHTna9x5ehecyrBiLp7BSdpQhm6P9r8neygXZonvSQswnlfRZ25nElg8m0kgfpWsiV7asGkRBwq3Ql7fNjZ4+xlnrrGV3tI4EbDAkkG02Z47+rEdZnflEl6yr7QHlpGqa1l7DpereObEwx6iAp66hCnrdiJdJAkdMyY7DAe2kuT8NLz0+rudQMn4/q95+GAXOub+VIOnMMeOnPkqyf37y5AsGGHVMfnb/BkEtKy6AfAf0pNkzhrR42exMHAfXMN1kjRuJtlXSLTOKYDxXYHoW3rw=;mthFp7sLTpSJSMJep+0uJA=="
 ---

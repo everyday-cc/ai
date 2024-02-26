@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT is losing its mind and no one seems to know why"
-    excerpt: "Users of ChatGPT have shared screenshots of their interactions with the chatbot on social media after it started responding with nonsense."
-    publishedDateTime: 2024-02-21T15:12:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/65d62092a3bd891424f8e2e6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Hackers Could Use ChatGPT to Target 2024 Elections"
     excerpt: "T he rise of generative AI tools like ChatGPT has increased the potential for a wide range of attackers to target elections around the world in 2024, according to a new report by cybersecurity giant Crowdstrike."
     publishedDateTime: 2024-02-21T19:35:00Z
@@ -57,15 +41,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "ChatGPT has been generating bizarre nonsense (more than usual)"
-    excerpt: "Users shared ChatGPT’s strange , and at times esoteric-sounding responses through screenshots which show the model unexpectedly weaving between multiple languages, generating random words, and repeating phrases over and over again. Emojis, sometimes with no clear relation to users prompt questions, also frequently appeared."
-    publishedDateTime: 2024-02-21T20:00:00Z
-    webUrl: "https://www.popsci.com/technology/chatgpt-bizarre-nonsense/"
+  - title: "ChatGPT-4 vs Gemini Ultra identical prompt results comparison"
+    excerpt: "Learn more about the differences between ChatGPT-4 vs Gemini Ultra in this battle of identical prompt results. Compared to see which AI model"
+    publishedDateTime: 2024-02-22T09:31:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-4-vs-gemini-ultra/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 19
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/ChatGPT-4-vs-Gemini-Ultra-.jpg"
+        width: 1280
+        height: 744
+        isCached: true
   - title: "Why Was ChatGPT Suddenly Speaking Spanglish?"
     excerpt: "OpenAI's text-generation tool experienced a mysterious glitch on Tuesday. The results were sometimes funny, but show the dangers of relying too much on new technologies that can go awry in unexpected ways."
     publishedDateTime: 2024-02-21T19:38:00Z

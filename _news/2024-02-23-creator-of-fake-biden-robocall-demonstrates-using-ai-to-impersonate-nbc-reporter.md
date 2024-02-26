@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo204727877516"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo204727877516"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 800
         height: 567
         isCached: true
+  - title: "Democratic political operative admits he commissioned robocall of AI Biden"
+    excerpt: "Steve Kramer said ‘easy-to-use technology’ enabled him to send automated call while New Orleans magician says he was paid $150 to make it"
+    publishedDateTime: 2024-02-26T13:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2024/feb/26/steve-kramer-admits-he-commissioned-robocall-ai-biden-new-hampshire?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 15
 
 secured: "SFrxOG9GiCK8FD6fMc0PT1Jq6uPOgBZCDud1/k97TzwI5PcIWdmbQKcp2XYUH70cBVVNAKRWsUg0G02epePvQHY2ZjOBJtNFhwn6U8g1V5nOhY26KBRAQObP8mcEmZ6PWRKCHUzez0wvTuKUIua+GZWmiVRXnFDubeoL0gBOT2HNFqePGqG6Lgu6tPTZfyzs1Nv+bCcYQ1NG5pmWwiru8ZrFP6CvZI1ntPup+l/eABJm4cNDisd1mbBgg69lRT4/lbR2nJoo7Q2jzpl/M6qSarYmIgLxY8jQ24SXeZT5I57Jv5GaAFIgVevsPbhpv6KtLm6iG1Ykn/+/WlT/7UWLNxtpFRslAvrnDbUPD2+gf6+nmxQzg2K5uSlJkDdUe35/sVms7s39gBTKzaZniHvYTVScMbu6N8EqQC13qwP3oBsGqGt3oxK+3Pe5OV+OVSgCVhgskzUXv8/LXItFy2XvI+mXNNJRP+emPFiq3CYkqbIdDO4xyF+W+cpFu+hLkVSZepL1NudpbhvwK/E/CdVLIQ==;ZQ2jJdHbkhwZpQxqQ972Rw=="
 ---

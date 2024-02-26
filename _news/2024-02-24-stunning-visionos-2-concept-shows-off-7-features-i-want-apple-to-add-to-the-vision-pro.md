@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/tech/stunning-visionos-2-concept-shows-off-7-featu
 webUrl: "https://bgr.com/tech/stunning-visionos-2-concept-shows-off-7-features-i-want-apple-to-add-to-the-vision-pro/"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "You better not cry while wearing the Apple Vision Pro"
-    excerpt: "Crying while watching movies with the Vision Pro isn't recommended, or supported - here's what you need to know."
-    publishedDateTime: 2024-02-23T18:28:00Z
-    webUrl: "https://bgr.com/tech/you-better-not-cry-while-wearing-the-apple-vision-pro/"
+  - title: "Here's How Much It Costs Apple to Make Its Vision Pro Headset"
+    excerpt: "The M2 is responsible for processing content, running the visionOS operating system, executing computer vision algorithms, and providing graphical content. The R1 chip is responsible for all of the information coming from the cameras, sensors, and microphones."
+    publishedDateTime: 2024-02-26T11:38:00Z
+    webUrl: "https://www.macrumors.com/2024/02/26/price-apple-pays-to-make-vision-pro-headset/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 4
+      name: MacRumors
+      domain: macrumors.com
+    quality: 24
+    images:
+      - url: "https://images.macrumors.com/t/GTChvECuUUhpj-C-9AH9Inw9q0M=/1600x/article-new/2024/01/Making-Vision-Pro.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Apple patent filing shows the company is working on ways to make the Vision Pro more comfortable"
     excerpt: "One of the complaints about the Apple Vision Pro is that it’s uncomfortable to wear for long periods of time. I agree, as it makes my nose bridge sore about a couple of hours. Apple is working on ways to make the spatial computer more comfortable to wear ..."
     publishedDateTime: 2024-02-22T14:51:00Z

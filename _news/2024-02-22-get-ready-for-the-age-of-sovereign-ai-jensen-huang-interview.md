@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-j
 webUrl: "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "'Godfather Of GPU' Nvidia's Jensen Huang Says 'AI Factories' Will One Day Take Over The World"
+    excerpt: "Nvidia CEO Jensen Huang thinks “AI factories” will one day take over the world. According to Huang, these AI factories are what help chatbots like ChatGPT and Midjourney churn out responses ..."
+    publishedDateTime: 2024-02-22T07:44:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/24/02/37258324/godfather-of-gpu-nvidias-jensen-huang-says-ai-factories-will-one-day-take-over-the-world"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "8i6kGxFzFpl4WWBje0ZBx0ObJppM1z6zDANR0VEOtdBfiZqpZJ18ZIHN4IxXI616L0rG6kKKnaqhdNFB2CH1+t+YYY9WCWRcmZ27hF7RVpTc/jOMOOYXgJ7l1mKctSCXMSBPWfxCUY9Yc9g0ESn/FdQR/XX47e61w6Gb8kh2xkvIEvwUs2bsxSDvNdWn3oUrVPjJqXq4x7kgKt96G7o9vp00VD93hkMssb36Z3nb3U8kQU9xzqdjTAWz9oWyKHdVRi6Y+2W9TpO28ef9pTe1b7L6X/pR1Tr/8z7jvb0TTsxK19RmgoSehWmKttAYj7qy/ocuDzDduHXRHwKUhUgpxpcGZ5nj2jfjRAh3JiATuiU=;CiDJg/+uc1BqduvDLaQ5lw=="
 ---

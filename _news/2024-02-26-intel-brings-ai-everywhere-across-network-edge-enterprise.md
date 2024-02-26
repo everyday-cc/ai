@@ -44,6 +44,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Where Does AI Go In Your Enterprise?"
+    excerpt: "By taking these steps, I found that organizations can effectively navigate the complex and rapidly evolving AI landscape."
+    publishedDateTime: 2024-02-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/where-does-ai-go-in-your-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "L/xE/hUHqqxBh7tsWMn4FFeX/BWh8LSsH1feVyWjFBnfZ0TqFTWHKX2Udcvh5nrBC5moFQKH7Y1AyrlueRTBY3k5B7be6eWNnXQE93yqlG2v9UXy+SH2PQ7tJ+lCTs7FfBwvS7rnBW4D3LS+jshy7eSkkYI/LNPBtL3wBfnY0bHv1BTviIJW5ahBW9X+302fD/ysy8ARI3KWiurYVJsC4iFLx6cnM0ibdtjKs+Jmt69WyIfT5JrGSEEDpNG2+82E1wxbFCJj4rncPgHwd+cRyLjVHGLO98Ss9KRAPPwmi1gpJm9dwTZ1Ea+LUqNX1tcn3cbr98yGERHoGtxXJLUHjX/9YI7B1OZhOIwabsgKRr1wG1/A6LfHVPq9ntamEw2OStCu5ap5HKdZbgpMmJri2T00Iqk8+NRxss8OJitBYuu40ZMmWKvw5756z0kUBkaXt9YH0X0z4lBqx/SkyQKCFWAJydVMTSfLdgcunT2FmmziLuE3FxmVTuWuiEra53gYyebUPGnaGbLy+90lSj445Q==;XTTVhKuQxKEAMT+YdVESrQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/02/22/artificial-intelligence-
 webUrl: "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 720
         height: 421
         isCached: true
-  - title: "2 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life"
-    excerpt: "So, here are two AI stocks that could set you up for life. Nvidia has become a Wall Street darling since the start of last year after snapping up an estimated 80% to 95% market share in AI graphics processing units (GPUs), the chips necessary for training and running AI models."
-    publishedDateTime: 2024-02-21T14:20:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/24233681/2-artificial-intelligence-ai-stocks-that-could-help-set-you-up-for-life/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 33
 
 secured: "JTS1WQ9Le1+OJRxIj+/4hrzh4lTnq1chbMCMgfo6/Jk8drTcvppgWaFfyziZDv01p6HfxBZHc0l/54Xvy0LQMViDFwZ8+R9owy6hDhszks7k0AhFgCbqCkmwVYTNwt/JyZKNw6VfW1uHjnTjzU0/fWsauleMCwl/xDubDDAZOA8HA5EWIB6Jf4oMZL3GpodGZHYlJ14DY7iD+p+wuQ3XRzjnngO25g7cGbPCn/omG/arLfFd8dwQjEXyHVYMcdOoyeZYixTnZWazfGUjXvroT5vXmDq0GqJQUM95OdxWgLoFxK+jKM3AY1rzH1Kfk8cGalbWsGWRGUONhgbscKmACWaLx3yoVNHQxVPJ577V3mM=;yA77J33WNnZcF/lMPROH0A=="
 ---

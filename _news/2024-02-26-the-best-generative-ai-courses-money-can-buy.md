@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
 type: article
 quality: 87
-heat: 149
+heat: 167
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Six Generative AI Predictions For 2024 And Beyond"
+    excerpt: "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students."
+    publishedDateTime: 2024-02-26T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "American Honda IT to fuel innovation with generative AI"
     excerpt: "As for that AI strategy, American Honda’s deep experience with machine learning positions it well to capitalize ... and use of both AWS and Microsoft Azure. The key to a successful AI strategy, in part, is the quality and cleanliness of both structured ..."
     publishedDateTime: 2024-02-22T00:00:00Z
@@ -101,6 +115,15 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 19
+  - title: "A Marketer’s Guide To Generative AI Startups"
+    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
+    publishedDateTime: 2024-02-26T08:00:00Z
+    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
+    type: article
+    provider:
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 17
 
 secured: "Kv0kKgDm8OqiQCiw9wsMKPurvu0l7ynw4nIzF7EfAOPi1pquz7swHLd/86JFUvvTy4qzSyDViuLdbvCWdhwsU8M7RQDs8iu5ObqRmQ2tRf9FvJjTqqF/OkLu6rNdzd+FdopCF2mPaiIDFcw+KVr+7JI5Pnwn45Eu2tZYEGoq+xnQQYqVoZJVP/XZnhcCn5BJB94+Db0gn3bPzEJcwntIgaw+4wg0j4gvfktDnIliUsoYu0/lzl625yJhB9qPUqsb6Jl4GKAMRSStrQAeEN9yy8r9ZLSSXaGyIjkkdfcNsmPIQANCsmKgWDNS0RzARIguUJ8InaLKq1Yuz38TwpyIUoLPDQGvmi17dRY4voebS/eczc0LPjCSjXyhM68fOxO861wckK2Zme8224g2YQofASA0lE451yVlv/YTPzNo4Ohrwjz/3taPORedUwhAmYdLJh9Pt7jxRDBx2OVEgloaZT7g4PiaYPKLD26RZjyGfoXP7mXCILTXWK334Jomokt6mDmwH9IwaUvAn5x2+N61Jw==;BzMUxYs9UQnXJ8zluJIOqw=="
 ---

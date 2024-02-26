@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-you-switch-careers/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
+        isCached: true
+  - title: "How Artificial Intelligence Can Help Lease Accounting"
+    excerpt: "In 2019, the global artificial intelligence (AI) in accounting market, specifically, was valued at $646 million, according to BCC Research, which projects it to reach $14 billion by 2027. I believe that AI is going to play an important part in the ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.kiplinger.com/kiplinger-advisor-collective/how-artificial-intelligence-can-help-lease-accounting"
+    type: article
+    provider:
+      name: Kiplinger
+      domain: kiplinger.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xtE9HZcBX4hUKcghQmr6XZ-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "YIgP1/ubLHZYkCeJgPRNWg/sljr2hHT8jt5AYBFXghOt+ixJh8yaxIZdQealeXa4lsDVyULSNIRZZ8n5K2vcI9Cx3vG3RLwwmiEy4g9x2LXriGnPM7+CCrNL0EWn4/AgySttZ6VcxGy9YlA1H8stH94IjQJxLtk6I2Wo4dP0myUVqDvQM+SyJ6uJI56Gyy5oZh2HCaCveNifacTJET1I+iEkrGYgiuffVSiqMuN5wVg0hNZMfZl9CZI0epOUnEIMZUEf8ibTn8Cq10j8MF/+U0PTECIRUQy/nlc7Hjv86CzrX+aS8IQUeyvdXBUk3we4A66OCBPKZDfzaXqGYwdtaMuRhTBVBYPPu1t2InxjEiiNBtPr/lgdMC4zM0dHs3aMJVNrkOHmB8E7UE8pMRsiLYoCnPJzpXydQqAVF7E2bayIO9BKb9AoJPRB2ez10r+4U50cKJbLtXN7m6dHL2qtCRx8N62Nv0iw9u2iMSKw9iirLHujAQSTO7g0enXONA+8zrFCg5MUWiV40hzHv7eVAQ==;IwHQBw1Af456zCegCHAV1g=="

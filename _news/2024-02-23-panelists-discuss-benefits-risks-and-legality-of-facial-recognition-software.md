@@ -24,6 +24,17 @@ images:
     height: 838
     isCached: true
 
+related:
+  - title: "Nwogu weighs in on bias in facial recognition software"
+    excerpt: "UB computer scientist Ifeoma Nwogu spoke with UBNow about how AI has evolved through the years and offers her perspective on bias in facial recognition programs."
+    publishedDateTime: 2024-02-26T13:17:00Z
+    webUrl: "https://www.buffalo.edu/ubnow/stories/2024/02/qa-nwogu-bias-facial-recognition.html"
+    type: article
+    provider:
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 19
+
 secured: "XvtdqocSXep+UBYeidI6Wg+CD/ywwvyKQvC2o+Xhchs0oP1k4Kg2jnHH1AJbsJiEOR3p53EK0xDiqfmid66wvlzmKzRg+5hNWS9i/panBZNz2YwQjAj3/BFO1vu0MXnPfau82nS9JRcD+uUGZyZUBAU7sQ8hhdngIgZ1dcEzUPD+vlmVR6LqjVQRt8/ThIDze8/fwp/0u3dGyTLAaMQH/ek3eEdK2WuACXgIUQ7wnEgFCs+YXjpM96BnzjOn2/t/Ycyn8hChYU2TiXooc1bDjLKza/Lewew+MV6OxMuwLnD/AnmIsulR5zB0za/zWyH5aN+CRK+B59j33zVKphGPXjS0iGG5J2+wNMSEEY26oZc=;VOJABFTIienULkbLIK+pkA=="
 ---
 

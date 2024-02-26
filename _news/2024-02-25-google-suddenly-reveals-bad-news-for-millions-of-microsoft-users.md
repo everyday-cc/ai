@@ -62,19 +62,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft supports cloud infrastructure demand in Europe"
-    excerpt: "Demand for cloud infrastructure continues to grow as organizations focus on migrating to the cloud and building new solutions that take advantage of AI. \nThe post Microsoft supports cloud infrastructure demand in Europe appeared first on Microsoft Azure Blog.\n"
-    publishedDateTime: 2024-02-21T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-supports-cloud-infrastructure-demand-in-europe/"
+  - title: "Microsoft and Mistral AI reveal partnership to help boost its AI large language models"
+    excerpt: "Today, Microsoft revealed a multi-year partnership with France-based Mistral AI. In the post on its Azure blog, Microsoft said that the collaboration with Mistral AI will allow its large language models to be used on Microsoft's Azure AI supercomputing ..."
+    publishedDateTime: 2024-02-26T16:32:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-mistral-ai-reveal-partnership-to-help-boost-its-ai-large-language-models/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-mistral-ai-reveal-partnership-to-help-boost-its-ai-large-language-models/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-mistral-ai-reveal-partnership-to-help-boost-its-ai-large-language-models/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
+      name: Neowin
+      domain: neowin.net
+    quality: 96
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB14_308233_Blog_Blogheader_240219_V02.png"
-        width: 1260
-        height: 708
+      - url: "https://cdn.neowin.com/news/images/uploaded/2024/02/1708962323_microsoft-mistral-ai_story.jpg"
+        width: 760
+        height: 444
         isCached: true
   - title: "Microsoft's Photos app gains AI object removal on Windows 11/10"
     excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: This new AI-powered tool reflects a growing trend. From Google Photos to Adobe's Firefly, more apps are integrating smart algorithms to enhance and ..."
@@ -89,6 +91,34 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-23-image-11.jpg"
         width: 1703
         height: 1080
+        isCached: true
+  - title: "Microsoft showcases next-generation AI and computing at Nvidia GTC"
+    excerpt: "Nvidia GTC takes place March 18 – 21 in San Jose, CA and virtually. In person and on-demand sessions, live discussions and hands-on demos will offer a look at the core Azure AI services and technologies that power some of the world’s largest and most ..."
+    publishedDateTime: 2024-02-26T07:30:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-showcase-next-generation-ai-and-computing-at-nvidia-gtc/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_735569484.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Mistral releases new ‘top-tier’ AI model, partners with Microsoft"
+    excerpt: "Paris-based Mistral is launching a new \"flagship\" AI model for on Microsoft's Azure, partnering up with the tech giant."
+    publishedDateTime: 2024-02-26T15:37:00Z
+    webUrl: "https://thenextweb.com/news/mistral-releases-new-ai-model-partners-microsoft"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-26-11.jpg&signature=ae92ab7c1644fc470d3931fadebc398b"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Microsoft plans €2B investment in AI and cloud infrastructure in Spain"
     excerpt: "Microsoft’s European charm offensive continues, with a collaboration with the Spanish Government to strengthen cybersecurity and implement AI in the Spanish administration."
@@ -206,31 +236,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft and iCreate launch iMPEL-AI program to catalyze AI startups in India"
-    excerpt: "Microsoft and iCreate, in the presence of Minister Chandrasekhar launched iMPEL-AI (iCreate-Microsoft programme for Emerging Leaders in Artificial Intelligence) programme."
-    publishedDateTime: 2024-02-21T15:56:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2835938-microsoft-and-icreate-launch-impel-ai-program-to-catalyze-ai-startups-in-india"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2835938-microsoft-and-icreate-launch-impel-ai-program-to-catalyze-ai-startups-in-india?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835938-microsoft-and-icreate-launch-impel-ai-program-to-catalyze-ai-startups-in-india?amp"
+  - title: "Microsoft teams up with Mistral to bring start-up's AI model on Azure"
+    excerpt: "and code generation — is available through Azure AI Studio and Azure Machine Learning. Mistral added that the AI model achieves strong results on commonly used benchmarks, making it the world's second-ranked model generally available through an API ..."
+    publishedDateTime: 2024-02-26T15:23:00Z
+    webUrl: "https://seekingalpha.com/news/4071598-microsoft-teams-up-with-mistral-to-bring-start-ups-ai-model-on-azure?source=content_type%3Areact|first_level_url%3Ahome|section%3Aindices|section_asset%3Alatest_news|line%3A1"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 70
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 69
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_02_2024_20_19_09_0335102.jpg?width=1280"
-        width: 1280
-        height: 861
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1495819409/image_1495819409.jpg?io=getty-c-w750"
+        width: 750
+        height: 429
         isCached: true
-  - title: "Microsoft is developing a network card that improves AI performance"
-    excerpt: "The Information has learned that Microsoft is developing a new network card that could improve the performance of its Maia AI server chip. As an added"
-    publishedDateTime: 2024-02-21T14:23:00Z
-    webUrl: "https://www.techspot.com/news/101960-microsoft-developing-network-card-improves-ai-performance.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
   - title: "Can Nvidia Join Apple, Microsoft In $2-Trillion Club Today? Here's How Much The Stock Needs To Gain To Hit The Mark"
     excerpt: "Reaching $2 Trillion: To reach the $2 trillion market cap, Nvidia’s stock would need to reach $804, given its 2.49 million outstanding shares. This translates to a necessary increase of $129.28, or 19.16%, from Wednesday’s closing price. Currently, only Microsoft, Apple, and Saudi Aramco boast valuations exceeding $2 trillion."
     publishedDateTime: 2024-02-22T11:12:00Z
@@ -333,20 +352,6 @@ related:
         width: 299
         height: 201
         isCached: true
-  - title: "FWD Group partners with Microsoft to shape the future of AI-driven insurance experiences"
-    excerpt: "Ryan Kim, Group Chief Digital Officer of FWD Group (Left); Bill Borden, Corporate Vice President of Worldwide Financial Services, Microsoft (Right) FWD Group plans to drive its generative AI initiatives by leveraging Microsoft's Azure OpenAI Service and ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.asiaone.com/business/fwd-group-partners-microsoft-shape-future-ai-driven-insurance-experiences"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 45
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Feb2024/Left__Ryan_Kim_Group_Chief_Digital_Officer_FWD_Group__Bill.jpg?itok=iwa78vUc"
-        width: 600
-        height: 450
-        isCached: true
   - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
     excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."
     publishedDateTime: 2024-02-22T12:30:00Z
@@ -379,6 +384,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Telefónica partners with Microsoft to incorporate generative AI into Kernel"
+    excerpt: "Telefónica today announced its partnership with Microsoft to integrate Azure AI Studio into Kernel applying generative AI to key workflows"
+    publishedDateTime: 2024-02-26T13:45:00Z
+    webUrl: "https://www.telefonica.com/en/communication-room/press-room/telefonica-partners-with-microsoft-to-incorporate-generative-ai-into-kernel/"
+    type: article
+    provider:
+      name: Telefonica
+      domain: telefonica.com
+    quality: 32
   - title: "Microsoft Will Be One Of The Biggest Beneficiaries Of Artificial Intelligence"
     excerpt: "Microsoft is uniquely positioned to capitalize on the trends of the future and combine them with its own products. And this combination is likely to result in tremendous value for their customers. In addition, it is likely that Microsoft will gain market ..."
     publishedDateTime: 2024-02-24T11:15:00Z
@@ -388,15 +402,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 31
-  - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
-    excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."
-    publishedDateTime: 2024-02-21T15:23:00Z
-    webUrl: "https://www.barrons.com/livecoverage/nvidia-earnings-stock-price/card/nvidia-teams-up-with-google-to-offer-a-new-ai-model-for-consumers-xHzURJMOboThgiNhSXT5"
+  - title: "FWD Group Partners with Microsoft to Shape the Future of AI-driven Insurance Experiences"
+    excerpt: "FWD Group Holdings Limited today announced it is extending its partnership with Microsoft with a four-year agreement to provide access to the latest generative artificial intelligence (AI) innovations while continuing to support FWD’s cloud-first technology strategy."
+    publishedDateTime: 2024-02-26T14:11:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/fwd-group-partners-microsoft-shape-future-ai-driven-insurance"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
+      name: Financial IT
+      domain: financialit.net
+    quality: 25
   - title: "NVIDIA CEO Jensen Huang unveiling new AI breakthrough at GTC 2024"
     excerpt: "For healthcare professionals, there will be valuable discussions on how AI is transforming diagnostics and patient care. The finance industry will explore how AI is being used to assess risks and detect fraud. Meanwhile, the automotive sector will present ..."
     publishedDateTime: 2024-02-22T00:00:00Z

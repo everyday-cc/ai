@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 637
         isCached: true
+  - title: "'Godfather Of GPU' Nvidia's Jensen Huang Says 'AI Factories' Will One Day Take Over The World"
+    excerpt: "Nvidia CEO Jensen Huang thinks “AI factories” will one day take over the world. According to Huang, these AI factories are what help chatbots like ChatGPT and Midjourney churn out responses ..."
+    publishedDateTime: 2024-02-22T07:44:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/24/02/37258324/godfather-of-gpu-nvidias-jensen-huang-says-ai-factories-will-one-day-take-over-the-world"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "Njqf46MLgdFTwVgxyDrD64BiTarWCwpdsT0wrrsIq9RBGzgGT024KBy0RT6EqGrIYoBowFbS/rwTMetYiyWNregp9VDGzrGc1sa3QHSXHuE+C8Bbkqxv+FPlDi/IZP+f9klDMLTJ5Fjc/uMDd86VsjBwNFe3Y43KvEKRKtOQ7d3f39RgoR6hjTD0//Y5i4ShgyYpE94zhzJiGP7XjQaWBHTY4pNqxF26XMWPE7nQWQvu2of+Jr4s1D5rJ11ZqeZvdeRHueHIdJNyZsTOEODkhIcIww8+v7EBLHUVwh6nLKvFcXmUZEwqXP5CLvR7wVQl9lAXvLBYX3y6mG6McTE9B2NSqkdkjhxc262CyDw0NnE=;vGTgGVAwYeL7dH6SYsIoTQ=="
 ---

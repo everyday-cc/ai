@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT is losing its mind and no one seems to know why"
-    excerpt: "Users of ChatGPT have shared screenshots of their interactions with the chatbot on social media after it started responding with nonsense."
-    publishedDateTime: 2024-02-21T15:12:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/65d62092a3bd891424f8e2e6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Hackers Could Use ChatGPT to Target 2024 Elections"
     excerpt: "T he rise of generative AI tools like ChatGPT has increased the potential for a wide range of attackers to target elections around the world in 2024, according to a new report by cybersecurity giant Crowdstrike."
     publishedDateTime: 2024-02-21T19:35:00Z
@@ -62,15 +46,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "ChatGPT has been generating bizarre nonsense (more than usual)"
-    excerpt: "Users shared ChatGPT’s strange , and at times esoteric-sounding responses through screenshots which show the model unexpectedly weaving between multiple languages, generating random words, and repeating phrases over and over again. Emojis, sometimes with no clear relation to users prompt questions, also frequently appeared."
-    publishedDateTime: 2024-02-21T20:00:00Z
-    webUrl: "https://www.popsci.com/technology/chatgpt-bizarre-nonsense/"
+  - title: "ChatGPT-4 vs Gemini Ultra identical prompt results comparison"
+    excerpt: "Learn more about the differences between ChatGPT-4 vs Gemini Ultra in this battle of identical prompt results. Compared to see which AI model"
+    publishedDateTime: 2024-02-22T09:31:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-4-vs-gemini-ultra/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 19
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/ChatGPT-4-vs-Gemini-Ultra-.jpg"
+        width: 1280
+        height: 744
+        isCached: true
 
 secured: "pxwJycChihT/E9pwxXTitvWEwcY6Xl9MFH2HE2/P/AE+RU+HlEr6p9tIhGPrAWMSPF30MSMslXdWLReddkg+U5lOm/hYgskN4IX1DPLHRdW1YYaXs9Z4SmCXWZOy3rfAnGLkCWWmHCkHbFSjFlfIZ80LRsBAJ4IAqV5/gNsLk19Xfn19hecCKH+yhA+AMkzeNvVKZowhs6VIO2o31OMZw+vBnivest0k9jfDGu5s9Bjy9+ZnMTDOgEJQKaoOsDfU+eullWa5vh2j2D5eNjFdGSj4NnOQOPeBj7H3GOPp05nDMrBATE3BdQrD7ZB76YrSZRV1dqdrowP2HEpGzBrXMysbrAfX4S1U/NmsB5GhWF7zhL/o3+0da8h0Nqw8lq9riAqeSh8wh69Tio8bl9Cwfle/sCYlAShkzZ4w2K8w7krP3E8scPWsRRB5ygMkqmC3Bn+LltEhKBZVFC5kTi0LygYPXh7BmUkVVp7pNUFQ8ohye8lbM+phK0oD0V/uDSgElKVk20cUo1/lUUnrQT4n4w==;DLE9WDBDppXMqzOsxfVmoQ=="
 ---

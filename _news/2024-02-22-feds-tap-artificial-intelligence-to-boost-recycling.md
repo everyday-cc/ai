@@ -23,6 +23,17 @@ images:
     height: 773
     isCached: true
 
+related:
+  - title: "Smartphone makers bet on AI to boost sales"
+    excerpt: "Smartphone makers are packing their latest devices with flashy new artificial intelligence tools such as real-time voice translation and advanced photo editing in efforts to reignite consumer demand."
+    publishedDateTime: 2024-02-26T14:37:00Z
+    webUrl: "https://techxplore.com/news/2024-02-smartphone-makers-ai-boost-sales.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 34
+
 secured: "a5AepIXSTDkHZDEflQP8D5Rkw+AXTKVztw7kQYbnBms78PazkQM8a6J6NzMYhN+XMpqtf1FiqtrXbr4nRI2zr8hutP0AyInx9TnEKmcoS6GdtO9zJ9KqAed3Rzr1vA3HiNoI1rQlK5RRRmRDPSNGJ99DcTkTcJIhZU98QZHa37iWZqFkeEFra5B+RVVsqpOvRaU9n2WzkOqNhf4T+OHJ2egvJlqH8EO9Z9WG4Rb/imlrStl75vqiHEQedUg/s5ANL1aizmRZgLt+oRHlORvwol2+N5XB3S8VcEsSCXV3O9irJYlSBgojKH4lh7YLqswa7rdN/Ppabt39Fnjz/cZ6LbPuGIo6vGWiF4FS6Q4/4Na925XovZ3IE3Uq5heNYpBQMYwmtEhnsCeArOrE6gyyfjdGKcr/LZPCCXhz6AmT2eROlgsOZ28aPMDzX7J68UERAYRrjgX7UQUdSPdDx1S/1gUwDjAgzP3T9FUofbeJsDSCM5QyBfzjzMLAOfSimlZ8jfNgYtLM7Kw0npClCXXLyQ==;aHlxaHuhjdvHfcGqXEzR6g=="
 ---
 

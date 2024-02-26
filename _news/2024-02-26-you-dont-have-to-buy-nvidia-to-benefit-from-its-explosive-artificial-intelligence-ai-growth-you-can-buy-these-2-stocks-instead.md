@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Redefining pharmaceutical case processing in the age of AI and automation"
+    excerpt: "Incorporating artificial intelligence (AI) in the form of natural language processing (NLP) using large language models (LLM) and automation into pharmaceutical case processing marks a turning point for the industry. AI's ability to analyse vast ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://pharmaphorum.com/digital/redefining-pharmaceutical-case-processing-age-ai-and-automation"
+    type: article
+    provider:
+      name: pharmaphorum
+      domain: pharmaphorum.com
+    quality: 38
+    images:
+      - url: "https://pharmaphorum.com/sites/default/files/2024-02/data-and-artificial-intelligence-technologies.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "YdFqDGzY0QBLRTQVzp0Awt/sIE4UEceBNdf3pEfzrzOJA7lJLtiujw1VEdbAEQ+whvUhpteg0N1JPaHqY0s7msqh1BOOrfIeKMebZSUM/bWq9WmShcVHOQtLH3bSHFle9xcZdSL5lwPj1k5/Q0hph3YWeEChn5yd3H7JAw+qijTINlKiL1NtgFpX8admPs25SBhK8OWrLg06zOJOiivXcz0fQUhOm6ADKNjJE/i7lpTfVcHnGjoC5vH/t+wRfLuPDmZst6OHas1scFeVsTLLzmqOr6EIQkhWJQbL6sc3Kxykkt/FS8UnX4eZEHiVSWm6l+nWajgKPQAly2oCpn/fiar9dn4FCINLaF3xvCnf4mg=;9bKhA1V9j8qsrk8ET05tvA=="
 ---

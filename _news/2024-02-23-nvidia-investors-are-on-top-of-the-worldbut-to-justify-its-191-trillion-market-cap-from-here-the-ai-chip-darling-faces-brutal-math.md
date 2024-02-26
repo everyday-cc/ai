@@ -24,15 +24,20 @@ topics:
   - Math for AI
 
 related:
-  - title: "$1 Trillion Question: Will Nvidia Dominate The Coming Ubiquitous AI Era?"
-    excerpt: "Edge AI is a fast-growing segment of the semiconductor industry and one of its key players is Hailo. Will it dethrone Nvidia?"
-    publishedDateTime: 2024-02-21T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2024/02/21/1-trillion-question-will-nvidia-dominate-the-coming-ubiquitous-ai-era/"
+  - title: "As Nvidia hits $2 trillion, billionaire Marc Rowan’s asset manager Apollo calls AI a ‘bubble’ worse than even the dotcom era"
+    excerpt: "Nvidia’s business is fuelled by a wave of demand for its data center chips that power advanced generative AI such as Sora, the latest breakthrough from Open AI that creates photorealistic videos up to 60 seconds long from a few text prompts. Nvidia has ..."
+    publishedDateTime: 2024-02-26T05:13:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-hits-2-trillion-billionaire-131335830.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 48
+      name: AOL
+      domain: aol.com
+    quality: 12
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/EYBgb1AGK04179tEDUMjIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/85bfc26a7045ab0e2cba9cc89ff151da"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "WTsY8hBYfW3ivcMVUxWISQCpyJY1TKy0xjwhjchq50OyJBcnHiF8SD8wtSnWKvIJ/isx7R1DepGAE14UiNuTLTt8HnFHG6r7DKvTGIHW0qQBmrXdJGpjbLCnaN8FgrrGSbVJb0NpRRaFdf0wj1YCia69uBckng2dEM62gz9D8aM9xS3LNLbQblri2XiWd62vxfAb88jYGIaV+n2dFhOyblqRCvC5syZeSQupyjkTdt8DhX3qU3natIp1ZdzNboqta4s+hxLHRLFr21oOk1UTyZaXj9JFGhJRkW2t5bU07FSE/aMB/QZ9U6i6s+5A1YuGSeew/y4NCny7sj6t78mYh2QHzorpQJvdJzbfx+UdkVs=;Gn0j1AgVhF9Q8xWp0lZFTg=="
 ---

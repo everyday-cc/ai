@@ -1,13 +1,13 @@
 ---
 category: news
 title: "A Vending Machine Error Revealed Secret Face Recognition Tech"
-excerpt: "Canada-based University of Waterloo is racing to remove M&M-branded smart vending machines from campus after outraged students discovered the machines were covertly collecting face recognition data without their consent. The scandal started when a student ..."
+excerpt: "Canada-based University of Waterloo is racing to remove M&M-branded smart vending machines from campus after outraged students discovered the machines were covertly collecting face recognition ..."
 publishedDateTime: 2024-02-24T17:01:00Z
-originalUrl: "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/"
-webUrl: "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/"
+originalUrl: "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/?utm_social-type=owned"
+webUrl: "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/?utm_social-type=owned"
 type: article
 quality: 69
-heat: 140
+heat: 129
 published: true
 
 provider:
@@ -113,6 +113,6 @@ related:
       domain: blogto.com
     quality: 14
 
-secured: "C50PsL1+lcefWJ2aQQeBfSYV3gpbYR2dTnfZKNJwK+r3FO3tn+HAAPGziiCWvipPEveUJAhIZJSupGLvk5LfWsjzZvn68n7La75w3pFKjiMNvPI6Zb5sMQ393tZEwDZ1Uxl3dz/+53nBv8nLNeKr/qjl4UkkM7gNQAN/5ow2IRjwN1ROUEicj6rt4BMtyfj65xKJEbY2JE0tzcqwS/U4mc12CLxJUSQPan6i2JJp3hfTKVz4HT0lyMgkrouBmaFjRsGUjOgqj+Mexk7Zn+kAnYSeokLdD6/iYPvGUSefxMKEjc6EWIS6psyJhEC0AxAJcsCV3RwF6dUEPTVm1V7OAdUNfZNnOuznrHf+lt4OVVAYRyLbam7dRmgCRQULX8hDkvMphRIT/kgfGSjTdD3X/GfXxg+SFhw5CjMd4rvDbwHAiPAgPqMJf5TYfRauiD+QJkCz9YI9sAP/8J6xnAv8YyipHy50YZjHAJ2tHtR9GJyh6gjNu3/Z2jp8j6gw78drF7iM0LvPTi+8mGuvKIrbZA==;AmqBDRwP8OXPaJTg+AH6/w=="
+secured: "fQ9rdQr9KvH+Ko4xq9ftGuGLXy9HklrhAkMev3f1hY1gI8guYWYMNVixzVhrbLftt8mM0kogh5lImB+wdcJ0AVUonbGC0Q/Hf5xPCvoJ5nTRCtjqVHJDxkUekeZ+XnCcJWgmvpVNpld7W9DBs5UIRYNA68XI5gOCms/Ffx+oMkM6Jp4oBlSsISxNBwttC/BPFXnp0i+GdVK4aQowcUByg3qlVlSkbUb6/LHWkyl2VuH1Jp7nzxkle0yuHMGu5k7O9x0ImVgZyhVn+joWNJKA3eWE3IN26Ljx4siITMHbfT67bywwvIh4Hr1HrZGwChWpxPulh9lGu1GcNZNt19kdSwxH2FWddIHl20MG3T71rtQ=;Ln9Ou6KYaQWA99XBtrKwKQ=="
 ---
 

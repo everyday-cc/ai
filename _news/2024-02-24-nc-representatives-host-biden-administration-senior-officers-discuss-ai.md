@@ -57,6 +57,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Democratic political operative admits he commissioned robocall of AI Biden"
+    excerpt: "Steve Kramer said ‘easy-to-use technology’ enabled him to send automated call while New Orleans magician says he was paid $150 to make it"
+    publishedDateTime: 2024-02-26T13:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2024/feb/26/steve-kramer-admits-he-commissioned-robocall-ai-biden-new-hampshire?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 15
 
 secured: "2zuQgE6UjDXrw0d8f2Gn3bnO9I1oVX9SAi7CxBB0bOiVxsGecXOtFejASDFZ1fm2dVVrNJ25lk527cqNi6rAuYKC27FnmBPZMOpeZaH7zJi1ZZ8ZmBGQENiAnOfjGBIW7InafwrSyjztMpuf4fpiVy3ApHpMvdeWtWdYGhgb5RVlCSwuY00QHUb/zdf5hO8QCjUzjfRCQCjqYBDNed/f1qwKfdlTZhU9sE+WOqB4YkcLqqQp3ahGGSS7FPqy9YdK5uJUy86Ww3D5JlOmVx9u3p42X1P70GNpBkxPctp129I/jchOz6lHsUcqkRDiX3RNs7SNI+UtT/TnQ3voYFn+vCFI1ohXgji83P89nK8dg7k=;ZGP0QQsHon67l/Bjn4pKdg=="
 ---

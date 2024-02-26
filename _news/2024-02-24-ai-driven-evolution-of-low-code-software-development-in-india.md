@@ -27,15 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Perplexity AI's Indian-origin CEO has this advice for freshers looking to start up in artificial intelligence"
-    excerpt: "Aravind Srinivas, the Indian-origin CEO of Perplexity AI (an artificial intelligence-powered search startup), believes in following his heart when it comes to career decisions. In fact, while he was studying electrical engineering in IIT Madras in 2014 ..."
-    publishedDateTime: 2024-02-21T13:40:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/perplexity-ais-indian-origin-ceo-has-this-advise-for-freshers-looking-to-start-up-in-artificial-intelligence-12325501.html"
+  - title: "India’s AI Future: A Bold And A Different Vision To Win"
+    excerpt: "40% of the nearly $8 Bn investment in Indian AI startups was made last year, indicating bullish global sentiment in the sector To embed AI innovation deep into the ecosystem, AI4Bharat is building open-source AI for Indian languages."
+    publishedDateTime: 2024-02-25T15:32:00Z
+    webUrl: "https://inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/"
+    ampWebUrl: "https://inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/amp/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 13
+      name: inc42
+      domain: inc42.com
+    quality: 39
   - title: "How AI health care chatbots learn from the questions of an Indian women's organization"
     excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
     publishedDateTime: 2024-02-22T00:00:00Z

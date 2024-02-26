@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/leo-wang-ceo-duotech-addresses-im
 webUrl: "https://www.asiaone.com/business/leo-wang-ceo-duotech-addresses-impact-ai-fintech-industry-during-chinese-new-year-speech"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "Chinese fintech firm claims priority access to Sora API through Microsoft amid new text-to-video AI frenzy"
-    excerpt: "A Chinese fintech firm is already attempting to take ... themselves with cutting-edge generative artificial intelligence (AI) tools that are often not directly made available in the country."
-    publishedDateTime: 2024-02-21T13:31:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3252726/chinese-fintech-firm-claims-priority-access-sora-api-through-microsoft-amid-new-text-video-ai-frenzy"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 48
 
 secured: "CosBCHkYev6SwSdoDQmhs4i0ShK39h/yt1xDdsewaWfrZxmRFx3/EO84xPE6uYU5DFjXNXHCR1x8Rp6Tp7lV67+XIBp2uiXdDvpBZRUtcuXS9GtH8NHFD0e6Pn8pmXRGQcMaATN6dztRpdWn0oGbieFXbDkm7jJYBipmp8JE/hxk/4cdj1e3u7odDrsxg2qANZXb4V/t2/LZ8s6cb91E4/v579DxGs12a2/g6ycVfARLm3D3Mzg3j5qOr3qlVigPaOphdpALfLwWMuoz6uoBd2INfvS0DnkEWSOTcHIaRu6x4oT3b+wZ7768bN6PkN/3UNN/pwXgmHwemK3w4Rrx0cOeXGs9IJ52AiLc4rQ5oD6D+62BNsUCPoUYKICUMXLoy5WhzSmW9Tis0ka0ZQeJ/PLpub+VydsucdKazsW1n7d+HAJGiCkfkIszzSaWT0ABBt+cknJT3+89nJTYdHAy80KCrXP3xEGTSkQY+HOsg1SRTXV5tP+vYL2+oamwb7F5XhwbcnoC9yUPCtysZ+Qb5g==;sqeVAR97jqWeCO967NgYyg=="
 ---

@@ -65,6 +65,15 @@ related:
         width: 1200
         height: 686
         isCached: true
+  - title: "Inside the funding frenzy at Anthropic, one of AI’s hottest startups"
+    excerpt: "Other AI startups, including OpenAI ... OpenAI garnered $1 billion from Microsoft and spent most of the money buying computing power through Microsoft’s Azure cloud service. Microsoft has since poured an additional $12 billion into the company, and ..."
+    publishedDateTime: 2024-02-26T06:00:00Z
+    webUrl: "https://www.seattletimes.com/business/inside-the-funding-frenzy-at-anthropic-one-of-ais-hottest-startups/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "7n/gwgTQiVIFseIXdms2hWWyID38wZXeSRHg/3gZGlrDzEkLA3qMrpiLHFbIJA5jh8nIiYUm7cz7uRUG/9X5cYkwi6ZCXbwFgCOfYClRxWr/k52Bua1Gb3M2ULQ7ES4Sk2T5G+VzxRA4Z2pqAA2g6E/lerVRKrkUztc4AvFOmG4KffzS5+2JT4AE8YIRCT7p4Cc1Ngs9rp2nWH91JVjYJcnuGHsKyfyJbFtyBSjHkbxCS07yspn8RkrZTIskkulk0jbhKjDXlaBnUBHR5THxA71VWrxi5ZYGETd973PjSqzKcpw7Ug7VLM7w5+AWmDe/TnH8EXa60iGNuavD5uJVFatRQTgY4erCvBCJamIIvqmvkVtSsyk103Ufaxz5y7ZTCW0axt6rkn5zBzmKjsB2V8wD8rsWXnF5N/sK3FBapxIWNfZpq2f25BODJHoMrnEcEYkaEz70LI1GK+WGAkwyCG6GXN2m2vmVpSyO5Qr5+2uw/NN8YJUYMJdINvNzLlvoegYOudHjzIOah7fDMqn1SA==;LATjnenu9K695LJDh4Zr/w=="
 ---

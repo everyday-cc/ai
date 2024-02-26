@@ -117,15 +117,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Inference.ai’s new generative AI chatbot takes the guesswork out of GPU sourcing"
-    excerpt: "Inference.ai offers an extensive selection of GPUs, with a fleet of 18 different processors from Nvidia Corp., including its most advanced H100 model. It also offers four models from Nvidia’s rival Advanced Micro Devices Inc., including the all-new MI300X that was specifically designed to handle generative AI workloads."
-    publishedDateTime: 2024-02-21T14:12:00Z
-    webUrl: "https://siliconangle.com/2024/02/21/inference-ais-new-generative-ai-chatbot-takes-guesswork-gpu-sourcing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
 
 secured: "Z8D0Po+oySXeFPKMbAU+xvupUhtXubFtFj7edKI+X+Dk1k6anukwM/cgCfm+hdwSJpyIPBkC5s/RBhdiMsoZe6JkZqUVpUixN4Juf+H/v/Sbx1hyutmjGUY7qsWqCToPqqUY5GG/OaaPhIOLzMGecZf0zu0dCD5vMoxWqqQsj4aK0WqmL25/IRowi0ISog9c0JYBZBc+zHpTrtiUd4WBGP7GX5sC8SgMzy1sYvNdzNiAGFvKZddYqYaWf38NZ3EaL/d10+i2qHZNYf/78eBoS1sRAmTAPikVgD2wYiZsYqp6skjcFfZEFdUZsSTGtSh1CFdXticiVOYGDtegBdo4RgNbXbdC+zW7pFnzKdB+Os8c+PYoxT5xUvH9QcFhrsWwD7gWAQoWASW5/QjT4RDFYvAr24jY4voM0qWT44hR4YOIwrddELQ5nXHLuwknj83FeHdA0uoEeVr8Yp9JQi65m/kGMawNrl8EPBlqrbUxt+q+66vAZbr74FCbq+RxyQoTnrXRF1T/s5IG7QmEJQjSLA==;Ob2FIvQJhp2V09PYtqDF2Q=="
 ---

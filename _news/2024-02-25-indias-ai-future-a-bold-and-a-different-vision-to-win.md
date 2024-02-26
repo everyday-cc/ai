@@ -21,57 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "Driving the Future: AI, Ethics and Jobs in the Age of Automation"
-    excerpt: "Venture into the epicenter of innovation with Jonathan Campos as we dissect the titans of tech, steer through the self-driving revolution and grapple with AI's impact on jobs."
-    publishedDateTime: 2024-02-22T15:00:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006"
+  - title: "AI-driven evolution of low-code software development in India"
+    excerpt: "Artificial Intelligence (AI) is orchestrating a paradigm shift across industries, and its transformative influence on the software development landscape, particularly within the context of low-code development is becoming increasingly evident."
+    publishedDateTime: 2024-02-24T05:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/lite/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1708458393-AIEthicsandJobsintheAgeofAutomation.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Redefining pharmaceutical case processing in the age of AI and automation"
-    excerpt: "Incorporating artificial intelligence (AI) in the form of natural language processing (NLP) using large language models (LLM) and automation into pharmaceutical case processing marks a turning point for the industry. AI's ability to analyse vast ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://pharmaphorum.com/digital/redefining-pharmaceutical-case-processing-age-ai-and-automation"
-    type: article
-    provider:
-      name: pharmaphorum
-      domain: pharmaphorum.com
-    quality: 38
-    images:
-      - url: "https://pharmaphorum.com/sites/default/files/2024-02/data-and-artificial-intelligence-technologies.jpg"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-23T154757.676.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Unlocking Fusion Energy’s Future With Artificial Intelligence"
-    excerpt: "A Princeton-led team has developed an AI model to predict and avert plasma instabilities in fusion reactors, showcasing real-time control improvements and setting the stage for more reliable fusion energy production."
-    publishedDateTime: 2024-02-25T08:17:00Z
-    webUrl: "https://scitechdaily.com/unlocking-fusion-energys-future-with-artificial-intelligence/"
+  - title: "How AI health care chatbots learn from the questions of an Indian women's organization"
+    excerpt: "These philanthropic initiatives offer developers access to AI tools they otherwise could ... is not good enough and there are issues with translation, Jalota said. Users often write questions in a mix of languages and may not provide the chatbot with ..."
+    publishedDateTime: 2024-02-22T00:00:00Z
+    webUrl: "https://www.wral.com/story/how-ai-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization/21295384/"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 37
-    images:
-      - url: "https://scitechdaily.com/images/Nuclear-Fusion-Energy-Reactor-Plasma-Art-Concept-Illustration.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Big tech rises on a promising AI future"
-    excerpt: "The Nikkei breaking fresh higher ground is the culmination of a 34-year roller-coaster journey for Japanese shares, which transitioned from being the most highly valued in the world to among the most undervalued. Now, investors are setting their sights on the sky is the limit."
-    publishedDateTime: 2024-02-22T20:18:00Z
-    webUrl: "https://www.fxstreet.com/analysis/big-tech-rises-on-a-promising-ai-future-202402222018"
-    type: article
-    provider:
-      name: FXStreet
-      domain: fxstreet.com
-    quality: 19
+      name: WRAL
+      domain: wral.com
+    quality: 11
 
 secured: "GfavcJgo/tLQdwNwFxTYPhBMSTHmeXqlmW+7SSOlo2JzwicJJcfltpYkftrrE36QPoN/YXk93hbSrPbaSKv19m1eyfysJcb/FrHv5QPMEYdpZBUJbaWr1vhouQr+j61R9kFVdgxwd5w7REgcV8rMZQ4/lHIe1MPEO8zILrdox9XfJvoBfSfpE5jPG/RWsSRP1xi/+d+bOC+1nlS3ydQvqT6WmhLrltPPW8WKIyBCilZBpwRtKK22bocHU59e2XDZtnOaNWj15ihOX7h00R2uYLUiYKwBE4DWf41Idm4yt5lxoI+isZLsGrtAMo+3s0q4Xf8ItsInfxRfnHnsfHfUKPS4gNW2AaZn15gOCk5jpBKYhiUuiLWIO9HHt7EoIJ8PpwQV/OZVL+EXdoEx2FF6M9GS+2WGMz+Kptz+j0Sk15TtCeDTj+mfUkenlhY37Qfuog9H0oRjRMqiVDenm1ETIX8iGhXvzLyu0dnXua6DtKPVgF7CUJHxMYz+5YE2MyPzyXG0HnnLXKN20sRfPW2HZA==;xe8+zTt8K/0V+TZODz4Zig=="
 ---

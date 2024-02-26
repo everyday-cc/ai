@@ -2,6 +2,74 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-30-forget-ibm-this-legacy-tech-giant-is-a-better-ai-stock-to-buy.md",
+      "title": "Forget IBM, This Legacy Tech Giant Is a Better AI Stock to Buy",
+      "excerpt": "With regard to AI, IBM looked like an early winner with Watson but struggled to monetize the advanced technology. While IBM now appears to be capitalizing on it, Oracle seems to have a more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/forget-ibm-this-legacy-tech-giant-is-a-better-ai-stock-to-buy",
+      "originalUrl": "https://www.nasdaq.com/articles/forget-ibm-this-legacy-tech-giant-is-a-better-ai-stock-to-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-30T13:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-korea-quantum-computing-and-ibm-collaborate-to-bring-ibm-watsonx-and-quantum-computing-to-korea.md",
+      "title": "Korea Quantum Computing and IBM Collaborate to Bring IBM watsonx and Quantum Computing to Korea",
+      "excerpt": "Agreement includes KQC offering IBM software and new AI infrastructure capabilities as well as IBM's next-generation quantum computing architecture",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/korea-quantum-computing-and-ibm-collaborate-to-bring-ibm-watsonx-and-quantum-computing-to-korea-6eb22e9e",
+      "originalUrl": "https://www.barrons.com/articles/korea-quantum-computing-and-ibm-collaborate-to-bring-ibm-watsonx-and-quantum-computing-to-korea-6eb22e9e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-30T02:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-how-does-data-deduplication-work.md",
       "title": "How does data deduplication work?",
       "excerpt": "Demystifying data deduplication and explaining how it can work for your organization.\nThe post How does data deduplication work? appeared first on IBM Blog.\n",
@@ -1263,99 +1331,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-how-to-handle-a-ransomware-attack.md",
-      "title": "How to handle a ransomware attack ",
-      "excerpt": "With ransomware becoming more prevalent, learn how your organization can swiftly respond to these cyberattacks.\nThe post How to handle a ransomware attack  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-respond-to-ransomware-attack/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-respond-to-ransomware-attack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T20:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-the-dynamic-forces-behind-data-center-re-transformation.md",
-      "title": "The dynamic forces behind data center re-transformation ",
-      "excerpt": "Advancements in hardware and software, as well as increased focus on sustainability, are driving rapid transformation of data centers.\nThe post The dynamic forces behind data center re-transformation  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-dynamic-forces-behind-data-center-re-transformation/",
-      "originalUrl": "https://www.ibm.com/blog/the-dynamic-forces-behind-data-center-re-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/pi-2275202.jpg",
-          "width": 1800,
-          "height": 1198,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

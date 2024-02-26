@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/02/21/intel-unveils-intel-foundry-ey
 webUrl: "https://siliconangle.com/2024/02/21/intel-unveils-intel-foundry-eye-ai-next-gen-lithography-manufacturing/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Protecting Human Intelligence With AI"
-    excerpt: "In my last few articles, I introduced a few essential steps organizations need to follow to prepare for the enterprise artificial intelligence (AI) tools of today and tomorrow. This piece is slightly more speculative but points to the sort of possibilities ..."
-    publishedDateTime: 2024-02-21T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/protecting-human-intelligence-with-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "2oCZyNP7gfKjlLt3TfS7+x72lJRfeGEaZprYgF4OS4n3qUwSJh5BRDExxX3iaXDRML/rZiEHU4LEk7LvQzbPgIkHn8jy7iuwBCtRyLILnEaFu3GmI7hiAPYtY1CochUjqxaBUI5jhKSuXXdOHsAKg+luOl44HD2Zs3N0v6jPb4tWPvhz6DHsdBzn6Yds70KvEoFFBchBl1liMkRt00vCkujANEzFVZuC7MrZQ3GBvop/IMelKtGXOJAzpksfwZ5n5dL0Mdey6EqZZVPZjGmtZQRXBt8rbb6Nsoz5Rj6xA69K2GfXY40EAVr1nRFvNBWhG6dYa7nZnA5Zq+xq+ozXbGiH6A7ltzbZOcVgPrXYV+8=;15jvofDQiaUzj5ydDiGdDg=="
 ---

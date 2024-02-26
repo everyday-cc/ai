@@ -34,7 +34,7 @@ related:
     provider:
       name: The Scientist
       domain: the-scientist.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://cdn.the-scientist.com/assets/articleNo/71665/aImg/52217/66166-ts-newsletter-ai-image-ac-800x560-m.jpg"
         width: 800

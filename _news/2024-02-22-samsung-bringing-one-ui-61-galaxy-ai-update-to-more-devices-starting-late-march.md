@@ -73,15 +73,15 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "AI Features Are Coming to Samsung Wearables and Tablets"
-    excerpt: "Samsung's mobile president says the tech giant will add AI-powered tools to more of its devices, but it's currently unclear when such features might hit the market."
-    publishedDateTime: 2024-02-21T13:46:00Z
-    webUrl: "https://www.pcmag.com/news/ai-features-coming-to-samsung-wearables-tablets"
+  - title: "Samsung is bringing Galaxy AI features to more devices"
+    excerpt: "Samsung is bringing Galaxy AI features to more devices through a new One UL 6.1 update coming in late March, the company announced today."
+    publishedDateTime: 2024-02-22T03:00:00Z
+    webUrl: "https://techcrunch.com/2024/02/21/samsung-is-bringing-galaxy-ai-features-to-more-devices/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "Samsung is bringing these Galaxy AI features to older devices"
     excerpt: "At its core, the tool essentially adds a translation tool to any phone call powered by AI. When speaking to someone who understands a different language, Live Translate will translate and regenerate your voice into that language. When the other party ..."
     publishedDateTime: 2024-02-22T18:13:00Z

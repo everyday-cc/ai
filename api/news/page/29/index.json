@@ -2,6 +2,539 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2024-02-05-scientists-use-ai-to-investigate-structure-and-long-term-behavior-of-galaxies.md",
+      "title": "Scientists use AI to investigate structure and long-term behavior of galaxies",
+      "excerpt": "Their innovative approach uses a deep neural network to quickly predict the stability of galaxy models. This artificial intelligence-based method enables efficient verification or falsification of ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.html",
+      "originalUrl": "https://phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-use-artific.jpg",
+          "width": 2880,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.amp",
+      "publishedDateTime": "2024-02-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-successfully-implementing-natural-language-processing-and-genai-with-knowledge-management.md",
+      "title": "Successfully implementing natural language processing and GenAI with knowledge management",
+      "excerpt": "Specifically, the integration of natural language processing via large language models (LLMs) and AI with private knowledge platforms poses significant value. Experts from Datavid joined KMWorld’s webinar, Integrating LLMs With a Private Knowledge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/News/News/Successfully-implementing-natural-language-processing-and-GenAI-with-knowledge-management-162456.aspx",
+      "originalUrl": "https://www.kmworld.com/Articles/News/News/Successfully-implementing-natural-language-processing-and-GenAI-with-knowledge-management-162456.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-04-foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage.md",
+      "title": "Foxconn expects 2024 to be slightly better, faces AI chip shortage",
+      "excerpt": "Foxconn, formally called Hon Hai Precision Industry Co Ltd, will report fourth quarter earnings next month when it will also update its outlook for this year. It releases January sales data on Monday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm",
+      "originalUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2024/02/foxconn-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm/amp",
+      "publishedDateTime": "2024-02-04T10:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-04-apples-effort-in-testing-self-driving-car-technology-paced-up-details.md",
+      "title": "Apple's effort in testing self-driving car technology paced up: Details",
+      "excerpt": "Apple has a permit to test autonomous vehicle tech on California’s public roads only if the company has a safety driver behind the wheel. Apple’s secret car project has finally gained momentum, as per the report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
+      "originalUrl": "https://www.indiatvnews.com/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/02/apple-1707032344.jpg",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
+      "publishedDateTime": "2024-02-04T07:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-04-2-more-artificial-intelligence-ai-growth-stocks-set-to-hurtle-past-apple-into-the-3-trillion-club-according-to-1-wall-street-analyst.md",
+      "title": "2 (More) Artificial Intelligence (AI) Growth Stocks Set to Hurtle Past Apple Into the $3 Trillion Club, According to 1 Wall Street Analyst",
+      "excerpt": "Late in 2022, a sudden leap forward in the ability of artificial intelligence (AI) caught many off guard ... a business-focused AI assistant designed to help its Amazon Web Services (AWS) cloud infrastructure users streamline many of the same mundane ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23821077/2-more-artificial-intelligence-ai-growth-stocks-set-to-hurtle-past-apple-into-the-3-trillion-club-according-to-1-wall-street-analyst/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23821077/2-more-artificial-intelligence-ai-growth-stocks-set-to-hurtle-past-apple-into-the-3-trillion-club-according-to-1-wall-street-analyst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/dc4c5796abb1d9328c145d15ab8e7906/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f763080%252fa-businessperson-standing-near-a-display-with-various-graphs.jpg%26amp%3Bw%3D700",
+          "width": 2302,
+          "height": 1303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-04T03:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-04-the-original-tabletop-deckbuilder-dominion-is-free-to-play-on-steam-with-ai-powered-by-neural-networks.md",
+      "title": "The original tabletop deckbuilder Dominion is free-to-play on Steam, with AI powered by neural networks",
+      "excerpt": "What makes this version different is that the AI opponent is powered by neural networks, and it certainly seems competent. It beat me on the easiest difficulty a couple of times, though to be fair ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/the-original-tabletop-deckbuilder-dominion-is-free-to-play-on-steam-with-ai-powered-by-neural-networks/",
+      "originalUrl": "https://www.pcgamer.com/the-original-tabletop-deckbuilder-dominion-is-free-to-play-on-steam-with-ai-powered-by-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/S3WQs6ZDpW4mMXP2FY53zW-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-04-deep-learning-for-natural-language-processing.md",
+      "title": "Deep Learning for Natural Language Processing",
+      "excerpt": "This book makes these complexities accessible to those from a humanities and social sciences background, by providing a clear introduction to deep learning for natural language processing. It covers both theoretical and practical aspects, and assumes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/54D23147D52F30B63AF2ED473676DEF0",
+      "originalUrl": "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/54D23147D52F30B63AF2ED473676DEF0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cambridge.org/97813165/15662/large_cover/9781316515662i.jpg",
+          "width": 427,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T23:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-04-is-there-a-bubble-in-ai-stocks.md",
+      "title": "Is There A Bubble In AI Stocks?",
+      "excerpt": "Talk of price to innovation ratios by Morgan Stanley has triggered talk of a bubble in AI stocks. Is this just the beginning of a run up in stock prices?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
+      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65be8742c9d836097bc8f8e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
+      "publishedDateTime": "2024-02-03T18:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-04-samsung-responds-to-criticism-of-the-galaxy-s24s-ai-photo-editing-features.md",
+      "title": "Samsung responds to criticism of the Galaxy S24's AI photo-editing features",
+      "excerpt": "At this year's first Unpacked event, Samsung showed off a series of AI-powered software capabilities it collectively calls Galaxy AI that it has integrated into the",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101751-samsung-responds-criticism-galaxy-s24-ai-photo-editing.html",
+      "originalUrl": "https://www.techspot.com/news/101751-samsung-responds-criticism-galaxy-s24-ai-photo-editing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-03-image-6.jpg",
+          "width": 1650,
+          "height": 1167,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T16:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-how-to-get-an-11-monthly-dividend-from-ais-explosive-growth.md",
+      "title": "How To Get An 11% Monthly Dividend From AI’s Explosive Growth",
+      "excerpt": "AI stocks’ rise in 2023 isn’t overdone and we’ve still got a nice buy window here: the S&P 500 remains below its all-time high despite the surge in the tech sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelfoster/2024/02/03/how-to-get-an-11-monthly-dividend-from-ais-explosive-growth/",
+      "originalUrl": "https://www.forbes.com/sites/michaelfoster/2024/02/03/how-to-get-an-11-monthly-dividend-from-ais-explosive-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ba682422bd3bbe3464547d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelfoster/2024/02/03/how-to-get-an-11-monthly-dividend-from-ais-explosive-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelfoster/2024/02/03/how-to-get-an-11-monthly-dividend-from-ais-explosive-growth/amp/",
+      "publishedDateTime": "2024-02-03T14:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-10-surgical-robotics-companies-to-follow-in-2024.md",
+      "title": "10 surgical robotics companies to follow in 2024",
+      "excerpt": "Here is a list of 10 surgical robotics companies that continue to attract attention from our editors and audience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/10-surgical-robotics-companies-worth-following-in-2024/",
+      "originalUrl": "https://www.therobotreport.com/10-surgical-robotics-companies-worth-following-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T14:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai.md",
+      "title": "To benefit all, diverse voices must take part in leading the growth and regulation of AI",
+      "excerpt": "As AI’s presence in our lives increases, so does the number of diverse founders leveraging it to develop positive, socially impactful services and products.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/03/to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai/",
+      "originalUrl": "https://techcrunch.com/2024/02/03/to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1198225660.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/03/to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/03/to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai/amp/",
+      "publishedDateTime": "2024-02-03T13:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-03-4-eye-catching-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear-market-dip.md",
       "title": "4 Eye-Catching Growth Stocks You'll Regret Not Buying in the Wake of the Nasdaq Bear Market Dip",
       "excerpt": "There's never a dull moment when investing on Wall Street. Over the last four years, the major stock indexes have bounced between bear and bull markets on a couple of occasions, with the growth-fueled Nasdaq Composite(NASDAQINDEX: ^IXIC) enduring the wildest swings.",
@@ -594,573 +1127,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-examples-of-sustainability-how-new-efforts-are-shaping-the-environmental-future.md",
-      "title": "Examples of sustainability: How new efforts are shaping the environmental future",
-      "excerpt": "With new tools and technologies in hand, organizations can find new ways to use it to reach their own goals—and a more sustainable future.\nThe post Examples of sustainability: How new efforts are shaping the environmental future appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/sustainability-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/sustainability-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T18:38:49Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-google-is-giving-a-sudden-ai-boost-to-maps-users-with-new-upgrade.md",
-      "title": "Google Is Giving A Sudden AI Boost To Maps Users With New Upgrade",
-      "excerpt": "Google is working on a new AI-powered discovery tool that makes it easier to find places, the company announced today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2024/02/02/new-google-maps-ai-update-local-guide-search-bard/",
-      "originalUrl": "https://www.forbes.com/sites/jaymcgregor/2024/02/02/new-google-maps-ai-update-local-guide-search-bard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bd27a0d1c4e00083706819/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1408,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2024/02/02/new-google-maps-ai-update-local-guide-search-bard/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/02/02/new-google-maps-ai-update-local-guide-search-bard/amp/",
-      "publishedDateTime": "2024-02-02T18:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-apple-vision-pro-review-spatial-computings-promise-is-fulfilled.md",
-      "title": "Apple Vision Pro Review: Spatial Computing’s Promise Is Fulfilled",
-      "excerpt": "The Apple Vision Pro launched today across the U.S. The era of spatial computing is just starting, but for many in the tech industry this day was years in the making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/",
-      "originalUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bd28caf8b9ff93af825a5b/0x0.jpg?format=jpg&crop=720,947,x0,y76,safe&height=900&width=1600&fit=bounds",
-          "width": 684,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/",
-      "publishedDateTime": "2024-02-02T17:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-how-the-recording-academy-uses-ibm-watsonx-to-enhance-the-fan-experience-at-the-grammys.md",
-      "title": "How the Recording Academy uses IBM watsonx to enhance the fan experience at the GRAMMYs®",
-      "excerpt": "Through the GRAMMYs&#174;, the Recording Academy&#174; seeks to recognize excellence in the recording arts and sciences and ensure that music remains an indelible part of our culture. When the world&#8217;s top recording stars cross the red carpet at the 66th Annual GRAMMY Awards, IBM will be there once",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/watson-discovery-grammys/",
-      "originalUrl": "https://www.ibm.com/blog/watson-discovery-grammys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/01/GRAMMYs-red-carpet-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T17:00:11Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-clash-of-the-titans-in-chinas-ai-market-as-nvidia-takes-on-huawei.md",
-      "title": "Clash of the Titans in China’s AI Market as Nvidia Takes on Huawei",
-      "excerpt": "This pricing strategy places it in direct competition with Huawei's Ascend 910B, an AI chip with comparable capabilities and price points",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T16:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-why-the-messenger-failed-as-a-media-startup.md",
-      "title": "Why The Messenger Failed As A Media Startup",
-      "excerpt": "“Running a media startup is very different from running a tech startup ... Social media has disrupted traditional models, while Web3, decentralization, and AI will further challenge content focused businesses into the future.” Amanda Terry, Founding ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dariashunina/2024/02/02/why-the-messenger-failed-as-a-media-startup/",
-      "originalUrl": "https://www.forbes.com/sites/dariashunina/2024/02/02/why-the-messenger-failed-as-a-media-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bd160f37b2dae6c112972a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dariashunina/2024/02/02/why-the-messenger-failed-as-a-media-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dariashunina/2024/02/02/why-the-messenger-failed-as-a-media-startup/amp/",
-      "publishedDateTime": "2024-02-02T16:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-internal-memo.md",
-      "title": "Meta Platforms to deploy in-house custom chips this year to power AI drive: internal memo",
-      "excerpt": "Facebook owner Meta Platforms plans to deploy into its data centres this year a new version of a custom chip aimed at supporting its artificial intelligence push, according to an internal company document.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3250678/meta-platforms-deploy-house-custom-chips-year-power-ai-drive-internal-memo",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3250678/meta-platforms-deploy-house-custom-chips-year-power-ai-drive-internal-memo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/02/592c1290-bb08-4db2-bb00-ffe2f151fcf1_45a1b0c9.jpg?itok=22EXWYiV&v=1706848356",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T16:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-create-images-with-adobe-firefly-ai-for-apple-vision-pro.md",
-      "title": "Create images with Adobe Firefly AI for Apple Vision Pro",
-      "excerpt": "Adobe's image-generating software Firefly has been announced for the new Apple Vision Pro, and joins the company's previously-announced Lightroom photo app.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro",
-      "originalUrl": "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/58429-119036-000-lead-Firefly-xl.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro/amp/",
-      "publishedDateTime": "2024-02-02T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-microsoft-ai-at-scale-drives-azure-revenue-growth.md",
-      "title": "Microsoft AI at scale drives Azure revenue growth",
-      "excerpt": "Microsoft reported a record quarter fueled by the Microsoft Azure cloud and the shift from talking about artificial intelligence (AI) to actually applying the technology at scale. Azure revenue grew 24% year-over-year to reach $33 billion in Q2 2024 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sdxcentral.com/articles/news/microsoft-ai-at-scale-drives-azure-revenue-growth/2024/02/",
-      "originalUrl": "https://www.sdxcentral.com/articles/news/microsoft-ai-at-scale-drives-azure-revenue-growth/2024/02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T15:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SDxCentral",
-        "domain": "sdxcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-amp-robotics-rebrand-highlights-expanded-portfolio.md",
-      "title": "AMP Robotics rebrand highlights expanded portfolio",
-      "excerpt": "AMP was founded nearly a decade ago, with the goal of proving AI, machine learning, and robotics can transform recycling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/amp-robotics-rebrand-highlights-expanded-portfolio/",
-      "originalUrl": "https://www.therobotreport.com/amp-robotics-rebrand-highlights-expanded-portfolio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/AMP-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T15:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-roboxchange-examines-real-world-operational-challenges-and-new-brains-for-robots.md",
-      "title": "RoboXchange examines real-world operational challenges and new brains for robots",
-      "excerpt": "At the first MassRobotics RoboXchange, Locus Robotics shared tips on warehouse challenges, and Opteran showed a new navigational approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/roboxchange-examines-real-world-operational-challenges-new-brains-for-robots/",
-      "originalUrl": "https://www.therobotreport.com/roboxchange-examines-real-world-operational-challenges-new-brains-for-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/IMG_0053.jpg",
-          "width": 770,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T15:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024.md",
-      "title": "From IT Staff To The Boardroom: Top Generative AI Predictions For 2024",
-      "excerpt": "Expect to see a surge in new GenAI deployments as more enterprises rapidly turn their AI POCs into pilots using the latest models, patterns and cloud services in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe35cac1252d2fac45417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/amp/",
-      "publishedDateTime": "2024-02-02T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

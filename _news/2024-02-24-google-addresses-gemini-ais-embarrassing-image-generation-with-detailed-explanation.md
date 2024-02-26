@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google reveals another smaller AI model, Gemma, for researchers"
-    excerpt: "In a blog post, Google stated that Gemma was developed by its UK-based DeepMind along with other teams at the company. Gemma does share some \"technical and infrastructure components\" with its bigger brother Gemini. There are two specific models available ..."
-    publishedDateTime: 2024-02-21T14:43:00Z
-    webUrl: "https://www.neowin.net/news/google-reveals-another-smaller-ai-model-gemma-for-researchers/"
-    ampWebUrl: "https://www.neowin.net/amp/google-reveals-another-smaller-ai-model-gemma-for-researchers/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-reveals-another-smaller-ai-model-gemma-for-researchers/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 89
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2024/02/1708523960_google-gemma_story.jpg"
-        width: 760
-        height: 450
-        isCached: true
   - title: "Chrome gets a built-in AI writing tool powered by Gemini"
     excerpt: "Google Chrome is getting a new AI writing generator today. At its core, this Gemin-powered tool is essentially the existing \"Help me write\" feature from"
     publishedDateTime: 2024-02-22T17:01:00Z
@@ -91,22 +75,6 @@ related:
         width: 1598
         height: 900
         isCached: true
-  - title: "Google replaces Duet AI with Gemini for Workspace, brings Business and Enterprise plans"
-    excerpt: "Duet AI customers will be upgraded to the Gemini Enterprise plans automatically. Gemini Enterprise comes with language translation for closed captions in AI-powered meetings. This means that Gemini can translate content in over 100 language pairs."
-    publishedDateTime: 2024-02-21T16:38:00Z
-    webUrl: "https://www.neowin.net/news/google-replaces-duet-ai-with-gemini-for-workspace-brings-business-and-enterprise-plans/"
-    ampWebUrl: "https://www.neowin.net/amp/google-replaces-duet-ai-with-gemini-for-workspace-brings-business-and-enterprise-plans/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-replaces-duet-ai-with-gemini-for-workspace-brings-business-and-enterprise-plans/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 81
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/12/1702484980_gemini-770x435_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Gemini models are coming to Performance Max"
     excerpt: "New improvements and AI-powered features are coming to Performance Max, including Gemini models for text generation."
     publishedDateTime: 2024-02-22T17:00:00Z
@@ -135,20 +103,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google Launches Two Free 'Gemma' AI Models Inspired by Gemini"
-    excerpt: "Google has launched two new open AI models, Gemma 2B and Gemma 7B, with the goal of supporting AI use in third-party applications. The Gemma models vary in size, meaning the simpler Gemma 2B may be better for less intensive AI applications, while Google data suggests that Gemma 7B could outperform other AI models like Mistral or Meta's LLAMA-2."
-    publishedDateTime: 2024-02-21T15:58:00Z
-    webUrl: "https://www.pcmag.com/news/google-launches-two-free-gemma-ai-models-inspired-by-gemini"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/035OJKlW9wJhW9L0j1OcXpo-1.fit_lim.size_1200x630.v1708530102.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Google's Gemini Proves AI Isn't Ready To Replace Your Smart Assistant"
     excerpt: "Some experts in the field, most notably Bill Gates, now believe that AI is plateauing. We've made the leap to natural language processing, but turning that genuinely impressive capability into a genuinely reliable and useful application remains a hurdle to ..."
     publishedDateTime: 2024-02-24T19:15:00Z
@@ -162,36 +116,6 @@ related:
       - url: "https://www.slashgear.com/img/gallery/googles-gemini-proves-ai-isnt-ready-to-replace-your-smart-assistant/l-intro-1708034922.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Gemini is rolling out to Google One AI Premium subscribers, here's what you can use it for"
-    excerpt: "Google is rolling out Gemini to Google One AI Premium subscribers, letting them use generative AI across Gmail, Docs, Sheets, and more."
-    publishedDateTime: 2024-02-21T15:01:00Z
-    webUrl: "https://www.androidauthority.com/google-gemini-rolling-out-google-one-ai-premium-subscribers-3417482/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 59
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/12/Gemini-Google-Logo.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google's Gemma is now optimized for NVIDIA's AI platforms"
-    excerpt: "This system lets users have access to generative AI capabilities on their own local PCs, provided they’re using an NVIDIA RTX GPU. This system effectively allows users to provide local files on their PC to a local AI in order to personalize the experience."
-    publishedDateTime: 2024-02-21T16:30:00Z
-    webUrl: "https://www.shacknews.com/article/138819/nvidia-google-gemma-optimization"
-    ampWebUrl: "https://www.shacknews.com/article/138819/nvidia-google-gemma-optimization?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138819/nvidia-google-gemma-optimization?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 59
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/02/21/nvidia-google-gemma-optimization_feature.jpg"
-        width: 1280
-        height: 680
         isCached: true
   - title: "Google’s Gemini for Workspace expands genAI access to SMBs"
     excerpt: "This reflects a similar change to Google’s general purpose Bard chatbot, which switched to Gemini earlier this month. Gemini for Workspace is available via two pricing plans. Gemini Enterprise replaces Duet AI for Workspace Enterprise, which launched ..."
@@ -208,6 +132,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2024/02/gemini-emailpoc_light_mode_x4.max-1700x1700-100961521-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 697
+        isCached: true
+  - title: "Google aims to relaunch Gemini AI image tool"
+    excerpt: "BARCELONA (Reuters) - Google plans to relaunch its AI tool that creates images of people, which it paused last week after inaccuracies in some historical depictions, in the next few weeks, Google DeepMind CEO Demis Hassabis said on Monday."
+    publishedDateTime: 2024-02-26T16:49:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/794305-Google-aims-to-relaunch-Gemini-AI-image-tool-"
+    ampWebUrl: "https://dunyanews.tv/amp/english/794305.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/794305.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 59
+    images:
+      - url: "https://img.dunyanews.tv/news/2024/February/02-26-24/news_big_images/794305_13019390.jpg"
+        width: 752
+        height: 423
         isCached: true
   - title: "Google Launches Gemma, a Family of Open-Source Lightweight AI Models for Developers"
     excerpt: "Gemma’s open-source AI models are built from the same research and technology used to create the Gemini models."
@@ -410,34 +350,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Google rebrands Duet AI in Workspace to Gemini with new Business and Enterprise plans"
-    excerpt: "As teased earlier this month, the Gemini rebrand is now coming to Duet AI in Gmail, Drive, Docs, and other Google Workspace apps."
-    publishedDateTime: 2024-02-21T15:01:00Z
-    webUrl: "https://9to5google.com/2024/02/21/google-workspace-gemini/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 32
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/google-workspace-gemini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Google enhances Workspace productivity suite with new Gemini generative AI capabilities"
-    excerpt: "In addition, it adds AI-powered meeting capabilities such as the ability to translate captions across more than 100 language pairs, and soon it will also be able to take notes of every meeting. It costs a bit more, at $30 per user per month. In both cases ..."
-    publishedDateTime: 2024-02-21T15:01:00Z
-    webUrl: "https://siliconangle.com/2024/02/21/google-enhances-workspace-productivity-suite-new-gemini-generative-ai-capabilities/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Untitled.png"
-        width: 512
-        height: 252
-        isCached: true
   - title: "Google apologizes over Gemini image generation inaccuracies"
     excerpt: "Google LLC has apologized after its Gemini chatbot generated images that incorrectly depicted racially diverse characters in historical contexts."
     publishedDateTime: 2024-02-23T23:19:00Z
@@ -515,6 +427,15 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
+    quality: 19
+  - title: "How to Use Google Gemini AI on Your Android Phone Right Now"
+    excerpt: "Google made perhaps the biggest AI announcement of 2024 earlier this month by rebranding its year-old chatbot Bard as Gemini and releasing Gemini Advanced. Now, Android users will be able to access the powerful tool via their phones too. The new change for ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://tech.co/news/use-gemini-on-your-android-phone"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
     quality: 19
   - title: "Google explains what went wrong with Gemini's image-generation capabilities"
     excerpt: "Following days of widespread criticism and backlash, Google has explained what went wrong with Gemini image generation"

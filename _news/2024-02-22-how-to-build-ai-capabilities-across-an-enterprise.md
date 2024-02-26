@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Where Does AI Go In Your Enterprise?"
+    excerpt: "By taking these steps, I found that organizations can effectively navigate the complex and rapidly evolving AI landscape."
+    publishedDateTime: 2024-02-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/where-does-ai-go-in-your-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Intel Brings AI Everywhere Across Network, Edge, Enterprise"
     excerpt: "Intel announced new platforms, solutions and services spanning network and edge AI, Intel Core Ultra processors and the ... Samsung has demonstrated a first-call at their research and development lab in Suwon, South Korea. Ericsson has also demonstrated ..."
     publishedDateTime: 2024-02-26T05:55:00Z

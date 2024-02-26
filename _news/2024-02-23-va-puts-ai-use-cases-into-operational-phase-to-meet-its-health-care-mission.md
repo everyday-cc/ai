@@ -49,6 +49,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "IMF Urges G20 Cooperation on Climate, Global AI Principles"
+    excerpt: "Cooperation by the G20, including through carbon pricing, reduced energy subsidies and border carbon adjustment mechanisms, could also help mitigate the effects of climate change and facilitate the green energy transition, the IMF said."
+    publishedDateTime: 2024-02-26T14:16:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2024-02-26/imf-urges-g20-cooperation-on-climate-global-ai-principles"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "AI-Powered Analytics Drives Real-Time Personalization"
     excerpt: "Securing the right talent is pivotal to any AI initiative. Employing data scientists and AI specialists is a good start, but organizations should also look for ways to upskill current employees to work with AI systems. Ensure high levels of data quality."
     publishedDateTime: 2024-02-22T00:00:00Z

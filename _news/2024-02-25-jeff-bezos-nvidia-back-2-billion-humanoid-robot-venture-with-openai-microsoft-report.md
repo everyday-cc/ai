@@ -58,6 +58,22 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Microsoft invests in Europe's Mistral AI to expand beyond OpenAI"
+    excerpt: "Microsoft on Monday announced a new partnership with French start-up Mistral AI – Europe's answer to ChatGPT maker OpenAI — as the U.S. tech giant seeks to expand its footprint in the fast-evolving artificial intelligence industry."
+    publishedDateTime: 2024-02-26T16:40:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/microsoft-invests-in-europes-mistral-ai-to-expand-beyond-openai/5170622/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-invests-in-europes-mistral-ai-to-expand-beyond-openai/5170622/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/microsoft-invests-in-europes-mistral-ai-to-expand-beyond-openai/5170622/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2024/02/107378366-1708964869127-gettyimages-1850859194-AA_16122023_1456011.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bezos and Nvidia Collaborate with OpenAI to Finance Humanoid Robot Startup"
     excerpt: "Jeff Bezos of Amazon, alongside Nvidia, have pooled their resources to invest in Figure AI, a startup focused on advancing human-like robots."
     publishedDateTime: 2024-02-24T22:14:00Z
@@ -71,6 +87,22 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2024/02/720x480.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Jeff Bezos, Nvidia join OpenAI in funding humanoid robot startup Figure AI: Report"
+    excerpt: "Tech giants including Amazon, Nvidia, and Microsoft are pouring investments into startup Figure AI, which specialises in creating human-like robots. The venture, also supported by OpenAI and ..."
+    publishedDateTime: 2024-02-24T20:58:00Z
+    webUrl: "https://www.businesstoday.in/technology/news/story/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-figure-ai-report-418804-2024-02-24"
+    ampWebUrl: "https://www.businesstoday.in/amp/technology/news/story/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-figure-ai-report-418804-2024-02-24"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-figure-ai-report-418804-2024-02-24"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 68
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202402/65d9bd83805f3-figure-ai-245722273-16x9.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tech Titans Join OpenAI in $675M Funding for Figure AI’s Humanoid Robotics"
     excerpt: "Major tech players Amazon, Nvidia, and Microsoft are investing heavily in Figure AI, a humanoid robotics venture supported by OpenAI. The $675 million funding round signals growing interest in AI startups and potential advancements in robotics technology."

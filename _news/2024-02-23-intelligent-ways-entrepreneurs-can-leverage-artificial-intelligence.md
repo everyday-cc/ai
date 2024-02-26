@@ -47,6 +47,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "How Artificial Intelligence Can Help Lease Accounting"
+    excerpt: "In 2019, the global artificial intelligence (AI) in accounting market, specifically, was valued at $646 million, according to BCC Research, which projects it to reach $14 billion by 2027. I believe that AI is going to play an important part in the ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.kiplinger.com/kiplinger-advisor-collective/how-artificial-intelligence-can-help-lease-accounting"
+    type: article
+    provider:
+      name: Kiplinger
+      domain: kiplinger.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xtE9HZcBX4hUKcghQmr6XZ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "CqSzYcm9nY8C/ZnusVDtGufw/5oWcj/PEu0ocUkq98OHYYMYp5OHONGBGmyLZjYpP2gzI5Ckih+qan6dWEBX/tZoVO9AXOmUDlIUeaAKgKAfpIBI2Fg405a9Nuk/ycV2Vv+Lx/+KVCNPc7ykylOpdS6tW92AB//T75LYRF6CEUnqEoucRjxRsJXcZWNevReNKzFJQIOPOKh68DQDqxiIy4KL/jI66EImMIDX+aZhq+tw9doqYyUk2oM1Sf2uLOwXW4QkbYUXSzebLOAfCAZOKo8wH6uYfnFKh3qfkcOhy0SHJRNGLgIQDjv6dXse86RQ1PzcHAyVS+zheARqJYwSMePwCxzI6qYba0B5hBWEYQk=;Y0qawLDZToVmMSFkuyhrTQ=="
 ---

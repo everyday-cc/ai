@@ -43,6 +43,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Six Generative AI Predictions For 2024 And Beyond"
+    excerpt: "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students."
+    publishedDateTime: 2024-02-26T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Dolbey Announces AI Assist, Generative AI for Healthcare Workflow Automation"
     excerpt: "Dolbey has announced AI Assist, an expansion of Fusion Narrate powered by nVoq, which offers generative AI for healthcare workflow automation. AI Assist is an evolution in speech recognition and automation technology that allows healthcare providers to access and utilize revolutionary generative AI within a private,"
     publishedDateTime: 2024-02-21T22:03:00Z
@@ -98,6 +112,15 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 19
+  - title: "A Marketer’s Guide To Generative AI Startups"
+    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
+    publishedDateTime: 2024-02-26T08:00:00Z
+    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
+    type: article
+    provider:
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 17
 
 secured: "A4oI3Mv+zHvy4Qot+TG6HosuW3v2IV6RNraHE7YrTMIslPC+qv6VXNUd5IBNkicRH5AWmnQgX4yXlRE0hfMJoMjrhQTf4UPH2HKfRKjkqwURMu7XLcy4hzAXxi2xyZ6n2xTTlhWQUrhOSquZrXWbiYAVfcfyAAngBObn+AXe7b8jamN0tAWgdInN9BRd4SSoilo1d39oN+KYHrJgstoFFUqSzK2t6zAv1mH8YzeRfHdFfggDMYgRAd+P0GXQL+fwx2Fxgv5kNDZZBKV7DGvnafjyW9eY0zXNwuuvh+ICV0j9CdlqtbYA4ApOxHuJPbxIiBBl2zpzHe2OfwNjjS1HMJTE3Bxr7DrC1u+BmeST9UnqguzeaWHuLFpzHqtPK0yAYYjy1EbBbJCWnKzwiCow+GnWPucFrrFrr0hJJ+FUn5I5Z7/epHvVglR/am94Her5bTUGgmRJcAD4GmANCJBmma4ovWEEyipUgjXglUTo2g0ecfc8LJsdUdVzEHPQGs1raXd6CfeaKUjOmjScqWrERw==;n4xSg395h5vaBSebFXSNvA=="
 ---

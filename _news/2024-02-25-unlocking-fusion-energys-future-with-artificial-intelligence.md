@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "How Meta’s Llama 3 will impact the future of AI"
+    excerpt: "What we currently know about Llama 3, and how it might affect the next wave of advancements in generative AI models.\nThe post How Meta’s Llama 3 will impact the future of AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-26T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/llama-3/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Driving the Future: AI, Ethics and Jobs in the Age of Automation"
     excerpt: "Venture into the epicenter of innovation with Jonathan Campos as we dissect the titans of tech, steer through the self-driving revolution and grapple with AI's impact on jobs."
     publishedDateTime: 2024-02-22T15:00:00Z
@@ -38,40 +47,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "India’s AI Future: A Bold And A Different Vision To Win"
-    excerpt: "40% of the nearly $8 Bn investment in Indian AI startups was made last year, indicating bullish global sentiment in the sector To embed AI innovation deep into the ecosystem, AI4Bharat is building open-source AI for Indian languages."
-    publishedDateTime: 2024-02-25T15:32:00Z
-    webUrl: "https://inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/"
-    ampWebUrl: "https://inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 39
-  - title: "Redefining pharmaceutical case processing in the age of AI and automation"
-    excerpt: "Incorporating artificial intelligence (AI) in the form of natural language processing (NLP) using large language models (LLM) and automation into pharmaceutical case processing marks a turning point for the industry. AI's ability to analyse vast ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://pharmaphorum.com/digital/redefining-pharmaceutical-case-processing-age-ai-and-automation"
-    type: article
-    provider:
-      name: pharmaphorum
-      domain: pharmaphorum.com
-    quality: 38
-    images:
-      - url: "https://pharmaphorum.com/sites/default/files/2024-02/data-and-artificial-intelligence-technologies.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Big tech rises on a promising AI future"
-    excerpt: "The Nikkei breaking fresh higher ground is the culmination of a 34-year roller-coaster journey for Japanese shares, which transitioned from being the most highly valued in the world to among the most undervalued. Now, investors are setting their sights on the sky is the limit."
-    publishedDateTime: 2024-02-22T20:18:00Z
-    webUrl: "https://www.fxstreet.com/analysis/big-tech-rises-on-a-promising-ai-future-202402222018"
-    type: article
-    provider:
-      name: FXStreet
-      domain: fxstreet.com
-    quality: 19
 
 secured: "t4CFq+FlnNldlO5ZhGaDb/Id7h+sMIkoIZtD8xxjW39POmB3xqzGkYWSQkLenl/02gOIVvY62UNbF3e/XBXfEVG7Ea60iT472a/t4CfhbDm0IDsCFQXtCwBJwkEupnSD2oHS5flLZbFYBlYYotjg/fGPMsPTs9VUL+zpdSpxBibh1H8dCf8WqyMheib7tvOKcrf6R3fNiS6Ui+JCOe0JUqr9kGbxglr9m+B/wBybo5yMtT9s8NFWttEAyW55ZB+cqBFbIuvQShSE98M1x5TVnAQWYvkXJt8NLL9gQpOS84PEOJNf26gPc8xwcUzTEfT3Muj+S4TuEQZK/945sW5SYc0hLZh73wMtDCDrNNY/RFcsKE+fvTlINxxc+8zbiWz0zL68Q7FcKJZm6hYbG1dckhIpmvT0pFWnUm7hSjdIYzgfi4/e8oatax+3aFuWjwVJ2a+1/DKjwcWBN9ADkFwn5OtYsu9twvvv1LvZ+HisMPoxFg0+qMQcKGAXvhqt7Vx89Jo5PR8ntKcnYqJggb2vUQ==;rcNv5OLw01z/JYjTl+VmbA=="
 ---

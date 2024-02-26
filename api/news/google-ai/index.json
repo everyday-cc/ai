@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-26-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
+      "title": "DeepMind uses AI to tackle neglected deadly diseases",
+      "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-_1bDst-wIEAkdUgaOHd1wvHTDwsPrzALuAbfBXpUkjWYwxjze4ZfL-7DtTeWCwJrBE9-Br",
+      "originalUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-_1bDst-wIEAkdUgaOHd1wvHTDwsPrzALuAbfBXpUkjWYwxjze4ZfL-7DtTeWCwJrBE9-Br",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-57582183.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp",
+      "publishedDateTime": "2024-02-26T04:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-24-google-issues-ai-upgrade-warning-for-millions-of-chrome-users.md",
       "title": "Google Issues AI Upgrade Warning For Millions Of Chrome Users",
       "excerpt": "Google continues to change its ecosystem apace, as its evolving Gemini (née Bard) AI platform burrows its way into app after app, across desktops and mobiles. In doing so, a whole new set of risks are hitting millions of users in short order. Awareness is very low—and so Google has just responded with its latest serious warning.",
@@ -166,7 +218,7 @@
       "originalUrl": "https://www.zdnet.com/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 511,
+      "heat": 461,
       "tags": null,
       "images": [
         {
@@ -831,6 +883,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-15-googles-flagship-ai-model-gets-a-mighty-fast-upgrade.md",
+      "title": "Google’s Flagship AI Model Gets a Mighty Fast Upgrade",
+      "excerpt": "Demis Hassabis, CEO of Google DeepMind, which developed the new model, compares its vast capacity for input to a person’s working memory, something he explored years ago as a neuroscientist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-deepmind-gemini-pro-ai-upgrade/",
+      "originalUrl": "https://www.wired.com/story/google-deepmind-gemini-pro-ai-upgrade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65cd787e5cf740439249b2fb/191:100/w_1280,c_limit/Google-Deepmind-Business-1353069623.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-rockies-reliever-daniel-bard-will-have-surgery-to-repair-a-torn-meniscus-in-left-knee.md",
       "title": "Rockies reliever Daniel Bard will have surgery to repair a torn meniscus in left knee",
       "excerpt": "DENVER (AP) — The Colorado Rockies said reliever Daniel Bard will have surgery Wednesday to repair a torn meniscus in his left knee. There's no timetable for Bard's return. Rockies pitchers and ...",
@@ -1327,101 +1431,6 @@
         "Google AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-ai-officially-becomes-gemini.md",
-      "title": "Google Bard AI Officially Becomes Gemini",
-      "excerpt": "Exactly a year after Google announced Bard — its first conversational chatbot — the search giant has given it the first major makeover. As part of a new update, the now-famous name \"Google Bard” has been retired in favor of its new name; \"Google ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
-      "originalUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T15:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-changes-bards-name-to-gemini-unveils-new-android-app-and-advanced-ai-model.md",
-      "title": "Google changes Bard's name to Gemini: unveils new Android app and advanced AI model",
-      "excerpt": "Google's announcement confirms weeks of rumors that Bard was being renamed. The company unveiled the Gemini AI large language model, a direct competitor to OpenAI's GPT",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101813-google-changes-bard-name-gemini-unveils-new-android.html",
-      "originalUrl": "https://www.techspot.com/news/101813-google-changes-bard-name-gemini-unveils-new-android.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-08-image-6.jpg",
-          "width": 1920,
-          "height": 1746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

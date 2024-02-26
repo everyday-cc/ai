@@ -3,16 +3,16 @@ category: news
 title: "Ex-Yahoo CEO Marissa Mayer discusses the current tech scene from vantage point of her AI startup"
 excerpt: "Former Yahoo CEO Marissa Mayer now runs an artificial intelligence startup called Sunshine that makes an app for managing personal contacts. She recently shared her views on AI and other tech topics."
 publishedDateTime: 2024-02-24T16:44:00Z
-originalUrl: "https://madison.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_8b25a4b4-66a8-554a-9ca2-5c4c4975130e.html"
-webUrl: "https://madison.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_8b25a4b4-66a8-554a-9ca2-5c4c4975130e.html"
+originalUrl: "https://omaha.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_ad9f1295-1b1e-597d-826d-749d179e643f.html"
+webUrl: "https://omaha.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_ad9f1295-1b1e-597d-826d-749d179e643f.html"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI
@@ -28,6 +28,6 @@ related:
       domain: japantoday.com
     quality: 6
 
-secured: "PDdAanRrFrDMDRNQXKaUAPYfzmuk0n0ylDNHf89qiLM14MVyfqFm1mRSopczHDyvTYuUo/Qu1e798matrd4vnT8zfmbPjBgjftsUDfJQm/R/GThD7NUYCfxY93cVHemTT01q0FRmWW89kyH4F6R0DS6nsiKQjcRfVJBNzs1lsdY/o/STAUrExDJHDbVOOurQ/7qm7kfHeq5onxoxXuEOOkIBiQjWoREjdNPtEoCe7fr616QduA7AVqLdJJ3N/xAmVXWIUEu8bUqoRYaDcgTyiwkdZzfDOWTOqyvEZ+SDbKUajmJvaeg2lZ6xlqOtJYTzEc8bt/bGXx2i1ac+WO6uEQQJfXdwvUZBMi1I6IzzuL62mZldJ04vyDZDUPg4EffBf8YEvQt45J0WHEivt6wy4nn29eDKa4SnGA+UjwViH9/72ZBijjFNKE7mRsMELDc95LqW+RMpgDQZNmOWmy6fFE9qpCtsycPBwChaM3iHiG0nwAEQ5/cucqYFfUEx9pK2o7YYiQbbAG7V2q+aU/2+Kg==;1ee2E9S+wo4BPgjuxa2edQ=="
+secured: "7Jz9R0GMS0zaxkgvWZAAI951N6eCIKgN8LMoL6fAs8GAvQn1i2AmnM/vOKea+K8bVbNfSSodAAdyMuyYREPOwGpRrC1CU2WcIttUUibiRgw7yWTYrivEx0Z3W5m13RTRJcR9ck+P17cxpvA9/hwxl1drG897+MYHCI6QUCACiOnfQQ/b0rb53sBeucrdEBeYHeYj4DQEtq/CDxd4yIL8zNBwbOOWobdzEfmN14wME6VUBiLQ7R0YmShQbnMxia0yBsoLf4SC4z33kRpcv1FLjIaenERr6VHXgk+URdKro1Wy8pyX3dp2zzGb19u6HHPbWTRklsF0u3XzVKzzJmmySJfCld7FMUeTNPcoPHtDIHlyBWhL/NZycBph0xMteNQ5/rWQjA9IDSprAXHmLBXwBQ8qp6kQ/8t8d3S+dJFwo+jWqIjXQ+1bpjETyA3/Gh17+zZ8jgRoItCA0cLQ2aU8SVSKw9m8Vj4pFZWHeJKvRZX1KTyOefT5UuBos91L359XFuC1hCyGn3/Adah4CVEaqg==;iQNvCY4tznLJ6MztF3gIfg=="
 ---
 

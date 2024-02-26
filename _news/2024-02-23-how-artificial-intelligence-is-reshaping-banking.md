@@ -87,6 +87,15 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 32
+  - title: "ARway Corporation: ARway.ai Expanding Its Spatial Computing Platform, Hires New AI Computer Vision and Machine Learning Ph.D Engineer"
+    excerpt: "With a distinguished background in robotics and machine learning, Mr. Sarkar brings a wealth of experience from prestigious institutions and leading-edge projects. With an academic foundation holding a Ph.D. in Control and Automation from the Indian ..."
+    publishedDateTime: 2024-02-26T12:01:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61506595-arway-corporation-arway-ai-expanding-its-spatial-computing-platform-hires-new-ai-computer-vision-and-machine-learning-ph-d-engineer-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 20
 
 secured: "9w418FJDObdn92BI+sczZyJMdwMM9VUOdiT5gaKLP/HXPQpDwueaXrr8qdPqLs+cY+pQwbJr4NT3LErvGI/wKRt5tLlyhJT8CUuguqhEvpxMKkIWHVudChuGJLYnC4O++XyD0Jd4KavLVCrur7W+kmqZU5VsHd/y6RUcGeDvTb/KIy3sudklkCMrzX87JH+YnIJvQfPCyWk/ISBtVVBUpufCeLmQlDMJBk8GgNwWeEt8phLaCFWJJ82n/hdcDalNSUHkpWiyVOsoC5QZhXSGWfKwfKrATX31GGAE82gjfvffsWPDX82XLN1NH0G52YKSOA33A9toOOxvjCMjH+QLfZM3aW1HObUpGtPW5bFjjFodT/TcPRtdwRR5Vb/xvms17VqByZZENS5axkCwH1SbDXbGkEgTli/pmzjGVGe9UNYB3m3gkujsdma9xnkeZ9FzMnt6ToCYaHA9U7Iwvih7/f538zuD3ExWGxbt2A+ZBT3xcDmtGsMcJaWYqJ0vOvVoU14kUeHa4XPz+qb7kL5oWw==;mnJdcwGxp08KTQWUTF7afg=="
 ---

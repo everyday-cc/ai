@@ -7,7 +7,7 @@ originalUrl: "https://www.macrumors.com/2024/02/26/price-apple-pays-to-make-visi
 webUrl: "https://www.macrumors.com/2024/02/26/price-apple-pays-to-make-vision-pro-headset/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,16 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Vision Pro is about to enable fully immersive 3D music production"
-    excerpt: "Producing music these days can be something of a flat experience, undertaken using powerful software running on a computer. With the sales launch of the Apple Vision Pro, DAW maker Hit'n'Mix is planning to immerse musicians in their creations."
-    publishedDateTime: 2024-02-21T13:57:00Z
-    webUrl: "https://newatlas.com/music/hitnmix-ripx-ai-daw-apple-vision-pro/"
+  - title: "Stunning visionOS 2 concept shows off 7 features I want Apple to add to the Vision Pro"
+    excerpt: "I hope visionOS 2 brings at least these seven Apple Vision Pro possible features to help Apple improve its first spatial computer."
+    publishedDateTime: 2024-02-23T20:14:00Z
+    webUrl: "https://bgr.com/tech/stunning-visionos-2-concept-shows-off-7-features-i-want-apple-to-add-to-the-vision-pro/"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 34
+      name: BGR
+      domain: bgr.com
+    quality: 16
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/visionsos-2-concept-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
+  - title: "Apple patent filing shows the company is working on ways to make the Vision Pro more comfortable"
+    excerpt: "One of the complaints about the Apple Vision Pro is that it’s uncomfortable to wear for long periods of time. I agree, as it makes my nose bridge sore about a couple of hours. Apple is working on ways to make the spatial computer more comfortable to wear ..."
+    publishedDateTime: 2024-02-22T14:51:00Z
+    webUrl: "https://www.mactech.com/2024/02/22/apple-patent-filing-shows-the-company-is-working-on-ways-to-make-the-vision-pro-more-comfortable/"
+    type: article
+    provider:
+      name: MacTech
+      domain: mactech.com
+    quality: 0
 
-secured: "JHLk//sdIGAt69lqa95TRHnf8fNySndqZv5gtYWB2m07aAvpCCt0kiAmkJR0wjVmB9Rdh6H3ixodpfHVb6BiG6RNOzG9rSsWuYHQ8rUyNwUWAEvAmh2oOKwXpLwj88sEuqKkx49Rhgo1IWrq6SRW9js9l9LCh2iviULDW29jh/5fIMmFSeJLXH9FSG9EyKe9C5WrD3pW83KC1rKuYNfyqqA7JwSOWQKFGBHlt6e/efwrs2PdXA/d+dCVHT6qGFt3yevI+ieSBbOkZWYtHHHJAOE1CN+fdZKG4kAvRQPtZzFvhsfcGYAYoS2Kj8aj/sf34avGA6gOAGuCsouMLoQ9P0cL8gzXqiekacMqUwTLp3I=;FVV9foxUiNkVGDmnh5OwJg=="
+secured: "nd5mOUJ1sx38c+28QtHSXrn4njyAQOHkJJFKOIfWDY2qkY4IZxjc8DsDG0M0VY1SianwOj1jE/NYxLSYZ1Hs695PBtp3RdouMrAXL/eGHT0gaIrdmSuFyX2DosyXqi5vHKagjb4SFUNpDJTx7nA54zmRmX3NUxRG4BFV9izkOzUktnd6+qlLxDqpu4nY8ssAZPjB3b39buzEh9HqwmoNz6SRPAraNxhGCDh0EbED7GeAqmmW7z2Prq+9GGMYDj/nOE/0zEN1gU5IFX+o5dLDsNDPrP7AEZXDBWLdjsJZxAptbWVfPwyvQ4oconmhrdQuaAOd+/YQm2813StfyBs7Nyg3OtdzWHv0l0uXKyN1d7JFufI5L2K+LAH2vrVls8FFj0lA5HbquObWtiv21XZj2y5gM/6GUKNl4dr0I3eh3195/yKwrB8yRxL5DgdhyvZT66Usu5ZVomyhqC36itcV+bWeXucC8TsJfYesYQQQIJcHTTyZhuhOYOsPPhQr0GHFCYQe2TH3YvzMNo0pmuIi1Q==;iPP+eqVsKkSte1I66ygkAA=="
 ---
 

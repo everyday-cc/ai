@@ -2,6 +2,532 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2023-12-05-nvidia-warned-redesign-a-gpu-for-ai-for-china-us-government-will-stop-them-the-next-day.md",
+      "title": "NVIDIA warned: redesign a GPU for AI for China, US government will stop them the next day",
+      "excerpt": "US Commerce Secretary Gina Raimondo has warned that we 'cannot' let China get the most powerful AI chips in the world, throws shade at NVIDIA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/4/94723_01_nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day_full.png",
+          "width": 1500,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T00:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-a-deep-learning-framework-for-drugdrug-interactions-and-drugtarget-interactions-prediction.md",
+      "title": "A deep-learning framework for drug–drug interactions and drug–target interactions prediction",
+      "excerpt": "Quantitative Biology has recently published an article titled \"DeepDrug: A general graph-based deep learning framework for drug–drug interactions and drug–target interactions prediction\" that shows DeepDrug learns the comprehensive structure-based and ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-12-deep-learning-framework-drugdrug-interactions-drugtarget.html",
+      "originalUrl": "https://phys.org/news/2023-12-deep-learning-framework-drugdrug-interactions-drugtarget.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/deepdrug-a-deep-learni.jpg",
+          "width": 1280,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-12-deep-learning-framework-drugdrug-interactions-drugtarget.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-deep-learning-framework-drugdrug-interactions-drugtarget.amp",
+      "publishedDateTime": "2023-12-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-artificial-intelligence-makes-gripping-more-intuitive.md",
+      "title": "Artificial intelligence makes gripping more intuitive",
+      "excerpt": "This requires a network of 128 sensors and artificial intelligence based techniques. Different types of grasps and bionic design: technological developments in recent decades have already led to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231205144408.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231205144408.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-artificial-intelligence-who-are-the-leaders-in-supervised-neural-nets-for-the-automotive-industry.md",
+      "title": "Artificial intelligence: who are the leaders in supervised neural nets for the automotive industry?",
+      "excerpt": "Supervised neural nets involve training a neural network on a labeled dataset, where the algorithm learns to predict an output based on input data. The training is guided by a supervisor who provides the correct output for each input, allowing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/data-insights/innovators-ai-supervised-neural-nets-automotive/",
+      "originalUrl": "https://www.just-auto.com/data-insights/innovators-ai-supervised-neural-nets-automotive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2023/12/Automotive_AI_supervised-neural-nets.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-light-controlled-liquid-metal-strips-bring-new-flexibility-to-soft-robotics.md",
+      "title": "Light-controlled liquid metal strips bring new flexibility to soft robotics",
+      "excerpt": "(Nanowerk News) Soft robotics has tantalized researchers with its promise of machines that can squeeze into tight spaces, handle fragile objects, and intuitively interact with humans. Yet realizing this potential has remained an elusive goal due to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64186.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64186.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-new-deep-learning-challenge-to-estimate-breast-density-from-mammograms.md",
+      "title": "New deep learning challenge to estimate breast density from mammograms",
+      "excerpt": "A new deep learning challenge has been launched by the UEF Cancer AI research team at the University of eastern Finland, led by senior researcher Hamid Behravan, PhD. The challenge aims to develop an architecture capable of automatically estimating the breast percentage density from mammograms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1010191",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1010191",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/248b62b3-17ad-45f8-9eb4-0f5396ac3067/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-nvidia-is-promising-to-help-japan-get-the-ai-chips-it-needs-for-a-network-of-new-datacenters.md",
+      "title": "Nvidia is promising to help Japan get the AI chips it needs for a network of new datacenters",
+      "excerpt": "Nvidia's CEO Jensen Huang speaking at COMPUTEX 2023 in Taipei. Huang said on Tuesday that Nvidia will partner with Japanese firms to build chip plants in Japan to meet AI demand. Walid Berrazeg—SOPA Images/LightRocket via Getty Images Nvidia CEO Jensen ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/asia/2023/12/05/nvidia-promises-japan-ai-chips-new-plant-ceo-jensen-huang/",
+      "originalUrl": "https://fortune.com/asia/2023/12/05/nvidia-promises-japan-ai-chips-new-plant-ceo-jensen-huang/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/12/GettyImages-1258356004-e1701746721367.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/asia/2023/12/05/nvidia-promises-japan-ai-chips-new-plant-ceo-jensen-huang/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/asia/2023/12/05/nvidia-promises-japan-ai-chips-new-plant-ceo-jensen-huang/amp/",
+      "publishedDateTime": "2023-12-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-cybertrucks-full-self-driving-is-flawed-says-dawn-project.md",
+      "title": "Cybertruck’s Full Self-Driving is Flawed Says Dawn Project",
+      "excerpt": "Commenting on the Cybertruck’s launch, Founder of The Dawn Project Dan O’Dowd said: “ A Full Self-Driving Cybertruck is a three-ton AI-driven robot powered by software which has already resulted in at least 27 deaths.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoconnectedcar.com/2023/12/cybertrucks-full-self-driving-is-flawed-says-dawn-project/",
+      "originalUrl": "https://www.autoconnectedcar.com/2023/12/cybertrucks-full-self-driving-is-flawed-says-dawn-project/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/11/CybertuckScreenshot-2023-11-30-172111-1024x482.jpg",
+          "width": 1024,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T23:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autoconnectedcar.com",
+        "domain": "autoconnectedcar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide.md",
+      "title": "AI Poised to Enhance Student and Faculty Experiences: Info-Tech Research Group Publishes New Industry Guide",
+      "excerpt": "The newly published resource includes use cases on the topic of AI in the classroom and covers the technology involved, the benefits to the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide-1032872109",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide-1032872109",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2292604/Info_Tech_Research_Group_AI_Poised_to_Enhance_Student_and_Facult.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T23:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-stevens-institute-for-artificial-intelligence-looks-at-prospects-for-ai-and-robotics.md",
+      "title": "Stevens Institute for Artificial Intelligence looks at prospects for AI and robotics",
+      "excerpt": "The Stevens Institute for Artificial Intelligence's director shares his perspectives on AI policy, generative AI, and machine learning and legged robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/stevens-institute-for-artificial-intelligence-looks-at-ai-robotics-prospects/",
+      "originalUrl": "https://www.therobotreport.com/stevens-institute-for-artificial-intelligence-looks-at-ai-robotics-prospects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/SIAI_ROV.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T23:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-helios-upgrades-platform-with-machine-learning.md",
+      "title": "Helios upgrades platform with machine learning",
+      "excerpt": "New feature aggregates and analyzes data in real-time to bolster the firm's quantitative investment methodologies while optimizing client outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financial-planning.com/news/helios-upgrades-platform-with-machine-learning",
+      "originalUrl": "https://www.financial-planning.com/news/helios-upgrades-platform-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/80a172f/2147483647/strip/true/crop/5760x3024+0+128/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F43%2F38fa0f144165a54a56163201babb%2Fadobestock-376488024.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T23:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Planning",
+        "domain": "financial-planning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-artificial-intelligence-drives-the-trucking-industry.md",
+      "title": "Artificial Intelligence drives the trucking industry",
+      "excerpt": "Artificial intelligence could forever alter the trucking sector with driverless vehicles, but some companies are using game-changing technology to make the vehicles safer and their fleet more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/artificial-intelligence-adapts-on-the-road",
+      "originalUrl": "https://www.foxbusiness.com/technology/artificial-intelligence-adapts-on-the-road",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/bb656892-99e3-4807-8fd6-e30820ecd281/c541636a-4444-422a-8327-3bd55b30bf00/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/artificial-intelligence-adapts-on-the-road.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/artificial-intelligence-adapts-on-the-road.amp",
+      "publishedDateTime": "2023-12-04T22:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-member-panel-artificial-intelligence.md",
       "title": "Member Panel: Artificial Intelligence",
       "excerpt": "Hear from three members whose companies were using artificial intelligence long before 2023 about how they're making the most of the breakthrough technology in the year ahead. Got a ...",
@@ -566,532 +1092,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-a-focus-on-fintech.md",
-      "title": "A focus on fintech",
-      "excerpt": "Dean Oliver Yao is beginning his first year at the helm of UD's business college with a focus on the seismic shift of fintech",
-      "sourceUrl": null,
-      "webUrl": "https://www.udel.edu/udaily/2023/december/oliver-yao-shares-vision-lerner-fintech/",
-      "originalUrl": "https://www.udel.edu/udaily/2023/december/oliver-yao-shares-vision-lerner-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.udel.edu/content/dam/udelImages/udaily/2023/december/fb-oliver-yao-800x420.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T15:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University of Delaware",
-        "domain": "udel.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-artificial-intelligence-in-teaching-and-learning.md",
-      "title": "Artificial intelligence in teaching and learning",
-      "excerpt": "UD leads the conversation about AI in the context of teaching and learning with an interdisciplinary UD working group and other initiatives",
-      "sourceUrl": null,
-      "webUrl": "https://www.udel.edu/udaily/2023/december/artificial-intelligence-ai-teaching-learning/",
-      "originalUrl": "https://www.udel.edu/udaily/2023/december/artificial-intelligence-ai-teaching-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.udel.edu/content/dam/udelImages/udaily/2023/december/fb-ai-teaching-learning-working-group-800x420.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T15:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University of Delaware",
-        "domain": "udel.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams.md",
-      "title": "Capitalizing on machine learning with collaborative, structured enterprise tooling teams",
-      "excerpt": "Machine learning advances require an evolution of processes, tooling, and operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/",
-      "originalUrl": "https://www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/11/cap_one_abstract_ML.png",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/amp/",
-      "publishedDateTime": "2023-12-04T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-can-you-text-while-your-self-driving-car-is-doing-the-driving-what-florida-law-says.md",
-      "title": "Can you text while your self-driving car is doing the driving? What Florida law says",
-      "excerpt": "You can text away while leaving the driving to your Tesla or other self-driving car. Florida law says that a driver whose car has an “automated driving system engaged” won’t be punished for using the phone behind the wheel ( (in other words, if the car is driving and not you).",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/traffic/article282641868.html",
-      "originalUrl": "https://www.miamiherald.com/news/traffic/article282641868.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/traffic/article282641868.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/traffic/article282641868.html",
-      "publishedDateTime": "2023-12-04T14:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-how-can-medical-schools-educate-students-on-artificial-intelligence.md",
-      "title": "How Can Medical Schools Educate Students on Artificial Intelligence?",
-      "excerpt": "The University of Texas has developed the first dual degree program in the United States to prepare medical students to work with artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
-      "originalUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/features/_normal/ThinkstockPhotos-801680832.jpg",
-          "width": 690,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T14:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-mira-pharmaceuticals-releases-breakthrough-data-from-artificial-intelligence-simulations.md",
-      "title": "MIRA Pharmaceuticals Releases Breakthrough Data from Artificial Intelligence Simulations",
-      "excerpt": "AI Simulation on MIRA1a Showcases Significant Potential Advantages Over Plant-Based Medical Marijuana Related to Anxiety, Appetite and Cognition",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mira-pharmaceuticals-releases-breakthrough-data-from-artificial-intelligence-simulations-1032870212",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mira-pharmaceuticals-releases-breakthrough-data-from-artificial-intelligence-simulations-1032870212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-artificial-intelligence-accenture-and-amazon-web-services-aws-to-enable-adoption-of-generative-ai-tech.md",
-      "title": "Artificial Intelligence: Accenture and Amazon Web Services (AWS) to Enable Adoption of Generative AI Tech",
-      "excerpt": "Accenture (NYSE: ACN) and Amazon Web Services (AWS) have announced the two companies will collaborate to help developers and enterprise customers accelerate the adoption of advanced generative AI technology. Generative AI shows promise in “transforming ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/12/217510-artificial-intelligence-accenture-and-amazon-web-services-aws-to-enable-adoption-of-generative-ai-tech/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/12/217510-artificial-intelligence-accenture-and-amazon-web-services-aws-to-enable-adoption-of-generative-ai-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/12/217510-artificial-intelligence-accenture-and-amazon-web-services-aws-to-enable-adoption-of-generative-ai-tech/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/217510-artificial-intelligence-accenture-and-amazon-web-services-aws-to-enable-adoption-of-generative-ai-tech/amp/",
-      "publishedDateTime": "2023-12-04T13:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-three-fintech-shifts-to-prepare-for-in-2024.md",
-      "title": "Three Fintech Shifts To Prepare For In 2024",
-      "excerpt": "As an industry, we are now better positioned to capitalize on emerging trends, harness new technologies and forge stronger connections within the global market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/04/three-fintech-shifts-to-prepare-for-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/04/three-fintech-shifts-to-prepare-for-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e11fa3309e803d18166590/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1033,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/04/three-fintech-shifts-to-prepare-for-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/04/three-fintech-shifts-to-prepare-for-in-2024/amp/",
-      "publishedDateTime": "2023-12-04T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-inu-scientists-propose-a-model-to-predict-personal-learning-performance-for-virtual-reality-based-safety-training.md",
-      "title": "INU scientists propose a model to predict personal learning performance for virtual reality-based safety training",
-      "excerpt": "In Korea, daily workers are being provided with virtual reality (VR)-based safety training content to mitigate the increase in occupational accidents. However, the current training evaluation methods suffer from a lack of immediate feedback from participants for personal learning performance evaluation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1009805",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1009805",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c4f7c4b2-ffaa-43cf-b218-37841f21443f/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T12:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-a-new-world-of-artificial-intelligence.md",
-      "title": "A new world of artificial intelligence",
-      "excerpt": "AI has existed in sports for a quarter-century but not like this. Generative AI, the field that underlies ChatGPT, creates new data and content. Even what the public saw a year ago was not truly new technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportsbusinessjournal.com/Articles/2023/12/04/artificial-intelligence.aspx",
-      "originalUrl": "https://www.sportsbusinessjournal.com/Articles/2023/12/04/artificial-intelligence.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sportsbusinessjournal.com/-/media/Images/Journal/2023/12/04/InDepth/Main-PGA-Tour-Virtual-Assistant_9382.ashx",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T11:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sports Business Journal",
-        "domain": "sportsbusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-fintech-in-2024-the-big-questions-answered.md",
-      "title": "Fintech in 2024: The big questions answered",
-      "excerpt": "In this roundtable, we ask how the industry could be affected by changes in cybersecurity, crypto, AI, open banking, mobile and welltech going into 2024",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/articles/fintech-in-2024-the-big-questions-answered",
-      "originalUrl": "https://fintechmagazine.com/articles/fintech-in-2024-the-big-questions-answered",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/1200/73170323e972627b65ae532c17c7d8ec:a4684e747c11e71a1a8b0bbb3fdceef7/gettyimages-1321209107.jpg.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T09:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models.md",
-      "title": "Landing AI Announces New Capability to Build Domain-Specific Large Vision Models",
-      "excerpt": "LVMs enable enterprises to solve computer vision problems more quickly; Landing AI to help enterprises build and run LVMs at the edge, on-prem, and in the cloud PALO ALTO, Calif. , Dec. 4, 2023 /PRNewswire/ -- Landing AI, the leading computer vision cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2291237/LVMs.jpg",
-          "width": 400,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T08:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

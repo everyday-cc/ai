@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-23T00:01:00Z
 originalUrl: "https://www.the-scientist.com/infusion-of-artificial-intelligence-in-biology-71665"
 webUrl: "https://www.the-scientist.com/infusion-of-artificial-intelligence-in-biology-71665"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.the-scientist.com/assets/articleNo/71665/aImg/52217/66166-ts-newsletter-ai-image-ac-800x560-m.jpg"

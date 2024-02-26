@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel's AI Reboot Is the Future of US Chipmaking"
-    excerpt: "Rival Nvidia, which mints chips with TSMC, became the AI industry’s workhorse and has seen its business soar. But Gelsinger argues that with AI still growing fast and millions of AI chips expected to be needed, Intel can become a major player."
-    publishedDateTime: 2024-02-21T13:25:00Z
-    webUrl: "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 84
-    images:
-      - url: "https://media.wired.com/photos/65d6409e2a66db9b96a0d09c/191:100/w_1280,c_limit/Intel-Foundry-IFDC-7.jpg.rendition.intel.web.1920.1080.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Intel’s CEO Says AI Is the Key to the Company’s Comeback"
     excerpt: "Will Knight: You announced this week that Intel will relaunch its business that manufactures chips on behalf of other companies as an “AI-era system foundry.” What does that mean? Pat Gelsinger: I began Intel’s strategy two plus years ago ..."
     publishedDateTime: 2024-02-22T16:55:00Z

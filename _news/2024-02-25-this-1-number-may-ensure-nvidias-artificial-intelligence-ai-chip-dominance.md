@@ -668,6 +668,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
+  - title: "Nvidia's surge ripples across stock market - lifting AI, tech and semiconductor ETFs"
+    excerpt: "The Global X Robotics & Artificial Intelligence ETF BOTZ, which has around $3 billion of assets under management, closed 4.4% higher, according to FactSet data. Megacap semiconductor company ..."
+    publishedDateTime: 2024-02-22T14:02:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20240222735/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 12
   - title: "Chipmaker Nvidia Just Posted Unbelievable Revenue Growth. It's All Down to the AI Revolution"
     excerpt: "The reason is simple, according to the company's CEO Jensen Huang. It's because \"accelerated computing and generative AI have hit the tipping point,\" and demand for powerful chips that can help with all the number crunching needed to make AI work is \"surging worldwide across companies, industries and nations.\""
     publishedDateTime: 2024-02-22T18:15:00Z
@@ -678,6 +687,6 @@ related:
       domain: inc.com
     quality: 6
 
-secured: "uUri5xg/XkSS3UaYNaRTy7uQuQyuHmioJKMFXBHGD05+8yCrXFI2vM1Wj4A4SStOFz90tNbiowikTwnUYE4bNkwa3B/wNDPp8AV8kvaiXo5KBNQXIJQgXC+jnwOejI5IdfV7rhbpTZENjJ6s7VGp9k361JNkYylAsRsv4blQX8QFsbhKg2L7EMB2sR85ULpdgj4ORUwgAsAtC63Ix3tq7+u2xv0M+FFY3ZJTsjw+atmTlxlsvVrtaVeFY8QBZaw5Qvzv82gw1qdSaM2e6fp/5r0htlq8Q+fAOrFrOlA2ORKmZYozBGnvfP9DOjs1cMFUertJmhBJAhP0BXeqQirXR+ng2JE+7pM7IFR2MJEnv9Y=;6p1lMYJE4eV9pl/DYhAEJQ=="
+secured: "vHcl9OVS+q3qVOZS+6AioRo+A36TDsLNOnvVA+EbqKWO1fYwlD3iEy91hkfN84Tx8whG98taBlnYv2dWFnRA5MDuccKCeDbdpBdoAg4rx3yEAOLVS2XuA6cI3F9F92Ht/OkGC/6AUfnEBJ4ZRgt6LoDxIdNf4BdVutIV0PvUhcKB23OD4E1/M9GYtJsqejkcNi/4vbY72ofmRas6wT9czja74yQ8khpD+27/KFg27W+iynJe3MkdQJLKHyFcMQaIjEqSTcT0Xn8ysoGvOTdLH8Pd5q3zaEQRlcpMQelpCdU9OtH26OG6AfgudwzjVMT1tscQ9VBDwdlU6V12oqihdhJPaarcaLYvOVf7P+agg4aTC21VyybcMI/umH+4oYlCtNNe1Lb0XDqSIA7oujc9OWjBwDfVqshhC6BzKS6EaQ81Q2NkzZDPXA+dYoTkm2SIbV6sJMhV5Slw1Ki68G0F5vaQiYAjK75BgG24ljgU30zxefpV2jQRmRFsqtWc0ok6fBAUBFCbs3Qw4xCInBzQnw==;jd2f6I8QCqv7oypjjc14/A=="
 ---
 

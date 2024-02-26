@@ -669,6 +669,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
+  - title: "Nvidia's surge ripples across stock market - lifting AI, tech and semiconductor ETFs"
+    excerpt: "The Global X Robotics & Artificial Intelligence ETF BOTZ, which has around $3 billion of assets under management, closed 4.4% higher, according to FactSet data. Megacap semiconductor company ..."
+    publishedDateTime: 2024-02-22T14:02:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20240222735/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 12
   - title: "Chipmaker Nvidia Just Posted Unbelievable Revenue Growth. It's All Down to the AI Revolution"
     excerpt: "The reason is simple, according to the company's CEO Jensen Huang. It's because \"accelerated computing and generative AI have hit the tipping point,\" and demand for powerful chips that can help with all the number crunching needed to make AI work is \"surging worldwide across companies, industries and nations.\""
     publishedDateTime: 2024-02-22T18:15:00Z
