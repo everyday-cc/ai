@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-22-light-therapy-helps-ease-pain-for-cancer-patients.md",
+      "title": "Light therapy helps ease pain for cancer patients",
+      "excerpt": "Neck and head cancer patients will be able to seek a new treatment to ease the pain of radiotherapy and chemotherapy Cancer patients at a hospital trust have started using light therapy to help them with side effects caused by chemotherapy and radiotherapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo?at_format=link&at_campaign_type=owned&at_link_id=43992F9A-D147-11EE-8422-ED8E4B3AC5C4&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=bbchealth&at_link_type=web_link",
+      "originalUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo?at_format=link&at_campaign_type=owned&at_link_id=43992F9A-D147-11EE-8422-ED8E4B3AC5C4&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=bbchealth&at_link_type=web_link",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/246f/live/9faa1f10-d0f7-11ee-8a50-0f587568c5bc.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/cg3ee8xl96eo.amp",
+      "publishedDateTime": "2024-02-22T09:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand.md",
       "title": "European Chip Stocks Surge After Nvidia Sales Reach New Heights on Booming AI Demand",
       "excerpt": "Chief Executive Jensen Huang described AI as hitting the tipping point and indicated demand ... Earlier on Thursday, SoftBank Group, the parent of British chip designer Arm Holdings, advanced more than 5%, while chip-making equipment maker Tokyo Electron ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 624,
+      "heat": 614,
       "tags": null,
       "images": [
         {
@@ -103,58 +155,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-gboard-is-gaining-the-ability-to-copy-text-from-the-real-world.md",
-      "title": "Gboard is gaining the ability to copy text from the real world",
-      "excerpt": "Google Lens is one of the more useful apps on a smartphone, using your mobile camera for text recognition, object searches, and more. Now, one of the best Lens features is coming to Gboard. 9to5Google reports that Google is now bringing a so-called Scan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/gboard-scan-copy-text-real-world-3417910/",
-      "originalUrl": "https://www.androidauthority.com/gboard-scan-copy-text-real-world-3417910/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2024/02/Gboard-Scan-Text-feature-image-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T08:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -957,6 +957,48 @@
       ]
     },
     {
+      "path": "_news/2024-02-22-new-adobe-ai-assistant-will-tackle-your-long-dense-pdfs.md",
+      "title": "New Adobe 'AI Assistant' will tackle your long, dense PDFs",
+      "excerpt": "AI Assistant also provides citations and clickable links ... Before that, she co-founded a startup consulting business for emerging entrepreneurial hubs in South America, Europe, and Asia. You can find her on Twitter at @cecily_mauran.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/adobe-ai-assistant-summarize-edit-pdfs",
+      "originalUrl": "https://mashable.com/article/adobe-ai-assistant-summarize-edit-pdfs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/03RxUKgIX9M8PDtGsMArUdH/hero-image.fill.size_1200x675.v1708536414.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T18:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-first-gemini-now-gemma-googles-new-open-ai-models-target-developers.md",
       "title": "First Gemini, now Gemma: Google's new, open AI models target developers",
       "excerpt": "On Wednesday, Google unveiled Gemma, a family of lightweight, open models developed by DeepMind and other teams across Google that are charged with AI development and research. Introducing Gemma: a family of lightweight, state-of-the-art open models for ...",
@@ -965,7 +1007,7 @@
       "originalUrl": "https://www.zdnet.com/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 591,
+      "heat": 561,
       "tags": null,
       "images": [
         {
@@ -1070,7 +1112,7 @@
       "originalUrl": "https://fortune.com/education/articles/ai-bootcamps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1217,58 +1259,6 @@
         "Meta AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now.md",
-      "title": "Driving Value From AI Copilots: 3 Trends That C-Suite Executives Need To Act On Now",
-      "excerpt": "New research shows that 92% of business and IT leaders agree their organizations need to shift to an AI-first operating model over the next 12 months to stay competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/avanade/2024/02/21/driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now/",
-      "originalUrl": "https://www.forbes.com/sites/avanade/2024/02/21/driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d6137fe02d960e7e721f11/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/avanade/2024/02/21/driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/avanade/2024/02/21/driving-value-from-ai-copilots-3-trends-that-c-suite-executives-need-to-act-on-now/amp/",
-      "publishedDateTime": "2024-02-21T15:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
       ]
     }
   ],

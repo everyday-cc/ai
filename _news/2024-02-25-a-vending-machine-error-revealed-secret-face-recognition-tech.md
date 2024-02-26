@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/facial-recognition-vending-machine-err
 webUrl: "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/"
 type: article
 quality: 69
-heat: 124
+heat: 129
 published: true
 
 provider:

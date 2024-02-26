@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 85
 published: true
 
 provider:
@@ -29,31 +29,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "New chip opens door to AI computing at light speed"
-    excerpt: "Engineers have developed a new chip that uses light waves, rather than electricity, to perform the complex math essential to training AI. The chip has the potential to radically accelerate the processing speed of computers while also reducing their energy consumption."
-    publishedDateTime: 2024-02-21T00:02:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2024/02/240216135820.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
-  - title: "Creating Guidelines for the Use of Gen AI Across Campus"
-    excerpt: "Conatser: One of the first conversations that we had as the ADVANCE team, and one that we have on a regular basis, is that these guidelines are specifically addressing generative AI. Whenever we start sliding into other language like AI and machine ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://campustechnology.com/articles/2024/02/21/creating-guidelines-for-the-use-of-gen-ai-across-campus.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 37
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2024/02/20240220ai.jpg"
-        width: 644
-        height: 300
-        isCached: true
-
-secured: "zKaLOfvu58NLyWiUufVZd4+UNZj/kPpwQQ3HorRehM+JE515kTyqAKsTmxzDl3oVsQr2vtJoSJNx2sB3NI6BP9bcEqSoZ1wMSyGYDYtLOTjWaOwFQEiUbGkKNG9y/6+qMB9IrEiDM3ah4gagGkiiiXJ3k7wCqkej9JIBF+qN0nilmxtnFgIcx5hk2UqbsQMQKG2qdfsPjtvC+OCw1jcoDJTQ4v+MlIL694iYuJhQ1rYF5jDIvoIf3QXZDNpv2Dc4LTmrOvEZ7DP67z9fzC0WzjOCfYo5cRxYVPD2l+dWuMq823Ed+75peuonvTvC7DdBFmQT6nefOSOOALZ0GzJxCnmEbdVmmHxz28MLmWOjQ5A=;GoZMGrrnfOQ+yYQcv/1/lw=="
+secured: "vLqV+z3g4MZ9PHxynQPavHBS2RP603htXZwMpTUjhXyeP+1VjqW+4UTDtwe90I5i08fZgmrxrsr6OlfRjXGDTGMLjKNm6Fd6B30fulzVR4Vb7imzpEN1B9YoDQNcFLSLHyEzh3dvAE/rDIhsBtH0YOA5uw9VluW6siO7C/SJeKGuKBpeMpj+GnL4Zov+2Lo08dLJ1+1iMHxdgTGafGTNwCgbiosDNPx/0oXlOmypdtliMqsYzVFFuoyZsx9zk0y6KcXua01D9AdTq4wjHqLMHfHFAq5rjToRydjLJbTU7dYXh8fgEtRkKFudtD4mh9Uxcb/g8rul9WyAhl30xIiNT5MXEYKW+spjhJqLXAonCeo=;6kYuM0X9SvFZ5aDGyBC5ug=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/hartford-healthcare-launches-ce
 webUrl: "https://healthitanalytics.com/news/hartford-healthcare-launches-center-for-ai-innovation"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Patient Trust in Healthcare AI Relies on Use Case, But Familiarity Is Lacking"
-    excerpt: "A recent athenahealth/Dyanata poll showed that patient trust in AI for healthcare depends on the use case, but many patients don't know what their providers are using AI for."
-    publishedDateTime: 2024-02-21T12:00:00Z
-    webUrl: "https://patientengagementhit.com/news/patient-trust-in-healthcare-ai-relies-on-use-case-but-familiarity-is-lacking"
+  - title: "Revolutionizing Healthcare: The Top Health Technology Solutions"
+    excerpt: "Introduction In the fast-paced world of healthcare, technology is rapidly transforming the landscape, offering innovative solutions to age-old challenges. From improving patient care to streamlining administrative processes,"
+    publishedDateTime: 2024-02-23T00:07:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-the-top-health-technology-solutions/"
     type: article
     provider:
-      name: patientengagementhit
-      domain: patientengagementhit.com
-    quality: 33
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/Revolutionizing-Healthcare-The-Top-Health-Technology-Solutions.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Driving Accessibility in HealthTech: 3 Things Founders should Consider for Thoughtful AI Implementation in 2024"
     excerpt: "The benefits of artificial intelligence in healthcare are apparent. With careful planning, we can ensure that these developments benefit everyone, leaving no one behind in the goal of a healthier and more equal future."
     publishedDateTime: 2024-02-23T22:31:00Z

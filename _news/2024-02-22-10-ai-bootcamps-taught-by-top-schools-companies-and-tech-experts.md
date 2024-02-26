@@ -7,7 +7,7 @@ originalUrl: "https://fortune.com/education/articles/ai-bootcamps/"
 webUrl: "https://fortune.com/education/articles/ai-bootcamps/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/02/upgrad-1708518642.jpg"
         width: 360
         height: 202
-        isCached: true
-  - title: "Upgrad Uses AI To Translate Certs & Bootcamps Into Local Languages"
-    excerpt: "(MENAFN- IANS) New Delhi, Feb 21 (IANS) Ronnie Screwvala-founded edtech platform upGrad on Wednesday said that it plans to enhance its product diaspora by translating popular Certs & Bootcamps into local languages using artificial intelligence (AI ..."
-    publishedDateTime: 2024-02-21T00:45:00Z
-    webUrl: "https://menafn.com/1107878024/Upgrad-Uses-AI-To-Translate-Certs-Bootcamps-Into-Local-Languages"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/21/I_b6eb2image_story.png"
-        width: 500
-        height: 261
         isCached: true
 
 secured: "gS06SSW4D0Vi5aPuKUSjop/BatwINsEVci3lgcBzeRiAIKLA6CUqjnhKVpyLhjRQxQGSIREvTP8qeby34KuUtXx0u5mDBR+15Eu2UFqQu9EwXb3GjbZKVhqYUY+ddGCpnb9K9E2FnIQtG8clbEZUnRbljQJRMNYjT3XVLPT/OltFv2DmqMYmKIqAvARnc+2yPYxNTyt9zFszGjVBoL69MEjqYbRejsmCIkhaYoIdKd9KLqCkFYuPsGt5KSQ2Zr8vXqiC8MpG4MWjrDtx6gz0QhM0SXgdLq1mb+YOPlNsHTz6pKmZLPH2vfTXDJK7RptPi0Fcdv8oMmx3Kxu+SOtC0yJPNMbN79NoeKD0SJIge3o=;K8OsUMaxN7hn5aqwOas/3g=="

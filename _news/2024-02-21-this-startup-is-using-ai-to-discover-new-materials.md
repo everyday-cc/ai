@@ -23,21 +23,21 @@ topics:
   - Google AI
 
 related:
-  - title: "Tokyo startup Attuned is trying to use AI to motivate workers."
-    excerpt: "Over 27 million California residents are under flood watches. CNN meteorologist explains"
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.cnn.com/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn"
+  - title: "Why this startup is betting on AI-powered tech to predict your future"
+    excerpt: "Astroyogi, a spiritual technology startup, anticipates growth from positive response ... we aim to create more immersive experiences to bolster user engagement. The integration of AI and ML technologies is a pivotal aspect of our investment, enabling ..."
+    publishedDateTime: 2024-02-22T18:46:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/articleshow/107923269.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/amp_articleshow/107923269.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/amp_articleshow/107923269.cms"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/240221072734-exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business-00002001.png?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
+      - url: "https://static.toiimg.com/thumb/msid-107923269,width-1280,height-720,resizemode-4/107923269.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "YFhLSP7stA5laAXMiL0D0wCYhlDA/78uXgv93mrCkfay2pGfoHA//J2QTRgzaqqdM63a7PE0q8eaKejT7rTNf4GrFjD5e6k3/aeiUWc925yuf6XQDFIH69+B5UFIsFRUB4GkMZWTBHiDqpCFwb3dwF1Bc4v0ISmlSSrTZzmOdpDi1hQs+/FzHf//qVJbpIr+NMRQ5CCiSD8XQVIY+DCMYOLb/QepIZJ57dSaQsVoaRrn5Gnvry/JMafIThJu8xlsjcwIdMTEy0i/yDr5vNv5VGUtNhT1RlvuEupKxaoxoUFNFZ93vZTwMmuxde8hjqysh+DWYjMSojHa2cB5SmklcJGAdlF3IAq1UZP3WAcAFEc=;BInfdB6gZHn7WouEIIYZow=="

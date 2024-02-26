@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
 type: article
 quality: 93
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://static.india.com/wp-content/uploads/2024/02/IDC-Story-30-1.png"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The 7 Best Free AI Logo Generators That Aren’t ChatGPT"
-    excerpt: "Some AI logo generators will automate the entire process from start to finish based on a single prompt, while others will ask you a few supplementary questions to ensure you’re on the same page. There are also some logo generators we’ve tried that ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://tech.co/news/best-free-ai-logo-generators"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 54
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/02/20074049/AdobeStock_583862221-1.jpeg"
-        width: 1920
-        height: 960
         isCached: true
   - title: "Recruiters Missing Signs That Tech Job Applicants Are Using ChatGPT to Cheat"
     excerpt: "The AI revolution is truly upon us as real humans use AI to fool other humans into offering them coding jobs. But does it really matter?"

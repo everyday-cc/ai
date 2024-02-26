@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-c
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: Indiatimes
@@ -25,22 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "UPenn develops optical chip to process complex math for AI"
-    excerpt: "Computing optically could cut the cost of AI: Prof. Nader Engheta. Engineers at the University of Pennsylvania (UPenn) have developed a new optical chip to perform the complex math essential to training AI. Its developers say that the chip has the ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://optics.org/news/15/2/28"
-    type: article
-    provider:
-      name: Optics
-      domain: optics.org
-    quality: 71
-    images:
-      - url: "https://optics.org/objects/news/thumb/15/2/28/UpennmanM.jpg"
-        width: 476
-        height: 267
-        isCached: true
 
 secured: "+pkPpBxULsvL5NTltiwSamYULi6wuJi8xbvnjsySV3Ev0P0f4YasHXNpjn+zW9Jdyz17TJMSURp/au/Rc0oA1s+ExZ3w1njY3loRyhrDKOxyQAEgRBmLB11P7CjmI/xQe9CmAD+m+ZRJRc0OP758cdZv6pEQ33YyabX89wsbrFolFUVNJPOmm3PcdZYbBNA21X2WZ0Bh9HygfqXDMBaLorg6ozUmZbnCNPvd5ARFBgF/6VNjPHkHzgtvSA4zB8vYb+KNpvSbFfYnYCZ5oS+ijTgFr0Pei40Sb47FtY41/lPi2sjuQsaJhk9UXL7gM6OX/gvvGQWWqEDGruji4EelcIhqwhwGe0O5Kd7Ew4mydlI=;mVYdXjqTna52iEPagXVbhg=="
 ---

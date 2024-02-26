@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-34
 webUrl: "https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/"
 type: article
 quality: 62
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Galaxy AI Confirmed to Come to Galaxy Wearables"
-    excerpt: "In other words, get ready to see Galaxy AI soar across Samsung’s wearable ecosystem. The support could possibly bring smarter health monitoring, seamless language translation, and who knows what other surprises to your wrist (and finger) soon!"
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/"
-    ampWebUrl: "https://www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/04/Samsung-Galaxy-Watch5-Pro-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Samsung says more Galaxy devices will get AI features, announces major update"
     excerpt: "With this update, more Samsung Galaxy users can take advantage of the communication-enhancing AI features on AI-supported models"
     publishedDateTime: 2024-02-22T10:42:00Z

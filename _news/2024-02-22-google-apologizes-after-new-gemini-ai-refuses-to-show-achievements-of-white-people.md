@@ -161,34 +161,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google Enters the Lightweight AI Market With Gemma"
-    excerpt: "Google has released Gemma, a family of AI models based on the same research as Gemini. Developers can’t quite get their hands into the engine of Google Gemini yet, but what the tech giant released on Feb. 21 is a smaller, open source model for ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.techrepublic.com/article/google-gemma-chat-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240221-google-gemma-chat-ai.jpg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Google goes “open AI” with Gemma, a free, open-weights chatbot family"
-    excerpt: "Gemma chatbots can run locally, and they reportedly outperform Meta's Llama 2."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://arstechnica.com/civis/threads/google-goes-“open-ai”-with-gemma-a-free-open-weights-chatbot-family.1499024/page-2"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/65d512ac5503edf560835d2c/191:100/w_1280,c_limit/politics_gab_chatbot_extreme_racist.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Google Launches Two Free 'Gemma' AI Models Inspired by Gemini"
     excerpt: "Google has launched two new open AI models, Gemma 2B and Gemma 7B, with the goal of supporting AI use in third-party applications. The Gemma models vary in size, meaning the simpler Gemma 2B may be better for less intensive AI applications, while Google data suggests that Gemma 7B could outperform other AI models like Mistral or Meta's LLAMA-2."
     publishedDateTime: 2024-02-21T15:58:00Z
@@ -493,20 +465,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96379_01_googles-lightweight-gemma-ai-optimized-to-run-on-nvidia-gpus_full.jpg"
         width: 1500
         height: 843
-        isCached: true
-  - title: "Duet AI is now Google Gemini, ready to help in Gmail, Docs, and other Workspace apps"
-    excerpt: "Continue to check back with us as we will be adding more information as it becomes available. Google Bard is now Google Gemini. Google Assistant is in the process of being replaced by Google Gemini. If you're in the Google ecosystem, it seems there's no ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.androidpolice.com/duet-ai-google-gemini-rebrand-workspace-apps-b/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 32
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-1-ap-hero.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Google rebrands Duet AI in Workspace to Gemini with new Business and Enterprise plans"
     excerpt: "As teased earlier this month, the Gemini rebrand is now coming to Duet AI in Gmail, Drive, Docs, and other Google Workspace apps."

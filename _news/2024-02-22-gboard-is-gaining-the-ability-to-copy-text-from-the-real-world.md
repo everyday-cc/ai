@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/gboard-scan-copy-text-real-world-
 webUrl: "https://www.androidauthority.com/gboard-scan-copy-text-real-world-3417910/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Android Authority
@@ -27,17 +27,6 @@ images:
     width: 2560
     height: 1440
     isCached: true
-
-related:
-  - title: "Gboard’s AI proofreading tool is literally becoming more selective"
-    excerpt: "If you haven’t started using an AI feature from Google just yet, they will start becoming more difficult to avoid — even if you’re just using an app like Gboard. While it may seem unnecessary to deploy something as complex as AI in a keyboard app ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.androidpolice.com/gboard-proofread-text-editing-ai-google/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 17
 
 secured: "JXIVw1m+jrMTi5ZpwQdVZICg5J96vhPX8neb8FNcAqT3aici93bjIf2/TfVIUI/ti183hnanDvSv29/iF2NOxdudZNxKa7ZKihnRa6RxL1/QJFCOii9/wKUKOomQloO520YX7QW+7afL5Z0QeQ1i19khujT09twmGCiP9Jm1p4T5oZ5V6FkvPhabbFjYJ7HUWPZMAXqFOK3EYWKXF71hATd/SAbyES9RJP285lQiUpwZ7BKrc8G6+TvMv9JkZOWwBpUaCZPf8lBVHig6PVdJdXT0HcVomBbemJddfN91ZjvGzjkBqR/UuDaarTWD8y89ovg4y4f+JSORom3YT1SOpI4EaU/JmOr9AKKSGifyf1/TFCIHkT6vFxLe2MgGOaCDdFiFMTcnK3qYUpZ2vyQEZJMH8JVQIhrgxCYpRj/N3dFU9adbcFyA7pKPXFrSh5DIsS/uJ2CJK4McEETpNqy0i/fXWBZOP1RgkmmW+Nclu4AhOQVTaXrr6W6f9mHgQAeNnrQFTcFr4y8wCq6NGZscxw==;Znfj7lMVRyhHHVF2w01fyQ=="
 ---

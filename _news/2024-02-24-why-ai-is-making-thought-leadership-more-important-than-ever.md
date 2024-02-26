@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:

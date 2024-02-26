@@ -2,6 +2,134 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2024-01-17-tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models.md",
+      "title": "Tokyo startup Sakana AI lands $30M to forge new path with compact AI models",
+      "excerpt": "Sakana AI, a Tokyo-based startup founded by former Google researchers, raises $30 million to develop smaller, efficient AI models inspired by natural swarm intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
+      "originalUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_school_of_koi_fish_c9def417-ac41-4805-82ab-766ca22287c7.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T04:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-deep-learning-in-science.md",
+      "title": "Deep Learning in Science",
+      "excerpt": "Browne, Andrew W. Deyneka, Ekaterina Ceccarelli, Francesco To, Josiah K. Chen, Siwei Tang, Jianing Vu, Anderson N. Baldi, Pierre F. and Lewin, Alfred S 2022. Deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/deep-learning-in-science/5A620F1E5DB54A7FB1D3E3C1A80E0860",
+      "originalUrl": "https://www.cambridge.org/core/books/deep-learning-in-science/5A620F1E5DB54A7FB1D3E3C1A80E0860",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T02:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-google-might-rebrand-assistant-with-bard-before-launch.md",
+      "title": "Google might rebrand ‘Assistant with Bard’ before launch",
+      "excerpt": "Before Assistant with Bard launches on Android, Google might be dropping the \"Assistant\" moniker and rebrand to just \"Bard.\"",
+      "sourceUrl": null,
+      "webUrl": "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/?extended-comments=1",
+      "originalUrl": "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/?extended-comments=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/assistant-with-bard-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T00:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5google",
+        "domain": "9to5google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-16-vcs-funding-disruptive-tech-in-entertainment-from-ai-to-blockchain-based-games.md",
       "title": "16 VCs funding disruptive tech in entertainment, from AI to blockchain-based games",
       "excerpt": "Accel most recently led Assembly's $50 million Series C in December. Two-year-old Aperture is interested in the intersection of fintech and AI with entertainment, along with other industries. It recently co-led a $1 million seed round in Conduiit ...",
@@ -957,117 +1085,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-01-16T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-self-driving-freight-trucks-to-be-tested-by-continental-in-new-braunfels.md",
-      "title": "Self-driving freight trucks to be tested by Continental in New Braunfels",
-      "excerpt": "A Texas Hill Country facility will be the site for testing an autonomous commercial truck system called Aurora Driver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mysanantonio.com/business/article/continental-self-driving-trucks-18603183.php",
-      "originalUrl": "https://www.mysanantonio.com/business/article/continental-self-driving-trucks-18603183.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "mysanantonio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years-goldman-sachs.md",
-      "title": "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs",
-      "excerpt": "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years.",
-      "sourceUrl": null,
-      "webUrl": "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556",
-      "originalUrl": "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
-          "width": 251,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T15:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-national-beat-top-cities-for-tech-salaries-draft-beer-robots-and-startups-to-watch.md",
-      "title": "National Beat: Top cities for tech salaries, draft beer robots, and Startups to watch",
-      "excerpt": "Where software engineers make the most money, draft beer robots, and more startups to watch in the latest National Beat",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/albany/inno/stories/news/2024/01/16/national-beat-top-cities-for-techies.html",
-      "originalUrl": "https://www.bizjournals.com/albany/inno/stories/news/2024/01/16/national-beat-top-cities-for-techies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T15:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Business Journals",

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2024-02-21/health-care-ai-
 webUrl: "https://www.bloomberg.com/news/articles/2024-02-21/health-care-ai-startup-raises-60-million-from-general-catalyst-thrive-gv"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,20 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "AI-driven ad targeting startup Qloo raises $25M"
-    excerpt: "Qloo Inc ., a startup that claims to be a pioneer in “cultural AI,” said today it has closed on a new funding round worth $25 million."
-    publishedDateTime: 2024-02-21T14:00:00Z
-    webUrl: "https://siliconangle.com/2024/02/21/ai-driven-ad-targeting-startup-qloo-raises-25m/"
+  - title: "Healthcare startup Abridge raises $150 mln for AI model for clinicians"
+    excerpt: "Feb 23 (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/target-arrow-hitting-bullseye-office-desk-table.jpg"
-        width: 2000
-        height: 1335
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+  - title: "Abridge, an AI start­up for med­ical notes, rais­es $150M"
+    excerpt: "Abridge raised a Series C just four months after its last round, as investors remain interested in betting big on health AI even in a tougher market for health tech. Abridge chief"
+    publishedDateTime: 2024-02-23T12:43:00Z
+    webUrl: "https://endpts.com/abridge-an-ai-startup-for-medical-notes-raises-150m/"
+    type: article
+    provider:
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 17
+  - title: "Generative AI startup Abridge secures $150M in new funding"
+    excerpt: "The clinical documentation space has been buzzing with interest since ChatGPT's public launch in November 2022."
+    publishedDateTime: 2024-02-23T03:01:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/nuance-abridge-funding-lightspeed-venture-partners-generative-AI"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 17
   - title: "Health startup raises $60M to automate clinical intakes through AI"
     excerpt: "Fabric plans to invest in its digital software, acquire tech firms and grow its workforce with the new funding."
     publishedDateTime: 2024-02-23T09:33:00Z

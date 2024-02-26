@@ -117,20 +117,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The 7 Best Free AI Logo Generators That Aren’t ChatGPT"
-    excerpt: "Some AI logo generators will automate the entire process from start to finish based on a single prompt, while others will ask you a few supplementary questions to ensure you’re on the same page. There are also some logo generators we’ve tried that ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://tech.co/news/best-free-ai-logo-generators"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 54
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/02/20074049/AdobeStock_583862221-1.jpeg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Inference.ai’s new generative AI chatbot takes the guesswork out of GPU sourcing"
     excerpt: "Inference.ai offers an extensive selection of GPUs, with a fleet of 18 different processors from Nvidia Corp., including its most advanced H100 model. It also offers four models from Nvidia’s rival Advanced Micro Devices Inc., including the all-new MI300X that was specifically designed to handle generative AI workloads."
     publishedDateTime: 2024-02-21T14:12:00Z

@@ -77,20 +77,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Patentability and predictability in AI-assisted drug discovery"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML) are ushering in a new era in drug discovery. The AlphaFold2 system developed by Google’s Deepmind was able to predict the 3D structures of over 200 million proteins - with accuracy on par with ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/patentability-and-predictability-in-ai-9573594/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15281_0526.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Stable Diffusion 3 AI image generator launched by Stability AI"
     excerpt: "This level of comprehension is a testament to the strides made in AI’s ability to interpret human language and translate it into coherent visual representations. What sets Stable Diffusion 3 apart even further is its commitment to community-driven progress."
     publishedDateTime: 2024-02-23T00:01:00Z

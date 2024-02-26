@@ -41,22 +41,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Samsung Galaxy AI Confirmed to Come to Galaxy Wearables"
-    excerpt: "In other words, get ready to see Galaxy AI soar across Samsung’s wearable ecosystem. The support could possibly bring smarter health monitoring, seamless language translation, and who knows what other surprises to your wrist (and finger) soon!"
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/"
-    ampWebUrl: "https://www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/02/21/samsung-galaxy-ai-on-galaxy-wearables/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/04/Samsung-Galaxy-Watch5-Pro-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Samsung Expands Galaxy AI Features Across Latest Devices with One UI 6.1 Update"
     excerpt: "“Our goal with Galaxy AI is not only to pioneer a new era of mobile ... The features include the ability to adjust message tone and translate messages in 13 different languages using Chat Assist. Galaxy users can experience the power of real-time ..."
     publishedDateTime: 2024-02-22T12:43:00Z

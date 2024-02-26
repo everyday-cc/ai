@@ -7,7 +7,7 @@ originalUrl: "https://www.bcheights.com/2024/02/22/panelists-discuss-benefits-ri
 webUrl: "https://www.bcheights.com/2024/02/22/panelists-discuss-benefits-risks-and-legality-of-facial-recognition-software/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1528
     height: 838
     isCached: true
-
-related:
-  - title: "UB computer science professor weighs in on bias in facial recognition software"
-    excerpt: "Despite many upsides, AI has a disturbing element: bias in facial recognition technology that seeps into the criminal justice system, health care and other areas of daily life. For example, a number of people of color have been falsely identified as ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.buffalo.edu/news/tipsheets/2024/ub-ai-expert-facial-recognition-expert-ifeoma-nwogu.html"
-    type: article
-    provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 35
-    images:
-      - url: "https://www.buffalo.edu/content/shared/university/news/expert-tipsheets/2024/ub-ai-expert-facial-recognition-expert-ifeoma-nwogu/_jcr_content/teaser.img.512.auto.jpg/1708552815410.jpg"
-        width: 512
-        height: 768
-        isCached: true
 
 secured: "XvtdqocSXep+UBYeidI6Wg+CD/ywwvyKQvC2o+Xhchs0oP1k4Kg2jnHH1AJbsJiEOR3p53EK0xDiqfmid66wvlzmKzRg+5hNWS9i/panBZNz2YwQjAj3/BFO1vu0MXnPfau82nS9JRcD+uUGZyZUBAU7sQ8hhdngIgZ1dcEzUPD+vlmVR6LqjVQRt8/ThIDze8/fwp/0u3dGyTLAaMQH/ek3eEdK2WuACXgIUQ7wnEgFCs+YXjpM96BnzjOn2/t/Ycyn8hChYU2TiXooc1bDjLKza/Lewew+MV6OxMuwLnD/AnmIsulR5zB0za/zWyH5aN+CRK+B59j33zVKphGPXjS0iGG5J2+wNMSEEY26oZc=;VOJABFTIienULkbLIK+pkA=="
 ---

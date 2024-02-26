@@ -7,7 +7,7 @@ originalUrl: "https://endpts.com/abridge-an-ai-startup-for-medical-notes-raises-
 webUrl: "https://endpts.com/abridge-an-ai-startup-for-medical-notes-raises-150m/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,24 @@ topics:
   - AI
 
 related:
+  - title: "Healthcare startup Abridge raises $150 mln for AI model for clinicians"
+    excerpt: "Feb 23 (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+  - title: "Health Care AI Startup Raises $60 Million From General Catalyst, Thrive, GV"
+    excerpt: "Fabric Labs Inc., a startup that uses artificial intelligence to automate clinical and administrative work in health care, has raised $60 million in a funding round led by General Catalyst."
+    publishedDateTime: 2024-02-21T12:26:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-21/health-care-ai-startup-raises-60-million-from-general-catalyst-thrive-gv"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Generative AI startup Abridge secures $150M in new funding"
     excerpt: "The clinical documentation space has been buzzing with interest since ChatGPT's public launch in November 2022."
     publishedDateTime: 2024-02-23T03:01:00Z
@@ -26,6 +44,15 @@ related:
     provider:
       name: Modern Healthcare
       domain: modernhealthcare.com
+    quality: 17
+  - title: "Health startup raises $60M to automate clinical intakes through AI"
+    excerpt: "Fabric plans to invest in its digital software, acquire tech firms and grow its workforce with the new funding."
+    publishedDateTime: 2024-02-23T09:33:00Z
+    webUrl: "https://www.crainsnewyork.com/health-pulse/health-startup-raises-60m-automate-clinical-intakes-through-ai"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
     quality: 17
 
 secured: "h0FCZn6FYMqmHK+ghwWElj32dLnvBOl18B5r33qdN5L7QHKMV5WmRrN2ACOYoVBuXfagPvxbBe01TRpTEnTHLMTgTwy1rgGIV7+YUdp1MR9V1GNTDwi2Ku5xrYudk/LOux2gV66CiwWvfNlCrymDryFWw8tIOq9avixQQtTUn8wpehI7/aixrxnTH9AEdHoL2wy5c3FY77hxW69a4FVKMOeVCizPe8f4ejXwAgqTlPwUS7jWXjH3M5SSk5SnN01a9Fi1XdgWRQSG3EbHx/OnXnz4GNWDxMA1gRJpkADBXa8/rRWILiZipe+fnUjkUbuNA3ba712BugakSg6etW0Si99Jv38BKmOrtmUVLAeH32m/lNstAPmvBEa6UZzCLCP3PO04uUCOxUu+ClUnofiRxFB0LqkFLifiQk5VYm83ijGJvQaAoRdvCywqK+JfA2r4jA0JYFRMw7KqXwrcnEOUzjTZd4cImknzqv9Q1XLqC7u9rTv2qo+cC7KO/Q8qLOrrscJdBOZh29O2Zihlx6Vw2g==;S87a6d6c1jjY1gATvMhpug=="

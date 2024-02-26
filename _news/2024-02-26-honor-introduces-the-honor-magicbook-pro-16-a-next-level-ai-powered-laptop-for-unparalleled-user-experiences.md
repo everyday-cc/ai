@@ -1,27 +1,27 @@
 ---
 category: news
 title: "HONOR Introduces the HONOR MagicBook Pro 16: A Next-Level AI-powered Laptop for Unparalleled User Experiences"
-excerpt: "AI is unlocking unprecedented capabilities across the cloud, devices, and everyday applications. With the launch of HONOR's MagicBook Pro 16, we are bringing the power of Windows and Azure Speech Services to customers, showcasing the potential of on-device ..."
-publishedDateTime: 2024-02-25T22:05:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/honor-introduces-the-honor-magicbook-pro-16-a-next-level-ai-powered-laptop-for-unparalleled-user-experiences-302070484.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/honor-introduces-the-honor-magicbook-pro-16-a-next-level-ai-powered-laptop-for-unparalleled-user-experiences-302070484.html"
+excerpt: "Global technology brand HONOR today unveiled the HONOR MagicBook Pro 16, a revolutionary AI-powered laptop which sets to redefine the traditional laptop landscape. Based on HONOR's platform-level AI capabilities and joint efforts with technology partners such as Microsoft,"
+publishedDateTime: 2024-02-25T22:32:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-honor-introduces-honor-magicbook-pro-16-next-level-/2024/02/25/9967391.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-honor-introduces-honor-magicbook-pro-16-next-level-/2024/02/25/9967391.htm"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2346756/image_5003200_20414946.jpg?p=facebook"
-    width: 1427
-    height: 747
+  - url: "https://mma.prnewswire.com/media/2346756/image_5003200_20414946.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
       domain: androidauthority.com
     quality: 43
 
-secured: "38O58RQeTO/0OE9LYg/r3ksaWdOZ4C0xoxVw4MMgov2j3xnBOAT9dyTvicDoByXGBa3XEGPzACJ/o6itVvBS51QVMPRsdf6k5w87DGXgURjrgLLbrKhihOXi+F4jvNS1Ykq2ef4HiaVnvz3ZkO8fH1Psiw/qBwnvY0BbYwhsIWczkwROTsCbHWj2AzTfIH4DvHPKPa1J0qqBKRThK9LKGqd3tmDUu+pJzTWzDPz9ELqF+xdp46zhaqfbB/Ww0hTvvpn1Zu8FKglpWr5LQL9VWfHGQXkiK85fNVSsfPfPxJfHHV1aV+AlHSuvqmuEUaAcN+4iyWO+vGn7nsb6IPLh9AIwIE4T0p19FilDfeakpn4=;Kq5guyCfysRSyUKXTiWeFA=="
+secured: "3hiHrvcJ1mOXSCW+Xy/B8xBzZ1ZQD9OnP+3UcGedQjqNTgXLOynR8/DrPI0tbAtcNG8kgcpuLqxRk8elg4tzZPxcIYfpmdCWOlKzQpyEHONDIZPDQax3fPjBm513ItvNw1ZdPA6iD+VbGt6/iTAzG4JYunY7/Odg18+DN3/ftYsQB5LQN2Dqlla3AaNFQiQSMZJBADkO5/OtSifMveZTiC7BfZnDSynbtNClcppK9WQEJB6lRf5dgwiU1ihFWrtYQXJpqc/UMy+Beu5PhgfWFcQaxhXQYUOiYDIO/hTQ9VMyg0r2A18OwPyEXRdNXnft7zfMV7YccMZudyjDPSQJwSWFYbQrMCuFq4jCSyFUzlE=;iov8e6INubU18/cx+e1UUA=="
 ---
 

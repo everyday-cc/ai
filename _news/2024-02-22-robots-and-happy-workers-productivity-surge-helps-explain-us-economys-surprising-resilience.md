@@ -7,7 +7,7 @@ originalUrl: "https://www.gwcommonwealth.com/robots-and-happy-workers-productivi
 webUrl: "https://www.gwcommonwealth.com/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -17,45 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Robots and happy workers: Productivity surge helps explain US economy’s surprising resilience"
-    excerpt: "Enter the robots. The company invested in machines that could ... that the productivity boom can continue. Artificial intelligence, they note, is only beginning to penetrate factory floors, warehouses, stores and offices. “Right now, AI is not a critical ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.pressherald.com/2024/02/21/robots-and-happy-workers-productivity-surge-helps-explain-us-economys-surprising-resilience-2/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 43
-    images:
-      - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2024/02/Economy_More_Productive_Workers_20109_50a9af-1708555662.jpg?w=1000"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Robots and happier workers: Productivity surge helps explain US economy’s surprising resilience"
-    excerpt: "Artificial intelligence, they note, is only beginning to penetrate ... Some workers supplanted by robots do often struggle to find new work and end up settling for lower pay. Yet history suggests that in the long run, technological improvements actually ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.adn.com/nation-world/2024/02/21/robots-and-happier-workers-productivity-surge-helps-explain-us-economys-surprising-resilience/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 42
-    images:
-      - url: "https://www.adn.com/resizer//OnrR-U4WHfpUcq58MKrICHXmRTw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/GKMWP27E3BKP7J5MOZLXQ6DH7Y.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robots and happy workers: Productivity surge explains economy’s resilience"
-    excerpt: "Artificial intelligence, they note, is only beginning to penetrate ... Some workers supplanted by robots do often struggle to find new work and end up settling for lower pay. Yet history suggests that in the long run, technological improvements actually ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://finance-commerce.com/2024/02/robots-and-happy-workers-productivity-surge-explains-economys-resilience/"
-    type: article
-    provider:
-      name: Finance & Commerce
-      domain: finance-commerce.com
-    quality: 32
 
 secured: "V1EouUHiWZFYg4E5TfFfs/42vT4zuTtPxxgC2nftjnkmQKs1VAltGMz5aKxjqDMCBZF7otqGsKqnxFzmR4WQgdJBRr0pM5qFbZm2zn0vx1Ti4sd5tuKG+LX9VgHsGxz7o69WllnPhyUcewjVvbK+QqZndHzgQ8oy+px3/kFKFJpjCVsZaeXRW3vWGvHeci0gZUc6E5HSp6RHvTCyMOfwVPZsYLgwsThLbkG+UkhIMvmnfItMegejRcToeVczmt+lYH3NmXSupITIGfecW4RUwIGfZTA2eVmp62wOeKn+4fCvMZQpCqXRx9zEsgPaJWC3aDIDACqRqC0Bq0oYgSONacuhY5fzIgUHU5KSAmZzjkBYtgFldDiNpH8peV4fjjJP6MjvRW86217dVnCmLOzGEXmYBT6A+5jVunsJLQCX1/kpy9iArXDwupvZ17mrqoT1hTGPu+UbtHzfEVRGvF/ejkefodT+gMp/nbx6QhzdgfAbeu589Sv3TYikJr8fb6nnCaCqjt6y/2LCGBMe+rZIrg==;gp5hD8bApOf+XKM3gdk3Nw=="
 ---

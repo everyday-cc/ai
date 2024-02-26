@@ -67,15 +67,20 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "U.S. Rep. French Hill picked for bipartisan House artificial intelligence task force"
-    excerpt: "WASHINGTON -- U.S. Rep. French Hill, R-Ark., has been selected to join a bipartisan congressional task force to study artificial intelligence and possible actions for protecting the United States from potential threats."
-    publishedDateTime: 2024-02-20T23:40:00Z
-    webUrl: "https://www.arkansasonline.com/news/2024/feb/20/us-rep-french-hill-picked-for-bipartisan-house/"
+  - title: "Is AI China's critical new productive force?"
+    excerpt: "And, will AI become China's critical new productive force? According to OpenAI's explainer, Sora is capable of generating complex scenes with a very high degree of accuracy, including multiple characters,"
+    publishedDateTime: 2024-02-26T00:37:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202402/26/WS65dbda20a31082fc043b8fc5.html"
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 10
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 37
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202402/26/65dbda20a31082fc2b691ef4.jpeg"
+        width: 1078
+        height: 718
+        isCached: true
 
 secured: "/pnlCcMnzA7QKLUG7vDcO9pRprsc9bsD/W/z7IzozVkuQJlNrbPTBMsPI6TZmBtV3ZZMo2Ozmj66yzqOWIhOSZ4eLaGJqlQovcQ7aEneJ2XUIYEKq7aIBh54N4Bukxe+F6SUpiaSC6fFCb7AvgWvfw+N644apqzVenxc1oM3WQ1xvUuCVNYRm8GmLm8Bb79rFwwgGGLQkyVkrxnrG3yjV1JujVV4xcgQozqCyHc2Ob62d4FA9KYbnxPR8yUw1LsPQyWAE+6O3MIjHIUHMDQaKEQrZgEiOcSqFLZjMpMEKMmNHc9suauaUhZum3xAyQtWe0qDV0FYPai//VdTLETkWDm/p5p4XtjMIQcZLfe3QoYs0X/v8jr7HRR+fvjiKvcBvz5kmQ/JDs6NWhZw1kphX63DP1KLBZ4ncnU7P6R63J5Fm/p8vMyC2w0xiyLYA5o1joyRX7isHfoFZ5nU8Uq52YyYY7CaHZzmHgwi+KW3fQ7xEtuwTg3Qmc+Qm+NzHHXbZemW6NNswdp50xoJXDO8qg==;HWTclWcPvIdoHbBTfnLmRQ=="
 ---

@@ -653,15 +653,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "Nvidia's 4Q revenue, profit soar thanks to demand for its chips used for artificial intelligence"
-    excerpt: "(AP) — Nvidia Corp., which has seen its value skyrocket over the past year thanks to soaring demand for its graphics chips used for artificial intelligence, posted stronger-than-expected results for the latest quarter, with its revenue more than tripling ..."
-    publishedDateTime: 2024-02-21T00:00:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/nvidia-s-4q-revenue-profit-soar-thanks-to-demand-18680502.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 6
   - title: "Chipmaker Nvidia Just Posted Unbelievable Revenue Growth. It's All Down to the AI Revolution"
     excerpt: "The reason is simple, according to the company's CEO Jensen Huang. It's because \"accelerated computing and generative AI have hit the tipping point,\" and demand for powerful chips that can help with all the number crunching needed to make AI work is \"surging worldwide across companies, industries and nations.\""
     publishedDateTime: 2024-02-22T18:15:00Z

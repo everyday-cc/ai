@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/02/23/a-once-in-a-generation-i
 webUrl: "https://www.fool.com/investing/2024/02/23/a-once-in-a-generation-investment-opportunity-1-ar/"
 type: article
 quality: 58
-heat: 88
+heat: 92
 published: true
 
 provider:

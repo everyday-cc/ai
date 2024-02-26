@@ -38,18 +38,18 @@ related:
         height: 741
         isCached: true
   - title: "HONOR Introduces the HONOR MagicBook Pro 16: A Next-Level AI-powered Laptop for Unparalleled User Experiences"
-    excerpt: "AI is unlocking unprecedented capabilities across the cloud, devices, and everyday applications. With the launch of HONOR's MagicBook Pro 16, we are bringing the power of Windows and Azure Speech Services to customers, showcasing the potential of on-device ..."
-    publishedDateTime: 2024-02-25T22:05:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/honor-introduces-the-honor-magicbook-pro-16-a-next-level-ai-powered-laptop-for-unparalleled-user-experiences-302070484.html"
+    excerpt: "Global technology brand HONOR today unveiled the HONOR MagicBook Pro 16, a revolutionary AI-powered laptop which sets to redefine the traditional laptop landscape. Based on HONOR's platform-level AI capabilities and joint efforts with technology partners such as Microsoft,"
+    publishedDateTime: 2024-02-25T22:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-honor-introduces-honor-magicbook-pro-16-next-level-/2024/02/25/9967391.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: TMCnet
+      domain: tmcnet.com
     quality: 20
     images:
-      - url: "https://mma.prnewswire.com/media/2346756/image_5003200_20414946.jpg?p=facebook"
-        width: 1427
-        height: 747
+      - url: "https://mma.prnewswire.com/media/2346756/image_5003200_20414946.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "IhYy92Dq1AzzWRpbc9aNyTgKaJMf+mE486rXDayGi7oxuQuL4F9w4lFhRY9jw1TBIZvTt6yDc2wbCLNk0o8dWBU8ykEJGYINlO2bd3iJjmWcpVPwXwaONweADQRHM3+YvcFF5BrwM6bLzASfR2RlaUHzhn0SiEBmdvkSqPG8qkEmECBeKyqOYHNVeQ20TMpFInRTzgkBI3Tfok8Cdywxfnbd+k40b13SaOLCD/1EH6orNhZ/H2KljZQAeFKCX9EFMX0QF9r2UIzlCzj4rfFNngbnSnujk9ZEC/39160wrDFRTQWNx3CwvkOsNTewGXHQ1n67gfQLBsNcj4N7pNzCs/N8Ot7+LgqmQWJIszDJ+5G+NFZ5sInnzZSSxnrPzhYrV/yxIg93I0jkSK1xhrD46tpdYSW04hRx7FJBk5Mr+qeZqf2IBK0iJ3C2gf5GVier22mbpl78P12/bd+V787sohYtyz2ua9LRhNPOorFV7j/bSW5VW4jGwt8w8wVFd5jujxOG5IIJPamGVFe+qpnWrg==;bp05nugh5XEdRCzI7E5j/Q=="

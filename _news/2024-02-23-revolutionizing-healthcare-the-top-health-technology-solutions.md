@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/revolutionizing-healthcare-the-top-health-
 webUrl: "https://techbullion.com/revolutionizing-healthcare-the-top-health-technology-solutions/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "Employers Are Failing Women On Healthcare, U.K. Research Shows"
-    excerpt: "women workers being absent. Employers are sabotaging their own productivity and competitiveness by failing to provide female workers with adequate care and support for certain health conditions, according to new research based on the experiences of more ..."
-    publishedDateTime: 2024-02-20T23:34:00Z
-    webUrl: "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/"
-    ampWebUrl: "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/amp/"
+  - title: "Hartford HealthCare Launches Center for AI Innovation"
+    excerpt: "Hartford HealthCare’s Center for AI Innovation will support the research and development of artificial intelligence technologies to improve patient care."
+    publishedDateTime: 2024-02-21T13:00:00Z
+    webUrl: "https://healthitanalytics.com/news/hartford-healthcare-launches-center-for-ai-innovation"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
+  - title: "Driving Accessibility in HealthTech: 3 Things Founders should Consider for Thoughtful AI Implementation in 2024"
+    excerpt: "The benefits of artificial intelligence in healthcare are apparent. With careful planning, we can ensure that these developments benefit everyone, leaving no one behind in the goal of a healthier and more equal future."
+    publishedDateTime: 2024-02-23T22:31:00Z
+    webUrl: "https://medcitynews.com/2024/02/driving-accessibility-in-healthtech-3-things-founders-should-consider-for-thoughtful-ai-implementation-in-2024/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 17
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63fea49561f16b8426cbcbc4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://medcitynews.com/uploads/2021/07/GettyImages-1290118946.jpg"
+        width: 736
+        height: 474
         isCached: true
 
 secured: "udu7BZNGQlH50v9f+ZQ7UKgu8wFTwAZOarRJmb3Xnlby23sGmlTetrQqEFXJfERukfzuq+37niufT/LEgsR7oBHYPi/H/3l5BiRicKtvHPTYbTSPoIGmezzUhM1S5LRpCgoutO3v5ueZu8tktgyjS2LENPLAQoCFMfHnYSC2Yl/WpsHS3z/TQ6xt2gZsZbzGzOQBxZf7NKIarqKPFf0huwZOrl8lM/lgIVbzMkLkZrjeFBPHH9K78KcDfJbVGIRI8s8pgckvYJYcYOs4CBgUnWJE1+ur6RfiGyTkBi/Klfs9lXRBhWIvlyAenN+IIlCH0XaqdgJblQoRZxjZzzRkk+rkupgaL0qjuF8/NaPGxGKLL1/C8c4FuDIphQloEXPDnHY4uQKtOWD4D7VyZzNpnPJIViaPftY4fT+/bCNYir1I+RCD7OpgYxGjaa+qpeXR/R0CesXRCZWB0gLkYmXvN2F4upevjDUh7YGIFBrwvuZVrS1XLkRJOmx5ErwbWzF5jmlxRm4Ir08ZIoPyPd1l5w==;7fAZ9v3kAwo4qWZa7gCRbQ=="

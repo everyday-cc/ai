@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-career-advice-coach-gen-z-workers
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-career-advice-coach-gen-z-workers-get-ahead-2024-2?amp"
 type: article
 quality: 81
-heat: 91
+heat: 95
 published: true
 
 provider:

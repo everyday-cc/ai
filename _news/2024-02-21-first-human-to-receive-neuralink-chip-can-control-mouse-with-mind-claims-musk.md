@@ -7,8 +7,8 @@ originalUrl: "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-c
 webUrl: "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: IBTimes UK
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Neuralink First Human Patient Can Control Cursor With Mind"
+    excerpt: "Last Month, Elon Musk’s brain implant company, Neuralink put its highly anticipated chip inside the first human patient. In a significant development, Musk claims that the patient can now move a mouse cursor using his mind. Furthermore, Elon Musk is also hoping that the patient will be able to repeatedly click the mouse in the future."
+    publishedDateTime: 2024-02-21T08:17:00Z
+    webUrl: "https://www.phoneworld.com.pk/neuralink-first-human-patient-can-control-cursor-with-mind/"
+    type: article
+    provider:
+      name: Phone World
+      domain: phoneworld.com.pk
+    quality: 24
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2024/02/OIP-3-4.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Elon Musk says Neuralink’s trial patient has mind control"
     excerpt: "\"Patient is able to move a mouse around the screen by just thinking,\" Musk said. \"We are trying to get as many button presses as possible by thinking.\""
     publishedDateTime: 2024-02-21T13:20:00Z

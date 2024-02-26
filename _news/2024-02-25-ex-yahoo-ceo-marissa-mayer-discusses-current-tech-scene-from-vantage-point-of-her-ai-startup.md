@@ -7,7 +7,7 @@ originalUrl: "https://japantoday.com/category/tech/ex-yahoo-ceo-marissa-mayer-di
 webUrl: "https://japantoday.com/category/tech/ex-yahoo-ceo-marissa-mayer-discusses-the-current-tech-scene-from-vantage-point-of-her-ai-startup"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -21,17 +21,12 @@ related:
   - title: "Ex-Yahoo CEO Marissa Mayer discusses the current tech scene from vantage point of her AI startup"
     excerpt: "Former Yahoo CEO Marissa Mayer now runs an artificial intelligence startup called Sunshine that makes an app for managing personal contacts. She recently shared her views on AI and other tech topics."
     publishedDateTime: 2024-02-24T16:44:00Z
-    webUrl: "https://journalstar.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_6aaa791b-fc69-555e-b0c3-da539c60f9dd.html"
+    webUrl: "https://omaha.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_ad9f1295-1b1e-597d-826d-749d179e643f.html"
     type: article
     provider:
-      name: Lincoln Journal Star
-      domain: journalstar.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/6/aa/6aaa791b-fc69-555e-b0c3-da539c60f9dd/65d637f494bc7.preview.jpg?crop=1764%2C926%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Omaha.com
+      domain: omaha.com
+    quality: 4
 
 secured: "3wfD7jg7wYAdpE3jCN1GnbfIIAA2+kCVldJIq1vkwuadAFhtfCESAaYF4ql0V+k5kUeg6b8RkshgKjUWhcZ/80pNJQ7GCIHwRGcTAroP35Td4Xe1lkf5/vNfkPojGMY5PUJ2fvX7WC1piVuGQIsUYzd1g+xJqzksGsGWLw4TWJqag3YzMRqC6fGOkiYsVtDH8wIYSuoHpMIHM/1zCYUDiBtDh3nEF9YtZ67SsmeddJDpY5RhZJPrwu34j9cbC9z1q4b61MgJTycHDnNKwGPGKHxcMIqic90fmV1oVfa/oc/L8H7nr85eVRFsJrHYnFR+GxDMrf2QXSioVeQ/iWXayB5udwoQuWL0Hv5Sdc+zmz4P2PfgLPanAzCIpFX6SxoqYEx4qJwPnsUtOMePzzh2A9gxbq4cFgYcOYEZKLU8Qx99bYRq1nSOBSddttIYm1I2gkAtzGmUSUqZ3zcTNslILdW8A/4Axq3UdeIxdlkYmx2CNNBPbHq16z5e5atRJvtV8m/zAsn3ZtZH5JuOwNmwSA==;CYQhPQBGtYgDvNkKxsp8FA=="
 ---
