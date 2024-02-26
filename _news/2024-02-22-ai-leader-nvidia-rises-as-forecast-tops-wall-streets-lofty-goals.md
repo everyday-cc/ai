@@ -52,6 +52,20 @@ related:
         width: 1523
         height: 674
         isCached: true
+  - title: "Nvidia boss Jensen Huang says children shouldn't learn to code as AI can do all the work"
+    excerpt: "Read our ethics statement. A hot potato ... The Nvidia boss believes that AI has made the need to learn programming redundant, and humans should instead focus on more important skills such as biology, education, manufacturing, or farming."
+    publishedDateTime: 2024-02-26T05:18:00Z
+    webUrl: "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 60
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2022/12/2022-12-29-image-2.jpg"
+        width: 2000
+        height: 1042
+        isCached: true
   - title: "AI Boom Pushes Nvidia's Market Value To $2 Tln"
     excerpt: "Chipmaker Nvidia's (NVDA) market capitalization hit the $2 trillion mark, fueled by robust demand for AI chips, during the intraday"
     publishedDateTime: 2024-02-23T20:33:00Z
@@ -88,6 +102,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20240221pd213_files/1_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Huawei HONOR MagicBook Pro 16 AI laptop"
+    excerpt: "Complementing the processors is the NVIDIA GeForce RTX 40 series Laptop GPU, which ensures smooth graphics and efficient multitasking capabilities. But the AI in this laptop does more than just enhance its power; it also improves how users interact with ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.geeky-gadgets.com/huawei-honor-magicbook-pro-16-ai-laptop/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-laptop.jpg"
+        width: 1280
+        height: 810
         isCached: true
 
 secured: "LncMAe/j6jD5yuQrYDOxopvjOcpCPzfAVaceRpy+olr4MwrPRMEo5xNEzrclFqcjLMhx/GI99wY3ZdRsYx09cfgohwpJC4sVg9Vh8VbpEaNva1RY30z1PS+Pj5wR+nae+xVuyAxirtU143huAmIESQp0T+pA4kjDEwbE58m+fZjylDp9LzHDXfqICnBK4WU/dWa0DJ8xq1gkzD+3EgLjSN6WU2+ESpMmKcf2Lb5wVr5a0OhwPIWrSqrY5D43Ll2tuuunXBez6hHku+NFpVUimT5B8xGJXZQqTNp6PKJXVXMXgXHvrA/x+UNIaPBhI7MK7NYf17z6JFW2rtaxSWwAoVuy8Zp1U7ty9wNJs1VZtNU=;ob+DebRlQLCWPH4FveBSTQ=="

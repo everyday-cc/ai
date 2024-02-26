@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-21-engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks.md",
+      "title": "Engineers develop chip that uses ‘fastest means of communication’ for AI tasks",
+      "excerpt": "Read More Engineers from the University of Pennsylvania have developed a silicon-photonic chip that uses light to perform complex math for AI tasks. This chip manipulates materials at the nanoscale and enables brain-like processing, while offering ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107878759,width-1280,height-720,resizemode-4/107878759.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
+      "publishedDateTime": "2024-02-21T09:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024.md",
+      "title": "5 AI Accounting Tools For Freelancers Running A Side Hustle In 2024",
+      "excerpt": "Tracking expenses is not exactly what you set out to do as a freelancer. But with these AI-powered accounting tools, you'll be able to get back to doing what you love.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d5b9044c575d8bd5bc0be8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/",
+      "publishedDateTime": "2024-02-21T08:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-opinion-ai-elections-and-law-why-no-country-can-tackle-ai-alone.md",
       "title": "Opinion: AI, Elections And Law - Why No Country Can Tackle AI Alone",
       "excerpt": "Talks between EU and India on tackling the threat of online disinformation reflect the need for collective global action against the risks posed by generative AI.",
@@ -600,6 +694,50 @@
       ]
     },
     {
+      "path": "_news/2024-02-21-google-bard-now-called-gemini-vs-chatgpt-updated-february-2024.md",
+      "title": "Google Bard (now called Gemini) vs ChatGPT – Updated February 2024",
+      "excerpt": "[Updated Feb 21st, 2024: Google Bard had been renamed to Gemini. There are three different versions of Gemini, and one is called Gemini Pro. This is the version that replaced Bard. The core ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
+      "originalUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/05/Bard-and-OpenAI-Logo.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
+      "publishedDateTime": "2024-02-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-iflytek-launches-ai-powered-x3-sweeping-and-mopping-robot-in-china.md",
       "title": "iFlytek launches AI-powered X3 sweeping and mopping robot in China",
       "excerpt": "The chip delivers the necessary processing power for obstacle avoidance, navigation, and stain recognition, while the lidar ensures accurate mapping and object detection. Furthermore, the X3 can navigate obstacles up to 2cm high and boasts automatic night ...",
@@ -1100,162 +1238,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-the-ai-craze-is-highlighting-the-cooling-crunch.md",
-      "title": "The AI Craze Is Highlighting The Cooling Crunch",
-      "excerpt": "Direct-to-chip and immersion cooling come in two subtypes ... But it’s coming. Until then, all the AI and HPC workloads flying around require alternative cooling methods—now, today, already. So what are you going to do? Moor Insights & Strategy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d526d643a30a9ca3ffb4c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/",
-      "publishedDateTime": "2024-02-20T21:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-3-startup-opportunities-in-marketing.md",
-      "title": "3 Startup Opportunities In Marketing",
-      "excerpt": "AR advertising? Let's explore three promising startup opportunities in marketing that have the potential to disrupt the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/abdoriani/2024/02/20/3-startup-opportunities-in-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/abdoriani/2024/02/20/3-startup-opportunities-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d51409a3660b606a9b3f15/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T21:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-viral-career-trend-takes-place-of-interview-small-talk-plus-eyelash-robot-enters-ai-beauty-space.md",
-      "title": "Viral career trend takes place of interview small talk, plus eyelash robot enters AI beauty space",
-      "excerpt": "The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space",
-      "originalUrl": "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/job-interview-newsletter-split.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space.amp",
-      "publishedDateTime": "2024-02-20T20:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

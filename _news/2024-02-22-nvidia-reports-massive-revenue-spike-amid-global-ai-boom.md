@@ -185,6 +185,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "This 1 Number May Ensure Nvidia's Artificial Intelligence (AI) Chip Dominance"
+    excerpt: "Today, Nvidia controls more than 80% of the AI chip market, so the company has a clear advantage. But at the same time, rivals are doing what they can to chip away at Nvidia's lead."
+    publishedDateTime: 2024-02-25T10:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/this-1-number-may-ensure-nvidias-artificial-intelligence-ai-chip-dominance"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 76
   - title: "Nvidia shatters stock market record by adding over $230 billion in value in one day. Here’s why it’s dominating the AI chip race"
     excerpt: "Nvidia CEO Jensen Huang (holding one of the chip designer’s Hopper units) has led the company to the forefront of the AI chip race. Chip designer Nvidia has emerged as the clear winner in not just the early stages of the AI boom but, at least so far ..."
     publishedDateTime: 2024-02-22T00:00:00Z

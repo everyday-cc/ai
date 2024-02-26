@@ -53,6 +53,20 @@ related:
         width: 768
         height: 402
         isCached: true
+  - title: "PH has potential to lead cybersecurity via AI -- exec"
+    excerpt: "An executive of Amazon Web Services (AWS) on Monday said there is an opportunity for the Philippines to become a leader in cybersecurity through the use of generative artificial intelligence (AI). During an online press conference,"
+    publishedDateTime: 2024-02-26T09:51:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1219573"
+    type: article
+    provider:
+      name: pna
+      domain: pna.gov.ph
+    quality: 39
+    images:
+      - url: "https://files01.pna.gov.ph/ograph/2024/02/26/img-6240b92d2470f74128c5bc1852c6d5ae-v.jpg"
+        width: 720
+        height: 377
+        isCached: true
   - title: "Nokia Announces GenAI Assistant Integrated with NetGuard Cybersecurity Dome to Strengthen Network Protection"
     excerpt: "Cybersecurity Dome is Nokia’s extended detection response market (XDR) security platform that provides CSPs and enterprises with strong, 5G network defenses through a series of AI and machine learning capabilities. Amid the rising sophistication and ..."
     publishedDateTime: 2024-02-22T00:00:00Z

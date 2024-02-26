@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/first-gemini-now-gemma-goog
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/"
 type: article
 quality: 91
-heat: 551
+heat: 541
 published: true
 
 provider:
@@ -387,20 +387,6 @@ related:
     quality: 38
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/9chuJaHLHgirW6XzMjUpxU-1200-80.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Google debuts Gemini for Business as tech firms seek to monetize AI investments"
-    excerpt: "So far, Microsoft has managed to illustrate that point to investors, saying AI services contributed 6 percentage points of growth to Azure revenue in its latest quarter. That's an increase from 3 percentage points in the prior period. Revenue for the ..."
-    publishedDateTime: 2024-02-21T10:00:00Z
-    webUrl: "https://www.aol.com/finance/google-debuts-gemini-business-tech-150044844.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/Z7HaBhbctZHrI8.YHsL56A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1769aab6fe9ba6d4e7ddbd553254d06a"
         width: 1200
         height: 800
         isCached: true

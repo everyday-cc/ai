@@ -58,22 +58,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Microsoft is investing in more powerful AI tech to save company cash, here’s how"
-    excerpt: "Microsoft is developing server network cards to replace the ones offered by Nvidia, which will help the company save some cash and improve the performance of its Nvidia chip servers. Read more to know the details."
-    publishedDateTime: 2024-02-21T10:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/articleshow/107883223.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107883190,width-1280,height-720,resizemode-4/107883190.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tech Titans Join OpenAI in $675M Funding for Figure AI’s Humanoid Robotics"
     excerpt: "Major tech players Amazon, Nvidia, and Microsoft are investing heavily in Figure AI, a humanoid robotics venture supported by OpenAI. The $675 million funding round signals growing interest in AI startups and potential advancements in robotics technology."
     publishedDateTime: 2024-02-24T13:39:00Z

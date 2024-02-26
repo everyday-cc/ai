@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei
 cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922?amp=1"
 type: article
 quality: 74
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://lh7-us.googleusercontent.com/Z5VTFPUMm5meBXH_gRKqXtVbV2NTILukld7NtaDUf24IolIiFxiucZjtFfjAhpPvDYx6d9Cr4YHlo3Wd-eVucz7Fz-xYeZXGu1TJtKZV4AWsT0QU5uL1581xb3o-SlSyMupzlA2RjE4bdkjqCVrdCQ"
         width: 1523
         height: 674
+        isCached: true
+  - title: "Nvidia boss Jensen Huang says children shouldn't learn to code as AI can do all the work"
+    excerpt: "Read our ethics statement. A hot potato ... The Nvidia boss believes that AI has made the need to learn programming redundant, and humans should instead focus on more important skills such as biology, education, manufacturing, or farming."
+    publishedDateTime: 2024-02-26T05:18:00Z
+    webUrl: "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 60
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2022/12/2022-12-29-image-2.jpg"
+        width: 2000
+        height: 1042
         isCached: true
   - title: "AI Boom Pushes Nvidia's Market Value To $2 Tln"
     excerpt: "Chipmaker Nvidia's (NVDA) market capitalization hit the $2 trillion mark, fueled by robust demand for AI chips, during the intraday"
@@ -86,6 +100,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20240221pd213_files/1_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Huawei HONOR MagicBook Pro 16 AI laptop"
+    excerpt: "Complementing the processors is the NVIDIA GeForce RTX 40 series Laptop GPU, which ensures smooth graphics and efficient multitasking capabilities. But the AI in this laptop does more than just enhance its power; it also improves how users interact with ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.geeky-gadgets.com/huawei-honor-magicbook-pro-16-ai-laptop/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-laptop.jpg"
+        width: 1280
+        height: 810
         isCached: true
 
 secured: "h28FVhCCNhfTiS7dsdwAZBJkIFqNPBwcHqIfQaX3gzcwzvNZp9tA838EPoGRil/UzGTsOnxuVSsInL08Ax55k8kbPDcgCRKUwodXaeWZ6PV4w5IeSMQZdiOlpma4Okt+XTctiEME6AFKS2EodlgPJ+ZKY5mReHbZP+MnHcjIEd8SCF/4h5jUiHqV5lowwlDLYrzT3TIxJMBUAPWCMygsqiA7Mb08VE1EZAQsfBN2jHMJ7hWJN0NIOLub3T4br/IWc4pmeHGARPgO2WNVjPGm/2yOncPqadq6iNdVfuhymN7G7scGXFUzow9TxTEXsQiFZDPSJ9AJnwF6DVvGjnG6r4YtH+MJs87iMYeGIIfEqSw=;ldt2u8HlwntFHyepaIj0PA=="

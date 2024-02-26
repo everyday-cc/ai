@@ -373,6 +373,15 @@ related:
       name: MediaNama
       domain: medianama.com
     quality: 34
+  - title: "MWC24: Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
+    excerpt: "Using Amdocs' GenAI platform amAIz, and Microsoft Azure OpenAI Service, extended collaboration will include a GenAI lab and center of excellence"
+    publishedDateTime: 2024-02-26T07:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mwc24-amdocs-expands-strategic-partnership-with-microsoft-driving-generative-ai-innovation-across-the-telecommunications-industry-1033100978"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Nvidia Teams Up with Google to Offer a New AI Model For Consumers"
     excerpt: "Nvidia said Gemma would soon become available as an AI model for its “Chat with RTX” app, which was released earlier this month. The free software enables owners of Nvidia GeForce RTX 30 Series GPU or 40 Series GPU with at least 8 gigabytes of video ..."
     publishedDateTime: 2024-02-21T15:23:00Z

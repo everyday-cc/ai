@@ -24,6 +24,17 @@ images:
     height: 2340
     isCached: true
 
+related:
+  - title: "Recogni Inc. doubles total funding to develop generative AI chips"
+    excerpt: "Artificial intelligence startup Recogni Inc. announced it raised a mega funding round after expanding its reach into generative artificial intelligence. The San Jose startup historically has developed hardware to help autonomous vehicles understand object ..."
+    publishedDateTime: 2024-02-21T15:15:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2024/02/21/recogni-102m-series-c.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 36
+
 secured: "eAUEB8i2ZjtwEuGBxJkiZ+0/vqyyNm30lp4jDV6AOvwtp53ojy2lGcYK1T6WvChV0H71S8VcaM0NazZKBkgEp6DL5VyFIPx87QbLMmf1tWOT3PWY6U3ZYgotfeKHFsModsr791mpszKRL14EmL01Yxdvrojl4Hxk1w7Eb8k2tvwDgnevl0b/8iQj1x/mu6LI0I0PEfkHGeNZC4OGhEUXOVgy6TyLdo9hZZl7lNJznrxrLNxl6nGyJT+akv4Yzp2dO4AWTmXN0To7GcVqreUTUjHSDv2Csg7EceYBI/isDWyChPKcdNzWQz22Y4UHu1ep4BcKA/hknRYIKHYh9StzfIWnF1YJNtZCgyxbcj6iML5u75w+Qe0qJIeHmuMSQFS4t8vZXyJK81uM5I76ranhIVoQlv/2Z9Fx6yz5pq3K2Ma/bNvUPKwiq8sjpLsV14i2tj9gO3krhwPCAHQMVrMk4RF1jJCbzUr3iVCZElj8VMeNbbAgrSiJeTm8RNaL7R8jJBT1iFWdmm9Bv2VZC9DrMg==;txMde2/Hke1Y1De4n6YTyA=="
 ---
 

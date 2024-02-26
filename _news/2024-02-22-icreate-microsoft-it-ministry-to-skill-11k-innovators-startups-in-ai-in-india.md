@@ -365,6 +365,15 @@ related:
       name: MediaNama
       domain: medianama.com
     quality: 34
+  - title: "MWC24: Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
+    excerpt: "Using Amdocs' GenAI platform amAIz, and Microsoft Azure OpenAI Service, extended collaboration will include a GenAI lab and center of excellence"
+    publishedDateTime: 2024-02-26T07:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mwc24-amdocs-expands-strategic-partnership-with-microsoft-driving-generative-ai-innovation-across-the-telecommunications-industry-1033100978"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Microsoft Will Be One Of The Biggest Beneficiaries Of Artificial Intelligence"
     excerpt: "Microsoft is uniquely positioned to capitalize on the trends of the future and combine them with its own products. And this combination is likely to result in tremendous value for their customers. In addition, it is likely that Microsoft will gain market ..."
     publishedDateTime: 2024-02-24T11:15:00Z

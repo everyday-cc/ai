@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Singapore embraces AI to solve everyday problems"
-excerpt: "Booking a badminton court at one of Singapore's 100-odd community centres can be a workout in itself, with residents forced to type in times and venues repeatedly on a website until they find a free slot."
-publishedDateTime: 2024-02-26T07:01:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/26/singapore-embraces-ai-to-solve-everyday-problems"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/26/singapore-embraces-ai-to-solve-everyday-problems"
+excerpt: "The 10-member Association of Southeast Asian Nations' guide to AI governance and ethics, released this month, recommends principles of transparency, fairness and equity, accountability and integrity, and \"human-centricity\". Yet member countries including ..."
+publishedDateTime: 2024-02-26T10:31:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/internet/singapore-embraces-ai-to-solve-everyday-problems/108010751"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/singapore-embraces-ai-to-solve-everyday-problems/108010751"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/singapore-embraces-ai-to-solve-everyday-problems/108010751"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/singapore-embraces-ai-to-solve-everyday-problems/108010751"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: telecom.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2024/02/26/2562291.jpg"
-    width: 1240
-    height: 822
+  - url: "https://etimg.etb2bimg.com/thumb/msid-108010751,imgsize-7904,width-1200,height=765,overlay-ettelecom/internet/singapore-embraces-ai-to-solve-everyday-problems.jpg"
+    width: 1200
+    height: 765
     isCached: true
 
 related:
@@ -53,6 +55,6 @@ related:
       domain: theedgesingapore.com
     quality: 39
 
-secured: "4xB/tq/OsF18hRl3NNGK1N6nvUb8fjFL4VKiL9GshQRBi6hgNj4qVHKYi/DtuP8RIB0uI09uQU5FihgD0Joglcqrbe2018qgX2evv+NhxqRHtlG8RpDVpZTue/TO5fDvkNaskkJ4YyetbAydNJV8Q3bwyPicP1X2mHo4XbL5nji1NydWrW1vB5bLBY1Pt7u3AeNvTtMBhVhAq+HWePcpYA0MueZJ0+AEBMyDOszANcLlw3RK4LfQ9NW3ZVs8AAS2lrigpYZHQ7R8eAYR/Cdg2Ms1ZimsMsxVBMfaixP90KpTW2h93IPYyTrRuU/8MrNlUW4e17JBLhTC+BKXZhRqflz4MT4XR1ZE/FdIZBPI6Q4=;3MSiKcL6oTH2FWxPT54/Bw=="
+secured: "pK3V5v1p3GlbLCVpib7kOr9Xgm9O+EPzZKKm+669wc7oXXH2h8RrG4Z4z3mp+Oubho6EiQItMjNJ0LEeAgVIob0C22DlmOkZ7+7XHzuI5HnTfa2t9MTElJOar77bgVViAQGdh3ewbHiHUyftewG4G6rJETRgsdLrCupOh+IuPtKGPzwWfQgoaKMDq7sXpI9ydlNkpMnB4w3/6auJycmE9el2Z8oN+2HXYViXSvLggFktdyA2IM2uxjnRFOLn3gKB7vBYQDllzI7deYgzekvKU+tmdHRMctnP9KvwXP/cF2FuT92LIzABTwnD2f0MaClq9sLitbodgoW0SusIxY1IRdsI026JBVI9y0dRuS9Mv/c=;j5dATjFIVHjn0XDmyaESgw=="
 ---
 

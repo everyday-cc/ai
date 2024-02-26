@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia launches RTX 500 and 1000 Ada Generation laptop GPUs for AI on the go"
+    excerpt: "The next generation of mobile workstations featuring Ada Generation GPUs will incorporate a neural processing unit (NPU), a component of the CPU, along with an Nvidia RTX GPU equipped with Tensor Cores for advanced AI processing. This dual creation is ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-launches-rtx-500-and-1000-ada-generation-laptop-gpus-for-ai-on-the-go/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/RTX-500-_-1000-Blog-Image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia’s new app doesn’t require you to log in to update your GPU driver"
     excerpt: "On cards with AI-powered offerings, you'll also get tools for Nvidia Freestyle ... Not everything available in the prior apps is making it into this new all-in-one app, however. Nvidia notes that GPU overclocking and driver roll-back are on the way."
     publishedDateTime: 2024-02-22T13:11:00Z

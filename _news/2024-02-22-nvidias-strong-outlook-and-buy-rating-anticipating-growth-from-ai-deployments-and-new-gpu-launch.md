@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-strong-ou
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-strong-outlook-and-buy-rating-anticipating-growth-from-ai-deployments-and-new-gpu-launch-1033092514"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -32,6 +32,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "Nvidia’s lightweight RTX 500 and 1000 GPUs to power new generation of AI-accelerated laptops"
+    excerpt: "The RTX 500 and 1000 Ada GPUs are said to include a neural processing unit that’s integrated within the central processing unit, as well as an RTX GPU that includes Tensor Cores for processing AI locally. The NPU helps by offloading lighter AI tasks to ..."
+    publishedDateTime: 2024-02-26T08:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/26/nvidias-lightweight-rtx-500-1000-gpus-power-new-generation-ai-accelerated-laptops/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/RTX-500-_-1000-Blog-Image.jpg"
+        width: 5760
+        height: 3240
+        isCached: true
 
 secured: "86/prGKjGqHCo8hDIpJzrfbvyfGmLoRR0AbgUzP9ZoMFxNRFTgC86tb3XRj89JLidXy8SDvLTybLGKmRFzCpoyucXyNvmciosQykFlNq2FU+OucsL9nw9S4izXFXOrl3cPc8hByCnF8tYFHgEulfZmI5LdUSUwxwIh9RPj4K6U7G3fANqzz72Ggre/Ffxga9QIPHJV8a9A95115a8cUggL+W4w584gibDimd3O1u6rfJPpJNisl8oW3q7fElpU1/VChA/BDeZeDzKpCfWRhi8y+f5T1VGODrl3AncQSg5w/98FtGVBNzDEhnvUuIMkFduzTAWcspT4Rk46AhJahtvP2BRZj/61HN3SKm1v2OmLI=;GKzIKjhtLUtVuK53tMlwaQ=="
 ---

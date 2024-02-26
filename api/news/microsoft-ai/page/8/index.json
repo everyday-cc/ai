@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-06-adastra-launches-ai-innovation-centre-to-accelerate-ai-solution-development-and-adoption.md",
+      "title": "Adastra Launches AI Innovation Centre to Accelerate AI Solution Development and Adoption",
+      "excerpt": "With Adastra’s AI solution expertise, combined with Azure AI, Adastra strives to help organizations innovate and re-imagine business operations. With the power of Azure OpenAI Service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231206742033/en/Adastra-Launches-AI-Innovation-Centre-to-Accelerate-AI-Solution-Development-and-Adoption",
+      "originalUrl": "https://www.businesswire.com/news/home/20231206742033/en/Adastra-Launches-AI-Innovation-Centre-to-Accelerate-AI-Solution-Development-and-Adoption",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T07:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-microsoft-bets-big-on-uk-ai-with-32bn-investment.md",
       "title": "Microsoft Bets Big on UK AI with $3.2bn Investment",
       "excerpt": "Microsoft’s biggest investment in the U.K. will see the company double its AI data centre footprint and deliver training to 1m+ people.",
@@ -1340,49 +1374,6 @@
       "provider": {
         "name": "BayStreet",
         "domain": "baystreet.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles.md",
-      "title": "The Best AI Tools of 2023: A Review with Bruno Centano from Global Triangles",
-      "excerpt": "AI is everywhere these days, and it’s getting smarter and more powerful every year. But how do you choose the best AI tools for your needs? Whether you’re a developer, a marketer, a designer, or just a curious enthusiast,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles/",
-      "originalUrl": "https://techbullion.com/the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-27-at-4.46.28-pm-1000x600.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-27T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
         "images": null,
         "publishers": null,
         "authors": null

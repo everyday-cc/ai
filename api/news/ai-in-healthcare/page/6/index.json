@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-04-mira-pharmaceuticals-releases-breakthrough-data-from-artificial-intelligence-simulations.md",
+      "title": "MIRA Pharmaceuticals Releases Breakthrough Data from Artificial Intelligence Simulations",
+      "excerpt": "AI Simulation on MIRA1a Showcases Significant Potential Advantages Over Plant-Based Medical Marijuana Related to Anxiety, Appetite and Cognition",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mira-pharmaceuticals-releases-breakthrough-data-from-artificial-intelligence-simulations-1032870212",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mira-pharmaceuticals-releases-breakthrough-data-from-artificial-intelligence-simulations-1032870212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare.md",
       "title": "Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare.",
       "excerpt": "In 2020, the U.S. Department of Defense officially disclosed a set of ethical principles to guide the use of Artificial Intelligence (AI) technologies on future battlefields. Despite stark differences,",

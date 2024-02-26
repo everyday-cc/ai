@@ -68,19 +68,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Bud joins forces with Fintech Galaxy"
-    excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. This collaboration is all about bringing tangible ..."
-    publishedDateTime: 2024-02-21T09:57:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99729/bud-joins-forces-with-fintech-galaxy"
+  - title: "More Than Half the Fintech Industry Seeing Growth from Strong Consumer Demand"
+    excerpt: "Fintech industry resilience during the pandemic has been underscored by a sustained interest in digital financial services."
+    publishedDateTime: 2024-02-26T10:31:00Z
+    webUrl: "https://fintechnews.sg/87888/studies/more-than-half-the-fintech-industry-seeing-growth-from-strong-consumer-demand/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 21
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/The-Fintech-Industry-is-Resiliently-Looking-Ahead-to-Shape-Inclusive-Finance.jpg"
+        width: 1024
+        height: 567
         isCached: true
   - title: "India’s Fintech M&A Count Hits 30 in 2023, Lending Sector Tops List"
     excerpt: "Lending Fintech companies accounted for 30% of all Fintech acquisitions in India in 2023, highlighting a shift in market dynamics amid growing regulatory"

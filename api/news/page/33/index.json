@@ -2,6 +2,179 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2024-02-01-rocket-companies-appoints-fintech-and-ai-expert-to-board-of-directors.md",
+      "title": "Rocket Companies Appoints Fintech And AI Expert To Board Of Directors",
+      "excerpt": "Rampell is described as a serial entrepreneur. Rocket Companies named AI and fintech expert, Alex Rampell, as its latest independent director on the Board of Directors. Rampell currently serves as a General Partner at Andreessen Horowitz, focusing his ...",
+      "sourceUrl": null,
+      "webUrl": "https://nationalmortgageprofessional.com/news/rocket-companies-appoints-fintech-and-ai-expert-board-directors",
+      "originalUrl": "https://nationalmortgageprofessional.com/news/rocket-companies-appoints-fintech-and-ai-expert-board-directors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nationalmortgageprofessional.com",
+        "domain": "nationalmortgageprofessional.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-ualberta-aws-partner-to-establish-artificial-intelligence-discovery-place.md",
+      "title": "UAlberta, AWS partner to establish Artificial Intelligence Discovery Place",
+      "excerpt": "The University of Alberta is collaborating with Amazon Web Services (AWS) to establish an Artificial Intelligence Discovery Place at UAlberta’s downtown Enterprise Square campus. The goal of the initiative is to democratize access to artificial intelligence (AI) technology to boost innovations and advancements in technology and education throughout Alberta.",
+      "sourceUrl": null,
+      "webUrl": "https://academica.ca/top-ten/ualberta-aws-partner-to-establish-artificial-intelligence-discovery-place/",
+      "originalUrl": "https://academica.ca/top-ten/ualberta-aws-partner-to-establish-artificial-intelligence-discovery-place/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://academica.ca/wp-content/uploads/2023/09/loic-furhoff-qeIaMQP_xQE-unsplash-640x428.jpg",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Academica",
+        "domain": "academica.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-what-to-know-about-cognitive-tests-for-dementia.md",
+      "title": "What to know about cognitive tests for dementia",
+      "excerpt": "There is no single cognitive test for diagnosing disorders causing dementia. Doctors use several tests and assessments, many of which use varying questions, to determine the cause of symptoms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/cognitive-test-for-dementia",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/cognitive-test-for-dementia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2022/08/medical-records-dementia-tests-thumb.jpg",
+          "width": 732,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-beyond-boundaries-the-promise-of-conversational-ai-in-healthcare.md",
+      "title": "Beyond Boundaries: The Promise Of Conversational AI In Healthcare",
+      "excerpt": "Ai, Artificial Intelligence technology concept ... Imagine Tony Stark’s Jarvis! In healthcare, the applications of conversational AI are vast and diverse. From appointment booking, locating the closest in-network healthcare provider and understanding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bb12365b2d37f74a168e4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1466,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/amp/",
+      "publishedDateTime": "2024-01-31T23:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-the-economy-and-ethics-of-ai-training-data.md",
       "title": "The economy and ethics of AI training data",
       "excerpt": "Tech firms argue artificial intelligence chatbots have a right to freely-available internet content, just like humans.",
@@ -1038,187 +1211,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-microsoft-and-openai-are-in-talks-to-inject-500-million-into-humanoid-robotics-startup-figure-ai-report-says.md",
-      "title": "Microsoft and OpenAI are in talks to inject $500 million into humanoid robotics startup Figure AI, report says",
-      "excerpt": "Microsoft and OpenAI are said to be exploring options to invest up to $500 million in a humanoid robotics startup, Bloomberg reported. The tech heavyweights are in talks with Figure AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1",
-      "originalUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65ba1d7eac2de4f17ee61474?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1?amp",
-      "publishedDateTime": "2024-01-31T11:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-artificial-intelligence-in-2024-what-it-has-in-store-for-us.md",
-      "title": "Artificial Intelligence In 2024: What It Has In Store For Us",
-      "excerpt": "The end goal of AI is not to eliminate human intervention and automate all of your tasks, but rather to complement your business processes and offer numerous advantages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65578df7f889a02ef53ce298/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 861,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/",
-      "publishedDateTime": "2024-01-31T10:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-from-artificial-labor-to-artificial-intelligence-human-judgment-keeps-it-real-opinion.md",
-      "title": "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion",
-      "excerpt": "Philosophers, not chatbots, will grapple with what it all means. We have the capacity to add value to decision-making that electrons can’t replace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T10:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-eternal-you-reveals-how-ai-chatbots-aim-to-resurrect-the-dead.md",
-      "title": "'Eternal You' reveals how AI chatbots aim to resurrect the dead",
-      "excerpt": "Chatbots can scan the dead's social media profiles and texts, and then simulate the departed's way of speaking to create new messages. The documentary Eternal You probes into this intriguing use of AI,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/eternal-you-review",
-      "originalUrl": "https://mashable.com/article/eternal-you-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/07ET7WkarUwAIIdJLgASzRF/hero-image.fill.size_1200x675.v1706637281.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

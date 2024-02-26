@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms"
 type: article
 quality: 107
-heat: 267
+heat: 257
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2023/12/technology-3389904-1280-1019x573.jpg"
         width: 1019
         height: 573
-        isCached: true
-  - title: "Microsoft is investing in more powerful AI tech to save company cash, here’s how"
-    excerpt: "Microsoft is developing server network cards to replace the ones offered by Nvidia, which will help the company save some cash and improve the performance of its Nvidia chip servers. Read more to know the details."
-    publishedDateTime: 2024-02-21T10:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/articleshow/107883223.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-is-investing-in-more-powerful-ai-tech-to-save-company-cash-heres-how/amp_articleshow/107883223.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107883190,width-1280,height-720,resizemode-4/107883190.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Bezos and Nvidia Collaborate with OpenAI to Finance Humanoid Robot Startup"
     excerpt: "Jeff Bezos of Amazon, alongside Nvidia, have pooled their resources to invest in Figure AI, a startup focused on advancing human-like robots."

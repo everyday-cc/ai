@@ -55,6 +55,20 @@ related:
         width: 1523
         height: 674
         isCached: true
+  - title: "Nvidia boss Jensen Huang says children shouldn't learn to code as AI can do all the work"
+    excerpt: "Read our ethics statement. A hot potato ... The Nvidia boss believes that AI has made the need to learn programming redundant, and humans should instead focus on more important skills such as biology, education, manufacturing, or farming."
+    publishedDateTime: 2024-02-26T05:18:00Z
+    webUrl: "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 60
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2022/12/2022-12-29-image-2.jpg"
+        width: 2000
+        height: 1042
+        isCached: true
   - title: "AI Boom Pushes Nvidia's Market Value To $2 Tln"
     excerpt: "Chipmaker Nvidia's (NVDA) market capitalization hit the $2 trillion mark, fueled by robust demand for AI chips, during the intraday"
     publishedDateTime: 2024-02-23T20:33:00Z
@@ -87,6 +101,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Huawei HONOR MagicBook Pro 16 AI laptop"
+    excerpt: "Complementing the processors is the NVIDIA GeForce RTX 40 series Laptop GPU, which ensures smooth graphics and efficient multitasking capabilities. But the AI in this laptop does more than just enhance its power; it also improves how users interact with ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.geeky-gadgets.com/huawei-honor-magicbook-pro-16-ai-laptop/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-laptop.jpg"
+        width: 1280
+        height: 810
+        isCached: true
 
 secured: "Xa+LoHOlHxi5czM67js2LKd59OpihnchH7dVgL2BuNsscRCsZ1K7GT+D31YUkXXuSK8Vl21/TEgupAm8+4knmMZbNWdorfgeFn+pv6Q8eUuygWegC2PttoSki6Ui4f7qKZMXzqmRTlTPMtG98SUXSA0MbhsrrzA2H47D2FjE/Pjz8yH4uyBviVjqL8wZtM915aUORTd4GKnrhVy1r6pxKmhIy+jUsfDlReFSvMjsUSJMJdo205oTR8TIi2wRf3eKIuWbD2ewP013L6qlCYLbzaBXRxmAQUk0dyfWOZJZU9I4PzqT/PuPdOJwCCxPoCuDO/O7CM4UnnH37OXKTnL5Psyjx7Rs3tch7IH5sqd7dKeFb8xNlt1lwR3LBlW173NMDc86aW/1JVbRdDrPipEHgN/aSTksBdQeU5yQXXKuuE9W9tL0X9//68bWYzjzeW+CWYl1AVUH6b0mMDcUixU8v4j+PGyRHf7FIJEhmZYYrCZHH20OMTIbcEc0htLc9Pc7OCeOBsgif/mufSz97auwcQ==;fXlo6CXVXO1dQOZgpIg2HQ=="
 ---

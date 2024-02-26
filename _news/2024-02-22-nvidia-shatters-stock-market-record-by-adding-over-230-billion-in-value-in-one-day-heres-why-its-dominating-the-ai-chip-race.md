@@ -187,6 +187,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "This 1 Number May Ensure Nvidia's Artificial Intelligence (AI) Chip Dominance"
+    excerpt: "Today, Nvidia controls more than 80% of the AI chip market, so the company has a clear advantage. But at the same time, rivals are doing what they can to chip away at Nvidia's lead."
+    publishedDateTime: 2024-02-25T10:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/this-1-number-may-ensure-nvidias-artificial-intelligence-ai-chip-dominance"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 76
   - title: "Nvidia's Q4 revenue, profit soar on demand for AI chips"
     excerpt: "Nvidia’s revenue for its fiscal fourth quarter was US$22.1 billion, up from US$6.05 billion. The company based in Santa Clara, California, earned US$12.29 billion, compared to a profit of US$1.41 billion a year ago."
     publishedDateTime: 2024-02-21T22:30:00Z

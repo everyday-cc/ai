@@ -20,19 +20,19 @@ topics:
   - AI Hardware
 
 related:
-  - title: "VCs are clamoring to back 'screaming hot' startups using AI for medical records"
-    excerpt: "Most recently, Ambience Healthcare announced a $70 million Series B round in February, co-led by Kleiner Perkins and Open AI Startup Fund and including existing investors Andreessen Horowitz and Optum Ventures. Medical-scribe startup Nabla raised a Series ..."
-    publishedDateTime: 2024-02-21T10:00:00Z
-    webUrl: "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2"
+  - title: "It Is Time to Democratize Wargaming Using Generative AI"
+    excerpt: "If more people, from academics and concerned citizens to military professionals and civil servants, gained access to generative AI tools and understood how to integrate them into analytical wargames,"
+    publishedDateTime: 2024-02-22T17:38:00Z
+    webUrl: "https://www.csis.org/analysis/it-time-democratize-wargaming-using-generative-ai"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: csis.org
+      domain: csis.org
+    quality: 39
     images:
-      - url: "https://i.insider.com/65cf847ef533b039a884865f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-02/AdobeStock_271413703_Crop1.jpg?VersionId=pnJaz9w1fFT2R9GpjZtpjD_.ILlffMYa"
+        width: 4160
+        height: 2340
         isCached: true
 
 secured: "hTHpvsWArOeH38lZAUIl6nVkMh5X8noAErqfZ/HbSpRmoD92erGnlJ6VWr4hmFegCt5fiiKSz9GPTPDnnthqcx7NglNvdvF+j6BfWyCyfj1Px4EkFB9+M/8yBmbeC7xeOBGGQwfPKyJbtLBnfLLUn8tfYe4wWq7VoTKTRo0vOUw3w62Mtl68Q+j/nghIyayqP33gHnY7+nIXnYT3+ynBy93SjoYAS50hu+h0pNkY0hT7ciU7E1uaAL1Nd7l/I00bqplPFGO/1MN+n6OXeRVixFPrwW75X/HYNNw82sWCuJcfjxFaFRN4fzDw1ipVI7TrWFaokQWdCLB518yPScfz2gjvr/nUbYAEkQvQnQjFVUIvyNXV4ebUTUf1BHw0Y92QOO1RUODxrYv2RfeRCmtdUEpKKi8x/7eDq1NmACB8iPNnMZ3KBJaYf4+nH2uAhddQSUybnapuYTQqMd3cY34JH/+TDsEBen/Bcs8a/6eminZqFYCFGnoLKj6N2n/hXYxnOfLfAIn2qClRQx+dM6sbeA==;/3/9lIlXGSqV3f5b8j3d7g=="

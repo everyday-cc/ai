@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Meta To Form 'Operations Centre' To Combat Spread Of Deceptive AI In EU Polls"
-excerpt: "(MENAFN- IANS) New Delhi, Feb 26 (IANS) Meta (formerly Facebook) on Monday said that it will be activating an Elections Operations Centre to combat the spread of misleading artificial intelligence ... engineering, research, operations, content policy ..."
-publishedDateTime: 2024-02-26T01:46:00Z
-originalUrl: "https://menafn.com/1107898211/Meta-To-Form-Operations-Centre-To-Combat-Spread-Of-Deceptive-AI-In-EU-Polls"
-webUrl: "https://menafn.com/1107898211/Meta-To-Form-Operations-Centre-To-Combat-Spread-Of-Deceptive-AI-In-EU-Polls"
+title: "Meta to form 'Operations Centre' to combat spread of deceptive AI in EU polls"
+excerpt: "New Delhi, Feb 26 (IANS) Meta (formerly Facebook) on Monday said that it will be activating an Elections Operations Centre to combat the spread of misleading artificial intelligence (AI ... engineering, research, operations, content policy and legal ..."
+publishedDateTime: 2024-02-25T23:59:00Z
+originalUrl: "https://glamsham.com/world/technology/meta-to-form-operations-centre-to-combat-spread-of-deceptive-ai-in-eu-polls"
+webUrl: "https://glamsham.com/world/technology/meta-to-form-operations-centre-to-combat-spread-of-deceptive-ai-in-eu-polls"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - Meta AI
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2024-02/26/I_ac86fimage_story.jpg"
+  - url: "https://glamsham.com/wp-content/uploads/2024/02/202402263124037.png"
     width: 300
     height: 225
     isCached: true
@@ -34,6 +34,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Meta team to counter fake news and AI misuse ahead of EU elections"
+    excerpt: "The Facebook and Instagram parent is also building tools to label AI-generated images from Google ... data science, engineering, research, operations, content policy and legal teams. The objective is to identify potential threats and put “specific ..."
+    publishedDateTime: 2024-02-26T09:16:00Z
+    webUrl: "https://www.siliconrepublic.com/business/meta-eu-elections-disinformation-generative-ai-team"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-26.jpeg"
+        width: 2000
+        height: 1325
+        isCached: true
   - title: "How AI Is Being Used to Influence and Disrupt the Election"
     excerpt: "Here are all the ways AI has already become a factor in the 2024 election and what’s being done to limit the damage."
     publishedDateTime: 2024-02-25T10:00:00Z
@@ -49,6 +63,6 @@ related:
         height: 630
         isCached: true
 
-secured: "WW7ObgSdhrDbZx9gsDHmEZUxPaW6RZgKjfDQp9JvfvHZ8nAdQFh6j1JfSFxuf5CWOwdE5DcxGpWTpvD8sve4IPqpKMjNdJ05MNZtoVv4t0mEqncK+WZjhbM9i4y0TkxQk62HYgnIMl74pThHe8HJb2yuZ/j2qietQ9kWiGB4/va2Y+7G3Ilvtc5lx3Vfe5dt7jYhvEo//EMGJ+Rvbpl50ZaLWcKARUTdBeBWFKF/aAKZ6wD7bUqF+zGCCMY/ewk3IpZgpTirzwbbagOB3QfxFp+knOskx2FKb+O+wVTKNGQeS/O5Y3IaNIH3badm6IVgforRGWSxS1++CtSnA3y147ptXBB6H2xPFSJWuqicJwY=;1A8Yy5klotQe1aewNlVQyg=="
+secured: "f2K9JtANtgzTJdOsqrG2O7br/AkX5bMAWWtgGsdQV2Pzcu2wXLGgUL4WpjVVlxkHmsxry2VBVsL2IFTVcResCujD458IYgoo9hsRWDzP6QAKhhONyO3BbeuS/+o3JCqBnDhsTJp2sS8O9e1P0ep/cS+bX+FdPX4Xr+mEU/DwRDrUZAurxWzJJZE8/3+lJWXSUtaZBBE3UdzObNFpZ/ciotomLdHypeML4MbnvCGdSsb0Wd/iv86vKlSGQH1+k1IdEBmFRcyEwhBGrQAXkE2pplaO7zx7K722U9pa604GhL0qzcC+ttYR6GgrfTr73+Ix7VA4NIJzdWAxQ8e60MX+/mkAgLHJiQV0bo4AUZPdyXk=;sX1ZNxSJ/Y2nLGZui7mUkw=="
 ---
 

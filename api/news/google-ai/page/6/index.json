@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-04-google-bard-vs-chatgpt-updated-december-2023.md",
+      "title": "Google Bard vs ChatGPT – Updated December 2023",
+      "excerpt": "There’s a war going on between ChatGPT and Google Bard. Both chatbots are insanely powerful, and they’re good enough to really help people out (or help them out of a job). Since Google is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
+      "originalUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/05/Bard-and-OpenAI-Logo.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-deepminds-cofounder-demis-hassabis-is-a-chess-champion-who-landed-funding-from-peter-thiel-by-talking-about-a-key-tension-in-the-game.md",
       "title": "DeepMind's cofounder Demis Hassabis is a chess champion who landed funding from Peter Thiel by talking about a key tension in the game",
       "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Before DeepMind's Demis Hassabis became a leading figure in AI, he was a chess master who had won multiple ...",

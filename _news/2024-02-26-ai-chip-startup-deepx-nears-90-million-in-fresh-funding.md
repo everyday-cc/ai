@@ -8,8 +8,8 @@ webUrl: "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-
 ampWebUrl: "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html/amp"
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html/amp"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://images.moneycontrol.com/static-mcnews/2023/04/397635018.jpg"

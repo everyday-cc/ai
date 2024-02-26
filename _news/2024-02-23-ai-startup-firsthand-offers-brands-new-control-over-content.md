@@ -7,7 +7,7 @@ originalUrl: "https://www.dmnews.com/ai-startup-firsthand-offers-brands-new-cont
 webUrl: "https://www.dmnews.com/ai-startup-firsthand-offers-brands-new-control-over-content/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Exclusive | Adtech pioneers launch AI startup to empower publishers and brands at ‘crucial moment’"
-    excerpt: "their startup Firsthand emerged from stealth to build a platform that allows publishers and brands to easily create and distribute their own AI agents to engage directly with consumers everywhere online – while retaining full control of their data and ..."
-    publishedDateTime: 2024-02-21T09:59:00Z
-    webUrl: "https://venturebeat.com/ai/exclusive-adtech-pioneers-launch-ai-startup-to-empower-publishers-and-brands-at-crucial-moment/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 33
 
 secured: "DUYkL9bbhSn3xnTCpfrgK+/yI0MpSA+Q6U+tstupv0CS+QaV/CwXCuJakaibx8iwn8fRCnisdofdbSx5sRaCnKZRmsKP1weFHip7k+r6wCFjfKZRlUKQXpe+peuiMNAaHcElaHE/H25RHgKfo20uiKKLFm3EuYrNS0OEsqGr2Yi/AM1cHstG7RO+hgF144O4/wZcVDexb0X7jv9gXosyln84hnJpRhsRVYMB7v4hoqkRUbRhq43K1/FBk6UfIYw1cEnFk98STmWF0dAP4zq2Ppu8BsFk2S7aNaUzEyWkpY4zQr2gZiXJpYW9DD03Pade1WbvewvDdU6Mf2IFvlh4/uj/0wt6elx3MrvNRR1+o/wA50R9Bb7/t3LKoM3ItqO0PHmuYXfIu1d6lL9j373ncS7Q6cwoCEriM/CLRvE6Isw9dPUzqqY35wRnBnTgb9Bvwj6BL95a5RS7l3GPkSQ7xk7oCX5oJ31+YS4yFKJo6A7z/a0d0mCvUCibxw9MJvzAkuYpkaPTx0hbmjChS2PbMw==;CiYkNQeO5n+d1GKuIE6buA=="
 ---

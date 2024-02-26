@@ -20,22 +20,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "No tip required: Self-driving robots will now deliver Uber Eats orders in Tokyo"
-    excerpt: "These robots are equipped with artificial intelligence and advanced sensors to navigate sidewalks and detect any obstacles in their path. These robots have six wheels and can carry up to 27 litres of cargo. They travel at a walking pace of up to 3.3 miles ..."
-    publishedDateTime: 2024-02-21T10:55:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/articleshow/107883721.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/amp_articleshow/107883721.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/amp_articleshow/107883721.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107883741,width-1280,height-720,resizemode-4/107883741.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Uber Eats’ self-driving delivery robots hit Japan"
     excerpt: "Uber is launching an artificial intelligence-based autonomous robot delivery service in Japan, in partnership with Mitsubishi Electric and Cartken."
     publishedDateTime: 2024-02-23T02:00:00Z

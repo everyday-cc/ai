@@ -76,19 +76,19 @@ related:
         width: 870
         height: 580
         isCached: true
-  - title: "Bud joins forces with Fintech Galaxy"
-    excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. This collaboration is all about bringing tangible ..."
-    publishedDateTime: 2024-02-21T09:57:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99729/bud-joins-forces-with-fintech-galaxy"
+  - title: "More Than Half the Fintech Industry Seeing Growth from Strong Consumer Demand"
+    excerpt: "Fintech industry resilience during the pandemic has been underscored by a sustained interest in digital financial services."
+    publishedDateTime: 2024-02-26T10:31:00Z
+    webUrl: "https://fintechnews.sg/87888/studies/more-than-half-the-fintech-industry-seeing-growth-from-strong-consumer-demand/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 21
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/The-Fintech-Industry-is-Resiliently-Looking-Ahead-to-Shape-Inclusive-Finance.jpg"
+        width: 1024
+        height: 567
         isCached: true
 
 secured: "pt5xxSu10KAr6XC1fl55+qZYJQDNIgVfjFTnCXA4HjNxmfKwXRANuTcUUsdAMyBHHjicBCcWAscTmQucwB5gsRm5IddC+9PY7TMH5Qo/6kZASon1MKvzYTkrLav4tF+Nk1JBvinOqvVPs1/9fZuohsN8jUvjbC/85LDTo1nwLiLQCfGQne8P2bISdB6+j/Y5o1al55nvuMNtGyezLnM1TDGpEKqgPaiInWC7pab0j8j0Xl5K2OL0K12KY2R9yo0ZOtNyAdGxj3Ts7lrYYAW9FUhbbJ6zNBz+4dze5ILeeHU53FTZ0pWo56zNYcGhJjav7IWc4rRPeyZPcHhZmCpEG4wOlczZGcJXRHLfCRlkG/ZAKUERbKiEe1SzBL8IlQE5Md3M5h1FnE1LPiejXhgbMYq5YuySIwM+8H4D0pfZz2TBId4nwj/BvmfB+e5oX8GK4436LbrA+y0BULz43ew0llyRmrLysLztgCuKDzB4EAUKvCayIxB4H1l93PJ8uAHFcPj7t3ogMKBituu6hqpAyQ==;DrOiEQR9NEens+bihbqALQ=="

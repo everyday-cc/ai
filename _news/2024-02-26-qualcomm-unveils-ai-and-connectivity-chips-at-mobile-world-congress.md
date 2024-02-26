@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-25T23:59:00Z
 originalUrl: "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/"
 webUrl: "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/"
 type: article
-quality: 84
-heat: 94
+quality: 86
+heat: 96
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Meta AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/02/qualcomm-mwc.jpg?w=1200&strip=all"
@@ -41,6 +42,6 @@ related:
       domain: business-standard.com
     quality: 38
 
-secured: "2AeF4KNhU3LdqU/nruf+37RgC6vta4vcrE7d8qW3cHLa7Q6SryQVke3WCYfmpxN4dfCVP2QVPxzRaO56nYs7A8Bi0mE2lExnc0rz4qlznU4Dr0oIaWtez76SeRt01oeeTsO03S08TeKCLieXLS5ydPhGFDCUdaAJDsCN47r2CP9NH2t3odOkZ1fRdLiEOV9PbIWm1XPm/L8fSDcxssCqGrIEoVF8VjtQ1dtg3FEqwvIuiiXQ/RdaF0O7Rl7lkMIK1BkajSVVdwnKbokLKKDhotSbinI+NWKITeleCSUFngaQEoCoWTVkiHb8tTjTqZ85Ho7OGspqTA6Fg3qnYqQTdCjXKa5TMRW5PYuP7uEYxC0=;trcBwabZ3t4eClMlmvi3Wg=="
+secured: "xuK4/SEHR2V602+PyCVCfy5VYuFvTgFZrFEODC2T4O8rRh8BW0QhbgmE6by8RR7n+JBcWwJ/FBjjibjcffLnHpHpgN6vIWIT27KgYluvTG0G+FQcKhvEtcK2kxGmpjcdW7kPROIezi+IDVaFFg2Xlc42c3Lt8K7GbkvMc+6igCFjHtIDlkYqcxdG/b2ifvu5zYZNIbdp0+UQ+Xf13Vqq5uQM79kLHw9SlcbcgaVjZTng1C3Ai0wzl1TyD+oXOdRuJgocYj7K87FQBepBRSvepMF9ztzhHc2GWx8FsSETszeHikOTyMdM804AOScZhXBLEMt1ZrC69g4mZGjQ1y7ZTaq0Nadfh6ibCjPMJls9qvoc5v5byNnNNYSY+7Dl4MeVBvzsxE7+92RJx9nRRdyDqFRIqRvCCRfn9pf5BoKvzjNMZJ7YcrSK7a4i5820ZdDAKSGlGioee2vTXaLu4k51U+JJa8b25nQvDlM0xUO5Df9LhxvFGLpdGpXZOWwDE3hvStgF2SnEGuav4hMn+hHYxg==;9vWVFP9jdGnh8WsjfsDjuQ=="
 ---
 

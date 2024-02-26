@@ -53,6 +53,20 @@ related:
         width: 1523
         height: 674
         isCached: true
+  - title: "Nvidia boss Jensen Huang says children shouldn't learn to code as AI can do all the work"
+    excerpt: "Read our ethics statement. A hot potato ... The Nvidia boss believes that AI has made the need to learn programming redundant, and humans should instead focus on more important skills such as biology, education, manufacturing, or farming."
+    publishedDateTime: 2024-02-26T05:18:00Z
+    webUrl: "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 60
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2022/12/2022-12-29-image-2.jpg"
+        width: 2000
+        height: 1042
+        isCached: true
   - title: "NVIDIA samples two new AI GPUs for China, both comply with US export restrictions"
     excerpt: "NVIDIA is offering customers samples of two new artificial intelligence chips for the Chinese market, where NVIDIA CEO Jensen Huang wants to defend its market dominance in China against the tides of US export restrictions on AI GPUs in the country."
     publishedDateTime: 2024-02-25T12:19:00Z
@@ -89,6 +103,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20240221pd213_files/1_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Huawei HONOR MagicBook Pro 16 AI laptop"
+    excerpt: "Complementing the processors is the NVIDIA GeForce RTX 40 series Laptop GPU, which ensures smooth graphics and efficient multitasking capabilities. But the AI in this laptop does more than just enhance its power; it also improves how users interact with ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.geeky-gadgets.com/huawei-honor-magicbook-pro-16-ai-laptop/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-laptop.jpg"
+        width: 1280
+        height: 810
         isCached: true
 
 secured: "TCWhuUyRFneix2odohYVNb9tbAQYCHbYTjeR1ZOmI5gcsDsSo7ADxmZQzjN4sDBFWP1CIkSIWndORQRKb1l/RS4/KvySiBlygKkladHBfuV/VTXgYkSqmoXzS3+/7wzx5icAGRP/CTeYPVzV2HCuE/RkrjbUOI1OPcfsI6HGk4DDjqodZokEXlqyb4a0epIbluTOw1G8OuZLtvQy9sp6YNeXgKvJusfw5daFvWLJmZXezwN9iOjLm06bpJZnIptRe66a3hZvE28emoqeciCvTuSUZy4090/w8Aw3zWE35xqREfxnjE21MTrm8HZdeR7KyRMNtU38FIETlgcP0l0AiOI48ZNhnDe/NnP8ptyA6oo=;vMWZFPErgK+HMB3/x1Oirw=="

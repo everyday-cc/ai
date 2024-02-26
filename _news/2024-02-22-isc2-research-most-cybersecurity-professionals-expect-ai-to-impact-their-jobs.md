@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/
 webUrl: "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://back.3blmedia.com/sites/default/files/inline-images/AI_Cybersecurity_HARMAN_2.19.24A.jpg"
         width: 768
         height: 402
+        isCached: true
+  - title: "PH has potential to lead cybersecurity via AI -- exec"
+    excerpt: "An executive of Amazon Web Services (AWS) on Monday said there is an opportunity for the Philippines to become a leader in cybersecurity through the use of generative artificial intelligence (AI). During an online press conference,"
+    publishedDateTime: 2024-02-26T09:51:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1219573"
+    type: article
+    provider:
+      name: pna
+      domain: pna.gov.ph
+    quality: 39
+    images:
+      - url: "https://files01.pna.gov.ph/ograph/2024/02/26/img-6240b92d2470f74128c5bc1852c6d5ae-v.jpg"
+        width: 720
+        height: 377
         isCached: true
   - title: "“Let’s Talk Compliance”: Health Care Privacy and Cybersecurity"
     excerpt: "There are lively debates on what is true AI or simply smart algorithms. In this webinar, AI is discussed as an impact on health care and the potential risks it may bring as more and more turn toward AI for assistance. Wider AI adoption could save the U.S ..."

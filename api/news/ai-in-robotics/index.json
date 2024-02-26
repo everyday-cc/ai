@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-26-german-robotics-startup-raises-43-million-to-automate-smaller-factories.md",
+      "title": "German Robotics Startup Raises $43 Million To Automate Smaller Factories",
+      "excerpt": "It’s these manufacturers that are the target for RobCo, a startup designing low-cost and modular robots ... led by Lightspeed Venture Partners to help RobCo grow and to develop AI that could make the robots smarter, allowing them to plan out the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amyfeldman/2024/02/26/german-robotics-startup-raises-43-million-to-automate-smaller-factories/",
+      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2024/02/26/german-robotics-startup-raises-43-million-to-automate-smaller-factories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d6734781bdfa90e69c018d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-ai-chip-startup-deepx-nears-90-million-in-fresh-funding.md",
+      "title": "AI chip startup DeepX nears $90 million in fresh funding",
+      "excerpt": "AI chip startup DeepX Co. is close to raising 120 billion won ($90 million) in a funding round to accelerate production and bankroll global expansion, according to people familiar with the matter. The South Korean firm has secured 60 billion won from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/04/397635018.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html/amp",
+      "publishedDateTime": "2024-02-26T07:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-ai-startup-figure-ai-scores-675m-from-bezos-nvidia-and-others-to-advance-humanoid-robots.md",
       "title": "AI startup 'Figure AI' scores $675M from Bezos, Nvidia, and others to advance humanoid robots",
       "excerpt": "Figure AI develops human-like robots powered by artificial intelligence. It raised around $675 million in a recent funding round, with Amazon founder Jeff Bezos and Nvidia",
@@ -149,7 +245,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 267,
+      "heat": 257,
       "tags": null,
       "images": [
         {
@@ -1346,101 +1442,6 @@
       "provider": {
         "name": "USA Today",
         "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-hello-is-building-a-platform-toward-more-home-robots.md",
-      "title": "Hello is building a platform toward more home robots",
-      "excerpt": "Watching it cruise around a home in the demo videos brings to mind Nvidia’s line of reference ... But a one-to-one human to robot control scenario is not a sustainable one — particularly ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/15/hello-robotics/",
-      "originalUrl": "https://techcrunch.com/2024/02/15/hello-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/Screenshot-2024-02-12-at-6.09.21 PM.jpg?resize=1200,794",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/15/hello-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/15/hello-robotics/amp/",
-      "publishedDateTime": "2024-02-15T18:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-reliable-robotics-autopilot-tech-earns-faa-nod.md",
-      "title": "Reliable Robotics Autopilot Tech Earns FAA Nod",
-      "excerpt": "The FAA has accepted the requirements for Reliable Robotics' advanced aircraft navigation and autopilot systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ainonline.com/aviation-news/air-transport/2024-02-15/reliable-robotics-autopilot-tech-earns-faa-nod",
-      "originalUrl": "https://www.ainonline.com/aviation-news/air-transport/2024-02-15/reliable-robotics-autopilot-tech-earns-faa-nod",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ainonline.com/cdn-cgi/image/width=1200,format=webp,quality=95/https://backend.ainonline.com/sites/default/files/2024-02/businesswire_reliable.jpeg",
-          "width": 1200,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ainonline.com",
-        "domain": "ainonline.com",
         "images": null,
         "publishers": null,
         "authors": null

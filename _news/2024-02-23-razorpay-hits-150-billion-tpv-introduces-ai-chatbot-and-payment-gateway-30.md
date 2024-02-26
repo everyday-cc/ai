@@ -79,6 +79,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "Razorpay unveils Payment Gateway 3.0 & DQR; introduces AI-Assistant ‘RAY’"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2024-02-26T09:33:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/razorpay-unveils-payment-gateway-3-0-dqr-and-introduces-ai-assistant-ray/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 38
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2024/01/Launch_MPU.png"
+        width: 600
+        height: 500
+        isCached: true
 
 secured: "7m8WAmJDHp81YSXzjs5xgKQzv4gBaFabVwE13kKlE/Xw8MboDvDSEgeNSLaeGzTVQhQQ3JDbaaQaOLQI9QvKLN0HxrWUD8JhblDs7uUmTNxfLZG5hWb2hePnabLLaXKon3dwQaDzAYizipKrxlzBq4dwnW73BfT2MwP+RugeV2P059r6bOcoNPXevGAFlBRebfQf64voIvYGfIxH5bljDSdji0okSlba7mEbp3ye1cYIgeETqBTkRZX6zgTyQlDcs+KZK/N64VHkrUW3WqPE0V9iKnU5A/amcxDM2nAEKzYcqxMip+HZ8q0VOBSJPGJe4R/BUXY1AtGhInCDSTqB6vZ3moGtVbHOP49DA9Ff79w=;v9oFnVR0jiKSxFs0pAz8Ug=="
 ---

@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Meta team to counter fake news and AI misuse ahead of EU elections"
+    excerpt: "The Facebook and Instagram parent is also building tools to label AI-generated images from Google ... data science, engineering, research, operations, content policy and legal teams. The objective is to identify potential threats and put “specific ..."
+    publishedDateTime: 2024-02-26T09:16:00Z
+    webUrl: "https://www.siliconrepublic.com/business/meta-eu-elections-disinformation-generative-ai-team"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-26.jpeg"
+        width: 2000
+        height: 1325
+        isCached: true
   - title: "How AI Is Being Used to Influence and Disrupt the Election"
     excerpt: "Here are all the ways AI has already become a factor in the 2024 election and what’s being done to limit the damage."
     publishedDateTime: 2024-02-25T10:00:00Z
@@ -36,17 +50,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta To Form 'Operations Centre' To Combat Spread Of Deceptive AI In EU Polls"
-    excerpt: "(MENAFN- IANS) New Delhi, Feb 26 (IANS) Meta (formerly Facebook) on Monday said that it will be activating an Elections Operations Centre to combat the spread of misleading artificial intelligence ... engineering, research, operations, content policy ..."
-    publishedDateTime: 2024-02-26T01:46:00Z
-    webUrl: "https://menafn.com/1107898211/Meta-To-Form-Operations-Centre-To-Combat-Spread-Of-Deceptive-AI-In-EU-Polls"
+  - title: "Meta to form 'Operations Centre' to combat spread of deceptive AI in EU polls"
+    excerpt: "New Delhi, Feb 26 (IANS) Meta (formerly Facebook) on Monday said that it will be activating an Elections Operations Centre to combat the spread of misleading artificial intelligence (AI ... engineering, research, operations, content policy and legal ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://glamsham.com/world/technology/meta-to-form-operations-centre-to-combat-spread-of-deceptive-ai-in-eu-polls"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: glamsham.com
+      domain: glamsham.com
     quality: 36
     images:
-      - url: "https://menafn.com/updates/pr/2024-02/26/I_ac86fimage_story.jpg"
+      - url: "https://glamsham.com/wp-content/uploads/2024/02/202402263124037.png"
         width: 300
         height: 225
         isCached: true

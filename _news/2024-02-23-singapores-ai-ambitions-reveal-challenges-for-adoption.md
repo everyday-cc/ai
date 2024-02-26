@@ -38,18 +38,20 @@ related:
         height: 675
         isCached: true
   - title: "Singapore embraces AI to solve everyday problems"
-    excerpt: "Booking a badminton court at one of Singapore's 100-odd community centres can be a workout in itself, with residents forced to type in times and venues repeatedly on a website until they find a free slot."
-    publishedDateTime: 2024-02-26T07:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/26/singapore-embraces-ai-to-solve-everyday-problems"
+    excerpt: "The 10-member Association of Southeast Asian Nations' guide to AI governance and ethics, released this month, recommends principles of transparency, fairness and equity, accountability and integrity, and \"human-centricity\". Yet member countries including ..."
+    publishedDateTime: 2024-02-26T10:31:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/singapore-embraces-ai-to-solve-everyday-problems/108010751"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/singapore-embraces-ai-to-solve-everyday-problems/108010751"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/singapore-embraces-ai-to-solve-everyday-problems/108010751"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/26/2562291.jpg"
-        width: 1240
-        height: 822
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108010751,imgsize-7904,width-1200,height=765,overlay-ettelecom/internet/singapore-embraces-ai-to-solve-everyday-problems.jpg"
+        width: 1200
+        height: 765
         isCached: true
 
 secured: "nZhV15vqpteqfQURNvMLtfNLPX+HxqYZyGKJECd7VJ0++1x/XKzNHnOgV0NniBMT5ih0N8aRomrzVvdI/86vjMUzB2TcP2Azexqj1ipVdiXXF8dRsHBs//xH6KEgGgBKOqGg+pbguDpPxAtr/QsDmFl1eA5A4KCNyMdkTF+jtGBkX7UOoMpQfUU1RRYiksk5sUuc/rsSX2ydx4971u5ZknAneEYahd4KA45atyoqYXaocS32Rdm5V24Lqhn2K8GjFN6U4PhLy4xsY7Ljy4sV1atu41DLVbFE2lD8F0AIgdv7Ay8at4TRvub52BSO2XNnuwWqC4PrgoWbO3wrXRsifpzU6YKECDiwvJLWAagoXU8ut5u6ZzbSPdFNYIh7WwlVXl/o0R4ZSDhXc7rZwuq4H0S1ooG6CKm8ywsW1mV4tVDuJgGHTS3l4QjTc966Uo/P6B/gQ8nb+Gpnrqfmz/yShjyO5f/BV3Vn/VxKRWrxoge7trGT6aAl2FxVOmx3RlfNpPmtWHYsQM6+tXjdDVL3Jg==;qsOMg34pcSCSMoK42FrTwQ=="
