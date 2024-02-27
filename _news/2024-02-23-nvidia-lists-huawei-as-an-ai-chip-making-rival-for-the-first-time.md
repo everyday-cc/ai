@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-c
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3"
 type: article
 quality: 104
-heat: 404
+heat: 374
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://www.telecomlead.com/wp-content/uploads/2023/08/Generative-AI-chips-NVIDIA.jpg"
         width: 640
         height: 399
-        isCached: true
-  - title: "Nvidia reports massive revenue spike amid global AI boom"
-    excerpt: "Read our ethics statement. What just happened? Nvidia reported record sales and a massive revenue spike for the fiscal year 2024 that were fueled by the global AI boom. The company's total earnings for the final quarter of 2023 came in at $22.1 billion ..."
-    publishedDateTime: 2024-02-22T11:33:00Z
-    webUrl: "https://www.techspot.com/news/101983-nvidia-reports-massive-revenue-spike-amid-global-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-22-image-36.jpg"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "Excellent Nvidia Earnings Confirm the Epic Opportunity in AI"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Last night, Nvidia (NVDA) – the world’s largest artificial"
@@ -341,15 +327,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 38
-  - title: "Nvidia is offering samples of two new AI chips for the China market"
-    excerpt: "Nvidia (NASDAQ: NVDA ) is now providing samples of two new AI chips to its customers developed for the Chinese market, the company’s CEO Jensen Huang told Reuters Wednesday. \"We're sampling it with customers now. Both of them comply with the regulation without a license. We're looking forward to customer feedback on it,” Huang said in an interview."
-    publishedDateTime: 2024-02-22T11:55:00Z
-    webUrl: "https://in.investing.com/news/nvidia-is-offering-samples-of-two-new-ai-chips-for-the-china-market-432SI-4030652"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 34
   - title: "Nvidia H100: This is the chip behind AI's supersonic stock rally"
     excerpt: "How did Nvidia become a leader in AI? The Santa Clara, California company is the world leader in graphics chips, the bits of a computer that generate the images you see on the"
     publishedDateTime: 2024-02-23T04:33:00Z
@@ -377,15 +354,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 18
-  - title: "Stock bulls reload AI wagers as Nvidia surges 12%"
-    excerpt: "“We think the near-term momentum in AI-related stocks is likely to continue,” Marcelli ... of divestitures aimed at generating $2 billion in cash. —Space exploration startup Intuitive Machines Inc. will attempt on Thursday to put the first intact ..."
-    publishedDateTime: 2024-02-22T12:09:00Z
-    webUrl: "https://www.spokesman.com/stories/2024/feb/22/stock-bulls-reload-ai-wagers-as-nvidia-surges-12/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 17
   - title: "Nvidia becomes AI poster-child following earnings, trillion dollar valuation"
     excerpt: "\"Accelerated computing and generative AI have hit the tipping point. Demand is surging worldwide across companies, industries, and nations,\" Nvidia CEO Jensen Huang said in an earnings call."
     publishedDateTime: 2024-02-23T21:52:00Z

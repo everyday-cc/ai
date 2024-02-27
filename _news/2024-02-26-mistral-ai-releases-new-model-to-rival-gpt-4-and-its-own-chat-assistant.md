@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2023/03/Find-N2-Flip-2023.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "New Mistral Large AI model beats GPT-3.5 and Llama2-70B"
+    excerpt: "This model is currently the world’s second-ranked and is available through an API on Azure and Mistral AI’s platform. Despite its closed-source nature, Mistral Large offers cutting-edge text generation and reasoning capabilities, excelling in complex ..."
+    publishedDateTime: 2024-02-27T12:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/new-mistral-large-ai-model-beats-gpt-3-5-and-llama2-70b/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Mistral-Large-AI-model.jpg"
+        width: 1280
+        height: 784
         isCached: true
   - title: "Mistral AI startup launches LLM to take on ChatGPT, Gemini and Claude"
     excerpt: "France-based startup Mistral AI has added a new proprietary large language model (LLM) to an increasingly crowded AI market — claiming its new Mistral Large can give several major competitors a run for their money. In a Feb. 26 post, the Paris-based firm ..."

@@ -242,19 +242,21 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "Intel strikes major chip deal with Microsoft amid AI push"
-    excerpt: "Intel has struck a potentially billion-dollar deal with Microsoft that will see the chipmaker manufacture chips designed in-house by the software giant as it looks to make the most of AI. Announced yesterday (21 February) at Intel’s first foundry event ..."
-    publishedDateTime: 2024-02-22T12:19:00Z
-    webUrl: "https://www.siliconrepublic.com/business/intel-microsoft-ai-chips-semiconductors-foundry-deal"
+  - title: "EU To Examine Microsoft, French AI Mistral Partnership"
+    excerpt: "Microsoft said Monday it sealed a \"multi-year partnership\" that would allow Mistral to use its platforms including Azure AI, which enables businesses to build apps using AI. A Microsoft spokesperson said the company was pouring 15-million-euros ($16 ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.barrons.com/news/eu-to-examine-microsoft-french-ai-mistral-partnership-55daebb4"
+    ampWebUrl: "https://www.barrons.com/amp/news/eu-to-examine-microsoft-french-ai-mistral-partnership-55daebb4"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/eu-to-examine-microsoft-french-ai-mistral-partnership-55daebb4"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 71
+      name: Barron's
+      domain: barrons.com
+    quality: 74
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-23.jpeg"
-        width: 2000
-        height: 1333
+      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+        width: 1320
+        height: 742
         isCached: true
   - title: "AWS Storage VP leaves for Microsoft Azure"
     excerpt: "Amazon Web Services Vice President of AWS Infrastructure Hardware Ahmed Shihab has left the company to go to cloud computing rival Microsoft Azure. Shihab was responsible for the innovation, building and operation of all of AWS’ storage and compute systems,"
@@ -339,20 +341,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1495819409/image_1495819409.jpg?io=getty-c-w750"
         width: 750
         height: 429
-        isCached: true
-  - title: "Can Nvidia Join Apple, Microsoft In $2-Trillion Club Today? Here's How Much The Stock Needs To Gain To Hit The Mark"
-    excerpt: "Reaching $2 Trillion: To reach the $2 trillion market cap, Nvidia’s stock would need to reach $804, given its 2.49 million outstanding shares. This translates to a necessary increase of $129.28, or 19.16%, from Wednesday’s closing price. Currently, only Microsoft, Apple, and Saudi Aramco boast valuations exceeding $2 trillion."
-    publishedDateTime: 2024-02-22T11:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/can-nvidia-join-apple-microsoft-in-2-trillion-club-today-here-s-how-much-the-stock-needs-to-gain-to-hit-the-mark-1033092133"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/King-County--Washington--United-States--_6.jpeg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Microsoft Aims to Empower AI Assets, Competition with Newly-Announced AI Access Principles"
     excerpt: "The third and fourth AI access principles build upon the second, wherein it specifies that AI models hosted on Azure, including the Microsoft Azure OpenAI API service will now be openly available to software developers via public APIs and a common public ..."
@@ -477,6 +465,20 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Microsoft partners with Mistral AI to ‘unlock new commercial opportunities’"
+    excerpt: "Microsoft and the French artificial intelligence startup Mistral AI have begun a multi-year partnership to “unlock new commercial opportunities, expand to global markets and foster ongoing research collaboration,"
+    publishedDateTime: 2024-02-27T12:11:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-partners-with-mistral-ai-to-unlock-new-commercial-opportunities"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 52
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4865/MistralAI_web.jpg"
+        width: 975
+        height: 548
+        isCached: true
   - title: "AWS Storage VP Leaves For Microsoft Azure"
     excerpt: "AWS and Microsoft Azure compete heavily in several massive tech industries such as cloud computing, artificial intelligence and cloud storage, including in object, file and block storage. For example, AWS is the world’s market-share leader in cloud ..."
     publishedDateTime: 2024-02-22T14:40:00Z
@@ -546,19 +548,33 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
-    excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."
-    publishedDateTime: 2024-02-22T12:30:00Z
-    webUrl: "https://hothardware.com/news/nvidia-crushes-earnings-data-center-gains-ai-hits-tipping-point"
+  - title: "AI Revolution Sparks Nvidia's Historic Market Cap Achievement"
+    excerpt: "NVIDIA's annual profits increased by 769% due to the growing enthusiasm surrounding AI, leading to a surge in its market cap. The demand for advanced chips, driven by the AI boom, could outpace supply if investment doesn't keep up. Bitcoin ETFs have ..."
+    publishedDateTime: 2024-02-27T12:01:00Z
+    webUrl: "https://seekingalpha.com/article/4673698-ai-revolution-sparks-nvidia-historic-market-cap-achievement"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 35
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/63959/content/hero-nvidia-headquarters-sign.jpg"
-        width: 708
-        height: 400
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1517344698/image_1517344698.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
+  - title: "Nvidia is set to dominate AI — here's why"
+    excerpt: "Your AI assistant has already scanned the world’s breaking news, browsed events happening in your area, and accounted for the weather to propose an ideal schedule for your weekend. If Nvidia’s dreams come true,"
+    publishedDateTime: 2024-02-27T10:27:00Z
+    webUrl: "https://www.tomsguide.com/ai/nvidia-is-set-to-dominate-ai-heres-why"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/upUivk47vpZ7Cy4kRjUuWB-1200-80.jpg"
+        width: 1200
+        height: 665
         isCached: true
   - title: "Microsoft and MeitY Collaborate to Boost AI Startups in India"
     excerpt: "In my free time, I'm either binge-watching an anime or off on a hike. Microsoft has partnered with Indian institute iCreate to select AI innovators under the iMPEL-AI programme. Under this, 100 startups from across the country will... Back in June 2023 ..."

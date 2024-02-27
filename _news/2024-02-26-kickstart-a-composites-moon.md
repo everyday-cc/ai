@@ -7,7 +7,7 @@ originalUrl: "https://www.plasticsnews.com/kickstart/composites-moon-playing-kee
 webUrl: "https://www.plasticsnews.com/kickstart/composites-moon-playing-keeps-top-honors-wisconsin-manufacturers"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Theta EdgeCloud: Kickstarting the Next Generation of AI Computing"
+    excerpt: "The Theta team is developing the Theta EdgeCloud, which will provide businesses and developers with visibility and GPU processing for AI and video work."
+    publishedDateTime: 2024-02-27T12:10:00Z
+    webUrl: "https://www.cryptonewsz.com/theta-edgecloud-kickstarting-the-next-generation-of-ai-computing/"
+    type: article
+    provider:
+      name: cryptonewsz
+      domain: cryptonewsz.com
+    quality: 41
+    images:
+      - url: "https://www.cryptonewsz.com/wp-content/uploads/2024/02/Theta-EdgeCloud-Kickstarting-the-Next-Generation-of-AI-Computing.jpg"
+        width: 766
+        height: 462
+        isCached: true
 
 secured: "Wle3ydHsykEPZEJioEMFnGdt3T39kT2gLl4DkmJGsVxbrNbgj36X83P9R9yVZeNNl34SdzxW5fZwzJMF45A6K4qWvitcRWtNVJDyOAJgJcvY5tCAV+TIMLDY+O4JxiXzPVMnNXdyQbz0IwtLYtoiOUhrjuT5J/6pxZ5D37M853lfhVp5PWBSAKROO82evYrMnNUTuX+4zbf1KMHP25IiVA/IPAWPXFoQyh2hhg8pMpOs7qBm5EyUjx1qhYeDGZkQlOnjV+O0veD4TOH2ogPSMk7AVER62mm5dUNJBScntt4RO6nRaAOJywnx72rxLJWGp6rstxDdsK6TAH4CCrXUyo0csaENmfsNTfO+LF6FqXhigiM8QYfi/I+JdsX+ocJqgVBUVON9nrUyE6WPg/3JYFOLczuIXYlqOoEJ5VNwkBRLBClOTnln791MXfgnw6LjsHoXqgdVvqxFhvDhoadbOW0TToGltp9fBx4X4HUlFxiXnCAXtOjQmwzPUsN2w+x6dkjouqkAb1KogesEdfntfA==;XFOiuxSVEiDmQofQ7380Uw=="
 ---

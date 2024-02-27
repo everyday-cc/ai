@@ -22,22 +22,68 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI’s Sora has left AI experts either enthused or skeptical. It’s left most everyone else terrified"
-    excerpt: "including access to the highly coveted Nvidia H100s and over 15 different Nvidia GPU SKUs all together, allowing customers to deploy AI without massive infrastructure investments. Yesterday, it announced a new AI chatbot it says will make this process even ..."
-    publishedDateTime: 2024-02-22T17:45:00Z
-    webUrl: "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/"
-    ampWebUrl: "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/"
+  - title: "Learn To Ride The AI And Blockchain Tech Tsunami"
+    excerpt: "Initiatives to prioritize skills and competencies over academic credentials have gained momentum. Girls in Tech, ETHDenver, and UETH have alternatives ways for education."
+    publishedDateTime: 2024-02-27T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/"
     type: article
     provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-2013766961-e1708621527967.jpg?w=840"
-        width: 840
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65dbccde02f7ed6305cd9c3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
+  - title: "AstraAI: Redefining Innovation with the Ultimate AI Ecosystem in Blockchain"
+    excerpt: "As AstraAI continues on its path of groundbreaking advancements, it is clear that the platform is not just participating in the blockchain and"
+    publishedDateTime: 2024-02-26T04:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-1033100075"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://lh7-us.googleusercontent.com/QnKXxXlezgzKCQkNJT1UWPIIz9jsLH7CdUAF4SwYzJwpetjMz4PPmwNINISZ-eZoeSRgRsZDofFVchvM-l0ZMqAqc-MI0DKCj1vD46GZm4qldNuOxhhh8eJEcAiRRLZUTfHl0MizY7WBdSEryBPaOow"
+        width: 1060
+        height: 1600
+        isCached: true
+  - title: "Algoritmic Lab's Revolutionary New AI and Blockchain Ecosystem: Stalwart AI"
+    excerpt: "The foundation of the Blockchain Stalwart is the Cosmos SDK, known for its reliability and versatility in blockchain development. Stalwart seamlessly integrates all Cosmos blockchains through the IBC module. Algoritmic Lab's goal in creating Stalwart was to create a truly scalable solution for digital asset management."
+    publishedDateTime: 2024-02-27T10:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/algoritmic-labs-revolutionary-new-ai-and-blockchain-ecosystem-stalwart-ai-1033106456"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://images.newsfilecorp.com/files/8871/199218_press_release_1_550.jpg"
+        width: 550
+        height: 364
+        isCached: true
+  - title: "The future is woven with the threads of AI, Edge & blockchain"
+    excerpt: "The future is being redefined by the interwoven threads of Edge computing, blockchain, and AI. In the dynamic landscape of India’s SaaS industry, Sudip Banerjee, CTO, APJ, Zscaler, highlights the promising trajectory of growth."
+    publishedDateTime: 2024-02-25T11:37:00Z
+    webUrl: "https://www.dqindia.com/features/the-future-is-woven-with-the-threads-of-ai-edge-blockchain-3996900"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
+  - title: "AstraLabs Inc.: AstraAI: Redefining Innovation with the Ultimate AI Ecosystem in Blockchain"
+    excerpt: "DUBAI, UAE /  / February 24, 2024 / In a mere 100 days since its launch, AstraAI has not only demonstrated its prowess in the cryptocurrency market but has also established itself as a beacon"
+    publishedDateTime: 2024-02-24T20:55:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61498645-astralabs-inc-astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 9
 
 secured: "eWN2PEM0CODuARKsRrpPmbUeEnybIrel6/5fr6n7f3KnjPd5X15jQEQfx/FrZQjc2iyoniANQqjT+l/k0OU8QsJv1odMHsvshHpVydFy6cq1P/7XgCuAjo2gMSMspUpMq/dUfxYKwhg+8W82jbR2yLsOvVxm8y+UxTQZiWgWuHMs/TogyWx0LBVJr2kpIJcwnD6uEnSwHyzsELtThc729NKZEcibrJZvS+5c2HD0HQ9lnPjpYa8N6vGLXrD/6e/9jAQOLShjYfmCIKWiqOi0PjaKj0qHLs3F0Y3Y4V+Xgu7rE4G3HRSmGrbV7/rm59NI1G9UgceKyp5bcg0/fPZwcEOHVFxeoWPhl8kpstZ8b1j20enMiX0zqIfl8C2LwvY5kuVR6fkS/49j5+56a/mTEpjyvSQAhET86CAM/awDCG6z43wi088dz5wv64ox0bV40Dh/RGdRHgQBo60yr7z4nq2PQDxDPyPee/IZ57DnFvdBgLQ+DRjgpEOzfkdMwFhnTOqFfxKI1dtQSV3TjM55Ow==;ydJPmOOEYjIG6Eub1W2g9w=="
 ---

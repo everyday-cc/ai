@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/astraai-redefining
 webUrl: "https://markets.businessinsider.com/news/stocks/astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-1033100075"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Learn To Ride The AI And Blockchain Tech Tsunami"
+    excerpt: "Initiatives to prioritize skills and competencies over academic credentials have gained momentum. Girls in Tech, ETHDenver, and UETH have alternatives ways for education."
+    publishedDateTime: 2024-02-27T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65dbccde02f7ed6305cd9c3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Algoritmic Lab's Revolutionary New AI and Blockchain Ecosystem: Stalwart AI"
     excerpt: "The foundation of the Blockchain Stalwart is the Cosmos SDK, known for its reliability and versatility in blockchain development. Stalwart seamlessly integrates all Cosmos blockchains through the IBC module. Algoritmic Lab's goal in creating Stalwart was to create a truly scalable solution for digital asset management."
     publishedDateTime: 2024-02-27T10:39:00Z
@@ -43,6 +59,15 @@ related:
         width: 550
         height: 364
         isCached: true
+  - title: "Decentralized AI On Blockchain Rivals OpenAI's Lead"
+    excerpt: "Decentralized AI projects like Gensyn, OORT, and Bittensor are emerging to accelerate AI development by leveraging decentralization's benefits"
+    publishedDateTime: 2024-02-24T12:33:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2024/02/24/decentralized-ai-on-blockchain-rivals-openais-lead/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The future is woven with the threads of AI, Edge & blockchain"
     excerpt: "The future is being redefined by the interwoven threads of Edge computing, blockchain, and AI. In the dynamic landscape of India’s SaaS industry, Sudip Banerjee, CTO, APJ, Zscaler, highlights the promising trajectory of growth."
     publishedDateTime: 2024-02-25T11:37:00Z

@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Why Reddit licensing deal offers Google a data mine to push its luck"
+    excerpt: "Google’s sporadic attempts to break OpenAI’s dominance in AI have left the search giant badly bruised. The company’s maiden AI chatbot Bard, launched as a rival to OpenAI’s ChatGPT, was faulty. It had factual errors in its first demo video ..."
+    publishedDateTime: 2024-02-27T12:20:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/why-reddit-licensing-deal-offers-google-a-data-mine-to-push-its-luck/article67891673.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/why-reddit-licensing-deal-offers-google-a-data-mine-to-push-its-luck/article67891673.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/why-reddit-licensing-deal-offers-google-a-data-mine-to-push-its-luck/article67891673.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/4oztyw/article67891647.ece/alternates/FREE_1200/2024-02-22T040645Z_1564498761_RC26HX9T25WR_RTRMADP_3_TECH-AI-REDDIT.JPG"
+        width: 1200
+        height: 822
+        isCached: true
   - title: "Reddit Inks Landmark $60 Million AI Content Licensing Agreement with Google"
     excerpt: "Filed by the Clarkson Law Firm, the complaint asserted Google scraped users’ data without consent to improve AI services like writing assistant Bard. It hinged on Google’s updated privacy policy, expressly mentioning mining publicly available ..."
     publishedDateTime: 2024-02-23T02:18:00Z

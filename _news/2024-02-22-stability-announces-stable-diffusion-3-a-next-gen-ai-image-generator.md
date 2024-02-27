@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/02/stability-a
 webUrl: "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -82,15 +82,6 @@ related:
         width: 900
         height: 514
         isCached: true
-  - title: "Google pauses AI image generation of people after diversity backlash"
-    excerpt: "Tech giant responds to complaints that Gemini model was creating images of people in historically inaccurate contexts"
-    publishedDateTime: 2024-02-22T11:43:00Z
-    webUrl: "https://www.ft.com/content/979fe974-2902-4d78-8243-a0cff68e630a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "D0xs5cKPiEHji/XbHDqnKXaoIS0VRznCsxb/5EcJvL+YyxefZy/16YKEZSpDzcRD68xOleDTAQR17dE8VGrOH0qrM6WMQAaO988W+HiJQkmZ98shi/kZJ6XITPjJ+BJLDGDFUsmg/wgj/86BsFn7TkZ+BSZlmzNVAvMyzY0pzZJeBedtL530eVcUWn3axnx1sWZnYx67nXv5UOw0wusA2Lu4ZMwfTVwKz/I8jJ26gNcFdRD1C0D7XFdWo7+F+tlEglUmXNksV70L1ombOUxztZiNT6Ihx82u46WFDZUUhDgVrt3jmCeyXgSy954LC5UfDTOBGydsV7EVJFoj+fRPSkb2QlsFW9rApi7G8BCTlgr0++mll2HpIGYZsYAKZXkcNaaTH+dX7dDeg4W4qdVoYK+Rtjd9kDjGtPP9wJdnUBrEiTrvBqqm1u9X7bVuWmfsvdvuUbHvuBxodW4w901KuCPQzwRdA40t5sdoiMrC/UesSJNafHRZoCCVY/QrOEe4N0V65Hne2vnb6Gyt3aqatQ==;zscRt4KD8/d531E8ZUZesQ=="
 ---

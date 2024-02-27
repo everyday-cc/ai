@@ -2,6 +2,161 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2023-12-12-china-chip-firms-vie-to-take-sales-from-nvidia.md",
+      "title": "China chip firms vie to take sales from Nvidia",
+      "excerpt": "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions. Julian Satterthwaite reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com",
+      "originalUrl": "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20231212&i=RW515412122023RP1&r=RW515412122023RP1&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T10:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-five-considerations-when-adopting-ai-an-executives-solid-compass.md",
+      "title": "Five Considerations When Adopting AI: An Executive's SOLID Compass",
+      "excerpt": "It’s crucial to discern which innovations truly matter and how to effectively navigate them without getting lost in jargon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/629a23ed5c778bcfbcf8de3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/amp/",
+      "publishedDateTime": "2023-12-12T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-elon-musk-slammed-by-his-own-ai-bot.md",
+      "title": "Elon Musk Slammed By His Own AI Bot",
+      "excerpt": "\"Well, it seems like Elon might be trying to rewrite history here,\" the AI bot started its message about Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531",
+      "originalUrl": "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2321918/elon-musk-x-logo.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T09:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-meta-unveils-audiobox-an-ai-that-clones-voices-and-generates-ambient-sounds.md",
       "title": "Meta unveils Audiobox, an AI that clones voices and generates ambient sounds",
       "excerpt": "Type in a sentence that you want a cloned voice to say, or a description of a sound you want to generate, and Audiobox will do the rest",
@@ -1017,143 +1172,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-the-advantages-and-disadvantages-of-hybrid-cloud.md",
-      "title": "The advantages and disadvantages of hybrid cloud",
-      "excerpt": "Business and IT leaders need to review the advantages and disadvantages of hybrid cloud adoption to reap its benefits.\nThe post The advantages and disadvantages of hybrid cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/hybrid-cloud-advantages-disadvantages/",
-      "originalUrl": "https://www.ibm.com/blog/hybrid-cloud-advantages-disadvantages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T19:57:58Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-how-can-ai-help-in-higher-education-and-beyond.md",
-      "title": "How can AI help in Higher Education and Beyond?",
-      "excerpt": "Arizona State University Deputy Chief Information Officer John Rome goes behind the scenes on its AI skunkworks with Amazon Web Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ecampusnews.com/innovation-insights/2023/12/08/asu-and-aws-build-ai/",
-      "originalUrl": "https://www.ecampusnews.com/innovation-insights/2023/12/08/asu-and-aws-build-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ecampusnews.com/files/2023/12/John-Rome-2-scaled-e1702322067164.jpg",
-          "width": 1706,
-          "height": 1220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T19:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ecampusnews.com",
-        "domain": "ecampusnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-eu-agrees-tough-limits-on-police-use-of-ai-biometric-surveillance.md",
-      "title": "EU agrees tough limits on police use of AI biometric surveillance",
-      "excerpt": "Measure bans use of real-time data without judicial authorisation in nearly all circumstances and covers both public and private spaces",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/af3da4e232da8e922c2ac6de3cccd9c5d5ce8962/0_0_4519_2712/master/4519.jpg?width=620&quality=85&auto=format&fit=max&s=a911fea44ceaa9de9b3080b47adee878",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban",
-      "publishedDateTime": "2023-12-11T19:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

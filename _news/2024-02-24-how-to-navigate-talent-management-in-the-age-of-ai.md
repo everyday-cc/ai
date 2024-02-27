@@ -25,59 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Getting To Work In The Highly Regulated Investment Management Industry"
-    excerpt: "AI hit employment levels among the feted tech giants with 34,000 job losses this year. The AI “safety first” policy is resonating in the investment management industry."
-    publishedDateTime: 2024-02-22T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
+  - title: "Workday returns to profit with strong year end numbers, makes talent management AI acquisition"
+    excerpt: "A busy day for Workday yesterday as the firm turned in a Q4 profit as well as announcing plans to beef up its generative AI capabilities with the acquisition of HiredScore, a start-up provider of AI-powered talent orchestration tools."
+    publishedDateTime: 2024-02-27T10:26:00Z
+    webUrl: "https://diginomica.com/workday-returns-profit-strong-year-end-numbers-makes-talent-management-ai-acquisition"
+    ampWebUrl: "https://diginomica.com/workday-returns-profit-strong-year-end-numbers-makes-talent-management-ai-acquisition?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/workday-returns-profit-strong-year-end-numbers-makes-talent-management-ai-acquisition?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Diginomica
+      domain: diginomica.com
+    quality: 45
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d6dac3706cc5efc69fdc66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://diginomica.com/sites/default/files/images/2024-02/Screenshot%202024-02-27%20at%2010.26.09.png"
+        width: 2312
+        height: 1460
         isCached: true
-  - title: "US will need 'CHIPS Act 2' investment into semiconductor manufacturing to be the best for AI"
-    excerpt: "US Commerce Secretary Gina Raimondo said that the US needs continued investment in semiconductor manufacturing in order to take global leadership and meet demand from AI technologies ... to be - whether you call it Chips Two or something else - continued ..."
-    publishedDateTime: 2024-02-22T14:35:00Z
-    webUrl: "https://www.tweaktown.com/news/96403/us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai/index.html"
+  - title: "Workday squeezes past the Street’s expectations and acquires AI talent recruitment startup"
+    excerpt: "More specifically, Workday said HiredScore will enable it to leverage responsible AI to solve recruiting challenges, so companies can match, hire and manage talent. It will also enable customers to manage talent lifecycles more efficiently, and elevate the experience for recruiters and hiring managers."
+    publishedDateTime: 2024-02-27T00:10:00Z
+    webUrl: "https://siliconangle.com/2024/02/26/workday-squeezes-past-streets-expectations-acquires-ai-talent-recruitment-startup/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 43
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 27
     images:
-      - url: "https://static.tweaktown.com/news/9/6/96403_403_us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai_full.jpg"
-        width: 1500
-        height: 857
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/IMG_2052.jpg"
+        width: 5472
+        height: 3648
         isCached: true
-  - title: "New York Department of Financial Services Issues Proposed Circular Letter on Use of AI in Insurance Industry"
-    excerpt: "On Jan, 17, 2024 the New York State Department of Financial Services ... system is defined as “any machine-based system designed to perform functions normally associated with human intelligence, such as reasoning, learning, and self-improvement, that ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/new-york-department-of-financial-3487429/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 20
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15417_0919.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Five of the Top Artificial Intelligence Stocks to Invest in Immediately"
-    excerpt: "With artificial intelligence impacting just about every industry in the world, the market could be worth about $594 billion by 2032, according to Precedence Research. All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE ..."
-    publishedDateTime: 2024-02-22T16:57:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BAC/pressreleases/24275348/five-of-the-top-artificial-intelligence-stocks-to-invest-in-immediately/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 17
 
 secured: "eGtHzyoTqUtBqF1dLSnoFYFtchVRpBsHd3GdQ3QFFdFAMwpZGHxgQi0tp4cpszBWc89qzFEJGo+aF6954VPgbwN9LhmDth/2vP4IiAIMus2VbQgjs3C4MqqdNwnviVTTGRAbnP3PDv3E3ycY7G28Ehj23BCULUoeXJQNsjpTO01vGi8NR6GzrkHQEF5gT21ng/+IkxWqFUDNiZ+J3+T8pcblyvDntyqt8oBz4luF9bnKrHviWqz0seVgLsW477LDGJ/28dRJdVKRo+XmUF+8zilDmyepH5e50r6XTorygQa2vxghMosIAjoACW0l89DZ64VibSdOUcd1lZvWyKwRxQUf98Mqkg6D8OLoLE9OEm4=;UADWp14z6yKTT6nzGjb5Ig=="
 ---

@@ -75,20 +75,6 @@ related:
         width: 5760
         height: 3240
         isCached: true
-  - title: "Google's lightweight and free Gemma AI models are optimized to run on NVIDIA GPUs"
-    excerpt: "\"Built from the same research and technology used to create the Gemini models,\" Google's new lightweight Gemma LLMs have been designed to run natively on local PC hardware powered by NVIDIA GPUs. For use in third-party AI applications, Gemma 2B and Gemma ..."
-    publishedDateTime: 2024-02-22T12:36:00Z
-    webUrl: "https://www.tweaktown.com/news/96379/googles-lightweight-and-free-gemma-ai-models-are-optimized-to-run-on-nvidia-gpus/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96379_01_googles-lightweight-gemma-ai-optimized-to-run-on-nvidia-gpus_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Nvidia Reveals AI-Focused RTX 500, 1000 GPUs For ‘Highly Portable’ Mobile Workstations"
     excerpt: "Nvidia has revealed the RTX 500 and 1000 Ada Generation GPUs that are designed to boost AI workflows for ultrathin laptops used by professionals and content creators."
     publishedDateTime: 2024-02-26T12:42:00Z

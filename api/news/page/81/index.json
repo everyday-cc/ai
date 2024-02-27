@@ -2,6 +2,137 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-12-15-machine-learning-deep-learning-and-the-credit-market.md",
+      "title": "Machine Learning, Deep Learning, And The Credit Market",
+      "excerpt": "What are the applications of machine learning and deep learning models in the credit market? originally appeared on Quora: the place to gain and share knowledge, empowering people to learn from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/",
+      "originalUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657a40948a8f77ae0ea63ced/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/amp/",
+      "publishedDateTime": "2023-12-14T21:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots.md",
+      "title": "XtalPi and ABB Robotics to automate laboratory workstations with GoFa cobots",
+      "excerpt": "XtalPi has used more than 100 ABB collaborative robots to build automated workstations for accelerating chemical and life sciences R&D.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots/",
+      "originalUrl": "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/XtalPi_ABB_GoFa_AMRs.jpg",
+          "width": 770,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T20:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math.md",
+      "title": "A Ball of Brain Cells on a Chip Can Learn Simple Speech Recognition and Math",
+      "excerpt": "Just a first step, Brainoware paves the way for increasingly sophisticated hybrid biocomputers that could lower energy costs and speed up computation.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/",
+      "originalUrl": "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T20:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-2024-healthcare-insiders-predict-the-future.md",
       "title": "2024: Healthcare Insiders Predict The Future",
       "excerpt": "I hope you find their predictions and insights as intriguing as I do. AI to Bridge the Gaps to Human-Centered Health Care Artificial intelligence (AI) and machine learning (ML) have the promise of bridging gaps in medical education and creating ...",
@@ -1078,144 +1209,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it.md",
-      "title": "2023: The year we played with artificial intelligence — and weren’t sure what to do about it",
-      "excerpt": "Artificial intelligence went mainstream in ... of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri ...",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
-      "originalUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2023/12/YE_Artificial_Intelligence_19894-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T13:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-openais-ilya-sutskever-has-a-plan-for-keeping-super-intelligent-ai-in-check.md",
-      "title": "OpenAI’s Ilya Sutskever Has a Plan for Keeping Super-Intelligent AI in Check",
-      "excerpt": "A research paper released by OpenAI today touts results from experiments designed to test a way to let an inferior AI model guide the behavior of a much smarter one without making it less smart.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/",
-      "originalUrl": "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/657a4dc7d50c518000e43e90/191:100/w_1280,c_limit/OpenAI-Superalignment-Business-1554148483.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T13:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-the-ethics-of-ai-balancing-innovation-and-responsibility.md",
-      "title": "The Ethics Of AI: Balancing Innovation And Responsibility",
-      "excerpt": "AI has the potential to transform various industries completely. On the other hand, concerns around its ethical implications are valid, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/the-ethics-of-ai-balancing-innovation-and-responsibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/the-ethics-of-ai-balancing-innovation-and-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T13:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

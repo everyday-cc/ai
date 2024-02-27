@@ -7,7 +7,7 @@ originalUrl: "https://techreport.com/news/reddit-inks-landmark-60-million-ai-con
 webUrl: "https://techreport.com/news/reddit-inks-landmark-60-million-ai-content-licensing-agreement-with-google/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Reddit licensing deal offers Google a data mine to push its luck"
+    excerpt: "Google’s sporadic attempts to break OpenAI’s dominance in AI have left the search giant badly bruised. The company’s maiden AI chatbot Bard, launched as a rival to OpenAI’s ChatGPT, was faulty. It had factual errors in its first demo video ..."
+    publishedDateTime: 2024-02-27T12:20:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/why-reddit-licensing-deal-offers-google-a-data-mine-to-push-its-luck/article67891673.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/why-reddit-licensing-deal-offers-google-a-data-mine-to-push-its-luck/article67891673.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/why-reddit-licensing-deal-offers-google-a-data-mine-to-push-its-luck/article67891673.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/4oztyw/article67891647.ece/alternates/FREE_1200/2024-02-22T040645Z_1564498761_RC26HX9T25WR_RTRMADP_3_TECH-AI-REDDIT.JPG"
+        width: 1200
+        height: 822
+        isCached: true
   - title: "Reddit strikes $60M deal allowing Google to train AI models on its posts, unveils IPO plans"
     excerpt: "SAN FRANCISCO (AP) — Reddit has struck a deal with Google that allows the search giant to use posts from the online discussion site for training its artificial intelligence models and to improve services such as Google Search."
     publishedDateTime: 2024-02-22T20:28:00Z

@@ -354,15 +354,6 @@ related:
       name: techtimes
       domain: techtimes.com
     quality: 14
-  - title: "Google to pause Gemini image generation after AI refuses to show images of White people"
-    excerpt: "Jack Krawczyk discusses how Google Bard helps users connect and communicate — and what the future holds for the platform. Google will pause the image generation feature of its artificial intelligence (AI) tool, Gemini, after the model refused to create ..."
-    publishedDateTime: 2024-02-22T12:26:00Z
-    webUrl: "https://www.foxbusiness.com/fox-news-tech/google-pause-gemini-image-generation-ai-refuses-show-images-white-people.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 11
 
 secured: "TK89c2vNMDWov/VjEPAI1GMKLmlIWH7ldopbAXWQp/qxJhIffEKGZp15rgpvPlPWXRIgqcFsYUH5257jXhei3wzX5I2MA6knSS6ES4a3t67tJ/rICMwLEDpGMgDADZWKV4YFRi2z86aODIkAM77kB1UQ1vUPtdF+bzDnEef0ixj13z6viKaCQ6SDrcDFu1b63YFa7m4CEGHrI4hv8yg7AkO7elUZU24dpuiY7D6P55iLGYwPj7SRhRCwBpZCa0IDXiLp2R1Vdqm5qMBfWe9XlmF4qdsip1ISS9+sV6IbDzoOkB+PWwcCTDzhXRkRy3f3Owl2ZaXSpxncPlO/gq5AVCL6/xz0xhNPnuYHVGSfo/M=;YumsETCpMrzZXXdrYwNDjw=="
 ---

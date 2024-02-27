@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-26-astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain.md",
-      "title": "AstraAI: Redefining Innovation with the Ultimate AI Ecosystem in Blockchain",
-      "excerpt": "As AstraAI continues on its path of groundbreaking advancements, it is clear that the platform is not just participating in the blockchain and",
+      "path": "_news/2024-02-27-ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america.md",
+      "title": "AI momentum is underpriced in the options market says Bank of America",
+      "excerpt": "Buying Nvidia call options remains a good way to profit from gains in the AI chipmaker’s share price because volatility is being undervalued, according to Bank of America. In a note published Tuesday, the BofA global equity derivatives team observed that ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-1033100075",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-1033100075",
+      "webUrl": "https://www.marketwatch.com/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
+      "originalUrl": "https://www.marketwatch.com/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://lh7-us.googleusercontent.com/QnKXxXlezgzKCQkNJT1UWPIIz9jsLH7CdUAF4SwYzJwpetjMz4PPmwNINISZ-eZoeSRgRsZDofFVchvM-l0ZMqAqc-MI0DKCj1vD46GZm4qldNuOxhhh8eJEcAiRRLZUTfHl0MizY7WBdSEryBPaOow",
-          "width": 1060,
-          "height": 1600,
+          "url": "https://images.mktw.net/im-65097578/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T04:30:00Z",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
+      "publishedDateTime": "2024-02-27T12:29:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,6 +49,7 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI",
         "AI in Finance"
       ]

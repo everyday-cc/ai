@@ -103,6 +103,20 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "A Vending Machine in A Canada-based University Was Secretly Stealing Student’s Facial Recognition Data"
+    excerpt: "Students of the Canada-based University of Waterloo were outraged after they found that the vending machines in their university were secretly stealing their facial recognition data. The incident came to light when a student from the university ..."
+    publishedDateTime: 2024-02-27T03:27:00Z
+    webUrl: "https://techreport.com/news/a-vending-machine-in-a-canada-based-university-was-secretly-stealing-students-facial-recognition-data/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 23
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/02/victoriano-izquierdo-JG35CpZLfVs-unsplash-scaled.jpg?_t=1709033265"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Ontario university students freaked out about facial recognition vending machines"
     excerpt: "A set of smart vending machines at the University of Waterloo has stirred up quite the controversy among students, who quickly raised privacy"
     publishedDateTime: 2024-02-23T19:34:00Z

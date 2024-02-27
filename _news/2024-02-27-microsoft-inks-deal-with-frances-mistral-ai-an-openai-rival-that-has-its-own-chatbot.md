@@ -2,19 +2,17 @@
 category: news
 title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival that has its own chatbot"
 excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."
-publishedDateTime: 2024-02-26T19:53:00Z
-originalUrl: "https://thehill.com/homenews/ap/ap-technology/ap-microsoft-inks-deal-with-frances-mistral-ai-an-openai-rival-that-has-its-own-chatbot/"
-webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-microsoft-inks-deal-with-frances-mistral-ai-an-openai-rival-that-has-its-own-chatbot/"
-ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-microsoft-inks-deal-with-frances-mistral-ai-an-openai-rival-that-has-its-own-chatbot/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-microsoft-inks-deal-with-frances-mistral-ai-an-openai-rival-that-has-its-own-chatbot/amp/"
+publishedDateTime: 2024-02-26T22:16:00Z
+originalUrl: "https://www.seattletimes.com/business/microsoft/microsoft-inks-deal-with-frances-mistral-ai-an-openai-rival-that-has-its-own-chatbot/"
+webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-inks-deal-with-frances-mistral-ai-an-openai-rival-that-has-its-own-chatbot/"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
@@ -36,6 +34,22 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-107974425,width-1280,height-720,resizemode-4/107974425.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft made a $16 million investment in Mistral AI"
+    excerpt: "Yesterday, Mistral AI, a Paris-based AI startup working on foundational models, announced a new large language model that could rival OpenAI’s GPT-4, a chat assistant and a distribution partnership with Microsoft yesterday. But Microsoft and Mistral AI ..."
+    publishedDateTime: 2024-02-27T11:15:00Z
+    webUrl: "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/"
+    ampWebUrl: "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft announces ‘AI access principles’ to offset OpenAI competition concerns"
     excerpt: "On the heels of Microsoft’s investment and partnership with French Large Language Model startup Mistral AI, the company continues to work hard to try to dispel the image that it’s blocking competition through its deep partnership (and financial stake ..."
@@ -176,6 +190,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2024/02/720x480.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Microsoft president commits to Azure open platform for AI"
+    excerpt: "Brad Smith sets out Microsoft’s ambitions to make Azure the best platform to host foundational AI models, and train and run AI applications."
+    publishedDateTime: 2024-02-27T06:15:00Z
+    webUrl: "https://www.computerweekly.com/news/366571512/Microsoft-president-commits-to-Azure-open-platform-for-AI"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 69
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/onlineImages/AI-artificial-intelligence-button-adobe.jpg"
+        width: 1200
+        height: 400
         isCached: true
   - title: "Jeff Bezos, Nvidia join OpenAI in funding humanoid robot startup Figure AI: Report"
     excerpt: "Tech giants including Amazon, Nvidia, and Microsoft are pouring investments into startup Figure AI, which specialises in creating human-like robots. The venture, also supported by OpenAI and ..."
@@ -398,6 +426,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "F5q8AnE5mmaq0PXBWYvW3z93L9P6XwL+H/TAtpu71yp02nC1lJheqnib1EnBUyVvdb9e82ZB9GX/tGq44wqr2lzN7++HV8uIlzAc0IcbZqCwPjoWFG2uy95E3tmcq5CXroTAz3j5/u7slSF3Tu4O33xnTUbg7ZyETLLKx7ROfnt/tH7YLlsZH08KOcd3l5gZwOimAb2BVUpPSXEhmeBDiMBl33T0T/kZ4/2XVs1kVdLv1UA7nYBiocRYkJjJ0ZpWn0wN9z1tSwlnlpPDdiUzuFmI0xDAxr2WkwTGmoe9M2hvfHxDoCSrzh/mdUzsSlE6l2tbWzBrXKLlR50CTYS9cIhcCOHMc7MDdZ+yQhZ0WHU=;L9GJHInW6Ky2fHhMt3HdJw=="
+secured: "pZ9jxkhy8ra0rvy7d+f6xI8C9KnfXGMZVxieZ162fhVOvkFV2s5m9Brd5vyAt1EGWYsVCMNRHdcDmiadvHp3pMr46ccQscTPHABA46bQVis/vsU+Bq2jMVGEJTfqt//CT2565qvzLDcuIhiPb0wSDUUGB9C7iOIhPglY+9E2bIJ3kjHlJQuHeaK9+5BpdTy9KSvru4o3UKuvyFfjWtOe+95ujXlDodJhsEP4MAQL/WucwB2fObGshKCNo/xXC9f0ChBDsa+0bs3sClSKMbrzEXm9RJQJqSKzQV0ID+ACSB1r1qjuKE3RuhyzPjzz0N2ftxSLtjmF/6QwhWgSJ+27dqRGXPQskWN6/98H40ti5v1Hwmd5ML1Q+IdfuMIsmKTQzpgtkYiaCqZhpB1QOt6kowjnE1PRtpRLpg2CV4Z1VOhRwAqy4JYUDm2GZB3q8BNMr3TndI1XAMHUDMbPYWe+UCdHuNoq/Fj6Qj4ZJQNHRBqXyauXDxQMZrYKZCXHxi5eLAWTvPuwoXdO849HkFQU7g==;rYU+0V5EeNg9mhZoZKysig=="
 ---
 

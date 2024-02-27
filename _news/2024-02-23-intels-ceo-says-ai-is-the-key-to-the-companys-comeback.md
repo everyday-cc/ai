@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/"
 webUrl: "https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Intel Brings AI Everywhere Across Network, Edge, Enterprise"
+    excerpt: "Intel announced new platforms, solutions and services spanning network and edge AI, Intel Core Ultra processors and the ... Samsung has demonstrated a first-call at their research and development lab in Suwon, South Korea. Ericsson has also demonstrated ..."
+    publishedDateTime: 2024-02-26T05:55:00Z
+    webUrl: "https://www.guru3d.com/story/intel-brings-ai-everywhere-across-network-edge-enterprise/"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
 
 secured: "tWqSRYrHtv7mRWzAnxzRmNMGGgs4zZ4UU3S7qWmdxbVC0DooKLm41BKvQwWplFypkHSZuNRqX6Pcz8jPUln/ZtEOvjY7TYxdD19UIKAJFNX4bV6YPk3BUIEND12YwEyQMhep+m8fZohA9jCWCD7QZvK3kHDmmv6ILmI1CsuIawWIyI2GFvK3uwryx5GGrTLVpXpooSYGykZRZWBzddM3vzfQBVYv1PV02iGAtaoFUJP05PiVyM6zioeYsr6VJ0w1VCyrMQY1GaYTlL3p02Bt0ym+diX4ljr6xxyUFZ87AYSgpiAq7yorgKs/LQnEpVcBrUNAazFgbdbER3eCBepr0ljMHufaLzB0QB/RoSTymwI=;K7ZDPafnp0msWZDGvKBUXw=="
 ---

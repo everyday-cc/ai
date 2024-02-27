@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/amp/"
 type: article
 quality: 89
-heat: 349
+heat: 339
 published: true
 
 provider:
@@ -359,15 +359,6 @@ related:
       name: techtimes
       domain: techtimes.com
     quality: 14
-  - title: "Google to pause Gemini image generation after AI refuses to show images of White people"
-    excerpt: "Jack Krawczyk discusses how Google Bard helps users connect and communicate — and what the future holds for the platform. Google will pause the image generation feature of its artificial intelligence (AI) tool, Gemini, after the model refused to create ..."
-    publishedDateTime: 2024-02-22T12:26:00Z
-    webUrl: "https://www.foxbusiness.com/fox-news-tech/google-pause-gemini-image-generation-ai-refuses-show-images-white-people.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 11
 
 secured: "eSnOU+fmXJMX++xDjXjR2evkk374DTW/vuZkMl7694/pZRj2F3e7JddIqilouLv5veYzvXlBIk2MGMXx5yTdq8ZFEqnp2dykPfwq6OV2vgX8YXQ3EpkMpsii10/1euy4nF+/HFcGJooa6xu57kRYT4hg+6bGN61B2z8Jc0ZGUcN++2+5R65e/3Vj6Bejf8PQfLC0haKIQv6CCnoSosRSGenn9cn/qJsDs/cJ7egOMLSS8WfvVEMfE8jLqW+PwO/Wuf+V6JmZjEBp5rsrhgA0jWT1Mi3jK0KAhPrEolMF12slUbRt2qjZyA+4ue1qW0GvCsg1eEwSoMXAFj3MTV6wcQJychRUrZgvAbDSzG3kB88fnfbQfOHocPl9AFIaHLUylg+ORKn3b2AhDd/d0LgTYVDpMMJ8ymakBgOJxKQVjnNIXNc1ialjNLZzfwpJCpxKAi8RrrbBGX8hnvkWL0Sdbdl/Rc6ADwYqt14TfR+/8PNSwjNSk7fYXig9H2H2WNlcM7mEuG7Qlbixjsc22sieGw==;KAHznYr6nI7saQPqlgMxxQ=="
 ---

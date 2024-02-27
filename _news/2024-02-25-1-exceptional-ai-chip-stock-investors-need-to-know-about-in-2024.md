@@ -46,6 +46,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Five of the Top Artificial Intelligence Stocks to Invest in Immediately"
+    excerpt: "With artificial intelligence impacting just about every industry in the world, the market could be worth about $594 billion by 2032, according to Precedence Research. All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE ..."
+    publishedDateTime: 2024-02-22T16:57:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BAC/pressreleases/24275348/five-of-the-top-artificial-intelligence-stocks-to-invest-in-immediately/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 17
 
 secured: "6P4DXVNCu5RpOmOEEJX1HMAgLS2V9/qv6TVyRY/mspkI+hfzdL+z/TS50ulgD1ydDZkj4CHGl6P6Q6Tzme5/arVHUhxiUjL/22hMdEanFsHn9tLr+A2mOry61EoCb5KOEDzd4CofiRhFN87/XR6RdxhDLbkeJ7af7g/y1gTx6pRjKip95zKlaUyAPez9tO9YniRyy5IJswiWNs7t2k39kwEM+iLZotG+UPKuyBlftrriFF//CIYq81CT2diTWCkT6eKf1KhHNpFVRbMtiS4fBt2CqxevxHNO1pN2I2eVPiSN2ot1Y0Oiqa4CdOo6TTWt6h0DXgq3KyuZsLeToxjy5B6FlRuMv1RUnoijkJTDzJhRHFqGlMrDRAv9BA7zv9XNRsmKuMOI4XDZIwX7KEZ9ATQSRgfypjrXt8wAWK7d7uVCNEVemXlEYGEVb9GIkIJGA1bb5rqrK0VKEVQ7OB6aVYAiILZil5lcjJS6+Af/WJ7gGpg+n3Ujq5bufkYRJ6Nf7ET5VzOyO527AbNEEbXxWA==;gmdV7BYjLj9X8RqSguu+6g=="
 ---

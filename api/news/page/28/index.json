@@ -2,6 +2,138 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2024-02-06-ai-what-is-it-good-for-machine-learning-at-central-square-theatre-takes-a-look.md",
+      "title": "AI — What is it good for? 'Machine Learning' at Central Square Theatre takes a look",
+      "excerpt": "What of hope and faith? Questions like these shape Francisco Mendoza’s probing play “Machine Learning” (through Feb. 25 at Central Square Theater), where a son aims to help his father, who is battling cancer and a penchant for alcohol, with an app he ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/news/2024/02/06/machine-learning-central-square-review",
+      "originalUrl": "https://www.wbur.org/news/2024/02/06/machine-learning-central-square-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wordpress.wbur.org/wp-content/uploads/2024/02/Machine_Learning-Production-1-1000x667.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-artificial-intelligence-for-the-financial-market-machine-learning-can-enhance-stock-return-prediction.md",
+      "title": "Artificial intelligence for the financial market: Machine learning can enhance stock return prediction",
+      "excerpt": "In the complex world of financial markets ... especially in global stock investments. However, Machine Learning (ML) methods, a branch of Artificial Intelligence (AI), offer a promising solution.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.html",
+      "originalUrl": "https://phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/artificial-intelligenc-6.jpg",
+          "width": 2880,
+          "height": 1867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.amp",
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-artificial-intelligence-in-the-news-how-ai-retools-rationalizes-and-reshapes-journalism-and-the-public-arena.md",
+      "title": "Artificial Intelligence in the News: How AI Retools, Rationalizes, and Reshapes Journalism and the Public Arena",
+      "excerpt": "Image: DALL·E 2023 12-20-14.57.08. Prompt: generate a random fine line swirl picture high resolution the lines have the blue of Oxford university on white background Chapter 1 is broken down into three parts, exploring (i) news organizations’ motives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
+      "originalUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cjr.org/wp-content/uploads/2024/02/DALL·E-2023-12-20-14.57.08-generate-a-random-fine-line-swirl-picture-high-resolution-the-lines-have-the-blue-of-Oxford-university-on-white-background.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cjr.org",
+        "domain": "cjr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-bioprinting-breakthrough-tech-platform-creates-3d-neural-tissues-in-which-neurons-and-glia-connect.md",
       "title": "Bioprinting breakthrough: Tech platform creates 3D neural tissues in which neurons and glia connect",
       "excerpt": "In a recent study published in Cell Stem Cell, researchers produced three-dimensional (3D) bioprinted human brain tissues, allowing for the creation of functioning neural networks that could ...",
@@ -998,135 +1130,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech.md",
-      "title": "Miley Cyrus Does Not Mention Dad Billy Ray Cyrus in 2024 GRAMMYs Acceptance Speech",
-      "excerpt": "You SAW me before this recognition. I never needed it because I HAVE YOU ... learning and absorbing and I think I can see my wheels turning and watching his voice and the way that he's using the instrument,\" she siad. \"I will say I feel vocally, my ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.whas11.com/article/entertainment/entertainment-tonight/miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech/603-0497fddd-d0ff-4531-8fd0-ed1d51329da8",
-      "originalUrl": "https://www.whas11.com/article/entertainment/entertainment-tonight/miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech/603-0497fddd-d0ff-4531-8fd0-ed1d51329da8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.whas11.com/assets/ETONLINE/images/8cf1f54b-858a-48fa-8328-5608c1d43e1e/8cf1f54b-858a-48fa-8328-5608c1d43e1e_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.whas11.com/amp/article/entertainment/entertainment-tonight/miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech/603-0497fddd-d0ff-4531-8fd0-ed1d51329da8",
-      "cdnAmpWebUrl": "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/entertainment/entertainment-tonight/miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech/603-0497fddd-d0ff-4531-8fd0-ed1d51329da8",
-      "publishedDateTime": "2024-02-05T14:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHAS11 News",
-        "domain": "whas11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests.md",
-      "title": "Deep learning and neural networks have more to offer than their buzz suggests",
-      "excerpt": "While Generative AI and its chatbots are powerful language-based technologies, it is still ‘good old AI’ that has been churning out astounding new products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests-11707050607582.html",
-      "originalUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests-11707050607582.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2024/02/04/1600x900/3-0-95504387-iStock-1195187835-0_1679788575543_1707052117406.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests/amp-11707050607582.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests/amp-11707050607582.html",
-      "publishedDateTime": "2024-02-05T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-mit-researchers-use-neural-networks-to-design-more-durable-and-flexible-composite-materials.md",
-      "title": "MIT researchers use neural networks to design more durable and flexible composite materials",
-      "excerpt": "Researchers at the Massachusetts Institute of Technology’s Computer Science and Artificial Intelligence Laboratory have created a new, AI-powered system for designing more durable microstructured composite materials for use in vehicle manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/02/05/mit-researchers-use-neural-networks-design-stronger-durable-flexible-composite-materials/",
-      "originalUrl": "https://siliconangle.com/2024/02/05/mit-researchers-use-neural-networks-design-stronger-durable-flexible-composite-materials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/7437285_3630964.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

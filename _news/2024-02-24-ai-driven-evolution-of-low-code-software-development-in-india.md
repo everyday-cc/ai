@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-3403499/lite/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "India’s AI Future: A Bold And A Different Vision To Win"
-    excerpt: "40% of the nearly $8 Bn investment in Indian AI startups was made last year, indicating bullish global sentiment in the sector To embed AI innovation deep into the ecosystem, AI4Bharat is building open-source AI for Indian languages."
-    publishedDateTime: 2024-02-25T15:32:00Z
-    webUrl: "https://inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/"
-    ampWebUrl: "https://inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 39
 
 secured: "HndMY6Sx41OMyL37rWUQM1ve7DkrNfdrQg4wDns8iDq60YNe3vQC1rkSOc4dY9PhakUOH5c55MgYrTi9RrP32YwwXLsJc4elX40Gneyh8sZhFJLHNSmgdaTcczkR5fdRZ43ADm38+hNRYDzPllCrIe6uQOfAmGQTckaBQ0LAXe91FBgoV/ayzduqw482nCZGLfJzddII7gi0Iluxshgh+FjpF6lTzAWigNrHS0gZP+l428gnkQDky9DX6wlZontSOAuAFVIA8XUWgBR/CdnitJpgM9C6WcQDyvDqfDm0E+13XgHU2ly37ND1nmD4fr7iZvl6ydF9AJAe41d6OrpZiPL91PyPCkM6UjThyAVAhoY=;LCpI6AWtfETBmByBshJ5gw=="
 ---

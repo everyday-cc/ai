@@ -47,6 +47,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "A Snapshot of Artificial Intelligence in Health Care"
+    excerpt: "Artificial intelligence (AI) has an important role in the future of health care. With its potential to parse through vast amounts of data, glean critical insights, build predictive models ..."
+    publishedDateTime: 2024-02-23T16:13:00Z
+    webUrl: "https://www.statnews.com/a-snapshot-of-artificial-intelligence-in-health-care/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 39
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Meta-Image-Premier-Pulse-Check-Report-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "How Artificial Intelligence Can Help Lease Accounting"
     excerpt: "In 2019, the global artificial intelligence (AI) in accounting market, specifically, was valued at $646 million, according to BCC Research, which projects it to reach $14 billion by 2027. I believe that AI is going to play an important part in the ..."
     publishedDateTime: 2024-02-25T23:59:00Z

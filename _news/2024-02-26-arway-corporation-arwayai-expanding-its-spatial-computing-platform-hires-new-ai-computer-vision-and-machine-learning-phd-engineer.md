@@ -59,6 +59,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Meta Decides To Form A Team To Prevent AI From Tampering With EU Elections"
+    excerpt: "The team will consist of experts from within the company, including engineering, operations, legal, content moderation, research ... across Facebook, Instagram, and Threads. The company already does this for images generated through its own AI tools."
+    publishedDateTime: 2024-02-27T04:06:00Z
+    webUrl: "https://techreport.com/news/meta-prevent-ai-tampering-elections/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 37
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/02/arnaud-jaegers-IBWJsMObnnU-unsplash-scaled.jpg?_t=1709035648"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "SK Telecom partners with AI search startup Perplexity in Korea"
     excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters."
     publishedDateTime: 2024-02-26T12:30:00Z

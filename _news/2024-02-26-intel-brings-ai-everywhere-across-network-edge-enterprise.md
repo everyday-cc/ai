@@ -19,40 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "How To Build AI Capabilities Across An Enterprise"
-    excerpt: "Businesses rolling AI out across an enterprise can learn from the masters of making the most of disruption – venture investors."
-    publishedDateTime: 2024-02-22T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/"
+  - title: "Intel’s CEO Says AI Is the Key to the Company’s Comeback"
+    excerpt: "Will Knight: You announced this week that Intel will relaunch its business that manufactures chips on behalf of other companies as an “AI-era system foundry.” What does that mean? Pat Gelsinger: I began Intel’s strategy two plus years ago ..."
+    publishedDateTime: 2024-02-22T16:55:00Z
+    webUrl: "https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d508ffcd2e8c866e062f4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1141
-        height: 760
+      - url: "https://media.wired.com/photos/65d679d633ef175be68cdac6/191:100/w_1280,c_limit/Pat-Glesinger-Intel-CEO-Q&A-Business-1767731700.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "IBM Cloud delivers enterprise sovereign cloud capabilities"
-    excerpt: "As we see enterprises increasingly face geographic requirements around sovereignty, IBM Cloud&#174; is committed to helping clients navigate beyond the complexity so they can drive true transformation with innovative hybrid cloud technologies. We believe this is particularly important with the rise of"
-    publishedDateTime: 2024-02-22T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/ibm-cloud-delivers-enterprise-sovereign-cloud-capabilities/"
+  - title: "Intel Bridges AI Chip Gap"
+    excerpt: "Intel is well-positioned to capitalize on emerging opportunities in the semiconductor landscape and bridge the AI chip shortage gap. Yiazou Capital Research members get exclusive access to our real-world portfolio. See all our investments here » Through ..."
+    publishedDateTime: 2024-02-25T14:00:00Z
+    webUrl: "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
-  - title: "Where Does AI Go In Your Enterprise?"
-    excerpt: "By taking these steps, I found that organizations can effectively navigate the complex and rapidly evolving AI landscape."
-    publishedDateTime: 2024-02-26T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/where-does-ai-go-in-your-enterprise/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://media.gettyimages.com/id/1251437157/photo/microchip-and-intel-logo-displayed-on-a-phone-screen-are-seen-in-this-multiple-exposure.jpg?b=1&s=594x594&w=0&k=20&c=HFVH7KxmOihjyT8EjTR8pO5m_rgbZfpLmjn4pVRwaAE="
+        width: 594
+        height: 396
+        isCached: true
 
 secured: "L/xE/hUHqqxBh7tsWMn4FFeX/BWh8LSsH1feVyWjFBnfZ0TqFTWHKX2Udcvh5nrBC5moFQKH7Y1AyrlueRTBY3k5B7be6eWNnXQE93yqlG2v9UXy+SH2PQ7tJ+lCTs7FfBwvS7rnBW4D3LS+jshy7eSkkYI/LNPBtL3wBfnY0bHv1BTviIJW5ahBW9X+302fD/ysy8ARI3KWiurYVJsC4iFLx6cnM0ibdtjKs+Jmt69WyIfT5JrGSEEDpNG2+82E1wxbFCJj4rncPgHwd+cRyLjVHGLO98Ss9KRAPPwmi1gpJm9dwTZ1Ea+LUqNX1tcn3cbr98yGERHoGtxXJLUHjX/9YI7B1OZhOIwabsgKRr1wG1/A6LfHVPq9ntamEw2OStCu5ap5HKdZbgpMmJri2T00Iqk8+NRxss8OJitBYuu40ZMmWKvw5756z0kUBkaXt9YH0X0z4lBqx/SkyQKCFWAJydVMTSfLdgcunT2FmmziLuE3FxmVTuWuiEra53gYyebUPGnaGbLy+90lSj445Q==;XTTVhKuQxKEAMT+YdVESrQ=="
 ---

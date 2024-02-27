@@ -354,15 +354,6 @@ related:
       name: Android Police
       domain: androidpolice.com
     quality: 17
-  - title: "Google to pause Gemini image generation after AI refuses to show images of White people"
-    excerpt: "Jack Krawczyk discusses how Google Bard helps users connect and communicate — and what the future holds for the platform. Google will pause the image generation feature of its artificial intelligence (AI) tool, Gemini, after the model refused to create ..."
-    publishedDateTime: 2024-02-22T12:26:00Z
-    webUrl: "https://www.foxbusiness.com/fox-news-tech/google-pause-gemini-image-generation-ai-refuses-show-images-white-people.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 11
 
 secured: "GTQuvOjx+By8aeGVuQnglRWYocqZmASjpPlGUnRQTEOL7ShxnfQ25hi2/wOvbgDp5ouBY2c2wxKV7aXciRBj/YPKHqIrGUlQs9JyJWKg6NZFYifX1phGjwypzZza/YBJTX/tb5t3tLP/E06hJ0Y5RTiAeAc/kJVdDLRCZ1Yn4uEVVabBKsQ1vg/zkh6zg03008FifIBCCiEab8pV+6egjX9JjYGSzH61YwM2uuTxNuVJzLboSuwJ8hh3+68B282NgV9FcBI5qk/at/fVrmVXbAZwfhCLCk/OeSz01upuFR4LL1GLwYivB5kPyHeWk/p1IbdhhOUIHdAxeIVFFaYQJUXW0pr7dfHm3q86D4wh91g=;To5xNYzjEABoBXwc/EdjiQ=="
 ---

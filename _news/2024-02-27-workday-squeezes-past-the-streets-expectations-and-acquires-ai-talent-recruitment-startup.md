@@ -40,6 +40,20 @@ related:
         width: 2312
         height: 1460
         isCached: true
+  - title: "How to navigate talent management in the age of AI"
+    excerpt: "Valuing human skills, fostering inclusivity and navigating the ethics of AI can make tech roles sustainable and fulfilling."
+    publishedDateTime: 2024-02-23T21:20:00Z
+    webUrl: "https://www.ciodive.com/news/AI-tech-talent-management-mastercard/707910/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
 
 secured: "am/VPTR7xkGrkYyhAVb0rCaICFlTlKoCzu9Xq1OcMXbKIvZgJA1fUeXfoXuH3mZnq/ktDuyYQYqYnLktHZ9JIf9otf1aF+VOlBkzYizlgZ59+NLRrg4W3/cx7aiHYCMvTD1G8DOsnZ1uzO5xUrL4eeeOlfmc8e+JVEF7vScn9j+6GXCubiAdfwLmx6bZH8HnmsEEiWC4NseWiFAbKy49KdJftsUxYPcNJioP7fXQI4/FJNhn4AOxhK9rWL8kS5j7y+f0kp4y/NPKNpA7FN9we07vVb0IBJ79mzNfIKKYinHmIMM++qKbNY52y9eSCIOucnFTnxOJUejF9J0bKiF1KX6q20FGIYdsQdIhGCP2p7VlLqQ6OraTTLnVKWC1MSx0uG/UKsIoeOD0w9rPTmusVsAx/C2QwMjP1RKC2LfyUzTWLAI00jzns6ZuqfuJoLzmJ+CULncWAJC4PZfYOD4cod/Cazxyji+272Vug7VaxxPWbTiR5f5a/bGYYvTbB4yAQ+VYuw2whN7dxW0sOg8TCA==;io9MG6ZFtEOVgJnyoCs53g=="
 ---

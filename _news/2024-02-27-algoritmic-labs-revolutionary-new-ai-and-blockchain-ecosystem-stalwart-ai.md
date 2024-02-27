@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Learn To Ride The AI And Blockchain Tech Tsunami"
+    excerpt: "Initiatives to prioritize skills and competencies over academic credentials have gained momentum. Girls in Tech, ETHDenver, and UETH have alternatives ways for education."
+    publishedDateTime: 2024-02-27T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65dbccde02f7ed6305cd9c3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "AstraAI: Redefining Innovation with the Ultimate AI Ecosystem in Blockchain"
     excerpt: "As AstraAI continues on its path of groundbreaking advancements, it is clear that the platform is not just participating in the blockchain and"
     publishedDateTime: 2024-02-26T04:30:00Z
@@ -42,6 +58,15 @@ related:
         width: 1060
         height: 1600
         isCached: true
+  - title: "Decentralized AI On Blockchain Rivals OpenAI's Lead"
+    excerpt: "Decentralized AI projects like Gensyn, OORT, and Bittensor are emerging to accelerate AI development by leveraging decentralization's benefits"
+    publishedDateTime: 2024-02-24T12:33:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2024/02/24/decentralized-ai-on-blockchain-rivals-openais-lead/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The future is woven with the threads of AI, Edge & blockchain"
     excerpt: "The future is being redefined by the interwoven threads of Edge computing, blockchain, and AI. In the dynamic landscape of India’s SaaS industry, Sudip Banerjee, CTO, APJ, Zscaler, highlights the promising trajectory of growth."
     publishedDateTime: 2024-02-25T11:37:00Z
@@ -61,6 +86,6 @@ related:
       domain: finanznachrichten.de
     quality: 9
 
-secured: "sew92NiE/ghvOZ+EKnl651CecKrNd5K+PyiHy93WR+7yzTisylm4gHHbERhBNgkPQc+8n6y23gfH5P9jLu7mIE0f6Rm+UWVhRsLQf+lLsemdypA76N229tQpSUPSlqh8X9uF1BhiQ9itcORipE4ZYBi/IB4ykkfbdrMOV0ulUp5apvao2tpL7G/DO0eh2O3n1oharJQabvXdnYIONBjTqBqGRXAJeSlvBqHJP39YWBX/K1gm7ybKWovEruScK4IEqCRVE1Ngy21EQzaV4MIZKQ9J+FWiF2EszhHQQ1KOGo13UUgpOR0F1at1sk43HGDCTc0o1qujaHYG2XsQrFdM7kZzjcvhEaBPltQ0rGxS+SY=;FeXLu9NNL3MjlsyOhWyYGA=="
+secured: "wpexjLtRq5gHBuD6+MdxIOgfUp+pCjfb95/CN1Z56wXlqA5r/oP37t8hFw5Ko/wd+fcHqmdz/Hwo0op1KZJKStQ4Y1pwytCG2FE5qWvDntxVBjzCyBqLoqHswaldATHliV3IlZcJX4ZfrXe2B1Z5cZ3W0II6LMJxjXcJH8pyHla8vZlqbGnHW5QFaHlbv2pr/nrgYncL3nUYa3tkx/6OXg7roNYxhF/aJD93Uur2xUvD4kfHP7dFehaskBeaXaIAOaFQdkLk1ZCgdp2OflQ1vp/arnzOBWvbv9DAdEhvDwfCZB2ZLV8UH0e8ympCTz72jPWbmTHaUS+lSWIqSTWkrQeGwkYvlO70/JqWZ5sc18n8ynrNuKa1VGvLgfOsaOvwjsaVEG6li6EDsClok0aKU3MVRUmdDQs2BJO2Dht6AY5tQ6lFi9F6YeUAg+C5kqcfb6F9fRjyvpjoV2QDdSCxbYh7rylWE76la0gUZ4aXW4ArvsPE6xYa/EImBzcvcWfXhvLlm3T9n7Km0GI4s17avA==;/Sp0Owf1ktXfL+6K9NYugQ=="
 ---
 

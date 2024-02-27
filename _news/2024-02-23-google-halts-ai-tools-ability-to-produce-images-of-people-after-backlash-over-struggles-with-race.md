@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Google pauses AI-generated images of people after ethnicity criticism"
-    excerpt: "Company says it will adjust its Gemini model after criticism of ethnically diverse Vikings and second world war German soldiers"
-    publishedDateTime: 2024-02-22T11:55:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/feb/22/google-pauses-ai-generated-images-of-people-after-ethnicity-criticism?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/22/google-pauses-ai-generated-images-of-people-after-ethnicity-criticism"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/22/google-pauses-ai-generated-images-of-people-after-ethnicity-criticism"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/86dce439bf808a115a2a87b194f640de2d28fc99/0_0_2140_1284/master/2140.jpg?width=620&quality=85&auto=format&fit=max&s=f1505c41453b7525a118c0c4bf8358b7"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Google’s ‘Woke’ Image Generator Shows the Limitations of AI"
     excerpt: "Gemini’s issues may not reflect model inflexibility, “but rather an overcompensation when it comes to the representation of diversity in Gemini,” says Sasha Luccioni, researcher at the AI startup Hugging Face. “Bias is really a spectrum ..."
     publishedDateTime: 2024-02-22T15:06:00Z
@@ -109,6 +93,20 @@ related:
       - url: "https://img.hoodline.com/2024/2/google-pauses-ai-image-creation-amidst-uproar-over-racially-diverse-historical-depictions.webp"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Google’s Gemini will be right back after these hallucinations: image generator to make a return after historical blunders"
+    excerpt: "Google’s first attempt at a generative AI chatbot was Bard, which saw a lukewarm reception and didn’t win users over from the more popular ChatGPT in the way Google had hoped, after which it changed course and debuted its revamped and rebranded family ..."
+    publishedDateTime: 2024-02-27T01:06:00Z
+    webUrl: "https://www.techradar.com/computing/artificial-intelligence/googles-gemini-will-be-right-back-after-these-hallucinations-image-generator-to-make-a-return-after-historical-blunders"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 29
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/oWKefF8dea8zZNxRdp8rsG-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google accused of being \"woke\" after Gemini creates inaccurate, racially diverse historical images"
     excerpt: "Social media users have been posting the images created by Gemini on sites such as X. Some of the more striking ones include a prompt to"

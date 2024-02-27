@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1
 webUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
         width: 5760
         height: 3240
         isCached: true
-  - title: "Google's lightweight and free Gemma AI models are optimized to run on NVIDIA GPUs"
-    excerpt: "\"Built from the same research and technology used to create the Gemini models,\" Google's new lightweight Gemma LLMs have been designed to run natively on local PC hardware powered by NVIDIA GPUs. For use in third-party AI applications, Gemma 2B and Gemma ..."
-    publishedDateTime: 2024-02-22T12:36:00Z
-    webUrl: "https://www.tweaktown.com/news/96379/googles-lightweight-and-free-gemma-ai-models-are-optimized-to-run-on-nvidia-gpus/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96379_01_googles-lightweight-gemma-ai-optimized-to-run-on-nvidia-gpus_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Nvidia ramps up GPU production to fuel AI data center revolution"
     excerpt: "The chipmaker expects demand to outpace supply through the year. “We’ll do our best,” CEO Jensen Huang said Wednesday."
     publishedDateTime: 2024-02-22T23:01:00Z
@@ -104,6 +90,6 @@ related:
       domain: crn.com
     quality: 26
 
-secured: "h3hNwK+KeNdV7NwPhibYB5pAalr+AMWkT7unmpE4HLSIyXZ8ZJHXHGvCyQf2FwxHoDLb6OegOf+ELYMt8wHJGJPc5PqFi0FgncbDFHSRYmVPw3ebHOZ/JRI6iGJq3mQNcjlRd/R1h9H8dij5Th8YghJu6S7su/IHK+8tlKPCrY8FAfu2aJT+Z8hzCEabYMJm2RYpq7vrYEu3ekss3V5qoB+Diw6RL6w7xJ9fNPW35ieeseiq9VoOmQqHc+2X2SoN5q/ROJ2XJPH3MmlQKAuocj8Wg70VD3Agy+d6fb0GuzlpCnP7ztwppxoTaF77NDpGmuP0+/iYISbTDBiT0rs5EdFFNCHoD6pI2zDctg7IVl8=;ioaDQcy64p4oJcGwVrjN8g=="
+secured: "A01SBerWPp6lB5uCHDLugONXXboSrDGKhcfI3h5u9pch9toUDZ0+548v6dwTy03EScybSgVhOMXOVAi80PPajjB0HY3OWcgWPL4YKmQCW1v1TAG0WRLmnJ2qeaiVjyxPOv3+U0UAFoaMmtQBMzkH7JBi0hlkNgZb+tCs/ZJGPObnrSPTV7KyXSltmkc2v5x5A0tF+ke+sYLj6K2vCggNcJYHAt2uHGUVHhCUdFHy6ipl2TN/27vAwOKkqrfjn08ACamDAncG2ieCT8Hoe/Oam1uQDW17Ba2CIMoTLkdNxDdvCn+FvMCc68XMaqKp2Tk/jGEOp7yoeY/q7MxiG0uUf4Ukif4m0MTk+J1nNtjvtzQ=;epAn2TF6ldpq8u2JYwFavA=="
 ---
 

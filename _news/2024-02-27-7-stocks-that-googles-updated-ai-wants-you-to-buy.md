@@ -50,6 +50,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 34
+  - title: "Five of the Top Artificial Intelligence Stocks to Invest in Immediately"
+    excerpt: "With artificial intelligence impacting just about every industry in the world, the market could be worth about $594 billion by 2032, according to Precedence Research. All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE ..."
+    publishedDateTime: 2024-02-22T16:57:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BAC/pressreleases/24275348/five-of-the-top-artificial-intelligence-stocks-to-invest-in-immediately/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 17
 
 secured: "OwzOjV4Z9niRdX0OAxaDInwLlfCBn41tLz1Qj5UibBgNQyXmONm6fuS2RcLUuwJSCCguwkDMDAcOYtbPmkhIfA5/yPWPWd/OM7NfLJPtQVR+XQJoFByyieUnTwfPIseuFiZU1rSHTdazNVsaejjphE4sIP8TscCkAzrM9C/WxmnckK7hRXN+B/9dGvu6WLNIE75PUQS0nvWF2hrglxA65eraoC4ycsVw0s0b1zlDKlOy3bbBNtvovhymJoJsXa+rlB6HsdjLOZlVridUGXkcN9FPHEavlBhXzPvX+ot3hJ320XgAZ7e1XzXDZRWA9ckZW09mdaKV+Lr5uLaTTNSDWk/3PuU5EyD8nu8GDr5DsZgkbMhHx2T49K6BcyK5uTrzfrxsMe8VDjM1KvQe8bSAWXv2SGRW4TjPARBNZb3w5MCExe02pMzrB81WLyUB1vyB3jW8EBUI5Laq2UAw/JxZ8zZZgI4/zdqhP4jueYQ9j+mnC6mWq7bHzxoYK0xhI4yDudL5ieXcInwQqJeMfHP7wA==;qnih3i7Nsus87WvWFxABXQ=="
 ---

@@ -56,6 +56,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "A Snapshot of Artificial Intelligence in Health Care"
+    excerpt: "Artificial intelligence (AI) has an important role in the future of health care. With its potential to parse through vast amounts of data, glean critical insights, build predictive models ..."
+    publishedDateTime: 2024-02-23T16:13:00Z
+    webUrl: "https://www.statnews.com/a-snapshot-of-artificial-intelligence-in-health-care/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 39
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Meta-Image-Premier-Pulse-Check-Report-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "YaOsynTMqa7nfYZ5qxF5zyGsJU/ru1hiz6hiUQaIZXCtC2gvfQeoxRKXKUxS8eJ41egCucG/vwKjy28O0+N5QcTQ4mLAs3uRiCzswo5+lxkh/coPEDdgDlgVL4fWKSpI2nqHKu9dMuArwD6BdWdQCy47S9Y/rOiRsTXC6zvhnxg/U/PAcvkSrax+YxhivAzKRZblhq4QelHPbBdF/jguR/VoneMxvdH/3GS100unEEFQD2LqzEY5wKQEVH4Caic0UmJYHXBWhPNFaQnmCYhGaKefEiED+FpE3AdC9oiIavtgIj5UzgZonR1C0bwuppL2iSW1EWSVVBpkqGUp7INatUfCHCl/ze0+Evx3sPmaNhI=;hJBqa7aMpw2Ql4OiUNoD6w=="
 ---

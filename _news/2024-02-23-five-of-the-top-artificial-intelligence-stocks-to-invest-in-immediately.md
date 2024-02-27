@@ -18,64 +18,42 @@ topics:
   - AI
 
 related:
-  - title: "AI Is Getting To Work In The Highly Regulated Investment Management Industry"
-    excerpt: "AI hit employment levels among the feted tech giants with 34,000 job losses this year. The AI “safety first” policy is resonating in the investment management industry."
-    publishedDateTime: 2024-02-22T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/"
+  - title: "3 AI Stocks That Every Investor Needs to Own Today"
+    excerpt: "Rick Orford is a Wall Street Journal best-selling author, investor, influencer, and mentor. His work has appeared in the most authoritative publications, including Good Morning America, Washington Post, Yahoo Finance, MSN, Business Insider, NBC, FOX, CBS, and ABC News."
+    publishedDateTime: 2024-02-22T15:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-every-investor-needs-to-own-today"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d6dac3706cc5efc69fdc66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "US will need 'CHIPS Act 2' investment into semiconductor manufacturing to be the best for AI"
-    excerpt: "US Commerce Secretary Gina Raimondo said that the US needs continued investment in semiconductor manufacturing in order to take global leadership and meet demand from AI technologies ... to be - whether you call it Chips Two or something else - continued ..."
-    publishedDateTime: 2024-02-22T14:35:00Z
-    webUrl: "https://www.tweaktown.com/news/96403/us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai/index.html"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "3 Hypergrowth AI Stocks to Buy That Can Beat Even Nvidia"
+    excerpt: "For investors, this means that the time to focus on finding the best AI stocks to buy is now. Nvidia is leading the way, but many of its smaller peers are picking up steam. Matt Miczulski, an investment expert and editor at fintech platform Finder ..."
+    publishedDateTime: 2024-02-22T15:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-hypergrowth-ai-stocks-to-buy-that-can-beat-even-nvidia-1033094886"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 43
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96403_403_us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
-  - title: "How to navigate talent management in the age of AI"
-    excerpt: "Valuing human skills, fostering inclusivity and navigating the ethics of AI can make tech roles sustainable and fulfilling."
-    publishedDateTime: 2024-02-23T21:20:00Z
-    webUrl: "https://www.ciodive.com/news/AI-tech-talent-management-mastercard/707910/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "7 Stocks That Google’s Updated AI Wants You to Buy"
+    excerpt: "However, one area where Google’s AI excels is picking stocks to buy. Months ago, Google’s Bard AI beat human experts and other AI models at choosing profitable stocks picks. Could the new Gemini 1.5 update improve its stock-picking skills further?"
+    publishedDateTime: 2024-02-26T16:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-stocks-that-googles-updated-ai-wants-you-to-buy-1033104734"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
-  - title: "New York Department of Financial Services Issues Proposed Circular Letter on Use of AI in Insurance Industry"
-    excerpt: "On Jan, 17, 2024 the New York State Department of Financial Services ... system is defined as “any machine-based system designed to perform functions normally associated with human intelligence, such as reasoning, learning, and self-improvement, that ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/new-york-department-of-financial-3487429/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "1 Exceptional AI Chip Stock Investors Need to Know About in 2024"
+    excerpt: "But in recent years, it pivoted its portfolio to address \"mature\" semiconductor manufacturing processes related to power, sensors, and other less advanced technologies (but still integral to the whole AI narrative). These chip types remained in high demand ..."
+    publishedDateTime: 2024-02-25T14:35:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMAT-Q/pressreleases/24332010/1-exceptional-ai-chip-stock-investors-need-to-know-about-in-2024/"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 20
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15417_0919.jpg"
-        width: 1200
-        height: 900
-        isCached: true
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 34
 
 secured: "zkIqhPpMozfy3ysVnERSRa+3rEb49ya/qYgZlszb3hR4WaOjdBnYq7IpsjznTiTqhvRA5pNmdIDi86dcId+89m8m0YxjFcPIp0fr6NUjOEfxYYfyXnYtkTAmXOiIrdXEy70UlLusniuuqx6IhOtYMSJjIuR9U3BChEDF9s9gQI7lBXvHlI1EEiZhAi8tP20xSDeJBBDEKMVwFA9Ty4DX3S5yd/kHjVFwQR5PcxJQUhDMz3wcsYU63KBgFLvFz9VGrLx8VFWyAoGaX8L6H7Yo5LGmgBiufzdAtuh+MpZt9VgHscCWp8rOqqzWMJQ3JkPQ17wB9/NanZ+npbAwZNd9KUF30Fcqj4+T6k9YRTJAakw=;F4ip1yNfYKBeO34k138j0w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 840
     height: 630
     isCached: true
-
-related:
-  - title: "Decentralized AI On Blockchain Rivals OpenAI's Lead"
-    excerpt: "Decentralized AI projects like Gensyn, OORT, and Bittensor are emerging to accelerate AI development by leveraging decentralization's benefits"
-    publishedDateTime: 2024-02-24T12:33:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2024/02/24/decentralized-ai-on-blockchain-rivals-openais-lead/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "S6yauvf5vtZtJcHIisUiJID1OB/ZFtOzyTtRK7H2pU+it17nY/AXV571NxEM8jf8lhvSrqYyJeymP8GqD8L76tyi++POHxHZTIT9d4purtly4Ik/fWtGUvvtgzJAhVkuZAPq56pSFUiiqSsY/1n6Rxr39IP5TW+0V8bMgNXTf/l3Dq4D/oBznHD0exaK1u/z5eDOFrdUVDc9llROe4Zee2CBbz8L+CEk+eK0iWhWv2Mv5c36jru/Kn9v3fbaOcXtvNQMx8ZmBpylKH8vlgLkdr9u8+oktFWLgMt/YH3YT2zH/XfDCAfF4xB0jZyAq0xXwKkGLkRwwdAlVoYWs77OMdB9823fdDrzdhsm3EVfMus=;5DGFWK4JNse26F54RBVcWA=="
 ---

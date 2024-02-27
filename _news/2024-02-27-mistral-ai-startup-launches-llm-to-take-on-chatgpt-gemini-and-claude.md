@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Mistral Large AI model beats GPT-3.5 and Llama2-70B"
+    excerpt: "This model is currently the world’s second-ranked and is available through an API on Azure and Mistral AI’s platform. Despite its closed-source nature, Mistral Large offers cutting-edge text generation and reasoning capabilities, excelling in complex ..."
+    publishedDateTime: 2024-02-27T12:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/new-mistral-large-ai-model-beats-gpt-3-5-and-llama2-70b/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Mistral-Large-AI-model.jpg"
+        width: 1280
+        height: 784
+        isCached: true
 
 secured: "Oe1SSApYpxsXuzjHay9BiUI7MwKW+uVPVBslwSQelIGZwJUx8ivsVU5Vz7ZjGiXkd1uR/pPbQwwFlEXeuEXHq9Ez0rV/MeCCI+VbDr6pi3iNAQsjlo+hFx4e9OVsWv1M/+AhYakX416QuwYtSPDf7tMwR8eDv18PH2GUAR/YM11agKj++5ZUqzApaLxjYN3H84jc3Ce4DEoSZYKKSjddNAo/eVHgDVtsCfb6/7S03L9SJLb9CXQnqDZ8BfmRssgr7lve59xri2zaJq0lBYtO9FEscX4hXmrispK18Wcd8Tn1jRaWXMOClVdFI/+OMvIe4DFmVHn0LS6HiEnRazSN7y+CzDcJ96zGaTIoIkSEbxptcDXGVWOoB8X0VV7/9dYVKPCU7ay0iTgy5xhyEPmZfzi+ASVOZYYwkRpdGDmInW1lZOIloWxuPjl0wWNOOgAQRRpjX6eTSQ1+DDnSdRwbBXj3I9jrmHHCCycEPJQgK8hOyYmc4Tmz9qjggDJnS0gj9WNwipTOgAWUbNE3qIO7zQ==;Ndf/g67lQj02UAtCPDuiYA=="
 ---

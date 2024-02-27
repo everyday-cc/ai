@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to navigate talent management in the age of AI"
+    excerpt: "Valuing human skills, fostering inclusivity and navigating the ethics of AI can make tech roles sustainable and fulfilling."
+    publishedDateTime: 2024-02-23T21:20:00Z
+    webUrl: "https://www.ciodive.com/news/AI-tech-talent-management-mastercard/707910/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
   - title: "Workday squeezes past the Street’s expectations and acquires AI talent recruitment startup"
     excerpt: "More specifically, Workday said HiredScore will enable it to leverage responsible AI to solve recruiting challenges, so companies can match, hire and manage talent. It will also enable customers to manage talent lifecycles more efficiently, and elevate the experience for recruiters and hiring managers."
     publishedDateTime: 2024-02-27T00:10:00Z
