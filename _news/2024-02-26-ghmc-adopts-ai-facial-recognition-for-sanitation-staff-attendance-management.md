@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-rec
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376"
 type: article
 quality: 71
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/f3eb9064c7eebda6ad4ccb3ba8cbbb086373408d/0_254_2510_1506/master/2510.jpg?width=620&quality=85&auto=format&fit=max&s=4413607da87aca8a8593db9e01911b28"
         width: 620
         height: 372
-        isCached: true
-  - title: "Benton County Sheriff's Office looks to purchase facial recognition platform powered by artificial intelligence"
-    excerpt: "Ton-That stated that under the National Institute of Standards and Technology's facial recognition vendor test which measures the accuracy of the artificial intelligence, Clearview AI matched the correct image from a lineup of 12 million photos at a rate of 99.85 percent. Ton-That claimed this is more accurate than the human eye."
-    publishedDateTime: 2024-02-22T01:34:00Z
-    webUrl: "https://www.nbcrightnow.com/tricities/benton-county-sheriffs-office-looks-to-purchase-facial-recognition-platform-powered-by-artificial-intelligence/article_17922c5e-d123-11ee-bb4e-f77413235c2b.html"
-    type: article
-    provider:
-      name: NBC Right Now
-      domain: nbcrightnow.com
-    quality: 36
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nbcrightnow.com/content/tncms/assets/v3/editorial/d/b9/db98f62c-2a4f-11ed-b886-d7830e1f6b65/631143a14e2ad.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "GHMC invites bids for facial-recognition biometrics attendance system through mobile app"
     excerpt: "The Greater Hyderabad Municipal Corporation (GHMC) has, through a request for proposals (RFP), invited bids from contractors for the introduction of facial recognition biometrics for recording attendance at all levels. Describing it as an ‘artificial ..."

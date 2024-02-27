@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Galaxy AI Coming to Samsung S23, Z Flip, Z Fold 5, and Galaxy Tablets"
-    excerpt: "One of the most touted Galaxy AI features is called Circle to Search, which lets you search for something that you see on your screen."
-    publishedDateTime: 2024-02-22T03:00:00Z
-    webUrl: "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets"
+  - title: "Samsung becomes first to introduce 12-stack HBM3E amid high demand from AI"
+    excerpt: "All three are planning to increase their production output of HBM this year, with the downcycle of the memory chip market seemingly over, and to meet the high demand from the popularity of AI, which has increased demand for GPUs __ especially those made by ..."
+    publishedDateTime: 2024-02-27T02:23:00Z
+    webUrl: "https://www.zdnet.com/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://i.pcmag.com/imagery/articles/00gGCdUOwn2gbxeJgLZKAYU-1.fit_lim.size_1200x630.v1708557191.jpg"
-        width: 1119
-        height: 630
+      - url: "https://www.zdnet.com/a/img/resize/6f7adb4d553815944a1149614dfcb6143622d884/2024/02/27/fe7919e2-c351-438f-bacb-65dc120d8ae4/hbm3e-12h.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Samsung says more Galaxy devices will get AI features, announces major update"
     excerpt: "With this update, more Samsung Galaxy users can take advantage of the communication-enhancing AI features on AI-supported models"
@@ -55,40 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Samsung Expands Galaxy AI Features Across Latest Devices with One UI 6.1 Update"
-    excerpt: "“Our goal with Galaxy AI is not only to pioneer a new era of mobile ... The features include the ability to adjust message tone and translate messages in 13 different languages using Chat Assist. Galaxy users can experience the power of real-time ..."
-    publishedDateTime: 2024-02-22T12:43:00Z
-    webUrl: "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984"
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 55
-    images:
-      - url: "https://www.deccanchronicle.com/h-upload/2024/02/22/1076664-new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-news-thumb-1440x9601.jpg"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Samsung is bringing Galaxy AI features to more devices"
-    excerpt: "Samsung is bringing Galaxy AI features to more devices through a new One UL 6.1 update coming in late March, the company announced today."
-    publishedDateTime: 2024-02-22T03:00:00Z
-    webUrl: "https://techcrunch.com/2024/02/21/samsung-is-bringing-galaxy-ai-features-to-more-devices/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
-  - title: "Samsung Galaxy Book 4 AI-Accelerated Laptops Available Now Starting at $1,450"
-    excerpt: "The new laptops and two-in-ones keep 2023's attractive designs but have boosted performance from Intel's Ultra chips and Microsoft's Copilot AI assistant. Managing Editor Josh Goldman is a laptop expert and has been writing about and reviewing them since ..."
-    publishedDateTime: 2024-02-26T20:25:00Z
-    webUrl: "https://www.cnet.com/tech/computing/samsung-galaxy-book-4-ai-accelerated-laptops-available-now-starting-at-1450/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 46
   - title: "Samsung is bringing these Galaxy AI features to older devices"
     excerpt: "At its core, the tool essentially adds a translation tool to any phone call powered by AI. When speaking to someone who understands a different language, Live Translate will translate and regenerate your voice into that language. When the other party ..."
     publishedDateTime: 2024-02-22T18:13:00Z
@@ -116,6 +84,20 @@ related:
       - url: "https://www.knowyourmobile.com/wp-content/uploads/2024/01/Samsung-Galaxy-AI.png"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Micron's 1.2TB/s HBM3E Production Kicks Into High Gear As AI Demand Skyrockets"
+    excerpt: "HBM3E will be part of NVIDIA's H200 Tensor Core GPUs that are slated to ship in the second quarter of this year."
+    publishedDateTime: 2024-02-26T14:14:00Z
+    webUrl: "https://hothardware.com/news/micron-12tbs-hbm3e-production-high-gear-ai-demand"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 35
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63987/content/hero-micron-hbm3e.jpg"
+        width: 708
+        height: 400
         isCached: true
   - title: "Samsung One UI 6.1 update brings AI to more Galaxy smartphones"
     excerpt: "Samsung has announced that it is bringing its AI tools to more Samsung Galaxy devices with the release of the new Samsung One UI 6.1 software update. This"

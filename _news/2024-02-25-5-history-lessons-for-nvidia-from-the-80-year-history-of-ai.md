@@ -80,22 +80,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia: Artificial intelligence at 'tipping point' boss says"
-    excerpt: "The boss of the world's most valuable chip maker Nvidia says artificial intelligence (AI) is at a \"tipping point\" as it announced record sales. Chief executive Jensen Huang's comments came as the technology giant posted record figures for the most recent quarter, after revenues surged by 265% to $22bn (£17.4bn) from a year earlier."
-    publishedDateTime: 2024-02-22T01:37:00Z
-    webUrl: "https://www.bbc.com/news/business-68366467?at_bbc_team=editorial&at_campaign_type=owned&at_format=link&at_link_id=37E5697E-D11B-11EE-8422-ED8E4B3AC5C4&at_link_origin=BBCTech&at_link_type=web_link&at_ptr_name=t"
-    ampWebUrl: "https://www.bbc.com/news/business-68366467.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68366467.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F348/production/_132708226_gettyimages-1825461801-1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Nvidia’s surge ripples across stock market — lifting AI, tech and semiconductor ETFs"
     excerpt: "For now, Nvidia “has met lofty expectations and that will keep general AI enthusiasm intact and that is a positive for the market, broadly speaking,” said Tom Essaye, founder and president of Sevens Report Research, in a note Thursday. See: Nvidia’s ..."
     publishedDateTime: 2024-02-22T22:27:00Z
@@ -309,19 +293,19 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "BESI exceeds fourth-quarter targets on demand for AI-related chipmaking parts"
-    excerpt: "Orders and year-end backlog for hybrid bonding — a form of chip packaging required for AI applications — nearly doubled from last year, BESI said, adding that around a half of fourth-quarter orders were for its most advanced hybrid bonding systems."
-    publishedDateTime: 2024-02-22T01:38:00Z
-    webUrl: "https://www.aol.com/news/besi-exceeds-fourth-quarter-targets-063825790.html"
+  - title: "Chip maker Nvidia hits $2 trillion valuation amid unstoppable demand for AI chips"
+    excerpt: "AI requires significant processing power, creating huge opportunities for companies that make computer chips, especially graphics processing units (GPUs). The company's revenues have increased more than two-fold in the last year as it won new contracts ..."
+    publishedDateTime: 2024-02-23T16:00:00Z
+    webUrl: "https://www.thisismoney.co.uk/yourmoney/consumer/article-13118191/nvidia-2-trillion-valuation.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 51
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 49
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/072c9b8dcb97681613cfa65c3ceed2e2"
-        width: 800
-        height: 533
+      - url: "https://i.dailymail.co.uk/1s/2024/02/23/14/81631473-0-image-a-8_1708699518570.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia’s AI Dominance Heralds New Era in Computing"
     excerpt: "In a tech industry renowned for short-lived frenzies, some chip executives and analysts see the AI boom as increasingly sustainable."

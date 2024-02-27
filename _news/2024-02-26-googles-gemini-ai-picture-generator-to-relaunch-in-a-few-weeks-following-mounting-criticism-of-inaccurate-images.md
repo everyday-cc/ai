@@ -5,8 +5,10 @@ excerpt: "Google plans to relaunch its image-generation AI tool in the next \"fe
 publishedDateTime: 2024-02-26T15:28:00Z
 originalUrl: "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
 webUrl: "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
+ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
 type: article
-quality: 27
+quality: 67
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?v=1708024344"
+    width: 4978
+    height: 3323
+    isCached: true
 
 related:
   - title: "Chrome gets a built-in AI writing tool powered by Gemini"
@@ -340,6 +348,6 @@ related:
       domain: foxbusiness.com
     quality: 11
 
-secured: "Wl7LYGxawxRhA5Trdi9TLpIBDyd5ic8cfHQxN4psVi/GVHNObE4RxWZBIE9AwT1G2Obo/5Z1jzM1NoxRa8wkYliQT6Rwxcq/6FSowfesLc+PfSUNDqT5F1qP9oaQccFovjWcDPLWXN6Km9hGUHtYnNfvRt4wMAN+e9dZ95YZxPVGPJvAwhylBhSV+cby7XAr3cdPMPD7tXNIdqQuJ/kORefa918bHScdC5v1c3ipfO2wrPsp//GV9dpyXJsV7BhF0vM3s6gjBx7lxYXZFz5/ymCxiqePIwrpsAQUa1QIyBSpdEllUpAsAU2V++vb6DojEwsA0iM5vkMm7V9jaFZNwpyvth1mg+V2NqRLl9wsKLI=;Z2Og3uE3UzQgpLo60pwGIQ=="
+secured: "2dty9gzpzwLBU+GFrJzqDJeQ1wRx9oxtDVP3ijL5vrg+5LapZHL3/3Ehbq01HlOl0tfPhAO73RiWsSQS+mifs/jyPSj94LpniA/GDAYOpH+3x2JYI3PdGsKjG1oSi8N27KmpDEXa0RjdMUCyyHzwBnKGclcRvLZtcGVkkkbzhberbL7jaUM5MiEHJvSmxeONSMsdPFL1LA7h1N8BKdso6KQUkiJGTpQJmJ42fX4IW69LY26h8xfYPZSC5JSeLmg61CZvG4PIdkXaxp1t1PlP/ij5e3qqoRA+bdWh31tykZ949keXs50IyqvAJChAtCqDFguP0zz6LYsXUsxaDI5sAdKs5ijtTp8QCeShc6PSmxs=;jw8uZ0jirPfpr8mZgImwpQ=="
 ---
 

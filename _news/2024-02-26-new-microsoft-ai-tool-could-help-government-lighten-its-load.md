@@ -312,6 +312,20 @@ related:
       name: Time
       domain: time.com
     quality: 64
+  - title: "Microsoft Pledges Regulatory Respect with 11 AI Access Principles"
+    excerpt: "Also, it announced on Monday that it was newly partnering with France-based Mistral AI. Microsoft is offering its Azure AI infrastructure and supercomputing capabilities for use with Mistral's next-generation large language models. Microsoft's 11 AI Access ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://redmondmag.com/Articles/2024/02/26/Microsoft-AI-Access-Principles.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/240226ScrollIntro.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft partners with French startup Mistral AI"
     excerpt: "Paris: Microsoft said on Monday it had partnered with French startup Mistral AI, as the software giant seeks to tighten its grip on the emerging technology. The US firm, which has already ploughed billions into ChatGPT maker OpenAI, called Mistral \"an ..."
     publishedDateTime: 2024-02-26T17:59:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/"
 webUrl: "https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "CEOs of OpenAI and Intel cite artificial intelligence's voracious appetite for processing power"
-    excerpt: "OpenAI Sam Altman, right, discusses the need for more chips designed for artificial intelligence with Intel CEO Pat Gelsinger on Wednesday, Feb. 21, 2024, during a conference in San Jose, Calif.Michael Liedtke/AP Intel CEO Pat Gelsinger discusses his ..."
-    publishedDateTime: 2024-02-22T01:30:00Z
-    webUrl: "https://www.ctpost.com/business/article/ceos-of-openai-and-intel-cite-artificial-18680923.php"
-    type: article
-    provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 22
 
 secured: "tWqSRYrHtv7mRWzAnxzRmNMGGgs4zZ4UU3S7qWmdxbVC0DooKLm41BKvQwWplFypkHSZuNRqX6Pcz8jPUln/ZtEOvjY7TYxdD19UIKAJFNX4bV6YPk3BUIEND12YwEyQMhep+m8fZohA9jCWCD7QZvK3kHDmmv6ILmI1CsuIawWIyI2GFvK3uwryx5GGrTLVpXpooSYGykZRZWBzddM3vzfQBVYv1PV02iGAtaoFUJP05PiVyM6zioeYsr6VJ0w1VCyrMQY1GaYTlL3p02Bt0ym+diX4ljr6xxyUFZ87AYSgpiAq7yorgKs/LQnEpVcBrUNAazFgbdbER3eCBepr0ljMHufaLzB0QB/RoSTymwI=;K7ZDPafnp0msWZDGvKBUXw=="
 ---

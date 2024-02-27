@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Micron announces HBM3e memory enters volume production, ready for NVIDIA's new H200 AI GPU"
+    excerpt: "Micron has just announced it has started volume production of its bleeding-edge HBM3e memory, with the company's HBM3e known good stack dies (KGSDs) shipping as part of NVIDIA's upcoming H200 AI GPU. NVIDIA's new beefed-up H200 AI GPU will feature up to ..."
+    publishedDateTime: 2024-02-26T10:31:00Z
+    webUrl: "https://www.tweaktown.com/news/96471/micron-announces-hbm3e-memory-enters-volume-production-ready-for-nvidias-new-h200-ai-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 44
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96471_1008_micron-announces-hbm3e-memory-enters-volume-production-ready-for-nvidias-new-h200-ai-gpu_full.png"
+        width: 1500
+        height: 857
+        isCached: true
 
 secured: "IUjTgkOtlrEjNDjQcWN4krTIEdXjGkWnUMa/TGojbZHV69Q5f85Gj5ftCFrcTH3G5kbx3zg97rotKVzHixBdHswNsTE8u+oTGAYDJipNt5zKX7Zr0dVVtRSR82aXNlBiCGk3RvkRvsIIJzsDtIIE6NVTwxOqIFMp51M2KS5hhtTB/2dKqspfk6bGUFiALeA7zwpXkhV5BH8+n5TJpARpZRE6i+VkLR+hIkaTvwU2eke6+64T6eifYt0cZAln1Fa5OpOmjBf08SMmjpC31F4MJ07t0PwVM/OAvgtK69i5Kkj6+dDMgJwpDpIod/6yOQwgZQfXR/lKHKIDk69yPgRO3v4z9cgy6cxH+ivqDNzsDRI=;DyjTJiI2UQB1DvwFn6Bj3g=="
 ---

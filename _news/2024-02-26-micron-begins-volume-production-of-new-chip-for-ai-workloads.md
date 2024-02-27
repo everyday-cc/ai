@@ -7,8 +7,8 @@ originalUrl: "https://glamsham.com/world/technology/micron-begins-volume-product
 webUrl: "https://glamsham.com/world/technology/micron-begins-volume-production-of-new-chip-for-ai-workloads"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: glamsham.com
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Micron announces HBM3e memory enters volume production, ready for NVIDIA's new H200 AI GPU"
+    excerpt: "Micron has just announced it has started volume production of its bleeding-edge HBM3e memory, with the company's HBM3e known good stack dies (KGSDs) shipping as part of NVIDIA's upcoming H200 AI GPU. NVIDIA's new beefed-up H200 AI GPU will feature up to ..."
+    publishedDateTime: 2024-02-26T10:31:00Z
+    webUrl: "https://www.tweaktown.com/news/96471/micron-announces-hbm3e-memory-enters-volume-production-ready-for-nvidias-new-h200-ai-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 44
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96471_1008_micron-announces-hbm3e-memory-enters-volume-production-ready-for-nvidias-new-h200-ai-gpu_full.png"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "Is AI China's critical new productive force?"
     excerpt: "And, will AI become China's critical new productive force? According to OpenAI's explainer, Sora is capable of generating complex scenes with a very high degree of accuracy, including multiple characters,"
     publishedDateTime: 2024-02-26T00:37:00Z

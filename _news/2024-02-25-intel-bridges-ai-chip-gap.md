@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "CEOs of OpenAI and Intel cite artificial intelligence's voracious appetite for processing power"
-    excerpt: "OpenAI Sam Altman, right, discusses the need for more chips designed for artificial intelligence with Intel CEO Pat Gelsinger on Wednesday, Feb. 21, 2024, during a conference in San Jose, Calif.Michael Liedtke/AP Intel CEO Pat Gelsinger discusses his ..."
-    publishedDateTime: 2024-02-22T01:30:00Z
-    webUrl: "https://www.ctpost.com/business/article/ceos-of-openai-and-intel-cite-artificial-18680923.php"
-    type: article
-    provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 22
 
 secured: "v9XCd1P1hK6elLsBoM7w1j7o0ideQTwTgb5iV8wqyyY/ZpfzXp1Wl8wBVNPAi+BybfyAbSyvc1jxvmtCDdMNk0MO4ECrvP1cSEb1enVihoDR7mLreKR903sCR4jC+S6KBL1JHTsBfIIijYU1V2wh9LRUnGVQvVxLnGPbiBCuID7UzrSgaNKf2MHLcjh2GX2WVdPI4kDRZ5qVzwLJp0qePS5jeJp61eLbx7C/OlM1JoExuYxt7zZLceCPf2sC0nV+MrkxUGn5PH7MPLgD0zrXsyr4AVSJdgp9UgZXBNEmH8utD4NEhS9LyVn+dO7zAEqNcp8x+6nz3FGlrcXBfKJhF1m1h+zpzBh0iekv1wfTQnL77vJhNTDdHJsHKLyzzJ+L2aPe4f0i+74QgktxWPogfpJ2VUuEDz6EopLt/8QDRJNiaNgTCz5FHKGudGwJGDnkBD1t89y36izs29rIrdZqpaP/IwbwtC7w3Lxmes0dmmeXDgQsU0TAEiSeSn66LqgHHygyHNvB0d7IQBKx/rmYzg==;UTkQMXnYGBmdy70sQ4gCCw=="
 ---
