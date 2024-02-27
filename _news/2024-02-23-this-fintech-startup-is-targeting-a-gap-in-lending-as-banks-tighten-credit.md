@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/this-fintech-startup-is-target
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
+    quality: 4
+  - title: "Investment in fintech anticipated to have a soft start in 2024"
+    excerpt: "Given the ongoing regulatory changes and ambitious net zero commitments displayed by governments and businesses, it is likely that ESG-focused fintech solutions will chart an upward trend heading into 2024. Moreover, investor interest in AI continued to ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/investment-in-fintech-anticipated-to-have-a-soft-start-in-2024-jyawstbu"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
     quality: 4
 
 secured: "jpUlTdG7cBKd6iJzK75B97lIEcBrQqD/BxiwZeoqoUAMVsYftinFbE0eoTUxLzOVsaBmLAQ/I4VBGOM7nPnEl3j2NNGGTLnvSEV07DSGD9oZ1yISruI/2aS+FGSt0PD9abEMiChbj00NGkNqqrp/bXMb0Hn8tQCFGRzpimAusU76jddNgXqsORh91Bi+VwHAv7JafXQcebwEewS2ZGVtoNPOOGFvFjixja7nH0/4kVMr+5crm4Ch5OQ8pZTcvlikSAE2ICnxR+QbZYaVn8Q3c3ij457keuwHrHQ9HBNfEGU1vXWyOl7TRFYRseM0XeMLaBPqLy+M6i5muJtc67HLUsEYKyuo7aOF8Cz1psD3J4c=;BYyPL+FR/ITzfgQzlHdcGg=="

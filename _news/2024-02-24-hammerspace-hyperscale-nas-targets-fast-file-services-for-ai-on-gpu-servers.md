@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hammerspace Hyperscale NAS Now Available with NVIDIA GPUDirect Storage Support"
-    excerpt: "Hammerspace today announced that the Hammerspace Hyperscale NAS is now generally available with NVIDIA GPUDirect Storage support."
-    publishedDateTime: 2024-02-22T16:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/22/9966395.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Hammerspace Unveils New Hyperscale NAS Architecture for Training Enterprise AI Models at Scale"
     excerpt: "Hammerspace today unveiled the high-performance NAS architecture needed to address the requirements of broad-based"
     publishedDateTime: 2024-02-22T17:51:00Z

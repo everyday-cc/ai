@@ -49,6 +49,22 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "Qualcomm shows how it combines AI and connectivity"
+    excerpt: "At Mobile World Congress, Qualcomm is demonstrating its vision for better exploiting artificial intelligence with the help of on-device computing and connectivity."
+    publishedDateTime: 2024-02-27T14:49:00Z
+    webUrl: "https://www.networkworld.com/article/1310096/qualcomm-shows-how-it-combines-ai-and-connectivity.html"
+    ampWebUrl: "https://www.networkworld.com/article/1310096/qualcomm-shows-how-it-combines-ai-and-connectivity.html/amp/"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1310096/qualcomm-shows-how-it-combines-ai-and-connectivity.html/amp/"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 61
+    images:
+      - url: "https://www.networkworld.com/wp-content/uploads/2024/02/Qualcomm-MWC-2024-Iglesias-2.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "MWC: Qualcomm previews multimodal AI models on Android phone, Windows PC"
     excerpt: "Qualcomm also displayed generative AI features on Snapdragon 8 Gen 3 powered devices from Xiaomi, OPPO, and HONOR. Below are the details"
     publishedDateTime: 2024-02-26T07:02:00Z

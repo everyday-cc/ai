@@ -65,20 +65,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Driving the Future: AI, Ethics and Jobs in the Age of Automation"
-    excerpt: "Venture into the epicenter of innovation with Jonathan Campos as we dissect the titans of tech, steer through the self-driving revolution and grapple with AI's impact on jobs."
-    publishedDateTime: 2024-02-22T15:00:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/driving-the-future-ai-ethics-and-jobs-in-the-age-of/470006"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1708458393-AIEthicsandJobsintheAgeofAutomation.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "t4CFq+FlnNldlO5ZhGaDb/Id7h+sMIkoIZtD8xxjW39POmB3xqzGkYWSQkLenl/02gOIVvY62UNbF3e/XBXfEVG7Ea60iT472a/t4CfhbDm0IDsCFQXtCwBJwkEupnSD2oHS5flLZbFYBlYYotjg/fGPMsPTs9VUL+zpdSpxBibh1H8dCf8WqyMheib7tvOKcrf6R3fNiS6Ui+JCOe0JUqr9kGbxglr9m+B/wBybo5yMtT9s8NFWttEAyW55ZB+cqBFbIuvQShSE98M1x5TVnAQWYvkXJt8NLL9gQpOS84PEOJNf26gPc8xwcUzTEfT3Muj+S4TuEQZK/945sW5SYc0hLZh73wMtDCDrNNY/RFcsKE+fvTlINxxc+8zbiWz0zL68Q7FcKJZm6hYbG1dckhIpmvT0pFWnUm7hSjdIYzgfi4/e8oatax+3aFuWjwVJ2a+1/DKjwcWBN9ADkFwn5OtYsu9twvvv1LvZ+HisMPoxFg0+qMQcKGAXvhqt7Vx89Jo5PR8ntKcnYqJggb2vUQ==;rcNv5OLw01z/JYjTl+VmbA=="
 ---

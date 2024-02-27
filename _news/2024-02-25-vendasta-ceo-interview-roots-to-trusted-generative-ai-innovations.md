@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Executive interview: David Wong, Thomson Reuters"
+    excerpt: "According to Wong, AI – and more specifically generative AI (GenAI) and natural language processing – has been a core competency within Thomson Reuters. Recalling the evolution of GenAI, he says: “It is an interesting story. If we play the tape back ..."
+    publishedDateTime: 2024-02-27T14:55:00Z
+    webUrl: "https://www.computerweekly.com/news/366570374/Executive-interview-David-Wong-Thomson-Reuters"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/cloud_g943065362.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "FasterCapital welcomes innovative startup evolve media AI to its acceleration program"
     excerpt: "With the exponential growth of cloud data and the increasing number of devices, the need for a solution like Evolve Media AI has never been more pressing. Evolve Media AI is based in the United States and is raising $1."
     publishedDateTime: 2024-02-26T14:14:00Z

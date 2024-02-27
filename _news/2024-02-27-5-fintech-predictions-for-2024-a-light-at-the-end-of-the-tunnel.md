@@ -64,6 +64,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 4
+  - title: "Investment in fintech anticipated to have a soft start in 2024"
+    excerpt: "Given the ongoing regulatory changes and ambitious net zero commitments displayed by governments and businesses, it is likely that ESG-focused fintech solutions will chart an upward trend heading into 2024. Moreover, investor interest in AI continued to ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/investment-in-fintech-anticipated-to-have-a-soft-start-in-2024-jyawstbu"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 4
 
 secured: "Q8UH4VyQqGWvveOu27PZQRvqItYMZ6cv7b3y8EBU3OTpwIHxQFa0dt0caQf46p3IrDAFbYVoHWspnneztTEmL83Ets95o93V3cHmhp6/aHz580VGFnygYIXPk1spFnVANGOshxSWJiX7leL2dmOMOE1j0efhFnvXPab8Ep++CdENAo9uioCybkvruWdzD/2qoP8dvuOf9lTIrABrJlobs4Gg5/ywJPJoxV6PsnK+cGL/CBMkQxnh4331MiA/ZH/eij08IvMOD/3nm+/qfXZxORE1Smit62umpeQM5/NPY49obWHuK1B9aHkL+hyoM2+8x6X9so54aZ8nSvp3HuF+43aYKqYdPC0HzBwVfjPoEqk=;lWrvC+xVZo07B7LfFW50MA=="
 ---

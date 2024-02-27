@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1
 webUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/"
 type: article
 quality: 84
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -89,7 +89,25 @@ related:
       name: CRN
       domain: crn.com
     quality: 26
+  - title: "HP’s AI-enhanced Spectre laptops set to transform user experiences"
+    excerpt: "HP recently launched its range of AI-enhanced Spectre x360 laptops, built with smart features that elevate performance, collaboration, and security. These AI PCs will change the role of a personal computer by simplifying tasks and enhancing usability for various aspects of life."
+    publishedDateTime: 2024-02-27T14:05:00Z
+    webUrl: "https://timesofindia.indiatimes.com/spotlight/hps-ai-enhanced-pcs-set-to-transform-user-experiences/articleshow/108008262.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
+  - title: "NVIDIA RTX 5090 GPU could have fuller core count than RTX 4090, but stock is a worry already"
+    excerpt: "NVIDIA certainly won't want to get too close to using all the cores, as the full die GB102 chips will be needed for AI graphics cards ... it would be one possible tactic for NVIDIA: Launching a GPU to dominate the benchmark charts, more than anything ..."
+    publishedDateTime: 2024-02-27T00:43:00Z
+    webUrl: "https://www.tweaktown.com/news/96485/nvidia-rtx-5090-gpu-could-have-fuller-core-count-than-4090-but-stock-is-worry-already/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 8
 
-secured: "A01SBerWPp6lB5uCHDLugONXXboSrDGKhcfI3h5u9pch9toUDZ0+548v6dwTy03EScybSgVhOMXOVAi80PPajjB0HY3OWcgWPL4YKmQCW1v1TAG0WRLmnJ2qeaiVjyxPOv3+U0UAFoaMmtQBMzkH7JBi0hlkNgZb+tCs/ZJGPObnrSPTV7KyXSltmkc2v5x5A0tF+ke+sYLj6K2vCggNcJYHAt2uHGUVHhCUdFHy6ipl2TN/27vAwOKkqrfjn08ACamDAncG2ieCT8Hoe/Oam1uQDW17Ba2CIMoTLkdNxDdvCn+FvMCc68XMaqKp2Tk/jGEOp7yoeY/q7MxiG0uUf4Ukif4m0MTk+J1nNtjvtzQ=;epAn2TF6ldpq8u2JYwFavA=="
+secured: "9JV8OBC0Boa9jMhKVo20V1z44qcKS++c2t7scT9o0CHXwgUwWBIVYHvS6n9PljSk9FhnKTF5iuqd+TDpHUGd0evw4Uzfkj79LGugvBkbdPKh4kT/Wv4rSl6Zb4Jqz8YsD4CxG7907qtXCtIylqbh5+2UFvKh9Aq2JYMvKQMUV8MGHWL+gk+aiKPbqD/9NpVN1CVXr6LHLme+7tRVfJCRUAOtO2A6/s3blkuUfNQErLSvxfd8ARg1sVSuaqme+6I0unbh3mKdaHAvMn8J/LrgZJibdP/nQU0wGV9IlSb0uIQIPrqYmlfCSih5RWWiI2pCc1fkBFylDmYiIDWqkzozsNTif1bu7Xots+qpz49BtanpridO8avW/r7ombwaIkvhvsd9TsdA4dWQauBlPLNWNIOJQyMJziVsIWnJnxu7nvXiZOgoPw3l/ak0N+1j+3NQRzXpoTPZZbBYGb/K9YYtOoi+UWaB4Oy0NWXaYY5fc2rNrS12HztALqv7Y6l+ZRs4SSwoKnHGalWrLnTaqRpgnQ==;OKbDMepEjC3k+ErEf69ayw=="
 ---
 

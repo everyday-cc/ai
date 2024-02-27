@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 704
         isCached: true
+  - title: "Navigating The AI Paradigm Shift In Business"
+    excerpt: "AI can help business leaders make successful decisions, add sustainable strategies to their business operations, and help them adapt to ever-changing markets."
+    publishedDateTime: 2024-02-25T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/rhettpower/2024/02/25/navigating-the-ai-paradigm-shift-in-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d918195ce4dc7116060068/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "pfSt5aI3VIpvXgIGpKoBhYu9xNm83yDoIoIue3Gm7xtkhISC7iAW+cffrm4DVvhMe979m1P3xywTRqYkuH+vVB6uFbYIDW1jadKt3Qf4abjWDPzmiKNUJdxia6MddLs48xcqVW7wDZMRpIuF3ubRQm8ub25lCnE6wpk7xZd+UPCGdLw5QWXkhI0l8YfWB2Uz9cdGCAidaL+5eOWkD0eyZqpYf2jdaMuv0wefWyiT5iNr9oTis7euXjOXyyRtINIMRlTy1toBXr7Tnga64woiJsCzXDMdjw6Y2bH++lYCZcKCRol9rE5u/TdrFcaEGG3r5ystFrdU6rLyUcWo724dUXgyeuXyjNkNypiatdvr0BA=;1el58UzipfYICqVTuwf9QA=="
 ---

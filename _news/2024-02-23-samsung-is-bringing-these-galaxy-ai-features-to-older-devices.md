@@ -99,15 +99,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Samsung One UI 6.1 update brings AI to more Galaxy smartphones"
-    excerpt: "Samsung has announced that it is bringing its AI tools to more Samsung Galaxy devices with the release of the new Samsung One UI 6.1 software update. This"
-    publishedDateTime: 2024-02-22T14:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/samsung-one-ui-6-1-update-brings-ai-to-more-galaxy-smartphones-22-02-2024/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "G6366GfbGsheXI3Fo4PFN9qQTW5hhqlQhW8a+XloyMHyJ4L6UtE6RXT+0RywBZrCjwaf2zoqThwtTz09qrr7xP7iSWNFpki6r/+6E/0LupSLUtmg2uneH5MCzsj7qxAB+RDa8aRUn5mqAIkQBrlJkf9gwD9vcCdhTqTan7k6PsoeWLBmdDoi+TnzmjXvDRl0mZWgzC3CjVuridh0iI0bX6g7tnJgI1npeKUGxcsqybmm9tpwV033+XBzqtICmQnePOt0+gdQQzhwYJvzemmlh/UqdvqTTWmHFKYiT0rXx2MadSz0/teQNM9fRL1pE+meLCZjnVOiFk3NbCVCBgl/ilNT3fHVI9FSoUaYybBKcsUIi7EpiDxaDhvbhdIuQA2OvyYIKPc3cWl436704a1NxrNjcBm1aaGys++hinqTc1QoeFI1EvT0MNG11GpoyK8LyYj9BVXAtGiu45rmJBf3mTQg1M/IgDY6nUZm4LvBbAN0qQb2rr/E9NYFGtvjyRsfddoiYApDAiC6IgZhJs7uqw==;P6+hUJKUpoXQP3rbwn8FUg=="
 ---

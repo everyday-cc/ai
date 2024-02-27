@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chip
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-02-house-entire-chain-advanced-chips.amp"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

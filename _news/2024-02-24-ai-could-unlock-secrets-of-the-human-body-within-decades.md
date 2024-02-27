@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-24T07:00:00Z
 originalUrl: "https://www.newsweek.com/artificial-intelligence-ai-could-unlock-secrets-human-body-health-care-1872103"
 webUrl: "https://www.newsweek.com/artificial-intelligence-ai-could-unlock-secrets-human-body-health-care-1872103"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d.newsweek.com/en/full/2353211/ai-could-unlock-secrets-human-body.png"

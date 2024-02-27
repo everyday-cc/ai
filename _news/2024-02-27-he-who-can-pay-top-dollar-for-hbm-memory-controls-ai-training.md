@@ -1,15 +1,13 @@
 ---
 category: news
 title: "He Who Can Pay Top Dollar For HBM Memory Controls AI Training"
-excerpt: "What is the most important factor that will drive the Nvidia datacenter GPU accelerator juggernaut in 2024? Is it the forthcoming “Blackwell” B100"
-publishedDateTime: 2024-02-27T03:47:00Z
-originalUrl: "https://www.nextplatform.com/2024/02/26/he-who-can-pay-top-dollar-for-hbm-memory-controls-ai-training/"
-webUrl: "https://www.nextplatform.com/2024/02/26/he-who-can-pay-top-dollar-for-hbm-memory-controls-ai-training/"
-ampWebUrl: "https://www.nextplatform.com/2024/02/26/he-who-can-pay-top-dollar-for-hbm-memory-controls-ai-training/amp/"
-cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2024/02/26/he-who-can-pay-top-dollar-for-hbm-memory-controls-ai-training/amp/"
+excerpt: "No. Is it the company’s ability to get millions of H100 and B100 GPU chips back from foundry partner Taiwan Semiconductor Manufacturing Co? No it is not. Is it the Nvidia AI Enterprise software stack with its CUDA programming model and hundreds of ..."
+publishedDateTime: 2024-02-27T00:00:00Z
+originalUrl: "https://www.nextplatform.com/2024/02/27/he-who-can-pay-top-dollar-for-hbm-memory-controls-ai-training/"
+webUrl: "https://www.nextplatform.com/2024/02/27/he-who-can-pay-top-dollar-for-hbm-memory-controls-ai-training/"
 type: article
-quality: 59
-heat: 59
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -20,12 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "http://www.nextplatform.com/wp-content/uploads/2023/08/nvidia-2nd-gen-gh200-logo.jpg"
-    width: 943
-    height: 585
-    isCached: true
-
-secured: "DH3jPy4ZR/GXienqE60uuL5Xm0Wpq7t9/wzGsJh+S0oc9dBxLzuFo4RvL3AS9TECypUfuHskIf8V5WxgoYo5qPQuxvGtcv6sn/9UcpE5URlFhGgJByAem3tj3YobXvg6Bjt8yXMiPlk8veQRuON443AAhOLAdtpq5f4SsROHyNmL67KQ90b4XhOgyvn5aqv9/lZTC2QzHap6bji34K/Y0k+H0GrfVt8jVXMGdgnkYCDj1eIzxLqiWcS2j7MNBtdFQ4CebHRR4Q/zqlaPFY3/OGBJcz0XxFGPgSuJqeJF0F+u+jpFpsHhq42YBK6HUCHpWHrnyIaF1+xU49JTtrmP9Aqag4Y2yxy+mJFGongFSYQkmt32TxRLujK1DJsTniYnVZ7oOFOi94b3U6eVuXd7bgyKucbefvSqYiFZsJV4iOYhk8roWcNw8smKLYibwWqI00OJWn4G3h6qMbtoxwSziTebVJNXw6mEx+oQCm5/FVsThffp+R+V25JdNs/oNnGyqKFjmnnQ8QqC/VGUm8Wj6w==;z7CyiHg9jAR7UptiYyoFzw=="
+secured: "jn5ZRoPBDkDnXHQ+4t98YHh80cfYgvUKM97WuW5EEfKoF1lxUUm191Qxm+dxmNCWnwOf5PGEnuemyL3OAzgZUldc3Jyeo+eLUQKxzjG6xUQn5UHUc2H6Usfhpn7a6KY8RQiRUd08Pv/qRRPUdqNbdtHrIzBlM2brh1odn1pIoQPwYKghZXlHbrC9+uSFZ4i4y/MLwWjH0fZsMdFzI6DvD1te3OR7jq2ymXSj6XWsYJvHjiq6ZWd8PDa6KbgGPmAq0Wkux3J1FI9+xo+SjC/zaxMFpR6WxL5fDOja9u1uOVeYV7jemk69wL8CE6YeICmaFPs+hsIxwFCjOwygeE35cxQ10EOODh0uxDl4sQbe58MHsA1wMY8KxWabpH5v2JXjM+VkMCnbUe07v0TNOdW7iPhBxVhEGiiuyU/c08n2ulwBDGgWp/H+meVd8KFP1BLuFqF1cd1hFD3Oy7OFROTlNz0czlk/ozAHT2b+J/yS9lYp3/KTj69PpzmWg1CoIZa/uwCxLBsRHW6DYywB9bM9Bg==;RXKZ/er7j/h06DkFwwPlSA=="
 ---
 

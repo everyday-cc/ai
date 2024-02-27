@@ -26,49 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber Insights 2024: Artificial Intelligence"
-    excerpt: "AI's progress in 2024 and beyond: 2023 was a year of hype, 2024 brings the beginning of AI reality, and 2025 likely to be its delivery."
-    publishedDateTime: 2024-02-26T16:42:00Z
-    webUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/"
-    ampWebUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
+  - title: "Foldable models, artificial intelligence and other MWC proposals to boost cell phone sales"
+    excerpt: "At the Mobile World Congress, the eagerness of smartphone brands to find new products to boost sales after two years of decline is evident"
+    publishedDateTime: 2024-02-27T16:52:00Z
+    webUrl: "https://english.elpais.com/technology/2024-02-27/foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.html"
+    ampWebUrl: "https://english.elpais.com/technology/2024-02-27/foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.html?outputType=amp"
+    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/technology/2024-02-27/foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.html?outputType=amp"
     type: article
     provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 59
+      name: El País in English
+      domain: elpais.com
+    quality: 64
     images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2024/02/Elia-Zaitsev-Crowdstrike.jpeg"
-        width: 258
-        height: 323
+      - url: "https://images.english.elpais.com/resizer/nlcLf1dzuKxKMl7Dd9nPnCszTs4=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/PMG2LDYE4BGDFAUCTYCRGBRX6A.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "What to expect from MWC 2024: Transparent laptops, AI phones, smart rings, more"
-    excerpt: "Some of the best mobile technology companies will converge at the Fira de Barcelona next week for MWC 2024. Here's what to watch for."
-    publishedDateTime: 2024-02-23T10:43:00Z
-    webUrl: "https://www.zdnet.com/article/what-to-expect-from-mwc-2024-transparent-laptops-ai-phones-smart-rings-more/"
+  - title: "Smartphone makers bet on AI to boost sales"
+    excerpt: "Smartphone makers are packing their latest devices with flashy new artificial intelligence tools such as real-time voice translation and advanced photo editing in efforts to reignite consumer demand."
+    publishedDateTime: 2024-02-26T14:37:00Z
+    webUrl: "https://techxplore.com/news/2024-02-smartphone-makers-ai-boost-sales.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 43
-  - title: "Google's CEO Say AI Can Counter Cyber Threats, Even as New Tech Draws Criticism"
-    excerpt: "Google's CEO Sundar Pichai spoke at the Munich Security Conference this week and addressed worries that the AI revolution could create a cybersecurity crisis. While everyone's \"right to be worried about the impact on cybersecurity,\" Pichai said he feels AI ..."
-    publishedDateTime: 2024-02-23T19:15:00Z
-    webUrl: "https://www.inc.com/kit-eaton/googles-ceo-say-ai-can-counter-cyber-threats-even-as-new-tech-draws-criticism.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 13
-  - title: "Cyber Criminals Are Getting Faster--and Generative AI Could Make Their Work Easier"
-    excerpt: "Cybercriminals are increasingly purchasing stolen credentials as the first step in an attack. Adding a second layer of verification can help. Apps that generate a unique security code or USB security keys are considered safer than having a code sent to a cell phone, which can be compromised in a SIM-swapping scheme."
-    publishedDateTime: 2024-02-23T19:04:00Z
-    webUrl: "https://www.inc.com/jennifer-conrad/cyber-criminals-are-getting-faster-and-generative-ai-could-make-their-work-easier.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 11
+      name: techxplore
+      domain: techxplore.com
+    quality: 34
 
 secured: "ZCIXa513hwWr7pFwtU36QV+dLjJaYjndEhMDnqUUCEkxe8h9fjqmo7bRuFMWNLnPozZZ9W8sPOTCl4NGcOiAUYWw0XxlSEJvqTpMBdarz2oNKtx/9uZVL6WrQ6g3Z/izYgiAzaevSjKKUO8rZsgkZp6WtZ93DfIWTRj4VpgG0u5nf0hcvWfeShaqWtEefF+GJNTFxrqnJ9iRIoqXaKQwmYqDSLObTjp1BPgk6fAPEaxgjsAa+3COQYVsAl2lDkHGjPvrqVv3r0e93D4ZKGIZvPjYXGRFs7g3Pe6yPI7+OLS11IiXjiTguXb5SMuQ+gjwobuozJffwOSnBu3aHV2rni9QG5DmYn+jYAkeGBAn2GE=;Qo0UzJsyi6OBhUHDeLJNWg=="
 ---

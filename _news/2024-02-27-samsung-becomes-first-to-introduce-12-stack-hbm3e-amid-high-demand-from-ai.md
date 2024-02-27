@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-becomes-first-to-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
 type: article
 quality: 87
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -103,15 +103,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Samsung One UI 6.1 update brings AI to more Galaxy smartphones"
-    excerpt: "Samsung has announced that it is bringing its AI tools to more Samsung Galaxy devices with the release of the new Samsung One UI 6.1 software update. This"
-    publishedDateTime: 2024-02-22T14:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/samsung-one-ui-6-1-update-brings-ai-to-more-galaxy-smartphones-22-02-2024/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "m1q6J6QqKxphxARs/s/HSocQJpUWT7IlSXdKTXgX6iiesf8Co1cMEZCzsV4EQyb2ZFhN92CnMyKMFObO1Ph6kdTEhpRZDxTJp/09VQpQ4Meesz5XGpO2jXeSqvyRXnqXro++gUMn48tbow7nIfYZZL8zIt/vLDKX7gw9H5pK/AS2DaR/1aUO6d2xfiQihNSPOtkv82LsPBk4D7kbMpaB6U0i2oJHfZyh9pZs9l7bNhs5K9PwW2AHXNHVaK6IivAggQ30Z3WTlYI3ul8X9XEsouIp0tdL8gkyIZE2EZ3R03JZgDcns6/jln87Dfc2hfT12SauVeQkriJbDr0Ekmz2h0omtJfhyw4j74nf0swKwHE=;AKk4hoQl5ipDjgtAntXP9g=="
 ---

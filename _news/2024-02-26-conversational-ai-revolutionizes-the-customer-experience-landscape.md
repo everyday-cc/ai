@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2024/02/26/1088846/conversational-a
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,21 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "Bristol Scientists Turbocharge Artificial Intelligence in Revolutionary £80 Million National Initiative"
-    excerpt: "Leading mathematicians, engineers and computer scientists at the University of Bristol have joined a new national mission to realise this potential, taking AI applications to uncharted heights in various settings,"
-    publishedDateTime: 2024-02-24T05:13:00Z
-    webUrl: "https://indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
-    ampWebUrl: "https://indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
+  - title: "Conversational AI use cases for enterprises"
+    excerpt: "This class of AI-based tools, including chatbots and virtual assistants, enables seamless, human-like and personalized exchanges.\nThe post Conversational AI use cases for enterprises appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-23T18:04:33Z
+    webUrl: "https://www.ibm.com/blog/conversational-ai-use-cases-for-enterprises/"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Where Does AI Go In Your Enterprise?"
+    excerpt: "By taking these steps, I found that organizations can effectively navigate the complex and rapidly evolving AI landscape."
+    publishedDateTime: 2024-02-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/where-does-ai-go-in-your-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "“Reputation House” soars to top 3 finalists for first International Artificial Intelligence Awards"
+    excerpt: "Jury at First AI World Series Artificial Intelligence Awards 2024 Sees “Reputation House App” crafted to identify reputational issues promptly"
+    publishedDateTime: 2024-02-27T06:30:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards-p4u6y3pb"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards-p4u6y3pb?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards-p4u6y3pb?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
     quality: 43
     images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2024/02/AI-stock-image-article.jpg"
-        width: 500
-        height: 333
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZGNhOTM0NTctYzFhOC00/0/ceo_dima_raketa-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "VA puts AI use cases into ‘operational phase’ to meet its health care mission"
+    excerpt: "VA has identified over 100 AI use cases so far. VA Chief Technology Officer Charles Worthington told members of the House VA Committee last week that 40 of them are in an “operational phase,” and being put to use in the field."
+    publishedDateTime: 2024-02-23T02:01:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/va-puts-ai-use-cases-into-operational-phase-to-meet-its-health-care-mission/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 38
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/03/electronic-health-record-military.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "5 Interesting AI Use Cases In the Legal Industry"
+    excerpt: "“You [can] provide some inputs [like] the case protocol, the complaint, something to that effect,” into the generative AI tool and “start interviewing your corpus of of documents… it’s more than just a chatbot.” Once the “hot documents” are ..."
+    publishedDateTime: 2024-02-22T22:01:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/02/22/5-interesting-real-life-use-cases-for-ai-in-the-legal-industry/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/legal-tech-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "x6mIf8uaa3rYeCLkftq2z2FCHBvDKLf2fjkf7wYp9q2B+kDrNZPKEw4ga/S/mjzL1mE+KBtgPxNyMZkkay4o4+4sS13InZ63WwhT0rWDmkHqLBt3mtYSoguBs7IX14pxKlUPDXnxYtTbpVbSvg5VA85F9ikuWSQPhsddnaqm4gZqseg36mCjkOB2LheX9PLU6gUfrFoRUBI2ALB4XX2Dy45K1J+GROaBwXZzsS+ZxaQ/h1VqQzTSXwnKejO8JkS/R8Z9OqCotmfMRkFPMdbsanOes4jkWbtKI8UOgI87lq0DOZ0nRwDWkolh6KkJ9B+llgdBWnPSl9M5fp8PfeXadQtjiPUBG93LmOfcHlFkMJ8DLuU3wIfEhynmfmxo9g8etLn5/3UgyhY6DQH57DJ3tkTWjCcialAKyXYdfN+/+dRD3GzMRYJmmAo3w0PbhUTgVNnA5HtH36vwC/0TFR3FggHiD8qM/B0w3JRKymONBVzP6iKPebzeY2Zh7xWFPRzJcbZpDPV18WyMlhXLkwnvsA==;XCvemAjz6YfO8nuET3wrjw=="

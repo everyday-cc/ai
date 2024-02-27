@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Intel’s CEO Says AI Is the Key to the Company’s Comeback"
-    excerpt: "Will Knight: You announced this week that Intel will relaunch its business that manufactures chips on behalf of other companies as an “AI-era system foundry.” What does that mean? Pat Gelsinger: I began Intel’s strategy two plus years ago ..."
-    publishedDateTime: 2024-02-22T16:55:00Z
-    webUrl: "https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/65d679d633ef175be68cdac6/191:100/w_1280,c_limit/Pat-Glesinger-Intel-CEO-Q&A-Business-1767731700.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Intel Bridges AI Chip Gap"
     excerpt: "Intel is well-positioned to capitalize on emerging opportunities in the semiconductor landscape and bridge the AI chip shortage gap. Yiazou Capital Research members get exclusive access to our real-world portfolio. See all our investments here » Through ..."
     publishedDateTime: 2024-02-25T14:00:00Z
@@ -47,6 +33,15 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Analysis: How Nvidia Surpassed Intel In Annual Revenue And Won The AI Crown"
+    excerpt: "Instead, the Intel veteran saw a bigger threat in Nvidia and its “uncontested” hold over the AI computing space and said his company would give its all to challenge the GPU designer. “Well, they’re going to get contested going forward, because we ..."
+    publishedDateTime: 2024-02-26T19:00:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/2024/analysis-how-nvidia-surpassed-intel-in-annual-revenue-and-won-the-ai-crown"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 17
 
 secured: "L/xE/hUHqqxBh7tsWMn4FFeX/BWh8LSsH1feVyWjFBnfZ0TqFTWHKX2Udcvh5nrBC5moFQKH7Y1AyrlueRTBY3k5B7be6eWNnXQE93yqlG2v9UXy+SH2PQ7tJ+lCTs7FfBwvS7rnBW4D3LS+jshy7eSkkYI/LNPBtL3wBfnY0bHv1BTviIJW5ahBW9X+302fD/ysy8ARI3KWiurYVJsC4iFLx6cnM0ibdtjKs+Jmt69WyIfT5JrGSEEDpNG2+82E1wxbFCJj4rncPgHwd+cRyLjVHGLO98Ss9KRAPPwmi1gpJm9dwTZ1Ea+LUqNX1tcn3cbr98yGERHoGtxXJLUHjX/9YI7B1OZhOIwabsgKRr1wG1/A6LfHVPq9ntamEw2OStCu5ap5HKdZbgpMmJri2T00Iqk8+NRxss8OJitBYuu40ZMmWKvw5756z0kUBkaXt9YH0X0z4lBqx/SkyQKCFWAJydVMTSfLdgcunT2FmmziLuE3FxmVTuWuiEra53gYyebUPGnaGbLy+90lSj445Q==;XTTVhKuQxKEAMT+YdVESrQ=="
 ---

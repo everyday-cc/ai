@@ -30,11 +30,11 @@ related:
   - title: "AI on smartphones: How to use it safely, effectively"
     excerpt: "AI is becoming increasingly impactful in all industries, so here's how you can use it best in your personal life."
     publishedDateTime: 2024-02-26T13:06:00Z
-    webUrl: "https://www.tennessean.com/story/money/business/tech/2024/02/26/smartphone-ai-use-search-engines-camera-and-more/72714772007/"
+    webUrl: "https://www.usatoday.com/story/money/business/tech/2024/02/26/smartphone-ai-use-search-engines-camera-and-more/72714772007/"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
+      name: USA Today
+      domain: usatoday.com
     quality: 19
 
 secured: "oQkEEHb9moTHFVUZagr3q/1MjthiEz7RKyuquJv0GaB8hNe8/wldaFDmTPpKsw94/kn8kPlJjJj9x+iIHBcbFxeiLLJ/o2TDoqIDkYIA70GrQvgrDF7Al0xS/AmUQrnPIiI6Si8XzjmBWBNwS8OoRSXtQQdxHy5quKgVZxaTTp4t1JxooQVW5SpAu66Fvd7RajPcP/6fTdHQjxi1S0Y448UeW2O3PuyT5L6MiV73wHAFdRQ/+WslpmFmgNpHs55D4vMMd7EUtGcX0GfTI22uOlYmFHVX5FOwF4CApG2UH99M28aeaI42oAqct6+0Lsjk8+yLJanrzMSR7AVAVEUqi23t09h0S3QYjxEGp//PmYo=;tSW9+SD3aC2u0QwA+FNIRA=="

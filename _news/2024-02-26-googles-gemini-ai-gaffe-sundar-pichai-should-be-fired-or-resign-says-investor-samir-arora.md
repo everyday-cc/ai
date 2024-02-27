@@ -26,6 +26,17 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Google Gemini Failure Offers Lessons For SEO"
+    excerpt: "Gemini Image Generator failure explain how Google's search ranking algorithms might also fail"
+    publishedDateTime: 2024-02-24T12:17:00Z
+    webUrl: "https://www.searchenginejournal.com/google-gemini-fail-and-seo/509190/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 19
+
 secured: "KYoFdnPWJgTRZmJQWDoo2ToL5ENmSp9PDDt3zGkVaSkNh0ppEksc3Gct+iHLXhxEZv+kA1tL1q7pGBZmAira5IJJrHkz4uW4BORCgynXfQPoWCjYG/0Kyj254c0k/KWfdsKzOSEvN1DLcaEx41JaiWqHYaNlBwvQRHu/EpilQ9z9dlMhR1LO45Aj4YBy8TrEjkX++t7ddnRk2VBCFXAQCUaO4lYy+9kFuvrKRlOu/H8+8aB8+Tzz4F+/DInmdH3AEju+5yivFV3USy04IhHzINNdcyLUuF4ltKpFmuW7j0W8d0LShVCJTrVxDIUOdrECzKEMLBPplrBNCR/3MQ0vuZ9d7CTNr59xmMCgf9bVgzg/cv/OziKMzlEcwjiPR7YMC2o0MeE61JOr1tUgBwkmbitehzBh/mi+nIgJV5xCYe3JrtUW/BoPEfgEftLvCuNQkBQ0OY5hZv4s7jqR7wi0Y5esV9/+cj1oO4tDrcV/Kq1DLArVle+wI1IWfQRY+SxQeW4VnXwJQrYKPLH8/hr9vQ==;AubvJbJ9YXPi7JKQAS+kAA=="
 ---
 

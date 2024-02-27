@@ -63,6 +63,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Generative AI Advances Showcased at MWC 2024"
+    excerpt: "The company has introduced an array of applications driven by generative AI and deep learning, including enterprise services and smart living environments. These applications are directly aimed at fulfilling the specific requirements of businesses and consumers."
+    publishedDateTime: 2024-02-27T16:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9969068.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "The Best AI Image Generators in 2024"
     excerpt: "Generally considered the best AI image tool, Midjourney was developed by the independent research lab Midjourney, Inc, and is still in open beta. Critics say this tool generates complex, relatively high-quality imagery, but also requires a little finessing ..."
     publishedDateTime: 2024-02-23T00:01:00Z

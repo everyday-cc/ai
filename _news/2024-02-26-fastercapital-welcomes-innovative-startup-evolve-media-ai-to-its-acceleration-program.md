@@ -34,6 +34,20 @@ related:
         width: 1201
         height: 900
         isCached: true
+  - title: "Executive interview: David Wong, Thomson Reuters"
+    excerpt: "According to Wong, AI – and more specifically generative AI (GenAI) and natural language processing – has been a core competency within Thomson Reuters. Recalling the evolution of GenAI, he says: “It is an interesting story. If we play the tape back ..."
+    publishedDateTime: 2024-02-27T14:55:00Z
+    webUrl: "https://www.computerweekly.com/news/366570374/Executive-interview-David-Wong-Thomson-Reuters"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/cloud_g943065362.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "RaSHWXrPfjom+X7MXJcNpivdrhl46M7nzlT+rgjr245NQ2cSTyer480g9mC7YoPUIaJLhPNy3RWFD4PJNvMzgi9apoU2XWB01E0D5giB+xxN+PnUzPf8+9hOV9NIoh4xKupkaV3kXrvEJVmqNnzj9B5J77wvh4vg7S5jeGaAXA/9Te6gydfXMc1JLvpRtTXMbq2HovS6vTB7BFcuW+lc30qBWDHwaRkRHZ6oj2u5iBnVanqSz6UARErsXtFk6FOcCLO/jboiRIl3osaaVCzALmrH51XgTIJe7pdK6RHHdugn5izmeSD2F/keI0hK6qVfu+3tAC06l2irqUqY1MVlJb4a2cx7X2e/PnH9Ds44obksp0QAirtyf7h+XLQrv/Ycy+aRsmgaAZgUm42Ux4vETHyYFuDOCruq46KAeV4d0Bhd7TxBfEIWDa3lXq2yCk8xy/bml5u9s4d/5y9wCSICop/UBJ3tEPM5MbsCi/wv1woy5jCxM7VbXMIsD37ADLbUFfBN1xTeB5ci8aF4yYNOUA==;PJ/0NoZa5KcHwBn2h8IEcQ=="
 ---

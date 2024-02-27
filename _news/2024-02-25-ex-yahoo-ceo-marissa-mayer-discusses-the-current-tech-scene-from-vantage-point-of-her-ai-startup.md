@@ -20,15 +20,15 @@ topics:
 related:
   - title: "Ex-Yahoo CEO Marissa Mayer discusses the current tech scene from vantage point of her AI startup"
     excerpt: "Q: Sunshine is using AI to manage contacts on a mobile app ... Q: Not long after you became Yahoo CEO, you ordered a lot of employees who were working from home to start coming into the office regularly. Has the pandemic reshaped your thinking about ..."
-    publishedDateTime: 2024-02-26T20:52:00Z
-    webUrl: "https://magicvalley.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_84a752d8-241e-5155-a463-3431695fc0d7.html"
+    publishedDateTime: 2024-02-26T20:59:00Z
+    webUrl: "https://tdn.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_06ca251e-b017-5106-a7c7-6a51208f266b.html"
     type: article
     provider:
-      name: Times-News
-      domain: magicvalley.com
+      name: tdn
+      domain: tdn.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/8/4a/84a752d8-241e-5155-a463-3431695fc0d7/65d637f4e8be4.preview.jpg?crop=1764%2C926%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/0/6c/06ca251e-b017-5106-a7c7-6a51208f266b/65d637f6b6e5e.preview.jpg?crop=1764%2C926%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

@@ -46,15 +46,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "In the Face of Nefarious Deepfakes, Congress Must Curb the Abuses of Artificial Intelligence"
-    excerpt: "In light of a string of notable AI-generated frauds, policymakers should take swift action to stop further abuses."
-    publishedDateTime: 2024-02-22T17:02:00Z
-    webUrl: "https://www.usnews.com/opinion/articles/2024-02-22/in-the-face-of-nefarious-deepfakes-congress-must-curb-the-abuses-of-artificial-intelligence"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 36
 
 secured: "A2WBNxT0qu75LRho/pBQllAj1v07YgnzHFUPsCMP4yYJTZfgE7Fca6JKZJRasClt6HXduqJ51efWNNwFbNxM5IsihKM5ktqtAfEq1GTf+wN43K10iYtpmtd5bSrO/8KwVdbne0I1g/iQBaOLvLXjEV1zqT4qWE9uKr5to+b5vCPKPMafKnB4OuLxoUN5S1Q1kzIKpyb5PPkKoay3OswMESd+bCLDuGl2TdsMljK959GTGBa1i9KOvyPoW5GGH04k6Ci50CFRSmOTwN7nt3eX67Aa2Fvf5UAJMVVLScHvTwSP98PUmb/HlplQqyUlddbWo+buxqBIQCXzYpzAmPH66oQCXBtTFraGAsRcZmpHBuGEUE8zLw7gdzSjquDHhmoOiexLPT8FTTp9vd0gYeZKfW5/jmAl/rJp3Ov/LURBj8/OVXUjOIiOoti2nc7vx3y7tm0ciEUtmyRvLYYBOFZvci70QasL7sgTCymmXFj1x2C4fHCBRKp/9CccdUK7wN4SQ1whF7Eqt7JVvuDJm+BPYA==;YnoiweFE5hl5wINxD/Hc7Q=="
 ---

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Superhuman launches AI-powered instant replies"
+    excerpt: "Email startup Superhuman is launching an AI-powered instant replies feature today with the company looking to double down in AI-fueled functionality this year. The feature gives you three contextual replies as options to quickly respond to an email."
+    publishedDateTime: 2024-02-27T12:00:00Z
+    webUrl: "https://techcrunch.com/2024/02/27/superhuman-launches-an-ai-powered-instant-replies-feature/"
+    ampWebUrl: "https://techcrunch.com/2024/02/27/superhuman-launches-an-ai-powered-instant-replies-feature/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/superhuman-launches-an-ai-powered-instant-replies-feature/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2024/02/Superhuman-Instant-reply-feat.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI-powered search engine Perplexity launches an AI-generated daily news podcast"
     excerpt: "Among Perplexity’s investors are two with ties to Google: Susan Wojcicki, the former CEO of YouTube, and Jeff Dean, Google’s Chief Scientist, focusing on AI advances for Google DeepMind and Google Research. Moreover, when Perplexity announced its ..."
     publishedDateTime: 2024-02-26T22:58:00Z
@@ -38,24 +54,6 @@ related:
         width: 2400
         height: 1596
         isCached: true
-  - title: "AI powered desktop mini robot and companion"
-    excerpt: "For those passionate about STEM, Doly is a goldmine. It offers an engaging way to explore the worlds of robotics, artificial intelligence, and programming. Regardless of your expertise, Doly provides a tailored learning experience. Its open-source design ..."
-    publishedDateTime: 2024-02-24T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-powered-robot/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 34
-  - title: "New Data Shows DRINKS AI-Powered Personalized Wine Recommendations Deliver Surge in Online Wine Sales"
-    excerpt: "DRINKS Recommend was recently deployed on select pages by two major online wine retailers, selling in excess of 250,000 bottles a month. Compared to pages that offered an industry"
-    publishedDateTime: 2024-02-22T14:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/22/9966536.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
 
 secured: "CpEdw1g2SJk2Lv7w0iGkhi5FL+EdxrR/f+ltMmyX1Xnip+XS2P5N0ln1CFTO8gdT1rjqx6WNJeoJNIizN1P3AqdqFd7wMnz6NHBNgbxEO1FC32du3qmHi2aQt9hbwH+6S505vo+hoolhwkalk9/UfUngDVlbHnbf3nkFMgtBFoT8jxRRl7l9sq3OYzRnrEh3lbT4fbAzpuPtTXHa3kWc2HP7NYODiaj1KM2CpnY/TDwArOWSncUtouSPTdDdeFsq+dlB8dbPVRGDra1/GvmMoeaBxrb7pRODfQEHttzVBPILPkoA17zL6KjAQHWfiJ/HjNLMA9UMAxGSBKV/ttJjLnRIRa5m+Fj+XYGml37YT6/CkadlnGWkE+uAhsVCKxeqQSFQC/kyA8OHHdoBg+Ho2kfSnLdYCYe9x4clS2E2EVkSvBdcV83R4aeQ9o8ltwSA3HRHuRLrnO5DN7cGj9OtMAQuIYZe5l78ZHDpuYhrEJnysgX4JZQaO0vxfIu2Ko4quisf8slxtreNPl65ExfqZg==;uc3TTiiKv//ZHwgFH2Qatw=="
 ---

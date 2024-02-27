@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business-standard.com/amp/world-news/apple-and-tesla-vet
 cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -20,6 +20,17 @@ topics:
   - AI Hardware
   - AI
   - AI in Autos
+
+related:
+  - title: "Tenstorrent partners with Japan’s LSTC to create 2nm AI accelerator chips"
+    excerpt: "Learn more about GamesBeat Summit sponsorship opportunities here. Tenstorrent, an AI chip company headed by chip legend Jim Keller, has unveiled a key partnership with Japan’s Leading-edge Semiconductor Technology Center (LSTC). Together, LSTC and ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://venturebeat.com/ai/tenstorrent-partners-with-japans-lstc-to-create-2nm-ai-accelerator-chips/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
 
 secured: "KQspkpjZap/1ZIvEAwjzuTj73SfzWbWFI1s13HPwz3vPpaOwbrXfJoLDoNVPZaqJVW5B4l5JTFqmqHhZvk433d50Wg7QX8YKStdyMM8tOXil+UaHt1yTOuXBOPI8UsPMEJUt/NZE/MmZ4zjL1SYoWGL7ayC7HEfiWj4XV1E25WqpEzwj6Ukdo6flgWf45+pIKfukfIX4F+HqKmxu5Mu4da/YOVWXjKo5PkuUXrXY4tT94JbUGIjF2XN8jslEAYffBLY63MJ3yjM3bz9tc1zYSr3/oxngnFpao5mv+QgoD1t4SvSurBOZf02Tyek8zRK7rqZOabic4q0psG05FWwDNUUHkncYDJrEQQvn/GoLh8E=;5fKmbta+2Hy689fdkBumcw=="
 ---

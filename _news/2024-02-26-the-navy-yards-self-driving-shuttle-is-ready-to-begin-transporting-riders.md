@@ -30,20 +30,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 24
-  - title: "Self-Driving Cars Demand Caution, Not Complacency"
-    excerpt: "Autonomous vehicles, often referred to as self-driving cars, have rapidly emerged as a groundbreaking technology in the transportation industry. With advancements in artificial intelligence and sensor technology, autonomous vehicles hold the potential to ..."
-    publishedDateTime: 2024-02-22T16:06:00Z
-    webUrl: "https://www.law.com/texaslawyer/2024/02/22/self-driving-cars-demand-caution-not-complacency/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/401/2024/02/Kevin-Vice-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "Joe Bennett: Self-driving cars are a symbol of what we shouldn’t fear"
     excerpt: "Opinion: People feel powerless before it and threatened by it."
     publishedDateTime: 2024-02-23T17:00:00Z
@@ -72,6 +58,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI-Based Self-Driving Lab Speeds Catalysis Research"
+    excerpt: "Scientists say they have developed a “self-driving” lab that uses artificial intelligence (AI) and automated systems to provide in-depth analyses of catalytic reactions used in chemical research and pharmaceutical manufacturing. The new tool ..."
+    publishedDateTime: 2024-02-27T15:28:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/ai-based-self-driving-lab-speeds-catalysis-research/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 19
 
 secured: "VtIRUB3z0v6AeJl61v+WTDEv0+btKnySO+76jHzAXV07SvnW77L9Fb3VddoamwZCcXxw2UkZVdKuMnQDkFsZxWadLlBKEz/HlUMqBQVtEVcVXX+oqBErL4Uccq0Ln7dxqJdcXllxli0CT7Mfi+1OCXBvvn2mE5gCh8YIklWY4p6PCxX3p3aLq5bMZLqKpF0zqr3q6mqM5MfGAzJTvnDGM2aPNtM0od9eqmI6Bes6TIO0xHPZqMKHDo8ayPd8B4srMBiHydU/dR2NIeXb5Y90U5QeoygV2A1EHhhoNVD9XsjON3FUqEVjPs1a6AF7gtpCpxgUfA8V/rdxqP0I9JnipkHQQyvnXHifgR1WTdTdJy09Iao609KnrUGRloKcz9SOqfBdSXx5tLbI+ZIpf9tPExw1n/OIDGz/8QpMILx+6i/8iFd6dVTzntYkF4GSWqEVfTGWwqU+m5foYXBkMI8AaorbBZqVnbN4JYbw6znLwgL7Ez9FLBC4Qln8+6J3r5JLK6ftPeDx7XHUBo9EhvKWmg==;ZGuzhnGdFdsW1GfWNQ/U6A=="
 ---

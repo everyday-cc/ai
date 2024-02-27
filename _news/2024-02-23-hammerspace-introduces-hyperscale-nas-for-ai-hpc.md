@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Hammerspace Hyperscale NAS Now Available with NVIDIA GPUDirect Storage Support"
-    excerpt: "Hammerspace today announced that the Hammerspace Hyperscale NAS is now generally available with NVIDIA GPUDirect Storage support."
-    publishedDateTime: 2024-02-22T16:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/22/9966395.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Hammerspace Hyperscale NAS Targets Fast File Services For AI On GPU Servers"
     excerpt: "“It is the best architecture for general AI training, GPU computing, and other forms of unstructured data process.” There is a broad-based adoption of different forms of GPU processing going ..."

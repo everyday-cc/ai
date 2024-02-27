@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Google’s AI bot accused of left-wing bias"
-    excerpt: "“Three weeks ago, we launched a new image generation feature for the Gemini conversational app (formerly known as Bard), which included the ability to create images of people. It’s clear that this feature missed the mark,” Google’s Knowledge and ..."
-    publishedDateTime: 2024-02-26T14:02:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/2885234/google-ai-bot-gemini-accused-left-wing-bias/"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 19
-
 secured: "MCnqIPOJiRyG9NxNmHbsZ+05DTL1WR6iJfNn7szU6hIHeaa+N7Wvgm8ro8rrEkQ0cmcYkfqmSL99o7JVR/K/oPJOIqZnAoczv5C8Jn8X9nGYyiiDt3jZ+DgBtcokzPsj3K6tcZy8k3mnrX/J3Xs8VgJW0lkXS0AhzRkUhO4EFz8mS1+GTAQy4cd7ob665339LzDnYNFq0k8wwHzg8/kru9t7UEKxDWTtUXeG9CGwcb/k/hyFOWtTnp03N/xANLpIOKW1zVIMJWSLajiqH3pUUmSB45RNAyQIiAg275dVwObNBVoRxBQP/m1qWePp4OKiv4qakPETVc2JFHRaOZDkWURLqeoBTeK/A4xIbBaPa8LDq9RT0IsunnngVkt0YgogHWfuvsI2h9W6HMNz3VU/IpSHQ/zHWJJlhSxaJ2lVnC0VyEArY8rot16SfiECZkfrAlqRLUAEi8+OOMdG8cyt5aQJKqMMqbWs8+zf4FheRr9eGNxIehYkqabC9eO/QZWEh+hQ+JHgwzT8QGi3e2XONQ==;8Yfb/ucjKVMeFC/U7woywQ=="
 ---
 

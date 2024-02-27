@@ -24,6 +24,17 @@ images:
     height: 1152
     isCached: true
 
+related:
+  - title: "Growing number of US airports use biometric facial recognition"
+    excerpt: "Spokeo looked at which airports are using facial recognition software for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-02-27T14:13:00Z
+    webUrl: "https://www.miamiherald.com/living/travel/article285979271.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 34
+
 secured: "SzwqnjjfErrP4T/Z4VpoFfMqKYxvaZhD8RQo7uW/EJLIIwpw8JUcNKecM224WdjYrhD9gd/nwyHgFG5V268/luO0ADl/0pBgVC0kc8Sqr50PlqH7HL/vFXx2E0Un7ZR3VTDsAF7fJ35i2RDPcPHyo36s4vb+O/VwgJdelDeKeDJrVY6j/RIt1CjwleVQ2M4YE5xmx727hgZAta2vy/W7JiQqSun45SR1v9xhYnHqaPfkiP+YIkPsPdgLTGiyUu4vzGAx6Z8M6jseG0IkUyeKTkLaXv5Ex5YaLYMoTjoAr9NGfuf17T5Hl/W0j0FW80Br30uxrXZG7KNH+mMe3YIFK9LH/MnuM368XmjaEm0Ahco=;YoXH9v1sSB9+0Y/Hm2qP+g=="
 ---
 

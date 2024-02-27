@@ -89,6 +89,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "E.U. Watchdog to Examine Microsoft’s Mistral AI Investment"
+    excerpt: "M icrosoft Corp.’s Mistral AI investment is set to be analyzed by the European Union’s competition watchdog at the same time that its deep ties to OpenAI Inc come under regulatory scrutiny."
+    publishedDateTime: 2024-02-27T15:34:00Z
+    webUrl: "https://time.com/6835554/eu-microsoft-mistral-investment/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 84
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1850859244.jpg?quality=85"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Microsoft invests in startup Mistral AI, outlines broader AI access principles"
     excerpt: "The company announced a multi-year partnership and an investment of undisclosed size in French startup Mistral AI as an example of its approach. Mistral AI will be able to train and deploy its AI models via Microsoft’s data centers, and Microsoft will ..."
     publishedDateTime: 2024-02-26T10:24:00Z
@@ -224,15 +238,6 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 67
-  - title: "Intel will make chips for Microsoft"
-    excerpt: "US chip company Intel will make high-end semiconductors for Microsoft, the companies announced, as it seeks to compete with TSMC and Samsung to supply the next generation of silicon used in artificial intelligence for customers around the world."
-    publishedDateTime: 2024-02-22T14:35:00Z
-    webUrl: "https://arstechnica.com/gadgets/2024/02/intel-will-make-chips-for-microsoft/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 66
   - title: "Microsoft Partners With Mistral AI To Rival OpenAI"
     excerpt: "In return, Mistral would provide commercial language models on Microsoft's Azure cloud computing platform. \"What we're fundamentally agreeing to a long-term partnership with Mistral AI so that they can train and deploy their next generation models for AI ..."
     publishedDateTime: 2024-02-26T16:54:00Z
@@ -399,6 +404,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia, OpenAI, Microsoft, Other Tech Titans Investing In Humanoid Robot Startup"
+    excerpt: "What do Intel, LG, Nvidia, Microsoft, Samsung, and OpenAI currently have in common? They’re all taking big bets on Figure AI, a startup focused entirely on building and deploying humanoid robots. The California-based company has reportedly secured $675 million in funding, having attracted some of the most powerful entities within the tech industry."
+    publishedDateTime: 2024-02-27T13:10:00Z
+    webUrl: "https://www.extremetech.com/computing/nvidia-openai-microsoft-other-tech-titans-investing-in-humanoid-robot-startup"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 46
   - title: "Bezos and Nvidia Team Up With OpenAI to Fund Humanoid Robot Startup"
     excerpt: "According to Bloomberg news sources, Amazon founder Jeff Bezos, along with Nvidia and other prominent tech players, are funneling investments into Figure"
     publishedDateTime: 2024-02-24T14:12:00Z
@@ -426,7 +440,16 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 26
+  - title: "Microsoft signs a partnership agreement with AI startup Mistral, a competitor of OpenAI"
+    excerpt: "Microsoft has announced a new multi-year partnership with Mistral, a French startup specializing in artificial intelligence. This startup is only 10 m"
+    publishedDateTime: 2024-02-27T09:10:00Z
+    webUrl: "https://itc.ua/en/news/microsoft-signs-a-partnership-agreement-with-ai-startup-mistral-a-competitor-of-openai/"
+    type: article
+    provider:
+      name: itc.ua
+      domain: itc.ua
+    quality: 26
 
-secured: "Aq65A6yxBsyrSLBEoZlzrBKaMZWdWvIoPXzt/3REnldw6cpj0UYhhMwoCB4q5kBOSgPSE+/v7Hn7tzmpy0DhY3nUmOQWSPQ2RK05wXQvEIpLzjli1M45Q4WeyWudUGv5uk+WHj7eLxSuk2+T8LsJJmqssZfDAoWdGx4972z42G0sBVYyyMh/0maHQwrE+2fncFf3/Lp82fS9HM0Ud7zatvNCuvkpQ9H7RR6EuIh3Hm1dDmanas5j+bYv8oufN12wI39HP9VKrtc2fb5FAV+43boimy57zLj/8ldDkf9DRH8YwAM3sifoZTq5MMqqRXvkyHwLom5JvbbITapiw3lwF4pwbq+Mbe/svYxeAsCwOq4=;Cjc42MHzLxPCDKVoHmm7Ow=="
+secured: "qV8n2S7s3nPqPzpE9fFDg8YvI5EBlK7B4d9DyUvv9oO9Ow7p76gr8JTcmbedeDQG7SC95B0p+Iqt6iESvfOy1Nl07EuH56sDfnh35Z49rMlmh22aP+HESLuG0zD7DZoJm3vxmlaf5BLIQIFMadRyXHeHEFw4m9MVLbZPBFoRtW3kUyh6O2ciRe+lmGPcoEiQQ3+XrVIUO60VaE+nRDrobAQ7NuQpufIiJXkK2RfiS6LR980k0FKjMzbPTWtDUAbiloGGZBmo0VOcpVHAD+Pyodfm1VGmIefke/Ql/pw0KU6TCPi5EXQV5df+e4prdzsRbXGpO1ebpYktTorDqkPTyagltVBEkRSRvJ5k/YpdW+wS2fQZdhUqdG7i+mzf+h0MD5b2LG4qmpaXX/O8jEtgx5o0xTvHCCiHU0DYcJDipVRB4zIMZ2dz6hBwHo607Oxek104H6pnRw5Hk/xS4hq/g2hx2XvK4ryFnlGbpA6BuI9TS3S4TeGnLddE2yZ+EFxHXl9rWuQxvwfayy4cQW+nHw==;S3w+/jkx31/imBVJPBsHQA=="
 ---
 

@@ -2,6 +2,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-05-three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai.md",
+      "title": "Three Stocks: Ringing Up a Great December, Another Day, Another Recall, and Analyst Trash Talks Old School AI",
+      "excerpt": "Rides High on December Sales Surge, Analysts Upgrade with Bullish 2024 Forecasts. Tesla (TSLA) Faces Recall Woes, Treading in Technical Danger Zone. International Business Machines (IBM) Takes Heat as Analysts Downgrade to 'Sell' Despite AI Legacy.",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/2024/01/05/three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai/",
+      "originalUrl": "https://moneymorning.com/2024/01/05/three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T13:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-05-very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux.md",
+      "title": "Very few jobs will be completely replaced by AI: IBM HR chief Nickle LaMoreaux",
+      "excerpt": "In an exclusive interview with Moneycontrol, Nickle LaMoreaux, IBM’s Chief Human Resources Officer, said AI will only automate certain tasks and not replace employees at Big Blue, helping them focus on work that lets them move up the value chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2024/01/Nickle-LaMoreaux.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html/amp",
+      "publishedDateTime": "2024-01-05T04:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-become-a-strategic-ai-leader-how-ai-is-game-changing-for-leaders.md",
       "title": "Become A Strategic AI Leader: How AI Is Game-Changing For Leaders",
       "excerpt": "How Leaders Can Use AI. So what can you as a leader do to best use AI? Let's take a look. 1. Embrace Data-Driven Decision Making: 'The Decisive Code' Leadership in the age of AI r",
@@ -1285,90 +1362,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-12-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-how-to-build-a-successful-procurement-strategy.md",
-      "title": "How to build a successful procurement strategy",
-      "excerpt": "Here are ten steps for building a procurement strategy to achieve operational efficiency, faster procurement cycles and greater cost savings.\nThe post How to build a successful procurement strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/procurement-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/procurement-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T15:17:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-the-three-main-types-of-cryptography.md",
-      "title": "The three main types of cryptography",
-      "excerpt": "A look at three main categories of encryption—symmetric cryptography algorithms, asymmetric cryptography algorithms, and hash functions.\nThe post The three main types of cryptography appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/cryptography-types/",
-      "originalUrl": "https://www.ibm.com/blog/cryptography-types/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T15:14:26Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

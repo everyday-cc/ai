@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving Cars Demand Caution, Not Complacency"
-    excerpt: "Autonomous vehicles, often referred to as self-driving cars, have rapidly emerged as a groundbreaking technology in the transportation industry. With advancements in artificial intelligence and sensor technology, autonomous vehicles hold the potential to ..."
-    publishedDateTime: 2024-02-22T16:06:00Z
-    webUrl: "https://www.law.com/texaslawyer/2024/02/22/self-driving-cars-demand-caution-not-complacency/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/401/2024/02/Kevin-Vice-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "Joe Bennett: Self-driving cars are a symbol of what we shouldn’t fear"
     excerpt: "Opinion: People feel powerless before it and threatened by it."
     publishedDateTime: 2024-02-23T17:00:00Z
@@ -63,6 +49,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI-Based Self-Driving Lab Speeds Catalysis Research"
+    excerpt: "Scientists say they have developed a “self-driving” lab that uses artificial intelligence (AI) and automated systems to provide in-depth analyses of catalytic reactions used in chemical research and pharmaceutical manufacturing. The new tool ..."
+    publishedDateTime: 2024-02-27T15:28:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/ai-based-self-driving-lab-speeds-catalysis-research/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 19
   - title: "The Navy Yard's self-driving shuttle is ready to begin transporting riders"
     excerpt: "The first self-driving shuttle service in Pennsylvania will begin operating Tuesday at the Navy Yard, offering a four-stop loop for visitors and workers at the South Philly business hub. The nine-seat, electric-powered van has been tested for more than a ..."
     publishedDateTime: 2024-02-25T23:59:00Z

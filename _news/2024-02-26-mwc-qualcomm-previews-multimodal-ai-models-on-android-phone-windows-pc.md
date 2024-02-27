@@ -51,6 +51,22 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "Qualcomm shows how it combines AI and connectivity"
+    excerpt: "At Mobile World Congress, Qualcomm is demonstrating its vision for better exploiting artificial intelligence with the help of on-device computing and connectivity."
+    publishedDateTime: 2024-02-27T14:49:00Z
+    webUrl: "https://www.networkworld.com/article/1310096/qualcomm-shows-how-it-combines-ai-and-connectivity.html"
+    ampWebUrl: "https://www.networkworld.com/article/1310096/qualcomm-shows-how-it-combines-ai-and-connectivity.html/amp/"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1310096/qualcomm-shows-how-it-combines-ai-and-connectivity.html/amp/"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 61
+    images:
+      - url: "https://www.networkworld.com/wp-content/uploads/2024/02/Qualcomm-MWC-2024-Iglesias-2.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Qualcomm debuts new wireless networking chips and AI model bundle"
     excerpt: "New AI features are also arriving to several of Qualcomm’s existing chips in the form of a neural network bundle called the AI Hub. The first addition to the company’s product portfolio is the Snapdragon X80 5G Modem-RF System. It’s a bundle of ..."
     publishedDateTime: 2024-02-26T19:39:00Z

@@ -71,6 +71,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Explained: Google DeepMind’s Genie, an AI model that creates virtual worlds from image prompts"
+    excerpt: "This AI model could soon enable users to create their own video games. Here’s why this experimental model is revolutionary."
+    publishedDateTime: 2024-02-27T13:49:00Z
+    webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 22
 
 secured: "cWvEt8diRIxsKAbVtBFvh/G1oR/wRHy17P1FBdpevbHNU4sgckQQyGaUglqrG/zm3jrTnzM0aIM8+mpT2AX5C7WLJiu2e2ey7Wl0SP5RxP0Kxs+bHB+8WgtFcS/4GTUoOjLi0eoDVoZvFnevlVjrF3Wzslbv3pp5MCeE9ij83/FZA5J4+vU+ZPEiJ2quU/dLX5yG+VqojiUXBngv8qClcG8/4Dd40dVFzLmftahRF2RWHVDOam95cfi/cWLzlbn9Npw/wOsLeM6XfS+3cUXTWo28df4ft3yPzN63jlHgCGZuSh5KXB4d66834RHzC6JvygvAGgAr9uTQQQ0eT0YWCmExlpA9eeUPkFW6o4NDj0oF6HgUFrl9s7dU1rXOFCpaR1nukcV26ZYC6fgr50gc2MnzLQjMd71aMg+Gd3FGUzSBiGLmjImU1Y5U+hq8Bziti5srajzL4ct5R/ANUHJF/EUOxSm+NbI8FxaLaU/c6uVP+uBvFd9IiFE4kLPZ2BrG5dJwyQky8qBerOwRlY/wjg==;BC92CH4ja7o8fZG9Yop7jw=="
 ---

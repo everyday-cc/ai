@@ -84,6 +84,24 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 34
+  - title: "HP’s AI-enhanced Spectre laptops set to transform user experiences"
+    excerpt: "HP recently launched its range of AI-enhanced Spectre x360 laptops, built with smart features that elevate performance, collaboration, and security. These AI PCs will change the role of a personal computer by simplifying tasks and enhancing usability for various aspects of life."
+    publishedDateTime: 2024-02-27T14:05:00Z
+    webUrl: "https://timesofindia.indiatimes.com/spotlight/hps-ai-enhanced-pcs-set-to-transform-user-experiences/articleshow/108008262.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
+  - title: "NVIDIA RTX 5090 GPU could have fuller core count than RTX 4090, but stock is a worry already"
+    excerpt: "NVIDIA certainly won't want to get too close to using all the cores, as the full die GB102 chips will be needed for AI graphics cards ... it would be one possible tactic for NVIDIA: Launching a GPU to dominate the benchmark charts, more than anything ..."
+    publishedDateTime: 2024-02-27T00:43:00Z
+    webUrl: "https://www.tweaktown.com/news/96485/nvidia-rtx-5090-gpu-could-have-fuller-core-count-than-4090-but-stock-is-worry-already/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 8
 
 secured: "Td0v59y2x+flqR60YSwQBPH2hl0zF8TI6wXVbDIV/aVx8kOwKp7o5M0vUw+6zW1HJ41OZR8qe8xdIOFMhu5mRFr61Dsvj9PfLm+55Out05qPp0TxXIf184eSEwk7jMFi7/g57+Hxw2bahjwp/yJUc7quTzicWZT9Qr+Hc2nOViQkci09weaig2YhTgOhGzK4aLsmtZ9rEJBuFl0njNj3tj0GlbQ2tc3PxEBoF5JPzzcTKzVYm9azBFQHf/cvOBUXluih3a5xScudeyF0czasoK3lzq2saGBJPh0gtMw/qDS54G+qT6q932K6irt4Di8hh7Ug0WnNzL9fFv6MuyywA7dtuBMffNcUpVXq91aqQb7WSY7XEbEAgK/NWbpYkI2ziJbfKzVnZSbwJ6Gl5mvZqVtssBgHLXL9xJudL+91LAJBASXflhtqgZ2kHFFSZqNKhtmmRhYPyIRcVd7kWUgLcDk9mXWBcLu9xpp9xQyndSNdbuPEn1Z5enHHWEx3BwXi2ncttaYEdz2/giVlG4tqFA==;F9rlJL0JXMygArRA7A30ZA=="
 ---

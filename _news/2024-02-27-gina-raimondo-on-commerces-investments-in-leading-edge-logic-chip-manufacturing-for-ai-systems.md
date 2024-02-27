@@ -7,7 +7,7 @@ originalUrl: "https://www.govconwire.com/2024/02/gina-raimondo-on-commerces-inve
 webUrl: "https://www.govconwire.com/2024/02/gina-raimondo-on-commerces-investments-in-leading-edge-logic-chip-manufacturing-for-ai-systems/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,21 +25,16 @@ images:
     isCached: true
 
 related:
-  - title: "US will need 'CHIPS Act 2' investment into semiconductor manufacturing to be the best for AI"
-    excerpt: "US Commerce Secretary Gina Raimondo said that the US needs continued investment in semiconductor manufacturing in order to take global leadership and meet demand from AI technologies ... to be - whether you call it Chips Two or something else - continued ..."
-    publishedDateTime: 2024-02-22T14:35:00Z
-    webUrl: "https://www.tweaktown.com/news/96403/us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai/index.html"
+  - title: "Raimondo outlines chips \"space race\""
+    excerpt: "What we're watching: Raimondo said investments in leading-edge logic chip manufacturing will put the U.S. on track to produce 20% of the world's leading-edge logic chips by the end of the decade. Today, the country is at zero. These are the chips that matter for AI and quantum computing."
+    publishedDateTime: 2024-02-26T20:41:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2024/02/26/raimondo-outlines-chips-space-race"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 43
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96403_403_us-will-need-chips-act-2-investment-into-semiconductor-manufacturing-to-be-the-best-for-ai_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
+      name: Axios
+      domain: axios.com
+    quality: 34
 
-secured: "exf3r+sQkSE9X87A9Cv+UNPL06xkcza++uuI6wAfZ9bXFwqhnIHJ88oCcEWaA9CTS2nAR5CGo3Emz6NY1HaDnXauwQQjVbC2elFW9VBVN6l0AGwWbChzOWsjuBpMah2lHGO/oNrm9JUpNuQ5aNMOvb580WLcsmXccH6VylzEBEPKr6w65v3S87cH9zHOk29heuqMKMnsOA393ZSpNgn0UnLJiOfQgBrQq55XSS14+My1EDrvfze5LFrRhZnC9Hxs5ViQZgCZGmZBRyQq2gj89TypU53tn13pc4S6EdZXO2SeTM3aAwbwQUwxgdpEi8z2nfJM9n1BqoYXYFtwvIdZQXNfc6wJIuVfhD+uvThrnJY=;GYOr1mBQqHZZ00vS6gcQow=="
+secured: "5WCyVprX+fh8Z6qg3vPZR2kmH5H1I1Kw3jlq84GUpVp9WmzrEnJOZVBkCTgFAM76nii3Zcl12kiGSTnL9bQnZEvuSKXlhxvtHuK6mrxilO89RYeE1jjeqB5d/YIPafO+L1My1HXBszfAWhSX2WreajxR5Vc57AcMi+9WrKXte9ACX8NirFr7HNalJ/pw5jy5D1Vgy6ZEdM9vjK5sA42jwwhB2axI4T/bauMy3RXyUjTY+T3VNvOcFfcxws4O4zOJsYZ2dcNc1dW5a2MECV6HkUzuGKDwSsejLv6IVSvBF6NvjygZUCjfns9XkeazqcsRS+aZd6oEPjKiCjmm3QxEL7/vVLA3IVJg1IRoEcLX0QVBirtoYGRhuMBbJPhoc+jzSZUeahim31OJAKO74S0cr9dR23LD2ZxOq4yWQCq24CQf+AB5FaeywTRZFXRM5ulCHhy6cuTMrkT0cLl24bjtH2EUlmhF/RwKXp4yr0gY3gwcyYVbHKEeRceZg/bUbkqzvpeTnCBHcbnb734yKp3lnA==;qyp12iVLTR4HobjGILh5Fw=="
 ---
 

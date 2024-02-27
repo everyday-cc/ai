@@ -1,0 +1,39 @@
+---
+category: news
+title: "Growing number of US airports use biometric facial recognition"
+excerpt: "Spokeo looked at which airports are using facial recognition software for security screenings, according to Customs and Border Protection."
+publishedDateTime: 2024-02-27T14:13:00Z
+originalUrl: "https://www.miamiherald.com/living/travel/article285979271.html"
+webUrl: "https://www.miamiherald.com/living/travel/article285979271.html"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: Miami Herald
+  domain: miamiherald.com
+
+topics:
+  - Computer Vision
+  - AI
+
+related:
+  - title: "Face biometrics growing role in trust raises stakes for fakes"
+    excerpt: "Face biometrics are powering identity checks for employment, air travel, and enterprise access control in some of the most-read stories of the past week."
+    publishedDateTime: 2024-02-24T17:00:00Z
+    webUrl: "https://www.biometricupdate.com/202402/face-biometrics-growing-role-in-trust-raises-stakes-for-fakes"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/04170318/face-biometric-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
+
+secured: "V3z/L4+JwiyL0zU27SP3BDSleQOl9KwVddwUu68Yj2BydAua3Y42qC3SPoTzd3ERzM7p707+4z+eHvPgbw2LnPxYqLO48B22KVVU44P4HDXyF4UYzJGaia4AWcnhM1dxqK9meusnmVcyLdafEM8xZjAKYteW65UuSKCKrdcvveAGZR93VDZT1nZ09+mRDmeGuEMpgQSjMOsKLC4ZwoRa26xs/3HfmL1hAgFytme/oShj2RHYQB3Ae519Mz7wg9zDNOZtufufCclUZAElYteoSNZOcoX6nlnlJzQ8JzpmlEuf9j7WOaljh/R4yRs/5gOnyMbmKxYyF5tZDi/jyjIciS1djpQ3w6IOlos7bmoupNKhXuEYekM7yx5FXcMgm5d8fG6hX08VcbrjqD9KcGtOJC6X4pRUXyKL1U8/f1iMwxeabUa78TKuBAiEHAVlpIKlSKAdrOCpWnW8Zl9/NAqrqLyoUTGtv2yoQdOQ3c5BvQDFmdpDBeX9bjywtYKufOiEXHOTwTi2BK6AIsNGrtS85Q==;MwEUSgzml85DIClw/jC2BQ=="
+---
+

@@ -37,6 +37,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Reaching for the Future: TECNO Pioneers AI Revolution in Smart Devices, Extending Reach for Global Users"
+    excerpt: "In the realm of processing power and AI capabilities, TECNO is harnessing the strength of MediaTek's latest innovations. MediaTek has made a significant push into the premium segment with its 3rd generation premium chipset, the Dimensity 9300, which boasts advanced AI capabilities."
+    publishedDateTime: 2024-02-27T16:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9968957.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/2348713/TECNO_Mobile_AI.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "GfavcJgo/tLQdwNwFxTYPhBMSTHmeXqlmW+7SSOlo2JzwicJJcfltpYkftrrE36QPoN/YXk93hbSrPbaSKv19m1eyfysJcb/FrHv5QPMEYdpZBUJbaWr1vhouQr+j61R9kFVdgxwd5w7REgcV8rMZQ4/lHIe1MPEO8zILrdox9XfJvoBfSfpE5jPG/RWsSRP1xi/+d+bOC+1nlS3ydQvqT6WmhLrltPPW8WKIyBCilZBpwRtKK22bocHU59e2XDZtnOaNWj15ihOX7h00R2uYLUiYKwBE4DWf41Idm4yt5lxoI+isZLsGrtAMo+3s0q4Xf8ItsInfxRfnHnsfHfUKPS4gNW2AaZn15gOCk5jpBKYhiUuiLWIO9HHt7EoIJ8PpwQV/OZVL+EXdoEx2FF6M9GS+2WGMz+Kptz+j0Sk15TtCeDTj+mfUkenlhY37Qfuog9H0oRjRMqiVDenm1ETIX8iGhXvzLyu0dnXua6DtKPVgF7CUJHxMYz+5YE2MyPzyXG0HnnLXKN20sRfPW2HZA==;xe8+zTt8K/0V+TZODz4Zig=="
 ---

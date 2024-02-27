@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/02/22/stability-ai-announces-stable-
 webUrl: "https://siliconangle.com/2024/02/22/stability-ai-announces-stable-diffusion-3-early-preview/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,61 +22,6 @@ images:
     width: 900
     height: 514
     isCached: true
-
-related:
-  - title: "Stability announces Stable Diffusion 3, a next-gen AI image generator"
-    excerpt: "Larger models also require more VRAM on GPU accelerators to run. Since 2022, we've seen Stability launch a progression of AI image-generation models: Stable Diffusion 1.4, 1.5, 2.0, 2.1, XL, XL Turbo, and now 3. Stability has made a name for itself as ..."
-    publishedDateTime: 2024-02-22T13:28:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sd3_cham_hero_1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "AI startup Jasper acquires image generator Clipdrop from Stability AI"
-    excerpt: "U.S. writing assistant startup Jasper has acquired Clipdrop, an artificial intelligence-powered photo application from Stability AI, the company told Reuters on Wednesday, as Jasper expands its offerings to corporates."
-    publishedDateTime: 2024-02-23T02:34:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-jasper-acquires-image-generator-clipdrop-from-stability-ai-71708611796468.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-jasper-acquires-image-generator-clipdrop-from-stability-ai-71708611796468.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-jasper-acquires-image-generator-clipdrop-from-stability-ai-71708611796468.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/02/22/1600x900/technology-5254039_1280_1708614115364_1708614134924.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "AI startup Jasper acquires image generator Clipdrop from Stability AI"
-    excerpt: "Feb 22 (Reuters) - U.S. writing assistant startup Jasper has acquired Clipdrop, an artificial intelligence-powered photo application from Stability AI, the company told Reuters on Wednesday, as Jasper expands its offerings to corporates. The deal ..."
-    publishedDateTime: 2024-02-22T13:37:00Z
-    webUrl: "https://www.reuters.com/markets/deals/ai-startup-jasper-acquires-image-generator-clipdrop-stability-ai-2024-02-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "Stable Diffusion 3 AI image generator launched by Stability AI"
-    excerpt: "This level of comprehension is a testament to the strides made in AI’s ability to interpret human language and translate it into coherent visual representations. What sets Stable Diffusion 3 apart even further is its commitment to community-driven progress."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/stable-diffusion-3/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Stable-Diffusion-3-AI-image-generator.jpg"
-        width: 1280
-        height: 808
-        isCached: true
 
 secured: "HLD2tCDTbGj2OS+rSsCcNJ3lYYXJi0K7ofxhzUPcsOB4RuXAQmfHLk0PeDD9p4EvUGYHDKjougDfCQYzPKysXywvPapDhEB9uNjF1AJoxBQ3YjYgM6GOtab3awm2uN6wr8mIJnuJ5gHWYc2I3Lsd9vh7266x6CpvWooL+qtJa1AAXTm+p5xWkdR2eGzgSxzRIqDEQhgYzfSmcrCC35lp+W68fxsJznIjxUlcvdk5+QPXm9AQQoyoAeOwJLUaeuAwEjk/R8TxcTSHTlPMVM47dpVcalTGc5Dv1TZJZE1Eoa81A5QjsdhBMh7s0m0t+l96QS9H9EOJMhem31i+LfOe32mNxQ7bTzRkAcDC3I9BDac=;KuPJmM+D1vCXDslRXXDWXg=="
 ---

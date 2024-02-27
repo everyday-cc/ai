@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2024/feb/25/uks-enemies-could-us
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2024/feb/25/uks-enemies-could-use-ai-deepfakes-to-try-to-rig-election-says-james-cleverly"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: The Guardian
@@ -46,15 +46,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "In the Face of Nefarious Deepfakes, Congress Must Curb the Abuses of Artificial Intelligence"
-    excerpt: "In light of a string of notable AI-generated frauds, policymakers should take swift action to stop further abuses."
-    publishedDateTime: 2024-02-22T17:02:00Z
-    webUrl: "https://www.usnews.com/opinion/articles/2024-02-22/in-the-face-of-nefarious-deepfakes-congress-must-curb-the-abuses-of-artificial-intelligence"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 36
 
 secured: "MA2lxwOoMHSDyUKWOUW5u703XKYY9ycKnyTxIBc6gjQycfUSJUip2xKu7mhOir7WNHV86YuMW14QpeXoaQCgP3MIaCFDhJna62lVzkU71FByrz8zMh0n+hoeb414q0pbjnyWtD8okfWGBVxgFTLlcqfrGGbNnRfdsTWJEaHg1RrxQ16+Pl1GqXJeVwgYQd8L1FibOtiqlaLr9mq4HiwjZ0Urh2fH5nLNk/ebwNIeQYfYpZCqhwj/YLcdpISCx6l5OkMluQymp2nni2p/OYUh5ebrXwzx8blp+56yVxzOwV1uCWB+eCCtnIhemYKcYc9hiykLV4fJYLSYwDFeFogsazMSbXeFYFutD8XPDB6rVvkJHoPbr7fORbhhFAvfPuHYIall60uMxpDfeSfSPU90vQCqLcN6we/MYTUH+CHPjGThg7bVUAaMg84BWjSm1jK0EBMXF0N8nPSOTkKCkwU88OLyTV79D1RcdyWyHgvtau1vsnYGioN+JAMK3L9TdwKj2q5begdO/mofXIUKsV4Zsg==;Z0lgxdsdHXDcik7owu+CJQ=="
 ---

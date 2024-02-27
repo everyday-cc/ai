@@ -59,6 +59,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Buy Rating on Microsoft: Strategic AI Partnerships Poised to Enhance SaaS Offerings and Operating Margins"
+    excerpt: "Havemeyer believes that by integrating Mistral’s sophisticated AI models within Microsoft’s Azure AI infrastructure, the tech giant stands to potentially infuse its SaaS offerings with next-generation capabilities. This move could allow Microsoft to ..."
+    publishedDateTime: 2024-02-26T15:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-on-microsoft-strategic-ai-partnerships-poised-to-enhance-saas-offerings-and-operating-margins-1033104789"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Meta Decides To Form A Team To Prevent AI From Tampering With EU Elections"
     excerpt: "The team will consist of experts from within the company, including engineering, operations, legal, content moderation, research ... across Facebook, Instagram, and Threads. The company already does this for images generated through its own AI tools."
     publishedDateTime: 2024-02-27T04:06:00Z
@@ -73,6 +82,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "MWC24: Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
+    excerpt: "Using Amdocs' GenAI platform amAIz, and Microsoft Azure OpenAI Service, extended collaboration will include a GenAI lab and center of excellence"
+    publishedDateTime: 2024-02-26T07:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mwc24-amdocs-expands-strategic-partnership-with-microsoft-driving-generative-ai-innovation-across-the-telecommunications-industry-1033100978"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "SK Telecom partners with AI search startup Perplexity in Korea"
     excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters."
     publishedDateTime: 2024-02-26T12:30:00Z

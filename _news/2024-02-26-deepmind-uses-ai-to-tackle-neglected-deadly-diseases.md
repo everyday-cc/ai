@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Explained: Google DeepMind’s Genie, an AI model that creates virtual worlds from image prompts"
+    excerpt: "This AI model could soon enable users to create their own video games. Here’s why this experimental model is revolutionary."
+    publishedDateTime: 2024-02-27T13:49:00Z
+    webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 22
 
 secured: "423kp4ldrQhWcDbEMzjFUGEZEMNkBVnSmGCyvweKxugKa/L7/SijCco94olKaXwRfRUf3E3YiOOF0G8lEw/kfkZuNTl5UZ9lWCnrYgBmkz98vW7lkDP7LSbcNJUtp84a0lrFK9aCuQjNBdbLzav3rO4V5lJ0FATdyD5PxnZ9FfLes72qE+4xFLcLE8YmbiIvrBJ1lf23w6rNELzHthlRqG23MJ4upqIJIUvhrMD8nIIl5UoyiPbyi6pKSp/RF0MM2U99353o8DBbqKxxKCwlZVc+ZZt42bPg73dk73UGCWBWimelWmaTDwUuMeV8cnFsw7Yn5ULWKwAqkwZ4C8RivEUfYqIKYbxlJ8rpwTsEx1O6vGnYkOiI8MVY+Z1Liv+G64b+vcgDRyonYsDarZeOd6I3wT0aBV0k95xN6zWe9615jyBfSVlauZN1KguALIHTQLxiO94rrsR3sGCWxAsgorK8915U4P8z71XXU2HC6hfyHMPolosTTb86wOKUwDNbby+tmsJarY4A57eAjgruTw==;TasJB8SHK1CGgzC+/CpYQg=="
 ---

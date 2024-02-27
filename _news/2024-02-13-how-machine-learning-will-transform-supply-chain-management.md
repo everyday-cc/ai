@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2024/01/R2402K_ENGELS.jpg"

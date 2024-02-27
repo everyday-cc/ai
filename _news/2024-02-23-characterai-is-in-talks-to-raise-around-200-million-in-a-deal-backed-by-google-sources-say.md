@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/character-ai-in-talks-to-raise-goo
 webUrl: "https://www.businessinsider.com/character-ai-in-talks-to-raise-google-2024-2"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "US enterprise AI search startup Glean raises $200 million, plans hiring spree"
+    excerpt: "Arvind Jain, cofounder and CEO of Glean, who also co-founded data management startup Rubrik, said he plans to use the funding to double the team to 700 people this year."
+    publishedDateTime: 2024-02-27T14:42:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree/108049287"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 14
 
 secured: "1X/zCHlIeOUT2OIILv3Q+BDN0DCoYQoWC3OXVUuJeDDkGcEORnSTughfmQiGWcmVttih2esDiH0OYcvK/n/tOaF0aaqxL5UII05RBl4XWeMjnb+jYNVimEgL136ZWLa9FHx/aMDSifh5+HfC9GcJP4d7gSgS8vn5a8OQQ3wjZcPD4Qu1vtVvWiFFa7iHGPDeMe0gIqbiqDecCvP4EB9HhdY4E/XCmvs6WpdKnieHewVPJuo1SU6nm7XVskehQOceeACK21MKYfk3EswVtCba/qP1k5bbYMaz93k7ZYYlbTbtDDMLCTmi7H6UMFVGozfSzGcu0+5zSe8U6fXbRzeanLYMcsxnC8meONGEbqbpDIPu4yvkDntiJ3OyFkzs1Ge49DVrE2weKk8LryaaGdv/YiLlc4TKTTK3cUHvuCxnWBwSH23XIfXq7CyK6WmJddrlUN5M6qX5dvGfN/Yh75Bn/19OV9bXTZhQT/pzTTQysmVopLRVyfydMofK8oJmKprkYhJqzzYh7OP03ygnvkxOxQ==;5VF7MouQqhz7i+N09Gv2Kw=="
 ---

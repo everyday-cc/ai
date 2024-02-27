@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/reputation-hou
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards-p4u6y3pb?amp=1"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,70 @@ images:
     width: 900
     height: 600
     isCached: true
+
+related:
+  - title: "Conversational AI use cases for enterprises"
+    excerpt: "This class of AI-based tools, including chatbots and virtual assistants, enables seamless, human-like and personalized exchanges.\nThe post Conversational AI use cases for enterprises appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-23T18:04:33Z
+    webUrl: "https://www.ibm.com/blog/conversational-ai-use-cases-for-enterprises/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Conversational AI revolutionizes the customer experience landscape"
+    excerpt: "AI can create seamless customer and employee experiences but it’s important to balance automation and human touch, says head of marketing, digital & AI at NICE, Elizabeth Tobey."
+    publishedDateTime: 2024-02-26T15:00:00Z
+    webUrl: "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/"
+    ampWebUrl: "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Elizabeth-Tobey1200.png?w=1200"
+        width: 1200
+        height: 671
+        isCached: true
+  - title: "Where Does AI Go In Your Enterprise?"
+    excerpt: "By taking these steps, I found that organizations can effectively navigate the complex and rapidly evolving AI landscape."
+    publishedDateTime: 2024-02-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/where-does-ai-go-in-your-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "VA puts AI use cases into ‘operational phase’ to meet its health care mission"
+    excerpt: "VA has identified over 100 AI use cases so far. VA Chief Technology Officer Charles Worthington told members of the House VA Committee last week that 40 of them are in an “operational phase,” and being put to use in the field."
+    publishedDateTime: 2024-02-23T02:01:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/va-puts-ai-use-cases-into-operational-phase-to-meet-its-health-care-mission/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 38
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/03/electronic-health-record-military.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "5 Interesting AI Use Cases In the Legal Industry"
+    excerpt: "“You [can] provide some inputs [like] the case protocol, the complaint, something to that effect,” into the generative AI tool and “start interviewing your corpus of of documents… it’s more than just a chatbot.” Once the “hot documents” are ..."
+    publishedDateTime: 2024-02-22T22:01:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/02/22/5-interesting-real-life-use-cases-for-ai-in-the-legal-industry/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/legal-tech-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "mplm186RN4GFnr1jhCFsfGCgeYwRhH+knsL9wL9UKMrGaMZhWaCOdJtxL/iM7Un1LBpuL2mwKMCe/0xWvjAm/98fMt40Pl04xy5DAtfhfEtKpp12kmVoI6ISLSRhgaRRrfGSxpve7VoLGZfAdWzj/MgKh57sQDk8YLe5VxvBTA18VovXUPo9QJZ8IAAw6QYFRW8uVgv8dGC6E36OCDJcHLN8PQq67j24g5JcwVkARP6cY8lUsWNOgGR7aoBCJ75rEzKa/9Cdagti/LO8uL2Jmrfnb5xIGXSUSDU9JsHC7LMEXWLdW760QvMv8fRj4x6UDDh1IJuwOwZq3eo3D8CO/Jp7qXaVY5TDvqxlaQuoSKs=;K94COTg0N34MHhZ3ZP4R1A=="
 ---

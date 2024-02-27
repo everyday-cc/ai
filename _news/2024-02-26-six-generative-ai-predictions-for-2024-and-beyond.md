@@ -53,6 +53,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Generative AI Advances Showcased at MWC 2024"
+    excerpt: "The company has introduced an array of applications driven by generative AI and deep learning, including enterprise services and smart living environments. These applications are directly aimed at fulfilling the specific requirements of businesses and consumers."
+    publishedDateTime: 2024-02-27T16:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9969068.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Humane Just Gave Everyone a Huge Incentive To Buy an AI Pin"
     excerpt: "Humane has announced that everyone who buys an Ai Pin by March 31, 2024 will get the first three months of its required subscription ($30 per month) for free. Additionally, the company's making shipping for the Ai Pin free."
     publishedDateTime: 2024-02-23T16:45:00Z

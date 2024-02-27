@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-23-gdpr-compliance-checklist.md",
+      "title": "GDPR compliance checklist",
+      "excerpt": "How can you ensure your organization is GDPR compliant? Follow the principles laid out in this GDPR compliance checklist.\nThe post GDPR compliance checklist appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/gdpr-compliance-checklist/",
+      "originalUrl": "https://www.ibm.com/blog/gdpr-compliance-checklist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/ma73916.blog-lead-space-2x1-1.png",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-human-workers-still-have-one-crucial-advantage-over-ai-but-you-might-not-be-happy-to-hear-what-it-is.md",
+      "title": "Human workers still have one crucial advantage over AI - but you might not be happy to hear what it is",
+      "excerpt": "According to a new study conducted by researchers are the Massachusetts Institute of Technology (MIT) (via SiliconAngle), increasing concern that AI could replace human workers imminently is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/human-workers-still-have-one-crucial-advantage-over-ai-but-you-might-not-be-happy-to-hear-what-it-is",
+      "originalUrl": "https://www.techradar.com/pro/human-workers-still-have-one-crucial-advantage-over-ai-but-you-might-not-be-happy-to-hear-what-it-is",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZCE7nTe3udASYn64aitQem-1200-80.jpg",
+          "width": 1024,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-mit-study-shows-ai-is-still-too-costly-to-replace-most-human-workers.md",
       "title": "MIT study shows AI is still too costly to replace most human workers",
       "excerpt": "According to the researchers, even if the cost of AI systems falls by 20% per year, it would still take decades for computer vision tasks to become more economically advantageous for most companies.",
@@ -1219,83 +1322,6 @@
       "provider": {
         "name": "Investing",
         "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai.md",
-      "title": "Three Stocks: Ringing Up a Great December, Another Day, Another Recall, and Analyst Trash Talks Old School AI",
-      "excerpt": "Rides High on December Sales Surge, Analysts Upgrade with Bullish 2024 Forecasts. Tesla (TSLA) Faces Recall Woes, Treading in Technical Danger Zone. International Business Machines (IBM) Takes Heat as Analysts Downgrade to 'Sell' Despite AI Legacy.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2024/01/05/three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai/",
-      "originalUrl": "https://moneymorning.com/2024/01/05/three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T13:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux.md",
-      "title": "Very few jobs will be completely replaced by AI: IBM HR chief Nickle LaMoreaux",
-      "excerpt": "In an exclusive interview with Moneycontrol, Nickle LaMoreaux, IBM’s Chief Human Resources Officer, said AI will only automate certain tasks and not replace employees at Big Blue, helping them focus on work that lets them move up the value chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2024/01/Nickle-LaMoreaux.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html/amp",
-      "publishedDateTime": "2024-01-05T04:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

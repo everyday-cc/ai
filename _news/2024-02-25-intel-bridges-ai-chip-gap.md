@@ -7,8 +7,8 @@ originalUrl: "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap
 webUrl: "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Seeking Alpha
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel’s CEO Says AI Is the Key to the Company’s Comeback"
-    excerpt: "Will Knight: You announced this week that Intel will relaunch its business that manufactures chips on behalf of other companies as an “AI-era system foundry.” What does that mean? Pat Gelsinger: I began Intel’s strategy two plus years ago ..."
-    publishedDateTime: 2024-02-22T16:55:00Z
-    webUrl: "https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/65d679d633ef175be68cdac6/191:100/w_1280,c_limit/Pat-Glesinger-Intel-CEO-Q&A-Business-1767731700.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Intel Brings AI Everywhere Across Network, Edge, Enterprise"
     excerpt: "Intel announced new platforms, solutions and services spanning network and edge AI, Intel Core Ultra processors and the ... Samsung has demonstrated a first-call at their research and development lab in Suwon, South Korea. Ericsson has also demonstrated ..."
     publishedDateTime: 2024-02-26T05:55:00Z
@@ -48,6 +34,15 @@ related:
       name: Guru3D.com
       domain: guru3d.com
     quality: 19
+  - title: "Analysis: How Nvidia Surpassed Intel In Annual Revenue And Won The AI Crown"
+    excerpt: "Instead, the Intel veteran saw a bigger threat in Nvidia and its “uncontested” hold over the AI computing space and said his company would give its all to challenge the GPU designer. “Well, they’re going to get contested going forward, because we ..."
+    publishedDateTime: 2024-02-26T19:00:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/2024/analysis-how-nvidia-surpassed-intel-in-annual-revenue-and-won-the-ai-crown"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 17
 
 secured: "v9XCd1P1hK6elLsBoM7w1j7o0ideQTwTgb5iV8wqyyY/ZpfzXp1Wl8wBVNPAi+BybfyAbSyvc1jxvmtCDdMNk0MO4ECrvP1cSEb1enVihoDR7mLreKR903sCR4jC+S6KBL1JHTsBfIIijYU1V2wh9LRUnGVQvVxLnGPbiBCuID7UzrSgaNKf2MHLcjh2GX2WVdPI4kDRZ5qVzwLJp0qePS5jeJp61eLbx7C/OlM1JoExuYxt7zZLceCPf2sC0nV+MrkxUGn5PH7MPLgD0zrXsyr4AVSJdgp9UgZXBNEmH8utD4NEhS9LyVn+dO7zAEqNcp8x+6nz3FGlrcXBfKJhF1m1h+zpzBh0iekv1wfTQnL77vJhNTDdHJsHKLyzzJ+L2aPe4f0i+74QgktxWPogfpJ2VUuEDz6EopLt/8QDRJNiaNgTCz5FHKGudGwJGDnkBD1t89y36izs29rIrdZqpaP/IwbwtC7w3Lxmes0dmmeXDgQsU0TAEiSeSn66LqgHHygyHNvB0d7IQBKx/rmYzg==;UTkQMXnYGBmdy70sQ4gCCw=="
 ---

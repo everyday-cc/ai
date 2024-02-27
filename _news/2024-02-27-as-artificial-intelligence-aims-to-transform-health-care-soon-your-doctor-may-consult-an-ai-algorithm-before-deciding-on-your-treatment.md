@@ -40,6 +40,24 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "What the healthcare AI sector wants from Congress"
+    excerpt: "Healthcare interests clamoring for congressional action on artificial intelligence would also like lawmakers to remember the Hippocratic oath: First, do no harm. Second, they would like a little protection. Opinions about precisely which needs legislating ..."
+    publishedDateTime: 2024-02-27T08:00:00Z
+    webUrl: "https://www.modernhealthcare.com/politics-policy/healthcare-ai-congress-legislation-regulation"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
+  - title: "Azalea Health Unveils Artificial Intelligence Strategy to Enhance Healthcare Workflows"
+    excerpt: "Azalea Health, a leading provider of fully-integrated cloud-based healthcare IT solutions and services, today announced its revolutionary approach to artificial intelligence (AI) designed to enhance the efficiency,"
+    publishedDateTime: 2024-02-27T12:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9968480.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
   - title: "QubeHealth Plans Up To $9 Mn Raise For Launching Healthcare In App Marketplace, AI Integration"
     excerpt: "Healthcare-focused fintech startup QubeHealth is looking to raise between $6-$9 Mn as a part of its Series A funding round."
     publishedDateTime: 2024-02-26T13:48:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/etf/us-military-utilizes-
 webUrl: "https://markets.businessinsider.com/news/etf/us-military-utilizes-ai-in-middle-east-operations-we-ve-been-using-computer-vision-1033104022"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Insider
@@ -27,54 +27,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "Operationalizing responsible AI principles for defense"
-    excerpt: "Curating responsible AI is a multifaceted challenge that demands that human values be reliably and consistently reflected in our technology.\nThe post Operationalizing responsible AI principles for defense appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-22T15:35:50Z
-    webUrl: "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/02/coding_1-2-1.blog-lead-space-40x21-1.jpg"
-        width: 2400
-        height: 1260
-        isCached: true
-  - title: "Conversational AI use cases for enterprises"
-    excerpt: "This class of AI-based tools, including chatbots and virtual assistants, enables seamless, human-like and personalized exchanges.\nThe post Conversational AI use cases for enterprises appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-23T18:04:33Z
-    webUrl: "https://www.ibm.com/blog/conversational-ai-use-cases-for-enterprises/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "IMF Urges G20 Cooperation on Climate, Global AI Principles"
-    excerpt: "Cooperation by the G20, including through carbon pricing, reduced energy subsidies and border carbon adjustment mechanisms, could also help mitigate the effects of climate change and facilitate the green energy transition, the IMF said."
-    publishedDateTime: 2024-02-26T14:16:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2024-02-26/imf-urges-g20-cooperation-on-climate-global-ai-principles"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "VA puts AI use cases into ‘operational phase’ to meet its health care mission"
-    excerpt: "VA has identified over 100 AI use cases so far. VA Chief Technology Officer Charles Worthington told members of the House VA Committee last week that 40 of them are in an “operational phase,” and being put to use in the field."
-    publishedDateTime: 2024-02-23T02:01:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/va-puts-ai-use-cases-into-operational-phase-to-meet-its-health-care-mission/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 38
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/03/electronic-health-record-military.png"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "NyDR1HQylEOwzW89adt9feZ31mZoOcyzO0yTzX9i1vggqJ+GxPks3mAk3tc2RODqk5rCLwF04CNrrI2OV7RNZDonTxSXjAVltw61msmz3w+ERc8OMWIhoHzya39dCOTnes+03z7UVaApFsV21ibmn1fu6Ja5pJkOozdx1M3bu+SLoQoe92QYTzXfOkrpG6Ffi1lH8FW9ssxujuxv5QYCqlIgqsZXGqCW53nNN2fBglffegXJa+7laxxHNyLg7BcJgZ7fsvJzUVxF4UbyKh7KNCr42tMDIiWRwuQghVTCPfZXJB6sWTj8oMD1Iduh7AxhqI+7/vA43rRyMFilZNPW1uGSPMCiyuk05HZXvbDUC8w=;gPMU0IFrSrLnYbmT3lQN1Q=="
 ---

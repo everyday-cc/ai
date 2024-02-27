@@ -40,6 +40,15 @@ related:
         width: 1280
         height: 713
         isCached: true
+  - title: "Here’s Everything You Need To Know About Artificial General Intelligence"
+    excerpt: "What Is Artificial General Intelligence? Artificial general intelligence (AGI), also known as ‘strong’ AI, is hypothetical intelligence that doesn’t yet exist. It is a concept in AI research ..."
+    publishedDateTime: 2024-02-24T00:00:00Z
+    webUrl: "https://inc42.com/glossary/artificial-general-intelligence/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 3
 
 secured: "R3ICu1dxWUylrhE2TGFJDQxwyqFr6ppXAMycRGSfsRr2CVHBJNKA24kEcb6HdVHm/H5jhAc+9PwqpYgY0mGqvAtR+ssZpPvDEVCYv9JB9CpTbyYRVfRsA/5UQFa45bJGQmTIXz+pwPDRw5+XhGkXilk+T5BxbD4IoS8hFa84/jR6Iul56CdrjUHN63+OAc6zf5MuSlu91PtgLFEtrRiuCCk2DcWotF1RftzYGWJ42gswXDjrvHPMIH0eO5gbvhGy1q/ntcOe6cTocxAPd0zowtpYpHCxmwjSc1AlQ91RY1AZlpuQK3BJDGdhHqV4YJ4iwYMXdVY+DzNA6UmPJX5qJfKv3VopaMTIIwEAaT5EcKI=;lp3LnvBBZSoX3HGQaESBzw=="
 ---

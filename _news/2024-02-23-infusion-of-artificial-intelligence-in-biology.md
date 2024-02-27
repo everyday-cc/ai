@@ -25,103 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Digs Puts AI In The Center Of Building A Home"
-    excerpt: "This tool enhances the build process by providing instant, detailed responses to questions related to product information, installation decisions, specifications, warranties, and more using natural language processing. Digs AI also produces a perfectly ..."
-    publishedDateTime: 2024-02-22T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/"
-    ampWebUrl: "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/"
+  - title: "The Potential of AI and Nanotech in Precision Medicine"
+    excerpt: "Innovative technologies are bringing new capabilities to health care and precision medicine that once would be considered in the realm of science fiction. In 1966, the science-fiction film Fantastic Voyage told the story of a team of scientists and their submarine vessel who were shrunken to about the size of a microbe and had 60 minutes to find and treat a blood clot after being injected into the bloodstream before they return to their normal size."
+    publishedDateTime: 2024-02-23T00:53:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202402/the-potential-of-ai-and-nanotech-in-precision-medicine"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202402/the-potential-of-ai-and-nanotech-in-precision-medicine?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202402/the-potential-of-ai-and-nanotech-in-precision-medicine?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d69484e5055638edd7b24c/0x0.jpg?format=jpg&crop=1617,909,x292,y158,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 899
-        isCached: true
-  - title: "AI is having a 1995 moment"
-    excerpt: "The analyst said the hunger for Nvidia's AI chips from leading software providers like Salesforce, Adobe, and Oracle is a \"transformational tech trend we have not seen since the start of the Internet in the mid 90's.\" But that doesn't mean major AI ..."
-    publishedDateTime: 2024-02-23T18:19:00Z
-    webUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/65d8ca26ce7f1785b2e37b7b?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Investing in the Next Wave of Explosive AI Growth"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This past week, the world’s leading AI chipmaker – Nvidia (NVDA)"
-    publishedDateTime: 2024-02-24T14:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242?ssp=1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://lh7-us.googleusercontent.com/yzJturJFFghqcyCNnIaAZy189Vj69lRLjtitfmAF0N-Xp39dl-O4uudjIW7n0Jhc-aiVtqt5DbyRvyRrSQzuQixXkooUvMk5Hk_qks8N-V69kdPAQFOdRIOpPU9cMhnz9MzgaKBWuSKmZj_uduuGNg"
-        width: 1200
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/pic11.jpg?itok=l0c057fQ"
+        width: 1528
         height: 800
         isCached: true
-  - title: "Navigating The AI Paradigm Shift In Business"
-    excerpt: "AI can help business leaders make successful decisions, add sustainable strategies to their business operations, and help them adapt to ever-changing markets."
-    publishedDateTime: 2024-02-25T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/rhettpower/2024/02/25/navigating-the-ai-paradigm-shift-in-business/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d918195ce4dc7116060068/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Welcome to the era of mobile AI"
-    excerpt: "When integrated into phones, AI is, to put it simply ... Availability of the service varies by country and language. Accuracy of results is not guaranteed. 3 Live Translate requires a network connection and Samsung Account login. Live Translate is only ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://mg.co.za/partner-content/2024-02-27-welcome-to-the-era-of-mobile-ai/"
-    type: article
-    provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 39
-    images:
-      - url: "https://mg.co.za/wp-content/uploads/2024/02/image001-1.jpg"
-        width: 813
-        height: 508
-        isCached: true
-  - title: "5 Interesting AI Use Cases In the Legal Industry"
-    excerpt: "“You [can] provide some inputs [like] the case protocol, the complaint, something to that effect,” into the generative AI tool and “start interviewing your corpus of of documents… it’s more than just a chatbot.” Once the “hot documents” are ..."
-    publishedDateTime: 2024-02-22T22:01:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/02/22/5-interesting-real-life-use-cases-for-ai-in-the-legal-industry/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/legal-tech-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Tackling AI bias in employment"
-    excerpt: "One way to mitigate AI risk in employment and bias more generally is allowing researchers and smaller players, instead of just a handful of big companies, to examine models."
-    publishedDateTime: 2024-02-22T17:25:00Z
-    webUrl: "https://www.axios.com/pro/tech-policy/2024/02/22/government-companies-try-to-tackle-ai-bias-in-employment"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 21
 
 secured: "7XR8s6S/u1qomX64YzkXsgfH6yjRkZJiYTlJul9P6krexQiHizL20sykhFtDnW6q5F1NtrgSV5yp8NMlH3oVoIArRq5Xj23XRUXwOqp+Ryh/xm6lDWLr3kqdB0HO6+cKJikQzVKUM4KE1HjNE+nC1C/dsPJSNvYiYOdhV7eUh1VObnbCHb3CdopG0NJaawCCZKBDybNjAVw3ZLwYmMSCbzRQb6Epfzc5G7DUrbHPL8xY04Ry5KVgxVTZHzFcpsF7oFIw+rIGuyjhCcb0sIdFDdoCKsQZO/btBtKugi/fmAT/r+6UackGtCBcejKfFWA/MReGwun4lX1Ljmx8cfnDK5QSg3FSh7WrPykSskaOsaM=;ohqF8mFh4ponxNxXipLMJg=="
 ---

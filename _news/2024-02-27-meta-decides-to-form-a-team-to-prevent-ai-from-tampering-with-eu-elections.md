@@ -64,6 +64,24 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Buy Rating on Microsoft: Strategic AI Partnerships Poised to Enhance SaaS Offerings and Operating Margins"
+    excerpt: "Havemeyer believes that by integrating Mistral’s sophisticated AI models within Microsoft’s Azure AI infrastructure, the tech giant stands to potentially infuse its SaaS offerings with next-generation capabilities. This move could allow Microsoft to ..."
+    publishedDateTime: 2024-02-26T15:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-on-microsoft-strategic-ai-partnerships-poised-to-enhance-saas-offerings-and-operating-margins-1033104789"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "MWC24: Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
+    excerpt: "Using Amdocs' GenAI platform amAIz, and Microsoft Azure OpenAI Service, extended collaboration will include a GenAI lab and center of excellence"
+    publishedDateTime: 2024-02-26T07:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mwc24-amdocs-expands-strategic-partnership-with-microsoft-driving-generative-ai-innovation-across-the-telecommunications-industry-1033100978"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "ARway Corporation: ARway.ai Expanding Its Spatial Computing Platform, Hires New AI Computer Vision and Machine Learning Ph.D Engineer"
     excerpt: "With a distinguished background in robotics and machine learning, Mr. Sarkar brings a wealth of experience from prestigious institutions and leading-edge projects. With an academic foundation holding a Ph.D. in Control and Automation from the Indian ..."
     publishedDateTime: 2024-02-26T12:01:00Z
@@ -83,6 +101,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "DrjnKKAehqC0MOG3kRx3zfooPwlQT6OpQZjJrtWQFRQV/0q91/gm3po+tJs8qDMAFn97yTDvLeH+Zkkqls762jCmcRp1zZRiUtP0ePcBUCIZKK2MpYY2buXMtU5AEm8R5HgECPdjrdK2ZoypAAlIkJD8i0kuh6xBbBAewYF6yguayPOE0aKnP+3nYt47lp+AHVuv/pUllPsjnEkCfxcZt91LO0GhApfxlPZ15gCECnJPfZNdP8x7MYuAhnAWwRjgCUjDHvw8PYZ8ngO8LYUDdZ74G/xXC5jgcfzQR2Nuarg4nXEWimET6XGXq5hx1CQ1Q6Uc0umXMRl/Lgl0I93CuCnLRpwwTH55S50Y7OJZiws=;PhnsbAVSgmNEOhdj45/V4Q=="
+secured: "oeVG4tsbGWLPfzJi4BqKh0o2y+gcU/CsyNPXQ9ZnkxtMZaVvcJoZNdl2jLuH8iRqayZqSVfl9Zl3hAwOdbRTOpxs4aX2WlnsZIbsq/IPtvwAM9hafpMoa3GYU8ceQptgcOis4BjKiHDMxmJqJyPW/LFAbWjTJcGXV8DOs/gjoKy7K0DxlvoEncZBx6KdQsonzWkmlEd4EQZVD8e0duMf9OqhKfeZ5gcP10cHkB8dtjmQfNJRPohGkMLHfyGAF39WYxEb5y2EErZ0A1djqybN1qeF49hmCvQHDqI2IyxIKq4w+1iCk2a6W6IDcSDicZPfeHUJPhNUQsnEKUOBmjCRLrr+SJZiTogZnNmyCQ1Kxt47t1Gl3xtM84N5cs/kMLDx+ABevhGeEfmCHEErHlTSZYvufpp1IscnyZ9Pzn9Q1HDpizR/xffcyy1szNu5czSxDcw3ubNly+c76n4ESgnUe3ErcWMw8AZc2Xou41w+OsX0/JfEDsS9mwJU4ohCQJTxdYghB8VbQCp1akcHneWlaA==;CXLJu6qxj7CdwJqq28h1aQ=="
 ---
 

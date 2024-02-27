@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/elon-musk-s-optimus-
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/elon-musk-s-optimus-robot-sparks-varied-responses-across-the-world-2024-02-25-918564"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk unveils new footage of Tesla's Optimus robot showing improved mobility and speed"
+    excerpt: "Tesla announced the latest version of Optimus, Gen 2, last December (below). The robot has come a long way since the original Bumblebee model from September"
+    publishedDateTime: 2024-02-27T15:20:00Z
+    webUrl: "https://www.techspot.com/news/102044-elon-musk-unveils-new-footage-tesla-optimus-robot.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 76
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-27-image-11.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
   - title: "This Is How The World Reacts To Musk's Robot Optimus"
     excerpt: "Tech billionaire Elon Musk has shared a new video of Tesla's humanoid robot, Optimus, showing the robot confidently walking"
     publishedDateTime: 2024-02-25T10:52:00Z
