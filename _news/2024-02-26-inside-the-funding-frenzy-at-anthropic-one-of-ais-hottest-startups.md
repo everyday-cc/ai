@@ -19,60 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Crypto exchange FTX to sell shares in AI startup Anthropic"
-    excerpt: "NEW YORK, Feb 22 (Reuters) - Bankrupt crypto exchange FTX may sell its shares in artificial intelligence startup Anthropic ... \"Given the increased interest in AI and large language models ..."
-    publishedDateTime: 2024-02-22T20:14:00Z
-    webUrl: "https://www.reuters.com/technology/crypto-exchange-ftx-sell-shares-ai-startup-anthropic-2024-02-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "FTX Estate Can Sell Near 8% Stake in AI StartUp Anthropic, Court Rules"
-    excerpt: "FTX's request to sell its stake in Anthropic has been granted by a court.FTX and sister investment firm Alameda invested $500 million in"
-    publishedDateTime: 2024-02-23T06:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/ftx-estate-can-sell-near-8-stake-in-ai-startup-anthropic-court-rules-1033096010"
+  - title: "Inside the rocky marriage of hedge funds and top AI talent"
+    excerpt: "But it attracted top talent from tech giants like Microsoft and Uber. The AI research team operated in Seattle and was led by Li Deng, who was poached after spending 17 years at Microsoft, where he led AI research. The team won over stock-picking portfolio ..."
+    publishedDateTime: 2024-02-27T20:36:00Z
+    webUrl: "https://www.businessinsider.com/hedge-funds-artificial-intelligence-talent-culture-clash-citadel-2024-2"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
-  - title: "FTX Gets Bankruptcy Court Approval to Sell Shares in AI Startup Anthropic"
-    excerpt: "Authorization for the sale enables the bankrupt crypto exchange to unload its stake at “the most optimal and appropriate time” given the increased interest in artificial intelligence."
-    publishedDateTime: 2024-02-23T16:57:00Z
-    webUrl: "https://www.wsj.com/articles/ftx-gets-bankruptcy-court-approval-to-sell-shares-in-ai-startup-anthropic-279048cc"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 46
-  - title: "FTX Cleared to Sell Its Stake in AI Startup Anthropic: Report"
-    excerpt: "U.S. Federal Judge John Dorsey has permitted FTX to sell its shares in the artificial intelligence firm Anthropic."
-    publishedDateTime: 2024-02-23T05:05:00Z
-    webUrl: "https://cryptonews.com/news/ftx-cleared-to-sell-its-stake-in-ai-startup-anthropic-report.htm"
-    type: article
-    provider:
-      name: cryptonews
-      domain: cryptonews.com
-    quality: 37
+    quality: 69
     images:
-      - url: "https://cimg.co/wp-content/uploads/2024/02/23050238/1708664558-ftx.jpg"
+      - url: "https://i.insider.com/65dd05c16080194819fa500e?width=1200&format=jpeg"
         width: 1200
-        height: 686
+        height: 600
         isCached: true
-  - title: "AI Crypto Tokens in 5 Minutes: What to Know and Where to Start"
-    excerpt: "With the release of NVIDIA's eye-popping Q4 earnings, AI crypto values had a big day. What are AI crypto coins? Start here for a quick introduction."
-    publishedDateTime: 2024-02-23T21:24:00Z
-    webUrl: "https://www.inc.com/ai-crypto-coins-tokens-surge.html"
+  - title: "How to navigate talent management in the age of AI"
+    excerpt: "Valuing human skills, fostering inclusivity and navigating the ethics of AI can make tech roles sustainable and fulfilling."
+    publishedDateTime: 2024-02-23T21:20:00Z
+    webUrl: "https://www.ciodive.com/news/AI-tech-talent-management-mastercard/707910/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1633746142_537786_bekkkt.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
         isCached: true
 
 secured: "3SNYTbO/Oyv+2Q6x5ZWr7RxPh5hMqbksJNUe7NzUOE1w5NVCGgbdLXelhV7yYaui5umVk0mGxbSV5oeoUJgOiPsM8pwr1cxhg6UJUYx8NSEIavcrLUC66s/9+VLzz/+aAeyjYXb96HE8bU516RmTwpYIGHD/6lg7LFdZZbj94RIuQEhk6fLM45kutH9ULosQgeJJtKIEQ6Mr8Gm2FFyXFt6pLzYYEB8gCk5pEOao/07R6uD6aBuCqEawpm9vTTevtCmNq50dhusN7654LExoVWpAZg/RYtugdzd8pa6Vq2vWbbJthUVE8dnv1XRw2DLnfKaff+2v5CBQ51HCRvfRtTxeRBO1FsCgZcZ1L+dF5/LIwFxVA0LElfklbf2O1HH4wLsNKGNitRS4v0F7XdQ0Pk1bVEDsJ1igyn0Hcz+mwyuBtr8RBK4s8lFT/aKinXpjl2sluJXGO98XkD5h9TEJCjtOizgKaQ0FED1YZ0Mk8bUf9L8zeyG2a6AQg4OB/AUJPXOYu1wB90ftXjMrUI2nIg==;Cra6OgGKbZ1Lt7jFot097A=="

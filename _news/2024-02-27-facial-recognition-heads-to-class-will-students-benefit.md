@@ -39,6 +39,17 @@ related:
         width: 1528
         height: 838
         isCached: true
+  - title: "Facial Recognition Meets Mental Health: MoodCapture App Identifies Depression Early"
+    excerpt: "For the study, the researchers enlisted 177 participants for a 90-day trial designed to use their front-facing camera to capture facial images throughout their daily lives and while the participants answered a survey question with, “I have felt ..."
+    publishedDateTime: 2024-02-27T21:59:00Z
+    webUrl: "https://www.labroots.com/trending/technology/26744/facial-recognition-meets-mental-health-moodcapture-app-identifies-depression-2"
+    ampWebUrl: "https://www.labroots.com/trending/technology/26744/facial-recognition-meets-mental-health-moodcapture-app-identifies-depression-2/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/26744/facial-recognition-meets-mental-health-moodcapture-app-identifies-depression-2/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 33
 
 secured: "Y6F6bREsdI1aiHsjez+PtTJkfoKexPC9mqDs04FzqU1jkFpIC/qEsudNXhDqEMHZel5nktBfpvYpGyRSFr3F3SgsdJ/dfku89oOxDzNayh8qo/04Lxq02ehH5DCMO6s10Q49JPoWUXfdoA8FlE3sFD03ZC6qlajew5rstmd45iUaYUyMxy5UEDYGyISfCacfbp4hZxwedX+YhVkWXwcshhH1gdBdWujsj3nETg/e8pUGwh3PXk8jVHdWw//oUhP7oVu6hRFgn68TlE6hOsYBCk5DOR5j6TRtnOCXeTLorcvBi8gxsGzyG/XrOE1QO7smnEwPMqo069cNQwHYjl0pdMIzPoKzEnJqiMUvWuLIj7+G/G4i8hXopa/pMW8vZSEFl6XBDvl0BtJlATMucJZ5xOWMD1bsDFldoleOSyYSzoPAP8tDAHuPmkd+FWX5kwGPpEZ9fej5m/nxfkNxOzxsZjrBl8k+RS3FAcmPFwlkOjKg+5KoL7hz0OMektKkKgINxz/U0iwC2wgTaCJaU6ADTQ==;7QUhyoxVkhjL2FXCrlZJnw=="
 ---

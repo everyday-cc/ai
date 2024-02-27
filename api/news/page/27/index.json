@@ -2,6 +2,178 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2024-02-07-adopt-ai-dont-sit-on-sidelines-microsofts-satya-nadella-to-ceos.md",
+      "title": "Adopt AI, don't sit on sidelines: Microsoft's Satya Nadella to CEOs",
+      "excerpt": "“I think it is imperative especially for India and the United States to be able to cooperate – what are the norms, what are the regulations even, instead of fracturing them,” said Nadella in his address to the CEO Connection in Mumbai. He is in India for two days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/technology/tech-news/us-india-must-cooperate-in-ai-regulation-microsoft-chief-satya-nadella-124020700498_1.html",
+      "originalUrl": "https://www.business-standard.com/technology/tech-news/us-india-must-cooperate-in-ai-regulation-microsoft-chief-satya-nadella-124020700498_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/technology/tech-news/us-india-must-cooperate-in-ai-regulation-microsoft-chief-satya-nadella-124020700498_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/us-india-must-cooperate-in-ai-regulation-microsoft-chief-satya-nadella-124020700498_1.html",
+      "publishedDateTime": "2024-02-07T07:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-is-this-the-year-artificial-intelligence-dominates-healthcare.md",
+      "title": "Is This the Year Artificial Intelligence Dominates Healthcare?",
+      "excerpt": "Artificial intelligence (AI) is well suited to improving healthcare outcomes. Some companies are already starting to use AI to help advance drug discovery and development. \"Where do I think the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/07/artificial-intelligence-ai-dominates-health/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/07/artificial-intelligence-ai-dominates-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/761653/ai-health-care-stock-investment.jpg",
+          "width": 2122,
+          "height": 1415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T05:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-meta-to-label-ai-generated-images-from-google-openai-and-adobe.md",
+      "title": "Meta to label AI-generated images from Google, OpenAI and Adobe",
+      "excerpt": "Meta has also added a feature for people to disclose when they share AI-generated video or audio and failing to do so would attract penalties, the company said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.html",
+      "originalUrl": "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/03/shutterstock_2259188619-100938589-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html",
+      "publishedDateTime": "2024-02-07T05:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates.md",
+      "title": "Village by village, creating the building blocks for AI tools with work that also educates",
+      "excerpt": "Karya is employing rural Indians to build AI datasets for low-resourced languages in India, verified with Microsoft's Azure OpenAI Service.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/source/asia/features/village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates/",
+      "originalUrl": "https://news.microsoft.com/source/asia/features/village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T05:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-biden-administration-names-a-director-of-the-new-ai-safety-institute.md",
       "title": "Biden administration names a director of the new AI Safety Institute",
       "excerpt": "The Biden administration on Wednesday plans to name a top White House aide as the director of the newly established safety institute for artificial intelligence, according to an administration ...",
@@ -918,187 +1090,6 @@
       "provider": {
         "name": "Sky",
         "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-meta-to-expand-labelling-of-ai-generated-imagery-in-election-packed-year.md",
-      "title": "Meta to expand labelling of AI-generated imagery in election packed year",
-      "excerpt": "Meta is expanding the labelling of AI-generated imagery on its social media platforms, Facebook, Instagram and Threads ... “For example, Meta’s AI Research lab FAIR recently shared research on an invisible watermarking technology we’re developing ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/",
-      "originalUrl": "https://techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1368412925.jpg?resize=1200,789",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/amp/",
-      "publishedDateTime": "2024-02-06T13:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-how-ai-could-change-our-relationship-with-religion.md",
-      "title": "How AI could change our relationship with religion",
-      "excerpt": "The AI was able to decipher and translate the ancient Greek word for “purple” on the scroll. Other ancient texts from the Indian sub-continent, for example, are in the Sanskrit language or ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/how-ai-could-change-our-relationship-with-religion-222079",
-      "originalUrl": "https://theconversation.com/how-ai-could-change-our-relationship-with-religion-222079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/572802/original/file-20240201-15-4uwnfw.jpg?ixlib=rb-1.1.0&rect=0%2C155%2C3840%2C1920&q=45&auto=format&w=1356&h=668&fit=crop",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T12:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studies-show.md",
-      "title": "AI is the most promising tech for businesses but a skills shortage stands in the way, studies show",
-      "excerpt": "Artificial intelligence (AI) brings with it a wealth ... Another report by Amazon Web Services (AWS) found that AI adoption is forecast to unleash €600 billion growth in Europe's economy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
-      "originalUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/08/22/03/56/1200x675_cmsv2_bc17e7f8-39b4-5b46-8b0a-b24a2f054a6d-8220356.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T12:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-teens-need-protection-from-harmful-content-on-social-media-can-ai-help-bridge-the-gap.md",
-      "title": "Teens need protection from harmful content on social media. Can AI help bridge the gap?",
-      "excerpt": "The CEOs of Meta, X, TikTok, Snap and Discord testified before the Senate Judiciary Committee about protecting teens online. Artificial intelligence might be a tool to block harmful content without invading privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://chicago.suntimes.com/2024/2/6/24059329/online-safety-social-media-teens-bullying-mental-health-predators-exploitation-pornography",
-      "originalUrl": "https://chicago.suntimes.com/2024/2/6/24059329/online-safety-social-media-teens-bullying-mental-health-predators-exploitation-pornography",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cst.brightspotcdn.com/dims4/default/484c593/2147483647/strip/true/crop/1920x1096+0+92/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F88%2F9875a58058bf62b7a61b1fadbe29%2Ffile-20240129-15-6x4k1s.jpg",
-          "width": 1461,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Sun-Times",
-        "domain": "suntimes.com",
         "images": null,
         "publishers": null,
         "authors": null

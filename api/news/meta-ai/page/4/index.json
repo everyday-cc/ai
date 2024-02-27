@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-23-kaist-research-team-breaks-down-musical-instincts-with-ai.md",
+      "title": "KAIST Research Team Breaks Down Musical Instincts with AI",
+      "excerpt": "A KAIST research team led by Professor Hawoong Jung from the Department of Physics announced to have identified the principle by which musical",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241787",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241787",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/84ba9020-1eab-4167-99b9-bd0d0c3a1951-cover.jpg",
+          "width": 576,
+          "height": 818,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T06:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-google-suddenly-reveals-huge-free-ai-upgrade-for-all-android-users.md",
       "title": "Google Suddenly Reveals Huge Free AI Upgrade For All Android Users",
       "excerpt": "Think through the path. Google has spent two-years pushing its Messages app as the default Android alternative to iMessage. This has included end-to-end encryption and RCS by default, and multiple feature releases. Now, with that done, here comes an AI upgrade that connects Messages users with Google, not just with one another.",
@@ -1306,40 +1349,6 @@
       "provider": {
         "name": "ABC 7 Chicago",
         "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-chp-catches-llama-trotting-across-i-80s-snowy-donner-summit-was-he-looking-for-santa.md",
-      "title": "CHP catches llama trotting across I-80’s snowy Donner Summit. Was he ‘looking for Santa’?",
-      "excerpt": "The twists in this llama drama finished with a merry ending this holiday season. A llama — exuding festive cheer with a red harness — broke free from his owner’s home and began trotting acro ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/news/local/article283436028.html",
-      "originalUrl": "https://www.sacbee.com/news/local/article283436028.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.sacbee.com/news/local/article283436028.html",
-      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/local/article283436028.html",
-      "publishedDateTime": "2023-12-22T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
         "images": null,
         "publishers": null,
         "authors": null

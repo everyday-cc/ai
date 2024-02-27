@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung’s Try Galaxy App now lets any Android and iOS user experience Galaxy AI"
+    excerpt: "Samsung's Try Galaxy app now lets Android & iOS users preview Galaxy S24 AI features virtually, aiming to showcase its innovative One UI 6.1."
+    publishedDateTime: 2024-02-27T22:45:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/27/samsung-try-galaxy-android-ios-users-galaxy-ai-features/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 65
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/Samsung-Galaxy-AI.jpg"
+        width: 720
+        height: 540
+        isCached: true
   - title: "Samsung Galaxy S23 WILL Get Galaxy AI Next Month"
     excerpt: "Here’s a quick rundown of what you’ll be able to do with Samsung’s Galaxy AI ... Real-time Call Translation: The update will enable real-time translation during calls, allowing users to understand conversations in foreign languages without language ..."
     publishedDateTime: 2024-02-25T00:00:00Z

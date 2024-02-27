@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-27-us-chipmakers-want-more-subsidies-as-ai-shapes-the-semiconductor-industry.md",
+      "title": "US Chipmakers Want More Subsidies As AI Shapes The Semiconductor Industry",
+      "excerpt": "Leading chipmakers, including Nvidia Corp and Advanced Micro Devices, Inc (NASDAQ:AMD), have earned breakthroughs in AI technology chips courtesy of the U.S. and global Big Tech companies splurging on expanding their AI moat. Analysts tout the chip ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/us-chipmakers-want-more-subsidies-as-ai-shapes-the-semiconductor-industry-1033109126",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/us-chipmakers-want-more-subsidies-as-ai-shapes-the-semiconductor-industry-1033109126",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T14:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-ai-market-structure-in-the-future-few-engines-many-applications.md",
       "title": "AI Market Structure In The Future: Few Engines, Many Applications",
       "excerpt": "AI will be a large sector but with only a few corporations providing the large language models. Many other companies will provide applications that use the LLMs.",
@@ -115,7 +158,7 @@
       "originalUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": null,
       "content": "",
@@ -150,7 +193,7 @@
       "originalUrl": "https://www.zdnet.com/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -254,7 +297,7 @@
       "originalUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -628,7 +671,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -672,7 +715,7 @@
       "originalUrl": "https://www.marketwatch.com/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 414,
+      "heat": 424,
       "tags": null,
       "images": [
         {
@@ -1417,49 +1460,6 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips.md",
-      "title": "Mark Zuckerberg To Meet Samsung Chief In South Korea, Discuss AI Chips",
-      "excerpt": "Zuckerberg is expected to meet Samsung Electronics chairman Jay Y. Lee as early as later this month to discuss AI chip supply and other generative AI issues, South Korean newspaper Seoul Economic Daily reported earlier on Wednesday, citing unnamed sources ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939",
-      "originalUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2024-02/86jsk76g_mark-zuckerberg-bloomberg_625x300_02_February_24.jpeg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1",
-      "publishedDateTime": "2024-02-21T08:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Data-protection-767x633-1.jpg"

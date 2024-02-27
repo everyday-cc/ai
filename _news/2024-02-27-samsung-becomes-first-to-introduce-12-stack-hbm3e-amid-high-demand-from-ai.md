@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-becomes-first-to-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
 type: article
 quality: 87
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung’s Try Galaxy App now lets any Android and iOS user experience Galaxy AI"
+    excerpt: "Samsung's Try Galaxy app now lets Android & iOS users preview Galaxy S24 AI features virtually, aiming to showcase its innovative One UI 6.1."
+    publishedDateTime: 2024-02-27T22:45:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/27/samsung-try-galaxy-android-ios-users-galaxy-ai-features/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 65
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/Samsung-Galaxy-AI.jpg"
+        width: 720
+        height: 540
+        isCached: true
   - title: "Samsung presents Galaxy AI Vision at MWC 2024 with latest products and services"
     excerpt: "Visitors to be offered powerful first-hand experiences across Galaxy S24 series, expanded product ecosystem and Samsung Connected Health, all powered by Galaxy AI"
     publishedDateTime: 2024-02-27T07:51:00Z

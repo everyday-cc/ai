@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-28-apple-kills-its-electric-car-project.md",
+      "title": "Apple Kills Its Electric Car Project",
+      "excerpt": "The car, which Apple spent billions of dollars researching, had been intended as a rival to Tesla’s E.V.s, which include autonomous driving features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/27/multimedia/27apple-car-ltgk/27apple-car-ltgk-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T20:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-elon-musk-unveils-new-footage-of-teslas-optimus-robot-showing-improved-mobility-and-speed.md",
       "title": "Elon Musk unveils new footage of Tesla's Optimus robot showing improved mobility and speed",
       "excerpt": "Tesla announced the latest version of Optimus, Gen 2, last December (below). The robot has come a long way since the original Bumblebee model from September",
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": null,
       "content": "",
@@ -98,7 +150,7 @@
       "originalUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1348,49 +1400,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars.md",
-      "title": "San Francisco Waymo arson sparks fresh debate on self-driving cars",
-      "excerpt": "A seasoned San Francisco cab driver might have avoided the intersection of Jackson Street and Grant Avenue, in the heart of the city's Chinatown on the first day of Chinese New Year. But an autonomous Waymo robotaxi did not,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksl.com/article/50875940/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars",
-      "originalUrl": "https://www.ksl.com/article/50875940/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.ksl.com/slc/2970/297026/29702659.JPG?filter=kslv2/responsive_story_lg",
-          "width": 1228,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T12:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSL",
-        "domain": "ksl.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Ex-Yahoo CEO Marissa Mayer discusses the current tech scene from vantage point of her AI startup"
-excerpt: "Former Yahoo CEO Marissa Mayer now runs an artificial intelligence startup called Sunshine that makes an app for managing personal contacts. She recently shared her views on AI and other tech topics."
-publishedDateTime: 2024-02-26T19:45:00Z
-originalUrl: "https://missoulian.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_c4b1b655-d24f-5e71-86d4-13b17f6d6b2d.html"
-webUrl: "https://missoulian.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_c4b1b655-d24f-5e71-86d4-13b17f6d6b2d.html"
+excerpt: "My fears are somewhat different than some of the people who are worried about AI overlords and things like that ... you ordered a lot of employees who were working from home to start coming into the office regularly. Has the pandemic reshaped your thinking ..."
+publishedDateTime: 2024-02-26T20:48:00Z
+originalUrl: "https://fredericksburg.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_49a8801d-1aae-5b7c-8dbb-871c644a63d5.html"
+webUrl: "https://fredericksburg.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_49a8801d-1aae-5b7c-8dbb-871c644a63d5.html"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: -1
 published: false
 
 provider:
-  name: Missoulian
-  domain: missoulian.com
+  name: Fredericksburg.com
+  domain: fredericksburg.com
 
 topics:
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/c/4b/c4b1b655-d24f-5e71-86d4-13b17f6d6b2d/65d637f50b49b.preview.jpg?crop=1764%2C926%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Ex-Yahoo CEO Marissa Mayer discusses current tech scene from vantage point of her AI startup"
@@ -43,6 +37,6 @@ related:
       domain: omaha.com
     quality: 4
 
-secured: "88slMZHMl5dUcgyYIWQjFtirU3CQo5kiWL/aCrL4xVXGAwJkeGAnYj+Uqbx4TXKzDzhXgI2brgzqmw2J32XXfLzlMh86miNwunZNi7RxrGmOhmjCrKpFTHowtUUo2Jxwh2xrfNdW+Cuio9Ywf+CYGgAQruATremfPMHmS6jMKrgpAgCQgcKct1CKuhIGaa8S70y1E4mLy+cDJoyXhHVm7Hh22korHtovBdq2kLs0s45i0slddeInsiXp1fwd+5rs+iEzuMRRmAChJiaavse+ZowawzM8BLYZbP/DweyrgwQvlLxNio76i+tHBHLe2RvdF0YbLfsnp2rQfBklMj4vojuwEmAmkjGgF0auQY+lwWk=;vZuspIY7sN4vK091YNTSbw=="
+secured: "auC/PBhODIX2W57RHKTaHfmvVyn+LcstU2C3dVp97xfcUf/7Xrb3TKrsjN2wZRxjb9MG7L1SxwcK5tTPc2N58cBNdu7MVDZIh1wRmNVe0R/aaSg8jB+H4YCmyIh6ruCa1cPXjfP0TAxp65lmQ8PwfJWkg6eg5A/cwirK7z5yiCRFP5qeTh413DxyMXJroIIymi1kZWX/MBIgUrfWoOFDcDsL3iMu7L9afP3M7fUKWaBLyHvNzWTl+drxY34VD+TZTMWJLtULMFQTSg3sBNv/EbeJNAJ+8/4fvGOAXUBD9KY6a9q9G/8ig3lPRAmhfANYbpc6oapKRYGdvfMILgTBk7kQWgEg2txZenlnRO3J2KwiX946J/cOygELbof9IRUdxSi1BSH/4CyZ8dKW2lk9vN5TpQCIZq69Xt01VZFl1WzkIHw0OkXlDfcQueijg7VGfhNoZGMn4Fmy/9aQsM13ob9qWc4hwGh6bNC2jK2WB8qyYVREtfVykh7TjFmyTkTaCCYElHbLgHWI0LQWKwBiPg==;+THKCveFaOUdkUbk31SezQ=="
 ---
 

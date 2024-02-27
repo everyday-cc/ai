@@ -79,6 +79,43 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Navigating the impact of AI in our daily lives"
+    excerpt: "In an era defined by technological breakthroughs, Artificial Intelligence (AI) has been seamlessly woven into our everyday existence, reshaping our routines, interactions and perspectives. We have AI virtual assistants guiding our tasks to tailored recommendations shaping our choices as AI’s influence reverberates globally,"
+    publishedDateTime: 2024-02-27T17:20:00Z
+    webUrl: "https://manilastandard.net/spotlight/314420667/navigating-the-impact-of-ai-in-our-daily-lives.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 39
+    images:
+      - url: "https://cdn.manilastandard.net/wp-content/uploads/2023/10/steve-johnson-_0iV9LmPDn0-unsplash-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Artificial Intelligence and Its Impact"
+    excerpt: "Artificial intelligence (AI) has emerged as one of the most disruptive forces in geoeconomics and geopolitics. Its rise to prominence began with twin breakthroughs in 2012 and 2013: the successful use of convolutional neural networks for image recognition ..."
+    publishedDateTime: 2024-02-27T21:50:00Z
+    webUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 37
+    images:
+      - url: "https://www.cfr.org/themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "How Will Artificial Intelligence Impact Jobs? A Labor Economist Weighs In"
+    excerpt: "Investing in advanced AI capabilities and complementary infrastructure can steer labor market effects in a positive direction."
+    publishedDateTime: 2024-02-27T20:32:00Z
+    webUrl: "https://www.inc.com/sania-khan/how-will-artificial-intelligence-impact-jobs-a-labor-economist-weighs-in.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 16
 
 secured: "t4CFq+FlnNldlO5ZhGaDb/Id7h+sMIkoIZtD8xxjW39POmB3xqzGkYWSQkLenl/02gOIVvY62UNbF3e/XBXfEVG7Ea60iT472a/t4CfhbDm0IDsCFQXtCwBJwkEupnSD2oHS5flLZbFYBlYYotjg/fGPMsPTs9VUL+zpdSpxBibh1H8dCf8WqyMheib7tvOKcrf6R3fNiS6Ui+JCOe0JUqr9kGbxglr9m+B/wBybo5yMtT9s8NFWttEAyW55ZB+cqBFbIuvQShSE98M1x5TVnAQWYvkXJt8NLL9gQpOS84PEOJNf26gPc8xwcUzTEfT3Muj+S4TuEQZK/945sW5SYc0hLZh73wMtDCDrNNY/RFcsKE+fvTlINxxc+8zbiWz0zL68Q7FcKJZm6hYbG1dckhIpmvT0pFWnUm7hSjdIYzgfi4/e8oatax+3aFuWjwVJ2a+1/DKjwcWBN9ADkFwn5OtYsu9twvvv1LvZ+HisMPoxFg0+qMQcKGAXvhqt7Vx89Jo5PR8ntKcnYqJggb2vUQ==;rcNv5OLw01z/JYjTl+VmbA=="
 ---

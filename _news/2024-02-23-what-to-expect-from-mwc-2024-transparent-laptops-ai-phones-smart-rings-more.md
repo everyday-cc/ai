@@ -38,6 +38,15 @@ related:
         width: 258
         height: 323
         isCached: true
+  - title: "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin"
+    excerpt: "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity."
+    publishedDateTime: 2024-02-27T19:12:00Z
+    webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 47
   - title: "Google's CEO Say AI Can Counter Cyber Threats, Even as New Tech Draws Criticism"
     excerpt: "Google's CEO Sundar Pichai spoke at the Munich Security Conference this week and addressed worries that the AI revolution could create a cybersecurity crisis. While everyone's \"right to be worried about the impact on cybersecurity,\" Pichai said he feels AI ..."
     publishedDateTime: 2024-02-23T19:15:00Z

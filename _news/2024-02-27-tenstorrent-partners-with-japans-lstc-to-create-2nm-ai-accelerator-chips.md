@@ -34,6 +34,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 71
+  - title: "Tenstorrent Scores Big Design Win With Japan’s LTSC To Enable Leading-Edge 2nm AI Accelerator"
+    excerpt: "In addition to the IP licensing part of the agreement, Tenstorrent will also collaborate with LSTC to help co-design the chip. “The joint effort by Tenstorrent and LSTC to create a chiplet-based edge AI accelerator represents a groundbreaking venture ..."
+    publishedDateTime: 2024-02-27T18:42:00Z
+    webUrl: "https://www.forbes.com/sites/marcochiappetta/2024/02/27/tenstorrent-scores-big-design-win-with-japans-ltsc-to-enable-leading-edge-2nm-ai-accelerator/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 38
 
 secured: "NqM3k6lBCG8kXcBKLX+NkrFclPahuEshPihP3fsx7twdmKP8UvMZY2N/A353V1qb6kP0B69TnWVkE3VPm1PsiSMRDz/t1eVGNClR51XHeK66PmB0KpKmw55tHI1hio/XyQ2NydoS+u/J4zJODHhPltbMDWl9sXCg8eoF3zhBL3uCP5iAw6bQ42QLgokboylAxetbr85MFAPXURgtLaDOJ9wXS5NwtCCDGdkzWQeEshpLGnfRj7rdMk7wPtQQUqm0Hf6QoX2xkQvrfuIVnkqcLtdNbw4tSeNY6knmYfBLe1ZL+oXTSfEMKtgHaCBWID/b2ToraWCK+zbo2q9DpgOvabrp+NT2TV+gu3jjQ3caKPj+HsfXqxzA9U2gAsFlWhAGU0NR4/kWhLci0w2gGgsIfqxSHxR4Uw0qYV06dRtbNqClsNgwNnJxDlwNKQ/wyI5SryZETg9mG9lozM+rafizGdrBGSSnDtCSRmHsODLmlqbdNR/2k6PNzXcXFwB8UxuMXulvUrclOjr6e3iwjEUvTQ==;do8cqQg8mqy29TPoZqDYGg=="
 ---

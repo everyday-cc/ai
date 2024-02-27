@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-28-apple-kills-its-electric-car-project.md",
+      "title": "Apple Kills Its Electric Car Project",
+      "excerpt": "The car, which Apple spent billions of dollars researching, had been intended as a rival to Tesla’s E.V.s, which include autonomous driving features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/27/multimedia/27apple-car-ltgk/27apple-car-ltgk-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T20:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-inside-the-rocky-marriage-of-hedge-funds-and-top-ai-talent.md",
+      "title": "Inside the rocky marriage of hedge funds and top AI talent",
+      "excerpt": "But it attracted top talent from tech giants like Microsoft and Uber. The AI research team operated in Seattle and was led by Li Deng, who was poached after spending 17 years at Microsoft, where he led AI research. The team won over stock-picking portfolio ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/hedge-funds-artificial-intelligence-talent-culture-clash-citadel-2024-2",
+      "originalUrl": "https://www.businessinsider.com/hedge-funds-artificial-intelligence-talent-culture-clash-citadel-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65dd05c16080194819fa500e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T20:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-humanes-wearable-ai-pin-hints-at-a-phone-free-future.md",
       "title": "Humane's Wearable AI Pin Hints At A Phone-Free Future",
       "excerpt": "Humane announced the AI Pin back in November of 2023, and it's currently available for pre-order in the US for $699 (as well as increasingly with a number of operator partners around the world). On top of this, there's a $24 monthly subscription fee to pay that covers connectivity, secure data storage and access to Humane's AI service.",
@@ -201,7 +305,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -389,6 +493,49 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-us-chipmakers-want-more-subsidies-as-ai-shapes-the-semiconductor-industry.md",
+      "title": "US Chipmakers Want More Subsidies As AI Shapes The Semiconductor Industry",
+      "excerpt": "Leading chipmakers, including Nvidia Corp and Advanced Micro Devices, Inc (NASDAQ:AMD), have earned breakthroughs in AI technology chips courtesy of the U.S. and global Big Tech companies splurging on expanding their AI moat. Analysts tout the chip ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/us-chipmakers-want-more-subsidies-as-ai-shapes-the-semiconductor-industry-1033109126",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/us-chipmakers-want-more-subsidies-as-ai-shapes-the-semiconductor-industry-1033109126",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T14:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -650,7 +797,7 @@
       "originalUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": null,
       "content": "",
@@ -737,7 +884,7 @@
       "originalUrl": "https://www.zdnet.com/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -841,7 +988,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 480,
+      "heat": 510,
       "tags": null,
       "images": [
         {
@@ -987,7 +1134,7 @@
       "originalUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1072,152 +1219,6 @@
         "Google AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-6-benefits-of-data-lineage-for-financial-services.md",
-      "title": "6 benefits of data lineage for financial services",
-      "excerpt": "How can banks, credit unions and financial advisors keep up with demanding regulations while battling budgets and employee turnover?\nThe post 6 benefits of data lineage for financial services appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/6-benefits-of-data-lineage-for-financial-services/",
-      "originalUrl": "https://www.ibm.com/blog/6-benefits-of-data-lineage-for-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T19:17:03Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-us-military-utilizes-ai-in-middle-east-operations-weve-been-using-computer-vision.md",
-      "title": "US Military Utilizes AI In Middle East Operations: 'We've Been Using Computer Vision'",
-      "excerpt": "Military confirms use of AI in airstrikes in Middle East, highlighting its growing role in combat operations & future of warfare.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/etf/us-military-utilizes-ai-in-middle-east-operations-we-ve-been-using-computer-vision-1033104022",
-      "originalUrl": "https://markets.businessinsider.com/news/etf/us-military-utilizes-ai-in-middle-east-operations-we-ve-been-using-computer-vision-1033104022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/battlefield-ai.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-techniques-and-approaches-for-monitoring-large-language-models-on-aws.md",
-      "title": "Techniques and approaches for monitoring large language models on AWS",
-      "excerpt": "Large Language Models (LLMs) have revolutionized the field of natural language processing (NLP), improving tasks such as language translation, text summarization, and sentiment analysis. However, as these models continue to grow in size and complexity, monitoring their performance and behavior has become",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/26/monitoring-llm-1119x630.jpg",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T17:59:42Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

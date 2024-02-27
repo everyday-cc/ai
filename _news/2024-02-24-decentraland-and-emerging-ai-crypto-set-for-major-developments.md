@@ -41,6 +41,20 @@ related:
         width: 1443
         height: 900
         isCached: true
+  - title: "Recent Healthcare-Related Artificial Intelligence Developments"
+    excerpt: "AI is here to stay. The development and use of artificial intelligence (“AI”) is rapidly growing in the healthcare landscape with no signs of slowing down. From a governmental perspective, many federal agencies are embracing the possibilities of AI."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/recent-healthcare-related-artificial-1356462/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.2105_3135.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "lKGJhZB3K0BWsGIuihKAsEonEs4Aag06oYRXRxjk/UDJNrm522gazFvpkrpZho0mtdpHDzFSe5JtnYdB8bQq6/RwMyLBc627hoO/ijXugk36UK451rDYuCMj6HjLwaQQP/9tgdM4W0EbpY87Hsh8sXAjRV9+KqApK9pQXQqIJxBhfXxZBu1KUpy6tSJpfOQkRtucSCTiDugTq5iSaVgzjA13onXo6mqAxXd99Un9avchss5Hxb4SxyFOQVPYoF9k+1azhwC+WVqADrRqz7E86nHlWcz4v4nxlt0hKHYcaYjazkBlMgR30048PIUC+Zlpojck2I7H9BPsq9lUebqo1KIaAadJJEII0129TxgkzVIUADvEJ0mBCNsh+iyU17ofuAeS/T4kmY1yAtCN149NURjNAsot2+GIKiiNCw2J6PbE/YyDBVO1j0XfC6bdxhKkBF0uDk5gMJYwr7tc4+C8D8nV+5UYG8n2oWWq0owbRpAyAbh2wfhAIrnh9zVt9mXWbZetsLWlukRNqOtiGxh+7g==;pJt14BCMvxgsYIxeBGcnAg=="
 ---

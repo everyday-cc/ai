@@ -319,6 +319,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
+  - title: "You Can Now Replace Google Assistant With Microsoft’s Copilot AI"
+    excerpt: "A few weeks ago, Google rebranded its AI platform Bard, which is now known as Gemini. Aside from some additional service options, like Gemini Advanced, the company also casually announced that you can now replace Google Assistant on your Android with Gemini."
+    publishedDateTime: 2024-02-27T22:31:00Z
+    webUrl: "https://www.lifehacker.com.au/2024/02/you-can-now-replace-google-assistant-with-microsofts-copilot-ai/"
+    type: article
+    provider:
+      name: Lifehacker Australia
+      domain: lifehacker.com.au
+    quality: 56
+    images:
+      - url: "https://www.lifehacker.com.au/wp-content/uploads/2024/02/hero-image_961bb2.jpg?quality=75&w=640&h=360&crop=1"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Microsoft Pledges Regulatory Respect with 11 AI Access Principles"
     excerpt: "Also, it announced on Monday that it was newly partnering with France-based Mistral AI. Microsoft is offering its Azure AI infrastructure and supercomputing capabilities for use with Mistral's next-generation large language models. Microsoft's 11 AI Access ..."
     publishedDateTime: 2024-02-25T23:59:00Z
@@ -374,6 +388,20 @@ related:
       - url: "https://thepeninsulaqatar.com/get/maximage/20240226_1708970117-283.jpg?1708970117"
         width: 1024
         height: 575
+        isCached: true
+  - title: "Microsoft Partners with Startup Mistral AI to Advance Next-Gen LLMs"
+    excerpt: "Microsoft has entered into a multi-year partnership with French AI startup Mistral AI to advance the development and deployment of next-gen LLMs. The collaboration marks a milestone on the road to bridging the gap between cutting-edge research and tangible,"
+    publishedDateTime: 2024-02-27T21:37:00Z
+    webUrl: "https://campustechnology.com/Articles/2024/02/27/Microsoft-Partners-with-Startup-Mistral-AI-to-Advance-Next-Gen-LLMs.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 54
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2024/02/20240227aipartners.jpg"
+        width: 644
+        height: 368
         isCached: true
   - title: "MWC: Long-lost Metaswitch team at Microsoft, taps AI for call fraud protection"
     excerpt: "Microsoft announced a product that stems from its investment in Metaswitch. The UAE operator e& (formerly known as Etisalat) is now using Microsoft&nbsp | Jason Zander, EVP of strategic missions and tech at Microsoft,"
@@ -513,6 +541,15 @@ related:
       name: Telefonica
       domain: telefonica.com
     quality: 32
+  - title: "Microsoft Exec Offers Tips For MSPs Building Azure Virtual Desktop Practices"
+    excerpt: "45 percent of all IT spend will be on cloud by 2026. 71 percent of companies say they already use AI. The Azure presence is bigger than every other public data center combined: “You take all of Google’s data centers, all of Amazon’s data centers ..."
+    publishedDateTime: 2024-02-27T18:15:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/microsoft-avd-w365-vp-azure-stack-hci-changed-the-market"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 31
   - title: "FWD Group Partners with Microsoft to Shape the Future of AI-driven Insurance Experiences"
     excerpt: "FWD Group Holdings Limited today announced it is extending its partnership with Microsoft with a four-year agreement to provide access to the latest generative artificial intelligence (AI) innovations while continuing to support FWD’s cloud-first technology strategy."
     publishedDateTime: 2024-02-26T14:11:00Z

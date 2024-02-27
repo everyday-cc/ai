@@ -89,19 +89,21 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "'Facial recognition' error message on vending machine sparks concern at University of Waterloo"
-    excerpt: "A set of smart vending machines at the University of Waterloo is expected to be removed from campus after students raised privacy concerns about their software."
-    publishedDateTime: 2024-02-22T22:05:00Z
-    webUrl: "https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835"
+  - title: "Ontario university to remove vending machines due to facial recognition technology concerns"
+    excerpt: "A southwestern Ontario university says it will be getting rid of more than two dozen vending machines after students raised concerns about facial recognition technology. The University of Waterloo says it began looking into the issue after seeing students ..."
+    publishedDateTime: 2024-02-27T16:19:00Z
+    webUrl: "https://globalnews.ca/news/10321252/vending-machines-facial-recognition-technology-ontario-waterloo/"
+    ampWebUrl: "https://globalnews.ca/news/10321252/vending-machines-facial-recognition-technology-ontario-waterloo/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10321252/vending-machines-facial-recognition-technology-ontario-waterloo/amp/"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 29
+      name: Global News
+      domain: globalnews.ca
+    quality: 49
     images:
-      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/2/22/vending-machine-facial-recognition-1-6779840-1708642383265.jpg"
-        width: 1020
-        height: 574
+      - url: "https://globalnews.ca/wp-content/uploads/2024/02/20240227150220-65de4451cf8eb72713cd07a5jpeg.jpg?quality=85&#038;strip=all"
+        width: 1024
+        height: 683
         isCached: true
   - title: "A Vending Machine in A Canada-based University Was Secretly Stealing Student’s Facial Recognition Data"
     excerpt: "Students of the Canada-based University of Waterloo were outraged after they found that the vending machines in their university were secretly stealing their facial recognition data. The incident came to light when a student from the university ..."

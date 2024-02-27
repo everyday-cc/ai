@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Crafting Cutting-Edge AI Assistants with Ubuntu"
+    excerpt: "With the environment set up, developers can start coding their AI assistant. This includes writing scripts for natural language processing, integrating APIs for added functionalities, and implementing algorithms that allow the assistant to learn from ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.linuxjournal.com/content/crafting-cutting-edge-ai-assistants-ubuntu"
+    type: article
+    provider:
+      name: Linux Journal
+      domain: linuxjournal.com
+    quality: 19
   - title: "Kickstart: A composites moon"
     excerpt: "Composites have made it to the moon. While composites, plastic and rubber were a part of NASA Apollo lunar landers and equipment in the 1960s and 1970s, the Nova-C lunar lander from Intuitive Machines, nicknamed Odysseus, highlighted their use as it made a \"soft landing\" near the lunar South Pole on Feb. 22."
     publishedDateTime: 2024-02-26T11:45:00Z

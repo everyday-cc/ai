@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Hammerspace-Debuts-New
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Hammerspace-Debuts-New-Architecture-Category-for-Meeting-AI-and-ML-Compute-Needs-at-Scale-162717.aspx"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hammerspace Introduces Hyperscale NAS For AI & HPC"
-    excerpt: "Hammerspace unveiled its new high-performance NAS architecture, Hyperscale NAS, to cater to the growing demands of enterprise AI, machine learning, deep learning initiatives, and the increasing use of GPU computing both on-premises and in the cloud."
-    publishedDateTime: 2024-02-22T22:47:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d805bc11a4068e97b82a16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1049
-        height: 699
-        isCached: true
   - title: "Hammerspace Hyperscale NAS Targets Fast File Services For AI On GPU Servers"
     excerpt: "“It is the best architecture for general AI training, GPU computing, and other forms of unstructured data process.” There is a broad-based adoption of different forms of GPU processing going ..."
     publishedDateTime: 2024-02-23T21:00:00Z

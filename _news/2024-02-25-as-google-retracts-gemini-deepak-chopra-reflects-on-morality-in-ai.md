@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retract
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://img.dunyanews.tv/news/2024/February/02-26-24/news_big_images/794305_13019390.jpg"
         width: 752
         height: 423
-        isCached: true
-  - title: "Google Announces Gemma: A New Family of Open AI Models Inspired by Gemini"
-    excerpt: "Google is excited to introduce Gemma, a new generation of open models to assist developers and researchers in building AI responsibly."
-    publishedDateTime: 2024-02-22T21:27:00Z
-    webUrl: "https://www.datanami.com/this-just-in/google-announces-gemma-a-new-family-of-open-ai-models-inspired-by-gemini/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 40
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-        width: 2560
-        height: 1336
         isCached: true
   - title: "Google’s AI Chatbot Gemini Faces IT Ministry’s Ire Over Responses On PM Modi"
     excerpt: "The Rule 3(1)(b) of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules ... came days after Chandrasekhar said that draft laws to regulate the AI space would be brought out by June or July this year."

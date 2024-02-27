@@ -34,6 +34,36 @@ related:
         width: 1201
         height: 900
         isCached: true
+  - title: "Infor Nexus Is Taking An Interesting Approach To Generative AI"
+    excerpt: "ChatGPT has generated a blizzard of publicity. But the use cases for generative AI in business software applications have been disappointing. Infor Nexus is an exception."
+    publishedDateTime: 2024-02-27T20:21:00Z
+    webUrl: "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65de51100005a30e849a28e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 396
+        height: 350
+        isCached: true
+  - title: "AMA Report Outlines Considerations for AI Integration in Healthcare"
+    excerpt: "The Emerging Landscape of Augmented Intelligence in Health Care” report provides an overview of risks and opportunities for clinicians looking to adopt AI."
+    publishedDateTime: 2024-02-27T21:22:00Z
+    webUrl: "https://healthitanalytics.com/news/ama-report-outlines-considerations-for-ai-integration-in-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Executive interview: David Wong, Thomson Reuters"
     excerpt: "According to Wong, AI – and more specifically generative AI (GenAI) and natural language processing – has been a core competency within Thomson Reuters. Recalling the evolution of GenAI, he says: “It is an interesting story. If we play the tape back ..."
     publishedDateTime: 2024-02-27T14:55:00Z

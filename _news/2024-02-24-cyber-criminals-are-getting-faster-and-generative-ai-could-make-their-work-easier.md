@@ -34,6 +34,15 @@ related:
         width: 258
         height: 323
         isCached: true
+  - title: "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin"
+    excerpt: "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity."
+    publishedDateTime: 2024-02-27T19:12:00Z
+    webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 47
   - title: "What to expect from MWC 2024: Transparent laptops, AI phones, smart rings, more"
     excerpt: "Some of the best mobile technology companies will converge at the Fira de Barcelona next week for MWC 2024. Here's what to watch for."
     publishedDateTime: 2024-02-23T10:43:00Z

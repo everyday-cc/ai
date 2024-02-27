@@ -255,6 +255,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why do Nvidia’s chips dominate the AI market?"
+    excerpt: "But even building better hardware may not be enough. Nvidia dominates AI chipmaking because it offers the best chips, the best networking kit and the best software. Any competitor hoping to displace the semiconductor behemoth will need to beat it in all three areas. That will be a tall order. ■"
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?ref=upstract.com"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 54
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240302_BLP506.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Chip maker Nvidia hits $2 trillion valuation amid unstoppable demand for AI chips"
     excerpt: "AI requires significant processing power, creating huge opportunities for companies that make computer chips, especially graphics processing units (GPUs). The company's revenues have increased more than two-fold in the last year as it won new contracts ..."
     publishedDateTime: 2024-02-23T16:00:00Z

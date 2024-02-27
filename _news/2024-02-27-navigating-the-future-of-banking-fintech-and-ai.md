@@ -25,69 +25,83 @@ images:
     isCached: true
 
 related:
-  - title: "This fintech startup is targeting a gap in lending as banks tighten credit"
-    excerpt: "“Just because the loans are smaller doesn’t mean they’re not good.” Nvidia earnings send stock rocketing as company cheers AI ‘tipping point’ Nvidia makes Wall Street history as stock surge adds $277 billion in market cap Super Micro’s stock ..."
-    publishedDateTime: 2024-02-22T22:27:00Z
-    webUrl: "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
+  - title: "Navigating The AI Paradigm Shift In Business"
+    excerpt: "AI can help business leaders make successful decisions, add sustainable strategies to their business operations, and help them adapt to ever-changing markets."
+    publishedDateTime: 2024-02-25T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/rhettpower/2024/02/25/navigating-the-ai-paradigm-shift-in-business/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://images.mktw.net/im-26691341/social"
-        width: 1280
-        height: 640
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d918195ce4dc7116060068/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "5 fintech predictions for 2024: A light at the end of the tunnel"
-    excerpt: "2024 feels a lot better than 2023. While there are still some significant macroeconomic and geopolitical headwinds, the dog days of 2023 are behind us and there is some light at the end of the tunnel."
-    publishedDateTime: 2024-02-27T10:28:00Z
-    webUrl: "https://www.finextra.com/the-long-read/956/5-fintech-predictions-for-2024-a-light-at-the-end-of-the-tunnel"
+  - title: "Understanding the Hurdles – Why Companies Aren’t Ready for Full AI Integration in Business"
+    excerpt: "AI (artificial intelligence) is the topic that has got the attention of not only tech enthusiasts but also the general public since last year."
+    publishedDateTime: 2024-02-24T04:41:00Z
+    webUrl: "https://dailyhodl.com/2024/02/23/understanding-the-hurdles-why-companies-arent-ready-for-full-ai-integration-in-business/"
+    ampWebUrl: "https://dailyhodl.com/2024/02/23/understanding-the-hurdles-why-companies-arent-ready-for-full-ai-integration-in-business/amp/"
+    cdnAmpWebUrl: "https://dailyhodl-com.cdn.ampproject.org/c/s/dailyhodl.com/2024/02/23/understanding-the-hurdles-why-companies-arent-ready-for-full-ai-integration-in-business/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: The Daily Hodl
+      domain: dailyhodl.com
+    quality: 49
     images:
-      - url: "https://www.finextra.com/finextra-images/oped/956.jpg"
-        width: 799
-        height: 449
+      - url: "https://dailyhodl.com/wp-content/uploads/2023/11/AI-Focused-Altcoin.jpg"
+        width: 1366
+        height: 800
         isCached: true
-  - title: "More Than Half the Fintech Industry Seeing Growth from Strong Consumer Demand"
-    excerpt: "Fintech industry resilience during the pandemic has been underscored by a sustained interest in digital financial services."
-    publishedDateTime: 2024-02-26T10:31:00Z
-    webUrl: "https://fintechnews.sg/87888/studies/more-than-half-the-fintech-industry-seeing-growth-from-strong-consumer-demand/"
+  - title: "Dissecting the AI boom through the dotcom lens"
+    excerpt: "The Web was funded by telco CAPEX as hyperscalers are funding the AI buildout. But there was no internet or cloud at the time, so this time the pace is accelerated. Picks and shovels are highly valued at the start The core infrastructure – so-called ..."
+    publishedDateTime: 2024-02-24T16:19:00Z
+    webUrl: "https://siliconangle.com/2024/02/24/dissecting-ai-boom-dotcom-lens/"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 21
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/The-Fintech-Industry-is-Resiliently-Looking-Ahead-to-Shape-Inclusive-Finance.jpg"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/AI-dotcom.jpeg"
         width: 1024
-        height: 567
+        height: 1024
         isCached: true
-  - title: "India’s Fintech M&A Count Hits 30 in 2023, Lending Sector Tops List"
-    excerpt: "Lending Fintech companies accounted for 30% of all Fintech acquisitions in India in 2023, highlighting a shift in market dynamics amid growing regulatory"
-    publishedDateTime: 2024-02-24T18:10:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221865-indias-fintech-ma-count-hits-30-in-2023-lending-sector-tops-list/"
+  - title: "Businesses still at the starting line in AI race"
+    excerpt: "We are starting to see tangible returns from early corporate AI deployments, but there is still room for much more ambition and evolved use in the years ahead, experts say."
+    publishedDateTime: 2024-02-25T18:01:00Z
+    webUrl: "https://www.afr.com/technology/businesses-still-at-the-starting-line-in-ai-race-20240217-p5f5qw"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 4
-  - title: "Investment in fintech anticipated to have a soft start in 2024"
-    excerpt: "Given the ongoing regulatory changes and ambitious net zero commitments displayed by governments and businesses, it is likely that ESG-focused fintech solutions will chart an upward trend heading into 2024. Moreover, investor interest in AI continued to ..."
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.3288%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_13%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/375cfac4277f93eed70486aa2d63a7412aeb22c2"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Where AI shines in healthcare"
+    excerpt: "Several major health systems have added AI-assisted colonoscopy devices, such as Iterative Health's Skout and Medtronic's GI Genius, in the last two years. Computer-assisted colonoscopy methods could lead to a 55% decrease in the miss rate of adenomas."
+    publishedDateTime: 2024-02-27T20:38:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/where-ai-shines-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 34
+  - title: "How small businesses in The Woodlands can harness AI to save time, boost productivity"
+    excerpt: "But you can't use AI unchecked. Using artificial intelligence without being responsible or having human oversight can lead to privacy breaches, ethics concerns and poorer results on Google searches, Banks said. \"There are many companies that have ..."
     publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/investment-in-fintech-anticipated-to-have-a-soft-start-in-2024-jyawstbu"
+    webUrl: "https://www.houstonchronicle.com/neighborhood/woodlands/article/small-businesses-woodlands-artificial-intelligence-18677661.php"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 4
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 12
 
-secured: "dJc48Ydbl23+JYDDfhtEAO8RtnnGsd2BDIQ00IiRVPrP5zIx9IJMZsLGgrMHiyzTIu9ODjQUJLivHTegU2p57E9UXVeIxY/GP1Q04UZugQj8/OSy4fSCyqqUxCOgIeiFu1e6MGQkJK1iwNdA2NgukbdCMWECjgNB65VJPJIi79HCsoJ5kSKNaQX7QqGgQbzjR/6RK9jZXKBIMsrnowMrPOw3tq/b0PB1M+qXdhA2wqhgd0CjnPGNYkaADFZmAf9syE4MuqDOdzx+/zzWcCQ8SYcsn/xUp8WpCN5XnlUG0PegFdO1/ZLPT250/+b1mNg0Mr/IoYXZvp01Rz6nb8t0haT8xvdTT6B4cZNrO0JUXdk=;p/jC1g+tSpxfASrHkZMU0Q=="
+secured: "qv/EE3OG+Zwd9YObV7EFMGJaTBZninOGIgs5qswNn3awh26jgbFf0WZYn7xDMw5MGLbjjhw3WKVGX8QuoiUIUMIm/B4YymI2hG4WfkA6tn4Lcx41QSq2yKnyiNZ+f4iO/dq2A268v2HPSnswCNDXv3RJwOPfnEZ+o7NL0Iu9t9EkPDFJNba6h3qwvV03aHEZZAAFr0mNf9vaWS4spMMqeCyLgeJhaYOoD++qNvAM9peQSiZM3wVaa/Y9XscuOwttFs9tzgQeNTjxO9ugI+E79WA/O5UL731tkDPj9TzTYN+OFixBZHOhu3BzEEk0ByGHvBXzF5vajdm92cOHHPzyWmTLgQNPMXQupW9WGbn+2LkT+MCmBQbT7OH1wfvm0k3ii1dFx7KSHfFNSZtGEEpJ7dqGJKoWvbivOJWcMtDWECivGhXRFjpvg4nhuaS/tST9YXMBnmR6QTeMha/pfmWFQk3LjW9cEubO+5Asa5r+lakKCanLHDt926fOJBs5bfxTvg9NSn+foeld6bUdO6iHZw==;MuXLClhMCHpT6i7Es8T2RA=="
 ---
 

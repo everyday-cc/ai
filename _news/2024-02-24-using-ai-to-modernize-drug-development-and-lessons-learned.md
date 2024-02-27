@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-mode
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Recent Healthcare-Related Artificial Intelligence Developments"
+    excerpt: "AI is here to stay. The development and use of artificial intelligence (“AI”) is rapidly growing in the healthcare landscape with no signs of slowing down. From a governmental perspective, many federal agencies are embracing the possibilities of AI."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/recent-healthcare-related-artificial-1356462/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.2105_3135.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Decentraland and Emerging AI Crypto Set for Major Developments"
     excerpt: "Decentraland (MANA) is working to improve its performance due to its difficulties and restrictions last year. Its development path has … Continue reading"
     publishedDateTime: 2024-02-23T18:00:00Z

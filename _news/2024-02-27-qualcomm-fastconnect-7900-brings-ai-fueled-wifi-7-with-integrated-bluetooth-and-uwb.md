@@ -82,13 +82,13 @@ related:
       domain: siliconangle.com
     quality: 34
   - title: "Geotab Brings Conversational AI to Connected Transportation Solutions at Mobile World Congress"
-    excerpt: "CNW/ - Geotab Inc. (\"Geotab\"), a leading connected vehicle technology provider, will demonstrate its industry-first generative AI assistant for"
-    publishedDateTime: 2024-02-27T18:51:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/geotab-brings-conversational-ai-to-connected-transportation-solutions-at-mobile-world-congress-302073127.html"
+    excerpt: "CNW/ - Geotab Inc. (\"Geotab\"), a leading connected vehicle technology provider, will demonstrate its industry-first generative AI assistant for connected transportation, Geotab Ace, at Mobile World Congress."
+    publishedDateTime: 2024-02-27T19:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-geotab-brings-conversational-ai-connected-transportation-solutions-mobile-/2024/02/27/9969165.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: TMCnet
+      domain: tmcnet.com
     quality: 7
 
 secured: "RhCENyX65skynXYSPy+dtwIu85m7DyytYdeuCSzvU7Frpun857Mj59DzxJeHcBnagd+FFTX1uZZeACeK6z+RVUs5cy1114ocXkSOV5cOT6HSn/fiCckysD5ld96C0ICAIGunOb7aZmwu8zVQeatSqB56+FeCrN4u7LG1Coe4nRfEvWAhURBqjV+A68iNqZ2VaBT59VC/wdU0G0Kghf5WAEjbxpqrtUE2yxP+W5Bin8TbzcNeCvv6DRryEHtoVNvzbc+W5+a5DE7CQBNWPCpoFgSN+5ijQrJh/KFHcJiR/7/lGYdRj0z39JWVj8bJVeRbmJrlrj+ovtxNsd/zJZmyPGYM16d114EcLg1hm0pTOcw8qErm2ICeu15QXf0UTiK0/LpGPzWl7XbK3//AnTGA1kwVD3eXWgRUbogayCnVInM9m38a5SDbtGraABpKvSx5/sYvgvNSVUgi7dXpkpUC8ccbwmZ/+3FCwqwtV1cMvxYTU9bR0XcvLz1FT793WFqF3d4IKSaWRyVhb+FgANdehw==;25ek8GWnO0M/gymS2vlmMw=="

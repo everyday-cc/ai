@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/currencies/ftx-estate-can
 webUrl: "https://markets.businessinsider.com/news/currencies/ftx-estate-can-sell-near-8-stake-in-ai-startup-anthropic-court-rules-1033096010"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Crypto exchange FTX to sell shares in AI startup Anthropic"
-    excerpt: "NEW YORK, Feb 22 (Reuters) - Bankrupt crypto exchange FTX may sell its shares in artificial intelligence startup Anthropic ... \"Given the increased interest in AI and large language models ..."
-    publishedDateTime: 2024-02-22T20:14:00Z
-    webUrl: "https://www.reuters.com/technology/crypto-exchange-ftx-sell-shares-ai-startup-anthropic-2024-02-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "FTX Gets Bankruptcy Court Approval to Sell Shares in AI Startup Anthropic"
     excerpt: "Authorization for the sale enables the bankrupt crypto exchange to unload its stake at “the most optimal and appropriate time” given the increased interest in artificial intelligence."
     publishedDateTime: 2024-02-23T16:57:00Z
@@ -54,29 +45,6 @@ related:
         width: 1200
         height: 686
         isCached: true
-  - title: "AI Crypto Tokens in 5 Minutes: What to Know and Where to Start"
-    excerpt: "With the release of NVIDIA's eye-popping Q4 earnings, AI crypto values had a big day. What are AI crypto coins? Start here for a quick introduction."
-    publishedDateTime: 2024-02-23T21:24:00Z
-    webUrl: "https://www.inc.com/ai-crypto-coins-tokens-surge.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1633746142_537786_bekkkt.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Inside the funding frenzy at Anthropic, one of AI’s hottest startups"
-    excerpt: "Other AI startups, including OpenAI ... OpenAI garnered $1 billion from Microsoft and spent most of the money buying computing power through Microsoft’s Azure cloud service. Microsoft has since poured an additional $12 billion into the company, and ..."
-    publishedDateTime: 2024-02-26T06:00:00Z
-    webUrl: "https://www.seattletimes.com/business/inside-the-funding-frenzy-at-anthropic-one-of-ais-hottest-startups/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
 
 secured: "HZeL7fGm1GzwxbyKE7nK/B/Qvmk5fDval4I6Z8Wpga8JspH1Wh1k7ajBjkNLFwtQx1yJr8e+zZQYZL6Q2l6xRkpjYWbfhDmLZsuhqVEmWpqtIne+OinLRWYwZ21BfgoUSg13qeMzJvzT/iJP1XYcUsm0Wciu7bs8IPhJdaeePgfTGsVJkLhvJx6zCvQn1nAGZUpQe4+OGlPLRUzQdbIn5HZj5Jz7isyasCTYhpOGyX9NhbSV4r0KY59K1ea79IFIOCLbyddWcLBGPy9HbxTdAOHxhivLGOHbRWQocc75g4aLM8hbdCMeeuFXfxfS47QAtg3K98xonZKaVi+CEAbUF6WfpK/vpmP+jvpigXUQD6w=;iaY6DLQw+S4E09VX4CY7xA=="
 ---

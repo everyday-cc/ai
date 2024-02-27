@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Geotab Brings Conversational AI to Connected Transportation Solutions at Mobile World Congress"
-excerpt: "CNW/ - Geotab Inc. (\"Geotab\"), a leading connected vehicle technology provider, will demonstrate its industry-first generative AI assistant for"
-publishedDateTime: 2024-02-27T18:51:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/geotab-brings-conversational-ai-to-connected-transportation-solutions-at-mobile-world-congress-302073127.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/geotab-brings-conversational-ai-to-connected-transportation-solutions-at-mobile-world-congress-302073127.html"
+excerpt: "CNW/ - Geotab Inc. (\"Geotab\"), a leading connected vehicle technology provider, will demonstrate its industry-first generative AI assistant for connected transportation, Geotab Ace, at Mobile World Congress."
+publishedDateTime: 2024-02-27T19:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-geotab-brings-conversational-ai-connected-transportation-solutions-mobile-/2024/02/27/9969165.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-geotab-brings-conversational-ai-connected-transportation-solutions-mobile-/2024/02/27/9969165.htm"
 type: article
 quality: 7
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -86,6 +86,6 @@ related:
       domain: siliconangle.com
     quality: 34
 
-secured: "xGs2R5sVMIulvdkSBK9H55ptUrqLbeurAlICdBDNRmU2iLIBYsw2LrcQXUb18HDoh3rQv13vcAe9s1IxKl29ds6JciL+Dduv85DfGOzs0KvXIRSISW1eXnbtoG6jJ2rujSMXEdRTChozRbFbVdwVcoCU6zlUOteHGll+5dKqOU4rHyn6pJOsqfWZKrQ1esxak4vue74JNEERe16a1W5Sodmx1YhCFhxRsyFfl7aLirsMUw17Gkyk38XYlh6Eu+qDDFlFO6kmc/EBVWFPHX5wOzjV0loES+Fl6AJ4tSJ6vUp6pyq467PAm77ZPAEcz6DtmEZ5b1ATB1nnuvDc8klm6vKgTtSqg5aOQTWeo7sFWE8=;Wm/tkcUkUAty0eSqZOgCZQ=="
+secured: "2jX9s79GyQis0n3X3V6QbcX3x9y1owuLmRqUbAj40txpgldSByKY34Wtn/PFXPQdgcY76SPlV410GFHfnrgfPAwRi5JTtxiqRRLX4KziKjRIf4fiZPTjGw1E1dgj9CeOlF/UurYka6xtQYWWkV9jGKmYJjNT7BrvDe7ybu5zgpwdeG6FPCNMzn2uyKykQ+lj63VLlMAaC2LahVprHs9P+fToJHkEDg7PLrXW+qsXvkmsU8pG4B2NrhnkIiDUhwVTHJHL7VJzuoDvAtigaGhJeNSHUkZIiD3erlNl12QkLYuvcCqvvsqD3Gkr8L/SVclhmzaz/8UitAak9k8lp5nKEeewZt39J8IRlIhqAuMR/pk=;WWoqJ+KHNxGmoNUPGVS1tQ=="
 ---
 

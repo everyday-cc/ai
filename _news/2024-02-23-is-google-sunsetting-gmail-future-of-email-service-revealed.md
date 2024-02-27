@@ -7,7 +7,7 @@ originalUrl: "https://tech.co/news/is-google-sunsetting-gmail"
 webUrl: "https://tech.co/news/is-google-sunsetting-gmail"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1920
     height: 960
     isCached: true
-
-related:
-  - title: "Google is killing Gmail’s basic HTML view in 2024"
-    excerpt: "Google is currently focusing on infusing AI-powered features into its products, including Gmail. Last month, the company launched a Duet AI feature to help users write emails. Last week, it allowed the Bard chatbot to integrate with Google accounts so you ..."
-    publishedDateTime: 2024-02-22T19:20:00Z
-    webUrl: "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/"
-    ampWebUrl: "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "9/dPQ3RGyWksAXkkI5PMFvVcM0HajTOQaV+gHR1l6h9HkVXbDJ8eo+O3RFDLl6FaoFM9+aYHylLHwdPg/ZpIatdhg+lVNtWOFuh8aGqf/AejkPcY/sILEURvRWCvwXT1ZmMHCITh2me4ubLiNSqkt+oJdEQ7ihIS4jSUppegBgsT6W368vYT2Ssor2UnE7pTGL9vS1ivzf+rcDIjCDEVqvxo95pu+Odg4e2tAfbH+R2uoexIV6TxOvE+KzKobm8mbBb8G/fvZzT54GfK27wkTTk6vxYIN30zbwtqGMNF89hcChTGqTINC/5iO+bYU7cPKnu0kZpQp8GR9ypYMaRB1woV3iL8zhTF/6xdVH/AT6Y=;eoy2q9Ri0X05lE9sp7IpCQ=="
 ---

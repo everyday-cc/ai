@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-08-ai-can-help-combat-health-misinformation-white-house-cancer-research-head-says.md",
+      "title": "AI can help combat health misinformation, White House cancer research head says",
+      "excerpt": "The head of the White House cancer moonshot initiative said artificial intelligence can be used to help combat health misinformation. In a conversation with The Hill’s Bob Cusack on Thursday ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/4348760-ai-combat-health-misinformation-white-house-cancer-research-head-says/",
+      "originalUrl": "https://thehill.com/homenews/administration/4348760-ai-combat-health-misinformation-white-house-cancer-research-head-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T22:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-llama-power-tiny-llama-nanobodies-neutralize-different-noroviruses-can-they-improve-human-anti-viral-therapies.md",
       "title": "Llama power: Tiny llama nanobodies neutralize different noroviruses. Can they improve human anti-viral therapies?",
       "excerpt": "Llama nanobodies may give an upper hand Llamas and related animals such as camels and alpacas, produce antibodies for protection against disease just like people do. However, compared to people ...",

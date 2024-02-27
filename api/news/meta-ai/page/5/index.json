@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-22-chp-catches-llama-trotting-across-i-80s-snowy-donner-summit-was-he-looking-for-santa.md",
+      "title": "CHP catches llama trotting across I-80’s snowy Donner Summit. Was he ‘looking for Santa’?",
+      "excerpt": "The twists in this llama drama finished with a merry ending this holiday season. A llama — exuding festive cheer with a red harness — broke free from his owner’s home and began trotting acro ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sacbee.com/news/local/article283436028.html",
+      "originalUrl": "https://www.sacbee.com/news/local/article283436028.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.sacbee.com/news/local/article283436028.html",
+      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/local/article283436028.html",
+      "publishedDateTime": "2023-12-22T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-2-artificial-intelligence-ai-stocks-that-could-go-parabolic.md",
       "title": "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic",
       "excerpt": "in-depth research, investing resources, and more. Learn More These two companies are on track to take advantage of two huge growth opportunities within the AI niche that could send their share ...",
@@ -1362,40 +1396,6 @@
       "provider": {
         "name": "technologynetworks",
         "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-ai-can-help-combat-health-misinformation-white-house-cancer-research-head-says.md",
-      "title": "AI can help combat health misinformation, White House cancer research head says",
-      "excerpt": "The head of the White House cancer moonshot initiative said artificial intelligence can be used to help combat health misinformation. In a conversation with The Hill’s Bob Cusack on Thursday ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/4348760-ai-combat-health-misinformation-white-house-cancer-research-head-says/",
-      "originalUrl": "https://thehill.com/homenews/administration/4348760-ai-combat-health-misinformation-white-house-cancer-research-head-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T22:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
         "images": null,
         "publishers": null,
         "authors": null

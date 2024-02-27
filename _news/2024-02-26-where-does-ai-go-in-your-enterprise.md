@@ -77,20 +77,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "5 Interesting AI Use Cases In the Legal Industry"
-    excerpt: "“You [can] provide some inputs [like] the case protocol, the complaint, something to that effect,” into the generative AI tool and “start interviewing your corpus of of documents… it’s more than just a chatbot.” Once the “hot documents” are ..."
-    publishedDateTime: 2024-02-22T22:01:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/02/22/5-interesting-real-life-use-cases-for-ai-in-the-legal-industry/"
+  - title: "AI-powered enterprise search startup Glean raises $200M+ at $2.2B valuation"
+    excerpt: "Glean Technologies Inc., the developer of a conversational search platform for enterprises, has raised more than $200 million in a Series D round that values it at $2.2 billion."
+    publishedDateTime: 2024-02-27T19:17:00Z
+    webUrl: "https://siliconangle.com/2024/02/27/ai-powered-enterprise-search-startup-glean-raises-200m-2-2b-valuation/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/legal-tech-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
 
 secured: "hgDuWFXC/p6vBpThRd9J1iVtjJeqBEJU7A9sUMc1iganXmaM8Epcgdpq67WrlL/9NrY5soBH+e+PAv6zhQInYUs4pl+OtKXETrO7a8Sx0IOkqoWz1mxXMtzw3cuhY0Wx1YVOpwFqeDGQ/vchkQ5qQc/gRufTkuPxCQeIu/FQJOAuSGtFbAgOX/YDu7lXd9YxJbXRs16kUXOOiKhNalLmI9InBpfxN6zdw6CnCv+axfJNQPYZX8iCO9R/bGAQOG1WkbsuSSnohmHd2CPboDkkuuwE4M4Z35aqcW/zzAoFQV5qSOtVZETB+4zZK8AznAVPZhS6PyuCIwQQ7X7kltfd++/aKHO98eqBtD0HWXUC6/CqF3lW9/ljj1ewLcYkXzB6T41Ms15EUrX+q1s27XUb/KAvJ2Ua5iDWO2SHvWCkdvJKVPtSk8JKBLKFAy4x9aoN+fapfZpAKpcSUxZIoYHJ+ZaDEg0UZOfaSS9O922LttZ3WqcagiJyrDJDR6DgiFmnM/5u5saDRricdC2ikeBx5w==;cwKljH0/gQm/U+X1o0dBTg=="
 ---

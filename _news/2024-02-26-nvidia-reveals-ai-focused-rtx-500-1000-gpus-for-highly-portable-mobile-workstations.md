@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia AI GPU buyers are selling surplus hardware as supply constraints ease"
+    excerpt: "Late last year, Amazon rolled out shorter-term GPU rentals for clients that only need AI processing for a single job. Storing hardware is also costly, especially if it isn't being put to use. Rather than sit on it and wait around for it to become obsolete ..."
+    publishedDateTime: 2024-02-27T14:36:00Z
+    webUrl: "https://www.techspot.com/news/102049-nvidia-ai-gpu-buyers-selling-surplus-hardware-supply.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 63
   - title: "Micron announces HBM3e memory enters volume production, ready for NVIDIA's new H200 AI GPU"
     excerpt: "Micron has just announced it has started volume production of its bleeding-edge HBM3e memory, with the company's HBM3e known good stack dies (KGSDs) shipping as part of NVIDIA's upcoming H200 AI GPU. NVIDIA's new beefed-up H200 AI GPU will feature up to ..."
     publishedDateTime: 2024-02-26T10:31:00Z
@@ -75,15 +84,6 @@ related:
         width: 5760
         height: 3240
         isCached: true
-  - title: "Nvidia ramps up GPU production to fuel AI data center revolution"
-    excerpt: "The chipmaker expects demand to outpace supply through the year. “We’ll do our best,” CEO Jensen Huang said Wednesday."
-    publishedDateTime: 2024-02-22T23:01:00Z
-    webUrl: "https://www.ciodive.com/news/nvidia-gpu-data-center-revolution-jensen-huang/708273/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 34
   - title: "HP’s AI-enhanced Spectre laptops set to transform user experiences"
     excerpt: "HP recently launched its range of AI-enhanced Spectre x360 laptops, built with smart features that elevate performance, collaboration, and security. These AI PCs will change the role of a personal computer by simplifying tasks and enhancing usability for various aspects of life."
     publishedDateTime: 2024-02-27T14:05:00Z

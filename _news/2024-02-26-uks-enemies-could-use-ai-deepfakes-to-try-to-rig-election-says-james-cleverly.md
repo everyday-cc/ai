@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2024/feb/25/uks-enemies-could-us
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2024/feb/25/uks-enemies-could-use-ai-deepfakes-to-try-to-rig-election-says-james-cleverly"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "AI deepfakes come of age as billions prepare to vote in a bumper year of elections"
-    excerpt: "Governments and tech companies are locked in debate over how best to police an information ecosystem that is at serious risk of disruption"
-    publishedDateTime: 2024-02-22T23:00:00Z
-    webUrl: "https://www.theguardian.com/world/2024/feb/23/ai-deepfakes-come-of-age-as-billions-prepare-to-vote-in-a-bumper-year-of-elections"
-    ampWebUrl: "https://amp.theguardian.com/world/2024/feb/23/ai-deepfakes-come-of-age-as-billions-prepare-to-vote-in-a-bumper-year-of-elections"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/23/ai-deepfakes-come-of-age-as-billions-prepare-to-vote-in-a-bumper-year-of-elections"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 51
-    images:
-      - url: "https://i.guim.co.uk/img/media/541306e3e1cb3b0b0132f5fde08ac4c24ff8235b/0_0_2500_1500/master/2500.jpg?width=620&quality=85&auto=format&fit=max&s=53f84826792b1ec1902c6007211ee06e"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "MA2lxwOoMHSDyUKWOUW5u703XKYY9ycKnyTxIBc6gjQycfUSJUip2xKu7mhOir7WNHV86YuMW14QpeXoaQCgP3MIaCFDhJna62lVzkU71FByrz8zMh0n+hoeb414q0pbjnyWtD8okfWGBVxgFTLlcqfrGGbNnRfdsTWJEaHg1RrxQ16+Pl1GqXJeVwgYQd8L1FibOtiqlaLr9mq4HiwjZ0Urh2fH5nLNk/ebwNIeQYfYpZCqhwj/YLcdpISCx6l5OkMluQymp2nni2p/OYUh5ebrXwzx8blp+56yVxzOwV1uCWB+eCCtnIhemYKcYc9hiykLV4fJYLSYwDFeFogsazMSbXeFYFutD8XPDB6rVvkJHoPbr7fORbhhFAvfPuHYIall60uMxpDfeSfSPU90vQCqLcN6we/MYTUH+CHPjGThg7bVUAaMg84BWjSm1jK0EBMXF0N8nPSOTkKCkwU88OLyTV79D1RcdyWyHgvtau1vsnYGioN+JAMK3L9TdwKj2q5begdO/mofXIUKsV4Zsg==;Z0lgxdsdHXDcik7owu+CJQ=="
 ---

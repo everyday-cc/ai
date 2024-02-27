@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Navigating the impact of AI in our daily lives"
+    excerpt: "In an era defined by technological breakthroughs, Artificial Intelligence (AI) has been seamlessly woven into our everyday existence, reshaping our routines, interactions and perspectives. We have AI virtual assistants guiding our tasks to tailored recommendations shaping our choices as AI’s influence reverberates globally,"
+    publishedDateTime: 2024-02-27T17:20:00Z
+    webUrl: "https://manilastandard.net/spotlight/314420667/navigating-the-impact-of-ai-in-our-daily-lives.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 39
+    images:
+      - url: "https://cdn.manilastandard.net/wp-content/uploads/2023/10/steve-johnson-_0iV9LmPDn0-unsplash-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Unlocking Fusion Energy’s Future With Artificial Intelligence"
     excerpt: "A Princeton-led team has developed an AI model to predict and avert plasma instabilities in fusion reactors, showcasing real-time control improvements and setting the stage for more reliable fusion energy production."
     publishedDateTime: 2024-02-25T08:17:00Z
@@ -83,6 +97,29 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Artificial Intelligence and Its Impact"
+    excerpt: "Artificial intelligence (AI) has emerged as one of the most disruptive forces in geoeconomics and geopolitics. Its rise to prominence began with twin breakthroughs in 2012 and 2013: the successful use of convolutional neural networks for image recognition ..."
+    publishedDateTime: 2024-02-27T21:50:00Z
+    webUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 37
+    images:
+      - url: "https://www.cfr.org/themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "How Will Artificial Intelligence Impact Jobs? A Labor Economist Weighs In"
+    excerpt: "Investing in advanced AI capabilities and complementary infrastructure can steer labor market effects in a positive direction."
+    publishedDateTime: 2024-02-27T20:32:00Z
+    webUrl: "https://www.inc.com/sania-khan/how-will-artificial-intelligence-impact-jobs-a-labor-economist-weighs-in.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 16
 
 secured: "pmTfTvQTlZJ4I5pPknRSqRoYuSKo5Hx9022mh/IbDO72XtQFoqaNiCf3qAfdlSdnMr1/I53MtSSZAIGBDsYh1DV3sF5rWczPkUldv/CWSs/4wORrnY45Sh/uf8OSCrpEkFu+Eq3xMjvvZaS7u6S5S9yVTpQ8usL1h4CYGtPru2cj7eNmrEDiHZR0KpbfIz206ObNrgtFOg5Kd1e2Esiia9W3TdtZvdYOpjFpBkf0y/ooOfLXtHBynuinwmYlrzcnZGG/1F8umFWyy9cAmBZ4PLWE3qJaS2mtk0No8p6EywTyKxK8naCLORZVMaq062YSf77YDnTj73D72qj6EZqoW2W2Rmih8pvUlJEVf66Yrd8=;kP/tGCX6SYvW2RM2TrVERg=="
 ---

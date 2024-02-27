@@ -25,35 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "This fintech startup is targeting a gap in lending as banks tighten credit"
-    excerpt: "“Just because the loans are smaller doesn’t mean they’re not good.” Nvidia earnings send stock rocketing as company cheers AI ‘tipping point’ Nvidia makes Wall Street history as stock surge adds $277 billion in market cap Super Micro’s stock ..."
-    publishedDateTime: 2024-02-22T22:27:00Z
-    webUrl: "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
+  - title: "Ai In Fintech Market Growth, Share, Trends, Analysis Report 2024-2032"
+    excerpt: "Financial firms are adopting artificial intelligence (AI) to automate intricate and repetitive tasks, such as data analysis, risk assessment, and user service. This automation enhances efficiency, reduces operational costs, and minimizes human errors."
+    publishedDateTime: 2024-02-26T02:55:00Z
+    webUrl: "https://menafn.com/1107898432/Ai-In-Fintech-Market-Growth-Share-Trends-Analysis-Report-2024-2032"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://images.mktw.net/im-26691341/social"
-        width: 1280
-        height: 640
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?186729"
+        width: 272
+        height: 249
         isCached: true
-  - title: "Navigating the future of banking, fintech and AI"
-    excerpt: "What are the best use cases for generative AI in banking and fintech? What do banks and fintechs need to do to keep up with technology advances and not get left behind? We invited two long-time experts on finance and technology -- Luis Valdich, managing ..."
-    publishedDateTime: 2024-02-27T12:42:00Z
-    webUrl: "https://www.americanbanker.com/leaders/navigating-the-future-of-banking-fintech-and-ai"
+  - title: "Lending dominated fintech M&As in 2023 amid increased regulatory scrutiny: GrowthPal study"
+    excerpt: "BengaluruLending fintechs lead acquisitions in 2023 amid regulatory scrutiny, with wealthtech and payments also active, says GrowthPal analysis."
+    publishedDateTime: 2024-02-24T08:58:00Z
+    webUrl: "https://www.thehindu.com/news/cities/bangalore/lending-dominated-fintech-mas-in-2023-amid-increased-regulatory-scrutiny-growthpal-study/article67871098.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/bangalore/lending-dominated-fintech-mas-in-2023-amid-increased-regulatory-scrutiny-growthpal-study/article67871098.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/lending-dominated-fintech-mas-in-2023-amid-increased-regulatory-scrutiny-growthpal-study/article67871098.ece/amp/"
     type: article
     provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 54
+      name: The Hindu
+      domain: thehindu.com
+    quality: 34
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/7c08039/2147483647/strip/true/crop/1281x673+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F1e%2Fd4%2F2668ce2b403e82ecb39505b3aeac%2Fnavigating-the-future-of-banking-fintech-and-ai-1280x720-suni-harford.png"
+      - url: "https://th-i.thgim.com/public/incoming/od70b4/article67881570.ece/alternates/FREE_1200/IMG_rupee_876_reuters.jp_2_1_T8BGG817.jpg"
         width: 1200
-        height: 630
+        height: 1001
+        isCached: true
+  - title: "ASTRI sets up FinTech and ESG Alliance"
+    excerpt: "The \"FinTech and ESG Alliance\" marks ASTRI's third alliance formation ... Innovative Mind, and IoT Sensing and AI Technologies. It is applied across six core areas which are Smart City, Financial Technologies, New-Industrialisation and Intelligent ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.digitimes.com/biz/news.asp?feed=4765"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 24
+    images:
+      - url: "https://mma.prnasia.com/media2/2345405/1.jpg?p=medium600"
+        width: 599
+        height: 380
         isCached: true
   - title: "More Than Half the Fintech Industry Seeing Growth from Strong Consumer Demand"
     excerpt: "Fintech industry resilience during the pandemic has been underscored by a sustained interest in digital financial services."
@@ -88,6 +102,6 @@ related:
       domain: zawya.com
     quality: 4
 
-secured: "Q8UH4VyQqGWvveOu27PZQRvqItYMZ6cv7b3y8EBU3OTpwIHxQFa0dt0caQf46p3IrDAFbYVoHWspnneztTEmL83Ets95o93V3cHmhp6/aHz580VGFnygYIXPk1spFnVANGOshxSWJiX7leL2dmOMOE1j0efhFnvXPab8Ep++CdENAo9uioCybkvruWdzD/2qoP8dvuOf9lTIrABrJlobs4Gg5/ywJPJoxV6PsnK+cGL/CBMkQxnh4331MiA/ZH/eij08IvMOD/3nm+/qfXZxORE1Smit62umpeQM5/NPY49obWHuK1B9aHkL+hyoM2+8x6X9so54aZ8nSvp3HuF+43aYKqYdPC0HzBwVfjPoEqk=;lWrvC+xVZo07B7LfFW50MA=="
+secured: "7Lugkz6G9QiOqe8jkXFHHfZm+u964zSc8aaXNBzCuCTO37WVGYm3yPsO4hJr2D/jFDrQRjECzNPvjgLcLSFUFztRTzYfTWS/DCpkJBLawrPu81qN/LQzvGJkkNI0JItM7A5MgAmMDil3e9JNfRsaYMsTeWk3R0iDibGTj+S3S18ET8tZ6eOh+inhEs0dWmCKAVZ1/hAizO/8pGOEB/hCD/t0i2LjpaHZ9Y25FyyJ7yg8qxsPb0kr0GwBw29AOZW/bJV7xK5mHSBNn7v/qmy9/WYVUUuNopPS0ibrSS2wz6a7Q0bTg+82yn49kP8N4ogjuQXPmX+Rl/NMldj4kA4Xa2yDIxyPomcSxU2pYpCC3D692wPBsMLMIsqr0y7lLkRf3osxgiRU4xBrEymaIlY2/+VTImkIH0Y6YZvD8ygwJkLELI8zW8h+UF4wgbZwH8nVmlYeC3vvPn4htekEM7dU8eeQbTvhPl3oX3Iki9HeUed8yLqRY/4Vz84+QQa/ug4/tXRXUoRNpXG5SMinZ6FvbA==;EfEOG0vQOrueDsKZQiBxog=="
 ---
 

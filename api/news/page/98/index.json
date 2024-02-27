@@ -2,6 +2,170 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2023-12-04-artificial-intelligence-in-teaching-and-learning.md",
+      "title": "Artificial intelligence in teaching and learning",
+      "excerpt": "UD leads the conversation about AI in the context of teaching and learning with an interdisciplinary UD working group and other initiatives",
+      "sourceUrl": null,
+      "webUrl": "https://www.udel.edu/udaily/2023/december/artificial-intelligence-ai-teaching-learning/",
+      "originalUrl": "https://www.udel.edu/udaily/2023/december/artificial-intelligence-ai-teaching-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.udel.edu/content/dam/udelImages/udaily/2023/december/fb-ai-teaching-learning-working-group-800x420.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T15:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "University of Delaware",
+        "domain": "udel.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams.md",
+      "title": "Capitalizing on machine learning with collaborative, structured enterprise tooling teams",
+      "excerpt": "Machine learning advances require an evolution of processes, tooling, and operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/",
+      "originalUrl": "https://www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/11/cap_one_abstract_ML.png",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/amp/",
+      "publishedDateTime": "2023-12-04T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-can-you-text-while-your-self-driving-car-is-doing-the-driving-what-florida-law-says.md",
+      "title": "Can you text while your self-driving car is doing the driving? What Florida law says",
+      "excerpt": "You can text away while leaving the driving to your Tesla or other self-driving car. Florida law says that a driver whose car has an “automated driving system engaged” won’t be punished for using the phone behind the wheel ( (in other words, if the car is driving and not you).",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/traffic/article282641868.html",
+      "originalUrl": "https://www.miamiherald.com/news/traffic/article282641868.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/traffic/article282641868.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/traffic/article282641868.html",
+      "publishedDateTime": "2023-12-04T14:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-how-can-medical-schools-educate-students-on-artificial-intelligence.md",
+      "title": "How Can Medical Schools Educate Students on Artificial Intelligence?",
+      "excerpt": "The University of Texas has developed the first dual degree program in the United States to prepare medical students to work with artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
+      "originalUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/features/_normal/ThinkstockPhotos-801680832.jpg",
+          "width": 690,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T14:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-mira-pharmaceuticals-releases-breakthrough-data-from-artificial-intelligence-simulations.md",
       "title": "MIRA Pharmaceuticals Releases Breakthrough Data from Artificial Intelligence Simulations",
       "excerpt": "AI Simulation on MIRA1a Showcases Significant Potential Advantages Over Plant-Based Medical Marijuana Related to Anxiety, Appetite and Cognition",
@@ -863,170 +1027,6 @@
       "provider": {
         "name": "GizChina",
         "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu.md",
-      "title": "Natural Language Processing and Recognition Market Is Booming Worldwide With Microsoft, IBM, Baidu",
-      "excerpt": "The Global Natural Language Processing and Recognition Market Size is estimated to register 30.8% growth over the forecast period from 2023 to 2030. The Global Natural Language Processing and Recognition Market Size is estimated to register 30.8% growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/the-wire/natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu/",
-      "originalUrl": "https://www.cmswire.com/the-wire/natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-nine-things-to-know-about-artificial-intelligence.md",
-      "title": "Nine Things to Know About Artificial Intelligence",
-      "excerpt": "The term “artificial intelligence” or AI was originally coined at Dartmouth College in 1956 and was used to describe a broad framework of computer engineering that pulled information from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.teenvogue.com/story/artificial-intelligence-facts-microsoft",
-      "originalUrl": "https://www.teenvogue.com/story/artificial-intelligence-facts-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.teenvogue.com/photos/65689fd9dadaefcaf880d413/16:9/w_1280,c_limit/GettyImages-1803578848.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Teen Vogue",
-        "domain": "teenvogue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-researchers-evaluate-performance-of-a-large-language-model-in-phenotyping-postpartum-hemorrhage-patients.md",
-      "title": "Researchers evaluate performance of a large language model in phenotyping postpartum hemorrhage patients",
-      "excerpt": "However, structured data often fails to capture the clinical narrative from EHR notes. Natural language processing (NLP) models have been increasingly used for multimodal phenotyping through automated extraction from unstructured notes. Most NLP approaches ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20231204/Researchers-evaluate-performance-of-a-large-language-model-in-phenotyping-postpartum-hemorrhage-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20231204/Researchers-evaluate-performance-of-a-large-language-model-in-phenotyping-postpartum-hemorrhage-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_766160_17017150645166130.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-university-of-illinois-testing-speech-recognition-for-disabilities.md",
-      "title": "University of Illinois Testing Speech Recognition for Disabilities",
-      "excerpt": "(TNS) — Speech-recognition software doesn't work very well for people who could really use it, like those with Parkinson's or Down syndrome. Researchers at the University of Illinois have a simple solution: Instead of only training the artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/university-of-illinois-testing-speech-recognition-for-disabilities",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-illinois-testing-speech-recognition-for-disabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/b299f5a/2147483647/strip/true/crop/1000x486+0+98/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F5f%2Fa3%2F618704fc4380b4c9620a5bec7af9%2Flanguage-processing.jpg",
-          "width": 1440,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
         "images": null,
         "publishers": null,
         "authors": null

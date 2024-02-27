@@ -41,15 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Reddit strikes $60M deal allowing Google to train AI models on its posts, unveils IPO plans"
-    excerpt: "SAN FRANCISCO (AP) — Reddit has struck a deal with Google that allows the search giant to use posts from the online discussion site for training its artificial intelligence models and to improve services such as Google Search."
-    publishedDateTime: 2024-02-22T20:28:00Z
-    webUrl: "https://www.seattletimes.com/business/reddit-strikes-60-million-deal-allowing-google-to-train-ai-models-on-its-posts/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 7
 
 secured: "vhJ76mnCWEaK+lXSYqKBVgrruboqvppXMeRhnLBE7kUQ3EC2he8KaZWKO6kTbQ0IeYK2+cTgMn+ClGbADkgRf1+8QP0oA4qi7BcLbtQ7cmkzOTGf3N0HnJdElCZ8bosum5drBRrJC0fmETYtUsT5nU2HSZvJMFOKXUI4mz8YZSbHAICTyzW7mDRCSiMEcoTPx/8ymTPPNyPfqRfd2ZgLrdpOb4Jp7fGWCTekY5HMu9RZc0s+wkSi+PehwfmJnSX9qLFdMQoWVPmKzsG7ECUBfuVyBbK/xbk3MRgRbCTSMlmxb2xIngD8h7+ew0ZrI/cX6/HkWVrhMkiFvzFbODE8iMMKK6ibzR3VNy8DEHvr+/I=;f6TDlZxN2mG2/yONWtPV9w=="
 ---

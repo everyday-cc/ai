@@ -87,20 +87,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google Announces Gemma: A New Family of Open AI Models Inspired by Gemini"
-    excerpt: "Google is excited to introduce Gemma, a new generation of open models to assist developers and researchers in building AI responsibly."
-    publishedDateTime: 2024-02-22T21:27:00Z
-    webUrl: "https://www.datanami.com/this-just-in/google-announces-gemma-a-new-family-of-open-ai-models-inspired-by-gemini/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 40
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-        width: 2560
-        height: 1336
-        isCached: true
   - title: "Google’s AI Chatbot Gemini Faces IT Ministry’s Ire Over Responses On PM Modi"
     excerpt: "The Rule 3(1)(b) of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules ... came days after Chandrasekhar said that draft laws to regulate the AI space would be brought out by June or July this year."
     publishedDateTime: 2024-02-23T00:01:00Z

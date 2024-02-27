@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-19-teslas-ai-revolution-morgan-stanley-predicts-explosive-growth.md",
+      "title": "Tesla's AI Revolution: Morgan Stanley Predicts Explosive Growth",
+      "excerpt": "Executives at Tesla TSLA +4.9% Inc. (TSLA) revealed last week new upgrades to Optimus, the firm’s bipedal robot. Morgan Stanley MS +0.6% researchers believe a Cambrian Explosion is near, leading to explosive growth for Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/",
+      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6580e6a412357727a23cd47a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/amp/",
+      "publishedDateTime": "2023-12-19T00:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-self-driving-cars-face-reality-check.md",
       "title": "Self-Driving Cars Face Reality Check",
       "excerpt": "The development of self-driving cars is facing significant setbacks and disillusionment due to technical challenges, accidents, and a lack of practical understanding.",
@@ -1337,40 +1389,6 @@
       "provider": {
         "name": "Reading Eagle",
         "domain": "readingeagle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-which-hands-free-driving-system-is-best-this-test-aimed-to-find-out.md",
-      "title": "Which hands-free driving system is best? This test aimed to find out",
-      "excerpt": "Tesla Autopilot with Full Self-Driving Beta Tesla Motors’ AutoPilot has come in for criticism that its name implies more than what it delivers. But the latest Full Self-Driving Beta feature gets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2023/12/06/which-hands-free-driving-system-is-best-this-test-aimed-to-find-out/71813681007/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2023/12/06/which-hands-free-driving-system-is-best-this-test-aimed-to-find-out/71813681007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T01:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
         "images": null,
         "publishers": null,
         "authors": null

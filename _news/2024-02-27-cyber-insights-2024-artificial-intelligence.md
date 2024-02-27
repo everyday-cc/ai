@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intellig
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
 type: article
 quality: 59
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin"
+    excerpt: "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity."
+    publishedDateTime: 2024-02-27T19:12:00Z
+    webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 47
   - title: "What to expect from MWC 2024: Transparent laptops, AI phones, smart rings, more"
     excerpt: "Some of the best mobile technology companies will converge at the Fira de Barcelona next week for MWC 2024. Here's what to watch for."
     publishedDateTime: 2024-02-23T10:43:00Z

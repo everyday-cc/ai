@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-21-employers-are-failing-women-on-healthcare-uk-research-shows.md",
+      "title": "Employers Are Failing Women On Healthcare, U.K. Research Shows",
+      "excerpt": "women workers being absent. Employers are sabotaging their own productivity and competitiveness by failing to provide female workers with adequate care and support for certain health conditions, according to new research based on the experiences of more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
+      "originalUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fea49561f16b8426cbcbc4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/amp/",
+      "publishedDateTime": "2024-02-20T23:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-how-to-build-generative-ai-agents-with-joon-sung-park.md",
       "title": "How to Build Generative AI Agents with Joon Sung Park",
       "excerpt": "Joon’s research seeks to answer this question by applying LLMs to a long-standing challenge in computer science: the creation of AI agents that can authentically simulate human behavior. This ambition traces back to the earliest days of AI in the 1950s ...",
@@ -1364,40 +1417,6 @@
       "provider": {
         "name": "Chicago Sun-Times",
         "domain": "suntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-bidens-ai-plan-to-censor-you-revealed-researchers-say-americans-cant-tell-fact-from-fiction.md",
-      "title": "Biden’s AI plan to censor you revealed: Researchers say Americans can’t ‘tell fact from fiction’",
-      "excerpt": "The report reveals how the Biden administration is spending millions on artificial intelligence research designed to ... Reddit, and Facebook to limit what people can see and say online in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2024/02/06/news/bidens-ai-plan-to-develop-censorship-tools-revealed/",
-      "originalUrl": "https://nypost.com/2024/02/06/news/bidens-ai-plan-to-develop-censorship-tools-revealed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

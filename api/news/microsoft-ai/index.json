@@ -10,7 +10,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 480,
+      "heat": 510,
       "tags": null,
       "images": [
         {
@@ -515,6 +515,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-nvidia-stock-earnings-what-you-need-to-know.md",
+      "title": "NVIDIA Stock Earnings: What You Need to Know",
+      "excerpt": "NVIDIA (NASDAQ:NVDA) reported strong results for its fourth fiscal quarter of 2024 on Wednesday (February 21).Quarterly revenue hit a record US$22.1 billion, 22 percent higher than Q3 and up 265 percent compared to a year ago.",
+      "sourceUrl": null,
+      "webUrl": "https://investingnews.com/nvidia-earnings/",
+      "originalUrl": "https://investingnews.com/nvidia-earnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investingnews.com/media-library/nvidia-logo.jpg?id=51529619&width=1200&height=600&coordinates=0%2C189%2C0%2C189",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T23:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing News Network",
+        "domain": "investingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1435,58 +1478,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-microsoft-cloud-for-sustainability-gains-data-ai-capabilities.md",
-      "title": "Microsoft Cloud For Sustainability Gains Data & AI Capabilities",
-      "excerpt": "Microsoft introduced new data and AI solutions for its Cloud for Sustainability to assist organizations transitioning from pledges to progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbe197e0981b2a50f2c0f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/",
-      "publishedDateTime": "2024-02-13T21:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

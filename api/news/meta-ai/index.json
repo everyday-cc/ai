@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-28-inside-the-rocky-marriage-of-hedge-funds-and-top-ai-talent.md",
+      "title": "Inside the rocky marriage of hedge funds and top AI talent",
+      "excerpt": "But it attracted top talent from tech giants like Microsoft and Uber. The AI research team operated in Seattle and was led by Li Deng, who was poached after spending 17 years at Microsoft, where he led AI research. The team won over stock-picking portfolio ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/hedge-funds-artificial-intelligence-talent-culture-clash-citadel-2024-2",
+      "originalUrl": "https://www.businessinsider.com/hedge-funds-artificial-intelligence-talent-culture-clash-citadel-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65dd05c16080194819fa500e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T20:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-educators-teaching-ai-literacy-to-students-should-include-ethics-in-their-lesson-plans-scholars-say.md",
       "title": "Educators teaching AI literacy to students should include ethics in their lesson plans, scholars say",
       "excerpt": "Assertions about expanding the use of artificial intelligence are typically rooted in one of two schools of thought: \"Be ahead of the curve,\" or, \"Don't fix what isn't broken.\" Whichever side of the coin someone is on, it's clear that the rapidly emerging ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -265,7 +317,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1475,59 +1527,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-employers-are-failing-women-on-healthcare-uk-research-shows.md",
-      "title": "Employers Are Failing Women On Healthcare, U.K. Research Shows",
-      "excerpt": "women workers being absent. Employers are sabotaging their own productivity and competitiveness by failing to provide female workers with adequate care and support for certain health conditions, according to new research based on the experiences of more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
-      "originalUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fea49561f16b8426cbcbc4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/amp/",
-      "publishedDateTime": "2024-02-20T23:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -33,6 +33,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Navigating the future of banking, fintech and AI"
+    excerpt: "What are the best use cases for generative AI in banking and fintech? What do banks and fintechs need to do to keep up with technology advances and not get left behind? We invited two long-time experts on finance and technology -- Luis Valdich, managing ..."
+    publishedDateTime: 2024-02-27T12:42:00Z
+    webUrl: "https://www.americanbanker.com/leaders/navigating-the-future-of-banking-fintech-and-ai"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 54
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/7c08039/2147483647/strip/true/crop/1281x673+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F1e%2Fd4%2F2668ce2b403e82ecb39505b3aeac%2Fnavigating-the-future-of-banking-fintech-and-ai-1280x720-suni-harford.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Understanding the Hurdles – Why Companies Aren’t Ready for Full AI Integration in Business"
     excerpt: "AI (artificial intelligence) is the topic that has got the attention of not only tech enthusiasts but also the general public since last year."
     publishedDateTime: 2024-02-24T04:41:00Z
@@ -48,20 +62,6 @@ related:
       - url: "https://dailyhodl.com/wp-content/uploads/2023/11/AI-Focused-Altcoin.jpg"
         width: 1366
         height: 800
-        isCached: true
-  - title: "How to navigate talent management in the age of AI"
-    excerpt: "Valuing human skills, fostering inclusivity and navigating the ethics of AI can make tech roles sustainable and fulfilling."
-    publishedDateTime: 2024-02-23T21:20:00Z
-    webUrl: "https://www.ciodive.com/news/AI-tech-talent-management-mastercard/707910/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
         isCached: true
   - title: "Dissecting the AI boom through the dotcom lens"
     excerpt: "The Web was funded by telco CAPEX as hyperscalers are funding the AI buildout. But there was no internet or cloud at the time, so this time the pace is accelerated. Picks and shovels are highly valued at the start The core infrastructure – so-called ..."
@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Where AI shines in healthcare"
+    excerpt: "Several major health systems have added AI-assisted colonoscopy devices, such as Iterative Health's Skout and Medtronic's GI Genius, in the last two years. Computer-assisted colonoscopy methods could lead to a 55% decrease in the miss rate of adenomas."
+    publishedDateTime: 2024-02-27T20:38:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/where-ai-shines-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 34
 
 secured: "/fzWXOejktc3sWJ0yPR7Em8zQbamtudCWWUi8L+NMn/4CeW3vtFJBRWQJYCjFX2CnxpH0Un+d5SJzE/NY63r4pJ9qlarkVX+m8GtkDCdOJiywAJkT3He3bn8baWEuoPViY+vp80i11FEoQiPu6TrcU9VgFBCcVZpCkEHj9dksVmM85dQboMuxkUjaEVf7qupHzdukwu9ge8pESft6XzEPwxYlPiWoFxnd+Y4VTFoHo2eQYakRLNcPnODgzsKp1YSeGV7fo+1MdZyYB0+wNIo6kiGVWhmXROWoNFKckJmjTx6r/tAzWMaPWO05tmD3kMTb9RRXAHSMngqpmVNZrb3Wrhb35YPE3go1bbrBdbcrhSI9fcHUGIrOPZdTZHygHwGGZoHCj+bNjTLRvjHuImDGJC3QeAL0YdeeJCZ+x0qEf5feEnC9m5gLKk2rpguHH23qRiaNzQ46zElU/f0D5FRPwwQf4UIMfEENxCrkdX5SOhoCtneu1NJmNtghcEVPz87p3hi5+/igzVSuDR858uC9Q==;FhfDC3bSPujo2TBy7ZokRw=="
 ---
