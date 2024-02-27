@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-21-5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024.md",
+      "title": "5 AI Accounting Tools For Freelancers Running A Side Hustle In 2024",
+      "excerpt": "Tracking expenses is not exactly what you set out to do as a freelancer. But with these AI-powered accounting tools, you'll be able to get back to doing what you love.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d5b9044c575d8bd5bc0be8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/",
+      "publishedDateTime": "2024-02-21T08:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-opinion-ai-elections-and-law-why-no-country-can-tackle-ai-alone.md",
+      "title": "Opinion: AI, Elections And Law - Why No Country Can Tackle AI Alone",
+      "excerpt": "Talks between EU and India on tackling the threat of online disinformation reflect the need for collective global action against the risks posed by generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192",
+      "originalUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-08/295nvsms_deepfake-generic_625x300_22_August_23.jpg?ver-20240117.06",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1",
+      "publishedDateTime": "2024-02-21T08:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips.md",
       "title": "Mark Zuckerberg To Meet Samsung Chief In South Korea, Discuss AI Chips",
       "excerpt": "Zuckerberg is expected to meet Samsung Electronics chairman Jay Y. Lee as early as later this month to discuss AI chip supply and other generative AI issues, South Korean newspaper Seoul Economic Daily reported earlier on Wednesday, citing unnamed sources ...",
@@ -1135,110 +1229,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-the-ai-craze-is-highlighting-the-cooling-crunch.md",
-      "title": "The AI Craze Is Highlighting The Cooling Crunch",
-      "excerpt": "Direct-to-chip and immersion cooling come in two subtypes ... But it’s coming. Until then, all the AI and HPC workloads flying around require alternative cooling methods—now, today, already. So what are you going to do? Moor Insights & Strategy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d526d643a30a9ca3ffb4c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/",
-      "publishedDateTime": "2024-02-20T21:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-3-startup-opportunities-in-marketing.md",
-      "title": "3 Startup Opportunities In Marketing",
-      "excerpt": "AR advertising? Let's explore three promising startup opportunities in marketing that have the potential to disrupt the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/abdoriani/2024/02/20/3-startup-opportunities-in-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/abdoriani/2024/02/20/3-startup-opportunities-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d51409a3660b606a9b3f15/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T21:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

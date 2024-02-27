@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/allocations-ai-powered-investing-platfo
 webUrl: "https://venturebeat.com/ai/allocations-ai-powered-investing-platform-tops-2-billion-as-alternative-asset-demand-booms/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 1200
     height: 672
     isCached: true
-
-related:
-  - title: "Nvidia briefly hits $2 trillion valuation as AI frenzy grips Wall Street"
-    excerpt: "The milestone followed another bumper revenue forecast from the chip designer that drove up its market value by $277 billion on Thursday - Wall Street's largest one-day gain on record. Its rapid ascent in the past year has led analysts to draw parallels to the picks and shovels providers during the gold rush of 1800s as Nvidia's chips are used by almost all generative AI players from chatGPT-maker OpenAI to Google."
-    publishedDateTime: 2024-02-23T16:24:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 38
 
 secured: "2VSn8Vn5SMmX11YiDQM/NV23SAI/mXE+mhJO/jGYco4fhZJP6FEhMqpO0oM9kXmxCkdd/G4Znv1+O1Bhjr2J1vEe20mFV0d85Q3GP6B9a2BzdLeiT02knD5AWqcca8wBj/wuHh+6uL05AEx/6/YWHKdimIbahFeBgQwxs+u2nexVW+i5Npn/fmZyr8Swhklr6PfdZk067GwIgftehUq4JOaN1IP9vGKRxhOYZ2yQzJZjssJ1JDEgcHP95U9+5ISfA1ESCTKBwES3W7/TBg/7q+lj4FB4xeO1yPGeLmkgIV9WVo/jWlj3ixocg+MhK/lM65ZBYaXVLshQ/+K0RbbPzzl65Z/hacR0ak3WL4KezSmts6wv+iJUsjVQAEXp+bAJVe3Q5V3jO3ubfN0xGp4GQ7BzGsvLUCw0To+MXzKEt3n4M+eDW603xYmLc98lEREkWIXZbyz75qYPwzJp7IdFCFBpfDlQiV34/XFgnaAeLY5zdM1Nur4uA7l6sQtAYXRA7Z9U8hoPPB80v3w0G4bFbw==;/5M//zTIyTiDLSRYbCjIjw=="
 ---

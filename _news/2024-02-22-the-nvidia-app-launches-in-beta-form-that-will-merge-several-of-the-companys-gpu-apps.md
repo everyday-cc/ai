@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/"
 type: article
 quality: 81
-heat: 111
+heat: 91
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia launches RTX 500 and 1000 Ada Generation laptop GPUs for AI on the go"
-    excerpt: "The next generation of mobile workstations featuring Ada Generation GPUs will incorporate a neural processing unit (NPU), a component of the CPU, along with an Nvidia RTX GPU equipped with Tensor Cores for advanced AI processing. This dual creation is ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-launches-rtx-500-and-1000-ada-generation-laptop-gpus-for-ai-on-the-go/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/RTX-500-_-1000-Blog-Image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia’s new app doesn’t require you to log in to update your GPU driver"
     excerpt: "On cards with AI-powered offerings, you'll also get tools for Nvidia Freestyle ... Not everything available in the prior apps is making it into this new all-in-one app, however. Nvidia notes that GPU overclocking and driver roll-back are on the way."
     publishedDateTime: 2024-02-22T13:11:00Z
@@ -59,15 +45,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Nvidia ramps up GPU production to fuel AI data center revolution"
-    excerpt: "The chipmaker expects demand to outpace supply through the year. “We’ll do our best,” CEO Jensen Huang said Wednesday."
-    publishedDateTime: 2024-02-22T23:01:00Z
-    webUrl: "https://www.ciodive.com/news/nvidia-gpu-data-center-revolution-jensen-huang/708273/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 34
 
 secured: "fRT10Bg39xALlCzkbEEZlk1QqfgryXerH/aEbSYLpji6o4iu2UwBX5dt54xP4g26svcgLw5gcPe7Bo3xvHIdsNsq7/p4jMeJIGzYaN3sY4a1WWHAfiYwHtbx/BWLMVQkAsXZYB/XviTT1biww3JRj0KRLlI5+sZaL2729qPtBjgNBgMqxkyFy2bZJ0PlrRfPGPniAAJ0PNs+uyLNkxbOSziyJS3gulg2knTW/m80uNL7apnkIJUzxM1D/OFKI9Ym8sLfEb4eeCoxCdo0dIHgPzfwrZRE4AzV6OX4s+28zV2JoXCWhumZROMc0sRVwL7cLgKtFyEkPHfK187b/dKR42gf1bqH6NTxZk+Am6/SkJED/m1rutbhlAPcOWE8wckLhErM8zn37fZXAm4T+jSEq4U947fBoAb2QHrgWTFvUK0HKDvkzoMKMMHPCAovxKwrO7OvUnuQNfq7zHeXnquHEpgyDTEwsW0dmDoAajoYyy433cOd30Hyypr+EXtMzFB1KmPBMMjFMzalvAgxa0pd9g==;Z6NiDSX9nohYm39x15C95w=="
 ---

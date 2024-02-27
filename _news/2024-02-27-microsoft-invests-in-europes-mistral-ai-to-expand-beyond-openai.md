@@ -89,6 +89,22 @@ related:
         width: 1241
         height: 779
         isCached: true
+  - title: "Microsoft Partners With OpenAI's French Rival Mistral to Make Its AI Models Available on Azure"
+    excerpt: "The multi-year deal signals Microsoft's efforts to offer a variety of AI models beyond its biggest bet in OpenAI."
+    publishedDateTime: 2024-02-27T09:49:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/microsoft-partners-openai-rival-mistral-ai-models-azure-cloud-platform-5136603"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/microsoft-partners-openai-rival-mistral-ai-models-azure-cloud-platform-5136603/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/microsoft-partners-openai-rival-mistral-ai-models-azure-cloud-platform-5136603/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 77
+    images:
+      - url: "https://i.gadgets360cdn.com/large/microsoft_ai_reuters_1689769738584.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup"
     excerpt: "Apart from Jeff Bezos and Nvidia, other technology companies are involved as well. Intel Corp.’s venture capital arm is pouring in $25 million, and LG Innotek is providing $8.5 million. Samsung’s investment group,"
     publishedDateTime: 2024-02-24T06:19:00Z
@@ -120,6 +136,22 @@ related:
       - url: "https://media.nbcdfw.com/2024/02/107378366-1708964869127-gettyimages-1850859194-AA_16122023_1456011.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Invests in French Startup Mistral AI to Foster AI Innovation"
+    excerpt: "Microsoft entered a multi-year partnership with Mistral AI aimed at fostering innovation in the artificial intelligence AI industry."
+    publishedDateTime: 2024-02-27T09:43:00Z
+    webUrl: "https://www.coinspeaker.com/microsoft-invests-mistral-ai/"
+    ampWebUrl: "https://www.coinspeaker.com/microsoft-invests-mistral-ai/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-invests-mistral-ai/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 74
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2024/02/microsoft-invests-mistral-ai.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Bezos and Nvidia Collaborate with OpenAI to Finance Humanoid Robot Startup"
     excerpt: "Jeff Bezos of Amazon, alongside Nvidia, have pooled their resources to invest in Figure AI, a startup focused on advancing human-like robots."

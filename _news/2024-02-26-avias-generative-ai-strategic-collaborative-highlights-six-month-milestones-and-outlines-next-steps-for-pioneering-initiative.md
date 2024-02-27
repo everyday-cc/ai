@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
-excerpt: "CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of its Generative AI Strategic Collaborative, an industry collective of 29 leading health systems and industry ..."
-publishedDateTime: 2024-02-26T10:04:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article285939161.html"
-webUrl: "https://www.sacbee.com/press-releases/article285939161.html"
+excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of ..."
+publishedDateTime: 2024-02-26T13:04:00Z
+originalUrl: "https://www.charlotteobserver.com/press-releases/article285939161.html"
+webUrl: "https://www.charlotteobserver.com/press-releases/article285939161.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Charlotte Observer
+  domain: charlotteobserver.com
 
 topics:
   - AI Ethics
@@ -100,6 +100,6 @@ related:
       domain: kansascity.com
     quality: 0
 
-secured: "0H1wAZvbMZOKe3IxSPUqr6MWqVm/3ukeHL5MFjDmK21oWXFQcXpNsx0dQBHySJmuXvBucFd8Z9Z2xGATM93WWcXr6Tfw1fLjUeu4cQ+YVTNsvwnvNTjBkIl4jWyvet/V2oDFYtfVqkcp8nWmfT6OrcSl+LfDfqFydA2o5oFnwmsvk6EUlRkZ+0E0Jzrp5LRpuxHXD7GzC/cf5B0tMzdRoylxUzo2mqv8F6osjh1q3DfwyYnXC2YCh6H9mQDJGSEko0w33Syyxm2KOFPGs2Vki85UqntAmeWgA9V3ssWM2PberEZ5WsRbHdjzRCi6ZOmkOt2Mz1QtD1Fx0Bebp04vA7RIDeuD1JVbs6sWgSTacROqybNi/9roEk7vYLjmRLNPKHAFxBRdOEeYlrGFW7TRwUsmbfXruwD23e2HkIxCjQWxOgG+IdcjiFs+pkcARjA4VA5VRNA6VOeLHsVO8/D+XpVLr3coExcplhGlaLvQZuH1Uj5sSRFOzOSi2kUilhZZz3q+3LYkBwm7ow/Z3ca7jA==;Ldr1Dl0u7khVY7GP1YF5sA=="
+secured: "I+zGWoxmEVZzYxLrVmLcINRGmhXA0txKU/dlUVEM5r7AebBfl6hoqeF1HYu3zQTX3apLnhw1KbVuMrcE3vfLQmWzdpMo3yr305UHBzYrQlvFjXw9rOuuaxrA/NdANWo1wPemglzCELAco+NDU8r+uNWAWsJmgOu3SQy9p427YjSwSU+RJKOK6N6OvkOXaaa+OrzfK8qxaBn1W4F236RaP+C84HWZn6t4gJbmNkpmqQLM+4cAARGqfNslK1XqaPl6xBKmVoT80Hsqm+jOEEjQQ4yrcYg/Ai7FZP4RueCFs8XWnWEcNskXuePrnj5RODc62mNszL4HSY257XCkxNpOcvE3WPj8oKxHCtF5JNm+jW/Y+eYVoovRjtu9fDZ41omkM3PVUgtQbX1y3XWCquy42OlT/SOjww7lFnnpR7cuh5Yp1MEyIfj2tKbL2PURHzZDr+kvi9TlS4VobtAid5BM8CI5t/1g3GVzM4+aUSGvX5eerHLE+IpGMIEHGJsKYVPj4F2FPPnP1RAe2hHcDkdmfg==;oIgpcVWtD5CzsNlnfeaj/w=="
 ---
 

@@ -25,34 +25,80 @@ images:
     isCached: true
 
 related:
-  - title: "Micron begins volume production of new chip for AI workloads"
-    excerpt: "Semiconductor leader Micron Technology on Monday announced it has begun volume production of its HBM3E (high bandwidth memory 3E)"
-    publishedDateTime: 2024-02-26T12:11:00Z
-    webUrl: "https://glamsham.com/world/technology/micron-begins-volume-production-of-new-chip-for-ai-workloads"
+  - title: "Nvidia unveils RTX 500 and 1000 laptop GPUs for AI-enhanced workflow"
+    excerpt: "The company has announced two new AI-enhanced graphics processing units (GPUs ... in performance and efficiency compared to Nvidia’s earlier professional GPU offerings. The RTX 500 will launch with 4GB of memory, while the RTX 1000 features a ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 54
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2024/02/Micron-begins-volume-production-of-new-chip-for-AI-workloads.jpg"
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/Nvidia-RTX-500-RTX-1000-GPU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Nvidia launches RTX 500 and 1000 Ada Generation laptop GPUs for AI on the go"
+    excerpt: "The next generation of mobile workstations featuring Ada Generation GPUs will incorporate a neural processing unit (NPU), a component of the CPU, along with an Nvidia RTX GPU equipped with Tensor Cores for advanced AI processing. This dual creation is ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-launches-rtx-500-and-1000-ada-generation-laptop-gpus-for-ai-on-the-go/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/RTX-500-_-1000-Blog-Image.jpg?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "Is AI China's critical new productive force?"
-    excerpt: "And, will AI become China's critical new productive force? According to OpenAI's explainer, Sora is capable of generating complex scenes with a very high degree of accuracy, including multiple characters,"
-    publishedDateTime: 2024-02-26T00:37:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202402/26/WS65dbda20a31082fc043b8fc5.html"
+  - title: "Nvidia’s lightweight RTX 500 and 1000 GPUs to power new generation of AI-accelerated laptops"
+    excerpt: "The RTX 500 and 1000 Ada GPUs are said to include a neural processing unit that’s integrated within the central processing unit, as well as an RTX GPU that includes Tensor Cores for processing AI locally. The NPU helps by offloading lighter AI tasks to ..."
+    publishedDateTime: 2024-02-26T08:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/26/nvidias-lightweight-rtx-500-1000-gpus-power-new-generation-ai-accelerated-laptops/"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202402/26/65dbda20a31082fc2b691ef4.jpeg"
-        width: 1078
-        height: 718
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/RTX-500-_-1000-Blog-Image.jpg"
+        width: 5760
+        height: 3240
         isCached: true
+  - title: "Google's lightweight and free Gemma AI models are optimized to run on NVIDIA GPUs"
+    excerpt: "\"Built from the same research and technology used to create the Gemini models,\" Google's new lightweight Gemma LLMs have been designed to run natively on local PC hardware powered by NVIDIA GPUs. For use in third-party AI applications, Gemma 2B and Gemma ..."
+    publishedDateTime: 2024-02-22T12:36:00Z
+    webUrl: "https://www.tweaktown.com/news/96379/googles-lightweight-and-free-gemma-ai-models-are-optimized-to-run-on-nvidia-gpus/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96379_01_googles-lightweight-gemma-ai-optimized-to-run-on-nvidia-gpus_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
+  - title: "Nvidia ramps up GPU production to fuel AI data center revolution"
+    excerpt: "The chipmaker expects demand to outpace supply through the year. “We’ll do our best,” CEO Jensen Huang said Wednesday."
+    publishedDateTime: 2024-02-22T23:01:00Z
+    webUrl: "https://www.ciodive.com/news/nvidia-gpu-data-center-revolution-jensen-huang/708273/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
+  - title: "Nvidia Reveals AI-Focused RTX 500, 1000 GPUs For ‘Highly Portable’ Mobile Workstations"
+    excerpt: "Nvidia has revealed the RTX 500 and 1000 Ada Generation GPUs that are designed to boost AI workflows for ultrathin laptops used by professionals and content creators."
+    publishedDateTime: 2024-02-26T12:42:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/2024/nvidia-reveals-ai-focused-rtx-500-1000-gpus-highly-portable-mobile-workstations"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 26
 
 secured: "CuxBcXBAOsSXKZ4c/+Hgj2hgFWA3Q+PdMnTXOqblpTNfp2MaaZ8xbeB0QEZAEMJI7xBNw3u+juim3JcZ17Uv9LtYlQOZrfCd3ybGPyJArxFlmFrGJDaXhRfhaAYMc2A+46EAZxhuW5bUZiz+inGyG7StSmi2PZL/sOiscW18W/KNNFuu0IhmL/YivfTI+7rby24nSUAdWI6MnSm1fAq7WpCWiu9IjtaLBBagq0m5Qs5im65m57UIu+RLI+IlAYFfE7jA5sLI5+TfCxjsgfpN5GyDDqTTb1By7i2Muz5ZMqI3TRarWEDBncPnPhUJC/6zMFW3HPJ476i317sIr55xi8tI2fcqzv9htqqpLas+3pSB2nBkzYY97uwa5tQmYbtfOHmEGU+ZD7xUKXclSlRg8YMhhCLsbxrP6ISm0LANCexLnmdeCA3mvxJVmP1c97oqSlCMAukGbBEfNDW0lHrJ54R3GDuS7U6ueT6HHMSpFeiF/nfnVi5cpLvIar7i/B59q2I/t/yhSlu/obJ1rku4og==;coyw5uf9HcJ+6atDDbKuGg=="
 ---

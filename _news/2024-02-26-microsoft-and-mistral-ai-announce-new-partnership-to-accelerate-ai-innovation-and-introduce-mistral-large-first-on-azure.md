@@ -75,6 +75,22 @@ related:
         width: 760
         height: 444
         isCached: true
+  - title: "5 History Lessons For Nvidia From The 80-Year History Of AI"
+    excerpt: "Predictions are difficult, but we have lots of data at our disposal that may help us make educated guesses about the future. It’s called history."
+    publishedDateTime: 2024-02-25T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65da9c4f7d1d85f773609bb1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Google Suddenly Reveals Bad News For Millions Of Microsoft Users"
     excerpt: "Which brings us to OpenAI’s ChatGPT (key shareholder—Microsoft) versus Google’s Gemini (née Bard). Currently, these two generative AI platforms are in the box seat for first mover advantage in AI-based search. This will step beyond browsers and task ..."
     publishedDateTime: 2024-02-25T15:11:00Z
@@ -106,6 +122,22 @@ related:
       - url: "https://images.fonearena.com/blog/wp-content/uploads/2024/02/Le-Chat-Mistral.png"
         width: 650
         height: 272
+        isCached: true
+  - title: "Microsoft to offer more AI options on Azure with Mistral AI partnerhip"
+    excerpt: "and the Azure Machine Learning model catalog. This move complements the existing array of OpenAI models, broadening the catalog with a versatile mix of open source and proprietary AI solutions, thereby enhancing the options available to Azure customers."
+    publishedDateTime: 2024-02-27T10:36:00Z
+    webUrl: "https://www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnerhip.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnerhip.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnerhip.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 89
+    images:
+      - url: "https://images.techhive.com/images/article/2015/10/microsoft-headquarters-100623370-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft's Photos app gains AI object removal on Windows 11/10"
     excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: This new AI-powered tool reflects a growing trend. From Google Photos to Adobe's Firefly, more apps are integrating smart algorithms to enhance and ..."
@@ -332,6 +364,34 @@ related:
       name: Time
       domain: time.com
     quality: 64
+  - title: "How the AI frenzy put a rocket under chip maker Nvidia"
+    excerpt: "Nvidia, the maker of graphics processing units (GPU) revealed last week that it earned $30 billion in annual profit — sales doubled to $61 billion. Nvidia’s stock surged 16.4 per cent to $785.38, valuing the company at $1.9 trillion. The only companies ..."
+    publishedDateTime: 2024-02-25T00:19:00Z
+    webUrl: "https://www.thetimes.co.uk/article/nvidia-earnings-stock-share-prices-wall-street-w9gpssjz8"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F46ff9054-e1e9-4f27-8daf-be2cea7c2859.jpg?crop=3716%2C2090%2C0%2C193&resize=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "The AI chip behind Nvidia’s supersonic stock rally"
+    excerpt: "Demand for Nvidia’s H100 is so great that some customers are having to wait as long as six months to receive it."
+    publishedDateTime: 2024-02-25T02:02:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/nvidia-h100-this-is-the-chip-behind-ais-supersonic-stock-rally/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 54
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2024/02/407967706-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft Pledges Regulatory Respect with 11 AI Access Principles"
     excerpt: "Also, it announced on Monday that it was newly partnering with France-based Mistral AI. Microsoft is offering its Azure AI infrastructure and supercomputing capabilities for use with Mistral's next-generation large language models. Microsoft's 11 AI Access ..."
     publishedDateTime: 2024-02-25T23:59:00Z
@@ -359,6 +419,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/09eb35f/2147483647/strip/true/crop/940x457+0+62/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
         width: 1440
         height: 700
+        isCached: true
+  - title: "Why is There a Shortage of Nvidia AI Chips?"
+    excerpt: "TSMC’s (Taiwan Semiconductor) 2.5D advanced packaging CoWoS (Chip on wafer and wafer on substrate) technology is currently the primary technology used for AI chips. The production capacity of CoWoS packaging technology is a major bottleneck in AI chip ..."
+    publishedDateTime: 2024-02-25T18:40:00Z
+    webUrl: "https://www.nextbigfuture.com/2024/02/why-is-there-a-shortage-of-nvidia-ai-chips.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 54
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-25-at-9.34.39-AM-1.jpg"
+        width: 1500
+        height: 1172
         isCached: true
   - title: "Microsoft collaborates with French start-up Mistral AI"
     excerpt: "(MENAFN) On Monday, the US-based multinational technology company Microsoft revealed its collaboration with French start-up Mistral AI in a multi-year partnership aimed at expediting advancements in artificial intelligence (AI). \"The AI industry is ..."
@@ -397,34 +471,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 51
-  - title: "ICreate, Microsoft, MeitY Launch Impel-AI Programme to Empower India Innovators"
-    excerpt: "Microsoft India, iCreate, and the Ministry of Electronics and Information Technology have announced the launch of a joint artificial intelligence innovation programme."
-    publishedDateTime: 2024-02-22T09:29:00Z
-    webUrl: "https://www.ndtvprofit.com/technology/icreate-microsoft-meity-launch-impel-ai-programme-to-empower-india-innovators"
-    type: article
-    provider:
-      name: ndtvprofit
-      domain: ndtvprofit.com
-    quality: 50
-    images:
-      - url: "https://media.assettype.com/bloombergquint%2F2024-02%2Fdce4580f-faa5-48c9-b472-e497d52d759d%2Figor_omilaev_eGGFZ5X2LnA_unsplash.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft & Icreate Launch Impel-AI Programme To Empower AI Start-Ups In India"
-    excerpt: "( MENAFN - KNN India) New Delhi, Feb 22 (KNN) In a significant collaboration, Microsoft and the International Centre for Entrepreneurship and Technology (iCreate), in the presence of Union Minister Rajeev Chandrasekhar, have unveiled the iMPEL-AI (iCreate-Microsoft Programme for Emerging Leaders in Artificial Intelligence) initiative."
-    publishedDateTime: 2024-02-22T10:29:00Z
-    webUrl: "https://menafn.com/1107884792/Microsoft-Icreate-Launch-Impel-AI-Programme-To-Empower-AI-Start-Ups-In-India"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 50
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/22/KI_20343image_story.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Announcing Microsoft’s open automation framework to red team generative AI Systems"
     excerpt: "Read about Microsoft's new open automation framework, PyRIT, to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems."
     publishedDateTime: 2024-02-22T16:59:00Z
@@ -453,6 +499,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Nvidia’s AI Dominance Heralds New Era in Computing"
+    excerpt: "In a tech industry renowned for short-lived frenzies, some chip executives and analysts see the AI boom as increasingly sustainable."
+    publishedDateTime: 2024-02-22T13:44:00Z
+    webUrl: "https://www.wsj.com/tech/ai/nvidia-earnings-show-the-strength-of-ai-spendingand-the-company-05dc713c?mod=russia_whatsnews_pos2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "Buy Rating on Microsoft: Strategic AI Partnerships Poised to Enhance SaaS Offerings and Operating Margins"
     excerpt: "Havemeyer believes that by integrating Mistral’s sophisticated AI models within Microsoft’s Azure AI infrastructure, the tech giant stands to potentially infuse its SaaS offerings with next-generation capabilities. This move could allow Microsoft to ..."
     publishedDateTime: 2024-02-26T15:55:00Z
@@ -462,6 +517,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Nvidia's earnings soar as AI hits the mainstream"
+    excerpt: "The surge in Nvidia’s earnings has made the chip-making company the third-most valuable US-listed company in the stock market, following Microsoft and Apple, having stepped over Amazon and Alphabet to do so. The results run in favor of AI technologies ..."
+    publishedDateTime: 2024-02-23T10:32:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43749/nvidias-earnings-soar-as-ai-hits-the-mainstream"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fotolia_32602248_subscription_l(1)_1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Nvidia and AI fuel market frenzy"
+    excerpt: "Nvidia, which two years ago made most of its money from selling graphics cards for computer games, has now become the world’s third largest company by market value."
+    publishedDateTime: 2024-02-24T05:56:00Z
+    webUrl: "https://www.wsws.org/en/articles/2024/02/24/kelf-f24.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 39
+    images:
+      - url: "https://www.wsws.org/asset/49eb1a00-3ba0-4e35-b8c5-ee263a717b10?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
     excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."
     publishedDateTime: 2024-02-22T12:30:00Z
@@ -557,6 +640,24 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 25
+  - title: "Nokia and Nvidia partner for AI mobile networks"
+    excerpt: "Telco OEM Nokia plans to develop AI-ready radio access network (RAN) solutions in partnership with GPU darling Nvidia. As part of Nokia's anyRAN effort, the companies will develop cloud-network technology and explore how AI can revolutionize the industry."
+    publishedDateTime: 2024-02-24T20:07:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nokia-and-nvidia-partner-on-ai-mobile-networks/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
+  - title: "Nvidia's surge ripples across stock market - lifting AI, tech and semiconductor ETFs"
+    excerpt: "The Global X Robotics & Artificial Intelligence ETF BOTZ, which has around $3 billion of assets under management, closed 4.4% higher, according to FactSet data. Megacap semiconductor company ..."
+    publishedDateTime: 2024-02-22T14:02:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20240222735/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 12
 
 secured: "Y0luno3mykbi0XyopUeCB1WAYYNVGGyXJzNnibYwMHSzHWwyMCWB21gG9RTKwJ5/ywvDPUGXMfAMG6QeAuLHrNIrc8V9bpS52RKzb2WfW8Z2YGNSWhpmCcyQYD6MixxdOZYef4iMky9GnlmHPJpFGDj95OBuqsfUJ6WtGLf1b5k5l0+DNYjkVWXGVVga1UvuwunwtyZuCt4a5qQdbYtNFBgshL4AwPLHOOw/RPUI3K0gmV9bCxrjFhnCgrK0tHR0J58benACCqX4YqiH0o+Y7dKM1tv67O6AhvmmgjEgDUEuMEjVB7P4PKGu1AhJ+PGGY24eR09RgfbWJ7qO6CzH8EAdVU+Y0+mG7gaW5ejZCMA=;G/xzR2WLpJGsr+ZgUBPugQ=="
 ---

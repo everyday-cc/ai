@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Canadian university vending machine error reveals use of facial recognition"
-excerpt: "Snack dispenser at University of Waterloo shows facial recognition message on screen despite no prior indication"
-publishedDateTime: 2024-02-23T17:56:00Z
-originalUrl: "https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo?ref=upstract.com"
-webUrl: "https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo?ref=upstract.com"
+excerpt: "University of Waterloo dispenser displays facial recognition message despite no prior indication it was monitoring students A malfunctioning vending machine at a Canadian university has ..."
+publishedDateTime: 2024-02-23T19:41:00Z
+originalUrl: "https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
+webUrl: "https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
 ampWebUrl: "https://amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
 type: article
@@ -113,6 +113,6 @@ related:
       domain: blogto.com
     quality: 14
 
-secured: "w4jps0XkTfokWZJyp6U3CjJLDoudoisLsnjRWPrIfaU+hGkbh3rHzK3YlSG0O+m7q3gT2fd3L5o+GIUt9V7bfgadvtdx1ZrOKm/sE44c9C27oEnBbTdzwd31oUqLAztcJ/1GIojiGPXVJlJ789k+NAgXEQeCWXH0A94aRRt9StCX6ZdSs/TvcW9wZerS4VrqWPxW2K32dsI8KelR/kon1wwv9+oSpyhZzTBqHV+I8Fg7/qPzheq2fwIhkp7MsWGq4tGIzFIzK1Qr+wbvd9aSORdu/Pp7GfepcjOk1Gh7Eg6XqUojTzDuEGhG+Tb5hVPJeH7gjP47XIA3fZQiS7+hHA0MPdlSwZlFuVL9Va7c25QbwsI5yO3yiRJ+i8X9Cq2sfCy7m5M7Ctv3xNMtflLSMyWmn5CnYpua5ucdhmXGBPo/8HjBbajC8sJ0xXP2bgcQV90nwAUpIatF3unNIeEJVCj4GCvF0s6G3QSmIGLqnMIHUuYDuMnhuE9tDcwTY120ST+41wjfZwVIbrroW8qIdA==;p49BwcFT2J9aIojRfzXuzQ=="
+secured: "6z+hJgl15/Iqt1+5olhVPSrrak//S8XkP1vGa2rapNc1M3PlF2HD0c3st/BKRCJUVwrtisj1Kx5tMlpTD66VM5n7G41F6Tv8j4dhetWB88x6RwG2HJbRWv+Wx7pn0JJ/SDiBh17OwlqZDa5j93yvTtWyLFXPxqnYGGXSYfCRoIUsNGTm5OHwIR1CUkV4qI1dXnhamG2b1bA2h87F4EI0xWdHvbHfPMi+H+MwdqFb84QXVh2DWVpDE5DkXM1MVePHGGlkYpcC9SJB9On/mKFNTduAvRJraDP64nZXRd8UJ1JW/+K1v3it2BXxXApZsvFP7i06GBFztEMlbK2iFYGluhtTGaomNQhI8dQP5ZJIoVY=;YS2MJXUdXvcH0OS1I09YOg=="
 ---
 

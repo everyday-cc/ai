@@ -197,17 +197,6 @@ related:
         width: 2560
         height: 1336
         isCached: true
-  - title: "Google's Gemini AI accused of acting too 'woke', company admits mistake"
-    excerpt: "The row erupted after a user pointed out that Gemini, earlier known as Bard, was showing inaccurate images when asked to furnish certain information"
-    publishedDateTime: 2024-02-22T10:53:00Z
-    webUrl: "https://www.business-standard.com/companies/news/google-s-gemini-ai-accused-of-acting-too-woke-company-admits-mistake-124022200663_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/google-s-gemini-ai-accused-of-acting-too-woke-company-admits-mistake-124022200663_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/google-s-gemini-ai-accused-of-acting-too-woke-company-admits-mistake-124022200663_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
   - title: "Google apologizes for ‘offensive’ AI Gemini image generator"
     excerpt: "Google apologized for its overly diverse artificial intelligence image generator, which appeared unable to depict white people in any fashion."
     publishedDateTime: 2024-02-24T04:06:00Z

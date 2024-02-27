@@ -43,22 +43,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Serco ordered to stop using facial recognition technology to monitor staff"
-    excerpt: "Biometric data of more than 2,000 staff at 38 leisure centres was unlawfully processed to check attendance, watchdog finds"
-    publishedDateTime: 2024-02-23T15:08:00Z
-    webUrl: "https://www.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data"
-    ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/f3eb9064c7eebda6ad4ccb3ba8cbbb086373408d/0_254_2510_1506/master/2510.jpg?width=620&quality=85&auto=format&fit=max&s=4413607da87aca8a8593db9e01911b28"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Facial recognition: Coming soon to an airport near you"
     excerpt: "This passenger screening using facial recognition software and made available to select travelers at La Guardia by Delta Air Lines and the Transportation Security Administration, is just one example of how biometric technology, which uses an individual’s ..."
     publishedDateTime: 2024-02-25T05:00:00Z

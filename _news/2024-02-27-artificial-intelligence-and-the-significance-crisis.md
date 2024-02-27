@@ -27,20 +27,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
-  - title: "Artificial intelligence and 6G technologies for achieving as safe interconnected mobility as possible"
-    excerpt: "A multidisciplinary team from the UPC is working on the development of a network that, combining artificial intelligence with 6G technologies, remote"
-    publishedDateTime: 2024-02-22T09:38:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/243001"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 22
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/db897644-a15c-42ce-ad84-4369b9ac29e2--r2ksm.jpg"
-        width: 400
-        height: 217
-        isCached: true
 
 secured: "O+LrSyMmUirSjj/86SOYpQCIGap9ibH25VZNT61Xs4950xIRtEUOEsK1emZb1dfjXEZPx4nQNQQncvbSHKwFf1cZzPj3LOW5Vl2k3otyEqxLFQmau4mDAV5lsKPGORoWogfv08QBI748D9QEWre0o/AgaORjBgqbX7lHXnvNB0KDSUiOp4D0lf7X6BnSDtdfBnVuBpPbdjP1M70cbpdLW3D0uW7sucblx1liHpottrNey7eQBYIgX1MgKIBiH6uQHTU0CISs1BDZ8sYHL2X9qAp4GJr7TD+GtSS7fB9Rf8UAFjK+CSqQ9RKD2zzq6SHLZnp0aBM2QSTyEaS7UF0LqlpEUGpMJVczMCmcSNWFFKs/vS7lRCIYzXfjSjMS2w27JcdGYBKswVCH+ZLXDiqJi1k8Hp4fKBjIVZ7L2XdaByV8RIAd2K6e3b/4kE/aWL7eTMeNARHXxPKDwVoJcowadVzsRymXtugBDFjLRskiOb0etx2G5u8iTCFffUkAe2EbE9VA71PGp+OSd5vOiQm//A==;40ciY8cndJCKe5TgIr3+eg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/google-gemma-open-source-ai-performa
 webUrl: "https://www.geeky-gadgets.com/google-gemma-open-source-ai-performance/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Gemma AI vs Llama-2 performance benchmarks"
-    excerpt: "The Gemma suite consists of four models. Two of these are particularly powerful, with 7 billion parameters, while the other two are still quite robust with 2 billion parameters. The number of parameters is a way of measuring how complex the models are and ..."
-    publishedDateTime: 2024-02-22T10:30:00Z
-    webUrl: "https://www.geeky-gadgets.com/gemma-ai-vs-llama-2/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Gemma-vs-Llama-2.jpg"
-        width: 1280
-        height: 801
-        isCached: true
   - title: "New Gemma large language AI model from Google can run on your computer"
     excerpt: "Google has launched a new artificial intelligence (AI) large language model, Gemma, which is free to download and can run on users' computers. The AI is optimised for Nvidia graphics processing units (GPUs) for performance, and can also run in the cloud."
     publishedDateTime: 2024-02-23T04:30:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Gemma AI vs Llama-2 performance benchmarks"
-    excerpt: "The Gemma suite consists of four models. Two of these are particularly powerful, with 7 billion parameters, while the other two are still quite robust with 2 billion parameters. The number of parameters is a way of measuring how complex the models are and ..."
-    publishedDateTime: 2024-02-22T10:30:00Z
-    webUrl: "https://www.geeky-gadgets.com/gemma-ai-vs-llama-2/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Gemma-vs-Llama-2.jpg"
-        width: 1280
-        height: 801
-        isCached: true
   - title: "Google Gemma open source AI prompt performance is slow and inaccurate"
     excerpt: "Gemma AI models provide a choice between 7B parameters, for efficient deployment and development on consumer-size GPU and TPU and 2B versions for CPU and on-device applications. Both come in base and instruction-tuned variants. Despite the accessibility ..."
     publishedDateTime: 2024-02-23T09:18:00Z

@@ -97,7 +97,7 @@
       "originalUrl": "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -150,7 +150,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -281,6 +281,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-when-cloud-ai-lands-you-in-court.md",
+      "title": "When cloud AI lands you in court",
+      "excerpt": "Also, is there an AI ethics specialist on the team to ask the right questions at the right time and oversee the testing for bias and other issues that could get you dragged into court? Are only genAI systems subject to legal scrutiny? No, not really.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713221/when-cloud-ai-lands-you-in-court.html",
+      "originalUrl": "https://www.infoworld.com/article/3713221/when-cloud-ai-lands-you-in-court.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/19/11/gavel_by_thinkstock-506505112_abstract_binary_lines_fractals_by_gerd_altmann_cc0_via_pixabay_2400x1600-100815735-large-100916696-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713221/when-cloud-ai-lands-you-in-court.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713221/when-cloud-ai-lands-you-in-court.amp.html",
+      "publishedDateTime": "2024-02-23T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1440,58 +1492,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-how-the-australian-government-sees-ai-accelerating-productivity.md",
-      "title": "How the Australian Government Sees AI Accelerating Productivity",
-      "excerpt": "Regulation could inhibit the productivity gains of AI, according to the Australian Productivity Commission in a new, lengthy and wide-ranging research report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
-      "originalUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/tr_20240212-australian-government-ai-productivity.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

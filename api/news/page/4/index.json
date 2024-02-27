@@ -151,6 +151,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-23-nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs.md",
+      "title": "Nvidia’s surge ripples across stock market — lifting AI, tech and semiconductor ETFs",
+      "excerpt": "For now, Nvidia “has met lofty expectations and that will keep general AI enthusiasm intact and that is a positive for the market, broadly speaking,” said Tom Essaye, founder and president of Sevens Report Research, in a note Thursday. See: Nvidia’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766",
+      "originalUrl": "https://www.marketwatch.com/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-89200862/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766",
+      "publishedDateTime": "2024-02-22T22:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit.md",
       "title": "This fintech startup is targeting a gap in lending as banks tighten credit",
       "excerpt": "“Just because the loans are smaller doesn’t mean they’re not good.” Nvidia earnings send stock rocketing as company cheers AI ‘tipping point’ Nvidia makes Wall Street history as stock surge adds $277 billion in market cap Super Micro’s stock ...",
@@ -159,7 +211,7 @@
       "originalUrl": "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -513,7 +565,7 @@
       "originalUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -565,7 +617,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 514,
+      "heat": 594,
       "tags": null,
       "images": [
         {
@@ -816,6 +868,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-23-digs-puts-ai-in-the-center-of-building-a-home.md",
+      "title": "Digs Puts AI In The Center Of Building A Home",
+      "excerpt": "This tool enhances the build process by providing instant, detailed responses to questions related to product information, installation decisions, specifications, warranties, and more using natural language processing. Digs AI also produces a perfectly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d69484e5055638edd7b24c/0x0.jpg?format=jpg&crop=1617,909,x292,y158,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/",
+      "publishedDateTime": "2024-02-22T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-operationalizing-responsible-ai-principles-for-defense.md",
       "title": "Operationalizing responsible AI principles for defense",
       "excerpt": "Curating responsible AI is a multifaceted challenge that demands that human values be reliably and consistently reflected in our technology.\nThe post Operationalizing responsible AI principles for defense appeared first on IBM Blog.\n",
@@ -927,7 +1031,7 @@
       "originalUrl": "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1083,7 +1187,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1165,111 +1269,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-nonprofits-and-ai-determining-governance-and-corporate-structures.md",
-      "title": "Nonprofits And AI: Determining Governance And Corporate Structures",
-      "excerpt": "When it comes to emerging technologies like AI, innovative governance models are needed to ensure ... Impartial governance boards overseeing and certifying various dimensions like data practices, ethics reviews, model integrity assessments and adherence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654501b12845116962a18280/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/amp/",
-      "publishedDateTime": "2024-02-22T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry.md",
-      "title": "AI Is Getting To Work In The Highly Regulated Investment Management Industry",
-      "excerpt": "AI hit employment levels among the feted tech giants with 34,000 job losses this year. The AI “safety first” policy is resonating in the investment management industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/",
-      "originalUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d6dac3706cc5efc69fdc66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/",
-      "publishedDateTime": "2024-02-22T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

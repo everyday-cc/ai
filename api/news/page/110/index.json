@@ -2,6 +2,102 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2023-11-23-fluency-and-amazon-to-work-on-ai-and-machine-learning.md",
+      "title": "Fluency and Amazon to work on AI and machine learning",
+      "excerpt": "Fluency, the data and technology division of M&C Saatchi Group, has partnered with Amazon Web Services on scaling artificial intelligence, machine learning and generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/fluency-and-amazon-to-work-on-ai-and-machine-learning/id/5119763",
+      "originalUrl": "https://www.research-live.com/article/news/fluency-and-amazon-to-work-on-ai-and-machine-learning/id/5119763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning",
+      "publishedDateTime": "2023-11-23T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc.md",
+      "title": "Intel Talks Expansion, Meteor Lake And The Importance Of AI On The PC.",
+      "excerpt": "Intel's new Fab 34 manufacturing facility in Ireland is where its Meteor Lake next generation processors will be made. The facility is hugely important",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/",
+      "originalUrl": "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655f3639923dbc4e3c593114/0x0.jpg?format=jpg&crop=2337,1316,x75,y335,safe&height=900&width=1600&fit=bounds",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/amp/",
+      "publishedDateTime": "2023-11-23T11:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-his-team-created-a-robotic-arm-that-helps-kill-cancer-using-artificial-intelligence.md",
       "title": "His team created a robotic arm that helps kill cancer using artificial intelligence",
       "excerpt": "The robotic arm will allow doctors to more accurately monitor the progress of high-intensity focused ultrasound treatment as it is happening.",
@@ -1097,101 +1193,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-how-ai-robotics-and-machine-learning-can-improve-food-traceability.md",
-      "title": "How AI, Robotics and Machine Learning Can Improve Food Traceability",
-      "excerpt": "Advanced artificial intelligence (AI), robotics and machine learning technologies can help manufacturers improve food traceability, ensure the safety of their products and build trust with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability",
-      "originalUrl": "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/682bf491-966a-43d0-af15-f52f9bba87fc/TM-robotics-feature-Nov-22-2023-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals.md",
-      "title": "Beyond Productivity: The AI Outlook For Tax, Legal And Risk Professionals",
-      "excerpt": "It’s been just one year since GenAI mania hijacked the news cycle and set in motion a tidal wave of rampant speculation about our work lives changing forever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/",
-      "originalUrl": "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655e255ba2159086d774f253/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/",
-      "publishedDateTime": "2023-11-22T16:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/money/26150134/serco-leisure-facial-recogni
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/money/26150134/serco-leisure-facial-recognition-tech-workers/amp/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Serco ordered to stop using facial recognition technology to monitor staff"
+    excerpt: "Serco has been ordered to stop using facial recognition technology to monitor its staff for \"prioritising business interests over its employees' privacy\". The Information Commissioner's Office ..."
+    publishedDateTime: 2024-02-23T12:09:00Z
+    webUrl: "https://news.sky.com/story/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992"
+    ampWebUrl: "https://news.sky.com/story/amp/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 57
+    images:
+      - url: "https://e3.365dm.com/23/04/1600x900/skynews-facial-recognition_6112009.jpg?20230405172348"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Live: UK’s Serco ordered to stop using facial recognition to monitor staff"
     excerpt: "UK public service contractor Serco has been slammed by the country’s data watchdog for using facial recognition and fingerprint scanning to monitor and pay its staff, and ordere"
     publishedDateTime: 2024-02-22T23:41:00Z

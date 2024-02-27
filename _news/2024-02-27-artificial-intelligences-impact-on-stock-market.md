@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia shatters stock market record by adding over $230 billion in value in one day. Here’s why it’s dominating the AI chip race"
+    excerpt: "CEO Jensen Huang says early bets on AI made Nvidia “the only company that got it,” and competitors are racing to catch up."
+    publishedDateTime: 2024-02-22T21:32:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-shatters-stock-market-record-193237522.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 25
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/TWYco4gy3bqDjSoq3LKlvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/68237085b23ea912c1559e3144df1337"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "3sWv67ONgeJ3QE1ISdiFPXIUJgXZRJ6lTvOVOWc6Rn9PQ8SHd3OJgLBDj56tsHIsWuqF8qFEjshHVwIOtuwfhQsAxMXbqmWsoXsSbRuE5z0wjA1wX76MtpbMHHPbudHyz5BKoefLXZKacwxBbhKZc0We+jR2bJiAlFX6ubQRXGlLkRjTJ9LGQ7yFLrofTab1y1M8ENRFG0MaOFJLb5X6Tu8xQSwIBspmMs7XM62S8Xq2dwHXNzA6OJ8soy2QDIrOuKVOvDtTpYIf0PFec9Uj7+7/s0CEOVm4lkbpFF/r4dRqnQwyOu7gPlj70MzZ19JkBfT/WsIBwz0QYBw5jLTuBGWeHPyI5JdPlkx5J1950uI=;ha1wQVDVSlYMSraabSa06g=="
 ---

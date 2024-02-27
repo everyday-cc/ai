@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "European Chip Stocks Surge After Nvidia Sales Reach New Heights on Booming AI Demand"
-    excerpt: "Chief Executive Jensen Huang described AI as hitting the tipping point and indicated demand ... Earlier on Thursday, SoftBank Group, the parent of British chip designer Arm Holdings, advanced more than 5%, while chip-making equipment maker Tokyo Electron ..."
-    publishedDateTime: 2024-02-22T09:41:00Z
-    webUrl: "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 114
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia Lists Huawei as an AI Chip-Making Rival for the First Time"
     excerpt: "based Nvidia used to be a major supplier of chips for Chinese companies, but the situation changed after Huawei was added to a U.S. trade sanction list in 2019. Nvidia's finance chief said on a call with analysts this week that sales of AI chips to China ..."
     publishedDateTime: 2024-02-23T11:58:00Z
@@ -67,38 +51,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "5 History Lessons For Nvidia From The 80-Year History Of AI"
-    excerpt: "Predictions are difficult, but we have lots of data at our disposal that may help us make educated guesses about the future. It’s called history."
-    publishedDateTime: 2024-02-25T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65da9c4f7d1d85f773609bb1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Nvidia’s surge ripples across stock market — lifting AI, tech and semiconductor ETFs"
-    excerpt: "For now, Nvidia “has met lofty expectations and that will keep general AI enthusiasm intact and that is a positive for the market, broadly speaking,” said Tom Essaye, founder and president of Sevens Report Research, in a note Thursday. See: Nvidia’s ..."
-    publishedDateTime: 2024-02-22T22:27:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://images.mktw.net/im-89200862/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "This 1 Number May Ensure Nvidia's Artificial Intelligence (AI) Chip Dominance"
     excerpt: "Today, Nvidia controls more than 80% of the AI chip market, so the company has a clear advantage. But at the same time, rivals are doing what they can to chip away at Nvidia's lead."
     publishedDateTime: 2024-02-25T10:35:00Z
@@ -108,6 +60,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 76
+  - title: "Nvidia Acknowledges Huawei as Major AI Chip Competitor"
+    excerpt: "In a significant revelation, Nvidia has recognized Huawei as a competitor across various categories, notably in the business of artificial intelligence (AI) chips. The Santa Clara-based tech giant highlighted Huawei, a prominent player in China’s ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922"
+    ampWebUrl: "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 74
+    images:
+      - url: "https://www.telecomlead.com/wp-content/uploads/2023/08/Generative-AI-chips-NVIDIA.jpg"
+        width: 640
+        height: 399
+        isCached: true
   - title: "Nvidia reports massive revenue spike amid global AI boom"
     excerpt: "Read our ethics statement. What just happened? Nvidia reported record sales and a massive revenue spike for the fiscal year 2024 that were fueled by the global AI boom. The company's total earnings for the final quarter of 2023 came in at $22.1 billion ..."
     publishedDateTime: 2024-02-22T11:33:00Z
@@ -121,6 +89,20 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-22-image-36.jpg"
         width: 2000
         height: 1125
+        isCached: true
+  - title: "Excellent Nvidia Earnings Confirm the Epic Opportunity in AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Last night, Nvidia (NVDA) – the world’s largest artificial"
+    publishedDateTime: 2024-02-22T18:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/excellent-nvidia-earnings-confirm-the-epic-opportunity-in-ai-1033094503"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://lh7-us.googleusercontent.com/Z5VTFPUMm5meBXH_gRKqXtVbV2NTILukld7NtaDUf24IolIiFxiucZjtFfjAhpPvDYx6d9Cr4YHlo3Wd-eVucz7Fz-xYeZXGu1TJtKZV4AWsT0QU5uL1581xb3o-SlSyMupzlA2RjE4bdkjqCVrdCQ"
+        width: 1523
+        height: 674
         isCached: true
   - title: "Nvidia's Oct-Dec Results Reflects Its Future As Chip Maker Scrambles To Meet AI Demand"
     excerpt: "Earnings surged more than eightfold with results exceeding analyst expectations. The strong results were on the back of a boom in Artificial Intelligence (AI) with chipmakers scrambling to meet demand. CEO Jensen Huang described AI as hitting \"the tipping ..."
@@ -137,6 +119,20 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202402/65d7469792e87-nvidias-oct-dec-results-reflects-its-future-as-chip-maker-scrambles-to-meet-ai-demand-220526548-16x9.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nvidia boss Jensen Huang says children shouldn't learn to code as AI can do all the work"
+    excerpt: "Read our ethics statement. A hot potato ... The Nvidia boss believes that AI has made the need to learn programming redundant, and humans should instead focus on more important skills such as biology, education, manufacturing, or farming."
+    publishedDateTime: 2024-02-26T05:18:00Z
+    webUrl: "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 60
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2022/12/2022-12-29-image-2.jpg"
+        width: 2000
+        height: 1042
         isCached: true
   - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
     excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
@@ -206,48 +202,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bezos, Nvidia, and OpenAI back humanoid robot startup Figure AI"
-    excerpt: "Figure AI is in the process of securing approximately $675 million in a funding round, reflecting a pre-money valuation of around $2 billion."
-    publishedDateTime: 2024-02-24T01:18:00Z
-    webUrl: "https://www.republicworld.com/tech/artificial-intelligence/bezos-nvidia-and-openai-back-humanoid-robot-startup-figure-ai/"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 54
-    images:
-      - url: "https://img.republicworld.com/rimages/NEW-DSCF1820Desktop10923A3-170875733297316_9.webp"
-        width: 1779
-        height: 1001
-        isCached: true
-  - title: "How the AI frenzy put a rocket under chip maker Nvidia"
-    excerpt: "Nvidia, the maker of graphics processing units (GPU) revealed last week that it earned $30 billion in annual profit — sales doubled to $61 billion. Nvidia’s stock surged 16.4 per cent to $785.38, valuing the company at $1.9 trillion. The only companies ..."
-    publishedDateTime: 2024-02-25T00:19:00Z
-    webUrl: "https://www.thetimes.co.uk/article/nvidia-earnings-stock-share-prices-wall-street-w9gpssjz8"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F46ff9054-e1e9-4f27-8daf-be2cea7c2859.jpg?crop=3716%2C2090%2C0%2C193&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "The AI chip behind Nvidia’s supersonic stock rally"
-    excerpt: "Demand for Nvidia’s H100 is so great that some customers are having to wait as long as six months to receive it."
-    publishedDateTime: 2024-02-25T02:02:00Z
-    webUrl: "https://www.moneyweb.co.za/news/tech/nvidia-h100-this-is-the-chip-behind-ais-supersonic-stock-rally/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 54
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2024/02/407967706-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Nvidia briefly hits $2trn valuation as demand for AI chips soars"
     excerpt: "AI is a gift that keeps generating for Nvidia as it rides on a high after demand for its chips soars globally. Nvidia briefly hit the $2trn valuation mark for the first time on Friday (23 February) soon after its latest earnings call that forecasted a ..."
     publishedDateTime: 2024-02-26T11:00:00Z
@@ -262,20 +216,31 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Why is There a Shortage of Nvidia AI Chips?"
-    excerpt: "TSMC’s (Taiwan Semiconductor) 2.5D advanced packaging CoWoS (Chip on wafer and wafer on substrate) technology is currently the primary technology used for AI chips. The production capacity of CoWoS packaging technology is a major bottleneck in AI chip ..."
-    publishedDateTime: 2024-02-25T18:40:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/02/why-is-there-a-shortage-of-nvidia-ai-chips.html"
+  - title: "India’s digital public infra to lay basis for sovereign AI, says Nvidia senior VP"
+    excerpt: "Similar to DPI, Sovereign AI can help the government focus on real-life use cases in healthcare, agriculture, governance, language translation, etc. to maximise economic development. “From Nvidia’s perspective, what is important is the growth and ..."
+    publishedDateTime: 2024-02-27T04:32:00Z
+    webUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/"
+    ampWebUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 54
     images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-25-at-9.34.39-AM-1.jpg"
-        width: 1500
-        height: 1172
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-22T175543.891.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "AI Boom Pushes Nvidia's Market Value To $2 Tln"
+    excerpt: "Chipmaker Nvidia's (NVDA) market capitalization hit the $2 trillion mark, fueled by robust demand for AI chips, during the intraday"
+    publishedDateTime: 2024-02-23T20:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-boom-pushes-nvidia-s-market-value-to-2-tln-1033098929"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Chip maker Nvidia hits $2 trillion valuation amid unstoppable demand for AI chips"
     excerpt: "AI requires significant processing power, creating huge opportunities for companies that make computer chips, especially graphics processing units (GPUs). The company's revenues have increased more than two-fold in the last year as it won new contracts ..."
     publishedDateTime: 2024-02-23T16:00:00Z
@@ -290,70 +255,96 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia’s AI Dominance Heralds New Era in Computing"
-    excerpt: "In a tech industry renowned for short-lived frenzies, some chip executives and analysts see the AI boom as increasingly sustainable."
-    publishedDateTime: 2024-02-22T13:44:00Z
-    webUrl: "https://www.wsj.com/tech/ai/nvidia-earnings-show-the-strength-of-ai-spendingand-the-company-05dc713c?mod=russia_whatsnews_pos2"
+  - title: "NVIDIA samples two new AI GPUs for China, both comply with US export restrictions"
+    excerpt: "NVIDIA is offering customers samples of two new artificial intelligence chips for the Chinese market, where NVIDIA CEO Jensen Huang wants to defend its market dominance in China against the tides of US export restrictions on AI GPUs in the country."
+    publishedDateTime: 2024-02-25T12:19:00Z
+    webUrl: "https://www.tweaktown.com/news/96429/nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions/index.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 49
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96429_804_nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
+  - title: "As Nvidia's downgraded AI chips go unwanted in China, who is the biggest beneficiary?"
+    excerpt: "Recently, DIGITIMES has had several reports and comments regarding Nvidia's launch of the 2-gen downgraded AI chip H20 designed exclusively for China, but a lack of interest from Chinese customers. It's worth discussing which semiconductor company will..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.digitimes.com/news/a20240221PD213/ai-chips-huawei-china-ai-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
     quality: 47
-  - title: "Nvidia's earnings soar as AI hits the mainstream"
-    excerpt: "The surge in Nvidia’s earnings has made the chip-making company the third-most valuable US-listed company in the stock market, following Microsoft and Apple, having stepped over Amazon and Alphabet to do so. The results run in favor of AI technologies ..."
-    publishedDateTime: 2024-02-23T10:32:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43749/nvidias-earnings-soar-as-ai-hits-the-mainstream"
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240221pd213_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Cathie Wood Can Only Watch as Nvidia Rides AI Wave She Foresaw"
+    excerpt: "Annual economic growth could accelerate to as much as 50%, thanks to breakthroughs in the world of artificial intelligence."
+    publishedDateTime: 2024-02-22T17:42:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-22/cathie-wood-can-only-watch-as-nvidia-rides-ai-wave-she-foresaw"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Bezos, Nvidia Join $675 Million Funding Round for a Startup Making Humanoid AI-Powered Robots"
+    excerpt: "With a billionaire backing the project, it sounds more like a Hollywood pitch deck than real life. But it is real."
+    publishedDateTime: 2024-02-26T18:52:00Z
+    webUrl: "https://www.inc.com/kit-eaton/jeff-bezos-nvidia-help-inject-675-million-into-a-startup-building-human-like-ai-powered-robots.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 43
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/jeff-bezos-inc-magazine_537826_bzkhkd.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Nvidia races to $2T mark as AI mania sparks Wall Street tech rally: ‘Producing the best chips’"
+    excerpt: "Nvidia galloped to a $2 trillion market value on Thursday after the bellwether for AI chip demand once again exceeded Wall Street’s sky-high expectations, re-igniting a global rally in tech stocks. The chipmaker returned as the third most valuable US ..."
+    publishedDateTime: 2024-02-22T17:23:00Z
+    webUrl: "https://nypost.com/2024/02/22/business/nvidia-races-to-2t-mark-as-ai-mania-sparks-wall-street-tech-rally/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 42
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2024/01/nvidia-world.jpg?quality=75&strip=all&w=389&h=260&crop=1"
+        width: 389
+        height: 260
+        isCached: true
+  - title: "Huawei HONOR MagicBook Pro 16 AI laptop"
+    excerpt: "Complementing the processors is the NVIDIA GeForce RTX 40 series Laptop GPU, which ensures smooth graphics and efficient multitasking capabilities. But the AI in this laptop does more than just enhance its power; it also improves how users interact with ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.geeky-gadgets.com/huawei-honor-magicbook-pro-16-ai-laptop/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 39
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fotolia_32602248_subscription_l(1)_1.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-laptop.jpg"
+        width: 1280
+        height: 810
         isCached: true
-  - title: "Nvidia and AI fuel market frenzy"
-    excerpt: "Nvidia, which two years ago made most of its money from selling graphics cards for computer games, has now become the world’s third largest company by market value."
-    publishedDateTime: 2024-02-24T05:56:00Z
-    webUrl: "https://www.wsws.org/en/articles/2024/02/24/kelf-f24.html"
+  - title: "Nvidia briefly hits $2 trillion valuation as AI frenzy grips Wall Street"
+    excerpt: "The milestone followed another bumper revenue forecast from the chip designer that drove up its market value by $277 billion on Thursday - Wall Street's largest one-day gain on record. Its rapid ascent in the past year has led analysts to draw parallels to the picks and shovels providers during the gold rush of 1800s as Nvidia's chips are used by almost all generative AI players from chatGPT-maker OpenAI to Google."
+    publishedDateTime: 2024-02-23T16:24:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street?amp"
     type: article
     provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 39
-    images:
-      - url: "https://www.wsws.org/asset/49eb1a00-3ba0-4e35-b8c5-ee263a717b10?rendition=1600x900"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Nvidia app launches in beta: Nvidia's new GPU control panel is much faster, no log in required"
-    excerpt: "One is RTX Dynamic Vibrance, which Nvidia says is an AI-enhanced adaptive vibrance feature you can apply ... with AMD's offering and no longer a point of discussion when comparing GPU brands. If you want to try out the Nvidia App beta you should be able ..."
-    publishedDateTime: 2024-02-22T10:43:00Z
-    webUrl: "https://www.techspot.com/news/101985-nvidia-app-launches-beta-nvidia-new-gpu-control.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 37
-  - title: "Nvidia shares jump 14% after sales surge on AI ‘tipping point’"
-    excerpt: "World’s most valuable chip company predicts even stronger sales on back of artificial intelligence spending frenzy"
-    publishedDateTime: 2024-02-22T10:08:00Z
-    webUrl: "https://www.ft.com/content/44b95cc8-9c94-452c-a35b-1f25ba9b540a?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "Nvidia’s stock soars as chip maker leaves ‘no doubt’ of AI boom"
-    excerpt: "The already-hefty demand for the company’s data center chips and graphics processing units (GPUs) continues to grow as firms scramble to expand their AI offerings. Nvidia’s silicon dominates the global market for AI chips, where it counts the likes of ..."
-    publishedDateTime: 2024-02-22T09:35:00Z
-    webUrl: "https://globalnews.ca/news/10310115/nvidia-stock-earnings-feb-2024/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 34
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 38
   - title: "Nvidia H100: This is the chip behind AI's supersonic stock rally"
     excerpt: "How did Nvidia become a leader in AI? The Santa Clara, California company is the world leader in graphics chips, the bits of a computer that generate the images you see on the"
     publishedDateTime: 2024-02-23T04:33:00Z
@@ -363,20 +354,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 34
-  - title: "Nvidia shatters stock market record by adding over $230 billion in value in one day. Here’s why it’s dominating the AI chip race"
-    excerpt: "CEO Jensen Huang says early bets on AI made Nvidia “the only company that got it,” and competitors are racing to catch up."
-    publishedDateTime: 2024-02-22T21:32:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-shatters-stock-market-record-193237522.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 25
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/TWYco4gy3bqDjSoq3LKlvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/68237085b23ea912c1559e3144df1337"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Nvidia surges on AI boom, rally on Wall Street"
     excerpt: "Nvidia’s stock price surged Thursday after delivering another blowout quarter, setting off a rally in other technology companies that carried Wall Street to another record high."
     publishedDateTime: 2024-02-23T11:00:00Z
@@ -385,15 +362,6 @@ related:
     provider:
       name: Antelope Valley Press
       domain: avpress.com
-    quality: 19
-  - title: "Nokia and Nvidia partner for AI mobile networks"
-    excerpt: "Telco OEM Nokia plans to develop AI-ready radio access network (RAN) solutions in partnership with GPU darling Nvidia. As part of Nokia's anyRAN effort, the companies will develop cloud-network technology and explore how AI can revolutionize the industry."
-    publishedDateTime: 2024-02-24T20:07:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nokia-and-nvidia-partner-on-ai-mobile-networks/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
     quality: 19
   - title: "AI-darling Nvidia's earnings could boost its sway over U.S. stock market"
     excerpt: "No single stock has embodied the U.S. market’s artificial intelligence fervor as much as Nvidia Corp, leaving Wall Street tied to the fluctuations of its volatile shares. The semiconductor company, whose chips are considered the gold standard in the AI industry,"
@@ -422,15 +390,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "Nvidia's surge ripples across stock market - lifting AI, tech and semiconductor ETFs"
-    excerpt: "The Global X Robotics & Artificial Intelligence ETF BOTZ, which has around $3 billion of assets under management, closed 4.4% higher, according to FactSet data. Megacap semiconductor company ..."
-    publishedDateTime: 2024-02-22T14:02:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20240222735/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 12
   - title: "Chipmaker Nvidia Just Posted Unbelievable Revenue Growth. It's All Down to the AI Revolution"
     excerpt: "The reason is simple, according to the company's CEO Jensen Huang. It's because \"accelerated computing and generative AI have hit the tipping point,\" and demand for powerful chips that can help with all the number crunching needed to make AI work is \"surging worldwide across companies, industries and nations.\""
     publishedDateTime: 2024-02-22T18:15:00Z

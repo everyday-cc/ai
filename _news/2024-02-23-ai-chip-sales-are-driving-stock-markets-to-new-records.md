@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3713240/ai-chip-sales-are-driv
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.amp.html"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia shatters stock market record by adding over $230 billion in value in one day. Here’s why it’s dominating the AI chip race"
+    excerpt: "CEO Jensen Huang says early bets on AI made Nvidia “the only company that got it,” and competitors are racing to catch up."
+    publishedDateTime: 2024-02-22T21:32:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-shatters-stock-market-record-193237522.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 25
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/TWYco4gy3bqDjSoq3LKlvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/68237085b23ea912c1559e3144df1337"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence’s Impact on Stock Market"
     excerpt: "Artificial intelligence (AI) has emerged as a significant force behind the impressive gains witnessed in the stock market over the past year. This revolutionary technology has made its mark across various sectors, including healthcare and finance ..."
     publishedDateTime: 2024-02-26T22:40:00Z

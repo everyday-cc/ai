@@ -2,6 +2,110 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2023-12-09-amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge.md",
+      "title": "AMD Unveils AI Accelerators From Cloud To Client With MI300 Leading The Charge",
+      "excerpt": "The market will likely be eager for these new AI silicon engines and tools from AMD, and it's going to be a dogfight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657344159dd114776e33d37c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/amp/",
+      "publishedDateTime": "2023-12-08T21:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-mind-control-and-mayhem-in-three-new-magic-shows.md",
+      "title": "Mind Control and Mayhem in Three New Magic Shows",
+      "excerpt": "There is something for everyone, even the kids, in “Mind Mangler,” “The Magician” and “Mario the Maker Magician.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/12/08/theater/magic-shows-mind-mangler-mario-maker-magician.html",
+      "originalUrl": "https://www.nytimes.com/2023/12/08/theater/magic-shows-mind-mangler-mario-maker-magician.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07magic-notebook-qcpf/07magic-notebook-qcpf-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T21:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-09-artificial-intelligence-creates-terrible-iowa-superhero-watch.md",
       "title": "Artificial Intelligence Creates Terrible Iowa Superhero [WATCH]",
       "excerpt": "Artificial Intelligence can be an incredibly useful tool for many people daily. We use AI in our phones, automated cars, online shopping, advertising, smart thermostats, etc. At its core, AI is the ability of a machine to display human-like capabilities such as reasoning,",
@@ -1078,93 +1182,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-windows-12-and-the-coming-ai-chip-war.md",
-      "title": "Windows 12 and the coming AI chip war",
-      "excerpt": "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.html",
-      "originalUrl": "https://www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/06/shutterstock_571888840-100941708-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.amp.html",
-      "publishedDateTime": "2023-12-08T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-how-google-deepminds-ai-breakthrough-could-revolutionise-chip-battery-development.md",
-      "title": "How Google DeepMind’s AI breakthrough could revolutionise chip, battery development",
-      "excerpt": "AI researchers have predicted the structures of more than 2 million new materials, and published a list of the 381,000 most stable ones. They say their work is currently equivalent to nearly 800 years of knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/google-AI-deepmind.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/lite/",
-      "publishedDateTime": "2023-12-08T06:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

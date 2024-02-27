@@ -33,6 +33,20 @@ related:
         width: 1060
         height: 1600
         isCached: true
+  - title: "Algoritmic Lab's Revolutionary New AI and Blockchain Ecosystem: Stalwart AI"
+    excerpt: "The foundation of the Blockchain Stalwart is the Cosmos SDK, known for its reliability and versatility in blockchain development. Stalwart seamlessly integrates all Cosmos blockchains through the IBC module. Algoritmic Lab's goal in creating Stalwart was to create a truly scalable solution for digital asset management."
+    publishedDateTime: 2024-02-27T10:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/algoritmic-labs-revolutionary-new-ai-and-blockchain-ecosystem-stalwart-ai-1033106456"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://images.newsfilecorp.com/files/8871/199218_press_release_1_550.jpg"
+        width: 550
+        height: 364
+        isCached: true
   - title: "The future is woven with the threads of AI, Edge & blockchain"
     excerpt: "The future is being redefined by the interwoven threads of Edge computing, blockchain, and AI. In the dynamic landscape of India’s SaaS industry, Sudip Banerjee, CTO, APJ, Zscaler, highlights the promising trajectory of growth."
     publishedDateTime: 2024-02-25T11:37:00Z

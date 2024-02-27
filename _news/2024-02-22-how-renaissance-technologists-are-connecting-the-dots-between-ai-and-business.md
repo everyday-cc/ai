@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence and 6G technologies for achieving as safe interconnected mobility as possible"
-    excerpt: "A multidisciplinary team from the UPC is working on the development of a network that, combining artificial intelligence with 6G technologies, remote"
-    publishedDateTime: 2024-02-22T09:38:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/243001"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 22
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/db897644-a15c-42ce-ad84-4369b9ac29e2--r2ksm.jpg"
-        width: 400
-        height: 217
-        isCached: true
   - title: "Artificial Intelligence and the Significance Crisis"
     excerpt: "The most likely cause of this is a content blocker on your computer or network. Please allow access to our site, and then refresh this page.  You may then be asked to log in, create an account if you don't already have one,  or subscribe."
     publishedDateTime: 2024-02-26T21:25:00Z

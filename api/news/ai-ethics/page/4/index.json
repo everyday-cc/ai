@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-25-ai-naughty-and-nice-2023-headliners.md",
+      "title": "AI Naughty And Nice 2023 Headliners",
+      "excerpt": "It was a year of incredible naughty and nice developments advancing the field of Artificial Intelligence. 12 examples are provided on Santa Claus's 2023 register.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6589f1adc974168215d62aea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/amp/",
+      "publishedDateTime": "2023-12-25T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-24-a-call-for-a-systemic-dismantling-these-women-refuse-to-be-hidden-figures-in-the-development-of-ai.md",
       "title": "A Call For A Systemic Dismantling: These Women Refuse To Be Hidden Figures In The Development Of AI",
       "excerpt": "This convergence of events: the week at OpenAI and the dreaded New York Times article shed light on a disconcerting reality—the increasing marginalization of women in artificial intelligence, a glaring lack of recognition and lack of respect for their work that is emblematic within both industry and media.",
@@ -1357,49 +1409,6 @@
       "provider": {
         "name": "The Indian Express",
         "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative.md",
-      "title": "Atlanta Local Gov Leaders Tapped for AI Ethics Initiative",
-      "excerpt": "Atlanta nonprofit, activist and educational leaders will be part of a new ethics council on artificial intelligence co-chaired by Sam Altman, CEO of OpenAI, the company behind ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative",
-      "originalUrl": "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/7145fd7/2147483647/strip/true/crop/940x457+0+91/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F3a%2F22%2F6a1ba91c0cab40a7c7c963fa06a1%2Fshutterstock-584819980.jpg",
-          "width": 1440,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T15:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
         "images": null,
         "publishers": null,
         "authors": null

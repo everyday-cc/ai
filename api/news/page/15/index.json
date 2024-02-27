@@ -2,6 +2,91 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-02-15-use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking.md",
+      "title": "Use PC without mouse or by speech alone; Use mouse without clicking",
+      "excerpt": "In this post, we will show you how to use your PC without the mouse or by speech alone or use your mouse without clicking by moving it only. Windows offers built-in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewindowsclub.com/use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking",
+      "originalUrl": "https://www.thewindowsclub.com/use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thewindowsclub.com/wp-content/uploads/2024/02/Work-by-Speech-in-action.jpg",
+          "width": 700,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-uspto-warns-against-blind-reliance-on-artificial-intelligence.md",
+      "title": "USPTO Warns Against Blind Reliance on Artificial Intelligence",
+      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
+      "originalUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI%20as%20business%20person%20lawyer.jpg?h=c4779ecb&itok=-TWDsoa7",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
+      "publishedDateTime": "2024-02-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess.md",
       "title": "UTS Australian Artificial Intelligence Institute (AAII) and VADR Media Collaborate to Combat Cheating in Online Chess",
       "excerpt": "The University of Technology Sydney (UTS) Australian Artificial Intelligence Institute (AAII) and VADR Media are excited to announce a new research and development partnership aimed at combating cheating in online chess. This collaboration follows VADR ...",
@@ -1105,101 +1190,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-is-ai-going-to-transform-higher-education-and-how.md",
-      "title": "Is AI Going To Transform Higher Education And How?",
-      "excerpt": "Seizing an educational leadership opportunity, Touro University embarked recently on a pioneering journey to realize AI’s benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2024/02/14/is-ai-going-to-transform-higher-education-and-how/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2024/02/14/is-ai-going-to-transform-higher-education-and-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-the-text-file-that-runs-the-internet.md",
-      "title": "The text file that runs the internet",
-      "excerpt": "The robots.txt file governs a give and take; AI feels to many like all take and ... Web crawlers are generally fairly simple. They start on a well-known website, like cnn.com or wikipedia.org ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders",
-      "originalUrl": "https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/WFqBb11u9zi1lsts2WBWjivX0rg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25282612/246992_AI_at_Work_TXT_FILE_ECarter.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

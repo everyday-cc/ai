@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-confused-googles-most-adv
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s new AI bot pauses image generation tool after race controversy"
-    excerpt: "Google Gemini, formerly known as Google Bard, was launched in March 2023 in limited release as a chatbot powered by Google’s large language model. The product was renamed in February as “Gemini” to reflect the “advanced tech at its core” after ..."
-    publishedDateTime: 2024-02-22T09:22:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/2867994/googles-ai-bot-pauses-image-generation-race-controversy/"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 19
   - title: "Google’s AI bot accused of left-wing bias"
     excerpt: "“Three weeks ago, we launched a new image generation feature for the Gemini conversational app (formerly known as Bard), which included the ability to create images of people. It’s clear that this feature missed the mark,” Google’s Knowledge and ..."
     publishedDateTime: 2024-02-26T14:02:00Z

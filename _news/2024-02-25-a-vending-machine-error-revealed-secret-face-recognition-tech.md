@@ -60,9 +60,9 @@ related:
         height: 600
         isCached: true
   - title: "Canadian university vending machine error reveals use of facial recognition"
-    excerpt: "Snack dispenser at University of Waterloo shows facial recognition message on screen despite no prior indication"
-    publishedDateTime: 2024-02-23T17:56:00Z
-    webUrl: "https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo?ref=upstract.com"
+    excerpt: "University of Waterloo dispenser displays facial recognition message despite no prior indication it was monitoring students A malfunctioning vending machine at a Canadian university has ..."
+    publishedDateTime: 2024-02-23T19:41:00Z
+    webUrl: "https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
     ampWebUrl: "https://amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
     type: article
@@ -113,6 +113,6 @@ related:
       domain: blogto.com
     quality: 14
 
-secured: "+bbm+whzesPtTRZXqYXFs/MA4zW3aNG6ODYBNvM5yjbyWIY0av3G8ICFTc7vZgHY7OzOiqGbsqsXCQaaTZFGtr0uWB6+TrkAMHMr9WU7vnP0UYeF2Tm7k/cMXf8vIfPHEWwHvKIL4iAJjxjCuil06S/Ed7PhhgUD9X/+NKnWhCN5MqpD0PtmVS6OWcTuqDZEEJfPJimoMsEKwxtRE/9r5Lx0s5K3CsdYVy8THquNt2TdfQ3wgc/lDfHcnwYjv+kIcX9vX3xPhZuUKi3oPDwvnHwe5KTF1b+VT9HckuD3sounnBoOf5ddzFRwrsxMMh12qLnCpToAPxMX27LugQr45bf/WvWeQcpSeCg6c6gIWiM=;FfzkOLFvGfbHHflYpIq5MA=="
+secured: "UUoPSp/9+Js8M8OlPk4qmGNZEb5JpVu1Ckd6VTq5bAMdhS5MQMEq9uic+SicAfcnOByFu4B5gWRRGCl0QZtloId4diiVz3VNMOeOVlMth3ljKCch7oRPkTZQepH8ePNF02zV/sWEM3lPJr+thNZ/+x/EA9tbfPpMuzxqGsT2qi23WiwrsRk+wWY0UHkPxuOzqBd+O0oRVpwczl1oxOTTaAYCNxFXXRIBETVewWWXVwp2UIMB96gzWArpnBBRjAi/Vjc/Ft+wWJg+cvYbLw6tFn1Ux/RriEAmEpBCTyaH5uCXw/LTQyvago9fbKVF7iDaCUFHx0NGp8FusxLWwth7M48uD7WyN4/LgzmLaCbjMcQ=;Q3exlAySE+Mhra+exq5eGA=="
 ---
 

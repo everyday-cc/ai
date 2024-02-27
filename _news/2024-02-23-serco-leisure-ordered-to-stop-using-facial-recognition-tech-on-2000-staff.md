@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Serco ordered to stop using facial recognition technology to monitor staff"
+    excerpt: "Serco has been ordered to stop using facial recognition technology to monitor its staff for \"prioritising business interests over its employees' privacy\". The Information Commissioner's Office ..."
+    publishedDateTime: 2024-02-23T12:09:00Z
+    webUrl: "https://news.sky.com/story/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992"
+    ampWebUrl: "https://news.sky.com/story/amp/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 57
+    images:
+      - url: "https://e3.365dm.com/23/04/1600x900/skynews-facial-recognition_6112009.jpg?20230405172348"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Leisure centre operator ordered to axe facial recognition tech monitoring workers’ attendance"
     excerpt: "A LEISURE centre operator has been ordered to stop using facial recognition technology to monitor employee attendance. Serco Leisure was using it alongside fingerprint scanning on more than 2,000"
     publishedDateTime: 2024-02-23T23:50:00Z

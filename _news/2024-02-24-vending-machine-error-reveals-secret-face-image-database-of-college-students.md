@@ -74,9 +74,9 @@ related:
         height: 600
         isCached: true
   - title: "Canadian university vending machine error reveals use of facial recognition"
-    excerpt: "Snack dispenser at University of Waterloo shows facial recognition message on screen despite no prior indication"
-    publishedDateTime: 2024-02-23T17:56:00Z
-    webUrl: "https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo?ref=upstract.com"
+    excerpt: "University of Waterloo dispenser displays facial recognition message despite no prior indication it was monitoring students A malfunctioning vending machine at a Canadian university has ..."
+    publishedDateTime: 2024-02-23T19:41:00Z
+    webUrl: "https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
     ampWebUrl: "https://amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
     type: article

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -169,7 +169,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -221,7 +221,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -370,6 +370,58 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-digs-puts-ai-in-the-center-of-building-a-home.md",
+      "title": "Digs Puts AI In The Center Of Building A Home",
+      "excerpt": "This tool enhances the build process by providing instant, detailed responses to questions related to product information, installation decisions, specifications, warranties, and more using natural language processing. Digs AI also produces a perfectly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d69484e5055638edd7b24c/0x0.jpg?format=jpg&crop=1617,909,x292,y158,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/",
+      "publishedDateTime": "2024-02-22T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1453,40 +1505,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-ai-gives-a-voice-for-people-with-speech-limitations.md",
-      "title": "AI Gives a Voice for People With Speech Limitations",
-      "excerpt": "The AI technology is based on machine learning and speech recognition algorithms that are unique to each user. Voiceitt asks a new user to repeat dozens of words, phrases and sentences to learn the speech patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.goodnet.org/articles/ai-gives-voice-for-people-speech-limitations",
-      "originalUrl": "https://www.goodnet.org/articles/ai-gives-voice-for-people-speech-limitations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T00:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Goodnet",
-        "domain": "goodnet.org",
         "images": null,
         "publishers": null,
         "authors": null

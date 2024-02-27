@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "The Nvidia app launches in beta form that will merge several of the company's GPU apps"
-    excerpt: "The Nvidia app will also have more info on what's been added and what has been fixed for new GPU driver updates. Other changes for the new Nvidia app include improvements in the In-Game Overlay UI, and support for new AI-powered visual filters. One of them ..."
-    publishedDateTime: 2024-02-22T14:52:00Z
-    webUrl: "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/"
-    ampWebUrl: "https://www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/"
+  - title: "Nvidia unveils RTX 500 and 1000 laptop GPUs for AI-enhanced workflow"
+    excerpt: "The company has announced two new AI-enhanced graphics processing units (GPUs ... in performance and efficiency compared to Nvidia’s earlier professional GPU offerings. The RTX 500 will launch with 4GB of memory, while the RTX 1000 features a ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 81
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
     images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2024/02/1708611177_nvidia-app-key-visual_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/Nvidia-RTX-500-RTX-1000-GPU.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Nvidia launches RTX 500 and 1000 Ada Generation laptop GPUs for AI on the go"
     excerpt: "The next generation of mobile workstations featuring Ada Generation GPUs will incorporate a neural processing unit (NPU), a component of the CPU, along with an Nvidia RTX GPU equipped with Tensor Cores for advanced AI processing. This dual creation is ..."
@@ -49,20 +47,57 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia’s new app doesn’t require you to log in to update your GPU driver"
-    excerpt: "On cards with AI-powered offerings, you'll also get tools for Nvidia Freestyle ... Not everything available in the prior apps is making it into this new all-in-one app, however. Nvidia notes that GPU overclocking and driver roll-back are on the way."
-    publishedDateTime: 2024-02-22T13:11:00Z
-    webUrl: "https://arstechnica.com/gaming/2024/02/nvidias-new-app-doesnt-require-you-to-log-in-to-update-your-gpu-driver/"
+  - title: "Micron announces HBM3e memory enters volume production, ready for NVIDIA's new H200 AI GPU"
+    excerpt: "Micron has just announced it has started volume production of its bleeding-edge HBM3e memory, with the company's HBM3e known good stack dies (KGSDs) shipping as part of NVIDIA's upcoming H200 AI GPU. NVIDIA's new beefed-up H200 AI GPU will feature up to ..."
+    publishedDateTime: 2024-02-26T10:31:00Z
+    webUrl: "https://www.tweaktown.com/news/96471/micron-announces-hbm3e-memory-enters-volume-production-ready-for-nvidias-new-h200-ai-gpu/index.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 68
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 44
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_app-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://static.tweaktown.com/news/9/6/96471_1008_micron-announces-hbm3e-memory-enters-volume-production-ready-for-nvidias-new-h200-ai-gpu_full.png"
+        width: 1500
+        height: 857
         isCached: true
+  - title: "Nvidia’s lightweight RTX 500 and 1000 GPUs to power new generation of AI-accelerated laptops"
+    excerpt: "The RTX 500 and 1000 Ada GPUs are said to include a neural processing unit that’s integrated within the central processing unit, as well as an RTX GPU that includes Tensor Cores for processing AI locally. The NPU helps by offloading lighter AI tasks to ..."
+    publishedDateTime: 2024-02-26T08:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/26/nvidias-lightweight-rtx-500-1000-gpus-power-new-generation-ai-accelerated-laptops/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/RTX-500-_-1000-Blog-Image.jpg"
+        width: 5760
+        height: 3240
+        isCached: true
+  - title: "Google's lightweight and free Gemma AI models are optimized to run on NVIDIA GPUs"
+    excerpt: "\"Built from the same research and technology used to create the Gemini models,\" Google's new lightweight Gemma LLMs have been designed to run natively on local PC hardware powered by NVIDIA GPUs. For use in third-party AI applications, Gemma 2B and Gemma ..."
+    publishedDateTime: 2024-02-22T12:36:00Z
+    webUrl: "https://www.tweaktown.com/news/96379/googles-lightweight-and-free-gemma-ai-models-are-optimized-to-run-on-nvidia-gpus/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96379_01_googles-lightweight-gemma-ai-optimized-to-run-on-nvidia-gpus_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
+  - title: "Nvidia Reveals AI-Focused RTX 500, 1000 GPUs For ‘Highly Portable’ Mobile Workstations"
+    excerpt: "Nvidia has revealed the RTX 500 and 1000 Ada Generation GPUs that are designed to boost AI workflows for ultrathin laptops used by professionals and content creators."
+    publishedDateTime: 2024-02-26T12:42:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/2024/nvidia-reveals-ai-focused-rtx-500-1000-gpus-highly-portable-mobile-workstations"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 26
 
 secured: "FbD43G6Lkmrq7duq0QzcX759yzLH2W2j4dMHBO3WGaXmJjQGPxsoayyEiGKR1H2n65Bw41q0y1P+0hpHmrZwrUDkuZj50VCgkz2JwC+v7s/LlN3drb+JSoue+al7P9r4VO2UGxWf8o9YUdy/hC3RsYNybQSjRJk8gMFv7xf18mDcr36+6TyvkedsZf3wZD0Vo59GOvM8q1SZm67uEWoLzSyWhEB5NCGOutV9tZfYdSN3T/MdKfOQoyyhQe4n3iuodFuDtPlaw1N26t6ZGlA51vUaPOi5DDgGCPGZzIHQrRFUdPJhTLm0JBcDZ5+kv3AE9DhesE0dhh0cwFmGMoPNx1AR8afKuKoKJ+qP1Kg8eKM=;W1h+h44R2DQ/Fh0objt2oA=="
 ---

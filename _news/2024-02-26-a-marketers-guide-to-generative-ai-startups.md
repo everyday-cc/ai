@@ -81,13 +81,13 @@ related:
       domain: tech.co
     quality: 19
   - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
-    excerpt: "CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of its Generative AI Strategic Collaborative, an industry collective of 29 leading health systems and industry ..."
-    publishedDateTime: 2024-02-26T10:04:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article285939161.html"
+    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of ..."
+    publishedDateTime: 2024-02-26T13:04:00Z
+    webUrl: "https://www.charlotteobserver.com/press-releases/article285939161.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Charlotte Observer
+      domain: charlotteobserver.com
     quality: 0
   - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
     excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"

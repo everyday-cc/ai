@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Samsung says more Galaxy devices will get AI features, announces major update"
-    excerpt: "With this update, more Samsung Galaxy users can take advantage of the communication-enhancing AI features on AI-supported models"
-    publishedDateTime: 2024-02-22T10:42:00Z
-    webUrl: "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/samsung-says-more-galaxy-devices-will-get-ai-features-announces-major-update-101708592695473-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 56
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2024/02/22/1600x900/UI_61_update_1708598318695_1708598318930.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Samsung is bringing these Galaxy AI features to older devices"
     excerpt: "At its core, the tool essentially adds a translation tool to any phone call powered by AI. When speaking to someone who understands a different language, Live Translate will translate and regenerate your voice into that language. When the other party ..."
     publishedDateTime: 2024-02-22T18:13:00Z

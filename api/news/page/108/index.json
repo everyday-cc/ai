@@ -2,6 +2,101 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-11-27-ai-chip-boom-fuels-taiwan-firms-40-rally-beating-qualcomm-and-peers.md",
+      "title": "AI Chip Boom Fuels Taiwan Firm’s 40% Rally, Beating Qualcomm and Peers",
+      "excerpt": "A five-month rally in MediaTek Inc. looks set to extend as booming demand for smartphones and a promising new AI chip brighten the outlook.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756",
+      "originalUrl": "https://www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.2003757!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756.amp.html",
+      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756.amp.html",
+      "publishedDateTime": "2023-11-27T07:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-best-robot-vacuum-cyber-monday-deals-roomba-shark-and-more.md",
+      "title": "Best robot vacuum Cyber Monday deals: Roomba, Shark, and more",
+      "excerpt": "With so many robot vacuum deals going on this Cyber Monday, we've picked out some of our favorite deals for every budget.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/",
+      "originalUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/09/Digital-Trends-Best-Cyber-Monday-Robot-Vacuum-Deals.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp",
+      "publishedDateTime": "2023-11-27T07:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-the-10-most-in-demand-skills-in-2024.md",
       "title": "The 10 Most In-Demand Skills In 2024",
       "excerpt": "Discover the top 10 skills that will dominate the job market in 2024, and learn why these skills are not just essential for future success.",
@@ -1085,111 +1180,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-accelerating-aiml-development-at-bmw-group-with-amazon-sagemaker-studio.md",
-      "title": "Accelerating AI/ML development at BMW Group with Amazon SageMaker Studio",
-      "excerpt": "This post is co-written with Marc Neumann, Amor Steinberg and Marinus Krommenhoek from BMW Group. The BMW Group – headquartered in Munich, Germany – is driven by 149,000 employees worldwide and manufactures in over 30 production and assembly facilities across 15 countries. Today, the BMW Group is the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/09/blog_v1.png",
-          "width": 971,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-24T17:49:46Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-automating-product-description-generation-with-amazon-bedrock.md",
-      "title": "Automating product description generation with Amazon Bedrock",
-      "excerpt": "In today’s ever-evolving world of ecommerce, the influence of a compelling product description cannot be overstated. It can be the decisive factor that turns a potential visitor into a paying customer or sends them clicking off to a competitor’s site. The manual creation of these descriptions across",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/24/Picture1-5-2-1101x630.jpg",
-          "width": 1101,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-24T17:36:10Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

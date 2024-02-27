@@ -10,7 +10,7 @@
       "originalUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -84,6 +84,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff.md",
+      "title": "Serco ordered to stop using facial recognition technology to monitor staff",
+      "excerpt": "Serco has been ordered to stop using facial recognition technology to monitor its staff for \"prioritising business interests over its employees' privacy\". The Information Commissioner's Office ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992",
+      "originalUrl": "https://news.sky.com/story/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/23/04/1600x900/skynews-facial-recognition_6112009.jpg?20230405172348",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992",
+      "publishedDateTime": "2024-02-23T12:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1334,49 +1377,6 @@
         "AI",
         "Computer Vision",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-innovations-in-depth-from-focusdefocus-pave-the-way-to-more-capable-computer-vision-systems.md",
-      "title": "Innovations in depth from focus/defocus pave the way to more capable computer vision systems",
-      "excerpt": "Ikoma, Japan – In several applications of computer vision, such as augmented reality and self-driving cars, estimating the distance between objects and the camera is an essential task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1033976",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1033976",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0b066fb9-8e37-43a9-8739-ac81b675c6d3/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T14:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

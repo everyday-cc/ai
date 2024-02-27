@@ -2,6 +2,100 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-02-19-empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs.md",
+      "title": "Empowering Small Dreams: The Essence Of A Great AI Solution For SMBs",
+      "excerpt": "For these smaller businesses, the right AI solution isn't merely a tool; it's a partner that helps them dream bigger and reach higher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/",
+      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ab0fa2b3d7aa6801dcd938/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/amp/",
+      "publishedDateTime": "2024-02-19T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-ai-and-robotics-to-play-key-roles-in-space-exploration.md",
+      "title": "AI and Robotics to Play Key Roles in Space Exploration",
+      "excerpt": "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space",
+      "originalUrl": "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T14:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electropages",
+        "domain": "electropages.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-employing-your-cloud-data-warehouse-to-scale-up-aiml.md",
       "title": "Employing your cloud data warehouse to scale up AI/ML",
       "excerpt": "AI can unlock the power of enterprise data, providing companies can get it to the right place in the right state",
@@ -1127,101 +1221,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-tesla-autopilot-and-full-self-driving-often-bashedbut-try-driving-in-los-angeles.md",
-      "title": "Tesla Autopilot And Full Self-Driving Often Bashed—But Try Driving In Los Angeles",
-      "excerpt": "Tesla's Autopilot and Full-Self Driving often get criticized for being unsafe but try the alternative: driving in Los Angeles among extremely distracted drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/",
-      "originalUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d1b374f35c7377c0601772/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T09:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles.md",
-      "title": "Tesla Autopilot, Full-Self Driving Often Gets Bashed But Try Driving In Los Angeles",
-      "excerpt": "And what about Tesla’s FSD? “While most of the systems, such as Ford’s BlueCruise, are ring-fenced, Tesla's Full Self-Driving system allows the consumer to decide when it’s safe to use the technology. And as always, it's important to call out that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/?n=@",
-      "originalUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/?n=@",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T09:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

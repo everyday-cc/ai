@@ -2,6 +2,102 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-11-29-students-explore-the-ethics-of-ai-in-education-at-2023-wise-summit.md",
+      "title": "Students Explore The Ethics Of Ai In Education At 2023 Wise Summit",
+      "excerpt": "The global conference on the future of education, hosted by Qatar Foundation’s (QF) education think tank WISE at Qatar National Convention Centre, featured a discussion on ‘Artificial Intelligence and the Challenges of Education and Ethics’ on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
+      "originalUrl": "https://www.albawaba.com/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-11/image002_0.png?itok=4z_erHTq",
+          "width": 1434,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
+      "publishedDateTime": "2023-11-29T09:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-nvidia-rtx-3080-ex-cryptomining-cards-are-being-turned-into-20gb-ai-accelerators-in-china.md",
+      "title": "Nvidia RTX 3080 ex-cryptomining cards are being turned into 20GB AI accelerators in China",
+      "excerpt": "Modders showed it's possible to upgrade the card to a more AI-friendly 20GB by replacing the 1GB chips with 2GB alternatives. It's likely that the RTX 3080 cards had been used by cryptominers looking to offload their hardware following digital currencies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100991-nvidia-rtx-3080-ex-cryptomining-cards-turned-20gb.html",
+      "originalUrl": "https://www.techspot.com/news/100991-nvidia-rtx-3080-ex-cryptomining-cards-turned-20gb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-29-image-6.jpg",
+          "width": 1920,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T07:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-top-artificial-intelligence-development-companies-in-dubai.md",
       "title": "Top Artificial Intelligence Development Companies in Dubai",
       "excerpt": "Artificial intelligence stands as a dynamic catalyst for transforming our daily lives and professional landscape.",
@@ -981,92 +1077,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-aws-widens-data-pipelines-creates-gen-ai-assistant.md",
-      "title": "AWS Widens Data Pipelines + Creates Gen-AI Assistant",
-      "excerpt": "Because data exists in so varied a set of structures and forms that we can do much with it - but, that means we need ways to connect all our data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65667326d20fbb7c71172c59/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/",
-      "publishedDateTime": "2023-11-28T23:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-how-aws-empowers-asean-organisations-to-innovate-with-generative-ai.md",
-      "title": "How AWS empowers Asean organisations to innovate with generative AI",
-      "excerpt": "With Amazon Bedrock, organisations like NUHS can build and scale generative AI applications to transform the customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theedgesingapore.com/digitaledge/digital-economy/how-aws-empowers-asean-organisations-innovate-generative-ai",
-      "originalUrl": "https://www.theedgesingapore.com/digitaledge/digital-economy/how-aws-empowers-asean-organisations-innovate-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/how-aws-empowers-asean-organisations-innovate-generative-ai",
-      "cdnAmpWebUrl": "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/how-aws-empowers-asean-organisations-innovate-generative-ai",
-      "publishedDateTime": "2023-11-28T23:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Edge Singapore",
-        "domain": "theedgesingapore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

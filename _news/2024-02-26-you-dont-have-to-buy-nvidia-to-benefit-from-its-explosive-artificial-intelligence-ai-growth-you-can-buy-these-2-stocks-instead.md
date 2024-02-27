@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Investing in the Next Wave of Explosive AI Growth"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This past week, the world’s leading AI chipmaker – Nvidia (NVDA)"
-    publishedDateTime: 2024-02-24T14:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242?ssp=1"
+  - title: "Can AMD Dethrone Nvidia as the Artificial Intelligence (AI) Powerhouse?"
+    excerpt: "Therefore, I believe AMD will carve out a high-growth niche in the AI market in the same way it expanded into the gaming GPU and data center GPU markets. But I don't think it will replace Nvidia as the AI kingpin. When our analyst team has a stock tip ..."
+    publishedDateTime: 2024-02-23T16:46:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
     images:
-      - url: "https://lh7-us.googleusercontent.com/yzJturJFFghqcyCNnIaAZy189Vj69lRLjtitfmAF0N-Xp39dl-O4uudjIW7n0Jhc-aiVtqt5DbyRvyRrSQzuQixXkooUvMk5Hk_qks8N-V69kdPAQFOdRIOpPU9cMhnz9MzgaKBWuSKmZj_uduuGNg"
-        width: 1200
-        height: 800
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/3e1f5bb4b863195ee11d3a05ccd4a572/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f766178%252fblue-semiconductor.jpg%26amp%3Bw%3D700"
+        width: 2270
+        height: 1320
         isCached: true
+  - title: "Can AMD Dethrone Nvidia as the Artificial Intelligence (AI) Powerhouse?"
+    excerpt: "Therefore, I believe AMD will carve out a high-growth niche in the AI market in the same way it expanded into the gaming GPU and data center GPU markets. But I don't think it will replace Nvidia as the AI kingpin. When our analyst team has a stock tip ..."
+    publishedDateTime: 2024-02-23T14:25:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 34
 
 secured: "YdFqDGzY0QBLRTQVzp0Awt/sIE4UEceBNdf3pEfzrzOJA7lJLtiujw1VEdbAEQ+whvUhpteg0N1JPaHqY0s7msqh1BOOrfIeKMebZSUM/bWq9WmShcVHOQtLH3bSHFle9xcZdSL5lwPj1k5/Q0hph3YWeEChn5yd3H7JAw+qijTINlKiL1NtgFpX8admPs25SBhK8OWrLg06zOJOiivXcz0fQUhOm6ADKNjJE/i7lpTfVcHnGjoC5vH/t+wRfLuPDmZst6OHas1scFeVsTLLzmqOr6EIQkhWJQbL6sc3Kxykkt/FS8UnX4eZEHiVSWm6l+nWajgKPQAly2oCpn/fiar9dn4FCINLaF3xvCnf4mg=;9bKhA1V9j8qsrk8ET05tvA=="
 ---

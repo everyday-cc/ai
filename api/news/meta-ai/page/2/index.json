@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-19-google-lengthens-mixes-broadens-ai-with-gemini-toolset.md",
+      "title": "Google Lengthens, Mixes, Broadens AI With Gemini Toolset",
+      "excerpt": "The need to mix, broaden and lengthen our use of AI with fluid tokenization control and Mixture-of-Experts (MoE) architectures is very of the moment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 393,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3469af364a6540e831a99/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1484,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/",
+      "publishedDateTime": "2024-02-19T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good.md",
       "title": "I tested Meta's Code Lama with 3 AI coding challenges that ChatGPT aced - and it wasn't good",
       "excerpt": "Meta CEO Mark Zuckerberg recently unveiled Code Llama, a 70B parameter AI designed for coding. But how does it stack up against giants like ChatGPT? I put it to the test.",
@@ -1327,49 +1381,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-moving-fast-uk-to-spend-125m-on-ai-hubs-regulation.md",
-      "title": "‘AI moving fast’: UK to spend $125m on AI hubs, regulation",
-      "excerpt": "The United Kingdom has unveiled plans to spend over 100 million pounds ($125m) on research and training related to artificial intelligence (AI). Under the plans announced on Tuesday, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
-      "originalUrl": "https://www.aljazeera.com/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2024/02/2023-11-02T162052Z_1550215641_RC2454A1KFX0_RTRMADP_3_AI-BRITAIN-SUMMIT-1707180555.jpg?resize=1920%2C1440",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

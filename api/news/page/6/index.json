@@ -2,6 +2,111 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-22-google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family.md",
+      "title": "Google goes “open AI” with Gemma, a free, open-weights chatbot family",
+      "excerpt": "Developed by Google DeepMind and other Google AI teams, Gemma pulls from techniques learned during the development of Gemini, which is the family name for Google's most capable (public-facing) commercial LLMs, including the ones that power its Gemini AI assistant. Google says the name comes from the Latin gemma, which means \"precious stone.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemma_header_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-a-comprehensive-list-of-2023-2024-tech-layoffs.md",
+      "title": "A comprehensive list of 2023 & 2024 tech layoffs",
+      "excerpt": "Momentum for a tech sector rebound remains slow to build, outside of bright spots within artificial intelligence and adjacent companies ... Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/21/tech-layoffs-2023-list/",
+      "originalUrl": "https://techcrunch.com/2024/02/21/tech-layoffs-2023-list/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/layoffs.jpg?resize=1200,645",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/21/tech-layoffs-2023-list/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/tech-layoffs-2023-list/amp/",
+      "publishedDateTime": "2024-02-21T21:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-ai-7-crucial-qualities-of-ethical-leadership.md",
       "title": "AI: 7 Crucial Qualities Of Ethical Leadership",
       "excerpt": "Fujitsu Laboratories formed an international AI Ethics Research Team, comprising members from Japan, the U.S., and Europe, to tackle the ethical challenges in AI development. Bias in data and algorithms are a pernicious and pervasive problem in AI systems ...",
@@ -1181,100 +1286,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024.md",
-      "title": "5 AI Accounting Tools For Freelancers Running A Side Hustle In 2024",
-      "excerpt": "Tracking expenses is not exactly what you set out to do as a freelancer. But with these AI-powered accounting tools, you'll be able to get back to doing what you love.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d5b9044c575d8bd5bc0be8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/",
-      "publishedDateTime": "2024-02-21T08:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-opinion-ai-elections-and-law-why-no-country-can-tackle-ai-alone.md",
-      "title": "Opinion: AI, Elections And Law - Why No Country Can Tackle AI Alone",
-      "excerpt": "Talks between EU and India on tackling the threat of online disinformation reflect the need for collective global action against the risks posed by generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192",
-      "originalUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-08/295nvsms_deepfake-generic_625x300_22_August_23.jpg?ver-20240117.06",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1",
-      "publishedDateTime": "2024-02-21T08:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

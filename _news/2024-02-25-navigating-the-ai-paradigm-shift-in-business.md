@@ -28,36 +28,103 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating The AI Wave: Top 3 Priorities For Entrepreneurs In 2024"
-    excerpt: "Here, I'll explore the top three priorities entrepreneurs and business owners must focus on to not only harness AI's potential but to do so responsibly and effectively."
-    publishedDateTime: 2024-02-22T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/22/navigating-the-ai-wave-top-3-priorities-for-entrepreneurs-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/22/navigating-the-ai-wave-top-3-priorities-for-entrepreneurs-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/22/navigating-the-ai-wave-top-3-priorities-for-entrepreneurs-in-2024/amp/"
+  - title: "Digs Puts AI In The Center Of Building A Home"
+    excerpt: "This tool enhances the build process by providing instant, detailed responses to questions related to product information, installation decisions, specifications, warranties, and more using natural language processing. Digs AI also produces a perfectly ..."
+    publishedDateTime: 2024-02-22T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/"
+    ampWebUrl: "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d61b2e0107ca31e23ae596/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1363
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d69484e5055638edd7b24c/0x0.jpg?format=jpg&crop=1617,909,x292,y158,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
         isCached: true
-  - title: "5 Sources Of AI News For Entrepreneurs Seeking To Grow"
-    excerpt: "AI announcements happen every single day and most of them aren’t worth your attention. Here are 5 new AI sites bringing curated advice that's tailored for business."
-    publishedDateTime: 2024-02-22T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/jodiecook/2024/02/22/5-sources-of-ai-news-for-entrepreneurs-seeking-to-grow/"
+  - title: "AI is having a 1995 moment"
+    excerpt: "The analyst said the hunger for Nvidia's AI chips from leading software providers like Salesforce, Adobe, and Oracle is a \"transformational tech trend we have not seen since the start of the Internet in the mid 90's.\" But that doesn't mean major AI ..."
+    publishedDateTime: 2024-02-23T18:19:00Z
+    webUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/65d8ca26ce7f1785b2e37b7b?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Investing in the Next Wave of Explosive AI Growth"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This past week, the world’s leading AI chipmaker – Nvidia (NVDA)"
+    publishedDateTime: 2024-02-24T14:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242?ssp=1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d4dd36958c7e2221c4f2c0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1532
-        height: 900
+      - url: "https://lh7-us.googleusercontent.com/yzJturJFFghqcyCNnIaAZy189Vj69lRLjtitfmAF0N-Xp39dl-O4uudjIW7n0Jhc-aiVtqt5DbyRvyRrSQzuQixXkooUvMk5Hk_qks8N-V69kdPAQFOdRIOpPU9cMhnz9MzgaKBWuSKmZj_uduuGNg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Infusion of Artificial Intelligence in Biology"
+    excerpt: "In the early 1990s, protein biologists invested in solving a challenge that had riddled them for decades. The protein folding problem centered on the idea that biologists should be able to predict the three-dimensional structure of a protein based on its ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.the-scientist.com/infusion-of-artificial-intelligence-in-biology-71665"
+    type: article
+    provider:
+      name: The Scientist
+      domain: the-scientist.com
+    quality: 39
+    images:
+      - url: "https://cdn.the-scientist.com/assets/articleNo/71665/aImg/52217/66166-ts-newsletter-ai-image-ac-800x560-m.jpg"
+        width: 800
+        height: 560
+        isCached: true
+  - title: "Welcome to the era of mobile AI"
+    excerpt: "When integrated into phones, AI is, to put it simply ... Availability of the service varies by country and language. Accuracy of results is not guaranteed. 3 Live Translate requires a network connection and Samsung Account login. Live Translate is only ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://mg.co.za/partner-content/2024-02-27-welcome-to-the-era-of-mobile-ai/"
+    type: article
+    provider:
+      name: Mail & Guardian
+      domain: mg.co.za
+    quality: 39
+    images:
+      - url: "https://mg.co.za/wp-content/uploads/2024/02/image001-1.jpg"
+        width: 813
+        height: 508
+        isCached: true
+  - title: "5 Interesting AI Use Cases In the Legal Industry"
+    excerpt: "“You [can] provide some inputs [like] the case protocol, the complaint, something to that effect,” into the generative AI tool and “start interviewing your corpus of of documents… it’s more than just a chatbot.” Once the “hot documents” are ..."
+    publishedDateTime: 2024-02-22T22:01:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/02/22/5-interesting-real-life-use-cases-for-ai-in-the-legal-industry/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/legal-tech-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Tackling AI bias in employment"
+    excerpt: "One way to mitigate AI risk in employment and bias more generally is allowing researchers and smaller players, instead of just a handful of big companies, to examine models."
+    publishedDateTime: 2024-02-22T17:25:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2024/02/22/government-companies-try-to-tackle-ai-bias-in-employment"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 21
 
 secured: "qhnwEaqQsBo7yEplyRpsxrtx2FIS4PJRodf5aSOd/lzZ6O/bX/5pi+EF47Kp9FiV6+UdTokNd6pONVU91pdCRMkmwhBKRvIurtuFSwMigWHDvEo+XRXqa0tSBdMzgQXWcJewVFbPaRrVUKUz9Mguz2kyrix5PnfCWmd/xnYglb9A6vdErZ+1PqLBfllQkX7Lj1S5aYjL64oyRqflCoeSFdq71TSCtiuq1Y4ttbKM0fSExSUplo2Wf5m33L1fB5R60PGHpC3BytCzDQ7NFLRYT4UAn4FLplUPWQj+oLELKC2wTxqn5G+9f2BTXMXDgkVJSSnRKGUw6a9MrwzDvo1rENGy0boiGsdP6VgDzdDowBBGsJv2ZBkX+if1/mpBaYn70veOWknAXy6yIlrHAOJ04rzGm90IN5bQ1f/DXDbfc/rSTyeN1NQ+zjOGVQVhrz07AuyKfdhZ3RJL3G2LBBIydBbDUTF1QZoD/lG8nFDa18g2SsPU7Gq5U5vvfYXNZKM6CEY+OWwNFerT9eeY6s5EHw==;mXz1OVSY2zV0zN9fjs+jOw=="
 ---

@@ -2,6 +2,91 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-12-13-10-reasons-you-should-adopt-reliability-centered-maintenance-rcm-today.md",
+      "title": "10 reasons you should adopt reliability centered maintenance (RCM) today",
+      "excerpt": "RCM evaluates the criticality of assets, understands the root causes of assets, and creates a strategy for each asset to perform as expected.\nThe post 10 reasons you should adopt reliability centered maintenance (RCM) today appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/10-reasons-you-should-adopt-reliability-centered-maintenance-rcm-today/",
+      "originalUrl": "https://www.ibm.com/blog/10-reasons-you-should-adopt-reliability-centered-maintenance-rcm-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-scientists-unveil-brainoware-a-game-changer-for-artificial-intelligence.md",
+      "title": "Scientists unveil 'Brainoware': A game-changer for artificial intelligence",
+      "excerpt": "In contrast, advanced artificial intelligence systems can consume millions of watts. Recognising this efficiency, scientists envision the development of cyborg \"biocomputers\" that could significantly reduce energy costs while offering unparalleled computational power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.html",
+      "originalUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/2022/images/2023/2/machine-learning-deep-learning-graphic-of-artificial-intelligence-AI-VR-shut.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.amp.html",
+      "publishedDateTime": "2023-12-13T10:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-portugals-progressive-policies-fuel-fintech-growth.md",
       "title": "Portugal’s Progressive Policies Fuel Fintech Growth",
       "excerpt": "These fintechs include: ivendPay, which provides comprehensive solutions for using cryptocurrency in everyday life.",
@@ -1058,92 +1143,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-meta-used-copyrighted-books-for-ai-training-despite-its-own-lawyers-warnings-authors-allege.md",
-      "title": "Meta used copyrighted books for AI training despite its own lawyers' warnings, authors allege",
-      "excerpt": "Meta released a first version of its Llama large language model in February and published a list of datasets used for training, including \"the Books3 section of ThePile.\" The person who assembled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-used-copyrighted-books-ai-training-despite-its-own-lawyers-warnings-authors-2023-12-12/",
-      "originalUrl": "https://www.reuters.com/technology/meta-used-copyrighted-books-ai-training-despite-its-own-lawyers-warnings-authors-2023-12-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T23:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai.md",
-      "title": "Calling for caution, PM flags need for ethics, democratic values in AI",
-      "excerpt": "India is negotiating with GPAI member countries for a consensus on a declaration document on the proper use of AI, the guardrails for the technology, and how it can be democratised.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/",
-      "originalUrl": "https://indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/PM-Narendra-Modi-with-others-at-the-inaugural-ceremony-of-the-Global-Partnership-on-Artificial-Intelligence-Summit.-PTI.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/lite/",
-      "publishedDateTime": "2023-12-12T22:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

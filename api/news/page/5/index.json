@@ -2,6 +2,111 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-22-nonprofits-and-ai-determining-governance-and-corporate-structures.md",
+      "title": "Nonprofits And AI: Determining Governance And Corporate Structures",
+      "excerpt": "When it comes to emerging technologies like AI, innovative governance models are needed to ensure ... Impartial governance boards overseeing and certifying various dimensions like data practices, ethics reviews, model integrity assessments and adherence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654501b12845116962a18280/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/amp/",
+      "publishedDateTime": "2024-02-22T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry.md",
+      "title": "AI Is Getting To Work In The Highly Regulated Investment Management Industry",
+      "excerpt": "AI hit employment levels among the feted tech giants with 34,000 job losses this year. The AI “safety first” policy is resonating in the investment management industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/",
+      "originalUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d6dac3706cc5efc69fdc66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/",
+      "publishedDateTime": "2024-02-22T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-applying-ai-to-support-the-front-line-of-healthcare.md",
       "title": "Applying AI To Support The Front Line Of Healthcare",
       "excerpt": "Artificial intelligence, more commonly referred to as AI, has been around since the 1950s, but the launch of ChatGPT in November 2022 inspired a new wave of AI innovation and investment. The way AI impacts healthcare and other sectors will be one of the ...",
@@ -1121,111 +1226,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family.md",
-      "title": "Google goes “open AI” with Gemma, a free, open-weights chatbot family",
-      "excerpt": "Developed by Google DeepMind and other Google AI teams, Gemma pulls from techniques learned during the development of Gemini, which is the family name for Google's most capable (public-facing) commercial LLMs, including the ones that power its Gemini AI assistant. Google says the name comes from the Latin gemma, which means \"precious stone.\"",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemma_header_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T22:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-a-comprehensive-list-of-2023-2024-tech-layoffs.md",
-      "title": "A comprehensive list of 2023 & 2024 tech layoffs",
-      "excerpt": "Momentum for a tech sector rebound remains slow to build, outside of bright spots within artificial intelligence and adjacent companies ... Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/21/tech-layoffs-2023-list/",
-      "originalUrl": "https://techcrunch.com/2024/02/21/tech-layoffs-2023-list/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/layoffs.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/21/tech-layoffs-2023-list/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/tech-layoffs-2023-list/amp/",
-      "publishedDateTime": "2024-02-21T21:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

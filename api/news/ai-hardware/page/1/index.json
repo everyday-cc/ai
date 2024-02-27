@@ -45,7 +45,7 @@
       "originalUrl": "https://www.zdnet.com/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -69,6 +69,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow.md",
+      "title": "Nvidia unveils RTX 500 and 1000 laptop GPUs for AI-enhanced workflow",
+      "excerpt": "The company has announced two new AI-enhanced graphics processing units (GPUs ... in performance and efficiency compared to Nvidia’s earlier professional GPU offerings. The RTX 500 will launch with 4GB of memory, while the RTX 1000 features a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/Nvidia-RTX-500-RTX-1000-GPU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -176,49 +228,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-26-micron-begins-volume-production-of-new-chip-for-ai-workloads.md",
-      "title": "Micron begins volume production of new chip for AI workloads",
-      "excerpt": "Semiconductor leader Micron Technology on Monday announced it has begun volume production of its HBM3E (high bandwidth memory 3E)",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/micron-begins-volume-production-of-new-chip-for-ai-workloads",
-      "originalUrl": "https://glamsham.com/world/technology/micron-begins-volume-production-of-new-chip-for-ai-workloads",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/uploads/2024/02/Micron-begins-volume-production-of-new-chip-for-AI-workloads.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T12:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-26-mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more.md",
       "title": "Mark Zuckerberg's Asia tour: Ambani wedding, sword-making, AI chips and more",
       "excerpt": "AI chips on agenda? South Korea is home to some of the world’s top tech companies, including Samsung Electronics and SK Hynix. These companies lead the global memory chip industry and are among the few worldwide that produce high-end memory chips ...",
@@ -270,7 +279,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -411,21 +420,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-24-ai-is-having-a-1995-moment.md",
-      "title": "AI is having a 1995 moment",
-      "excerpt": "The analyst said the hunger for Nvidia's AI chips from leading software providers like Salesforce, Adobe, and Oracle is a \"transformational tech trend we have not seen since the start of the Internet in the mid 90's.\" But that doesn't mean major AI ...",
+      "path": "_news/2024-02-24-can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse.md",
+      "title": "Can AMD Dethrone Nvidia as the Artificial Intelligence (AI) Powerhouse?",
+      "excerpt": "Therefore, I believe AMD will carve out a high-growth niche in the AI market in the same way it expanded into the gaming GPU and data center GPU markets. But I don't think it will replace Nvidia as the AI kingpin. When our analyst team has a stock tip ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2",
-      "originalUrl": "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/65d8ca26ce7f1785b2e37b7b?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/3e1f5bb4b863195ee11d3a05ccd4a572/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f766178%252fblue-semiconductor.jpg%26amp%3Bw%3D700",
+          "width": 2270,
+          "height": 1320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -433,23 +442,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp",
-      "publishedDateTime": "2024-02-23T18:19:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T16:46:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -471,7 +471,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -507,6 +507,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-23-nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time.md",
+      "title": "Nvidia Lists Huawei as an AI Chip-Making Rival for the First Time",
+      "excerpt": "based Nvidia used to be a major supplier of chips for Chinese companies, but the situation changed after Huawei was added to a U.S. trade sanction list in 2019. Nvidia's finance chief said on a call with analysts this week that sales of AI chips to China ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 404,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3",
+      "publishedDateTime": "2024-02-23T11:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024.md",
       "title": "AI chip race: Groq CEO takes on Nvidia, claims most startups will use speedy LPUs by end of 2024",
       "excerpt": "But don’t sleep on Groq, the Silicon Valley-based company creating new AI chips for large language model (LLM) inference (making decisions or predictions on existing models, as opposed to training). Last weekend, Groq suddenly enjoyed a viral moment most ...",
@@ -515,7 +567,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -558,49 +610,6 @@
         "AI",
         "Meta AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-nvidia-acknowledges-huawei-as-major-ai-chip-competitor.md",
-      "title": "Nvidia Acknowledges Huawei as Major AI Chip Competitor",
-      "excerpt": "In a significant revelation, Nvidia has recognized Huawei as a competitor across various categories, notably in the business of artificial intelligence (AI) chips. The Santa Clara-based tech giant highlighted Huawei, a prominent player in China’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922",
-      "originalUrl": "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telecomlead.com/wp-content/uploads/2023/08/Generative-AI-chips-NVIDIA.jpg",
-          "width": 640,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922?amp=1",
-      "cdnAmpWebUrl": "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922?amp=1",
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecom Lead",
-        "domain": "telecomlead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -769,7 +778,7 @@
       "originalUrl": "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 91,
       "tags": null,
       "images": [
         {

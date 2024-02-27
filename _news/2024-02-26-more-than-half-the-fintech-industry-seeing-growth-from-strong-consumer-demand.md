@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "5 fintech predictions for 2024: A light at the end of the tunnel"
+    excerpt: "2024 feels a lot better than 2023. While there are still some significant macroeconomic and geopolitical headwinds, the dog days of 2023 are behind us and there is some light at the end of the tunnel."
+    publishedDateTime: 2024-02-27T10:28:00Z
+    webUrl: "https://www.finextra.com/the-long-read/956/5-fintech-predictions-for-2024-a-light-at-the-end-of-the-tunnel"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/956.jpg"
+        width: 799
+        height: 449
+        isCached: true
   - title: "India’s Fintech M&A Count Hits 30 in 2023, Lending Sector Tops List"
     excerpt: "Lending Fintech companies accounted for 30% of all Fintech acquisitions in India in 2023, highlighting a shift in market dynamics amid growing regulatory"
     publishedDateTime: 2024-02-24T18:10:00Z
