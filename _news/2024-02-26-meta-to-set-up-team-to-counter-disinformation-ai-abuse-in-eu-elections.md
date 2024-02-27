@@ -1,25 +1,34 @@
 ---
 category: news
-title: "Meta to Set up Team to Counter Disinformation, AI Abuse in EU Elections"
-excerpt: "BRUSSELS (Reuters) - Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European Parliament elections in June amid concerns about election interference and misleading AI-generated content."
-publishedDateTime: 2024-02-26T05:02:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2024-02-26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections"
-webUrl: "https://www.usnews.com/news/technology/articles/2024-02-26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections"
+title: "Meta to set up team to counter disinformation, AI abuse in EU elections"
+excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European ... data science, engineering, research, operations, content policy and legal teams will focus on combating ..."
+publishedDateTime: 2024-02-26T12:59:00Z
+originalUrl: "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+webUrl: "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 89
+heat: 129
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: CNBC
+  domain: cnbc.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - Meta AI
   - AI
+
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/107368948-1707137441266-gettyimages-1978494980-raa-metaplat240204_npg9u.jpeg?v=1708952265"
+    width: 7863
+    height: 5242
+    isCached: true
 
 related:
   - title: "Meta team to counter fake news and AI misuse ahead of EU elections"
@@ -64,7 +73,16 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "What every business leader should know about artificial intelligence, automation and accounting"
+    excerpt: "It’s not uncommon for a business to have different software systems that don’t share information because they operate in silos. An executive could pull data from Enterprise Resource Planning and Customer Relationship Management systems but because the ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.bizjournals.com/bizjournals/news/2024/02/26/what-every-business-leader-should-know-about-a-i.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 7
 
-secured: "QRO4Zl0wGoCXzdarF4FDWPybiNQjg+PT4mJyNvuXfvOPHPki8ch/TtZgvTyr3hwhWtU8tS3XnpU8b39lxcB6Ft0pKAodfIm3jMG+0FpsxGomipKkILMmptVTC5evW/sOXpP/wcQuxo4Q/6Jz8Z3M5u2TX2TGAAYUeyPu9fnwLFvo7D/XlAirp3jD8aC5gDaL/Tu9tbe/unJ/gS0+TH85hWLvrNbrho+2ndtLGFlN9+LzXQqcDsTkea+c2/VoS1Jad6X6N7uJPEeSehw2l3nW0BOAOs0Wix2LsaVJHBbMKXM8voQL6WSGRYMEr0s0wnyZRiKMo7kn0sletlqV8XX4j2Oje8vdw67d+kdtcStdP6ebh6yW3k/cAT+H0c7iTcDpnZ2ijDpn8RTtq8Ica50QCMXVFn1WSbaU9YNmuKRjJt3PIOJ1ijl13o952pxZeGWICbJbcrX1H2Z1tMYA+0iEiwENjEr1Ejo09qD0teiCjmFM8BIoxwH5RUyHKp9wzFxGKIp55GErq+lJiJwqymdcZw==;lY0EwcqZENgjGn5KGiToUA=="
+secured: "qdP4kA72RDvhFUn45ae01gvdVT+zfRCDzJXY04ZjAU3kvspT8E3weIcWnqTBwM+qPTD0rz/MMrmhGmav6yWa/9hJ9ULxd/ZlPjyMJstw5sLHTpNuh3bLh+dMcPyELDNn5bZdDOMXlUa30cZO4m2WEyaK7wjHLHq3g7DUycKj02N/+W4TuPBS4OzTrUetwo9T4+JaY/hKsZwEVYL/sqBy2ZEz5zxg3wAXSyU08zYr7P8mquRi/By2Mt8LC19i90yTcvwQ9HndA1D+5A4IeR/3VAz5tAnheaH/eNPcYZC9Ok6QIYYNV8A26jsUm27CbygDdoHZaCeVvET9squybehV/ftc3e3JYvL+EQbKfA3A/UM=;mn5gD9eDMO+y3XfzVNDmdQ=="
 ---
 

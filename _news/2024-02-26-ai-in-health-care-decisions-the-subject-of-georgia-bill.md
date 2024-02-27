@@ -24,6 +24,22 @@ images:
     height: 1260
     isCached: true
 
+related:
+  - title: "Court documents shed new details in killing of nursing student at University of Georgia"
+    excerpt: "The suspect in the killing of a nursing student on the University of Georgia campus used an object as a weapon in the crime, and he’s also accused of “disfiguring her skull.\""
+    publishedDateTime: 2024-02-27T06:01:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2024-02-26/court-documents-shed-new-details-in-killing-of-nursing-student-at-university-of-georgia"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 31
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/b9a5e2d/2147483647/strip/true/crop/2900x1523+0+205/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc0%2Fb6%2Fc4b5b4b7b2658a406e03f964e4c8%2Fd346f5363332410d99df4510f3bee565"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "bv/viSAEMmG/Cr5//AbcVGUFw8WvbgOU7rDRldU3r7ti5r5fZhriGsi6JHkXY+NzoSkq5Ik55ZJO9nOkTJ3dtXBVBs3HaeAqrP+4Ud3KOBpgfoFV8ihyVP8rgCqVsL13anAOV/tVZCPnYBMmgbLz56PUdGBoGQ6GwvkscUde93nG5GzRndMWF9nvWlJF1rp0efeFTC5TSJaKcbdJF2AIHGI4Zs/COjQ9FjmOaH/ZykkCweJnPvR4gQ48hE2hHvnvvalNCuHKseqopNC0GnmOvaSNxqYWHqlU026s0uBu8ITgB1FJz4XQLiL0noz8sbb5GIbQhDkqHas9P7ZwU/THJCZ3MYcYOp88sxqKpGaDCyd7+PXrVxtAxU30O6TDVyvcQhLrKFfDuozJ5ymyL0uHJ7PCGmSjII7fYn3VP5cbOiEAmvJfdzG1Ji4eD4+xYbA6YV7xreLPxNnYNBhoDAj21e57aJDXY8Znp3CU2b/GApZ19Vd2pjERPatxOTLKl/8hYiz5lrj+uGO+tKalKKJf3w==;B10MqYQVJW0gForDVruebg=="
 ---
 

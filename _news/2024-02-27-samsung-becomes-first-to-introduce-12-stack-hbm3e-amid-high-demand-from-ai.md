@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-becomes-first-to-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
 type: article
 quality: 87
-heat: 147
+heat: 160
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.hindustantimes.com/ht-img/img/2024/02/22/1600x900/UI_61_update_1708598318695_1708598318930.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Samsung presents Galaxy AI Vision at MWC 2024 with latest products and services"
+    excerpt: "Visitors to be offered powerful first-hand experiences across Galaxy S24 series, expanded product ecosystem and Samsung Connected Health, all powered by Galaxy AI"
+    publishedDateTime: 2024-02-27T07:51:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 55
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTFmN2FiNzctNzJlYS00/0/2024mwcgalaxyai_2-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
   - title: "Samsung is bringing these Galaxy AI features to older devices"
     excerpt: "At its core, the tool essentially adds a translation tool to any phone call powered by AI. When speaking to someone who understands a different language, Live Translate will translate and regenerate your voice into that language. When the other party ..."

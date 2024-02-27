@@ -19,33 +19,64 @@ topics:
   - AI
 
 related:
-  - title: "HR Leaders Must Ensure AI Adoption Is A Success"
-    excerpt: "It's a steep learning curve, but the longer we wait to start, the steeper it gets. Because AI adoption requires frontline managers' understanding and cooperation, I believe HR leaders are integral to its success. When the discussion of AI adoption begins ..."
-    publishedDateTime: 2024-02-26T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/"
+  - title: "Meta to set up team to counter disinformation, AI abuse in EU elections"
+    excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European ... data science, engineering, research, operations, content policy and legal teams will focus on combating ..."
+    publishedDateTime: 2024-02-26T12:59:00Z
+    webUrl: "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d8989b0216c468579d5548/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 840
+      - url: "https://image.cnbcfm.com/api/v1/image/107368948-1707137441266-gettyimages-1978494980-raa-metaplat240204_npg9u.jpeg?v=1708952265"
+        width: 7863
+        height: 5242
         isCached: true
-  - title: "Singapore's AI ambitions reveal challenges for adoption"
-    excerpt: "It’s imperative to ensure that the strategy and processes of implementing AI are holistic, responsible, and sustainable."
-    publishedDateTime: 2024-02-23T03:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/singapores-ai-ambitions-reveal-challenges-adoption"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/singapores-ai-ambitions-reveal-challenges-adoption"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/singapores-ai-ambitions-reveal-challenges-adoption"
+  - title: "Meta team to counter fake news and AI misuse ahead of EU elections"
+    excerpt: "The Facebook and Instagram parent is also building tools to label AI-generated images from Google ... data science, engineering, research, operations, content policy and legal teams. The objective is to identify potential threats and put “specific ..."
+    publishedDateTime: 2024-02-26T09:16:00Z
+    webUrl: "https://www.siliconrepublic.com/business/meta-eu-elections-disinformation-generative-ai-team"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
+      name: SiliconRepublic
+      domain: siliconrepublic.com
     quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-26.jpeg"
+        width: 2000
+        height: 1325
+        isCached: true
+  - title: "How AI Is Being Used to Influence and Disrupt the Election"
+    excerpt: "Here are all the ways AI has already become a factor in the 2024 election and what’s being done to limit the damage."
+    publishedDateTime: 2024-02-25T10:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/how-ai-deepfakes-influence-disrupt-trump-biden-2024-election.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 37
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/732/156/ebb083ce988a517701be5d4d0f71f5fd5f-trump-AI.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Meta to form 'Operations Centre' to combat spread of deceptive AI in EU polls"
+    excerpt: "New Delhi, Feb 26 (IANS) Meta (formerly Facebook) on Monday said that it will be activating an Elections Operations Centre to combat the spread of misleading artificial intelligence (AI ... engineering, research, operations, content policy and legal ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://glamsham.com/world/technology/meta-to-form-operations-centre-to-combat-spread-of-deceptive-ai-in-eu-polls"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 36
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2024/02/202402263124037.png"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "+TZepiLgwzreOZ6eD2FoyZ1p+6uF2myhT28awt41RKOxqy/J3OUd4YCARpR6dvORNEuU6A8gSOHQFxoqsG9x2gehQD/tOJh7vYMxFlLhG/J8Pfag+kef8f0PQc4TlgFuaqQkxcnDM2sqxoxq9NSDJOu88XYorykS2qjIZiveFEm18oMqpMMEUP7tRJ7qYoHUN9WWV/dfyGq5BpKLulvVt7IYCk1Hj+LemFhZjy2WFxRvIJ/ZD5rxK6vxgVca3z5F6dkNi9sgWqR01jPB7thG1vRrIBgGyAx0S2u6Zlq7unXT+KgHh4uLfl8NsywY75Cd6BGDZoyTRohvz1aodcgZCNsxnUrxxgFXT9i7j1NAO6V/Faek5Le/YFBSBGUl279Js7+hFSjtr6M/zTz2s3r+V+MNKMrmDkXd5uwO1fbTNlhk6+PQeUJ/1VxCgUg6ajRGVXUj2wQwKf+l4oXXGhXLmk58pxIXK8zH4lCHcN7IZ5jDYFDAc4rJauWTd7OoKt8ZA6U+klQjmHyqWnhtRf4pLQ==;dMSVSev+fE0vIug/hkMA9A=="
 ---

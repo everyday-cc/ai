@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/"
 type: article
 quality: 89
-heat: 113
+heat: 109
 published: true
 
 provider:

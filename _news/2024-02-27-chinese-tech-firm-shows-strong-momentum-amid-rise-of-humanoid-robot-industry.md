@@ -24,22 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Leo Wang, CEO of Duotech, Addresses Impact of AI on Fintech Industry During Chinese New Year Speech"
-    excerpt: "Leo Wang, CEO of Duotech, delivered a captivating speech during the Chinese New Year festivities, shedding light on the transformative power"
-    publishedDateTime: 2024-02-22T09:05:00Z
-    webUrl: "https://www.asiaone.com/business/leo-wang-ceo-duotech-addresses-impact-ai-fintech-industry-during-chinese-new-year-speech"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 25
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Feb2024/Leo_Wang_Duotech.jpg?itok=ukGamRbK"
-        width: 600
-        height: 400
-        isCached: true
-
 secured: "j9CZvzlLHIxEDpqEGu3y+OASfs6Azy0UgaWq5L/Cz/YgHq7hSs1i55Qi+Y00kT0xjsmkeDuRwMax9kWml5bbvnpbwwdffK1ELTNb2h5mbG2mbcryt4wEX2r4AlzYqUktq8+thOCMrpCZ2XAMIgXyIsnwYAc2Wzd7GVznZqeD595lw9Bbz7yf+Ix3yocaTFF+paCAldGzxzHEpKlUm9sXmIZskvvY/SrSSZXJ1Q80nP3Mul3EggQHz2MHiSQNMQokjyj11wZpZehND97tmhnr6LW13owDJ2jPe99+cnTB9vieiRtgarvdbG2cc32FvvwvHMkoD3dnbK7IDO4WalHqHfJbK2Gnrj3ZzXOl6YjgpFU=;LlKKjQeZR5r2YzJc8WAy+A=="
 ---
 

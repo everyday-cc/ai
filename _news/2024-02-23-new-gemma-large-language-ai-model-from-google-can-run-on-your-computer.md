@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Launches Gemma, a Family of Open-Source Lightweight AI Models for Developers"
-    excerpt: "Gemma’s open-source AI models are built from the same research and technology used to create the Gemini models."
-    publishedDateTime: 2024-02-22T07:59:00Z
-    webUrl: "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465"
-    ampWebUrl: "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 53
-    images:
-      - url: "https://i.gadgets360cdn.com/large/google_gemma_ai_1708588635642.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google Gemma AI vs Llama-2 performance benchmarks"
     excerpt: "The Gemma suite consists of four models. Two of these are particularly powerful, with 7 billion parameters, while the other two are still quite robust with 2 billion parameters. The number of parameters is a way of measuring how complex the models are and ..."
     publishedDateTime: 2024-02-22T10:30:00Z
@@ -69,29 +53,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Google's lightweight and free Gemma AI models are optimized to run on NVIDIA GPUs"
-    excerpt: "\"Built from the same research and technology used to create the Gemini models,\" Google's new lightweight Gemma LLMs have been designed to run natively on local PC hardware powered by NVIDIA GPUs. For use in third-party AI applications, Gemma 2B and Gemma ..."
-    publishedDateTime: 2024-02-22T12:36:00Z
-    webUrl: "https://www.tweaktown.com/news/96379/googles-lightweight-and-free-gemma-ai-models-are-optimized-to-run-on-nvidia-gpus/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96379_01_googles-lightweight-gemma-ai-optimized-to-run-on-nvidia-gpus_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
-  - title: "Google Challenges Meta’s Llama 2 with Lightweight Open Source LLM, Gemma"
-    excerpt: "Google has unveiled Gemma, a new family of open models, leveraging the research and technology behind the existing Gemini models."
-    publishedDateTime: 2024-02-22T07:59:00Z
-    webUrl: "https://analyticsindiamag.com/google-challenges-metas-llama-2-with-lightweight-open-source-llm-gemma/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 3
 
 secured: "CogZKHczDqota2+c4AKLwVpWhQwMyv5XqUhqBHW1DEDIUSjUBT/+6XewN6ANsab8TXAkFAEGtYQuoUGLOR6/VFx3qAvKsRCC2x14X6WZ4UlHFtRn+HhyYWzycqxoO1brinlORUMDow9cfqHbNCdQrFqjWa23+/kUFl+Bq//LzoN0dta82rMFbJVMEgWhcDh4w5UJ32Nfg5Mr8Pr0mCfEqVUGFPozoXg6HY5bBLGEQmYg4SvaHsggTXQzPshXU2NQuOfiTbjEIfdWGewQrGQ95iZWjJr9P0TrsoSxUUAHECfYhS+bZtlQ3VKgByHieF+56WYPlCpNgcIhvZysWHoOfaTzo2PaoQgldLZenLXsYqV/7GItO+0GHcm6e1Qk/E7MgY8UFGYE1AtGvQj9C+xxoyvzm5f03x4cYCDfzzys6kQfEOXa17ev6iQbwqqJ2O2kUjcSiLdgDze02IpLmDeJEbc554Mb1eVntTaVxNGQ8QRkzwaPvMyvn+m3CIDszbzEJT/7YhTxvIo18MmLvpDFFQ==;SnKij0+Civw1sqnIQ3QAuQ=="
 ---

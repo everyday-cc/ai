@@ -18,17 +18,6 @@ topics:
   - AI
   - AI in Sales
 
-related:
-  - title: "AI on smartphones: How to use it safely, effectively"
-    excerpt: "AI is becoming increasingly impactful in all industries, so here's how you can use it best in your personal life."
-    publishedDateTime: 2024-02-26T13:06:00Z
-    webUrl: "https://www.tennessean.com/story/money/business/tech/2024/02/26/smartphone-ai-use-search-engines-camera-and-more/72714772007/"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 19
-
 secured: "CoE141YCLsU0Tz52t39eI4ui+PbGUeVmQmekavUr40z7cZtURBZRUKLezfmIkAwEn3+XyccWUxi9j20434BZBpNSWd82Ufb4WkcsIvXR50TsSG6KwEzthbdSYAqmsOBTOfq93Linh5fw4qIZMZz6qlab22hYP6EWUDI82rYudG6eMWiGY35yW2cNL0QoAJeE1QLOlHpR4PFjKbL0ExTK/zildZcOXbgG+E8+tQobe687z5UfEBvxqgMU7Cmf62nVz5A6ERWLXan3fnuMKKq22+d5HTf3N1Nx6fK+1uDOhGWBpldDjQlt5Hv6475p7eYkp3yc8SDG7IYAJzb7mw924Q67qtE/+qUiV5s7kpAUl+JSXRmo5BB9OufDJKLDeC61C6+ctPffZIiI/HJe3zC54HpEke3bYB/Pg/9luSdAN9QEHM0yViU2kTFPW9urxYepTxHhNBE1Y5xNHHjGXwI0dYUzdqiNXtIQuqfmABlVuGNxOTlfsD+7XzuLpJEs2sCIiGK6QwsUMeAnogyCGmLufA==;D0p4URxI7MjNwCHtXur8cA=="
 ---
 

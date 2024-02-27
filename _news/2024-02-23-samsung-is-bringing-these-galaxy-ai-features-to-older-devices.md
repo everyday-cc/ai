@@ -57,6 +57,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Samsung presents Galaxy AI Vision at MWC 2024 with latest products and services"
+    excerpt: "Visitors to be offered powerful first-hand experiences across Galaxy S24 series, expanded product ecosystem and Samsung Connected Health, all powered by Galaxy AI"
+    publishedDateTime: 2024-02-27T07:51:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 55
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTFmN2FiNzctNzJlYS00/0/2024mwcgalaxyai_2-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Samsung Galaxy S23 WILL Get Galaxy AI Next Month"
     excerpt: "Here’s a quick rundown of what you’ll be able to do with Samsung’s Galaxy AI ... Real-time Call Translation: The update will enable real-time translation during calls, allowing users to understand conversations in foreign languages without language ..."
     publishedDateTime: 2024-02-25T00:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bcheights.com/2024/02/22/panelists-discuss-benefits-ri
 webUrl: "https://www.bcheights.com/2024/02/22/panelists-discuss-benefits-risks-and-legality-of-facial-recognition-software/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Nwogu weighs in on bias in facial recognition software"
-    excerpt: "UB computer scientist Ifeoma Nwogu spoke with UBNow about how AI has evolved through the years and offers her perspective on bias in facial recognition programs."
-    publishedDateTime: 2024-02-26T13:17:00Z
-    webUrl: "https://www.buffalo.edu/ubnow/stories/2024/02/qa-nwogu-bias-facial-recognition.html"
+  - title: "Facial Recognition Heads to Class. Will Students Benefit?"
+    excerpt: "Bou-Saba is designing a facial recognition system for classroom management. Multiple cameras spread throughout the room will take attendance, monitor whether students are paying attention and detect their emotional states, including whether they are bored ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.insidehighered.com/news/tech-innovation/teaching-learning/2024/02/27/facial-recognition-heads-class-will-students"
     type: article
     provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 19
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2024-02/GettyImages-1139858627%20%281%29.jpg?itok=ehgLWY6E"
+        width: 600
+        height: 421
+        isCached: true
 
 secured: "XvtdqocSXep+UBYeidI6Wg+CD/ywwvyKQvC2o+Xhchs0oP1k4Kg2jnHH1AJbsJiEOR3p53EK0xDiqfmid66wvlzmKzRg+5hNWS9i/panBZNz2YwQjAj3/BFO1vu0MXnPfau82nS9JRcD+uUGZyZUBAU7sQ8hhdngIgZ1dcEzUPD+vlmVR6LqjVQRt8/ThIDze8/fwp/0u3dGyTLAaMQH/ek3eEdK2WuACXgIUQ7wnEgFCs+YXjpM96BnzjOn2/t/Ycyn8hChYU2TiXooc1bDjLKza/Lewew+MV6OxMuwLnD/AnmIsulR5zB0za/zWyH5aN+CRK+B59j33zVKphGPXjS0iGG5J2+wNMSEEY26oZc=;VOJABFTIienULkbLIK+pkA=="
 ---

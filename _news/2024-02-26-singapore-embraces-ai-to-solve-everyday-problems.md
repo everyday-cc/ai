@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Singapore embraces AI to solve everyday problems"
+    excerpt: "As city-state shuns heavy regulation and works with Big Tech to build AI tools, some say it could become too reliant on tech firms."
+    publishedDateTime: 2024-02-27T06:32:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/26/singapore-embraces-ai-to-solve-everyday-problems"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/26/2562291.jpg"
+        width: 1240
+        height: 822
+        isCached: true
 
 secured: "pK3V5v1p3GlbLCVpib7kOr9Xgm9O+EPzZKKm+669wc7oXXH2h8RrG4Z4z3mp+Oubho6EiQItMjNJ0LEeAgVIob0C22DlmOkZ7+7XHzuI5HnTfa2t9MTElJOar77bgVViAQGdh3ewbHiHUyftewG4G6rJETRgsdLrCupOh+IuPtKGPzwWfQgoaKMDq7sXpI9ydlNkpMnB4w3/6auJycmE9el2Z8oN+2HXYViXSvLggFktdyA2IM2uxjnRFOLn3gKB7vBYQDllzI7deYgzekvKU+tmdHRMctnP9KvwXP/cF2FuT92LIzABTwnD2f0MaClq9sLitbodgoW0SusIxY1IRdsI026JBVI9y0dRuS9Mv/c=;j5dATjFIVHjn0XDmyaESgw=="
 ---

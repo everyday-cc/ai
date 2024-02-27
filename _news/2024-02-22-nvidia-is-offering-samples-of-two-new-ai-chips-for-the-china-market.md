@@ -108,22 +108,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 76
-  - title: "Nvidia's quarterly profit skyrockets on back of AI chip demand"
-    excerpt: "Nvidia said on Wednesday its profit soared to $12.3 billion in the recently ended quarter, on record high revenue driven by demand for its chips to"
-    publishedDateTime: 2024-02-22T08:16:00Z
-    webUrl: "https://www.dailysabah.com/business/nvidias-quarterly-profit-skyrockets-on-back-of-ai-chip-demand/news"
-    ampWebUrl: "https://www.dailysabah.com/business/nvidias-quarterly-profit-skyrockets-on-back-of-ai-chip-demand/news/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/nvidias-quarterly-profit-skyrockets-on-back-of-ai-chip-demand/news/amp"
-    type: article
-    provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 74
-    images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2024/02/22/thumbs/800x531/316190.jpg"
-        width: 1600
-        height: 1062
-        isCached: true
   - title: "Nvidia reports massive revenue spike amid global AI boom"
     excerpt: "Read our ethics statement. What just happened? Nvidia reported record sales and a massive revenue spike for the fiscal year 2024 that were fueled by the global AI boom. The company's total earnings for the final quarter of 2023 came in at $22.1 billion ..."
     publishedDateTime: 2024-02-22T11:33:00Z
@@ -379,15 +363,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 34
-  - title: "Nvidia’s AI mania provides new urgency to Biden’s goal of boosting US chip makers"
-    excerpt: "Nvidia’s blockbuster results on Wednesday demonstrated the insatiable demand for semiconductors to power new AI systems, and the fear that supply may not be able to keep up. That could make Washington’s goal of revitalizing US chip manufacturing in the ..."
-    publishedDateTime: 2024-02-22T08:23:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-ai-mania-provides-urgency-132357161.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 29
   - title: "Nvidia shatters stock market record by adding over $230 billion in value in one day. Here’s why it’s dominating the AI chip race"
     excerpt: "CEO Jensen Huang says early bets on AI made Nvidia “the only company that got it,” and competitors are racing to catch up."
     publishedDateTime: 2024-02-22T21:32:00Z

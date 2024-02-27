@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/02/23/a-once-in-a-generation-i
 webUrl: "https://www.fool.com/investing/2024/02/23/a-once-in-a-generation-investment-opportunity-1-ar/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 2500
     height: 1668
     isCached: true
-
-related:
-  - title: "The Bull Market Is Official: 2 No-Brainer Artificial Intelligence (AI) Stocks to Buy Now and Hold Long-Term"
-    excerpt: "The Motley Fool recommends Stellantis. The Motley Fool has a disclosure policy. This Generative Artificial Intelligence (AI) Growth Stock Has Jumped 86% in a Year. Here's Why It Can Skyrocket Another 73%."
-    publishedDateTime: 2024-02-22T08:25:00Z
-    webUrl: "https://www.fool.com/investing/2024/02/22/the-bull-market-is-official-2-no-brainer-artificia/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 44
 
 secured: "2CzpuE5dfNMmC2lOLInUgieHIsO+wa4mqjZnyxUFHZNWhbIX8sfI2c1TShuv8aq94woxw+VTEq0720fONdPU5dkVCfE83/Cx2etLEbf9yWOTLqD98fU62D/OVn2yYQmBm6pSWs4MJhifW3ZKCzSvReKaxK1YWiTvDyajcXbBNpIUOPZjZSvy0molyEGSYXbq3osnNGM4DggdjOlu+fjhOSQCKgYZqrd0cQ9r2/jmlZWx+vM5Roli8Bv/DO7H6uDeHf00I2whN6Bt4rPd0jWDk5oVF6Pn1fmrL13VWoA/vHaw8rT3B9blcYpuqnuI8jqHLp/wVZMk75CD92UnyiQIOJxQ/+Ch8CC14y4wWcz6PRw=;iLm/4mNqtMOQ915v03vB5Q=="
 ---

@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft releases its internal generative AI red teaming tool to the public"
-    excerpt: "The toolkit, \"battle-tested by the Microsoft AI team,\" sends a malicious prompt to the generative AI system, and once it receives a response, its scoring agent gives the system a score, which is used to send a new prompt based on previous scoring feedback."
-    publishedDateTime: 2024-02-22T09:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-releases-tool-used-for-internal-gen-ai-red-teaming-to-the-public/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-tool-used-for-internal-gen-ai-red-teaming-to-the-public/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-tool-used-for-internal-gen-ai-red-teaming-to-the-public/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/8048191236819c93d80005f6862e992e2ca70d91/2024/02/22/cf222808-ba3b-4363-8e88-d53087a9e55a/gettyimages-1840823044.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft reveals new AI Access Principles for its services and infrastructure"
     excerpt: "Microsoft says developers can pick how their AI models are sold, distributed, and used on Microsoft's Azure services. The company claims it will make it easier for developers to switch from Azure to another cloud developer. Also, Microsoft will not use any ..."
     publishedDateTime: 2024-02-26T22:10:00Z
@@ -116,6 +100,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65db651e54a80e758fd9cf16/0x0.jpg?format=jpg&crop=1909,1243,x138,y116,safe&height=900&width=1600&fit=bounds"
         width: 1382
         height: 900
+        isCached: true
+  - title: "Microsoft and Mistral AI forge partnership for AI advancement on Azure"
+    excerpt: "Microsoft and Mistral AI have unveiled a new multi-year partnership aimed at accelerating AI innovation and introducing the Mistral Large model first on the Azure platform."
+    publishedDateTime: 2024-02-27T07:44:00Z
+    webUrl: "https://www.fonearena.com/blog/417843/microsoft-mistral-ai-advancement-azure.html"
+    ampWebUrl: "https://www.fonearena.com/blog/417843/microsoft-mistral-ai-advancement-azure.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/417843/microsoft-mistral-ai-advancement-azure.html/amp"
+    type: article
+    provider:
+      name: FoneArena
+      domain: fonearena.com
+    quality: 89
+    images:
+      - url: "https://images.fonearena.com/blog/wp-content/uploads/2024/02/Le-Chat-Mistral.png"
+        width: 650
+        height: 272
         isCached: true
   - title: "Microsoft's Photos app gains AI object removal on Windows 11/10"
     excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: This new AI-powered tool reflects a growing trend. From Google Photos to Adobe's Firefly, more apps are integrating smart algorithms to enhance and ..."
@@ -317,6 +317,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft Aims to Empower AI Assets, Competition with Newly-Announced AI Access Principles"
+    excerpt: "The third and fourth AI access principles build upon the second, wherein it specifies that AI models hosted on Azure, including the Microsoft Azure OpenAI API service will now be openly available to software developers via public APIs and a common public ..."
+    publishedDateTime: 2024-02-26T22:01:00Z
+    webUrl: "https://www.techtimes.com/articles/302067/20240226/microsoft-empower-ai-assets-competition-newly-announced-access-principles.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302067/20240226/microsoft-empower-ai-assets-competition-newly-announced-access-principles.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302067/20240226/microsoft-empower-ai-assets-competition-newly-announced-access-principles.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 64
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/443003/microsoft-unveils-new-surface-laptop.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft Strikes Deal with France’s Mistral AI"
     excerpt: "Mistral AI emerged less than a year ago but is already what Microsoft ... Anthropic's Claude 2 and Google's Gemini Pro and will be available on Microsoft's Azure cloud computing platform. Mistral has also previously said it is teaming up with other big ..."
     publishedDateTime: 2024-02-26T19:39:00Z
@@ -353,6 +369,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/09eb35f/2147483647/strip/true/crop/940x457+0+62/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
         width: 1440
         height: 700
+        isCached: true
+  - title: "Microsoft collaborates with French start-up Mistral AI"
+    excerpt: "(MENAFN) On Monday, the US-based multinational technology company Microsoft revealed its collaboration with French start-up Mistral AI in a multi-year partnership aimed at expediting advancements in artificial intelligence (AI). \"The AI industry is ..."
+    publishedDateTime: 2024-02-27T02:41:00Z
+    webUrl: "https://menafn.com/1107903847/Microsoft-collaborates-with-French-start-up-Mistral-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_BusinessFinance_305.jpg"
+        width: 1920
+        height: 1440
         isCached: true
   - title: "AWS Storage VP Leaves For Microsoft Azure"
     excerpt: "AWS and Microsoft Azure compete heavily in several massive tech industries such as cloud computing, artificial intelligence and cloud storage, including in object, file and block storage. For example, AWS is the world’s market-share leader in cloud ..."

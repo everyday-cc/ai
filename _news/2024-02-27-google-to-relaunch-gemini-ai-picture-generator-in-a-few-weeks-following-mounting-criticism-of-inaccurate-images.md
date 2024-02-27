@@ -8,7 +8,7 @@ webUrl: "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-
 ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
 type: article
-quality: 68
+quality: 70
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?v=1708024344"
@@ -380,6 +381,6 @@ related:
       domain: foxbusiness.com
     quality: 11
 
-secured: "xEzRF01nZ0z06LJsmFDZnJ62UDbjXzvvgeHR9xO3P1KCBEiflu8lRhGnWct9Vw65MFDNuZ0kUVXkozhGtHzv8+Xx1kCqq+Nu3S+bXc3aIKlXvxF0nA4GpCXB9UgPRIAw/CGqR8Ei5Vg3n0gnverRedaONstn7vLLP1Plx6Ae2/aq40D73lPm7UT2jl9fPMFkeaUianl4h1DXdOXvL2MnGrQwtMFEEZgWyRAW0CE6SxcprxbPbDhGyR98FyLLEnO9vdj/l5Qc7UzpTVNXsYlKkwlIqdWwS+2gMT1OngWxA30PcXbGB3wh6gTUlUuXYopsTt/juX5WRD0NsuP4EiPfmM/RNzaqkmQwGgc5M0Na/Vk=;17B3/KJW/pr0LXr5HNK+ew=="
+secured: "7l0KftmLGq80WujMC3bfmtTKOapJL19b/75WCbFUKdtmwrrkfo0dr0ab98LWzfmUxj3ud4h+LHn06Z6A9jqfox9T0CjWHe3Ykgr3l1aS9nOrO8zX2bmp9ezENlip54wEN92V98MfMpn5sNLFR3evl0BDBIupc14aXpu9wfVwgEvGaiUs2Fp4t38ONerVwNL/mz5GU1W4T3VbobiX5SPlh0AEiLo2xjoTN7CxayCWixmty1J3qhUhP1RoQ95rzmh6YJd+rVwYLagtU1qB1VRePFnl0XrbMoL/aabJqbLlzxxLiZl/UzeFSySmJQl30NvdMWUqqmS8bu40rioM4Yj1JIp6FJ+cbS7WLmkdCF5x3hCYeYWCK/eluMxwEK428Iq4Kv4KduMGyE7afhMf3Rvjj16TwhZjMTaOlWuu3YHpAx6IYgi0vHQV3H+uUYV9i8VEzg6UoQvEhnmsudiAJpAVToNGQN0kGWG6f5UykOfyxw9pzhxcpEv/yh45OMyTl/Nrz1hiWJnJkECnVb3q6TN1bw==;Shnyo2ru1FsmyisAWn9leQ=="
 ---
 
