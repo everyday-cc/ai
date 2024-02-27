@@ -48,15 +48,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "The Best 7 Tech Stocks to Buy for AI Cloud Exposure"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Cloud AI combines the power of artificial intelligence with the power of cloud"
-    publishedDateTime: 2024-02-22T03:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-best-7-tech-stocks-to-buy-for-ai-cloud-exposure-1033090179"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Companies Need To Get Onboard The Generative AI Train"
     excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
     publishedDateTime: 2024-02-25T19:21:00Z

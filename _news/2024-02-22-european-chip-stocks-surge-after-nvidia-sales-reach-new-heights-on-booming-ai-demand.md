@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/european-chip-stocks-surge-aft
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31"
 type: article
 quality: 114
-heat: 494
+heat: 484
 published: true
 
 provider:
@@ -361,15 +361,6 @@ related:
     provider:
       name: Investing
       domain: investing.com
-    quality: 34
-  - title: "Nvidia quarterly profit soars US$12.3 bil on AI chips demand"
-    excerpt: "The company said it expects total revenue of US$24 billion in the current quarter. Huang said Nvidia chips are at the heart of datacentres transforming into “AI generation factories” with data a “raw material” turned into experiences such as prompt ..."
-    publishedDateTime: 2024-02-22T04:41:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2024/02/22/nvidia-quarterly-profit-soars-us12-3-bil-on-ai-chips-demand/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
     quality: 34
   - title: "Nvidia shares jump 14% after sales surge on AI ‘tipping point’"
     excerpt: "World’s most valuable chip company predicts even stronger sales on back of artificial intelligence spending frenzy"

@@ -1330,21 +1330,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-06-facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent.md",
-      "title": "Facebook rules allowing fake Biden “pedophile” video deemed “incoherent”",
-      "excerpt": "A fake video manipulated to falsely depict President Joe Biden inappropriately touching his granddaughter has revealed flaws in Facebook's \"deepfake\" policies, Meta's Oversight Board concluded Monday.",
+      "path": "_news/2024-02-06-facebook-and-instagram-will-label-fake-ai-images-to-stop-misinfo-from-spreading.md",
+      "title": "Facebook and Instagram will label fake AI images to stop misinfo from spreading",
+      "excerpt": "Meta will begin flagging AI-generated images on Facebook, Instagram ... The company’s AI Research lab FAIR is developing a new type of watermarking tech called Stable Signature.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2024/02/facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2024/02/facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent/",
+      "webUrl": "https://www.techradar.com/computing/software/facebook-and-instagram-will-label-fake-ai-images-to-stop-misinfo-from-spreading",
+      "originalUrl": "https://www.techradar.com/computing/software/facebook-and-instagram-will-label-fake-ai-images-to-stop-misinfo-from-spreading",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-870668326-760x380.jpg",
-          "width": 760,
-          "height": 380,
+          "url": "https://cdn.mos.cms.futurecdn.net/4xrZVKy6i8qzhWT3KgsD3T-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1354,14 +1354,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T18:44:00Z",
+      "publishedDateTime": "2024-02-06T00:01:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
+        "name": "TechRadar",
+        "domain": "techradar.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

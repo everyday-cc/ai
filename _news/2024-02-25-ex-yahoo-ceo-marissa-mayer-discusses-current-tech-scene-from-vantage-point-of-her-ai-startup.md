@@ -19,16 +19,16 @@ topics:
 
 related:
   - title: "Ex-Yahoo CEO Marissa Mayer discusses the current tech scene from vantage point of her AI startup"
-    excerpt: "Q: Sunshine is using AI to manage contacts on a mobile app ... Q: Not long after you became Yahoo CEO, you ordered a lot of employees who were working from home to start coming into the office regularly. Has the pandemic reshaped your thinking about ..."
-    publishedDateTime: 2024-02-26T20:52:00Z
-    webUrl: "https://magicvalley.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_84a752d8-241e-5155-a463-3431695fc0d7.html"
+    excerpt: "Former Yahoo CEO Marissa Mayer now runs an artificial intelligence startup called Sunshine that makes an app for managing personal contacts. She recently shared her views on AI and other tech topics."
+    publishedDateTime: 2024-02-26T19:45:00Z
+    webUrl: "https://missoulian.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_c4b1b655-d24f-5e71-86d4-13b17f6d6b2d.html"
     type: article
     provider:
-      name: Times-News
-      domain: magicvalley.com
+      name: Missoulian
+      domain: missoulian.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/8/4a/84a752d8-241e-5155-a463-3431695fc0d7/65d637f4e8be4.preview.jpg?crop=1764%2C926%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/c/4b/c4b1b655-d24f-5e71-86d4-13b17f6d6b2d/65d637f50b49b.preview.jpg?crop=1764%2C926%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

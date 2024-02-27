@@ -91,15 +91,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Google releases Gemma lightweight AI open models"
-    excerpt: "Google introduces Gemma, a new family of open-source lightweight AI models that allow developers and researchers to build large language models (LLM) with only a desktop."
-    publishedDateTime: 2024-02-22T04:16:00Z
-    webUrl: "https://cybernews.com/tech/google-ai-releases-gemma-open-source-models/"
-    type: article
-    provider:
-      name: cybernews
-      domain: cybernews.com
-    quality: 19
 
 secured: "TJsprpvgZ3OQt4Gb4zAPONSXW7+a+G0Eul83JB96HUePLNBUYU+ThBTQ1ySP56ox/PoVuttPic7A0+C3jUoET6mrielCqtZphi3dKx3vo/aZtDFi6Ze5YNtxwHeUGKRiQ3g+lsF5SIu/P2RjceAfuHGfr9zUAm+deB0YB0r05P9aBngGneetFhpcu0CnsvewEuCR+1kvT12R4NRM3/lHWeIJntJdTERKD2WLAdHzf/RrhSwP07m34DznVCOKG6xa8KcSzBMM5/7VGTWa9lerkTbpBgGQUqxoQQwGred8UcWkqqmpEeISw/taJP4BYLTbfx7YJPT0QzgVkGE4xYkXzUWbMKKqlKdLE/WlwEVRuXA=;iVCGggFXMDo1uOlCY7y6pQ=="
 ---

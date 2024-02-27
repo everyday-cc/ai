@@ -94,6 +94,20 @@ related:
         width: 760
         height: 444
         isCached: true
+  - title: "Microsoft and Mistral AI announce new partnership to accelerate AI innovation and introduce Mistral Large first on Azure"
+    excerpt: "Today, we are announcing a multi-year partnership between Microsoft and Mistral AI. We are fueled by a steadfast dedication to innovation and practical applications, bridging the gap between pioneering research and real-world solutions.\nThe post Microsoft and Mistral AI announce new partnership to accelerate"
+    publishedDateTime: 2024-02-26T14:10:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-and-mistral-ai-announce-new-partnership-to-accelerate-ai-innovation-and-introduce-mistral-large-first-on-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/Mistral-featured-image.jpg"
+        width: 1260
+        height: 708
+        isCached: true
   - title: "Microsoft's Photos app gains AI object removal on Windows 11/10"
     excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: This new AI-powered tool reflects a growing trend. From Google Photos to Adobe's Firefly, more apps are integrating smart algorithms to enhance and ..."
     publishedDateTime: 2024-02-23T11:39:00Z

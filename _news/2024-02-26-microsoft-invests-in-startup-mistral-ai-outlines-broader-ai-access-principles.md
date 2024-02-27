@@ -61,6 +61,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft's $2 billion bet on this AI startup as it looks beyond ChatGPT"
+    excerpt: "Microsoft has invested $2.1 billion in Mistral AI to accelerate the development of large language models. Mistral AI's flagship commercial model, Mistral Large, will be available on Azure AI and offers versatile language processing capabilities."
+    publishedDateTime: 2024-02-27T02:57:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-invests-21-billion-in-mistral-ai-to-accelerate-development-of-large-language-models/articleshow/108026849.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-invests-21-billion-in-mistral-ai-to-accelerate-development-of-large-language-models/amp_articleshow/108026849.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-invests-21-billion-in-mistral-ai-to-accelerate-development-of-large-language-models/amp_articleshow/108026849.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 88
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108026849,width-1280,height-720,resizemode-4/108026849.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup"
     excerpt: "Apart from Jeff Bezos and Nvidia, other technology companies are involved as well. Intel Corp.’s venture capital arm is pouring in $25 million, and LG Innotek is providing $8.5 million. Samsung’s investment group,"
     publishedDateTime: 2024-02-24T06:19:00Z

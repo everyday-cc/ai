@@ -24,17 +24,6 @@ images:
     height: 375
     isCached: true
 
-related:
-  - title: "1 Fintech Stock Under $300 to Buy and Hold Forever"
-    excerpt: "Today's Nvidia-fueled rally aside, it's not just artificial intelligence (AI) stocks that have piqued the market's interest over the past year. Fintech companies have also surged in popularity as the world shifts toward digital payments. The growth in ..."
-    publishedDateTime: 2024-02-22T20:51:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/XNDX/pressreleases/24283600/1-fintech-stock-under-300-to-buy-and-hold-forever/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 4
-
 secured: "xaCW2Fr/+MbCh7HAqn5aUvKrXMsh3O5Wvm87++SlTJH+WcPmBO9XKcoVms8TF8hSIRJIaSW1aW8rVZ7NXz7DCwKDewizUjeQFQpNpQTpVRtYiUhDmTnbm9Q552gQ/+c7F6DTbk2PtlbsJsOs/lto2CjzFgrFmAAvWsKTfZsrp4Tod7cu4w+kMqmoDmpOO96j6UVoQJ4ByKDkcVtjO3IcEqYIjaD2NliOKcW8QdiZU6Xjs5jjFLGvqx8rGpt6+LeUfZLn12JG2J8tLdhw6ut8VKdmMrNdTbIPkx1Ms9vA+VSmE53LV/HkndWRuJss42uU772wVpiNbwVmNq6deEfXZRjLxNnAEfj43vNtaUlFF/ZrrMkKduORvUVAaiYhQclTuyJnLpCxEY+m0uP5pwUV0XVVUnVJqPyWEJB76XtZx519mjrdIB65ztCPtx3Chd2rB9nwkyLJIb7yw1AWiCFVqlCthaEUTy6MClpcqDBREHLsxICx3ScJzz1GPL2Gn2MTbn2FB54wAT40RVpgBwaNCQ==;bimc/l+TSM3Qc/Pm5BgfbA=="
 ---
 

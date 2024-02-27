@@ -69,6 +69,22 @@ related:
         width: 2000
         height: 1042
         isCached: true
+  - title: "India’s digital public infra to lay basis for sovereign AI, says Nvidia senior VP"
+    excerpt: "Similar to DPI, Sovereign AI can help the government focus on real-life use cases in healthcare, agriculture, governance, language translation, etc. to maximise economic development. “From Nvidia’s perspective, what is important is the growth and ..."
+    publishedDateTime: 2024-02-27T04:32:00Z
+    webUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/"
+    ampWebUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 54
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-22T175543.891.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Boom Pushes Nvidia's Market Value To $2 Tln"
     excerpt: "Chipmaker Nvidia's (NVDA) market capitalization hit the $2 trillion mark, fueled by robust demand for AI chips, during the intraday"
     publishedDateTime: 2024-02-23T20:33:00Z
@@ -92,15 +108,6 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "AI Leader Nvidia Rises as Forecast Tops Wall Street's Lofty Goals"
-    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. The share surge that fueled S&P 500's climb to record highs this year had sparked fears that growth at Nvidia, the bellwether for AI demand, could ..."
-    publishedDateTime: 2024-02-22T04:51:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-22/ai-leader-nvidia-rises-as-forecast-tops-wall-streets-lofty-goals"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Huawei HONOR MagicBook Pro 16 AI laptop"
     excerpt: "Complementing the processors is the NVIDIA GeForce RTX 40 series Laptop GPU, which ensures smooth graphics and efficient multitasking capabilities. But the AI in this laptop does more than just enhance its power; it also improves how users interact with ..."
     publishedDateTime: 2024-02-25T23:59:00Z

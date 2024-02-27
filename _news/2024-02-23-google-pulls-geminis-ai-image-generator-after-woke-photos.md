@@ -84,22 +84,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google’s Gemini AI picture generator to relaunch in a 'few weeks' following mounting criticism of inaccurate images"
-    excerpt: "Google plans to relaunch its image-generation AI tool in the next \"few weeks,\" according to Google DeepMind CEO Demis Hassabis."
-    publishedDateTime: 2024-02-26T15:28:00Z
-    webUrl: "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?v=1708024344"
-        width: 4978
-        height: 3323
-        isCached: true
   - title: "Google explains how Gemini’s AI image generation went wrong, and how it’ll fix it"
     excerpt: "A few weeks ago Google launched a new image generation tool for Gemini (the suite of AI tools formerly known as Bard and Duet) which allowed users to generate all sorts of images from simple text prompts. Unfortunately, Google’s AI tool repeatedly missed ..."
     publishedDateTime: 2024-02-25T23:59:00Z
@@ -129,6 +113,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2024/02/gemini-emailpoc_light_mode_x4.max-1700x1700-100961521-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 697
+        isCached: true
+  - title: "Google aims to relaunch Gemini AI image tool in a few weeks"
+    excerpt: "Bard was renamed Gemini earlier this month and Google rolled out paid subscription plans, which users could choose for better reasoning capabilities from the AI model."
+    publishedDateTime: 2024-02-27T04:27:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-aims-to-relaunch-gemini-ai-image-tool-in-a-few-weeks-9183083/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-aims-to-relaunch-gemini-ai-image-tool-in-a-few-weeks-9183083/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-aims-to-relaunch-gemini-ai-image-tool-in-a-few-weeks-9183083/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2024/02/Google-Gemini-1.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Google aims to relaunch Gemini AI image tool"
     excerpt: "BARCELONA (Reuters) - Google plans to relaunch its AI tool that creates images of people, which it paused last week after inaccuracies in some historical depictions, in the next few weeks, Google DeepMind CEO Demis Hassabis said on Monday."
@@ -218,6 +218,22 @@ related:
       - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/02/AP24053522088699.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Google's Gemini AI picture generator to relaunch in a ‘few weeks' following mounting criticism of inaccurate images"
+    excerpt: "The controversy follows a high-profile rebrand Google announced this month, when it changed the name of its chatbot and rolled out a fresh app and new subscription options. The chatbot and assistant formerly known as Bard, a chief competitor to OpenAI's ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.nbcdfw.com/news/national-international/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/3471562/"
+    ampWebUrl: "https://www.nbcdfw.com/news/national-international/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/3471562/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/3471562/?amp=1"
+    type: article
+    provider:
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 39
+    images:
+      - url: "https://media.nbcdfw.com/2024/02/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google's Gemini AI picture generator to relaunch in a ‘few weeks' following mounting criticism of inaccurate images"
     excerpt: "Google plans to relaunch its image-generation AI tool in the next “few weeks,” according to Google DeepMind CEO Demis Hassabis."

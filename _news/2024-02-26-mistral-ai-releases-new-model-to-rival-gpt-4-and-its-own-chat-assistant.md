@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/"
 type: article
 quality: 89
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mistral AI startup launches LLM to take on ChatGPT, Gemini and Claude"
+    excerpt: "France-based startup Mistral AI has added a new proprietary large language model (LLM) to an increasingly crowded AI market — claiming its new Mistral Large can give several major competitors a run for their money. In a Feb. 26 post, the Paris-based firm ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/mistral-ai-startup-launches-llm-taking-on-chatgpt-gemini-claude"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
 
 secured: "CHWb+8uZ02NK5rdsfa7Ly/JNoLMltvqAhkp4sDXfZXrCvucHhkDVaF2nXDxE0AfWQdVD0b4IlAwbOAHwfufw4HKVSJKVEQxqF71tDh5K1bKu0OkFR2RuseU1nWvdVaE+ZWp2iMQh+mWGxX4sitHFc/xITDYSXg3B4HrVn2LFsY3RP7sQhCrNkHDEKajkYA6WpF3vLDhd8dnVApO1tatZGiNZCAxy2CTSml1lHK1Q2nZgnq1sUdQ+epYKLY70FW5P+wYbYwtELPEQLHp00Smo43lJI+jhLqXevYrGw9Vf3QFB2XeMTZMd3MPE/DkNnzRK5RRmdUOeEcPosHVbczIJ/dmIuhD+q2/7AyY0L84rS2U=;AGl6H5cXAq6iXFXOZZB4CQ=="
 ---

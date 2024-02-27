@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/02/26/nvidias-lightweight-rtx-500-10
 webUrl: "https://siliconangle.com/2024/02/26/nvidias-lightweight-rtx-500-1000-gpus-power-new-generation-ai-accelerated-laptops/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s Strong Outlook and Buy Rating: Anticipating Growth from AI Deployments and New GPU Launch"
-    excerpt: "Moreover, Caso anticipates a rise in the company’s revenue from China in the latter part of the year, and maintains a positive stance on the expected success of Nvidia’s B100 GPU, which is likely ... particularly from AI deployments, which have been ..."
-    publishedDateTime: 2024-02-22T03:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-strong-outlook-and-buy-rating-anticipating-growth-from-ai-deployments-and-new-gpu-launch-1033092514"
+  - title: "Nvidia Reveals AI-Focused RTX 500, 1000 GPUs For ‘Highly Portable’ Mobile Workstations"
+    excerpt: "Nvidia has revealed the RTX 500 and 1000 Ada Generation GPUs that are designed to boost AI workflows for ultrathin laptops used by professionals and content creators."
+    publishedDateTime: 2024-02-26T12:42:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/2024/nvidia-reveals-ai-focused-rtx-500-1000-gpus-highly-portable-mobile-workstations"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
+      name: CRN
+      domain: crn.com
+    quality: 26
 
 secured: "SIg8gWzcp4zdhE67d3LGENPdmYcs7jTs7biePoB52Sr/KpNUEQHiECXPlKBkCWXTtHsakxzwjxqNolrgSYuQrmM2o9Tay/5aNi0wnbBBQsqgneirsiXpkzV7HoNyXesur8NIu/u7bQosfWr+holTjudg83JLb0QQMVY2u75DBgzoecZnorKHgkGcWzpp5xzCW/4dJdUxbAYcxWlPT+1/e5RKz8H5CJX40FcbUgCBYJIasSHofb6tripW+0YhRaYbj2AYJVYiOv7ANXIFBPgFc2cnYSAke3b2EqxFKVhiaGwENX3K6DpLOo2zC46w3oaaowCvSvDnO9piD69VxvaFufxUndJG5Za6YUm9/kPfC+bLnO6Q/Nfu3jZCpOOHXaixUynNmkEdeSp/fg+ThrzoxyEY/SZS4KppmbzeSjWFk4iU+oK2h7x1WWH++aTo6EgfZg4k2djI7JSUNDyluvk2Rgpuj94hJiEalaKyfs3/CYjdQpChLP6YIckGEpor03GF5zRpFi9hsuN6aZOk6Fktbg==;gdlNl1UPw4LqskUP7yPrdA=="
 ---

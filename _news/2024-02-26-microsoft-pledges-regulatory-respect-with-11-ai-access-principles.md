@@ -87,6 +87,20 @@ related:
         width: 760
         height: 444
         isCached: true
+  - title: "Microsoft and Mistral AI announce new partnership to accelerate AI innovation and introduce Mistral Large first on Azure"
+    excerpt: "Today, we are announcing a multi-year partnership between Microsoft and Mistral AI. We are fueled by a steadfast dedication to innovation and practical applications, bridging the gap between pioneering research and real-world solutions.\nThe post Microsoft and Mistral AI announce new partnership to accelerate"
+    publishedDateTime: 2024-02-26T14:10:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-and-mistral-ai-announce-new-partnership-to-accelerate-ai-innovation-and-introduce-mistral-large-first-on-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/Mistral-featured-image.jpg"
+        width: 1260
+        height: 708
+        isCached: true
   - title: "Google Suddenly Reveals Bad News For Millions Of Microsoft Users"
     excerpt: "Which brings us to OpenAI’s ChatGPT (key shareholder—Microsoft) versus Google’s Gemini (née Bard). Currently, these two generative AI platforms are in the box seat for first mover advantage in AI-based search. This will step beyond browsers and task ..."
     publishedDateTime: 2024-02-25T15:11:00Z
@@ -501,6 +515,6 @@ related:
       domain: financialit.net
     quality: 25
 
-secured: "cbJKSvb4YDMHQfqiIWTfTl16p35BMvBZbZtRqdbgKJT3MyK3ueYzBr9/vdbnCVUxY0TzK7Wl/lwzWFvek3/5erSyLqnVb2HnX22Rcoz2qUHO7KJREzWWjhWdRmBqsMR8c+wQ4XUOIuEqo8yeOIRNSjtbTQ5BopLxxdGJz2YlN7bK62Qc4xY431iceo7fooTlvZ1SbW66okPxUCrJaCFcxVn+fIXJ82cPpfkyMmkjzdcNPOCrnU4fvMq63DU745ZFrLSNiCNMQfrGecq1kXWhPdqDI8PE7lE+HHv094JrpLbJnIG1KV7KTdNQnrNUxjcC91DOpRDLmD+aDGJJhRaXeZhjTt9GqBDJHks2+CHoR3Y=;G0E4JASnOfejBgrh3HGzVg=="
+secured: "FiKpIyND1AfeH1YQNau/rI7RxJZooOtLrfhhEXTiq0pBpt7BWjUqLN8p0vmsfDXkY+Xo0hTT22+NykgD/QYvnRmf+lIA8Vt1ZxiV9B/LAXhC+P+kV7UeY6CmMRRUIiULt+bzjDCk4z0v6TOFWN7Ge5wOM9zx5gncTt05L+Pog8i9CZ1wiHrL9/6UiIegleN8Gal1E+jjvGC41CYGuKMD1DB1CS4NFY9NMUzyqNhONT7aOGJJAa22IRVXEbz76Nuyt5VKtPnKHm/WvLR0x6z4I7DjpyitbBZ0KBjPH4h3dFCUYaLKkgOLHY0YR3+hxQjKZ3tpkR7Z9MfbhtX+wH2yWOevwV5hRv9YEYZFPOkqgGOeTwcZN2C3yWerr7CVrqVNKuXRxgN2x1NnwafXDC/PlffoIEWppS32SWb9e6xfHHoGATB/dU1Dn038+gghGLlMF9m22aYE7mLbHh77IR5FHWoKvgBC+d9JEBgkTzq6MCqFgQUEclN03YndDTE59jZWaw4OAiXhXcDoR020/E1vCw==;HYxSytkiwCWBM1tYYGkutg=="
 ---
 

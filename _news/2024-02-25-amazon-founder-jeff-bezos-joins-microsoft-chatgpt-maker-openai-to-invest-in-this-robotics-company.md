@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms"
 type: article
 quality: 107
-heat: 357
+heat: 367
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Microsoft's $2 billion bet on this AI startup as it looks beyond ChatGPT"
+    excerpt: "Microsoft has invested $2.1 billion in Mistral AI to accelerate the development of large language models. Mistral AI's flagship commercial model, Mistral Large, will be available on Azure AI and offers versatile language processing capabilities."
+    publishedDateTime: 2024-02-27T02:57:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-invests-21-billion-in-mistral-ai-to-accelerate-development-of-large-language-models/articleshow/108026849.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-invests-21-billion-in-mistral-ai-to-accelerate-development-of-large-language-models/amp_articleshow/108026849.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-invests-21-billion-in-mistral-ai-to-accelerate-development-of-large-language-models/amp_articleshow/108026849.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 88
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108026849,width-1280,height-720,resizemode-4/108026849.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft invests in startup Mistral AI, outlines broader AI access principles"
     excerpt: "The company announced a multi-year partnership and an investment of undisclosed size in French startup Mistral AI as an example of its approach. Mistral AI will be able to train and deploy its AI models via Microsoft’s data centers, and Microsoft will ..."

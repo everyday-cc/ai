@@ -89,6 +89,20 @@ related:
         width: 760
         height: 444
         isCached: true
+  - title: "Microsoft and Mistral AI announce new partnership to accelerate AI innovation and introduce Mistral Large first on Azure"
+    excerpt: "Today, we are announcing a multi-year partnership between Microsoft and Mistral AI. We are fueled by a steadfast dedication to innovation and practical applications, bridging the gap between pioneering research and real-world solutions.\nThe post Microsoft and Mistral AI announce new partnership to accelerate"
+    publishedDateTime: 2024-02-26T14:10:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-and-mistral-ai-announce-new-partnership-to-accelerate-ai-innovation-and-introduce-mistral-large-first-on-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/Mistral-featured-image.jpg"
+        width: 1260
+        height: 708
+        isCached: true
   - title: "Google Suddenly Reveals Bad News For Millions Of Microsoft Users"
     excerpt: "Which brings us to OpenAI’s ChatGPT (key shareholder—Microsoft) versus Google’s Gemini (née Bard). Currently, these two generative AI platforms are in the box seat for first mover advantage in AI-based search. This will step beyond browsers and task ..."
     publishedDateTime: 2024-02-25T15:11:00Z

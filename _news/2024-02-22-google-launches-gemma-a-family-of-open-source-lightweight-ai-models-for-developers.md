@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-li
 cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp"
 type: article
 quality: 53
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -83,15 +83,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Google releases Gemma lightweight AI open models"
-    excerpt: "Google introduces Gemma, a new family of open-source lightweight AI models that allow developers and researchers to build large language models (LLM) with only a desktop."
-    publishedDateTime: 2024-02-22T04:16:00Z
-    webUrl: "https://cybernews.com/tech/google-ai-releases-gemma-open-source-models/"
-    type: article
-    provider:
-      name: cybernews
-      domain: cybernews.com
-    quality: 19
   - title: "Google Challenges Meta’s Llama 2 with Lightweight Open Source LLM, Gemma"
     excerpt: "Google has unveiled Gemma, a new family of open models, leveraging the research and technology behind the existing Gemini models."
     publishedDateTime: 2024-02-22T07:59:00Z

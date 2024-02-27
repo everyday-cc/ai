@@ -67,6 +67,22 @@ related:
         width: 2000
         height: 1042
         isCached: true
+  - title: "India’s digital public infra to lay basis for sovereign AI, says Nvidia senior VP"
+    excerpt: "Similar to DPI, Sovereign AI can help the government focus on real-life use cases in healthcare, agriculture, governance, language translation, etc. to maximise economic development. “From Nvidia’s perspective, what is important is the growth and ..."
+    publishedDateTime: 2024-02-27T04:32:00Z
+    webUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/"
+    ampWebUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 54
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-22T175543.891.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NVIDIA samples two new AI GPUs for China, both comply with US export restrictions"
     excerpt: "NVIDIA is offering customers samples of two new artificial intelligence chips for the Chinese market, where NVIDIA CEO Jensen Huang wants to defend its market dominance in China against the tides of US export restrictions on AI GPUs in the country."
     publishedDateTime: 2024-02-25T12:19:00Z
@@ -81,15 +97,6 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "AI Leader Nvidia Rises as Forecast Tops Wall Street's Lofty Goals"
-    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. The share surge that fueled S&P 500's climb to record highs this year had sparked fears that growth at Nvidia, the bellwether for AI demand, could ..."
-    publishedDateTime: 2024-02-22T04:51:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-22/ai-leader-nvidia-rises-as-forecast-tops-wall-streets-lofty-goals"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "As Nvidia's downgraded AI chips go unwanted in China, who is the biggest beneficiary?"
     excerpt: "Recently, DIGITIMES has had several reports and comments regarding Nvidia's launch of the 2-gen downgraded AI chip H20 designed exclusively for China, but a lack of interest from Chinese customers. It's worth discussing which semiconductor company will..."
     publishedDateTime: 2024-02-23T00:01:00Z

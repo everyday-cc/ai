@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "FinTech Australia announces new 'FinTech for Net Zero' event to highlight sector’s focus on sustainability"
-    excerpt: "FinTech Australia, the national association for the Australian FinTech Startup community has launched a new event aimed at showcasing sustainability-focused fintech companies. Held in partnership with The Australian Trade and Investment Commission,"
-    publishedDateTime: 2024-02-26T22:44:00Z
-    webUrl: "https://itwire.com/science-news/climate/fintech-australia-announces-new-fintech-for-net-zero-event-to-highlight-sector’s-focus-on-sustainability.html"
+  - title: "B2B Construction Fintech Buildstock Books $1.6M in Pre-seed Funding"
+    excerpt: "This funding enables Buildstock to scale, expand third-party fintech, AI and logistics integrations and bring more participants into the marketplace. Late payments cost the $1.4 trillion construction materials industry over $208B in 2022, up 53% from 2021."
+    publishedDateTime: 2024-02-26T11:23:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221878-b2b-construction-fintech-buildstock-books-1-6m-in-pre-seed-funding/"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 21
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 24
     images:
-      - url: "https://itwire.com/media/k2/items/cache/0479e46eb8f30612a33c2f67fe60a88e_M.jpg"
-        width: 375
-        height: 375
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/02/Construction-Real-Estate-Crains-LA-1024x1024.jpg"
+        width: 1024
+        height: 1024
         isCached: true
 
 secured: "MIDloOcBI2VqS3LRkeUhh/H/XpIJlqPGlP3DDfL+m7SRg9nN7QJH8kOZ8esrbQ8ee5ObS7EjGAOCaiaou3QAIXPVOLnLfrW4uLrfqG9+HRm9CYXEUD3Rzit3lvyxgLHwfl6PMOxnyeIFKE6UR9crXvEqstmO2ELXHCxSXAMxhVeFdHvHLTyrG18deICQNitb490P52IY+Oz5+0ueOF9pAxk5PE3ITHQDLSDyIFIb1GqG99tX0AFBcEGBGlzeEqP7EbkfuStNPB8fSt74dcqQl6ThooS1tpS3dJ3qGMm7QDXhqFDF7X3TqjzOTwuBmXDAmdOSIK3h/HFehxO4+E7WTA11lmYBk6VWkIOm+zEB6B8=;tQO5nlY8w6yAcjvjeSu4pQ=="

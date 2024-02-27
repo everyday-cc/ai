@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mistral AI startup launches LLM to take on ChatGPT, Gemini and Claude"
+    excerpt: "France-based startup Mistral AI has added a new proprietary large language model (LLM) to an increasingly crowded AI market — claiming its new Mistral Large can give several major competitors a run for their money. In a Feb. 26 post, the Paris-based firm ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/mistral-ai-startup-launches-llm-taking-on-chatgpt-gemini-claude"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
 
 secured: "Spa0htRYuR/HDVaJN8ThH/8zjfCBOrdfXaDxGhdnfKhD/EhDMCUs8udbjPEJKcNorejYTW3lsDUuNE/l+97Lq70naO5kLGtWZepsGHlxcAVpekgb0VrpjHbKz7sfAjQwtWNWvL/qO58zVn836+LEnKv90ddgsZWQiz9O37sYWg0GBw5KJ2fVBCf0B19pjCy5ZtJC1tujOFroalZg0EbY1/VUGPNm3qhV7zZVH1vHdVp1S9zl5Hm6rK5Tt0tYnAt1ddGIr0tvDqcmzh6dtJxUfls2CiSc+/xwwNOw6uHs/S38Yj0rUBIDIM2LgX60IPXhxve9d9wtqg81twmTsIzqBuDKHV9jJTuItapSwK7Bmfg=;8W7mymKQIG0sJeJyO+wx0w=="
 ---
