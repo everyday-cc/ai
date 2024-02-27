@@ -495,6 +495,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Microsoft partners with French start-up in artificial intelligence"
+    excerpt: "Partnership provides Mistral AI access to Microsoft's cloud computing platform Azure's AI infrastructure - Anadolu Ajansı"
+    publishedDateTime: 2024-02-27T05:58:00Z
+    webUrl: "https://www.aa.com.tr/en/economy/microsoft-partners-with-french-start-up-in-artificial-intelligence/3148611"
+    type: article
+    provider:
+      name: Anadolu Ajansi
+      domain: aa.com.tr
+    quality: 34
   - title: "Microsoft Will Be One Of The Biggest Beneficiaries Of Artificial Intelligence"
     excerpt: "Microsoft is uniquely positioned to capitalize on the trends of the future and combine them with its own products. And this combination is likely to result in tremendous value for their customers. In addition, it is likely that Microsoft will gain market ..."
     publishedDateTime: 2024-02-24T11:15:00Z

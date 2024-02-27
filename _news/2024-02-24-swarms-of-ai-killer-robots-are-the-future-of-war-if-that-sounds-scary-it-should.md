@@ -7,7 +7,7 @@ originalUrl: "https://www.salon.com/2024/02/24/swarms-of-ai-killer-robots-are-th
 webUrl: "https://www.salon.com/2024/02/24/swarms-of-ai-killer-robots-are-the-future-of-war-if-that-sounds-scary-it-should_partner/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "The Killer Robots Are Here. It’s Time to Be Worried."
+    excerpt: "But at least they remain largely under human control. Imagine ... alter their combat tactics as the group-mind deems necessary. “Emerging robotic technologies will allow tomorrow’s forces ..."
+    publishedDateTime: 2024-02-23T00:01:00Z
+    webUrl: "https://www.thenation.com/article/world/killer-robots-drone-warfare/"
+    ampWebUrl: "https://www.thenation.com/article/world/killer-robots-drone-warfare/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/killer-robots-drone-warfare/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 59
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2022/10/soldier_launches_drone_afghanistan-150KB-rtr_img.jpg"
+        width: 1440
+        height: 907
+        isCached: true
 
 secured: "dTzfrQiw4I5dULZR5qzjpNgyuN/vu4FEuVHEWZp2KNDYe2fs/b2mjWv8cHWbG0RdDZJLk5m6L2jVhCG3Ma3S+Hcc9acAJ8wz8llwc1UX58pxjtI85PWnaJmq/dke7o68+9ThsWSyrvznIsDvQjukKnWo4Btuc7ARtwz7ssiLsxpmOM2pFgpoa8nB1k5+aBzmVSaVMAp1tzla6vbjbzcijwQswRYqn2E/3ZDsWYEpwpcCB6uZf+eI7WRtcTGVrBEHZCFkVePDS1GqWoDYKT5LesNJ1WyzGIyA2cf7/II6rPiKUMmQN1lKl68S984tWOlaAm9XAxpMW/qsx6rYbUsDVZD6Hxcg5S+0mk4af4Cyqwe2by8RkrPvvpSvS5D9Tmf1inLCk1EYc0XcmPpoE4ZnwzzZA8Z4nlRZc8x+TRFX9EHMBkhoADfPHBVA09Wm+pWKMj7svIHJVVPVo7uwZMlmPZtjjJZtPBevWVB/dN4awu+cEtJLxodrFv/DCQ77IVgI/axpCBARVUN3UsVzFXqlZQ==;P5Op9shqmDAlc0YZATO7Ug=="
 ---

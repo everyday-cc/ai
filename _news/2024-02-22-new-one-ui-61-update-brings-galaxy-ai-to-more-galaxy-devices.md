@@ -44,6 +44,22 @@ related:
       name: CNET
       domain: cnet.com
     quality: 46
+  - title: "Samsung senior executive reveals ‘behind the scenes’ of Galaxy S24’s AI features and the importance of open collaboration"
+    excerpt: "Talking about Samsung's initiation into AI, Jeong revealed, \"Samsung started working on AI back in 2017, beginning with GPU-based AI on the Galaxy S8 and later incorporating NPU on the Galaxy S20. We established an architecture that allows applications to ..."
+    publishedDateTime: 2024-02-27T06:37:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-senior-executive-reveals-behind-the-scenes-of-galaxy-s24s-ai-features-and-the-importance-of-open-collaboration/articleshow/108033988.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-senior-executive-reveals-behind-the-scenes-of-galaxy-s24s-ai-features-and-the-importance-of-open-collaboration/amp_articleshow/108033988.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/samsung-senior-executive-reveals-behind-the-scenes-of-galaxy-s24s-ai-features-and-the-importance-of-open-collaboration/amp_articleshow/108033988.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108033988,width-1280,height-720,resizemode-4/108033988.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fKGRI1ARyDkDxQsClDeqaSpQUbtUp51mt0GdBmI+9UGDOgbg6oyLygVG+VA9A5xuTvtZq1TwuQw5gke8kd1jOckxqHYuv3JP2XmQ153i9ZEBfyjhEcx1RCMJyM7bA6bNmN0v23UBipLAV7CwY+a/y+rlEMTqFuHDjjF3JxUz2W56NRBzoyOWGUmzMOKeoKniyxWdtqH87d5T+N62SsgKYXDkmZXoOl5hwP5a2rj5KGJp6ED1dggpa3yAp1oS2285h6Nc641EDKUsJP+tIuR0HfXMuY8oFs+X3z21gLKaqTGwyKrubfkU6k77E5SqHqp38bzRX//F4KEkyNF+LpocILdr5s3cWhyu29rDC/rkKKsnG3yvmSRxevuxS+20/WT57LYm+PFEQSP2nHpBKxrd51a5oRwOTPYz1N9uVixeCFscyJYaUFLT+hlUZG0tbUrtSkD6C6RjxtA7f1UO5Cg0B5WnUBQoDbeggsBbfxpjbd4+MgM/WIuhATLsw3W181vQi09qiobsaw/upWOhVhde5g==;H68egrkB52tj5I9gwherjw=="
 ---

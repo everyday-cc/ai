@@ -38,6 +38,20 @@ related:
         width: 258
         height: 323
         isCached: true
+  - title: "MWC 2024: Smartphone makers bet on AI to revive sales"
+    excerpt: "South Korean giant Samsung’s stand at the MWC prominently plugged its new premium AI-powered Galaxy S24 range, which allow users to make or receive a call in a language they don’t speak and then receive a live translation of the call both audibly and ..."
+    publishedDateTime: 2024-02-27T05:42:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/27/mwc-2024-smartphone-makers-bet-on-ai-to-revive-sales"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 56
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2564047.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Google's CEO Say AI Can Counter Cyber Threats, Even as New Tech Draws Criticism"
     excerpt: "Google's CEO Sundar Pichai spoke at the Munich Security Conference this week and addressed worries that the AI revolution could create a cybersecurity crisis. While everyone's \"right to be worried about the impact on cybersecurity,\" Pichai said he feels AI ..."
     publishedDateTime: 2024-02-23T19:15:00Z

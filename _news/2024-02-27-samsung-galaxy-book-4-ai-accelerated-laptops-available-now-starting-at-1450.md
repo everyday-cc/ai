@@ -39,6 +39,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Samsung senior executive reveals ‘behind the scenes’ of Galaxy S24’s AI features and the importance of open collaboration"
+    excerpt: "Talking about Samsung's initiation into AI, Jeong revealed, \"Samsung started working on AI back in 2017, beginning with GPU-based AI on the Galaxy S8 and later incorporating NPU on the Galaxy S20. We established an architecture that allows applications to ..."
+    publishedDateTime: 2024-02-27T06:37:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-senior-executive-reveals-behind-the-scenes-of-galaxy-s24s-ai-features-and-the-importance-of-open-collaboration/articleshow/108033988.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-senior-executive-reveals-behind-the-scenes-of-galaxy-s24s-ai-features-and-the-importance-of-open-collaboration/amp_articleshow/108033988.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/samsung-senior-executive-reveals-behind-the-scenes-of-galaxy-s24s-ai-features-and-the-importance-of-open-collaboration/amp_articleshow/108033988.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108033988,width-1280,height-720,resizemode-4/108033988.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "New One UI 6.1 Update Brings Galaxy AI To More Galaxy Devices"
     excerpt: "Samsung accelerates the global expansion of mobile AI by enabling users to experience Galaxy AI on previous models. SEOUL, Korea– Samsung E"
     publishedDateTime: 2024-02-22T14:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
 quality: 104
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -44,6 +44,36 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-26-10.jpg&signature=ae2affe139ede8d7a42bcbe87df8d1c8"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Google DeepMind's Open Endedness Team has created Genie, an AI that generates 2D playable platformer"
+    excerpt: "Tim Rocktaschel states that Genie is a 'foundation world model' that has been trained by watching 200,000 hours of 2D platformers."
+    publishedDateTime: 2024-02-27T05:45:00Z
+    webUrl: "https://www.shacknews.com/article/138891/google-deepmind-genie-ai-creates-2d-playable-world"
+    ampWebUrl: "https://www.shacknews.com/article/138891/google-deepmind-genie-ai-creates-2d-playable-world?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138891/google-deepmind-genie-ai-creates-2d-playable-world?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 59
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/02/26/google-deepmind-genie-ai-creates-2d-playable-worlds_feature.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "DeepMind chief says Google’s bungled AI faces feature is returning soon"
+    excerpt: "Google plans to resume a paused artificial intelligence feature that generates images of people in the \"next couple of weeks,” according to the company’s top AI executive."
+    publishedDateTime: 2024-02-27T05:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/27/deepmind-chief-says-googles-bungled-ai-faces-feature-is-returning-soon"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2563892.jpg"
+        width: 1240
+        height: 826
         isCached: true
 
 secured: "423kp4ldrQhWcDbEMzjFUGEZEMNkBVnSmGCyvweKxugKa/L7/SijCco94olKaXwRfRUf3E3YiOOF0G8lEw/kfkZuNTl5UZ9lWCnrYgBmkz98vW7lkDP7LSbcNJUtp84a0lrFK9aCuQjNBdbLzav3rO4V5lJ0FATdyD5PxnZ9FfLes72qE+4xFLcLE8YmbiIvrBJ1lf23w6rNELzHthlRqG23MJ4upqIJIUvhrMD8nIIl5UoyiPbyi6pKSp/RF0MM2U99353o8DBbqKxxKCwlZVc+ZZt42bPg73dk73UGCWBWimelWmaTDwUuMeV8cnFsw7Yn5ULWKwAqkwZ4C8RivEUfYqIKYbxlJ8rpwTsEx1O6vGnYkOiI8MVY+Z1Liv+G64b+vcgDRyonYsDarZeOd6I3wT0aBV0k95xN6zWe9615jyBfSVlauZN1KguALIHTQLxiO94rrsR3sGCWxAsgorK8915U4P8z71XXU2HC6hfyHMPolosTTb86wOKUwDNbby+tmsJarY4A57eAjgruTw==;TasJB8SHK1CGgzC+/CpYQg=="

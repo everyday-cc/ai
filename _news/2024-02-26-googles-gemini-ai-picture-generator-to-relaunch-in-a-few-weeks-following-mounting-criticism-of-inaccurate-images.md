@@ -88,6 +88,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google to relaunch Gemini AI picture generator in a 'few weeks' following mounting criticism of inaccurate images"
+    excerpt: "Google plans to relaunch its image-generation AI tool in the next \"few weeks,\" according to Google DeepMind CEO Demis Hassabis."
+    publishedDateTime: 2024-02-26T20:01:00Z
+    webUrl: "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 68
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?v=1708024344"
+        width: 4978
+        height: 3323
+        isCached: true
   - title: "Google explains how Gemini’s AI image generation went wrong, and how it’ll fix it"
     excerpt: "A few weeks ago Google launched a new image generation tool for Gemini (the suite of AI tools formerly known as Bard and Duet) which allowed users to generate all sorts of images from simple text prompts. Unfortunately, Google’s AI tool repeatedly missed ..."
     publishedDateTime: 2024-02-25T23:59:00Z
@@ -361,6 +377,6 @@ related:
       domain: foxbusiness.com
     quality: 11
 
-secured: "lznmfD6N+bD+pIYx6X28kTpscxW5sM6pQdkS0mUSWTizLR0onEVXObhp8W+LWIH6Osr2i0IZ15UnbvDBH18O9ziuNceRFfgrjKZoVcRQF245r4fIepYhpaTDn5CyvkDGUtN0NwS7Ku4rNwPaVlQMNURwjXaBADn2F2Fc7K8I4j8vt02OeHyoVCiucu/xwZRKfiCfwOA7TBgUGm4Qi56Y+IshJRJ8XaJEiwb46AJtNEfn9YU0wHiiEYdPDriSHOCexTWE+e0QnAcl441OIq5UJDELDuiKDzGOOQQCIltVncKu0sxP6QNDiiwpFx6dAN7XG6FP89q0heaDKHZQDTafO/rrOaJu0xsspJF5MAuo4j0=;9NfgvAyKZDR3LtHNBHAvAA=="
+secured: "u1FsuT9/AnPEcSmJxW1ra3udguRymOpwP9PBV1Z4Zp1oSJW1q2tNPdOXixxmhWiMEyHzIXCTm5dJSq01rv4oiohYUo63vy2WLFXmqyhsspAHbg6xkz1IzygKc9u5TuMOzlbokkqNwgJLOy3ZBDRc7dV0zn4/w0zT6ismsNwev/PQw3otxEcgHoN4x1cZjIq807JAuMGbrUOof6JZdbU1J5n+X1Ps+xppuejlV8nvj2V4w8F3xjwcUKcAt7f7E28pgVsBC9mqFQcuGB2lhpXMPwNa8eXyW9YNnc9QjXDmTmC0Nb+TOcsyqwxYPnuomwD8YPfyGdi9mlmWPGix7vMvl2p41w31Mj6ZQZbvtLwA0B/uCTSQIXfn8Vpt6sYwSwvgFbfv5yYeTrbCL6ahuWw9o+gbwctALy+o5wNOiB2HaL+wr94GZrbdYT8K1UB9BztVILQEZmQ31BcBysALRZhiBSy87w/eA7bdtKzZMTUVSIR18R4X4aASDkCk8P9c5VJLIYKUFrwnO1IDx9OM/CBzjQ==;YKBYhED7LzpwS9UGyOs0yg=="
 ---
 

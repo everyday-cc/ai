@@ -160,24 +160,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Asian Chip Stocks Gain After Nvidia Signals Booming AI Demand"
-    excerpt: "Shares of Asian chip makers rose Thursday after strong earnings from Nvidia buttressed expectations of booming global demand for semiconductors used in artificial intelligence."
-    publishedDateTime: 2024-02-22T05:18:00Z
-    webUrl: "https://www.wsj.com/tech/asia-chip-stocks-gain-after-nvidia-signals-booming-ai-demand-4c593cf2"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
-  - title: "Nvidia Has Begun Sampling Two New AI Chips for China Market, Says CEO"
-    excerpt: "The chips include most of Nvidia's newest features for AI work, but have had some of their computing power cut back to comply with new U.S. rules, according to the newsletter's analysis of the chips' specifications. Reuters reported earlier this month that ..."
-    publishedDateTime: 2024-02-22T06:23:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-22/nvidia-has-begun-sampling-two-new-ai-chips-for-china-market-says-ceo"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
     excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
     publishedDateTime: 2024-02-23T20:18:00Z
@@ -287,6 +269,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-27.jpeg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Why is There a Shortage of Nvidia AI Chips?"
+    excerpt: "TSMC’s (Taiwan Semiconductor) 2.5D advanced packaging CoWoS (Chip on wafer and wafer on substrate) technology is currently the primary technology used for AI chips. The production capacity of CoWoS packaging technology is a major bottleneck in AI chip ..."
+    publishedDateTime: 2024-02-25T18:40:00Z
+    webUrl: "https://www.nextbigfuture.com/2024/02/why-is-there-a-shortage-of-nvidia-ai-chips.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 54
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-25-at-9.34.39-AM-1.jpg"
+        width: 1500
+        height: 1172
         isCached: true
   - title: "Chip maker Nvidia hits $2 trillion valuation amid unstoppable demand for AI chips"
     excerpt: "AI requires significant processing power, creating huge opportunities for companies that make computer chips, especially graphics processing units (GPUs). The company's revenues have increased more than two-fold in the last year as it won new contracts ..."

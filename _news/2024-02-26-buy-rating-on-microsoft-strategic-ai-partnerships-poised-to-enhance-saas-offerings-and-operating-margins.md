@@ -490,6 +490,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Microsoft partners with French start-up in artificial intelligence"
+    excerpt: "Partnership provides Mistral AI access to Microsoft's cloud computing platform Azure's AI infrastructure - Anadolu Ajansı"
+    publishedDateTime: 2024-02-27T05:58:00Z
+    webUrl: "https://www.aa.com.tr/en/economy/microsoft-partners-with-french-start-up-in-artificial-intelligence/3148611"
+    type: article
+    provider:
+      name: Anadolu Ajansi
+      domain: aa.com.tr
+    quality: 34
   - title: "Telefónica partners with Microsoft to incorporate generative AI into Kernel"
     excerpt: "Telefónica today announced its partnership with Microsoft to integrate Azure AI Studio into Kernel applying generative AI to key workflows"
     publishedDateTime: 2024-02-26T13:45:00Z

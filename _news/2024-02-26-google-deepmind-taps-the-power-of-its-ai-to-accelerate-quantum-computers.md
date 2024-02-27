@@ -45,6 +45,36 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google DeepMind's Open Endedness Team has created Genie, an AI that generates 2D playable platformer"
+    excerpt: "Tim Rocktaschel states that Genie is a 'foundation world model' that has been trained by watching 200,000 hours of 2D platformers."
+    publishedDateTime: 2024-02-27T05:45:00Z
+    webUrl: "https://www.shacknews.com/article/138891/google-deepmind-genie-ai-creates-2d-playable-world"
+    ampWebUrl: "https://www.shacknews.com/article/138891/google-deepmind-genie-ai-creates-2d-playable-world?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138891/google-deepmind-genie-ai-creates-2d-playable-world?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 59
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/02/26/google-deepmind-genie-ai-creates-2d-playable-worlds_feature.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "DeepMind chief says Google’s bungled AI faces feature is returning soon"
+    excerpt: "Google plans to resume a paused artificial intelligence feature that generates images of people in the \"next couple of weeks,” according to the company’s top AI executive."
+    publishedDateTime: 2024-02-27T05:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/27/deepmind-chief-says-googles-bungled-ai-faces-feature-is-returning-soon"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2563892.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "RU9wKR85NFyz971ncf70DVB9UfsWoB+9alGXweHDoEJAHLyCeRN408cUmhHWepwiVCkwjDkW+PmpUJGmVITPSdboTDhFdB4Jgb6pjorudcSzc8c3jX+JGHe7j1d8IP92R0zU3BLb52PP2AyxhWe6H7TKl8+G3BMFuwdnhP3k83i23NXwOr4ExPXBgUl2s28qgvI2hrCz87mGYXI2RyzNlSVQGUvw8ThF31yWOVUIhgrx+dBER3Z9Ds0BEY29/ldZXwZtMD6FGKdxPsKcDPgzI4YzVtzkjfO3M/r8NiPqa9eoI82CqSFYDI5S028aTyQqgK4Ngw+IILebQZKkkSVlHy/7BsosUx9jXslPobwLO5TFybqxrqSqwOOidVvftVrNPFVtviwUs8n14KyZUbD2VauEJsfkZrHXfaMcbZbF0Z5GNFOzXxxEP1Jo9/u2hiBOvXIkA/n/k7pOtb7CtlZieWdAz0XRABbtyEQqWy4JurX3jleqMog2+V9XRr8cTbUsRVNNb5VS3Y0GvGsnykK/bQ==;nRAZANO4JiTrJ1VCeS16fQ=="
 ---

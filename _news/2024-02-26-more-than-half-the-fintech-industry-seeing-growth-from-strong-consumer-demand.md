@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Bud Financial partners with Fintech Galaxy"
-    excerpt: "\"This isn't just a partnership; it's a step towards a future where finance feels friendly, accessible, and genuinely helpful,\" says Mirna Sleiman, the Founder and CEO behind Fintech Galaxy. \"We're all in to create a world where your financial services understand and adapt to you — not the other way around.\""
-    publishedDateTime: 2024-02-22T06:19:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/bud-financial-partners-with-fintech-galaxy-se94gaea"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/bud-financial-partners-with-fintech-galaxy-se94gaea?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/bud-financial-partners-with-fintech-galaxy-se94gaea?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 44
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/Y2Q3YjE1ZDEtZjVlNC00/0/budfinancialpartnerswithfintechgalaxy-png.jpeg?f=3%3A2"
-        width: 870
-        height: 580
-        isCached: true
   - title: "India’s Fintech M&A Count Hits 30 in 2023, Lending Sector Tops List"
     excerpt: "Lending Fintech companies accounted for 30% of all Fintech acquisitions in India in 2023, highlighting a shift in market dynamics amid growing regulatory"
     publishedDateTime: 2024-02-24T18:10:00Z

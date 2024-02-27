@@ -19,15 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "EQS-News: artec technologies AG: AI-supported open source technology proves its worth in crisis situations"
-    excerpt: "AI-supported open source technology proves its worth in crisis situations AI-based transcription and translation in over 50 different languages New perspectives for broadcasters, press and news agencies, crisis centres,news services and many other areas ..."
-    publishedDateTime: 2024-02-22T05:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/eqs-news-artec-technologies-ag-ai-supported-open-source-technology-proves-its-worth-in-crisis-situations-1033092096"
+  - title: "GIGABYTE Ignites AI And 5G Visions At MWC 2024, Highlighting New Supercomputers, Edge AI And Sustainable IT Upgrades - A..."
+    excerpt: "GIGABYTE Technology, an IT pioneer advancing global industries through cloud and AI computing systems, is presenting innovative ent"
+    publishedDateTime: 2024-02-26T12:24:00Z
+    webUrl: "https://menafn.com/1107898937/GIGABYTE-Ignites-AI-And-5G-Visions-At-MWC-2024-Highlighting-New-Supercomputers-Edge-AI-And-Sustainable-IT-Upgrades-A"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/26/A_194feimage_story.jpg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "GIGABYTE Ignites AI and 5G Visions at MWC 2024, Highlighting New Supercomputers, Edge AI and Sustainable IT Upgrades"
+    excerpt: "GIGABYTE Technology, an IT pioneer advancing global industries through cloud and AI computing systems, is presenting innovative enterprise computing solutions at MWC 2024, featuri"
+    publishedDateTime: 2024-02-26T09:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/26/9967510.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "3qrFokBfP0YCuXgzkmu6GoexGYWxWfeMOouF31pJ8P0xjSa85vChvrzbWmVcY8MXlUov0r8/+bFFlLDSLILdzqzBhqITt+G7EnHhBGvQ7MvMNODsx6D59dEnTAlNy6tl+DPKE5o60aYSBPex0VkNMWbx07PTg/+NfDmCKnMU3J5bdHGSRiIhJDc0sbg0S+ZQ9WeoJHkwhmABXS7lQcA88mZIzmwqG8egUnUz98Q/SPsXDwLtf4I//a4L8F99h2JNoSiTmpWGduRgcDBmGZ1mNg0L5LhFmBrQ3sweQDPaVeNRBrog61KQigEh1KZ9tuNvlEDNYiXXaYGXaTJEPqF8kFVM3cCKxzwlodK8QgZL190=;KL4fuXV1P7o2rDtopycpAQ=="
 ---

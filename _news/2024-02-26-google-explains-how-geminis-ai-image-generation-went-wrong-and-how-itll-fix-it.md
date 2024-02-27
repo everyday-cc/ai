@@ -89,6 +89,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google to relaunch Gemini AI picture generator in a 'few weeks' following mounting criticism of inaccurate images"
+    excerpt: "Google plans to relaunch its image-generation AI tool in the next \"few weeks,\" according to Google DeepMind CEO Demis Hassabis."
+    publishedDateTime: 2024-02-26T20:01:00Z
+    webUrl: "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 68
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?v=1708024344"
+        width: 4978
+        height: 3323
+        isCached: true
   - title: "Google’s Gemini for Workspace expands genAI access to SMBs"
     excerpt: "This reflects a similar change to Google’s general purpose Bard chatbot, which switched to Gemini earlier this month. Gemini for Workspace is available via two pricing plans. Gemini Enterprise replaces Duet AI for Workspace Enterprise, which launched ..."
     publishedDateTime: 2024-02-22T16:53:00Z

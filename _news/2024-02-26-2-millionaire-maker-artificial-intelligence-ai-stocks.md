@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run"
-    excerpt: "TSMC's revenue in January 2024 increased substantially, and the trend is here to stay thanks to the robust demand for AI chips. SoundHound AI shares have shot up big time of late, and the company's potential growth could help it sustain the rally."
-    publishedDateTime: 2024-02-22T05:25:00Z
-    webUrl: "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/"
+  - title: "These High-Flying Artificial Intelligence (AI) Stocks Could Sink 20% or More Over the Next 12 Months, According to Wall Street"
+    excerpt: "But just as the story of the fabled king took a turn for the worse, some of the stocks that have been gold mines for investors just might be headed for a rough patch. These high-flying AI stocks could sink 20% or more over the next 12 months, according to Wall Street."
+    publishedDateTime: 2024-02-25T10:51:00Z
+    webUrl: "https://www.fool.com/investing/2024/02/25/these-high-flying-artificial-intelligence-ai-stock/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 84
+    quality: 56
     images:
-      - url: "https://g.foolcdn.com/editorial/images/765982/artificial-intelligence-ai-on-circuit-board.jpg"
-        width: 2359
-        height: 1270
+      - url: "https://g.foolcdn.com/editorial/images/766377/thumb-down.jpg"
+        width: 2122
+        height: 1413
         isCached: true
 
 secured: "NB1v2ATxVbVtNLdM+hL1yDgri3/BiY8NVpd+McbvZ+OtYGG8km/nQGw0BSmdjFe9ZuvDHLhdr2MI8cbbOwJJB0tBPjGkmv7RfriB0qcgBKyDn8CrvTVigK644N5gEUivzA8Nb46wFSQx+7N4STEP/zxMgH+dk5ElQVDDVy64ymIC7ThhvefhYikO5R37xV1ZSFj75eUTtaDI3Xdv30zGoZEZwT4Nrf83/e7jC6Jq/dUzK+RkV1UuS7CtLNBWjXBxe54I/2sYVOYTcdKvqLXVEIZ1ZX+d6u0Ps/WJP2o01zM1pmehYZcWdqLVJs6I8ZVcG5XYtqIfIpxHRjoRNtt1DoxSNS66pNQhiCEJ6VkgnQg=;KeihVK1l/hcIpU7fuSpKGw=="
