@@ -33,6 +33,20 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Intel aims to deliver chips for 100 million AI PCs by 2025"
+    excerpt: "Intel Vice President of Client Computing Group David Feng said his company expects to deliver 40 million AI PCs this year and 60 million next year -- more than 20% of the projected total global PC market in 2025."
+    publishedDateTime: 2024-02-27T17:31:00Z
+    webUrl: "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F8%2F4%2F47334888-1-eng-GB%2F2024-01-08T220541Z_1510761602_RC2YD5ADZUKN_RTRMADP_3_TECH-AI+%281%29.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Analysis: How Nvidia Surpassed Intel In Annual Revenue And Won The AI Crown"
     excerpt: "Instead, the Intel veteran saw a bigger threat in Nvidia and its “uncontested” hold over the AI computing space and said his company would give its all to challenge the GPU designer. “Well, they’re going to get contested going forward, because we ..."
     publishedDateTime: 2024-02-26T19:00:00Z

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-15-gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai.md",
+      "title": "Gun violence killed them. Now, their voices will lobby Congress to do more using AI",
+      "excerpt": "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai",
+      "originalUrl": "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/5349bf3/2147483647/strip/true/crop/5220x2936+0+1142/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F14%2Fgettyimages-1924333642_sq-f80ce43845f0599889a4b8ea1560c25af683d71b.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true",
+      "cdnAmpWebUrl": "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true",
+      "publishedDateTime": "2024-02-14T17:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUNC",
+        "domain": "wunc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning.md",
       "title": "The Future of Tech Jobs: Ethical AI and the Quest for Fairness in Machine Learning",
       "excerpt": "In an era where technology is advancing at an unprecedented pace, the quest for ethical AI and fairness in machine learning is not just a technical challenge but a crucial societal concern. This blog explores the future of tech jobs in the context of ethical AI,",
@@ -1382,59 +1425,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business.md",
-      "title": "From Davos To Dominance: How AI Is Rewriting Our Planet and Business",
-      "excerpt": "Remaking business playbooks for an AI-infused marketplace demands revamping strategy, ethics, and vision or forfeiting control - of both future profits and shared destiny. The hour for responsible leadership has arrived. It is still not too late to shape ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b6a410b7a2705fcafdda02/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/",
-      "publishedDateTime": "2024-01-28T18:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

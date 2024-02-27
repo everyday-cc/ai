@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-la
 webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-lags-on-ai-per-amazon.html"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "A Snapshot of Artificial Intelligence in Health Care"
+    excerpt: "Artificial intelligence (AI) has an important role in the future of health care. With its potential to parse through vast amounts of data, glean critical insights, build predictive models ..."
+    publishedDateTime: 2024-02-23T16:13:00Z
+    webUrl: "https://www.statnews.com/a-snapshot-of-artificial-intelligence-in-health-care/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 39
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Meta-Image-Premier-Pulse-Check-Report-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "What the healthcare AI sector wants from Congress"
     excerpt: "Healthcare interests clamoring for congressional action on artificial intelligence would also like lawmakers to remember the Hippocratic oath: First, do no harm. Second, they would like a little protection. Opinions about precisely which needs legislating ..."
     publishedDateTime: 2024-02-27T08:00:00Z

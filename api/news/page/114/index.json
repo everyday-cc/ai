@@ -2,6 +2,237 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2023-11-21-fortune-50-ai-innovators-2023-credits.md",
+      "title": "Fortune 50 AI Innovators (2023): Credits",
+      "excerpt": "Reporting by: Joseph Abrams, Lucy Brewster, Paolo Confino, Kinsey Crowley, Sheryl Estrada, Paige Hagy, Jeremy Kahn, Stephen Pastis, Prarthana Prakash, Anne Sraders, and Ben Weiss.",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/franchise-list-page/fortune-50-ai-innovators-credits-2023/",
+      "originalUrl": "https://fortune.com/franchise-list-page/fortune-50-ai-innovators-credits-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/11/50-AI-logo.jpg?resize=1200,600",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-who-said-what-using-machine-learning-to-correctly-attribute-quotes.md",
+      "title": "Who said what: using machine learning to correctly attribute quotes",
+      "excerpt": "Today’s blog does not come to you from any developer in product and engineering but from our talented colleagues in data and insight. Here, the Guardian’s data scientists share how they have teamed up with PhD students from University College London to train a machine learning model to accurately attribute quotes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes",
+      "originalUrl": "https://www.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0eacbae957f479928c88ce133ce6ad29ba596e5a/1356_0_4163_2500/master/4163.jpg?width=620&quality=85&auto=format&fit=max&s=b1a67e0f0bb4a35315f5281d02370ca5",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes",
+      "publishedDateTime": "2023-11-21T10:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-level-up-your-kafka-applications-with-schemas.md",
+      "title": "Level up your Kafka applications with schemas",
+      "excerpt": "Michael Burgess discusses schemas and schema management to add value to your event-driven applications on the fully managed Kafka service.\nThe post Level up your Kafka applications with schemas appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/level-up-your-kafka-applications-with-schemas/",
+      "originalUrl": "https://www.ibm.com/blog/level-up-your-kafka-applications-with-schemas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-aws-wants-to-train-2-million-people-as-ai-specialists.md",
+      "title": "AWS wants to train 2 million people as AI specialists",
+      "excerpt": "AWS wants to train 2 million people as AI specialists by 2025. To this end, Amazon has presented the free AI Ready training program. The program targets",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzine.eu/news/analytics/113485/aws-wants-to-train-2-million-people-as-ai-specialists/",
+      "originalUrl": "https://www.techzine.eu/news/analytics/113485/aws-wants-to-train-2-million-people-as-ai-specialists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techzine.eu/wp-content/uploads/2023/11/shutterstock_2263545623.jpg",
+          "width": 1000,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T08:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techzine",
+        "domain": "techzine.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo.md",
+      "title": "Polish company employs world's first ever AI humanoid robot CEO",
+      "excerpt": "During an interview with Fox Business over a video call, it was noted that there was a “significant delay” in Mika’s response time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622",
+      "originalUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/21/dictador_mika_.jpg",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622?amp",
+      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622?amp",
+      "publishedDateTime": "2023-11-21T07:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tbsnews",
+        "domain": "tbsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-21-mid-range-phones-will-get-generative-ai-thanks-to-this-new-chipset.md",
       "title": "Mid-range phones will get generative AI thanks to this new chipset",
       "excerpt": "MediaTek has announced the Dimensity 8300 smartphone chipset. This is the first mid-range smartphone chip touting on-device generative AI support. Qualcomm and MediaTek have both announced flagship smartphone processors with support for generative AI features.",
@@ -951,229 +1182,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-quantum-artificial-intelligence-is-closer-than-you-think.md",
-      "title": "Quantum Artificial Intelligence Is Closer Than You Think",
-      "excerpt": "Artificial intelligence will soon to be supercharged by quantum computing. The innovation it will create will leave today's solutions in the dust. Are you ready?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonathanreichental/2023/11/20/quantum-artificial-intelligence-is-closer-than-you-think/",
-      "originalUrl": "https://www.forbes.com/sites/jonathanreichental/2023/11/20/quantum-artificial-intelligence-is-closer-than-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6558334e0f656eba6d1751df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonathanreichental/2023/11/20/quantum-artificial-intelligence-is-closer-than-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanreichental/2023/11/20/quantum-artificial-intelligence-is-closer-than-you-think/amp/",
-      "publishedDateTime": "2023-11-20T15:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence.md",
-      "title": "DeepMind Says New Multi-Game AI Is a Step Toward More General Intelligence",
-      "excerpt": "A new Google DeepMind algorithm that can tackle a much wider variety of games could be a step towards more general AI, its creators say.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/",
-      "originalUrl": "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/11/chess-pieces-knights.jpeg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1",
-      "publishedDateTime": "2023-11-20T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-last-llama-on-the-loose-returns-to-his-home-in-the-blue-mountains.md",
-      "title": "Last llama on the loose returns to his home in the Blue Mountains",
-      "excerpt": "After nearly 10 days on the loose in the wilds of the Blue Mountains, the last llama on the loose returned home Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://barrie.ctvnews.ca/last-llama-on-the-loose-returns-to-his-home-in-the-blue-mountains-1.6652451",
-      "originalUrl": "https://barrie.ctvnews.ca/last-llama-on-the-loose-returns-to-his-home-in-the-blue-mountains-1.6652451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/11/20/llewis-the-llama-1-6652849-1700507040921.png",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai.md",
-      "title": "Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI",
-      "excerpt": "Explore the key drivers that impacted cloud transformation and what they mean for companies on their cloud modernization journey.\nThe post Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/",
-      "originalUrl": "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world.md",
-      "title": "SandboxAQ Announces AI Simulation Collaboration with NVIDIA to Impact the Physical World",
-      "excerpt": "AI and Quantum Simulation (AQ) is Next Significant AI Advancement for Creating Novel Battery Chemistries, Pharmaceutical Drugs, Energy Generation, Construction Materials and More PALO ALTO, Calif., Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35873661",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661",
-      "publishedDateTime": "2023-11-20T13:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

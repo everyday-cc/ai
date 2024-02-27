@@ -19,22 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Why this startup is betting on AI-powered tech to predict your future"
-    excerpt: "Astroyogi, a spiritual technology startup, anticipates growth from positive response ... we aim to create more immersive experiences to bolster user engagement. The integration of AI and ML technologies is a pivotal aspect of our investment, enabling ..."
-    publishedDateTime: 2024-02-22T18:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/articleshow/107923269.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/amp_articleshow/107923269.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/astroyogi-betting-on-ai-powered-tech-to-predict-your-future/amp_articleshow/107923269.cms"
+  - title: "Perfect promises, imperfect realities of AI"
+    excerpt: "With the widespread adoption of AI comes worry regarding its ethics. Deepmind’s original charters for AI ethics over time have transformed into Google’s AI principles, which involve objectives including being socially beneficial, avoiding unfair biases ..."
+    publishedDateTime: 2024-02-27T05:16:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/perfect-promises-imperfect-realities-of-ai/article67891557.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/perfect-promises-imperfect-realities-of-ai/article67891557.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/perfect-promises-imperfect-realities-of-ai/article67891557.ece/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107923269,width-1280,height-720,resizemode-4/107923269.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
 
 secured: "3CUu0mT4h0zOUAeC68j0bDfrNM5sFbkvcrZKXamwNT6UZZp0upr27WcaIM1edfzcKD40EVd2y5foVvHK3xpb+uLSSMNJ9RcjPibUb3lF8Bu5RC7oxt7NoCFWTGyCJ5H/ods6oxRuAxn4oaZBaHZMeZGW0XMihNJmxXsFXJFTmpr4R5bcxRhI/ys1RKNtoZYzX8fKrN6DEZqucUWNjPEdR68ZHcYJRB2S1Fkcg37Ns+dR6liYS7DVakmXjQ/by2Lobr1hVwic+pZEhpAW7OjG9frZbHPwNdNt5MoPKRv1bcYWhq8SRlrXZ8Ynj09/M5etOtUvF44baJRChtWRIdp03+jVuA1+90PL7w9fz1ui4ZE=;TWXQJOTzRhIpUqasBBWpjg=="
 ---

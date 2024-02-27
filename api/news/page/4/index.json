@@ -2,6 +2,203 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-24-mit-takes-a-hands-on-approach-to-tactile-learning.md",
+      "title": "MIT takes a hands-on approach to tactile learning",
+      "excerpt": "Some folks prefer to get a grip on things to better understand concepts. Researchers have developed smart gloves for tactile learners that use haptic feedback and AI to teach users new skills, fast-track precision training and control robots remotely.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/wearables/mit-csail-smart-glove-haptic-tactile-learning/",
+      "originalUrl": "https://newatlas.com/wearables/mit-csail-smart-glove-haptic-tactile-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/3857f5f/2147483647/strip/true/crop/1500x1000+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0e%2Ff0%2F62f8cc474b10a8b01f47a94bb17d%2Fmit-smartglove.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/wearables/mit-csail-smart-glove-haptic-tactile-learning/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/mit-csail-smart-glove-haptic-tactile-learning/?amp=true",
+      "publishedDateTime": "2024-02-23T17:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again.md",
+      "title": "Robotaxis by GM's Cruise are getting ready to hit the streets again",
+      "excerpt": "Unlike its previous operations prior to October 2023, the vehicles will not be entirely autonomous, and will have safety drivers ready to take the wheel if necessary.  The report also said that Cruise is in talks with local officials to ensure a positive reception when it hits the streets to test its cars.",
+      "sourceUrl": null,
+      "webUrl": "https://tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.html",
+      "originalUrl": "https://tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjAyMzQ5OTcyOTE2NTQ0NTI0/cruise-a-driverless-robot-taxi-in-san-francisco.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.amp.html",
+      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.amp.html",
+      "publishedDateTime": "2024-02-23T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tyler Morning Telegraph",
+        "domain": "tylerpaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-tyler-perry-halts-630m-film-studio-build-over-ai-fears.md",
+      "title": "Tyler Perry halts £630m film studio build over AI fears",
+      "excerpt": "US film and TV giant Tyler Perry says he's putting a $800m (£630m) expansion of his studio on hold after becoming concerned over new AI technology. He was due to add 12 sound stages to his Atlanta complex, but says he has been put off by the release of OpenAI's video generator Sora.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6038/production/_132723642_gettyimages-2014322799.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-68384657.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-68384657.amp",
+      "publishedDateTime": "2024-02-23T15:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-jim-cramer-says-mcdonalds-embracing-ai-at-drive-thrus-is-good-news-for-nvidia.md",
+      "title": "Jim Cramer says McDonald's embracing AI at drive-thrus is good news for Nvidia",
+      "excerpt": "McDonald's use of artificial intelligence in drive-thru lanes is a sign adoption of the technology is growing across the U.S., CNBC's Jim Cramer said Friday. And that bodes well for the leading maker of AI chips: Nvidia .",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/23/jim-cramer-mcdonalds-use-of-ai-at-drive-thrus-is-good-news-for-nvidia.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/23/jim-cramer-mcdonalds-use-of-ai-at-drive-thrus-is-good-news-for-nvidia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107369894-1707254880350-gettyimages-1990954248-js2_0388_myhjvme3.jpeg?v=1707254934&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-ai-chip-sales-are-driving-stock-markets-to-new-records.md",
       "title": "AI chip sales are driving stock markets to new records",
       "excerpt": "Nvidia's unprecedented leap in revenue from higher chip sales for AI and cloud use speaks volumes about the future of the technology and its impact on the economy.",
@@ -149,7 +346,7 @@
       "originalUrl": "https://www.marketwatch.com/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 444,
+      "heat": 414,
       "tags": null,
       "images": [
         {
@@ -294,6 +491,58 @@
       "topics": [
         "Meta AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-intelligent-ways-entrepreneurs-can-leverage-artificial-intelligence.md",
+      "title": "Intelligent Ways Entrepreneurs Can Leverage Artificial Intelligence",
+      "excerpt": "Although the multi-dimensional potential of AI-powered processes is undeniable, it's essential to note that no single tool can flawlessly fulfill all outlined tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/intelligent-ways-entrepreneurs-can-leverage-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/intelligent-ways-entrepreneurs-can-leverage-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/intelligent-ways-entrepreneurs-can-leverage-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/23/intelligent-ways-entrepreneurs-can-leverage-artificial-intelligence/amp/",
+      "publishedDateTime": "2024-02-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -877,7 +1126,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -970,256 +1219,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit.md",
-      "title": "This fintech startup is targeting a gap in lending as banks tighten credit",
-      "excerpt": "“Just because the loans are smaller doesn’t mean they’re not good.” Nvidia earnings send stock rocketing as company cheers AI ‘tipping point’ Nvidia makes Wall Street history as stock surge adds $277 billion in market cap Super Micro’s stock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
-      "originalUrl": "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-26691341/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
-      "publishedDateTime": "2024-02-22T22:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-azure-iot-centrals-reported-retirement-plans-remain-mysterious.md",
-      "title": "Azure IoT Central’s reported retirement plans remain mysterious",
-      "excerpt": "News that Microsoft plans to retire its Azure IoT Central platform ... “Now here we are in 2024, and companies are learning what’s working and what’s not working.” Google discontinued its IoT Core platform in favor of a partnership with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.html",
-      "originalUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/05/holding-cocktail-on-a-tropical-beach-139494580-100265301-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.amp.html",
-      "publishedDateTime": "2024-02-22T21:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-empower-your-technical-staff-with-hands-on-technology-training.md",
-      "title": "Empower your technical staff with hands-on technology training",
-      "excerpt": "Holistic training includes hands-on, real-world experience that teaches your technical staff how to carry out their full mission.\nThe post Empower your technical staff with hands-on technology training appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/empower-your-technical-staff-with-hands-on-technology-training/",
-      "originalUrl": "https://www.ibm.com/blog/empower-your-technical-staff-with-hands-on-technology-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T20:29:15Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-google-is-killing-gmails-basic-html-view-in-2024.md",
-      "title": "Google is killing Gmail’s basic HTML view in 2024",
-      "excerpt": "Google is currently focusing on infusing AI-powered features into its products, including Gmail. Last month, the company launched a Duet AI feature to help users write emails. Last week, it allowed the Bard chatbot to integrate with Google accounts so you ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/",
-      "originalUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/google-is-killing-gmails-basic-html-view-in-2024/amp/",
-      "publishedDateTime": "2024-02-22T19:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life.md",
-      "title": "Yorba’s service is like Mint for uncluttering your entire digital life",
-      "excerpt": "Spend enough time online, and you’ll collect a digital paper trail of accounts, logins, subscriptions, mailing lists, and passwords wrapped up in data breaches. A new startup called Yorba can help you get a better handle on your ever-expanding digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/",
-      "originalUrl": "https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/yorba-featured-image.jpg?resize=1200,731",
-          "width": 1200,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/amp/",
-      "publishedDateTime": "2024-02-22T18:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-26T08:00:00Z
 originalUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
 webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - Meta AI
+
+images:
+  - url: "https://www.adexchanger.com/wp-content/uploads/2024/01/Americas-next-top-AI-model_Kevvo_comic.jpg"
+    width: 2397
+    height: 2098
+    isCached: true
 
 related:
   - title: "The Best Generative AI Courses Money Can Buy"
@@ -113,6 +120,6 @@ related:
       domain: kansascity.com
     quality: 0
 
-secured: "OiXlt73AdAjBky4/zy0zWYDZuUhLySX7hA8+9bI1NcUVf2DrelTil7+1IxVkLP79Py/dzGZkuBYRwJLMvBpDd7yqj2SZTy029elZANfhYppCksJLLyNsXr6tXaTa4lA5QkbskguLenz6/5a7yTaMH7qJsYEuhSsiCaZbyj+A/ZIu3urLXZIGdvCwF6iEHswvo7DLd3AlRCbottnsBl/BL7ahfkSZVFYOtEaFrFf8UNy438Ltqmi7tHhtz/MKDcx43X5oVknXVN4GDY5t2tnG0xCzIL4If2ab8DgA+x3CT9PaPqow7LUqabKhJ1h4TlMJbKZ+Pt2alTQ7KilPw3TMKcy9BQ+Gu4il4QPmrCBv3H2US2FNMTegEoznY62DqXGlBzkS1KwAhq28OcRoPXuyTAkygBgCq+FItiVYDULFr3sBQLLRAZ6FS16UYR0K/zUFn6im6nyly6eoNcVoZkmM4Dc+hQner5ksOTAHsghl4VFKbI5gw+v2vYgit2LxzF0kqk4RDlyFPwUxHAHMvOFEmQ==;HWT6dISrFQgobGscONBP4Q=="
+secured: "+2CH2Mat195ldqbhDCg/4k56hdOMwo75dKqGdcqO49zk7bGSKF3njP3pB8PRvigkSdoVvT9XykVoooANTI1NuD5vOK5/QAx4He3y/PFa6gLwzY00zrv41fCiiW22hm+mkhPYxXSmCfVqBp4X81ZlV3iC3iblm05wqYVdS7s2mWwrGR/Ebgwd2umMuAg+CAKPRgmF78BPGEW2kQudSIO8tctIC6QLBcNaqRNRXCcCr5mv2KzdeOUuAlXozRqHYwaRlFH3DiEKOYZHfTSBF5XsZWIp1Ve3SV3IN7N5tboj5sKNsWeuH/lzds/q8oNUQzmaNdKGZvzcxl5sFXZ+h8aJE9cI1eOhEjLYNgHr8QII4ho=;yJfTTvorHmeHXf9FAfBOBA=="
 ---
 

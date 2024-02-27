@@ -10,7 +10,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -159,7 +159,7 @@
       "originalUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -200,6 +200,59 @@
       "topics": [
         "AI Hardware",
         "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity.md",
+      "title": "San Francisco's Edge In The AI Race: The Role Of Education And Inclusivity",
+      "excerpt": "This sentiment is echoed by other tech leaders and entrepreneurs who are drawn to San Francisco's unique intellectual community and the advantages it offers for startup success. The city's reputation as a prime location for AI innovation continues to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/",
+      "originalUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65db960e11905f964130f604/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/amp/",
+      "publishedDateTime": "2024-02-25T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
         "Meta AI"
       ]
     },
@@ -517,7 +570,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1475,58 +1528,6 @@
         "Meta AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-how-to-build-generative-ai-agents-with-joon-sung-park.md",
-      "title": "How to Build Generative AI Agents with Joon Sung Park",
-      "excerpt": "Joon’s research seeks to answer this question by applying LLMs to a long-standing challenge in computer science: the creation of AI agents that can authentically simulate human behavior. This ambition traces back to the earliest days of AI in the 1950s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/",
-      "originalUrl": "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d560ded33037465f55d4ad/0x0.png?format=png&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/",
-      "publishedDateTime": "2024-02-20T12:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-11-29-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks.md",
+      "title": "AWS CEO bats for responsible AI; says need to unlock GenAI's full potential while mitigating risks",
+      "excerpt": "Now this is a new capability that helps you customers easily safeguard your Generative AI applications with your responsible AI policies, to create a guardrail..., he said.With this, customers can create multiple guardrails tailored to different use cases and apply them across multiple FMs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_11_2023_10_07_19_2982597.jpg?width=1280",
+          "width": 1280,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks?amp",
+      "publishedDateTime": "2023-11-29T04:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-aws-powers-krungsris-transformation-into-an-ai-driven-bank.md",
       "title": "AWS Powers Krungsri’s Transformation Into an AI-Driven Bank",
       "excerpt": "Bank of Ayudhya Public Company Limited, commonly known as Krungsri Bank, has selected AWS to power its digital transformation efforts.",
@@ -1318,40 +1361,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-a-bull-market-is-coming-1-incredible-artificial-intelligence-ai-growth-stock-to-buy-hand-over-fist-and-hold-forever.md",
-      "title": "A Bull Market Is Coming: 1 Incredible Artificial Intelligence (AI) Growth Stock to Buy Hand Over Fist and Hold Forever",
-      "excerpt": "Furthermore, there's a compelling argument that artificial intelligence (AI) is at least partially responsible for this year's market turnaround. As a result, investors are leaving no stone unturned to find the stocks best positioned to profit from the advent of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/a-bull-market-is-coming%3A-1-incredible-artificial-intelligence-ai-growth-stock-to-buy-hand",
-      "originalUrl": "https://www.nasdaq.com/articles/a-bull-market-is-coming%3A-1-incredible-artificial-intelligence-ai-growth-stock-to-buy-hand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-26T14:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

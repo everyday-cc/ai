@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-becomes-first-to-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
 type: article
 quality: 87
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTFmN2FiNzctNzJlYS00/0/2024mwcgalaxyai_2-jpg.jpeg?f=3%3A2"
         width: 900
         height: 600
-        isCached: true
-  - title: "Samsung is bringing these Galaxy AI features to older devices"
-    excerpt: "At its core, the tool essentially adds a translation tool to any phone call powered by AI. When speaking to someone who understands a different language, Live Translate will translate and regenerate your voice into that language. When the other party ..."
-    publishedDateTime: 2024-02-22T18:13:00Z
-    webUrl: "https://9to5google.com/2024/02/22/samsung-ai-features-older-devices/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/Galaxy-S24-Generative-Edit-example-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Samsung Galaxy S23 WILL Get Galaxy AI Next Month"
     excerpt: "Here’s a quick rundown of what you’ll be able to do with Samsung’s Galaxy AI ... Real-time Call Translation: The update will enable real-time translation during calls, allowing users to understand conversations in foreign languages without language ..."

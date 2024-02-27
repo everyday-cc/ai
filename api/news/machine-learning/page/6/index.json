@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-13-scientists-unveil-brainoware-a-game-changer-for-artificial-intelligence.md",
+      "title": "Scientists unveil 'Brainoware': A game-changer for artificial intelligence",
+      "excerpt": "In contrast, advanced artificial intelligence systems can consume millions of watts. Recognising this efficiency, scientists envision the development of cyborg \"biocomputers\" that could significantly reduce energy costs while offering unparalleled computational power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.html",
+      "originalUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/2022/images/2023/2/machine-learning-deep-learning-graphic-of-artificial-intelligence-AI-VR-shut.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.amp.html",
+      "publishedDateTime": "2023-12-13T10:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-lg-demonstrates-ai-leadership-at-top-machine-learning-conference.md",
       "title": "LG demonstrates AI leadership at top machine learning conference",
       "excerpt": "LG AI Research demonstrated its leadership in generative AI, releasing its research results on AI Agent and others at Neural Information Processing Systems (NeurIPS), the largest conference in the field of machine learning,",
@@ -1247,49 +1290,6 @@
         "name": "electronicsforu",
         "domain": "electronicsforu.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-ai-networks-are-more-vulnerable-to-malicious-attacks-than-previously-thought.md",
-      "title": "AI networks are more vulnerable to malicious attacks than previously thought",
-      "excerpt": "Artificial intelligence tools hold promise for applications ranging from autonomous vehicles to the interpretation of medical images. However, a new study finds these AI tools are more vulnerable than previously thought to targeted attacks that effectively force AI systems to make bad decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231204135128.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231204135128.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T01:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,239 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-12-14-samsungs-next-galaxy-buds-might-offer-real-time-translation-using-ai-wunderbar.md",
+      "title": "Samsung’s next Galaxy Buds might offer real-time translation using AI – wunderbar!",
+      "excerpt": "Somewhat surprisingly, Samsung didn’t unveil an update to its flagship Galaxy Buds this year (or for that matter the hotly anticipated Samsung Galaxy Buds 3 ), with a November 16 leak claiming we'll get the Samsung Galaxy Buds 3 Pro in 2024 instead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/audio/earbuds-airpods/samsungs-next-galaxy-buds-might-offer-real-time-translation-using-ai-wunderbar",
+      "originalUrl": "https://www.techradar.com/audio/earbuds-airpods/samsungs-next-galaxy-buds-might-offer-real-time-translation-using-ai-wunderbar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/EQZ5xegDyphTu6QZFVm9yP-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T12:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-the-time-to-formalize-an-approach-to-ai-adoption-is-now.md",
+      "title": "The Time To Formalize An Approach To AI Adoption Is Now",
+      "excerpt": "Ignoring the potential of AI and clinging to conventional methods can result in missed opportunities and a loss of competitiveness in today's market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/",
+      "publishedDateTime": "2023-12-14T12:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-wanna-see-something-cool-try-this-awesome-ai-feature-built-right-into-the-iphone.md",
+      "title": "Wanna see something cool? Try this awesome AI feature built right into the iPhone",
+      "excerpt": "The object detection mode in Magnifier is an impressive demonstration of your iPhone's on-device AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/2168452/iphone-magnifier-on-device-ai.html",
+      "originalUrl": "https://www.macworld.com/article/2168452/iphone-magnifier-on-device-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2023/12/ios-object-detection-hero2.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T12:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-when-is-the-amazon-prime-shipping-deadline-for-christmas-2023-the-last-day-to-order-gifts-is-almost-here.md",
+      "title": "When is the Amazon Prime shipping deadline for Christmas 2023? The last day to order gifts is almost here",
+      "excerpt": "Most of us rely on mega retailers like Amazon to help with Christmas shopping, especially because of Amazon Prime two-day shipping. With shipping deadlines at USPS and many major retailers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/amazon-prime-shipping-deadline-for-christmas-2023/",
+      "originalUrl": "https://www.cbsnews.com/essentials/amazon-prime-shipping-deadline-for-christmas-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision.md",
+      "title": "Microsoft drastically expands Azure AI Studio to include Llama 2 Model-as-a-Service, GPT-4 Turbo with Vision",
+      "excerpt": "Today, the company announced that it is making Meta Platforms’ rival open-sourced AI model Llama 2 available in Azure AI Studio, its cloud platform AI clearinghouse, in the form of a “model-as-a-service.” Similar to the now old acronym of SaaS ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T11:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-unlocking-marketing-growth-generative-ai-in-action-starting-with-design.md",
       "title": "Unlocking Marketing Growth: Generative AI In Action, Starting With Design",
       "excerpt": "Although marketers have prioritized emotional connection and consumer experience with their brands, recent strides in GenAI are pushing these two aspects closer together.",
@@ -887,241 +1120,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger.md",
-      "title": "What To Expect At Intel AI Event: A Discussion With CEO Pat Gelsinger",
-      "excerpt": "language translation, etc.—that's going to happen. [And] I expect that every PC that is embedded in my manufacturing lines is going to be capable of real-time AI model generation and telemetry.” The coming changes will likely also change the shape of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6579ef752a71e24eeb55d316/0x0.jpg?format=jpg&crop=5461,3074,x0,y104,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/amp/",
-      "publishedDateTime": "2023-12-13T19:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device.md",
-      "title": "Parliament security system to be reviewed; image will be captured by facial recognition device",
-      "excerpt": "Following a major security breach in Parliament, the security protocols were overhauled with strict measures to reduce any contact between MPs and visitors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device",
-      "originalUrl": "https://www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_12_2023_18_13_26_9504778.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device?amp",
-      "publishedDateTime": "2023-12-13T18:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-2023-was-the-year-that-artificial-intelligence-went-mainstream.md",
-      "title": "2023 was the year that artificial intelligence went mainstream",
-      "excerpt": "From ChatGPT to Gemini, this year was dominated by large language models and other AIs becoming everyday tools used by millions of people",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/",
-      "originalUrl": "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2023/12/12141558/SEI_182878822.jpg",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-breaking-amd-is-not-the-fastest-gpu-heres-the-real-data.md",
-      "title": "Breaking: AMD Is Not The Fastest GPU; Here’s The Real Data.",
-      "excerpt": "Nvidia has just released a blog that counters AMD's claim that its latest chip, the MI300X, is 40-60 % faster in latency and throughput than Nvidia in inference processing for generative AI. Here is one of AMD’s slides at the MI300 launch event, which we covered here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6578921c5953b091cefa2b75/0x0.jpg?format=jpg&crop=638,359,x0,y401,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/",
-      "publishedDateTime": "2023-12-13T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-google-bard-explained-what-this-ai-powered-chatgpt-competitor-can-do.md",
-      "title": "Google Bard explained: What this AI-powered ChatGPT competitor can do",
-      "excerpt": "Meanwhile, Google has been a self-professed \"AI-first\" company since announcing a shift in focus at I/O 2017. The company unveiled a new AI-powered chatbot called Bard in March 2023. But it can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/google-bard-explained/",
-      "originalUrl": "https://www.androidpolice.com/google-bard-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-bard-hero-variation.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T17:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

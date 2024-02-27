@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI comes to the world of beauty as eyelash robot uses artificial intelligence to place fake lashes"
-excerpt: "and then combines it with artificial intelligence technology, according to Harding. \"And then we use the machine … to create a lot of data, tons and tons of images, and then we can use those ..."
+excerpt: "Artificial intelligence is making its way into esthetics ... told Fox News Digital in an interview that the company is using robotics and AI to \"completely transform the experience of eyelash ..."
 publishedDateTime: 2024-02-20T10:54:00Z
-originalUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes"
-webUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes"
+originalUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
+webUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
 ampWebUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
 type: article
@@ -18,9 +18,8 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1"
@@ -28,6 +27,6 @@ images:
     height: 340
     isCached: true
 
-secured: "dff9EPH/GhGFJjgMZPugva2mnNV5MVQHrJjlWVQqkKsaoMmQ1QRqnT7qCVxBPwWjSEik+lo5eETee10Bmw0tnuDmIZ891toqV7pU5KzEeXMlz023A6aC8NbMh/9gyxr75gqvZ4YdmqgLpk66FyLOpvl8VDalZpsLwAg1evH0F6C2y0V1aOefE9eHOvbA8EGpa5Ej/dYXcINQ3qLK32HUMAF7q8HoJXHu1Q/VBRZihoUtvDc48zYeTyjdyafJVpYtcqoe1sPJIkHSZErTMgMVigqU9wGN3h5HkXnCi08NScZxqpisET1iuu6Yc/2FNGd4QUsv3aGTH6X4qOQ0C0MjTSKQXYhr50HU2xd6kNxlYXw=;gzEppnxsSrXmjsM3nh388w=="
+secured: "VCsLVEcnRjTXjiVisCsyopwKB5zVsm9BT/C/R97hRrDmz4VQAFWnVA24YsY6NFeQL0L1w44CtFg+IXrlhCW8sh95mRuWRnoG56maTeahFLKpXJOuiRdGZmoMozejWY8R9c8VyUGna51CHrgqtIWRHz1+0vDsWBgmdK7mlw+dg7AqKUekZUq4VmdntQOzy/HR7BKGlFE6g6JabBZ7a7McFDZYk9w0TN8tvhSJ5Z5SS2IpY2UigqoBwNO78ROFLxJIFlukdKDXlMKHLiErUfyIPJpG/6eHTQuDb2c2onRVATEUbgAEaWYHmDy7Yc6dP3aWcfts50loiUch0MZOYDpvzCAIIuP6BOPEv2bUjtDv5js=;IYuAK44VHgRTBJSOD5EbUA=="
 ---
 

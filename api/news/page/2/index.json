@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-27-cyber-insights-2024-artificial-intelligence.md",
+      "title": "Cyber Insights 2024: Artificial Intelligence",
+      "excerpt": "AI's progress in 2024 and beyond: 2023 was a year of hype, 2024 brings the beginning of AI reality, and 2025 likely to be its delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/",
+      "originalUrl": "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securityweek.com/wp-content/uploads/2024/02/Elia-Zaitsev-Crowdstrike.jpeg",
+          "width": 258,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/",
+      "publishedDateTime": "2024-02-26T16:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecurityWeek",
+        "domain": "securityweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-ai-can-power-the-green-energy-transition.md",
+      "title": "AI Can Power The Green Energy Transition",
+      "excerpt": "The emergence of AI intersects with the energy transition. There is an opportunity for this emerging technology to accelerate the move to greener energy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
+      "originalUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dcb93b7d0e3d22afce25a9/0x0.jpg?format=jpg&crop=3552,1999,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
+      "publishedDateTime": "2024-02-26T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant.md",
+      "title": "Mistral AI releases new model to rival GPT-4 and its own chat assistant",
+      "excerpt": "Finally, Mistral AI is also using today’s news drop to announce a partnership with Microsoft. In addition to Mistral’s own API platform, Microsoft is going to provide Mistral models to its Azure customers. It’s another model in Azure’s model catalo ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
+      "originalUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1630826367.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/",
+      "publishedDateTime": "2024-02-26T15:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-how-to-improve-network-resilience-with-ns1-connect-filter-chains.md",
       "title": "How to improve network resilience with NS1 Connect Filter Chains",
       "excerpt": "We’ve put together a quick guide on how to build active-active, active-passive and manual failover systems by using filter chains.\nThe post How to improve network resilience with NS1 Connect Filter Chains appeared first on IBM Blog.\n",
@@ -96,7 +243,7 @@
       "originalUrl": "https://www.ibm.com/blog/llama-3/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": null,
       "content": "",
@@ -828,7 +975,7 @@
       "originalUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1059,153 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations.md",
-      "title": "Vendasta CEO Interview: Roots To Trusted Generative AI Innovations",
-      "excerpt": "This article is an interview and research of Vendasta a rising AI unicorn building trusted AI foundations with a compelling vision to strengthen SMB's globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65db4cadf97a8a71e3bb3ab8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1201,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/",
-      "publishedDateTime": "2024-02-25T15:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-ai-is-accelerating-the-loss-of-our-scarcest-natural-resource-water.md",
-      "title": "AI Is Accelerating the Loss of Our Scarcest Natural Resource: Water",
-      "excerpt": "In some organisms, up to 90% of their body weight comes from water. Did you know that 60% of an adult human body is water. A baby is nearly 80%. Each day, we must consume water to survive. An adult adult male needs about 3 liters (3.2 quarts) per day while an adult female needs about 2.2 liters (2.3 quarts) per day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/ai-is-accelerating-the-loss-of-our-scarcest-natural-resource-water/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/ai-is-accelerating-the-loss-of-our-scarcest-natural-resource-water/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65db438a588321c0153e09b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/ai-is-accelerating-the-loss-of-our-scarcest-natural-resource-water/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/25/ai-is-accelerating-the-loss-of-our-scarcest-natural-resource-water/amp/",
-      "publishedDateTime": "2024-02-25T14:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-intel-bridges-ai-chip-gap.md",
-      "title": "Intel Bridges AI Chip Gap",
-      "excerpt": "Intel is well-positioned to capitalize on emerging opportunities in the semiconductor landscape and bridge the AI chip shortage gap. Yiazou Capital Research members get exclusive access to our real-world portfolio. See all our investments here » Through ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap",
-      "originalUrl": "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gettyimages.com/id/1251437157/photo/microchip-and-intel-logo-displayed-on-a-phone-screen-are-seen-in-this-multiple-exposure.jpg?b=1&s=594x594&w=0&k=20&c=HFVH7KxmOihjyT8EjTR8pO5m_rgbZfpLmjn4pVRwaAE=",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -57,20 +57,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Samsung is bringing these Galaxy AI features to older devices"
-    excerpt: "At its core, the tool essentially adds a translation tool to any phone call powered by AI. When speaking to someone who understands a different language, Live Translate will translate and regenerate your voice into that language. When the other party ..."
-    publishedDateTime: 2024-02-22T18:13:00Z
-    webUrl: "https://9to5google.com/2024/02/22/samsung-ai-features-older-devices/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/Galaxy-S24-Generative-Edit-example-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Micron's 1.2TB/s HBM3E Production Kicks Into High Gear As AI Demand Skyrockets"
     excerpt: "HBM3E will be part of NVIDIA's H200 Tensor Core GPUs that are slated to ship in the second quarter of this year."
     publishedDateTime: 2024-02-26T14:14:00Z

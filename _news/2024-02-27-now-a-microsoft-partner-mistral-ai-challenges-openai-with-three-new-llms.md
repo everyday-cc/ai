@@ -381,6 +381,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Microsoft Partners with OpenAI Rival Mistral"
+    excerpt: "It was then accessible through Azure AI Studio and Azure Machine Learning. \"This latest addition of Mistral AI’s premium models into Models as a Service (MaaS) within Azure AI Studio and Azure Machine Learning provides Microsoft customers with a diverse ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://redmondmag.com/Articles/2024/02/27/Microsoft-Partners-with-OpenAI-Rival-Mistral.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0414red_DecMaker.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Bezos, Microsoft join OpenAI in humanoid robot startup"
     excerpt: "Jeff Bezos, Microsoft and other big technology names are investing in a business, Figure, that's developing humanlike robots."
     publishedDateTime: 2024-02-23T23:15:00Z

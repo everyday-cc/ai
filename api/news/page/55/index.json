@@ -2,6 +2,222 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2024-01-17-how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up.md",
+      "title": "How one IBMer is creating a more sustainable future for the island where he grew up",
+      "excerpt": "Takahito Motonaga is one IBMer making a difference in the community where he grew up: Miyakojima City, Okinawa, Japan.\nThe post How one IBMer is creating a more sustainable future for the island where he grew up appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
+      "originalUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-elon-musk-issues-ultimatum-to-tesla-give-me-more-shares-or-ai-and-robotics-development-stops.md",
+      "title": "Elon Musk issues ultimatum to Tesla: give me more shares or AI and robotics development stops",
+      "excerpt": "Writing on his own X/Twitter platform, Musk warned that unless his ownership in Tesla increased to 25%, he would be \"uncomfortable growing Tesla to be a",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
+      "originalUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2022/11/2022-11-07-image-3.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T10:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-artificial-intelligence-and-machine-learning-news.md",
+      "title": "Artificial Intelligence and Machine Learning: News",
+      "excerpt": "Find Latest News, Videos and Pictures about Artificial Intelligence and Machine Learning. Explore latest updates, news, information from NewsBytes. All about Artificial Intelligence and Machine Learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsbytesapp.com/news/science/artificial-intelligence-and-machine-learning/23",
+      "originalUrl": "https://www.newsbytesapp.com/news/science/artificial-intelligence-and-machine-learning/23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T09:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsbytesapp.com",
+        "domain": "newsbytesapp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-byd-showcased-the-intelligence-advancement-at-dream-day-2024.md",
+      "title": "BYD Showcased the Intelligence Advancement at Dream Day 2024",
+      "excerpt": "XUANJI Architecture empowered by AI debuted, marking a transformative leap in merging electrification with intelligence. BYD announced its plan to construct the world's first professional all-terrain test driving ... with the self-developed XUANJI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240116662715/en/BYD-Showcased-the-Intelligence-Advancement-at-Dream-Day-2024/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240116662715/en/BYD-Showcased-the-Intelligence-Advancement-at-Dream-Day-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T07:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-elon-musk-is-uncomfortable-growing-tesla-to-be-a-leader-in-ai-and-robotics-without-this-1-key-development-happening.md",
+      "title": "Elon Musk Is \"Uncomfortable Growing Tesla to Be a Leader in AI and Robotics\" Without This 1 Key Development Happening",
+      "excerpt": "Elon Musk wants to obtain roughly 25% voting control of Tesla. If he doesn't get his way, he stated that he wants to build more AI and robotics products \"outside of Tesla.\" Musk made his demand to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/01/17/elon-musk-is-uncomfortable-growing-tesla-to-be-a-l/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/17/elon-musk-is-uncomfortable-growing-tesla-to-be-a-l/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/761471/tesla-service-center-with-two-associates-at-desk-with-tesla-logo.png",
+          "width": 2000,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T05:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-3-ways-generative-ai-is-making-our-world-a-better-place.md",
       "title": "3 Ways Generative AI Is Making Our World A Better Place",
       "excerpt": "Discover three inspiring examples of how generative AI is positively transforming our world: from preserving the Icelandic language to making literature more accessible.",
@@ -892,231 +1108,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-bet-on-googles-alpha-bets.md",
-      "title": "Bet On Google's 'Alpha Bets'",
-      "excerpt": "Google is the cheapest of the Magnificent 7 due to fears that large language models will cannibalize its search empire. Find out why GOOG stock is a Strong Buy.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4663105-bet-on-google-alpha-bets",
-      "originalUrl": "https://seekingalpha.com/article/4663105-bet-on-google-alpha-bets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T17:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-artificial-intelligence-helped-scientists-create-a-new-type-of-battery.md",
-      "title": "Artificial intelligence helped scientists create a new type of battery",
-      "excerpt": "It took just 80 hours, rather than decades, to identify a potential new solid electrolyte using a combination of supercomputing and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencenews.org/article/artificial-intelligence-new-battery",
-      "originalUrl": "https://www.sciencenews.org/article/artificial-intelligence-new-battery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/01/011224_ev_AI-battery_feat.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T17:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science News",
-        "domain": "sciencenews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-how-best-take-makes-your-group-photos-better.md",
-      "title": "How Best Take makes your group photos better",
-      "excerpt": "Learn more about how Google built Google Photo’s Best Take tool.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/photos/how-google-photos-best-take-works/",
-      "originalUrl": "https://blog.google/products/photos/how-google-photos-best-take-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Best-Take.width-1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/photos/how-google-photos-best-take-works/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/how-google-photos-best-take-works/amp/",
-      "publishedDateTime": "2024-01-16T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-practical-guides-to-budget-ai-and-computer-vision-solutions-part-1.md",
-      "title": "Practical Guides to Budget AI and Computer Vision Solutions | Part 1",
-      "excerpt": "In response to widespread interest, OpenCV.ai has launched a series of articles to guide entrepreneurs and enterprises, in exploring Computer Vision solutions. These articles are designed to aid in making informed decisions, with a focus on optimizing development and operational costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-practical-guides-budget-ai-computer-vision-solutions-part-/2024/01/16/9947089.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-practical-guides-budget-ai-computer-vision-solutions-part-/2024/01/16/9947089.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T17:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-a-flaw-in-millions-of-apple-amd-and-qualcomm-gpus-could-expose-ai-data.md",
-      "title": "A Flaw in Millions of Apple, AMD, and Qualcomm GPUs Could Expose AI Data",
-      "excerpt": "Patching every device affected by the LeftoverLocals vulnerability—which includes some iPhones, iPads, and Macs—may prove difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/",
-      "originalUrl": "https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65a1549c81f92dbe563bcabb/191:100/w_1280,c_limit/AI-chip-flaw-GettyImages-85757121-(1).jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T17:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

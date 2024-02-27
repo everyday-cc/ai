@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-04-human-brain-is-superior-and-more-efficient-than-artificial-intelligence-scientists-say.md",
+      "title": "Human brain is superior and more efficient than artificial intelligence, scientists say",
+      "excerpt": "Most modern AI consist of artificial neural networks, which are layers of 'nodes' or neurons similar to what you might find in the brain. When an AI makes a mistake it adjusts the connections ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12925689/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12925689/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2024/01/04/11/79609597-0-image-a-28_1704366728030.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12925689/amp/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12925689/amp/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
+      "publishedDateTime": "2024-01-04T11:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-03-unmasking-the-secrets-of-artificial-intelligence-in-drug-discovery.md",
       "title": "Unmasking The Secrets Of Artificial Intelligence In Drug Discovery",
       "excerpt": "Discover how these AI models may rely more on memorization than true understanding, reshaping the future of AI in life sciences.",
@@ -1260,49 +1303,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-scientists-unveil-brainoware-a-game-changer-for-artificial-intelligence.md",
-      "title": "Scientists unveil 'Brainoware': A game-changer for artificial intelligence",
-      "excerpt": "In contrast, advanced artificial intelligence systems can consume millions of watts. Recognising this efficiency, scientists envision the development of cyborg \"biocomputers\" that could significantly reduce energy costs while offering unparalleled computational power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.html",
-      "originalUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/news/2022/images/2023/2/machine-learning-deep-learning-graphic-of-artificial-intelligence-AI-VR-shut.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.amp.html",
-      "publishedDateTime": "2023-12-13T10:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

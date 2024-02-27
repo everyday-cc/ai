@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/rhettpower/2024/02/25/navigating-the-
 webUrl: "https://www.forbes.com/sites/rhettpower/2024/02/25/navigating-the-ai-paradigm-shift-in-business/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Forbes
@@ -28,19 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "5 ways to leverage AI to streamline your business workflows in 2024"
-    excerpt: "Used right, AI has the potential to significantly improve the efficiency of operational workflows, and increase productivity."
-    publishedDateTime: 2024-02-23T20:16:00Z
-    webUrl: "https://venturebeat.com/business/5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024/"
+  - title: "Understanding the Hurdles – Why Companies Aren’t Ready for Full AI Integration in Business"
+    excerpt: "AI (artificial intelligence) is the topic that has got the attention of not only tech enthusiasts but also the general public since last year."
+    publishedDateTime: 2024-02-24T04:41:00Z
+    webUrl: "https://dailyhodl.com/2024/02/23/understanding-the-hurdles-why-companies-arent-ready-for-full-ai-integration-in-business/"
+    ampWebUrl: "https://dailyhodl.com/2024/02/23/understanding-the-hurdles-why-companies-arent-ready-for-full-ai-integration-in-business/amp/"
+    cdnAmpWebUrl: "https://dailyhodl-com.cdn.ampproject.org/c/s/dailyhodl.com/2024/02/23/understanding-the-hurdles-why-companies-arent-ready-for-full-ai-integration-in-business/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: The Daily Hodl
+      domain: dailyhodl.com
+    quality: 49
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/pexels-christina-morillo-1181534-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 704
+      - url: "https://dailyhodl.com/wp-content/uploads/2023/11/AI-Focused-Altcoin.jpg"
+        width: 1366
+        height: 800
+        isCached: true
+  - title: "How to navigate talent management in the age of AI"
+    excerpt: "Valuing human skills, fostering inclusivity and navigating the ethics of AI can make tech roles sustainable and fulfilling."
+    publishedDateTime: 2024-02-23T21:20:00Z
+    webUrl: "https://www.ciodive.com/news/AI-tech-talent-management-mastercard/707910/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
+  - title: "Dissecting the AI boom through the dotcom lens"
+    excerpt: "The Web was funded by telco CAPEX as hyperscalers are funding the AI buildout. But there was no internet or cloud at the time, so this time the pace is accelerated. Picks and shovels are highly valued at the start The core infrastructure – so-called ..."
+    publishedDateTime: 2024-02-24T16:19:00Z
+    webUrl: "https://siliconangle.com/2024/02/24/dissecting-ai-boom-dotcom-lens/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/AI-dotcom.jpeg"
+        width: 1024
+        height: 1024
         isCached: true
   - title: "Businesses still at the starting line in AI race"
     excerpt: "We are starting to see tangible returns from early corporate AI deployments, but there is still room for much more ambition and evolved use in the years ahead, experts say."
@@ -56,6 +86,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How small businesses in The Woodlands can harness AI to save time, boost productivity"
+    excerpt: "But you can't use AI unchecked. Using artificial intelligence without being responsible or having human oversight can lead to privacy breaches, ethics concerns and poorer results on Google searches, Banks said. \"There are many companies that have ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.houstonchronicle.com/neighborhood/woodlands/article/small-businesses-woodlands-artificial-intelligence-18677661.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 12
 
 secured: "qhnwEaqQsBo7yEplyRpsxrtx2FIS4PJRodf5aSOd/lzZ6O/bX/5pi+EF47Kp9FiV6+UdTokNd6pONVU91pdCRMkmwhBKRvIurtuFSwMigWHDvEo+XRXqa0tSBdMzgQXWcJewVFbPaRrVUKUz9Mguz2kyrix5PnfCWmd/xnYglb9A6vdErZ+1PqLBfllQkX7Lj1S5aYjL64oyRqflCoeSFdq71TSCtiuq1Y4ttbKM0fSExSUplo2Wf5m33L1fB5R60PGHpC3BytCzDQ7NFLRYT4UAn4FLplUPWQj+oLELKC2wTxqn5G+9f2BTXMXDgkVJSSnRKGUw6a9MrwzDvo1rENGy0boiGsdP6VgDzdDowBBGsJv2ZBkX+if1/mpBaYn70veOWknAXy6yIlrHAOJ04rzGm90IN5bQ1f/DXDbfc/rSTyeN1NQ+zjOGVQVhrz07AuyKfdhZ3RJL3G2LBBIydBbDUTF1QZoD/lG8nFDa18g2SsPU7Gq5U5vvfYXNZKM6CEY+OWwNFerT9eeY6s5EHw==;mXz1OVSY2zV0zN9fjs+jOw=="
 ---

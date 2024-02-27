@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-27T04:53:00Z
 originalUrl: "https://www.dailyprincetonian.com/article/2024/02/news-adpol-pli-awards-grant-funding-reasearch-ai-princeton-language-initiative"
 webUrl: "https://www.dailyprincetonian.com/article/2024/02/news-adpol-pli-awards-grant-funding-reasearch-ai-princeton-language-initiative"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Meta AI
 
 images:
   - url: "https://snworksceo.imgix.net/pri/bb18e142-c0f9-4f9a-90d6-4dd6c5d7fa3c.sized-1000x1000.jpg?w=800&h=600"

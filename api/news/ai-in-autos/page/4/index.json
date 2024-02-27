@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-25-its-called-artificial-intelligence-for-a-reason-data-vs-decisions.md",
+      "title": "It’s Called ‘Artificial’ Intelligence For A Reason: Data Vs. Decisions",
+      "excerpt": "As with any new technology, AI and the data deluge that preceded it are only as good as the human intelligence that uses it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643ed5d19d23639a200990c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/",
+      "publishedDateTime": "2024-01-25T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-elon-musk-says-he-wants-more-power-over-tesla-but-not-so-much-that-he-cant-be-fired-if-he-goes-bonkers.md",
       "title": "Elon Musk says he wants more power over Tesla - but not so much that he can't be fired if he goes 'bonkers'",
       "excerpt": "but not so much control that he can't be removed as CEO if he loses his mind. The world's richest man recently sparked uproar by threatening to build AI and robotics products outside of Tesla ...",
@@ -1216,50 +1268,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-elon-musk-wants-25-voting-control-in-tesla-before-advancing-ai.md",
-      "title": "Elon Musk wants 25% voting control in Tesla before advancing AI",
-      "excerpt": "Tesla (NASDAQ:TSLA) CEO Elon Musk said he would be uncomfortable growing the electric vehicle maker into a robotics and artificial intelligence leader unless he owned at least 25% of its voting ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/4054959-elon-musk-voting-control-tesla-ai-robotics",
-      "originalUrl": "https://seekingalpha.com/news/4054959-elon-musk-voting-control-tesla-ai-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/493893250/image_493893250.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T09:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

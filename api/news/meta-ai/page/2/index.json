@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-20-how-to-build-generative-ai-agents-with-joon-sung-park.md",
+      "title": "How to Build Generative AI Agents with Joon Sung Park",
+      "excerpt": "Joon’s research seeks to answer this question by applying LLMs to a long-standing challenge in computer science: the creation of AI agents that can authentically simulate human behavior. This ambition traces back to the earliest days of AI in the 1950s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/",
+      "originalUrl": "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d560ded33037465f55d4ad/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/",
+      "publishedDateTime": "2024-02-20T12:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-embracing-ai-transforming-fear-into-opportunity-for-your-teams.md",
       "title": "Embracing AI: Transforming Fear Into Opportunity For Your Teams",
       "excerpt": "Open communication about your company's AI strategy and its implications for the workforce can build trust and engagement among employees. It's essential for us corporate leaders to navigate this transition responsibly, embracing AI while investing in upskilling and reskilling employees to work alongside these technologies.",
@@ -1346,49 +1398,6 @@
       "provider": {
         "name": "New York Post",
         "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-meta-will-label-ai-generated-images-on-instagram-and-facebook.md",
-      "title": "Meta will label AI-generated images on Instagram and Facebook",
-      "excerpt": "The labels, set to roll out in the coming months, will identify AI-generated images posted on Facebook, Instagram and Threads, Clegg said. Images created by a Meta's own tool will also be labeled ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/meta-label-ai-generated-images-instagram-facebook/story?id=106984228",
-      "originalUrl": "https://abcnews.go.com/Business/meta-label-ai-generated-images-instagram-facebook/story?id=106984228",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/meta-1-gty-bb-240206_1707233037996_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/meta-label-ai-generated-images-instagram-facebook/story?id=106984228",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/meta-label-ai-generated-images-instagram-facebook/story?id=106984228",
-      "publishedDateTime": "2024-02-06T08:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-27-how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker.md",
+      "title": "How Axfood enables accelerated machine learning throughout the organization using Amazon SageMaker",
+      "excerpt": "This is a guest post written by Axfood AB.&nbsp; In this post, we share how Axfood, a large Swedish food retailer, improved operations and scalability of their existing artificial intelligence (AI) and machine learning (ML) operations by prototyping in close collaboration with AWS experts and using Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/16/ML-15027-model-build-pipeline-2.jpg",
+          "width": 1253,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T17:51:48Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-techniques-and-approaches-for-monitoring-large-language-models-on-aws.md",
       "title": "Techniques and approaches for monitoring large language models on AWS",
       "excerpt": "Large Language Models (LLMs) have revolutionized the field of natural language processing (NLP), improving tasks such as language translation, text summarization, and sentiment analysis. However, as these models continue to grow in size and complexity, monitoring their performance and behavior has become",
@@ -390,8 +443,8 @@
       "title": "AWS launches program to boost AI and tech competency for small and medium businesses",
       "excerpt": "Amazon Web Services (AWS) recently launched a new program aimed at helping small- and medium-sized businesses build competencies in areas like artificial intelligence (AI), the cloud and other skillsets to be more competitive. \"Small businesses often don ...",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/aws-launches-program-boost-ai-151834099.html",
-      "originalUrl": "https://www.aol.com/finance/aws-launches-program-boost-ai-151834099.html",
+      "webUrl": "https://www.aol.com/aws-launches-program-boost-ai-151834099.html",
+      "originalUrl": "https://www.aol.com/aws-launches-program-boost-ai-151834099.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -410,7 +463,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T10:18:00Z",
+      "publishedDateTime": "2024-02-19T07:18:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AOL",
@@ -1308,50 +1361,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-aiml-based-precision-medicine.md",
-      "title": "Owkin Partners With AWS, Leverages Cloud Computing to Fuel Innovation In AI/ML-Based Precision Medicine",
-      "excerpt": "Owkin is working with Amazon Web Services (AWS) to transform drug discovery, de-risk and accelerate clinical trials, and develop AI diagnostics",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/34921-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-ai-ml-based-precision-medicine",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/34921-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-ai-ml-based-precision-medicine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/3841a1b210f6fed1504afe0ced9b6797.jpg?t=20240209_090213",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T09:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

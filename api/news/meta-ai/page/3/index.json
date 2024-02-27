@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-06-meta-will-label-ai-generated-images-on-instagram-and-facebook.md",
+      "title": "Meta will label AI-generated images on Instagram and Facebook",
+      "excerpt": "The labels, set to roll out in the coming months, will identify AI-generated images posted on Facebook, Instagram and Threads, Clegg said. Images created by a Meta's own tool will also be labeled ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/meta-label-ai-generated-images-instagram-facebook/story?id=106984228",
+      "originalUrl": "https://abcnews.go.com/Business/meta-label-ai-generated-images-instagram-facebook/story?id=106984228",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/meta-1-gty-bb-240206_1707233037996_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/meta-label-ai-generated-images-instagram-facebook/story?id=106984228",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/meta-label-ai-generated-images-instagram-facebook/story?id=106984228",
+      "publishedDateTime": "2024-02-06T08:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-forget-nvidia-these-2-artificial-intelligence-ai-stocks-are-still-historically-cheap.md",
       "title": "Forget Nvidia: These 2 Artificial Intelligence (AI) Stocks Are Still Historically Cheap",
       "excerpt": "Artificial intelligence (AI) could add $15.7 trillion ... For now, Meta's social media sites are its bread and butter. Facebook, Instagram, WhatsApp, and Facebook Messenger are consistently ...",
@@ -1406,60 +1449,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-google-suddenly-reveals-huge-free-ai-upgrade-for-all-android-users.md",
-      "title": "Google Suddenly Reveals Huge Free AI Upgrade For All Android Users",
-      "excerpt": "Think through the path. Google has spent two-years pushing its Messages app as the default Android alternative to iMessage. This has included end-to-end encryption and RCS by default, and multiple feature releases. Now, with that done, here comes an AI upgrade that connects Messages users with Google, not just with one another.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/",
-      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65aeed369be3a016e61b4a9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/",
-      "publishedDateTime": "2024-01-23T00:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
-        "Meta AI"
       ]
     }
   ],

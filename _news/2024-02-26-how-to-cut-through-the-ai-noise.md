@@ -55,6 +55,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Harnessing the Potential of Artificial Intelligence"
+    excerpt: "Key Findings From FinXTech's Artificial Intelligence: A Real-World Approach: Banks and credit unions are adopting AI as solutions become more flexible and widely available. Customer service and fraud detection/prevention are the top two use cases financial institutions are exploring, according to Bank Director's 2023 Technology Survey."
+    publishedDateTime: 2024-02-27T17:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-harnessing-potential-artificial-intelligence-/2024/02/27/9969051.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Unlocking Fusion Energy’s Future With Artificial Intelligence"
     excerpt: "A Princeton-led team has developed an AI model to predict and avert plasma instabilities in fusion reactors, showcasing real-time control improvements and setting the stage for more reliable fusion energy production."
     publishedDateTime: 2024-02-25T08:17:00Z

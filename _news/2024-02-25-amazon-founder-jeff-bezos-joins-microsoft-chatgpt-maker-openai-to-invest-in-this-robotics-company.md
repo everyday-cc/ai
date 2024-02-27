@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms"
 type: article
 quality: 107
-heat: 427
+heat: 437
 published: true
 
 provider:
@@ -367,6 +367,20 @@ related:
       - url: "https://assets.mobileworldlive.com/wp-content/uploads/2024/02/26202642/microsoft_smith.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Microsoft Partners with OpenAI Rival Mistral"
+    excerpt: "It was then accessible through Azure AI Studio and Azure Machine Learning. \"This latest addition of Mistral AI’s premium models into Models as a Service (MaaS) within Azure AI Studio and Azure Machine Learning provides Microsoft customers with a diverse ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://redmondmag.com/Articles/2024/02/27/Microsoft-Partners-with-OpenAI-Rival-Mistral.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0414red_DecMaker.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Now a Microsoft partner, Mistral AI challenges OpenAI with three new LLMs"
     excerpt: "Mistral is expanding its LLM lineup with three proprietary models headlined by Mistral Large. It can generate text in English, French, Spanish, German and Italian, as well as craft software code and solve math problems. A user prompt may contain up to 32,000 tokens, units of data that each comprise a few letters or numbers."

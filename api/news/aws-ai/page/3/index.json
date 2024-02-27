@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-26-streann-introduces-tv-30-platform-for-media-entertainment-powered-by-aws.md",
+      "title": "Streann Introduces TV 3.0 platform for Media & Entertainment, Powered by AWS",
+      "excerpt": "Streann's TV 3.0 platform, developed using AWS, introduces a range of innovative features designed to redefine content curation: Facial Recognition Technology: Utilizing sophisticated algorithms, TV 3.0 enhances content security and personalization, designed to provide a safer, more tailored user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-streann-introduces-tv-30-platform-media-entertainment-powered-/2024/01/25/9952661.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-streann-introduces-tv-30-platform-media-entertainment-powered-/2024/01/25/9952661.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T19:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-amazons-aws-to-invest-10-billion-for-two-data-centers-in-mississippi.md",
       "title": "Amazon's AWS to invest $10 billion for two data centers in Mississippi",
       "excerpt": "its latest capacity expansion amid growing demand for cloud services as more firms adopt new artificial intelligence technologies. AWS' Mississippi expansion plan comes days after it announced a ...",
@@ -1280,40 +1323,6 @@
       "provider": {
         "name": "IML Group",
         "domain": "controlengeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-amazon-closes-a-business-designed-to-take-on-kroger-walmart.md",
-      "title": "Amazon closes a business designed to take on Kroger, Walmart",
-      "excerpt": "Amazon scaled back many of its brick-and-mortar ambitions last year. As the company laid off workers, it also gave up on its fashion and \"5 Star\" brick-and-mortar projects. Those cuts came not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/retailers/amazon-closes-another-key-business",
-      "originalUrl": "https://www.thestreet.com/retailers/amazon-closes-another-key-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T14:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
         "images": null,
         "publishers": null,
         "authors": null

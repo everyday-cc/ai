@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-16-elon-musk-wants-25-voting-control-in-tesla-before-advancing-ai.md",
+      "title": "Elon Musk wants 25% voting control in Tesla before advancing AI",
+      "excerpt": "Tesla (NASDAQ:TSLA) CEO Elon Musk said he would be uncomfortable growing the electric vehicle maker into a robotics and artificial intelligence leader unless he owned at least 25% of its voting ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/4054959-elon-musk-voting-control-tesla-ai-robotics",
+      "originalUrl": "https://seekingalpha.com/news/4054959-elon-musk-voting-control-tesla-ai-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/493893250/image_493893250.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T09:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-elon-musk-wants-more-voting-control-over-tesla-tsla-as-company-grows-ai-robotics-efforts.md",
       "title": "Elon Musk wants more voting control over Tesla (TSLA) as company grows AI & robotics efforts",
       "excerpt": "Elon himself chimed in to state that he’s currently uncomfortable with expanding Tesla’s AI and robotics business without more voting control. Elon Musk shared a thread of tweets in response ...",
@@ -1225,49 +1269,6 @@
       "provider": {
         "name": "hero-magazine.com",
         "domain": "hero-magazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai.md",
-      "title": "We Need Smarter Driverless Vehicle Regulations More Urgently Than We Need Smarter AI",
-      "excerpt": "Recent Tesla Autopilot and Cruise robo-taxi news has raised public concern. Strong federal and state safety regulations are needed to ensure the safety of driverless vehicles’ AI-based software",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai/",
-      "originalUrl": "https://www.scientificamerican.com/article/we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/F2537A88-8EAB-4C9B-95814FB1DBAB792E_source.jpg?w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T12:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
         "images": null,
         "publishers": null,
         "authors": null

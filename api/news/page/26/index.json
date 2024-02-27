@@ -2,6 +2,223 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2024-02-08-hhs-addresses-the-growing-influence-of-artificial-intelligence-in-health-care.md",
+      "title": "HHS Addresses the Growing Influence of Artificial Intelligence in Health Care",
+      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care",
+      "originalUrl": "https://www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/Telemedicine%20Mobile%20Health%20Apps%20Tech.jpg?h=0b7f3b1a&itok=fP20sSCO",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care?amp",
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-predictive-model-of-oxaliplatin-induced-liver-injury-based-on-artificial-neural-network-and-logistic-regression.md",
+      "title": "Predictive model of oxaliplatin-induced liver injury based on artificial neural network and logistic regression",
+      "excerpt": "Based on a previous safety evaluation of OXA, OILI was explored in depth. Artificial Neural Network(Ann) and logistic regression (LR) models were selected to predict the risk of OILI, and the performance of the two models was evaluated and compared ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2024-02-oxaliplatin-liver-injury-based-artificial.html",
+      "originalUrl": "https://medicalxpress.com/news/2024-02-oxaliplatin-liver-injury-based-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/predictive-model-of-ox.jpg",
+          "width": 1772,
+          "height": 1348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2024-02-oxaliplatin-liver-injury-based-artificial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-02-oxaliplatin-liver-injury-based-artificial.amp",
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-research-shows-that-offering-tips-to-chatgpt-improves-responses.md",
+      "title": "Research Shows That Offering Tips To ChatGPT Improves Responses",
+      "excerpt": "A research paper titled, Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4,” details an in-depth exploration into optimizing Large Language Model prompts. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/research-chatgpt-prompts/507535/",
+      "originalUrl": "https://www.searchenginejournal.com/research-chatgpt-prompts/507535/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/tipping-chatgpt-65c4ab526c7e7-sej.png",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Searchenginejournal.com",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-who-publishes-guidance-for-ethics-and-governance-of-ai-for-healthcare-sector.md",
+      "title": "WHO Publishes Guidance for Ethics and Governance of AI for Healthcare Sector",
+      "excerpt": "We collaborate with the world's leading lawyers to deliver news tailored for you. Sign Up to receive our free e-Newsbulletins Some states have laws and ethical rules regarding solicitation and advertisement practices by attorneys and/or other professionals ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector",
+      "originalUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/healthcare%20insurance%20technology%20telemedicine%20medical%20chart%20doctor%20digital%20health.jpg?h=c0041bcf&itok=Oaxm9xAo",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector?amp",
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-dhs-is-recruiting-techies-for-the-ai-corps.md",
+      "title": "DHS Is Recruiting Techies for the AI Corps",
+      "excerpt": "The U.S. Department of Homeland Security is recruiting dozens of artificial intelligence experts to integrate AI abilities into government work such as defending",
+      "sourceUrl": null,
+      "webUrl": "https://www.govinfosecurity.com/dhs-recruiting-techies-for-ai-corps-a-24297",
+      "originalUrl": "https://www.govinfosecurity.com/dhs-recruiting-techies-for-ai-corps-a-24297",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/dhs-recruiting-techies-for-ai-corps-showcase_image-10-a-24297.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T22:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HHS",
+        "domain": "govinfosecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-electric-medicine-ai-startup-reads-brainwaves-to-fix-sleep-pain.md",
       "title": "‘Electric Medicine:’ AI Startup Reads Brainwaves To Fix Sleep, Pain",
       "excerpt": "\"We can actually guide the brain precisely, and that leads to a behavior change. So like a drug, but much smarter and without the side effects.”",
@@ -884,214 +1101,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-biden-administration-names-a-director-of-the-new-ai-safety-institute.md",
-      "title": "Biden administration names a director of the new AI Safety Institute",
-      "excerpt": "The Biden administration on Wednesday plans to name a top White House aide as the director of the newly established safety institute for artificial intelligence, according to an administration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcbayarea.com/news/national-international/biden-administration-names-a-director-of-the-new-ai-safety-institute/3446176/",
-      "originalUrl": "https://www.nbcbayarea.com/news/national-international/biden-administration-names-a-director-of-the-new-ai-safety-institute/3446176/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcbayarea.com/2024/02/GettyImages-1983623721.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcbayarea.com/news/national-international/biden-administration-names-a-director-of-the-new-ai-safety-institute/3446176/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/national-international/biden-administration-names-a-director-of-the-new-ai-safety-institute/3446176/?amp=1",
-      "publishedDateTime": "2024-02-07T03:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Bay Area",
-        "domain": "nbcbayarea.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-bell-mila-to-embark-on-joint-deep-learning-ai-initiative.md",
-      "title": "Bell, Mila to embark on joint deep learning AI initiative",
-      "excerpt": "Artificial intelligence research institute Mila and Bell Canada have announced an 18-month collaborative project that, the two said, will apply deep learning neural network algorithms to Bell's systems and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224",
-      "originalUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2024/02/GettyImages-1160013652.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1",
-      "publishedDateTime": "2024-02-07T00:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system.md",
-      "title": "The end of Windows Hello, or a new biometric dawn? — Microsoft unveils a new facial recognition security system",
-      "excerpt": "Microsoft has unveiled a new facial recognition security tool aimed at helping businesses ensure their systems remain safe and protected. The company says its new Face Check tool for Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system",
-      "originalUrl": "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qBBvy9hdwM2eB7W8QDE535-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-worlds-biggest-ai-tech-companies-clash-with-uk-over-safety-tests.md",
-      "title": "World’s biggest AI tech companies clash with UK over safety tests",
-      "excerpt": "OpenAI, Google DeepMind, Microsoft and Meta are among the tech groups that signed voluntary commitments in November to open up their latest generative AI models for review by Britain’s new AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/105ef217-9cb2-4bd2-b843-823f79256a0e",
-      "originalUrl": "https://www.ft.com/content/105ef217-9cb2-4bd2-b843-823f79256a0e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-year-of-the-dragon-3-hot-chinese-stocks-for-prosperous-returns.md",
-      "title": "Year of the Dragon: 3 Hot Chinese Stocks for Prosperous Returns",
-      "excerpt": "The post Year of the Dragon: 3 Hot Chinese Stocks for Prosperous Returns appeared first on InvestorPlace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/year-of-the-dragon%3A-3-hot-chinese-stocks-for-prosperous-returns",
-      "originalUrl": "https://www.nasdaq.com/articles/year-of-the-dragon%3A-3-hot-chinese-stocks-for-prosperous-returns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T22:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

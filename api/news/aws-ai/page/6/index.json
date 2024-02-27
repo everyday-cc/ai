@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-04-a-new-world-of-artificial-intelligence.md",
+      "title": "A new world of artificial intelligence",
+      "excerpt": "AI has existed in sports for a quarter-century but not like this. Generative AI, the field that underlies ChatGPT, creates new data and content. Even what the public saw a year ago was not truly new technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportsbusinessjournal.com/Articles/2023/12/04/artificial-intelligence.aspx",
+      "originalUrl": "https://www.sportsbusinessjournal.com/Articles/2023/12/04/artificial-intelligence.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sportsbusinessjournal.com/-/media/Images/Journal/2023/12/04/InDepth/Main-PGA-Tour-Virtual-Assistant_9382.ashx",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T11:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sports Business Journal",
+        "domain": "sportsbusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-03-1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your-portfolio.md",
       "title": "1 Artificial Intelligence (AI) Stock to Buy Hand Over Fist and 1 to Make Disappear From Your Portfolio",
       "excerpt": "Both are using artificial intelligence (AI ... that competes with the Amazon's AWS and Microsoft's Azure. But the vast majority of Alphabet's revenue and profits are derived from advertising ...",
@@ -1196,49 +1239,6 @@
       "provider": {
         "name": "https//beincrypto.com",
         "domain": "beincrypto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks.md",
-      "title": "AWS CEO bats for responsible AI; says need to unlock GenAI's full potential while mitigating risks",
-      "excerpt": "Now this is a new capability that helps you customers easily safeguard your Generative AI applications with your responsible AI policies, to create a guardrail..., he said.With this, customers can create multiple guardrails tailored to different use cases and apply them across multiple FMs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_11_2023_10_07_19_2982597.jpg?width=1280",
-          "width": 1280,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks?amp",
-      "publishedDateTime": "2023-11-29T04:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://www.latimes.com/entertainment-arts/business/newsletter/202
 webUrl: "https://www.latimes.com/entertainment-arts/business/newsletter/2024-02-27/after-the-launch-of-openai-sora-can-hollywood-adapt-to-the-artificial-intelligence-matrix-the-wide-shot"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "OpenAI’s Sora has left AI experts either enthused or skeptical. It’s left most everyone else terrified"
-    excerpt: "including access to the highly coveted Nvidia H100s and over 15 different Nvidia GPU SKUs all together, allowing customers to deploy AI without massive infrastructure investments. Yesterday, it announced a new AI chatbot it says will make this process even ..."
-    publishedDateTime: 2024-02-22T17:45:00Z
-    webUrl: "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/"
-    ampWebUrl: "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 73
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-2013766961-e1708621527967.jpg?w=840"
-        width: 840
-        height: 630
-        isCached: true
-
-secured: "7/D3ZSTTROVE4USYPRVfh/2z0LQZ5w9StrWP2SsZVs9hhRmWTQ7UYjqy9kjqiuWXOf4NJd6rGKXj87CplMNLn9QMfhJlLc3GNjwMXg+psEWCYAI/geJnjEW1UZOl4SfpFOfmj9RzjqSps2Xn3/k8XWQKibIe/f6xNK3bgvad1czwDl5SgJFjJVS68ikkCfF0dgtxsHfDGAS/LE7sTQ7RI6x8EMLt1gisRmLNz/oyhv/KfFLjxZ2/0uSaGVGVlT9VV4Z4HpF8CJkIDq7V+IM4oYcAO40dGEK54ef2HmLj5kwb7K70AyE0NNz2CR9yXdFmZItqWvKgy3EHl6usKaCImvEarAu/JE4IwqQ2cIGowX4=;cQOZ8XMD8zSfbpokuUDYaQ=="
+secured: "gnmkgRfK4v8DFhWgAtTNsHNWfAn6D93befQinK9K/ob1Nze3kM+RRNbHweuyHyrzN//XlLmwo2BdootDF3j5vFPmzXqkfG8x0nQ9c5wWSvgYHIv/iYVv9L7tMj7tHttNGZjlc5m8xYokYEWn9UTDAM1+Q9fRdozV8LaTXmWLJzOCCcm8vqueX6JJfFAP/z/Xd8h0DEgtrMQp6oU0S+tclaW68iSizzs0B7wrQYYi9JvEBwP07ohiG1OsMwDoSTb5IR9XVZT3f9D+Mf11bmKFXtrAuYm5SFmxtjLmKpcMjwuNPpSZvkwuA3zaVXL8UI4l6/2JKXApVPI/jqQpTs/X/mGmr6d9eQmkk8i/mnelgJyGWV3s3qNyKik9JMfV8ReC3ZEiSTwaSLv+nhi6vHaujOKLDErqzAQCcuwVSLZFYRfOPF0MT6WWxlh7ymeN+eytwMeCQMHhkaQyx4vxLo7Y/xOUOyTaNLo/W/evjvss/3E8+viGLIGsZlepLAt+wKDni/wlDaWkKR9RBKqCztWiog==;q0NTr/kKGwPUZI0mX6jLPQ=="
 ---
 

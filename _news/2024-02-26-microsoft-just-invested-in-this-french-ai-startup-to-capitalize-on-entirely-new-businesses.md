@@ -409,6 +409,48 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft's next AI feature for Windows 11's Paint app could be a real stroke of genius"
+    excerpt: "There's an example on YouTube where the creator wants to draw the head of a green alien, so they start off with a green blob and a couple of black eyes. The AI doesn't get what they're driving at, so telling it with text that they want to create a 'green ..."
+    publishedDateTime: 2024-02-27T04:45:00Z
+    webUrl: "https://www.tweaktown.com/news/96489/microsofts-next-ai-feature-for-windows-11s-paint-app-could-be-real-stroke-of-genius/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 46
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96489_01_paint-app-could-soon-get-the-ability-to-generate-ai-art-in-real-time_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
+  - title: "Microsoft and Mistral AI Announce New Partnership to Accelerate AI Innovation and Introduce Mistral Large 1st on Azure"
+    excerpt: "This partnership with Microsoft enables Mistral AI with access to Azure’s cutting-edge AI infrastructure, to accelerate the development and deployment of their next generation large language models (LLMs) and represents an opportunity for Mistral AI to ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/microsoft-and-mistral-ai-announce-new-partnership-to-accelerate-ai-innovation-and-introduce-mistral-large-1st-on-azure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 45
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
+        isCached: true
+  - title: "Microsoft goes public with pledges to foster innovation and drive competition in AI economy"
+    excerpt: "From a competitive standpoint, the company said it is committed to ensuring customers that are using Azure for AI workloads can easily switch to a new provider and export their data to them with ease, and is investing in AI skills initiatives to lower the ..."
+    publishedDateTime: 2024-02-27T12:31:00Z
+    webUrl: "https://www.computerweekly.com/news/366571361/Microsoft-goes-public-with-pledges-to-foster-innovation-and-drive-competition-in-AI-economy"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 44
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-270224-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
   - title: "Microsoft and MeitY Collaborate to Boost AI Startups in India"
     excerpt: "In my free time, I'm either binge-watching an anime or off on a hike. Microsoft has partnered with Indian institute iCreate to select AI innovators under the iMPEL-AI programme. Under this, 100 startups from across the country will... Back in June 2023 ..."
     publishedDateTime: 2024-02-23T00:01:00Z

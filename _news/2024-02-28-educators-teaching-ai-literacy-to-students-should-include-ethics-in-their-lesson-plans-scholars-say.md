@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-literacy-ethics-teaching-students
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp"
 type: article
 quality: 91
-heat: 91
+heat: 93
 published: true
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "lNI07iQjcdWw5k2OJH1kQu2KZLTXp1ujlnx4WjBlEmqx2ERRvirXbXeFRKUve+FXgeLPPYavUtNZTcrJnWflFRWYhyhjy0BlFyzrDJEaQ5kHMZUYetHR9vD9FAImD9MdwW+KJqEb5+bzawjIq0reEyvuav7RM1T8943ZlhOVTkKXBe8OkTk5xhapzgT0FFUzeKCljbeqEpAu4+xv9LQqXQO3EokwN3Hb+H1WAqDH8roEi/8xsm9/+SofYLAVddT0CYb3gNBXqAoAxUNGCGNMJ48Y+eo8ewraUAtprg3myPkYyyyktV5qQIR2o49sCmDet36LRmCrM3ap7Gm8sx1TP6JTAwmlc8CPTvbvJfmET2E=;vyRXiypJkC6TbsdI0rOxvA=="
+secured: "6olsPuLuRCb3xCey1ofWPGZcjNKNhHE0qVtbwjkVVz9s0xHf2quDOOGb0nlJb7M8NgfL3w6y9cO07VuUB+GWJGkt+NuSv6IunmHwAkNcSJm5Q2FE4jpQNlrcA0cKbxRdPrpzagqYMqJQim8i0XJmUyV/ukfYSJA1B37A7uLR+oRmp2O2pSG10U5b5ji9jD+MawyvQXLELliwtOdJuMosscUig6p1yAhbzrgzrpM2azpeAI/mp1W5RF0byCZCpVicu0ONqrf/DPN9NBCsOt3bJ93SdkXMkSR5WR8za8KwclZ2BKttJkPNRnXtjhJSPEpnY3wWexHsN1ruVrk7r6Ay5io0AYKNmi9m95jDvpANCQ+q5/dwTJuBxj2pkdiAWuXss9c7F5vjE/nM6qBqQ84GFDxsxZijuxc3+Oxvwl8kmoZjV54aWeWpi1mvJ8EBseuEUlg8VXTf0Zj7+9hNwG4Fe9HtclySgD+VOqLjUbeOX6VlYfVhjBp9cUxhXRhWOohZHZyZPJ+BBmEIn8EflJdrYA==;i1OfJ5Tz2SSWlqdUVK534w=="
 ---
 

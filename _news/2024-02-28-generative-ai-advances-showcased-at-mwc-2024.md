@@ -64,6 +64,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "A Marketer’s Guide To Generative AI Startups"
+    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
+    publishedDateTime: 2024-02-26T08:00:00Z
+    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
+    type: article
+    provider:
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 39
+    images:
+      - url: "https://www.adexchanger.com/wp-content/uploads/2024/01/Americas-next-top-AI-model_Kevvo_comic.jpg"
+        width: 2397
+        height: 2098
+        isCached: true
   - title: "Humane Just Gave Everyone a Huge Incentive To Buy an AI Pin"
     excerpt: "Humane has announced that everyone who buys an Ai Pin by March 31, 2024 will get the first three months of its required subscription ($30 per month) for free. Additionally, the company's making shipping for the Ai Pin free."
     publishedDateTime: 2024-02-23T16:45:00Z
@@ -87,15 +101,6 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 19
-  - title: "A Marketer’s Guide To Generative AI Startups"
-    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
-    publishedDateTime: 2024-02-26T08:00:00Z
-    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
-    type: article
-    provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 17
   - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
     excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of ..."
     publishedDateTime: 2024-02-26T13:04:00Z

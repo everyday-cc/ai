@@ -371,6 +371,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Microsoft Partners with OpenAI Rival Mistral"
+    excerpt: "It was then accessible through Azure AI Studio and Azure Machine Learning. \"This latest addition of Mistral AI’s premium models into Models as a Service (MaaS) within Azure AI Studio and Azure Machine Learning provides Microsoft customers with a diverse ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://redmondmag.com/Articles/2024/02/27/Microsoft-Partners-with-OpenAI-Rival-Mistral.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0414red_DecMaker.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Now a Microsoft partner, Mistral AI challenges OpenAI with three new LLMs"
     excerpt: "Mistral is expanding its LLM lineup with three proprietary models headlined by Mistral Large. It can generate text in English, French, Spanish, German and Italian, as well as craft software code and solve math problems. A user prompt may contain up to 32,000 tokens, units of data that each comprise a few letters or numbers."
     publishedDateTime: 2024-02-26T22:04:00Z
@@ -454,6 +468,6 @@ related:
       domain: itc.ua
     quality: 26
 
-secured: "46PtuBtNP1rxHDsbsGdUEXb4NGNfrVHN1uCvAwof6DuW4Adf7a+9N1DDuqHsNnkvB7m703TBaMUDCMPaPtZo/yFEaziRLUJmRpCAMeVwxdOVX52qDRCWGU8V20FXsjLfCpIyT/FvziFbbqOrNIsKEg1k/HOiAfe8AoxtDxZgMEV4cC0uKOKETgeGGhHUjl8+HvvM1ApNXeZvCiwnvgYw1WBIYLRzJgxnWb4VuPV+6V85WJQHaHYgSk45ajobwZ2dme4QR6WJxs8xns3GMhMSj8FMNuQO1Ji9BInPo5AjHGzJkVBltqjuL0dS1xX6/JhLPVye4UQ4Ki7O17X35ieC7BO0umTOzppXSIbzkP4+M+M=;ZdWjmbqCoiuVTnpLnCxFWg=="
+secured: "goZJ0xD3qfe6S/Ygot9UmsaEF5wtZaN1zI/+Ug/OvY9vqsDiiLRxFs7XMkkVsJ/odImlRjhiZsYIKZl+W4EtEvKyKFL/k4GyPI3cwILWO7swEaA9nEQ+8PMJ98snFMI3bS3KImrER4W9oiYpz9Y0NzgTPA70msENcVb7Z3YKj+q2rdunhSGElENQhvMDToV4qhmeKrUg6DhD/jL/7IbsFKtJkSM1xZXaF77g4fapNrWeJCdzTJOcRoDUbunv6LZuwMjNgatHTZniZ0FqiRwHpwqxjxhKY638QkQmZwqs7W2UpPQM2o8Igt4ZVumIevxUrmQCopKo1ryd7RBmYUIL8+bgrB+/ifxFaXXBVu6fxO/Jpn6wtT441CLn8Lrw3Gz8MdhD9bXrQyUwYX/84MtONI1POPk5h3jDkmzkEKzXbjQZLLAdpu11GSxpg0IDh/LI0AMPiqJhNxFLG8AMMgRVhByvYztzXvx2ki7nwNfvkXr7nt4YL0bpzgkpmI7ruMGPSXzr+YlWEPEGaIGJ74FsQA==;SWOoctjO5Djhg+sDPrA1LQ=="
 ---
 

@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-26-a-bull-market-is-coming-1-incredible-artificial-intelligence-ai-growth-stock-to-buy-hand-over-fist-and-hold-forever.md",
+      "title": "A Bull Market Is Coming: 1 Incredible Artificial Intelligence (AI) Growth Stock to Buy Hand Over Fist and Hold Forever",
+      "excerpt": "Furthermore, there's a compelling argument that artificial intelligence (AI) is at least partially responsible for this year's market turnaround. As a result, investors are leaving no stone unturned to find the stocks best positioned to profit from the advent of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/a-bull-market-is-coming%3A-1-incredible-artificial-intelligence-ai-growth-stock-to-buy-hand",
+      "originalUrl": "https://www.nasdaq.com/articles/a-bull-market-is-coming%3A-1-incredible-artificial-intelligence-ai-growth-stock-to-buy-hand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-26T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-26-aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start.md",
       "title": "AWS Reinvent Preview With Matt Wood, Who’s Been At AWS From The Start",
       "excerpt": "Patrick Moorhead previews the annual Reinvent conference with Matt Wood, who oversees AWS products and has helped organize the conference for more than a decade.",

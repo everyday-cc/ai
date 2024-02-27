@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2024/02/driving-accessibility-in-healthtec
 webUrl: "https://medcitynews.com/2024/02/driving-accessibility-in-healthtech-3-things-founders-should-consider-for-thoughtful-ai-implementation-in-2024/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 736
     height: 474
     isCached: true
-
-related:
-  - title: "Revolutionizing Healthcare: The Top Health Technology Solutions"
-    excerpt: "Introduction In the fast-paced world of healthcare, technology is rapidly transforming the landscape, offering innovative solutions to age-old challenges. From improving patient care to streamlining administrative processes,"
-    publishedDateTime: 2024-02-23T00:07:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-the-top-health-technology-solutions/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/Revolutionizing-Healthcare-The-Top-Health-Technology-Solutions.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "How will we solve healthcare’s most pressing challenges? Innovative technologies provide solutions"
-    excerpt: "Despite the buzz around the use of artificial intelligence and machine learning in healthcare, many providers still find themselves burdened with manual administrative tasks. This reduces efficiency and contributes to provider’s burnout. At the same time ..."
-    publishedDateTime: 2024-02-26T20:45:00Z
-    webUrl: "https://www.beckershospitalreview.com/how-will-we-solve-healthcare-s-most-pressing-challenges-innovative-technologies-provide-solutions.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 25
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "T0CouZ0DxhVhGL4Q1DwkZw5O4AzoycZOZfOM5fC581JmQkPwJT+5xRi4hgakAoELoga6wyPNjBxLb6P5oSHJybZ2CWlDDJsDxFBuaEsdnENBgL9sSVVOTRmksuclzNxgjTFenjdncLEfhDz6UtL3SI4TjkOxTCo9TJNVur68tzdTbhevpHDOBx+NQBbqdoPgTw/O/SvIig18JM5rgj8oNe8Quu3NUdFHqhCYejsT1ybCnsuUfH96iDL0Otjjv7guaWKkz8YSFDQM5KOmDNxncDE0moZ27IDQYp099fNMX6f4634e7USvOwXefBveWPK03rFDd7Jnduh/wy7HnXjnzeITFNsEdxN98hWT9Kzq2SE=;KKknNw3R5yooGUWZeQLtrw=="
 ---

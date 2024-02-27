@@ -65,6 +65,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Harnessing the Potential of Artificial Intelligence"
+    excerpt: "Key Findings From FinXTech's Artificial Intelligence: A Real-World Approach: Banks and credit unions are adopting AI as solutions become more flexible and widely available. Customer service and fraud detection/prevention are the top two use cases financial institutions are exploring, according to Bank Director's 2023 Technology Survey."
+    publishedDateTime: 2024-02-27T17:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-harnessing-potential-artificial-intelligence-/2024/02/27/9969051.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "t4CFq+FlnNldlO5ZhGaDb/Id7h+sMIkoIZtD8xxjW39POmB3xqzGkYWSQkLenl/02gOIVvY62UNbF3e/XBXfEVG7Ea60iT472a/t4CfhbDm0IDsCFQXtCwBJwkEupnSD2oHS5flLZbFYBlYYotjg/fGPMsPTs9VUL+zpdSpxBibh1H8dCf8WqyMheib7tvOKcrf6R3fNiS6Ui+JCOe0JUqr9kGbxglr9m+B/wBybo5yMtT9s8NFWttEAyW55ZB+cqBFbIuvQShSE98M1x5TVnAQWYvkXJt8NLL9gQpOS84PEOJNf26gPc8xwcUzTEfT3Muj+S4TuEQZK/945sW5SYc0hLZh73wMtDCDrNNY/RFcsKE+fvTlINxxc+8zbiWz0zL68Q7FcKJZm6hYbG1dckhIpmvT0pFWnUm7hSjdIYzgfi4/e8oatax+3aFuWjwVJ2a+1/DKjwcWBN9ADkFwn5OtYsu9twvvv1LvZ+HisMPoxFg0+qMQcKGAXvhqt7Vx89Jo5PR8ntKcnYqJggb2vUQ==;rcNv5OLw01z/JYjTl+VmbA=="
 ---

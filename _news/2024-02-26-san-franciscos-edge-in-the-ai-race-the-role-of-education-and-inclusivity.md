@@ -5,10 +5,12 @@ excerpt: "This sentiment is echoed by other tech leaders and entrepreneurs who a
 publishedDateTime: 2024-02-25T16:00:00Z
 originalUrl: "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/"
 webUrl: "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/"
+ampWebUrl: "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/amp/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 104
+heat: 104
+published: true
 
 provider:
   name: Forbes
@@ -21,7 +23,14 @@ provider:
 topics:
   - AI
   - AI in Education
+  - Meta AI
 
-secured: "ooBOJGdcXXBUz+mhxnMq26XpXs0uZHkiL1a66IXd8PGUolTcrCTppS1GVaMo19Rk+EysKut7yvc82icCOaqVUA9fd+wM/offDTsXjLcdwM+dxKLNDvR2vdgGXHdViINuY15MFv+W0W8OdxWcegxlAt/uxd5Xv6TOMotaNzotIfF6XA9op0rWokCJZIf/zCVl1Q+HZxDZ4zso23msoJ5q77ZJ2pRAC/10RtY7HF1CXWi+R9qKtKUmJnHaOsQRIsnP+QqiES6bim255xLci23UiZ9ByoSHBQFOVRrkLbX9lC31ipMOJQL6h3AoSW9Eo1LEUZfmQplTLkWYxUq63Tff3ZTF0fXbNVZToIjkCJYTZDVGx5g58tS9x4mUtlyt+oxay0nvpYnsP02yl34MdXUwamp3YohX5XS6wstQJW7L2ZUSuR6WimxjWfZEVfYhaXlrCb3cLKc1qfIfxsIqeDjQfoAnNvW5L2cMOYlkV9C42oYf9nE7JVZtz8QYaxMIgsinqGrsE7Jh1Z3HQ2/zwoDSog==;RHdAgoh/hN3Z58YrBO08kw=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65db960e11905f964130f604/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1350
+    height: 900
+    isCached: true
+
+secured: "wvZvcHeTTaVoVIgLzACEIN/QtJqjPoldTPeAXKo9V9ZfxRuXicBYpGHO8nQky9vVxufq1VxRgUT37+zcm7TaMBok7VXz4a6tG9cZeMrdtdBDkcMRO30vniiZIJbnbuwsinSwl/0NHvsoB2Oa6S12LA2eEw8jF9DvFKIxm43L2CrjOl81UPWQQ9k/22SynsNGGrH9Fve1T9LbSSMJFYLIudykxKV+qhMRA/8TWeWRpzz+4yYooRpk5ASxAnS1GVXdf6mNbQlrdo7P7jnw4ZqvqDau9P2TSl6lFYzz7irUUcC7pNUbhh5dyYqt70hYLMWiorpQ+1IQYadRKkN0ovi0LAydzyWlsZpwN/a5LdM4ETQ=;fkVMIT0FEiUXeQA0S+pF7Q=="
 ---
 

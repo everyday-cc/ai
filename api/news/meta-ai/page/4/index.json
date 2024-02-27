@@ -2,6 +2,60 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-23-google-suddenly-reveals-huge-free-ai-upgrade-for-all-android-users.md",
+      "title": "Google Suddenly Reveals Huge Free AI Upgrade For All Android Users",
+      "excerpt": "Think through the path. Google has spent two-years pushing its Messages app as the default Android alternative to iMessage. This has included end-to-end encryption and RCS by default, and multiple feature releases. Now, with that done, here comes an AI upgrade that connects Messages users with Google, not just with one another.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/",
+      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aeed369be3a016e61b4a9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/",
+      "publishedDateTime": "2024-01-23T00:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-is-openais-moonshot-to-integrate-democracy-into-ai-tech-more-than-pr-the-ai-beat.md",
       "title": "Is OpenAI’s ‘moonshot’ to integrate democracy into AI tech more than PR? | The AI Beat",
       "excerpt": "After all, isn’t American democracy itself currently being tested like never before? Aren’t AI systems at the core of deep-seated fears about deepfakes and disinformation thre",
@@ -1287,49 +1341,6 @@
         "name": "Sacramento Bee",
         "domain": "sacbee.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-2-artificial-intelligence-ai-stocks-that-could-go-parabolic.md",
-      "title": "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic",
-      "excerpt": "in-depth research, investing resources, and more. Learn More These two companies are on track to take advantage of two huge growth opportunities within the AI niche that could send their share ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/22/2-artificial-intelligence-ai-stocks-that-could-go/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/22/2-artificial-intelligence-ai-stocks-that-could-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-22T06:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

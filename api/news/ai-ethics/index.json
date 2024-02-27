@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-28-humanes-wearable-ai-pin-hints-at-a-phone-free-future.md",
+      "title": "Humane's Wearable AI Pin Hints At A Phone-Free Future",
+      "excerpt": "Humane announced the AI Pin back in November of 2023, and it's currently available for pre-order in the US for $699 (as well as increasingly with a number of operator partners around the world). On top of this, there's a $24 monthly subscription fee to pay that covers connectivity, secure data storage and access to Humane's AI service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/4a3937be74c328af2fbc0e3ca6d855c741648feb/hub/2024/02/27/f3cc8097-dd93-4174-bf53-42d027d8f9f3/humane-ai-pin-mwc-2024-04.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T18:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-educators-teaching-ai-literacy-to-students-should-include-ethics-in-their-lesson-plans-scholars-say.md",
       "title": "Educators teaching AI literacy to students should include ethics in their lesson plans, scholars say",
       "excerpt": "Assertions about expanding the use of artificial intelligence are typically rooted in one of two schools of thought: \"Be ahead of the curve,\" or, \"Don't fix what isn't broken.\" Whichever side of the coin someone is on, it's clear that the rapidly emerging ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -310,7 +362,7 @@
       "originalUrl": "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1467,49 +1519,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai.md",
-      "title": "Gun violence killed them. Now, their voices will lobby Congress to do more using AI",
-      "excerpt": "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai",
-      "originalUrl": "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/5349bf3/2147483647/strip/true/crop/5220x2936+0+1142/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F14%2Fgettyimages-1924333642_sq-f80ce43845f0599889a4b8ea1560c25af683d71b.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true",
-      "cdnAmpWebUrl": "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true",
-      "publishedDateTime": "2024-02-14T17:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WUNC",
-        "domain": "wunc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

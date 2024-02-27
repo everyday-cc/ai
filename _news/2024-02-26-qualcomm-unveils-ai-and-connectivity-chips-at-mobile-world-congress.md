@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-ch
 webUrl: "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 34
+  - title: "Geotab Brings Conversational AI to Connected Transportation Solutions at Mobile World Congress"
+    excerpt: "CNW/ - Geotab Inc. (\"Geotab\"), a leading connected vehicle technology provider, will demonstrate its industry-first generative AI assistant for"
+    publishedDateTime: 2024-02-27T18:51:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/geotab-brings-conversational-ai-to-connected-transportation-solutions-at-mobile-world-congress-302073127.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 7
 
 secured: "xuK4/SEHR2V602+PyCVCfy5VYuFvTgFZrFEODC2T4O8rRh8BW0QhbgmE6by8RR7n+JBcWwJ/FBjjibjcffLnHpHpgN6vIWIT27KgYluvTG0G+FQcKhvEtcK2kxGmpjcdW7kPROIezi+IDVaFFg2Xlc42c3Lt8K7GbkvMc+6igCFjHtIDlkYqcxdG/b2ifvu5zYZNIbdp0+UQ+Xf13Vqq5uQM79kLHw9SlcbcgaVjZTng1C3Ai0wzl1TyD+oXOdRuJgocYj7K87FQBepBRSvepMF9ztzhHc2GWx8FsSETszeHikOTyMdM804AOScZhXBLEMt1ZrC69g4mZGjQ1y7ZTaq0Nadfh6ibCjPMJls9qvoc5v5byNnNNYSY+7Dl4MeVBvzsxE7+92RJx9nRRdyDqFRIqRvCCRfn9pf5BoKvzjNMZJ7YcrSK7a4i5820ZdDAKSGlGioee2vTXaLu4k51U+JJa8b25nQvDlM0xUO5Df9LhxvFGLpdGpXZOWwDE3hvStgF2SnEGuav4hMn+hHYxg==;9vWVFP9jdGnh8WsjfsDjuQ=="
 ---

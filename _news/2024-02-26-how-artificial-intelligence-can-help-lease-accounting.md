@@ -7,7 +7,7 @@ originalUrl: "https://www.kiplinger.com/kiplinger-advisor-collective/how-artific
 webUrl: "https://www.kiplinger.com/kiplinger-advisor-collective/how-artificial-intelligence-can-help-lease-accounting"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,52 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "3 Ways AI Can Help You Switch Careers"
-    excerpt: "Instead, you may succeed in a career where you can still use some, if not most of your existing skills. This is where AI can help. Ask it to research some roles, industries, and even companies for you, and see which ones spark your interest. It can look so ..."
-    publishedDateTime: 2024-02-22T17:53:00Z
-    webUrl: "https://www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-you-switch-careers/"
-    ampWebUrl: "https://www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-you-switch-careers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-you-switch-careers/amp/"
+  - title: "How AI Tools Can Help Governments Understand and Manage Data"
+    excerpt: "One example is Augintel, software that leverages natural language processing (NLP), a subdiscipline of AI, to help process extensive amounts of case note data for those in behavioral health and child welfare industries. This tool has been adopted in ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/how-ai-tools-can-help-governments-understand-and-manage-data"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d7236af64a1309313ba836/0x0.jpg?format=jpg&crop=6001,3372,x0,y3,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 899
-        isCached: true
-  - title: "Intelligent Ways Entrepreneurs Can Leverage Artificial Intelligence"
-    excerpt: "Although the multi-dimensional potential of AI-powered processes is undeniable, it's essential to note that no single tool can flawlessly fulfill all outlined tasks."
-    publishedDateTime: 2024-02-23T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/intelligent-ways-entrepreneurs-can-leverage-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/intelligent-ways-entrepreneurs-can-leverage-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/23/intelligent-ways-entrepreneurs-can-leverage-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "A Snapshot of Artificial Intelligence in Health Care"
-    excerpt: "Artificial intelligence (AI) has an important role in the future of health care. With its potential to parse through vast amounts of data, glean critical insights, build predictive models ..."
-    publishedDateTime: 2024-02-23T16:13:00Z
-    webUrl: "https://www.statnews.com/a-snapshot-of-artificial-intelligence-in-health-care/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 39
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Meta-Image-Premier-Pulse-Check-Report-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
 
 secured: "YaOsynTMqa7nfYZ5qxF5zyGsJU/ru1hiz6hiUQaIZXCtC2gvfQeoxRKXKUxS8eJ41egCucG/vwKjy28O0+N5QcTQ4mLAs3uRiCzswo5+lxkh/coPEDdgDlgVL4fWKSpI2nqHKu9dMuArwD6BdWdQCy47S9Y/rOiRsTXC6zvhnxg/U/PAcvkSrax+YxhivAzKRZblhq4QelHPbBdF/jguR/VoneMxvdH/3GS100unEEFQD2LqzEY5wKQEVH4Caic0UmJYHXBWhPNFaQnmCYhGaKefEiED+FpE3AdC9oiIavtgIj5UzgZonR1C0bwuppL2iSW1EWSVVBpkqGUp7INatUfCHCl/ze0+Evx3sPmaNhI=;hJBqa7aMpw2Ql4OiUNoD6w=="
 ---

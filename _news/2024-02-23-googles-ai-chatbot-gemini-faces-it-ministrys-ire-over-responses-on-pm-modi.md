@@ -111,20 +111,6 @@ related:
         width: 2560
         height: 1336
         isCached: true
-  - title: "Google Pulls Gemini's AI Image Generator After ‘Woke’ Photos"
-    excerpt: "The company is pausing the tool after it created historically inaccurate images such as Black Nazi soldiers and Native American U.S. senators."
-    publishedDateTime: 2024-02-22T17:10:00Z
-    webUrl: "https://www.thedailybeast.com/google-pulls-geminis-ai-image-generator-after-woke-photos"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2813,w_5000,x_0,y_349/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1708621771/GettyImages-1848351879_rpbysy"
-        width: 1480
-        height: 833
-        isCached: true
   - title: "Google Pauses Gemini Image Generation"
     excerpt: "Google paused its Gemini image generation capabilities after users complained of its inaccurate and offensive output."
     publishedDateTime: 2024-02-23T21:33:00Z

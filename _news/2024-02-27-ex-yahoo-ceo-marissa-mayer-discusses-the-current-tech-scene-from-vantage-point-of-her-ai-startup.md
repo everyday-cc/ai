@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Ex-Yahoo CEO Marissa Mayer discusses the current tech scene from vantage point of her AI startup"
-excerpt: "Q: Sunshine is using AI to manage contacts on a mobile app ... Q: Not long after you became Yahoo CEO, you ordered a lot of employees who were working from home to start coming into the office regularly. Has the pandemic reshaped your thinking about ..."
-publishedDateTime: 2024-02-26T20:59:00Z
-originalUrl: "https://tdn.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_06ca251e-b017-5106-a7c7-6a51208f266b.html"
-webUrl: "https://tdn.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_06ca251e-b017-5106-a7c7-6a51208f266b.html"
+excerpt: "Former Yahoo CEO Marissa Mayer now runs an artificial intelligence startup called Sunshine that makes an app for managing personal contacts. She recently shared her views on AI and other tech topics."
+publishedDateTime: 2024-02-26T19:45:00Z
+originalUrl: "https://missoulian.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_c4b1b655-d24f-5e71-86d4-13b17f6d6b2d.html"
+webUrl: "https://missoulian.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_c4b1b655-d24f-5e71-86d4-13b17f6d6b2d.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: tdn
-  domain: tdn.com
+  name: Missoulian
+  domain: missoulian.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/0/6c/06ca251e-b017-5106-a7c7-6a51208f266b/65d637f6b6e5e.preview.jpg?crop=1764%2C926%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/c/4b/c4b1b655-d24f-5e71-86d4-13b17f6d6b2d/65d637f50b49b.preview.jpg?crop=1764%2C926%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -43,6 +43,6 @@ related:
       domain: omaha.com
     quality: 4
 
-secured: "fpNGxPsp64saQ64nUH57aMl/CwHkmBxs4+EZLoWQcdkKWRVEMLGGNDMFi5pfzQxsz+tbVdpSpClkmKr90Beekh9yazUZr3Chz7lLwwxb3LOVq6fhfA/eDxdRL2sJJb17KYH8AD19Q+6FObDthkvTpQSJGMtEX50/EBXEDjNj71mMpRuBJEYGQE+ukoChdhXR5Qz+txldEoXwykRvteG5yxWcZN7sG24ZGaxfJ0AUI1VsT3Jqikl1EpnCneO2YVzE6QKojSW+ZWFoSvw20L8PfqKs+mWQsxEp0o/ccwh+aT5wjdeqHZCY5zw4yjUxF9VrT5+THr5OBNT5zJg070biJQbrZD66amrsHHbjGSQOaa8=;X/5VV0D7pZJThTXRtF0b3g=="
+secured: "88slMZHMl5dUcgyYIWQjFtirU3CQo5kiWL/aCrL4xVXGAwJkeGAnYj+Uqbx4TXKzDzhXgI2brgzqmw2J32XXfLzlMh86miNwunZNi7RxrGmOhmjCrKpFTHowtUUo2Jxwh2xrfNdW+Cuio9Ywf+CYGgAQruATremfPMHmS6jMKrgpAgCQgcKct1CKuhIGaa8S70y1E4mLy+cDJoyXhHVm7Hh22korHtovBdq2kLs0s45i0slddeInsiXp1fwd+5rs+iEzuMRRmAChJiaavse+ZowawzM8BLYZbP/DweyrgwQvlLxNio76i+tHBHLe2RvdF0YbLfsnp2rQfBklMj4vojuwEmAmkjGgF0auQY+lwWk=;vZuspIY7sN4vK091YNTSbw=="
 ---
 

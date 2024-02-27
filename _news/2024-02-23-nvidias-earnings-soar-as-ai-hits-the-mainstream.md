@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI chip firm Nvidia valued at $2tn"
+    excerpt: "The company is benefiting from advances in artificial intelligence (AI), which have powered demand for its chips. Turnover at the firm more than doubled last year to more than $60bn, and boss ..."
+    publishedDateTime: 2024-02-23T18:12:00Z
+    webUrl: "https://www.bbc.com/news/business-68387018"
+    ampWebUrl: "https://www.bbc.com/news/business-68387018.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68387018.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D3CE/production/_131522245_40a5ca5450ad7139cea01cf7b81856c952f2d5ec.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AI chip maker Nvidia's huge rise sparks market frenzy"
     excerpt: "The share price of AI chip maker Nvidia has surged 60 percent since the start of the year as the company's value crossed the $2 trillion mark today. Nvidia is now the third-largest U.S. company by market capitalization. Some analysts say they've never seen ..."
     publishedDateTime: 2024-02-24T00:39:00Z
@@ -97,20 +113,6 @@ related:
       - url: "https://www.telecomlead.com/wp-content/uploads/2023/08/Generative-AI-chips-NVIDIA.jpg"
         width: 640
         height: 399
-        isCached: true
-  - title: "Excellent Nvidia Earnings Confirm the Epic Opportunity in AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Last night, Nvidia (NVDA) – the world’s largest artificial"
-    publishedDateTime: 2024-02-22T18:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/excellent-nvidia-earnings-confirm-the-epic-opportunity-in-ai-1033094503"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://lh7-us.googleusercontent.com/Z5VTFPUMm5meBXH_gRKqXtVbV2NTILukld7NtaDUf24IolIiFxiucZjtFfjAhpPvDYx6d9Cr4YHlo3Wd-eVucz7Fz-xYeZXGu1TJtKZV4AWsT0QU5uL1581xb3o-SlSyMupzlA2RjE4bdkjqCVrdCQ"
-        width: 1523
-        height: 674
         isCached: true
   - title: "Nvidia boss Jensen Huang says children shouldn't learn to code as AI can do all the work"
     excerpt: "Read our ethics statement. A hot potato ... The Nvidia boss believes that AI has made the need to learn programming redundant, and humans should instead focus on more important skills such as biology, education, manufacturing, or farming."
@@ -306,15 +308,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Cathie Wood Can Only Watch as Nvidia Rides AI Wave She Foresaw"
-    excerpt: "Annual economic growth could accelerate to as much as 50%, thanks to breakthroughs in the world of artificial intelligence."
-    publishedDateTime: 2024-02-22T17:42:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-22/cathie-wood-can-only-watch-as-nvidia-rides-ai-wave-she-foresaw"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Bezos, Nvidia Join $675 Million Funding Round for a Startup Making Humanoid AI-Powered Robots"
     excerpt: "With a billionaire backing the project, it sounds more like a Hollywood pitch deck than real life. But it is real."
     publishedDateTime: 2024-02-26T18:52:00Z
@@ -328,20 +321,6 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/jeff-bezos-inc-magazine_537826_bzkhkd.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Nvidia races to $2T mark as AI mania sparks Wall Street tech rally: ‘Producing the best chips’"
-    excerpt: "Nvidia galloped to a $2 trillion market value on Thursday after the bellwether for AI chip demand once again exceeded Wall Street’s sky-high expectations, re-igniting a global rally in tech stocks. The chipmaker returned as the third most valuable US ..."
-    publishedDateTime: 2024-02-22T17:23:00Z
-    webUrl: "https://nypost.com/2024/02/22/business/nvidia-races-to-2t-mark-as-ai-mania-sparks-wall-street-tech-rally/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 42
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2024/01/nvidia-world.jpg?quality=75&strip=all&w=389&h=260&crop=1"
-        width: 389
-        height: 260
         isCached: true
   - title: "Nvidia and AI fuel market frenzy"
     excerpt: "Nvidia, which two years ago made most of its money from selling graphics cards for computer games, has now become the world’s third largest company by market value."
@@ -455,15 +434,6 @@ related:
       name: Morningstar
       domain: morningstar.com
     quality: 12
-  - title: "Chipmaker Nvidia Just Posted Unbelievable Revenue Growth. It's All Down to the AI Revolution"
-    excerpt: "The reason is simple, according to the company's CEO Jensen Huang. It's because \"accelerated computing and generative AI have hit the tipping point,\" and demand for powerful chips that can help with all the number crunching needed to make AI work is \"surging worldwide across companies, industries and nations.\""
-    publishedDateTime: 2024-02-22T18:15:00Z
-    webUrl: "https://www.inc.com/kit-eaton/chipmaker-nvidia-just-posted-unbelievable-revenue-growth-its-all-down-to-ai-revolution.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 6
 
 secured: "/vcporVZTYXL8kyvHYMDdTryxFDgHu+eJdbzTncDwg4NS73OIVpQ1fF8suP3Xo0zzptRE63lyrqmGWakSJe8SvZ0EOWw4f3NAlcyLHAbBSnPI/LlJoG/OL0jQVjQxt38+z9aC8TxU7hCHlf5yjuEo7oQBHOl3JJCjbq8JomX6aqKKlvPxCPXNCiHCNHtoffz5IDsO98im++D0+KQyGFngozD21SX72IfA7sT0x17HmVK7/sROSXyfevzD+Do7CR/ykUWOnczhrcpieq8ly5U5DSGKcvvwOkpIMLZbnMHs0qC1oKm7DJXiZXOlLf6DJAyOaF5yd41t+HfRFMTqhncHiESOEIYbtrHoKf2cG502AE=;7AZkw7ieL8vyGk0lH5PDLg=="
 ---

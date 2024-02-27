@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-27-how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker.md",
+      "title": "How Axfood enables accelerated machine learning throughout the organization using Amazon SageMaker",
+      "excerpt": "This is a guest post written by Axfood AB.&nbsp; In this post, we share how Axfood, a large Swedish food retailer, improved operations and scalability of their existing artificial intelligence (AI) and machine learning (ML) operations by prototyping in close collaboration with AWS experts and using Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/16/ML-15027-model-build-pipeline-2.jpg",
+          "width": 1253,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T17:51:48Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-meta-is-seeking-chip-engineers-to-develop-new-ai-and-ml-specialized-accelerators.md",
       "title": "Meta is seeking chip engineers to develop new AI and ML specialized accelerators",
       "excerpt": "According to recent job listings posted online, Meta wants to hire highly skilled hardware engineers to develop a new generation of application-specific integrated circuit (ASIC) designs.",
@@ -152,10 +205,10 @@
     {
       "path": "_news/2024-02-22-silicon-microresonators-for-artificial-neural-networks.md",
       "title": "Silicon microresonators for artificial neural networks",
-      "excerpt": "(Nanowerk News) Researchers have made significant progress in the development of artificial neural networks using tiny silicon devices called microresonators, paving the way for faster and more energy-efficient artificial intelligence systems. These ...",
+      "excerpt": "Researchers have made significant progress in the development of artificial neural networks using tiny silicon devices called microresonators, paving the way for faster and more energy-efficient ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64706.php",
-      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64706.php",
+      "webUrl": "https://www.eurekalert.org/news-releases/1035234",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1035234",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -168,8 +221,8 @@
       "publishedDateTime": "2024-02-22T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1293,50 +1346,6 @@
       "provider": {
         "name": "Financial Post",
         "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts.md",
-      "title": "Machine learning dominates AI job market; high demand for mid, senior-level experts",
-      "excerpt": "Among the hottest artificial intelligence (AI) skills, machine learning (ML) tops the chart with the most number of active jobs, according to data shared by staffing companies and employment platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/Machine-Learning-ML-Engineer.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
-      "publishedDateTime": "2024-02-08T08:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

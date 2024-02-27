@@ -31,15 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "Tackling AI bias in employment"
-    excerpt: "One way to mitigate AI risk in employment and bias more generally is allowing researchers and smaller players, instead of just a handful of big companies, to examine models."
-    publishedDateTime: 2024-02-22T17:25:00Z
-    webUrl: "https://www.axios.com/pro/tech-policy/2024/02/22/government-companies-try-to-tackle-ai-bias-in-employment"
+  - title: "Is AI the Key to Unlocking Procurement Cost Savings?"
+    excerpt: "As more people experiment with using artificial intelligence (AI) for real-life use cases, many wonder if their approach could bring procurement cost savings."
+    publishedDateTime: 2024-02-27T18:32:00Z
+    webUrl: "https://www.automation.com/en-us/articles/february-2024/ai-key-unlocking-procurement-cost-savings"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 21
+      name: Automation
+      domain: automation.com
+    quality: 37
+    images:
+      - url: "https://www.automation.com/getmedia/44502dc2-13c9-419e-98f7-30571e5f3b17/AI-cost-procurement-feature-feb-27-2024-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "e3g1EmzFEOmWLBSI53sEmemMnYfWV1IpSFE55oIYbxmUKea3aydgI/wWBn/ezkRBxX7zEWl/ussdUSikRje2WkW0NTBDo9lxTRqlE7n1uj9RkCcmO15XiDtf+rs2p1wN6ou91Fk7gizJV2soFr0aRPjms+sQyE08qtwBj6hAT/itcghtbO1infjWqVNtOYuruVsd5YNwglp0JsaHW7ZF1j6V0xTuo5A8ZiQFu/007uHCq5J0VXErs0TwnsTrHcgOjnTixfMpMKKMHr+pxUOb4p7yyvcbhqSN2ncSsRcpfFeca6YQukSw2dCOrzmq6DvmvDwQYDdG+opI5DrSbghNL164+E+5NVdwJ4k+3SbyruQ=;/eyoOcalmGvpZAUmh911Fw=="
 ---

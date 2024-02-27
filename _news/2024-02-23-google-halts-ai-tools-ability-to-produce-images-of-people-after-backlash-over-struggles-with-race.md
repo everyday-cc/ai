@@ -26,6 +26,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Google rows back AI-image tool after WWII gaffe"
+    excerpt: "PARIS—Google said recently it would stop users from creating images of people on its newly launched AI tool, after the program depicted Nazi-era troops as people from diverse ethnic backgrounds. The US tech giant,"
+    publishedDateTime: 2024-02-27T17:10:00Z
+    webUrl: "https://manilastandard.net/spotlight/314420661/google-rows-back-ai-image-tool-after-wwii-gaffe.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
+
 secured: "dNIDOxwPsIELf4d8thrhs0JYhZZKfYJ+Qto95lh0/uJ4iGTxBFr/tGsX9CyhmieBJxIumS9sO2Afm+teX0af8NhPgN9PK65YJLRSbVFEwQbe4IsCgJx2a7TFN6qGNB8M+BFJn2QFIhHCII5AZTnZUwSQByffljQg8ivutQhk9xbFIGgxuXuNmlqnrtGboDx6KadTGsq+w+qU1EAwYg5mwfputL0ppv266HSGnXQmRt0zfLH9wHYRhfluj6ZU8hTCjCgmKFR3XIX8q0wJexOFwTrJDBljyKmQE3xvNpMmf83iOtVrvqGaR6D4AB28R6sIBOsVAiw/iQ5/mkpDAJ7yKSnyRYAKRV4Ch8BTvPlVGMU=;yD0srvgP/dtr/in3rNmXbw=="
 ---
 
