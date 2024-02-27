@@ -21,20 +21,15 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Justice Department Names First AI Officer as New Technology Tests Law Enforcement"
-    excerpt: "Mayer is set to lead a newly formed board of law enforcement and civil rights officials that will advise Garland and others at the Justice Department on the ethics and efficacy of AI systems. He will also seek to recruit more technological experts to the ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.inc.com/reuters/justice-department-names-first-ai-officer-as-new-technology-tests-law-enforcement.html"
+  - title: "You don't need a Chief AI officer, experts say"
+    excerpt: "\"Companies need a dot connector with the technical expertise, strategic vision, and ability to get executive-level buy-in,\" says Ram Chakravarti, chief technology officer at BMC Software, and that's akin to finding an AI \"unicorn,\" he tells Axios."
+    publishedDateTime: 2024-02-23T09:29:00Z
+    webUrl: "https://www.axios.com/2024/02/23/chief-ai-officer-jobs-title"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 34
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/doj-ai-GettyImages-1247231912_537728_oaspyu.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Axios
+      domain: axios.com
+    quality: 19
 
 secured: "n8oLcJko3XnPYvanH2adWpFFC0B4uaKE5Uwfx1/ZGke2QSKfoPtBRv3d1EauR852GZZdO2Js6GKn1pJkVPFIqYY3WZL+86tT3suiqbuQ/pfLPoQBYJuRzK13YeWKqWUXD6bsAzMWTRdkTOBzi9Aos/DTpaP84BkkgFP8pSKoRbyRx7OPFNbFkjJeR/buQxGHQmPqdW3GJGrh6L0t9U2iSuCserZGyD3q375YQEsyHk5tr7/cnzgzLiQrnnQrLOe4ECnfLlLz7vO5pt5vlbeJostp2BBmO3suCq18UAQq1Q/pG/quezUK494VtgMXdbL3Jyn9s4Bj4NNUzr6PnzsFxsigsIHE31ZKEuBb9S69lOxEvprPfqpqkkMMKOwuXkuezk4pbham/ayUsZWLathaoTnCHqfHZ2fnexkKAENQgDQNLS1iij8Eh/Qj5DlxkHl1p1C1WR9Te+3o9nmBC7lkmaWdXgroxrzpVcDMT22nl+JwvCF1DyiIxR0nRiAncUKW+3xRtEJRVmlVEqUQmI7VPw==;Nja0w5rE4gjsTRIudZn66A=="
 ---

@@ -37,20 +37,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Seneca Polytechnic announces integration of AI technology to prepare workforce of the future"
-    excerpt: "Seneca will integrate Azure OpenAI to develop an AI tutor that supports enhanced learning of course material and simulated, personalized job interviews based on job postings. TORONTO — Seneca Polytechnic announced it is bringing Microsoft Azure AI ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.canadianmanufacturing.com/manufacturing/seneca-polytechnic-announces-integration-of-ai-technology-to-prepare-workforce-of-the-future-297795/"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 28
-    images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2024/02/Seneca_Polytechnic_Reimagining_higher_education__Seneca_Polytech.jpg"
-        width: 1504
-        height: 1003
-        isCached: true
 
 secured: "gMS09tzS1b5FDo5vFuqgWB72nKhnpGiOY677RHioWVeGlsMfIfeDimotpJZF+Ow2bbKR5fARAgLcUIxUSeVD9rn81807xnwitkhUuyeC8OAul2QtDc058gNWMMl7RLEWyhr7Gw/NUr33kDKx+U+82fzNV4omgPsyWsZ5ryQ4wwkiGuJWBLskm3qzTLJEJJH56KlDkWpQTMzd6a2JbTvqkymlxiSclkSELYhrJacLL2/C73s1lPMKsLBndTP7JknYsEO8w1AauLcQxmKqUSvUBgYltKh+0Eo420XOgXSPCjjkGOjxRIAv4Oz8rW5qLu0OKwzRFvh4ingFNTfwXb/uM90xRlPoOT1cigRDj7nFQpg=;Q3MBzFZBdjCtkGC8zMUPbg=="
 ---

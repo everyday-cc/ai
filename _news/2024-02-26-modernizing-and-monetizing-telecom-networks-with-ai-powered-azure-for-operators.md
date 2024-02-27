@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-
 webUrl: "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/"
 type: article
 quality: 100
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Transforming broadcasting with artificial intelligence and machine learning"
-    excerpt: "In common with industries across the modern economy, the broadcast media industry is currently on its own artificial intelligence (AI) and machine learning (ML) journey, with organisations at various stages of evaluation and implementation. But in ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/transforming-broadcasting-with-artificial-intelligence-and-machine-learning"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 32
   - title: "ARway Corporation: ARway.ai Expanding Its Spatial Computing Platform, Hires New AI Computer Vision and Machine Learning Ph.D Engineer"
     excerpt: "With a distinguished background in robotics and machine learning, Mr. Sarkar brings a wealth of experience from prestigious institutions and leading-edge projects. With an academic foundation holding a Ph.D. in Control and Automation from the Indian ..."
     publishedDateTime: 2024-02-26T12:01:00Z

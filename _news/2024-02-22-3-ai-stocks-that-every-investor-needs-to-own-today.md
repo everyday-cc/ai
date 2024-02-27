@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "7 Stocks That Google’s Updated AI Wants You to Buy"
+    excerpt: "However, one area where Google’s AI excels is picking stocks to buy. Months ago, Google’s Bard AI beat human experts and other AI models at choosing profitable stocks picks. Could the new Gemini 1.5 update improve its stock-picking skills further?"
+    publishedDateTime: 2024-02-26T16:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-stocks-that-googles-updated-ai-wants-you-to-buy-1033104734"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "1 Exceptional AI Chip Stock Investors Need to Know About in 2024"
     excerpt: "But in recent years, it pivoted its portfolio to address \"mature\" semiconductor manufacturing processes related to power, sensors, and other less advanced technologies (but still integral to the whole AI narrative). These chip types remained in high demand ..."
     publishedDateTime: 2024-02-25T14:35:00Z

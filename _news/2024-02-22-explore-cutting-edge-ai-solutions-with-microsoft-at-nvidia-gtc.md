@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-sol
 webUrl: "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/"
 type: article
 quality: 104
-heat: 474
+heat: 464
 published: true
 
 provider:
@@ -194,20 +194,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-23.jpeg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Microsoft Inks AI Chip Manufacturing Deal with Intel"
-    excerpt: "Microsoft in November announced that TSMC would be behind the manufacturing of the Microsoft Azure Maia AI Accelerator and the Microsoft Azure Cobalt CPU – both internally developed chips aimed at Microsoft's cloud datacenters. It's unclear whether Intel ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2024/02/22/microsoft-inks-ai-chip-manufacturing-deal-with-intel.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 71
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/semiconductor1.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "AWS Storage VP leaves for Microsoft Azure"
     excerpt: "Amazon Web Services Vice President of AWS Infrastructure Hardware Ahmed Shihab has left the company to go to cloud computing rival Microsoft Azure. Shihab was responsible for the innovation, building and operation of all of AWS’ storage and compute systems,"
@@ -409,6 +395,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Buy Rating on Microsoft: Strategic AI Partnerships Poised to Enhance SaaS Offerings and Operating Margins"
+    excerpt: "Havemeyer believes that by integrating Mistral’s sophisticated AI models within Microsoft’s Azure AI infrastructure, the tech giant stands to potentially infuse its SaaS offerings with next-generation capabilities. This move could allow Microsoft to ..."
+    publishedDateTime: 2024-02-26T15:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-on-microsoft-strategic-ai-partnerships-poised-to-enhance-saas-offerings-and-operating-margins-1033104789"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
     excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."
     publishedDateTime: 2024-02-22T12:30:00Z
@@ -495,15 +490,6 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 25
-  - title: "NVIDIA CEO Jensen Huang unveiling new AI breakthrough at GTC 2024"
-    excerpt: "For healthcare professionals, there will be valuable discussions on how AI is transforming diagnostics and patient care. The finance industry will explore how AI is being used to assess risks and detect fraud. Meanwhile, the automotive sector will present ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-ai-gtc-2024/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "lPUHdwbjsvllhJUQ8prrKIW3g9X/8O1P7Fn90SlT6A476Vh0lGjp+wG5ouN3MTeRt++hmaK5NpmN9hNuk1JkDaE3V33xilKazj3McwLHfZ0HCWHFxHUgaprDcUyUM754BE3umelLIFY/XRdM/R58t5GGfk0MXq9sD4Z9VF9/mkklRwrmQKMXT7MgAtT70TO/ju66y/VAfon3iG6gaOp4NvDgrV4H59Xjx1PxijPIWzZgrONMOvY19QEg9w34tO4O8Y/rcMhRkPFr3LGWEa0XHzxCU3A8Nw36296unWOCcFZd+K5G+rWXsIaoIaT6nVqeDE1ohAMbsJqA2lnZNJ1jquaTLJ4xpcLqSbskNZ51YEk=;yR8uqKAllxw7ESYTtB5nCQ=="
 ---

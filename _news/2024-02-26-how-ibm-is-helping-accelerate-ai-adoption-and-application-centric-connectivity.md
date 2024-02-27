@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ibm-is-helping-accelerate-ai-adoption
 webUrl: "https://www.ibm.com/blog/how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity/"
 type: article
 quality: 95
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - IBM AI
   - AI
-
-related:
-  - title: "How Accenture is helping new startups and established companies approach generative AI"
-    excerpt: "Additionally, 63% said they expect to see a return on their generative AI investments in three to five years, while 21% expect a return within three years. Meanwhile, although last year ended with fewer startup funding deals and less capital invested than ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.bizjournals.com/chicago/news/2024/02/22/accenture-artificial-intelligence-chicago.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 9
 
 secured: "v/GChghVIc/PcZi7f6GohMj+dZyhJEwMJiw3Exiiz26893Gcmlp/7MScD+3ccrnhVkXEvwM5esz9kmzKFsU0KuL3/rM/OO0psKdkSk07ELNkSElNMP0esPLVWLIPR9CBENPPBo0Ad7eZk72wsLpL0/+w07xz54qcTBdq0DV7faeV5nAxOAe3wWWY9U3QryM3kb69Chh0JcTlI7HlA5XvHh3o0ajcJgIejlIYHerWaxv8m0lwoqihnJ728H82F1BynPmRSXikFC/oubmobQjE8OOkifbJ9VWdYkB+DJK1m7/CkcWjoi1PF87sJi5pPaKFyDbYriv05zcSiQxDVCAEK+0yu3JRVGsK0wmjQD4H3nc=;doq7dljWGoO1c7LcMotzyA=="
 ---

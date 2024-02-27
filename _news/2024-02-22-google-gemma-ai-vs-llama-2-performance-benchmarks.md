@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/gemma-ai-vs-llama-2/"
 webUrl: "https://www.geeky-gadgets.com/gemma-ai-vs-llama-2/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Launches Gemma, a Family of Open-Source Lightweight AI Models for Developers"
+    excerpt: "Gemma’s open-source AI models are built from the same research and technology used to create the Gemini models."
+    publishedDateTime: 2024-02-22T07:59:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 53
+    images:
+      - url: "https://i.gadgets360cdn.com/large/google_gemma_ai_1708588635642.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Gemma open source AI prompt performance is slow and inaccurate"
     excerpt: "Gemma AI models provide a choice between 7B parameters, for efficient deployment and development on consumer-size GPU and TPU and 2B versions for CPU and on-device applications. Both come in base and instruction-tuned variants. Despite the accessibility ..."
     publishedDateTime: 2024-02-23T09:18:00Z
@@ -52,6 +68,20 @@ related:
       - url: "https://www.interest.co.nz/sites/default/files/2024-02/google_gemma.jpg"
         width: 1352
         height: 1008
+        isCached: true
+  - title: "Google's lightweight and free Gemma AI models are optimized to run on NVIDIA GPUs"
+    excerpt: "\"Built from the same research and technology used to create the Gemini models,\" Google's new lightweight Gemma LLMs have been designed to run natively on local PC hardware powered by NVIDIA GPUs. For use in third-party AI applications, Gemma 2B and Gemma ..."
+    publishedDateTime: 2024-02-22T12:36:00Z
+    webUrl: "https://www.tweaktown.com/news/96379/googles-lightweight-and-free-gemma-ai-models-are-optimized-to-run-on-nvidia-gpus/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96379_01_googles-lightweight-gemma-ai-optimized-to-run-on-nvidia-gpus_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
   - title: "Google releases Gemma lightweight AI open models"
     excerpt: "Google introduces Gemma, a new family of open-source lightweight AI models that allow developers and researchers to build large language models (LLM) with only a desktop."

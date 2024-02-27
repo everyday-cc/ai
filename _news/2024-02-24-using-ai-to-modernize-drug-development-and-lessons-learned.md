@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-mode
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Energy companies eye AI and machine-learning"
-    excerpt: "Energy companies are now experimenting with artificial intelligence and machine-learning technology designed to detect cracks and flaws in power lines — before they turn into deadly blazes or turn off electricity across a metropolitan region, writes ..."
-    publishedDateTime: 2024-02-21T23:34:00Z
-    webUrl: "https://www.politico.com/newsletters/power-switch/2024/02/21/energy-companies-eye-ai-and-machine-learning-00142402"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
   - title: "Decentraland and Emerging AI Crypto Set for Major Developments"
     excerpt: "Decentraland (MANA) is working to improve its performance due to its difficulties and restrictions last year. Its development path has … Continue reading"
     publishedDateTime: 2024-02-23T18:00:00Z

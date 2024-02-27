@@ -121,15 +121,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 20
-  - title: "Google halts AI tool’s ability to produce images of people after backlash"
-    excerpt: "The incident is also yet another setback for Google as it races to take on OpenAI and other players in the competitive generative AI space. In February, shortly after introducing its generative AI tool — then called Bard and since renamed Gemini ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.wsiltv.com/news/consumer/google-halts-ai-tool-s-ability-to-produce-images-of-people-after-backlash/article_89304fcd-9fb3-5550-8676-6bbc485888aa.html"
-    type: article
-    provider:
-      name: WSIL-TV
-      domain: wsiltv.com
-    quality: 18
 
 secured: "gqKa5sT2bxNyrlEJKDGnrvNo/AKuYnKeMeLXlJfehNvqaGEiw/C2WMwiGNtMjMRr73YcduUkU4R9NasiGj19xiEnRXAN1bCCyBr1UESw8fUb7p24JwVeN/pOXe+YF6lEK2BTfh/yEsGmlAg9cUFmvHh277WBfVHbNFMg5GGzVQu4GOMiUgP2jPHgFQONt/oKgvaDrst07EXOP0LQp9ZtMwFq9uftPvDfht5saRHjlky57sqefAkq5D/hmBlvoByKtJxXFV2A7+0/fdlI1Cone5iOri4Wfb1TI51xtNokB8XF7G7Kyx4DJRbZBMTi1/zshvhUcFeJRPa83FXl+HcnwnR+awtbQyNXOGFhcvCY13WE17d4cg3PRADzOwIZ5VLftyoXZd9MSL4dSAl/FfrDK0iFSaXz0QkgeBpq0cFe/vlpSlhOOAJKCxKkb1QtQBLBBQ9FaJRWSTo2BqKxZXpsuDL0FcJRe1j5GXoP8DgI8keY+nB+mkuOfLHeGPb89m2QtcIY0F80yfL3OnhJPux0hA==;g2dEb+SIfiyOPtPIEGMnDQ=="
 ---

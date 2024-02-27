@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
 type: article
 quality: 89
-heat: 105
+heat: 99
 published: true
 
 provider:

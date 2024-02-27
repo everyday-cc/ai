@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2024-02-26/cathie-wood-dou
 webUrl: "https://www.bloomberg.com/news/articles/2024-02-26/cathie-wood-doubles-down-on-ai-sales-with-cut-to-tsmc-stake"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -32,15 +32,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "AI tokens record double-digit gains as market cap doubles within a month"
-    excerpt: "Popular AI-based crypto tokens posted double-digit gains after the market cap of these tokens more than doubled in a month. Render (RNDR), an Ethereum-based network that facilitates decentralized GPU rendering, has surged over 17% in the past 24 hours."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://cointelegraph.com/news/ai-tokens-record-double-digit-gain"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 18
 
 secured: "U0EC/7qeKZ1NkLcoQryh5ITW281pQVVF7Jk7djDbv0XNUwYmUtc8/nQav0TuNDKBc9hIrFBjvf29EvOcshwu+smulbyEynV/X5eVbmh9oXPaJ0e851KsYrwsIcAy144XdOlMYeddkzdNtcfKxNuqTSBVW7fB2CYthdZnklOBx3hrvGQn9+MEsFWdMx0LRgE8d6Xbqd5epsP3CWxPRpcNNATYoMbCKDe2tMBUoI8GV6WZ8k3k0SLFDwZ9066LnNECinJz7frbDc+TI6UUzk8oHYNGEzrvF1PE/uqS9QT0BZ6k5m9XZ8hI3V+9CMTOBmv+w9x1U3xfy/17WZbhzWAYQQta4aKIDgPjYyKvtTbuRbZXm/SsTn79+WhW6YjzNGH4qmFC/J+mTl+eGvuNQxsY0WHQn0rtQ7BtaQKtYk8okCNaUNjp9JxMv6HjF2yFDG5+NlwEPvcrHtd3jmSKAUo9UJfVrHVFse3H54bdsKtl7BbEcXzRR2j7FaF/T9+bi4EmuiXpTFWaEdvUqimNH1imVQ==;+hMFqJI32uxP1KDYlr95fQ=="
 ---

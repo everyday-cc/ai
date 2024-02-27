@@ -322,6 +322,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival that has its own chatbot"
+    excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."
+    publishedDateTime: 2024-02-26T19:53:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-microsoft-inks-deal-with-frances-mistral-ai-an-openai-rival-that-has-its-own-chatbot/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-microsoft-inks-deal-with-frances-mistral-ai-an-openai-rival-that-has-its-own-chatbot/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-microsoft-inks-deal-with-frances-mistral-ai-an-openai-rival-that-has-its-own-chatbot/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 46
   - title: "Bezos and Nvidia Team Up With OpenAI to Fund Humanoid Robot Startup"
     excerpt: "According to Bloomberg news sources, Amazon founder Jeff Bezos, along with Nvidia and other prominent tech players, are funneling investments into Figure"
     publishedDateTime: 2024-02-24T14:12:00Z
@@ -330,6 +341,15 @@ related:
     provider:
       name: ProPakistani
       domain: propakistani.pk
+    quality: 34
+  - title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival"
+    excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."
+    publishedDateTime: 2024-02-26T22:16:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-inks-deal-with-frances-mistral-ai-an-openai-rival-that-has-its-own-chatbot/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 34
 
 secured: "y+/UqRO6MbhciD0u3HMyxRUwllifR1fPzUJhuRrr2xDhq2oESK8LHsWKkwWyJ3nEtpaX8Sy/Hg3gVdrALF7Fk+DWsqtb3773rSuC+TSmtrOOdIVzJF1J70QDDKReg2xhDybFS4l0bWiJ1OYMvypEo5Bo1cbcfFKF5G3FEmVNX8SarcOsiHllqtNPjsNP+kgZRXH6+yQ0Gzehbm6G5yzfJuRk/tzNsT9S+6HSSGFKlfQWlxgnS9VXnelmMox4yUcSC9psmOpJfFx4BDTs4Gx0Xsyhh+lq1D+J47Wb5pREJ5YlHlHPAVBn26qOLrvSkR4iXtKPG2QvMYE7TRJuJZwKSVBEkY6ftWWRecQR/dUsUalaTeXH4YEIs/HwaQ6U4hTd4AoD/+QcmmMCPPyT+sQ620PHdBr2ci7BM3Lrdyjo6RQYnLQxmVWuezZp67tTLIgCw32prPwl9HhzhfoQNJSUlSs55DBYroeCYKBFOuPDJNLMHehu2H6f2pmw9V0vz9gcQC7qlEaqL4KrhTfDKVS3qw==;JxO46ebXnESXJGDtbJ4joA=="

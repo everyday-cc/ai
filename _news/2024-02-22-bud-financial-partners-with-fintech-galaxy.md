@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Bud Financial, Fintech Galaxy in tie-up to boost Open Banking"
-    excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. Tangible benefits This collaboration is all about ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe"
-    ampWebUrl: "https://www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YzU2OTU2ZWQtZGViMi00/49/155430254.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "More Than Half the Fintech Industry Seeing Growth from Strong Consumer Demand"
     excerpt: "Fintech industry resilience during the pandemic has been underscored by a sustained interest in digital financial services."
     publishedDateTime: 2024-02-26T10:31:00Z

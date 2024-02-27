@@ -36,15 +36,6 @@ related:
         width: 2500
         height: 1668
         isCached: true
-  - title: "Artificial intelligence in education: Return of the once-feared calculator or a new opportunity?"
-    excerpt: "When pocket calculators emerged in the 1970s, rather than being viewed as time-saving instruments to enhance and accelerate learning, the response was more hostile. Sheela VanHoose leads the education policy unit at TSG Advisors, overseeing a team of ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.tampabay.com/opinion/2024/02/22/artificial-intelligence-education-return-once-feared-calculator-or-new-opportunity/"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 21
 
 secured: "Q4QIUw3ocMcMShAuuM++MPcphWrUu1/uL+UNpKJ3vX5OEi7p6g2ZtFuTpypAFZEEcY0Ervh+gntD3dy1CvNCRcgLSjqhvsA/B2n3Uqm5RWgcvOrRdpjqRRjW12YjLrhDlMYrpUb439g39vBa2ci6oIKxguFUOMRECBtgMsG7dviQ91quIxK5nLfGPjk3iHR1M+72lSVVLW3xV6W6OEN5/qaqunUZGS6GA57OcgImy1kZWXbaF4srbIojxGxOa4zV9cjAOCM5HmIQGrEXaGB52UuLOV0QZ3tiJZadFwpzVgxlLG7jEsDP7ThceKXmh4te1LwXJhEYbzzt5mtAJJlAq0eFZNv55qOUFZe5fhd70XcN7fSyEiqdv9cgXi0hDPs85WDvNkvJCCIzUiDIu3QzfioxrGx/CizdSWuMdqOPc9r3Y4V9gsOV//SlxKLDy19osm534bpXTDaNcLuJEYR43s3a0+giI9XUWNbZcoK/9MHgUCD+v9siZz4O6VFk5najcPmdBs5/RIXlVYpOG1y96Q==;34nsRuheAOmdthAv2FCsEg=="
 ---

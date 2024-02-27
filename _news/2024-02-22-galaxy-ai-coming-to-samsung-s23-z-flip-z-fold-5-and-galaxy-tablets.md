@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-
 webUrl: "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets"
 type: article
 quality: 69
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://www.deccanchronicle.com/h-upload/2024/02/22/1076664-new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-news-thumb-1440x9601.jpg"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Samsung Bringing One UI 6.1, Galaxy AI Update to More Devices Starting Late March"
-    excerpt: "With this announcement, it means we’re a mere month away from more folks getting to play with Galaxy AI. Having been using it on the Galaxy S24 Ultra for a month now, I can tell you that the Interpreter mode is quite solid, Live Translate is helpful in ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/"
-    ampWebUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
-    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
-    type: article
-    provider:
-      name: Droid Life
-      domain: droid-life.com
-    quality: 54
-    images:
-      - url: "https://www.droid-life.com/wp-content/uploads/2024/02/Galaxy-AI-Devices-600x315-cropped.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Samsung is bringing Galaxy AI features to more devices"
     excerpt: "Samsung is bringing Galaxy AI features to more devices through a new One UL 6.1 update coming in late March, the company announced today."

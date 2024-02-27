@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/this-fintech-startup-is-target
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bud Financial, Fintech Galaxy in tie-up to boost Open Banking"
-    excerpt: "Bud and Fintech Galaxy will blend advanced, AI-powered data enrichment techniques with the Open Finance FINX Platform enabling FIs to craft financial experiences that truly resonate with individual needs. Tangible benefits This collaboration is all about ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe"
-    ampWebUrl: "https://www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/banking-and-insurance/bud-financial-fintech-galaxy-in-tie-up-to-boost-open-banking-y28sypwe?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YzU2OTU2ZWQtZGViMi00/49/155430254.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Bud Financial partners with Fintech Galaxy"
     excerpt: "\"This isn't just a partnership; it's a step towards a future where finance feels friendly, accessible, and genuinely helpful,\" says Mirna Sleiman, the Founder and CEO behind Fintech Galaxy. \"We're all in to create a world where your financial services understand and adapt to you — not the other way around.\""
     publishedDateTime: 2024-02-22T06:19:00Z

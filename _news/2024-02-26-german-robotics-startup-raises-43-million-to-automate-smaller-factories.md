@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/amyfeldman/2024/02/26/german-robotics
 webUrl: "https://www.forbes.com/sites/amyfeldman/2024/02/26/german-robotics-startup-raises-43-million-to-automate-smaller-factories/"
 type: article
 quality: 98
-heat: 102
+heat: 106
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 900
     isCached: true
 
-secured: "/aMJ85Ty+BFVFtOLUYbdTYjFL5lORAyTHl0ItvGyQp1tq/bQpR7swIOxzCMhxRR5vPV87Gc9IKZELMklJK1Y8v6eln5auAXI0NUSlwUnCwThwzwNfcmEkYTFuHHoi+0YPhJ2YUfm6vkt9LbjfOZUnnDQpw+TEZHRudm6hNJbUuEqpfvgzzcQo+8yCAKiXcOCOYipJJrvUaaxubw/ouAu8swzE1UKY79/aL8WwFqgvFdVK5pv7+vzib0ZCo54r8XE2I36KSYz2nbFUvPKMZCeEsSgpCY8sqYscETpwSYZT0wTD7Oi7MKBWiJx2inpZ0dgXxu03w83+4A3+upUA0p8rseNWlMC+SMHVzray6WrndQ=;s+8nPlVzr3Co/TFroCctKg=="
+secured: "lzcHgB6kPfdgBSfoqGNCuLJ6l1e0uj+JW1ACaMQI1wYSEnD5fX5lXYAvo+hWgqgBhkUaYNS24xAZFSJCdyRqFD7582d7uvhGOAjbnURF5Cj3bAPgtqvhqYQvwz3SLV+h6Q16Xulh6rC/1zvW93MepFr5yscvL2jkAesQQUb+utOW7XxQUsUv+UNhiBqXOzQDxfQQqcte6XvDC29rYiJdtQmkoPqZyi4aauGMxFVJtwLZUW+dnIJPO06EvFauYDtT4lc4ql2MuuJejQXRz2x5i3tvZEvybGLIdz22zMWwEIe2F6iY7Tn/FI8jbJMNDxjhS+N9Jet1MbOUA6gLgAxCFe2ym2jBROJrM4fgCwzZSc4=;64Xx4E8ubus3DEzg1zpgBA=="
 ---
 

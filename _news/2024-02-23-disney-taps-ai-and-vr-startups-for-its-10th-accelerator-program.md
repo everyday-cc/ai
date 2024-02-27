@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/ben-sherry/disney-taps-ai-vr-startups-for-its-
 webUrl: "https://www.inc.com/ben-sherry/disney-taps-ai-vr-startups-for-its-10th-accelerator-program.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Disney leans on AI in latest class of startup investments"
-    excerpt: "Walt Disney Co. chose three companies working on artificial intelligence to be among the five picked for its annual business incubator program. The premium content you are trying to open requires News database subscription. Please sign in if you wish to ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20240222VL206.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240222vl206_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "cDLoxK0jDvJ8BruOxhuMyy0gNGPLoQHH5RUmOeq3aGnUgMlrpdsGctbgpXQ6K669R16Sg0iA90j2CpA6sPcBmTIURRzGPrmt6z6HhQIdMnhWrwJWA3Zgm9J0B1csUlglVrr+8K9iKbbb4kFFsQwcaV3EUWiJtUEE+z+r2gw5bRkADS71ALaFH9F/B34rZeyxALSwzkP7vJaWngGfkCqq5vlplis2jxQntEd0nAlD3eslKUKqH6WQ4kPfLLAGTf3DXE34ZOZKdHXCQ1GlwTStWywfF0xTD5CnxVbX2DuTHe5tuOWKamCWVXH88tzhwkniyRsCL+PJIynQjnv1kmqZCu7hp3L9QdX9P6hl/SDjJl3UrMmdDbazxgT7czQmGtbwhzYDrCBOPVRZlwdQsZnw/O4piikUD2qE5QeKfWttJ5cTrDIdGHix19QVD7gnzYbhtxuA/W/l/Vz41hGNWaUkCwTzUcAfyYsVljALslr9xVPl1pxFfLUbMcFMrICui5BZjXyUBkiJy/tIZAFiDSvRnQ==;RcUPkktCtb0Sp9QSXKkT6w=="
 ---

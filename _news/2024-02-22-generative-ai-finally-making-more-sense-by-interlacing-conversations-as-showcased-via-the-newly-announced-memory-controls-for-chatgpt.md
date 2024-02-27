@@ -63,22 +63,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meet Groq, a Lightning Fast AI Accelerator that Beats ChatGPT and Gemini"
-    excerpt: "Groq has released an LPU which is taking the AI industry by storm. It generates output at lightning speed, beating both ChatGPT and Gemini."
-    publishedDateTime: 2024-02-22T00:10:00Z
-    webUrl: "https://beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/"
-    ampWebUrl: "https://beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/groq-lpu-chip-ai-platform-beats-chatgpt-gemini/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 75
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2024/02/groq-logo.jpg"
-        width: 1250
-        height: 750
-        isCached: true
   - title: "ChatGPT in medical education: Generative AI and the future of artificial intelligence in health care"
     excerpt: "The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about the future of AI in medicine and medical education."
     publishedDateTime: 2024-02-23T14:00:00Z

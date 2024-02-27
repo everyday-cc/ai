@@ -9,7 +9,7 @@ ampWebUrl: "https://cyberguy.com/ai/construction-workers-being-replaced-by-ai-ro
 cdnAmpWebUrl: "https://cyberguy-com.cdn.ampproject.org/c/s/cyberguy.com/ai/construction-workers-being-replaced-by-ai-robot-bricklayers/amp/"
 type: article
 quality: 74
-heat: 82
+heat: 81
 published: true
 
 provider:

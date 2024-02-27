@@ -1,0 +1,56 @@
+---
+category: news
+title: "7 Stocks That Google’s Updated AI Wants You to Buy"
+excerpt: "However, one area where Google’s AI excels is picking stocks to buy. Months ago, Google’s Bard AI beat human experts and other AI models at choosing profitable stocks picks. Could the new Gemini 1.5 update improve its stock-picking skills further?"
+publishedDateTime: 2024-02-26T16:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/7-stocks-that-googles-updated-ai-wants-you-to-buy-1033104734"
+webUrl: "https://markets.businessinsider.com/news/stocks/7-stocks-that-googles-updated-ai-wants-you-to-buy-1033104734"
+type: article
+quality: 49
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Google AI
+  - AI
+
+related:
+  - title: "3 AI Stocks That Every Investor Needs to Own Today"
+    excerpt: "Rick Orford is a Wall Street Journal best-selling author, investor, influencer, and mentor. His work has appeared in the most authoritative publications, including Good Morning America, Washington Post, Yahoo Finance, MSN, Business Insider, NBC, FOX, CBS, and ABC News."
+    publishedDateTime: 2024-02-22T15:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-every-investor-needs-to-own-today"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "3 Hypergrowth AI Stocks to Buy That Can Beat Even Nvidia"
+    excerpt: "For investors, this means that the time to focus on finding the best AI stocks to buy is now. Nvidia is leading the way, but many of its smaller peers are picking up steam. Matt Miczulski, an investment expert and editor at fintech platform Finder ..."
+    publishedDateTime: 2024-02-22T15:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-hypergrowth-ai-stocks-to-buy-that-can-beat-even-nvidia-1033094886"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "1 Exceptional AI Chip Stock Investors Need to Know About in 2024"
+    excerpt: "But in recent years, it pivoted its portfolio to address \"mature\" semiconductor manufacturing processes related to power, sensors, and other less advanced technologies (but still integral to the whole AI narrative). These chip types remained in high demand ..."
+    publishedDateTime: 2024-02-25T14:35:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMAT-Q/pressreleases/24332010/1-exceptional-ai-chip-stock-investors-need-to-know-about-in-2024/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 34
+
+secured: "OwzOjV4Z9niRdX0OAxaDInwLlfCBn41tLz1Qj5UibBgNQyXmONm6fuS2RcLUuwJSCCguwkDMDAcOYtbPmkhIfA5/yPWPWd/OM7NfLJPtQVR+XQJoFByyieUnTwfPIseuFiZU1rSHTdazNVsaejjphE4sIP8TscCkAzrM9C/WxmnckK7hRXN+B/9dGvu6WLNIE75PUQS0nvWF2hrglxA65eraoC4ycsVw0s0b1zlDKlOy3bbBNtvovhymJoJsXa+rlB6HsdjLOZlVridUGXkcN9FPHEavlBhXzPvX+ot3hJ320XgAZ7e1XzXDZRWA9ckZW09mdaKV+Lr5uLaTTNSDWk/3PuU5EyD8nu8GDr5DsZgkbMhHx2T49K6BcyK5uTrzfrxsMe8VDjM1KvQe8bSAWXv2SGRW4TjPARBNZb3w5MCExe02pMzrB81WLyUB1vyB3jW8EBUI5Laq2UAw/JxZ8zZZgI4/zdqhP4jueYQ9j+mnC6mWq7bHzxoYK0xhI4yDudL5ieXcInwQqJeMfHP7wA==;qnih3i7Nsus87WvWFxABXQ=="
+---
+

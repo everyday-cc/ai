@@ -19,35 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Federal and State Lawmakers Launch AI Task Forces — AI: The Washington Report"
-    excerpt: "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report"
-    ampWebUrl: "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp"
+  - title: "Wilmington AI biotech startup wins a spot in million-dollar Cure incubator"
+    excerpt: "BioCurie is one of five companies selected for the one-year program by NYC’s Cure, which is focused on using AI to improve healthcare."
+    publishedDateTime: 2024-02-23T11:30:00Z
+    webUrl: "https://technical.ly/startups/wilmington-ai-biotech-startup-biocurie-cure-incubator/"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 56
+      name: Technical
+      domain: technical.ly
+    quality: 35
     images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI-Artificial-Intelligence-Abstract-Art-367016941_1.jpg?h=c4779ecb&itok=G8TpDj02"
-        width: 602
-        height: 300
-        isCached: true
-  - title: "Artificial Intelligence Briefing: House Launches Bipartisan AI Task Force"
-    excerpt: "The House of Representatives aims to keep the U.S. at the leading edge of AI policy and innovation with a bipartisan task force while the FTC considers expanding a rule to crack down on AI impersonation. Meanwhile, a recent ruling in Canada warns ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-briefing-house-4203945/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 55
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15445_5839.jpg"
-        width: 1200
-        height: 900
+      - url: "https://technical.ly/wp-content/uploads/2024/02/cure-xchange-scaled.jpg"
+        width: 2560
+        height: 1634
         isCached: true
 
 secured: "2BTb8D13tccWTBlvWUWYbjbyYTnxfXvgdUDOz+CYAQA0wZpX4hNcr0vPwJ06S9V0k7IqJ8jZmXFLzAeTbNTc5dgQ21IQZC0up9lNGpf6EmI+DXW21u+DVnp3IreHuD9oNJ+e+x6CYRYOwCZyfGjhdFC8dQs+aRwL3wZc3n5YoyatQ9lvm4cMcxuKgz2GzrGRVzP2JuibqVYvY4axzURS395wuEh0HlJhzSha+4KEGlSghPHhHof68sltko856r900E6S5mgYvNwLH2I1eg/EGWeaq00ZZCKGF1kUEpuuT6SeSWuTjD36cu1FAmLXLc+nkvd3i31Q3zZS0Q/m7eHMjdB75vtFvE9DNsdv81Yy1vp1SRLqs61anzQYL31Jx4hmeykLrKNi8pi7Vz+gZsDLmmXt6Pi2J1XFAurYcncg0K4Rqp7iC5frfbzH9On8KY6P+zSBLVtwyrCJE/vTJpwOw3XH4pUTgtzSNKn9oN2dEUcsWxb9W75zYOQc6N0d8KrFxlmRJesDQPIw/5TAT0VTHA==;5WmQFSawChN1+1EU+7qbcg=="

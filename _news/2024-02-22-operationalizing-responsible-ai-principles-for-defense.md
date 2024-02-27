@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/operationalizing-responsible-ai-principle
 webUrl: "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/"
 type: article
 quality: 119
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -74,34 +74,6 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/03/electronic-health-record-military.png"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI-Powered Analytics Drives Real-Time Personalization"
-    excerpt: "Securing the right talent is pivotal to any AI initiative. Employing data scientists and AI specialists is a good start, but organizations should also look for ways to upskill current employees to work with AI systems. Ensure high levels of data quality."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=162694"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/151712-CRM_0323_feature_analytics-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Stitch Fix files patent for optimizing computer machine learning for personalized clothing recommendations"
-    excerpt: "According to GlobalData’s company profile on Stitch Fix, AI assisted CAD was a key innovation area identified from patents. Stitch Fix's grant share as of January 2024 was 49%. Grant share is based on the ratio of number of grants to total number of patents."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.just-drinks.com/data-insights/stitch-fix-files-patent-for-optimizing-computer-machine-learning-for-personalized-clothing-recommendations/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 23
-    images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2021/04/report-mobile.png"
-        width: 388
-        height: 544
         isCached: true
 
 secured: "2INmDLc2nChqJbL0Q8eG16wHE4f4LoIb0Umi7fbJFfFu3cDJRoUagDbHqQtHeNRexEb6nwTYgkHFo7vnsPRljNs8gTHVeQ5YwRCTirH8mLB+4IH23Fuox1oSntXcyC5o6nFwLbosNxFKvU7vtt0zzoi6e8kMpOSHAM4/QEuYCeGd2aiSn9ZjNS6KzaHSDp+r02r9EBk3MYvSNBaJVBUfnp+o/gP/KqHKb8rTK/ql0xFBbSGrjlgLLZYYYdGxGYC2oFXhgsSac/b05bikJ1EoVb3YI09Gh3vWy6hMZ/KDvy/HWDifgZ95bn+J6DrKGfc+z1ht8TnJx0W5j0zUx3pScPiHeZBadu3S2GD4q0qDZhg=;FjWPk1nCBAmuCB3coRWfzA=="

@@ -38,22 +38,6 @@ related:
         width: 840
         height: 630
         isCached: true
-  - title: "OpenAI unveils AI that instantly generates eye-popping videos"
-    excerpt: "SAN FRANCISCO — In April, a New York startup called Runway AI unveiled technology that let people generate videos, like a cow at a birthday party or a dog chatting on a smartphone, simply by typing a sentence into a box on a computer screen. The four ..."
-    publishedDateTime: 2024-02-22T00:05:00Z
-    webUrl: "https://www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/"
-    ampWebUrl: "https://www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/amp/"
-    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2024/02/22/nation-world-news/openai-unveils-ai-that-instantly-generates-eye-popping-videos/amp/"
-    type: article
-    provider:
-      name: West Hawaii Today
-      domain: westhawaiitoday.com
-    quality: 57
-    images:
-      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2024/02/web1_altman-2-22.jpg"
-        width: 760
-        height: 570
-        isCached: true
 
 secured: "eWN2PEM0CODuARKsRrpPmbUeEnybIrel6/5fr6n7f3KnjPd5X15jQEQfx/FrZQjc2iyoniANQqjT+l/k0OU8QsJv1odMHsvshHpVydFy6cq1P/7XgCuAjo2gMSMspUpMq/dUfxYKwhg+8W82jbR2yLsOvVxm8y+UxTQZiWgWuHMs/TogyWx0LBVJr2kpIJcwnD6uEnSwHyzsELtThc729NKZEcibrJZvS+5c2HD0HQ9lnPjpYa8N6vGLXrD/6e/9jAQOLShjYfmCIKWiqOi0PjaKj0qHLs3F0Y3Y4V+Xgu7rE4G3HRSmGrbV7/rm59NI1G9UgceKyp5bcg0/fPZwcEOHVFxeoWPhl8kpstZ8b1j20enMiX0zqIfl8C2LwvY5kuVR6fkS/49j5+56a/mTEpjyvSQAhET86CAM/awDCG6z43wi088dz5wv64ox0bV40Dh/RGdRHgQBo60yr7z4nq2PQDxDPyPee/IZ57DnFvdBgLQ+DRjgpEOzfkdMwFhnTOqFfxKI1dtQSV3TjM55Ow==;ydJPmOOEYjIG6Eub1W2g9w=="
 ---

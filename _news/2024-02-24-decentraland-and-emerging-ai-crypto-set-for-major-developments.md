@@ -41,20 +41,6 @@ related:
         width: 1443
         height: 900
         isCached: true
-  - title: "Energy companies eye AI and machine-learning"
-    excerpt: "Energy companies are now experimenting with artificial intelligence and machine-learning technology designed to detect cracks and flaws in power lines — before they turn into deadly blazes or turn off electricity across a metropolitan region, writes ..."
-    publishedDateTime: 2024-02-21T23:34:00Z
-    webUrl: "https://www.politico.com/newsletters/power-switch/2024/02/21/energy-companies-eye-ai-and-machine-learning-00142402"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
 secured: "lKGJhZB3K0BWsGIuihKAsEonEs4Aag06oYRXRxjk/UDJNrm522gazFvpkrpZho0mtdpHDzFSe5JtnYdB8bQq6/RwMyLBc627hoO/ijXugk36UK451rDYuCMj6HjLwaQQP/9tgdM4W0EbpY87Hsh8sXAjRV9+KqApK9pQXQqIJxBhfXxZBu1KUpy6tSJpfOQkRtucSCTiDugTq5iSaVgzjA13onXo6mqAxXd99Un9avchss5Hxb4SxyFOQVPYoF9k+1azhwC+WVqADrRqz7E86nHlWcz4v4nxlt0hKHYcaYjazkBlMgR30048PIUC+Zlpojck2I7H9BPsq9lUebqo1KIaAadJJEII0129TxgkzVIUADvEJ0mBCNsh+iyU17ofuAeS/T4kmY1yAtCN149NURjNAsot2+GIKiiNCw2J6PbE/YyDBVO1j0XfC6bdxhKkBF0uDk5gMJYwr7tc4+C8D8nV+5UYG8n2oWWq0owbRpAyAbh2wfhAIrnh9zVt9mXWbZetsLWlukRNqOtiGxh+7g==;pJt14BCMvxgsYIxeBGcnAg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stop
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ISC2 Research: Most Cybersecurity Professionals Expect AI to Impact Their Jobs"
-    excerpt: "ISC2 Research: Most Cybersecurity Professionals Expect AI to Impact Their Jobs Your email has been sent How AI might affect cybersecurity pros’ tasks Top AI cybersecurity concerns and possible effects In flux Implementation of AI policies and access to ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_714494782.jpeg"
-        width: 1400
-        height: 784
-        isCached: true
   - title: "The Protective Paradox: How Artificial Intelligence Helps Solve AI Cybersecurity Risks"
     excerpt: "For cybersecurity, artificial intelligence (AI) is both shield and sword. By implementing AI-driven tools, businesses are better protected against potential cyberthreats. By arming themselves with these same solutions, however, attackers are finding new ..."
     publishedDateTime: 2024-02-23T16:56:00Z
@@ -100,15 +86,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Nokia Announces GenAI Assistant Integrated with NetGuard Cybersecurity Dome to Strengthen Network Protection"
-    excerpt: "Cybersecurity Dome is Nokia’s extended detection response market (XDR) security platform that provides CSPs and enterprises with strong, 5G network defenses through a series of AI and machine learning capabilities. Amid the rising sophistication and ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/nokia-announces-genai-assistant-integrated-with-netguard-cybersecurity-dome-to-strengthen-network-protection/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
 
 secured: "rejCLxIibF2ioyW/dq5bI1QvRcvAdp4jUh9FYaMpJsmBzCu20283Ls9kszNFGd7xpUSIxlyrt6d7LJv77qXbLb22pPnZY+L3tHCBQ2FgHkN78Nj8QwwLuTNg5hkWOqgDDGluMMlNch/mF2evXhK+ums7RCUUWDuU+/RH5cLvyyuVb2ixxlEIfYIZGr3oj/AKonMwfwGTHmTl7Ya0Wn4SR9xdSSVlOcJgAzFCHLYI9zMGML53hR+3gqqyeNlF3rnfpQBnHEF+omVXvR6NGv17qv1iMm6D2pczSYrGJrt9g7q3Iww/Lhz3ew6/JA05EO0Pua6ws5X7XDWMiADR6j7PeVw/VszAI7s9DPcLlQe7KcqkLO3Rf9k6qy+Z+EvHo5H7EuxHreDOboWUF59X6je2gn0/x539JKhw6f5c8/JN3mHu/PLzo8pEqnJP97jWygtVVaAiwMbYdE3k65MV++lmEQsQUUNAHd/9CJrMVkrDw6hCY0K0/+JWji3F1N3+AkmWp2wXGTlqgRvk4irJFOnyjg==;eF3vtdnpxvNP3jQnJKuKzA=="
 ---

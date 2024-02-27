@@ -191,20 +191,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Microsoft Inks AI Chip Manufacturing Deal with Intel"
-    excerpt: "Microsoft in November announced that TSMC would be behind the manufacturing of the Microsoft Azure Maia AI Accelerator and the Microsoft Azure Cobalt CPU – both internally developed chips aimed at Microsoft's cloud datacenters. It's unclear whether Intel ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2024/02/22/microsoft-inks-ai-chip-manufacturing-deal-with-intel.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 71
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/semiconductor1.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "AWS Storage VP leaves for Microsoft Azure"
     excerpt: "Amazon Web Services Vice President of AWS Infrastructure Hardware Ahmed Shihab has left the company to go to cloud computing rival Microsoft Azure. Shihab was responsible for the innovation, building and operation of all of AWS’ storage and compute systems,"
     publishedDateTime: 2024-02-23T05:15:00Z
@@ -405,6 +391,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Buy Rating on Microsoft: Strategic AI Partnerships Poised to Enhance SaaS Offerings and Operating Margins"
+    excerpt: "Havemeyer believes that by integrating Mistral’s sophisticated AI models within Microsoft’s Azure AI infrastructure, the tech giant stands to potentially infuse its SaaS offerings with next-generation capabilities. This move could allow Microsoft to ..."
+    publishedDateTime: 2024-02-26T15:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-on-microsoft-strategic-ai-partnerships-poised-to-enhance-saas-offerings-and-operating-margins-1033104789"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
     excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."
     publishedDateTime: 2024-02-22T12:30:00Z
@@ -491,15 +486,6 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 25
-  - title: "NVIDIA CEO Jensen Huang unveiling new AI breakthrough at GTC 2024"
-    excerpt: "For healthcare professionals, there will be valuable discussions on how AI is transforming diagnostics and patient care. The finance industry will explore how AI is being used to assess risks and detect fraud. Meanwhile, the automotive sector will present ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-ai-gtc-2024/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "7WpzhBP9wUE7lcqZA+mfNBAx88s7vKi3zNsY17Ti90wECY2ECSJQcl60DaVI5dBUlr4PrOlmtnU6Nzqf4xJnamd+VYZqfKo1ZGzYdIRh57o6roLdju9KCLUv6zQFh/vjL6D3d3JqMkqO4sz6EUc/ygCzl/wVhmybMN/6BSRjaK7xOzaol3Q+bc4dJPKt/BrsK5jRV0w8sMNq/8TKkFn/6aIgrGzUFinCdkjDiMha2euNxtkdlOYUmc1Vn/CJNm3QDlQckkc0sYs0X/AsnNY7wfXSqRaE2QBTIt+k5Ukj2YPK9oLI6ZEROHVE+COf23KmrV6MT3WoQ9zpMJoPqjtQKUr2RHdPpH/imX1FM2mfDdE=;X8UyEd4ZZ53LE3tTB8zNzg=="
 ---

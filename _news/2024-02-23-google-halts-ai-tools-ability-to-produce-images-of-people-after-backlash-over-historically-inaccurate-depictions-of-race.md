@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-gener
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html"
 type: article
 quality: 64
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -123,15 +123,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 20
-  - title: "Google halts AI tool’s ability to produce images of people after backlash"
-    excerpt: "The incident is also yet another setback for Google as it races to take on OpenAI and other players in the competitive generative AI space. In February, shortly after introducing its generative AI tool — then called Bard and since renamed Gemini ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.wsiltv.com/news/consumer/google-halts-ai-tool-s-ability-to-produce-images-of-people-after-backlash/article_89304fcd-9fb3-5550-8676-6bbc485888aa.html"
-    type: article
-    provider:
-      name: WSIL-TV
-      domain: wsiltv.com
-    quality: 18
 
 secured: "gRW/8CQgee7tpM2YUco8LLMqLc8Az69q9eeILfu8CxrBufHL8kmnvWqkki3o0otJKZmP7gzJHHFg16ZnG3OFEcLLVUTRHM2fCr39nsQdKE8yVUjVWW6k6caeC02jaPzeVIoU7gSzKWFDYM2p//V/1T8VTBkMbFm+CwsRX9N3P8WT3X+H4jlmn104ID6fvNvEsb54p3IJ2Kh2kI+Pest9PcOkvctEBmk6QSMT6wD/LEq4C5ZNXxkJGduJY2JUtkIAeKoQ3cy0sYy3sO0I0h0FCrhpBBXSiIPY8pLwwupmobQFSqPcwzyl1O6FUo26JhzwpfrSqtRBY3bKXvAT3ciYVh4iF20pIyBh75alBOAm2Bk=;/h9aioZiJYI2mnNCl+iYIw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1080
     height: 717
     isCached: true
-
-related:
-  - title: "Great Wall Motor-backed self-driving car startup raises $14 million from state-backed fund"
-    excerpt: "Haomo.ai introduced a low-cost delivery robot, priced at RMB 89,999 ($12,767) and capable of navigating busy city streets in China on May 2w, 2023. Credit: Haomo.ai Haomo.ai, a self-driving car company backed by Chinese automaker Great Wall Motor, has ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://technode.com/2024/02/22/great-wall-motor-backed-self-driving-car-startup-raises-14-million-from-state-backed-fund/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 31
-    images:
-      - url: "https://technode.com/wp-content/uploads/2024/02/640-3.png"
-        width: 1080
-        height: 608
-        isCached: true
 
 secured: "8nNK3pl9XDyrEBNZ9uhFl5SabAmXhBarKXOPwXY67iZ0bVUFr5IDsI57g0doqm5G99/ICVTTCgW0O072PFIA2E/IMZC3ABho/qVR5f9hOvYxnOhfZdWHZ9Ez+oBE4OU0nYP9subN8PAaGPMU0qXSaa2vplBMDsfIfq3HhufG9ktXjS+5oUBayMm7JBbSTQOTkRsdYULh2Cq3nelfWjs4NAzIygRSGs0PHFiNWyHxCw9Kod7Zey5xVCIvu0b9indOk6gLH1izJW3sbJ30re34GeLmdZQOuF1VCAxRCzNneaToXmfD5/B55lXmi5pA6lb/Bt8nGEs0BPy5W/oVMdwgMi5OOCo5mS/PKXOmOodtJx557Hbllx7U6UhQ58qbRNhiUZZzK0W/YVSNcyBT8SBWe2bk99Od2eBLiyDS4BoMF1HzDSde3irhzhliIQ5PpAUz3Cg2stMjlp+RF2s5i7aF0fHdXeOYki1GCiVRnpF1SWOs6m1784VOodFYxthNCZUnEC6b0Z2e5N6gSi0fIk1+Vg==;1aWZ+a4uL72nL5RKaWS5Jw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.tmcnet.com/usubmit/2024/02/22/9966707.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/02/22/9966707.htm"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: TMCnet
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Seneca Polytechnic announces integration of AI technology to prepare workforce of the future"
-    excerpt: "Seneca will integrate Azure OpenAI to develop an AI tutor that supports enhanced learning of course material and simulated, personalized job interviews based on job postings. TORONTO — Seneca Polytechnic announced it is bringing Microsoft Azure AI ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.canadianmanufacturing.com/manufacturing/seneca-polytechnic-announces-integration-of-ai-technology-to-prepare-workforce-of-the-future-297795/"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 28
-    images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2024/02/Seneca_Polytechnic_Reimagining_higher_education__Seneca_Polytech.jpg"
-        width: 1504
-        height: 1003
-        isCached: true
   - title: "Healthcare Integrated Technologies, Inc. Announces Issuance of Second U.S. Patent for Innovative Transaction Validation System"
     excerpt: "Knoxville, Tennessee, Feb. 22, 2024 (GLOBE NEWSWIRE) -- Healthcare Integrated Technologies ... for validating transactions through an intricate system of sensors and artificial intelligence (AI). By gathering and analyzing data from multiple sources ..."
     publishedDateTime: 2024-02-22T16:15:00Z

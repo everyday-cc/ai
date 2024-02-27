@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-li
 cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 113
+published: true
 
 provider:
   name: gadgets360
@@ -27,35 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s Latest AI Models Are ‘Open’ to Anyone—and Can Run on a Laptop"
-    excerpt: "Google's Gemma models were built and trained with the same technology used in Gemini, but the models are smaller and will be released under an open license."
-    publishedDateTime: 2024-02-21T23:25:00Z
-    webUrl: "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/"
-    ampWebUrl: "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/?amp=1"
+  - title: "Google Gemma AI vs Llama-2 performance benchmarks"
+    excerpt: "The Gemma suite consists of four models. Two of these are particularly powerful, with 7 billion parameters, while the other two are still quite robust with 2 billion parameters. The number of parameters is a way of measuring how complex the models are and ..."
+    publishedDateTime: 2024-02-22T10:30:00Z
+    webUrl: "https://www.geeky-gadgets.com/gemma-ai-vs-llama-2/"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 59
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2024/02/gemma-header.width-1600.format-webp.jpeg"
-        width: 1408
-        height: 792
-        isCached: true
-  - title: "Gemma: Google unveils open AI models"
-    excerpt: "Gemma models, developed by Google DeepMind in collaboration with other teams across Google, are built upon the same cutting-edge technology as the acclaimed Gemini models. The models are available in two sizes, Gemma 2B and Gemma 7B, with parameters ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.computing.co.uk/news/4177191/gemma-google-unveils-open-ai-models"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 39
     images:
-      - url: "https://image.chitra.live/api/v1/wps/d662e90/41b584f4-5cd8-4ea2-94b0-9321b8ec8ddb/8/Gemma-370x229.jpg"
-        width: 370
-        height: 229
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Gemma-vs-Llama-2.jpg"
+        width: 1280
+        height: 801
+        isCached: true
+  - title: "Google Gemma open source AI prompt performance is slow and inaccurate"
+    excerpt: "Gemma AI models provide a choice between 7B parameters, for efficient deployment and development on consumer-size GPU and TPU and 2B versions for CPU and on-device applications. Both come in base and instruction-tuned variants. Despite the accessibility ..."
+    publishedDateTime: 2024-02-23T09:18:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemma-open-source-ai-performance/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1Mn0U6HGLeg%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "New Gemma large language AI model from Google can run on your computer"
+    excerpt: "Google has launched a new artificial intelligence (AI) large language model, Gemma, which is free to download and can run on users' computers. The AI is optimised for Nvidia graphics processing units (GPUs) for performance, and can also run in the cloud."
+    publishedDateTime: 2024-02-23T04:30:00Z
+    webUrl: "https://www.interest.co.nz/technology/126523/new-gemma-large-language-ai-model-google-can-run-your-computer"
+    type: article
+    provider:
+      name: Interest
+      domain: interest.co.nz
+    quality: 39
+    images:
+      - url: "https://www.interest.co.nz/sites/default/files/2024-02/google_gemma.jpg"
+        width: 1352
+        height: 1008
         isCached: true
   - title: "Google's lightweight and free Gemma AI models are optimized to run on NVIDIA GPUs"
     excerpt: "\"Built from the same research and technology used to create the Gemini models,\" Google's new lightweight Gemma LLMs have been designed to run natively on local PC hardware powered by NVIDIA GPUs. For use in third-party AI applications, Gemma 2B and Gemma ..."
@@ -71,6 +83,24 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Google releases Gemma lightweight AI open models"
+    excerpt: "Google introduces Gemma, a new family of open-source lightweight AI models that allow developers and researchers to build large language models (LLM) with only a desktop."
+    publishedDateTime: 2024-02-22T04:16:00Z
+    webUrl: "https://cybernews.com/tech/google-ai-releases-gemma-open-source-models/"
+    type: article
+    provider:
+      name: cybernews
+      domain: cybernews.com
+    quality: 19
+  - title: "Google Challenges Meta’s Llama 2 with Lightweight Open Source LLM, Gemma"
+    excerpt: "Google has unveiled Gemma, a new family of open models, leveraging the research and technology behind the existing Gemini models."
+    publishedDateTime: 2024-02-22T07:59:00Z
+    webUrl: "https://analyticsindiamag.com/google-challenges-metas-llama-2-with-lightweight-open-source-llm-gemma/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 3
 
 secured: "MLnzXdQgd/f93aw4PaZevD+oShA40pOWEEyrusuOjT8H1YAs4SYrDX5jqjTubnIRjpHqB+AGm/Qpd62hbJ4N7mB3tEPqhAtaJANe3wl4hGVGi75QlZVQniYFyICrW8/cCoHIySzOvnFAgc05g/nVoNtgQl38aRMEF7t0QLGt5nbudDZLPnyeJHqLJiBTH3FYq64oWM0i1kmj39jhHPniMFbidcNHRQaW+jTBGDzVPmd45TfsjtPZWqnWeZBQltEEl5kmoVL9XdaQQLVH/guV2cdoQO/rQUcgW26jJSWQ8GCaLXbLhYNWpBkKLA6E4hvPXPtJ+u+1pl9TpVGXdmnjAcuF0EzQgl3cBJp4jL9GgoyvBGE4nFpy4cATNQs1EswaNJKwlUgN0sir/kM0d9m92M+tTBmqqKjI9XM6PiWOdjWhpJEwDNmV+lysI5PZmUAZYSUGu3wFEAAMPVIryUpT3+LJSxoPKSUQi1fa0RetDmxP/hNxBQbCCEquc63OKwlH9PMoqGaERLNt7RkroqBC4w==;24lKDiyPrV0PLKWBADOutg=="
 ---

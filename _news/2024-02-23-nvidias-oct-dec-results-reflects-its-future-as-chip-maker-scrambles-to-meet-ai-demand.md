@@ -123,34 +123,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia Announces Not One, But Two New AI Chips for China Amid Export Challenges"
-    excerpt: "Huang’s announcement didn’t dive into the specifics about the chips or who’s testing them, leaving many to wonder about the details. There’s been talk, especially from a newsletter called SemiAnalysis, about Nvidia planning to launch three chips ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/22/nvidia-ai-chips-export-challenges/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 80
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/nvidia-warned-us-and-china.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Nvidia’s data center GPU sales grow by a stunning 409% on huge demand for AI chips"
-    excerpt: "He explained that the company believes demand for its GPUs will remain elevated due to the interest in generative AI and also an industry-wide shift from central processing units to the company’s accelerator chips. In a press release, the company said ..."
-    publishedDateTime: 2024-02-21T23:48:00Z
-    webUrl: "https://siliconangle.com/2024/02/21/nvidias-data-center-gpu-sales-grow-stunning-409-huge-demand-ai-chips/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 80
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/manufacturing-press-imec-keynote-blog-1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "This 1 Number May Ensure Nvidia's Artificial Intelligence (AI) Chip Dominance"
     excerpt: "Today, Nvidia controls more than 80% of the AI chip market, so the company has a clear advantage. But at the same time, rivals are doing what they can to chip away at Nvidia's lead."
     publishedDateTime: 2024-02-25T10:35:00Z
@@ -160,22 +132,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 76
-  - title: "Nvidia shatters stock market record by adding over $230 billion in value in one day. Here’s why it’s dominating the AI chip race"
-    excerpt: "Nvidia CEO Jensen Huang (holding one of the chip designer’s Hopper units) has led the company to the forefront of the AI chip race. Chip designer Nvidia has emerged as the clear winner in not just the early stages of the AI boom but, at least so far ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://fortune.com/2024/02/22/what-does-nvidia-do-chips-ai-jensen-huang/?taid=65d7ba889ecfc100017dec12"
-    ampWebUrl: "https://fortune.com/2024/02/22/what-does-nvidia-do-chips-ai-jensen-huang/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/what-does-nvidia-do-chips-ai-jensen-huang/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 75
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1258356137_f2a144-e1708626274327.jpg?w=840"
-        width: 840
-        height: 560
-        isCached: true
   - title: "Nvidia's quarterly profit skyrockets on back of AI chip demand"
     excerpt: "Nvidia said on Wednesday its profit soared to $12.3 billion in the recently ended quarter, on record high revenue driven by demand for its chips to"
     publishedDateTime: 2024-02-22T08:16:00Z
@@ -191,22 +147,6 @@ related:
       - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2024/02/22/thumbs/800x531/316190.jpg"
         width: 1600
         height: 1062
-        isCached: true
-  - title: "Nvidia Targets $24 bn Revenue in First-Quarter Betting on Chips for AI Business"
-    excerpt: "Nvidia, which is powering majority of chips for AI business, said it is anticipating first-quarter revenue of $24 billion with an expected growth of 233 percent. Nvidia said in a filing it had received requests from antitrust regulators in France ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.telecomlead.com/semiconductor/nvidia-targets-24-bn-revenue-in-first-quarter-betting-on-chips-for-ai-business-114852"
-    ampWebUrl: "https://www.telecomlead.com/semiconductor/nvidia-targets-24-bn-revenue-in-first-quarter-betting-on-chips-for-ai-business-114852?amp=1"
-    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/nvidia-targets-24-bn-revenue-in-first-quarter-betting-on-chips-for-ai-business-114852?amp=1"
-    type: article
-    provider:
-      name: Telecom Lead
-      domain: telecomlead.com
-    quality: 70
-    images:
-      - url: "https://www.telecomlead.com/wp-content/uploads/2023/08/NVIDIA-Campus.jpg"
-        width: 640
-        height: 426
         isCached: true
   - title: "Nvidia reports massive revenue spike amid global AI boom"
     excerpt: "Read our ethics statement. What just happened? Nvidia reported record sales and a massive revenue spike for the fiscal year 2024 that were fueled by the global AI boom. The company's total earnings for the final quarter of 2023 came in at $22.1 billion ..."
@@ -294,34 +234,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 55
-  - title: "Nvidia: Boss sees artificial intelligence 'tipping point' as sales soar"
-    excerpt: "\"Accelerated computing and generative AI have hit the tipping point,\" the firm's co-founder and chief executive Jensen Huang said in a statement. Nvidia's shares jumped by more than 8.5% in extended New York trading. The company also said that its annual revenues had more than doubled to $60.9bn."
-    publishedDateTime: 2024-02-22T01:02:00Z
-    webUrl: "https://www.aol.com/news/nvidia-chip-giant-posts-record-003911601.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/74e811d1473eeee0e03e7889a6e0f0be"
-        width: 976
-        height: 549
-        isCached: true
-  - title: "Spectacular Nvidia result lifts Wall Street, AI and chip stocks"
-    excerpt: "Nvidia has dominated the global market for AI chips, with massive demands for its data center chips and graphics processing units (GPUs) as companies like Microsoft and Google continue to pour billions of dollars to get ahead in the race. The results sent ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.arabianbusiness.com/markets/equities/results/spectacular-nvidia-result-lifts-wall-street-ai-and-chip-stocks"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 54
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2024/02/22/Nvidia.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Nvidia sees historic stock rise on AI chips success"
     excerpt: "The world is at an AI \"tipping point,\" said Nvidia chief executive Jensen Huang as he delivered another heady sales forecast. Demand for the microchips that power AI is now \"surging worldwide across companies, industries and nations.\""
     publishedDateTime: 2024-02-23T00:01:00Z

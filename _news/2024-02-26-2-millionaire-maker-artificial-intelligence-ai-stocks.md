@@ -38,20 +38,6 @@ related:
         width: 2359
         height: 1270
         isCached: true
-  - title: "Corporate Use of Third-Party Artificial Intelligence (AI) Tools"
-    excerpt: "In this podcast he shares that a great deal of risk comes from the headlong pursuit of AI technology. Businesses believe that if they are not using Ai that they will be left behind, but the adoption rate is not being matched with a complete understanding ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/corporate-use-of-third-party-artificial-86131/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 54
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15992_1015.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "NB1v2ATxVbVtNLdM+hL1yDgri3/BiY8NVpd+McbvZ+OtYGG8km/nQGw0BSmdjFe9ZuvDHLhdr2MI8cbbOwJJB0tBPjGkmv7RfriB0qcgBKyDn8CrvTVigK644N5gEUivzA8Nb46wFSQx+7N4STEP/zxMgH+dk5ElQVDDVy64ymIC7ThhvefhYikO5R37xV1ZSFj75eUTtaDI3Xdv30zGoZEZwT4Nrf83/e7jC6Jq/dUzK+RkV1UuS7CtLNBWjXBxe54I/2sYVOYTcdKvqLXVEIZ1ZX+d6u0Ps/WJP2o01zM1pmehYZcWdqLVJs6I8ZVcG5XYtqIfIpxHRjoRNtt1DoxSNS66pNQhiCEJ6VkgnQg=;KeihVK1l/hcIpU7fuSpKGw=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 862
         isCached: true
-  - title: "ISC2 Research: Most Cybersecurity Professionals Expect AI to Impact Their Jobs"
-    excerpt: "ISC2 Research: Most Cybersecurity Professionals Expect AI to Impact Their Jobs Your email has been sent How AI might affect cybersecurity pros’ tasks Top AI cybersecurity concerns and possible effects In flux Implementation of AI policies and access to ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.techrepublic.com/article/isc2-cybersecurity-ai-survey/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_714494782.jpeg"
-        width: 1400
-        height: 784
-        isCached: true
   - title: "The Protective Paradox: How Artificial Intelligence Helps Solve AI Cybersecurity Risks"
     excerpt: "For cybersecurity, artificial intelligence (AI) is both shield and sword. By implementing AI-driven tools, businesses are better protected against potential cyberthreats. By arming themselves with these same solutions, however, attackers are finding new ..."
     publishedDateTime: 2024-02-23T16:56:00Z
@@ -97,15 +83,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Nokia Announces GenAI Assistant Integrated with NetGuard Cybersecurity Dome to Strengthen Network Protection"
-    excerpt: "Cybersecurity Dome is Nokia’s extended detection response market (XDR) security platform that provides CSPs and enterprises with strong, 5G network defenses through a series of AI and machine learning capabilities. Amid the rising sophistication and ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/nokia-announces-genai-assistant-integrated-with-netguard-cybersecurity-dome-to-strengthen-network-protection/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
 
 secured: "xL6kSjoFMcf1A4vu2M66eMiJH4is5b68ote3rzZ1sCn1OOy4zzq/MEN6OzGz2hzLzYLESKuv08+Smx3yp0SNSwYxRLl0phOF/5ROwtONikkTbVr81lv/bHJpc9OR9F4uKRIrvDp96/mWo/pOb/b0FH4BcZy4ceM7MbI96QgA7Y/khFs8/EoU74NJd7RRvq0FA7aLlnXwWfCO5zoo54H0xhSmFlbte/qrGFb7uG45yMVFczYLR36QGGqk7odPVy7m3liPbTcoGwHGF82ZRRLSEW7gq/R1zJAXUFb+Cc8y7GCCS6b2e4a/scdohEWoj3mouX++OPf00SKMaezclZ6E+0veWhAYT1Joy4pDoToILk6ccoPgHApT3EOPZpjcrwqsuBsfHvHc43g2kw7o2ZVio0LzYyS0ICDh01iXArhkQYjipxG//PIJgrUQGCTvv9NCil+uZ6oXJdofavsyul5mhkgiOYvz50Z6nZR4jHB6ecbJMiAyNBizUmI0lyrVOpqVLAn4klYwlhT8MjHH/rxT3A==;iEhjkpYKJfXs8CUXlDKYLQ=="
 ---

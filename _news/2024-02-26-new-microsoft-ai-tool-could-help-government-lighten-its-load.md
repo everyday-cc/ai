@@ -205,20 +205,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Microsoft Inks AI Chip Manufacturing Deal with Intel"
-    excerpt: "Microsoft in November announced that TSMC would be behind the manufacturing of the Microsoft Azure Maia AI Accelerator and the Microsoft Azure Cobalt CPU – both internally developed chips aimed at Microsoft's cloud datacenters. It's unclear whether Intel ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2024/02/22/microsoft-inks-ai-chip-manufacturing-deal-with-intel.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 71
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/semiconductor1.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "AWS Storage VP leaves for Microsoft Azure"
     excerpt: "Amazon Web Services Vice President of AWS Infrastructure Hardware Ahmed Shihab has left the company to go to cloud computing rival Microsoft Azure. Shihab was responsible for the innovation, building and operation of all of AWS’ storage and compute systems,"
     publishedDateTime: 2024-02-23T05:15:00Z
@@ -405,6 +391,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Buy Rating on Microsoft: Strategic AI Partnerships Poised to Enhance SaaS Offerings and Operating Margins"
+    excerpt: "Havemeyer believes that by integrating Mistral’s sophisticated AI models within Microsoft’s Azure AI infrastructure, the tech giant stands to potentially infuse its SaaS offerings with next-generation capabilities. This move could allow Microsoft to ..."
+    publishedDateTime: 2024-02-26T15:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-on-microsoft-strategic-ai-partnerships-poised-to-enhance-saas-offerings-and-operating-margins-1033104789"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "NVIDIA Crushes Earnings With Monster Data Center Gains As AI Hits Tipping Point"
     excerpt: "“Accelerated computing and generative AI have hit the tipping point ... and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software, and consumer internet companies. Vertical industries—led by auto ..."
     publishedDateTime: 2024-02-22T12:30:00Z
@@ -491,16 +486,7 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 25
-  - title: "NVIDIA CEO Jensen Huang unveiling new AI breakthrough at GTC 2024"
-    excerpt: "For healthcare professionals, there will be valuable discussions on how AI is transforming diagnostics and patient care. The finance industry will explore how AI is being used to assess risks and detect fraud. Meanwhile, the automotive sector will present ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-ai-gtc-2024/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
-secured: "nsp/8e5OBz26Dc+MT7KK1hxjGmdTq9TXVo0v3VlhqFWtN8PkvvC/fkUUsXFdJzE23CqVAmh6Gld5y3lQ46btMHWx/f+L5DU2RNrsa+Y8ro97VmzBJrYnRc185uHfgR+M8yOT6dhCJLD9hY2zW7GhsHzMSBqar1E0NPVst9tVpA2+48zMYS+bYrhMH/yYFAGQZnww0P91pRK5SMfm3bqGLQ016INteclNWdWshYA1NyUj1shN1JpJrTEYIoEadxMK3i7ftLxmPk6EDZ+oSUZ93hepLfSAYQmxbxuCmVEfp2RgLyoVp+Z/i+Vp6jpahnFxsuMzJ/gdn36/pLu02ylJKTiPyn7QGyQICoaUntEfCrs=;cEgQDzKvtYS2wlh9jivomQ=="
+secured: "ExCkamnOiVuk5Ei4Y/0sJ/j6sPp8HR4XdnlLWA8rzfbsQzcBqL/ilS+xZZINfS2Rl9BCdAH10Ybx2duvFDMTSJ0aXPDq336Gpv3GHqDGg+9tRhUDTNzmfC+hbsy/aqkB8qsTROOSpDaSnSCIMfV32hzZRfd4GLMEEXR5PMV4OzqU+KMusquG/O9zO/vCgiKDkT9XHiGp0YQnKB2K2PyKx4dpZvVhy/8uFUhtFbCBPz5NSQeV4ChaaA21X8ctKQ//5wXGABe267SFBWkYsQ2yyhSz9pw6ssjv+Rt2qQvCubWTLfx+PZ8nWmCQHedlOENFiaaW90pv8XL69K0Mo+2/s6lbf0lIX475n7Qu6FRiEdU1Vsa0JeDrbRrQh23gEbnGzPUBXl6fDVuzf73XTSvP/wDFeqPGBYeeWPBwUUX9U3JRiLN5irSNLSUMfrkrbmYYv63AuRylFvQyJXbpyQ8Rr/07DVwfZVIB2NOQLe9lLk693KsQAKTg+4Qgwf75QTf2NqrzsuhsAM6MwrGKeivhtg==;5G3KeLbaSIYCQUe5vwQFjQ=="
 ---
 

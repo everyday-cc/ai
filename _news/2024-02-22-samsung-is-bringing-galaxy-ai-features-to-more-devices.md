@@ -69,22 +69,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Samsung Bringing One UI 6.1, Galaxy AI Update to More Devices Starting Late March"
-    excerpt: "With this announcement, it means we’re a mere month away from more folks getting to play with Galaxy AI. Having been using it on the Galaxy S24 Ultra for a month now, I can tell you that the Interpreter mode is quite solid, Live Translate is helpful in ..."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/"
-    ampWebUrl: "https://www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
-    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/02/21/samsung-bringing-one-ui-6-1-galaxy-ai-update-to-more-devices-starting-late-march/amp/"
-    type: article
-    provider:
-      name: Droid Life
-      domain: droid-life.com
-    quality: 54
-    images:
-      - url: "https://www.droid-life.com/wp-content/uploads/2024/02/Galaxy-AI-Devices-600x315-cropped.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Samsung Galaxy Book 4 AI-Accelerated Laptops Available Now Starting at $1,450"
     excerpt: "The new laptops and two-in-ones keep 2023's attractive designs but have boosted performance from Intel's Ultra chips and Microsoft's Copilot AI assistant. Managing Editor Josh Goldman is a laptop expert and has been writing about and reviewing them since ..."
     publishedDateTime: 2024-02-26T20:25:00Z

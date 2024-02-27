@@ -74,34 +74,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI-Powered Analytics Drives Real-Time Personalization"
-    excerpt: "Securing the right talent is pivotal to any AI initiative. Employing data scientists and AI specialists is a good start, but organizations should also look for ways to upskill current employees to work with AI systems. Ensure high levels of data quality."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=162694"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/151712-CRM_0323_feature_analytics-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Stitch Fix files patent for optimizing computer machine learning for personalized clothing recommendations"
-    excerpt: "According to GlobalData’s company profile on Stitch Fix, AI assisted CAD was a key innovation area identified from patents. Stitch Fix's grant share as of January 2024 was 49%. Grant share is based on the ratio of number of grants to total number of patents."
-    publishedDateTime: 2024-02-22T00:00:00Z
-    webUrl: "https://www.just-drinks.com/data-insights/stitch-fix-files-patent-for-optimizing-computer-machine-learning-for-personalized-clothing-recommendations/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 23
-    images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2021/04/report-mobile.png"
-        width: 388
-        height: 544
-        isCached: true
 
 secured: "5ufSwoeBpkhWxDLYVqHcgkBqd3zmHlxfulb2UO/+Ca6qEy+3xkGVl4XOwwjZCGSO9S8TIIJTMYTEI3fx/PG7IQfAIpGkM2EVDjBe11oKADaLu8qBNEdQJjoV2rZyHVEiwDPZIfEkA9mQz80KmzmVzKmNZ9MB/RUy5oqG23x7u5WXOYahD5EpbMALMG2m6oKxlIKXoC7a+ggvJ2GMksh4aCMLxQ1jGZX6Z7tLPlSxczVQDXFgdFKhTNG5+XK01LIdLKMBTxEzxW5/GfTxT3qkUi9fo2c8bpat067jCLQ3m7d4RMk6ZKOWLXT567DCjYFOCRudesKZgWlCjgrHBGmFkzRwyDbnPMTtRe+9RT6nLfs=;7OvtTRpaWJMVrKtpLEoBaw=="
 ---
