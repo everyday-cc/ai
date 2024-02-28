@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retract
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://img.dunyanews.tv/news/2024/February/02-26-24/news_big_images/794305_13019390.jpg"
         width: 752
         height: 423
+        isCached: true
+  - title: "Android users, Google Gemini AI magic will soon be at your fingertips"
+    excerpt: "Google has announced its intentions to integrate its advanced AI language models, dubbed Gemini, directly into Android smartphones starting in 2025."
+    publishedDateTime: 2024-02-28T05:31:00Z
+    webUrl: "https://www.digit.in/news/general/android-users-google-gemini-ai-magic-will-soon-be-at-your-fingertips.html"
+    ampWebUrl: "https://www.digit.in/news/general/android-users-google-gemini-ai-magic-will-soon-be-at-your-fingertips.html/amp/"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/android-users-google-gemini-ai-magic-will-soon-be-at-your-fingertips.html/amp/"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 59
+    images:
+      - url: "https://static.digit.in/Gemini-3.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Google Pauses Gemini Image Generation"
     excerpt: "Google paused its Gemini image generation capabilities after users complained of its inaccurate and offensive output."

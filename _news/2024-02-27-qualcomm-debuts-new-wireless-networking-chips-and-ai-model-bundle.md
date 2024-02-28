@@ -76,6 +76,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 38
+  - title: "WISeKey Announces at the Mobile World Congress Comprehensive AI Integration Across All Subsidiaries"
+    excerpt: "WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ: WKEY), a global leader in cybersecurity, digital identity, and Internet of Things (IoT) innovations, operating as a holding company,"
+    publishedDateTime: 2024-02-28T06:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wisekey-announces-at-the-mobile-world-congress-comprehensive-ai-integration-across-all-subsidiaries-1033110924"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "Geotab Brings Conversational AI to Connected Transportation Solutions at Mobile World Congress"
     excerpt: "CNW/ - Geotab Inc. (\"Geotab\"), a leading connected vehicle technology provider, will demonstrate its industry-first generative AI assistant for connected transportation, Geotab Ace, at Mobile World Congress."
     publishedDateTime: 2024-02-27T19:05:00Z

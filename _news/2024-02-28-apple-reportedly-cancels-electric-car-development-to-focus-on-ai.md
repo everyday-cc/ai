@@ -33,9 +33,9 @@ related:
         height: 549
         isCached: true
   - title: "Apple unplugs self-driving electric car project, reports say"
-    excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people."
-    publishedDateTime: 2024-02-28T01:04:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS"
+    excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which is involves around two thousand people."
+    publishedDateTime: 2024-02-28T04:42:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS&at_campaign=KARANGA"
     ampWebUrl: "https://www.bbc.co.uk/news/business-68420817.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68420817.amp"
     type: article
@@ -80,6 +80,20 @@ related:
       name: NextBigFuture
       domain: nextbigfuture.com
     quality: 4
+  - title: "Apple shelves major self-driving electric car project and lays of staff after multibillion dollar investment – report"
+    excerpt: "Apple is reportedly planning to shut shop on its long-announced multibillion-dollar autonomous electric car project. Bloomberg reported citing sources within the tech giant that many staff involved in developing the ambitious vehicle are now being moved to work on the company’s generative artificial intelligence projects."
+    publishedDateTime: 2024-02-28T04:13:00Z
+    webUrl: "https://www.aol.com/news/apple-shelves-major-self-driving-041325998.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 1
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/5090da368318224effa2a538aff509d0"
+        width: 1200
+        height: 836
+        isCached: true
 
 secured: "nFJjnv7MWQ6lu/5+pUvXk4xJ4mTn+Dnunt2zjxrmUZ5c2NNJ8yQoTE1n8nXzveO3Auq8CY0/qVHosGW5HLpGkP+00/DpIxpExCzxX6A2iJ28QlbqQn1UxRW7gKHeFsTjwVB4RCTIswNx1AoJ5uiAWudHbo4mU7otoIrGOuAgSBYNEf3l/HlbGEE2W47gYctto5rRWXWZvscfdl4IvS5m8t5Yux7doAd7k5I1k8prsoaGzuXcsnBQCgNrBD9cFh1B9vgh3innYVnX06tMd/q8uaxmFI+XNKbZoNYADqzLfAXxjv0FkQjcXILdDi9ZyxuOfsPnyiRU1Aw3ODxCQSgmMAHcFoF8UyKxyDiPnmi+pT5KTdSiFFQo8pn08Hgv7KRc+VSNQf51PZunyPa6uOJ/h5EX95GYb3PfPLGxmhpbr0ps0MvF+r20Lgd+RNhoB4BNVM5BO5YUET58GscWraQM166WqaC4DvLN7MxqzZfK2Cq1LCgY3yoJWs4vtqocPxhNLyVgyAAn5Z1az+/zDl2LGA==;ac/zGIS3dvWky/FWurGiTw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-
 webUrl: "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html"
 type: article
 quality: 54
-heat: 108
+heat: 120
 published: true
 
 provider:
@@ -30,9 +30,9 @@ images:
 
 related:
   - title: "Apple unplugs self-driving electric car project, reports say"
-    excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people."
-    publishedDateTime: 2024-02-28T01:04:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS"
+    excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which is involves around two thousand people."
+    publishedDateTime: 2024-02-28T04:42:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS&at_campaign=KARANGA"
     ampWebUrl: "https://www.bbc.co.uk/news/business-68420817.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68420817.amp"
     type: article
@@ -86,6 +86,20 @@ related:
       name: NextBigFuture
       domain: nextbigfuture.com
     quality: 4
+  - title: "Apple shelves major self-driving electric car project and lays of staff after multibillion dollar investment – report"
+    excerpt: "Apple is reportedly planning to shut shop on its long-announced multibillion-dollar autonomous electric car project. Bloomberg reported citing sources within the tech giant that many staff involved in developing the ambitious vehicle are now being moved to work on the company’s generative artificial intelligence projects."
+    publishedDateTime: 2024-02-28T04:13:00Z
+    webUrl: "https://www.aol.com/news/apple-shelves-major-self-driving-041325998.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 1
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/5090da368318224effa2a538aff509d0"
+        width: 1200
+        height: 836
+        isCached: true
 
 secured: "PtJi+Tj2Bp1rTxCKgqzvhh6vAHUZHdJOVBal7tkdv4euumNgiE3vSC6DY8n6jQkAgnv0h3JpOsxeHVGPI1ETaS0tcvESV62zEqKfhkDkujg+41yuIzC8uXcO0lhx7GUmt2HKNG/o3x8piBqvFvf7NzShrHVLpp4A0iiETWIWbK7erFdcPwIHt7D9TC0rmCULvy1+YUDiNPnBxv+FaIIbT7ykAp9ZYT4JNiFdtSBjUyigsRK6DZp0VPwrJLwvHLBkr2lslbdmz/61gvMRh9Cp13ZKYCR6L7QaK1q/gdwplE18UOF8It8Xggngjxou7iTXx+Nxr/59Tnaw0HQTIaqGc71VuEeArzu41s704dMRLsWKy8QYlMjkhh5d3rX/LApPjPtOeVE8RQZ8MgvHW320hLdUx/ys1XTcuhYGWbLMrIgBh0oCflNan6t4eFVVx6al5rIgekDGhqnORzJEays9qXxcCc0tUWbq4Bhuefe7TJ+ftMGxgfPAnzM0xYJ5RsjVP3zvpyyLEnuSSSiyOTQuTQ==;MZKgUYjl2fwBN2dLwmsm7Q=="
 ---

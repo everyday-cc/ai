@@ -75,6 +75,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Try Galaxy app from Samsung lets you experience Galaxy AI on any smartphone"
+    excerpt: "The Try Galaxy is a progressive web application that simulates Samsung OneUI 6.1 interface and provides users with tutorials and interactive features"
+    publishedDateTime: 2024-02-28T06:22:00Z
+    webUrl: "https://www.business-standard.com/technology/apps/try-galaxy-app-from-samsung-lets-you-experience-galaxy-ai-on-any-smartphone-124022800327_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/apps/try-galaxy-app-from-samsung-lets-you-experience-galaxy-ai-on-any-smartphone-124022800327_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/apps/try-galaxy-app-from-samsung-lets-you-experience-galaxy-ai-on-any-smartphone-124022800327_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
   - title: "Micron's 1.2TB/s HBM3E Production Kicks Into High Gear As AI Demand Skyrockets"
     excerpt: "HBM3E will be part of NVIDIA's H200 Tensor Core GPUs that are slated to ship in the second quarter of this year."
     publishedDateTime: 2024-02-26T14:14:00Z

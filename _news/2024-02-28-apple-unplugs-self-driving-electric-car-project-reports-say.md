@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Apple unplugs self-driving electric car project, reports say"
-excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people."
-publishedDateTime: 2024-02-28T01:04:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS"
-webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS"
+excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which is involves around two thousand people."
+publishedDateTime: 2024-02-28T04:42:00Z
+originalUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS&at_campaign=KARANGA"
 ampWebUrl: "https://www.bbc.co.uk/news/business-68420817.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68420817.amp"
 type: article
@@ -82,7 +82,21 @@ related:
       name: NextBigFuture
       domain: nextbigfuture.com
     quality: 4
+  - title: "Apple shelves major self-driving electric car project and lays of staff after multibillion dollar investment – report"
+    excerpt: "Apple is reportedly planning to shut shop on its long-announced multibillion-dollar autonomous electric car project. Bloomberg reported citing sources within the tech giant that many staff involved in developing the ambitious vehicle are now being moved to work on the company’s generative artificial intelligence projects."
+    publishedDateTime: 2024-02-28T04:13:00Z
+    webUrl: "https://www.aol.com/news/apple-shelves-major-self-driving-041325998.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 1
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/5090da368318224effa2a538aff509d0"
+        width: 1200
+        height: 836
+        isCached: true
 
-secured: "OFNrkph6gGZ6V6vUYQFbV64HiJh/MDQSVYPGCeYzI8b6XDJDnHO0toxuUbvZHqlwzdunFguClNaT8owb4Uz7Qf6JTy10+qBxF/Dc5zuyG0U+AEoyyAEdRde0inb5S1j+1OZ5B+w7XIBzX4ZwdOLxG3U6qkPDXjn7sQcI9iI9dOKVDiw3gfhLSliuyVd8hP7NKyT8CRH6Euux2KI2nGnW2WzcbljVNEBsWZLtKjcEL/g8fuW+6WsT/i8VOp83TWk2YTh79LSlu2VLGT6o1XamNcWh0WDlzcit5X6DInMwkpC2HqT+mziaKcWTrrcSnBM7UpPeyl0WIqzoUSMUKX5A6228+Ssth6UgQVp0jkiI65k=;8pn8YTJFMKAVgDAf9ycp4g=="
+secured: "2tUZ65+w9JCPJsHo5dKwOwycuOMEo/cR8icbwIR4VyFatRKc4DQ7HjwXkAPAHNQN5E4H2GFljdAZM5q8FhKyddwMyUhxS58JgaMBext6siB98m6CtUP3948RgYypTqFXeMtJwFPF7HzDthyRRS+Cv3Crbc7Pz2GFDaMVYRO9Pd0VvwEK+i3w4rUoCbVQY3E2BJBuVXBkW0HBxXTdoNIpMl0CEyPDpyjyUfGuCDkWOUwrU26jKOd7e/D5dMd7FwLybH5ldTZAAK9uxdY7yMepJyUzTPkOo1L+PKbqRUB0Jd8kYbfCxHFrkJfgC+t1rlyWL7P3sv+icqUYv5hFBSnadDw2OjPWjlt1tnKDIApuJF8=;yOSHn85NQHIpASg8nxPw8w=="
 ---
 

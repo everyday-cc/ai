@@ -223,20 +223,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AWS Storage VP leaves for Microsoft Azure"
-    excerpt: "Amazon Web Services Vice President of AWS Infrastructure Hardware Ahmed Shihab has left the company to go to cloud computing rival Microsoft Azure. Shihab was responsible for the innovation, building and operation of all of AWS’ storage and compute systems,"
-    publishedDateTime: 2024-02-23T05:15:00Z
-    webUrl: "https://www.crn.com.au/news/aws-storage-vp-leaves-for-microsoft-azure-605432"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 71
-    images:
-      - url: "https://i.nextmedia.com.au/News/media_124c2ecccde6f6fc4487d1334de898b149887fec2.png"
-        width: 500
-        height: 375
-        isCached: true
   - title: "Microsoft turns to NVIDIA’s competitor Intel to strike AI chip deal"
     excerpt: "Intel scores a big client in Microsoft Corp for Intel Foundry, its sustainable systems foundry business tailored for making AI chips."
     publishedDateTime: 2024-02-23T14:19:00Z
@@ -411,6 +397,20 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Cognizant and Microsoft deepen partnership with Azure-focused solution"
+    excerpt: "Information technology services company Cognizant Technology Solutions Corp. today announced a dedicated version of Cognizant Skygrade for Microsoft Azure customers that helps cus"
+    publishedDateTime: 2024-02-28T05:01:00Z
+    webUrl: "https://siliconangle.com/2024/02/28/cognizant-microsoft-deepen-partnership-azure-focused-solution/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/3985731615_60d24dfb82_c.jpg"
+        width: 800
+        height: 536
+        isCached: true
   - title: "Microsoft Partners with Startup Mistral AI to Advance Next-Gen LLMs"
     excerpt: "Microsoft has entered into a multi-year partnership with French AI startup Mistral AI to advance the development and deployment of next-gen LLMs. The collaboration marks a milestone on the road to bridging the gap between cutting-edge research and tangible,"
     publishedDateTime: 2024-02-27T21:37:00Z
@@ -424,6 +424,20 @@ related:
       - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2024/02/20240227aipartners.jpg"
         width: 644
         height: 368
+        isCached: true
+  - title: "Microsoft's AI Fights Phone Scams, Puts You in Control"
+    excerpt: "Cybercriminals trick you into sharing your sensitive data like bank details and credit card numbers to make unauthorised purchases or steal your money."
+    publishedDateTime: 2024-02-28T05:57:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsofts-ai-fights-phone-scams-puts-you-control-1723713"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 54
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1722534/microsoft.jpg"
+        width: 1280
+        height: 914
         isCached: true
   - title: "MWC: Long-lost Metaswitch team at Microsoft, taps AI for call fraud protection"
     excerpt: "Microsoft announced a product that stems from its investment in Metaswitch. The UAE operator e& (formerly known as Etisalat) is now using Microsoft&nbsp | Jason Zander, EVP of strategic missions and tech at Microsoft,"
@@ -530,6 +544,15 @@ related:
     provider:
       name: Anadolu Ajansi
       domain: aa.com.tr
+    quality: 34
+  - title: "Microsoft’s GitHub offers companies souped-up AI coding tool"
+    excerpt: "GitHub says Copilot Enterprise can answer questions based on a client’s code, a feature that could help new employees get up to speed."
+    publishedDateTime: 2024-02-28T03:40:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/microsofts-github-offers-companies-souped-up-ai-coding-tool/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 34
   - title: "Telefónica partners with Microsoft to incorporate generative AI into Kernel"
     excerpt: "Telefónica today announced its partnership with Microsoft to integrate Azure AI Studio into Kernel applying generative AI to key workflows"

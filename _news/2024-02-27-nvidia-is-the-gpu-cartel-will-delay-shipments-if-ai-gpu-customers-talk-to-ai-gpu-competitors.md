@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/96503/nvidia-is-the-gpu-cartel-will
 webUrl: "https://www.tweaktown.com/news/96503/nvidia-is-the-gpu-cartel-will-delay-shipments-if-ai-customers-talk-to-competitors/index.html"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 857
     isCached: true
 
-secured: "lyGOI5OvZBI6dyU/kHdic30Lu0gq2wV3qu8bg59EK+LOhKpV0jm1sMgoHrloFMljKgb/0UT1/51eB/AkIMG0TuDu9XMHnu6yDFyRo2pd6bKHBgUT2VEAwhJgccqymZWaKAo1z2tGZUQqU/iLhBH8rJhBtQB8V5B3k9/MlX7kkzuZLLL5NiVeBR4QLJjVwuiNyNpzfhsEPjksUpbOiInNqSj5+zcAvd9vOs7aJyXhWeWdX+O46M2cI1L1KOYIyzMSuO3jY9cvAKJQwOx+erSp5R8CM07LY8FYmqen/tmTDpgARwo5vJFJqvnAjmegSlmb44fXqi2tKY9TgczRwBDOf4okhBhZCmQi5BUv56g6vUU=;lw+AJsvRbavONP36exsFHA=="
+related:
+  - title: "NVIDIA AI GPU customers 'offloading' chips, selling hard-to-buy excess AI GPU hardware"
+    excerpt: "NVIDIA has greatly improved AI GPU shipments over the last few months, which were swelling out to 8-11 months and now down to a better 3-4 month waiting period. But some AI GPU customers are offloading their high-end AI chips... yeah, they're selling the ..."
+    publishedDateTime: 2024-02-27T15:07:00Z
+    webUrl: "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 61
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96505_6003_nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware_full.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "qeZURIclHg6v752fc7KznHo+JeBQ0HZ9n2dPUsI/3spexI2etHvgh7Kh6oGmHgp+GpKRnbhYKynXHdZLetQtxIBqm/upZtpqyEkzI/zwFE/vUoQDlZxjsfWEeY8brC6Kp/fJ5TNgtifIovHwz4fswoHZU5l6aGPs1AGLVoFWYwj5b1WFWPs356ApcGGfqAlMKGWEWxBWS2MSJXF/5p20VXLSwibK7d4V8AAyVZElhGP6TCWE4YVjfAoHOoIbCo2FoEp6Z0MDtWJXT776OZHolyNXRReSthIpkawKzxbkus2W0/1IAlZDquiCA8hdwRQFB87qvfUoIqVst5CbTL9v4eOqY5GZ2CrfLxOxE/mPovNZgOQtU0pwbIDevk2DWzL2sREhYavo1ZPm6RPWpEXFs0G1R4ziyC+FjmBH+wOksi1lBkcnhQ5iXHY98zG2J1M4VHe3FsbP2zTMBKHMin9Wy6BWFG9eSlJ5areCRPkGauMzXoBNtr+Vq0cOZvv0zXj+OTKv4hMwhdDbLvU9nepvyQ==;6OLuox4ILSQ4sXHlr+XtwA=="
 ---
 

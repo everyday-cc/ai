@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "How Generative AI Will Enhance The Supply Chain"
-    excerpt: "AI, in general, has been making waves in supply chain functions for a while now – particularly when it comes to demand planning and optimizing delivery."
-    publishedDateTime: 2024-02-23T05:07:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/23/how-generative-ai-will-enhance-the-supply-chain/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/23/how-generative-ai-will-enhance-the-supply-chain/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/23/how-generative-ai-will-enhance-the-supply-chain/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d835e4285f2d23c7fd9d0b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "ChatGPT in medical education: Generative AI and the future of artificial intelligence in health care"
     excerpt: "The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about the future of AI in medicine and medical education."
     publishedDateTime: 2024-02-23T14:00:00Z

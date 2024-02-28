@@ -1,0 +1,23 @@
+---
+category: news
+title: "Finance Minister Nirmala Sitharaman meets with fintech firms to discuss concerns"
+excerpt: "India's Minister of Finance Nirmala Sitharaman held a meeting with startup and fintech firms on February 26 to discuss their concerns."
+publishedDateTime: 2024-02-28T05:27:00Z
+originalUrl: "https://www.medianama.com/2024/02/223-finance-minister-nirmala-sitharaman-meets-fintech-firms-discuss-concerns/"
+webUrl: "https://www.medianama.com/2024/02/223-finance-minister-nirmala-sitharaman-meets-fintech-firms-discuss-concerns/"
+type: article
+quality: 14
+heat: 14
+published: false
+
+provider:
+  name: MediaNama
+  domain: medianama.com
+
+topics:
+  - AI in Finance
+  - AI
+
+secured: "LVnvHY5wYJkHjm2T6i14gdJsqLSPPA5KE4F0Z2UYPvm5/U96os8bO/e80aVbWEAoc5Q0NCy/tQulnBX6/DJ7r9E3TLJaKUFrkJeGrqyrSajw0NDpv1HDsLliwY/wQ1IqO5JCv0ZWBS5mZD3ru9aRDE2ohN0VNnPd5vjZpCWNXrFfS/uyddtPCYaYjCIvj90YTV2HNHUxyYg2DuJqiEsUKxvyS/NbfxVupSWzCwZ6m9oNpCQK620c3fA1WSMOTVqTKIIzfVuQ/Z1UKh/OcD3ewu2gDG/xPnfJvfxlGlJJh2GlmjjPYC8wjnzzOlN3rCv8WA3BIfYm1X5zGvndpZjtOUXk7cDWqMz1F08cPw/wQh5Wqu6bFh0XpMTwwcEOt3iDiaGwNQbJvCbPcs0VGLjTxtBtTzyg3drLAx0R7UWteFp+x4ZjoUw7W3e0w1R7yeEArNYgxXoOItY5nD5zyMNH7K3pacDR0Mz5V3lbqddVy2ngaCOsS3/FmSWEmCqqHjH/iNn4K9Bm139VPoRqjULkTQ==;wFgNVrQkQBEThSQTkXfQKg=="
+---
+

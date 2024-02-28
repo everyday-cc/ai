@@ -7,7 +7,7 @@ originalUrl: "https://www.phillyvoice.com/navy-yard-self-driving-shuttle-south-p
 webUrl: "https://www.phillyvoice.com/navy-yard-self-driving-shuttle-south-philly-autonomous-vehicle/"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -19,29 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Apple Cancels Self-Driving EV Project, To Lay Off Workers: Report"
-    excerpt: "The tech giant also scaled back its vision for the self-driving electric vehicle. Initially, the iPhone maker intended to create an automobile with no steering wheel or pedals, allowing passengers to sit facing one another in a limousine-style vehicle."
-    publishedDateTime: 2024-02-27T22:15:00Z
-    webUrl: "https://menafn.com/1107908833/Apple-Cancels-Self-Driving-EV-Project-To-Lay-Off-Workers-Report"
+  - title: "Self-driving, zero-emission van to shuttle people around Philadelphia Navy Yard"
+    excerpt: "The zero-emissions van has been undergoing testing for the past year. The nine-seat, electric-powered van will run from 10 a.m. until 2 p.m. on weekdays."
+    publishedDateTime: 2024-02-27T12:53:00Z
+    webUrl: "https://6abc.com/navy-yard-self-driving-van-driverless-bus-zero-emissions-vehicles-philly-transit/14472492/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?643955"
-        width: 314
-        height: 250
-        isCached: true
-  - title: "Robots and happy workers: Productivity surge helps explain US economy's surprising resilience"
-    excerpt: "Artificial intelligence, they note, is only beginning to penetrate ... Some workers supplanted by robots do often struggle to find new work and end up settling for lower pay. Yet history suggests that in the long run, technological improvements actually ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://journalstar.com/news/nation-world/business/economy/us-happy-workers-robots-productivity-economic-resilience-growth/article_b6087364-a49c-5772-8ad5-81244af17a89.html"
-    type: article
-    provider:
-      name: Lincoln Journal Star
-      domain: journalstar.com
-    quality: 23
+      name: 6abc News
+      domain: 6abc.com
+    quality: 0
 
 secured: "VtIRUB3z0v6AeJl61v+WTDEv0+btKnySO+76jHzAXV07SvnW77L9Fb3VddoamwZCcXxw2UkZVdKuMnQDkFsZxWadLlBKEz/HlUMqBQVtEVcVXX+oqBErL4Uccq0Ln7dxqJdcXllxli0CT7Mfi+1OCXBvvn2mE5gCh8YIklWY4p6PCxX3p3aLq5bMZLqKpF0zqr3q6mqM5MfGAzJTvnDGM2aPNtM0od9eqmI6Bes6TIO0xHPZqMKHDo8ayPd8B4srMBiHydU/dR2NIeXb5Y90U5QeoygV2A1EHhhoNVD9XsjON3FUqEVjPs1a6AF7gtpCpxgUfA8V/rdxqP0I9JnipkHQQyvnXHifgR1WTdTdJy09Iao609KnrUGRloKcz9SOqfBdSXx5tLbI+ZIpf9tPExw1n/OIDGz/8QpMILx+6i/8iFd6dVTzntYkF4GSWqEVfTGWwqU+m5foYXBkMI8AaorbBZqVnbN4JYbw6znLwgL7Ez9FLBC4Qln8+6J3r5JLK6ftPeDx7XHUBo9EhvKWmg==;ZGuzhnGdFdsW1GfWNQ/U6A=="
 ---

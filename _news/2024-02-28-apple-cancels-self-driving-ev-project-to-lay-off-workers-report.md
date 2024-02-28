@@ -1,49 +1,57 @@
 ---
 category: news
-title: "Apple Cancels Self-Driving EV Project, To Lay Off Workers: Report"
+title: "Apple cancels self-driving EV project, to lay off workers: Report"
 excerpt: "The tech giant also scaled back its vision for the self-driving electric vehicle. Initially, the iPhone maker intended to create an automobile with no steering wheel or pedals, allowing passengers to sit facing one another in a limousine-style vehicle."
-publishedDateTime: 2024-02-27T22:15:00Z
-originalUrl: "https://menafn.com/1107908833/Apple-Cancels-Self-Driving-EV-Project-To-Lay-Off-Workers-Report"
-webUrl: "https://menafn.com/1107908833/Apple-Cancels-Self-Driving-EV-Project-To-Lay-Off-Workers-Report"
+publishedDateTime: 2024-02-28T00:00:00Z
+originalUrl: "https://glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report"
+webUrl: "https://glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report"
+ampWebUrl: "https://glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report?amp=1"
+cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report?amp=1"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?643955"
-    width: 314
-    height: 250
-    isCached: true
-
 related:
-  - title: "Robots and happy workers: Productivity surge helps explain US economy's surprising resilience"
-    excerpt: "Artificial intelligence, they note, is only beginning to penetrate ... Some workers supplanted by robots do often struggle to find new work and end up settling for lower pay. Yet history suggests that in the long run, technological improvements actually ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://journalstar.com/news/nation-world/business/economy/us-happy-workers-robots-productivity-economic-resilience-growth/article_b6087364-a49c-5772-8ad5-81244af17a89.html"
+  - title: "Report: Apple Abandons Self-Driving Electric Vehicle Initiative, Plans Workforce Reductions"
+    excerpt: "Apple has reportedly terminated its self-driving electric car project permanently, leading to impending layoffs of 'hundreds of employees' within the division. The decision marks a significant shift for the tech giant,"
+    publishedDateTime: 2024-02-28T05:05:00Z
+    webUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/articleshow/108061356.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
     type: article
     provider:
-      name: Lincoln Journal Star
-      domain: journalstar.com
-    quality: 23
-  - title: "The Navy Yard's self-driving shuttle is ready to begin transporting riders"
-    excerpt: "The first self-driving shuttle service in Pennsylvania will begin operating Tuesday at the Navy Yard, offering a four-stop loop for visitors and workers at the South Philly business hub. The nine-seat, electric-powered van has been tested for more than a ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.phillyvoice.com/navy-yard-self-driving-shuttle-south-philly-autonomous-vehicle/"
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108061317,width-1280,height-720,resizemode-4/108061317.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Apple Cancels its Plan to Build Self-Driving Cars, Reports Say"
+    excerpt: "Apple has reportedly canceled all its plans to build and launch self-driving electric vehicles (EVs) exactly after a decade it was rumored to be working on the project. However, the company never publicly acknowledged the project that involved around 2k people."
+    publishedDateTime: 2024-02-28T06:15:00Z
+    webUrl: "https://www.opprairie.com/news/apple-cancels-its-plan-to-build-self-driving-cars-reports-say/108814/"
     type: article
     provider:
-      name: phillyvoice.com
-      domain: phillyvoice.com
-    quality: 2
+      name: The Orland Park Prairie
+      domain: opprairie.com
+    quality: 24
+    images:
+      - url: "https://www.opprairie.com/wp-content/uploads/2024/02/Apple-Car.png"
+        width: 748
+        height: 366
+        isCached: true
 
-secured: "eLq1Q+p2cXFky713sk7z7abML/h7lwrpNTclZA1p0FSXg+N/tgZAyYjTVSevH4T9+J/39pkx84qCyZgktY3GsE7OWUsG37SDOhtnGHrgDBljQyId8yCB4AMgLDXRRUzq+mJQ3wh+mlrAwwlThcAqC+aGvHd2tDUsle8tzX0EbB+j1rVKLU0qD/4ru7F5Eynb9BBuGef/smGzY3zd5AJe1BFbF/YPHekZMWw1Nhs59JxN+5V4+BeqVnYLiHCIZWG09zktDNFOjFm26e1sNRX3jiaVbH3DepACTTEn/CvcyUv5CdCNuDjWMHHKCK6XKIk+dG1YDZBRjoj2cw9FRxIV/UGBJNGUkc30Kx1it6tZ0fY=;31yD8Ltyt9k6TaMGXUeTxw=="
+secured: "B8EMWvCxM6+h0WPwd/FZ4D1aRRN6i1CS6xeHGz3fA++03GmruXVvWO28CxOrR1aMf3roRKs+PfstnjWtJXx6pUty/bU6w/xN1YUXwu8Z0v+r2Myj79NHblflDfMcBt5jLElv/NjrcdQoYBPKF4IgRunTGVWHVk/8+6NFAPvlz0pcMF21FPtj2N240G/t1LEweV2UNYafWPEkZ4KlM1RSui0iAAJdhTacANDQFD7TuaFL3e7KFvCOyjuMvji4/caZmbzmrWfthYD+QMBb2S/VKEpeGaITJ2FzJvHc+26rFwr6BxP/GQVD7tk/6L6IJ0+yWe8TksmQP5y5Wj7pTzLCWN0J+7WqaOQhtNelq+0sCZw3BmM6dC9yC3C0SHjf+2mZkFzsiA1xdN0DxSfjc0QOeZGlHhcu4xWX2Gfl22aSDTLFAiz9j/oV1VDnV1DN/sFh5tjfsVcpJJM1hFmo92c0MLB2Kf3Nmlq5nSxRObiUSDLYHOHCXg8Rsy3LfUUNWuHCSIV4UxCzgGCz0BYOpKPfOQ==;n7wDju1+y11gCDmRkpMXbw=="
 ---
 

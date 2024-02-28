@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI comes to the world of beauty as eyelash robot uses artificial intelligence to place fake lashes"
-excerpt: "Artificial intelligence is making its way into esthetics ... told Fox News Digital in an interview that the company is using robotics and AI to \"completely transform the experience of eyelash ..."
+excerpt: "and then combines it with artificial intelligence technology, according to Harding. \"And then we use the machine … to create a lot of data, tons and tons of images, and then we can use those ..."
 publishedDateTime: 2024-02-20T10:54:00Z
-originalUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
-webUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
-ampWebUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
+originalUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes"
+webUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes"
+ampWebUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes"
 type: article
 
 provider:
@@ -18,15 +18,16 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Robotics-close-up-2.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "A6wMSpjmSOZh7acLef+Kus6xq8W8GM+31LbtVru5sm1FMSHHfey3QoWCBZKHQAY+EC1lGIRSTJ2kibo2gTVTZ/fRbuji1/D2vv4CXrQ1baDQCwKpB7EyVnpHZlw0t9uu1Z4SnEVhO3nYyYOqusYcNDHD72TJprnhpt9IZf6YDasjKFgfMtU2TQaUnnxpdyOVXMfGEYEWDq3hk0V/CiZZU3pNPj4l6/IG7QwbkTmwwlgdLPpPKiFSSWfZAX5SNgePvydqYERP2jUn7BpPl/NU/QTMZqfAWgzE4ua/nRIJjjb2+biT5X4IQdHUepM6IE10nAHcgpqN0J9yjSWCWQmGMaiww9GwrINjJ7F7eZdevRw=;4LHVbfwbya4HOoYDGnmy2Q=="
+secured: "AZlHTXVheZQO5mb2D29YmRMB6TMhCOm6i0WkuoTirsafHfrYRg7eJwWuWxydjgqbFmx+Z2+2O+SXk+N5dAjgsZltWMz3FrRobOZqq0FIGX2hxSucgrHjU8pcPi7XV6IEeTirgt1/Tar5cdn/k/TRFyNcDFk9vbR43O3+gh6zqC6EMwF9C0yy2H/6ykjhB1Q7psQsuWEmueBLlv5TTy+gpp+ur71vlaO929bHcmGtqpIxjuHZQ7efuqO9ilDZpY/iNp7KzK2n73gDN0o0PamvVPhbxeCtEPORSUeLmMVnu1nV+KONcjkO9fUrS5Br2qRBSt4MxH/1nK8j5twI3RnxlN88O31VwK/CbcHkiQbe7Qs=;HXKaJTdmhEPygkjbDO4xFA=="
 ---
 
