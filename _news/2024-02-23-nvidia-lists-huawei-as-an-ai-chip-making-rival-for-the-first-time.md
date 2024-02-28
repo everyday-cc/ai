@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-c
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3"
 type: article
 quality: 104
-heat: 384
+heat: 364
 published: true
 
 provider:
@@ -285,20 +285,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Nvidia's earnings soar as AI hits the mainstream"
-    excerpt: "The surge in Nvidia’s earnings has made the chip-making company the third-most valuable US-listed company in the stock market, following Microsoft and Apple, having stepped over Amazon and Alphabet to do so. The results run in favor of AI technologies ..."
-    publishedDateTime: 2024-02-23T10:32:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43749/nvidias-earnings-soar-as-ai-hits-the-mainstream"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fotolia_32602248_subscription_l(1)_1.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Nvidia and AI fuel market frenzy"
     excerpt: "Nvidia, which two years ago made most of its money from selling graphics cards for computer games, has now become the world’s third largest company by market value."
     publishedDateTime: 2024-02-24T05:56:00Z
@@ -366,15 +352,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 38
-  - title: "Nvidia surges on AI boom, rally on Wall Street"
-    excerpt: "Nvidia’s stock price surged Thursday after delivering another blowout quarter, setting off a rally in other technology companies that carried Wall Street to another record high."
-    publishedDateTime: 2024-02-23T11:00:00Z
-    webUrl: "https://www.avpress.com/business/nvidia-surges-on-ai-boom-rally-on-wall-street/article_d5e04c3c-d1ef-11ee-ac29-e3591cce011b.html"
-    type: article
-    provider:
-      name: Antelope Valley Press
-      domain: avpress.com
-    quality: 19
   - title: "Nokia and Nvidia partner for AI mobile networks"
     excerpt: "Telco OEM Nokia plans to develop AI-ready radio access network (RAN) solutions in partnership with GPU darling Nvidia. As part of Nokia's anyRAN effort, the companies will develop cloud-network technology and explore how AI can revolutionize the industry."
     publishedDateTime: 2024-02-24T20:07:00Z

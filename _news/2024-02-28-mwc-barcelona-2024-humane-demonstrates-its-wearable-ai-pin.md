@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
 webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "What to expect from MWC 2024: Transparent laptops, AI phones, smart rings, more"
-    excerpt: "Some of the best mobile technology companies will converge at the Fira de Barcelona next week for MWC 2024. Here's what to watch for."
-    publishedDateTime: 2024-02-23T10:43:00Z
-    webUrl: "https://www.zdnet.com/article/what-to-expect-from-mwc-2024-transparent-laptops-ai-phones-smart-rings-more/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 43
 
 secured: "Gz2DGcQwC3M5LLhF/G5rCGs5jfqvJtxbE9cvAMzCiexdA+sYbL9WuIvCqKJ4hDgFPpNR3rCNQhsGOuz2fCUYCWb/VsZpJ6357B+S/WaJZita4wRq24yhmzK1Z/ZpKKyxLCPo8Wy3uKU4PsTh5TJ9fhLp+2nK701lx+Dir45cR5mjUB/fP/o8r7RqsY39xGs/8EwGDGzBzj+GI7mXjBPRu5DG8TrXwoH0UbBuMqAsGmPmz6ERYTmfP45Mlsb5AJ9fK/Os47JHQ6iCVJORhB2RyhMpdeidU7N3GBx7sFOK7NqILMxjKG5cNMmwv+ndosHlCJBDmtP7UBgbmKyCq1rXg97Aot4bs0BrJkRXshbSMF+U8PagYGAqlzHQeT/RaXCgJUYzUwgpENYqbnn2xljK4vd2MjQJlMLyiZMOuypZxHdhND1CNzpw0fk2/i2HDj6lvyViVsYnaBeNTx6K300QjR3RexlmDAcdz+EW/C2L4u+M0tyEs3oM1u2d1LuDGzAc67eNsL5XM9R3qjGnJFinAQ==;eYo1+BFC7956NY9PQRWryA=="
 ---

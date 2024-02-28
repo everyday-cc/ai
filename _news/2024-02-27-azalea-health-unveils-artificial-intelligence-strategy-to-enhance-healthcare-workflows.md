@@ -56,6 +56,15 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 34
+  - title: "Where AI shines in healthcare"
+    excerpt: "Several major health systems have added AI-assisted colonoscopy devices, such as Iterative Health's Skout and Medtronic's GI Genius, in the last two years. Computer-assisted colonoscopy methods could lead to a 55% decrease in the miss rate of adenomas."
+    publishedDateTime: 2024-02-27T20:38:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/where-ai-shines-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 34
   - title: "QubeHealth Plans Up To $9 Mn Raise For Launching Healthcare In App Marketplace, AI Integration"
     excerpt: "Healthcare-focused fintech startup QubeHealth is looking to raise between $6-$9 Mn as a part of its Series A funding round."
     publishedDateTime: 2024-02-26T13:48:00Z
@@ -65,20 +74,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 24
-  - title: "As artificial intelligence aims to transform health care, soon your doctor may consult an AI algorithm before deciding on your treatment"
-    excerpt: "Sahani is a co-founder of UW’s Institute of Medical Data Science, which supports health care-related artificial intelligence initiatives. Founded last year in Seattle, the institute hopes to provide research, education and funding to get AI into ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.spokesman.com/stories/2024/feb/27/as-artifical-intelligence-aims-to-transform-health/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 23
-    images:
-      - url: "https://thumb.spokesman.com/iDlseXsKdK6KgwNP9qd1w-w7lTM=/1200x630/smart/media.spokesman.com/photos/2024/02/26/63d303450c829.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ALjrdf2xIZzKSsiKewTyqZQTdBuRsWyyXpHgA4MsQR11l8bE2RWTrKImN0ggdZgIP/lwai+RKWM0/9eVVPXltI+71U5bSRJyIfK8leyQ/cncv5GueY88Je8tiVUT0Qi44GAp/FbUTh6BDhgKsKudOOHpPqgqVvcRzOzY/TJhQ2L1KKCMR4MdKKq//kwf848+Pb9gFa+pkhopXicXFgCse1yMGHmuxpZQfUKed5bD4oePN/hHjZ5fmArfWRAopX/wj1I+iskKf+Kh2GZpnqk6tCWKsuyDa0J1gSA9wUMeLx4qioxG1E778hj/D/4cb1DtUnveIoQQYtZ9KoF36ZrGQoVQVYQChfODDhS+yFkwrhI=;8UbXNx8pmCsDY3XYEPgMnQ=="
 ---

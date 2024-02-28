@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/razorpay-unveils-payment-gat
 webUrl: "https://ibsintelligence.com/ibsi-news/razorpay-unveils-payment-gateway-3-0-dqr-and-introduces-ai-assistant-ray/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 600
     height: 500
     isCached: true
-
-related:
-  - title: "Gateway 3.0 to AI 'RAY': Razorpay launches a suite of fintech products"
-    excerpt: "The Bengaluru-based fintech firm marked its foray into the marketing and growth solutions space as it launched Engage; a full-stack marketing growth suite"
-    publishedDateTime: 2024-02-23T14:17:00Z
-    webUrl: "https://www.business-standard.com/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
 
 secured: "3Ih1sPm8bpRaR3UJWmjpzqJbLSxtoQKc0TUcoYfXNn9mdZL3hasgf3Kk2V2Q0oE1myCc1yrpRP7lBm6MrwnV7hUygRN83aUx/Xsc8ED/+h/pQersTRHOUZ0Aah5DiFNtjupPJs4juedM97sG+g7U6tHK8CQ5/7d6URMLm+P92tlCuijXaCN5x1yB6orbbnuEYCb3IoXkmZ+4BP07TfGMpV52vkisSE4SmaQsdBNygD+ZEWvDCS3+6E8BDsm7LqOQunBbWsik0LP+63k1JhfYjoHR7HXVdDHrDHiBSicM4vZHTlrzYhvdAQVBbgHeDWF2W8dSbPGiL86RpVlegQZBmQ/euIn0D9j+/9Mqqsi/LX5+y4lcJ0raT2ExVZhj0LCjo7TYrXKN16l5lg2pLfODOa1EzHjHW6zMP5TmwLep78qEOL+sXSUo3f0Y74Ghwp0yGWdWgoneyFzIli/wz7XX5UE9xZMvjkZKeBItKTSCS9U2xQYfswH4CMAt4bVyzG/3BkIXNodQQJLz9wG3QHc8sw==;s9XKvncUB5rtMbow0clOQQ=="
 ---

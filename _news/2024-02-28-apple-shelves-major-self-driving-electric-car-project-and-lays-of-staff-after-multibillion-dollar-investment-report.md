@@ -39,6 +39,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Apple pull the plug on self-driving electric car project"
+    excerpt: "Apple has reportedly decided to cancel its plans to develop electric vehicles (EVs), a project that has been in the works for around a decade."
+    publishedDateTime: 2024-02-28T09:35:00Z
+    webUrl: "https://bmmagazine.co.uk/news/apple-pull-the-plug-on-self-driving-electric-car-project/"
+    ampWebUrl: "https://bmmagazine.co.uk/news/apple-pull-the-plug-on-self-driving-electric-car-project/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/apple-pull-the-plug-on-self-driving-electric-car-project/?amp"
+    type: article
+    provider:
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 44
+    images:
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2024/02/shutterstock_231155773-scaled.jpg"
+        width: 850
+        height: 567
+        isCached: true
   - title: "Apple unplugs self-driving electric car project, reports say"
     excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which is involves around two thousand people."
     publishedDateTime: 2024-02-28T04:42:00Z
@@ -97,6 +113,6 @@ related:
       domain: nextbigfuture.com
     quality: 4
 
-secured: "Gfuhj3enSlMd4gMk+MY82XLoTGHTqwEQRKWCp2PTVpc7MfMjGvIlb59yy0Pm/mug/mGrfKiDIReGPUh3TNhDJ9uDFf3aHef+NMmrQ4Aj7mgxhGv+2gFEtN3cdNYHMjfuJtVGPaIe1Ph2l0UQ7Awm5f0V1wpt6RK64+n4g7Avde9v4CcwyhSKeqr5Yu3pfy2oJ6HKSZU13d+y566rObzNvSHRrhf6hwsS9/KfuMywiSEyfWkBAe9iSvxAMLhfy1JhsjtJvLSsp2pPXCyBoXnH9kdmMeUkjtU/qQBl2nEwp79FEMSDVAizMhLNihPy1pBtySlDsahDHPukaTFbMWixS0Mr6IDm7YYvFrCWDTwv6hQ=;4gF8YaKhtopaFgiYb0n2OA=="
+secured: "PXTK5+d/UNi0qq5I9/Tl8jnvQ6Z1hSwYtYDPOIZKefQXZMuzWvJGMVZh/b+0SgiBgQKfuQLX514A231mFcTfFkhe9FTw8K/PzYUTJt1IsPMCAJj+amxcnt3e1m+A5cxsjuhIWvSe2fl1WvYbd0FNM5L6ZhqJiGXOGgfdg1Jlq+QuxVoMRXGmjPE017HovtU5SCyP8CaQTq8mu3WtrFirQzytzFsuaLLaUboSBtaFL9YLRtUPvWGlLO8fgy1CdNg2N1sraeKAzPAQG5yqytenBJp4XV6GdA9gYW7ehXLrq7fe/GHJ+mwAsz6IncRbD4sXwJGyJTbuxTliTFB2OXdAlmUmIMLFh7NKBknOuLCH64NNQmrWhv4pdxTvCjbm2PmoRtIdsrjU7EvLtkeIyakEXXRV0RCeG6HxwjcQ8r0F5lL0Bm8sHG/WZC4ZdEGJalRyYdBjWrZ2p340mwHoLMkeHl7dV4LGEO19XtB8Nyc7j9XInxnQ8mBEfdjD086ik5qDuZRAWMtLhP67DIGpLhEkNw==;4rdY4bJNbdMMJOf0N9p/eA=="
 ---
 

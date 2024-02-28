@@ -57,6 +57,15 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 34
+  - title: "Where AI shines in healthcare"
+    excerpt: "Several major health systems have added AI-assisted colonoscopy devices, such as Iterative Health's Skout and Medtronic's GI Genius, in the last two years. Computer-assisted colonoscopy methods could lead to a 55% decrease in the miss rate of adenomas."
+    publishedDateTime: 2024-02-27T20:38:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/where-ai-shines-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 34
   - title: "Azalea Health Unveils Artificial Intelligence Strategy to Enhance Healthcare Workflows"
     excerpt: "Azalea Health, a leading provider of fully-integrated cloud-based healthcare IT solutions and services, today announced its revolutionary approach to artificial intelligence (AI) designed to enhance the efficiency,"
     publishedDateTime: 2024-02-27T12:59:00Z
@@ -66,20 +75,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 26
-  - title: "As artificial intelligence aims to transform health care, soon your doctor may consult an AI algorithm before deciding on your treatment"
-    excerpt: "Sahani is a co-founder of UW’s Institute of Medical Data Science, which supports health care-related artificial intelligence initiatives. Founded last year in Seattle, the institute hopes to provide research, education and funding to get AI into ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.spokesman.com/stories/2024/feb/27/as-artifical-intelligence-aims-to-transform-health/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 23
-    images:
-      - url: "https://thumb.spokesman.com/iDlseXsKdK6KgwNP9qd1w-w7lTM=/1200x630/smart/media.spokesman.com/photos/2024/02/26/63d303450c829.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "jwDLsOHMxYwx5ZTXF9mmaD9wr2Y8c1wHwzUSGGNzBEgmUgPFv5ZLOoaTgfwJROLAs/X/OVcqMXzPo0RxRwlxch6jaTYtFrI0hU6yIHglPF9J+P6d5jDxBo21mywfvCb0NKxfN1lUK/9T9sD5AjHQypXGU+K/01r99S7jJ+UvzHC5/ZRVV0kSFqrYR1Y8RxBw07prFiS1Q9/aTUYqQ0MKNunTW8Wtggvl3ergfqza5O8SsREimL/wCcKIBp8KMZxbdVkCDKKySQXqsBjcEyCCpQhjdLlT9plsqa8/IkzvcWJXmKSdp7E6hHsUSAsldS+YpvftpJJRuQt1nZvIFt5msM/xF1CozQ69iXZSFzmTaklTMB3Q229hHhYFZ4Ki0pUUpkeYvp6j/TJYL2QGs4KS8fqmR2GDtcVrVSaLqJ9DM4sZEnJXlZudAgaU8Ka0g37hYR/KDsdJogXiUBlH0xHcGAkHymbO5MH24W94Zx0zRxwIm6memuachX9ADeI66bG5vRJMov5UhDEPZ3pDDnxbaw==;Akk7lVaPDKR2y8uVtdiYZQ=="
 ---

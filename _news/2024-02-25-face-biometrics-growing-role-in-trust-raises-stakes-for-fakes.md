@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202402/face-biometrics-growing-rol
 webUrl: "https://www.biometricupdate.com/202402/face-biometrics-growing-role-in-trust-raises-stakes-for-fakes"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Growing number of US airports use biometric facial recognition"
+    excerpt: "Spokeo looked at which airports are using facial recognition software for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-02-28T09:19:00Z
+    webUrl: "https://kvia.com/entertainment/stacker-travel/2024/02/28/growing-number-of-us-airports-use-biometric-facial-recognition/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 54
+    images:
+      - url: "https://kvia.b-cdn.net/2024/02/FacialRL1BR_0.png"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "Growing number of US airports use biometric facial recognition"
     excerpt: "Spokeo looked at which airports are using facial recognition software for security screenings, according to Customs and Border Protection."
     publishedDateTime: 2024-02-27T14:13:00Z

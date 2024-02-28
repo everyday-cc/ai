@@ -26,61 +26,81 @@ images:
     isCached: true
 
 related:
-  - title: "Why healthcare lags on AI, per Amazon"
-    excerpt: "Healthcare lags behind other industries in its adoption of artificial intelligence, largely because it lacks training capacity, according to a study commissioned by Amazon Web Services. Here are seven other things to know from the survey of 412 healthcare ..."
-    publishedDateTime: 2024-02-26T21:09:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-lags-on-ai-per-amazon.html"
+  - title: "AI in action transforming announcement strategies in financial trading"
+    excerpt: "After financial announcements, AI plays a critical role in post-announcement analysis by aiding traders in deciphering the market's reaction. This analysis helps in refining strategies for future events, as AI models evaluate the effectiveness of previous approaches and suggest adjustments."
+    publishedDateTime: 2024-02-23T11:16:00Z
+    webUrl: "https://www.fxstreet.com/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115"
+    ampWebUrl: "https://www.fxstreet.com/amp/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 59
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://editorial.fxstreet.com/images/Macroeconomics/EconomicIndicator/EconomicHealth/GDP/Growth/man-drawing-a-growing-graph-gm493075642-76712039_Small.jpg"
+        width: 320
+        height: 232
         isCached: true
-  - title: "A Snapshot of Artificial Intelligence in Health Care"
-    excerpt: "Artificial intelligence (AI) has an important role in the future of health care. With its potential to parse through vast amounts of data, glean critical insights, build predictive models ..."
-    publishedDateTime: 2024-02-23T16:13:00Z
-    webUrl: "https://www.statnews.com/a-snapshot-of-artificial-intelligence-in-health-care/"
+  - title: "Fobi AI Announces Completion of First Tranche Of Non-Brokered Private Placement"
+    excerpt: "Not for distribution to United States newswire services or for dissemination in the United States.VANCOUVER, BC, Feb. 23, 2024 (GLOBE NEWSWIRE)"
+    publishedDateTime: 2024-02-23T23:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fobi-ai-announces-completion-of-first-tranche-of-non-brokered-private-placement-1033099069"
     type: article
     provider:
-      name: STAT
-      domain: statnews.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "HP’s AI-enhanced PCs set to transform user experiences"
+    excerpt: "Moreover, the transformation of audio and video content, including streaming, stands out as AI enhances editing capabilities, language translation, and overall engagement. Leading the charge in this technological revolution is HP, a company known for its ..."
+    publishedDateTime: 2024-02-26T09:44:00Z
+    webUrl: "https://timesofindia.indiatimes.com/spotlight/hps-ai-enhanced-pcs-set-to-transform-user-experiences/articleshow/108008262.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 39
     images:
-      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Meta-Image-Premier-Pulse-Check-Report-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://static.toiimg.com/thumb/msid-108009175,width-1070,height-580,imgsize-30496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
-  - title: "What the healthcare AI sector wants from Congress"
-    excerpt: "Healthcare interests clamoring for congressional action on artificial intelligence would also like lawmakers to remember the Hippocratic oath: First, do no harm. Second, they would like a little protection. Opinions about precisely which needs legislating ..."
-    publishedDateTime: 2024-02-27T08:00:00Z
-    webUrl: "https://www.modernhealthcare.com/politics-policy/healthcare-ai-congress-legislation-regulation"
+  - title: "Unveiling the hidden truths: A deep analysis of Nvidia's financial performance and investment potential"
+    excerpt: "These GPUs not only power immersive gaming experiences but also serve as fundamental components in artificial intelligence models, accelerating machine and deep learning capabilities. Moreover, Nvidia's Drive platform stands as a testament to its ..."
+    publishedDateTime: 2024-02-25T23:56:00Z
+    webUrl: "https://www.fxstreet.com/analysis/unveiling-the-hidden-truths-a-deep-analysis-of-nvidias-financial-performance-and-investment-potential-202402252355"
+    ampWebUrl: "https://www.fxstreet.com/amp/analysis/unveiling-the-hidden-truths-a-deep-analysis-of-nvidias-financial-performance-and-investment-potential-202402252355"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/unveiling-the-hidden-truths-a-deep-analysis-of-nvidias-financial-performance-and-investment-potential-202402252355"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
-  - title: "Azalea Health Unveils Artificial Intelligence Strategy to Enhance Healthcare Workflows"
-    excerpt: "Azalea Health, a leading provider of fully-integrated cloud-based healthcare IT solutions and services, today announced its revolutionary approach to artificial intelligence (AI) designed to enhance the efficiency,"
-    publishedDateTime: 2024-02-27T12:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9968480.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
-  - title: "QubeHealth Plans Up To $9 Mn Raise For Launching Healthcare In App Marketplace, AI Integration"
-    excerpt: "Healthcare-focused fintech startup QubeHealth is looking to raise between $6-$9 Mn as a part of its Series A funding round."
-    publishedDateTime: 2024-02-26T13:48:00Z
-    webUrl: "https://inc42.com/buzz/qubehealth-plans-up-to-9-mn-raise-for-new-feature-ai-deployment/"
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 28
+    images:
+      - url: "https://editorial.fxstreet.com/images/TechnicalAnalysis/ChartPatterns/Candlesticks/high-resolution-stock-exchange-evolution-panel-55741904_Small.jpg"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "How AI Startup Fireflies Is Transforming Workplace Meetings For 10 Mn+ Users Across 100+ Countries"
+    excerpt: "Fireflies is an AI-assistant that takes notes, analyses conversations using LLMs and generates action items for workplace meetings."
+    publishedDateTime: 2024-02-28T09:46:00Z
+    webUrl: "https://inc42.com/startups/how-ai-startup-fireflies-is-transforming-workplace-meetings-for-10-mn-users-across-100-countries/"
+    ampWebUrl: "https://inc42.com/startups/how-ai-startup-fireflies-is-transforming-workplace-meetings-for-10-mn-users-across-100-countries/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/startups/how-ai-startup-fireflies-is-transforming-workplace-meetings-for-10-mn-users-across-100-countries/amp/"
     type: article
     provider:
       name: inc42
       domain: inc42.com
-    quality: 24
+    quality: 23
+  - title: "Collaboration key for advancing AI in transaction monitoring – Barbara Okai-Tettey"
+    excerpt: "Tettey, Senior Compliance Manager at Stanbic Bank Ghana has emphasized the need for collaboration between the financial service industry and regulators to enhance the evolving use of AI in transaction monitoring."
+    publishedDateTime: 2024-02-26T14:35:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Collaboration-key-for-advancing-AI-in-transaction-monitoring-Barbara-Okai-Tettey-1918763"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 13
 
 secured: "7arTeVDWwe0EX46voMzE1XujZt+SzNfNNtw+yGXhwm/XwQDYEYV6x7+I8CDYPuS3pawafEidpM2tHUMbH4ijfGIyukc/47B6f8hSJca+sMlecnA6BlpOAm2L7+UNnA/cuR/PRXZCI6t5Jwv3TqgN+yCrUTSxPvDPNfoGiN4Jg8/th/h5Ah4K8KF0ptNj3ptFucP/C7RoF9nrnkH9USD2kx8lbgU4J4DbwJ7wJARE1cozISOzHESPcdVEk/h00/U9xAZ6E2hbdDkeKoLvfDqV7K0spWD5DIeQG162H1SCPM1ma4nJ4oWsr8BblI1ppExH71iK4H4R3uKiP/x5pwv/aA0PMa5ZBpBY2DQU23oUVWUk5sSa4Tl2EJuNh8Mb/wK+Usp0z0jzVKKRG9LyovhWjDyDCauS2QyMtx47Y0Ykm9lqkWfrrcyOGD5s0YAKBryCckc5QaoA9f0uwTbcDjoan+Hxt4jK/nBSEsWUJbnwTFI/65cIkcEZUFjB/pbPolfALoxz0N4EOJ0OXsKTjC+f7A==;Eq2F2ygISD9H/G8T5aLT0A=="
 ---

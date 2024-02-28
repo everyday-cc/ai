@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-
 webUrl: "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/"
 type: article
 quality: 69
-heat: 86
+heat: 87
 published: true
 
 provider:

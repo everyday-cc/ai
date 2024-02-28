@@ -19,87 +19,61 @@ topics:
   - AI
 
 related:
-  - title: "Navigating The AI Paradigm Shift In Business"
-    excerpt: "AI can help business leaders make successful decisions, add sustainable strategies to their business operations, and help them adapt to ever-changing markets."
-    publishedDateTime: 2024-02-25T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/rhettpower/2024/02/25/navigating-the-ai-paradigm-shift-in-business/"
+  - title: "Why healthcare lags on AI, per Amazon"
+    excerpt: "Healthcare lags behind other industries in its adoption of artificial intelligence, largely because it lacks training capacity, according to a study commissioned by Amazon Web Services. Here are seven other things to know from the survey of 412 healthcare ..."
+    publishedDateTime: 2024-02-26T21:09:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-lags-on-ai-per-amazon.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d918195ce4dc7116060068/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Navigating the future of banking, fintech and AI"
-    excerpt: "What are the best use cases for generative AI in banking and fintech? What do banks and fintechs need to do to keep up with technology advances and not get left behind? We invited two long-time experts on finance and technology -- Luis Valdich, managing ..."
-    publishedDateTime: 2024-02-27T12:42:00Z
-    webUrl: "https://www.americanbanker.com/leaders/navigating-the-future-of-banking-fintech-and-ai"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 54
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/7c08039/2147483647/strip/true/crop/1281x673+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F1e%2Fd4%2F2668ce2b403e82ecb39505b3aeac%2Fnavigating-the-future-of-banking-fintech-and-ai-1280x720-suni-harford.png"
-        width: 1200
-        height: 630
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Understanding the Hurdles – Why Companies Aren’t Ready for Full AI Integration in Business"
-    excerpt: "AI (artificial intelligence) is the topic that has got the attention of not only tech enthusiasts but also the general public since last year."
-    publishedDateTime: 2024-02-24T04:41:00Z
-    webUrl: "https://dailyhodl.com/2024/02/23/understanding-the-hurdles-why-companies-arent-ready-for-full-ai-integration-in-business/"
-    ampWebUrl: "https://dailyhodl.com/2024/02/23/understanding-the-hurdles-why-companies-arent-ready-for-full-ai-integration-in-business/amp/"
-    cdnAmpWebUrl: "https://dailyhodl-com.cdn.ampproject.org/c/s/dailyhodl.com/2024/02/23/understanding-the-hurdles-why-companies-arent-ready-for-full-ai-integration-in-business/amp/"
+  - title: "A Snapshot of Artificial Intelligence in Health Care"
+    excerpt: "Artificial intelligence (AI) has an important role in the future of health care. With its potential to parse through vast amounts of data, glean critical insights, build predictive models ..."
+    publishedDateTime: 2024-02-23T16:13:00Z
+    webUrl: "https://www.statnews.com/a-snapshot-of-artificial-intelligence-in-health-care/"
     type: article
     provider:
-      name: The Daily Hodl
-      domain: dailyhodl.com
-    quality: 49
-    images:
-      - url: "https://dailyhodl.com/wp-content/uploads/2023/11/AI-Focused-Altcoin.jpg"
-        width: 1366
-        height: 800
-        isCached: true
-  - title: "Dissecting the AI boom through the dotcom lens"
-    excerpt: "The Web was funded by telco CAPEX as hyperscalers are funding the AI buildout. But there was no internet or cloud at the time, so this time the pace is accelerated. Picks and shovels are highly valued at the start The core infrastructure – so-called ..."
-    publishedDateTime: 2024-02-24T16:19:00Z
-    webUrl: "https://siliconangle.com/2024/02/24/dissecting-ai-boom-dotcom-lens/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: STAT
+      domain: statnews.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/AI-dotcom.jpeg"
+      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Meta-Image-Premier-Pulse-Check-Report-1024x576.jpg"
         width: 1024
-        height: 1024
+        height: 576
         isCached: true
-  - title: "Businesses still at the starting line in AI race"
-    excerpt: "We are starting to see tangible returns from early corporate AI deployments, but there is still room for much more ambition and evolved use in the years ahead, experts say."
-    publishedDateTime: 2024-02-25T18:01:00Z
-    webUrl: "https://www.afr.com/technology/businesses-still-at-the-starting-line-in-ai-race-20240217-p5f5qw"
+  - title: "What the healthcare AI sector wants from Congress"
+    excerpt: "Healthcare interests clamoring for congressional action on artificial intelligence would also like lawmakers to remember the Hippocratic oath: First, do no harm. Second, they would like a little protection. Opinions about precisely which needs legislating ..."
+    publishedDateTime: 2024-02-27T08:00:00Z
+    webUrl: "https://www.modernhealthcare.com/politics-policy/healthcare-ai-congress-legislation-regulation"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.3288%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_13%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/375cfac4277f93eed70486aa2d63a7412aeb22c2"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "How small businesses in The Woodlands can harness AI to save time, boost productivity"
-    excerpt: "But you can't use AI unchecked. Using artificial intelligence without being responsible or having human oversight can lead to privacy breaches, ethics concerns and poorer results on Google searches, Banks said. \"There are many companies that have ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.houstonchronicle.com/neighborhood/woodlands/article/small-businesses-woodlands-artificial-intelligence-18677661.php"
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
+  - title: "Azalea Health Unveils Artificial Intelligence Strategy to Enhance Healthcare Workflows"
+    excerpt: "Azalea Health, a leading provider of fully-integrated cloud-based healthcare IT solutions and services, today announced its revolutionary approach to artificial intelligence (AI) designed to enhance the efficiency,"
+    publishedDateTime: 2024-02-27T12:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9968480.htm"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 12
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
+  - title: "QubeHealth Plans Up To $9 Mn Raise For Launching Healthcare In App Marketplace, AI Integration"
+    excerpt: "Healthcare-focused fintech startup QubeHealth is looking to raise between $6-$9 Mn as a part of its Series A funding round."
+    publishedDateTime: 2024-02-26T13:48:00Z
+    webUrl: "https://inc42.com/buzz/qubehealth-plans-up-to-9-mn-raise-for-new-feature-ai-deployment/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 24
 
 secured: "vh4gCgqzZwBOshG0o4MdLiHRWGo7/3nfiuMX7RTAc6LLC3gwmE241GtFf8XKOw285U097enn6Aa/OxAtMW/WRoBe0lmxWUzKOj5eRvFfqCwgmF7tjqbu6BoPb0IsoC3inHDfjzauueHh0yArdPLi6CbDUfO90rpRRLs5Q2oI9WgK4QmTV8HitoN9jr9r+W3e3h4aduGbNZEDYYK8zNW1MA12rM/cpqvD3Gv610YyXSKI0Tyjxnade4vARteqBm+yUDIsXiXrs0Cwh49n3rpGyC4WInw+WZS82Lh+stLYe5Ft8oZweG8hw9z1jUhMoWZeJ0/dysFmxr5lxammxGgFsk6g01EPTS2qBoJ5XSJushs=;OOW2ISESECuUs/pcRSzdiQ=="
 ---

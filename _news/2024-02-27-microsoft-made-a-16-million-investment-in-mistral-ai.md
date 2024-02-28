@@ -306,6 +306,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 60
+  - title: "Watch out ChatGPT — Mistral just cut a huge deal with Microsoft for GPT-4 level AI model"
+    excerpt: "That is likely to change after the company signed a multi-year deal with Microsoft to bring its next-generation, GPT-4-level AI model Mistral Large to the Azure cloud. Mistral isn't even a year old as a company but is worth more than $2 billion and has ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.tomsguide.com/ai/watch-out-chatgpt-mistral-just-cut-a-huge-deal-with-microsoft-for-gpt-4-level-ai-model"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 60
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/AczNSbVkntZku5EVU2DEkQ-1200-80.png"
+        width: 1200
+        height: 615
+        isCached: true
   - title: "Jeff Bezos, Nvidia Join Forces in $675M Investment for Humanoid Robots"
     excerpt: "The AI robotics industry is witnessing significant activity ... as previously reported by TechTimes. Utilizing artificial intelligence and advanced technologies akin to \"Google Maps\" for Earth's crust, KoBold aims to enhance copper and cobalt exploration."
     publishedDateTime: 2024-02-23T19:02:00Z

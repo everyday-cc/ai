@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Growing number of US airports use biometric facial recognition"
+    excerpt: "Spokeo looked at which airports are using facial recognition software for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-02-28T09:19:00Z
+    webUrl: "https://kvia.com/entertainment/stacker-travel/2024/02/28/growing-number-of-us-airports-use-biometric-facial-recognition/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 54
+    images:
+      - url: "https://kvia.b-cdn.net/2024/02/FacialRL1BR_0.png"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "Face biometrics growing role in trust raises stakes for fakes"
     excerpt: "Face biometrics are powering identity checks for employment, air travel, and enterprise access control in some of the most-read stories of the past week."
     publishedDateTime: 2024-02-24T17:00:00Z

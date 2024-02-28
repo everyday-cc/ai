@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/us-enterprise-ai-search-startup
 webUrl: "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Character.ai is in talks to raise around $200 million in a deal backed by Google, sources say"
-    excerpt: "The San Francisco-based startup previously raised $150 million in a Series A round led by Andreessen Horowitz."
-    publishedDateTime: 2024-02-23T10:30:00Z
-    webUrl: "https://www.businessinsider.com/character-ai-in-talks-to-raise-google-2024-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://i.insider.com/65d4a398f533b039a8852d53?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "US enterprise AI search startup Glean raises $200 million, plans hiring spree"
     excerpt: "Arvind Jain, cofounder and CEO of Glean, who also co-founded data management startup Rubrik, said he plans to use the funding to double the team to 700 people this year."
     publishedDateTime: 2024-02-27T14:42:00Z

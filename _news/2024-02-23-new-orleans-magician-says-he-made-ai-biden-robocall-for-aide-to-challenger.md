@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-ma
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: The Guardian
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Creator of fake Biden robocall demonstrates using AI to impersonate NBC reporter"
-    excerpt: "Before the New Hampshire primary, Paul Carpenter says he was paid to create a robocall impersonating President Biden urging listeners not to vote. He demonstrated how he uses artificial intelligence to impersonate the voice of NBC News' Alex Seitz-Wald."
-    publishedDateTime: 2024-02-23T09:59:00Z
-    webUrl: "https://www.nbcnews.com/video/creator-of-fake-biden-robocall-demonstrates-using-ai-to-impersonate-nbc-reporter-204727877516"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo204727877516"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo204727877516"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 82
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_02/robocall_nbc-3jlgmf.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Political consultant behind fake Biden robocalls says he was trying to highlight a need for AI rules"
     excerpt: "The political consultant behind robocalls that mimicked President Joe Biden’s voice says he was trying to send a wake-up call about the potential malign uses of artificial intelligence, not influence"
     publishedDateTime: 2024-02-26T22:22:00Z
@@ -61,20 +45,6 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_f94aa2d7f835ccc3cc254a90cd481a99_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "NC Representatives host Biden administration senior officers, discuss AI"
-    excerpt: "Rep. Valerie Foushee, (D-NC 4th) and Rep. Deborah Ross, (D-NC 2nd) hosted a roundtable with senior administration officers from the Biden Administration and local industry leaders to discuss government use of Artificial Intelligence."
-    publishedDateTime: 2024-02-23T17:39:00Z
-    webUrl: "https://www.dailytarheel.com/article/2024/02/city-valerie-foushee-deborah-ross-government-use-of-ai-roundtable"
-    type: article
-    provider:
-      name: The Daily Tar Heel
-      domain: dailytarheel.com
-    quality: 38
-    images:
-      - url: "https://snworksceo.imgix.net/dth/90ae76c9-6be5-4ebe-acde-1cb52fb98c65.sized-1000x1000.jpg?w=800&h=600"
-        width: 800
-        height: 567
         isCached: true
   - title: "Democratic political operative admits he commissioned robocall of AI Biden"
     excerpt: "Steve Kramer said ‘easy-to-use technology’ enabled him to send automated call while New Orleans magician says he was paid $150 to make it"

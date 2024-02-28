@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Creator of fake Biden robocall demonstrates using AI to impersonate NBC reporter"
-    excerpt: "Before the New Hampshire primary, Paul Carpenter says he was paid to create a robocall impersonating President Biden urging listeners not to vote. He demonstrated how he uses artificial intelligence to impersonate the voice of NBC News' Alex Seitz-Wald."
-    publishedDateTime: 2024-02-23T09:59:00Z
-    webUrl: "https://www.nbcnews.com/video/creator-of-fake-biden-robocall-demonstrates-using-ai-to-impersonate-nbc-reporter-204727877516"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo204727877516"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo204727877516"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 82
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_02/robocall_nbc-3jlgmf.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "New Orleans magician says he made AI Biden robocall for aide to challenger"
     excerpt: "Paul David Carpenter says he was paid by consultant for Democrat Dean Phillips to mimic Biden’s voice during New Hampshire primary"
     publishedDateTime: 2024-02-23T13:57:00Z
@@ -69,20 +53,6 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_f94aa2d7f835ccc3cc254a90cd481a99_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "NC Representatives host Biden administration senior officers, discuss AI"
-    excerpt: "Rep. Valerie Foushee, (D-NC 4th) and Rep. Deborah Ross, (D-NC 2nd) hosted a roundtable with senior administration officers from the Biden Administration and local industry leaders to discuss government use of Artificial Intelligence."
-    publishedDateTime: 2024-02-23T17:39:00Z
-    webUrl: "https://www.dailytarheel.com/article/2024/02/city-valerie-foushee-deborah-ross-government-use-of-ai-roundtable"
-    type: article
-    provider:
-      name: The Daily Tar Heel
-      domain: dailytarheel.com
-    quality: 38
-    images:
-      - url: "https://snworksceo.imgix.net/dth/90ae76c9-6be5-4ebe-acde-1cb52fb98c65.sized-1000x1000.jpg?w=800&h=600"
-        width: 800
-        height: 567
         isCached: true
 
 secured: "cwrUBszKLrdmyYmPOKbZbi2mjbH5Od8RiFZCkK4T8sl06RYP5vntpQGTGn/xyPSsIL4A2rNKb8UBF7otTSL93shoIU5+vevOYTJjuJo8HvgCh2AbNnShyR/qwUdovNmJExZLlNZaalZ6gbEJ9rYebC2LK3qQ5TMsb1JtzxFa5iqaZiKEWYKjwxaLJ9uejQWo09OF0UQ3cHoSidAoIjkWY5O5VoBGxV9l46piwWgN374OzoEouGnkqDZlArILF++SnMstiF30ds+Z5ZUNWuCuzcPlxYpWkzp9+0m2/YWjSwZxYPGk6MhbTuO7yuuC09rMhTtXnWzJjPXREj2kHrqNhZFcIn+J5AHzrY/d6Jp0mg1g9FpOZ0mrhVzHBlqwNpoOAKcaKQqMD9cwrcAuC6hAzl982Myj4oyzPdiDg0LvN8quOIbjG+0jkEyBpD6sFub1HLppTH09K7oYL5eO6QVWA7sFfxOPnRMBAZNF3sQePP3NeYiifO4oi5ICvRI0gDRwfDrvohdCqW2XOuDwavujiw==;Mfgld8U44QGt+3oJZjeWNw=="

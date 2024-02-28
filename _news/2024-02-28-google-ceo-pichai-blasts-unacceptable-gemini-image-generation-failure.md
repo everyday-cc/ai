@@ -37,6 +37,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google CEO blasts ‘unacceptable’ Gemini image generation failure"
+    excerpt: "Alphabet Inc.’s Sundar Pichai emailed staff on Tuesday to address the problematic responses from Google’s Gemini AI engine, describing them as \"completely unacceptable.”"
+    publishedDateTime: 2024-02-28T09:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/28/google-ceo-blasts-unacceptable-gemini-image-generation-failure"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/28/2566662.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Google Gemini Failure Offers Lessons For SEO"
     excerpt: "Gemini Image Generator failure explain how Google's search ranking algorithms might also fail"
     publishedDateTime: 2024-02-24T12:17:00Z

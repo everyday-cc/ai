@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fxstreet.com/amp/education/ai-in-action-transforming-ann
 cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: FXStreet
@@ -27,22 +27,79 @@ images:
     isCached: true
 
 related:
-  - title: "AI at work: partner or rival? | How Artificial Intelligence is transforming the traditional workplace"
-    excerpt: "“This is a time of ‘reinvent or perish’.” A lot of creative professionals are discovering AI’s ability to act, not as artificial intelligence but ‘augmented’ intelligence, that complements their own thought processes and creativity. Varsha ..."
-    publishedDateTime: 2024-02-23T10:08:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/artificial-intelligence-workplace-uses-partner-or-rival-new-trends-creative-design-animation-accounting-finance-software/article67866141.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/artificial-intelligence-workplace-uses-partner-or-rival-new-trends-creative-design-animation-accounting-finance-software/article67866141.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/artificial-intelligence-workplace-uses-partner-or-rival-new-trends-creative-design-animation-accounting-finance-software/article67866141.ece/amp/"
+  - title: "Fobi AI Announces Completion of First Tranche Of Non-Brokered Private Placement"
+    excerpt: "Not for distribution to United States newswire services or for dissemination in the United States.VANCOUVER, BC, Feb. 23, 2024 (GLOBE NEWSWIRE)"
+    publishedDateTime: 2024-02-23T23:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fobi-ai-announces-completion-of-first-tranche-of-non-brokered-private-placement-1033099069"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "HP’s AI-enhanced PCs set to transform user experiences"
+    excerpt: "Moreover, the transformation of audio and video content, including streaming, stands out as AI enhances editing capabilities, language translation, and overall engagement. Leading the charge in this technological revolution is HP, a company known for its ..."
+    publishedDateTime: 2024-02-26T09:44:00Z
+    webUrl: "https://timesofindia.indiatimes.com/spotlight/hps-ai-enhanced-pcs-set-to-transform-user-experiences/articleshow/108008262.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
     images:
-      - url: "https://th-i.thgim.com/public/incoming/qqcfwv/article67873940.ece/alternates/FREE_1200/AI%20in%20work%20place%2002.png"
-        width: 1200
-        height: 672
+      - url: "https://static.toiimg.com/thumb/msid-108009175,width-1070,height-580,imgsize-30496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
+  - title: "Unveiling the hidden truths: A deep analysis of Nvidia's financial performance and investment potential"
+    excerpt: "These GPUs not only power immersive gaming experiences but also serve as fundamental components in artificial intelligence models, accelerating machine and deep learning capabilities. Moreover, Nvidia's Drive platform stands as a testament to its ..."
+    publishedDateTime: 2024-02-25T23:56:00Z
+    webUrl: "https://www.fxstreet.com/analysis/unveiling-the-hidden-truths-a-deep-analysis-of-nvidias-financial-performance-and-investment-potential-202402252355"
+    ampWebUrl: "https://www.fxstreet.com/amp/analysis/unveiling-the-hidden-truths-a-deep-analysis-of-nvidias-financial-performance-and-investment-potential-202402252355"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/unveiling-the-hidden-truths-a-deep-analysis-of-nvidias-financial-performance-and-investment-potential-202402252355"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 28
+    images:
+      - url: "https://editorial.fxstreet.com/images/TechnicalAnalysis/ChartPatterns/Candlesticks/high-resolution-stock-exchange-evolution-panel-55741904_Small.jpg"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "As artificial intelligence aims to transform health care, soon your doctor may consult an AI algorithm before deciding on your treatment"
+    excerpt: "Sahani is a co-founder of UW’s Institute of Medical Data Science, which supports health care-related artificial intelligence initiatives. Founded last year in Seattle, the institute hopes to provide research, education and funding to get AI into ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.spokesman.com/stories/2024/feb/27/as-artifical-intelligence-aims-to-transform-health/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 23
+    images:
+      - url: "https://thumb.spokesman.com/iDlseXsKdK6KgwNP9qd1w-w7lTM=/1200x630/smart/media.spokesman.com/photos/2024/02/26/63d303450c829.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How AI Startup Fireflies Is Transforming Workplace Meetings For 10 Mn+ Users Across 100+ Countries"
+    excerpt: "Fireflies is an AI-assistant that takes notes, analyses conversations using LLMs and generates action items for workplace meetings."
+    publishedDateTime: 2024-02-28T09:46:00Z
+    webUrl: "https://inc42.com/startups/how-ai-startup-fireflies-is-transforming-workplace-meetings-for-10-mn-users-across-100-countries/"
+    ampWebUrl: "https://inc42.com/startups/how-ai-startup-fireflies-is-transforming-workplace-meetings-for-10-mn-users-across-100-countries/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/startups/how-ai-startup-fireflies-is-transforming-workplace-meetings-for-10-mn-users-across-100-countries/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 23
+  - title: "Collaboration key for advancing AI in transaction monitoring – Barbara Okai-Tettey"
+    excerpt: "Tettey, Senior Compliance Manager at Stanbic Bank Ghana has emphasized the need for collaboration between the financial service industry and regulators to enhance the evolving use of AI in transaction monitoring."
+    publishedDateTime: 2024-02-26T14:35:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Collaboration-key-for-advancing-AI-in-transaction-monitoring-Barbara-Okai-Tettey-1918763"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 13
 
 secured: "cYWOl0C3LW06fRTl2n2y/mMeEbGWjGR8B0lcVMMGMKlep04uhDuJ4ISbs3LLz0YYD9AWQWXIIh31vD4oDwyBQQGe/0Tp+FqgQNd7DKmWbMfwTbbD7oZbTxpeECIM2IqcK/GUh4MohoAMmXvi2wfusAEa1qqNPo/Ow7eO8Z3D663Pb7fBi0A8er9Adc1iKrm3GpSi/mDBxhDippBoABXf0Ob7jGh59w6VJMFzn9pVKuifH5TIGttEkeriRBtTuJ6bLVJIsZNDIXm1uLzPWjURk/hZjK3dexvHhfZQungtOKUoFw1T+g/qQaJp6d5O2Yb48TZqMbLX34kiwKCqtyxN/mJflD9tEQrLqSQIOdJj+3U=;Dms9K+M4tcoykMe5a4h1NA=="
 ---

@@ -52,6 +52,20 @@ related:
       name: glamsham.com
       domain: glamsham.com
     quality: 24
+  - title: "Apple's self-driving EV car is not coming; project canceled, layoff likely: Report"
+    excerpt: "The Apple car project, at its peak, had a workforce of around 1,400 employees. Some of these employees will be reassigned to Apple's generative AI (GenAI) projects, as the company continues to explore the potential of artificial intelligence."
+    publishedDateTime: 2024-02-28T10:29:00Z
+    webUrl: "https://www.ibtimes.co.in/apples-self-driving-ev-car-not-coming-project-canceled-layoff-likely-report-866425"
+    type: article
+    provider:
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 18
+    images:
+      - url: "https://data1.ibtimes.co.in/en/full/598822/apple-logo-seen-inside-apple-store-palo-alto.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Hw5VKzYOuU080fvTOETQWKqk3JSvETw25Ifwc6PSEkSPmMYy5B4Inp8alEzTEtdp1QiySuQKdIq/NLLAld1j7M7r+TVmyY3nFnkgJ1qyzyljwWG4sSG6yqWN5sreoV+cIIHivbIElOJX+atox+KNbL3Jr8PoomOdDaGBbcF8RLPrqVpfbhC535QjdKQDb3EcGV8Ls1zSI7DRFgiJmVV3dtxG3IHQbRlzsjI4fYV2vJAXUqMUrz6BHptwjI4i1wZoY26bfqL4zbgR0tQq7R9OL1DavUwhhhgtDe14ineTVLnjmPqvm9uXmH0rgL6+QuAgDzLSHDje8An3Kho5uPIpR/p7brWFr1yLFjweqsmaqr6DoXkTMc2EADZEKrCQAdNzCWGqwXRiPzKLpDMvJQedIE8sCq7lD4DLPvSO/lkIjYCOVapt1PC42kSpyCsvgBMu78zVBWm2n2b7h4PDM9ubS0eHmKJG9/O0saZ4YZ7AkcLGyZMmWz46Gm39QFj5qI41E2vmKBJhh84SiDQtiXtCPg==;hAfgvfe7hLn4zr6bgONWqA=="
 ---

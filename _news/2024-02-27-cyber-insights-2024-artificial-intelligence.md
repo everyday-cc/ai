@@ -55,15 +55,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "What to expect from MWC 2024: Transparent laptops, AI phones, smart rings, more"
-    excerpt: "Some of the best mobile technology companies will converge at the Fira de Barcelona next week for MWC 2024. Here's what to watch for."
-    publishedDateTime: 2024-02-23T10:43:00Z
-    webUrl: "https://www.zdnet.com/article/what-to-expect-from-mwc-2024-transparent-laptops-ai-phones-smart-rings-more/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 43
 
 secured: "8+k6SiIc+wJUZRGTwvWaAO4T8PF+0rsAkGKf5JmImU8Vtls6qX7rqrlpNwDl3WzD5gzmpz9gIEtaoV6M+oPHc09tm5OoJmFIESO6Uty5r3r8CteARP6iN07jOD1YU5Rarq4WB/Qjr6BWSShqzKFHB4RUHg3PB8UKsUKXUSu5i+dgiqfYQ6VslMNWsUuyXYmhjn5mLctLMY+2RniNmjHjTHNpCoOENWUOCLajfTG1RCpPRnP4asfjm7dH3dy3mQAFpK0Y0+wgtPw+NSfyHCrW8XLPK6FvMBTc8ZdxgQmiIEvX4t2qJ9NJF8g21H8RHZTW5UrkZWjKI7yHrz7KxzLiwwfYt8B4JTQCd6Et6eDIaJs=;wR4r56MUtMAg9T5et1dpxA=="
 ---
