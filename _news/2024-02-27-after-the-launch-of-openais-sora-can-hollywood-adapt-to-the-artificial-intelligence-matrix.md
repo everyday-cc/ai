@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Tyler Perry thinks AI can create movies almost as well as he can and is worried about Hollywood's future"
+    excerpt: "Tyler Perry says OpenAI's 'mind-blowing' Sora video tool will make Hollywood studio stages obsolete."
+    publishedDateTime: 2024-02-24T14:00:00Z
+    webUrl: "https://www.businessinsider.com/tyler-perry-ai-studio-productions-movies-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+
 secured: "gnmkgRfK4v8DFhWgAtTNsHNWfAn6D93befQinK9K/ob1Nze3kM+RRNbHweuyHyrzN//XlLmwo2BdootDF3j5vFPmzXqkfG8x0nQ9c5wWSvgYHIv/iYVv9L7tMj7tHttNGZjlc5m8xYokYEWn9UTDAM1+Q9fRdozV8LaTXmWLJzOCCcm8vqueX6JJfFAP/z/Xd8h0DEgtrMQp6oU0S+tclaW68iSizzs0B7wrQYYi9JvEBwP07ohiG1OsMwDoSTb5IR9XVZT3f9D+Mf11bmKFXtrAuYm5SFmxtjLmKpcMjwuNPpSZvkwuA3zaVXL8UI4l6/2JKXApVPI/jqQpTs/X/mGmr6d9eQmkk8i/mnelgJyGWV3s3qNyKik9JMfV8ReC3ZEiSTwaSLv+nhi6vHaujOKLDErqzAQCcuwVSLZFYRfOPF0MT6WWxlh7ymeN+eytwMeCQMHhkaQyx4vxLo7Y/xOUOyTaNLo/W/evjvss/3E8+viGLIGsZlepLAt+wKDni/wlDaWkKR9RBKqCztWiog==;q0NTr/kKGwPUZI0mX6jLPQ=="
 ---
 

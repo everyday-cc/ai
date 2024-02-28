@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "ChatGPT in medical education: Generative AI and the future of artificial intelligence in health care"
-    excerpt: "The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about the future of AI in medicine and medical education."
-    publishedDateTime: 2024-02-23T14:00:00Z
-    webUrl: "https://www.ama-assn.org/practice-management/digital/chatgpt-medical-education-generative-ai-and-future-artificial"
-    type: article
-    provider:
-      name: Ama-assn.org
-      domain: ama-assn.org
-    quality: 73
-    images:
-      - url: "https://www.ama-assn.org/sites/ama-assn.org/files/2024-02/au-social-022324.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "miGm4goqw1p7J3Vbr9YYTf+0X+JwoTr8Y80VZfUYzFh72jbqnPMEmoolDHksKQarEZOyAdQELkbmPLLRsR2W7V5fbYvZ0Kze54/4mAw3BcXGLN2FysVy3k0GQmysEOqgnXiqHzDoU8HvGge+KpdJoheGx5eqBEYUSphtmOjatN0TvADRfNeGHQkuKJFo6XKQ82SS+ZGNpO9h96o7bMIYCC1XDgfd8OtUSAmcBD2tqoNunDme0bhQ4x7k+iWk+k8UGwiCow2/s/bG0vN0j+y+9PsWwDMRIAI3hS8w1ftLEGaPck5i2dAJpSagkeZ+u1Cx39dxFqv1CT8dyI7x4h46trwYiXueq3p3v55fg5HzGWU=;ZF5YaBMOSXHr+1oDFGE4ig=="
 ---

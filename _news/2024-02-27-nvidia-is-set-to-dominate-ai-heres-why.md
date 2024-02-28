@@ -96,40 +96,10 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 78
-  - title: "Microsoft turns to NVIDIA’s competitor Intel to strike AI chip deal"
-    excerpt: "Intel scores a big client in Microsoft Corp for Intel Foundry, its sustainable systems foundry business tailored for making AI chips."
-    publishedDateTime: 2024-02-23T14:19:00Z
-    webUrl: "https://interestingengineering.com/innovation/microsoft-intel-ai-chip"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 71
-    images:
-      - url: "https://cms.interestingengineering.com/wp-content/uploads/2024/02/lalala_b81534.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
     excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
     publishedDateTime: 2024-02-23T20:18:00Z
     webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/6eb6701b827383e927741aa77b9fb8d3308ff274/0_491_7488_4495/master/7488.jpg?width=620&quality=85&auto=format&fit=max&s=39f3cc2637afa6532a061368f40528be"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "US chipmaker Nvidia scales $2tn amid artificial intelligence boom"
-    excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
-    publishedDateTime: 2024-02-23T16:16:00Z
-    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
     ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
     type: article
@@ -265,20 +235,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Chip maker Nvidia hits $2 trillion valuation amid unstoppable demand for AI chips"
-    excerpt: "AI requires significant processing power, creating huge opportunities for companies that make computer chips, especially graphics processing units (GPUs). The company's revenues have increased more than two-fold in the last year as it won new contracts ..."
-    publishedDateTime: 2024-02-23T16:00:00Z
-    webUrl: "https://www.thisismoney.co.uk/yourmoney/consumer/article-13118191/nvidia-2-trillion-valuation.html"
-    type: article
-    provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 49
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2024/02/23/14/81631473-0-image-a-8_1708699518570.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia and AI fuel market frenzy"
     excerpt: "Nvidia, which two years ago made most of its money from selling graphics cards for computer games, has now become the world’s third largest company by market value."
     publishedDateTime: 2024-02-24T05:56:00Z
@@ -321,17 +277,6 @@ related:
         width: 1536
         height: 1024
         isCached: true
-  - title: "Nvidia briefly hits $2 trillion valuation as AI frenzy grips Wall Street"
-    excerpt: "The milestone followed another bumper revenue forecast from the chip designer that drove up its market value by $277 billion on Thursday - Wall Street's largest one-day gain on record. Its rapid ascent in the past year has led analysts to draw parallels to the picks and shovels providers during the gold rush of 1800s as Nvidia's chips are used by almost all generative AI players from chatGPT-maker OpenAI to Google."
-    publishedDateTime: 2024-02-23T16:24:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2838491-nvidia-briefly-hits-2-trillion-valuation-as-ai-frenzy-grips-wall-street?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 38
   - title: "Nokia and Nvidia partner for AI mobile networks"
     excerpt: "Telco OEM Nokia plans to develop AI-ready radio access network (RAN) solutions in partnership with GPU darling Nvidia. As part of Nokia's anyRAN effort, the companies will develop cloud-network technology and explore how AI can revolutionize the industry."
     publishedDateTime: 2024-02-24T20:07:00Z

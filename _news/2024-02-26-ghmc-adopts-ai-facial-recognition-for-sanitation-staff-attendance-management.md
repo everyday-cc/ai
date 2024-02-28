@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-rec
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376"
 type: article
 quality: 71
-heat: 101
+heat: 81
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GHMC invites bids for facial-recognition biometrics attendance system through mobile app"
-    excerpt: "The Greater Hyderabad Municipal Corporation (GHMC) has, through a request for proposals (RFP), invited bids from contractors for the introduction of facial recognition biometrics for recording attendance at all levels. Describing it as an ‘artificial ..."
-    publishedDateTime: 2024-02-23T15:12:00Z
-    webUrl: "https://www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 35
-    images:
-      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Facial recognition: Coming soon to an airport near you"
     excerpt: "This passenger screening using facial recognition software and made available to select travelers at La Guardia by Delta Air Lines and the Transportation Security Administration, is just one example of how biometric technology, which uses an individual’s ..."
     publishedDateTime: 2024-02-25T05:00:00Z
@@ -52,15 +36,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 34
-  - title: "Outsourcer Serco ordered to stop using facial recognition to monitor staff"
-    excerpt: "Outsourcer Serco has been ordered to stop using facial recognition and fingerprint scanning to monitor attendance and pay staff as the UK watchdog cracks down for the first time on an employer processing the biometric data of its workers."
-    publishedDateTime: 2024-02-23T13:56:00Z
-    webUrl: "https://www.ft.com/content/0da706ab-803f-430d-bea9-485962cbc201"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "Hq0lwaN342gD/pj8QLngS3UMHIAM7WIXi7aZ4fGP3pegHoiKGhF8/IhXyal3tSZu1b11TPSPtewiq45Bi5Nkd1J12qnSZS0kpNVBHa8AMP+FB+BfnKFGK+2cfiBpIApgPqOj8RCYkFOwevfsYkC8NGS6ey7UM+ZbnQ68/WGovuEjrd8YvYXP8GVdXdgA83fZc5gxyArhgAXZeNECe3rwC9ujwFckZdtnRoeGVi8412KutJwS8No45jwzDy9LoltXqzkLJd/+ckZdKZw8By5BBcJtdpssHvy7qsqxZDpJ59oOpw1ff8Y7PXeGr8pQ5r99kArRQfFVRyW93lYi+orz4nk8le5ztE5kPDjncnk4j0mHkc62ZKAOxj+Mar7mDAivyW6839tzSyEdVOfbS6NXzjebc/wctl2JJiuWIW/aPrLwxvViQbSxfZsxmODIhAGLOpEbBOVtvfyXoBPbM8wyc/X8JOith1tf5UvDaaBX8Qp5caz/xu+xCNqxWu3SuYsPBppSOMp1LLm5LIvKx3np3w==;E2u54DrhAHCWfi2to2u5IQ=="
 ---

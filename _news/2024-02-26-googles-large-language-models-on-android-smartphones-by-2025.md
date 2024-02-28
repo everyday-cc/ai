@@ -33,6 +33,20 @@ related:
         width: 1119
         height: 630
         isCached: true
+  - title: "The Vulnerabilities and Security Threats Facing Large Language Models"
+    excerpt: "Explore the vulnerabilities of large language models like GPT-3 and ChatGPT, and discover strategies to protect against adversarial attacks, data poisoning, model theft, and infrastructure vulnerabilities,"
+    publishedDateTime: 2024-02-28T16:44:00Z
+    webUrl: "https://www.unite.ai/the-vulnerabilities-and-security-threats-facing-large-language-models/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 41
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2022/10/data-poisoning-feature-400x240.jpg"
+        width: 400
+        height: 240
+        isCached: true
 
 secured: "W0FqQ7guDxqPIKkBQcwQyBPPuaHwbDNWIiSatpslvkZnKDo6vnNADpwvtvBON55CcF27IAu991DidqEfvb/zldA9/FTJG8pXnfAt+ztpILIW4yr93KNf5/VxSRJAPPvBzimMADEOxx2HuZLHSIYpa1Vilzs0t4TsVIXMFKu7nGERaQCrjrV9fRlTTJaAXp0LMwYi/Z1D8QT+AlBwRLCqJCkw06O65NIlNhokLbcuESm6ioztmbQo8YXG9ZYqAWTEXi12BLYkwa+0rVmMtI7OSCCv7ksJMCTvudMgqlpy0kxtz2WOsYflYXGvnYuZ3GVXbrlAxKtmmgo8MOVFCskXG9SLovlXqhUQ8TOV+WiQvfCruofCJlU9iP1VNSYShaKqN1whgmUPL1vuhbtsUOap4+oo1ujme2Ls30hpjxKtd5oZS9d/iIOnT2UaOFCzFtiWR+6ta23yL8suN3rIQ2gtp3B/PjygJLCiTJncVKa73Sx3FMvwGji7MqnA6xeBGEB1kfi939dRH62HSU3Lqd00Rg==;f++euRbewnxw0Gn8mc/lNA=="
 ---

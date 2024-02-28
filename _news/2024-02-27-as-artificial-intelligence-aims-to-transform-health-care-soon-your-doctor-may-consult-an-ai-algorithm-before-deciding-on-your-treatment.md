@@ -40,20 +40,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "A Snapshot of Artificial Intelligence in Health Care"
-    excerpt: "Artificial intelligence (AI) has an important role in the future of health care. With its potential to parse through vast amounts of data, glean critical insights, build predictive models ..."
-    publishedDateTime: 2024-02-23T16:13:00Z
-    webUrl: "https://www.statnews.com/a-snapshot-of-artificial-intelligence-in-health-care/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 39
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Meta-Image-Premier-Pulse-Check-Report-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "What the healthcare AI sector wants from Congress"
     excerpt: "Healthcare interests clamoring for congressional action on artificial intelligence would also like lawmakers to remember the Hippocratic oath: First, do no harm. Second, they would like a little protection. Opinions about precisely which needs legislating ..."
     publishedDateTime: 2024-02-27T08:00:00Z
@@ -90,6 +76,15 @@ related:
       name: inc42
       domain: inc42.com
     quality: 24
+  - title: "A Regulation To Promote Responsible AI In Health Care"
+    excerpt: "While we are artificial intelligence (AI) optimists, we also recognize the potential for negative impacts from AI. A primary goal of the HTI-1 final rule is to address these concerns by promoting the development and use of AI in health care that is fair,"
+    publishedDateTime: 2024-02-28T14:18:00Z
+    webUrl: "https://www.healthaffairs.org/content/forefront/regulation-promote-responsible-ai-health-care"
+    type: article
+    provider:
+      name: Health Affairs
+      domain: healthaffairs.org
+    quality: 19
 
 secured: "7arTeVDWwe0EX46voMzE1XujZt+SzNfNNtw+yGXhwm/XwQDYEYV6x7+I8CDYPuS3pawafEidpM2tHUMbH4ijfGIyukc/47B6f8hSJca+sMlecnA6BlpOAm2L7+UNnA/cuR/PRXZCI6t5Jwv3TqgN+yCrUTSxPvDPNfoGiN4Jg8/th/h5Ah4K8KF0ptNj3ptFucP/C7RoF9nrnkH9USD2kx8lbgU4J4DbwJ7wJARE1cozISOzHESPcdVEk/h00/U9xAZ6E2hbdDkeKoLvfDqV7K0spWD5DIeQG162H1SCPM1ma4nJ4oWsr8BblI1ppExH71iK4H4R3uKiP/x5pwv/aA0PMa5ZBpBY2DQU23oUVWUk5sSa4Tl2EJuNh8Mb/wK+Usp0z0jzVKKRG9LyovhWjDyDCauS2QyMtx47Y0Ykm9lqkWfrrcyOGD5s0YAKBryCckc5QaoA9f0uwTbcDjoan+Hxt4jK/nBSEsWUJbnwTFI/65cIkcEZUFjB/pbPolfALoxz0N4EOJ0OXsKTjC+f7A==;Eq2F2ygISD9H/G8T5aLT0A=="
 ---

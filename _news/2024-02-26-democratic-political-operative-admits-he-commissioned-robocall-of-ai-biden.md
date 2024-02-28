@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "New Orleans magician says he made AI Biden robocall for aide to challenger"
-    excerpt: "Paul David Carpenter says he was paid by consultant for Democrat Dean Phillips to mimic Biden’s voice during New Hampshire primary"
-    publishedDateTime: 2024-02-23T13:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans?ref=mc.news"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/85b9bcd7e3ff51ae576931202a82643999beb84a/0_117_3513_2108/master/3513.jpg?width=620&quality=85&auto=format&fit=max&s=ffd921ab2e83d531bc5e26f5eda61f30"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Political consultant behind fake Biden robocalls says he was trying to highlight a need for AI rules"
     excerpt: "The political consultant behind robocalls that mimicked President Joe Biden’s voice says he was trying to send a wake-up call about the potential malign uses of artificial intelligence, not influence"
     publishedDateTime: 2024-02-26T22:22:00Z

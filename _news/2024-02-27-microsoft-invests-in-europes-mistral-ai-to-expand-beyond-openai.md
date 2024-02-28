@@ -183,22 +183,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Microsoft and Mistral partner on AI"
-    excerpt: "The multi-year partnership between the two companies will provide Mistral AI with access to Microsoft Azure’s AI infrastructure to help develop next generation LLMs. As part of the arrangement, Mistral AI’s flagship commercial model, Mistral Large ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.research-live.com/article/news/microsoft_and_mistral_partner_on_ai/id/5123113"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5123113&name=microsoft-and-mistral-partner-on-ai"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5123113&name=microsoft-and-mistral-partner-on-ai"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 74
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
   - title: "Microsoft to foster innovation, competition in AI"
     excerpt: "Microsoft will also not use non-public information or data from the building and deployment of developers' AI models in Microsoft Azure to compete with those models, and also allow Microsoft Azure customers to easily export and transfer their data to ..."
     publishedDateTime: 2024-02-28T02:41:00Z
@@ -504,6 +488,15 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 34
+  - title: "Microsoft and Mistral partner on AI"
+    excerpt: "in the Azure AI Studio and Azure Machine Learning model catalogue. Azure’s AI-optimised infrastructure and capabilities will offer Mistral AI additional opportunities to promote, sell and distribute its models to Microsoft customers worldwide."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.research-live.com/article/news/microsoft-and-mistral-partner-on-ai/id/5123113"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
     quality: 34
   - title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival that has its own chatbot"
     excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."

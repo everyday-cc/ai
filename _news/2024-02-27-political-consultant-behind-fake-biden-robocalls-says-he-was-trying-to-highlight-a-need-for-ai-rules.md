@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/political-consultant-fake-bi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/political-consultant-fake-biden-robocalls-highlight-ai-rules-107562626"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Orleans magician says he made AI Biden robocall for aide to challenger"
-    excerpt: "Paul David Carpenter says he was paid by consultant for Democrat Dean Phillips to mimic Biden’s voice during New Hampshire primary"
-    publishedDateTime: 2024-02-23T13:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans?ref=mc.news"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/85b9bcd7e3ff51ae576931202a82643999beb84a/0_117_3513_2108/master/3513.jpg?width=620&quality=85&auto=format&fit=max&s=ffd921ab2e83d531bc5e26f5eda61f30"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Democratic political operative admits he commissioned robocall of AI Biden"
     excerpt: "Steve Kramer said ‘easy-to-use technology’ enabled him to send automated call while New Orleans magician says he was paid $150 to make it"
     publishedDateTime: 2024-02-26T13:01:00Z

@@ -55,17 +55,6 @@ related:
         width: 1200
         height: 743
         isCached: true
-  - title: "Gateway 3.0 to AI 'RAY': Razorpay launches a suite of fintech products"
-    excerpt: "The Bengaluru-based fintech firm marked its foray into the marketing and growth solutions space as it launched Engage; a full-stack marketing growth suite"
-    publishedDateTime: 2024-02-23T14:17:00Z
-    webUrl: "https://www.business-standard.com/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
   - title: "Ai In Fintech Market Growth, Share, Trends, Analysis Report 2024-2032"
     excerpt: "Financial firms are adopting artificial intelligence (AI) to automate intricate and repetitive tasks, such as data analysis, risk assessment, and user service. This automation enhances efficiency, reduces operational costs, and minimizes human errors."
     publishedDateTime: 2024-02-26T02:55:00Z
@@ -94,6 +83,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How AI and Machine Learning Are Shaping Fintech"
+    excerpt: "Fintech has evolved radically in the last few years, thanks in no small part to artificial intelligence (AI) and machine learning (ML). Influencing everything from core operations to how we make critical decisions, AI and ML have found their way into ..."
+    publishedDateTime: 2024-02-28T14:57:00Z
+    webUrl: "https://www.finextra.com/blogposting/25809/how-ai-and-machine-learning-are-shaping-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 36
   - title: "ASTRI sets up FinTech and ESG Alliance"
     excerpt: "The \"FinTech and ESG Alliance\" marks ASTRI's third alliance formation ... Innovative Mind, and IoT Sensing and AI Technologies. It is applied across six core areas which are Smart City, Financial Technologies, New-Industrialisation and Intelligent ..."
     publishedDateTime: 2024-02-25T23:59:00Z
@@ -163,6 +161,20 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/0479e46eb8f30612a33c2f67fe60a88e_M.jpg"
         width: 375
         height: 375
+        isCached: true
+  - title: "From Innovation to Investment: The Rise of Top Fintech Startups in Today’s Market"
+    excerpt: "In a world where technology is constantly evolving, the financial industry is no exception. Fintech startups are revolutionizing the way we think about finance, from banking to investing. Join us as we explore the rise of these innovative companies and how they are attracting significant investment in today’s market."
+    publishedDateTime: 2024-02-28T16:05:00Z
+    webUrl: "https://techbullion.com/from-innovation-to-investment-the-rise-of-top-fintech-startups-in-todays-market/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/FinTech-Startup.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Investment in fintech anticipated to have a soft start in 2024"
     excerpt: "Given the ongoing regulatory changes and ambitious net zero commitments displayed by governments and businesses, it is likely that ESG-focused fintech solutions will chart an upward trend heading into 2024. Moreover, investor interest in AI continued to ..."

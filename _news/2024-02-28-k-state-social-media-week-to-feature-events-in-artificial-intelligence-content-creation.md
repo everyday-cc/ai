@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-ev
 cdnAmpWebUrl: "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: WIBW
@@ -40,6 +40,20 @@ related:
       - url: "https://www.searchenginejournal.com/wp-content/uploads/2024/02/ppc-experts-on-ai-in-ppc-65d35dbb55929-sej.jpg"
         width: 1600
         height: 832
+        isCached: true
+  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
+    excerpt: "cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation. With the support of AI technology, intelligent translation has ..."
+    publishedDateTime: 2024-02-28T15:56:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/more-extensive-more-timely-more-professionalai-simultaneous-interpretation-breaks-the-boundaries-of-conference-communication-302074386.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg?p=facebook"
+        width: 1600
+        height: 838
         isCached: true
 
 secured: "bjMIBcYmJLKj2eIhwtkqxCBDEhe5xAF4DnQQ3Iv8LLgowDaoL0OZxN0vmGmdlmUdBOziBTPkD61vOJIamblK09WuLciNl7KrXxZpTNv0NqOyfhWxl85I++wbVTbiZZkLLoxFyecHfWiK5ztoJcuOSELJJ99xxJmV/l4c4y5dwv0w9IL3V5BdTUcrVjY7kRtGdgtd9f8sg/R/T5Ry+ek3B4gNt5Lw8wRQS8Z9x548LlwdWD8hITKFoa4iPUphkQ6in6YAhF37bDySGjk569wTWyL8snARYep7QrlPejYLzVQOGVsMJHzBT8ifGtpti3ixiFxvBNI4g5dH9/Z6B1UAUvfv7XhyXI6uQn+SY3i2RHwNjdJHudMAaRK8q9XnehLkYJXheFE8iIYT+TEKOM1UvHZST0w1Db9OVz42ZFaKQvstlFwIGa83uWD9M+44VicWA6FEjP+IzDyzSf52Daq26artF11TGiQ+nmOSjKD54+7nBd+newFfh/85Ifw7sxH9nC6/N0/85LqafhYhHT4tEQ==;jFIz6KeqNMgntHNCAo7ylg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-reveals-new-ai-access-principle
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/"
 type: article
 quality: 100
-heat: 530
+heat: 540
 published: true
 
 provider:
@@ -596,6 +596,15 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 25
+  - title: "Intel Sets Sights on Dominating AI PC Market with Ambitious 100M Target, Partners with Microsoft"
+    excerpt: "The tech giant plans to ship 40 million AI-enabled PCs this year and aims for 60 million the next, targeting over 20% of the global PC market in 2025. Intel’s approach emphasizes not just the performance of its chips but also the overall user ..."
+    publishedDateTime: 2024-02-28T08:52:00Z
+    webUrl: "https://www.benzinga.com/news/24/02/37363100/intel-sets-sights-on-dominating-ai-pc-market-with-ambitious-100m-target-partners-with-microsoft"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "aQs3Z3nzgxl/J0XboWCJrCW5DLLx+bV8ULOxs76j3SVXRLCN9COqJy4/mQPanuc5r1jyw2moV8e/Amh3lPrskCzB78+GexlTMnjx143xfvTnPZrna5k++PUXj/gx6bOJgCoqOplO8+1nio0D/1m0SMH1v9plHPey66aVxeD7BgD43zRr/2grRBg8DFVX4SBjcT/58PEHPzFJGruR7htQ4AfWN32hBf2PWfYAGTd65S8SeSPjRPBhLOFLe6f0BmqdQyzI72QDL19DluuqXizAokpUcV1WIdv7DXpH8qBPj3llgzlg+1Jd7Rknq0H0Dy4wZijBVHRv4ozHjxoEvDchZ6iDeY4TtcC6Wn75X2uT+sabJmY/0ykHBvCfgrSTHFfkX12wK54ModrPP3WTsyxZ6XgQgqqQWyBVHNlh1gMt2I76A1Tj3LJcluTm2FHCy7gBh9njkaDJe6nfj+s4tzUjPIL+yJP/74irt0NKdeXIR/DlS79jUYk7lm26vyToFO49AhWyzmA/2lbl/+I+dPB8nA==;xnrk+ojxii16ZP3Pe3HEkw=="
 ---

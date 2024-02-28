@@ -55,6 +55,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Zuckerberg meets LG, Samsung chiefs in Seoul as Meta ramps up AI ambitions"
+    excerpt: "Kim said Zuckerberg will also likely talk with Samsung about producing Meta-exclusive chips to ease its reliance on the AI chip market-dominant NVIDIA. Zuckerberg’s visit to Asia comes as Meta ramps up its efforts in artificial intelligence amid a race ..."
+    publishedDateTime: 2024-02-28T03:03:00Z
+    webUrl: "https://kstp.com/kstp-news/business-news/zuckerberg-meets-lg-samsung-chiefs-in-seoul-as-meta-ramps-up-ai-ambitions/"
+    type: article
+    provider:
+      name: KSTP-TV
+      domain: kstp.com
+    quality: 17
 
 secured: "68orJm62GzvAlZRk0YzXC0GfkPMKnTVLSLmfbSuvuZBMiYdmVC3KtW6ahQpB0XaJedLLpmj2Pk7n2Tit/0Zp3BFpLSpKBbSDO7DhH7sAFybXDocCFDq2YHlCG4KucGjflc9GAbFR8oyaQpUEHgBIThR0JVTZpXbEVxMwlBH3Z7ej0CpOXlMLAULsE5ZKxkgMpzYor0V3jn+BJsrNoZ5cG/6OOVGaXP6k/FDX7UwFOMgU2crU3OewtvjbEE2oRlWnJrsbFKzQrb2XAai2cCKQL7Vm/15Li3yEylxFQ7eLQleuhJu1+VLDDSTlSUGrJ6Kp0CvlVTYYAPXwf0uH6LGSLjxKjM6ZOxfF2mkD6u/7kIE=;sq7XXVyWjDdWnGXLduCNUQ=="
 ---

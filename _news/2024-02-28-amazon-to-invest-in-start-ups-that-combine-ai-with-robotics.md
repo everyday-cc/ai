@@ -25,21 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Humanoid Robotics: The Next Step For Artificial Intelligence"
-    excerpt: "Robotic technology is evolving at unprecedented speed, to the point where robots can learn by watching what humans do."
-    publishedDateTime: 2024-02-23T15:04:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/humanoid-robotics-the-next-step-for-artificial-intelligence-7458.html"
+  - title: "Amazon to spend $1 billion on startups that combine AI with robots"
+    excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
+    publishedDateTime: 2024-02-28T14:48:00Z
+    webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?view=grid"
     type: article
     provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 69
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
     images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/andy-kelly-0E_vhMVqL9g-unsplash%20free%20human%20&%20Robot.jpg"
-        width: 5472
-        height: 3648
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
+  - title: "Startup Ideogram Raises $80 Million for AI Image Generation"
+    excerpt: "Ideogram, a company developing artificial intelligence image generation technology, is raising $80 million from investors — a large round for a startup that’s less than two years old. The Toronto-based startup is set to announce its Series A funding ..."
+    publishedDateTime: 2024-02-28T16:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-28/startup-ideogram-raises-80-million-for-ai-image-generation"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
-secured: "uqhoOLtmYkzLfReMVpksdpY1UrR1frU1Etx/vDBiriil03c8dfvaMTEQgpjaYCsvl8JXEXZTZYUNzrTIbdB24Ell9XFb1fbX7n6mTzG8atbRMD+nesJXZU9hOAX4IkVQymMlvfB3MaZsmsNW9Tdk3lG9WGx3ULeISYXSUOj+4WZsVb8+b9Kjq0wKi/tPtW+vbUe4jvYzbWBo5mbD/GyUKDZuOws6lfwPwavcjUe75t/Lv4BLCDsZzmvR1uwSaWC/Pq3GesQO/m38qPXm/mtWadfmpfq6G1TQAySKvaePaaOL+VH/nU9oVeb9t5y3flogrkXR0LSVEDZwmESkXmaJZKo5aUmRJ9LfGj2h/1zfqmY=;sfnXVupZS9bp088o59z1YQ=="
+secured: "14wx5x6HgMT/QMPCIckn0IoD+GVLpp2mMDq55y4EOcJWFrAgeYuEI59cbOiqKcmeHyffOKwrBUsrdWR/aKljvLMKauIWRY2fjco6s/fg27dYk2m+Yxer6ZyouW9lD09EfiaLtZKaQ6v9FKo3OaFnVX5QU72HlZkQOgjjFOjJFw7/h3XdyNTcFFhVI6OarCrcOnajAVACKnPETY2NY+kqtr+wGTtgN641HoHyo9A+M7QIILm4+Mh1DK+eS/uCoTFijtFfMWWhK/wfmf6jk1wA+H/vddertdXwmAvsVUKWm8bKoRA8BbuvF1HgypP3CieHgnyWa2Rz/j8TlJBvHXbyd0g8I0eIjqFYSscdjyW2Km1QIjhtXZqGGbRBH9D6RmeiPDvhR2zTOd3H/3gMH3i5JyzDgwPeU4Y7sYkPF9VGIvyIAgz7KqW7cg2vAlupM9qftn30Oxq2t+vHrTugRitNO2CjTN/GSkwWl5BHPdwQAwFcYhXWqUkPrUY8WHUVQW9d0uNhvVm8xLWu6e7n+of7yg==;UKEgCTTkIJcIxVzO1pksDQ=="
 ---
 

@@ -135,6 +135,29 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 19
+  - title: "Amidst Backlash, Google Introduces Gemini AI To Messages"
+    excerpt: "every Gemini user across our supported countries and languages has access to Google’s best family of AI models. To better reflect this commitment, we’ve renamed Bard to Gemini.Google Blog Google certainly has big plans for Gemini. The app is currently ..."
+    publishedDateTime: 2024-02-28T04:28:00Z
+    webUrl: "https://techreport.com/news/amidst-backlash-google-introduces-gemini-ai-to-messages/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 19
+  - title: "Meta Wants Llama 3 to Handle Contentious Questions as Google Grapples With Gemini Backlash"
+    excerpt: "As Google grapples with the backlash over the historically inaccurate responses on its Gemini chatbot, Meta Platforms is dealing with a related issue. As part of its work on the forthcoming version of its large language model,"
+    publishedDateTime: 2024-02-28T14:31:00Z
+    webUrl: "https://www.theinformation.com/articles/meta-wants-llama-3-to-handle-contentious-questions-as-google-grapples-with-gemini-backlash"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 14
+    images:
+      - url: "https://tii.imgix.net/production/articles/12353/16bd3521-2ac6-4b94-a143-8b1825e0fc6d.jpg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "zB/LS7Bpqxy4zOVe4hR3fHMPsG59XkBZ5wh6oJ6PzuIRuPweM81Xf00DyvxnbcP2A0bHG96G+Pq828rVy4uZARP9IHqLfkW8CyGYk3LwOgP6rDFfsERliQu6/QIcyBArOuDNyMDBI+O3PMBUdScDBPBeoQouWqwEuKrLwlvW1mLAmOqTlvqzAEVxd5mGr0i69Ijm/WyHqFaXZuSZpJIKEDbvKxg8DlOxTYk1PuKG+Ebq/qVl1tZ8I3KgRpZtX/n7/CTkZEi/s5HCaADnW2335zBEJCB1GS6dD0KBipHrcJxf4dkdCK6qYtjMSr74aBmmA/ntYkPI1VmIIC/ptNVLa+Du6IceAg9p4qkyVebJM2RdkJxQF+CN1wNhapDB2Zajglo+LibzFO9k3sJ1ExOS7jJqBNU/to4qJQUJ8dmG1wn77NhURUKqPgCoGj4RF3QP2yeBy297hhcklRQKCQiq8A9bUrRDhc2jj5rHhWImm3BHgJHQCuxwVCpI9giE4kzHLH2dPIIcHdPk/R0dXLtswg==;9bSwdVWhNHLjLrdStA8P4g=="
 ---

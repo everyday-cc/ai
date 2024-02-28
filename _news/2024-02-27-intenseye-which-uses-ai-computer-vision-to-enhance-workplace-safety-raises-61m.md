@@ -18,6 +18,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Startup Slice, which uses generative AI to ensure equity compliance, raises $7M in seed funding"
+    excerpt: "while its Chief Technology Officer Aviram Berg is a skilled data scientist and engineer who formerly led the data management startup Dataloop Ltd. Its third co-founder, Chief Product Officer Yoel Amir, is an AI product management executive who forged his ..."
+    publishedDateTime: 2024-02-28T14:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/28/startup-slice-uses-generative-ai-ensure-equity-compliance-raises-7m-seed-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 5
+
 secured: "RHcayEu7Dw8w6jB1ujgxb7ltmLR/sySgpqIAOuLd3ZcGrVquU1xa0ihY9HfXQutEl5Jpp/XiuU5VcauEO/+ImhWp0HP0T4Rpo/umnqIKzkTh0WzaMqzIa+jCM6dm+9IuxoY0VwU6TARH6HgMPRCo3F0S0OOC9HsjdrWNxofGxGPzckoENfBrmAJzKgt49jyleM3F5omZUu5KPR5VAfPMi8pmkeCJk5E/FaZXaXu1ZcTgNH/kw8QPO+EUXiKfehHadtaaJNUA+P8MT/1ap4j0w8hhTgTB7WwDUMlLXjYna0kgiOViMQUrM/RxL8SJ7mdBN84fv+1NJRb37Wo4K+6Of4hic3shc5Oiywht3yTph+q2WLifFOuK4Emx5tHu3TxerQUwmFNufEOASPqlfdbiMlAR1gJIODE1Er4jXsTlCWusY+/Y6axcG5UenoUFVbu4rNAa3d+kSMxs33EL97+Q1BZGRKwvyRoXnP+GdevpgcZu9bDqU6gb9IhZ9OdQyZdNFAse/RAoTpswYI02murBdw==;EQ15sMacQXgEkz8jA/aF4g=="
 ---
 

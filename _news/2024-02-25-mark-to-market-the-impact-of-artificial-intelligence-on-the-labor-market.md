@@ -7,7 +7,7 @@ originalUrl: "https://qctimes.com/news/local/business/mark-grywacheski-ai-labor-
 webUrl: "https://qctimes.com/news/local/business/mark-grywacheski-ai-labor-market-impacts/article_6c3045c6-d285-11ee-b892-a7d79e18e0d8.html"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI In MarTech: How AI Will Impact The MarTech Industry"
+    excerpt: "The crucial part of AI-powered MarTech systems is to balance human creativity with the automation tasks that they are responsible for. Each year, I have seen new AI and tech startups spring to life. They claim to assist marketers in automating their routine tasks as it consumes almost a third of their time, according to HubSpot."
+    publishedDateTime: 2024-02-28T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-in-martech-how-ai-will-impact-the-martech-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "cLZWL0TwEKOFU/i3BzJhaFmfT9Rb3b64Zz0cans9JCgKvxH7iUcoYFNDPPRZoamaMdpExJzLFSqA17ZthEjyQmoRSXZ2TryXPLw0eMHqzVesFl1elmmveqGidx5dtgYupWSn0hEGu1EURLThKsD4q0IymicEhsylk59v4rVo2xFxYTKCfvx3bbc6gpkbP59PcyVsbJ0qM6cX6qIFkUO8+Parm+Ajwxq4arpy6qc/yPHClBq36g2yPqrxdodmluSuz/zA5jWh8oN+HPBcSyd+/8lYchjVtmU0eWMnr6Ny6IvKHQphbSKzQJroBLEM2PiKIkWEcVUBXDC4cL2XX+LgWbq6MfKbaZCCqkXjjOInGJSsvpdWSDMTYXrYjTqw2hr1tw13qqEFTW3vY0YubX64L3jtoxTrnWAN56uzErnM/O+ENcNzMMsVEw8TQFAFsFXlYPVAteSj4w3Db0wOQjWy2z68PT2UO9JgyUc/u+hU6oWadsvpGyaAGUoStIodqFkKakHkqnAI+eZFP3mkqbpJ9Q==;GOranJWmGN+FWcrnWKsXjQ=="
 ---

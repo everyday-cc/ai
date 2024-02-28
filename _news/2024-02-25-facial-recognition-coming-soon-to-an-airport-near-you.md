@@ -35,31 +35,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "GHMC invites bids for facial-recognition biometrics attendance system through mobile app"
-    excerpt: "The Greater Hyderabad Municipal Corporation (GHMC) has, through a request for proposals (RFP), invited bids from contractors for the introduction of facial recognition biometrics for recording attendance at all levels. Describing it as an ‘artificial ..."
-    publishedDateTime: 2024-02-23T15:12:00Z
-    webUrl: "https://www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/ghmc-invites-bids-for-facial-recognition-biometrics-attendance-system-through-mobile-app/article67879087.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 35
-    images:
-      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "Outsourcer Serco ordered to stop using facial recognition to monitor staff"
-    excerpt: "Outsourcer Serco has been ordered to stop using facial recognition and fingerprint scanning to monitor attendance and pay staff as the UK watchdog cracks down for the first time on an employer processing the biometric data of its workers."
-    publishedDateTime: 2024-02-23T13:56:00Z
-    webUrl: "https://www.ft.com/content/0da706ab-803f-430d-bea9-485962cbc201"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "+b1F8JWIaRO6sryVBBzWjbp01Vq9VOGmpN804v/HNmxUIpWqR3a+XwxR7ZRqccTq2a3xRLuYrcvWynFvpJGjhiaGVLOq0NILJ3QTV5dP5SPT1CYFtfxaqpHiRZMkoL4tYKffFTYAUkWqG6HcvYXFn11R7tfwxpnF7uyjhj0dJnqgF6JraA1Mm+lH8zONjqbFT1/36apDDCMMnrUJTYJozudx7N1/TuQlpr9sHnZYqq0Ebiw5rWWsZhv7yLochYfSyEDKo52NaT6YgZH95TAZnfENjzk2RGVWZ6/O+Yu609nFnYio+mgaCb++RIkMU4EY2ATpzVy9HiAPYbBCBOIFWRd2lPVdffr/ucWGrIEfGQc=;lPx/dlrG99pIpAzQQfA1lA=="
 ---

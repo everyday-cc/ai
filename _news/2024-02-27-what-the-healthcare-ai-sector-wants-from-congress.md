@@ -33,20 +33,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "A Snapshot of Artificial Intelligence in Health Care"
-    excerpt: "Artificial intelligence (AI) has an important role in the future of health care. With its potential to parse through vast amounts of data, glean critical insights, build predictive models ..."
-    publishedDateTime: 2024-02-23T16:13:00Z
-    webUrl: "https://www.statnews.com/a-snapshot-of-artificial-intelligence-in-health-care/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 39
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Meta-Image-Premier-Pulse-Check-Report-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Where AI shines in healthcare"
     excerpt: "Several major health systems have added AI-assisted colonoscopy devices, such as Iterative Health's Skout and Medtronic's GI Genius, in the last two years. Computer-assisted colonoscopy methods could lead to a 55% decrease in the miss rate of adenomas."
     publishedDateTime: 2024-02-27T20:38:00Z
@@ -88,6 +74,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Regulation To Promote Responsible AI In Health Care"
+    excerpt: "While we are artificial intelligence (AI) optimists, we also recognize the potential for negative impacts from AI. A primary goal of the HTI-1 final rule is to address these concerns by promoting the development and use of AI in health care that is fair,"
+    publishedDateTime: 2024-02-28T14:18:00Z
+    webUrl: "https://www.healthaffairs.org/content/forefront/regulation-promote-responsible-ai-health-care"
+    type: article
+    provider:
+      name: Health Affairs
+      domain: healthaffairs.org
+    quality: 19
 
 secured: "6Jlq0cnvhoaEuuuVrOd+BgdJqvGm8nCaNSd1sf8SFLA6TVKnyovtgkjmO+upASN4EmBTcfFnuUzMtq2k3+JoQ1r7ijNlUZrqhd+yOvQhVbqXVyo0HvjQ//XBEfuxdoBJzeJN4jaao5OXtdXa+C6axp2FEj5dfdFZJ/sIo2fdFluOjU0qHsYJfgVX6PeHbRS/3CCaTffzQ2ce9/g135KJFW+YO3GKUQBJ5bZWxJnlseYhwInDN//hCAwWjGwBS71ULKLQAy7aeunmmjMvdoeV3O/Zw1HD54IURypmCGJYrrIhXJDuXzYohKcixoebdI116h28w+XhYU5xNw1hY8M1eRfHmfzx9rRrJnpMm3gWcdqubUB/vhaG2kE1glCgUzysbUtmCAnPIlxInbK2FqwRbBGfrO8Ppftk2G2bujZ+1nKCQH7OF7/QhPvmj5HytLLJ7TC5WmwbrIZOtzyiq4tii1pgLmKCXisN9SlTA2uif/3DzN3zGJxbNzCiMu2t+tOBBeyfuP0ZvzrDRgQJbKNYKg==;BWDI7I7ewSxKFmgQENJnpQ=="
 ---

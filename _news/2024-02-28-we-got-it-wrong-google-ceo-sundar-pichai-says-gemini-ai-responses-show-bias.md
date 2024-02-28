@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias/amp-11709118937108.html"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "Google CEO Sundar Pichai calls Gemini AI photo diversity scandal ‘unacceptable’; full statement here"
+    excerpt: "Google CEO Sundar Pichai(Reuters file photo ... to address the recent issues with problematic text and image responses in the Gemini app (formerly Bard). I know that some of its responses have offended our users and shown bias — to be clear, that ..."
+    publishedDateTime: 2024-02-28T14:48:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/us-news/google-ceo-sundar-pichai-calls-gemini-ai-photo-diversity-scandal-unacceptable-full-statement-here-101709130168773.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 4
 
 secured: "3c4/Mrb7XRP0d5Lv0jL/NuquDFkUskTQCNdaLcjWfSggLVz4B59AuuNiEexuCc5JoHEPRyGqk+7bJlovUTbf0Xod8zNXDNx2MSzAS5hCNl+1JHAV7sgOmgLaWry4eUJJfU9fgbusJsfUdEaTh9AkMdgPUETkE550vT2Z7sNCmB42Il6scQaXssHqM6HwfvvA6t59WFaD3YvYJLtKhZ/r6cd59CdnEE3u2HHva5ZbZjBv0t4e+1fImWiK0UvWtyuD8PYf1iIhhRVcQG116bKrkVbiSzUnuXh5oQRHgxmnLECMHHdB5nNSrwxltdS8XGlpJf15A2Nmy2I8Ymyynr/bMTYuzqV+fOK/po2V2xwXP58=;pTL3FXwWwK5xr9LITN4h7A=="
 ---

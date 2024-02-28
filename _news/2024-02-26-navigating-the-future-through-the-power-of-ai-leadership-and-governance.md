@@ -45,15 +45,6 @@ related:
         width: 1260
         height: 708
         isCached: true
-  - title: "How Artificial Intelligence Is Reshaping Banking"
-    excerpt: "Artificial intelligence is transforming the banking industry, with far-reaching implications for traditional banks and neobanks alike. This transition from classic, data-driven AI to advanced, generative AI provides increased efficiency and client ..."
-    publishedDateTime: 2024-02-23T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/how-artificial-intelligence-is-reshaping-banking/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Buy Rating on Microsoft: Strategic AI Partnerships Poised to Enhance SaaS Offerings and Operating Margins"
     excerpt: "Havemeyer believes that by integrating Mistral’s sophisticated AI models within Microsoft’s Azure AI infrastructure, the tech giant stands to potentially infuse its SaaS offerings with next-generation capabilities. This move could allow Microsoft to ..."
     publishedDateTime: 2024-02-26T15:55:00Z

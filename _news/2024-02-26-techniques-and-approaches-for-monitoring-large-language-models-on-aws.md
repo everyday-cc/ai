@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/techniques-and-appro
 webUrl: "https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Vulnerabilities and Security Threats Facing Large Language Models"
+    excerpt: "Explore the vulnerabilities of large language models like GPT-3 and ChatGPT, and discover strategies to protect against adversarial attacks, data poisoning, model theft, and infrastructure vulnerabilities,"
+    publishedDateTime: 2024-02-28T16:44:00Z
+    webUrl: "https://www.unite.ai/the-vulnerabilities-and-security-threats-facing-large-language-models/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 41
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2022/10/data-poisoning-feature-400x240.jpg"
+        width: 400
+        height: 240
+        isCached: true
   - title: "Google’s Large Language Models on Android Smartphones by 2025"
     excerpt: "Google expects that its currently available Gemini large language model, will begin to get embedded into devices starting next year."
     publishedDateTime: 2024-02-26T12:58:00Z

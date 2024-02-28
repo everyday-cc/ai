@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/02/26/can-we-handle-ube
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/26/can-we-handle-ubertechnology-yann-lecun-and-others-on-controlling-ai/amp/"
 type: article
 quality: 87
-heat: 101
+heat: 97
 published: true
 
 provider:

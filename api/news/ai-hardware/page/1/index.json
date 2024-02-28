@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-29-nvidia-stock-is-it-still-a-top-ai-stock-in-2024.md",
+      "title": "Nvidia Stock: Is It Still A Top AI Stock In 2024?",
+      "excerpt": "Those applications require specialized hardware and software, such as high-powered processors, memory chips, solid-state drives and robust AI development platforms. The table below shows how these stocks have performed year to date and over the last three ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor-hub/article/nvidia-stock-still-top-ai-stock/",
+      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/nvidia-stock-still-top-ai-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65df4e1cf4fc67b4ae4c124e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T16:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-mwc-barcelona-2024-humane-demonstrates-its-wearable-ai-pin.md",
       "title": "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin",
       "excerpt": "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity.",
@@ -97,49 +149,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-27-us-chipmakers-want-more-subsidies-as-ai-shapes-the-semiconductor-industry.md",
-      "title": "US Chipmakers Want More Subsidies As AI Shapes The Semiconductor Industry",
-      "excerpt": "Leading chipmakers, including Nvidia Corp and Advanced Micro Devices, Inc (NASDAQ:AMD), have earned breakthroughs in AI technology chips courtesy of the U.S. and global Big Tech companies splurging on expanding their AI moat. Analysts tout the chip ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/us-chipmakers-want-more-subsidies-as-ai-shapes-the-semiconductor-industry-1033109126",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/us-chipmakers-want-more-subsidies-as-ai-shapes-the-semiconductor-industry-1033109126",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T14:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-27-ai-market-structure-in-the-future-few-engines-many-applications.md",
       "title": "AI Market Structure In The Future: Few Engines, Many Applications",
       "excerpt": "AI will be a large sector but with only a few corporations providing the large language models. Many other companies will provide applications that use the LLMs.",
@@ -148,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -392,7 +401,7 @@
       "originalUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -479,7 +488,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/articleshow/108005960.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -809,7 +818,7 @@
       "originalUrl": "https://www.bbc.com/news/business-68387018",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 314,
       "tags": null,
       "images": [
         {

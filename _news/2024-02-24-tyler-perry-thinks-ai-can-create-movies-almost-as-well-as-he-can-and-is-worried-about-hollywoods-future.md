@@ -22,44 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Tyler Perry halts £630m film studio build over AI fears"
-    excerpt: "US film and TV giant Tyler Perry says he's putting a $800m (£630m) expansion of his studio on hold after becoming concerned over new AI technology. He was due to add 12 sound stages to his Atlanta complex, but says he has been put off by the release of OpenAI's video generator Sora."
-    publishedDateTime: 2024-02-23T15:42:00Z
-    webUrl: "https://www.bbc.com/news/entertainment-arts-68384657"
-    ampWebUrl: "https://www.bbc.com/news/entertainment-arts-68384657.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-68384657.amp"
+  - title: "After the launch of OpenAI’s Sora, can Hollywood adapt to the artificial intelligence ‘matrix’?"
+    excerpt: "The threat of artificial intelligence to Hollywood’s status quo entered a new phase of reality earlier this month when OpenAI, the company behind ChatGPT, introduced Sora, a tool that takes text-based prompts and uses them to generate photorealistic ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/business/newsletter/2024-02-27/after-the-launch-of-openai-sora-can-hollywood-adapt-to-the-artificial-intelligence-matrix-the-wide-shot"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 40
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6038/production/_132723642_gettyimages-2014322799.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Tyler Perry halts $800m studio expansion after being shocked by AI"
-    excerpt: "US film and TV mogul says he has paused his plans, having seen demonstrations of OpenAI video generator"
-    publishedDateTime: 2024-02-23T16:20:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/feb/23/tyler-perry-halts-800m-studio-expansion-after-being-shocked-by-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
-  - title: "Tyler Perry Halts $800M Studio Expansion Due To Advanced Artificial Intelligence, Admits ‘Jobs Are Going To Be Lost’"
-    excerpt: "Tyler Perry is halting plans for an $800 million studio expansion due to rapid developments he's witnessing with artificial intelligence. Tyler Perry is halting plans for an $800 million studio expansion due to rapid developments he’s witnessing with ..."
-    publishedDateTime: 2024-02-24T00:00:00Z
-    webUrl: "https://www.blackenterprise.com/tyler-perry-halts-800m-studio-expansion-openai/"
-    type: article
-    provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 14
-    images:
-      - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2023/11/GettyImages-1232534928-1.jpg"
-        width: 1024
-        height: 681
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7b986af/2147483647/strip/true/crop/2400x1260+0+31/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff7%2F94%2Fe325cde7454e815a6f1f4415a068%2F240227-wideshot-hollywoodaivideo.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "+AJ3ManoUEuBHL4xYBNhWQWvZfaXyweYlG+gzIp1i4Vq/1D/25XUE7NTNsHM00fB5rkvrmI0+tDuM+se/GdBjFSReSajOSgvC6zChMq49OBw1F2IqNn5BvQD/q3PPfg7hhtHrtDgCuJE97t2R8qZwC7GHiM/Wlh99eqSfogN7udggDnb7lr0iVBBVRsh96QhE13P7eWLap/6tSPurJQkK3CP+lJk6FPl+hSgyCSV95wfIJGgMYUHCH7En6WObWTwE5Cz9iDNfvpKZJXPFzn+fvtyj5C759hvVemOHXl3ne1nCo7hnIMuGrzu/mhux03/cZaJPjVqyzlDtZ3A6kCx1vJrvZTN//XwUSZ32ZI1dMWJXMAAqVE8632YYf887pySTmTee1W89/OT4IWsfY8HJ0A69vA7kOn6hEEgP4H/rlhmUMc+QgZW1s4oc8fNmShrTa7uHrxKb8k1gqJ6xnxJGJV6SlZBDrfWnW/Wziy3cb8azTSyjlCVFQGMEfn493DhTfQw2wjFAQwVmikaJjv2Ow==;30wNaKojU9brTer1UTJv/Q=="

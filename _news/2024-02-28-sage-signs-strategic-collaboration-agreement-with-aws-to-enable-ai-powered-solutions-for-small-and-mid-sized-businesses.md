@@ -39,6 +39,20 @@ related:
         width: 1005
         height: 713
         isCached: true
+  - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
+    excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
+    publishedDateTime: 2024-02-28T14:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969722.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 47
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "5cYxt+UGj6VLnP4XS3U7jtyx1EOjA0zFC7jGHo/DwMxz8uWFRXZz7Ke1jmzrxQYnyzKeRQ8V1tPvFH9/260KyeZHqrcakmigdHx/6Wewo3QzW9n1fcP/sfUkvU8b7e5qy6B5AobPUOSxUwLbelPJIElb67QLuf0h+hrC/+W3Od0UvQwA/vZRDuwsxpUPVi4cNCIbOdgJbp6sHEhkJ8rnT2OKHsgG5xR69d6WbVeU9KQ8FRrL51ZgEK2zUAMs0KuVxH18ynhVlP3VYpNXz1xO55bEG8akokBJ77kzPhmb8/hYACzKa8frCs/G8WtetDb66eyVwkAZlrEcO7cB+182UnlRjo3y+vvvSS3iq5WTUWo=;9D6KN2Hkt8DSLOnLeS5Dmg=="
 ---

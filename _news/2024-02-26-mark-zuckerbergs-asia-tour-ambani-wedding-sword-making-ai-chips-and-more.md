@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-as
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/amp_articleshow/108005960.cms"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Zuckerberg meets LG, Samsung chiefs in Seoul as Meta ramps up AI ambitions"
+    excerpt: "Kim said Zuckerberg will also likely talk with Samsung about producing Meta-exclusive chips to ease its reliance on the AI chip market-dominant NVIDIA. Zuckerberg’s visit to Asia comes as Meta ramps up its efforts in artificial intelligence amid a race ..."
+    publishedDateTime: 2024-02-28T03:03:00Z
+    webUrl: "https://kstp.com/kstp-news/business-news/zuckerberg-meets-lg-samsung-chiefs-in-seoul-as-meta-ramps-up-ai-ambitions/"
+    type: article
+    provider:
+      name: KSTP-TV
+      domain: kstp.com
+    quality: 17
 
 secured: "UosLY+3o+3wGHIBlB7ll9IBOgsQjSppM0mZXeiosIQ+nxBoj7J0npZ69adbn3jHwkj7ROXcN2mfMAJd2v96PKt3wgP1qlpLtN2lXRyNxA5Ro/Sm5K+omPJ8Q1N6kKfKJ5lHbV0Y7/sOhvhTlQ6+XeLhR+YyNEWRIiK/MAkVR7c+9Pz0lZVSylMMJpycYSaUZ+sU8IXCjbAnEfT7qSEDfRvEjBB9YOqrYO2DkKp+vN2wl7mBwo9xd1GpjEYoghh8heSyx+/7kWa3/2FIDnNV9qSGfcEQpaD24bmEeXNzFsSqCqi2Bf01LloDWj0wsqxyHT2kmUJJhuTSaTlb59CspGlbIFwdfjrGcd/ZMy8S5VoM=;eAob9DwIiZJiz4w0aHsopA=="
 ---

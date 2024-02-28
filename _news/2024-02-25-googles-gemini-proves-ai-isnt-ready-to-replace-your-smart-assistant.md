@@ -139,6 +139,29 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 19
+  - title: "Amidst Backlash, Google Introduces Gemini AI To Messages"
+    excerpt: "every Gemini user across our supported countries and languages has access to Google’s best family of AI models. To better reflect this commitment, we’ve renamed Bard to Gemini.Google Blog Google certainly has big plans for Gemini. The app is currently ..."
+    publishedDateTime: 2024-02-28T04:28:00Z
+    webUrl: "https://techreport.com/news/amidst-backlash-google-introduces-gemini-ai-to-messages/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 19
+  - title: "Meta Wants Llama 3 to Handle Contentious Questions as Google Grapples With Gemini Backlash"
+    excerpt: "As Google grapples with the backlash over the historically inaccurate responses on its Gemini chatbot, Meta Platforms is dealing with a related issue. As part of its work on the forthcoming version of its large language model,"
+    publishedDateTime: 2024-02-28T14:31:00Z
+    webUrl: "https://www.theinformation.com/articles/meta-wants-llama-3-to-handle-contentious-questions-as-google-grapples-with-gemini-backlash"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 14
+    images:
+      - url: "https://tii.imgix.net/production/articles/12353/16bd3521-2ac6-4b94-a143-8b1825e0fc6d.jpg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "rdk0joPlBV4Lx4m4Y1Nv/PZQuDB/5ckLuSEiNi7wQHqawz7tPeKMEhBHTIlDVv31oq9VwYxKmEyzwsPATaF4uNFZTZdm9b9gW7p2KRYbKx3ghyArU88PhJeqdoSjWrapdJ4aV+28zKDSqOeXN5EhwRm1diR/rOHJ8fsYI3ro21YdkSHfN315n306UXDIM/aTF2nBzI1xdHEtb0fDaKGpy3bfkgbdCVrk/kTN+e+tW6O8/EDIQteCwOCaUJO6BbVwTxSXAMsn32h1X8E6w8xHfGNq1GpKARqKgu8wtWhc4sbbkB3ZyFCalAQJwJKrxGJ8EOLKef2Twf1xVo3LvCyZ/qvEsLLkVKUphSZOSn0fFKk=;kyl5VU6HC2l+eUFd+VByrw=="
 ---

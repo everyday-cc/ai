@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 862
         isCached: true
-  - title: "The Protective Paradox: How Artificial Intelligence Helps Solve AI Cybersecurity Risks"
-    excerpt: "For cybersecurity, artificial intelligence (AI) is both shield and sword. By implementing AI-driven tools, businesses are better protected against potential cyberthreats. By arming themselves with these same solutions, however, attackers are finding new ..."
-    publishedDateTime: 2024-02-23T16:56:00Z
-    webUrl: "https://www.csrwire.com/press_releases/795631-protective-paradox-how-artificial-intelligence-helps-solve-ai-cybersecurity"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 44
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/AI_Cybersecurity_HARMAN_2.19.24A.jpg"
-        width: 768
-        height: 402
-        isCached: true
   - title: "What organizations should know about cybersecurity in the age of artificial intelligence"
     excerpt: "Artificial intelligence (AI) brings many benefits to organizations, from process automation and increased efficiency to enhanced customer experiences. But cybercriminals have the same access to the technology. As it evolves, so do the risks."
     publishedDateTime: 2024-02-26T16:21:00Z

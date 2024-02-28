@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/llama-3/"
 webUrl: "https://www.ibm.com/blog/llama-3/"
 type: article
 quality: 99
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65dd498bf2b4e164c49a75df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
+        isCached: true
+  - title: "Exploring the impact of Artificial Intelligence"
+    excerpt: "Visitors can dive into the realms of artificial intelligence at the Muscat Book Fair, where the evolution of this groundbreaking technology"
+    publishedDateTime: 2024-02-28T16:08:00Z
+    webUrl: "https://www.omanobserver.om/article/1150321/oman/exploring-the-impact-of-artificial-intelligence"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1150321"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1150321"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 59
+    images:
+      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2024/02/28/2594140.jpg"
+        width: 1000
+        height: 819
         isCached: true
   - title: "Artificial Intelligence and Its Impact"
     excerpt: "Artificial intelligence (AI) has emerged as one of the most disruptive forces in geoeconomics and geopolitics. Its rise to prominence began with twin breakthroughs in 2012 and 2013: the successful use of convolutional neural networks for image recognition ..."

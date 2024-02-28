@@ -593,6 +593,15 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 25
+  - title: "Intel Sets Sights on Dominating AI PC Market with Ambitious 100M Target, Partners with Microsoft"
+    excerpt: "The tech giant plans to ship 40 million AI-enabled PCs this year and aims for 60 million the next, targeting over 20% of the global PC market in 2025. Intel’s approach emphasizes not just the performance of its chips but also the overall user ..."
+    publishedDateTime: 2024-02-28T08:52:00Z
+    webUrl: "https://www.benzinga.com/news/24/02/37363100/intel-sets-sights-on-dominating-ai-pc-market-with-ambitious-100m-target-partners-with-microsoft"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "w9Rmob5RSeRxQslk5D5RuSzhMZDXxmP3HIDVJ2edhXqyVJInMw9FFCaQaZnhEKcpi8rHrC9B8syvXHGJbhknS8PY6lxbB+RGVRyDjbux8yaNqAIAW7kKpJNNq/N2A4CBmT3XViDGjACQht62xfbuM1dr6qKicGoNqXgsGp0mXsymFZJc4SogtICY76PO4dNIAtk7qbrwQNy9WseWFbenOAqyeuIxpDAjnuBfPkCCEGJ1gc1AecjqbNC6K6j9TVYH+1ywcs6sWTo3eQOoMhxcVnxzrxAEAXJMHMYY/IxLIo7aJ/u5MZtx73EmCn7suyt8Bl8KuGeJ7tRfxgU8eKVIcW0XQ9+bVpGJcOtVHpnFr0Y=;tpOyk6Wbf9Hl4zbgjVExGw=="
 ---

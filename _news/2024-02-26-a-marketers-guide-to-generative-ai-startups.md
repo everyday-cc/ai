@@ -78,19 +78,19 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Humane Just Gave Everyone a Huge Incentive To Buy an AI Pin"
-    excerpt: "Humane has announced that everyone who buys an Ai Pin by March 31, 2024 will get the first three months of its required subscription ($30 per month) for free. Additionally, the company's making shipping for the Ai Pin free."
-    publishedDateTime: 2024-02-23T16:45:00Z
-    webUrl: "https://www.inverse.com/tech/humane-ai-pin-subscription-three-months-free"
+  - title: "Generative AI Advances Showcased at MWC 2024"
+    excerpt: "MWC Barcelona, held this year on February 26-29, is one of the global telecommunications sector's pre-eminent expos. It attracts"
+    publishedDateTime: 2024-02-28T16:20:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/generative-ai-advances-showcased-at-mwc-2024-302074406.html"
     type: article
     provider:
-      name: Inverse
-      domain: inverse.com
-    quality: 37
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
     images:
-      - url: "https://imgix.bustle.com/uploads/image/2024/2/23/5b03b5d1-929d-486a-831a-d6c5283b66d1-humane-ai-pin-interface.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/2350224/iFLYTEK_MWC.jpg?p=facebook"
+        width: 1600
+        height: 838
         isCached: true
   - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
     excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of ..."

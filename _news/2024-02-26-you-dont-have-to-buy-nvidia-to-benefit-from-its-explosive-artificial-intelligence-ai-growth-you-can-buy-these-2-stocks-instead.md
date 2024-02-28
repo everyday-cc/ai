@@ -25,29 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Can AMD Dethrone Nvidia as the Artificial Intelligence (AI) Powerhouse?"
-    excerpt: "Therefore, I believe AMD will carve out a high-growth niche in the AI market in the same way it expanded into the gaming GPU and data center GPU markets. But I don't think it will replace Nvidia as the AI kingpin. When our analyst team has a stock tip ..."
-    publishedDateTime: 2024-02-23T16:46:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/"
+  - title: "Nvidia Stock: Is It Still A Top AI Stock In 2024?"
+    excerpt: "Those applications require specialized hardware and software, such as high-powered processors, memory chips, solid-state drives and robust AI development platforms. The table below shows how these stocks have performed year to date and over the last three ..."
+    publishedDateTime: 2024-02-28T16:38:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/nvidia-stock-still-top-ai-stock/"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/3e1f5bb4b863195ee11d3a05ccd4a572/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f766178%252fblue-semiconductor.jpg%26amp%3Bw%3D700"
-        width: 2270
-        height: 1320
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65df4e1cf4fc67b4ae4c124e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Can AMD Dethrone Nvidia as the Artificial Intelligence (AI) Powerhouse?"
-    excerpt: "Therefore, I believe AMD will carve out a high-growth niche in the AI market in the same way it expanded into the gaming GPU and data center GPU markets. But I don't think it will replace Nvidia as the AI kingpin. When our analyst team has a stock tip ..."
-    publishedDateTime: 2024-02-23T14:25:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/"
+  - title: "3 AI Stocks Bound to Make it Big in 2024"
+    excerpt: "The tech company carved a niche for itself in the industry and has always had an edge in the sector. It is working on providing AI chips. In fact, several organizations — including Microsoft (NASDAQ:MSFT) — are using AMD chips. Nvidia can’t meet the ..."
+    publishedDateTime: 2024-02-27T15:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-bound-to-make-it-big-in-2024-1033109555"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "1 Exceptional AI Chip Stock Investors Need to Know About in 2024"
+    excerpt: "But in recent years, it pivoted its portfolio to address \"mature\" semiconductor manufacturing processes related to power, sensors, and other less advanced technologies (but still integral to the whole AI narrative). These chip types remained in high demand ..."
+    publishedDateTime: 2024-02-25T14:35:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMAT-Q/pressreleases/24332010/1-exceptional-ai-chip-stock-investors-need-to-know-about-in-2024/"
     type: article
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 34
+  - title: "Nvidia's surge ripples across stock market - lifting AI, tech and semiconductor ETFs"
+    excerpt: "The Global X Robotics & Artificial Intelligence ETF BOTZ, which has around $3 billion of assets under management, closed 4.4% higher, according to FactSet data. Megacap semiconductor company ..."
+    publishedDateTime: 2024-02-24T10:44:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20240224201/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 12
 
 secured: "YdFqDGzY0QBLRTQVzp0Awt/sIE4UEceBNdf3pEfzrzOJA7lJLtiujw1VEdbAEQ+whvUhpteg0N1JPaHqY0s7msqh1BOOrfIeKMebZSUM/bWq9WmShcVHOQtLH3bSHFle9xcZdSL5lwPj1k5/Q0hph3YWeEChn5yd3H7JAw+qijTINlKiL1NtgFpX8admPs25SBhK8OWrLg06zOJOiivXcz0fQUhOm6ADKNjJE/i7lpTfVcHnGjoC5vH/t+wRfLuPDmZst6OHas1scFeVsTLLzmqOr6EIQkhWJQbL6sc3Kxykkt/FS8UnX4eZEHiVSWm6l+nWajgKPQAly2oCpn/fiar9dn4FCINLaF3xvCnf4mg=;9bKhA1V9j8qsrk8ET05tvA=="
 ---

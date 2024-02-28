@@ -7,7 +7,7 @@ originalUrl: "https://www.kiplinger.com/kiplinger-advisor-collective/how-artific
 webUrl: "https://www.kiplinger.com/kiplinger-advisor-collective/how-artificial-intelligence-can-help-lease-accounting"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Tools Can Help Governments Understand and Manage Data"
-    excerpt: "One example is Augintel, software that leverages natural language processing (NLP), a subdiscipline of AI, to help process extensive amounts of case note data for those in behavioral health and child welfare industries. This tool has been adopted in ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/how-ai-tools-can-help-governments-understand-and-manage-data"
+  - title: "How Selective Forgetting Can Help AI Learn Better"
+    excerpt: "The new research marks “a significant advance in the field,” said Jea Kwon, an AI engineer at the Institute for Basic Science in South Korea. The AI language engines in use today are mostly powered by artificial neural networks. Each “neuron” in ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
+      name: Quanta Magazine
+      domain: quantamagazine.org
+    quality: 39
+    images:
+      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/02/FundamentalsNewsletter-Ads-Article.gif"
+        width: 320
+        height: 550
+        isCached: true
 
 secured: "YaOsynTMqa7nfYZ5qxF5zyGsJU/ru1hiz6hiUQaIZXCtC2gvfQeoxRKXKUxS8eJ41egCucG/vwKjy28O0+N5QcTQ4mLAs3uRiCzswo5+lxkh/coPEDdgDlgVL4fWKSpI2nqHKu9dMuArwD6BdWdQCy47S9Y/rOiRsTXC6zvhnxg/U/PAcvkSrax+YxhivAzKRZblhq4QelHPbBdF/jguR/VoneMxvdH/3GS100unEEFQD2LqzEY5wKQEVH4Caic0UmJYHXBWhPNFaQnmCYhGaKefEiED+FpE3AdC9oiIavtgIj5UzgZonR1C0bwuppL2iSW1EWSVVBpkqGUp7INatUfCHCl/ze0+Evx3sPmaNhI=;hJBqa7aMpw2Ql4OiUNoD6w=="
 ---

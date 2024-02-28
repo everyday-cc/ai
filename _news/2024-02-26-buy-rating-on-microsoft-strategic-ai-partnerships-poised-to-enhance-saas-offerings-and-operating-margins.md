@@ -53,15 +53,6 @@ related:
         width: 1600
         height: 700
         isCached: true
-  - title: "How Artificial Intelligence Is Reshaping Banking"
-    excerpt: "Artificial intelligence is transforming the banking industry, with far-reaching implications for traditional banks and neobanks alike. This transition from classic, data-driven AI to advanced, generative AI provides increased efficiency and client ..."
-    publishedDateTime: 2024-02-23T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/how-artificial-intelligence-is-reshaping-banking/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Meta Decides To Form A Team To Prevent AI From Tampering With EU Elections"
     excerpt: "The team will consist of experts from within the company, including engineering, operations, legal, content moderation, research ... across Facebook, Instagram, and Threads. The company already does this for images generated through its own AI tools."
     publishedDateTime: 2024-02-27T04:06:00Z

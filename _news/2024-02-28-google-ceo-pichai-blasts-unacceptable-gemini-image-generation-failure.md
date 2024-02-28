@@ -81,6 +81,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google CEO Sundar Pichai calls Gemini AI photo diversity scandal ‘unacceptable’; full statement here"
+    excerpt: "Google CEO Sundar Pichai(Reuters file photo ... to address the recent issues with problematic text and image responses in the Gemini app (formerly Bard). I know that some of its responses have offended our users and shown bias — to be clear, that ..."
+    publishedDateTime: 2024-02-28T14:48:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/us-news/google-ceo-sundar-pichai-calls-gemini-ai-photo-diversity-scandal-unacceptable-full-statement-here-101709130168773.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 4
 
 secured: "qp5Nt8gwWafSaTGSQIEoF56lpmrfEDmlB6cyfrTXsa08LAGHghaRpADSjr1Gt6QtJl7Btj1Jky4iQvnXYtOU+3yWoM+VZGHvEs8SPhrmjUhLkq1sUHWHPkX7a1pQwJeJAVUOXI7QMH3Eq/PTjFbTu1Wx5CGvWWDFv3WDeWP6t1c9mG3kxcp1ZqakrHuP1XhmR5FxuTImpLRaVLWqe5LFpwwnELqE7lOre1FJfvv6NNUGVCoXI6x5huKPqYITRcNfbn5jHEW84WrkcEAFyIOe2p5qgTNFJwzSz0jHTAp3V0pOOx94h2QjulYrCaEFvf/OBQTDqcFhjrSH7AOR1J/WdDujM7iMKbwyWXBwqqLxp8du9WLedAqSu8iVxYCwdYlTP9capjQ+lmiP2fDqRGSjKY9Ry1PkqE+ZKikJ6CDbSiPmaA7CpSQ5Hkrpk8lytPvxk+fR0aTW/1jrs36k7/p/qY4QoxyZWT6CP9hgj7axGqujCBWNyAD6cMCV5fkxAAY+zONWjU32QDVFnCksIkC2ww==;6qWYwM9iCYtTzRXO/6Mq/A=="
 ---

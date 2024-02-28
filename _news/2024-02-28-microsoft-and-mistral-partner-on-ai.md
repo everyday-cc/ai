@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Microsoft and Mistral partner on AI"
-excerpt: "The multi-year partnership between the two companies will provide Mistral AI with access to Microsoft Azure’s AI infrastructure to help develop next generation LLMs. As part of the arrangement, Mistral AI’s flagship commercial model, Mistral Large ..."
+excerpt: "in the Azure AI Studio and Azure Machine Learning model catalogue. Azure’s AI-optimised infrastructure and capabilities will offer Mistral AI additional opportunities to promote, sell and distribute its models to Microsoft customers worldwide."
 publishedDateTime: 2024-02-28T00:00:00Z
-originalUrl: "https://www.research-live.com/article/news/microsoft_and_mistral_partner_on_ai/id/5123113"
-webUrl: "https://www.research-live.com/article/news/microsoft_and_mistral_partner_on_ai/id/5123113"
-ampWebUrl: "https://www.research-live.com/amp-page.html?id=5123113&name=microsoft-and-mistral-partner-on-ai"
-cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5123113&name=microsoft-and-mistral-partner-on-ai"
+originalUrl: "https://www.research-live.com/article/news/microsoft-and-mistral-partner-on-ai/id/5123113"
+webUrl: "https://www.research-live.com/article/news/microsoft-and-mistral-partner-on-ai/id/5123113"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
@@ -19,12 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-    width: 1000
-    height: 581
-    isCached: true
 
 related:
   - title: "Amazon founder Jeff Bezos joins Microsoft, ChatGPt maker OpenAI to invest in this robotics company"
@@ -524,6 +516,6 @@ related:
       domain: itc.ua
     quality: 26
 
-secured: "JMA175wPG2TCkOXpYYVHh53tYvSfjgP7pEbo+C5r3zStuEldi5seGHlx3oLpftuJKrTA5KMAwxccTfy4Dnrnehi6Jvh5sM8HV9UyKCycAf456c7Uo+nFX+1aZlETAbMRdLmyyn0KdTCUjF+5PCFFlvsbKgO2x5aDYGm9RH99QT1c0uqJBOMgSd4jBxNTB32fphiddssoji1U7tKmXQErLhAKm9iyS9RcWJVGG+A1GSiRsGjoN4PpcxiLtZnceZj/YFF4VzZmSi9z5wB2C5IBzV1lO2f05UPPZC4zKRbvehOa/FhKXH3YQ0wYf0PIogisqlQzMPCKKs1BID6PVwiUauib/JMLWvmbV2RyKVfv+VA=;3XZUcJvCtVgd1Zbwi2sMfQ=="
+secured: "OFMnpK6toxVdz8cpTggjIQWTqh5xeGontT9z/We7coW4/6h+y5kffKRqkmff808GenTmbTslHhG69JzRPMpZWD/zycv2ls58FI2QBkUk4lE6dNGB8Y+IN+Fzt0+12QPyPe+4CIAfIetaqO/UF/zpwNyP9y1MJxFnaUt4NQQHfXgcR2OmdsUD0gmsPMGWum1apul1qanTyFMqhdevsyTsk9qLVx6o++Vh8UXrQdXtvBIOUeIAAXWKHWb3t+UewXZTCZwp40MktCZJ8iuJUJRdClHBVkCjr/oDDJIoblwcJjtgMZt+dylbBXVw9GoSzJ9gaQ2+yX+pCGZene2AoiN27oGoLmjYv2M6w+F6cDk+lkNigU23GMU7bXQyE/cD0bRRcLAx3zZ0VHo9Y3O/s1FerkCR/Ccsn29zU44CTm8RI71TE1dmiLRBTMgHdvPQ2p+mQpr3tlRuXeRXUUXvJ1ZlTv5LOBUulHxqTECuRosMJBb1lgB4gJqsIcd7ua2UKm/BCuup8pqYsj2zGPyPtaGBlA==;soFs0uJUNEANBQJJPzkXQA=="
 ---
 

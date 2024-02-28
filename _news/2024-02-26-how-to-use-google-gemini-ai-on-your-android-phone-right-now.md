@@ -134,6 +134,29 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
+  - title: "Amidst Backlash, Google Introduces Gemini AI To Messages"
+    excerpt: "every Gemini user across our supported countries and languages has access to Google’s best family of AI models. To better reflect this commitment, we’ve renamed Bard to Gemini.Google Blog Google certainly has big plans for Gemini. The app is currently ..."
+    publishedDateTime: 2024-02-28T04:28:00Z
+    webUrl: "https://techreport.com/news/amidst-backlash-google-introduces-gemini-ai-to-messages/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 19
+  - title: "Meta Wants Llama 3 to Handle Contentious Questions as Google Grapples With Gemini Backlash"
+    excerpt: "As Google grapples with the backlash over the historically inaccurate responses on its Gemini chatbot, Meta Platforms is dealing with a related issue. As part of its work on the forthcoming version of its large language model,"
+    publishedDateTime: 2024-02-28T14:31:00Z
+    webUrl: "https://www.theinformation.com/articles/meta-wants-llama-3-to-handle-contentious-questions-as-google-grapples-with-gemini-backlash"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 14
+    images:
+      - url: "https://tii.imgix.net/production/articles/12353/16bd3521-2ac6-4b94-a143-8b1825e0fc6d.jpg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "SRpFQuoh+6mK0ScKTEp49TdnjaabZzocaOiWPJgd1uawrcpbxOZeW/t0x66XbU99aIOrCaMVX9gCE57NX4GEdU7aOeVsaNq9VnT9YNUIUtBvuLEQBpEqeQG9W7RQrEx3bsbjJl/Fp3n27GB8j4759dOHKqT3Y+gpuwXd1jX5M812KE+21+bPceMk9SV7PQnbXQ4eigLkwVArXaicGoVPcWfuCd22kSm65nbLnElEY9lFxOBQNz8f85nNInm48CxTlHJ8VEAj+SPg0nCSe//k69jqFOce5+L+xKEbOA9hwfPG3BidoF5aeCZ6zDQQfiP/XlhtSFF5T7lkU677VwZq7MIfenxv7pwsPWh2Bg+OPZZovSSpkhbkJJpQbQLB0VeIeaodIOJ0YcL0Tl7uQZML91RpdqtTi9XE6N9+dnkDzSTUkKacZyoqzIWfsYDKCcVuCdDylPAQddUsCb8iqp/JozOKmZPtC925gUzmBwj6VUV2MK8I5s+96Aj5g6uK3xx9G49B9k7hz6toPlxewLunGQ==;2uYmMfW2BoJA4o2xJjOF5Q=="
 ---

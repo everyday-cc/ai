@@ -148,7 +148,7 @@
       "originalUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -185,10 +185,10 @@
     {
       "path": "_news/2024-02-25-a-vending-machine-error-revealed-secret-face-recognition-tech.md",
       "title": "A Vending Machine Error Revealed Secret Face Recognition Tech",
-      "excerpt": "Canada-based University of Waterloo is racing to remove M&M-branded smart vending machines from campus after outraged students discovered the machines were covertly collecting face recognition ...",
+      "excerpt": "A student investigation at the University of Waterloo uncovered a system that scanned countless undergrads without consent.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/?utm_social-type=owned",
-      "originalUrl": "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/?utm_social-type=owned",
+      "webUrl": "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/",
+      "originalUrl": "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/",
       "featuredContent": null,
       "highlight": null,
       "heat": 149,
@@ -207,7 +207,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T17:01:00Z",
+      "publishedDateTime": "2024-02-24T22:02:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",

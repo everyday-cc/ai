@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-23-examples-of-ibm-assisting-insurance-companies-in-implementing-generative-ai-based-solutions.md",
+      "title": "Examples of IBM assisting insurance companies in implementing generative AI-based solutions",
+      "excerpt": "Helping clients improve core productivity while reducing cost, and embrace data modernization utilizing secure hybrid cloud and AI.\nThe post Examples of IBM assisting insurance companies in implementing generative AI-based solutions appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ai-based-solutions-for-insurance-companies/",
+      "originalUrl": "https://www.ibm.com/blog/ai-based-solutions-for-insurance-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T22:11:56Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-procurement-transformation-why-excellence-matters.md",
+      "title": "Procurement transformation: Why excellence matters",
+      "excerpt": "Increase profitability, enhance service outcomes, build customer satisfaction and ensure suppliers deliver high-quality goods and services.\nThe post Procurement transformation: Why excellence matters appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/procurement-transformation-why-excellence-matters/",
+      "originalUrl": "https://www.ibm.com/blog/procurement-transformation-why-excellence-matters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T16:27:14Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-gdpr-compliance-checklist.md",
       "title": "GDPR compliance checklist",
       "excerpt": "How can you ensure your organization is GDPR compliant? Follow the principles laid out in this GDPR compliance checklist.\nThe post GDPR compliance checklist appeared first on IBM Blog.\n",
@@ -1236,92 +1321,6 @@
       "provider": {
         "name": "Diginomica",
         "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-how-ai-emerges-as-revolutionary-force.md",
-      "title": "How AI emerges as revolutionary force?",
-      "excerpt": "Artificial Intelligence (AI) has emerged as a revolutionary force, significantly shaping various facets of our daily existence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
-      "originalUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.samaa.tv/images/ai-file.jpg",
-          "width": 850,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T18:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Samaa",
-        "domain": "samaa.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-ibm-a-hidden-ai-play-but-upside-is-capped-jefferies.md",
-      "title": "IBM a 'hidden AI play' but upside is capped - Jefferies",
-      "excerpt": "Despite the positives, Jefferies notes that the company is growing revenue below its software peers while operating at lower margins. \"While the stock can grind higher, we think upside is capped in the absence of a meaningful acceleration in software,\" analysts wrote.",
-      "sourceUrl": null,
-      "webUrl": "https://za.investing.com/news/ibm-a-hidden-ai-play-but-upside-is-capped--jefferies-432SI-2971678",
-      "originalUrl": "https://za.investing.com/news/ibm-a-hidden-ai-play-but-upside-is-capped--jefferies-432SI-2971678",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
-          "width": 251,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T16:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
         "images": null,
         "publishers": null,
         "authors": null

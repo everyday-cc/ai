@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-06-how-ai-emerges-as-revolutionary-force.md",
+      "title": "How AI emerges as revolutionary force?",
+      "excerpt": "Artificial Intelligence (AI) has emerged as a revolutionary force, significantly shaping various facets of our daily existence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
+      "originalUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.samaa.tv/images/ai-file.jpg",
+          "width": 850,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T18:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Samaa",
+        "domain": "samaa.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-ibm-a-hidden-ai-play-but-upside-is-capped-jefferies.md",
+      "title": "IBM a 'hidden AI play' but upside is capped - Jefferies",
+      "excerpt": "Despite the positives, Jefferies notes that the company is growing revenue below its software peers while operating at lower margins. \"While the stock can grind higher, we think upside is capped in the absence of a meaningful acceleration in software,\" analysts wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://za.investing.com/news/ibm-a-hidden-ai-play-but-upside-is-capped--jefferies-432SI-2971678",
+      "originalUrl": "https://za.investing.com/news/ibm-a-hidden-ai-play-but-upside-is-capped--jefferies-432SI-2971678",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
+          "width": 251,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T16:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-05-three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai.md",
       "title": "Three Stocks: Ringing Up a Great December, Another Day, Another Recall, and Analyst Trash Talks Old School AI",
       "excerpt": "Rides High on December Sales Surge, Analysts Upgrade with Bullish 2024 Forecasts. Tesla (TSLA) Faces Recall Woes, Treading in Technical Danger Zone. International Business Machines (IBM) Takes Heat as Analysts Downgrade to 'Sell' Despite AI Legacy.",
@@ -1277,91 +1363,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-12-14T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-delivering-security-and-scalability-in-todays-business-landscape-requires-more-than-setting-up-a-front-line-of-defense.md",
-      "title": "Delivering security and scalability in today’s business landscape requires more than setting up a front line of defense",
-      "excerpt": "Cybersecurity can be a strategic initiative that supports product capability, organizational effectiveness and customer relationships.\nThe post Delivering security and scalability in today’s business landscape requires more than setting up a front line of defense appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/delivering-security-and-scalability-in-todays-business-landscape/",
-      "originalUrl": "https://www.ibm.com/blog/delivering-security-and-scalability-in-todays-business-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-ibm-cloud-solution-tutorials-2023-in-review.md",
-      "title": "IBM Cloud solution tutorials: 2023 in review",
-      "excerpt": "Our team looks back and shares personal highlights from the year, including generative AI, LLMs, watsonx and more.\nThe post IBM Cloud solution tutorials: 2023 in review appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-solution-tutorials-2023-in-review/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-solution-tutorials-2023-in-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T14:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

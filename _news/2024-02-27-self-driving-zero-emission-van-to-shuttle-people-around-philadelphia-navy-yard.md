@@ -28,6 +28,15 @@ related:
       name: phillyvoice.com
       domain: phillyvoice.com
     quality: 2
+  - title: "We rode PA’s first electric self-driving shuttle at the Philadelphia Navy Yard"
+    excerpt: "The self-driving shuttle felt like any other bus, stopping and starting smoothly (ok, maybe not like most other buses…) at all intersections. It automatically halts at each designated stop on its route, and automatically slows down if it senses vehicles ..."
+    publishedDateTime: 2024-02-28T06:46:00Z
+    webUrl: "https://technical.ly/software-development/pa-self-driving-shuttle-av-electric-philadelphia-navy-yard/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 0
 
 secured: "sF92s4z62D4lF8ysKjVlNDLSZcTTrpbg3QldrQl7yW9GoeZPrs5eIUoJ0GmuDVbOLdX42Y8HRTftxbRdYymwVal9KUtqGodMk6s1te68ddZmCPLPLGGuFl9ABeoBKDQu8DIj9YtaxJcTI+YCEB3aauHwvIGHxp8H1eBqZK17kPa0gzWQ02uACZn/p3NK75YiVxA+YOLVpHRWYGRnRDcJ3bDqSCY1gWsisz2vVmspnSPxsmIg1bz9fIQYoYm9r0hxxKzWNOzbYtpmVmo8N3GN+xfbQrIKf6xq6yNft0yonvlVWKch8tMdcNHSsXLcMgHiOSRgZ+5RJSBETLLVde8RhFzYsnyGkZv32hrpYguUCE+yFoPEbzLiCu2t8os3EnqvLJUcqLRfdbVuYAiXzhFUOH+Suqj3VHhM21lWI3QLe8Fp1rSBAa4kuUlnsXKbOa+aZ+DctL83FOAxEhWxqrYfIBNvDqifIQ4juAzb0b2pqqXDATWBd+bNlh6tSSZ5pkNgH8xU25A+Fs2dp4Jz4ZjRuw==;hHsHy88JJMddk3a58Lzf0A=="
 ---
