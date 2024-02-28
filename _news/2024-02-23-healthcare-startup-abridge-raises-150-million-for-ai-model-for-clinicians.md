@@ -7,8 +7,8 @@ originalUrl: "https://www.business-reporter.co.uk/news/healthcare-startup-abridg
 webUrl: "https://www.business-reporter.co.uk/news/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians-9985"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: business-reporter.co.uk
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare startup Abridge raises $150 mln for AI model for clinicians"
-    excerpt: "Feb 23 (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
   - title: "Abridge, an AI start­up for med­ical notes, rais­es $150M"
     excerpt: "Abridge raised a Series C just four months after its last round, as investors remain interested in betting big on health AI even in a tougher market for health tech. Abridge chief"
     publishedDateTime: 2024-02-23T12:43:00Z

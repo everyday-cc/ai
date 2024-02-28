@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-27T21:50:00Z
 originalUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
 webUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.cfr.org/themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"

@@ -115,6 +115,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "University of Waterloo unplugs 29 vending machines amid facial recognition concerns"
+    excerpt: "These vending machines, unbeknown to students, had been using facial recognition to track the age and gender of patrons, as shared by CTV News. However, according to Invenda, the machines use facial analysis and not facial recognition to understand when a ..."
+    publishedDateTime: 2024-02-28T00:04:00Z
+    webUrl: "https://mobilesyrup.com/2024/02/27/university-of-waterloo-vending-machine-facial-recognition/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 33
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2024/02/header-waterloo-shutterstock-sized-scaled-1.jpeg"
+        width: 2560
+        height: 1438
+        isCached: true
   - title: "Ontario university students freaked out about facial recognition vending machines"
     excerpt: "A set of smart vending machines at the University of Waterloo has stirred up quite the controversy among students, who quickly raised privacy"
     publishedDateTime: 2024-02-23T19:34:00Z

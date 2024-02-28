@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "“Let’s Talk Compliance”: Health Care Privacy and Cybersecurity"
-    excerpt: "There are lively debates on what is true AI or simply smart algorithms. In this webinar, AI is discussed as an impact on health care and the potential risks it may bring as more and more turn toward AI for assistance. Wider AI adoption could save the U.S ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/let-s-talk-compliance-health-care-7490060/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 24
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "xL6kSjoFMcf1A4vu2M66eMiJH4is5b68ote3rzZ1sCn1OOy4zzq/MEN6OzGz2hzLzYLESKuv08+Smx3yp0SNSwYxRLl0phOF/5ROwtONikkTbVr81lv/bHJpc9OR9F4uKRIrvDp96/mWo/pOb/b0FH4BcZy4ceM7MbI96QgA7Y/khFs8/EoU74NJd7RRvq0FA7aLlnXwWfCO5zoo54H0xhSmFlbte/qrGFb7uG45yMVFczYLR36QGGqk7odPVy7m3liPbTcoGwHGF82ZRRLSEW7gq/R1zJAXUFb+Cc8y7GCCS6b2e4a/scdohEWoj3mouX++OPf00SKMaezclZ6E+0veWhAYT1Joy4pDoToILk6ccoPgHApT3EOPZpjcrwqsuBsfHvHc43g2kw7o2ZVio0LzYyS0ICDh01iXArhkQYjipxG//PIJgrUQGCTvv9NCil+uZ6oXJdofavsyul5mhkgiOYvz50Z6nZR4jHB6ecbJMiAyNBizUmI0lyrVOpqVLAn4klYwlhT8MjHH/rxT3A==;iEhjkpYKJfXs8CUXlDKYLQ=="
 ---

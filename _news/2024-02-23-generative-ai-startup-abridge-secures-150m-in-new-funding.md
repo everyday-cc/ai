@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Healthcare startup Abridge raises $150 mln for AI model for clinicians"
-    excerpt: "Feb 23 (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
   - title: "Healthcare startup Abridge raises $150 million for AI model for clinicians"
     excerpt: "Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications."
     publishedDateTime: 2024-02-23T10:57:00Z

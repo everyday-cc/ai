@@ -2,6 +2,92 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2024-01-08-haply-robotics-debuts-revolutionary-haptic-control-technology-harp-at-ces-pioneering-the-era-of-desktop-automation-in-robotic-technology.md",
+      "title": "HAPLY ROBOTICS DEBUTS REVOLUTIONARY HAPTIC CONTROL TECHNOLOGY \"HARP\" AT CES - PIONEERING THE ERA OF \"DESKTOP AUTOMATION \" IN ROBOTIC TECHNOLOGY",
+      "excerpt": "\"Our latest development, HARP, combined with our unique approach to robotic control, represents a major leap forward in haptic technology. These innovations reflect our ongoing commitment to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/haply-robotics-debuts-revolutionary-haptic-control-technology-harp-at-ces---pioneering-the-era/article_7aee3a18-a350-5332-a26f-8f53bac1c710.html",
+      "originalUrl": "https://www.news-journal.com/haply-robotics-debuts-revolutionary-haptic-control-technology-harp-at-ces---pioneering-the-era/article_7aee3a18-a350-5332-a26f-8f53bac1c710.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/a/d8/ad829ac1-54a2-5009-bdd0-f1a9442dfd38/659c0e1eeb26d.image.jpg?crop=1953%2C1025%2C0%2C17&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-08-healthcare-technology-trends-to-watch-in-2024.md",
+      "title": "Healthcare technology trends to watch in 2024",
+      "excerpt": "Still, interest in emerging technologies is high this year — particularly as artificial intelligence ... lead analyst in healthcare IT at market intelligence company CB Insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcaredive.com/news/healthcare-technology-artificial-intelligence-digital-health-cybersecurity-outlook-2024/702980/",
+      "originalUrl": "https://www.healthcaredive.com/news/healthcare-technology-artificial-intelligence-digital-health-cybersecurity-outlook-2024/702980/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcaredive.com/imgproxy/bQD7_QlXjW6ZBkcFCnwPVD4drx1E9e1Twq5FJqrAVPM/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MjE2MjY0MzcuanBn.jpg",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Dive",
+        "domain": "healthcaredive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-08-ibm-marks-2024-as-the-year-of-balancing-technology-and-trust.md",
       "title": "IBM marks 2024 as the year of balancing technology and trust",
       "excerpt": "Generative AI introduces new risks including hallucinations, safeguarding PII data, eliminating profanities and so on. IBM first launched its Watson platform in 2010 but market acceptance of the technology at that point was slow. Last year IBM recast its ...",
@@ -1018,93 +1104,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
-      "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
-      "excerpt": "Set to launch its eCV series SoCs later in 2024, eYs3D is embracing its concept of \"AI+\" and expanding its offering from USB-based controllers to full-fledged, edge-based SoCs. Built around on-core CPUs with ARM-based Cortex M and Cortex A architectures, the series provides top efficiency and next-level processing power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/05/9941319.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/05/9941319.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T16:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-ibm-a-hidden-ai-play-but-upside-is-capped-jefferies.md",
-      "title": "IBM a 'hidden AI play' but upside is capped - Jefferies",
-      "excerpt": "Despite the positives, Jefferies notes that the company is growing revenue below its software peers while operating at lower margins. \"While the stock can grind higher, we think upside is capped in the absence of a meaningful acceleration in software,\" analysts wrote.",
-      "sourceUrl": null,
-      "webUrl": "https://za.investing.com/news/ibm-a-hidden-ai-play-but-upside-is-capped--jefferies-432SI-2971678",
-      "originalUrl": "https://za.investing.com/news/ibm-a-hidden-ai-play-but-upside-is-capped--jefferies-432SI-2971678",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
-          "width": 251,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T16:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

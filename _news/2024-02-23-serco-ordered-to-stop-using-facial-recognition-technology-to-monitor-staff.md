@@ -9,7 +9,7 @@ ampWebUrl: "https://news.sky.com/story/amp/serco-ordered-to-stop-using-facial-re
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Live: UK’s Serco ordered to stop using facial recognition to monitor staff"
-    excerpt: "UK public service contractor Serco has been slammed by the country’s data watchdog for using facial recognition and fingerprint scanning to monitor and pay its staff, and ordere"
-    publishedDateTime: 2024-02-22T23:41:00Z
-    webUrl: "https://www.ft.com/content/cbfd0094-2219-4f64-a5b0-c06f05c5b81c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "Serco Leisure ordered to stop using facial recognition tech on 2,000 staff"
     excerpt: "Serco Leisure has been told to stop using facial recognition tech on workers. The UK's privacy watchdog said Serco Leisure was wrong to use this tech to check if staff were at work. The Information Commissioner's Office (ICO) found that Serco Leisure and ..."
     publishedDateTime: 2024-02-23T12:50:00Z

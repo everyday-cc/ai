@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stop
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://media.bizj.us/view/img/12679474/gettyimages-1508780671*1200xx2121-1195-0-218.jpg"
         width: 1200
         height: 676
-        isCached: true
-  - title: "“Let’s Talk Compliance”: Health Care Privacy and Cybersecurity"
-    excerpt: "There are lively debates on what is true AI or simply smart algorithms. In this webinar, AI is discussed as an impact on health care and the potential risks it may bring as more and more turn toward AI for assistance. Wider AI adoption could save the U.S ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/let-s-talk-compliance-health-care-7490060/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 24
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
-        width: 1200
-        height: 900
         isCached: true
 
 secured: "rejCLxIibF2ioyW/dq5bI1QvRcvAdp4jUh9FYaMpJsmBzCu20283Ls9kszNFGd7xpUSIxlyrt6d7LJv77qXbLb22pPnZY+L3tHCBQ2FgHkN78Nj8QwwLuTNg5hkWOqgDDGluMMlNch/mF2evXhK+ums7RCUUWDuU+/RH5cLvyyuVb2ixxlEIfYIZGr3oj/AKonMwfwGTHmTl7Ya0Wn4SR9xdSSVlOcJgAzFCHLYI9zMGML53hR+3gqqyeNlF3rnfpQBnHEF+omVXvR6NGv17qv1iMm6D2pczSYrGJrt9g7q3Iww/Lhz3ew6/JA05EO0Pua6ws5X7XDWMiADR6j7PeVw/VszAI7s9DPcLlQe7KcqkLO3Rf9k6qy+Z+EvHo5H7EuxHreDOboWUF59X6je2gn0/x539JKhw6f5c8/JN3mHu/PLzo8pEqnJP97jWygtVVaAiwMbYdE3k65MV++lmEQsQUUNAHd/9CJrMVkrDw6hCY0K0/+JWji3F1N3+AkmWp2wXGTlqgRvk4irJFOnyjg==;eF3vtdnpxvNP3jQnJKuKzA=="

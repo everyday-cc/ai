@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 1001
         isCached: true
+  - title: "Where will fintechs go? With India’s growth prospects, the fintech sector can grow if it follows regulations"
+    excerpt: "Consider 2021—the world is emerging out of the Covid-19 shock, digital technologies are changing the way customers interact with institutions, and data and AI are changing how ... Skip to two years down, and fintech funding has seen significant reduction."
+    publishedDateTime: 2024-02-27T23:19:00Z
+    webUrl: "https://www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/"
+    ampWebUrl: "https://www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 25
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ASTRI sets up FinTech and ESG Alliance"
     excerpt: "The \"FinTech and ESG Alliance\" marks ASTRI's third alliance formation ... Innovative Mind, and IoT Sensing and AI Technologies. It is applied across six core areas which are Smart City, Financial Technologies, New-Industrialisation and Intelligent ..."
     publishedDateTime: 2024-02-25T23:59:00Z
@@ -82,6 +98,20 @@ related:
       - url: "https://fintechnews.sg/wp-content/uploads/2024/02/The-Fintech-Industry-is-Resiliently-Looking-Ahead-to-Shape-Inclusive-Finance.jpg"
         width: 1024
         height: 567
+        isCached: true
+  - title: "Language Services Market Size, Share, Growth, Opportunity And Global Industry Trends 2024-2032"
+    excerpt: "Machine translation, artificial intelligence, and natural language processing have made significant strides in recent years, enabling faster and more cost-effective translation and localization services. Automation tools are streamlining repetitive tasks ..."
+    publishedDateTime: 2024-02-27T07:14:00Z
+    webUrl: "https://menafn.com/1107905161/Language-Services-Market-Size-Share-Growth-Opportunity-And-Global-Industry-Trends-2024-2032"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?299146"
+        width: 324
+        height: 250
         isCached: true
   - title: "India’s Fintech M&A Count Hits 30 in 2023, Lending Sector Tops List"
     excerpt: "Lending Fintech companies accounted for 30% of all Fintech acquisitions in India in 2023, highlighting a shift in market dynamics amid growing regulatory"

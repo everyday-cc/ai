@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timothypapandreou/2024/02/27/digital-di
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/02/27/digital-digits-airoboticsenergy-converge-reshaping-our-world/amp/"
 type: article
 quality: 119
-heat: 121
+heat: 123
 published: true
 
 provider:

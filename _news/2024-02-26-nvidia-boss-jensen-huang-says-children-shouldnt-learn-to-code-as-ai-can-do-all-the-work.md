@@ -102,22 +102,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 76
-  - title: "Nvidia Acknowledges Huawei as Major AI Chip Competitor"
-    excerpt: "In a significant revelation, Nvidia has recognized Huawei as a competitor across various categories, notably in the business of artificial intelligence (AI) chips. The Santa Clara-based tech giant highlighted Huawei, a prominent player in China’s ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922"
-    ampWebUrl: "https://www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922?amp=1"
-    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/nvidia-acknowledges-huawei-as-major-ai-chip-competitor-114922?amp=1"
-    type: article
-    provider:
-      name: Telecom Lead
-      domain: telecomlead.com
-    quality: 74
-    images:
-      - url: "https://www.telecomlead.com/wp-content/uploads/2023/08/Generative-AI-chips-NVIDIA.jpg"
-        width: 640
-        height: 399
-        isCached: true
   - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
     excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
     publishedDateTime: 2024-02-23T20:18:00Z
@@ -161,20 +145,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 55
-  - title: "Nvidia sees historic stock rise on AI chips success"
-    excerpt: "The world is at an AI \"tipping point,\" said Nvidia chief executive Jensen Huang as he delivered another heady sales forecast. Demand for the microchips that power AI is now \"surging worldwide across companies, industries and nations.\""
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://theweek.com/business/nvidia-ai-chips-2-trillion-value"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iU4tEXfouy5wiksQZ6gAJX-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How the AI frenzy put a rocket under chip maker Nvidia"
     excerpt: "Nvidia, the maker of graphics processing units (GPU) revealed last week that it earned $30 billion in annual profit — sales doubled to $61 billion. Nvidia’s stock surged 16.4 per cent to $785.38, valuing the company at $1.9 trillion. The only companies ..."
     publishedDateTime: 2024-02-25T00:19:00Z
@@ -248,9 +218,9 @@ related:
         height: 675
         isCached: true
   - title: "Why do Nvidia’s chips dominate the AI market?"
-    excerpt: "But even building better hardware may not be enough. Nvidia dominates AI chipmaking because it offers the best chips, the best networking kit and the best software. Any competitor hoping to displace the semiconductor behemoth will need to beat it in all three areas. That will be a tall order. ■"
+    excerpt: "A high-performance GPU can have more than a thousand cores, so it can handle thousands of calculations at the same time. Once Nvidia realised that its accelerators were highly efficient at training AI models, it focused on optimising them for that market."
     publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?ref=upstract.com"
+    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?etear=nl_today_3"
     type: article
     provider:
       name: The Economist
@@ -297,20 +267,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96429_804_nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions_full.jpg"
         width: 1500
         height: 857
-        isCached: true
-  - title: "As Nvidia's downgraded AI chips go unwanted in China, who is the biggest beneficiary?"
-    excerpt: "Recently, DIGITIMES has had several reports and comments regarding Nvidia's launch of the 2-gen downgraded AI chip H20 designed exclusively for China, but a lack of interest from Chinese customers. It's worth discussing which semiconductor company will..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.digitimes.com/news/a20240221PD213/ai-chips-huawei-china-ai-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 47
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240221pd213_files/1_b.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "Bezos, Nvidia Join $675 Million Funding Round for a Startup Making Humanoid AI-Powered Robots"
     excerpt: "With a billionaire backing the project, it sounds more like a Hollywood pitch deck than real life. But it is real."

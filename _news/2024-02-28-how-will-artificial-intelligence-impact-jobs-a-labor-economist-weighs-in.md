@@ -59,6 +59,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Artificial Intelligence and Its Impact"
+    excerpt: "Artificial intelligence (AI) has emerged as one of the most disruptive forces in geoeconomics and geopolitics. Its rise to prominence began with twin breakthroughs in 2012 and 2013: the successful use of convolutional neural networks for image recognition ..."
+    publishedDateTime: 2024-02-27T21:50:00Z
+    webUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 39
+    images:
+      - url: "https://www.cfr.org/themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Harnessing the Potential of Artificial Intelligence"
     excerpt: "Key Findings From FinXTech's Artificial Intelligence: A Real-World Approach: Banks and credit unions are adopting AI as solutions become more flexible and widely available. Customer service and fraud detection/prevention are the top two use cases financial institutions are exploring, according to Bank Director's 2023 Technology Survey."
     publishedDateTime: 2024-02-27T17:30:00Z
@@ -100,20 +114,6 @@ related:
       - url: "https://scitechdaily.com/images/Nuclear-Fusion-Energy-Reactor-Plasma-Art-Concept-Illustration.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Artificial Intelligence and Its Impact"
-    excerpt: "Artificial intelligence (AI) has emerged as one of the most disruptive forces in geoeconomics and geopolitics. Its rise to prominence began with twin breakthroughs in 2012 and 2013: the successful use of convolutional neural networks for image recognition ..."
-    publishedDateTime: 2024-02-27T21:50:00Z
-    webUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
-    type: article
-    provider:
-      name: Cfr.org
-      domain: cfr.org
-    quality: 37
-    images:
-      - url: "https://www.cfr.org/themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "TFefNp7ri3nm0D8JdYnfheoF7efS1UXvUGW0v8eczvf1bhWYlARqxc1rdd3w40q2VtFeD4aVVsodqznZUS/pTufZ1Q7m448IkMKYZyhygHwGlfTJwjWEx6KFIoo/UUnPxl2j8/jEJmxnjTpU9cFuFCp5a1p5Yi45E7lzisDDci0CWUIpCVG0Oq8Iby+cKTf6Y9YiFpg/zLYo18kff3jEwAzawxXZo4H6zBQ7N0ilPg5XTc/OZvd7pcsydOfmUk3zjkIR+If9PssIU96gv1HHZD3pVMmRdt6i1RuBwRigtNG35kaeiOCgbjSG4ZMnpkzGDkmgampe8SsV6jMd9zQuHqq3Wk/pl26XbiDj7oYM9QWemk3YFctWx2SzQ2RMGPaUYmQwrLlR6hrusw5+/P5LIlBwpFtD3QYZQZKzTdsKbw17JCUatNgW5qW1bkGeEf+N2qVwuwFctI70sVLkyrWJN5Jz0MS1QNEKSYxPgAknefBnS2kD6+Bn/r1Y+aYhskbnXKnVCoPDLfFph1RCdV+YBw==;vw2kA0hoyHLD3XcSOCDPBQ=="

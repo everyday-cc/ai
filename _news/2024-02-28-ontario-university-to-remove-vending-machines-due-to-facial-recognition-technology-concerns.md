@@ -101,6 +101,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "University of Waterloo unplugs 29 vending machines amid facial recognition concerns"
+    excerpt: "These vending machines, unbeknown to students, had been using facial recognition to track the age and gender of patrons, as shared by CTV News. However, according to Invenda, the machines use facial analysis and not facial recognition to understand when a ..."
+    publishedDateTime: 2024-02-28T00:04:00Z
+    webUrl: "https://mobilesyrup.com/2024/02/27/university-of-waterloo-vending-machine-facial-recognition/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 33
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2024/02/header-waterloo-shutterstock-sized-scaled-1.jpeg"
+        width: 2560
+        height: 1438
+        isCached: true
   - title: "A Vending Machine in A Canada-based University Was Secretly Stealing Student’s Facial Recognition Data"
     excerpt: "Students of the Canada-based University of Waterloo were outraged after they found that the vending machines in their university were secretly stealing their facial recognition data. The incident came to light when a student from the university ..."
     publishedDateTime: 2024-02-27T03:27:00Z
@@ -125,6 +139,6 @@ related:
       domain: blogto.com
     quality: 14
 
-secured: "PR5WxP63T6Rx4zJbbEb6J6XCncKxyf/ggllNRrZh+M29CjEMNOtkaCBuOLHeQHZEQd25iqJ5flp8hTOTmDxvzFWDMn9pqkJexOCJ6L2luAvhc6tosv+ZQx7r39D+GO769RH129fqy8a6OfMIKBjqzLATL3nLAmLWi574rOph6e2VdQM6yWa7GdWht82aGwajD4EUsAB6sbaTwWzWQ5oHgZGkwGmOPFRHO6prnjqUwJLdufRReka/3AJfAqQlxNJQQxgK4H9ZYwGqOQQ+2RiJSVKeGzMXiDzNWYPXoyUv5o1GhII4uE9uwZ2sHrKwD5EW/DeMa1gUjIOTREBFLpYoZNDMHNaqssWiQyNhXBSQxnI=;9aBOnKEt6ijqTQaHtF29hQ=="
+secured: "klnicQGebDChb4oRN3tQD4SgsYf5HgJptDZftfqVGqd1+uCl8MPC03CbonLOI9kuAwQ6ME162vbYkhWsiL9gIKmn9b365XmenPdGZDRfXcOU76u1GjzoJupQ+PkmF+os/rqaHkLEmHXepdDoTEwxmPga2gzHVTRyp+fPQo4L2MrMbWQq496IgXqlSsA7uBqIhL9KhSj/gDgKB+6XF+TPmoMTFs/gOlJdwhIUw4qtutpeXvee7l3BxDsiuP9olvazqcEhHbLJeDVg6A8kmQTD0L5ZzQfR624K1aGc+4iZiH9Yv5kvBGFIFx3RZDA0Ckvcm86ebwDAVCk87ZUkei6G3kwtCDi2WbypmH65F6+X69mXBLJspjFS74kk1CQZWsLUbxaYw9d3kDqDV/ccV0+d4+kW4qx8NtDAQIvd97kClr9BMkvj0PecNzicmQLTEv3n4Qwxiti1jO1DjysASPP0FOm9rmajBa+RA0s+Exryr7PCx/fABQ+MCb2eNvZuofpQt9/etDjNbwmdQPgCvak6Ng==;+MbncHzt7XqIqyAFPQXHAw=="
 ---
 

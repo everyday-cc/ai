@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Samsung Galaxy S24's AI features can be set to on-device-only processing — here's how it works"
-    excerpt: "It is possible to use on-device AI on the Samsung Galaxy S24 series, but you'll miss out on certain features in doing so. Galaxy AI requires an internet connection for several of its sub-features, because Samsung processes (but does not keep) the data ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.tomsguide.com/phones/samsung-phones/how-to-use-on-device-ai-only-on-samsung-galaxy-s24"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 27
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TgpGYj9dn8G7oFPqJ2XwLk-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "SKQlc9N+u+cBkXrxoTTkX5tj3dtl/X01+7aFW43mM/LX4C78U1qEt9n/3LS2KBtuBW/62NyAVXQAFG1SSvzWCRN7tbhqCMHR9JPHgzn3lU/jyJjrJu/MElxNSbG/kgjnpWzKme2hH/wORaTo0BsLN94+cspMHTFQjKixVJ2KWvow1E13AtXxVgFhTE260WhPXYwVVXKlKJPQHvOh3hroiwhoMHhxK71OBSQOQ0B4u33pVMENqScXf+J0nxneNf4LlLe8IGb/+z6+mkVz7wKaVoMF4f5WuVEQBVINVmM06OFefFCmfuQNXp0QJCetUlIXagIZlqwBSa77Ya+TESZutMTDD8aHCGh7B5IYToyCyUEdJ0Oi8D/Xc3nasznPWSiyKrE6cgGnGl5KWs4g+OBuYgxLP3t5EhWYshVNQ7JcHVMMDQ7Qeaxi6LNNBEMJ4ZaLva0yRCQXwYNh3PqMyj2cdTTzio8yX/8Wg5an2FB+s6yxdLQRTgRiMrWnpP0MTQocg6pHzH6wpbk6Z8W1GT7Wvg==;NGCV6N8jyeUo94HCikXMyA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/business/markets/sebi-using-artificial-inte
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/markets/sebi-using-artificial-intelligence-for-investigations-says-official/article67881587.ece/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1200
     height: 1147
     isCached: true
-
-related:
-  - title: "Opening Bell, AI, Sanctions, More"
-    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world"
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.bloomberg.com/news/audio/2024-02-23/opening-bell-ai-sanctions-more"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
 
 secured: "1l69CHAhf79CWtww6s+3EzzxuefLppNO3JbehqVNJvV1CnCDMKBZsiEjuMVVVXTEFlWGdEGeczU71V1uTa9L5h2bBzq80fn5zNaynYwA+CoQaYzmp6qMfnknUW9xMKjg2VVyhDLwQDvjLR1xVqiNzRJICxu9MeLfhQeT3E6Xd31T3xBX9O4GijghTe2u/EX/ka4fObA3VRFUfq0cWOcynSfrPRt889SZZUyQ1ZTKVmU5MKFArtgSCuf5qHU/z2N7LDVd5pmlptK0tzfQwUbY//Jss77dp6nq3zNpvGmSQS+BRqH/7bUSYpQM30wTdLAJKg9IDUDy/KJ7nZXOeBz0dBrEMi4dnFaOGp+HSeW4is4=;0vtKuJ2arHHb4XZrLekkGA=="
 ---

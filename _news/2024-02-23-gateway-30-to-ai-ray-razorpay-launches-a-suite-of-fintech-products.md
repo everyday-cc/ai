@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Razorpay surpasses $150 bn in TPV, unveils new payment gateway & AI chatbot"
-    excerpt: "Bengaluru, Feb 23 (IANS) Fintech major Razorpay on Friday announced it has achieved an annualised total payment volume (TPV) of $150 billion, and unveiled several new features including an AI chatbot. The company also launched ‘Payment Gateway 3.0 ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot"
-    ampWebUrl: "https://glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot?amp"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot?amp"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 57
-    images:
-      - url: "https://glamsham.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Razorpay surpasses $150 billion in TPV, unveils new payment gateway & AI chatbot"
     excerpt: "Powered by its proprietary AI engine called 'AI Nucleus', the checkout option will ... “Today's event marks yet another turning point in the Indian fintech industry as we transform age-old complexities in the money movement ecosystem of small and large ..."
     publishedDateTime: 2024-02-23T08:14:00Z
@@ -53,17 +37,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Razorpay Launches AI Chatbot RAY, Marketing Suite Engage To Expand Offerings"
-    excerpt: "The fintech major also launched two new AI-based products – Razorpay FraudShield and AI-Powered RTO (Return To Origin) Suite. The products are designed to reduce chargebacks and safeguard businesses from potential frauds and RTOs. Razorpay also launched ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://inc42.com/buzz/razorpay-launches-ai-chatbot-ray-marketing-suite-engage-to-expand-offerings/"
-    ampWebUrl: "https://inc42.com/buzz/razorpay-launches-ai-chatbot-ray-marketing-suite-engage-to-expand-offerings/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/razorpay-launches-ai-chatbot-ray-marketing-suite-engage-to-expand-offerings/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 53
   - title: "Razorpay unveils Payment Gateway 3.0 & DQR; introduces AI-Assistant ‘RAY’"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2024-02-26T09:33:00Z
@@ -77,20 +50,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2024/01/Launch_MPU.png"
         width: 600
         height: 500
-        isCached: true
-  - title: "Razorpay Hits $150 Billion TPV, Introduces AI Chatbot and Payment Gateway 3.0"
-    excerpt: "AI Nucleus,' the new checkout option is expected to boost conversions by more than 30%, leading to increased revenues for businesses. Razorpay's CEO and Co-Founder, Harshil Mathur, highlighted the transformative impact on the Indian fintech industry ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.siliconindia.com/finance/news/razorpay-hits-150-billion-tpv-introduces-ai-chatbot-and-payment-gateway-30-nid-228061.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 36
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/qiWM91UK.jpg"
-        width: 570
-        height: 367
         isCached: true
 
 secured: "JN9p4DKkm9Zy3H6ELTmZhTBw3ArWNGA3nGZ4aCfOulfOvo2xzSm+PD1WZdYHZdC0FZLLajaTYw5iqDvZxJvaJnWXvvr8yJPmSWrDRZtHFgRyMEMP17eDK9N/IFYUPWR+1oUD9PnRidqmiL5ht/WWnIGgyDd/2frVE2E+thNrvq4dKsmJHOm8LMDQL0lKuo/A6eVq8OYzdX0ipcWbi2sFVYBzpuYdsD+X1VpntoJOS0fKQpBUjU3XTzSw5fZKbq8eSqWISUqjLViD5/g3KvACSTkii51KfRHvac5M5Tfr5sE6FPwwd576aZeQw5rIIzImlw0BjHoYENy+kasxjzpwBIF2RMV1iEILLPia/L+CbUgKa1v4ckuerv/GGBPIYdovCfW9IwY+5Nmz9E7zBMdXILut6KUqZdmaQYsd4HlAB1mvhZ9HUa24LTK2WzqK5blLrW1xTmfgDwGSM3vfoBgPd3adBWZvghteAcRvKfQ/lmxwZm4bZ56498ejCqm/+fe29jZNxJ2Dg6HxtDeehnSS+Q==;KPy0i2H5MYu3xLl/osEg3Q=="

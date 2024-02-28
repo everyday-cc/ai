@@ -66,6 +66,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Artificial Intelligence and Its Impact"
+    excerpt: "Artificial intelligence (AI) has emerged as one of the most disruptive forces in geoeconomics and geopolitics. Its rise to prominence began with twin breakthroughs in 2012 and 2013: the successful use of convolutional neural networks for image recognition ..."
+    publishedDateTime: 2024-02-27T21:50:00Z
+    webUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 39
+    images:
+      - url: "https://www.cfr.org/themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Harnessing the Potential of Artificial Intelligence"
     excerpt: "Key Findings From FinXTech's Artificial Intelligence: A Real-World Approach: Banks and credit unions are adopting AI as solutions become more flexible and widely available. Customer service and fraud detection/prevention are the top two use cases financial institutions are exploring, according to Bank Director's 2023 Technology Survey."
     publishedDateTime: 2024-02-27T17:30:00Z
@@ -94,20 +108,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Artificial Intelligence and Its Impact"
-    excerpt: "Artificial intelligence (AI) has emerged as one of the most disruptive forces in geoeconomics and geopolitics. Its rise to prominence began with twin breakthroughs in 2012 and 2013: the successful use of convolutional neural networks for image recognition ..."
-    publishedDateTime: 2024-02-27T21:50:00Z
-    webUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
-    type: article
-    provider:
-      name: Cfr.org
-      domain: cfr.org
-    quality: 37
-    images:
-      - url: "https://www.cfr.org/themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "How Will Artificial Intelligence Impact Jobs? A Labor Economist Weighs In"
     excerpt: "Investing in advanced AI capabilities and complementary infrastructure can steer labor market effects in a positive direction."
     publishedDateTime: 2024-02-27T20:32:00Z
@@ -118,6 +118,6 @@ related:
       domain: inc.com
     quality: 16
 
-secured: "5TEvkwaPpx8Kxkct5/9JG7/07cwg+AI3N4649koApyrKXswIfNx3QzDpCeEtlIHHGJoZ20i3ju2igVeCdOzX/Dr7dv2nN8MWKms61l24kDvi0bYozUxJGhhfDSrizHdH2kEOXiZexalyozhLgHSCRoLDLxy1GmAkGJuCZDPrYvTCEqExJfidMtUUQzVCrwVWEkTV8d7q0rKCSR/aTlr6C1CdR8mnhnh4zLMIYLHUPYtJ2lPLGo3QW/9sLNwcSUfzSBkiIMPy/+woliruvf3D/4330wsDB5uz102whTh9P7XBn0pPbnVBB5gGLxwrucmch43T1GgNGHvpX00UeclLMeioNN1vUOZBy2z6GtSuZ0o=;P2hxPdsQCNqtok/+Ef1n9Q=="
+secured: "ecLfDKnB9Mt564HMFlmRWBYr1XSwmafClsPeBSt1Jap3fOVd4RUWs8BvliQjYrFEJN5Li5dQgK7Pyt+lIq97ZcBpM1N2QmaSb/T3wDcuXruUUKsIYYR/ilWzHb1Yx2W3L+P3c1wtjpaHiJIJLJVGcfdaH10jY3ydsSFCmwbnboWsyffOaYkqt7UGJIifx0lDJG6xYABsXW/uvVW+tkWdlIX6EzfRw0deqQaRuauR8zVzkEo0iUUr10VI52Fo24yfrngpD07o0bsY8PB8PDSxzt+oPnNqYtsVpozCwbW+i7LEs0JU/avY08nHUgwqKDKl47qd+Kw8AF1LrM3C+CEMfws75ccOTCMNYZKJpDQS6cg5KvcfbV6EG3b1ImcaNWiC/g+ex/9Aw8VxEQ3sZdx8PfsuyENFV2l5EKFvaqeI1bcvHnhxtYHRlBWEZTJ5YaGKM5UVL5OBsbdtaZm+w9Yxm5BXQWQd1SoK13Etti6IxMgu/qL1wJC6cmeQrEHHJ6KBcsv16kjDB5f2Uz8GeOnWJQ==;1/q+LowyEUVS/ilsWiJ07g=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/facial-recognition-vending-machine-err
 webUrl: "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/?utm_social-type=owned"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "University of Waterloo unplugs 29 vending machines amid facial recognition concerns"
+    excerpt: "These vending machines, unbeknown to students, had been using facial recognition to track the age and gender of patrons, as shared by CTV News. However, according to Invenda, the machines use facial analysis and not facial recognition to understand when a ..."
+    publishedDateTime: 2024-02-28T00:04:00Z
+    webUrl: "https://mobilesyrup.com/2024/02/27/university-of-waterloo-vending-machine-facial-recognition/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 33
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2024/02/header-waterloo-shutterstock-sized-scaled-1.jpeg"
+        width: 2560
+        height: 1438
+        isCached: true
   - title: "A Vending Machine in A Canada-based University Was Secretly Stealing Student’s Facial Recognition Data"
     excerpt: "Students of the Canada-based University of Waterloo were outraged after they found that the vending machines in their university were secretly stealing their facial recognition data. The incident came to light when a student from the university ..."
     publishedDateTime: 2024-02-27T03:27:00Z
@@ -129,6 +143,6 @@ related:
       domain: blogto.com
     quality: 14
 
-secured: "QCKEQ5gZajlhNh8eNMHXuaqdJX1hBApxf/j4t4n5JVseSl/kgR/vjR1Rd6tvhDmnQPFB69UR2kGpH/Y/rp4GwSfvh8WHrX3j6OyPVO4eTcPW5b/0ypnTnV5zH1P5Y9xNOF2bIb2oNmuYTMpU0VNDLG/lrsCy6C3zoTKj2cnHh2k1F/JQdPUX/34hxc76KOnWbm1ueJ+RaYIeD+IrdC/9ZrtF6pGXkS84WOdSV7V6A8t5JjsjltRVT+LdHotp394MCoe5gqGtgBM6tTFdFtgnUmIMr1WgkjlfMQJ8gQ/nvEpsDs5ke6IHAnsWMVXtIdzrlD2c51872rZA9im1YjiMXDbSBN+n9KL7TAD4si3TNR4=;kaoIuerr7/E2NRTV7dAaEw=="
+secured: "2SxLZH5wnyzK9Qgbue/1al6lOeUqZIxzrPZ1s2IEp+hnx2S2hD/kx+jIvCAKdv19JWd3PdndYIxJzK/SFWD5YkarW3PGlP3toz62EKcHuM97wphzA4Ki1Umqxo/0p06BJgCLPEwpLYq/ySVTL4NekqaTEDr/c0nOYS+4VbaWL4rUHJQJJKJEOyPeXKMb4kbwjJSO0sd+oONbX6sH60shSI9e91MFkdK1F7oTpK9IaBZDNQByBrmf5HuBut7Sox2KyraKi1/jBbxwjJDL9oE9qzGcxRGwL9ycon9gbrM5PAjS/8/VXsAxCQ90w+9WF9IjEykoqb4v+N/lq1Sjgr+bbhO8jPrUDE5smifZSGAYuSQ=;N2Ff9XNkb4dCPs/vtuAL7Q=="
 ---
 

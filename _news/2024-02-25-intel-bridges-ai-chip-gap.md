@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap
 webUrl: "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F8%2F4%2F47334888-1-eng-GB%2F2024-01-08T220541Z_1510761602_RC2YD5ADZUKN_RTRMADP_3_TECH-AI+%281%29.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
         width: 1260
         height: 630
+        isCached: true
+  - title: "Intel’s new Intel vPro platform to power the next generation of AI PCs"
+    excerpt: "The company said the Intel Core combines both types of chip, splitting processing tasks across the CPU, GPU and a new neural processing unit to support much faster and more powerful AI workloads. Intel says the Arc GPU delivers twice the graphics ..."
+    publishedDateTime: 2024-02-27T17:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/27/intels-new-intel-vpro-platform-power-next-generation-ai-pcs/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/image_2024-02-27_091615705.png"
+        width: 842
+        height: 428
         isCached: true
   - title: "Intel Brings AI Everywhere Across Network, Edge, Enterprise"
     excerpt: "Intel announced new platforms, solutions and services spanning network and edge AI, Intel Core Ultra processors and the ... Samsung has demonstrated a first-call at their research and development lab in Suwon, South Korea. Ericsson has also demonstrated ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-becomes-first-to-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
 type: article
 quality: 87
-heat: 140
+heat: 133
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/63987/content/hero-micron-hbm3e.jpg"
         width: 708
         height: 400
-        isCached: true
-  - title: "Samsung Galaxy S24's AI features can be set to on-device-only processing — here's how it works"
-    excerpt: "It is possible to use on-device AI on the Samsung Galaxy S24 series, but you'll miss out on certain features in doing so. Galaxy AI requires an internet connection for several of its sub-features, because Samsung processes (but does not keep) the data ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.tomsguide.com/phones/samsung-phones/how-to-use-on-device-ai-only-on-samsung-galaxy-s24"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 27
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TgpGYj9dn8G7oFPqJ2XwLk-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "m1q6J6QqKxphxARs/s/HSocQJpUWT7IlSXdKTXgX6iiesf8Co1cMEZCzsV4EQyb2ZFhN92CnMyKMFObO1Ph6kdTEhpRZDxTJp/09VQpQ4Meesz5XGpO2jXeSqvyRXnqXro++gUMn48tbow7nIfYZZL8zIt/vLDKX7gw9H5pK/AS2DaR/1aUO6d2xfiQihNSPOtkv82LsPBk4D7kbMpaB6U0i2oJHfZyh9pZs9l7bNhs5K9PwW2AHXNHVaK6IivAggQ30Z3WTlYI3ul8X9XEsouIp0tdL8gkyIZE2EZ3R03JZgDcns6/jln87Dfc2hfT12SauVeQkriJbDr0Ekmz2h0omtJfhyw4j74nf0swKwHE=;AKk4hoQl5ipDjgtAntXP9g=="

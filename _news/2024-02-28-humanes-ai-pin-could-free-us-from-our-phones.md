@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Steerable AI with Pinecone and Semantic for AI data management"
-    excerpt: "The Semantic Router library’s chunking feature is particularly useful for developers working with complex datasets, such as those found in natural language processing or machine learning applications. By breaking down data into smaller segments ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-data-management/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-data-management.jpg"
-        width: 1280
-        height: 717
-        isCached: true
 
 secured: "x3If8P4WAQUVKvOrCqt/FYgZ9Pk6v9aq92B8jOYXK1eMJEHwnm14DXpetX8OINRMXXy5sf9WK+ucjY5HHjPuv/VjBggd8I/l5ZVwJd/vZg6FlhrX9nz4JkHYzOop8KK6jpRqOQCfHq85VajqKcSj9BRgBvdDIqfn90m9wBpUxlWF2FdYcNIvWzPR3bqWmYbp8q6m4Sk5uov0YWsyVOT8ElEgahKnG0nm/ivt/8KRo1PMwMdct4cL8ZAY54kdWJrOO/4kNsXhq89ScT+3o39x3r9Kx5FYljvx0x9TSEr/BzpSs2zf6dSI+G03dM7x9An2H9DUbOgn7Gvqc3MvZaxAVVYQypSMVtoMKInULEcI2Y9t1yIyvjr1WHOrBbWeJBAdJMdT9FcN3ad63TjvqzbFeThxyvF1w77ANqv8mO8FU++T9X+9nE0/7aH7PAIU+bZaXe8obAS4BRFxnd070pRRAf2Coyjdlv8fE/5L9Q6gGEfy9cqTc5+WklVl5BERy203kLzC1eQd+9q7urr1lSqAsw==;Q+8LTX7s6Ngf7O1lYdYh1w=="
 ---

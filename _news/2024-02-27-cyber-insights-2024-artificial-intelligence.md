@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intellig
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
 type: article
 quality: 59
-heat: 102
+heat: 105
 published: true
 
 provider:

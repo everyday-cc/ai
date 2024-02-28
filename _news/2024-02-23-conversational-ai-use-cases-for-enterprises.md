@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/conversational-ai-use-cases-for-enterpris
 webUrl: "https://www.ibm.com/blog/conversational-ai-use-cases-for-enterprises/"
 type: article
 quality: 99
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI enterprise search startup raises mega round at massive valuation"
+    excerpt: "The startup's announcement now places it as the second largest ... \"We are at the beginning of one of the biggest transformations in technology; generative AI is an incredibly powerful technology that will unleash productivity and new efficiencies, but ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/02/27/glean-raises-series-d-22b-valuation.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "AI-powered enterprise search startup Glean raises $200M+ at $2.2B valuation"
     excerpt: "Glean Technologies Inc., the developer of a conversational search platform for enterprises, has raised more than $200 million in a Series D round that values it at $2.2 billion."
     publishedDateTime: 2024-02-27T19:17:00Z

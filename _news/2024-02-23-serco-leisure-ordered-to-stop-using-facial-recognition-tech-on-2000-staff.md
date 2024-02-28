@@ -51,15 +51,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Live: UK’s Serco ordered to stop using facial recognition to monitor staff"
-    excerpt: "UK public service contractor Serco has been slammed by the country’s data watchdog for using facial recognition and fingerprint scanning to monitor and pay its staff, and ordere"
-    publishedDateTime: 2024-02-22T23:41:00Z
-    webUrl: "https://www.ft.com/content/cbfd0094-2219-4f64-a5b0-c06f05c5b81c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "o7QqI043cMp1R7P62AZQ0rqXfYgSY2mYyazhr8iNPARHVqTs6cbEoZGu/fUH9KHdsKbv8OtYVdd/40aE2hmwwKLus3BMTAMVHu2m7ERy1jOeMvu/Emu2jXccibvqdBpayBlDietvb3Ly4Lkrhc84BIm9vEov79yZuitiLfLAXXLaYe+eMAr2kuDo1fgjmAbrKJ2mHpnHJK/dYeCOnfnD0Op9xf0+1loeKVz3AShf9cZOd1ah86Ce3i0QY+2+/Ewy3jMpIP6NnVKsuDdZWqaIGSUqCkFqwRJv9dOruyM4kiSUpYacORLPlZv70Ww4AsxxbjC34hJ9rhcRSwn0ZzI6PKNQ620UZqYoYAl1P9zcMzw8CyV0swqw7GzpKcHEvW1km3SSqWGuDTY7NAPm17CUYUZOfEFHbDqMPHnF6U3/OZt30DLedjtCPA8b+JZX6wrCzZRnTXpGumwDBv+kJYIOZ8wNlp/HwhJWUKuVP7h6/sbW1zy3WA46uHyOQVF4AWqSQf4UWCedsUltGOkIJam7nA==;keEn1gk43DDsM5o4y/ZCOQ=="
 ---

@@ -52,15 +52,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 34
-  - title: "ICO Bans Serco Leisure's Use of Facial Recognition for Employee Attendance"
-    excerpt: "Serco Leisure has been ordered to stop using facial recognition technology (FRT) and fingerprint scanning to monitor employee attendance by the UK’s data protection enforcement authority. The Information Commissioner’s Office (ICO) said the company ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/ico-bans-serco-facial-recognition/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
   - title: "Outsourcer Serco ordered to stop using facial recognition to monitor staff"
     excerpt: "Outsourcer Serco has been ordered to stop using facial recognition and fingerprint scanning to monitor attendance and pay staff as the UK watchdog cracks down for the first time on an employer processing the biometric data of its workers."
     publishedDateTime: 2024-02-23T13:56:00Z

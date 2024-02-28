@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-
 webUrl: "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/034NG208yUxngUH0Pg5tfBb-1.fit_lim.size_1200x630.v1709055584.jpg"
         width: 1119
         height: 630
-        isCached: true
-  - title: "Steerable AI with Pinecone and Semantic for AI data management"
-    excerpt: "The Semantic Router library’s chunking feature is particularly useful for developers working with complex datasets, such as those found in natural language processing or machine learning applications. By breaking down data into smaller segments ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-data-management/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-data-management.jpg"
-        width: 1280
-        height: 717
         isCached: true
 
 secured: "V4ICT4f/bnEkkiQ6bnidSJuBueqKiyYIX3kv52ODaoD9iHJivDzVKxbOPZvMVpHU++lXHIxYha/tq01t2k84Bla/Zcgdj+WLHk1uvmb6gI7kgpI7LYi40s7LHCQ7gO3a+/ARtR/Th8Zr4ZrFAcd7IpYbrauqUSGq21+6A/xXvJzXl5fKrKhB9unBI3L2k14wLnEBDWFpieOIq0dnQVn3peinztf5Vg1oTfahWfwv+vPpDv1WwHRPxqxSukRWqik70aM/mcLf5GVcQaXXl0e+XDLihRRbbDd2qsPmwxLmZRakzy7b5vC2Hd+A611DILuv5V9RP1UV3ARB4coW3zet/+yz6JEK7+SMRFrvBXn2suk=;1CEBQ4ptJN7VTlbfd9uySQ=="

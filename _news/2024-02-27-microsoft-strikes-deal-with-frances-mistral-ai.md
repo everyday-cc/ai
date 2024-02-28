@@ -219,20 +219,6 @@ related:
         width: 500
         height: 375
         isCached: true
-  - title: "Gemini AI turns up in Chrome browser to help you write, as Google plays catch-up with Microsoft Edge"
-    excerpt: "The AI will help you craft any written content in Chrome. So, for example, if you’re creating a sales listing for a GPU so you can upgrade to a better model, it can knock up something and automatically pull over extra details that might be useful such as ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.techradar.com/computing/chrome/gemini-ai-turns-up-in-chrome-browser-to-help-you-write-as-google-plays-catch-up-with-microsoft-edge"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 71
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/x6LMvCvfaP44cXGUjWmq3V-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft turns to NVIDIA’s competitor Intel to strike AI chip deal"
     excerpt: "Intel scores a big client in Microsoft Corp for Intel Foundry, its sustainable systems foundry business tailored for making AI chips."
     publishedDateTime: 2024-02-23T14:19:00Z
@@ -314,6 +300,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
+  - title: "You Can Now Replace Google Assistant With Microsoft's Copilot AI"
+    excerpt: "A few weeks ago, Google rebranded its AI platform Bard, which is now known as Gemini. Aside from some additional service options, like Gemini Advanced, the company also casually announced that you can now replace Google Assistant on your Android with Gemini."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://lifehacker.com/tech/you-can-replace-google-assistant-with-microsofts-copilot-ai"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 56
+    images:
+      - url: "https://lifehacker.com/imagery/articles/01HQNWQRY1922DNZ6SX0GTXXWM/hero-image.fill.size_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "You Can Now Replace Google Assistant With Microsoft’s Copilot AI"
     excerpt: "A few weeks ago, Google rebranded its AI platform Bard, which is now known as Gemini. Aside from some additional service options, like Gemini Advanced, the company also casually announced that you can now replace Google Assistant on your Android with Gemini."
     publishedDateTime: 2024-02-27T22:31:00Z
@@ -482,15 +482,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Microsoft and MeitY Collaborate to Boost AI Startups in India"
-    excerpt: "In my free time, I'm either binge-watching an anime or off on a hike. Microsoft has partnered with Indian institute iCreate to select AI innovators under the iMPEL-AI programme. Under this, 100 startups from across the country will... Back in June 2023 ..."
-    publishedDateTime: 2024-02-23T00:01:00Z
-    webUrl: "https://www.medianama.com/2024/02/223-microsoft-meity-collaboration-ai-startups/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 34
   - title: "Microsoft Announces Cloud Partnership With Mistral AI"
     excerpt: "Microsoft announced a multi-year partnership with French generative AI startup Mistral AI. The company will make Mistral AI's premium models available in the Azure AI Studio and Azure Machine Learning model catalog."
     publishedDateTime: 2024-02-26T15:02:00Z
