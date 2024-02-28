@@ -25,58 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "The Best Generative AI Courses Money Can Buy"
-    excerpt: "Embark on a journey to master generative AI with the best paid courses available, covering everything from principles and prompt engineering to business applications."
-    publishedDateTime: 2024-02-26T05:58:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
+  - title: "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin"
+    excerpt: "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity."
+    publishedDateTime: 2024-02-27T19:12:00Z
+    webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dc3646f50b2433cd62402e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://assets.techrepublic.com/uploads/2024/02/humane-ai-pin-fig-a-feb-24.png"
+        width: 1400
+        height: 788
         isCached: true
-  - title: "Six Generative AI Predictions For 2024 And Beyond"
-    excerpt: "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students."
-    publishedDateTime: 2024-02-26T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/"
+  - title: "Cyber Insights 2024: Artificial Intelligence"
+    excerpt: "AI's progress in 2024 and beyond: 2023 was a year of hype, 2024 brings the beginning of AI reality, and 2025 likely to be its delivery."
+    publishedDateTime: 2024-02-26T16:42:00Z
+    webUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/"
+    ampWebUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://www.securityweek.com/wp-content/uploads/2024/02/Elia-Zaitsev-Crowdstrike.jpeg"
+        width: 258
+        height: 323
         isCached: true
-  - title: "Companies Need To Get Onboard The Generative AI Train"
-    excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
-    publishedDateTime: 2024-02-25T19:21:00Z
-    webUrl: "https://www.forbes.com/sites/sylvainduranton/2024/02/25/companies-need-to-get-onboard-the-generative-ai-train/"
+  - title: "MWC 2024: Smartphone makers bet on AI to revive sales"
+    excerpt: "South Korean giant Samsung’s stand at the MWC prominently plugged its new premium AI-powered Galaxy S24 range, which allow users to make or receive a call in a language they don’t speak and then receive a live translation of the call both audibly and ..."
+    publishedDateTime: 2024-02-27T05:42:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/27/mwc-2024-smartphone-makers-bet-on-ai-to-revive-sales"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "A Marketer’s Guide To Generative AI Startups"
-    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
-    publishedDateTime: 2024-02-26T08:00:00Z
-    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
-    type: article
-    provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 39
+      name: The Star
+      domain: thestar.com.my
+    quality: 56
     images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2024/01/Americas-next-top-AI-model_Kevvo_comic.jpg"
-        width: 2397
-        height: 2098
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2564047.jpg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "Generative AI Advances Showcased at MWC 2024"
     excerpt: "The company has introduced an array of applications driven by generative AI and deep learning, including enterprise services and smart living environments. These applications are directly aimed at fulfilling the specific requirements of businesses and consumers."
@@ -92,24 +83,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
-    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of ..."
-    publishedDateTime: 2024-02-26T13:04:00Z
-    webUrl: "https://www.charlotteobserver.com/press-releases/article285939161.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 0
-  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
-    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"
-    publishedDateTime: 2024-02-26T16:04:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article285939161.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 0
 
 secured: "6NltrfdnSXNFYP4QvGGOjer4Ejv7am5D2RBTQA2RUBKRC2qX3HqmLI5939/SSThwto/iSqXuBC1We/+ZD49K1dSrWDw3l5+vCIuFEqA25awboL78b4WuD1rscgeZHcchS77Wx5DwSgojI+m4n3yZ1bmYtU+5UdpRmnwLpk4SdusrZXrimGDnZUQMTUOjzgKIq+hlQLiyWlCERUqFbmPWTz6M3dEtJaUqlp549wYSWCqWIlj3lmrVMfCPfKxrHHg36nlRMdHDaM7aulzRzQrUAjlecmtsVtjHR8gmilGfqqqk2xTpM7G5N5Xxp7l0NL6xHbDJdaK17Lnv86jtvG3pwiWQIDDugfV+J88w552aYV4=;UNGR0r65Z3v7rnXx22xkRw=="
 ---

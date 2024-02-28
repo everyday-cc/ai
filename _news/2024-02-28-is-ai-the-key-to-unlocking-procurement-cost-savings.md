@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI is having a 1995 moment"
-    excerpt: "The analyst said the hunger for Nvidia's AI chips from leading software providers like Salesforce, Adobe, and Oracle is a \"transformational tech trend we have not seen since the start of the Internet in the mid 90's.\" But that doesn't mean major AI ..."
-    publishedDateTime: 2024-02-23T18:19:00Z
-    webUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp"
+  - title: "Derby council AI savings plan prompts concern"
+    excerpt: "Derby City Council leader Baggy Shanker, said: \"Derby City Council is a trailblazer in using AI, and we will always make sure the needs of all our citizens are at the heart of this project."
+    publishedDateTime: 2024-02-28T06:28:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-england-derbyshire-68416832"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-derbyshire-68416832.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-derbyshire-68416832.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://i.insider.com/65d8ca26ce7f1785b2e37b7b?width=1200&format=jpeg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8B8D/production/_132752753_derbycitycouncilo224.jpg"
         width: 1024
-        height: 512
+        height: 576
         isCached: true
 
 secured: "BMpELrWS7wEj7EjAGuKe5Y6yLpMjswz+FP5CW1mf2AIi+Zkqy6KTemSSjJEiV2VoYbxvtDEV3wmVytT05m6jJfEu3Nl2EyDd1Ak+C9e3DRmDSezB6wyjJoCWRrgB1KH58uZQMlZhfAupG0DbnODvx4eh8PD4HTvh+Pjn7to0dDn5Y0hdIY5QWuyeFk5afmuBgSEkfkRjQi7ZPnLNHMCzHiwK1Oq/yhMFcd8OwmfIVFd1bz7LXZysx2Yb+UZCRo6sZ5CwA6x1ny1kMbloNyQF/HtMr8Mu5QVSKLZNABQVojF9Y3UkUfsSCHjlPHLxrMIsZjXlfq4c49HJzPbMJVq/KinnxmVJc4TYxMzfixg3yvo=;32FCcFxfBZ4WyAJhl/oAOw=="

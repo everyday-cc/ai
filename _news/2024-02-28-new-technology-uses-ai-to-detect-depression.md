@@ -41,15 +41,6 @@ related:
         width: 1478
         height: 900
         isCached: true
-  - title: "How AI Takes ‘Democratized’ Innovation To The Next Level"
-    excerpt: "Generative AI promises to “democratize” innovation, meaning everyone can take part in advancing new ideas and seeing them through. But how will this play out, exactly?"
-    publishedDateTime: 2024-02-23T18:59:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/23/how-ai-takes-democratized-innovation-to-the-next-level/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Best of MWC 2024 — best phones and biggest innovations from the show"
     excerpt: "The on-board AI assistant is designed to be a true companion too, with Chat GPT-powered conversation, object recognition, real-time translation and on-glasses navigation. And that’s all without ever having to link to your phone. If this is a taste of ..."
     publishedDateTime: 2024-02-28T00:00:00Z

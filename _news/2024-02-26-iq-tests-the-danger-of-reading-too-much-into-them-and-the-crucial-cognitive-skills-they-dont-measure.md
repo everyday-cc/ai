@@ -7,7 +7,7 @@ originalUrl: "https://www.deccanherald.com/science/iq-tests-the-danger-of-readin
 webUrl: "https://www.deccanherald.com/science/iq-tests-the-danger-of-reading-too-much-into-them-and-the-crucial-cognitive-skills-they-dont-measure-2910014"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "IQ Tests: The Danger Of Reading Too Much Into Them And The Crucial Cognitive Skills They Don't Measure"
-    excerpt: "Many people object to intelligence tests. Some say IQ test scores are too often abused. They says it's unfair that when children“fail” these tests i"
-    publishedDateTime: 2024-02-23T18:11:00Z
-    webUrl: "https://menafn.com/1107891293/IQ-Tests-The-Danger-Of-Reading-Too-Much-Into-Them-And-The-Crucial-Cognitive-Skills-They-Dont-Measure"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 8
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/23/TC_7c7a0image_story.jpg"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "iN7pGFJn6mpZR13BidzL7XN18HzH334wWbyMQdGYjC1wWm5c2i6ZDV1G427uABWwo5tj1qOZCU0XFS/kOOHRg3LNofwLKORieSwzp07fKnLz8QLKpsgpLaKpiQ6sXobH1Wi8xulAaoZoCAXKDcq3qVGUqUBQzZTQRqyumCPpnd2+cfve3oIS9h8wnCSJ+YWZfhjyqpvl7HVOOfB4ebuNXCw1/c+gvyeyyftAiUY5j4tkZxJ67hVYypLcZJUObd3cNcISQe50jvadFEw24PKZFRg+osw+8kaEjql01vmGpVEQqNIiM2FJsolzgBkft8IPvCk9DXcEITgGGzEjcUr7HCo1hnTNCVG0usYWbO4y3Ag=;D3hrKwvaq2NGbMEKTrgy0g=="
 ---

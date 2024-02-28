@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/storage/2024/hammerspace-hyperscale-nas-t
 webUrl: "https://www.crn.com/news/storage/2024/hammerspace-hyperscale-nas-targets-fast-file-services-for-ai-on-gpu-servers"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Hammerspace Debuts New Architecture Category for Meeting AI and ML Compute Needs at Scale"
-    excerpt: "Hammerspace, the company orchestrating the Next Data Cycle, is debuting Hyperscale NAS, a new, high-performance NAS architecture designed to handle today's most advanced compute environments-including AI,"
-    publishedDateTime: 2024-02-23T18:12:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Hammerspace-Debuts-New-Architecture-Category-for-Meeting-AI-and-ML-Compute-Needs-at-Scale-162717.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 47
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Hammerspace Unveils the Fastest File System in the World for Training Enterprise AI Models at Scale"
     excerpt: "SPONSORED GUEST ARTICLE] Hammerspace, the company orchestrating the Next Data Cycle, unveiled the high-performance NAS architecture needed to address the requirements of broad-based enterprise AI, machine learning and deep learning (AI/ML/DL) initiatives and the widespread rise of GPU computing both on-premises and in the cloud."
     publishedDateTime: 2024-02-28T10:59:00Z

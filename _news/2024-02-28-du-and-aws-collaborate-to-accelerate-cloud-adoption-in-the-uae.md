@@ -9,8 +9,8 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/du-and-aws-collaborate-acce
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/du-and-aws-collaborate-accelerate-cloud-adoption-uae-1555170"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Al Bawaba News
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
-    excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
-    publishedDateTime: 2024-02-28T14:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969722.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 47
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Sage signs Strategic Collaboration Agreement with AWS to enable AI-powered solutions for Small and Mid-Sized Businesses"
     excerpt: "This agreement will significantly enhance how SMBs optimize their operations with generative artificial intelligence (AI) and tackle environmental responsibilities, with Sage Earth now available in AWS Marketplace. Today, SMBs can leverage Sage Intacct in ..."
     publishedDateTime: 2024-02-27T16:30:00Z

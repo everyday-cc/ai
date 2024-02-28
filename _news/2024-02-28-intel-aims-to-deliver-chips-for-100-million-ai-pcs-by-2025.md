@@ -7,8 +7,8 @@ originalUrl: "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deli
 webUrl: "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Nikkei Asia
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Bridges AI Chip Gap"
-    excerpt: "Intel is well-positioned to capitalize on emerging opportunities in the semiconductor landscape and bridge the AI chip shortage gap. Yiazou Capital Research members get exclusive access to our real-world portfolio. See all our investments here » Through ..."
-    publishedDateTime: 2024-02-25T14:00:00Z
-    webUrl: "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap"
+  - title: "Intel wants its chips inside 100 million 'AI PCs' by 2025"
+    excerpt: "This is a big deal for anyone who is thinking about purchasing a Windows 11 PC in the next few years, because Microsoft and basically every major PC maker appears to have hopped aboard the AI PC bandwagon. And while there may be some real, radical, game-changing benefits to come out of this shift, the underlying motivation is pretty basic: money."
+    publishedDateTime: 2024-02-28T17:33:00Z
+    webUrl: "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: Tom's Guide
+      domain: tomsguide.com
     quality: 54
     images:
-      - url: "https://media.gettyimages.com/id/1251437157/photo/microchip-and-intel-logo-displayed-on-a-phone-screen-are-seen-in-this-multiple-exposure.jpg?b=1&s=594x594&w=0&k=20&c=HFVH7KxmOihjyT8EjTR8pO5m_rgbZfpLmjn4pVRwaAE="
-        width: 594
-        height: 396
+      - url: "https://cdn.mos.cms.futurecdn.net/sg8oYbwZnoppMSnNnDWhNj-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Intel’s new Intel vPro platform to power the next generation of AI PCs"
     excerpt: "The company said the Intel Core combines both types of chip, splitting processing tasks across the CPU, GPU and a new neural processing unit to support much faster and more powerful AI workloads. Intel says the Arc GPU delivers twice the graphics ..."
@@ -53,24 +53,20 @@ related:
         width: 842
         height: 428
         isCached: true
-  - title: "Intel Brings AI Everywhere Across Network, Edge, Enterprise"
-    excerpt: "Intel announced new platforms, solutions and services spanning network and edge AI, Intel Core Ultra processors and the ... Samsung has demonstrated a first-call at their research and development lab in Suwon, South Korea. Ericsson has also demonstrated ..."
-    publishedDateTime: 2024-02-26T05:55:00Z
-    webUrl: "https://www.guru3d.com/story/intel-brings-ai-everywhere-across-network-edge-enterprise/"
+  - title: "Intel gets down to business with new vPro Core Ultra processors for the AI PC revolution"
+    excerpt: "Intel Core Ultra processors with vPro come with an NPU (Neural Processing Unit) built in to function as an AI accelerator. Conversely, Intel 14th gen with vPro will continue to rely on the CPU or GPU for AI tasks due to them being an older architecture."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/intel-announces-vpro-core-ultra"
     type: article
     provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 19
-  - title: "Analysis: How Nvidia Surpassed Intel In Annual Revenue And Won The AI Crown"
-    excerpt: "Instead, the Intel veteran saw a bigger threat in Nvidia and its “uncontested” hold over the AI computing space and said his company would give its all to challenge the GPU designer. “Well, they’re going to get contested going forward, because we ..."
-    publishedDateTime: 2024-02-26T19:00:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/2024/analysis-how-nvidia-surpassed-intel-in-annual-revenue-and-won-the-ai-crown"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 17
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 30
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2HExYsi7MsupWK4eEXEKFK-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "8K5pLHyypJcITAGNHy1WU9onG/BFjYf91bRiEyyhYyCclWHavIuDl4OlILyGWiPf5ichcaqm3wI6dXykuh8UTbBm7kiRjQNDg9/N+X1pA+haweP4s1mizZW00PbasA4UQ9gGfp9UJdlajNWtCRil7NlHa1bAbFNzS1ZNGYyLpilOHNz66OKFKO/eTpCfoTcWkLwXUHG7GbyH3+gSbyOpV8OZNCJimMXfv/qec60q+16kxbg/eJ8/5ko8mowvsOdW76CCTkfiGgTQ7RMHVsybQRBDxgpAJKmVgYNi66KSzTiyXVAKeOIoy39Nsb7h7K6s581DJjEwEzdvkKpUJCNyQaZPgEALKavcsz+Xp0F8wGc=;oKEJLHtVgtl9IJmLcCR4dA=="
 ---

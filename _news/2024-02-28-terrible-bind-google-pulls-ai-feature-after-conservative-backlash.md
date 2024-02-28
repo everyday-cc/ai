@@ -9,7 +9,7 @@ ampWebUrl: "https://torontosun.com/news/world/terrible-bind-google-pulls-ai-feat
 cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/world/terrible-bind-google-pulls-ai-feature-after-conservative-backlash/wcm/36321b48-084f-4385-ab02-383e7c636947/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1000
     height: 750
     isCached: true
+
+related:
+  - title: "Google Left in ‘Terrible Bind’ by Pulling AI Feature After Right-Wing Backlash"
+    excerpt: "Across more than a dozen posts, Musk also singled out individual leaders at Google, including Gemini product lead Jack Krawczyk and Google AI ethics advisor Jen Gennai, baselessly asserting that they were behind the company AI’s alleged bias against ..."
+    publishedDateTime: 2024-02-28T17:26:00Z
+    webUrl: "https://time.com/6835975/google-gemini-backlash-bias/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 65
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1998277987.jpg?quality=85"
+        width: 5323
+        height: 3549
+        isCached: true
 
 secured: "OmeXJeIn1vVhYI9LJqFlmB050x8PDzgo0oj2/C3l8uzd80oVNhQMmmaPkpfEXxxlW+Axre+VF3uFt8oIAS4ZzlRh4zvDTIIQyPvGTq/60Azj9PfrQYLuzQf03fxJdFB+tqT71500uNWPq7N6GY1eaBAtUsPcD6Q0g9c3bt42pwbGGSKO1Lh63y9DscutjTxBmPM5ZTIgU43Q6nxXwOPdvKX+7JOSRDQO7i88xIQTuqipSuRa0Pj0nks55XvU0oJTiq50EUlctODZ75Nndi3VQF5LNbIVyLTCKawgz2BErf74Xwf+9o/vfkeJ41KaXY6T6LD3p3apRRY02oYTe8R4S+/VwOFrldMni+5MHuTO25w=;Xz/KXuxQy5YMw9yN4H2rrg=="
 ---

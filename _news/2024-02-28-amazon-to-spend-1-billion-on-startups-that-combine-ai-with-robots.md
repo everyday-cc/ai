@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon to spend $1 billion on startups that combine AI with robots"
-excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
+excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than €400 million in technologies that include ..."
 publishedDateTime: 2024-02-28T14:48:00Z
-originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?view=grid"
-webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?view=grid"
+originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
+webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
 type: article
 quality: 84
 heat: 104
@@ -53,6 +53,6 @@ related:
       domain: bloomberg.com
     quality: 47
 
-secured: "/3Bi6IpbToKbYMGtrypUS7UI1DWBZ21mRfpcjJKDGm0vpftIaLU2sUeC1Jfrn0wCC5Yr6IfMswvUv2KyRoj+hdN4NhUtPepoY9OEk5TQmyLBcroSZ+CPG7JKrRXiQHgODdFMFLj3ZoRDUEYRP+WPwiSJ4AUqCGmGaTR1LBTuJ6Cr/5pL+HpjL6Pzd6Bbb1I45Qdj+SsrezBjGf9Hr43QkKInlSKmeRAriUaKAPyipNBV/2ooCOxsnNkrZs3bJEg15N4Gv2nG9QjhgSB2Wc2lWdyToLmo9sKglPGt+FxDwMMAXfK+7IAm4eX4EJsishj0DImSWORQfWwu9YLgEt6rh+4Rrb2LmzZBZJjlzOx6dx8=;Atny3GLq4tzexTXbp1D5uw=="
+secured: "kOXjigsI4UCTp1V+sKOzDrZ8vUjRefXq1tcCVWIvtAOgbhvQ6WYLvBRxXOD5SkUfjcgg7tgMUAdtH2K68230EbUs7L9J7eiR0i1i097C6/4SOjAx693OZqaLWcTUt69nC9FUHP3zFwnlTNQSiaDF3P10HWN75V/mrf241Itm5VPzOZwQrdzWriIM+2ozEZcTN0zKO4PqFtavcdVYnGTz+SQh5m7ur9A0CFpYQRcRcMf0I6neak0HxK+HBa3Wy4N3fREFUX2VLFBK6+2W+z4ktjZbXA8ct3/5fSBvGyYHJk2pc0m7t9DdacmIzrqLYLSvATRl0ctLN4kmwdZ30RkSAUMmhWirlOLByproGGvtMWY=;jJjYBIICWLlOPVEtPk+60w=="
 ---
 

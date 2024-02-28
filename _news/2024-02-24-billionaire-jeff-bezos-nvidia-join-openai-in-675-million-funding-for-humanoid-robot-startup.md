@@ -199,6 +199,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft and Mistral partner on AI"
+    excerpt: "in the Azure AI Studio and Azure Machine Learning model catalogue. Azure’s AI-optimised infrastructure and capabilities will offer Mistral AI additional opportunities to promote, sell and distribute its models to Microsoft customers worldwide."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.research-live.com/article/news/microsoft_and_mistral_partner_on_ai/id/5123113"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5123113&name=microsoft-and-mistral-partner-on-ai"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5123113&name=microsoft-and-mistral-partner-on-ai"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 74
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
   - title: "Microsoft to foster innovation, competition in AI"
     excerpt: "Microsoft will also not use non-public information or data from the building and deployment of developers' AI models in Microsoft Azure to compete with those models, and also allow Microsoft Azure customers to easily export and transfer their data to ..."
     publishedDateTime: 2024-02-28T02:41:00Z
@@ -315,22 +331,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/AczNSbVkntZku5EVU2DEkQ-1200-80.png"
         width: 1200
         height: 615
-        isCached: true
-  - title: "Jeff Bezos, Nvidia Join Forces in $675M Investment for Humanoid Robots"
-    excerpt: "The AI robotics industry is witnessing significant activity ... as previously reported by TechTimes. Utilizing artificial intelligence and advanced technologies akin to \"Google Maps\" for Earth's crust, KoBold aims to enhance copper and cobalt exploration."
-    publishedDateTime: 2024-02-23T19:02:00Z
-    webUrl: "https://www.techtimes.com/articles/301997/20240223/jeff-bezos-nvidia-join-forces-675m-investment-humanoid-robots.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/301997/20240223/jeff-bezos-nvidia-join-forces-675m-investment-humanoid-robots.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301997/20240223/jeff-bezos-nvidia-join-forces-675m-investment-humanoid-robots.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444061/amazon-ceo-and-blue-origin-founder-jeff-bezos-speaks-at-air-force-association-air-space-and-cyber-conference.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "EU launches investigations into Microsoft over security software practices, Mistral AI investment"
     excerpt: "EU launches investigations into Microsoft over security software practices, Mistral AI investment - SiliconANGLE"
@@ -488,15 +488,6 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 34
-  - title: "Microsoft and Mistral partner on AI"
-    excerpt: "in the Azure AI Studio and Azure Machine Learning model catalogue. Azure’s AI-optimised infrastructure and capabilities will offer Mistral AI additional opportunities to promote, sell and distribute its models to Microsoft customers worldwide."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.research-live.com/article/news/microsoft-and-mistral-partner-on-ai/id/5123113"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
     quality: 34
   - title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival that has its own chatbot"
     excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."

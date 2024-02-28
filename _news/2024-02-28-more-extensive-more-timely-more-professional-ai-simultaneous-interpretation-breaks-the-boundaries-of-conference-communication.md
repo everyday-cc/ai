@@ -25,35 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "K-State Social Media Week to feature events in artificial intelligence, content creation"
-    excerpt: "including key themes of AI-powered personalization, user privacy and data security, content moderation and ethics, misinformation, and future trends and innovations. “AI is making a major impact in many areas of life, including social media,” said ..."
-    publishedDateTime: 2024-02-27T17:21:00Z
-    webUrl: "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/"
-    ampWebUrl: "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp"
+  - title: "Conversational AI revolutionizes the customer experience landscape"
+    excerpt: "AI can create seamless customer and employee experiences but it’s important to balance automation and human touch, says head of marketing, digital & AI at NICE, Elizabeth Tobey."
+    publishedDateTime: 2024-02-26T15:00:00Z
+    webUrl: "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/"
+    ampWebUrl: "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/"
     type: article
     provider:
-      name: WIBW
-      domain: wibw.com
-    quality: 50
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://gray-wibw-prod.cdn.arcpublishing.com/resizer/v2/PMKOXL746BBJBHH42WDQK34DLI.jpg?auth=b29d71430cac1bfc561d468e22bb9990b63a0d9b63215e1c4ba5fe4f25c6c768&width=800&height=450&smart=true"
-        width: 800
-        height: 450
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Elizabeth-Tobey1200.png?w=1200"
+        width: 1200
+        height: 671
         isCached: true
-  - title: "PPC Experts On AI In PPC: Potential & Limitations"
-    excerpt: "By streamlining reporting and analysis, the right AI-powered tool serves as a time-saving asset that can guide optimization efforts and drive favorable outcomes. This is only the start of the AI revolution transforming the social media advertising landscape."
-    publishedDateTime: 2024-02-26T07:30:00Z
-    webUrl: "https://www.searchenginejournal.com/ppc-trends/ppc-experts-on-ai-in-ppc-potential-limitations/"
+  - title: "Bristol Scientists Turbocharge Artificial Intelligence in Revolutionary £80 Million National Initiative"
+    excerpt: "Leading mathematicians, engineers and computer scientists at the University of Bristol have joined a new national mission to realise this potential, taking AI applications to uncharted heights in various settings,"
+    publishedDateTime: 2024-02-24T05:13:00Z
+    webUrl: "https://indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
+    ampWebUrl: "https://indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
     type: article
     provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 37
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 43
     images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2024/02/ppc-experts-on-ai-in-ppc-65d35dbb55929-sej.jpg"
-        width: 1600
-        height: 832
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2024/02/AI-stock-image-article.jpg"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "The Program-Level AI Conversations We Should Be Having"
+    excerpt: "Affirm their existing program-level learning outcomes and determine if a generative AI-specific outcome is needed. For example, a department might decide to revise their ethics-related program-level learning outcome to reflect a commitment to the ethical ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.insidehighered.com/opinion/views/2024/02/28/next-step-higher-eds-approach-ai-opinion"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2024-02/Untitled%20design%20-%202024-02-27T121453.219_c.png?itok=UDLdFHig"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
+    excerpt: "For far too long, cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation."
+    publishedDateTime: 2024-02-28T17:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969981.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "dPFehCUrY9nCYoIjqKlAjtKa8nv/5pVLYNOPCv5HYL6k2+Eu1Dxm/VjGpdApytSvlW+aTp3BSp35OWBKJ9sMY0+Wcapb7AeXzyhujq4KWDSOOXpKwWvePUawoIVnO2S4mhy/bvsWHA6701jj5ys1Z7UBEGorjQFlrl6cSfu/O6IhqZIjE19j2LoGouZotYl4n3F0QlZ/q8GLTWokE0/HKY3ixgIif29+LObHbrR3LV8Vd/DJ8/uHQOMfDP2e57WZoiAmZtY6St7jGd0Zp0FB7h31QuFeVLGtGvpRw1Cy4isQpnF4mNP0C8XTP0no2Z8o/QDDdyFsC6i9tebnTQpiEdQ93BpriXoDl8qHsMmecKc=;6UvEGx2wpcojLWjKdT8ZfA=="

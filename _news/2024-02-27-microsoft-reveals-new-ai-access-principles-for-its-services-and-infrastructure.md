@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-reveals-new-ai-access-principle
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/"
 type: article
 quality: 100
-heat: 540
+heat: 550
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://images.techhive.com/images/article/2015/10/microsoft-headquarters-100623370-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft showcases next-generation AI and computing at Nvidia GTC"
+    excerpt: "Nvidia GTC takes place March 18 – 21 in San Jose, CA and virtually. In person and on-demand sessions, live discussions and hands-on demos will offer a look at the core Azure AI services and technologies that power some of the world’s largest and most ..."
+    publishedDateTime: 2024-02-26T07:30:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-showcase-next-generation-ai-and-computing-at-nvidia-gtc/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_735569484.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
   - title: "Mistral releases new ‘top-tier’ AI model, partners with Microsoft"
     excerpt: "Paris-based Mistral is launching a new \"flagship\" AI model for on Microsoft's Azure, partnering up with the tech giant."

@@ -2,6 +2,335 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2024-01-31-we-have-nothing-to-fear-from-ai-incorporating-deep-learning.md",
+      "title": "We Have Nothing To Fear From AI: Incorporating Deep Learning",
+      "excerpt": "You will often hear people talking about deep learning as part of the AI conversation; this term can sound sinister when in fact it is the opposite. Deep learning needs lots of data. But it also needs people to harness and turn it into a competitive advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b95eb8733af1e6e57f2995/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/",
+      "publishedDateTime": "2024-01-31T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-moxie-ai-robot-founder-highlights-armenias-potential-for-advancement-in-artificial-intelligence-and-robotics.md",
+      "title": "Moxie AI Robot founder highlights Armenia's potential for advancement in artificial intelligence and robotics",
+      "excerpt": "believes that there is significant potential for the development of robotics and artificial intelligence in Armenia. According to him, while many countries possess oil, gas, and gold resources, Armenia's most valuable resource lies in its intellectual ...",
+      "sourceUrl": null,
+      "webUrl": "https://armenpress.am/eng/news/1129253/",
+      "originalUrl": "https://armenpress.am/eng/news/1129253/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://armenpress.am/eng/amp/1129253",
+      "cdnAmpWebUrl": "https://armenpress-am.cdn.ampproject.org/c/s/armenpress.am/eng/amp/1129253",
+      "publishedDateTime": "2024-01-31T14:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armenpress",
+        "domain": "armenpress.am",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-kettybot-pro-will-provide-personalized-customer-service-says-pudu-robotics.md",
+      "title": "KettyBot Pro will provide personalized customer service, says Pudu Robotics",
+      "excerpt": "KettyBot Pro's new features include a larger screen for personalized advertising, cameras for navigation, and smart tray inspection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/kettybot-pro-will-provide-personalized-customer-service-says-pudu-robotics/",
+      "originalUrl": "https://www.therobotreport.com/kettybot-pro-will-provide-personalized-customer-service-says-pudu-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/KettyBot_Pro_Pudu.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-what-are-the-different-types-of-sourcing.md",
+      "title": "What are the different types of sourcing?",
+      "excerpt": "Learn about the 9 most common types of sourcing, including outsourcing, insourcing, near-sourcing, single sourcing and more.\nThe post What are the different types of sourcing? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/sourcing-types/",
+      "originalUrl": "https://www.ibm.com/blog/sourcing-types/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-microsoft-enjoys-first-mover-advantage-as-ai-revenue-doubles-5-analysts-explore-q2-print.md",
+      "title": "Microsoft Enjoys 'First-Mover Advantage' As AI Revenue Doubles, 5 Analysts Explore Q2 Print",
+      "excerpt": "Check out other analyst stock ratings. BMO Capital Markets: Microsoft delivered another “solid” quarter, highlighted by Azure growth of 28% year-on-year in constant currency terms, “including 6 points from AI workload,” Bachman said in a note.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-enjoys-first-mover-advantage-as-ai-revenue-doubles-5-analysts-explore-q2-print-1033016391",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-enjoys-first-mover-advantage-as-ai-revenue-doubles-5-analysts-explore-q2-print-1033016391",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/01/31/msft_microsoft_shutterstock_2325970865.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T12:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-microsoft-and-openai-are-in-talks-to-inject-500-million-into-humanoid-robotics-startup-figure-ai-report-says.md",
+      "title": "Microsoft and OpenAI are in talks to inject $500 million into humanoid robotics startup Figure AI, report says",
+      "excerpt": "Microsoft and OpenAI are said to be exploring options to invest up to $500 million in a humanoid robotics startup, Bloomberg reported. The tech heavyweights are in talks with Figure AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1",
+      "originalUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65ba1d7eac2de4f17ee61474?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1?amp",
+      "publishedDateTime": "2024-01-31T11:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-artificial-intelligence-in-2024-what-it-has-in-store-for-us.md",
+      "title": "Artificial Intelligence In 2024: What It Has In Store For Us",
+      "excerpt": "The end goal of AI is not to eliminate human intervention and automate all of your tasks, but rather to complement your business processes and offer numerous advantages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65578df7f889a02ef53ce298/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 861,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/",
+      "publishedDateTime": "2024-01-31T10:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-from-artificial-labor-to-artificial-intelligence-human-judgment-keeps-it-real-opinion.md",
       "title": "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion",
       "excerpt": "Philosophers, not chatbots, will grapple with what it all means. We have the capacity to add value to decision-making that electrons can’t replace.",
@@ -827,360 +1156,6 @@
         "AI in Finance",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-block-becomes-the-latest-fintech-to-lay-off-workers.md",
-      "title": "Block becomes the latest fintech to lay off workers",
-      "excerpt": "Block, whose subsidiaries include Cash App and Square, is laying off employees, according to an internal memo.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
-      "originalUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1321753242.jpg?w=1024",
-          "width": 1024,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/",
-      "publishedDateTime": "2024-01-30T21:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all.md",
-      "title": "How Schneider Electric Is Deploying AI To Improve Energy Efficiency For All",
-      "excerpt": "Like so many companies across industries today, Schneider Electric is mobilizing to leverage AI to improve productivity and efficiency. A recent survey found that 64.2% of companies believe that Generative AI has the potential to be the most transforming technology in a generation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/",
-      "originalUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b96d877014f9ce8b7c5fe2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/amp/",
-      "publishedDateTime": "2024-01-30T21:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-amd-4q-profit-rises-amid-artificial-intelligence-chip-demand.md",
-      "title": "AMD 4Q Profit Rises Amid Artificial Intelligence Chip Demand",
-      "excerpt": "Advanced Micro Devices saw profit beat expectations in the fourth quarter as artificial intelligence demand continued to boost sales. The Santa Clara, Calif.-based, chipmaker posted a profit of $667 million, or 41 cents a share, in the quarter-ended Dec ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
-      "originalUrl": "https://www.marketwatch.com/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
-      "publishedDateTime": "2024-01-30T21:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-fintech-ramp-acquires-another-ai-powered-startup.md",
-      "title": "Fintech Ramp acquires another AI-powered startup",
-      "excerpt": "Spend management startup Ramp has acquired AI-powered startup Venue as it expands its procurement offering. Venue was founded in 2022 by TK Kong, Young Kim, and Kevin Chan, and its aim was to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/",
-      "originalUrl": "https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/hands-signing-check.png?resize=1200,638",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/amp/",
-      "publishedDateTime": "2024-01-30T20:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-alphabet-shares-slide-on-disappointing-google-ad-revenue.md",
-      "title": "Alphabet shares slide on disappointing Google ad revenue",
-      "excerpt": "Alphabet said that, due to the workforce reductions last year, the company recorded severance and related charges of $2.1 billion for 2023. Additionally, Google exited some of its offices, resulting in charges of $1.2 billion for the quarter and $1.8 billion for the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107325514-1698681177311-AP23303506550300.jpg?v=1698681233",
-          "width": 6000,
-          "height": 4001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
-      "publishedDateTime": "2024-01-30T20:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-8-steps-to-build-a-successful-multicloud-strategy.md",
-      "title": "8 steps to build a successful multicloud strategy",
-      "excerpt": "To overcome various challenges associated with multicloud, organizations need to map out a comprehensive multicloud management strategy to achieve success.\nThe post 8 steps to build a successful multicloud strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/multicloud-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/multicloud-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T19:47:21Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-meta-used-copyright-to-protect-its-ai-model-but-argues-against-the-law-for-everyone-else.md",
-      "title": "Meta used copyright to protect its AI model, but argues against the law for everyone else",
-      "excerpt": "Meta thinks effectively that everything available on the internet falls under \"fair use,\" because AI models like Llama do not exploit or reproduce copyrighted works. (Although they, in fact, very often, do). However, a few months before pushing this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1",
-      "originalUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65b8546743bb77284ba18d1a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1?amp",
-      "publishedDateTime": "2024-01-30T18:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

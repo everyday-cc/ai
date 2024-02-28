@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-mode
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.theengineer.co.uk/media/yexjghw0/robotic-warehouse.jpeg"
         width: 5120
         height: 2880
-        isCached: true
-  - title: "Decentraland and Emerging AI Crypto Set for Major Developments"
-    excerpt: "Decentraland (MANA) is working to improve its performance due to its difficulties and restrictions last year. Its development path has … Continue reading"
-    publishedDateTime: 2024-02-23T18:00:00Z
-    webUrl: "https://finbold.com/decentraland-and-emerging-ai-crypto-set-for-major-developments/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 39
-    images:
-      - url: "https://assets.finbold.com/uploads/2024/02/image1-28.jpg"
-        width: 1999
-        height: 1125
         isCached: true
 
 secured: "PFsuhizoD8bul74JzwQsERFKQlJj7OJNY2o74qfIJGzXya2KiGKVuHLhWZRO4g3P6z2JYqWFituDniBwvc0LqGnzN+tGYPJAGYpQxscDwBIUIBhyYYpOFH/eErEBcWbm4WpiYyaeKFLtWmHyLkJjW5A84E6eWQ4qtdeLAcmZc8SYYaFS1zdMJNeoAB1F+K95lS6BPmilpJ1HsJkpREld1PUHL6CQQQORSzP14P5r7ydjbw+vD7JiFjO1LEsRyviZQZr9vAaOlYthlxneCrb2FZ4geY45ye7D4AkDwkZ6xoMYlLLwQL0T1dJ6NaYKSDi5o/7J3uTDk2vl1dASDXd30RAFsbC31Uu+pyeLbXMSxAKf3rKhHsuPzN+ojzJHKb+0Al/g9WTfemeGENKwtYSOUOAhwspgkJ5O6tqJh4WNm3lCe85jmqkFFFYKGt3cYqp9o2RrBZbfu3VIc7O701Zku4J32PyGJCMJMO6VvegyNTI3utyF11qaQCpwWQq2Z6JkUwfGr48DIH8dwUkQ/6UYNA==;/SYM5cRS/VBQI3O8Yit0pQ=="

@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-26-could-a-security-guard-shortage-be-solved-with-this-autonomous-security-robot.md",
+      "title": "Could a security guard shortage be solved with this autonomous security robot?",
+      "excerpt": "Ascento Guard is a two-wheeled, all-terrain robot equipped with cameras, speakers, a microphone and GPS tracking to work as a security guard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/could-security-guard-shortage-be-solved-with-autonomous-security-robot",
+      "originalUrl": "https://www.foxnews.com/tech/could-security-guard-shortage-be-solved-with-autonomous-security-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/bg/default.png",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-you-will-love-this-robot.md",
       "title": "You will love this robot",
       "excerpt": "Murderbot is hardly unique. Security droids like him accompany exploratory teams on missions all the time. However, Murderbot has a secret. He hacked and disabled his governor module, the device binding him to human control, gaining independence from his masters. Murderbot is content to play his role as an obedient security droid.",
@@ -1291,50 +1344,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics.md",
-      "title": "Tesla: Continuing The Short Bet, As Bull Thesis Depends Too Much On AI And Robotics",
-      "excerpt": "We will see more hype around AI/robotics, but there is no timeline for when Tesla will deliver products. Read why I decided to continue short bet on TSLA stock.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4663303-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics",
-      "originalUrl": "https://seekingalpha.com/article/4663303-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1584500014/image_1584500014.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T15:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

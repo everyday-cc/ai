@@ -10,7 +10,7 @@
       "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias-11709118937108.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,7 @@
       "originalUrl": "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 190,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -137,6 +137,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-google-warned-over-ai-tool-response-on-modi.md",
+      "title": "Google warned over AI tool response on Modi",
+      "excerpt": "Google's AI tool Gemini's response to a question around Prime Minister Narendra Modi is in direct violation of IT rules as well as several provisions of the criminal code, minister",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/national/google-warned-over-ai-tool-response-on-modi-860597",
+      "originalUrl": "https://www.thehansindia.com/news/national/google-warned-over-ai-tool-response-on-modi-860597",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2023/09/05/1377954-rajeev-chandrasekhar.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/national/google-warned-over-ai-tool-response-on-modi-860597",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/national/google-warned-over-ai-tool-response-on-modi-860597",
+      "publishedDateTime": "2024-02-24T06:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1406,40 +1449,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-google-bard-is-now-gemini-paid-version-has-better-ai-features.md",
-      "title": "Google Bard is Now Gemini; Paid Version has Better AI Features",
-      "excerpt": "Roughly a year after Google Bard is made available to the Philippines, Google has decided to give its Chat GPT rival a makeover by formally calling it Gemini. Its similar to how Microsoft has decided to rebrand all of its AI-powered features to Copilot.",
-      "sourceUrl": null,
-      "webUrl": "https://unbox.ph/news/google-bard-is-now-gemini-paid-version-has-better-ai-features/",
-      "originalUrl": "https://unbox.ph/news/google-bard-is-now-gemini-paid-version-has-better-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T04:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Unbox",
-        "domain": "unbox.ph",
-        "images": null,
         "publishers": null,
         "authors": null
       },

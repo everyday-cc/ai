@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Google Addresses Gemini AI's 'Embarrassing' Image Generation with Detailed Explanation"
-    excerpt: "Google ceased allowing users to generate images of people using its Gemini AI tool, a move that occurred shortly after the feature's launch in Gemini (previously known as Bard). Raghavan states that Google intends to conduct further testing on Gemini AI's ..."
-    publishedDateTime: 2024-02-23T19:02:00Z
-    webUrl: "https://www.techtimes.com/articles/301993/20240223/google-addresses-gemini-ai-embarrassing-image-generation-detailed-explanation.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/301993/20240223/google-addresses-gemini-ai-embarrassing-image-generation-detailed-explanation.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301993/20240223/google-addresses-gemini-ai-embarrassing-image-generation-detailed-explanation.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 51
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/441022/google-gemini-ai-is-here.png"
-        width: 1193
-        height: 637
-        isCached: true
   - title: "Google apologizes for ‘offensive’ AI Gemini image generator"
     excerpt: "Google apologized for its overly diverse artificial intelligence image generator, which appeared unable to depict white people in any fashion."
     publishedDateTime: 2024-02-24T04:06:00Z

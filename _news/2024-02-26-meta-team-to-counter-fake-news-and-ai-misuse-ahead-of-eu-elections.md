@@ -41,6 +41,20 @@ related:
         width: 7863
         height: 5242
         isCached: true
+  - title: "Harnessing artificial intelligence for infectious disease prevention"
+    excerpt: "A new research review to be given at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024) will look at the many ways artificial intelligence can help prevent infectious disease outbreaks including ensuring staff wear personal protective equipment correctly and managing day-to-day hospital activities such as medication prescription and cleaning."
+    publishedDateTime: 2024-02-28T02:49:00Z
+    webUrl: "https://www.news-medical.net/news/20240227/Harnessing-artificial-intelligence-for-infectious-disease-prevention.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "How AI Is Being Used to Influence and Disrupt the Election"
     excerpt: "Here are all the ways AI has already become a factor in the 2024 election and what’s being done to limit the damage."
     publishedDateTime: 2024-02-25T10:00:00Z

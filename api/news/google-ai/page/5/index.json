@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-20-google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer.md",
+      "title": "Google will restrict election-related queries that Bard and AI-search can answer",
+      "excerpt": "Google restricts Bard and SGE for election queries to curb misinformation ahead of 2024 U.S. Presidential elections.",
+      "sourceUrl": null,
+      "webUrl": "https://thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/",
+      "originalUrl": "https://thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thetechportal.com/wp-content/uploads/2023/12/12-23_Elections_1_1.width-1200.format-webp-1.png",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/?amp",
+      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/?amp",
+      "publishedDateTime": "2023-12-20T10:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechportal.com",
+        "domain": "thetechportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-alphabet-to-limit-election-queries-google-bard-and-ai-based-search-can-answer.md",
       "title": "Alphabet to limit election queries Google Bard and AI-based search can answer",
       "excerpt": "Google said it will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for.",
@@ -1332,58 +1375,6 @@
         "Google AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-google-deepmind-unveils-its-most-powerful-ai-offering-yet.md",
-      "title": "Google DeepMind Unveils Its Most Powerful AI Offering Yet",
-      "excerpt": "Google DeepMind has announced its much-anticipated family of artificial intelligence chatbots, Gemini, which will compete with OpenAI’s GPT series. According to Google, Gemini Ultra, its largest ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6343450/gemini-google-deepmind-ai/",
-      "originalUrl": "https://time.com/6343450/gemini-google-deepmind-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2023/12/GettyImages-1253650284.jpg?quality=85",
-          "width": 4000,
-          "height": 2662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

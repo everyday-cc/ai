@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-08-ibm-marks-2024-as-the-year-of-balancing-technology-and-trust.md",
+      "title": "IBM marks 2024 as the year of balancing technology and trust",
+      "excerpt": "Generative AI introduces new risks including hallucinations, safeguarding PII data, eliminating profanities and so on. IBM first launched its Watson platform in 2010 but market acceptance of the technology at that point was slow. Last year IBM recast its ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ibm-marks-2024-year-balancing-technology-and-trust",
+      "originalUrl": "https://diginomica.com/ibm-marks-2024-year-balancing-technology-and-trust",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-11/business-g153bb587e_640.png",
+          "width": 640,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ibm-marks-2024-year-balancing-technology-and-trust?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ibm-marks-2024-year-balancing-technology-and-trust?amp",
+      "publishedDateTime": "2024-01-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-06-how-ai-emerges-as-revolutionary-force.md",
       "title": "How AI emerges as revolutionary force?",
       "excerpt": "Artificial Intelligence (AI) has emerged as a revolutionary force, significantly shaping various facets of our daily existence.",
@@ -1335,57 +1378,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-building-cyber-resiliency-for-your-data-with-ibm-flashsystem.md",
-      "title": "Building cyber resiliency for your data with IBM FlashSystem",
-      "excerpt": "The IBM approach to cyber resiliency can help organizations protect themselves in an ever-changing cybersecurity landscape.\nThe post Building cyber resiliency for your data with IBM FlashSystem appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-cyber-resiliency-for-your-data-with-ibm-flashsystem/",
-      "originalUrl": "https://www.ibm.com/blog/building-cyber-resiliency-for-your-data-with-ibm-flashsystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/17e35390-8d06-4198-8b6919d698ba2d02.jpg",
-          "width": 2160,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

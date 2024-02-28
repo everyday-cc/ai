@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI chip firm Nvidia valued at $2tn"
-    excerpt: "The company is benefiting from advances in artificial intelligence (AI), which have powered demand for its chips. Turnover at the firm more than doubled last year to more than $60bn, and boss ..."
-    publishedDateTime: 2024-02-23T18:12:00Z
-    webUrl: "https://www.bbc.com/news/business-68387018"
-    ampWebUrl: "https://www.bbc.com/news/business-68387018.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68387018.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D3CE/production/_131522245_40a5ca5450ad7139cea01cf7b81856c952f2d5ec.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI chip maker Nvidia's huge rise sparks market frenzy"
     excerpt: "The share price of AI chip maker Nvidia has surged 60 percent since the start of the year as the company's value crossed the $2 trillion mark today. Nvidia is now the third-largest U.S. company by market capitalization. Some analysts say they've never seen ..."
     publishedDateTime: 2024-02-24T00:39:00Z
@@ -66,20 +50,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65da9c4f7d1d85f773609bb1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
-        isCached: true
-  - title: "Microsoft showcases next-generation AI and computing at Nvidia GTC"
-    excerpt: "Nvidia GTC takes place March 18 – 21 in San Jose, CA and virtually. In person and on-demand sessions, live discussions and hands-on demos will offer a look at the core Azure AI services and technologies that power some of the world’s largest and most ..."
-    publishedDateTime: 2024-02-26T07:30:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-showcase-next-generation-ai-and-computing-at-nvidia-gtc/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_735569484.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 672
         isCached: true
   - title: "This 1 Number May Ensure Nvidia's Artificial Intelligence (AI) Chip Dominance"
     excerpt: "Today, Nvidia controls more than 80% of the AI chip market, so the company has a clear advantage. But at the same time, rivals are doing what they can to chip away at Nvidia's lead."
@@ -243,20 +213,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia Is Now a $2 Trillion-Dollar Company Thanks to AI Dominance"
-    excerpt: "Nvidia joins Microsoft and Apple as the three US-based companies to reach the $2 trillion market cap. Despite companies like Microsoft looking to make its own AI chips and rely less on Nvidia, a recent report from Reuters claims that Nvidia is working on a new $30 billion business unit that will focus on creating custom AI chips for companies."
-    publishedDateTime: 2024-02-23T19:20:00Z
-    webUrl: "https://www.ign.com/articles/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 39
-    images:
-      - url: "https://assets-prd.ignimgs.com/2024/02/23/nvidia-blogroll-logos-1708718418344.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI Revolution Sparks Nvidia's Historic Market Cap Achievement"
     excerpt: "NVIDIA's annual profits increased by 769% due to the growing enthusiasm surrounding AI, leading to a surge in its market cap. The demand for advanced chips, driven by the AI boom, could outpace supply if investment doesn't keep up. Bitcoin ETFs have ..."
     publishedDateTime: 2024-02-27T12:01:00Z
@@ -294,20 +250,15 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
-  - title: "AI helped NVIDIA break Wall Street record, and now the tech giant is the fourth most valuable company in the world"
-    excerpt: "In our NVIDIA GeForce RTX 4070 Super Founders Edition review, the GPU earned a near-perfect 4.5/5. Of course, even NVIDIA's gaming segment is tied tightly with AI. Over 500 games and apps support AI-powered RTX features like DLSS and ray tracing as of late ..."
-    publishedDateTime: 2024-02-23T17:43:00Z
-    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/ai-helped-nvidia-break-wall-street-records-and-now-the-tech-giant-is-the-fourth-most-valuable-company-in-the-world"
+  - title: "Nvidia's surge ripples across stock market - lifting AI, tech and semiconductor ETFs"
+    excerpt: "The Global X Robotics & Artificial Intelligence ETF BOTZ, which has around $3 billion of assets under management, closed 4.4% higher, according to FactSet data. Megacap semiconductor company ..."
+    publishedDateTime: 2024-02-24T10:44:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20240224201/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 17
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/qNEGpKmTksNsH6mbYkVNed-1200-80.jpg"
-        width: 1200
-        height: 676
-        isCached: true
+      name: Morningstar
+      domain: morningstar.com
+    quality: 12
 
 secured: "PiawhSLxCor6CmofeFojhXiHGdLpST76mlISB+JxcDYtUMg5sr4ppkiwWRH2TTTEuSpmwQbCdkd+XXdDMP4IoFycaHbQaoqucs86Fnq28QGndegakM8fxdTcfdyeoe8uVwGMI3efqbaqIGHp1T4l+c1RmyeB3cDzrjwp3n5j/NaObTs9U2m+VhXX6dIFloJ/AhgUyOVNaM6vzqMTz6Je8AdQK44gc1C0iGVE4WkxqHBK/Ts6Sww5p0SmPeAV+LEBDDw93+rc8chzVrsqT6P5gbxLWCu/xuiag17ytgmGEDB6GlIPS1yxnxeuCEJSnCteU/x4qCl2GgQsvCMT3PKzmh4Q/ntgVjgRc9RI3X6dOi591n3M4XM8iIXya600uXMGfJOfFBUCmDX9bo3EXgNMT7NxNffqpCOyyJKT1fi0/tdrM6zNUkMJt3fadFeaVWnRNKCzfeu0gJmeTKd2HOShDofC1TKkVAJmKa4VrZrY+gi68chN5IYOOr1WMIJF/GrjrNhRpVesoC/rDyg8h/XYNQ==;WqN4tCMLRBQFSFsCzi2XrQ=="
 ---

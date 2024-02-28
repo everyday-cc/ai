@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-19-massrobotics-returns-as-strategic-partner-for-2024-robotics-summit-expo.md",
+      "title": "MassRobotics returns as strategic partner for 2024 Robotics Summit & Expo",
+      "excerpt": "MassRobotics will announce Form & Function Challenge winners and host an engineering career fair at the 2024 Robotics Summit & Expo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/massrobotics-strategic-partner-2024-robotics-summit-expo/",
+      "originalUrl": "https://www.therobotreport.com/massrobotics-strategic-partner-2024-robotics-summit-expo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/form-and-function-group-picture-edited.jpg",
+          "width": 770,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-moxie-how-this-ai-robot-is-designed-to-teach-kids-emotional-intelligence.md",
       "title": "Moxie: How This AI Robot Is Designed To Teach Kids Emotional Intelligence",
       "excerpt": "Developed by Embodied, Moxie is an AI-powered robot that can accompany, interact with and teach five-to-10 year old kids problem-solving and emotional intelligence.",
@@ -1271,49 +1314,6 @@
       "provider": {
         "name": "OPB",
         "domain": "opb.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test.md",
-      "title": "(Video) Inaugural competition puts high school students robotics skills to the test",
-      "excerpt": "Building on the success of its annual “drone wars” competition, which pits Cullman County Schools’ 7th graders against each other as they maneuver remote-controlled drones through an obstacle",
-      "sourceUrl": null,
-      "webUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.html",
-      "originalUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/cullmantimes.com/content/tncms/assets/v3/editorial/d/58/d58ae388-c776-11ee-9cbd-7b97034b20fc/65c66bc092aa0.image.jpg?resize=1024%2C684",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.amp.html",
-      "cdnAmpWebUrl": "https://www-cullmantimes-com.cdn.ampproject.org/c/s/www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.amp.html",
-      "publishedDateTime": "2024-02-10T05:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cullman Times",
-        "domain": "cullmantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

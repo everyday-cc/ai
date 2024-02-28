@@ -2,6 +2,298 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2024-02-09-google-is-rebranding-its-bard-ai-service-as-gemini-heres-what-it-means.md",
+      "title": "Google is rebranding its Bard AI service as Gemini. Here's what it means.",
+      "excerpt": "The advent of Gemini, named after an AI project unveiled late last year, means that Google is retiring the Bard brand that it introduced a year ago. Bard, a chatbot, was an effort to compete with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/google-gemini-ai-bard/",
+      "originalUrl": "https://www.cbsnews.com/news/google-gemini-ai-bard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T19:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-google-bard-transitions-to-gemini-what-to-know-about-the-ai-upgrade.md",
+      "title": "Google Bard transitions to Gemini: What to know about the AI upgrade",
+      "excerpt": "\"It’s a moment of maturation for our approach to AI.\" But the name change is the \"least important part,\" according to Krawczyk, as Google announced that Gemini will also be released as an app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade",
+      "originalUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp",
+      "publishedDateTime": "2024-02-08T19:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-6-of-the-best-ai-etfs-to-buy-now.md",
+      "title": "6 of the Best AI ETFs to Buy Now",
+      "excerpt": "Rather, the ETF takes a “meta” approach by using AI to power its investment selection and management process. This ETF is powered by IBM Watson, which uses machine learning, sentiment analysis and natural language processing to select the holdings of ...",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2024/02/6-of-the-best-ai-etfs-to-buy-now-5/",
+      "originalUrl": "https://wtop.com/news/2024/02/6-of-the-best-ai-etfs-to-buy-now-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far.md",
+      "title": "Not Science Fiction Anymore: What Happens When Machine Learning Goes Too Far?",
+      "excerpt": "Every piece of fiction carries a kernel of truth, and now is about the time to get a step ahead of sci-fi dystopias and determine what the risk in machine sentience can be for humans. Although people have long pondered the future of intelligent machinery,",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far/",
+      "originalUrl": "https://scitechdaily.com/not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Robot-Thinking-Colorful.jpg",
+          "width": 2000,
+          "height": 1143,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T18:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-3-dow-stocks-to-buy-for-the-next-bull-run-february-2024.md",
+      "title": "3 Dow Stocks to Buy for the Next Bull Run: February 2024",
+      "excerpt": "Microsoft Cloud revenue surged to $33.7 billion compared to $27.1 billion in the same period last year. Clearly, cloud revenues are accelerating with growth at 24% YOY compared to 22% in Q2 FY2023. Azure AI suite of cloud-based AI services and cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-dow-stocks-to-buy-for-the-next-bull-run%3A-february-2024",
+      "originalUrl": "https://www.nasdaq.com/articles/3-dow-stocks-to-buy-for-the-next-bull-run%3A-february-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T17:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock.md",
+      "title": "Automate the insurance claim lifecycle using Agents and Knowledge Bases for Amazon Bedrock",
+      "excerpt": "Generative AI agents are a versatile and powerful tool for large enterprises. They can enhance operational efficiency, customer service, and decision-making while reducing costs and enabling innovation. These agents excel at automating a wide range of routine and repetitive tasks, such as data entry,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/05/ML-15921-kb-embeddings-960x630.png",
+          "width": 960,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T17:37:14Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-fcc-bans-ai-generated-voices-in-robocalls.md",
+      "title": "FCC bans AI-generated voices in robocalls",
+      "excerpt": "The Federal Communications Commission (FCC) banned the use of artificial intelligence (AI) generated voices in robocalls on Thursday just weeks after a message imitating President Biden went out ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/",
+      "originalUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/amp/",
+      "publishedDateTime": "2024-02-08T17:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher.md",
       "title": "A Secretive Breakthrough Will Send AI Chip Stocks Even Higher",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI chip stocks are on fire right now. And over the next few months, some will",
@@ -828,308 +1120,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-the-ethics-of-ai-balancing-innovation-with-responsibility.md",
-      "title": "The Ethics Of AI: Balancing Innovation With Responsibility",
-      "excerpt": "If you don’t follow the news of new AI products even for one day, you might miss something important. As a seasoned entrepreneur with more than 15 years of experience in IT consulting, I have noticed that we should delve into the ethics of AI implementation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c3a7e6d64deeeba6f83f98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/amp/",
-      "publishedDateTime": "2024-02-08T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning.md",
-      "title": "D-Wave and Zapata AI Announce Strategic Technical and Commercial Collaboration to Advance Quantum-Enabled Machine Learning",
-      "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS) (“D-Wave”), a leader in quantum computing systems, software, and services and the world’s first commercial supplier of quantum computers, and Zapata Computing, Inc. (operating as Zapata AI ),",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning",
-      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T12:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment.md",
-      "title": "Simpson Associates become the key delivery partner for newly launched TOEX Capabilities Environment",
-      "excerpt": "Simpson Associates, leading data transformation consultancy and managed service provider, are thrilled that the Tackling Organised Exploitation (TOEX)",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61355944-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment-399.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61355944-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment-399.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T11:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-1-artificial-intelligence-ai-growth-stock-with-more-upside-than-nvidia-to-buy-now-according-to-wall-street.md",
-      "title": "1 Artificial Intelligence (AI) Growth Stock With More Upside Than Nvidia to Buy Now, According to Wall Street",
-      "excerpt": "Some analysts have called artificial intelligence (AI) the fourth industrial revolution, citing its potential to improve productivity and efficiency with predictive insights and automation. Similar to the third industrial revolution -- which was driven by digital technologies like the internet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL/pressreleases/23926494/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL/pressreleases/23926494/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/8e7684296fe079a184271a11ff614dad/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f764162%252falphabet-revenue-wheel.png%26amp%3Bw%3D700",
-          "width": 3512,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T11:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-gpu-prices-and-availability-q1-2024-how-much-are-gpus-today.md",
-      "title": "GPU prices and availability (Q1 2024): How much are GPUs today?",
-      "excerpt": "The only current-gen GPU that suffers from some stock and pricing issues is the RTX 4090. Due to the high demand for AI chips, as well as scalpers buying the card out to export to China ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
-      "originalUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/02/amd-radeon-rx-6500-xt-review-10.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/gpu-price-tracking/?amp",
-      "publishedDateTime": "2024-02-08T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-the-top-10-google-bard-prompts-to-elevate-your-productivity.md",
-      "title": "The Top 10 Google Bard Prompts to Elevate Your Productivity",
-      "excerpt": "This guide will show you how to improve your productivity with Google Bard. In the constantly evolving and rapidly accelerating digital age, maintaining",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/the-top-10-google-bard-prompts-to-elevate-your-productivity/",
-      "originalUrl": "https://www.geeky-gadgets.com/the-top-10-google-bard-prompts-to-elevate-your-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/google-bard-10.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure.md",
-      "title": "Sarvam AI partners Microsoft to bring its voice-based AI tools to Azure",
-      "excerpt": "Indian generative AI startup Sarvam AI on Thursday announced its collaboration with Microsoft to make its Indic voice Large Language Model (LLM) available on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.punjabnewsexpress.com/technology/news/sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure-239451",
-      "originalUrl": "https://www.punjabnewsexpress.com/technology/news/sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure-239451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.punjabnewsexpress.com/images/article/article239451.jpg",
-          "width": 740,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T09:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "punjabnewsexpress",
-        "domain": "punjabnewsexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

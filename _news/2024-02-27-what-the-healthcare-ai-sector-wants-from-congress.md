@@ -74,15 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Regulation To Promote Responsible AI In Health Care"
-    excerpt: "While we are artificial intelligence (AI) optimists, we also recognize the potential for negative impacts from AI. A primary goal of the HTI-1 final rule is to address these concerns by promoting the development and use of AI in health care that is fair,"
-    publishedDateTime: 2024-02-28T14:18:00Z
-    webUrl: "https://www.healthaffairs.org/content/forefront/regulation-promote-responsible-ai-health-care"
-    type: article
-    provider:
-      name: Health Affairs
-      domain: healthaffairs.org
-    quality: 19
 
 secured: "6Jlq0cnvhoaEuuuVrOd+BgdJqvGm8nCaNSd1sf8SFLA6TVKnyovtgkjmO+upASN4EmBTcfFnuUzMtq2k3+JoQ1r7ijNlUZrqhd+yOvQhVbqXVyo0HvjQ//XBEfuxdoBJzeJN4jaao5OXtdXa+C6axp2FEj5dfdFZJ/sIo2fdFluOjU0qHsYJfgVX6PeHbRS/3CCaTffzQ2ce9/g135KJFW+YO3GKUQBJ5bZWxJnlseYhwInDN//hCAwWjGwBS71ULKLQAy7aeunmmjMvdoeV3O/Zw1HD54IURypmCGJYrrIhXJDuXzYohKcixoebdI116h28w+XhYU5xNw1hY8M1eRfHmfzx9rRrJnpMm3gWcdqubUB/vhaG2kE1glCgUzysbUtmCAnPIlxInbK2FqwRbBGfrO8Ppftk2G2bujZ+1nKCQH7OF7/QhPvmj5HytLLJ7TC5WmwbrIZOtzyiq4tii1pgLmKCXisN9SlTA2uif/3DzN3zGJxbNzCiMu2t+tOBBeyfuP0ZvzrDRgQJbKNYKg==;BWDI7I7ewSxKFmgQENJnpQ=="
 ---

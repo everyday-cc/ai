@@ -55,6 +55,20 @@ related:
         width: 720
         height: 377
         isCached: true
+  - title: "German delegation explores investment opportunities in Qatar's AI, HealthTech, FinTech, cybersecurity sectors"
+    excerpt: "BVMW GCC Office in Doha has taken a significant step towards enhancing trade co-operation between Germany and Qatar by organising a"
+    publishedDateTime: 2024-02-28T17:33:00Z
+    webUrl: "https://www.gulf-times.com/article/678068/business/german-delegation-explores-investment-opportunities-in-qatars-ai-healthtech-fintech-cybersecurity-sectors"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 20
+    images:
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2024/02/28/thumbs/300x300/146600.jpg"
+        width: 300
+        height: 255
+        isCached: true
 
 secured: "KRK8cofHQYGQaiIKwlFaduHjopDw8tJl8o5IRai2wTYYNpTSUCnZT9PXYUtYSTkJwy9tr2TdMu97eUHy2jlTtySCrSbntr4evW3TAxR5KoFVbEZxE1mI61s2dr1NS7MnXWPy7y/LIsPSK8vOMw6eZhnyw0LcTYvp2rh9pJpwXl1VD97aC6L6DcVRdfP/Dlhl9SUCiJXv/TstnHCh/MCL/UsLIedFc1iSwYHUslAy0H3gznevnZF+OM4quaM3UrGJmY95GoclqoRLSjqzjBAwLbY3QANcGtB1BOBMqGxyiBPMdHyhimv3RsEPPOn6kbTawHArJAns7hpKe+St3VJI6p4pmo7aE0p8igWt01J20nbK4bun0txO9VVbv/LMPpO0YP/M1TkHUa5IufwzCdSElLGEt9GFkO9+oXtHdI+oCHH7yqgILSEVYrY0bLrw47Qmwz8KlrILMRA4C/Qe/ccYBS2LzBpKIF4Ohge6HBfzPYy+p70drSRFjFkYsHizKBJBZqUF+RWsHhUjMCqEIuA3Dw==;gjn49od8rpA4yGmG1eoEiA=="
 ---

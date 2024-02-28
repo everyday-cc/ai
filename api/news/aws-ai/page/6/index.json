@@ -2,40 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-12-05-aws-reinvent-wrap-up-15-huge-products-and-partner-launches.md",
-      "title": "AWS re:Invent Wrap-up: 15 Huge Products And Partner Launches",
-      "excerpt": "Invent 2023 new cloud product launches include chips, Amazon generative AI, partner tools, channel incentives and AWS Marketplace offers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/aws-re-invent-wrap-up-15-huge-products-and-partner-launches",
-      "originalUrl": "https://www.crn.com/news/cloud/aws-re-invent-wrap-up-15-huge-products-and-partner-launches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-05-aws-reinvent-2023-7-takeaways-from-the-big-annual-event.md",
       "title": "AWS re:Invent 2023: 7 Takeaways from the big annual event",
       "excerpt": "At the AWS re:Invent conference last week, the spotlight was focused on artificial intelligence, with the new generative AI assistant, Amazon Q, debuting as the star of the show. But there was ...",
@@ -1256,6 +1222,61 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-ai-fatigue-sales-challenges-and-the-problem-of-getting-big-inside-growing-tension-at-aws.md",
+      "title": "AI fatigue, sales challenges, and the problem of getting big: Inside growing tension at AWS",
+      "excerpt": "AWS is the dominant cloud provider. That success brings new challenges. The emergence of generative AI is adding to internal tensions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-aws-ai-fatigue-sales-challenges-2023-11",
+      "originalUrl": "https://www.businessinsider.com/amazon-aws-ai-fatigue-sales-challenges-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65661a1cfe5bc6545ebcf3d1?width=700",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales",
+        "AWS AI",
+        "AI Hardware"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/27/glean-is-worth-2point2-billion-a
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/27/glean-is-worth-2point2-billion-as-citigroup-databricks-workday-invest.html"
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 4032
     height: 3024
     isCached: true
+
+related:
+  - title: "AI-powered enterprise search startup Glean raises $200M+ at $2.2B valuation"
+    excerpt: "Glean Technologies Inc., the developer of a conversational search platform for enterprises, has raised more than $200 million in a Series D round that values it at $2.2 billion."
+    publishedDateTime: 2024-02-27T19:17:00Z
+    webUrl: "https://siliconangle.com/2024/02/27/ai-powered-enterprise-search-startup-glean-raises-200m-2-2b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
 
 secured: "DnOZokMW7tAKBsoY+aCSaIYf3VZu9iSsvldpaQZ4jRrHIFEHGVLCBw2P8yJLIklpSF2ZThEL1cK4YgqB4JmWB6vPcpF4vetNBUnDa8BxOb4G9u1fJuWPlaUJbCUh0CH6okkz8lBV3dWWi+bWHPbVgyiMOgZ0UUJpV+MrU3FEhwsDKrvhe6U+yx/n3f4QiaInzMwbHC8cgi5CPZOY/Zp7bY78AkZs2jgfVRp7YLo+eSjyehpnc5uAS8Rnv/j17QquIj1lGKHIAwKa647AW18QiZd0wXLvQeRIw9SkGoH4nliCfKUTqeEWUEkvxJlJw3aSsa0TisOZAEFJay4UwW3fqURi/xFjRJ849bt66i20HcY=;Juq1Fz+eMlbHsJ1oSsLoog=="
 ---

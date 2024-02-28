@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/investor-hub/article/nvidia-stock-sti
 webUrl: "https://www.forbes.com/sites/investor-hub/article/nvidia-stock-still-top-ai-stock/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -61,16 +61,7 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Nvidia's surge ripples across stock market - lifting AI, tech and semiconductor ETFs"
-    excerpt: "The Global X Robotics & Artificial Intelligence ETF BOTZ, which has around $3 billion of assets under management, closed 4.4% higher, according to FactSet data. Megacap semiconductor company ..."
-    publishedDateTime: 2024-02-24T10:44:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20240224201/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 12
 
-secured: "PFXp6QzxFCL5RHtwrreuaGbX72aJrOqTdn22qyzNbE/3WtxwjXx28jlP2DaYc5qy215c1MCMf58iIqHz8rzyhntg+hna6tgE6zD+OAE6F/F2hWuJPQ/H1Ts9PhufwhIdEehklHYnaYDW9KW43Sls2SHY98KzMdbwEDRBnViS1HC86x7m40/lbhxEDsdgLfPT9stcCo9YjmjVYNVgZh9bVDMrGFx32xrAgA9SjlOlLVXPNwaNQKmQhjZwQS7lPiN6BAwhMtDzhkB+hAxiPFZF25RERkylS3ta6+jBTpBJxZntdbN9qNXcl5xnFtHOljDVWb4VAwOPigrsZlopqgyf0O7DAoGhXaWvAgXlRwt7UW4=;Gbq7vWz71nhB5ITjYn3g5w=="
+secured: "Vo6wwhrtVMy5r0fcOfvTucf4TjnRDY/BsCY3jvD2sCuF9QoZwGM2ON6pWu36iw7QjslZ1Bq+LBXu4Mp6UnBaSOlaxlrp4eKnJnQeFmR8YxciqGh40w/MpdMW+p6YkOvVtVYXyBJnh+Vv0eabRgVxNCzgL7o3/Zvwvx9iy0X4rMnMBfhvfU4XlWgujvD4FgT8xq9BXJsOXXUD1OHIQbF7c7fzQlMNLCydZlZpEd9MVUuFoAv8QyhVvvoyjWvKKoDDKDQb78y1vhYB4Dx6O5G3p/13iQ5ltcccGO0idVdNGJ1bcl4VS1n7y9k+KISjTfTh7+0oEslOI1zAadfLOEoiZcuw5p3nC+d8qX3LZQu7t0w=;+RQ10eTCdBntydAhFDka/w=="
 ---
 

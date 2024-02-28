@@ -1,21 +1,20 @@
 ---
 category: news
 title: "Zuckerberg meets LG, Samsung chiefs in Seoul as Meta ramps up AI ambitions"
-excerpt: "Kim said Zuckerberg will also likely talk with Samsung about producing Meta-exclusive chips to ease its reliance on the AI chip market-dominant NVIDIA. Zuckerberg’s visit to Asia comes as Meta ramps up its efforts in artificial intelligence amid a race ..."
-publishedDateTime: 2024-02-28T03:03:00Z
-originalUrl: "https://kstp.com/kstp-news/business-news/zuckerberg-meets-lg-samsung-chiefs-in-seoul-as-meta-ramps-up-ai-ambitions/"
-webUrl: "https://kstp.com/kstp-news/business-news/zuckerberg-meets-lg-samsung-chiefs-in-seoul-as-meta-ramps-up-ai-ambitions/"
+excerpt: "Meta CEO Mark Zuckerberg has discussed cooperation on extended reality devices with LG Electronics executives as part of his visit to South Korea that highlights Meta’s ambitions in artificial intelligence."
+publishedDateTime: 2024-02-28T10:05:00Z
+originalUrl: "https://www.seattletimes.com/business/zuckerberg-meets-lg-and-samsung-chiefs-as-he-visits-south-korea-as-part-of-a-3-nation-asian-tour/"
+webUrl: "https://www.seattletimes.com/business/zuckerberg-meets-lg-and-samsung-chiefs-as-he-visits-south-korea-as-part-of-a-3-nation-asian-tour/"
 type: article
-quality: 17
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: KSTP-TV
-  domain: kstp.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - AI Hardware
   - AI
 
 related:
@@ -64,6 +63,6 @@ related:
         height: 533
         isCached: true
 
-secured: "xT1FWe90+qtZilawcxSQ2/A0S8VlqrmS4SFted51xX8rMQIZkmQy5buqdIM+QyflrNt1top4+lxdSQwaMJixy+W7Qi5iZ1qNS1OT7hXAl6SiZxOZV98h8ahxhSCyywv0l6zuJZv/pZxiUOQIKRrlcu7aMRqjzy0XDm8mCyip5Dezk50GMxtnYdCyX3yRtL3nYax7Yv+65vpuZvy4mCDfMbMKdfAgVmGx+DVm+XP3HAn05psEX7D8wIDu0zpCvtIfxOfqt0CtG8TkqZ770T4jrl69lgWKSHBDaoWMlGgJrPpot8lxiy4i6HR6o8rx2kCz2Us0o2dLnAA3vwTiwZLbD7QoRFwpOGLTRdLGUFYEOzPm3AXzgcOzfqPOsSjz9Lob2rg1Li7URhooJhAuZdlPDYIQMIEc6CjFPm2+DMw8VQbYXuBZl936/OPMz3fenJD0JfCd8Aasw35hrz0AgqPRrG7hiWwnubFDqlujlraddf2Yijb8kGAcrLqd7Sy3wQ5/wdajIVNQVBO5tJgiYfoZZg==;+1kXdbGqugKM5VkmLKcFMQ=="
+secured: "K/hj1J3Qsknw+LadjzB/Zds8FB0VkCtKs1nFsY9/FyO0pVdizramW55a4e6HjLZwkWAIbn8vF7M1rsLZhHHPOcC1fUDqfnAAbxgwUrDQnBMvrESuLTa3SuWEbLXqtOWu3xjz0S+MV69FR99CFKZwLpXGyMo6mmhXCkhx7BgEGGtKyy63fG0va1f9/LQbrXYaIZXqbPdYQ+x9S/s+5M4k/4slN4lUrcr8bmhtaDPeYQY1kBMVo9GTFmfDaBpKm4tltl1ONrbvMW2aOzywVRXp5zLgN+FhU80v5bWZj5AEdmt38W9MAFGl4Ory5ZnQLipREIiPySe7gj6T4TWlJ484W1D7u5l4YV3KYMhbIYtP+ZKsg7TC5Az/Wgdyy48zsTkvNoVMv7eujQNl7C7KR13w9mKm2pjXvZ41W0MeeqDV/E+ziUjTQ5bM+BQ/vDk9pcsgj5B/QbSaWLomrYu88Qn0vClJSlGTe0eOPYovNaVFM6SN2lL9hwI1SXjF0tBsngPv6j6HYhhnXuFFAwbpTQG1Cw==;y/us3s3pCP8IgdWGUJVuzg=="
 ---
 

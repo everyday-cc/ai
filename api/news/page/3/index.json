@@ -2,6 +2,205 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-27-google-to-relaunch-gemini-ai-picture-generator-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images.md",
+      "title": "Google to relaunch Gemini AI picture generator in a 'few weeks' following mounting criticism of inaccurate images",
+      "excerpt": "Google plans to relaunch its image-generation AI tool in the next \"few weeks,\" according to Google DeepMind CEO Demis Hassabis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?v=1708024344",
+          "width": 4978,
+          "height": 3323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html",
+      "publishedDateTime": "2024-02-26T20:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-6-benefits-of-data-lineage-for-financial-services.md",
+      "title": "6 benefits of data lineage for financial services",
+      "excerpt": "How can banks, credit unions and financial advisors keep up with demanding regulations while battling budgets and employee turnover?\nThe post 6 benefits of data lineage for financial services appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/6-benefits-of-data-lineage-for-financial-services/",
+      "originalUrl": "https://www.ibm.com/blog/6-benefits-of-data-lineage-for-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T19:17:03Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-us-military-utilizes-ai-in-middle-east-operations-weve-been-using-computer-vision.md",
+      "title": "US Military Utilizes AI In Middle East Operations: 'We've Been Using Computer Vision'",
+      "excerpt": "Military confirms use of AI in airstrikes in Middle East, highlighting its growing role in combat operations & future of warfare.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/us-military-utilizes-ai-in-middle-east-operations-we-ve-been-using-computer-vision-1033104022",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/us-military-utilizes-ai-in-middle-east-operations-we-ve-been-using-computer-vision-1033104022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/battlefield-ai.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-techniques-and-approaches-for-monitoring-large-language-models-on-aws.md",
+      "title": "Techniques and approaches for monitoring large language models on AWS",
+      "excerpt": "Large Language Models (LLMs) have revolutionized the field of natural language processing (NLP), improving tasks such as language translation, text summarization, and sentiment analysis. However, as these models continue to grow in size and complexity, monitoring their performance and behavior has become",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/26/monitoring-llm-1119x630.jpg",
+          "width": 1119,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T17:59:42Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-ai-can-power-the-green-energy-transition.md",
       "title": "AI Can Power The Green Energy Transition",
       "excerpt": "The emergence of AI intersects with the energy transition. There is an opportunity for this emerging technology to accelerate the move to greener energy.",
@@ -106,6 +305,48 @@
       ]
     },
     {
+      "path": "_news/2024-02-26-conversational-ai-revolutionizes-the-customer-experience-landscape.md",
+      "title": "Conversational AI revolutionizes the customer experience landscape",
+      "excerpt": "AI can create seamless customer and employee experiences but it’s important to balance automation and human touch, says head of marketing, digital & AI at NICE, Elizabeth Tobey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/",
+      "originalUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/02/Elizabeth-Tobey1200.png?w=1200",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/",
+      "publishedDateTime": "2024-02-26T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-how-to-improve-network-resilience-with-ns1-connect-filter-chains.md",
       "title": "How to improve network resilience with NS1 Connect Filter Chains",
       "excerpt": "We’ve put together a quick guide on how to build active-active, active-passive and manual failover systems by using filter chains.\nThe post How to improve network resilience with NS1 Connect Filter Chains appeared first on IBM Blog.\n",
@@ -145,6 +386,57 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-six-generative-ai-predictions-for-2024-and-beyond.md",
+      "title": "Six Generative AI Predictions For 2024 And Beyond",
+      "excerpt": "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -243,7 +535,7 @@
       "originalUrl": "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -397,7 +689,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -619,57 +911,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-the-best-generative-ai-courses-money-can-buy.md",
-      "title": "The Best Generative AI Courses Money Can Buy",
-      "excerpt": "Embark on a journey to master generative AI with the best paid courses available, covering everything from principles and prompt engineering to business applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dc3646f50b2433cd62402e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/",
-      "publishedDateTime": "2024-02-26T05:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -964,241 +1205,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress.md",
-      "title": "Qualcomm unveils AI and connectivity chips at Mobile World Congress",
-      "excerpt": "Learn more about GamesBeat Summit sponsorship opportunities here. Qualcomm unveiled a suite of AI, 5G, and Wi-Fi devices at Mobile World Congress (MWC) in Barcelona. The chip design company said the innovations promise to usher in a new era of ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
-      "originalUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/qualcomm-mwc.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management.md",
-      "title": "GHMC Adopts AI Facial Recognition for Sanitation Staff Attendance Management",
-      "excerpt": "Hyderabad: The GHMC has decided to use an artificial intelligence-driven mobile-based facial recognition biometric system to manage the attendance of staff in its sanitation wing. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "originalUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanchronicle.com/h-upload/2024/02/04/1074120-ghmc.jpg",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "publishedDateTime": "2024-02-25T21:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-ai-startup-figure-ai-scores-675m-from-bezos-nvidia-and-others-to-advance-humanoid-robots.md",
-      "title": "AI startup 'Figure AI' scores $675M from Bezos, Nvidia, and others to advance humanoid robots",
-      "excerpt": "Figure AI develops human-like robots powered by artificial intelligence. It raised around $675 million in a recent funding round, with Amazon founder Jeff Bezos and Nvidia",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html",
-      "originalUrl": "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-25-image-3.jpg",
-          "width": 2000,
-          "height": 1001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T19:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition.md",
-      "title": "3 Robotics Stocks That Could Be Multibaggers in the Making: February Edition",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As technology continues to advance at an unprecedented pace, robotics stands",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition-1033099946",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition-1033099946",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T19:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-these-major-companies-are-using-ai-to-snoop-on-employees-online-chats.md",
-      "title": "These major companies are using AI to snoop on employees’ online chats",
-      "excerpt": "Mobile, Chevron and Starbucks, are now reportedly monitoring employee conversations on messaging apps using software from a startup A.I. company",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/",
-      "originalUrl": "https://nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/02/photo-illustration-slack-logo-business-7934528.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/amp/",
-      "publishedDateTime": "2024-02-25T18:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

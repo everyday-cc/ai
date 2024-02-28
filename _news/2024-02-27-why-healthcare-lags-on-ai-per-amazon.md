@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-la
 webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-lags-on-ai-per-amazon.html"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Regulation To Promote Responsible AI In Health Care"
-    excerpt: "While we are artificial intelligence (AI) optimists, we also recognize the potential for negative impacts from AI. A primary goal of the HTI-1 final rule is to address these concerns by promoting the development and use of AI in health care that is fair,"
-    publishedDateTime: 2024-02-28T14:18:00Z
-    webUrl: "https://www.healthaffairs.org/content/forefront/regulation-promote-responsible-ai-health-care"
-    type: article
-    provider:
-      name: Health Affairs
-      domain: healthaffairs.org
-    quality: 19
 
 secured: "zY+vF83tdVsbk21EaksIVAUt5qsyZBM5FX+ZGCxGjs41U/TQdAUsogZYarNmXMZTv/BO6Z8ZYBB60pffETsA+ozOnKa4vxTYDDoT0NdRzqRd98Uwg0WeVig8rsHHixFmlCgqbWScIGNBap77Oqy0TMSQRKkQnmFVoQrE8Y4W6qmFwRkzKNvK5LSX91gWiPDCrBKBQVzZBWhvFAWHJ5yEmUPzTAsDLL2htWUBQAaDj5jK84lOT0VkUNOlXH+gVJ+YpSurNub0KFPyHdG08rLAsn3AygiJ+B2+R3dSeK8PdHYM3yYS2foJmqMLBCLXj+qObF1aOiZzUtgFp+119y2dfMFo9aeHYDQBQWn3j3S73TE=;SZ596LbXOyiu2+c3S8w8hA=="
 ---

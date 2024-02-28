@@ -1,40 +1,28 @@
 ---
 category: news
 title: "Assert AI Unveils Pratham: World's First No-code Computer Vision Platform"
-excerpt: "NewsVoir Mumbai Maharashtra [India] February 21 In a pioneering move Assert AI proudly announces the launch of Pratham a groundbreaking platform that is patented for its innovative approach to democra"
-publishedDateTime: 2024-02-21T06:23:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/274132779/assert-ai-unveils-pratham-world-first-no-code-computer-vision-platform"
-webUrl: "https://www.bignewsnetwork.com/news/274132779/assert-ai-unveils-pratham-world-first-no-code-computer-vision-platform"
+excerpt: "Pratham, which translates to first in Hindi, employs an innovative framework that places the power of computer vision directly into the hands of users, allowing them to analyze and utilize video data effortlessly."
+publishedDateTime: 2024-02-21T05:13:00Z
+originalUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform"
+webUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform"
+ampWebUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp"
 type: article
-quality: 53
-heat: 63
-published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ZDU1MWViMGUtOGU.jpg"
-    width: 630
-    height: 473
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280"
+    width: 1280
+    height: 853
     isCached: true
 
-related:
-  - title: "Assert AI unveils Pratham: World’s first no-code computer vision platform"
-    excerpt: "In a pioneering move, Assert AI proudly announces the launch of Pratham, a groundbreaking platform that is patented for its innovative approach to democratizing computer vision and artificial ..."
-    publishedDateTime: 2024-02-21T17:15:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform-3400673/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 33
-
-secured: "3yJuD44ESa939g09i1co6qZVEzuL8WLTEzYxmSV5X563NvHUyzXl1x80Eecj/sK723fy83KV0lmVdpVjdw/KWJdOF66fOKMQYq89nWj+YBgPkzPag3t+nECvxe4q6C3GgBk9Nv1IzueQ3tg0cjl84Hjtfd7EWks9106dekJZbl1XQ3taBxK0yZcKEMGb8Lr/imTtIM/bnYEoKq7IB6F7svPm0Lgbs6d0ewhjCIjiJUmGZER/drcpzjJS46zu8PoIlqQhWBGdtxLyut0IAgGTMBaG0opCfpdKtUN4HOYLiAO5NJMkHGBxuo+f1svgLW/jP9ZTqK68GyFBQheAQEXANlbPnhqvUlyJxMW9LzHIGwM8UmzYpJi0lNlkTQI+S9Yey70+lk81OvAmw1UrKqK8iealsZLPjQx/UfhLpGbzvQaF3MCs9MO/vUxT2buv+p83esDzvn7DEHdIZsaFS7ZPZyR2EBRct5IgiSZp149gtUviXqcS61k6tZhTsQAp9tbBVBW5zVL5F6qWhUaSQynwcQ==;h17DTJ36bJqoSor878UWvQ=="
+secured: "FrD/tXRToKHH2U/qx8HINgztqEPP+qEaQmPpK9Dy4nowf6TwHWXuwQwjE6houxaUIesb8LRfFnPJeOEk1A5bopCUT/2O0XgzLAoEOvG29VTtZ0zZkf6ATIn87zCx9+/GcqJcFzG5fZR9TPATqj+LZGsJAPpL0M+i7rD2M2tvS8OfFh2AAOgC1cldpj41fZuiWtoJ5G1S/wOs700E/u6KcIrt//ePfFft37TJEeyu/ghNtkzO18hKL17MpxXweUeL7q+NmbW9fh7IiW9QaKwNz5C5BEhRPU09mLN5qksQgpdIZaxMRVNaOhhn0nJ8DvZoepJRLZ4/DrT7sIDexYZCdDhjNw55cP7ITAZwcmDe+CQ=;wW7Q7WBewGZ7uipL8DzHhg=="
 ---
 

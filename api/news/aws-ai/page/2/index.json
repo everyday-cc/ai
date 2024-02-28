@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2024-02-11-2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade.md",
-      "title": "2 Artificial Intelligence (AI) Stocks You Can Buy and Hold for the Next Decade",
-      "excerpt": "The launch of OpenAI's ChatGPT in November 2022 reinvigorated interest in AI and highlighted just how far the technology had come. AI can bolster countless industries, among them healthcare, consumer tech, productivity software, cloud computing, and autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23992445/2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23992445/2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/c536e8261b08746be8d931c53801221c/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fb5123919e28c1adbbbed90b22f2c696f.png%26amp%3Bw%3D700",
-          "width": 720,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T06:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-10-aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future.md",
       "title": "AWS, AI, And Taylor Swift Usher In Super Bowl 2024 And Sports’ Future",
       "excerpt": "This year, we are about to experience a very special Super Bowl, which stands to become a truly watershed moment for AI technology and inclusivity in sports.",
@@ -1368,6 +1325,58 @@
         "AI",
         "AWS AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results.md",
+      "title": "Amazon earnings preview: AWS, advertising, AI in the spotlight for holiday quarter results",
+      "excerpt": "It is also facing scrutiny from the FTC, which filed a lawsuit against Amazon in September and last week launched an inquiry into Amazon’s investment in AI startup Anthropic. Amazon continues to trim its workforce and recently launched new advertisements ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2024/amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results/",
+      "originalUrl": "https://www.geekwire.com/2024/amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/amazonq2.jpg",
+          "width": 2022,
+          "height": 1408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T08:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

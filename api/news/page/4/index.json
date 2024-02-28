@@ -2,6 +2,241 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-26-qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress.md",
+      "title": "Qualcomm unveils AI and connectivity chips at Mobile World Congress",
+      "excerpt": "Learn more about GamesBeat Summit sponsorship opportunities here. Qualcomm unveiled a suite of AI, 5G, and Wi-Fi devices at Mobile World Congress (MWC) in Barcelona. The chip design company said the innovations promise to usher in a new era of ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
+      "originalUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/qualcomm-mwc.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management.md",
+      "title": "GHMC Adopts AI Facial Recognition for Sanitation Staff Attendance Management",
+      "excerpt": "Hyderabad: The GHMC has decided to use an artificial intelligence-driven mobile-based facial recognition biometric system to manage the attendance of staff in its sanitation wing. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
+      "originalUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deccanchronicle.com/h-upload/2024/02/04/1074120-ghmc.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
+      "publishedDateTime": "2024-02-25T21:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-ai-startup-figure-ai-scores-675m-from-bezos-nvidia-and-others-to-advance-humanoid-robots.md",
+      "title": "AI startup 'Figure AI' scores $675M from Bezos, Nvidia, and others to advance humanoid robots",
+      "excerpt": "Figure AI develops human-like robots powered by artificial intelligence. It raised around $675 million in a recent funding round, with Amazon founder Jeff Bezos and Nvidia",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html",
+      "originalUrl": "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-25-image-3.jpg",
+          "width": 2000,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T19:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition.md",
+      "title": "3 Robotics Stocks That Could Be Multibaggers in the Making: February Edition",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As technology continues to advance at an unprecedented pace, robotics stands",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition-1033099946",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition-1033099946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T19:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-these-major-companies-are-using-ai-to-snoop-on-employees-online-chats.md",
+      "title": "These major companies are using AI to snoop on employees’ online chats",
+      "excerpt": "Mobile, Chevron and Starbucks, are now reportedly monitoring employee conversations on messaging apps using software from a startup A.I. company",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/",
+      "originalUrl": "https://nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/02/photo-illustration-slack-logo-business-7934528.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/amp/",
+      "publishedDateTime": "2024-02-25T18:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing.md",
       "title": "8 TED Talks To Help You Prepare For The Era Of AI-Driven Spatial Computing",
       "excerpt": "The Humane AI Pin might not be the device we all use ... Thousands of TED Talks have inspired and sparked ideas and imagination. These TED Talks are the start of a journey to understand Spatial Computing, how it works, and why it's necessary.",
@@ -210,49 +445,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-25-intel-bridges-ai-chip-gap.md",
-      "title": "Intel Bridges AI Chip Gap",
-      "excerpt": "Intel is well-positioned to capitalize on emerging opportunities in the semiconductor landscape and bridge the AI chip shortage gap. Yiazou Capital Research members get exclusive access to our real-world portfolio. See all our investments here » Through ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap",
-      "originalUrl": "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gettyimages.com/id/1251437157/photo/microchip-and-intel-logo-displayed-on-a-phone-screen-are-seen-in-this-multiple-exposure.jpg?b=1&s=594x594&w=0&k=20&c=HFVH7KxmOihjyT8EjTR8pO5m_rgbZfpLmjn4pVRwaAE=",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-25-exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt.md",
       "title": "Exposing The Brittleness Of Generative AI As Exemplified By The Recent Gibberish Meltdown Of ChatGPT",
       "excerpt": "Generative AI is brittle, though most people don't realize this crucial revelation. An example can be seen in the recent incident of a gibberish meltdown of ChatGPT.",
@@ -261,7 +453,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -358,7 +550,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 477,
+      "heat": 467,
       "tags": null,
       "images": [
         {
@@ -506,7 +698,7 @@
       "originalUrl": "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -759,36 +951,36 @@
       ]
     },
     {
-      "path": "_news/2024-02-24-how-to-implement-the-general-data-protection-regulation-gdpr.md",
-      "title": "How to implement the General Data Protection Regulation (GDPR)",
-      "excerpt": "Follow this guide to implement the General Data Protection Regulation (GDPR) within your organization.\nThe post How to implement the General Data Protection Regulation (GDPR) appeared first on IBM Blog.\n",
+      "path": "_news/2024-02-24-google-warned-over-ai-tool-response-on-modi.md",
+      "title": "Google warned over AI tool response on Modi",
+      "excerpt": "Google's AI tool Gemini's response to a question around Prime Minister Narendra Modi is in direct violation of IT rules as well as several provisions of the criminal code, minister",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/general-data-protection-regulation-implementation/",
-      "originalUrl": "https://www.ibm.com/blog/general-data-protection-regulation-implementation/",
+      "webUrl": "https://www.thehansindia.com/news/national/google-warned-over-ai-tool-response-on-modi-860597",
+      "originalUrl": "https://www.thehansindia.com/news/national/google-warned-over-ai-tool-response-on-modi-860597",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 79,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2023/09/05/1377954-rajeev-chandrasekhar.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T00:00:00Z",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/national/google-warned-over-ai-tool-response-on-modi-860597",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/national/google-warned-over-ai-tool-response-on-modi-860597",
+      "publishedDateTime": "2024-02-24T06:58:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -797,7 +989,51 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-ai-chip-maker-nvidias-huge-rise-sparks-market-frenzy.md",
+      "title": "AI chip maker Nvidia's huge rise sparks market frenzy",
+      "excerpt": "The share price of AI chip maker Nvidia has surged 60 percent since the start of the year as the company's value crossed the $2 trillion mark today. Nvidia is now the third-largest U.S. company by market capitalization. Some analysts say they've never seen ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-chip-maker-nvidia-s-huge-rise-sparks-market-frenzy-204826693867",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-chip-maker-nvidia-s-huge-rise-sparks-market-frenzy-204826693867",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_02/1708735066005_nn_bch_nvidia_240223_1920x1080-vyqxjo.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo204826693867",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo204826693867",
+      "publishedDateTime": "2024-02-24T00:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -862,7 +1098,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1004,265 +1240,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-google-issues-ai-upgrade-warning-for-millions-of-chrome-users.md",
-      "title": "Google Issues AI Upgrade Warning For Millions Of Chrome Users",
-      "excerpt": "Google continues to change its ecosystem apace, as its evolving Gemini (née Bard) AI platform burrows its way into app after app, across desktops and mobiles. In doing so, a whole new set of risks are hitting millions of users in short order. Awareness is very low—and so Google has just responded with its latest serious warning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
-      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5e66cbd8e1e6170007593a74/0x0.jpg?format=jpg&crop=2472,1545,x868,y776,safe&height=900&width=1600&fit=bounds",
-          "width": 1440,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/",
-      "publishedDateTime": "2024-02-23T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-nvidia-stock-gained-15-trillion-to-surpass-the-faangs-apple-is-next.md",
-      "title": "Nvidia Stock Gained $1.5 Trillion To Surpass The FAANGs - Apple Is Next",
-      "excerpt": "We look at why Nvidia has been able to surpass every FAANG except Apple, and why it’s inevitable that it becomes the world's most valuable company in the next 2.5 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2024/02/23/nvidia-stock-gained-15-trillion-to-surpass-the-faangsapple-is-next/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/23/nvidia-stock-gained-15-trillion-to-surpass-the-faangsapple-is-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d910f507bba2d1cdbc02f2/0x0.jpg?format=jpg&crop=3499,1968,x0,y180,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2024/02/23/nvidia-stock-gained-15-trillion-to-surpass-the-faangsapple-is-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2024/02/23/nvidia-stock-gained-15-trillion-to-surpass-the-faangsapple-is-next/amp/",
-      "publishedDateTime": "2024-02-23T20:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024.md",
-      "title": "5 ways to leverage AI to streamline your business workflows in 2024",
-      "excerpt": "Used right, AI has the potential to significantly improve the efficiency of operational workflows, and increase productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024/",
-      "originalUrl": "https://venturebeat.com/business/5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/pexels-christina-morillo-1181534-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T20:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-ai-is-having-a-1995-moment.md",
-      "title": "AI is having a 1995 moment",
-      "excerpt": "The analyst said the hunger for Nvidia's AI chips from leading software providers like Salesforce, Adobe, and Oracle is a \"transformational tech trend we have not seen since the start of the Internet in the mid 90's.\" But that doesn't mean major AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2",
-      "originalUrl": "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65d8ca26ce7f1785b2e37b7b?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2?amp",
-      "publishedDateTime": "2024-02-23T18:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-ai-chip-firm-nvidia-valued-at-2tn.md",
-      "title": "AI chip firm Nvidia valued at $2tn",
-      "excerpt": "The company is benefiting from advances in artificial intelligence (AI), which have powered demand for its chips. Turnover at the firm more than doubled last year to more than $60bn, and boss ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-68387018",
-      "originalUrl": "https://www.bbc.com/news/business-68387018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D3CE/production/_131522245_40a5ca5450ad7139cea01cf7b81856c952f2d5ec.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-68387018.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68387018.amp",
-      "publishedDateTime": "2024-02-23T18:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

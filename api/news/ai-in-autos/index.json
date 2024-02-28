@@ -62,7 +62,7 @@
       "originalUrl": "https://www.techspot.com/news/102044-elon-musk-unveils-new-footage-tesla-optimus-robot.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -810,6 +810,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-20-should-you-stay-awake-in-a-self-driving-car-or-can-you-sleep.md",
+      "title": "Should You Stay Awake In A Self-Driving Car Or Can You Sleep?",
+      "excerpt": "Drivers have been dreaming of self-driving cars for decades. A way for them to get to their destinations without having to spend time and energy focused on the road (or other drivers). Maybe even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1518442/self-driving-car-should-stay-awake-can-sleep/",
+      "originalUrl": "https://www.slashgear.com/1518442/self-driving-car-should-stay-awake-can-sleep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/should-you-stay-awake-in-a-self-driving-car-or-can-you-sleep/l-intro-1707915398.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T16:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-wife-of-tesla-employee-killed-in-perhaps-first-full-self-driving-crash-says-they-were-guinea-pigs.md",
       "title": "Wife of Tesla employee killed in perhaps first 'Full Self-Driving' crash says they were 'guinea pigs'",
       "excerpt": "Tesla's Full Self-Driving is still in beta testing.Niall Carson - PA Images via Getty Images Erik Rossiter, a friend of Ohain's who was in the vehicle at the time of the 2022 crash and survived ...",
@@ -1367,40 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-7-tech-stocks-to-buy-amid-the-flying-pink-slips.md",
-      "title": "7 Tech Stocks to Buy Amid the Flying Pink Slips",
-      "excerpt": "The post 7 Tech Stocks to Buy Amid the Flying Pink Slips appeared first on InvestorPlace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-tech-stocks-to-buy-amid-the-flying-pink-slips",
-      "originalUrl": "https://www.nasdaq.com/articles/7-tech-stocks-to-buy-amid-the-flying-pink-slips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T17:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

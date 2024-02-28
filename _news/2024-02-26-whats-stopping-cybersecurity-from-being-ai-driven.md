@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stop
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://media.bizj.us/view/img/12679474/gettyimages-1508780671*1200xx2121-1195-0-218.jpg"
         width: 1200
         height: 676
+        isCached: true
+  - title: "German delegation explores investment opportunities in Qatar's AI, HealthTech, FinTech, cybersecurity sectors"
+    excerpt: "BVMW GCC Office in Doha has taken a significant step towards enhancing trade co-operation between Germany and Qatar by organising a"
+    publishedDateTime: 2024-02-28T17:33:00Z
+    webUrl: "https://www.gulf-times.com/article/678068/business/german-delegation-explores-investment-opportunities-in-qatars-ai-healthtech-fintech-cybersecurity-sectors"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 20
+    images:
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2024/02/28/thumbs/300x300/146600.jpg"
+        width: 300
+        height: 255
         isCached: true
 
 secured: "rejCLxIibF2ioyW/dq5bI1QvRcvAdp4jUh9FYaMpJsmBzCu20283Ls9kszNFGd7xpUSIxlyrt6d7LJv77qXbLb22pPnZY+L3tHCBQ2FgHkN78Nj8QwwLuTNg5hkWOqgDDGluMMlNch/mF2evXhK+ums7RCUUWDuU+/RH5cLvyyuVb2ixxlEIfYIZGr3oj/AKonMwfwGTHmTl7Ya0Wn4SR9xdSSVlOcJgAzFCHLYI9zMGML53hR+3gqqyeNlF3rnfpQBnHEF+omVXvR6NGv17qv1iMm6D2pczSYrGJrt9g7q3Iww/Lhz3ew6/JA05EO0Pua6ws5X7XDWMiADR6j7PeVw/VszAI7s9DPcLlQe7KcqkLO3Rf9k6qy+Z+EvHo5H7EuxHreDOboWUF59X6je2gn0/x539JKhw6f5c8/JN3mHu/PLzo8pEqnJP97jWygtVVaAiwMbYdE3k65MV++lmEQsQUUNAHd/9CJrMVkrDw6hCY0K0/+JWji3F1N3+AkmWp2wXGTlqgRvk4irJFOnyjg==;eF3vtdnpxvNP3jQnJKuKzA=="

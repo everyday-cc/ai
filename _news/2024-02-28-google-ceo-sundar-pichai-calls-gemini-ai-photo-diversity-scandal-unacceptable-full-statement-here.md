@@ -90,6 +90,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "Sundar Pichai blasts Google staff for offending customers with Gemini AI bias: ‘To be clear, that’s totally unacceptable’"
+    excerpt: "The debate around misinformation and its more malicious cousin, disinformation, has now shifted from the news media to AI companies. Meanwhile, the head start Google held after acquiring DeepMind a decade ago has seemingly evaporated as OpenAI continues to ..."
+    publishedDateTime: 2024-02-28T09:33:00Z
+    webUrl: "https://www.aol.com/finance/sundar-pichai-blasts-google-staff-143344480.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 12
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Qw5r_oNnhk3cwY9aKzV9vw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/056467c82946b6273ab96e38c16f65bf"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "MAqB4Udy4Nqzet7vu3mJx0Lnt1P0SD4X+cAVODBpFaj4d+ttbf2PY6qFIzGQtFRmdP89uuw4DSLIgNHJEVnTNv+zE9spwsxmLrPb0O+ssuzJ1Ebmmw50ZhIjx8GJVosf9MdQoLWadRBWOgoFro/lN6VlpJ9Flzxc0tcw1y56ON3gKSwXdqXXRg3ozF18Ttx2T91BWEYkK9DCNpvR1+jybASnB+UsLDv15tXgUP5DntJY5atPxTuRtqbEVAgWoRYgYz7oicHgZO1eMWVqWRfbuINHEFulS88Q/+xVpiJSTOeFBKfg98F85M/vdA5wA3ySj2tbP/15I5bgFcI6ltFfNhQ/Gx7CwycazYmQc1qwCh9Vf3bQx2Z8KH3NZCdyFjZGmH19eyyLn5MNEDxMDao0joZPkuXB/UUrm5R5bY4ebgh8zhdMxPU2kxsJxnXqMNjxLGU4T2ZGoUSC4RGnmWKAeTtCILGi8pKLtc9cz4D3SDGz8ItOVua87dmCug7aZQUCCs2ky9iesIAZh7CApyFOwA==;dRLtZq3qsqeYa1QyMdEjRQ=="
 ---

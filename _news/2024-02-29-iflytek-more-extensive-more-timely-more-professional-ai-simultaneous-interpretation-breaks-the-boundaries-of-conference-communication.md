@@ -39,6 +39,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Generative AI Showcased at the 2024 MWC, with iFLYTEK Unveiling Its Innovative SparkDash"
+    excerpt: "iFLYTEK's SparkDash empowers businesses to quickly respond to market shifts with its immersive interactions and scenario-based design capabilities. The virtual assistant feature simplifies the process of querying business data, making it easier to undertake cross-departmental data comparisons and multi-metric analyses."
+    publishedDateTime: 2024-02-28T18:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9970069.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/2350384/image_1.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "/T22Ww1aSTy/3G+UP0S4BrsYBfyjztfjlnFUGQbSzdHlsuIf+k7IAlf4AeTyxJGXWZha+DmgHkZGuc8xms60gkbmAITxWXiYxXWJLtX71Lt7wG2P0ypLzpO5oe3ErMcWPvQErOC4w9NcUZlmEwtM98B4S6kzkZCCDQw7CLMEYAU+e0ogp2lj0OA1ZMSp/d18CoWxFUJNEBpuHgHMxWcRu6UXxMlDop/bkbdfw0R8c/3YvCVnuqayXL7u7J//z7x3tjSGg1QryXYnkx2JHdH3ZK2+3y1ije9TEPVajMr7Zni8Wb3RT7XxLHg5+fGWV+5+Z2BjguQk1dCkkErG3GGsMSAS43V6hZ2eqcQKbeGcMEk=;LQMsCKBOKN7GCYhIjEpJeg=="
 ---

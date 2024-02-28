@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo204826693867"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo204826693867"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 284
+published: true
 
 provider:
   name: NBC News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip firm Nvidia valued at $2tn"
-    excerpt: "The company is benefiting from advances in artificial intelligence (AI), which have powered demand for its chips. Turnover at the firm more than doubled last year to more than $60bn, and boss ..."
-    publishedDateTime: 2024-02-23T18:12:00Z
-    webUrl: "https://www.bbc.com/news/business-68387018"
-    ampWebUrl: "https://www.bbc.com/news/business-68387018.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68387018.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D3CE/production/_131522245_40a5ca5450ad7139cea01cf7b81856c952f2d5ec.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "5 History Lessons For Nvidia From The 80-Year History Of AI"
     excerpt: "Predictions are difficult, but we have lots of data at our disposal that may help us make educated guesses about the future. It’s called history."
     publishedDateTime: 2024-02-25T14:00:00Z
@@ -58,20 +42,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65da9c4f7d1d85f773609bb1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
-        isCached: true
-  - title: "Microsoft showcases next-generation AI and computing at Nvidia GTC"
-    excerpt: "Nvidia GTC takes place March 18 – 21 in San Jose, CA and virtually. In person and on-demand sessions, live discussions and hands-on demos will offer a look at the core Azure AI services and technologies that power some of the world’s largest and most ..."
-    publishedDateTime: 2024-02-26T07:30:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-showcase-next-generation-ai-and-computing-at-nvidia-gtc/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_735569484.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 672
         isCached: true
   - title: "This 1 Number May Ensure Nvidia's Artificial Intelligence (AI) Chip Dominance"
     excerpt: "Today, Nvidia controls more than 80% of the AI chip market, so the company has a clear advantage. But at the same time, rivals are doing what they can to chip away at Nvidia's lead."
@@ -235,20 +205,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia Is Now a $2 Trillion-Dollar Company Thanks to AI Dominance"
-    excerpt: "Nvidia joins Microsoft and Apple as the three US-based companies to reach the $2 trillion market cap. Despite companies like Microsoft looking to make its own AI chips and rely less on Nvidia, a recent report from Reuters claims that Nvidia is working on a new $30 billion business unit that will focus on creating custom AI chips for companies."
-    publishedDateTime: 2024-02-23T19:20:00Z
-    webUrl: "https://www.ign.com/articles/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 39
-    images:
-      - url: "https://assets-prd.ignimgs.com/2024/02/23/nvidia-blogroll-logos-1708718418344.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI Revolution Sparks Nvidia's Historic Market Cap Achievement"
     excerpt: "NVIDIA's annual profits increased by 769% due to the growing enthusiasm surrounding AI, leading to a surge in its market cap. The demand for advanced chips, driven by the AI boom, could outpace supply if investment doesn't keep up. Bitcoin ETFs have ..."
     publishedDateTime: 2024-02-27T12:01:00Z
@@ -286,20 +242,6 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
-  - title: "AI helped NVIDIA break Wall Street record, and now the tech giant is the fourth most valuable company in the world"
-    excerpt: "In our NVIDIA GeForce RTX 4070 Super Founders Edition review, the GPU earned a near-perfect 4.5/5. Of course, even NVIDIA's gaming segment is tied tightly with AI. Over 500 games and apps support AI-powered RTX features like DLSS and ray tracing as of late ..."
-    publishedDateTime: 2024-02-23T17:43:00Z
-    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/ai-helped-nvidia-break-wall-street-records-and-now-the-tech-giant-is-the-fourth-most-valuable-company-in-the-world"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 17
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/qNEGpKmTksNsH6mbYkVNed-1200-80.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Nvidia becomes AI poster-child following earnings, trillion dollar valuation"
     excerpt: "\"Accelerated computing and generative AI have hit the tipping point. Demand is surging worldwide across companies, industries, and nations,\" Nvidia CEO Jensen Huang said in an earnings call."
     publishedDateTime: 2024-02-23T21:52:00Z
@@ -309,6 +251,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
+  - title: "Nvidia's surge ripples across stock market - lifting AI, tech and semiconductor ETFs"
+    excerpt: "The Global X Robotics & Artificial Intelligence ETF BOTZ, which has around $3 billion of assets under management, closed 4.4% higher, according to FactSet data. Megacap semiconductor company ..."
+    publishedDateTime: 2024-02-24T10:44:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20240224201/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 12
 
 secured: "845ygbcIduPTvORmCgE2dYQhGMZwtLTIcvEVjazo2ahddkVecpUQ4Hcmk4CYQy/Gnya3blse0GbnmTrFxLb6yzHz2JHlTxQA8D0JJtntGHNlfScmq9ADRYFb6whSgAaD9jlLWKAMW3EYdrFOhvhi9+ZWyTRat7RHsnvsMQH8+Wt8YdCjYIhjXsy8sWONsZ5AByMbPoMjvom2bphLLtmBNqVm10TJdyaqO3vNx9GdjfoP/4hADWrRljpjyBWUG71Su89t6utlrZZHxVwJctRxdhyUZOXdlN+/3JwVEjIzqyLF2THB8BwlPn6U9Gwpx3R++UYHrK7WrodoDivFAnwZvFasQ+aDIlirjt+mWbmkR6kOs72Kxf9vCR3FgHLXIkBeIhBWhWEf2qlFTW1Qx0nrCFBMbXahDPYuIJ6wEGyv1bJAK7NUNHEUdwC9UjCuklAI4YPN6bQVRFEt3Rtn2m1Jj3WSVNA+tOuS43R3tIknpgj2xGEJ/oWtSd7pa03wR5r9yd8S21Z4vY8Jp9XJK/9emw==;RPiKWux73TJ5FT3cNNsKcw=="
 ---

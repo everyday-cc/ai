@@ -41,15 +41,6 @@ related:
         width: 1478
         height: 900
         isCached: true
-  - title: "How AI Takes ‘Democratized’ Innovation To The Next Level"
-    excerpt: "Generative AI promises to “democratize” innovation, meaning everyone can take part in advancing new ideas and seeing them through. But how will this play out, exactly?"
-    publishedDateTime: 2024-02-23T18:59:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/23/how-ai-takes-democratized-innovation-to-the-next-level/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "New technology uses AI to detect depression"
     excerpt: "Researchers at Dartmouth’s Department of Science and School of Medicine in New Hampshire created a prototype of a smartphone app, which has facial imaging processing software."
     publishedDateTime: 2024-02-28T02:48:00Z

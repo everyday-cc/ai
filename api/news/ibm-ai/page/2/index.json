@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-14-the-most-valuable-ai-use-cases-for-business.md",
+      "title": "The most valuable AI use cases for business",
+      "excerpt": "We’re all amazed by what AI can do. But the question for those of us in business is what are the best business uses?\nThe post The most valuable AI use cases for business appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-a-new-era-of-drug-discovery-with-biology-driven-ai.md",
       "title": "A New Era Of Drug Discovery With Biology-Driven AI",
       "excerpt": "The AI and computing revolution is ushering in a new era of drug development that is poised to be better, faster and cheaper.",
@@ -1268,48 +1311,6 @@
       "featuredContent": null,
       "highlight": null,
       "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond.md",
-      "title": "Top concerns industry leaders have about cyberattacks in 2024 and beyond",
-      "excerpt": "Read about the concerns that industry leaders have for the future and three approaches organizations can take to build up their defenses.\nThe post Top concerns industry leaders have about cyberattacks in 2024 and beyond appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond/",
-      "originalUrl": "https://www.ibm.com/blog/top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
       "tags": null,
       "images": null,
       "content": "",

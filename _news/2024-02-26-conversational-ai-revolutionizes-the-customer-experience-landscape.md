@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2024/02/26/1088846/conversational-a
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,69 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational AI use cases for enterprises"
-    excerpt: "This class of AI-based tools, including chatbots and virtual assistants, enables seamless, human-like and personalized exchanges.\nThe post Conversational AI use cases for enterprises appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-23T18:04:33Z
-    webUrl: "https://www.ibm.com/blog/conversational-ai-use-cases-for-enterprises/"
+  - title: "Bristol Scientists Turbocharge Artificial Intelligence in Revolutionary £80 Million National Initiative"
+    excerpt: "Leading mathematicians, engineers and computer scientists at the University of Bristol have joined a new national mission to realise this potential, taking AI applications to uncharted heights in various settings,"
+    publishedDateTime: 2024-02-24T05:13:00Z
+    webUrl: "https://indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
+    ampWebUrl: "https://indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Where Does AI Go In Your Enterprise?"
-    excerpt: "By taking these steps, I found that organizations can effectively navigate the complex and rapidly evolving AI landscape."
-    publishedDateTime: 2024-02-26T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/where-does-ai-go-in-your-enterprise/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "“Reputation House” soars to top 3 finalists for first International Artificial Intelligence Awards"
-    excerpt: "Jury at First AI World Series Artificial Intelligence Awards 2024 Sees “Reputation House App” crafted to identify reputational issues promptly"
-    publishedDateTime: 2024-02-27T06:30:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards-p4u6y3pb"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards-p4u6y3pb?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards-p4u6y3pb?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
+      name: India Education Diary
+      domain: indiaeducationdiary.in
     quality: 43
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZGNhOTM0NTctYzFhOC00/0/ceo_dima_raketa-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "‘Reputation House’ soars to top 3 finalists for first International Artificial Intelligence Awards"
-    excerpt: "The AI World Series Artificial Intelligence Awards are organised by ARCET Global, a hybrid consultancy, helping organisations improve in areas that matter most to harnessing new technologies and gaining sustainable success. The highly competitive award ..."
-    publishedDateTime: 2024-02-28T08:31:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards"
-    ampWebUrl: "https://www.khaleejtimes.com/kt-network/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 43
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=34bb9c5d-0722-5851-97db-00d696f4c6d8&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.15356.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Harnessing artificial intelligence for infectious disease prevention"
-    excerpt: "A new research review to be given at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024) will look at the many ways artificial intelligence can help prevent infectious disease outbreaks including ensuring staff wear personal protective equipment correctly and managing day-to-day hospital activities such as medication prescription and cleaning."
-    publishedDateTime: 2024-02-28T02:49:00Z
-    webUrl: "https://www.news-medical.net/news/20240227/Harnessing-artificial-intelligence-for-infectious-disease-prevention.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2024/02/AI-stock-image-article.jpg"
+        width: 500
+        height: 333
         isCached: true
   - title: "The Program-Level AI Conversations We Should Be Having"
     excerpt: "Affirm their existing program-level learning outcomes and determine if a generative AI-specific outcome is needed. For example, a department might decide to revise their ethics-related program-level learning outcome to reflect a commitment to the ethical ..."
@@ -104,24 +56,34 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "AI enterprise search startup raises mega round at massive valuation"
-    excerpt: "The startup's announcement now places it as the second largest ... \"We are at the beginning of one of the biggest transformations in technology; generative AI is an incredibly powerful technology that will unleash productivity and new efficiencies, but ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/02/27/glean-raises-series-d-22b-valuation.html"
+  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
+    excerpt: "cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation. With the support of AI technology, intelligent translation has ..."
+    publishedDateTime: 2024-02-28T15:56:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/more-extensive-more-timely-more-professionalai-simultaneous-interpretation-breaks-the-boundaries-of-conference-communication-302074386.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "AI-powered enterprise search startup Glean raises $200M+ at $2.2B valuation"
-    excerpt: "Glean Technologies Inc., the developer of a conversational search platform for enterprises, has raised more than $200 million in a Series D round that values it at $2.2 billion."
-    publishedDateTime: 2024-02-27T19:17:00Z
-    webUrl: "https://siliconangle.com/2024/02/27/ai-powered-enterprise-search-startup-glean-raises-200m-2-2b-valuation/"
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg?p=facebook"
+        width: 1600
+        height: 838
+        isCached: true
+  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
+    excerpt: "For far too long, cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation."
+    publishedDateTime: 2024-02-28T17:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969981.htm"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 15
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "x6mIf8uaa3rYeCLkftq2z2FCHBvDKLf2fjkf7wYp9q2B+kDrNZPKEw4ga/S/mjzL1mE+KBtgPxNyMZkkay4o4+4sS13InZ63WwhT0rWDmkHqLBt3mtYSoguBs7IX14pxKlUPDXnxYtTbpVbSvg5VA85F9ikuWSQPhsddnaqm4gZqseg36mCjkOB2LheX9PLU6gUfrFoRUBI2ALB4XX2Dy45K1J+GROaBwXZzsS+ZxaQ/h1VqQzTSXwnKejO8JkS/R8Z9OqCotmfMRkFPMdbsanOes4jkWbtKI8UOgI87lq0DOZ0nRwDWkolh6KkJ9B+llgdBWnPSl9M5fp8PfeXadQtjiPUBG93LmOfcHlFkMJ8DLuU3wIfEhynmfmxo9g8etLn5/3UgyhY6DQH57DJ3tkTWjCcialAKyXYdfN+/+dRD3GzMRYJmmAo3w0PbhUTgVNnA5HtH36vwC/0TFR3FggHiD8qM/B0w3JRKymONBVzP6iKPebzeY2Zh7xWFPRzJcbZpDPV18WyMlhXLkwnvsA==;XCvemAjz6YfO8nuET3wrjw=="
 ---

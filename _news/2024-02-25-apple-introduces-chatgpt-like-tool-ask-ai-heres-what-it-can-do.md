@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Is ChatGPT making scientists hyper-productive? The highs and lows of using AI"
+    excerpt: "About 55% of the respondents to the Nature survey felt that a major benefit of generative AI is its ability to edit and translate writing for researchers whose first language is not English. Similarly, in a poll by the European Research Council (ERC ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-024-00592-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 53
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00592-w/d41586-024-00592-w_26794632.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "miGm4goqw1p7J3Vbr9YYTf+0X+JwoTr8Y80VZfUYzFh72jbqnPMEmoolDHksKQarEZOyAdQELkbmPLLRsR2W7V5fbYvZ0Kze54/4mAw3BcXGLN2FysVy3k0GQmysEOqgnXiqHzDoU8HvGge+KpdJoheGx5eqBEYUSphtmOjatN0TvADRfNeGHQkuKJFo6XKQ82SS+ZGNpO9h96o7bMIYCC1XDgfd8OtUSAmcBD2tqoNunDme0bhQ4x7k+iWk+k8UGwiCow2/s/bG0vN0j+y+9PsWwDMRIAI3hS8w1ftLEGaPck5i2dAJpSagkeZ+u1Cx39dxFqv1CT8dyI7x4h46trwYiXueq3p3v55fg5HzGWU=;ZF5YaBMOSXHr+1oDFGE4ig=="
 ---

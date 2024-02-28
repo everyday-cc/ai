@@ -25,16 +25,105 @@ images:
     isCached: true
 
 related:
-  - title: "MongoDB CEO On New AI, LLMs And GenAI Innovation In 2024"
-    excerpt: "GCP Vertex AI, Azure OpenAI/Copilot) and training their foundational LLMs (AWS Titan, GCP Gemini, Azure Open AI/Copilot) on MongoDB to make developers more productive. Helping our customers modernize from legacy relational databases to MongoDB with tools ..."
-    publishedDateTime: 2024-02-28T14:45:00Z
-    webUrl: "https://www.crn.com/news/cloud/2024/mongodb-ceo-on-new-ai-llms-and-genai-innovation-in-2024"
+  - title: "Building trust in the government with responsible generative AI implementation"
+    excerpt: "As the public sector embraces automation to solve problems, it's key to maintain trust and transparency in AI solutions.\nThe post Building trust in the government with responsible generative AI implementation appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-28T17:47:29Z
+    webUrl: "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 21
+      name: IBM
+      domain: ibm.com
+    quality: 95
+  - title: "The Best Generative AI Courses Money Can Buy"
+    excerpt: "Embark on a journey to master generative AI with the best paid courses available, covering everything from principles and prompt engineering to business applications."
+    publishedDateTime: 2024-02-26T05:58:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65dc3646f50b2433cd62402e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How to implement the General Data Protection Regulation (GDPR)"
+    excerpt: "Follow this guide to implement the General Data Protection Regulation (GDPR) within your organization.\nThe post How to implement the General Data Protection Regulation (GDPR) appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-24T00:00:00Z
+    webUrl: "https://www.ibm.com/blog/general-data-protection-regulation-implementation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
+  - title: "Measuring brain’s response to different musical genres with artificial intelligence"
+    excerpt: "A research team from the University of Malaga (Andalusia, Spain) has analyzed how the brain responds to hearing different musical genres and has"
+    publishedDateTime: 2024-02-26T08:48:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/243107"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 48
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/055ada53-6efa-4e28-a4e9-7fc8860f3760-xpertsvar20logo.jpg"
+        width: 260
+        height: 260
+        isCached: true
+  - title: "Companies Need To Get Onboard The Generative AI Train"
+    excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
+    publishedDateTime: 2024-02-25T19:21:00Z
+    webUrl: "https://www.forbes.com/sites/sylvainduranton/2024/02/25/companies-need-to-get-onboard-the-generative-ai-train/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AI: balancing innovation and regulation"
+    excerpt: "By embracing responsible AI practices and leveraging the power of AI strategically, organisations can thrive in the new regulatory environment"
+    publishedDateTime: 2024-02-28T12:18:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/ai-balancing-innovation-and-regulation"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/042/AI_laws_and_regulations.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "A Regulation To Promote Responsible AI In Health Care"
+    excerpt: "While we are artificial intelligence (AI) optimists, we also recognize the potential for negative impacts from AI. A primary goal of the HTI-1 final rule is to address these concerns by promoting the development and use of AI in health care that is fair,"
+    publishedDateTime: 2024-02-28T14:18:00Z
+    webUrl: "https://www.healthaffairs.org/content/forefront/regulation-promote-responsible-ai-health-care"
+    type: article
+    provider:
+      name: Health Affairs
+      domain: healthaffairs.org
+    quality: 19
+  - title: "Artificial intelligence hallucinations in legal research may be a thing of the past"
+    excerpt: "Lexis+ and Paxton.AI are examples of legal tech solutions incorporating RAG technology. As AI technology evolves quickly, it may soon render any attempts by courts and law societies to limit AI use irrelevant. It appears that technology will solve its problems."
+    publishedDateTime: 2024-02-23T20:54:00Z
+    webUrl: "https://www.canadianlawyermag.com/news/opinion/artificial-intelligence-hallucinations-in-legal-research-may-be-a-thing-of-the-past/383942"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 13
+  - title: "Keysight Introduces Leading Benchmarking Solution to Fast-Track Deployment of Artificial Intelligence Infrastructure"
+    excerpt: "The Keysight platform enables large scale validation and experimentation with fabric design in a realistic and cost-effective way. This solution complements testing AI / ML workloads using GPUs, providing AI operators with a more scalable, robust, and integrated AI test platform."
+    publishedDateTime: 2024-02-28T17:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-keysight-introduces-leading-benchmarking-solution-fast-track-deployment-/2024/02/28/9969997.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "HlOA1d0LN+StYkxrfqlPU11ZawmINmPgbjlYNImzo0g+qQ9Z8LSa/ARWP0Sff+kbfTmsj7ofXqcTVJ1DBrKr5vv06Dw5yQ31r/GLEGp6DPLFUYhflEgnawdHsRM94gbnvWvupg6H6uNIJ3RGMBFT0EyWEQ8UKZAdzpMyYcimBJTN+boZBZW0gL8nhaAdbrbu88cWslg1j5Ok6kQbT01Qi+2RvcsVHBr8JNycsAXd9u8RVHMogLalLviR6eLVoSja0Lb8tL72P04AnuWiduEo1ZSl42J/1muFaxTU/MA817UnkxokOeVEsXE6AsKVOAMTOPnirs+UwgMc9s0+HxJHRchGNa0GSH1texV6bNri09s=;6Ptl38B+EfYU6Zjj3KyUSg=="
+secured: "ApALZpChhw+nsLw8RhV4mqMwLEWQFF3066oknWR3O7n4O6m8iPX/z3/jfhPa4y3K26HnGG3MlBkPwADAxc+aIeW8VxNA12AB5+53g7hBC69TDBTJvLqws8+46iYsT+jKjEaoKwjBycm0xHYRkwjKogpPtAJGxqkpj9bO2tgUYQsjs4Ej4sDD4KU119Qy4LrElZ+K+oCG7q7xhyAG7IfAR1s8iAweSVX1bBjpkXN4gKISAaOG+gAd0IfTeumoVUkZgfHAAVwa77But15GQ+SDl1cyZjNa3iRyRQja8SABiSwZZ+e6m0IUHzpPmiJMWW6pHrGQA34hyMApTH7k0YWS4XhSYamE1izzeVOYsV22kFlTlwt+ehgP2dDSbWmDyNr3v04DF/2gKsmRS3PjwXCmLtKaWWXlyV1EGlk+CTl4yySehNb1Ptu+rkSwsAetv5RVhGeTPFed52L43YzNO0OAliacHZD43y2vGLpmyDkD6D3x/uXK5b1HvkDZNsUZvxBJZyKzSAEG/+zrFF6EX9xOQQ==;Xb0u7stiDXF4HdBmYHUHvQ=="
 ---
 

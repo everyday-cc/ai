@@ -81,6 +81,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Sundar Pichai blasts Google staff for offending customers with Gemini AI bias: ‘To be clear, that’s totally unacceptable’"
+    excerpt: "The debate around misinformation and its more malicious cousin, disinformation, has now shifted from the news media to AI companies. Meanwhile, the head start Google held after acquiring DeepMind a decade ago has seemingly evaporated as OpenAI continues to ..."
+    publishedDateTime: 2024-02-28T09:33:00Z
+    webUrl: "https://www.aol.com/finance/sundar-pichai-blasts-google-staff-143344480.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 12
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Qw5r_oNnhk3cwY9aKzV9vw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/056467c82946b6273ab96e38c16f65bf"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google CEO Sundar Pichai calls Gemini AI photo diversity scandal ‘unacceptable’; full statement here"
     excerpt: "Google CEO Sundar Pichai(Reuters file photo ... to address the recent issues with problematic text and image responses in the Gemini app (formerly Bard). I know that some of its responses have offended our users and shown bias — to be clear, that ..."
     publishedDateTime: 2024-02-28T14:48:00Z

@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Amazon to spend $1 billion on startups that combine AI with robots"
-    excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
+    excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than €400 million in technologies that include ..."
     publishedDateTime: 2024-02-28T14:48:00Z
-    webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?view=grid"
+    webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
     type: article
     provider:
       name: Ars Technica

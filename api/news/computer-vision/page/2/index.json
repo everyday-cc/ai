@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-13-man-tracked-with-facial-recognition-software-indicted-on-indecency-with-a-child-in-walmart.md",
+      "title": "Man tracked with facial recognition software indicted on indecency with a child in Walmart",
+      "excerpt": "A Texas man was indicted for indecency with a child allegations connected to an incident in a Wichita Falls Walmart.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/man-tracked-facial-recognition-software-184120890.html",
+      "originalUrl": "https://www.aol.com/man-tracked-facial-recognition-software-184120890.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T20:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-hong-kong-police-head-says-city-may-use-facial-recognition-to-maintain-national-security-fight-crime.md",
       "title": "Hong Kong police head says city may use facial recognition to maintain national security, fight crime",
       "excerpt": "Set of norms will be designed on the use of personal information gathered by a new network of CCTV cameras, said Commissioner of Police Raymond Siu.",
@@ -1427,59 +1461,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-facial-recognition-used-after-sunglass-hut-robbery-led-to-mans-wrongful-jailing-says-suit.md",
-      "title": "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit",
-      "excerpt": "Harvey Eugene Murphy Jr’s lawsuit claims he was misidentified as culprit of armed robbery and put in jail, where he says he was raped A 61-year-old man is suing Macy’s and the parent company of Sunglass Hut over the stores’ alleged use of a facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=applespbevent.ru",
-      "originalUrl": "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=applespbevent.ru",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ae12f5dc427031b0049b47b68d64c480f4e93938/0_0_4000_2666/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=515020e831547538a72a100d53066eb3",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit",
-      "publishedDateTime": "2024-01-24T09:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

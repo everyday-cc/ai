@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Takes ‘Democratized’ Innovation To The Next Level"
-    excerpt: "Generative AI promises to “democratize” innovation, meaning everyone can take part in advancing new ideas and seeing them through. But how will this play out, exactly?"
-    publishedDateTime: 2024-02-23T18:59:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/23/how-ai-takes-democratized-innovation-to-the-next-level/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "New technology uses AI to detect depression"
     excerpt: "Researchers at Dartmouth’s Department of Science and School of Medicine in New Hampshire created a prototype of a smartphone app, which has facial imaging processing software."
     publishedDateTime: 2024-02-28T02:48:00Z

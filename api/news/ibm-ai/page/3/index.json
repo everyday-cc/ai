@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-01-top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond.md",
+      "title": "Top concerns industry leaders have about cyberattacks in 2024 and beyond",
+      "excerpt": "Read about the concerns that industry leaders have for the future and three approaches organizations can take to build up their defenses.\nThe post Top concerns industry leaders have about cyberattacks in 2024 and beyond appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond/",
+      "originalUrl": "https://www.ibm.com/blog/top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-ibm-watsonx-platform-to-power-the-future-of-ai-for-business.md",
       "title": "IBM Watsonx platform to power the future of AI for business",
       "excerpt": "A new global IBM’s Institute for Business Value (IBV) study on “CEO decision-making in the age of AI, Act with Intention” reveals that 75% of chief executive officers surveyed globally ...",
@@ -1257,49 +1299,6 @@
       "provider": {
         "name": "The Victoria Advocate",
         "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-ai-automation-wont-steal-all-jobs-for-now.md",
-      "title": "AI Automation Won't Steal All Jobs, for Now",
-      "excerpt": "Artificial intelligence may not steal our jobs just yet, but only because humans are currently cheaper to employ. Many of the human jobs that could be replaced with",
-      "sourceUrl": null,
-      "webUrl": "https://www.govinfosecurity.com/ai-automation-wont-steal-all-jobs-for-now-a-24165",
-      "originalUrl": "https://www.govinfosecurity.com/ai-automation-wont-steal-all-jobs-for-now-a-24165",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/ai-automation-wont-steal-all-jobs-for-now-showcase_image-9-a-24165.jpg",
-          "width": 860,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T23:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HHS",
-        "domain": "govinfosecurity.com",
         "images": null,
         "publishers": null,
         "authors": null

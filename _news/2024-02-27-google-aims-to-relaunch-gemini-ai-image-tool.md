@@ -103,6 +103,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Google Gemini tips and tricks: Put Google's most capable AI model to good use"
+    excerpt: "Google's AI specializes in language translation. You can ask Gemini to translate a saying or copy a document into another language. It also considers context and tone for improved translations (ones that sound more natural). Gemini seems to be more consistent with translation than other LLM-based AIs."
+    publishedDateTime: 2024-02-28T17:39:00Z
+    webUrl: "https://www.androidpolice.com/googe-gemini-tips-tricks/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 36
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/02/google-gemini-omelette-samsung-galaxy-s24-plus-1.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Google Pauses Gemini Image Generation"
     excerpt: "Google paused its Gemini image generation capabilities after users complained of its inaccurate and offensive output."
     publishedDateTime: 2024-02-23T21:33:00Z

@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft showcases next-generation AI and computing at Nvidia GTC"
+    excerpt: "Nvidia GTC takes place March 18 – 21 in San Jose, CA and virtually. In person and on-demand sessions, live discussions and hands-on demos will offer a look at the core Azure AI services and technologies that power some of the world’s largest and most ..."
+    publishedDateTime: 2024-02-26T07:30:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-showcase-next-generation-ai-and-computing-at-nvidia-gtc/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_735569484.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Mistral partners with Microsoft, announces new large AI model with chat app"
     excerpt: "In MMLU tests, Mistral Large had an accuracy of 81.2%, sitting behind GPT-4’s, but doing much better than Llama 2 70B and Gemini Pro 1.0."
     publishedDateTime: 2024-02-26T16:57:00Z

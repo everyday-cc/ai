@@ -25,31 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "du and AWS collaborate to accelerate cloud adoption in the UAE"
-    excerpt: "With a focus on data Internet of Things (IoT), artificial intelligence (AI), and machine learning (ML), du and AWS will provide industry-specific cloud solutions to enterprises and public sector organizations. Additionally, AWS will assist du in ..."
-    publishedDateTime: 2024-02-28T10:05:00Z
-    webUrl: "https://www.albawaba.com/business/pr/du-and-aws-collaborate-accelerate-cloud-adoption-uae-1555170"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/du-and-aws-collaborate-accelerate-cloud-adoption-uae-1555170"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/du-and-aws-collaborate-accelerate-cloud-adoption-uae-1555170"
+  - title: "Six Generative AI Predictions For 2024 And Beyond"
+    excerpt: "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students."
+    publishedDateTime: 2024-02-26T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/du%20%26%20AWS%20-%20MWC%20Signing%20ceremony%202024.png?itok=yMaHDA3o"
-        width: 1005
-        height: 713
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Sage signs Strategic Collaboration Agreement with AWS to enable AI-powered solutions for Small and Mid-Sized Businesses"
-    excerpt: "This agreement will significantly enhance how SMBs optimize their operations with generative artificial intelligence (AI) and tackle environmental responsibilities, with Sage Earth now available in AWS Marketplace. Today, SMBs can leverage Sage Intacct in ..."
-    publishedDateTime: 2024-02-27T16:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sage-signs-strategic-collaboration-agreement-with-aws-to-enable-ai-powered-solutions-for-small-and-mid-sized-businesses-1033109462"
+  - title: "A Marketer’s Guide To Generative AI Startups"
+    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
+    publishedDateTime: 2024-02-26T08:00:00Z
+    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 39
+    images:
+      - url: "https://www.adexchanger.com/wp-content/uploads/2024/01/Americas-next-top-AI-model_Kevvo_comic.jpg"
+        width: 2397
+        height: 2098
+        isCached: true
+  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
+    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of ..."
+    publishedDateTime: 2024-02-26T13:04:00Z
+    webUrl: "https://www.charlotteobserver.com/press-releases/article285939161.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 0
+  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
+    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"
+    publishedDateTime: 2024-02-26T16:04:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article285939161.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 0
 
 secured: "FH8bGBNOMQdJM4O0r9liZSDArjg6c6T/WvD99CjLPhlFygrBPKl0N/LdcP82zPKsuLrzBK3wYkdFkg/2MhdSOTzNM62p/2YdrWx7XSMXsNagQfRFKN9KQUF6DctUH0o/BQLm8hYqUldScbScb+NjB97CanEbe/ApIuJWkByduunu+lWpSDiSxfyzAgWQl1E+9aW1rRHCaUlQjsl1nLre+7gv+JZkuO6QTs64N5ySEHXdl7OYacFTD/SiZTXvSab6281CsMA1HVJKIs33t0RyDUygjjGov7IMW//IDn4GlgoCiJpj7kZaIlBwrgoXz43aKL12tqmeuyINZ+vOqIp0aOBoPzvGv9a02NTlTlG46zM=;m/JDTKfLe7C7uMg0W4sqAw=="
 ---

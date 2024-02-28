@@ -55,6 +55,34 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Generative AI Advances Showcased at MWC 2024"
+    excerpt: "The company has introduced an array of applications driven by generative AI and deep learning, including enterprise services and smart living environments. These applications are directly aimed at fulfilling the specific requirements of businesses and consumers."
+    publishedDateTime: 2024-02-27T16:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9969068.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Generative AI Advances Showcased at MWC 2024"
+    excerpt: "MWC Barcelona, held this year on February 26-29, is one of the global telecommunications sector's pre-eminent expos. It attracts"
+    publishedDateTime: 2024-02-28T16:20:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/generative-ai-advances-showcased-at-mwc-2024-302074406.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/2350224/iFLYTEK_MWC.jpg?p=facebook"
+        width: 1600
+        height: 838
+        isCached: true
 
 secured: "8+k6SiIc+wJUZRGTwvWaAO4T8PF+0rsAkGKf5JmImU8Vtls6qX7rqrlpNwDl3WzD5gzmpz9gIEtaoV6M+oPHc09tm5OoJmFIESO6Uty5r3r8CteARP6iN07jOD1YU5Rarq4WB/Qjr6BWSShqzKFHB4RUHg3PB8UKsUKXUSu5i+dgiqfYQ6VslMNWsUuyXYmhjn5mLctLMY+2RniNmjHjTHNpCoOENWUOCLajfTG1RCpPRnP4asfjm7dH3dy3mQAFpK0Y0+wgtPw+NSfyHCrW8XLPK6FvMBTc8ZdxgQmiIEvX4t2qJ9NJF8g21H8RHZTW5UrkZWjKI7yHrz7KxzLiwwfYt8B4JTQCd6Et6eDIaJs=;wR4r56MUtMAg9T5et1dpxA=="
 ---

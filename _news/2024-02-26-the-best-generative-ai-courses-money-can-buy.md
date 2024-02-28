@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
 type: article
 quality: 87
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,19 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "Six Generative AI Predictions For 2024 And Beyond"
-    excerpt: "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students."
-    publishedDateTime: 2024-02-26T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/"
+  - title: "Building trust in the government with responsible generative AI implementation"
+    excerpt: "As the public sector embraces automation to solve problems, it's key to maintain trust and transparency in AI solutions.\nThe post Building trust in the government with responsible generative AI implementation appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-28T17:47:29Z
+    webUrl: "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: IBM
+      domain: ibm.com
+    quality: 95
+  - title: "How to implement the General Data Protection Regulation (GDPR)"
+    excerpt: "Follow this guide to implement the General Data Protection Regulation (GDPR) within your organization.\nThe post How to implement the General Data Protection Regulation (GDPR) appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-24T00:00:00Z
+    webUrl: "https://www.ibm.com/blog/general-data-protection-regulation-implementation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
+  - title: "Measuring brain’s response to different musical genres with artificial intelligence"
+    excerpt: "A research team from the University of Malaga (Andalusia, Spain) has analyzed how the brain responds to hearing different musical genres and has"
+    publishedDateTime: 2024-02-26T08:48:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/243107"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 48
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/055ada53-6efa-4e28-a4e9-7fc8860f3760-xpertsvar20logo.jpg"
+        width: 260
+        height: 260
         isCached: true
   - title: "Companies Need To Get Onboard The Generative AI Train"
     excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
@@ -53,65 +71,60 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "A Marketer’s Guide To Generative AI Startups"
-    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
-    publishedDateTime: 2024-02-26T08:00:00Z
-    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
+  - title: "AI: balancing innovation and regulation"
+    excerpt: "By embracing responsible AI practices and leveraging the power of AI strategically, organisations can thrive in the new regulatory environment"
+    publishedDateTime: 2024-02-28T12:18:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/ai-balancing-innovation-and-regulation"
     type: article
     provider:
-      name: adexchanger
-      domain: adexchanger.com
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
     quality: 39
     images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2024/01/Americas-next-top-AI-model_Kevvo_comic.jpg"
-        width: 2397
-        height: 2098
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/042/AI_laws_and_regulations.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Generative AI Advances Showcased at MWC 2024"
-    excerpt: "The company has introduced an array of applications driven by generative AI and deep learning, including enterprise services and smart living environments. These applications are directly aimed at fulfilling the specific requirements of businesses and consumers."
-    publishedDateTime: 2024-02-27T16:47:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9969068.htm"
+  - title: "A Regulation To Promote Responsible AI In Health Care"
+    excerpt: "While we are artificial intelligence (AI) optimists, we also recognize the potential for negative impacts from AI. A primary goal of the HTI-1 final rule is to address these concerns by promoting the development and use of AI in health care that is fair,"
+    publishedDateTime: 2024-02-28T14:18:00Z
+    webUrl: "https://www.healthaffairs.org/content/forefront/regulation-promote-responsible-ai-health-care"
+    type: article
+    provider:
+      name: Health Affairs
+      domain: healthaffairs.org
+    quality: 19
+  - title: "Artificial intelligence hallucinations in legal research may be a thing of the past"
+    excerpt: "Lexis+ and Paxton.AI are examples of legal tech solutions incorporating RAG technology. As AI technology evolves quickly, it may soon render any attempts by courts and law societies to limit AI use irrelevant. It appears that technology will solve its problems."
+    publishedDateTime: 2024-02-23T20:54:00Z
+    webUrl: "https://www.canadianlawyermag.com/news/opinion/artificial-intelligence-hallucinations-in-legal-research-may-be-a-thing-of-the-past/383942"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 13
+  - title: "H2O.ai Inaugurates GenAI World for Public Sector to Spur Growth and Innovation of Generative AI for Government Departments and Agencies"
+    excerpt: "H2O.ai, an open source leader in Generative AI and machine learning, continues its world tour of bringing GenAI"
+    publishedDateTime: 2024-02-28T16:41:00Z
+    webUrl: "https://www.datanami.com/this-just-in/h2o-ai-inaugurates-genai-world-for-public-sector-to-spur-growth-and-innovation-of-generative-ai-for-government-departments-and-agencies/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 7
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2024/01/h2o-dot-ai-300x276.png"
+        width: 300
+        height: 276
+        isCached: true
+  - title: "Keysight Introduces Leading Benchmarking Solution to Fast-Track Deployment of Artificial Intelligence Infrastructure"
+    excerpt: "The Keysight platform enables large scale validation and experimentation with fabric design in a realistic and cost-effective way. This solution complements testing AI / ML workloads using GPUs, providing AI operators with a more scalable, robust, and integrated AI test platform."
+    publishedDateTime: 2024-02-28T17:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-keysight-introduces-leading-benchmarking-solution-fast-track-deployment-/2024/02/28/9969997.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Generative AI Advances Showcased at MWC 2024"
-    excerpt: "MWC Barcelona, held this year on February 26-29, is one of the global telecommunications sector's pre-eminent expos. It attracts"
-    publishedDateTime: 2024-02-28T16:20:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/generative-ai-advances-showcased-at-mwc-2024-302074406.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2350224/iFLYTEK_MWC.jpg?p=facebook"
-        width: 1600
-        height: 838
-        isCached: true
-  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
-    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of ..."
-    publishedDateTime: 2024-02-26T13:04:00Z
-    webUrl: "https://www.charlotteobserver.com/press-releases/article285939161.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 0
-  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
-    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"
-    publishedDateTime: 2024-02-26T16:04:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article285939161.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
     quality: 0
 
 secured: "Kv0kKgDm8OqiQCiw9wsMKPurvu0l7ynw4nIzF7EfAOPi1pquz7swHLd/86JFUvvTy4qzSyDViuLdbvCWdhwsU8M7RQDs8iu5ObqRmQ2tRf9FvJjTqqF/OkLu6rNdzd+FdopCF2mPaiIDFcw+KVr+7JI5Pnwn45Eu2tZYEGoq+xnQQYqVoZJVP/XZnhcCn5BJB94+Db0gn3bPzEJcwntIgaw+4wg0j4gvfktDnIliUsoYu0/lzl625yJhB9qPUqsb6Jl4GKAMRSStrQAeEN9yy8r9ZLSSXaGyIjkkdfcNsmPIQANCsmKgWDNS0RzARIguUJ8InaLKq1Yuz38TwpyIUoLPDQGvmi17dRY4voebS/eczc0LPjCSjXyhM68fOxO861wckK2Zme8224g2YQofASA0lE451yVlv/YTPzNo4Ohrwjz/3taPORedUwhAmYdLJh9Pt7jxRDBx2OVEgloaZT7g4PiaYPKLD26RZjyGfoXP7mXCILTXWK334Jomokt6mDmwH9IwaUvAn5x2+N61Jw==;BzMUxYs9UQnXJ8zluJIOqw=="
