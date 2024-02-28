@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-
 webUrl: "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html"
 type: article
 quality: 54
-heat: 120
+heat: 121
 published: true
 
 provider:

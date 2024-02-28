@@ -517,6 +517,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Retail Media is Fastest Growing Form of Ad Spend; Microsoft’s Deal with Mistral AI Faces EU Scrutiny; Investors Push Apple for AI Transparency"
+    excerpt: "The tech giant has been called on to publish transparency reports regarding its use of AI and associated risk management. Certain firms are backing a resolution for Apple to disclose information about the ethics and usage of its AI tech; they plan to raise ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.exchangewire.com/blog/2024/02/28/retail-media-is-fastest-growing-form-of-ad-spend-microsofts-deal-with-mistral-ai-faces-eu-scrutiny-investors-push-apple-for-ai-transparency/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2024/02/28/retail-media-is-fastest-growing-form-of-ad-spend-microsofts-deal-with-mistral-ai-faces-eu-scrutiny-investors-push-apple-for-ai-transparency/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2024/02/28/retail-media-is-fastest-growing-form-of-ad-spend-microsofts-deal-with-mistral-ai-faces-eu-scrutiny-investors-push-apple-for-ai-transparency/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 40
+    images:
+      - url: "https://cdn.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Microsoft Partners With French Startup Mistral AI"
     excerpt: "Paris: Microsoft said on Monday it had partnered with French startup Mistral AI, as the software giant seeks to tighten its grip on the emerging technology. The US firm, which has already ploughed billions into ChatGPT maker OpenAI, called Mistral \"an ..."
     publishedDateTime: 2024-02-26T14:00:00Z

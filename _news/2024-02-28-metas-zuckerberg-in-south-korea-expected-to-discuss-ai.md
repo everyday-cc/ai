@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Meta's Zuckerberg discusses mixed reality devices, AI with LG leaders in South Korea"
+    excerpt: "It has also been intensifying AI efforts this year including plans for a custom chip and adding AI functions to products. Zuckerberg is on his first known visit to South Korea in about 10 years. It comes as part of a tour of Asian countries that includes ..."
+    publishedDateTime: 2024-02-28T02:18:00Z
+    webUrl: "https://www.aol.com/metas-zuckerberg-south-korea-expected-214401300.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/4e1fae58a01c84167a044c5bda39f6f4"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "68orJm62GzvAlZRk0YzXC0GfkPMKnTVLSLmfbSuvuZBMiYdmVC3KtW6ahQpB0XaJedLLpmj2Pk7n2Tit/0Zp3BFpLSpKBbSDO7DhH7sAFybXDocCFDq2YHlCG4KucGjflc9GAbFR8oyaQpUEHgBIThR0JVTZpXbEVxMwlBH3Z7ej0CpOXlMLAULsE5ZKxkgMpzYor0V3jn+BJsrNoZ5cG/6OOVGaXP6k/FDX7UwFOMgU2crU3OewtvjbEE2oRlWnJrsbFKzQrb2XAai2cCKQL7Vm/15Li3yEylxFQ7eLQleuhJu1+VLDDSTlSUGrJ6Kp0CvlVTYYAPXwf0uH6LGSLjxKjM6ZOxfF2mkD6u/7kIE=;sq7XXVyWjDdWnGXLduCNUQ=="
 ---

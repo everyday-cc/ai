@@ -509,6 +509,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Retail Media is Fastest Growing Form of Ad Spend; Microsoft’s Deal with Mistral AI Faces EU Scrutiny; Investors Push Apple for AI Transparency"
+    excerpt: "The tech giant has been called on to publish transparency reports regarding its use of AI and associated risk management. Certain firms are backing a resolution for Apple to disclose information about the ethics and usage of its AI tech; they plan to raise ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.exchangewire.com/blog/2024/02/28/retail-media-is-fastest-growing-form-of-ad-spend-microsofts-deal-with-mistral-ai-faces-eu-scrutiny-investors-push-apple-for-ai-transparency/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2024/02/28/retail-media-is-fastest-growing-form-of-ad-spend-microsofts-deal-with-mistral-ai-faces-eu-scrutiny-investors-push-apple-for-ai-transparency/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2024/02/28/retail-media-is-fastest-growing-form-of-ad-spend-microsofts-deal-with-mistral-ai-faces-eu-scrutiny-investors-push-apple-for-ai-transparency/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 40
+    images:
+      - url: "https://cdn.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Microsoft Announces Cloud Partnership With Mistral AI"
     excerpt: "Microsoft announced a multi-year partnership with French generative AI startup Mistral AI. The company will make Mistral AI's premium models available in the Azure AI Studio and Azure Machine Learning model catalog."
     publishedDateTime: 2024-02-26T15:02:00Z
@@ -591,6 +607,6 @@ related:
       domain: financialit.net
     quality: 25
 
-secured: "+PERjcd8oVGBIfySliRGPxBQRUhiXi8yc2d7ESUAolLiEyWIohvyVF1ogGtOfKFFGqazultmhELruBUuGDQtG+k6KsGVwWSariWJH8BXxWXgrmTvL+rJPdNwwYfDGlWIg2Nf6w7fhBHDoF1wu21yoIrKEOCRJHCvEZuDheL5rfGLgFxoCmDVpnxFAhRSmLD7VjHMAlNDlcV4tO3lE9rxg/xWcG9RyT/2b7vqHcizLW4djemM75hAFMD7jEpKImPxlhBX2Qi3uT7lVEq/kOj02MJRGLiXS1nQdw/CtcbvdF10bSyJ/rzHZza0cFtyyKvE5nFbdIPdDJvwses657NNkjygpS7m00z93QhWEyonew4=;S+MRizW9c0b4cf7oXp+bkg=="
+secured: "ICxjD8/jkC4S3cu3pyeeCJ3q94dfazItoSsuiEdmNvXbZhGkqVVYNSSGliMemQ3CTFFfDdeDWnNHhuUAxg97ud+lKp+yWzGNYgYVSunmJtz3MzR2bVeRvJplgLgLFlLyJ7hEh04fEgeNB7BEPIi0OcH2xeDOrLbhMx5k5W3xQ0yhNYQ5g+D7GFPRyhJwkfuSTptBXX01TE9UyNqJBdI90PE1rd3x21cWHkxfIC+SRUDA5YcFqOs1pmkmR4P3sKl4QVo6oihhzGruNrIzVh+Cc6fqs7TmdhQgSNEHeC9iIrXaZVQyceIDCNo1NAcHIdNvRzPJ6co6+QUm/Umz2nUmHUDcCXqJEx7ICLDD3MMaPMNSdEddanRWs/+SUAoAU2vQAc6PgRnnAX6rJtc7t2U+5Bmqe9aZLNfCHCd60QRwxS5RqUjRqR+bqRdRlkk/z4klMd70742eVi3zrTZyB9W2fY21/K3K8wAOJY1xsK+3q9U4Nww3XFzovnDes0kF/u8nIpYcyNjJsE9oz3SzxfiuMw==;Dk15JssepvqZgH3pjdOsAA=="
 ---
 

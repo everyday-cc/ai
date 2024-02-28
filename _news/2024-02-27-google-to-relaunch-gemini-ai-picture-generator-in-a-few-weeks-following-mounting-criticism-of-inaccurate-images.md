@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-genera
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
 type: article
 quality: 70
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -177,6 +177,15 @@ related:
       name: Android Police
       domain: androidpolice.com
     quality: 17
+  - title: "Is Google’s Gemini biased? Here’s what to consider when discussing AI in politics"
+    excerpt: "He had also accused Gemini’s previous iteration, Google Bard, of being biased. This was in response to Bard calling the website OpIndia as well as the social media accounts of Prime Minister Narendra Modi “biased and unreliable.” The discussion ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.medianama.com/2024/02/223-mos-it-google-gemini-bias-ai-politics/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 14
 
 secured: "7l0KftmLGq80WujMC3bfmtTKOapJL19b/75WCbFUKdtmwrrkfo0dr0ab98LWzfmUxj3ud4h+LHn06Z6A9jqfox9T0CjWHe3Ykgr3l1aS9nOrO8zX2bmp9ezENlip54wEN92V98MfMpn5sNLFR3evl0BDBIupc14aXpu9wfVwgEvGaiUs2Fp4t38ONerVwNL/mz5GU1W4T3VbobiX5SPlh0AEiLo2xjoTN7CxayCWixmty1J3qhUhP1RoQ95rzmh6YJd+rVwYLagtU1qB1VRePFnl0XrbMoL/aabJqbLlzxxLiZl/UzeFSySmJQl30NvdMWUqqmS8bu40rioM4Yj1JIp6FJ+cbS7WLmkdCF5x3hCYeYWCK/eluMxwEK428Iq4Kv4KduMGyE7afhMf3Rvjj16TwhZjMTaOlWuu3YHpAx6IYgi0vHQV3H+uUYV9i8VEzg6UoQvEhnmsudiAJpAVToNGQN0kGWG6f5UykOfyxw9pzhxcpEv/yh45OMyTl/Nrz1hiWJnJkECnVb3q6TN1bw==;Shnyo2ru1FsmyisAWn9leQ=="
 ---

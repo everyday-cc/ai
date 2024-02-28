@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-28-derby-council-ai-savings-plan-prompts-concern.md",
-      "title": "Derby council AI savings plan prompts concern",
-      "excerpt": "Derby City Council leader Baggy Shanker, said: \"Derby City Council is a trailblazer in using AI, and we will always make sure the needs of all our citizens are at the heart of this project.",
+      "path": "_news/2024-02-28-us-enterprise-ai-search-startup-glean-raises-200-mln-plans-hiring-spree.md",
+      "title": "US enterprise AI search startup Glean raises $200 mln, plans hiring spree",
+      "excerpt": "The Palo Alto, California-based startup said it has nearly quadrupled its annual recurring revenue in the past year, serving customers such as Sony Electronics and Databricks. \"Every CIO is trying to figure out the enterprise use cases of generative AI.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-derbyshire-68416832",
-      "originalUrl": "https://www.bbc.com/news/uk-england-derbyshire-68416832",
+      "webUrl": "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com",
+      "originalUrl": "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/8B8D/production/_132752753_derbycitycouncilo224.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/53TKOLW2FVMNPG6EUUGMPCHD54.jpg",
+          "width": 6026,
+          "height": 4017,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-derbyshire-68416832.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-derbyshire-68416832.amp",
-      "publishedDateTime": "2024-02-28T06:28:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T04:31:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -149,7 +149,7 @@
       "originalUrl": "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -305,7 +305,7 @@
       "originalUrl": "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -496,7 +496,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -824,7 +824,7 @@
       "originalUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1117,7 +1117,7 @@
       "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/27/digital-digits-airoboticsenergy-converge-reshaping-our-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 123,
       "tags": null,
       "images": [
         {

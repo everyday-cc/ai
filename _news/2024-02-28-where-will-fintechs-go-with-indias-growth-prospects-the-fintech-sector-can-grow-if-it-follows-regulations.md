@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 1001
         isCached: true
+  - title: "GCC Artificial Intelligence Market Share Analysis| Size, Trends, Industry Report 2024-2032"
+    excerpt: "The latest report by IMARC Group, titled“ GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2024-2032“ , offers a comprehensive analysis of the industry, which comprises insights on the GCC artificial ..."
+    publishedDateTime: 2024-02-28T03:00:00Z
+    webUrl: "https://menafn.com/1107909833/GCC-Artificial-Intelligence-Market-Share-Analysis-Size-Trends-Industry-Report-2024-2032"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?267935"
+        width: 444
+        height: 250
+        isCached: true
   - title: "ASTRI sets up FinTech and ESG Alliance"
     excerpt: "The \"FinTech and ESG Alliance\" marks ASTRI's third alliance formation ... Innovative Mind, and IoT Sensing and AI Technologies. It is applied across six core areas which are Smart City, Financial Technologies, New-Industrialisation and Intelligent ..."
     publishedDateTime: 2024-02-25T23:59:00Z

@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "US enterprise AI search startup Glean raises $200 mln, plans hiring spree"
+    excerpt: "The Palo Alto, California-based startup said it has nearly quadrupled its annual recurring revenue in the past year, serving customers such as Sony Electronics and Databricks. \"Every CIO is trying to figure out the enterprise use cases of generative AI."
+    publishedDateTime: 2024-02-28T04:31:00Z
+    webUrl: "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/53TKOLW2FVMNPG6EUUGMPCHD54.jpg"
+        width: 6026
+        height: 4017
+        isCached: true
   - title: "Character.ai is in talks to raise around $200 million in a deal backed by Google, sources say"
     excerpt: "The San Francisco-based startup previously raised $150 million in a Series A round led by Andreessen Horowitz."
     publishedDateTime: 2024-02-23T10:30:00Z

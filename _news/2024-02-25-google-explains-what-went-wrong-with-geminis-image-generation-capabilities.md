@@ -171,6 +171,15 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 19
+  - title: "Is Google’s Gemini biased? Here’s what to consider when discussing AI in politics"
+    excerpt: "He had also accused Gemini’s previous iteration, Google Bard, of being biased. This was in response to Bard calling the website OpIndia as well as the social media accounts of Prime Minister Narendra Modi “biased and unreliable.” The discussion ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.medianama.com/2024/02/223-mos-it-google-gemini-bias-ai-politics/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 14
 
 secured: "KpgDDz3bkySBmdsgkga5GkYzCd7joFkDAtlZrj1Cpn2F7xo09AwAI7lzqcHveSSLytk33BgkQwWIKBs7iqjeNuEAUwnkSjIb8mwG4JYsVLKslcWoCOXDsHJtAmCUJrCUU9rFFyJFjerxblQGj3voB+5OtpZPePtFvJ0jNE0WaPWZTiL8SHrJBzMUtRTKClWncW1FgwQnH2iFqRP/G8NYkL96czInQOGZ8G3D5j4DHfFFpLo56ALyGa3XTBHbrxoxoDWmJ6PKp89nUWABazYdmdjKAtgEKIIFsdLlJ3WAx2wAb9m92OTOFlTT61wwZEMOJ1s8NRqQn3X13E2EV70qBkGGRYkB+5WIsLvRqe6y5vFDckq8sTP+1AUPwizM/9ZuzaxngR4y5G44oQnxKB0R9TTT8BXskI6vQ8RxMwl9LVsxo+vp6bspqEa7vyOYkbqOlFDom2EBKC7nKSS+K3tGEdVl+gMoq/64EA0Rjphz0UyrGpf3kDceOeE5XqUh5SIkc+vo0Ei5JEPayS8TQIsDow==;JrFUk9aGEj+0i0XV6FIKog=="
 ---

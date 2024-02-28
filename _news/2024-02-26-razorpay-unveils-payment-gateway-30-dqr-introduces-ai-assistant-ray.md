@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Razorpay surpasses $150 billion in TPV, unveils new payment gateway & AI chatbot"
-    excerpt: "Powered by its proprietary AI engine called 'AI Nucleus', the checkout option will ... “Today's event marks yet another turning point in the Indian fintech industry as we transform age-old complexities in the money movement ecosystem of small and large ..."
-    publishedDateTime: 2024-02-23T08:14:00Z
-    webUrl: "https://www.zeebiz.com/startups/news-razorpay-surpasses-150-billion-in-tpv-unveils-new-payment-gateway-ai-chatbot-277756"
-    ampWebUrl: "https://www.zeebiz.com/startups/news-razorpay-surpasses-150-billion-in-tpv-unveils-new-payment-gateway-ai-chatbot-277756/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/startups/news-razorpay-surpasses-150-billion-in-tpv-unveils-new-payment-gateway-ai-chatbot-277756/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 54
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/2024/02/23/281806-razorpay.jpg?im=FitAndFill=(1200,900)"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Gateway 3.0 to AI 'RAY': Razorpay launches a suite of fintech products"
     excerpt: "The Bengaluru-based fintech firm marked its foray into the marketing and growth solutions space as it launched Engage; a full-stack marketing growth suite"
     publishedDateTime: 2024-02-23T14:17:00Z

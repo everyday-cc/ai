@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/conversational-ai-use-cases-for-enterpris
 webUrl: "https://www.ibm.com/blog/conversational-ai-use-cases-for-enterprises/"
 type: article
 quality: 99
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -64,6 +64,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "‘Reputation House’ soars to top 3 finalists for first International Artificial Intelligence Awards"
+    excerpt: "The AI World Series Artificial Intelligence Awards are organised by ARCET Global, a hybrid consultancy, helping organisations improve in areas that matter most to harnessing new technologies and gaining sustainable success. The highly competitive award ..."
+    publishedDateTime: 2024-02-28T08:31:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards"
+    ampWebUrl: "https://www.khaleejtimes.com/kt-network/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/reputation-house-soars-to-top-3-finalists-for-first-international-artificial-intelligence-awards?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 43
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=34bb9c5d-0722-5851-97db-00d696f4c6d8&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.15356.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Harnessing artificial intelligence for infectious disease prevention"
     excerpt: "A new research review to be given at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024) will look at the many ways artificial intelligence can help prevent infectious disease outbreaks including ensuring staff wear personal protective equipment correctly and managing day-to-day hospital activities such as medication prescription and cleaning."
     publishedDateTime: 2024-02-28T02:49:00Z
@@ -77,6 +93,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "The Program-Level AI Conversations We Should Be Having"
+    excerpt: "Affirm their existing program-level learning outcomes and determine if a generative AI-specific outcome is needed. For example, a department might decide to revise their ethics-related program-level learning outcome to reflect a commitment to the ethical ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.insidehighered.com/opinion/views/2024/02/28/next-step-higher-eds-approach-ai-opinion"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2024-02/Untitled%20design%20-%202024-02-27T121453.219_c.png?itok=UDLdFHig"
+        width: 600
+        height: 399
         isCached: true
   - title: "AI enterprise search startup raises mega round at massive valuation"
     excerpt: "The startup's announcement now places it as the second largest ... \"We are at the beginning of one of the biggest transformations in technology; generative AI is an incredibly powerful technology that will unleash productivity and new efficiencies, but ..."

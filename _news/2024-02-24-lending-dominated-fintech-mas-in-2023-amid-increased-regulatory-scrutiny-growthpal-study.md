@@ -41,6 +41,20 @@ related:
         width: 272
         height: 249
         isCached: true
+  - title: "GCC Artificial Intelligence Market Share Analysis| Size, Trends, Industry Report 2024-2032"
+    excerpt: "The latest report by IMARC Group, titled“ GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2024-2032“ , offers a comprehensive analysis of the industry, which comprises insights on the GCC artificial ..."
+    publishedDateTime: 2024-02-28T03:00:00Z
+    webUrl: "https://menafn.com/1107909833/GCC-Artificial-Intelligence-Market-Share-Analysis-Size-Trends-Industry-Report-2024-2032"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?267935"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Where will fintechs go? With India’s growth prospects, the fintech sector can grow if it follows regulations"
     excerpt: "Consider 2021—the world is emerging out of the Covid-19 shock, digital technologies are changing the way customers interact with institutions, and data and AI are changing how ... Skip to two years down, and fintech funding has seen significant reduction."
     publishedDateTime: 2024-02-27T23:19:00Z

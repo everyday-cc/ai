@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business-standard.com/amp/companies/start-ups/gateway-3-
 cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/start-ups/gateway-3-0-to-ai-ray-razorpay-launches-a-suite-of-fintech-products-124022300996_1.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Razorpay surpasses $150 billion in TPV, unveils new payment gateway & AI chatbot"
-    excerpt: "Powered by its proprietary AI engine called 'AI Nucleus', the checkout option will ... “Today's event marks yet another turning point in the Indian fintech industry as we transform age-old complexities in the money movement ecosystem of small and large ..."
-    publishedDateTime: 2024-02-23T08:14:00Z
-    webUrl: "https://www.zeebiz.com/startups/news-razorpay-surpasses-150-billion-in-tpv-unveils-new-payment-gateway-ai-chatbot-277756"
-    ampWebUrl: "https://www.zeebiz.com/startups/news-razorpay-surpasses-150-billion-in-tpv-unveils-new-payment-gateway-ai-chatbot-277756/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/startups/news-razorpay-surpasses-150-billion-in-tpv-unveils-new-payment-gateway-ai-chatbot-277756/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 54
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/2024/02/23/281806-razorpay.jpg?im=FitAndFill=(1200,900)"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Razorpay unveils Payment Gateway 3.0 & DQR; introduces AI-Assistant ‘RAY’"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2024-02-26T09:33:00Z

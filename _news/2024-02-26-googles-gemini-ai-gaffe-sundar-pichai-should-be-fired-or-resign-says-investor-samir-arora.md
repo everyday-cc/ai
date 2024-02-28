@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Google CEO Pichai blasts 'unacceptable' Gemini image generation failure"
+    excerpt: "Teams are now working around the clock to rectify the issues, Pichai wrote in his note, reviewed by Bloomberg News"
+    publishedDateTime: 2024-02-28T07:14:00Z
+    webUrl: "https://www.business-standard.com/world-news/google-ceo-pichai-blasts-unacceptable-gemini-image-generation-failure-124022800394_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/world-news/google-ceo-pichai-blasts-unacceptable-gemini-image-generation-failure-124022800394_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/google-ceo-pichai-blasts-unacceptable-gemini-image-generation-failure-124022800394_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
   - title: "Google Gemini Failure Offers Lessons For SEO"
     excerpt: "Gemini Image Generator failure explain how Google's search ranking algorithms might also fail"
     publishedDateTime: 2024-02-24T12:17:00Z

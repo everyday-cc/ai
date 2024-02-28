@@ -172,6 +172,15 @@ related:
       name: Android Police
       domain: androidpolice.com
     quality: 17
+  - title: "Is Google’s Gemini biased? Here’s what to consider when discussing AI in politics"
+    excerpt: "He had also accused Gemini’s previous iteration, Google Bard, of being biased. This was in response to Bard calling the website OpIndia as well as the social media accounts of Prime Minister Narendra Modi “biased and unreliable.” The discussion ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.medianama.com/2024/02/223-mos-it-google-gemini-bias-ai-politics/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 14
 
 secured: "bmBG5gqEX4jEMBeWNU2Y1F2A2JcEv/3z+jM1PGSbrOmODHrg7mlPHxw6WlZJpX7zcpCr+ywoaCw8fNWjw882HWQRKAHuffSB5B1fTVijda41s2Y4ndFz+fvP/QWZkl/iYH5xJCCVEBwNbsVbWdM81F5RPU9XZGA4GJLVuKY9HYMqN8VcvEy457v2IGB25i0J0Pp8YkOB0XhrqhDON9HyByxQ8XUt3YagA/DN7Q+L4Qabot50F1dr/yYRyhuE5OWHaLwXxENakWv9g1jt5vmENWKA98pU2TflrqFMhRoZh9ZOjsh8vmfiuQX17ON59fH2qhJzxn4QYTN5SV5sJMzN47v67U/OWvXoWRkEYYaStdE=;83XwUD3NqJg3RZoSFMxlVQ=="
 ---

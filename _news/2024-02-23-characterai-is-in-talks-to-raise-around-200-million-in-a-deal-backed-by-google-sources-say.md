@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/character-ai-in-talks-to-raise-goo
 webUrl: "https://www.businessinsider.com/character-ai-in-talks-to-raise-google-2024-2"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "US enterprise AI search startup Glean raises $200 mln, plans hiring spree"
+    excerpt: "The Palo Alto, California-based startup said it has nearly quadrupled its annual recurring revenue in the past year, serving customers such as Sony Electronics and Databricks. \"Every CIO is trying to figure out the enterprise use cases of generative AI."
+    publishedDateTime: 2024-02-28T04:31:00Z
+    webUrl: "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/53TKOLW2FVMNPG6EUUGMPCHD54.jpg"
+        width: 6026
+        height: 4017
+        isCached: true
   - title: "US enterprise AI search startup Glean raises $200 million, plans hiring spree"
     excerpt: "Arvind Jain, cofounder and CEO of Glean, who also co-founded data management startup Rubrik, said he plans to use the funding to double the team to 700 people this year."
     publishedDateTime: 2024-02-27T14:42:00Z
