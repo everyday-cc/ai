@@ -7,8 +7,8 @@ originalUrl: "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-ex
 webUrl: "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: TweakTown
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AMD confirms ultra-fast HBM3e memory is coming to Instinct MI300 refresh AI GPU"
+    excerpt: "AMD confirms it's working on beefed-up Instinct MI300 AI GPU with ultra-fast HBM3e memory, regular Instinct MI300X AI GPU features HBM3 non-e memory."
+    publishedDateTime: 2024-02-28T04:08:00Z
+    webUrl: "https://www.tweaktown.com/news/96498/amd-confirms-ultra-fast-hbm3e-memory-is-coming-to-instinct-mi300-refresh-ai-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 50
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96498_3005_amd-confirms-ultra-fast-hbm3e-memory-is-coming-to-instinct-mi300-refresh-ai-gpu_full.png"
+        width: 1494
+        height: 1080
+        isCached: true
   - title: "AMD’s Future in AI: MI400 AI GPU Anticipated for 2025, Refresh of MI300 in the Works"
     excerpt: "AMD is expected to introduce a version of its MI300 AI accelerator, which will include HBM3E memory, sometime this year. They also have plans to launch the"
     publishedDateTime: 2024-02-25T14:34:00Z

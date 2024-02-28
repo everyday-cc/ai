@@ -121,15 +121,6 @@ related:
         width: 324
         height: 250
         isCached: true
-  - title: "Investment in fintech anticipated to have a soft start in 2024"
-    excerpt: "Given the ongoing regulatory changes and ambitious net zero commitments displayed by governments and businesses, it is likely that ESG-focused fintech solutions will chart an upward trend heading into 2024. Moreover, investor interest in AI continued to ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/investment-in-fintech-anticipated-to-have-a-soft-start-in-2024-jyawstbu"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 4
 
 secured: "pt5xxSu10KAr6XC1fl55+qZYJQDNIgVfjFTnCXA4HjNxmfKwXRANuTcUUsdAMyBHHjicBCcWAscTmQucwB5gsRm5IddC+9PY7TMH5Qo/6kZASon1MKvzYTkrLav4tF+Nk1JBvinOqvVPs1/9fZuohsN8jUvjbC/85LDTo1nwLiLQCfGQne8P2bISdB6+j/Y5o1al55nvuMNtGyezLnM1TDGpEKqgPaiInWC7pab0j8j0Xl5K2OL0K12KY2R9yo0ZOtNyAdGxj3Ts7lrYYAW9FUhbbJ6zNBz+4dze5ILeeHU53FTZ0pWo56zNYcGhJjav7IWc4rRPeyZPcHhZmCpEG4wOlczZGcJXRHLfCRlkG/ZAKUERbKiEe1SzBL8IlQE5Md3M5h1FnE1LPiejXhgbMYq5YuySIwM+8H4D0pfZz2TBId4nwj/BvmfB+e5oX8GK4436LbrA+y0BULz43ew0llyRmrLysLztgCuKDzB4EAUKvCayIxB4H1l93PJ8uAHFcPj7t3ogMKBituu6hqpAyQ==;DrOiEQR9NEens+bihbqALQ=="
 ---

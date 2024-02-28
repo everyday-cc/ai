@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/davidprosser/2024/02/27/enkrypt-ai-ra
 webUrl: "https://www.forbes.com/sites/davidprosser/2024/02/27/enkrypt-ai-raises-235-million-to-take-on-the-chatbots-going-rogue/"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1600
     height: 750
     isCached: true
+
+related:
+  - title: "Enkrypt AI raises $2.35M to build a visibility and security layer for Gen AI"
+    excerpt: "Enkrypt AI stands apart by merging threat detection, privacy, and compliance into a comprehensive toolkit ensuring business adoption of LLMs"
+    publishedDateTime: 2024-02-28T03:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/enkrypt-ai-raises-2-35m-to-build-a-visibility-and-security-layer-for-gen-ai-1033109926"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1709032727885-0.png"
+        width: 800
+        height: 569
+        isCached: true
 
 secured: "7im+XLtDsNS8uHLPPWt+uPg/SKKPzPui0kRvXSMSOkswt0XW0uqvmFHWbIti2fY3ir9A62zTN12JWbrdtt2KW1mjq2cBDD/Nax4s57zy5pd8UBM5trTNsCvc0hLNF+Hmxjfjk547E8BA0vJs6M+FrgsLDITIH81cCK0Ur4QuHMh5ZLxzPFwGM6ACHzO6pawaWKgBf3emnErCTNjOovpi7xemUHdWNqqkObMm+e/1bSCzoX9IOnYbFpXZb5qX2yn1fssEhiiMSy4T5wGJ8ao4aLsKMBiUo6O7QQBbixEJ63uAhJgBuO+aM5We2m467v8UVhz8nVX7br4BdTy6O366cXRRYJGbD9avUl+QBPwyy7Y=;0B+Kp0OuaGkxqjZ1uX3i9w=="
 ---

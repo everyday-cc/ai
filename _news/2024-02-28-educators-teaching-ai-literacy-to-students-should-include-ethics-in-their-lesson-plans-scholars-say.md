@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-literacy-ethics-teaching-students
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp"
 type: article
 quality: 91
-heat: 95
+heat: 91
 published: true
 
 provider:

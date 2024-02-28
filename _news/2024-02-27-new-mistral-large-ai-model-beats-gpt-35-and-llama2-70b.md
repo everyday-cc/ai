@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Oppo to infuse phones with its own AI assistant"
-    excerpt: "AI provides innovative mobile capabilities, including better quality images and multi-language translation, and assists users to better craft written content. Oppo says it will provide AI capabilities as well as a development platform to support the new ec ..."
-    publishedDateTime: 2024-02-23T04:21:00Z
-    webUrl: "https://www.itweb.co.za/article/oppo-to-infuse-phones-with-its-own-ai-assistant/VgZey7JlNODqdjX9"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/03/Find-N2-Flip-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Mistral AI startup launches LLM to take on ChatGPT, Gemini and Claude"
     excerpt: "France-based startup Mistral AI has added a new proprietary large language model (LLM) to an increasingly crowded AI market — claiming its new Mistral Large can give several major competitors a run for their money. In a Feb. 26 post, the Paris-based firm ..."
     publishedDateTime: 2024-02-27T00:00:00Z

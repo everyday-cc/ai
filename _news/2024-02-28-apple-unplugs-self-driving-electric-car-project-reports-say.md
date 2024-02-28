@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Apple unplugs self-driving electric car project, reports say"
-excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which is involves around two thousand people."
+excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people."
 publishedDateTime: 2024-02-28T01:04:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS"
+webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS"
 ampWebUrl: "https://www.bbc.co.uk/news/business-68420817.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68420817.amp"
 type: article
@@ -83,6 +83,6 @@ related:
       domain: nextbigfuture.com
     quality: 4
 
-secured: "+IkfYPPhCi9qzGe2ZAlYkHoK2tqB0REhUkiCTSg9P17WZD65nWMujJ55KJrmA6oq32qbwtOciX760aoEvyD2fydKjv/PCmPtkZCML28OBZbbSoDM0bwofB00NmAvSiXQt5d3JroqnOmv7iFq+J4S+Ge8JEOqYhi8flIZ9M01e0VkMwAwqrXSY4SsdoVXghtNNq5SHgJ5l/zNjevtsDQ8VQ2FPUCktqZIKHFTNnMQzULPG0IxST/miJjnd2S9P8700rkbSLor6Y4fS3jJRID196Pweg15GGqden5qXvmeiAxemmrjqJqCtHznqBmI0yqNiHRd9fShB1uTPShrXWsq1g8uX+Yx7AGta5Op1bc2JQI=;TMPEHfZIhuPwrDzcENnRzQ=="
+secured: "OFNrkph6gGZ6V6vUYQFbV64HiJh/MDQSVYPGCeYzI8b6XDJDnHO0toxuUbvZHqlwzdunFguClNaT8owb4Uz7Qf6JTy10+qBxF/Dc5zuyG0U+AEoyyAEdRde0inb5S1j+1OZ5B+w7XIBzX4ZwdOLxG3U6qkPDXjn7sQcI9iI9dOKVDiw3gfhLSliuyVd8hP7NKyT8CRH6Euux2KI2nGnW2WzcbljVNEBsWZLtKjcEL/g8fuW+6WsT/i8VOp83TWk2YTh79LSlu2VLGT6o1XamNcWh0WDlzcit5X6DInMwkpC2HqT+mziaKcWTrrcSnBM7UpPeyl0WIqzoUSMUKX5A6228+Ssth6UgQVp0jkiI65k=;8pn8YTJFMKAVgDAf9ycp4g=="
 ---
 

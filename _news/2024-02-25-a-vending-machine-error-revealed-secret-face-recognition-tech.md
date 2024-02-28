@@ -143,6 +143,6 @@ related:
       domain: blogto.com
     quality: 14
 
-secured: "Q400m92HZ3pcPN/19RvA/QEGFo5PrWVRKtU9APdShllQRzsf4LWmF/RCagwNP60wu1am8OjPk/WpY8TW7cG/L1W8qKSfWoU3K+835KxLEt+Azy+z8egV9/9mxCbmCPKig0ra687Vak+cxlI5l+IMn203hO4W9n9Kf6mmVTjNo5Qbq6LhH1IS9DIuIgic9hu1Ou+wZUKvFntaAeoyNc8Snr8znC5YBEeWVV4SAHkZbQWt1Gaq53Sf/9X/jTaPardeneeLzAmpPb4mWhxzW+ubwhStjehM5hcjKSgwhlkElNYybY6qpR9C/jK7zkkpsB7EQqK4llOQbWUWxD4Zes6LZcPTVgoP/sPfGYyuDsCNLow=;rfKQDVxUe/+43v7fcGxxlw=="
+secured: "PjKZ8kKWtY+lxipFjXWwB3QypUrWHj/BAxGm09AlsYRyRa4maAl1zlMNkZbhZ5jnJXRecZ0i+nWSs1XQZtnHCMFjTYXrWvvS7fgSsJMRHOyqZhxLULBVNw9kflrmQUHLouwR17IYfuAikFkdh/6Lz2zpPHYw4WI0yDmVWvSUg8vGRXpQGGF3ZV7cv/ha8kVHSzT+GUleSuOV5FJeOBlR7F7tuBWkmUrqZDOuemUoYGGyFhVfeQapb9HmYWkECiEyhqZUXvdm3lQAtvZIy2uz0sGeVG/i+Ae8s5SHYi7iwReBQBmCMppWdGXPyWbRSVjLIi0bej+TMseVyzJWH+iEII025L2/bW0s6y9Bqb7whUo=;Us5ZimH8PjzeK99/YlTWiA=="
 ---
 

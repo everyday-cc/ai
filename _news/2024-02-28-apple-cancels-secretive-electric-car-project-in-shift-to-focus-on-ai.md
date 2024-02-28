@@ -40,9 +40,9 @@ related:
         height: 549
         isCached: true
   - title: "Apple unplugs self-driving electric car project, reports say"
-    excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which is involves around two thousand people."
+    excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people."
     publishedDateTime: 2024-02-28T01:04:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS&at_campaign=KARANGA"
+    webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS"
     ampWebUrl: "https://www.bbc.co.uk/news/business-68420817.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68420817.amp"
     type: article

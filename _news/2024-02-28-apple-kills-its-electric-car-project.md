@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-
 webUrl: "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html"
 type: article
 quality: 54
-heat: 107
+heat: 108
 published: true
 
 provider:
@@ -30,9 +30,9 @@ images:
 
 related:
   - title: "Apple unplugs self-driving electric car project, reports say"
-    excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which is involves around two thousand people."
+    excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people."
     publishedDateTime: 2024-02-28T01:04:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS&at_campaign=KARANGA"
+    webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS"
     ampWebUrl: "https://www.bbc.co.uk/news/business-68420817.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68420817.amp"
     type: article
@@ -87,6 +87,6 @@ related:
       domain: nextbigfuture.com
     quality: 4
 
-secured: "o2wBPsv6E2w71MeyW+lnutUf26fQ2AurOtU0q15ASv8DoN8+63CvTkG7liy6sVkwl9pvMG3H1x4dBTueAmA48bO+x094BaLoGixvj1AbAaROulwVbfw0f6O8VWrtRsOg1d2AtBUjMi9yO9AYSWRqiDKWfZnqTOTVzaeJ7W2/Warc1Ygy+GkWAH28+WyMPJnaQI55F0hGdvKuIPsrMWNMxl/Q7aypWY4Q9t/Y8mkglLFjMaYEGevJrWrs8K/Tbg/djOMhnqVDDZSqg8VRV0lAYXP2/7K2In54wsLsjVXg36thTQLyklO7MX1X82UUAr4g26nKmbZCYurTrRYafvh0SKXta2mTYKryfaKO1iBABuxnwulKQW+dthu+LrXANZh8Sg1ssqw7hHgx37ZN/wsqog3D2avYqjH+YWqUc/xYSufVM14kjfjZTM0PNwdoBaLqOim/8EfJmXy9JS+57rQf52OzcfzIYJH3wUkpU2yL6vtsy4KshUoehddB9aYL08+tM6t+vhQ/OPIZlvnP+LfJeQ==;MB0tBxBqACbXqwbmR7/8qw=="
+secured: "PtJi+Tj2Bp1rTxCKgqzvhh6vAHUZHdJOVBal7tkdv4euumNgiE3vSC6DY8n6jQkAgnv0h3JpOsxeHVGPI1ETaS0tcvESV62zEqKfhkDkujg+41yuIzC8uXcO0lhx7GUmt2HKNG/o3x8piBqvFvf7NzShrHVLpp4A0iiETWIWbK7erFdcPwIHt7D9TC0rmCULvy1+YUDiNPnBxv+FaIIbT7ykAp9ZYT4JNiFdtSBjUyigsRK6DZp0VPwrJLwvHLBkr2lslbdmz/61gvMRh9Cp13ZKYCR6L7QaK1q/gdwplE18UOF8It8Xggngjxou7iTXx+Nxr/59Tnaw0HQTIaqGc71VuEeArzu41s704dMRLsWKy8QYlMjkhh5d3rX/LApPjPtOeVE8RQZ8MgvHW320hLdUx/ys1XTcuhYGWbLMrIgBh0oCflNan6t4eFVVx6al5rIgekDGhqnORzJEays9qXxcCc0tUWbq4Bhuefe7TJ+ftMGxgfPAnzM0xYJ5RsjVP3zvpyyLEnuSSSiyOTQuTQ==;MZKgUYjl2fwBN2dLwmsm7Q=="
 ---
 
