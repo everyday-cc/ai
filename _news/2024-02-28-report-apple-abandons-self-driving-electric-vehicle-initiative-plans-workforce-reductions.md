@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Cancels its Plan to Build Self-Driving Cars, Reports Say"
-    excerpt: "Apple has reportedly canceled all its plans to build and launch self-driving electric vehicles (EVs) exactly after a decade it was rumored to be working on the project. However, the company never publicly acknowledged the project that involved around 2k people."
-    publishedDateTime: 2024-02-28T06:15:00Z
-    webUrl: "https://www.opprairie.com/news/apple-cancels-its-plan-to-build-self-driving-cars-reports-say/108814/"
-    type: article
-    provider:
-      name: The Orland Park Prairie
-      domain: opprairie.com
-    quality: 24
-    images:
-      - url: "https://www.opprairie.com/wp-content/uploads/2024/02/Apple-Car.png"
-        width: 748
-        height: 366
-        isCached: true
   - title: "Apple cancels self-driving EV project, to lay off workers: Report"
     excerpt: "The tech giant also scaled back its vision for the self-driving electric vehicle. Initially, the iPhone maker intended to create an automobile with no steering wheel or pedals, allowing passengers to sit facing one another in a limousine-style vehicle."
     publishedDateTime: 2024-02-28T00:00:00Z
@@ -65,6 +51,20 @@ related:
       - url: "https://data1.ibtimes.co.in/en/full/598822/apple-logo-seen-inside-apple-store-palo-alto.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Apple car is dead: tech giant’s plans ‘Project Titan’ self-driving EV hit the buffers"
+    excerpt: "The 2,000-strong team that was working on the car codenamed Project Titan, which was widely rumoured to be a self-driving electric model, will reportedly be repurposed to work on AI, following some layoffs. It’s not known how many of the Apple car staff ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.autoexpress.co.uk/news/362435/apple-car-dead-tech-giants-plans-project-titan-self-driving-ev-hit-buffers"
+    type: article
+    provider:
+      name: AutoExpress
+      domain: autoexpress.co.uk
+    quality: 15
+    images:
+      - url: "https://media.autoexpress.co.uk/image/private/s--CZGnmfuq--/f_auto,t_primary-image-mobile@1/v1706194981/drivingelectric/2024-01/Apple%20Car_w2kvu7.jpg"
+        width: 375
+        height: 210
         isCached: true
 
 secured: "ZD9sBlkzBu6XuTfMA3qr4jT2qQZUoqrO0f8+dx3uWQRmFF32/3xVSKT4e09m5fp2WG7+kMbsX7CAhZxtSeFs6nYjJkbS8MveadQnK6rzL2IUOQssq1j8czpQTO1o01cDG+lnMc1QEX2Dwl+ImlTAJwImyO3GtDlR35W0OMs4B2x8k66RGO3q29TZB6COjzFm6mCIkmzLWvR19NtJ0evxjvWJjFMIr8lvCLYQjYnZteeqrDLs/7eRXNLaVOJa1Z4O6UURJ8Wo78Msbjj8PjfjQDFFb1o2kUXSkV5FQB7fuMrLWclq37bIm/e0+P+JXnwT+W4a69hHnAob9wfeiLtam3vKWrT3EE7/llpMBnvNGWle6Zwzq9eLNvBADvBE6rL8s1pBbqNc7HeEcAfxEHyGQOIWlxg4YD9CNf7if4/3n9BnyIjv03i08PUywMwQilsR87X38hDh7QTxZWxjAb5rqrwZqn6+/PvSlxu+jfCHhvYsgWdLD5q+wt+LNsf8ijsmsc5P5d501ijZwpcayzw3Cg==;6N8XDl8sJA7xyXrFXBzG1Q=="

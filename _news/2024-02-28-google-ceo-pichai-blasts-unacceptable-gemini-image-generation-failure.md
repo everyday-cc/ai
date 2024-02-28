@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "'We got it wrong': Google CEO Sundar Pichai says 'Gemini AI responses show bias'"
+    excerpt: "Google CEO Sundar Pichai has addressed the ongoing issues with the company's Gemini AI chatbot (previously called Bard), calling some of the responses by the AI chatbot as ‘problematic’ and showing bias. Notably, Google had recently paused the text-to ..."
+    publishedDateTime: 2024-02-28T10:08:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias-11709118937108.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias/amp-11709118937108.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias/amp-11709118937108.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/02/28/1600x900/GERMANY-MSC-104_1709122364632_1709122410471.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google's Gemini AI Gaffe: Sundar Pichai should be fired or resign, says investor Samir Arora"
     excerpt: "Replying to a user on social media site X, Samir Arora said Alphabet CEO Sundar Pichai should ‘be fired or resign’ after being in the lead on AI and ‘let other take over'."
     publishedDateTime: 2024-02-26T07:14:00Z
@@ -51,15 +67,20 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Google Gemini Failure Offers Lessons For SEO"
-    excerpt: "Gemini Image Generator failure explain how Google's search ranking algorithms might also fail"
-    publishedDateTime: 2024-02-24T12:17:00Z
-    webUrl: "https://www.searchenginejournal.com/google-gemini-fail-and-seo/509190/"
+  - title: "Google CEO Calls Some Gemini AI Output 'Completely Unacceptable'"
+    excerpt: "Since the launch of Microsoft-backed OpenAI's ChatGPT in November 2022, Alphabet-owned Google has been racing to create a rival AI software. It released the generative AI chatbot Bard a year ago. Earlier this month Google renamed it Gemini and rolled out ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.inc.com/reuters/google-ceo-calls-some-gemini-ai-output-completely-unacceptable.html"
     type: article
     provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 19
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1080986288_tqjyet.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "qp5Nt8gwWafSaTGSQIEoF56lpmrfEDmlB6cyfrTXsa08LAGHghaRpADSjr1Gt6QtJl7Btj1Jky4iQvnXYtOU+3yWoM+VZGHvEs8SPhrmjUhLkq1sUHWHPkX7a1pQwJeJAVUOXI7QMH3Eq/PTjFbTu1Wx5CGvWWDFv3WDeWP6t1c9mG3kxcp1ZqakrHuP1XhmR5FxuTImpLRaVLWqe5LFpwwnELqE7lOre1FJfvv6NNUGVCoXI6x5huKPqYITRcNfbn5jHEW84WrkcEAFyIOe2p5qgTNFJwzSz0jHTAp3V0pOOx94h2QjulYrCaEFvf/OBQTDqcFhjrSH7AOR1J/WdDujM7iMKbwyWXBwqqLxp8du9WLedAqSu8iVxYCwdYlTP9capjQ+lmiP2fDqRGSjKY9Ry1PkqE+ZKikJ6CDbSiPmaA7CpSQ5Hkrpk8lytPvxk+fR0aTW/1jrs36k7/p/qY4QoxyZWT6CP9hgj7axGqujCBWNyAD6cMCV5fkxAAY+zONWjU32QDVFnCksIkC2ww==;6qWYwM9iCYtTzRXO/6Mq/A=="
 ---

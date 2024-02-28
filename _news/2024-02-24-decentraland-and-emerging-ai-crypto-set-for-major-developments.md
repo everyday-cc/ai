@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "AI deep-learning model developed to streamline operations in a robotic warehouse"
+    excerpt: "Researchers from Massachusetts Institute of Technology (MIT) have developed a deep-learning technique that can identify the optimal areas for reducing robotic traffic in a warehouse production system. According to the research team, large robotic ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/ai-deep-learning-model-developed-to-streamline-operations-in-a-robotic-warehouse"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 49
+    images:
+      - url: "https://www.theengineer.co.uk/media/yexjghw0/robotic-warehouse.jpeg"
+        width: 5120
+        height: 2880
+        isCached: true
 
 secured: "lKGJhZB3K0BWsGIuihKAsEonEs4Aag06oYRXRxjk/UDJNrm522gazFvpkrpZho0mtdpHDzFSe5JtnYdB8bQq6/RwMyLBc627hoO/ijXugk36UK451rDYuCMj6HjLwaQQP/9tgdM4W0EbpY87Hsh8sXAjRV9+KqApK9pQXQqIJxBhfXxZBu1KUpy6tSJpfOQkRtucSCTiDugTq5iSaVgzjA13onXo6mqAxXd99Un9avchss5Hxb4SxyFOQVPYoF9k+1azhwC+WVqADrRqz7E86nHlWcz4v4nxlt0hKHYcaYjazkBlMgR30048PIUC+Zlpojck2I7H9BPsq9lUebqo1KIaAadJJEII0129TxgkzVIUADvEJ0mBCNsh+iyU17ofuAeS/T4kmY1yAtCN149NURjNAsot2+GIKiiNCw2J6PbE/YyDBVO1j0XfC6bdxhKkBF0uDk5gMJYwr7tc4+C8D8nV+5UYG8n2oWWq0owbRpAyAbh2wfhAIrnh9zVt9mXWbZetsLWlukRNqOtiGxh+7g==;pJt14BCMvxgsYIxeBGcnAg=="
 ---

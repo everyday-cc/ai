@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1
 webUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 63
+  - title: "NVIDIA samples two new AI GPUs for China, both comply with US export restrictions"
+    excerpt: "NVIDIA is offering customers samples of two new artificial intelligence chips for the Chinese market, where NVIDIA CEO Jensen Huang wants to defend its market dominance in China against the tides of US export restrictions on AI GPUs in the country."
+    publishedDateTime: 2024-02-25T12:19:00Z
+    webUrl: "https://www.tweaktown.com/news/96429/nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 49
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96429_804_nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "Micron announces HBM3e memory enters volume production, ready for NVIDIA's new H200 AI GPU"
     excerpt: "Micron has just announced it has started volume production of its bleeding-edge HBM3e memory, with the company's HBM3e known good stack dies (KGSDs) shipping as part of NVIDIA's upcoming H200 AI GPU. NVIDIA's new beefed-up H200 AI GPU will feature up to ..."
     publishedDateTime: 2024-02-26T10:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/googles-gemini-a
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/googles-gemini-ai-gaffe-sundar-pichai-should-be-fired-or-resign-says-investor-samir-arora/amp-11708930900238.html"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "'We got it wrong': Google CEO Sundar Pichai says 'Gemini AI responses show bias'"
+    excerpt: "Google CEO Sundar Pichai has addressed the ongoing issues with the company's Gemini AI chatbot (previously called Bard), calling some of the responses by the AI chatbot as ‘problematic’ and showing bias. Notably, Google had recently paused the text-to ..."
+    publishedDateTime: 2024-02-28T10:08:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias-11709118937108.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias/amp-11709118937108.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias/amp-11709118937108.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/02/28/1600x900/GERMANY-MSC-104_1709122364632_1709122410471.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google CEO blasts ‘unacceptable’ Gemini image generation failure"
     excerpt: "Alphabet Inc.’s Sundar Pichai emailed staff on Tuesday to address the problematic responses from Google’s Gemini AI engine, describing them as \"completely unacceptable.”"
     publishedDateTime: 2024-02-28T09:01:00Z
@@ -41,6 +57,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Google CEO Calls Some Gemini AI Output 'Completely Unacceptable'"
+    excerpt: "Since the launch of Microsoft-backed OpenAI's ChatGPT in November 2022, Alphabet-owned Google has been racing to create a rival AI software. It released the generative AI chatbot Bard a year ago. Earlier this month Google renamed it Gemini and rolled out ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.inc.com/reuters/google-ceo-calls-some-gemini-ai-output-completely-unacceptable.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1080986288_tqjyet.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google CEO Pichai blasts 'unacceptable' Gemini image generation failure"
     excerpt: "Teams are now working around the clock to rectify the issues, Pichai wrote in his note, reviewed by Bloomberg News"
     publishedDateTime: 2024-02-28T07:14:00Z
@@ -52,15 +82,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
-  - title: "Google Gemini Failure Offers Lessons For SEO"
-    excerpt: "Gemini Image Generator failure explain how Google's search ranking algorithms might also fail"
-    publishedDateTime: 2024-02-24T12:17:00Z
-    webUrl: "https://www.searchenginejournal.com/google-gemini-fail-and-seo/509190/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 19
 
 secured: "KYoFdnPWJgTRZmJQWDoo2ToL5ENmSp9PDDt3zGkVaSkNh0ppEksc3Gct+iHLXhxEZv+kA1tL1q7pGBZmAira5IJJrHkz4uW4BORCgynXfQPoWCjYG/0Kyj254c0k/KWfdsKzOSEvN1DLcaEx41JaiWqHYaNlBwvQRHu/EpilQ9z9dlMhR1LO45Aj4YBy8TrEjkX++t7ddnRk2VBCFXAQCUaO4lYy+9kFuvrKRlOu/H8+8aB8+Tzz4F+/DInmdH3AEju+5yivFV3USy04IhHzINNdcyLUuF4ltKpFmuW7j0W8d0LShVCJTrVxDIUOdrECzKEMLBPplrBNCR/3MQ0vuZ9d7CTNr59xmMCgf9bVgzg/cv/OziKMzlEcwjiPR7YMC2o0MeE61JOr1tUgBwkmbitehzBh/mi+nIgJV5xCYe3JrtUW/BoPEfgEftLvCuNQkBQ0OY5hZv4s7jqR7wi0Y5esV9/+cj1oO4tDrcV/Kq1DLArVle+wI1IWfQRY+SxQeW4VnXwJQrYKPLH8/hr9vQ==;AubvJbJ9YXPi7JKQAS+kAA=="
 ---

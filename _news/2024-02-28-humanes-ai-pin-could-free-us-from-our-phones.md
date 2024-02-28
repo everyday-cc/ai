@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Humane AI Pin — could this wearable replace your phone?"
+    excerpt: "and something that made me see it like a Star Trek communicator is its ability to live translate between 50 languages. You could go into a local cafe and order a meal without having to learn the language. On the surface the Humane AI Pin might seem like ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.tomsguide.com/ai/humane-ai-pin-could-this-wearable-replace-your-phone"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Xq4DLQede4eLeyT5uT3KTM-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "x3If8P4WAQUVKvOrCqt/FYgZ9Pk6v9aq92B8jOYXK1eMJEHwnm14DXpetX8OINRMXXy5sf9WK+ucjY5HHjPuv/VjBggd8I/l5ZVwJd/vZg6FlhrX9nz4JkHYzOop8KK6jpRqOQCfHq85VajqKcSj9BRgBvdDIqfn90m9wBpUxlWF2FdYcNIvWzPR3bqWmYbp8q6m4Sk5uov0YWsyVOT8ElEgahKnG0nm/ivt/8KRo1PMwMdct4cL8ZAY54kdWJrOO/4kNsXhq89ScT+3o39x3r9Kx5FYljvx0x9TSEr/BzpSs2zf6dSI+G03dM7x9An2H9DUbOgn7Gvqc3MvZaxAVVYQypSMVtoMKInULEcI2Y9t1yIyvjr1WHOrBbWeJBAdJMdT9FcN3ad63TjvqzbFeThxyvF1w77ANqv8mO8FU++T9X+9nE0/7aH7PAIU+bZaXe8obAS4BRFxnd070pRRAf2Coyjdlv8fE/5L9Q6gGEfy9cqTc5+WklVl5BERy203kLzC1eQd+9q7urr1lSqAsw==;Q+8LTX7s6Ngf7O1lYdYh1w=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pr
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Globe and Mail
@@ -34,6 +34,20 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 34
+  - title: "You Don't Have to Buy Nvidia to Benefit From Its Explosive Artificial Intelligence (AI) Growth. You Can Buy These 2 Stocks Instead."
+    excerpt: "The artificial intelligence (AI) chip leader scored big as more and more ... Let's take a closer look at each. Amazon's AWS is the world's leading cloud services provider, and it also generally drives overall profitability at the company."
+    publishedDateTime: 2024-02-25T16:53:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/24332121/you-dont-have-to-buy-nvidia-to-benefit-from-its-explosive-artificial-intelligence-ai-growth-you-can-buy-these-2-stocks-instead/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 24
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/2ec00bbf61b510c5198c8ff57771a7eb/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f766577%252fgettyimages-1325466022.jpg%26amp%3Bw%3D700"
+        width: 2121
+        height: 1414
+        isCached: true
 
 secured: "Pnqs9aTCaPGbAE5RAS1hO4RZX5nxgQaoXxnpzxn0wLed4zul7g+aB97y571wTl0Fi/yXyXidJaReuYzkxhSFk5LvewV3aro00QB+46ys7gdYVIsihv7Zj2qpWY7VcjWpbQBW8TuUX3nKRzOoFOuSOVhA3dgxE0tNCJ3f56LJaUu08TR5ghSmglgXCVhGw9NebtDGeC0BGSNFAZEZXe5Oj0W3SUbbexebd4hAv9v+mxv0lEQ8fWLCMauvSmdH7rkEKaycwr27B+pYwXPlgcsABrY0OpMHRBkQLgVZVE6OrFyVRFcWlOwymKpPhV6fDvuVRiuxWRbYLB7p003GgcMsyPiDGm+8MFQNUCu4oJI7BwI=;OIm1n2E1fnejlUGLCwDXMg=="
 ---

@@ -53,6 +53,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "AMD Mulls Upgrading Its MI300 AI Accelerators to HBM3e Memory"
+    excerpt: "AMD officially launched its MI300 family of accelerators in November 2023, and in a nod to the breakneck pace of the AI industry, is already talking ... company's fastest Arm-based CPU with its H100 GPU. It's also upgrading the H100 to HBM3e and renaming ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.extremetech.com/computing/amd-mulls-upgrading-its-mi300-ai-accelerators-to-hbm3e-memory"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "KnzlyAwpxoWSSeH4b3u9Jav24qviFZPa1ROybphj4YY4XDaEawBBi6Vu5tJNLRyIhvfoljJf0vviblX9kVPJThUZSpIMZT2eoR1SIP8hvmIwesDM6wEOAHoyIvar+GN0iXSpwdHy4zRtYlwq4MylLMjoNmQWrMlZQhxYRTfpPaf9GvEf2sQBj2N4+3ZxJyrdo1A9dOy3cktiIpr/QLMqSGVlKpUHh444lR+XGCUVRIq5ocVycFiIztq4ROwkL0PvEyWyAeGdf36rmwMzp8TijKTRmX5XqgLjidfOcgN00PACptN63AC6IbN3vzgy0f/4hAz8t9CQq1aR9phw1SzW042lZ8yn0xqLCNGK4AUQYyc=;jR3yilWnz501gdg2yZ++Vg=="
 ---

@@ -2,6 +2,359 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2024-01-12-awss-hidden-threat-ambersquid-cloud-native-cryptojacking-operation.md",
+      "title": "AWS’s Hidden Threat: AMBERSQUID Cloud-Native Cryptojacking Operation",
+      "excerpt": "AMBERSQUID tactically exploits less-known AWS services (Amplify, Fargate, SageMaker), costing victims $10,000+/day.",
+      "sourceUrl": null,
+      "webUrl": "https://cloudsecurityalliance.org/articles/aws-s-hidden-threat-ambersquid-cloud-native-cryptojacking-operation/",
+      "originalUrl": "https://cloudsecurityalliance.org/articles/aws-s-hidden-threat-ambersquid-cloud-native-cryptojacking-operation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2d1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35003ea1a59ccbb4e062cb2818e3b3d7dc4a1540/Rise-of-Cloud-Computing-Adoption-and-Cybercrimes.jpg/",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T18:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Security Alliance",
+        "domain": "cloudsecurityalliance.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-kodiak-robotics-unveils-driverless-semitruck-slated-to-hit-texas-highways-in-2024.md",
+      "title": "Kodiak Robotics unveils driverless semitruck slated to hit Texas highways in 2024",
+      "excerpt": "Kodiak Robotics Inc. unveiled what it calls the world’s first driverless-ready semi-truck designed for scaled deployment at the Consumer Electronics Show in January 2024. The truck will run various driverless operations between Dallas and Houston starting in 2024, according to the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
+      "originalUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T18:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-intersystems-introduces-two-new-cloud-native-smart-data-services-to-accelerate-database-and-machine-learning-application-development.md",
+      "title": "InterSystems Introduces Two New Cloud-Native Smart Data Services to Accelerate Database and Machine Learning Application Development",
+      "excerpt": "InterSystems, a creative data technology provider dedicated to helping customers solve their most critical scalability, interoperability, and speed pr",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240111610851/en/InterSystems-Introduces-Two-New-Cloud-Native-Smart-Data-Services-to-Accelerate-Database-and-Machine-Learning-Application-Development",
+      "originalUrl": "https://www.businesswire.com/news/home/20240111610851/en/InterSystems-Introduces-Two-New-Cloud-Native-Smart-Data-Services-to-Accelerate-Database-and-Machine-Learning-Application-Development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T17:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-tensorflow-cloud-is-a-library-to-connect-your-local-environment-to-google-cloud.md",
+      "title": "TensorFlow Cloud is a library to connect your local environment to Google Cloud.",
+      "excerpt": "import tensorflow_cloud as tfc TF_GPU_IMAGE = \"tensorflow/tensorflow:latest-gpu\" run_parameters = { distribution_strategy='auto', requirements_txt='requirements.txt ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/cloud",
+      "originalUrl": "https://www.tensorflow.org/cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T17:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-intersystems-introduces-two-new-cloud-native-smart-data-services.md",
+      "title": "InterSystems introduces two new cloud-native smart data services",
+      "excerpt": "InterSystems, a creative data technology provider dedicated to helping customers solve their most critical scalability, interoperability, and speed problems, today announced general availability of the InterSystems IRIS® Cloud SQL and InterSystems IRIS® Cloud IntegratedML® services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.silverliningsinfo.com/newswire/intersystems-introduces-two-new-cloud-native-smart-data-services",
+      "originalUrl": "https://www.silverliningsinfo.com/newswire/intersystems-introduces-two-new-cloud-native-smart-data-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/quartz/qcloud4/media/image/MicrosoftTeams-image%20%2831%29_1.png?VersionId=Cbn_y6LTOv_tbk_8AsA2ykcCaWtlTUTR",
+          "width": 1410,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T16:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "silverliningsinfo",
+        "domain": "silverliningsinfo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-the-top-3-stocks-shaping-the-future-of-autonomous-driving.md",
+      "title": "The Top 3 Stocks Shaping the Future of Autonomous Driving",
+      "excerpt": "This marked an important step towards a fully driverless service, reinforcing the company ... and continuing investments in artificial intelligence and other growth projects. This makes it one of those autonomous driving stocks to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-top-3-stocks-shaping-the-future-of-autonomous-driving",
+      "originalUrl": "https://www.nasdaq.com/articles/the-top-3-stocks-shaping-the-future-of-autonomous-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T16:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-sas-intelligent-planning-suite-now-available-on-aws.md",
+      "title": "SAS Intelligent Planning Suite now available on AWS",
+      "excerpt": "SAS, a global leader in AI and analytics, has launched SAS Intelligent Planning Suite powered by Amazon Web Services (AWS). The",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/sas-intelligent-planning-suite-now-available-on-aws/",
+      "originalUrl": "https://www.datanami.com/this-just-in/sas-intelligent-planning-suite-now-available-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T16:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-william-sitwell-reviews-llama-inn-london-the-best-thing-to-come-out-of-peru-since-paddington.md",
+      "title": "William Sitwell reviews Llama Inn, London: ‘The best thing to come out of Peru since Paddington’",
+      "excerpt": "My pal Adam got the wrong animal. If he was playing a game of word association and he’d yelled out “alpaca”, then someone else might have replied, “llama”, and the game would have been won.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/food-and-drink/restaurants/william-sitwell-reviews-llama-inn-london/",
+      "originalUrl": "https://www.telegraph.co.uk/food-and-drink/restaurants/william-sitwell-reviews-llama-inn-london/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/food-and-drink/2024/01/08/TELEMMGLPICT000361981409_17047242113440_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom.md",
+      "title": "Educators raise concerns over the ethics of AI in the classroom",
+      "excerpt": "In terms of the firms of artificial intelligence, then AI-powered educational games are the most common AI-based tool in education,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
+      "originalUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2023/03/858a2aeed551f87b6dce829de26ddd2aa6a18da3.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T15:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-abb-acquires-ai-based-navigation-startup.md",
       "title": "ABB Acquires AI-Based Navigation Startup",
       "excerpt": "ABB announced that it has acquired Swiss start-up Sevensense, a provider of AI-enabled 3D vision navigation technology for autonomous mobile robots (AMRs). Sevensense was founded in 2018 as a spin-off from Swiss technical University, ETH Zurich.",
@@ -671,368 +1024,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-robot-revolution-uncovering-the-real-value-of-security-robots.md",
-      "title": "Robot revolution: Uncovering the real value of security robots",
-      "excerpt": "Robots have been in the spotlight lately, as tycoons like Elon Musk discuss the perils of automation and artificial intelligence (AI), and roving robots meet their watery demise. These recent events have unmasked a particularly interesting topic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T01:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-botricia-presents-dhruvitkumar-talatis-ai-a-new-god-we-trust-exploring-technology-and-spirituality.md",
-      "title": "Botricia Presents Dhruvitkumar Talati's 'AI - A New GOD We Trust': Exploring Technology and Spirituality.",
-      "excerpt": "Notably, he has architected end-to-end AI solutions on AWS, integrating services like Amazon SageMaker, Lambda, EC2, and S3 to meet diverse business requirements. Woven with a tapestry of philosophy, science, and human psychology, the book prompts readers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/274091393/botricia-presents-dhruvitkumar-talatiaposs-aposai---a-new-god-we-trustapos-exploring-technology-and-spirituality",
-      "originalUrl": "https://www.bignewsnetwork.com/news/274091393/botricia-presents-dhruvitkumar-talatiaposs-aposai---a-new-god-we-trustapos-exploring-technology-and-spirituality",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.kisspr.com/system/media_files/images/000/049/985/original_jpeg/image_%281%29.jpg",
-          "width": 875,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T01:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-americans-are-skeptical-about-ai-in-health-care-cincinnati-hospitals-are-already-using-it.md",
-      "title": "Americans are skeptical about AI in health care. Cincinnati hospitals are already using it",
-      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
-      "originalUrl": "https://www.cincinnati.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm.md",
-      "title": "AI kitchen gadgets and robots take Las Vegas tech fair by storm",
-      "excerpt": "But as the 2024 Consumer Electronics Show (CES) in Las Vegas gets underway, optimism is running high amid hopes that artificial intelligence (AI ... powered appliances like air-fryers and grills to a robot barista, the food tech at CES 2024 is ...",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/nation-world/science/ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm/video_520a912d-dfde-5a3b-8fd4-35768ddd4ce2.html",
-      "originalUrl": "https://omaha.com/news/nation-world/science/ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm/video_520a912d-dfde-5a3b-8fd4-35768ddd4ce2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/20/520a912d-dfde-5a3b-8fd4-35768ddd4ce2/65a01f2c7be37.preview.png?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-artificial-intelligence-the-latest-architecture-and-news.md",
-      "title": "Artificial Intelligence: The Latest Architecture and News",
-      "excerpt": "It was the awe-inspiring works of Renaissance masters that propelled me onto a transformative trajectory, guiding me toward harnessing the immense potential of artificial intelligence and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "originalUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArchDaily",
-        "domain": "archdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-machine-learning-approaches-for-accelerated-materials-discovery.md",
-      "title": "Machine Learning Approaches for Accelerated Materials Discovery",
-      "excerpt": "Artificial Intelligence and its related tools, such as machine learning, deep learning, and neural networks, are revolutionizing every field of life. The domain of materials science and engineering is constantly evolving by employing these effective tools ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
-      "originalUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_23290_17049820057452938.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZOM",
-        "domain": "azom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-neural-implant-can-read-deep-neural-activity-from-the-brain-surface.md",
-      "title": "Neural implant can read deep neural activity from the brain surface",
-      "excerpt": "This correlation enabled the researchers to use surface electrical signals to train neural networks to predict calcium activity – not only for large populations of neurons, but also individual neurons – at various depths. “The neural network model is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
-      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nanowerk.com/nanotechnology-news3/id64387_1.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-top-10-best-machine-learning-software-in-2024.md",
-      "title": "Top 10 Best Machine Learning Software in 2024",
-      "excerpt": "It offers a wide range of tools and services to help users build and deploy machine learning models quickly and easily. Azure Machine Learning is a cloud-based machine learning software that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
-      "originalUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/Best-Machine-Learning-Software.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Georgia Straight",
-        "domain": "straight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-top-10-best-python-libraries-for-natural-language-processing-in-2024.md",
-      "title": "Top 10 Best Python Libraries for Natural Language Processing in 2024",
-      "excerpt": "Python is a widely used programming language in the field of data science, and natural language processing (NLP) is no exception. NLP involves analyzing and understanding human language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straight.com/guides/software/best-python-libraries-for-natural-language-processing/",
-      "originalUrl": "https://www.straight.com/guides/software/best-python-libraries-for-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/10-Best-Python-Libraries-for-Natural-Language-Processing.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Georgia Straight",
-        "domain": "straight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -39,20 +39,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "IQ tests: the danger of reading too much into them – and the crucial cognitive skills they don’t measure"
-    excerpt: "The majority of children who do not take or pass IQ-style entrance exams to private- or grammar schools, will have many qualities not measured on an IQ test. They may also just be late developers."
-    publishedDateTime: 2024-02-23T12:57:00Z
-    webUrl: "https://theconversation.com/iq-tests-the-danger-of-reading-too-much-into-them-and-the-crucial-cognitive-skills-they-dont-measure-223570"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 7
-    images:
-      - url: "https://images.theconversation.com/files/576998/original/file-20240221-30-c7urzw.jpg?ixlib=rb-1.1.0&rect=0%2C159%2C6256%2C3128&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "iN7pGFJn6mpZR13BidzL7XN18HzH334wWbyMQdGYjC1wWm5c2i6ZDV1G427uABWwo5tj1qOZCU0XFS/kOOHRg3LNofwLKORieSwzp07fKnLz8QLKpsgpLaKpiQ6sXobH1Wi8xulAaoZoCAXKDcq3qVGUqUBQzZTQRqyumCPpnd2+cfve3oIS9h8wnCSJ+YWZfhjyqpvl7HVOOfB4ebuNXCw1/c+gvyeyyftAiUY5j4tkZxJ67hVYypLcZJUObd3cNcISQe50jvadFEw24PKZFRg+osw+8kaEjql01vmGpVEQqNIiM2FJsolzgBkft8IPvCk9DXcEITgGGzEjcUr7HCo1hnTNCVG0usYWbO4y3Ag=;D3hrKwvaq2NGbMEKTrgy0g=="
 ---

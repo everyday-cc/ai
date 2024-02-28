@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-mode
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.2105_3135.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "AI deep-learning model developed to streamline operations in a robotic warehouse"
+    excerpt: "Researchers from Massachusetts Institute of Technology (MIT) have developed a deep-learning technique that can identify the optimal areas for reducing robotic traffic in a warehouse production system. According to the research team, large robotic ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/ai-deep-learning-model-developed-to-streamline-operations-in-a-robotic-warehouse"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 49
+    images:
+      - url: "https://www.theengineer.co.uk/media/yexjghw0/robotic-warehouse.jpeg"
+        width: 5120
+        height: 2880
         isCached: true
   - title: "Decentraland and Emerging AI Crypto Set for Major Developments"
     excerpt: "Decentraland (MANA) is working to improve its performance due to its difficulties and restrictions last year. Its development path has … Continue reading"

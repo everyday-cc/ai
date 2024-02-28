@@ -74,6 +74,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 24
+  - title: "As artificial intelligence aims to transform health care, soon your doctor may consult an AI algorithm before deciding on your treatment"
+    excerpt: "Sahani is a co-founder of UW’s Institute of Medical Data Science, which supports health care-related artificial intelligence initiatives. Founded last year in Seattle, the institute hopes to provide research, education and funding to get AI into ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.spokesman.com/stories/2024/feb/27/as-artifical-intelligence-aims-to-transform-health/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 23
+    images:
+      - url: "https://thumb.spokesman.com/iDlseXsKdK6KgwNP9qd1w-w7lTM=/1200x630/smart/media.spokesman.com/photos/2024/02/26/63d303450c829.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vh4gCgqzZwBOshG0o4MdLiHRWGo7/3nfiuMX7RTAc6LLC3gwmE241GtFf8XKOw285U097enn6Aa/OxAtMW/WRoBe0lmxWUzKOj5eRvFfqCwgmF7tjqbu6BoPb0IsoC3inHDfjzauueHh0yArdPLi6CbDUfO90rpRRLs5Q2oI9WgK4QmTV8HitoN9jr9r+W3e3h4aduGbNZEDYYK8zNW1MA12rM/cpqvD3Gv610YyXSKI0Tyjxnade4vARteqBm+yUDIsXiXrs0Cwh49n3rpGyC4WInw+WZS82Lh+stLYe5Ft8oZweG8hw9z1jUhMoWZeJ0/dysFmxr5lxammxGgFsk6g01EPTS2qBoJ5XSJushs=;OOW2ISESECuUs/pcRSzdiQ=="
 ---

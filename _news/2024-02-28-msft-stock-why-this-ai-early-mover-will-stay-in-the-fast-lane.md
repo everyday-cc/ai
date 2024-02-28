@@ -1,0 +1,43 @@
+---
+category: news
+title: "MSFT Stock: Why This AI Early-Mover Will Stay in the Fast Lane"
+excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Microsoft (NASDAQ:MSFT) clearly capitalized on the generative AI growth trend"
+publishedDateTime: 2024-02-28T11:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-why-this-ai-early-mover-will-stay-in-the-fast-lane-1033112036"
+webUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-why-this-ai-early-mover-will-stay-in-the-fast-lane-1033112036"
+type: article
+quality: 49
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Meta AI
+  - AI
+
+related:
+  - title: "Sell AMD Stock Before the AI Hype Crashes and Burns"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying that Advanced Micro Devices (NASDAQ:AMD) is a massive"
+    publishedDateTime: 2024-02-27T11:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sell-amd-stock-before-the-ai-hype-crashes-and-burns-1033106719"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2024/02/amd-projected-revenue-vs-gpu-industry-1024x643.jpg"
+        width: 1024
+        height: 643
+        isCached: true
+
+secured: "Tcz3W8I+heYJ7kUjt3Sa9Qs4oraS2ETJHQlWu3ww7FSGjpNkb7cvDwjnI3+mc+9RN4rhacg/SOL5m6a/45hsXh5ZGkag+wnb9duetyXNiPh7G8waLg8Ad1PZgJKTybjLZSUM/AEEhiqR7UPc09qLpw4n967ch4i15wyf4ZBAL6dSp/7M54rrIcMXh52u/U4RHwOOFXYTIxcAnZQz/SmftFysjhYuQSziLaA33UMjj30jhUCKJimS+NpRSYjopOHmJKWh1TeVG3a+oVkRtzPyQewfxGw8rK4pN2yvQt38m1YKSC9J1S2PfWybxhhlxIiPUYP6gV/5SoWSZeDHUIpP/eT3kqmM6GrOFqqMBpcyDVU=;VmxGboJB7oPnIfoM1ikpAQ=="
+---
+

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "DeepMind uses AI to tackle neglected deadly diseases"
+    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ..."
+    publishedDateTime: 2024-02-28T12:53:00Z
+    webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-_VO1RavpYLA9NyC8VPMRLxLSCmRcwZxtQD8bLNxkYV6PHFEWLFX4hxgbXflccaEtQ-UpZC"
+    ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google DeepMind taps the power of its AI to accelerate quantum computers"
     excerpt: "Together with Quantinuum, DeepMind has developed a new AI model that can boost the development of quantum computers."
     publishedDateTime: 2024-02-26T12:24:00Z

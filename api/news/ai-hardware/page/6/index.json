@@ -2,6 +2,111 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-26-here-are-3-stocks-other-than-nvidia-getting-an-ai-premium-from-wall-street.md",
+      "title": "Here are 3 stocks — other than Nvidia — getting an AI premium from Wall Street",
+      "excerpt": "While Nvidia was the big winner for investors this year in the generative AI boom, other tech stocks have also gotten a boost",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
+      "originalUrl": "https://www.cnbc.com/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102265308-1572620689645arista.jpg?v=1685029641",
+          "width": 1968,
+          "height": 1312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
+      "publishedDateTime": "2023-12-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-25-cathie-woods-3-best-artificial-intelligence-ai-stocks-this-year-are-they-good-picks-for-2024.md",
+      "title": "Cathie Wood's 3 Best Artificial Intelligence (AI) Stocks This Year: Are They Good Picks for 2024?",
+      "excerpt": "Palantir Technologies ( PLTR -1.02%) ranks as Wood's No. 3 best AI stock of 2023. Shares of the software maker appear to be headed to end the year up close to 170%. As was the case with Meta, this performance is the best that Palantir has delivered in its history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/759006/woman-in-it-data-center.jpg",
+          "width": 2122,
+          "height": 1412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-25T10:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-12-25-the-wonder-filled-year-of-generative-ai.md",
       "title": "The wonder-filled year of generative AI",
       "excerpt": "A real challenge for the AI world is finding a way to unlock all of the grand opportunities without running up a yuge electricity bill. There is some hope that new chips, better algorithms, and more judicious use of layering in the networks will save a few supertankers filled with oil. Will that be enough?",
@@ -1359,101 +1464,6 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark.md",
-      "title": "Apple Silicon M3 Pro blows away Nvidia RTX 4090 GPU in AI benchmark",
-      "excerpt": "In contrast, a MacBook with 16 M1 GPU cores shows a much smaller increase in power usage when active compared to its idle state, with a difference of just 38 watts. The results highlight Apple's gains in AI and machine learning capabilities and could be ...",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
-      "originalUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg",
-          "width": 1312,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
-      "publishedDateTime": "2023-12-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-qualcomm-makes-its-push-for-pc-relevance-leading-with-ai.md",
-      "title": "Qualcomm Makes Its Push For PC Relevance, Leading With AI",
-      "excerpt": "Qualcomm gave us an end of year update on the new Snapdragon X Elite, the company’s bold effort to create an Arm-based ecosystem for PCs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/12/12/qualcomm-makes-its-push-for-pc-relevance-leading-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/12/qualcomm-makes-its-push-for-pc-relevance-leading-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6578e529cd48060572632fee/The-Snapdragon-X-Elite-outperforms-the-Intel-laptop-CPU-and-can-match-it-at-70--less/960x0.jpg?height=265&width=711&fit=bounds",
-          "width": 709,
-          "height": 265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/12/qualcomm-makes-its-push-for-pc-relevance-leading-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/12/qualcomm-makes-its-push-for-pc-relevance-leading-with-ai/amp/",
-      "publishedDateTime": "2023-12-12T23:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

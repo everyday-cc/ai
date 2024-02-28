@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-ex
 webUrl: "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "AMD Mulls Upgrading Its MI300 AI Accelerators to HBM3e Memory"
+    excerpt: "AMD officially launched its MI300 family of accelerators in November 2023, and in a nod to the breakneck pace of the AI industry, is already talking ... company's fastest Arm-based CPU with its H100 GPU. It's also upgrading the H100 to HBM3e and renaming ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.extremetech.com/computing/amd-mulls-upgrading-its-mi300-ai-accelerators-to-hbm3e-memory"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "rL4k4GarpY9B2KLY8ugh2Az2mM47Ma9HYS2BHH1pWIFn8oMiAopBHrbzzgJi0SSZ/dzNycP8pJyXm4xoWJRusHGB3CMf+crI+lpXAaT7iggL9b72WmhiSpRWjBqcVVZiUHuEf1YI4cyww2trodBfidZDa3XkYzummjboQs61nOIxODN+owZMOJYQFhJr6bo48nVAbIQ/+ARLVQNh8aGodXwXOvjFaMHgBSWGyr8/kLK2pVtygGD3Bhuy3aqKRJMBvBzog8cXV4Pzi4dui+3AgmRTk2uyxkxJ9A/+ZjTWHtE+5+KD6EOPm35Ft7GPMDsvsk83KYxWnEsS01hf4nh5jZS0i80RokJdcl8ow+wyhgrdBou7qdoTvf8wRjMaFGyLSCx0oNFPOeHujdnA47XHhjMZX8tiS53FpRkDry5lI6JkvaVgeFi+3Bxe0U1OkKdeWDm3khtcSIhi48NQ7pAQ2HmCGZ1p93PGgFd8MUH27nXoXBrjj/WBbwUBq7unVuocgD2g0vo2JXDIYVVjIkB0Ng==;BXKFDicURlhvi3w55HaN6A=="
 ---

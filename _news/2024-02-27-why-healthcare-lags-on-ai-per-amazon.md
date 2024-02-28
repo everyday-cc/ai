@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-la
 webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-lags-on-ai-per-amazon.html"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 24
+  - title: "As artificial intelligence aims to transform health care, soon your doctor may consult an AI algorithm before deciding on your treatment"
+    excerpt: "Sahani is a co-founder of UW’s Institute of Medical Data Science, which supports health care-related artificial intelligence initiatives. Founded last year in Seattle, the institute hopes to provide research, education and funding to get AI into ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.spokesman.com/stories/2024/feb/27/as-artifical-intelligence-aims-to-transform-health/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 23
+    images:
+      - url: "https://thumb.spokesman.com/iDlseXsKdK6KgwNP9qd1w-w7lTM=/1200x630/smart/media.spokesman.com/photos/2024/02/26/63d303450c829.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zY+vF83tdVsbk21EaksIVAUt5qsyZBM5FX+ZGCxGjs41U/TQdAUsogZYarNmXMZTv/BO6Z8ZYBB60pffETsA+ozOnKa4vxTYDDoT0NdRzqRd98Uwg0WeVig8rsHHixFmlCgqbWScIGNBap77Oqy0TMSQRKkQnmFVoQrE8Y4W6qmFwRkzKNvK5LSX91gWiPDCrBKBQVzZBWhvFAWHJ5yEmUPzTAsDLL2htWUBQAaDj5jK84lOT0VkUNOlXH+gVJ+YpSurNub0KFPyHdG08rLAsn3AygiJ+B2+R3dSeK8PdHYM3yYS2foJmqMLBCLXj+qObF1aOiZzUtgFp+119y2dfMFo9aeHYDQBQWn3j3S73TE=;SZ596LbXOyiu2+c3S8w8hA=="
 ---

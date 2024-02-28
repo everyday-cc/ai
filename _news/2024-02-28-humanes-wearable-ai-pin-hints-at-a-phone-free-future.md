@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-
 webUrl: "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/"
 type: article
 quality: 69
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/034NG208yUxngUH0Pg5tfBb-1.fit_lim.size_1200x630.v1709055584.jpg"
         width: 1119
         height: 630
+        isCached: true
+  - title: "Humane AI Pin — could this wearable replace your phone?"
+    excerpt: "and something that made me see it like a Star Trek communicator is its ability to live translate between 50 languages. You could go into a local cafe and order a meal without having to learn the language. On the surface the Humane AI Pin might seem like ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.tomsguide.com/ai/humane-ai-pin-could-this-wearable-replace-your-phone"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Xq4DLQede4eLeyT5uT3KTM-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "V4ICT4f/bnEkkiQ6bnidSJuBueqKiyYIX3kv52ODaoD9iHJivDzVKxbOPZvMVpHU++lXHIxYha/tq01t2k84Bla/Zcgdj+WLHk1uvmb6gI7kgpI7LYi40s7LHCQ7gO3a+/ARtR/Th8Zr4ZrFAcd7IpYbrauqUSGq21+6A/xXvJzXl5fKrKhB9unBI3L2k14wLnEBDWFpieOIq0dnQVn3peinztf5Vg1oTfahWfwv+vPpDv1WwHRPxqxSukRWqik70aM/mcLf5GVcQaXXl0e+XDLihRRbbDd2qsPmwxLmZRakzy7b5vC2Hd+A611DILuv5V9RP1UV3ARB4coW3zet/+yz6JEK7+SMRFrvBXn2suk=;1CEBQ4ptJN7VTlbfd9uySQ=="

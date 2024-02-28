@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-08-assosia-and-simpson-associates-team-up-to-unlock-product-matching-potential-with-machine-learning.md",
+      "title": "Assosia And Simpson Associates Team Up To Unlock Product Matching Potential With Machine Learning",
+      "excerpt": "The Assosia-Simpson Associates POC explores the potential of ML to revolutionise product matching. By creating, training, and fine-tuning multiple models based on specific datasets, this project aims to unlock hidden connections and deliver tangible benefits, such as:",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
+      "originalUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T12:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning.md",
       "title": "D-Wave and Zapata AI Announce Strategic Technical and Commercial Collaboration to Advance Quantum-Enabled Machine Learning",
       "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS) (“D-Wave”), a leader in quantum computing systems, software, and services and the world’s first commercial supplier of quantum computers, and Zapata Computing, Inc. (operating as Zapata AI ),",
@@ -1228,49 +1263,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services.md",
-      "title": "Jio Brain is a new platform that uses AI and machine learning to create new 5G services",
-      "excerpt": "Jio Brain is a new AI powered platform that uses machine learning and offers services like image, text and video generation. Here's what we know so far about the newly announced service.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2024/01/Jio-Brain.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/lite/",
-      "publishedDateTime": "2024-01-31T05:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

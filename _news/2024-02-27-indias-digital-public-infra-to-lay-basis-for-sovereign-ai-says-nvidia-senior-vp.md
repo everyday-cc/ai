@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Lists Huawei as an AI Chip-Making Rival for the First Time"
-    excerpt: "based Nvidia used to be a major supplier of chips for Chinese companies, but the situation changed after Huawei was added to a U.S. trade sanction list in 2019. Nvidia's finance chief said on a call with analysts this week that sales of AI chips to China ..."
-    publishedDateTime: 2024-02-23T11:58:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 104
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI chip firm Nvidia valued at $2tn"
     excerpt: "The company is benefiting from advances in artificial intelligence (AI), which have powered demand for its chips. Turnover at the firm more than doubled last year to more than $60bn, and boss ..."
     publishedDateTime: 2024-02-23T18:12:00Z
@@ -91,6 +75,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Microsoft showcases next-generation AI and computing at Nvidia GTC"
+    excerpt: "Nvidia GTC takes place March 18 – 21 in San Jose, CA and virtually. In person and on-demand sessions, live discussions and hands-on demos will offer a look at the core Azure AI services and technologies that power some of the world’s largest and most ..."
+    publishedDateTime: 2024-02-26T07:30:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-showcase-next-generation-ai-and-computing-at-nvidia-gtc/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_735569484.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "This 1 Number May Ensure Nvidia's Artificial Intelligence (AI) Chip Dominance"
     excerpt: "Today, Nvidia controls more than 80% of the AI chip market, so the company has a clear advantage. But at the same time, rivals are doing what they can to chip away at Nvidia's lead."
     publishedDateTime: 2024-02-25T10:35:00Z
@@ -100,19 +98,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 78
-  - title: "Nvidia boss Jensen Huang says children shouldn't learn to code as AI can do all the work"
-    excerpt: "Read our ethics statement. A hot potato ... The Nvidia boss believes that AI has made the need to learn programming redundant, and humans should instead focus on more important skills such as biology, education, manufacturing, or farming."
-    publishedDateTime: 2024-02-26T05:18:00Z
-    webUrl: "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html"
+  - title: "Microsoft turns to NVIDIA’s competitor Intel to strike AI chip deal"
+    excerpt: "Intel scores a big client in Microsoft Corp for Intel Foundry, its sustainable systems foundry business tailored for making AI chips."
+    publishedDateTime: 2024-02-23T14:19:00Z
+    webUrl: "https://interestingengineering.com/innovation/microsoft-intel-ai-chip"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 60
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 71
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2022/12/2022-12-29-image-2.jpg"
-        width: 2000
-        height: 1042
+      - url: "https://cms.interestingengineering.com/wp-content/uploads/2024/02/lalala_b81534.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
     excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
@@ -145,6 +143,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/6eb6701b827383e927741aa77b9fb8d3308ff274/0_491_7488_4495/master/7488.jpg?width=620&quality=85&auto=format&fit=max&s=39f3cc2637afa6532a061368f40528be"
         width: 620
         height: 372
+        isCached: true
+  - title: "Bezos, Nvidia, and OpenAI back humanoid robot startup Figure AI"
+    excerpt: "Figure AI is in the process of securing approximately $675 million in a funding round, reflecting a pre-money valuation of around $2 billion."
+    publishedDateTime: 2024-02-24T01:18:00Z
+    webUrl: "https://www.republicworld.com/tech/artificial-intelligence/bezos-nvidia-and-openai-back-humanoid-robot-startup-figure-ai/"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 54
+    images:
+      - url: "https://img.republicworld.com/rimages/NEW-DSCF1820Desktop10923A3-170875733297316_9.webp"
+        width: 1779
+        height: 1001
         isCached: true
   - title: "How the AI frenzy put a rocket under chip maker Nvidia"
     excerpt: "Nvidia, the maker of graphics processing units (GPU) revealed last week that it earned $30 billion in annual profit — sales doubled to $61 billion. Nvidia’s stock surged 16.4 per cent to $785.38, valuing the company at $1.9 trillion. The only companies ..."
@@ -253,34 +265,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA samples two new AI GPUs for China, both comply with US export restrictions"
-    excerpt: "NVIDIA is offering customers samples of two new artificial intelligence chips for the Chinese market, where NVIDIA CEO Jensen Huang wants to defend its market dominance in China against the tides of US export restrictions on AI GPUs in the country."
-    publishedDateTime: 2024-02-25T12:19:00Z
-    webUrl: "https://www.tweaktown.com/news/96429/nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 49
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96429_804_nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
-  - title: "Bezos, Nvidia Join $675 Million Funding Round for a Startup Making Humanoid AI-Powered Robots"
-    excerpt: "With a billionaire backing the project, it sounds more like a Hollywood pitch deck than real life. But it is real."
-    publishedDateTime: 2024-02-26T18:52:00Z
-    webUrl: "https://www.inc.com/kit-eaton/jeff-bezos-nvidia-help-inject-675-million-into-a-startup-building-human-like-ai-powered-robots.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 43
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/jeff-bezos-inc-magazine_537826_bzkhkd.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Nvidia and AI fuel market frenzy"
     excerpt: "Nvidia, which two years ago made most of its money from selling graphics cards for computer games, has now become the world’s third largest company by market value."
     publishedDateTime: 2024-02-24T05:56:00Z
@@ -295,19 +279,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Huawei HONOR MagicBook Pro 16 AI laptop"
-    excerpt: "Complementing the processors is the NVIDIA GeForce RTX 40 series Laptop GPU, which ensures smooth graphics and efficient multitasking capabilities. But the AI in this laptop does more than just enhance its power; it also improves how users interact with ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.geeky-gadgets.com/huawei-honor-magicbook-pro-16-ai-laptop/"
+  - title: "Nvidia Is Now a $2 Trillion-Dollar Company Thanks to AI Dominance"
+    excerpt: "Nvidia joins Microsoft and Apple as the three US-based companies to reach the $2 trillion market cap. Despite companies like Microsoft looking to make its own AI chips and rely less on Nvidia, a recent report from Reuters claims that Nvidia is working on a new $30 billion business unit that will focus on creating custom AI chips for companies."
+    publishedDateTime: 2024-02-23T19:20:00Z
+    webUrl: "https://www.ign.com/articles/nvidia-is-now-a-2-trillion-dollar-company-thanks-to-ai-dominance"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: IGN
+      domain: ign.com
     quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-laptop.jpg"
+      - url: "https://assets-prd.ignimgs.com/2024/02/23/nvidia-blogroll-logos-1708718418344.jpg?width=1280"
         width: 1280
-        height: 810
+        height: 720
         isCached: true
   - title: "AI Revolution Sparks Nvidia's Historic Market Cap Achievement"
     excerpt: "NVIDIA's annual profits increased by 769% due to the growing enthusiasm surrounding AI, leading to a surge in its market cap. The demand for advanced chips, driven by the AI boom, could outpace supply if investment doesn't keep up. Bitcoin ETFs have ..."
@@ -357,6 +341,20 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
+  - title: "AI helped NVIDIA break Wall Street record, and now the tech giant is the fourth most valuable company in the world"
+    excerpt: "In our NVIDIA GeForce RTX 4070 Super Founders Edition review, the GPU earned a near-perfect 4.5/5. Of course, even NVIDIA's gaming segment is tied tightly with AI. Over 500 games and apps support AI-powered RTX features like DLSS and ray tracing as of late ..."
+    publishedDateTime: 2024-02-23T17:43:00Z
+    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/ai-helped-nvidia-break-wall-street-records-and-now-the-tech-giant-is-the-fourth-most-valuable-company-in-the-world"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 17
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/qNEGpKmTksNsH6mbYkVNed-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Nvidia becomes AI poster-child following earnings, trillion dollar valuation"
     excerpt: "\"Accelerated computing and generative AI have hit the tipping point. Demand is surging worldwide across companies, industries, and nations,\" Nvidia CEO Jensen Huang said in an earnings call."
     publishedDateTime: 2024-02-23T21:52:00Z
@@ -366,15 +364,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "Nvidia's surge ripples across stock market - lifting AI, tech and semiconductor ETFs"
-    excerpt: "The Global X Robotics & Artificial Intelligence ETF BOTZ, which has around $3 billion of assets under management, closed 4.4% higher, according to FactSet data. Megacap semiconductor company ..."
-    publishedDateTime: 2024-02-24T10:44:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20240224201/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 12
 
 secured: "YLgDI5D0F6ZzFkLj7F62cMSUaHRY3a1Zfxcryc47N5HTVGe3G8PtIi9MMewilcFtd94JVdWohOMVclpYfU66fNbAzXE2mZqN/7ag4vA5nqN6sqXpbEdMCcgzxNGfF7v/HUelKA4G1nttZkJU0rAVFMGdg/uPQFr/jHFqtytwWOWBq0/IKwUjETqasZnEXrJb6ZfKZ5OmHDYNRsulNGUl/aqYMSq/gzUe9QgoOedVHIqu3oI2K7t0+yrj0b+Pt6fw6KxFMqkq+8yA4v2ttfSbGKax8c5ESWsK/I86tkTX0AZep86ddw6kHObqLWoew3LHLnlRv+fh16qUzHbTh9oUPQfS2CKioS+Jn5/5JC7EMxo=;FnetWVy+Kg8K/InHqaPqYQ=="
 ---

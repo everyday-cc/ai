@@ -105,34 +105,6 @@ related:
         width: 650
         height: 272
         isCached: true
-  - title: "Microsoft's Photos app gains AI object removal on Windows 11/10"
-    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: This new AI-powered tool reflects a growing trend. From Google Photos to Adobe's Firefly, more apps are integrating smart algorithms to enhance and ..."
-    publishedDateTime: 2024-02-23T11:39:00Z
-    webUrl: "https://www.techspot.com/news/102006-microsoft-photos-app-gains-ai-object-removal-windows.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 86
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-23-image-11.jpg"
-        width: 1703
-        height: 1080
-        isCached: true
-  - title: "Microsoft showcases next-generation AI and computing at Nvidia GTC"
-    excerpt: "Nvidia GTC takes place March 18 – 21 in San Jose, CA and virtually. In person and on-demand sessions, live discussions and hands-on demos will offer a look at the core Azure AI services and technologies that power some of the world’s largest and most ..."
-    publishedDateTime: 2024-02-26T07:30:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-showcase-next-generation-ai-and-computing-at-nvidia-gtc/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_735569484.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Mistral releases new ‘top-tier’ AI model, partners with Microsoft"
     excerpt: "Paris-based Mistral is launching a new \"flagship\" AI model for on Microsoft's Azure, partnering up with the tech giant."
     publishedDateTime: 2024-02-26T15:37:00Z
@@ -208,20 +180,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft turns to NVIDIA’s competitor Intel to strike AI chip deal"
-    excerpt: "Intel scores a big client in Microsoft Corp for Intel Foundry, its sustainable systems foundry business tailored for making AI chips."
-    publishedDateTime: 2024-02-23T14:19:00Z
-    webUrl: "https://interestingengineering.com/innovation/microsoft-intel-ai-chip"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 71
-    images:
-      - url: "https://cms.interestingengineering.com/wp-content/uploads/2024/02/lalala_b81534.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Canada’s Seneca Polytechnic set to integrate Microsoft Azure AI"
     excerpt: "Seneca Polytechnic announced it will integrate Azure OpenAI to develop an AI tutor that supports enhanced learning of course material and simulated, personalized job interviews based on job postings. Seneca students will be among the first in Canada to ..."
@@ -397,6 +355,20 @@ related:
         width: 800
         height: 536
         isCached: true
+  - title: "EU balks at Microsoft’s deal with French AI startup"
+    excerpt: "Mistral’s AI pact with U.S. tech giant Microsoft comes after bitter lobbying over how Europe can push into the next tech wave."
+    publishedDateTime: 2024-02-28T11:37:00Z
+    webUrl: "https://www.politico.eu/article/policymakers-tech-react-to-splashy-microsft-mistral-ai-french-startup-deal/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 54
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/02/28/GettyImages-2035610988.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Partners with Startup Mistral AI to Advance Next-Gen LLMs"
     excerpt: "Microsoft has entered into a multi-year partnership with French AI startup Mistral AI to advance the development and deployment of next-gen LLMs. The collaboration marks a milestone on the road to bridging the gap between cutting-edge research and tangible,"
     publishedDateTime: 2024-02-27T21:37:00Z
@@ -424,6 +396,20 @@ related:
       - url: "https://d.ibtimes.co.uk/en/full/1722534/microsoft.jpg"
         width: 1280
         height: 914
+        isCached: true
+  - title: "Clifford Chance Rolls Out Microsoft-Partnered AI Strategy Across Whole Firm"
+    excerpt: "The latest expansion comes after Clifford Chance became one of the first law firms to develop its own private and secured AI tool—Clifford Chance Assist—developed on Microsoft’s Azure OpenAI platform that was rolled out across the firm in December ..."
+    publishedDateTime: 2024-02-28T12:15:00Z
+    webUrl: "https://www.law.com/americanlawyer/2024/02/28/clifford-chance-rolls-out-microsoft-partnered-ai-strategy-across-whole-firm-405-137130/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 52
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/405/2024/02/Microsoft-sign-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "MWC: Long-lost Metaswitch team at Microsoft, taps AI for call fraud protection"
     excerpt: "Microsoft announced a product that stems from its investment in Metaswitch. The UAE operator e& (formerly known as Etisalat) is now using Microsoft&nbsp | Jason Zander, EVP of strategic missions and tech at Microsoft,"

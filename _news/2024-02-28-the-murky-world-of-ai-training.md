@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "He Who Can Pay Top Dollar For HBM Memory Controls AI Training"
-    excerpt: "What is the most important factor that will drive the Nvidia datacenter GPU accelerator juggernaut in 2024? Is it the forthcoming “Blackwell” B100"
-    publishedDateTime: 2024-02-27T12:15:00Z
-    webUrl: "https://www.nextplatform.com/2024/02/26/he-who-can-pay-top-dollar-for-hbm-memory-controls-ai-training/"
-    ampWebUrl: "https://www.nextplatform.com/2024/02/26/he-who-can-pay-top-dollar-for-hbm-memory-controls-ai-training/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2024/02/26/he-who-can-pay-top-dollar-for-hbm-memory-controls-ai-training/amp/"
+  - title: "Rethinking AI In The Context Of Sustainability"
+    excerpt: "Large language models (LLMs), natural language processing (NLP), machine learning (ML), cognitive AI and a litany of other “hot” artificial intelligence technologies have flooded our discussions since early 2023. From media coverage to overzealous CEOs ..."
+    publishedDateTime: 2024-02-28T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/08/nvidia-2nd-gen-gh200-logo.jpg"
-        width: 943
-        height: 585
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65de0c271287e45e3434069a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1501
+        height: 900
+        isCached: true
+  - title: "Investing in the Next Wave of Explosive AI Growth"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This past week, the world’s leading AI chipmaker – Nvidia (NVDA)"
+    publishedDateTime: 2024-02-24T14:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242?ssp=1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://lh7-us.googleusercontent.com/yzJturJFFghqcyCNnIaAZy189Vj69lRLjtitfmAF0N-Xp39dl-O4uudjIW7n0Jhc-aiVtqt5DbyRvyRrSQzuQixXkooUvMk5Hk_qks8N-V69kdPAQFOdRIOpPU9cMhnz9MzgaKBWuSKmZj_uduuGNg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "cfJUBWYCr0lLXSpyp5e0lTvxfPZU9dqueMdMMYHRJyDokqv1NHHUJ+pQkkYW+V3cuKUAy471lsYlDJqkN0RV5YYM4ZKwq9CwYlUwfnEAbNE1v9rnSmTCF9p8P/AxXQ2K5O8Q9rRbuqu6Wo4dw0ahEG5QQHON8SF+DmMUKs9ZDFM070cLU1ZJp1tbegV5HCh0TYDHNtkbGIFQCbtU5OBNOf6mWU7dzYtfWsMRsZg0rUSh5jIH0RzqjbTjeYFPcqLZJ97A4H7TArM7J91Tz/CVNyyN5KyXgEKh0pxokuZwgUh5q7Fs61HyXKinwmqpFH83TJ+UyA323gEmBQjNupX7tzllhcR4J4267k7/+lJroKY=;jIGApVDgN1akvI4ExwgbOg=="

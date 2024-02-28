@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hammerspace Unveils the Fastest File System in the World for Training Enterprise AI Models at Scale"
+    excerpt: "SPONSORED GUEST ARTICLE] Hammerspace, the company orchestrating the Next Data Cycle, unveiled the high-performance NAS architecture needed to address the requirements of broad-based enterprise AI, machine learning and deep learning (AI/ML/DL) initiatives and the widespread rise of GPU computing both on-premises and in the cloud."
+    publishedDateTime: 2024-02-28T10:59:00Z
+    webUrl: "https://insidehpc.com/2024/02/hammerspace-unveils-the-fastest-file-system-in-the-world-for-training-enterprise-ai-models-at-scale/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 25
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/11/Data_center_shutterstock_1062915266_special.jpg"
+        width: 1100
+        height: 550
+        isCached: true
 
 secured: "NfPTqlYyqTcoG0r0/fboX6dpfEtRAWVi90lENBoEG4GlYNYr6vAV6XzuAHTFD2nw8m60pDLTcsd8OnmQzOAarGyuLvxmTT4Ho1uz6PWk2CrUClHpNRyi5gkntvSMJq4o4D875fp142ycvlPJejeyl85sYoEsPDAZAz0+Glp/HfdApA7e/jK3NHQKUIz4L9bkXtVPgSC+55Ez5Nvhw7Dv31O7u9r3x7ZyvpwWeICas7jO1Z6kRqRKlddKjbxp1avyGirHzX/4BrTJz5ilRJsN1qvWK0dC/rLQyok2WCTi1WQVUSVimpcnkFgosbnfzoUyQtsI4YLowX0Rxm/VZshl9Gj/G3TJ/6F1TmxgpEw0suc=;01neI9V+tUSs5c9mxxKj3g=="
 ---

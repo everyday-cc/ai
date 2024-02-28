@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-13-apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark.md",
+      "title": "Apple Silicon M3 Pro blows away Nvidia RTX 4090 GPU in AI benchmark",
+      "excerpt": "In contrast, a MacBook with 16 M1 GPU cores shows a much smaller increase in power usage when active compared to its idle state, with a difference of just 38 watts. The results highlight Apple's gains in AI and machine learning capabilities and could be ...",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
+      "originalUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg",
+          "width": 1312,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
+      "publishedDateTime": "2023-12-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-qualcomm-makes-its-push-for-pc-relevance-leading-with-ai.md",
+      "title": "Qualcomm Makes Its Push For PC Relevance, Leading With AI",
+      "excerpt": "Qualcomm gave us an end of year update on the new Snapdragon X Elite, the company’s bold effort to create an Arm-based ecosystem for PCs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/12/12/qualcomm-makes-its-push-for-pc-relevance-leading-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/12/qualcomm-makes-its-push-for-pc-relevance-leading-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6578e529cd48060572632fee/The-Snapdragon-X-Elite-outperforms-the-Intel-laptop-CPU-and-can-match-it-at-70--less/960x0.jpg?height=265&width=711&fit=bounds",
+          "width": 709,
+          "height": 265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/12/qualcomm-makes-its-push-for-pc-relevance-leading-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/12/qualcomm-makes-its-push-for-pc-relevance-leading-with-ai/amp/",
+      "publishedDateTime": "2023-12-12T23:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-top-10-biggest-aws-news-stories-of-2023-ai-layoffs-and-slowing-sales.md",
       "title": "Top 10 Biggest AWS News Stories Of 2023: AI, Layoffs And Slowing Sales",
       "excerpt": "AWS top news from 2023 included generative AI, Amazon layoffs, Anthropic investment, cloud computing sales, chips, AWS Marketplace and new AI products.",
@@ -1278,101 +1373,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-nvidia-warned-redesign-a-gpu-for-ai-for-china-us-government-will-stop-them-the-next-day.md",
-      "title": "NVIDIA warned: redesign a GPU for AI for China, US government will stop them the next day",
-      "excerpt": "US Commerce Secretary Gina Raimondo has warned that we 'cannot' let China get the most powerful AI chips in the world, throws shade at NVIDIA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/4/94723_01_nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day_full.png",
-          "width": 1500,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T00:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-nvidia-is-promising-to-help-japan-get-the-ai-chips-it-needs-for-a-network-of-new-datacenters.md",
-      "title": "Nvidia is promising to help Japan get the AI chips it needs for a network of new datacenters",
-      "excerpt": "Nvidia's CEO Jensen Huang speaking at COMPUTEX 2023 in Taipei. Huang said on Tuesday that Nvidia will partner with Japanese firms to build chip plants in Japan to meet AI demand. Walid Berrazeg—SOPA Images/LightRocket via Getty Images Nvidia CEO Jensen ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/asia/2023/12/05/nvidia-promises-japan-ai-chips-new-plant-ceo-jensen-huang/",
-      "originalUrl": "https://fortune.com/asia/2023/12/05/nvidia-promises-japan-ai-chips-new-plant-ceo-jensen-huang/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/12/GettyImages-1258356004-e1701746721367.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/asia/2023/12/05/nvidia-promises-japan-ai-chips-new-plant-ceo-jensen-huang/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/asia/2023/12/05/nvidia-promises-japan-ai-chips-new-plant-ceo-jensen-huang/amp/",
-      "publishedDateTime": "2023-12-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

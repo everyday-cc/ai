@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OpenAI trademarks GPT-6 and GPT-7 AI models"
+    excerpt: "The pursuit of Artificial General Intelligence (AGI) represents the frontier of AI research. AGI aims to create machines that can understand, learn, and apply knowledge in a manner akin to human intelligence. The development of open-source AI models ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-trademarks-gpt-6-and-gpt-7-ai-models/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-trademarks-GPT-6-GPT-7-artificial-intelligent-models.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Mistral AI startup launches LLM to take on ChatGPT, Gemini and Claude"
     excerpt: "France-based startup Mistral AI has added a new proprietary large language model (LLM) to an increasingly crowded AI market — claiming its new Mistral Large can give several major competitors a run for their money. In a Feb. 26 post, the Paris-based firm ..."
     publishedDateTime: 2024-02-27T00:00:00Z

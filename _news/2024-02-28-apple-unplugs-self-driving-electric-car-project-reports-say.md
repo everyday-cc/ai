@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Apple unplugs self-driving electric car project, reports say"
-excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which is involves around two thousand people."
-publishedDateTime: 2024-02-28T04:42:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS&at_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/business-68420817.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68420817.amp"
+excerpt: "Many employees from the project will be moved to the iPhone maker's artificial intelligence (AI) division, according to Bloomberg News. Apple did not immediately respond to a BBC request for a comment. The Apple car team was reportedly known as the Special ..."
+publishedDateTime: 2024-02-28T00:00:00Z
+originalUrl: "https://www.aol.com/news/apple-unplugs-self-driving-electric-010959244.html"
+webUrl: "https://www.aol.com/news/apple-unplugs-self-driving-electric-010959244.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7ED1/production/_132756423_gettyimages-2009083580.jpg"
-    width: 1024
-    height: 576
+  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b365fd882050850b2c18e7d53c14b2d2"
+    width: 976
+    height: 549
     isCached: true
 
 related:
@@ -113,6 +111,6 @@ related:
         height: 836
         isCached: true
 
-secured: "LmIWT762sK/AT/FzGydTnJp8QWDvFgyciaAPZtVT7J6UL16IeLiP5lQr6KGXKKrAAw6uTtvLhCyy3DU7dNQx4k9oXvUG1V72gIX8p7e5fL4evhMYS4uBuvZ+PJYMlyM4NoJSsaUuji4ZpGbIyNeM5jWi3wxjYI/Neu/f+Zf5n04fXbjPjKmY5mlPithdUtrijiO/UZx9HUhswFTLSw1ELuIVaukITNhwBSltq4PYffGHGg6ftID71yZWs07HucK/aCUMQGbFimtLfqjGVKRM3q1+ZfprukMfmY/dgPVZAo/26uxZbt+RenHC8Pj7/PsDJCF8izFSRx+Z8dWoVriTpeDXsc0MxvfnHd6qdkTZG2BlaFxonnwJINRqMad/v+Oa7cUx2y0C+AgeiD+N5U4+6nzz/CDGMmAOCqnfx++7nXaI7aqaHlM5j+jZgdHQUB9m4qBmnJxeVW3bNj6XXl9iVyAjchIZ+Bm2D1EzNT+TdrnlwWjMZdkchljFFOfXjMUPsmkJoQJxv4I9nSWm3qZPvw==;kmAtN91d53S8MPUsZY+tug=="
+secured: "3zDVcUiIYDZBtTzg6rf/F4I5Wmy1CM8IzZwrpBg3uotVXQQQ+bz67FuKI8n02VIIGY9eX8JsQ8lkCUPR1RVjyNnU3J8XpOxyWInEaPNKGCjfarej5F2Sdy/K7rTUH1WerSV2cUzLC6ANZa8l0lpZD/CFLiXLbGzpr26tzvm820CX/ODFTEQnpz0Dwx79UrlTAH43cpiU66WV1aSpH8rXE35w27mEjUVeOiV50Ir1HIKhashx0gLGAaqNUYC6+DtlJ+yGVdM+USPm14aohhL474pW9QFsqSPDMEKN6xnkg5br3FpJZ6wJBLPxj4kNbaMSOmlVq7EUjpZZ3LdhrB1yPdn5ypZJhTZjiSdjv09cCEY=;yVKJ6w1iIXY28y6wm9qZvw=="
 ---
 

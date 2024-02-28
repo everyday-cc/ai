@@ -41,6 +41,20 @@ related:
         width: 1443
         height: 900
         isCached: true
+  - title: "AI deep-learning model developed to streamline operations in a robotic warehouse"
+    excerpt: "Researchers from Massachusetts Institute of Technology (MIT) have developed a deep-learning technique that can identify the optimal areas for reducing robotic traffic in a warehouse production system. According to the research team, large robotic ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/ai-deep-learning-model-developed-to-streamline-operations-in-a-robotic-warehouse"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 49
+    images:
+      - url: "https://www.theengineer.co.uk/media/yexjghw0/robotic-warehouse.jpeg"
+        width: 5120
+        height: 2880
+        isCached: true
   - title: "Decentraland and Emerging AI Crypto Set for Major Developments"
     excerpt: "Decentraland (MANA) is working to improve its performance due to its difficulties and restrictions last year. Its development path has … Continue reading"
     publishedDateTime: 2024-02-23T18:00:00Z

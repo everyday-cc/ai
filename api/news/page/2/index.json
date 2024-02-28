@@ -2,6 +2,298 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-27-superhuman-launches-ai-powered-instant-replies.md",
+      "title": "Superhuman launches AI-powered instant replies",
+      "excerpt": "Email startup Superhuman is launching an AI-powered instant replies feature today with the company looking to double down in AI-fueled functionality this year. The feature gives you three contextual replies as options to quickly respond to an email.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/27/superhuman-launches-an-ai-powered-instant-replies-feature/",
+      "originalUrl": "https://techcrunch.com/2024/02/27/superhuman-launches-an-ai-powered-instant-replies-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/Superhuman-Instant-reply-feat.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/27/superhuman-launches-an-ai-powered-instant-replies-feature/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/superhuman-launches-an-ai-powered-instant-replies-feature/amp/",
+      "publishedDateTime": "2024-02-27T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-sell-amd-stock-before-the-ai-hype-crashes-and-burns.md",
+      "title": "Sell AMD Stock Before the AI Hype Crashes and Burns",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying that Advanced Micro Devices (NASDAQ:AMD) is a massive",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sell-amd-stock-before-the-ai-hype-crashes-and-burns-1033106719",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sell-amd-stock-before-the-ai-hype-crashes-and-burns-1033106719",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2024/02/amd-projected-revenue-vs-gpu-industry-1024x643.jpg",
+          "width": 1024,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T11:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-ai-startup-glean-lures-citigroup-as-investor-at-22-billion-valuation-after-revenue-quadruples.md",
+      "title": "AI startup Glean lures Citigroup as investor at $2.2 billion valuation after revenue quadruples",
+      "excerpt": "Glean is taking on Microsoft with software that can search through internal data and provide corporate users with quick answers to questions",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/27/glean-is-worth-2point2-billion-as-citigroup-databricks-workday-invest.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/27/glean-is-worth-2point2-billion-as-citigroup-databricks-workday-invest.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107378657-1708993128008-Glean_Arvind.jpeg?v=1709056188",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/27/glean-is-worth-2point2-billion-as-citigroup-databricks-workday-invest.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/27/glean-is-worth-2point2-billion-as-citigroup-databricks-workday-invest.html",
+      "publishedDateTime": "2024-02-27T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-learn-to-ride-the-ai-and-blockchain-tech-tsunami.md",
+      "title": "Learn To Ride The AI And Blockchain Tech Tsunami",
+      "excerpt": "Initiatives to prioritize skills and competencies over academic credentials have gained momentum. Girls in Tech, ETHDenver, and UETH have alternatives ways for education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dbccde02f7ed6305cd9c3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/",
+      "publishedDateTime": "2024-02-27T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-alibaba-staffer-offers-a-glimpse-into-building-llms-in-china.md",
+      "title": "Alibaba staffer offers a glimpse into building LLMs in China",
+      "excerpt": "Binyuan Hui, a natural language processing researcher at Alibaba’s large language model team Qwen, shared his daily schedule on X, mirroring a post by OpenAI researcher Jason Wei that went viral recently. The parallel glimpse into their typical day ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/",
+      "originalUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1356364303.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/amp/",
+      "publishedDateTime": "2024-02-27T10:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips.md",
+      "title": "Apple and Tesla veterans plan to help Japan design advanced AI chips",
+      "excerpt": "Tenstorrent, led by Tesla Inc. and Apple Inc. veteran Jim Keller, will license its design for part of Japan's artificial intelligence accelerator and also co-design the overall chip, the two sides ann",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "originalUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "publishedDateTime": "2024-02-27T05:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-digital-digits-airoboticsenergy-converge-reshaping-our-world.md",
       "title": "Digital Digits: AI+Robotics+Energy Converge, Reshaping Our World",
       "excerpt": "The robots reshaping our world are tackling a wide spectrum of tasks, from factory to warehouse, urban and the field to space exploration and beyond.",
@@ -114,7 +406,7 @@
       "originalUrl": "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -166,7 +458,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 540,
+      "heat": 530,
       "tags": null,
       "images": [
         {
@@ -218,7 +510,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-lags-on-ai-per-amazon.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -606,7 +898,7 @@
       "originalUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -907,290 +1199,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/amp/",
       "publishedDateTime": "2024-02-26T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-whats-stopping-cybersecurity-from-being-ai-driven.md",
-      "title": "What's Stopping Cybersecurity From Being AI-Driven?",
-      "excerpt": "Cybersecurity, with its reliance on big data and moving at the speed of innovation, has one of the most compelling use cases for the latest evolution of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d8c24e9e1d87c92efbf728/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 862,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/",
-      "publishedDateTime": "2024-02-26T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-german-robotics-startup-raises-43-million-to-automate-smaller-factories.md",
-      "title": "German Robotics Startup Raises $43 Million To Automate Smaller Factories",
-      "excerpt": "It’s these manufacturers that are the target for RobCo, a startup designing low-cost and modular robots ... led by Lightspeed Venture Partners to help RobCo grow and to develop AI that could make the robots smarter, allowing them to plan out the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyfeldman/2024/02/26/german-robotics-startup-raises-43-million-to-automate-smaller-factories/",
-      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2024/02/26/german-robotics-startup-raises-43-million-to-automate-smaller-factories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d6734781bdfa90e69c018d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more.md",
-      "title": "Mark Zuckerberg's Asia tour: Ambani wedding, sword-making, AI chips and more",
-      "excerpt": "AI chips on agenda? South Korea is home to some of the world’s top tech companies, including Samsung Electronics and SK Hynix. These companies lead the global memory chip industry and are among the few worldwide that produce high-end memory chips ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/articleshow/108005960.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/articleshow/108005960.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-108007276,width-1280,height-720,resizemode-4/108007276.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/amp_articleshow/108005960.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/amp_articleshow/108005960.cms",
-      "publishedDateTime": "2024-02-26T08:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity.md",
-      "title": "How IBM is helping accelerate AI adoption and application centric connectivity",
-      "excerpt": "Three key challenges, and opportunities, to which we must all pay attention, should we expect our industry to remain healthy. \nThe post How IBM is helping accelerate AI adoption and application centric connectivity appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity/",
-      "originalUrl": "https://www.ibm.com/blog/how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-ai-chip-startup-deepx-nears-90-million-in-fresh-funding.md",
-      "title": "AI chip startup DeepX nears $90 million in fresh funding",
-      "excerpt": "AI chip startup DeepX Co. is close to raising 120 billion won ($90 million) in a funding round to accelerate production and bankroll global expansion, according to people familiar with the matter. The South Korean firm has secured 60 billion won from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html",
-      "originalUrl": "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/04/397635018.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html/amp",
-      "publishedDateTime": "2024-02-26T07:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-the-best-generative-ai-courses-money-can-buy.md",
-      "title": "The Best Generative AI Courses Money Can Buy",
-      "excerpt": "Embark on a journey to master generative AI with the best paid courses available, covering everything from principles and prompt engineering to business applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dc3646f50b2433cd62402e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/",
-      "publishedDateTime": "2024-02-26T05:58:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

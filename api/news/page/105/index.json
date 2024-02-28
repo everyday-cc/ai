@@ -2,6 +2,375 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-11-30-aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models.md",
+      "title": "AWS Announces Five New Amazon SageMaker Capabilities for Scaling with Models",
+      "excerpt": "Amazon SageMaker Canvas helps customers build ML models and generate predictions without writing a single line of code. Today's announcement expands on SageMaker Canvas' existing, ready-to-use capabilities that help customers use models to power a range of use cases, in a no-code environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-five-new-amazon-sagemaker-capabilities-scaling-/2023/11/29/9925383.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-five-new-amazon-sagemaker-capabilities-scaling-/2023/11/29/9925383.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T17:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-researchers-look-to-the-human-eye-to-boost-computer-vision-efficiency.md",
+      "title": "Researchers look to the human eye to boost computer vision efficiency",
+      "excerpt": "Conventional silicon architecture has taken computer vision a long way, but Purdue University researchers are developing an alternative path—taking a cue from nature—that they say is the foundation of an artificial retina.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.html",
+      "originalUrl": "https://techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-look-to-th.jpg",
+          "width": 1815,
+          "height": 1581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.amp",
+      "publishedDateTime": "2023-11-29T17:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-amazon-sagemaker-hyperpod-makes-it-easier-to-train-and-fine-tune-llms.md",
+      "title": "Amazon SageMaker HyperPod makes it easier to train and fine-tune LLMs",
+      "excerpt": "At its re:Invent conference today, Amazon’s AWS cloud arm announced the launch of SageMaker HyperPod, a new purpose-built service for training and fine-tuning large language models (LLMs).",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/29/amazon-sagemaker-hyperpod-makes-it-easier-to-train-and-fine-tune-llms/",
+      "originalUrl": "https://techcrunch.com/2023/11/29/amazon-sagemaker-hyperpod-makes-it-easier-to-train-and-fine-tune-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/Screenshot-2023-11-29-at-9.20.43-AM.png?resize=1200,671",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/29/amazon-sagemaker-hyperpod-makes-it-easier-to-train-and-fine-tune-llms/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/29/amazon-sagemaker-hyperpod-makes-it-easier-to-train-and-fine-tune-llms/amp/",
+      "publishedDateTime": "2023-11-29T17:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-aws-reinvent-2023-the-10-biggest-new-product-launches.md",
+      "title": "AWS re:Invent 2023: The 10 Biggest New Product Launches",
+      "excerpt": "“Generative AI is the next step in artificial intelligence,” said AWS CEO Adam Selipsky during his keynote this week at AWS re:Invent 2023. “And it’s going to reinvent every application ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/aws-re-invent-2023-the-10-biggest-new-product-launches",
+      "originalUrl": "https://www.crn.com/news/cloud/aws-re-invent-2023-the-10-biggest-new-product-launches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T16:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-google-deepmind-adds-nearly-400000-new-compounds-to-open-access-database.md",
+      "title": "Google DeepMind adds nearly 400,000 new compounds to open-access database",
+      "excerpt": "New technology often calls for new materials—and with supercomputers and simulations, researchers don't have to wade through inefficient guesswork to invent them from scratch.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-11-google-deepmind-compounds-open-access-database.html",
+      "originalUrl": "https://phys.org/news/2023-11-google-deepmind-compounds-open-access-database.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/google-deepmind-adds-n.jpg",
+          "width": 1280,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-11-google-deepmind-compounds-open-access-database.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-google-deepmind-compounds-open-access-database.amp",
+      "publishedDateTime": "2023-11-29T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-google-deepminds-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them.md",
+      "title": "Google DeepMind's AI Dreamed Up 380,000 New Materials. The Next Challenge Is Making Them",
+      "excerpt": "Google DeepMind researchers say they’ve expanded the number of known stable materials tenfold. Some could be useful for everything from batteries to superconductors—if they make it out of the lab.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them/",
+      "originalUrl": "https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65668a6df0f200d31c380ec9/191:100/w_1280,c_limit/Google-Deepmind-Materials-Research-Business-XBD-202304-064-009.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-health-care-policy-stakeholders-testify-on-the-use-of-artificial-intelligence-in-health-care.md",
+      "title": "Health Care Policy Stakeholders Testify on the Use of Artificial Intelligence in Health Care",
+      "excerpt": "Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce Subcommittee on Health. They examined… read more Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
+      "originalUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-google-bard-lead-debunks-natural-fear-of-ais-development-computers-do-things-with-you.md",
+      "title": "Google Bard lead debunks ‘natural fear’ of AI's development: 'Computers do things with you’",
+      "excerpt": "Jack Krawczyk discusses how Google Bard helps users connect and communicate — and what the future holds for the platform. The emergence of artificial intelligence has sparked a fear of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
+      "originalUrl": "https://www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b44ce7d5-cfbe-4b86-bdc0-5bd5d6ded0a0/b5cacac1-0706-41cb-bf48-d1d5f0bfb8b5/1280x720/match/image.jpg?pubId=854081161001",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
+      "publishedDateTime": "2023-11-29T15:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics.md",
+      "title": "Fintech leading in AI adoption, need new AI legislation: Moody’s Analytics",
+      "excerpt": "As per the study, 18 per cent of fintech respondents are currently actively using AI, double than the 9 per cent respondents across all surveyed sectors",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece/amp/",
+      "publishedDateTime": "2023-11-29T14:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-aerodyne-taps-aws-to-power-drone-platform.md",
       "title": "Aerodyne taps AWS to power drone platform",
       "excerpt": "“These are drones that have AI [artificial intelligence] at the edge that can ... to be escalated,” Muhamed said on the sidelines of AWS re:Invent 2023 in Las Vegas this week.",
@@ -757,401 +1126,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-sensors-signals-and-synergy-enhancing-downers-data-exploration-with-ibm.md",
-      "title": "Sensors, signals and synergy: Enhancing Downer’s data exploration with IBM",
-      "excerpt": "IBM introduced Downer to the realm where no-code and low-code solutions could build predictive models to provide faster insights.\nThe post Sensors, signals and synergy: Enhancing Downer’s data exploration with IBM appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/sensors-signals-and-synergy-enhancing-downers-data-exploration-with-ibm/",
-      "originalUrl": "https://www.ibm.com/blog/sensors-signals-and-synergy-enhancing-downers-data-exploration-with-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-synthetic-data-generation-building-trust-by-ensuring-privacy-and-quality.md",
-      "title": "Synthetic data generation: Building trust by ensuring privacy and quality",
-      "excerpt": "To build trust, vendors of synthetic data generation tools will need to address two critical questions that many business leaders ask.\nThe post Synthetic data generation: Building trust by ensuring privacy and quality appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/synthetic-data-generation-building-trust-by-ensuring-privacy-and-quality/",
-      "originalUrl": "https://www.ibm.com/blog/synthetic-data-generation-building-trust-by-ensuring-privacy-and-quality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-top-ai-brains-envision-whats-next-for-ai.md",
-      "title": "Top AI brains envision what’s next for AI",
-      "excerpt": "Yann LeCun, hailed by the media as one of the “Godfathers of AI,” has shared with AI experts, scholars, industry leaders from around the world and students at a symposium held recently in Hong Kong. Entitled AI NEW HORIZONS 2023: A Symposium with Scientific Leaders,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/presented/tech/topics/gbaaa-x-hkust-ai-new-horizons-2023/article/3243174/top-ai-brains-envision-whats-next-ai",
-      "originalUrl": "https://www.scmp.com/presented/tech/topics/gbaaa-x-hkust-ai-new-horizons-2023/article/3243174/top-ai-brains-envision-whats-next-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/2023/11/29/AGS_2989_cropped_1_New.JPG?itok=gXPnN6N6",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T09:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-students-explore-the-ethics-of-ai-in-education-at-2023-wise-summit.md",
-      "title": "Students Explore The Ethics Of Ai In Education At 2023 Wise Summit",
-      "excerpt": "The global conference on the future of education, hosted by Qatar Foundation’s (QF) education think tank WISE at Qatar National Convention Centre, featured a discussion on ‘Artificial Intelligence and the Challenges of Education and Ethics’ on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
-      "originalUrl": "https://www.albawaba.com/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-11/image002_0.png?itok=4z_erHTq",
-          "width": 1434,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
-      "publishedDateTime": "2023-11-29T09:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-nvidia-rtx-3080-ex-cryptomining-cards-are-being-turned-into-20gb-ai-accelerators-in-china.md",
-      "title": "Nvidia RTX 3080 ex-cryptomining cards are being turned into 20GB AI accelerators in China",
-      "excerpt": "Modders showed it's possible to upgrade the card to a more AI-friendly 20GB by replacing the 1GB chips with 2GB alternatives. It's likely that the RTX 3080 cards had been used by cryptominers looking to offload their hardware following digital currencies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/100991-nvidia-rtx-3080-ex-cryptomining-cards-turned-20gb.html",
-      "originalUrl": "https://www.techspot.com/news/100991-nvidia-rtx-3080-ex-cryptomining-cards-turned-20gb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-29-image-6.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T07:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-top-artificial-intelligence-development-companies-in-dubai.md",
-      "title": "Top Artificial Intelligence Development Companies in Dubai",
-      "excerpt": "Artificial intelligence stands as a dynamic catalyst for transforming our daily lives and professional landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oneindia.com/partner-content/top-artificial-intelligence-development-companies-in-dubai-3692819.html",
-      "originalUrl": "https://www.oneindia.com/partner-content/top-artificial-intelligence-development-companies-in-dubai-3692819.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oneindia.com/img/2023/11/ai-technology-1701241731.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.oneindia.com/amphtml/partner-content/top-artificial-intelligence-development-companies-in-dubai-3692819.html",
-      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/partner-content/top-artificial-intelligence-development-companies-in-dubai-3692819.html",
-      "publishedDateTime": "2023-11-29T07:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oneindia",
-        "domain": "oneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-aws-ceo-bats-for-responsible-ai-for-unleashing-genais-potential-managing-risks.md",
-      "title": "AWS CEO bats for responsible AI for unleashing GenAI's potential, managing risks",
-      "excerpt": "Advocating responsible artificial intelligence (AI), ﻿Amazon Web Services﻿ (AWS) CEO Adam Selipsky stressed the need for unlocking Generative AI's full potential while mitigating risks ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/11/aws-ceo-bats-for-responsible-ai-says-need-to-unlock-full-potential",
-      "originalUrl": "https://yourstory.com/2023/11/aws-ceo-bats-for-responsible-ai-says-need-to-unlock-full-potential",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T07:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-guildford-ice-rink-used-to-test-anti-skidding-on-ai-car.md",
-      "title": "Guildford: Ice rink used to test anti-skidding on AI car",
-      "excerpt": "An ice rink has been used to test anti-skidding on a car powered by artificial intelligence (AI). University of Surrey researchers brought the driverless vehicle to Guildford Spectrum for a trial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-surrey-67555425",
-      "originalUrl": "https://www.bbc.com/news/uk-england-surrey-67555425",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12FE1/production/_131839777_aicar.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-surrey-67555425.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-surrey-67555425.amp",
-      "publishedDateTime": "2023-11-29T06:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-amazon-joins-the-artificial-intelligence-race-launches-q-ai-assistant.md",
-      "title": "Amazon Joins the Artificial Intelligence Race, Launches Q AI Assistant",
-      "excerpt": "Designed to streamline work, this AI chatbot offers tailored business solutions, automated coding assistance, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://beincrypto.com/amazon-race-launches-q-ai-assistant/",
-      "originalUrl": "https://beincrypto.com/amazon-race-launches-q-ai-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T06:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https//beincrypto.com",
-        "domain": "beincrypto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

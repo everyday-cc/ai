@@ -48,22 +48,6 @@ related:
         width: 850
         height: 567
         isCached: true
-  - title: "Apple unplugs self-driving electric car project, reports say"
-    excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which is involves around two thousand people."
-    publishedDateTime: 2024-02-28T04:42:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-68420817.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68420817.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 44
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7ED1/production/_132756423_gettyimages-2009083580.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Apple cancels secretive electric car project in shift to focus on AI"
     excerpt: "Apple has cancelled its efforts to build an electric car as it pivots to focus research funding on generative artificial intelligence, according to a person familiar with the matter."
     publishedDateTime: 2024-02-27T21:15:00Z
@@ -77,6 +61,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fca2f7cd2-3478-46d0-98d1-72175db893f4.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
         width: 700
         height: 394
+        isCached: true
+  - title: "Apple unplugs self-driving electric car project, reports say"
+    excerpt: "Many employees from the project will be moved to the iPhone maker's artificial intelligence (AI) division, according to Bloomberg News. Apple did not immediately respond to a BBC request for a comment. The Apple car team was reportedly known as the Special ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.aol.com/news/apple-unplugs-self-driving-electric-010959244.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b365fd882050850b2c18e7d53c14b2d2"
+        width: 976
+        height: 549
         isCached: true
   - title: "Report: Apple cancels electric car to focus on artificial intelligence"
     excerpt: "Apple has canceled its secretive yearslong plan to develop an autonomous electric car, Bloomberg reported on Tuesday, citing anonymous sources with knowledge of the matter. Why it matters: Many of the engineers developing the car will instead be reassigned to focus on generative AI projects under the company's artificial intelligence division."

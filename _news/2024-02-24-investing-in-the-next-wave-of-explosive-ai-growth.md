@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/investing-in-the-n
 webUrl: "https://markets.businessinsider.com/news/stocks/investing-in-the-next-wave-of-explosive-ai-growth-1033099242?ssp=1"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,33 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Sell AMD Stock Before the AI Hype Crashes and Burns"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying that Advanced Micro Devices (NASDAQ:AMD) is a massive"
-    publishedDateTime: 2024-02-27T11:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sell-amd-stock-before-the-ai-hype-crashes-and-burns-1033106719"
+  - title: "Rethinking AI In The Context Of Sustainability"
+    excerpt: "Large language models (LLMs), natural language processing (NLP), machine learning (ML), cognitive AI and a litany of other “hot” artificial intelligence technologies have flooded our discussions since early 2023. From media coverage to overzealous CEOs ..."
+    publishedDateTime: 2024-02-28T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://investorplace.com/wp-content/uploads/2024/02/amd-projected-revenue-vs-gpu-industry-1024x643.jpg"
-        width: 1024
-        height: 643
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65de0c271287e45e3434069a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1501
+        height: 900
         isCached: true
-  - title: "You Don't Have to Buy Nvidia to Benefit From Its Explosive Artificial Intelligence (AI) Growth. You Can Buy These 2 Stocks Instead."
-    excerpt: "The artificial intelligence (AI) chip leader scored big as more and more ... Let's take a closer look at each. Amazon's AWS is the world's leading cloud services provider, and it also generally drives overall profitability at the company."
-    publishedDateTime: 2024-02-25T16:53:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/24332121/you-dont-have-to-buy-nvidia-to-benefit-from-its-explosive-artificial-intelligence-ai-growth-you-can-buy-these-2-stocks-instead/"
+  - title: "The murky world of AI training"
+    excerpt: "AI companies have also inadvertently hired children and teenagers to perform these roles, reported Wired, because tasks are \"often outsourced to gig workers, via online crowdsourcing platforms\". Ethics demands aside, the creators of AI models are concerned ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://theweek.com/tech/ai-training-reddit"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 24
+      name: THE WEEK
+      domain: theweek.com
+    quality: 39
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/2ec00bbf61b510c5198c8ff57771a7eb/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f766577%252fgettyimages-1325466022.jpg%26amp%3Bw%3D700"
-        width: 2121
-        height: 1414
+      - url: "https://cdn.mos.cms.futurecdn.net/rByL7C22c2VbJFdbWypPTV-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Pwor0wR8H5K1olaB0YXyo57dPCKryIJoKsR2Cfn8vSxmRFx+Ec1qS98aWPoS3PTj2BRLf7EY5A5XEk1ItuKjrQFtlc/W+6AGHV4wR0t8iAHHSdjI1Y6C33PElIiNlrW7X5Ultrfu64r6sZ4wbxcX1uewr/EDZSy3aMq4DjkZxICE3MzVUytEZAsgLSE9eDmc+O3DaHCXZykRfJCVug7XZzFRfh5shRlGWOm+AINbMHfPuyTBuwpIRv0CF0K6hGrCvuIS2RPyMuQ704/zG26uDZsLg2usYEM0ycwX7yGrfpjacyf4E9k4dlgggdsREalDuVXqomyihvkgmdAxeLYJ29cKXqfl0UgYb9225UrIy7g=;eiYxMJabT0YU+2x113Vr/A=="
