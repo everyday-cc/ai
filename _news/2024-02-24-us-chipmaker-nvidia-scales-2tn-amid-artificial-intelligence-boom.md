@@ -102,7 +102,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 76
+    quality: 78
   - title: "Nvidia boss Jensen Huang says children shouldn't learn to code as AI can do all the work"
     excerpt: "Read our ethics statement. A hot potato ... The Nvidia boss believes that AI has made the need to learn programming redundant, and humans should instead focus on more important skills such as biology, education, manufacturing, or farming."
     publishedDateTime: 2024-02-26T05:18:00Z
@@ -219,7 +219,21 @@ related:
   - title: "Why do Nvidia’s chips dominate the AI market?"
     excerpt: "A high-performance GPU can have more than a thousand cores, so it can handle thousands of calculations at the same time. Once Nvidia realised that its accelerators were highly efficient at training AI models, it focused on optimising them for that market."
     publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?etear=nl_today_3"
+    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 54
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240302_BLP506.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why do Nvidia’s chips dominate the AI market?"
+    excerpt: "But even building better hardware may not be enough. Nvidia dominates AI chipmaking because it offers the best chips, the best networking kit and the best software. Any competitor hoping to displace the semiconductor behemoth will need to beat it in all three areas. That will be a tall order. ■"
+    publishedDateTime: 2024-02-27T16:07:00Z
+    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?ref=upstract.com"
     type: article
     provider:
       name: The Economist

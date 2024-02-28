@@ -6,9 +6,9 @@ publishedDateTime: 2024-02-27T19:12:00Z
 originalUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
 webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 69
+heat: 99
+published: true
 
 provider:
   name: TechRepublic
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://assets.techrepublic.com/uploads/2024/02/humane-ai-pin-fig-a-feb-24.png"
+    width: 1400
+    height: 788
+    isCached: true
 
 related:
   - title: "Cyber Insights 2024: Artificial Intelligence"
@@ -38,6 +45,20 @@ related:
         width: 258
         height: 323
         isCached: true
+  - title: "MWC 2024: Smartphone makers bet on AI to revive sales"
+    excerpt: "South Korean giant Samsung’s stand at the MWC prominently plugged its new premium AI-powered Galaxy S24 range, which allow users to make or receive a call in a language they don’t speak and then receive a live translation of the call both audibly and ..."
+    publishedDateTime: 2024-02-27T05:42:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/27/mwc-2024-smartphone-makers-bet-on-ai-to-revive-sales"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 56
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2564047.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "What to expect from MWC 2024: Transparent laptops, AI phones, smart rings, more"
     excerpt: "Some of the best mobile technology companies will converge at the Fira de Barcelona next week for MWC 2024. Here's what to watch for."
     publishedDateTime: 2024-02-23T10:43:00Z
@@ -47,25 +68,7 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 43
-  - title: "Google's CEO Say AI Can Counter Cyber Threats, Even as New Tech Draws Criticism"
-    excerpt: "Google's CEO Sundar Pichai spoke at the Munich Security Conference this week and addressed worries that the AI revolution could create a cybersecurity crisis. While everyone's \"right to be worried about the impact on cybersecurity,\" Pichai said he feels AI ..."
-    publishedDateTime: 2024-02-23T19:15:00Z
-    webUrl: "https://www.inc.com/kit-eaton/googles-ceo-say-ai-can-counter-cyber-threats-even-as-new-tech-draws-criticism.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 13
-  - title: "Cyber Criminals Are Getting Faster--and Generative AI Could Make Their Work Easier"
-    excerpt: "Cybercriminals are increasingly purchasing stolen credentials as the first step in an attack. Adding a second layer of verification can help. Apps that generate a unique security code or USB security keys are considered safer than having a code sent to a cell phone, which can be compromised in a SIM-swapping scheme."
-    publishedDateTime: 2024-02-23T19:04:00Z
-    webUrl: "https://www.inc.com/jennifer-conrad/cyber-criminals-are-getting-faster-and-generative-ai-could-make-their-work-easier.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 11
 
-secured: "ANHxjuFTITPB/FWoijUwSFY51eO4BOsQO0X5jfbIFhxj+4iYE+jo0bjMlQNDk44qu9wpU7JdUacKgZfU2KAkWU8njABPufx0q8ppY9YkFxld6NutuRzE1/UXRf6QyuH2ZQq6zO4R1aL3z5y9uWye6ETYuHvsBoLatNSqH/Q/hpwFltdpd4weOqZZ5IbMeZ8MfjCaXhZlmrDzg71KwXtmOm4pXlBtixTwqovNZlBXQeIge278H+sOuwhC2zqycfRKz102RDhXi2VNodR2LWZjOK6ZXXNKzNK5fzsmiarMInVVDrNOGhMRciopRpNjI4fF4f4XIlLKpOSBw9+IYzYG/5ueKB2ulSLmgia7rqFyiFBUpddh3jP5jPTXlUBsnzP6y8ei91Q4t13gMydSfvEJbNEbjA/Jk/aMczHdGq4QdKNw6Uq/aSegHynvs/d7bgrR2HkN01j9/67m4gTysIGzCJ5hfkkM1Rp5h7K2HbYZ7eq4keSFFlG3eDjat0oAtzP5NLN04fjuxJfrkVCUMAvUag==;UpkZRw7wJapAIqtFeHUodw=="
+secured: "Vh56663YXhnhCM10sb5pLogC8mH2HEXJwb58r/rNpO9gJ2j9kJ2JwohnHHQh8MF/WbB+d2PyT4WkO14WDgKzo0l7yCyB0fLOZAgv9jivKW26YJKWonmlPGoEAjhQDr8AcSQNflVCvJnNV7fCfofY50n5coxdrXYJMlvs2oZpbKln4phIFC/FRMDLN2XUA1k7XUBXHPoIezmrb2tm4UnkrBSd05oMD6eAig0fkD639cKZ4Ca2nqyTB4ULvbzP+I++jF68BEhTo3acTskq+jFNn6U3sDupaHAkakaTA/Rtr82IdSDR1JWwG9tHcfAO03n6AWLRO9BDvlXs9g9BOzmN1ElM9pBZqjZx5c/PcVQplKc=;jaxsyxS9CGws1PHJcO+0RA=="
 ---
 

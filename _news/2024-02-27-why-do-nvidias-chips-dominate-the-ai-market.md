@@ -3,8 +3,8 @@ category: news
 title: "Why do Nvidia’s chips dominate the AI market?"
 excerpt: "A high-performance GPU can have more than a thousand cores, so it can handle thousands of calculations at the same time. Once Nvidia realised that its accelerators were highly efficient at training AI models, it focused on optimising them for that market."
 publishedDateTime: 2024-02-27T00:00:00Z
-originalUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?etear=nl_today_3"
-webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?etear=nl_today_3"
+originalUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market"
+webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market"
 type: article
 quality: 54
 heat: -1
@@ -97,7 +97,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 76
+    quality: 78
   - title: "Nvidia boss Jensen Huang says children shouldn't learn to code as AI can do all the work"
     excerpt: "Read our ethics statement. A hot potato ... The Nvidia boss believes that AI has made the need to learn programming redundant, and humans should instead focus on more important skills such as biology, education, manufacturing, or farming."
     publishedDateTime: 2024-02-26T05:18:00Z
@@ -226,6 +226,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-22T175543.891.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Why do Nvidia’s chips dominate the AI market?"
+    excerpt: "But even building better hardware may not be enough. Nvidia dominates AI chipmaking because it offers the best chips, the best networking kit and the best software. Any competitor hoping to displace the semiconductor behemoth will need to beat it in all three areas. That will be a tall order. ■"
+    publishedDateTime: 2024-02-27T16:07:00Z
+    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?ref=upstract.com"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 54
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240302_BLP506.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "AI Boom Pushes Nvidia's Market Value To $2 Tln"
     excerpt: "Chipmaker Nvidia's (NVDA) market capitalization hit the $2 trillion mark, fueled by robust demand for AI chips, during the intraday"
@@ -405,6 +419,6 @@ related:
       domain: morningstar.com
     quality: 12
 
-secured: "axaV90TTXhfVw1OCsfAanUsIQYZ5HvjFq7BVBli9z0NwUj35w2lSTO9K/lNX96nuNOyl+vcAYBWM9htO/xJYoQizor/HnhK1qaLp6oh3iArQThgF9DPtEUuIQWkBl78FBr/HtEHfdaisYsfuGGhtGFKEHNRR4z9HRN+qL8+z/pfsorJ78FnjOLaVTPuIjsm2Wl/4ZKvp90pizvNoUgj3YGQUKivtenTaQiUnqfhC90Q3/m01fprHIsgCapIEC6ihmLW9zAvZiVp2esdyHL2fMF/vO/R1GIDvN/iOhrOrjfX0/fwSn847HzKzfeVozm22QypQ2Z+eyY6WIuNrZOztpmkqIHv3UPkkMqlR+eXDRcQ=;y2sp5vCHtSdFuwNA50xDkg=="
+secured: "dZkYP9v9wJ5NuP8f6hlk7SsrDMWxE+Q48DrsG0pwz0H2fRuxhAmxWGHraoczns1POM7k449lXAWDyzIt4IiINdGDFDVsmJwoA1qvuHXA2+npyc1R9XZpNP2bxJImJ2+LE+xA8HF0Yx8O8aqWZcz2pfRh3KotS0Mnt/f0D0EQNyDqHuUdFwE9PfAoLaVK9n+XTSMzLKPbcV7D1FrRap8HxxUGa+zVL7vfwkVSZyur0xbU6JCRGRyczevUnbwqy1iDZ36asZPeCkZZ+yarfCix2ilZHvf5MxmmPaLRYp5UvS5rRnNfctO5+ef7ubHaceYA8CxOSLJ/zcNRixN9RjRUxDYur//rSwY9Fjo2+P7H1a8=;Yc29NPmONcUznBYYVsmm2Q=="
 ---
 

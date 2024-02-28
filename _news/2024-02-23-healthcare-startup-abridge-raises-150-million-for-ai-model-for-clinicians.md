@@ -7,7 +7,7 @@ originalUrl: "https://www.business-reporter.co.uk/news/healthcare-startup-abridg
 webUrl: "https://www.business-reporter.co.uk/news/healthcare-startup-abridge-raises-150-million-for-ai-model-for-clinicians-9985"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -33,15 +33,6 @@ related:
     provider:
       name: ENDPOINTS NEWS
       domain: endpts.com
-    quality: 17
-  - title: "Generative AI startup Abridge secures $150M in new funding"
-    excerpt: "The clinical documentation space has been buzzing with interest since ChatGPT's public launch in November 2022."
-    publishedDateTime: 2024-02-23T03:01:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/nuance-abridge-funding-lightspeed-venture-partners-generative-AI"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
     quality: 17
   - title: "Health startup raises $60M to automate clinical intakes through AI"
     excerpt: "Fabric plans to invest in its digital software, acquire tech firms and grow its workforce with the new funding."

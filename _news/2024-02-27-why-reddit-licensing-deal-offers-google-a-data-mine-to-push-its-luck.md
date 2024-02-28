@@ -26,22 +26,6 @@ images:
     height: 822
     isCached: true
 
-related:
-  - title: "Reddit Inks Landmark $60 Million AI Content Licensing Agreement with Google"
-    excerpt: "Filed by the Clarkson Law Firm, the complaint asserted Google scraped users’ data without consent to improve AI services like writing assistant Bard. It hinged on Google’s updated privacy policy, expressly mentioning mining publicly available ..."
-    publishedDateTime: 2024-02-23T02:18:00Z
-    webUrl: "https://techreport.com/news/reddit-inks-landmark-60-million-ai-content-licensing-agreement-with-google/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 37
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/google-logo-history.jpg?_t=1708683777"
-        width: 800
-        height: 450
-        isCached: true
-
 secured: "vhJ76mnCWEaK+lXSYqKBVgrruboqvppXMeRhnLBE7kUQ3EC2he8KaZWKO6kTbQ0IeYK2+cTgMn+ClGbADkgRf1+8QP0oA4qi7BcLbtQ7cmkzOTGf3N0HnJdElCZ8bosum5drBRrJC0fmETYtUsT5nU2HSZvJMFOKXUI4mz8YZSbHAICTyzW7mDRCSiMEcoTPx/8ymTPPNyPfqRfd2ZgLrdpOb4Jp7fGWCTekY5HMu9RZc0s+wkSi+PehwfmJnSX9qLFdMQoWVPmKzsG7ECUBfuVyBbK/xbk3MRgRbCTSMlmxb2xIngD8h7+ew0ZrI/cX6/HkWVrhMkiFvzFbODE8iMMKK6ibzR3VNy8DEHvr+/I=;f6TDlZxN2mG2/yONWtPV9w=="
 ---
 

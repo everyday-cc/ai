@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1600
     height: 840
     isCached: true
-
-related:
-  - title: "Singapore's AI ambitions reveal challenges for adoption"
-    excerpt: "It’s imperative to ensure that the strategy and processes of implementing AI are holistic, responsible, and sustainable."
-    publishedDateTime: 2024-02-23T03:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/singapores-ai-ambitions-reveal-challenges-adoption"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/singapores-ai-ambitions-reveal-challenges-adoption"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/singapores-ai-ambitions-reveal-challenges-adoption"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
 
 secured: "AE4LSMo+1GTNtGEYmUDrsWB1kdL+aRNmz/e82ZlNpzXJ6Oi21RDlQQNpfHYf87G9h4uwWjicdNHLgEGw6IIkDCLmnsbPPD4rfOhDDAMiHhbc5JiWorBea0NgIDEGr9/jNkQssgkFYLwNC8ly4quLHbIH53IUpdm29zXk9lTSofHXt4lfEZgLu1QP5gq/CeQ107TmE/Ey4++5vOQ0c7jyG1QQWkAo66f4XYZNfTDYJi5kiiD9voEeZdkyNRqjyfbL96BAOW2GZ/KtB+n+7cH2xKUvPgG6LQY3O2RIaH2rre/7AssfzFqWP00X6JnV+YQewxTiXFG6DaNHG962CeUPTdsdI0yuAKsW7lEhTfV12zo=;1l687DmsnxXDX+o33ZLPHQ=="
 ---

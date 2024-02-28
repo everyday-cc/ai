@@ -198,6 +198,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft to foster innovation, competition in AI"
+    excerpt: "Microsoft will also not use non-public information or data from the building and deployment of developers' AI models in Microsoft Azure to compete with those models, and also allow Microsoft Azure customers to easily export and transfer their data to ..."
+    publishedDateTime: 2024-02-28T02:41:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/microsoft-to-foster-innovation-competition-in-ai/108056858"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/microsoft-to-foster-innovation-competition-in-ai/108056858"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/microsoft-to-foster-innovation-competition-in-ai/108056858"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108056858,imgsize-155252,width-1200,height=765,overlay-ettelecom/internet/microsoft-to-foster-innovation-competition-in-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Bezos and Nvidia Collaborate with OpenAI to Finance Humanoid Robot Startup"
     excerpt: "Jeff Bezos of Amazon, alongside Nvidia, have pooled their resources to invest in Figure AI, a startup focused on advancing human-like robots."
     publishedDateTime: 2024-02-24T22:14:00Z
@@ -302,6 +318,20 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/444061/amazon-ceo-and-blue-origin-founder-jeff-bezos-speaks-at-air-force-association-air-space-and-cyber-conference.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "EU launches investigations into Microsoft over security software practices, Mistral AI investment"
+    excerpt: "EU launches investigations into Microsoft over security software practices, Mistral AI investment - SiliconANGLE"
+    publishedDateTime: 2024-02-28T00:15:00Z
+    webUrl: "https://siliconangle.com/2024/02/27/eu-launches-investigations-microsoft-security-software-practices-mistral-ai-investment/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 58
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/microsoftsecurity.jpeg"
+        width: 1024
+        height: 848
         isCached: true
   - title: "Microsoft and OpenAI-backed robotics startup secures funding from Bezos, Nvidia - report"
     excerpt: "The company, which also enjoys backing from OpenAI and Microsoft Corp . (NASDAQ: MSFT ), is in the process of raising approximately $675 million in a funding round, giving it a pre-money valuation of approximately $2 billion."

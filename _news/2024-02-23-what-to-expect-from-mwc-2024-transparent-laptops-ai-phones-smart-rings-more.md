@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin"
+    excerpt: "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity."
+    publishedDateTime: 2024-02-27T19:12:00Z
+    webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/02/humane-ai-pin-fig-a-feb-24.png"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "Cyber Insights 2024: Artificial Intelligence"
     excerpt: "AI's progress in 2024 and beyond: 2023 was a year of hype, 2024 brings the beginning of AI reality, and 2025 likely to be its delivery."
     publishedDateTime: 2024-02-26T16:42:00Z
@@ -38,33 +52,20 @@ related:
         width: 258
         height: 323
         isCached: true
-  - title: "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin"
-    excerpt: "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity."
-    publishedDateTime: 2024-02-27T19:12:00Z
-    webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
+  - title: "MWC 2024: Smartphone makers bet on AI to revive sales"
+    excerpt: "South Korean giant Samsung’s stand at the MWC prominently plugged its new premium AI-powered Galaxy S24 range, which allow users to make or receive a call in a language they don’t speak and then receive a live translation of the call both audibly and ..."
+    publishedDateTime: 2024-02-27T05:42:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/27/mwc-2024-smartphone-makers-bet-on-ai-to-revive-sales"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 47
-  - title: "Google's CEO Say AI Can Counter Cyber Threats, Even as New Tech Draws Criticism"
-    excerpt: "Google's CEO Sundar Pichai spoke at the Munich Security Conference this week and addressed worries that the AI revolution could create a cybersecurity crisis. While everyone's \"right to be worried about the impact on cybersecurity,\" Pichai said he feels AI ..."
-    publishedDateTime: 2024-02-23T19:15:00Z
-    webUrl: "https://www.inc.com/kit-eaton/googles-ceo-say-ai-can-counter-cyber-threats-even-as-new-tech-draws-criticism.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 13
-  - title: "Cyber Criminals Are Getting Faster--and Generative AI Could Make Their Work Easier"
-    excerpt: "Cybercriminals are increasingly purchasing stolen credentials as the first step in an attack. Adding a second layer of verification can help. Apps that generate a unique security code or USB security keys are considered safer than having a code sent to a cell phone, which can be compromised in a SIM-swapping scheme."
-    publishedDateTime: 2024-02-23T19:04:00Z
-    webUrl: "https://www.inc.com/jennifer-conrad/cyber-criminals-are-getting-faster-and-generative-ai-could-make-their-work-easier.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 11
+      name: The Star
+      domain: thestar.com.my
+    quality: 56
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2564047.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "6g8OWWPVguxSITW97P85YuC5AIcrWnS94ZNxVJxTcjoGm/2fwMTmaQRBMOO5PSPkWG204DsmyxFAPpt7TCS1BVbo3e58A0v8t6ApxCzEJ9Ryu88+o/7WeovnYZe3xpqdGnm8Mc19sRZyBehl/LVMBT4nsCChzAiUDG7DuZBlnfxO21aPdCtNG9NSwfe30tA8s5JGFXj/U/d9F3vQvzujCVQ3fIofeUVBn/ym4ce+ySlngwJAQh+WH5U1K1sAnS9QWTRVNFnxynmb/lV0fixnF4Ynz+H5KEUhorsDhqP706mYpZLZoA931pxOyy+A+LowFCaI1mFnTvS7BJusg+87SvlSTmSvO91dSVVmEoZaKpjbLP4TQrhqYm7MbDw/6Y1Pm9hUcO3b1WDDEia2lxi18GOVYycAuDLDJ0E4f2JH/7O44Oxq791Z4Ra9gZN516gVAYqWfParc9w85jc5wzuIahq8y10CNmZHCnl0b4ReOMZdr7jY6iw8pu0Bov7+LdKYKy08782d06bgBM6xN1jVng==;NI/z0mzlMbbN0exFTVwA0A=="
 ---

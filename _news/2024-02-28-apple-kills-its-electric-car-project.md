@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-
 webUrl: "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html"
 type: article
 quality: 54
-heat: 94
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple unplugs self-driving electric car project, reports say"
+    excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which is involves around two thousand people."
+    publishedDateTime: 2024-02-28T01:04:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-68420817?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-68420817.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68420817.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 44
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7ED1/production/_132756423_gettyimages-2009083580.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Apple cancels secretive electric car project in shift to focus on AI"
     excerpt: "Apple has cancelled its efforts to build an electric car as it pivots to focus research funding on generative artificial intelligence, according to a person familiar with the matter."
     publishedDateTime: 2024-02-27T21:15:00Z

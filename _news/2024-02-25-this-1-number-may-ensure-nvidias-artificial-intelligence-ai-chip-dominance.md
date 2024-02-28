@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-25T10:35:00Z
 originalUrl: "https://www.nasdaq.com/articles/this-1-number-may-ensure-nvidias-artificial-intelligence-ai-chip-dominance"
 webUrl: "https://www.nasdaq.com/articles/this-1-number-may-ensure-nvidias-artificial-intelligence-ai-chip-dominance"
 type: article
-quality: 76
+quality: 78
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AWS AI
 
 related:
   - title: "Nvidia Lists Huawei as an AI Chip-Making Rival for the First Time"
@@ -215,7 +216,21 @@ related:
   - title: "Why do Nvidia’s chips dominate the AI market?"
     excerpt: "A high-performance GPU can have more than a thousand cores, so it can handle thousands of calculations at the same time. Once Nvidia realised that its accelerators were highly efficient at training AI models, it focused on optimising them for that market."
     publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?etear=nl_today_3"
+    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 54
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240302_BLP506.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why do Nvidia’s chips dominate the AI market?"
+    excerpt: "But even building better hardware may not be enough. Nvidia dominates AI chipmaking because it offers the best chips, the best networking kit and the best software. Any competitor hoping to displace the semiconductor behemoth will need to beat it in all three areas. That will be a tall order. ■"
+    publishedDateTime: 2024-02-27T16:07:00Z
+    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?ref=upstract.com"
     type: article
     provider:
       name: The Economist

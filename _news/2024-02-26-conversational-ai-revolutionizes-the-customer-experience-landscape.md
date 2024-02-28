@@ -60,19 +60,19 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "VA puts AI use cases into ‘operational phase’ to meet its health care mission"
-    excerpt: "VA has identified over 100 AI use cases so far. VA Chief Technology Officer Charles Worthington told members of the House VA Committee last week that 40 of them are in an “operational phase,” and being put to use in the field."
-    publishedDateTime: 2024-02-23T02:01:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/va-puts-ai-use-cases-into-operational-phase-to-meet-its-health-care-mission/"
+  - title: "Harnessing artificial intelligence for infectious disease prevention"
+    excerpt: "A new research review to be given at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024) will look at the many ways artificial intelligence can help prevent infectious disease outbreaks including ensuring staff wear personal protective equipment correctly and managing day-to-day hospital activities such as medication prescription and cleaning."
+    publishedDateTime: 2024-02-28T02:49:00Z
+    webUrl: "https://www.news-medical.net/news/20240227/Harnessing-artificial-intelligence-for-infectious-disease-prevention.aspx"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 38
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/03/electronic-health-record-military.png"
-        width: 1200
-        height: 800
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "AI enterprise search startup raises mega round at massive valuation"
     excerpt: "The startup's announcement now places it as the second largest ... \"We are at the beginning of one of the biggest transformations in technology; generative AI is an incredibly powerful technology that will unleash productivity and new efficiencies, but ..."

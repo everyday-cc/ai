@@ -9,7 +9,7 @@ ampWebUrl: "https://english.elpais.com/technology/2024-02-27/foldable-models-art
 cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/technology/2024-02-27/foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.html?outputType=amp"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MWC 2024: Smartphone makers bet on AI to revive sales"
-    excerpt: "South Korean giant Samsung’s stand at the MWC prominently plugged its new premium AI-powered Galaxy S24 range, which allow users to make or receive a call in a language they don’t speak and then receive a live translation of the call both audibly and ..."
-    publishedDateTime: 2024-02-27T05:42:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/27/mwc-2024-smartphone-makers-bet-on-ai-to-revive-sales"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 56
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2564047.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Smartphone makers bet on AI to boost sales"
     excerpt: "Smartphone makers are packing their latest devices with flashy new artificial intelligence tools such as real-time voice translation and advanced photo editing in efforts to reignite consumer demand."
     publishedDateTime: 2024-02-26T14:37:00Z
