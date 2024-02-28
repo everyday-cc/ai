@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-mod
 webUrl: "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 750
     height: 600
     isCached: true
-
-related:
-  - title: "AWS brings Mistral AI’s open-source LLMs to Amazon Bedrock"
-    excerpt: "Mistral’s two open-source LLMs will become available alongside the more than half a dozen foundation models already accessible through Bedrock. Some of those models, namely the Amazon Titan series, were developed by AWS. Bedrock also provides managed versions of neural networks from Meta Platforms Inc., Anthropic PBC and other major market players."
-    publishedDateTime: 2024-02-23T21:35:00Z
-    webUrl: "https://siliconangle.com/2024/02/23/aws-brings-mistral-ais-open-source-llms-amazon-bedrock/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/amazon-3.png"
-        width: 933
-        height: 519
-        isCached: true
 
 secured: "xJEgBt79e0A/jWPLv0On0nmRgKh62jbj2gPAbollN5NUlRall7YEYB8Cw0BYNvQWhZRl6fHJNOaKfZvGMIhmMao0HbeNXJaU2Ha7FFY4m5Y9X9afbO2C7l0u92prD/6iXgGPyLy86L5HjQS1+nKlKqY/2VTUUme/cNTUyzMm9Y4tayAzIbC2Pmt+FwDspd5L5Y+Dm2soBp+hXN6Ck6rPDSy9qtoedzTq25ErY/6BPGXYpE79nBlN3oaYjKEHC7L1vcg2xilJ8OXYjYtr98LjCpyZle/Xy06qRoyz7XVCF/RgLZvk7+C1UPQWPknhiWDd0Zrv0HJY5Cche3fagTEKeRpcjBdhZuXkhzkDE0OweW8=;U2hcuPA04uGKE1zgLnJO6w=="
 ---

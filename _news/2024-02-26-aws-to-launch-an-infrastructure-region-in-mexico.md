@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AWS to Invest $5 Billion in Mexican Cloud Infrastructure"
+    excerpt: "Amazon Web Services (AWS) is investing over US$5 billion in Mexican cloud infrastructure to meet the growing demand for digital transformation services, fueled by companies relocating from China. The money will be invested over the next 15 years."
+    publishedDateTime: 2024-02-28T19:22:00Z
+    webUrl: "https://nearshoreamericas.com/aws-to-invest-5-billion-in-mexican-cloud-infrastructure/"
+    type: article
+    provider:
+      name: Nearshore Americas
+      domain: nearshoreamericas.com
+    quality: 19
 
 secured: "TPt/P8jSoUvJtzPxCMWILEcXI8+O5rA/YdvY715fWafGFB9rHT0dgmQExw3FGQS5i/FR8cKBalKjtMVoRUAPhrtLWmg7V3PiUBr2kueSBGH4wJfoPuDDhFCvvaXMPH0qQaJRx73vGUIty8hqzdxYxGeU+UWu9oetzTC6Rm8iVYylSStvKNfptAVS563HNwURy+TRr8GRoKZcUG4XbsPfuuLcwZCVnHRcHLRpw8Rxzica90wVkJwJwboK3uwZcjrbqEIisTEOsM+P/GT2MdTihWDU2DgbPr2FZTY00Q+jkRpKcAHTNX9jInWvqXeOoePXeLW/bu8H8z/dFBMqhcNTCeGqUznGJXZJ6NmsYygdM/0=;B1y4RRrmzYV5KqYzNV6bIw=="
 ---

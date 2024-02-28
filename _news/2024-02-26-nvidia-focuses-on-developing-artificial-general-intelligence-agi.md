@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Foster, a particle physicist-turned-congressman, on why he’s worried about artificial general intelligence"
-    excerpt: "In a Q&A with FedScoop, the Illinois Democrat and House AI task force member discusses his optimism and pessimism on potential AI legislation and his fears about AGI."
-    publishedDateTime: 2024-02-23T21:36:00Z
-    webUrl: "https://fedscoop.com/bill-foster-house-ai-task-force/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 6
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2024/02/GettyImages-1953489292.jpg?w=495"
-        width: 495
-        height: 337
-        isCached: true
   - title: "Here’s Everything You Need To Know About Artificial General Intelligence"
     excerpt: "What Is Artificial General Intelligence? Artificial general intelligence (AGI), also known as ‘strong’ AI, is hypothetical intelligence that doesn’t yet exist. It is a concept in AI research ..."
     publishedDateTime: 2024-02-24T00:00:00Z

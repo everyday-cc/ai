@@ -53,6 +53,20 @@ related:
         width: 1119
         height: 630
         isCached: true
+  - title: "12 things I learned about the Humane Ai Pin at MWC 2024"
+    excerpt: "One device I didn’t expect to see at MWC 2024 in Barcelona was the Humane Ai Pin that was announced a few months ago. After all, Humane’s AI-powered gadget will only launch in the US and will also require a subscription to the company’s own MVNO wireless service."
+    publishedDateTime: 2024-02-28T22:24:00Z
+    webUrl: "https://bgr.com/tech/12-things-i-learned-about-the-humane-ai-pin-at-mwc-2024/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 41
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/humane-ai-pin-mwc-2024-eyes-on-8.jpg?quality=82&strip=all"
+        width: 1600
+        height: 899
+        isCached: true
 
 secured: "Gf9ZPyT1zTBbirewiwnPckNBf4za5X0Ovk6P/3/Ms2aSu8WG9gh2iZxoCf6Bu8aAY1W8wInG+pKben37tX3UiUYw+J2T5QEeOTOzqIJkEk790CTpbzdwIO8HN844oIQNCtwFzRkCs9HMUxVNvJGWQ/x0AL1H1x9pkHkjGOb8coP2ctHTiQpkHAAKSm2eBTXTENm+0J7i93IghbaMqw3Tr9QxuUOHLiypCRQsJoFcN4LOg2JhLeSEHKQogO90i7Ee0SuzQuz7sVkiDNvUgg7yIeKjdHdMDg9ue31B3OcNmttIdd6gxl1uxdRq+sebiLtKeTC4ph+mwDRmB4nBbvkJPEkYyECLBxxrMilMcsCf0A8=;Z5mHF8guvA9Ny3OHzbyn0A=="
 ---

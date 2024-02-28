@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google CEO tells employees Gemini AI blunder ‘unacceptable'"
+    excerpt: "The news follows Google changing the name of its chatbot from Bard to Gemini earlier this month. Pichai’s memo said the teams have been working around the clock to address the issues and that the company will instate a clear set of actions and structural ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.nbcdfw.com/news/national-international/google-ceo-tells-employees-gemini-ai-blunder-unacceptable/3473609/"
+    ampWebUrl: "https://www.nbcdfw.com/news/business/money-report/google-ceo-tells-employees-gemini-ai-blunder-unacceptable/3473609/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/business/money-report/google-ceo-tells-employees-gemini-ai-blunder-unacceptable/3473609/?amp=1"
+    type: article
+    provider:
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 59
+    images:
+      - url: "https://media.nbcdfw.com/2024/02/107377217-1708642941932-gettyimages-1797445840-js1_3016_huqg3fej_f9bb06.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'We got it wrong': Google CEO Sundar Pichai says 'Gemini AI responses show bias'"
     excerpt: "Google CEO Sundar Pichai has addressed the ongoing issues with the company's Gemini AI chatbot (previously called Bard), calling some of the responses by the AI chatbot as ‘problematic’ and showing bias. Notably, Google had recently paused the text-to ..."
     publishedDateTime: 2024-02-28T10:08:00Z
@@ -82,6 +98,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "Google CEO Pichai says Gemini's AI image results \"offended our users\""
+    excerpt: "In attempting to avoid a public relations crisis about gender and race, Google managed to run headlong into another controversy over accuracy and history. Gemini, which was previously named Bard, is also an AI chatbot, similar to OpenAI's hit service ChatGPT."
+    publishedDateTime: 2024-02-28T19:14:00Z
+    webUrl: "https://www.kpbs.org/news/science-technology/2024/02/28/google-ceo-pichai-says-geminis-ai-image-results-offended-our-users"
+    type: article
+    provider:
+      name: KPBS
+      domain: kpbs.org
+    quality: 19
   - title: "Sundar Pichai blasts Google staff for offending customers with Gemini AI bias: ‘To be clear, that’s totally unacceptable’"
     excerpt: "The debate around misinformation and its more malicious cousin, disinformation, has now shifted from the news media to AI companies. Meanwhile, the head start Google held after acquiring DeepMind a decade ago has seemingly evaporated as OpenAI continues to ..."
     publishedDateTime: 2024-02-28T09:33:00Z

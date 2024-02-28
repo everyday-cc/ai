@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-13-enforcemintz-a-2023-legislative-push-to-address-ai-in-health-care-will-continue-in-2024.md",
+      "title": "EnforceMintz — A 2023 Legislative Push to Address AI in Health Care Will Continue in 2024",
+      "excerpt": "Since May 2023, federal legislators have introduced a broad array of bills designed to address the rapid promulgation of artificial intelligence (AI) technologies. In that time, over 50 bills have been introduced,",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/enforcemintz-2023-legislative-push-address-ai-health-care-will-continue-2024",
+      "originalUrl": "https://www.natlawreview.com/article/enforcemintz-2023-legislative-push-address-ai-health-care-will-continue-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/Artificial%20Intelligence%20ai%20.jpg?h=80df463f&itok=xCxIjGjQ",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/enforcemintz-2023-legislative-push-address-ai-health-care-will-continue-2024?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/enforcemintz-2023-legislative-push-address-ai-health-care-will-continue-2024?amp",
+      "publishedDateTime": "2024-02-12T23:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research.md",
       "title": "During Edmonds College talk, virologist explains how AI is changing gene therapy research",
       "excerpt": "If artificial intelligence can help physicians predict who is more or less likely to get a medical condition, it may also help molecular biologists predict which gene or gene",
@@ -1294,49 +1338,6 @@
       "provider": {
         "name": "The Week",
         "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-app-scans-users-face-monitors-voice-for-signs-of-anxiety-depression.md",
-      "title": "App scans user's face, monitors voice for signs of anxiety, depression",
-      "excerpt": "Artificial intelligence is being used more often in daily life including in healthcare. One app, Together by Renee, is being marketed as a way to make healthcare more manageable. One of the app ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wral.com/story/app-scans-user-s-face-monitors-voice-for-signs-of-anxiety-depression/21258121/",
-      "originalUrl": "https://www.wral.com/story/app-scans-user-s-face-monitors-voice-for-signs-of-anxiety-depression/21258121/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wwwcache.wral.com/asset/lifestyles/healthteam/2024/01/29/21258613/TOGETHER_BY_RENEE2-DMID1-61rv3iggq-640x480.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wral.com/amp/21258121/",
-      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21258121/",
-      "publishedDateTime": "2024-01-29T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL",
-        "domain": "wral.com",
         "images": null,
         "publishers": null,
         "authors": null

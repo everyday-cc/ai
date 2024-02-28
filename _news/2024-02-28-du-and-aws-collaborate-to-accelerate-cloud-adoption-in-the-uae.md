@@ -29,13 +29,13 @@ images:
 related:
   - title: "Sage signs Strategic Collaboration Agreement with AWS to enable AI-powered solutions for Small and Mid-Sized Businesses"
     excerpt: "This agreement will significantly enhance how SMBs optimize their operations with generative artificial intelligence (AI) and tackle environmental responsibilities, with Sage Earth now available in AWS Marketplace. Today, SMBs can leverage Sage Intacct in ..."
-    publishedDateTime: 2024-02-27T16:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sage-signs-strategic-collaboration-agreement-with-aws-to-enable-ai-powered-solutions-for-small-and-mid-sized-businesses-1033109462"
+    publishedDateTime: 2024-02-27T22:36:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61532702-sage-signs-strategic-collaboration-agreement-with-aws-to-enable-ai-powered-solutions-for-small-and-mid-sized-businesses-399.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 10
 
 secured: "JjHRD/HhoIUf08PI/iLgf+pv029bposB5SOYgcn3ZrP34JVol8B9FKJEvMHxcN3C31lIK3L8LRlfH4WJIjKrU3V1CEzztcR6t6TxjpTwebPXJtYQP+u7TZTq+KFfu0HNcQ12qd/car0GCUgty7p61YLlc9XcfvJVD3CGL7ihR34iUtliUwH+DH9PR+5Euz5v9T02qSsS9PcUfjaXQbajLg78qG4EZ2wa7CkeT/3H+jK+CIV9W5dt3x1n3om1LoYir61lYyh/POX9KssCv5qpDqDLVyCcCmVp6MrTybCIlEfhf189SqMaquGoGRBjHkROmRcsb7lJPbCkSEM6QtXjZ+fSF3qwMUmienXFGsB1Dxw=;tz9bOp7D5x7FnVaCF1dAZQ=="
 ---

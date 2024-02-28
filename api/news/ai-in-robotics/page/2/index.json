@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-19-ai-and-robotics-to-play-key-roles-in-space-exploration.md",
+      "title": "AI and Robotics to Play Key Roles in Space Exploration",
+      "excerpt": "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space",
+      "originalUrl": "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T14:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electropages",
+        "domain": "electropages.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-massrobotics-returns-as-strategic-partner-for-2024-robotics-summit-expo.md",
       "title": "MassRobotics returns as strategic partner for 2024 Robotics Summit & Expo",
       "excerpt": "MassRobotics will announce Form & Function Challenge winners and host an engineering career fair at the 2024 Robotics Summit & Expo.",
@@ -1271,49 +1314,6 @@
       "provider": {
         "name": "bleedingcool",
         "domain": "bleedingcool.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there.md",
-      "title": "A tiny robot on the space station will simulate remote-controlled surgery up there",
-      "excerpt": "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/",
-      "originalUrl": "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/B5WBQ32ZD4P27EACRGUHXVYO7U.jpg?auth=af1d0e097f4ba70c7df6eb56dd8c32ba676c0132fdc3657af7a7b9edbd21b212&width=767",
-          "width": 767,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/?outputType=amp",
-      "publishedDateTime": "2024-02-10T13:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "OPB",
-        "domain": "opb.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://6abc.com/navy-yard-self-driving-van-driverless-bus-zero-em
 webUrl: "https://6abc.com/navy-yard-self-driving-van-driverless-bus-zero-emissions-vehicles-philly-transit/14472492/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The Navy Yard's self-driving shuttle is ready to begin transporting riders"
-    excerpt: "The first self-driving shuttle service in Pennsylvania will begin operating Tuesday at the Navy Yard, offering a four-stop loop for visitors and workers at the South Philly business hub. The nine-seat, electric-powered van has been tested for more than a ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.phillyvoice.com/navy-yard-self-driving-shuttle-south-philly-autonomous-vehicle/"
-    type: article
-    provider:
-      name: phillyvoice.com
-      domain: phillyvoice.com
-    quality: 2
   - title: "We rode PA’s first electric self-driving shuttle at the Philadelphia Navy Yard"
     excerpt: "The self-driving shuttle felt like any other bus, stopping and starting smoothly (ok, maybe not like most other buses…) at all intersections. It automatically halts at each designated stop on its route, and automatically slows down if it senses vehicles ..."
     publishedDateTime: 2024-02-28T06:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-becomes-first-to-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
 type: article
 quality: 87
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Samsung and Micron prep advanced HBM3E 3D chips for memory-intensive applications"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. Forward-looking: The AI boom is in full swing, and chip manufacturers are bringing new, advanced memory technologies to the table. Next-generation High Bandwidth Memory (HBM ..."
+    publishedDateTime: 2024-02-28T14:10:00Z
+    webUrl: "https://www.techspot.com/news/102061-samsung-micron-prep-advanced-hbm3e-3d-chips-memory.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 44
   - title: "Samsung Galaxy S23 WILL Get Galaxy AI Next Month"
     excerpt: "Here’s a quick rundown of what you’ll be able to do with Samsung’s Galaxy AI ... Real-time Call Translation: The update will enable real-time translation during calls, allowing users to understand conversations in foreign languages without language ..."
     publishedDateTime: 2024-02-25T00:00:00Z

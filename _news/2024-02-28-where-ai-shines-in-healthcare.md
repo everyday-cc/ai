@@ -19,60 +19,56 @@ topics:
   - AI
 
 related:
-  - title: "Why healthcare lags on AI, per Amazon"
-    excerpt: "Healthcare lags behind other industries in its adoption of artificial intelligence, largely because it lacks training capacity, according to a study commissioned by Amazon Web Services. Here are seven other things to know from the survey of 412 healthcare ..."
-    publishedDateTime: 2024-02-26T21:09:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-lags-on-ai-per-amazon.html"
+  - title: "InnovationRx: Exploring The Future Of Healthcare AI"
+    excerpt: "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal."
+    publishedDateTime: 2024-02-28T22:19:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "What the healthcare AI sector wants from Congress"
-    excerpt: "Healthcare interests clamoring for congressional action on artificial intelligence would also like lawmakers to remember the Hippocratic oath: First, do no harm. Second, they would like a little protection. Opinions about precisely which needs legislating ..."
-    publishedDateTime: 2024-02-27T08:00:00Z
-    webUrl: "https://www.modernhealthcare.com/politics-policy/healthcare-ai-congress-legislation-regulation"
+  - title: "AI Innovators: 3 Future Stock Leaders to Watch Now"
+    excerpt: "Recently, more and more companies are offering AI-powered solutions and products every day to ride the wave of AI stocks. Yet for investors, this can be confusing, as just because a company claims to incorporate AI, doesn’t necessarily mean profitability."
+    publishedDateTime: 2024-02-28T10:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-innovators-3-future-stock-leaders-to-watch-now-1033114109"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
-  - title: "Azalea Health Unveils Artificial Intelligence Strategy to Enhance Healthcare Workflows"
-    excerpt: "Azalea Health, a leading provider of fully-integrated cloud-based healthcare IT solutions and services, today announced its revolutionary approach to artificial intelligence (AI) designed to enhance the efficiency,"
-    publishedDateTime: 2024-02-27T12:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9968480.htm"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
+    excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
+    publishedDateTime: 2024-02-28T14:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969722.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 26
-  - title: "QubeHealth Plans Up To $9 Mn Raise For Launching Healthcare In App Marketplace, AI Integration"
-    excerpt: "Healthcare-focused fintech startup QubeHealth is looking to raise between $6-$9 Mn as a part of its Series A funding round."
-    publishedDateTime: 2024-02-26T13:48:00Z
-    webUrl: "https://inc42.com/buzz/qubehealth-plans-up-to-9-mn-raise-for-new-feature-ai-deployment/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 24
-  - title: "As artificial intelligence aims to transform health care, soon your doctor may consult an AI algorithm before deciding on your treatment"
-    excerpt: "Sahani is a co-founder of UW’s Institute of Medical Data Science, which supports health care-related artificial intelligence initiatives. Founded last year in Seattle, the institute hopes to provide research, education and funding to get AI into ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.spokesman.com/stories/2024/feb/27/as-artifical-intelligence-aims-to-transform-health/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 23
+    quality: 47
     images:
-      - url: "https://thumb.spokesman.com/iDlseXsKdK6KgwNP9qd1w-w7lTM=/1200x630/smart/media.spokesman.com/photos/2024/02/26/63d303450c829.hires.jpg"
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
         width: 1200
-        height: 630
+        height: 627
+        isCached: true
+  - title: "From Innovation to Investment: The Rise of Top Fintech Startups in Today’s Market"
+    excerpt: "In a world where technology is constantly evolving, the financial industry is no exception. Fintech startups are revolutionizing the way we think about finance, from banking to investing. Join us as we explore the rise of these innovative companies and how they are attracting significant investment in today’s market."
+    publishedDateTime: 2024-02-28T16:05:00Z
+    webUrl: "https://techbullion.com/from-innovation-to-investment-the-rise-of-top-fintech-startups-in-todays-market/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/FinTech-Startup.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "vh4gCgqzZwBOshG0o4MdLiHRWGo7/3nfiuMX7RTAc6LLC3gwmE241GtFf8XKOw285U097enn6Aa/OxAtMW/WRoBe0lmxWUzKOj5eRvFfqCwgmF7tjqbu6BoPb0IsoC3inHDfjzauueHh0yArdPLi6CbDUfO90rpRRLs5Q2oI9WgK4QmTV8HitoN9jr9r+W3e3h4aduGbNZEDYYK8zNW1MA12rM/cpqvD3Gv610YyXSKI0Tyjxnade4vARteqBm+yUDIsXiXrs0Cwh49n3rpGyC4WInw+WZS82Lh+stLYe5Ft8oZweG8hw9z1jUhMoWZeJ0/dysFmxr5lxammxGgFsk6g01EPTS2qBoJ5XSJushs=;OOW2ISESECuUs/pcRSzdiQ=="

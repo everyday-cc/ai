@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "12 things I learned about the Humane Ai Pin at MWC 2024"
+    excerpt: "One device I didn’t expect to see at MWC 2024 in Barcelona was the Humane Ai Pin that was announced a few months ago. After all, Humane’s AI-powered gadget will only launch in the US and will also require a subscription to the company’s own MVNO wireless service."
+    publishedDateTime: 2024-02-28T22:24:00Z
+    webUrl: "https://bgr.com/tech/12-things-i-learned-about-the-humane-ai-pin-at-mwc-2024/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 41
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/humane-ai-pin-mwc-2024-eyes-on-8.jpg?quality=82&strip=all"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Humane AI Pin — could this wearable replace your phone?"
     excerpt: "and something that made me see it like a Star Trek communicator is its ability to live translate between 50 languages. You could go into a local cafe and order a meal without having to learn the language. On the surface the Humane AI Pin might seem like ..."
     publishedDateTime: 2024-02-28T00:00:00Z

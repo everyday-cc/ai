@@ -533,6 +533,15 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "AWS, Microsoft, Ericsson, Nvidia and more form new alliance to integrate AI in cellular technology"
+    excerpt: "At MWC 2024 in Barcelona, a number of companies joined forces to form the AI-RAN (AI-radio access network) alliance, a new initiative to integrate artificial intelligence (AI) into cellular technology."
+    publishedDateTime: 2024-02-28T18:54:00Z
+    webUrl: "https://www.itworldcanada.com/article/aws-microsoft-ericsson-nvidia-and-more-form-new-alliance-to-integrate-ai-in-cellular-technology/559678"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 37
   - title: "Microsoft Announces Cloud Partnership With Mistral AI"
     excerpt: "Microsoft announced a multi-year partnership with French generative AI startup Mistral AI. The company will make Mistral AI's premium models available in the Azure AI Studio and Azure Machine Learning model catalog."
     publishedDateTime: 2024-02-26T15:02:00Z
@@ -577,6 +586,24 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 34
+  - title: "EXL collaborates with Microsoft to drive innovation using generative AI"
+    excerpt: "EXLS], a leading data analytics and digital operations and solutions company, announced a new collaboration with Microsoft to co-develop and accelerate generative AI solutions for businesses. EXL is using the Microsoft Azure OpenAI Service to augment its extensive data and analytics expertise and create faster value for clients across industries,"
+    publishedDateTime: 2024-02-28T19:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9970088.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "Microsoft Showcases Data, AI Solutions At Web Summit Qatar"
+    excerpt: "Doha, Qatar: Microsoft showcased its latest solutions in Data and Artificial Intelligence (AI) at Web Summit Qatar 2024, yesterday."
+    publishedDateTime: 2024-02-28T20:30:00Z
+    webUrl: "https://menafn.com/1107913369/Microsoft-Showcases-Data-AI-Solutions-At-Web-Summit-Qatar"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 34
   - title: "Microsoft Will Be One Of The Biggest Beneficiaries Of Artificial Intelligence"
     excerpt: "Microsoft is uniquely positioned to capitalize on the trends of the future and combine them with its own products. And this combination is likely to result in tremendous value for their customers. In addition, it is likely that Microsoft will gain market ..."

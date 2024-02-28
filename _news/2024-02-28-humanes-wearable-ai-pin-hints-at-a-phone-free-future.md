@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-
 webUrl: "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/"
 type: article
 quality: 69
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/034NG208yUxngUH0Pg5tfBb-1.fit_lim.size_1200x630.v1709055584.jpg"
         width: 1119
         height: 630
+        isCached: true
+  - title: "12 things I learned about the Humane Ai Pin at MWC 2024"
+    excerpt: "One device I didn’t expect to see at MWC 2024 in Barcelona was the Humane Ai Pin that was announced a few months ago. After all, Humane’s AI-powered gadget will only launch in the US and will also require a subscription to the company’s own MVNO wireless service."
+    publishedDateTime: 2024-02-28T22:24:00Z
+    webUrl: "https://bgr.com/tech/12-things-i-learned-about-the-humane-ai-pin-at-mwc-2024/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 41
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/humane-ai-pin-mwc-2024-eyes-on-8.jpg?quality=82&strip=all"
+        width: 1600
+        height: 899
         isCached: true
   - title: "Humane AI Pin — could this wearable replace your phone?"
     excerpt: "and something that made me see it like a Star Trek communicator is its ability to live translate between 50 languages. You could go into a local cafe and order a meal without having to learn the language. On the surface the Humane AI Pin might seem like ..."

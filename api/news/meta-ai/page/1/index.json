@@ -4,10 +4,10 @@
     {
       "path": "_news/2024-02-28-streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.md",
       "title": "Streamline PyTorch Machine Learning Workflows With Cloudian And AWS Hybrid Edge",
-      "excerpt": "AUCKLAND – Cloudian has announced an open-source software contribution that fuses PyTorch, the widely acclaimed machine learning library, with local Cloudian HyperStore S3-compatible storage solutions. This pioneering development is set to accelerate ...",
+      "excerpt": "Cloudian contributed enhancements to AWS Labs’ open-source S3-Connector-for-PyTorch. The enhancements enable PyTorch ML algorithms to access data in Cloudian’s HyperStore object storage system via the AWS S3 API. The enhanced S3 connector is available from the GitHub repositories of AWS Labs and Cloudian.",
       "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
+      "webUrl": "https://www.scoop.co.nz/stories/BU202402/S00289.htm",
+      "originalUrl": "https://www.scoop.co.nz/stories/BU202402/S00289.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -17,7 +17,7 @@
       "type": "article",
       "ampWebUrl": "https://m.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
       "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
-      "publishedDateTime": "2024-02-28T03:11:00Z",
+      "publishedDateTime": "2024-02-28T02:43:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Scoop",
@@ -46,7 +46,7 @@
       "originalUrl": "https://www.businessinsider.com/hedge-funds-artificial-intelligence-talent-culture-clash-citadel-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -98,7 +98,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 91,
       "tags": null,
       "images": [
         {

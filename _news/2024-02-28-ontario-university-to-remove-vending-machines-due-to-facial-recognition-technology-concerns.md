@@ -71,36 +71,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Canadian university vending machine error reveals use of facial recognition"
-    excerpt: "University of Waterloo dispenser displays facial recognition message despite no prior indication it was monitoring students A malfunctioning vending machine at a Canadian university has ..."
-    publishedDateTime: 2024-02-23T19:41:00Z
-    webUrl: "https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
-    ampWebUrl: "https://amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/be91b776e57ce787c55cc38b4f6f4e6846c79bb6/0_0_4000_2667/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=75c5c858f2563718de3d235eccecc6b8"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "Vending machine error reveals secret face image database of college students"
-    excerpt: "The scandal started when a student using the alias SquidKid47 posted an image on Reddit showing a campus vending machine error message, \"Invenda.Vending.FacialRecognitionApp.exe,\" displayed after the machine failed to launch a facial recognition application that nobody expected to be part of the process of using a vending machine."
-    publishedDateTime: 2024-02-23T22:03:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 51
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/mm-camera-spy-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "University of Waterloo unplugs 29 vending machines amid facial recognition concerns"
     excerpt: "These vending machines, unbeknown to students, had been using facial recognition to track the age and gender of patrons, as shared by CTV News. However, according to Invenda, the machines use facial analysis and not facial recognition to understand when a ..."
     publishedDateTime: 2024-02-28T00:04:00Z
@@ -129,15 +99,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Ontario university students freaked out about facial recognition vending machines"
-    excerpt: "A set of smart vending machines at the University of Waterloo has stirred up quite the controversy among students, who quickly raised privacy"
-    publishedDateTime: 2024-02-23T19:34:00Z
-    webUrl: "https://www.blogto.com/city/2024/02/ontario-university-facial-recognition-machines-privacy/"
-    type: article
-    provider:
-      name: blogTO
-      domain: blogto.com
-    quality: 14
 
 secured: "klnicQGebDChb4oRN3tQD4SgsYf5HgJptDZftfqVGqd1+uCl8MPC03CbonLOI9kuAwQ6ME162vbYkhWsiL9gIKmn9b365XmenPdGZDRfXcOU76u1GjzoJupQ+PkmF+os/rqaHkLEmHXepdDoTEwxmPga2gzHVTRyp+fPQo4L2MrMbWQq496IgXqlSsA7uBqIhL9KhSj/gDgKB+6XF+TPmoMTFs/gOlJdwhIUw4qtutpeXvee7l3BxDsiuP9olvazqcEhHbLJeDVg6A8kmQTD0L5ZzQfR624K1aGc+4iZiH9Yv5kvBGFIFx3RZDA0Ckvcm86ebwDAVCk87ZUkei6G3kwtCDi2WbypmH65F6+X69mXBLJspjFS74kk1CQZWsLUbxaYw9d3kDqDV/ccV0+d4+kW4qx8NtDAQIvd97kClr9BMkvj0PecNzicmQLTEv3n4Qwxiti1jO1DjysASPP0FOm9rmajBa+RA0s+Exryr7PCx/fABQ+MCb2eNvZuofpQt9/etDjNbwmdQPgCvak6Ng==;+MbncHzt7XqIqyAFPQXHAw=="
 ---

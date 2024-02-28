@@ -533,6 +533,15 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "AWS, Microsoft, Ericsson, Nvidia and more form new alliance to integrate AI in cellular technology"
+    excerpt: "At MWC 2024 in Barcelona, a number of companies joined forces to form the AI-RAN (AI-radio access network) alliance, a new initiative to integrate artificial intelligence (AI) into cellular technology."
+    publishedDateTime: 2024-02-28T18:54:00Z
+    webUrl: "https://www.itworldcanada.com/article/aws-microsoft-ericsson-nvidia-and-more-form-new-alliance-to-integrate-ai-in-cellular-technology/559678"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 37
   - title: "Microsoft Partners With French Startup Mistral AI"
     excerpt: "Paris: Microsoft said on Monday it had partnered with French startup Mistral AI, as the software giant seeks to tighten its grip on the emerging technology. The US firm, which has already ploughed billions into ChatGPT maker OpenAI, called Mistral \"an ..."
     publishedDateTime: 2024-02-26T14:00:00Z
@@ -568,6 +577,24 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 34
+  - title: "EXL collaborates with Microsoft to drive innovation using generative AI"
+    excerpt: "EXLS], a leading data analytics and digital operations and solutions company, announced a new collaboration with Microsoft to co-develop and accelerate generative AI solutions for businesses. EXL is using the Microsoft Azure OpenAI Service to augment its extensive data and analytics expertise and create faster value for clients across industries,"
+    publishedDateTime: 2024-02-28T19:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9970088.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "Microsoft Showcases Data, AI Solutions At Web Summit Qatar"
+    excerpt: "Doha, Qatar: Microsoft showcased its latest solutions in Data and Artificial Intelligence (AI) at Web Summit Qatar 2024, yesterday."
+    publishedDateTime: 2024-02-28T20:30:00Z
+    webUrl: "https://menafn.com/1107913369/Microsoft-Showcases-Data-AI-Solutions-At-Web-Summit-Qatar"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 34
   - title: "Telefónica partners with Microsoft to incorporate generative AI into Kernel"
     excerpt: "Telefónica today announced its partnership with Microsoft to integrate Azure AI Studio into Kernel applying generative AI to key workflows"

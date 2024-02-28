@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-10-a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there.md",
+      "title": "A tiny robot on the space station will simulate remote-controlled surgery up there",
+      "excerpt": "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/",
+      "originalUrl": "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/B5WBQ32ZD4P27EACRGUHXVYO7U.jpg?auth=af1d0e097f4ba70c7df6eb56dd8c32ba676c0132fdc3657af7a7b9edbd21b212&width=767",
+          "width": 767,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/?outputType=amp",
+      "publishedDateTime": "2024-02-10T13:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OPB",
+        "domain": "opb.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-10-video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test.md",
       "title": "(Video) Inaugural competition puts high school students robotics skills to the test",
       "excerpt": "Building on the success of its annual “drone wars” competition, which pits Cullman County Schools’ 7th graders against each other as they maneuver remote-controlled drones through an obstacle",
@@ -1278,49 +1321,6 @@
       "provider": {
         "name": "This is Money",
         "domain": "thisismoney.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-why-are-so-many-robots-white.md",
-      "title": "Why are so many robots white?",
-      "excerpt": "These design choices tend to follow the clinical, clean look with shiny white plastic, similar to other technology products like the original iPod.Kaspar is a robot designed to interact with children with autism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_05_2020_04_41_08_0489537.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp",
-      "publishedDateTime": "2024-01-28T06:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
         "images": null,
         "publishers": null,
         "authors": null

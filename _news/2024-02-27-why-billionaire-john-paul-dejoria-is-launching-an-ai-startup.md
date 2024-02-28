@@ -41,6 +41,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Podcast: Why the founder of Paul Mitchell is launching an AI startup"
+    excerpt: "He did Paul Mitchell hair products, then Patron Tequila. Now, learn about John Paul DeJoria's new AI startup in the latest Texas Business Minds podcast."
+    publishedDateTime: 2024-02-28T18:41:00Z
+    webUrl: "https://www.bizjournals.com/sanantonio/news/2024/02/28/why-john-paul-dejoria-is-launching-an-ai-startup.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "I1QrPC6KJ2LO2tXA0XYxueHh/29Ti9JAbYTeJjHwe4zA5j3BtgiJ2tpJNYxbIBYibB8EX46C0A8kgL8ItR7b+VxzlB3LOJ559YaQDuPn33W1kBfoUFuDwO42u9ODlaKE7uUbwuqaKuR26nhpZnJZOKkxjVLFp/+ythXZq7d1lN74PmPqUqoBC+Z8j/H0svXr38J0O5V/yCQII46q0lVGKV93ZbnuudMdxvhAGzJWFHM/PDdiE5JukXeezLk8VliT7Fli/LGI4lMrZDUQoWF+uZh1nSX+i8lmw3M7zf7oG36dUoVzOaitzy86qmCVNlxVJAogpXiI6TE/P/3twKFdk2aU5eiYbScmbB8GZWFlq8s=;/EYLz0OWSMEveltEpsCaSg=="
 ---

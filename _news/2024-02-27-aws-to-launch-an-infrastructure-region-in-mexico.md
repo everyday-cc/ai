@@ -34,6 +34,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
+  - title: "AWS to Invest $5 Billion in Mexican Cloud Infrastructure"
+    excerpt: "Amazon Web Services (AWS) is investing over US$5 billion in Mexican cloud infrastructure to meet the growing demand for digital transformation services, fueled by companies relocating from China. The money will be invested over the next 15 years."
+    publishedDateTime: 2024-02-28T19:22:00Z
+    webUrl: "https://nearshoreamericas.com/aws-to-invest-5-billion-in-mexican-cloud-infrastructure/"
+    type: article
+    provider:
+      name: Nearshore Americas
+      domain: nearshoreamericas.com
+    quality: 19
 
 secured: "27CU3zUjHyj2EFUovNXte+FSH+R1lGG1biDhS85ipgMZNZV/reS5KGnxHRMJHW+rIqABc4qmsxQa9hAHffjuXseLwbyv6JGf3MFd0E0gIOwTK8BBlTf/Ump+QPsvlmkgunwnH1qRr+A5nwC+H/sLIUo7mUw2tLo3ohOflVpR5vXv8mJkFNUaPgmBozuHUBDFVAm5ivgO5GCZq/nNgAUFC0vPCl/d9FwWny7mdTedx8eJMbIezrs8UqXSk3MQU8Y5/4QwUO1tjSuqNm6xJfnpClfcODhTDCmHLb9hm03Vc+s4F306NmnlDukTjTKmOxKi9ymZamBrNBrowVktUcT0atdaRwvKE79YkIjKqB3jQ0o=;/YdWmrXMbpGha+8kB5vX6Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2024/feb/25/uks-enemies-could-us
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2024/feb/25/uks-enemies-could-use-ai-deepfakes-to-try-to-rig-election-says-james-cleverly"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Artificial intelligence deepfakes: The threat is profound and real"
+    excerpt: "There’s so much contamination of our social discourse, with profound implications on politics, civic life, personal privacy, and the list goes on. Artificial intelligence only exacerbates that problem"
+    publishedDateTime: 2024-02-28T20:00:00Z
+    webUrl: "https://www.berkshireeagle.com/opinion/columnists/destructive-deepfake-artificial-intelligence-abuses-threaten-already-fragile-national-well-being/article_bc9161ba-d656-11ee-9ee1-672531e9657d.html"
+    type: article
+    provider:
+      name: Berkshire Eagle
+      domain: berkshireeagle.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/0/be/0be60c30-d65b-11ee-ae38-af52ba9f0e7d/65dd6c671d77b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MA2lxwOoMHSDyUKWOUW5u703XKYY9ycKnyTxIBc6gjQycfUSJUip2xKu7mhOir7WNHV86YuMW14QpeXoaQCgP3MIaCFDhJna62lVzkU71FByrz8zMh0n+hoeb414q0pbjnyWtD8okfWGBVxgFTLlcqfrGGbNnRfdsTWJEaHg1RrxQ16+Pl1GqXJeVwgYQd8L1FibOtiqlaLr9mq4HiwjZ0Urh2fH5nLNk/ebwNIeQYfYpZCqhwj/YLcdpISCx6l5OkMluQymp2nni2p/OYUh5ebrXwzx8blp+56yVxzOwV1uCWB+eCCtnIhemYKcYc9hiykLV4fJYLSYwDFeFogsazMSbXeFYFutD8XPDB6rVvkJHoPbr7fORbhhFAvfPuHYIall60uMxpDfeSfSPU90vQCqLcN6we/MYTUH+CHPjGThg7bVUAaMg84BWjSm1jK0EBMXF0N8nPSOTkKCkwU88OLyTV79D1RcdyWyHgvtau1vsnYGioN+JAMK3L9TdwKj2q5begdO/mofXIUKsV4Zsg==;Z0lgxdsdHXDcik7owu+CJQ=="
 ---

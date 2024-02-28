@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -27,44 +27,42 @@ images:
     isCached: true
 
 related:
-  - title: "Apple cancels self-driving EV project, to lay off workers: Report"
-    excerpt: "The tech giant also scaled back its vision for the self-driving electric vehicle. Initially, the iPhone maker intended to create an automobile with no steering wheel or pedals, allowing passengers to sit facing one another in a limousine-style vehicle."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report"
-    ampWebUrl: "https://glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report?amp=1"
+  - title: "Apple Abandons Plans for Driverless Electric Car, Shifts Team to AI"
+    excerpt: "While a disappointment to green-tech supporters, Apple's decision reflects the growing uncertainy in the E.V. market."
+    publishedDateTime: 2024-02-28T19:50:00Z
+    webUrl: "https://reason.com/2024/02/28/apple-abandons-plans-for-driverless-electric-car-shifts-team-to-ai/"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 24
-  - title: "Apple's self-driving EV car is not coming; project canceled, layoff likely: Report"
-    excerpt: "The Apple car project, at its peak, had a workforce of around 1,400 employees. Some of these employees will be reassigned to Apple's generative AI (GenAI) projects, as the company continues to explore the potential of artificial intelligence."
-    publishedDateTime: 2024-02-28T10:29:00Z
-    webUrl: "https://www.ibtimes.co.in/apples-self-driving-ev-car-not-coming-project-canceled-layoff-likely-report-866425"
-    type: article
-    provider:
-      name: IBTimes India
-      domain: ibtimes.co.in
-    quality: 18
+      name: Reason
+      domain: reason.com
+    quality: 54
     images:
-      - url: "https://data1.ibtimes.co.in/en/full/598822/apple-logo-seen-inside-apple-store-palo-alto.jpg"
-        width: 1200
-        height: 800
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/02/zumaamericasthirtyeight489622-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "The Apple car is dead: tech giant’s plans ‘Project Titan’ self-driving EV hit the buffers"
-    excerpt: "The 2,000-strong team that was working on the car codenamed Project Titan, which was widely rumoured to be a self-driving electric model, will reportedly be repurposed to work on AI, following some layoffs. It’s not known how many of the Apple car staff ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.autoexpress.co.uk/news/362435/apple-car-dead-tech-giants-plans-project-titan-self-driving-ev-hit-buffers"
+  - title: "Apple Abandons Plans for Driverless Electric Car, Shifts Team to AI"
+    excerpt: "Bloomberg's Gurman wrote in January that Apple was at \"a make-or-break point\": The company did not expect to introduce a car until at least 2028, and the final product would have \"more limited features\" than the \"truly driverless car\" originally envisioned ..."
+    publishedDateTime: 2024-02-28T14:50:00Z
+    webUrl: "https://www.aol.com/news/apple-abandons-plans-driverless-electric-195018172.html"
     type: article
     provider:
-      name: AutoExpress
-      domain: autoexpress.co.uk
-    quality: 15
+      name: AOL
+      domain: aol.com
+    quality: 34
+  - title: "Apple Shifts Gears: Abandons Electric Car Efforts After A Decade; Pivots To Artificial Intelligence"
+    excerpt: "Apple Inc has decided to pull the plug on its ambitious decade-long project to develop an electric car, codenamed Project Titan. The decision was disclosed internally on Tuesday, leaving nearly 2,000 employees associated with the project taken aback."
+    publishedDateTime: 2024-02-28T04:51:00Z
+    webUrl: "https://www.goodreturns.in/news/apple-shifts-gears-abandons-electric-car-efforts-after-a-decade-pivots-to-artificial-intelligence-1333199.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 25
     images:
-      - url: "https://media.autoexpress.co.uk/image/private/s--CZGnmfuq--/f_auto,t_primary-image-mobile@1/v1706194981/drivingelectric/2024-01/Apple%20Car_w2kvu7.jpg"
-        width: 375
-        height: 210
+      - url: "https://www.goodreturns.in/img/2024/02/apple-1709095814.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ZD9sBlkzBu6XuTfMA3qr4jT2qQZUoqrO0f8+dx3uWQRmFF32/3xVSKT4e09m5fp2WG7+kMbsX7CAhZxtSeFs6nYjJkbS8MveadQnK6rzL2IUOQssq1j8czpQTO1o01cDG+lnMc1QEX2Dwl+ImlTAJwImyO3GtDlR35W0OMs4B2x8k66RGO3q29TZB6COjzFm6mCIkmzLWvR19NtJ0evxjvWJjFMIr8lvCLYQjYnZteeqrDLs/7eRXNLaVOJa1Z4O6UURJ8Wo78Msbjj8PjfjQDFFb1o2kUXSkV5FQB7fuMrLWclq37bIm/e0+P+JXnwT+W4a69hHnAob9wfeiLtam3vKWrT3EE7/llpMBnvNGWle6Zwzq9eLNvBADvBE6rL8s1pBbqNc7HeEcAfxEHyGQOIWlxg4YD9CNf7if4/3n9BnyIjv03i08PUywMwQilsR87X38hDh7QTxZWxjAb5rqrwZqn6+/PvSlxu+jfCHhvYsgWdLD5q+wt+LNsf8ijsmsc5P5d501ijZwpcayzw3Cg==;6N8XDl8sJA7xyXrFXBzG1Q=="

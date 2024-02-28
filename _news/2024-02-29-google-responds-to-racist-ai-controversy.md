@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Centre To Issue Notice To Google Over Gemini AI's 'Biased' Response To Query On PM Modi: Report"
-    excerpt: "The Ministry of Electronics and Information Technology (Meity) is likely to issue a notice to Google over its AI platform Gemini's“biased” response"
-    publishedDateTime: 2024-02-23T20:08:00Z
-    webUrl: "https://menafn.com/1107891937/Centre-To-Issue-Notice-To-Google-Over-Gemini-AIs-Biased-Response-To-Query-On-PM-Modi-Report"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 7
 
 secured: "ecpxUlqMF8jIFL2ajQL/qx4OlrChCFU6/TJ37gxFVXnryTdbFnkYiuNMEQtVRmZruPh13l200QGbPSfWYjrpIuFE1UjjtYShOa9pt+BwM1vxASLmdziuJEcOU+Fjk9xikwhzCuxTweTby/cN/dwvihdKUXgb7gfLyX0aHoT0/usWfrs5qf9NRXWLoPycHGNA7xbtIlLD8KtsV+Bv1RexemXOz6X44Uc1eq7uk4lYn3umlf2qw6TvTBxNVFJ5k/7TSpWDRuIhWQChLul+EgV11vi0AA3rfrPGmubyi/ZG6zSTXe5L+N6eYh6MMuBpFua1aqK33XQIxRVb/z1jwevJdbK1mwLzO6prStChAQtHSZA=;2x5W1gbEck+IIhl1fvSxgQ=="
 ---

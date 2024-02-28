@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/102044-elon-musk-unveils-new-footage
 webUrl: "https://www.techspot.com/news/102044-elon-musk-unveils-new-footage-tesla-optimus-robot.html"
 type: article
 quality: 76
-heat: 99
+heat: 96
 published: true
 
 provider:

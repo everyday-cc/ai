@@ -27,6 +27,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 95
+  - title: "Amazon’s Billion-Dollar Investment Arm Targets Generative AI in Robotics"
+    excerpt: "He's curious about pretty much everything, but especially loves learning about and sharing big ideas and advances in artificial intelligence, computing, robotics, biotech, neuroscience, and space."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://singularityhub.com/2024/02/28/amazons-billion-dollar-investment-arm-targets-generative-ai-in-robotics/"
+    ampWebUrl: "https://singularityhub.com/2024/02/28/amazons-billion-dollar-investment-arm-targets-generative-ai-in-robotics/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2024/02/28/amazons-billion-dollar-investment-arm-targets-generative-ai-in-robotics/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 88
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2024/02/digit-amazon.jpeg"
+        width: 1132
+        height: 637
+        isCached: true
   - title: "The Best Generative AI Courses Money Can Buy"
     excerpt: "Embark on a journey to master generative AI with the best paid courses available, covering everything from principles and prompt engineering to business applications."
     publishedDateTime: 2024-02-26T05:58:00Z
@@ -98,15 +114,6 @@ related:
       name: Health Affairs
       domain: healthaffairs.org
     quality: 19
-  - title: "Artificial intelligence hallucinations in legal research may be a thing of the past"
-    excerpt: "Lexis+ and Paxton.AI are examples of legal tech solutions incorporating RAG technology. As AI technology evolves quickly, it may soon render any attempts by courts and law societies to limit AI use irrelevant. It appears that technology will solve its problems."
-    publishedDateTime: 2024-02-23T20:54:00Z
-    webUrl: "https://www.canadianlawyermag.com/news/opinion/artificial-intelligence-hallucinations-in-legal-research-may-be-a-thing-of-the-past/383942"
-    type: article
-    provider:
-      name: Canadian Lawyer Magazine
-      domain: canadianlawyermag.com
-    quality: 13
   - title: "H2O.ai Inaugurates GenAI World for Public Sector to Spur Growth and Innovation of Generative AI for Government Departments and Agencies"
     excerpt: "H2O.ai, an open source leader in Generative AI and machine learning, continues its world tour of bringing GenAI"
     publishedDateTime: 2024-02-28T16:41:00Z

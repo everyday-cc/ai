@@ -25,34 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the future of banking, fintech and AI"
-    excerpt: "What are the best use cases for generative AI in banking and fintech? What do banks and fintechs need to do to keep up with technology advances and not get left behind? We invited two long-time experts on finance and technology -- Luis Valdich, managing ..."
-    publishedDateTime: 2024-02-27T12:42:00Z
-    webUrl: "https://www.americanbanker.com/leaders/navigating-the-future-of-banking-fintech-and-ai"
+  - title: "Fintech Disruptors: 7 Growth Stocks That Will Revolutionize Finance"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Some fintech disruptors in the stock market are looking to disrupt the future"
+    publishedDateTime: 2024-02-28T17:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-disruptors-7-growth-stocks-that-will-revolutionize-finance-1033114389"
     type: article
     provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 54
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/7c08039/2147483647/strip/true/crop/1281x673+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F1e%2Fd4%2F2668ce2b403e82ecb39505b3aeac%2Fnavigating-the-future-of-banking-fintech-and-ai-1280x720-suni-harford.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fintech employees trained in AI in just over one-third of central banks"
-    excerpt: "The majority of central banks do not train staff in artificial intelligence (AI), the Fintech Benchmarks 2024 finds. Only 13 (37.1%) of 35 central banks say they offer such training. Seventeen (48.6%) jurisdictions say they do not. However, five (14.3%) central banks say they have such plans in the works."
-    publishedDateTime: 2024-02-28T10:11:00Z
-    webUrl: "https://www.centralbanking.com/benchmarking/fintech/7960900/fintech-employees-trained-in-ai-in-just-over-one-third-of-central-banks"
-    type: article
-    provider:
-      name: Central Banking
-      domain: centralbanking.com
-    quality: 54
-    images:
-      - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-08/benchmark-banner-FINTECH-2024.jpg?itok=tZCXaiT6"
-        width: 1200
-        height: 743
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Ai In Fintech Market Growth, Share, Trends, Analysis Report 2024-2032"
     excerpt: "Financial firms are adopting artificial intelligence (AI) to automate intricate and repetitive tasks, such as data analysis, risk assessment, and user service. This automation enhances efficiency, reduces operational costs, and minimizes human errors."
     publishedDateTime: 2024-02-26T02:55:00Z
@@ -67,133 +48,15 @@ related:
         width: 272
         height: 249
         isCached: true
-  - title: "IBM’s AI vision: Navigating the future of industry with LLMs"
-    excerpt: "Join IBM's Stephen Rose for a deep dive into AI's transformative role in business and strategic implementation challenges."
-    publishedDateTime: 2024-02-27T21:33:00Z
-    webUrl: "https://siliconangle.com/2024/02/27/revolutionizing-industries-ai-strategic-insights-opportunities-ibm-mwc24/"
+  - title: "Finance Minister Nirmala Sitharaman meets with fintech firms to discuss concerns"
+    excerpt: "India's Minister of Finance Nirmala Sitharaman held a meeting with startup and fintech firms on February 26 to discuss their concerns."
+    publishedDateTime: 2024-02-28T05:27:00Z
+    webUrl: "https://www.medianama.com/2024/02/223-finance-minister-nirmala-sitharaman-meets-fintech-firms-discuss-concerns/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Stephen-Rose-general-manager-of-global-industries-at-IBM-AI-focus.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "How AI and Machine Learning Are Shaping Fintech"
-    excerpt: "Fintech has evolved radically in the last few years, thanks in no small part to artificial intelligence (AI) and machine learning (ML). Influencing everything from core operations to how we make critical decisions, AI and ML have found their way into ..."
-    publishedDateTime: 2024-02-28T14:57:00Z
-    webUrl: "https://www.finextra.com/blogposting/25809/how-ai-and-machine-learning-are-shaping-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
-  - title: "Where will fintechs go? With India’s growth prospects, the fintech sector can grow if it follows regulations"
-    excerpt: "Consider 2021—the world is emerging out of the Covid-19 shock, digital technologies are changing the way customers interact with institutions, and data and AI are changing how ... Skip to two years down, and fintech funding has seen significant reduction."
-    publishedDateTime: 2024-02-27T23:19:00Z
-    webUrl: "https://www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/"
-    ampWebUrl: "https://www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 25
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ASTRI sets up FinTech and ESG Alliance"
-    excerpt: "The \"FinTech and ESG Alliance\" marks ASTRI's third alliance formation ... Innovative Mind, and IoT Sensing and AI Technologies. It is applied across six core areas which are Smart City, Financial Technologies, New-Industrialisation and Intelligent ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=4765"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://mma.prnasia.com/media2/2345405/1.jpg?p=medium600"
-        width: 599
-        height: 380
-        isCached: true
-  - title: "5 fintech predictions for 2024: A light at the end of the tunnel"
-    excerpt: "2024 feels a lot better than 2023. While there are still some significant macroeconomic and geopolitical headwinds, the dog days of 2023 are behind us and there is some light at the end of the tunnel."
-    publishedDateTime: 2024-02-27T10:28:00Z
-    webUrl: "https://www.finextra.com/the-long-read/956/5-fintech-predictions-for-2024-a-light-at-the-end-of-the-tunnel"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/956.jpg"
-        width: 799
-        height: 449
-        isCached: true
-  - title: "Anyone nostalgic for the pre-SVB fintech era?"
-    excerpt: "In the UK, KPMG’s Pulse of Fintech, a biannual report on fintech investment trends, saw fintech investment down 34 per cent in 2023, while retaining a lead in Europe. KPMG also found that total fintech investment in the Emea region dropped to $24.5bn in 2023, down from $49.6bn in 2022 and the lowest level of fintech funding in seven years."
-    publishedDateTime: 2024-02-28T09:08:00Z
-    webUrl: "https://www.thebanker.com/Anyone-nostalgic-for-the-pre-SVB-fintech-era-1709108803"
-    type: article
-    provider:
-      name: The Banker
-      domain: thebanker.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https://www.thebanker.com/var/ezflow_site/storage/images/media/images/liz-headshot-july-23/12744001-1-eng-GB/Liz-headshot-July-23.jpg?source=specialist-tb-article&width=816"
-        width: 816
-        height: 459
-        isCached: true
-  - title: "FinTech Australia announces new 'FinTech for Net Zero' event to highlight sector’s focus on sustainability"
-    excerpt: "FinTech Australia, the national association for the Australian FinTech Startup community has launched a new event aimed at showcasing sustainability-focused fintech companies. Held in partnership with The Australian Trade and Investment Commission,"
-    publishedDateTime: 2024-02-26T22:44:00Z
-    webUrl: "https://itwire.com/science-news/climate/fintech-australia-announces-new-fintech-for-net-zero-event-to-highlight-sector’s-focus-on-sustainability.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 21
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/0479e46eb8f30612a33c2f67fe60a88e_M.jpg"
-        width: 375
-        height: 375
-        isCached: true
-  - title: "From Innovation to Investment: The Rise of Top Fintech Startups in Today’s Market"
-    excerpt: "In a world where technology is constantly evolving, the financial industry is no exception. Fintech startups are revolutionizing the way we think about finance, from banking to investing. Join us as we explore the rise of these innovative companies and how they are attracting significant investment in today’s market."
-    publishedDateTime: 2024-02-28T16:05:00Z
-    webUrl: "https://techbullion.com/from-innovation-to-investment-the-rise-of-top-fintech-startups-in-todays-market/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/FinTech-Startup.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Investment in fintech anticipated to have a soft start in 2024"
-    excerpt: "Given the ongoing regulatory changes and ambitious net zero commitments displayed by governments and businesses, it is likely that ESG-focused fintech solutions will chart an upward trend heading into 2024. Moreover, investor interest in AI continued to ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/investment-in-fintech-anticipated-to-have-a-soft-start-in-2024-jyawstbu"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 4
-  - title: "F|T: The FinTech Times – BC court upholds ban on crypto mining, Sequoia backpedals Klarna ousting"
-    excerpt: "Vancouver-based FinTech startup Levr.ai has secured $1 million CAD in seed financing to continue scaling its artificial intelligence (AI)-powered loan software for small businesses. The seed round comes a year after Levr.ai raised $1-million in pre-seed ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-bc-court-upholds-ban-on-crypto-mining-sequoia-backpedals-klarna-ousting/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 0
+      name: MediaNama
+      domain: medianama.com
+    quality: 14
 
 secured: "aIqXPvJSt8ARun2q7aIAGhQo8U7u2as+lbalG8JSihFns4bYmbHj1mZVvXV1GssZZuDVoReI1+hCimerYvjVCqPDNMYiO3I5Prn8fSZP7Bu5AzydFQCUoT+30rWny+ouBXwSx6skPQZK8rmjDiEEZq7acmN0Xqqx9/NLFAYq5FlHhaFAnpdOqDMNLBfYPHdyYAFERnRZEyq/J3ARqwZoKVSm8MdTbCjrIH7AhJugXmeaLMWhGpYJfXW8QbPGTYOVGNKJh84qgEYfsrtC9fBPmlzzfFs6pN3grLY66EcREDefq/gCIQ9Z2hnMvGz3imDZlaSckLSAOjQM8M3QQO4iUQ9fa4+hGwhUqAN/gHbKgA0J0leRNVjfowKAhNDg1mwLgQLAkF7nr31zP0i2br2MeC2u3R1KtTqrwuVP2qgQEm0V0mDNtEqK2MKQzSLBr3emYQBEq0vMWzQ5gQMLbFFUW2NoTPg7ZkdW1RUtQXDlTWSwCNAkKxrORbXJ2pwN3zRV1YkipymfKasxMNeZnPNt4w==;5rZn/3vdj7l2hj+cUiFI3g=="
 ---

@@ -1,32 +1,41 @@
 ---
 category: news
-title: "Apple CEO Tim Cook says company is ‘investing significantly' in generative AI"
-excerpt: "Tim Cook’s remarks at Apple’s annual shareholder meeting represent one of the strongest signals that Apple is embracing the generative AI craze."
-publishedDateTime: 2024-02-28T18:40:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/apple-ceo-tim-cook-says-company-is-investing-significantly-in-generative-ai/5178301/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/apple-ceo-tim-cook-says-company-is-investing-significantly-in-generative-ai/5178301/"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/apple-ceo-tim-cook-says-company-is-investing-significantly-in-generative-ai/5178301/?amp=1"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/apple-ceo-tim-cook-says-company-is-investing-significantly-in-generative-ai/5178301/?amp=1"
+title: "Apple CEO Tim Cook says company is 'investing significantly' in generative AI"
+excerpt: "Tim Cook's remarks at Apple's annual shareholder meeting represent one of the strongest signals that Apple is embracing the generative AI craze."
+publishedDateTime: 2024-02-28T16:40:00Z
+originalUrl: "https://www.cnbc.com/2024/02/28/apple-annual-shareholder-meeting-2024-ai-investments.html"
+webUrl: "https://www.cnbc.com/2024/02/28/apple-annual-shareholder-meeting-2024-ai-investments.html"
 type: article
-quality: 56
-heat: 66
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
 
-images:
-  - url: "https://media.nbcnewyork.com/2024/02/107368250-1706881997417-gettyimages-1972581812-AFP_34HG2TX.jpeg?quality=85&strip=all&resize=1200%2C675"
-    width: 1200
-    height: 675
-    isCached: true
-
 related:
+  - title: "Apple CEO Tim Cook promises big AI push for 2024 — what we know"
+    excerpt: "AI carries its own share of potential pitfalls around ethics, inclusion, and risks. At Wednesday's Apple shareholder meeting, the AFL-CIO’s pension trust had issued a proposal that would have required Apple to issue a report on its ethical use of AI."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.tomsguide.com/ai/apple-ceo-tim-cook-promises-big-ai-push-for-2024-what-we-know"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/5bVodBq8ZhiUbswuQcQZNS-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple will ‘break new ground’ in generative AI this year, Tim Cook teases"
     excerpt: "Apple CEO Tim Cook has a message for Wall Street. He believes Apple “break new ground” on generative AI this year. Cook’s latest AI hype comments came today during Apple’s annual shareholders meeting. During the meeting, a shareholder proposal to release a report on AI and ethics was voted down as expected."
     publishedDateTime: 2024-02-28T17:35:00Z
@@ -42,6 +51,6 @@ related:
         height: 628
         isCached: true
 
-secured: "obfmVa0+t5nbLQwJe8e1x1rZ5YirsUy7NcovG2Swyuxg6h9W8FoAI0CtO+lehO+NHp0uOjydz0JpawqfExwDf93F7jskrkePMstBVvsyo0guG8jXBPVa77Ojij/tTlx9MXVMnoetmAMLonOhOCPWARCIOhYu0HmuS1UsVrKYQA5qzinS0sq3Qm+M9Q8yAzkkoyGduRJzJH24zscTDGB3ZqFOff+bVz6CCKIJ0ZgBySwNcfX9+DHxNXHq9fLSjxFzJMZld9Jhh3eBo/t2r7nfUHcZ9lK2XSuyILgCxex93hbQWHnidHESsPsbTCvx7iSyPHgk2kjuedvm+RL4aaeWwSRPUafDkfhCGS3wF33dmzE=;v6/RbJnTRs8SQG6ED0p8iA=="
+secured: "GSYhj0wf9rm9mPq3mI/wq1NPRGIEhaPZaK4Q75wmnkJy4TOGdO6taUJvdrJ5IfcCEtiva35ZBsbzJ3AeElzGHHNZsJvo+1s96WKVEkhPQDQQAAgYdY6qYn5/BdY1+nBBxsXSuMDyiRpu7p8DxeMj42gB8krfcwgLQbXVyYbUjJnAuSRyifpyMOofjEE5Vid4FsEzAVmuC+HoQNHCcU/4FaNuBj5nHIao4LGe0ORpstDOXQWWnYjiyqRDbeCj5Mn1RiGmvvgszI4scAD8BU9WFEbQuYcNOMFJh9ptm+dd4ABZc9CcBu6gCgffzc15Gj7A72Fahp+kOorPDzD3LcrD+1qTASSbF1KUhII5lHBaKLbymXXlRxBErdATO9E/T7NqzBW7i/6UWIr6HCAeMmlO/u+wyXX3ve0DUCV4SDXPGQe/LLPOJz4KdPNJ2n6RJABXKZ0GIEjsdEyaSkl7Y4UVpx+KeC87t29pMRxDhsi8cwizTp+ZUxG9qyBU4qNFTDV6E6vOAjVhPfm2ID4qBDq8yQ==;w3rpiW1OQH2e/7k0xsting=="
 ---
 

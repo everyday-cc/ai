@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-28T00:00:00Z
 originalUrl: "https://www.uwyo.edu/news/2024/02/uw-and-wyoming-community-navigator-program-to-discuss-using-artificial-intelligence-march-6.html"
 webUrl: "https://www.uwyo.edu/news/2024/02/uw-and-wyoming-community-navigator-program-to-discuss-using-artificial-intelligence-march-6.html"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://www.uwyo.edu/_resources/images/og-images/news.jpg"

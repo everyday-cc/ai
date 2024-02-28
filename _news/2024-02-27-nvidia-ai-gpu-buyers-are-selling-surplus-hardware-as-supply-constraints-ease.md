@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia GeForce RTX 5090 could be up to 70% faster than the 4090, but its best chips might be reserved for AI"
+    excerpt: "There’s another prediction that the card will most likely not have a fully enabled die since Nvidia will almost certainly save its most powerful cards for the booming AI market, the same market that launched the tech giant into the trillion-dollar earnin ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.techradar.com/computing/gpu/nvidia-geforce-rtx-5090-could-be-up-to-70-faster-than-the-4090-but-its-best-chips-might-be-reserved-for-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 65
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/om8KW6UwAaPC2LS6DGzDsC-1200-80.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NVIDIA samples two new AI GPUs for China, both comply with US export restrictions"
     excerpt: "NVIDIA is offering customers samples of two new artificial intelligence chips for the Chinese market, where NVIDIA CEO Jensen Huang wants to defend its market dominance in China against the tides of US export restrictions on AI GPUs in the country."
     publishedDateTime: 2024-02-25T12:19:00Z

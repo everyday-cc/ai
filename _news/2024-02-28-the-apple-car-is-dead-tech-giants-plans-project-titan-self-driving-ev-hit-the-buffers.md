@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Apple Abandons Self-Driving Electric Vehicle Initiative, Plans Workforce Reductions"
-    excerpt: "Apple has reportedly terminated its self-driving electric car project permanently, leading to impending layoffs of 'hundreds of employees' within the division. The decision marks a significant shift for the tech giant,"
-    publishedDateTime: 2024-02-28T05:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/articleshow/108061356.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-108061317,width-1280,height-720,resizemode-4/108061317.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Apple cancels self-driving EV project, to lay off workers: Report"
     excerpt: "The tech giant also scaled back its vision for the self-driving electric vehicle. Initially, the iPhone maker intended to create an automobile with no steering wheel or pedals, allowing passengers to sit facing one another in a limousine-style vehicle."
     publishedDateTime: 2024-02-28T00:00:00Z
@@ -52,6 +36,29 @@ related:
       name: glamsham.com
       domain: glamsham.com
     quality: 24
+  - title: "Geely’s EV brand Zeekr in self-driving push with redesigned 001"
+    excerpt: "Self-driving improvement: Zeekr integrated the revamp with roof-top lidar as standard, along with high-definition cameras and ultrasonic radar sensors around its perimeter, allowing the vehicle to spot objects 200 meters away, a combination intended to ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://technode.com/2024/02/28/geelys-ev-brand-zeekr-in-self-driving-push-with-redesigned-001/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 24
+    images:
+      - url: "https://technode.com/wp-content/uploads/2024/02/IMG_5391.jpg"
+        width: 2000
+        height: 1500
+        isCached: true
+  - title: "Robots and happy workers: Productivity surge helps explain US economy's surprising resilience"
+    excerpt: "Artificial intelligence, they note, is only beginning to penetrate ... Some workers supplanted by robots do often struggle to find new work and end up settling for lower pay. Yet history suggests that in the long run, technological improvements actually ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://journalstar.com/news/nation-world/business/economy/us-happy-workers-robots-productivity-economic-resilience-growth/article_b6087364-a49c-5772-8ad5-81244af17a89.html"
+    type: article
+    provider:
+      name: Lincoln Journal Star
+      domain: journalstar.com
+    quality: 23
   - title: "Apple's self-driving EV car is not coming; project canceled, layoff likely: Report"
     excerpt: "The Apple car project, at its peak, had a workforce of around 1,400 employees. Some of these employees will be reassigned to Apple's generative AI (GenAI) projects, as the company continues to explore the potential of artificial intelligence."
     publishedDateTime: 2024-02-28T10:29:00Z
@@ -66,6 +73,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Navy Yard's self-driving shuttle is ready to begin transporting riders"
+    excerpt: "The first self-driving shuttle service in Pennsylvania will begin operating Tuesday at the Navy Yard, offering a four-stop loop for visitors and workers at the South Philly business hub. The nine-seat, electric-powered van has been tested for more than a ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.phillyvoice.com/navy-yard-self-driving-shuttle-south-philly-autonomous-vehicle/"
+    type: article
+    provider:
+      name: phillyvoice.com
+      domain: phillyvoice.com
+    quality: 2
 
 secured: "ccqrDgzGDWy+/8b77+iSUT/YYSqYS9Q0b2b4fVWVtLIE3XYQMnEUqZ1JOxgnBIca5BkjlJ8FJLzfdQ+KzVwOc52Q/OZjjxFtutogXlrdPssQ8j8rs+veVca66OEWO8AtQg4Jdq22GtQyHvMPPoOS0mX2z8h1NL/dmMzO8aQZp1sSZrB2y/Y88t6O39Uhi637vfrON2ZHiFFT4v8NuZZriUfyfPsn94fva+CFFgze8ziFWFXtplNa9obtgtPxOpyEJsT+CPb+FgOia8l8ujmAHbIs/Bbbtafvy4lBKQVYJJK3pACXJAAim5wfHaJhf8LdjjINLK1Axlrb5xDH0u0sKEi4/5eiMHwQZffjNDiY3R3Zzq5YGBpdxJOTysLoNSl0nfroBUOeYc1eZdck6001AYPyW5R5OqE1+ZqXOJiYhTMKD8LOXNNJNyCpPFkp9Yy99d5nt8QIcYVGeu8YHYOjMhyPa+qxNito2wjTnqXbP39xBtizeJoEPiGn+yBi3bjzs7eDSkbIDVDuL4yndX7WNQ==;oZ8TET4f2IekrQbN5MmTxg=="
 ---

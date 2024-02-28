@@ -42,15 +42,6 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 34
-  - title: "Where AI shines in healthcare"
-    excerpt: "Several major health systems have added AI-assisted colonoscopy devices, such as Iterative Health's Skout and Medtronic's GI Genius, in the last two years. Computer-assisted colonoscopy methods could lead to a 55% decrease in the miss rate of adenomas."
-    publishedDateTime: 2024-02-27T20:38:00Z
-    webUrl: "https://www.beckersasc.com/asc-news/where-ai-shines-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 34
   - title: "QubeHealth Plans Up To $9 Mn Raise For Launching Healthcare In App Marketplace, AI Integration"
     excerpt: "Healthcare-focused fintech startup QubeHealth is looking to raise between $6-$9 Mn as a part of its Series A funding round."
     publishedDateTime: 2024-02-26T13:48:00Z

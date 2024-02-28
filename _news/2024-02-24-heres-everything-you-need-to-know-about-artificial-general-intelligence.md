@@ -33,20 +33,6 @@ related:
         width: 1280
         height: 713
         isCached: true
-  - title: "Bill Foster, a particle physicist-turned-congressman, on why he’s worried about artificial general intelligence"
-    excerpt: "In a Q&A with FedScoop, the Illinois Democrat and House AI task force member discusses his optimism and pessimism on potential AI legislation and his fears about AGI."
-    publishedDateTime: 2024-02-23T21:36:00Z
-    webUrl: "https://fedscoop.com/bill-foster-house-ai-task-force/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 6
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2024/02/GettyImages-1953489292.jpg?w=495"
-        width: 495
-        height: 337
-        isCached: true
 
 secured: "hyNhkh/kZiTufa2VqP6ftm1Vd3yhRKgEAQ90bgx3gc9amh5z7qhFoNbpOs2tgtBKzykD+rdxf/vWXZehkDE5ubvPBNUEPeR8yV68n6pFOKa2G+WmrGCmWUty2PopdHVEHwfeX3qA52jl4q+FaPOFvs5KwRpDzCPKWElCtBxopb50A+Z4EBDWe80CijZSRLUsFy9dfYm1sYNFZY4pY73gE48MwQvKXMjjS4s869/NU7VJzWgK6LlSbSyEGCGi9GwYvouVOAJ0zUVkWKF+xuTR+RHe8WsneXkAy+J+HeS+IUu9x+wj4XESYW+iNy6EUDW88ao75WY0wRbEPTcBs78KCfwqKyCXLQSZNU75Spz1qJA=;ARzFjR2q+mxps0ux3hcU0A=="
 ---

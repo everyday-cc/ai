@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/hedge-funds-artificial-intelligenc
 webUrl: "https://www.businessinsider.com/hedge-funds-artificial-intelligence-talent-culture-clash-citadel-2024-2"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to navigate talent management in the age of AI"
-    excerpt: "Valuing human skills, fostering inclusivity and navigating the ethics of AI can make tech roles sustainable and fulfilling."
-    publishedDateTime: 2024-02-23T21:20:00Z
-    webUrl: "https://www.ciodive.com/news/AI-tech-talent-management-mastercard/707910/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
   - title: "Inside the funding frenzy at Anthropic, one of AI’s hottest startups"
     excerpt: "Other AI startups, including OpenAI ... OpenAI garnered $1 billion from Microsoft and spent most of the money buying computing power through Microsoft’s Azure cloud service. Microsoft has since poured an additional $12 billion into the company, and ..."
     publishedDateTime: 2024-02-26T06:00:00Z

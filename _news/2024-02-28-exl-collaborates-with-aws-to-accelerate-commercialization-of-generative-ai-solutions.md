@@ -25,52 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Six Generative AI Predictions For 2024 And Beyond"
-    excerpt: "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students."
-    publishedDateTime: 2024-02-26T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/"
+  - title: "InnovationRx: Exploring The Future Of Healthcare AI"
+    excerpt: "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal."
+    publishedDateTime: 2024-02-28T22:19:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true
-  - title: "A Marketer’s Guide To Generative AI Startups"
-    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
-    publishedDateTime: 2024-02-26T08:00:00Z
-    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
+  - title: "AI Innovators: 3 Future Stock Leaders to Watch Now"
+    excerpt: "Recently, more and more companies are offering AI-powered solutions and products every day to ride the wave of AI stocks. Yet for investors, this can be confusing, as just because a company claims to incorporate AI, doesn’t necessarily mean profitability."
+    publishedDateTime: 2024-02-28T10:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-innovators-3-future-stock-leaders-to-watch-now-1033114109"
     type: article
     provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Where AI shines in healthcare"
+    excerpt: "Several major health systems have added AI-assisted colonoscopy devices, such as Iterative Health's Skout and Medtronic's GI Genius, in the last two years. Computer-assisted colonoscopy methods could lead to a 55% decrease in the miss rate of adenomas."
+    publishedDateTime: 2024-02-27T20:38:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/where-ai-shines-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 34
+  - title: "From Innovation to Investment: The Rise of Top Fintech Startups in Today’s Market"
+    excerpt: "In a world where technology is constantly evolving, the financial industry is no exception. Fintech startups are revolutionizing the way we think about finance, from banking to investing. Join us as we explore the rise of these innovative companies and how they are attracting significant investment in today’s market."
+    publishedDateTime: 2024-02-28T16:05:00Z
+    webUrl: "https://techbullion.com/from-innovation-to-investment-the-rise-of-top-fintech-startups-in-todays-market/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
     images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2024/01/Americas-next-top-AI-model_Kevvo_comic.jpg"
-        width: 2397
-        height: 2098
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/FinTech-Startup.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
-    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of ..."
-    publishedDateTime: 2024-02-26T13:04:00Z
-    webUrl: "https://www.charlotteobserver.com/press-releases/article285939161.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 0
-  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
-    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"
-    publishedDateTime: 2024-02-26T16:04:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article285939161.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 0
 
 secured: "FH8bGBNOMQdJM4O0r9liZSDArjg6c6T/WvD99CjLPhlFygrBPKl0N/LdcP82zPKsuLrzBK3wYkdFkg/2MhdSOTzNM62p/2YdrWx7XSMXsNagQfRFKN9KQUF6DctUH0o/BQLm8hYqUldScbScb+NjB97CanEbe/ApIuJWkByduunu+lWpSDiSxfyzAgWQl1E+9aW1rRHCaUlQjsl1nLre+7gv+JZkuO6QTs64N5ySEHXdl7OYacFTD/SiZTXvSab6281CsMA1HVJKIs33t0RyDUygjjGov7IMW//IDn4GlgoCiJpj7kZaIlBwrgoXz43aKL12tqmeuyINZ+vOqIp0aOBoPzvGv9a02NTlTlG46zM=;m/JDTKfLe7C7uMg0W4sqAw=="
 ---

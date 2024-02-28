@@ -119,25 +119,11 @@ related:
     provider:
       name: Android Police
       domain: androidpolice.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/02/google-gemini-omelette-samsung-galaxy-s24-plus-1.jpg"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "Google Pauses Gemini Image Generation"
-    excerpt: "Google paused its Gemini image generation capabilities after users complained of its inaccurate and offensive output."
-    publishedDateTime: 2024-02-23T21:33:00Z
-    webUrl: "https://www.thurrott.com/a-i/google-gemini-a-i/298263/google-pauses-gemini-image-generation"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 24
-    images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/gemini-image-gen.jpg"
-        width: 1066
-        height: 600
         isCached: true
   - title: "Experience the AI Revolution with the Google Gemini App"
     excerpt: "In the ever-evolving world of mobile technology, Google Gemini APK stands as a testament to the power of artificial intelligence (AI) in reshaping how we engage with our Android devices. Developed by Google LLC and readily available on Google Play,"

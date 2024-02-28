@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-05-marylands-new-artificial-intelligence-advisor-starts-as-legislator-calls-for-privacy-law.md",
+      "title": "Maryland’s new Artificial Intelligence advisor starts as legislator calls for privacy law",
+      "excerpt": "A veteran in the field of artificial intelligence over parts of four decades pointed to several everyday uses of the technology already — from use in Apple’s Siri voice recognition system to GPS navigation systems, even to robotic vacuum cleaners like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/state/2023/12/05/maryland-is-at-starting-line-artificial-intelligence-advisor-says/71765907007/",
+      "originalUrl": "https://www.usatoday.com/story/news/state/2023/12/05/maryland-is-at-starting-line-artificial-intelligence-advisor-says/71765907007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T09:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-alto-hits-a-high-note-with-ai-driven-depression-therapy.md",
       "title": "Alto hits a high note with AI-driven depression therapy",
       "excerpt": "Alto has previously reported encouraging results with its biomarker-based ‘precision psychiatry’ approach with ALTO-100, a drug targeting brain-derived neurotrophic factor (BDNF), in two trials involving patients with post-traumatic stress disorder as well as MDD.",
@@ -1261,58 +1295,6 @@
         "Microsoft AI",
         "Natural Language Processing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-how-ai-is-used-in-healthcare.md",
-      "title": "How AI Is Used in Healthcare",
-      "excerpt": "In this discussion of artificial intelligence in healthcare, we'll examine where AI is today and then explore several of the top uses for AI in healthcare. AI is generally understood as the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-healthcare/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/woman-doctors-office-treatment.width-600.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

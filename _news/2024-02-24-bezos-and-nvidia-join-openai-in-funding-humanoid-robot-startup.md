@@ -360,15 +360,20 @@ related:
         width: 1024
         height: 848
         isCached: true
-  - title: "Microsoft and OpenAI-backed robotics startup secures funding from Bezos, Nvidia - report"
-    excerpt: "The company, which also enjoys backing from OpenAI and Microsoft Corp . (NASDAQ: MSFT ), is in the process of raising approximately $675 million in a funding round, giving it a pre-money valuation of approximately $2 billion."
-    publishedDateTime: 2024-02-23T20:13:00Z
-    webUrl: "https://za.investing.com/news/microsoft-and-openaibacked-robotics-startup-secures-funding-from-bezos-nvidia--report-432SI-3022163"
+  - title: "Google's AI blunder shows risks in scramble to catch up to Microsoft"
+    excerpt: "Google's attempt to ensure its AI tools depict diversity has drawn backlash as the ad giant tries to catch up to rivals."
+    publishedDateTime: 2024-02-28T19:24:00Z
+    webUrl: "https://www.aol.com/finance/googles-ai-blunder-shows-risks-192344842.html"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 57
+      name: AOL
+      domain: aol.com
+    quality: 58
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/F.1H7F2M4DXRglwyRuPTgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/2fea2e3c147a598fc72acc917a4e3082"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Bezos, Nvidia join OpenAI in funding robot startup"
     excerpt: "The AI robotics industry has been busy lately. Earlier this year, OpenAI-backed Norwegian robotics startup 1X Technologies AS raised US$100 million. Vancouver-based Sanctuary AI is developing a humanoid robot called Phoenix. And Tesla Inc. is working on a ..."
     publishedDateTime: 2024-02-24T07:06:00Z

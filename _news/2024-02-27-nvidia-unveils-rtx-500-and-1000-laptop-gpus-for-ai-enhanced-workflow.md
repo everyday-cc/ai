@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1
 webUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/"
 type: article
 quality: 84
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
     quality: 81
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/RTX-500-_-1000-Blog-Image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nvidia GeForce RTX 5090 could be up to 70% faster than the 4090, but its best chips might be reserved for AI"
+    excerpt: "There’s another prediction that the card will most likely not have a fully enabled die since Nvidia will almost certainly save its most powerful cards for the booming AI market, the same market that launched the tech giant into the trillion-dollar earnin ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.techradar.com/computing/gpu/nvidia-geforce-rtx-5090-could-be-up-to-70-faster-than-the-4090-but-its-best-chips-might-be-reserved-for-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 65
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/om8KW6UwAaPC2LS6DGzDsC-1200-80.jpeg"
         width: 1200
         height: 675
         isCached: true

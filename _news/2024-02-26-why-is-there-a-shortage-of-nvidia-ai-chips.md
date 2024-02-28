@@ -66,22 +66,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 78
-  - title: "US chipmaker Nvidia hits $2tn value amid artificial intelligence boom"
-    excerpt: "Company blows past Wall Street’s expectations with 265% jump in sales after hailing ‘tipping point’ for AI"
-    publishedDateTime: 2024-02-23T20:18:00Z
-    webUrl: "https://www.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/nvidia-ai-stock-market"
+  - title: "How a Shifting AI Chip Market Will Shape Nvidia’s Future"
+    excerpt: "The technology behind generative AI like ChatGPT has exploded, fueling a demand for chips that can handle the processing power these programs need. WSJ visited Amazon’s chip lab to see how these ..."
+    publishedDateTime: 2024-02-25T10:30:00Z
+    webUrl: "https://www.wsj.com/tech/ai/how-a-shifting-ai-chip-market-will-shape-nvidias-future-f0c256b1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/6eb6701b827383e927741aa77b9fb8d3308ff274/0_491_7488_4495/master/7488.jpg?width=620&quality=85&auto=format&fit=max&s=39f3cc2637afa6532a061368f40528be"
-        width: 620
-        height: 372
-        isCached: true
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
   - title: "Bezos, Nvidia, and OpenAI back humanoid robot startup Figure AI"
     excerpt: "Figure AI is in the process of securing approximately $675 million in a funding round, reflecting a pre-money valuation of around $2 billion."
     publishedDateTime: 2024-02-24T01:18:00Z
@@ -182,15 +175,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI Boom Pushes Nvidia's Market Value To $2 Tln"
-    excerpt: "Chipmaker Nvidia's (NVDA) market capitalization hit the $2 trillion mark, fueled by robust demand for AI chips, during the intraday"
-    publishedDateTime: 2024-02-23T20:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-boom-pushes-nvidia-s-market-value-to-2-tln-1033098929"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Nvidia and AI fuel market frenzy"
     excerpt: "Nvidia, which two years ago made most of its money from selling graphics cards for computer games, has now become the world’s third largest company by market value."
     publishedDateTime: 2024-02-24T05:56:00Z
@@ -242,15 +226,6 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
-  - title: "Nvidia becomes AI poster-child following earnings, trillion dollar valuation"
-    excerpt: "\"Accelerated computing and generative AI have hit the tipping point. Demand is surging worldwide across companies, industries, and nations,\" Nvidia CEO Jensen Huang said in an earnings call."
-    publishedDateTime: 2024-02-23T21:52:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/02/23/nvidia-ai-poster-child-earnings-valuation.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
   - title: "Nvidia's surge ripples across stock market - lifting AI, tech and semiconductor ETFs"
     excerpt: "The Global X Robotics & Artificial Intelligence ETF BOTZ, which has around $3 billion of assets under management, closed 4.4% higher, according to FactSet data. Megacap semiconductor company ..."
     publishedDateTime: 2024-02-24T10:44:00Z

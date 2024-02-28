@@ -24,6 +24,17 @@ images:
     height: 700
     isCached: true
 
-secured: "bdCG9Cdu6AkwbA1qvq0TgtxRvNegLzwFxC/XydNgdIltdxIxH+r5JMiZjwLiaMLTQNdafwEEAzoab8Z6rGJVUFux/A0jTigwDx0VA04gG1Fdj06mElAOVeBCimc6Jl53di/mR6yDbwsdL/iUEb/bw9PifwiK6T0ecZzegrKvcPKuydYRNrPASKsX3LNZOVWzN4opQ3vuQyRoSqdNooJhC8HDrevEc+mzy+gxbIgJFhmF2wzFp5n6eg3PQiKT6dZLIQScMRkCIvupDU8ic1xt4m79Aw0qzKG64YyCPcs4SG3aCt/2/M0o4xyy0f1nswcRbwdsy/e/4Lz4Z4+XUGj5BXGEtD+w6q7wfPaNnsEEz7g=;aIWoYcRz+DWmf2SW6mKkJQ=="
+related:
+  - title: "Popular chatbots generating false election information could mislead voters"
+    excerpt: "AI tools are generating false and misleading information about elections, which could affect voter turnout, according to new research."
+    publishedDateTime: 2024-02-28T19:31:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/2894120/chatbots-false-election-information-could-mislead-voters/"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 2
+
+secured: "dISDrvsfzETtn0O37w5GGgYKbTJkbO0sMCPbW1sgQc2UL4eSTqegA6DcTRc99TkGwxwJ2OPVj75UJ9UJjzKHsN1L4etR7Y4FAfCwebr0wLJAR2S7q0iC0O8GgRhhHKPK8079wXeQd/utyd9j+SJba9l9E8tmkWMU1o0ogIlzkQgLrLj9LdnZHCraRE6JAZMH//GLpjhUP1g/BUZdjjzP0WCe7SQH1y8Agl4WFUnZvcqXM2kiFbvet5zdFR9IGGA/WxRhbNRx218Cs2rekCKKmdHQTYd/Ibz1oIdqhTJeaKIL8GAD/Lw9+fvus96XPHo1a9ma8CKXvVUx558Ll5cl+szBIVYAoKpUseG3rmbyIDNv7o0aa1qPpVldaS/Kb3tFd57fAWRbKtKJY7108KuJEz70D/I/s7RWz4NDxkMvCQ/OGbscEtTXwUHyiqABCCK08WzctrZXkXD4zIYjPyLkhGtT37sycNdd3TJ+3c4OTcu3cirCNZ6CGntPlEL9moycfB7KS7UoIqWgg8UbZW8Tbg==;sH7FWepLgHULHattquYljg=="
 ---
 

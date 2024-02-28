@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-09-cincinnati-hospitals-say-artificial-intelligence-like-chatgpt-can-help-patients-doctors.md",
+      "title": "Cincinnati hospitals say artificial intelligence like ChatGPT can help patients, doctors",
+      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Healthcare has been using AI in the back office for quite some time.” Christ Hospital is partnering with Microsoft and Epic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
+      "originalUrl": "https://www.usatoday.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-leukaemia-artificial-intelligence-provides-support-in-diagnostics.md",
       "title": "Leukaemia: artificial intelligence provides support in diagnostics",
       "excerpt": "IT specialists and physicians at the University of Münster have now published a study showing how a method based on artificial intelligence can be used to predict various genetic features on the basis of high-resolution microscopic images of bone marrow smears.",
@@ -1310,49 +1345,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-lake-central-grad-sells-ai-therapy-app-to-silicon-valley-tech-company.md",
-      "title": "Lake Central grad sells AI therapy app to Silicon Valley tech company",
-      "excerpt": "A recent Lake Central High School graduate sold an artificial intelligence therapy app he developed in his dorm room at Indiana University to a Silicon Valley tech firm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nwitimes.com/news/local/lake-central-grad-sells-ai-therapy-app-to-silicon-valley-tech-company/article_82cbde02-9de8-11ee-a1b3-17290673cc9a.html",
-      "originalUrl": "https://www.nwitimes.com/news/local/lake-central-grad-sells-ai-therapy-app-to-silicon-valley-tech-company/article_82cbde02-9de8-11ee-a1b3-17290673cc9a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/custom/image/62705d74-c54a-11ea-8606-37fa834f20c5.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T23:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Northwest Indiana",
-        "domain": "nwitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

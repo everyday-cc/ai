@@ -25,23 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Apple CEO Tim Cook says company is ‘investing significantly' in generative AI"
-    excerpt: "Tim Cook’s remarks at Apple’s annual shareholder meeting represent one of the strongest signals that Apple is embracing the generative AI craze."
-    publishedDateTime: 2024-02-28T18:40:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/apple-ceo-tim-cook-says-company-is-investing-significantly-in-generative-ai/5178301/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/apple-ceo-tim-cook-says-company-is-investing-significantly-in-generative-ai/5178301/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/apple-ceo-tim-cook-says-company-is-investing-significantly-in-generative-ai/5178301/?amp=1"
+  - title: "Apple CEO Tim Cook says company is 'investing significantly' in generative AI"
+    excerpt: "Tim Cook's remarks at Apple's annual shareholder meeting represent one of the strongest signals that Apple is embracing the generative AI craze."
+    publishedDateTime: 2024-02-28T16:40:00Z
+    webUrl: "https://www.cnbc.com/2024/02/28/apple-annual-shareholder-meeting-2024-ai-investments.html"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 56
+      name: CNBC
+      domain: cnbc.com
+    quality: 44
+  - title: "Apple CEO Tim Cook promises big AI push for 2024 — what we know"
+    excerpt: "AI carries its own share of potential pitfalls around ethics, inclusion, and risks. At Wednesday's Apple shareholder meeting, the AFL-CIO’s pension trust had issued a proposal that would have required Apple to issue a report on its ethical use of AI."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.tomsguide.com/ai/apple-ceo-tim-cook-promises-big-ai-push-for-2024-what-we-know"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
     images:
-      - url: "https://media.nbcnewyork.com/2024/02/107368250-1706881997417-gettyimages-1972581812-AFP_34HG2TX.jpeg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://cdn.mos.cms.futurecdn.net/5bVodBq8ZhiUbswuQcQZNS-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true
 
-secured: "/asKWcfu5Op0tViYr/zOTHvAQItrtfxWuniVZ/OTvbsZ8sDmwbtq+Ers6rD1lTbEGQB5pN4iAvN+nt1A90A9h/Acl+UB1BUCEWjcDgVNy8SasNqGBEagPIHUs0O1yN5ezPyyWNiDcCW8uONDEbCP7JtZqK/yMdmLwNYUDxn5np+yLenFhrwDfwTdmLPWUmwJTtO9m0GmNqOORcGqOj587ihyy4waCI9yaJ6vAkm5dOBJWQvFjdQPo475k+A8fbzg45ElDlwWruITUSYGxiE6NPIiMVNySIJkIgLcNwA4r88nKEIcMuzCkxR4Z9dflB5CCYgv4tHV6zcN26dVrKNhwPxfKBXBA6gJTKE/185s/fI=;BVKslKFgV0//tYrm+gdEuQ=="
+secured: "Y5qx42Ek0w/q8n686GirUzroZS8Ms1E0iJRESleG/ebWUlYdNH4FrzZk6s18r4eBFFvwSL3zjMC2UTI9ov55x3QsZ3s4P6h1EOWpCBYB1AWmFmh/ZVThS4GN0G1XGIEhybAxr8vRBEmtlQicp7S9DGSnnAA12RUMcCm2oqq+1+Fbf8qtUnH9P7+qFXbwls+x2/6cvwgtV9tKb8tDrPyNEkS32t1PBNBbydG1VRU5XPnvLaL/V9TD3F1VN3UgLg1NBTlbQ468TW1oogrZuqy1+/dA0ytM0JfaxWWAhVHmo2EkEx9o0UYOnRcOVu4CngAnQGL6XVrWVTyvmTTfsMjpnt8BAzZxhNZ5kqrRmqnsd+kHHCcXwUqgCyFoxywDM7dZbg9o1Lrbwj7W96/dRTHJwf3JIRYuDGq4oenaThDo9N2SAoBrgHz+C7PFqAKWFiww72GPCDd1HLdhZ/9C3JZBnJD8aHU1ycwN/P9cMqYA3jkLmmSpr1GmTigsj9nkCyME0iEmZ3wDnwmvnIUF3v3MxA==;0qhhiv07sPLoUxeZeIwjGQ=="
 ---
 
