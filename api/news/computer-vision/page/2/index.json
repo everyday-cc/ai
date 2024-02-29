@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-13-oxytocin-the-love-hormone-that-holds-the-key-to-better-memory.md",
+      "title": "Oxytocin: The love hormone that holds the key to better memory",
+      "excerpt": "The cognitive function of mice was then evaluated using the Novel Object Recognition Task (NORT),\" explains Prof. Saitoh. The research emphasizes the significant role of OXT in regulating social ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2024-02-oxytocin-hormone-key-memory.html",
+      "originalUrl": "https://medicalxpress.com/news/2024-02-oxytocin-hormone-key-memory.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/oxytocin-the-love-horm.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2024-02-oxytocin-hormone-key-memory.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-02-oxytocin-hormone-key-memory.amp",
+      "publishedDateTime": "2024-02-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-scientists-discover-how-oxytocin-influences-memory-in-animals.md",
+      "title": "Scientists discover how oxytocin influences memory in animals",
+      "excerpt": "The cognitive function of mice was then evaluated using the Novel Object Recognition Task (NORT),\" explains Prof. Saitoh. The research emphasizes the significant role of OXT in regulating social ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20240213/Scientists-discover-how-oxytocin-influences-memory-in-animals.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20240213/Scientists-discover-how-oxytocin-influences-memory-in-animals.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hormone-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-expansive-facial-recognition-surveillance-networks-coming-to-hong-kong-bahrain.md",
       "title": "Expansive facial recognition surveillance networks coming to Hong Kong, Bahrain",
       "excerpt": "The use of FRT for law enforcement has proven controversial, but not enough to deter authorities around the globe from implementing new FRT schemes",
@@ -1346,101 +1432,6 @@
       "provider": {
         "name": "Aclu.org",
         "domain": "aclu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-southampton-trials-facial-recognition-cameras-in-pubs-and-clubs.md",
-      "title": "Southampton trials facial recognition cameras in pubs and clubs",
-      "excerpt": "Facial recognition cameras are being trialled to help stop those banned from pubs and clubs gaining access. The scheme, which is taking place in Southampton, is running for three months across six venues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-hampshire-68071705",
-      "originalUrl": "https://www.bbc.com/news/uk-england-hampshire-68071705",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/122D5/production/_132435447_onlinevidimage2.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-hampshire-68071705.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-hampshire-68071705.amp",
-      "publishedDateTime": "2024-01-29T06:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-this-gwinnett-city-is-using-cameras-with-new-ai-technology-to-help-them-catch-criminals.md",
-      "title": "This Gwinnett city is using cameras with new AI technology to help them catch criminals",
-      "excerpt": "Instead of looking through a week of video to find a “when” and a “where,” object recognition tools help them search for specifics. “From there, we’re able to use the whole ecosystem ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsbtv.com/news/local/gwinnett-county/this-gwinnett-city-is-using-cameras-with-new-ai-technology-help-them-catch-criminals/XXHSGJWG2NGZ3N62P7FUVY5TTU/",
-      "originalUrl": "https://www.wsbtv.com/news/local/gwinnett-county/this-gwinnett-city-is-using-cameras-with-new-ai-technology-help-them-catch-criminals/XXHSGJWG2NGZ3N62P7FUVY5TTU/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/0Cy-XUNNohKQJEmpZdHDZmNVC9g=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/P63XTW5UCVDOPNWE55APCEVPCU.jpeg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wsbtv.com/news/local/gwinnett-county/this-gwinnett-city-is-using-cameras-with-new-ai-technology-help-them-catch-criminals/XXHSGJWG2NGZ3N62P7FUVY5TTU/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/local/gwinnett-county/this-gwinnett-city-is-using-cameras-with-new-ai-technology-help-them-catch-criminals/XXHSGJWG2NGZ3N62P7FUVY5TTU/?outputType=amp",
-      "publishedDateTime": "2024-01-26T22:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSB-TV",
-        "domain": "wsbtv.com",
         "images": null,
         "publishers": null,
         "authors": null

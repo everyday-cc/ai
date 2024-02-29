@@ -25,29 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon to spend $1 billion on startups that combine AI with robots"
-    excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
-    publishedDateTime: 2024-02-28T06:48:00Z
-    webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
+  - title: "What Not To Do With AI In Your Job Search"
+    excerpt: "AI can be a powerful tool when used in job search, but beware its biases. Here are 4 things NOT do when you’re working with AI in your job search."
+    publishedDateTime: 2024-02-29T17:00:00Z
+    webUrl: "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/"
+    ampWebUrl: "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e0875169ee322213dd881a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1348
+        height: 900
         isCached: true
-  - title: "Startup Ideogram Raises $80 Million for AI Image Generation"
-    excerpt: "Ideogram, a company developing artificial intelligence image generation technology, is raising $80 million from investors — a large round for a startup that’s less than two years old. The Toronto-based startup is set to announce its Series A funding ..."
-    publishedDateTime: 2024-02-28T16:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-28/startup-ideogram-raises-80-million-for-ai-image-generation"
+  - title: "Professors grapple with AI in classrooms"
+    excerpt: "Bankard said her largest concern was faulty AI detection software, which occasionally flagged the translation software international ... “There’s lots of issues in terms of bias towards English language learners in that provision,” Bankard said."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://dailytrojan.com/2024/02/29/artificial-intelligence-higher-education/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
+      name: Daily Trojan
+      domain: dailytrojan.com
+    quality: 19
 
 secured: "sie1bJLdPhXsJ995jkX9xRPZrUrehwx9t9WLjjTye9B94JhggWCLkuGKguc6XsN+//9zZYeXn7tU/zuMZN7pMtLX75tih5kAczLB8nRoz3jNL1x9bE8/MB4ylXkfqWsE+8LFgt1Dj++HOSDnwMP4FsSfWJykTCyeFNWhZJxoalD5nUvU8P3fFWytgyJa9HetRXKenZSwaoxj00SRQtkF9gKmtGtmr2O0QcpaNl48PCZSizsbkt0X6gQBPSF302MGMfLP44ieJWBM+ji9sUon90LVDxhxDSYVHAPjhTPYQvM+1OGFql0hZfb9rLE52U56etSWpi4XyibJo1L8dhZAom1k3NPw8Q1ghkg+8EHJbntMM3JJygasM5e7/IBC2Hf1vDF//WbFpUflenUeqffO9ztU9/2kiftYUDqJZ3oyXUXWmWE5INIjn82GVdgql3LqsaP8nZieTzVdoElIGkMVTIMn/aowuejhtvqN+zW0fx0/yDC9YRPrRv/vgJ7cNVgO2ZehfVpBxinKhWCEbgKi9w==;mdy7v/uRyyFwZHC0sXDZUA=="
 ---

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-27-microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure.md",
-      "title": "Microsoft reveals new AI Access Principles for its services and infrastructure",
-      "excerpt": "Microsoft says developers can pick how their AI models are sold, distributed, and used on Microsoft's Azure services. The company claims it will make it easier for developers to switch from Azure to another cloud developer. Also, Microsoft will not use any ...",
+      "path": "_news/2024-03-01-chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker.md",
+      "title": "ChatGPT in Robot Form? OpenAI Partners With Humanoid Robotics Maker",
+      "excerpt": "OpenAI is joining Microsoft, Nvidia, and Jeff Bezos in investing in Figure, a company that's developing human-like robots to rival Tesla's Optimus project.",
       "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/",
+      "webUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
+      "originalUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
       "featuredContent": null,
       "highlight": null,
-      "heat": 590,
+      "heat": 316,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/05/1685285989_microsoft_story.jpg",
-          "width": 760,
-          "height": 451,
+          "url": "https://i.pcmag.com/imagery/articles/01FnhSXxnrPPY6kLTdhKZHF-1.fit_lim.size_1200x630.v1709238414.jpg",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,69 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/",
-      "publishedDateTime": "2024-02-26T22:10:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T21:33:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-use-chatgpt-for-mock-interviews-if-you-want-to-land-a-job-says-ex-disney-recruiter.md",
+      "title": "Use ChatGPT for mock interviews if you want to land a job, says ex-Disney recruiter",
+      "excerpt": "HR executive Simon Taylor told CNBC that job seekers should use ChatGPT's voice feature to practice answering interview questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2",
+      "originalUrl": "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e05f0790413ab8e1d7c0ef?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2?amp",
+      "publishedDateTime": "2024-02-29T12:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -51,6 +104,102 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-robotics-startup-figure-raises-675-mln-from-microsoft-nvidia-other-big-techs.md",
+      "title": "Robotics startup Figure raises $675 mln from Microsoft, Nvidia, other big techs",
+      "excerpt": "Robotics startup Figure said on Thursday it had raised $675 million in an early-stage funding from investors including Nvidia , Microsoft and Amazon.com founder Jeff Bezos at a valuation of $2.6 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/",
+      "originalUrl": "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T12:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-microsoft-made-a-16-million-investment-in-mistral-ai.md",
+      "title": "Microsoft made a $16 million investment in Mistral AI",
+      "excerpt": "Yesterday, Mistral AI, a Paris-based AI startup working on foundational models, announced a new large language model that could rival OpenAI’s GPT-4, a chat assistant and a distribution partnership with Microsoft yesterday. But Microsoft and Mistral AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/",
+      "originalUrl": "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 884,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/amp/",
+      "publishedDateTime": "2024-02-27T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -114,7 +263,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -209,50 +358,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-amazon-founder-jeff-bezos-joins-microsoft-chatgpt-maker-openai-to-invest-in-this-robotics-company.md",
-      "title": "Amazon founder Jeff Bezos joins Microsoft, ChatGPt maker OpenAI to invest in this robotics company",
-      "excerpt": "ARK Venture Fund, Aliya Capital Partners, and Tamarack are also among the startup's investors ... may surpass larger competitors. Figure AI, based in Sunnyvale, California, develops general-purpose humanoid robots capable of operating in various ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 467,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107974425,width-1280,height-720,resizemode-4/107974425.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms",
-      "publishedDateTime": "2024-02-25T02:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1391,93 +1496,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai.md",
-      "title": "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI",
-      "excerpt": "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html",
-      "originalUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2024/02/chatbot-AI-bbo.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp",
-      "publishedDateTime": "2024-02-14T06:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-eu-finds-imessage-three-microsoft-products-dont-qualify-as-core-platform-services.md",
-      "title": "EU finds iMessage, three Microsoft products don’t qualify as core platform services",
-      "excerpt": "Certain provisions of the DMA only apply to products that are designated as “core platform services” by regulators. The decision the EU published today specifies iMessage and three Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/02/13/eu-finds-imessage-three-microsoft-products-dont-qualify-core-platform-services/",
-      "originalUrl": "https://siliconangle.com/2024/02/13/eu-finds-imessage-three-microsoft-products-dont-qualify-core-platform-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/photo-3.png",
-          "width": 718,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T22:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

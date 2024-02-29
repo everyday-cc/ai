@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-17-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond.md",
+      "title": "AI’s pivotal role in shaping the future of finance in 2024 and beyond",
+      "excerpt": "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-16T181908.967.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/",
+      "publishedDateTime": "2024-02-17T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-02-17-the-ai-alliance-how-to-make-friends-and-influence-ai-policy.md",
       "title": "The AI Alliance: How To Make Friends And Influence AI Policy",
       "excerpt": "Goodson discusses the work of the AI Alliance and considers the possible outcomes of several companies being notably absent from its membership.",
@@ -1381,58 +1425,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-create-an-ai-center-of-excellence-to-kickstart-and-sustain-success.md",
-      "title": "Create An AI Center Of Excellence To Kickstart And Sustain Success",
-      "excerpt": "A center of excellence, or COE, can coordinate and drive adoption of sustainable AI benefits for the entire organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee90f75a2b06400077bbb41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1348,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/amp/",
-      "publishedDateTime": "2024-02-01T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

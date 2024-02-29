@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/28/technology/behind-the-apple-car
 webUrl: "https://www.nytimes.com/2024/02/28/technology/behind-the-apple-car-dead.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Behind Apple’s doomed car project: False starts & wrong turns"
+    excerpt: "As a result of dueling views among leaders about what an Apple car should be, it began as an electric vehicle that would compete against Tesla and morphed into a self-driving car to rival Google’s Waymo ... to work on artificial intelligence—Apple ..."
+    publishedDateTime: 2024-02-29T20:04:00Z
+    webUrl: "https://www.deccanherald.com/business/companies/behind-apple-s-doomed-car-project-false-starts-wrong-turns-2916761"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 4
 
 secured: "mi+c3e+2zDGNoBQT6fVrXxl7/U8kV7u3VgvpvXQBqGCETM1n7TGfU9j43+RQT5GOnusz2Pb43UKBXVwwmg24H4e8Pf/NN1PedtLjkkvHPsDFihnePUrD5qPucTbv7hRQMzBbVPQ491a6bRQHppHHhPsQCxSDplyZ5Ir2cbnwaXGhnrZLBPvESfVdOjNLRKu+QXT/7t5Vt6WD14ARihOEkMMnWRuulZPmE7aWMkcYouo6qOG9EHb0Mk21xAZUm9z4qeyQaopj3/lj04G857akaFmF1dXgezK3fK0mrHAyALuFdHLbevbSyiq5Iyw9NYvozAP0dmlvQq8lbN9WspSYFhs4g97u3CXby/GJ1qtyBQlQUQ3CW43eGm4RdWUVD3Bvut5rOBEnCQ8ZNrsoK9oZgahNNC3dpHGD+HLlTgpcTCQQltGNzc4c/IBKtSenmvgeYhmsLQIpqt3QgGYm2d8y5UJZSTOjMTX3lnwn2qNL4CkmFblAiwg2yxZT01zYojC8BGzUTAooAYLvnpn8wQJe7Q==;bXrKdJ4ocE9vWi4svA3dkQ=="
 ---

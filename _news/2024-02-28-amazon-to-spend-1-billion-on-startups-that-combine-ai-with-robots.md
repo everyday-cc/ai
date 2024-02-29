@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-st
 webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon to invest in start-ups that combine AI with robotics"
-    excerpt: "Franziska Bossart, head of ecommerce giant’s $1bn innovation fund, vows to increase deals aimed at automating retail network"
-    publishedDateTime: 2024-02-28T10:59:00Z
-    webUrl: "https://www.ft.com/content/7e0e2565-e2d3-4e86-872c-8810633c63b0?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 69
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fab4fa187-953d-4679-8aa0-dd9b2dc4ae2b.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Startup Ideogram Raises $80 Million for AI Image Generation"
     excerpt: "Ideogram, a company developing artificial intelligence image generation technology, is raising $80 million from investors — a large round for a startup that’s less than two years old. The Toronto-based startup is set to announce its Series A funding ..."
     publishedDateTime: 2024-02-28T16:30:00Z

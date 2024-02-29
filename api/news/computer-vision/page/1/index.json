@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-01-richmond-international-airport-begins-using-facial-recognition-technology.md",
+      "title": "Richmond International Airport begins using facial recognition technology",
+      "excerpt": "Security checkpoints at the Richmond International Airport have begun using facial recognition technology to confirm the validity of travelers’ identification that confirms their flight",
+      "sourceUrl": null,
+      "webUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/",
+      "originalUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wric.com/wp-content/uploads/sites/74/2024/02/ric-feature-img-new-tech.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/",
+      "publishedDateTime": "2024-02-29T21:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRIC",
+        "domain": "wric.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-hid-certify-health-and-cts-align-to-elevate-healthcare-with-facial-recognition.md",
       "title": "HID, CERTIFY Health, and CTS align to elevate healthcare with facial recognition",
       "excerpt": "Related To: HID Global AUSTIN, Texas, February 28, 2024 – HID has announced a collaborative self-service patient engagement and facial recognition offering designed to enhance healthcare operations and administer an improved patient service at every ...",
@@ -203,7 +246,7 @@
       "originalUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -225,6 +268,58 @@
         "name": "Deccan Chronicle",
         "domain": "deccanchronicle.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-25-facial-recognition-software-discovered-in-college-campus-vending-machines.md",
+      "title": "Facial recognition software discovered in college campus vending machines",
+      "excerpt": "The University of Waterloo in Ontario, Canada, began removing its vending machines after discovering facial recognition technology on one of them. The machine's operators and manufacturers",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102013-facial-recognition-software-discovered-college-campus-vending-machines.html",
+      "originalUrl": "https://www.techspot.com/news/102013-facial-recognition-software-discovered-college-campus-vending-machines.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-24-image-12.jpg",
+          "width": 2407,
+          "height": 1460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T14:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1271,92 +1366,6 @@
       "provider": {
         "name": "IFLScience",
         "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-oxytocin-the-love-hormone-that-holds-the-key-to-better-memory.md",
-      "title": "Oxytocin: The love hormone that holds the key to better memory",
-      "excerpt": "The cognitive function of mice was then evaluated using the Novel Object Recognition Task (NORT),\" explains Prof. Saitoh. The research emphasizes the significant role of OXT in regulating social ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-02-oxytocin-hormone-key-memory.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-02-oxytocin-hormone-key-memory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/oxytocin-the-love-horm.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2024-02-oxytocin-hormone-key-memory.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-02-oxytocin-hormone-key-memory.amp",
-      "publishedDateTime": "2024-02-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-scientists-discover-how-oxytocin-influences-memory-in-animals.md",
-      "title": "Scientists discover how oxytocin influences memory in animals",
-      "excerpt": "The cognitive function of mice was then evaluated using the Novel Object Recognition Task (NORT),\" explains Prof. Saitoh. The research emphasizes the significant role of OXT in regulating social ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20240213/Scientists-discover-how-oxytocin-influences-memory-in-animals.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20240213/Scientists-discover-how-oxytocin-influences-memory-in-animals.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hormone-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

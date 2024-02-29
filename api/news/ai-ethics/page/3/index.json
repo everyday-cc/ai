@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-01-create-an-ai-center-of-excellence-to-kickstart-and-sustain-success.md",
+      "title": "Create An AI Center Of Excellence To Kickstart And Sustain Success",
+      "excerpt": "A center of excellence, or COE, can coordinate and drive adoption of sustainable AI benefits for the entire organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee90f75a2b06400077bbb41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1348,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/amp/",
+      "publishedDateTime": "2024-02-01T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-the-economy-and-ethics-of-ai-training-data.md",
       "title": "The economy and ethics of AI training data",
       "excerpt": "Tech firms argue artificial intelligence chatbots have a right to freely-available internet content, just like humans.",
@@ -1388,49 +1440,6 @@
       "provider": {
         "name": "International Monetary Fund",
         "domain": "imf.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom.md",
-      "title": "Educators raise concerns over the ethics of AI in the classroom",
-      "excerpt": "In terms of the firms of artificial intelligence, then AI-powered educational games are the most common AI-based tool in education,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
-      "originalUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2023/03/858a2aeed551f87b6dce829de26ddd2aa6a18da3.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T15:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,276 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2023-12-15-krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2.md",
+      "title": "Krutrim: India’s own AI model launched by OLA, competes with GPT-4 and Llama-2",
+      "excerpt": "In Sanskrit “Krutrim” means artificial, and hence the name. Aggarwal’s AI venture, the Krutrim Si Designs was inaugurated in April 2023. It was set up in partnership with Krishnamurthy Venugopala Tenneti, who is one of the board members of ANI Technologies Ltd, which owns Ola Cabs and Ola Electric.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2/",
+      "originalUrl": "https://www.digit.in/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/Krutrim.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/news/general/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2.html/amp/",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2.html/amp/",
+      "publishedDateTime": "2023-12-15T11:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use.md",
+      "title": "AI in healthcare: Duke Health signs pledge for ethical, responsible use",
+      "excerpt": "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
+      "originalUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/12/robot-AI-doctor-e1702640075182.jpg",
+          "width": 1262,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
+      "publishedDateTime": "2023-12-15T11:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-the-potential-of-embodied-ai.md",
+      "title": "The Potential Of Embodied AI",
+      "excerpt": "You don't have to necessarily be a technical expert to reap some of the benefits of AI-powered tools in your own business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657b4fcfd2b7da06875045b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/",
+      "publishedDateTime": "2023-12-15T11:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-intel-unveils-new-ai-chips-to-rival-nvidias-dominance-in-ai-industry-intc-stock-up-1.md",
+      "title": "Intel Unveils New AI Chips to Rival Nvidia’s Dominance in AI Industry, INTC Stock Up 1%",
+      "excerpt": "Dubbed Gaudi3, Intel intends to attract generative AI companies like OpenAI away from Nvidia and bolster its stock market performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/intel-ai-chips-intc-stock/",
+      "originalUrl": "https://www.coinspeaker.com/intel-ai-chips-intc-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/12/intel-ai-chips-intc-stock.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/intel-ai-chips-intc-stock/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/intel-ai-chips-intc-stock/amp/",
+      "publishedDateTime": "2023-12-15T11:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-bank-of-america-stadium-introduces-facial-recognition-for-express-entry.md",
+      "title": "Bank of America Stadium introduces facial recognition for express entry",
+      "excerpt": "New technology at Bank of America Stadium will allow certain fans to enter the stadium without having to scan their tickets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
+      "originalUrl": "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wfmynews2.com/assets/WCNC/images/f916cab2-7809-4606-a90a-02908ceed316/f916cab2-7809-4606-a90a-02908ceed316_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
+      "cdnAmpWebUrl": "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
+      "publishedDateTime": "2023-12-15T10:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMY News2",
+        "domain": "wfmynews2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-driven-by-ai-micron-sees-robust-chip-demand.md",
+      "title": "Driven by AI, Micron sees robust chip demand",
+      "excerpt": "US-based chipmaker Micron Technology is expecting demand for semiconductors to rise significantly in the next few years, globally and in India, as memory consumption is going up, largely driven by the widespread adoption of technologies like artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm",
+      "originalUrl": "https://www.rediff.com/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/345-230/money/2023/dec/14nirmala-sitharaman.jpg",
+          "width": 345,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm",
+      "publishedDateTime": "2023-12-15T10:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-recent-cases-raise-questions-about-the-ethics-of-using-ai-in-the-legal-system.md",
       "title": "Recent cases raise questions about the ethics of using AI in the legal system",
       "excerpt": "NPR's Steve Inskeep asks the director of the Private Law Clinic at Yale University, Andrew Miller, about the ethics of using artificial intelligence in the legal system.",
@@ -904,308 +1174,6 @@
         "AI",
         "AI Hardware",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-2024-healthcare-insiders-predict-the-future.md",
-      "title": "2024: Healthcare Insiders Predict The Future",
-      "excerpt": "I hope you find their predictions and insights as intriguing as I do. AI to Bridge the Gaps to Human-Centered Health Care Artificial intelligence (AI) and machine learning (ML) have the promise of bridging gaps in medical education and creating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657b8269d0998e5ffed4e4c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1257,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/amp/",
-      "publishedDateTime": "2023-12-14T19:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-gm-self-driving-arm-cruise-is-laying-off-24-of-its-workforce.md",
-      "title": "GM self-driving arm Cruise is laying off 24% of its workforce",
-      "excerpt": "A Cruise self-driving car, which is owned by General Motors Corp, is seen outside the company's headquarters in San Francisco where it does most of its testing, in California, U.S., September 26 ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2023/12/14/tech/gm-cruise-layoffs/index.html",
-      "originalUrl": "https://edition.cnn.com/2023/12/14/tech/gm-cruise-layoffs/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/2023-11-20t222000z-618296731-rc29h4acjneq-rtrmadp-3-gm-cruise-cofounder.JPG?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/14/tech/gm-cruise-layoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/14/tech/gm-cruise-layoffs/index.html",
-      "publishedDateTime": "2023-12-14T19:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts.md",
-      "title": "AI, machine learning to lead the way to achieve Net Zero: Experts",
-      "excerpt": "At the event, Rupesh Umtol, co-founder and Director, Electro-Mech Consultants showcased a digital twin model creation concept called Btrlyf -- a culmination of AI/ML that analyses older buildings with respect to energy efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
-      "originalUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/ai_1200_gettyimages.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
-      "publishedDateTime": "2023-12-14T18:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-tying-environmental-outcomes-to-real-business-value-may-be-simpler-than-you-think.md",
-      "title": "Tying environmental outcomes to real business value may be simpler than you think",
-      "excerpt": "There has been a lot of recent discussion around the business value of environmental, social and governance (ESG) reporting and financials.\nThe post Tying environmental outcomes to real business value may be simpler than you think appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/tying-environmental-outcomes-to-real-business-value-may-be-simpler-than-you-think/",
-      "originalUrl": "https://www.ibm.com/blog/tying-environmental-outcomes-to-real-business-value-may-be-simpler-than-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/tying-environmental-blog-.png",
-          "width": 630,
-          "height": 329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T18:27:13Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free.md",
-      "title": "Have 10 hours? IBM will train you in AI fundamentals - for free",
-      "excerpt": "Run AI Models with IBM Watson Studio (1 hour and 45 mins): In this course, you'll practice creating an AI machine learning model in a series of simulations, using IBM Watson Studio. This is hands-on time that can help you do actual work with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
-      "originalUrl": "https://www.zdnet.com/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/889ceba98c79fe79abc49245bd51e50e4fc7b180/2023/12/14/03b8fcaa-5075-4f54-8aca-54553859c0f1/gettyimages-1143470996.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
-      "publishedDateTime": "2023-12-14T17:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-salesforces-einstein-copilot-ai-will-soon-analyze-unstructured-data.md",
-      "title": "Salesforce’s Einstein Copilot AI Will Soon Analyze Unstructured Data",
-      "excerpt": "At the Salesforce World Tour New York 2023 event, Salesforce expanded on its Apple partnerships. Find out more Salesforce news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/salesforce-world-tour-new-york-2023-einstein-copilot/",
-      "originalUrl": "https://www.techrepublic.com/article/salesforce-world-tour-new-york-2023-einstein-copilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/12/tr_20231214-salesforce-world-tour-new-york-2023-einstein-copilot.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T17:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

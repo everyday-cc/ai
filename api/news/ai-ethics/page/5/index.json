@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-15-ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use.md",
+      "title": "AI in healthcare: Duke Health signs pledge for ethical, responsible use",
+      "excerpt": "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
+      "originalUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/12/robot-AI-doctor-e1702640075182.jpg",
+          "width": 1262,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
+      "publishedDateTime": "2023-12-15T11:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-recent-cases-raise-questions-about-the-ethics-of-using-ai-in-the-legal-system.md",
       "title": "Recent cases raise questions about the ethics of using AI in the legal system",
       "excerpt": "NPR's Steve Inskeep asks the director of the Private Law Clinic at Yale University, Andrew Miller, about the ethics of using artificial intelligence in the legal system.",
@@ -1333,49 +1377,6 @@
       "provider": {
         "name": "Hindustan Times Tech",
         "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-lg-unesco-partner-to-promote-ai-ethics.md",
-      "title": "LG, UNESCO partner to promote AI ethics",
-      "excerpt": "LG AI Research, LG Group's artificial intelligence think tank, said Sunday it has signed a letter of intent with UNESCO in Seoul to jointly foster knowledge and awareness of the ethics of AI. LG highlighted the agreement as the first of its kind,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20231126000092",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20231126000092",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F11%2F26%2F20231126000089_0.jpg",
-          "width": 630,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20231126000092",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231126000092",
-      "publishedDateTime": "2023-11-26T05:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
         "images": null,
         "publishers": null,
         "authors": null

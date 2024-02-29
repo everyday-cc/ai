@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/amp/"
 type: article
 quality: 91
-heat: 301
+heat: 291
 published: true
 
 provider:
@@ -294,15 +294,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Nokia and Nvidia partner for AI mobile networks"
-    excerpt: "Telco OEM Nokia plans to develop AI-ready radio access network (RAN) solutions in partnership with GPU darling Nvidia. As part of Nokia's anyRAN effort, the companies will develop cloud-network technology and explore how AI can revolutionize the industry."
-    publishedDateTime: 2024-02-24T20:07:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nokia-and-nvidia-partner-on-ai-mobile-networks/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 19
 
 secured: "xjJftGrJJZ1SfGkqbnmNX+gvZ1ZmT22nR80BlXmhIyhj6hjQFf8SMFLM6cxPS+mMn4g7LyLWjBhG4NIQuL5FD3QqC/pZbb2uUoLvPEv8pu4QTeLEosiN8Tz82qeImMHga7yo3lmi5L1H778wcvtFWwGaZTnLNyqKTF1JtY9Xyou62yD7XcNymR7oeFj44KW3AQ3XfRSnYbXEQjrI8388nAIfdwIRtipr+bMOzQXY7hnmzn/krBTjkokizM9lFeJvR+LErnnfshRZaLzT0nYW1bWffyNsmK8Wquvq/9gSUpfJh4ZzQSZB2siZ214aqqs2ANYb6XgR0dWbm6pqdQYgA25Ia7rTFWa3dEnEGSzlTVkJzUXPO8srDIgKIWUDZYufcYxLokOO2ZlCqCY/sfAf3VguvxqD+mEjMTJ6RpfzTquFdU59/li2BnzgDomhr4Zg2Oim/LtABpxwigqCq2JpANFFyFLSbgHIdA/Z25pDDlo9zZ0I8YiOa+sgasIMOH9J9Z0mawoOMIBcdH34XXsDLQ==;JsIlDb2cm8Hy4QwISQLB3A=="
 ---

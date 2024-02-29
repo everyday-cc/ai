@@ -25,21 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup DeepX nears $90 million in fresh funding"
-    excerpt: "AI chip startup DeepX Co. is close to raising 120 billion won ($90 million) in a funding round to accelerate production and bankroll global expansion, according to people familiar with the matter. The South Korean firm has secured 60 billion won from ..."
-    publishedDateTime: 2024-02-26T07:46:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html/amp"
+  - title: "Robotics startup Figure raises $675 mln from Microsoft, Nvidia, other big techs"
+    excerpt: "Robotics startup Figure said on Thursday it had raised $675 million in an early-stage funding from investors including Nvidia , Microsoft and Amazon.com founder Jeff Bezos at a valuation of $2.6 billion."
+    publishedDateTime: 2024-02-29T12:02:00Z
+    webUrl: "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 76
+      name: Reuters
+      domain: reuters.com
+    quality: 92
+  - title: "AI startup 'Figure AI' scores $675M from Bezos, Nvidia, and others to advance humanoid robots"
+    excerpt: "Figure AI develops human-like robots powered by artificial intelligence. It raised around $675 million in a recent funding round, with Amazon founder Jeff Bezos and Nvidia"
+    publishedDateTime: 2024-02-25T19:56:00Z
+    webUrl: "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 75
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/04/397635018.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-25-image-3.jpg"
+        width: 2000
+        height: 1001
         isCached: true
 
 secured: "H8oZqPC/rNg5paGBjojVke4AGbqIbcodDH1UMlmjvNRRi5A90rN9r3eN+RfneSeaOXV5ytA9dZeq2YSeRd3PMlARxe/DTOeuO1Po1doDFGYcWc34zVPqYoyrSHYoSoT9dF6hmSMGNV++eFLYVQxs92yQitVT6uIIg5uFkmKNuNn4nd2JDqjvTbTXepogljK5fs/XIgkkLBO+JkMGDLuizmO149GLBlwrR/UtpV2WMp+ULvYNwZk+3MKPZQmzqf6JYwQOkn6Oi2mnwPe1eWW/dLZ/9rDC1UJyvITebQvcEsqhqtobLOVlwZPwTCtO9tmI/OldGqeUpYPA+Bkh4ET3rq8tINnF5XbaDlAsNLaxtWo=;oh4HiqNG316KJjq0OT9OrA=="

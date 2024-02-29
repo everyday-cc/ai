@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/ai-momentum-is-underpriced-in-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Divest China from America’s artificial intelligence industry"
+    excerpt: "As the U.S. government continues seeking to comply with President Biden’s recent executive order to implement “safe, secure and trustworthy” artificial intelligence, it must ensure that the contractors it partners with to secure this objective divest ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.washingtontimes.com/news/2024/feb/29/divest-china-from-americas-artificial-intelligence/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 37
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2024/02/29/B3-YANG-AI-Race-GG_c0-777-2200-2060_s1200x700.jpg?fc002849841832531ed3b008d29349d957537392"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "75D9/oKLwCRIUr4Fv4RfWG4EuAzJgfWikpahDPLU6MJLxUEyN9GZUZz+w/OMzxjlVE8uf+AgScpY5g+vZeMrjOzrW5HR/MBIejmslQEG3pAbiwBUT/SBXJauGN+jDU5E24SQxqLPJ6I4jJt88UyHQWNziUJJE5+hyotHQIZmUuJ/YPEplUNJYKqixJyhx+zhdNsXCkGBIQRdP1/u0Vr5tYPPo8eFtp+WJ1TNugzoy5FuAWJH6j2TUrSEHyWLhSnOKXxUv1TxVKyroxw4curIkNJvdOkt2TfwWhxLIP+Gd0GEe0S/HIiBuOTLol8f80S8on02CitRDTXVCOWCLgmvPA+bHx6ed3qK5rIC4cr7ja4=;LG/CJTle8Kl5pna8RG45Gw=="
 ---

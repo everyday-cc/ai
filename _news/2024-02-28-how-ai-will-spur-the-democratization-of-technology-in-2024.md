@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/02-27-2024/t_8de89b85f1704088995080cbfb473ad2_name_image.jpg?_a=ATAPphC0"
         width: 700
         height: 394
+        isCached: true
+  - title: "The National Science Foundation wide-and-far on artificial intelligence"
+    excerpt: "The National Science Foundation (NSF) is on the march, establishing what it calls regional innovation engines. It is getting organized around AI."
+    publishedDateTime: 2024-02-29T20:29:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/the-national-science-foundation-wide-and-far-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/nsfalexandria1_HiRes-scaled-e1689368048557.jpg"
+        width: 2560
+        height: 1708
         isCached: true
   - title: "Best of MWC 2024 — best phones and biggest innovations from the show"
     excerpt: "The on-board AI assistant is designed to be a true companion too, with Chat GPT-powered conversation, object recognition, real-time translation and on-glasses navigation. And that’s all without ever having to link to your phone. If this is a taste of ..."

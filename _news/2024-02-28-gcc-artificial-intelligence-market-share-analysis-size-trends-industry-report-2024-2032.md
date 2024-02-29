@@ -40,6 +40,15 @@ related:
         width: 272
         height: 249
         isCached: true
+  - title: "Why fintech startups need to prioritize email security"
+    excerpt: "The financial sector has been at the forefront of technological development for many decades, but what we call ‘fintech’ was really born as a result of the 2008 financial crisis. Clients lost faith in traditional banking processes,"
+    publishedDateTime: 2024-02-29T18:46:00Z
+    webUrl: "https://techbullion.com/why-fintech-startups-need-to-prioritize-email-security/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
   - title: "3 Fintech Stocks That Will Keep Growing in 2024 and Beyond"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are changing the way we look at finance. These companies"
     publishedDateTime: 2024-02-29T16:59:00Z

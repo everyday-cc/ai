@@ -2,6 +2,102 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-04-what-microsofts-custom-silicon-means-for-azure.md",
+      "title": "What Microsoft’s custom silicon means for Azure",
+      "excerpt": "Microsoft is laying the groundwork for a hardware-accelerated Azure cloud with its own custom AI silicon, Arm server processors, virtualization offload, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.amp.html",
+      "publishedDateTime": "2024-01-04T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-2023-the-year-of-ai-chatgpt-bard-google-gemini-deepfakes-and-ai-laws.md",
+      "title": "2023 the Year of AI: ChatGPT, Bard, Google Gemini, Deepfakes and AI Laws",
+      "excerpt": "AI, if these two letters didn’t dominate your 2023, what did? It was the year Google, Microsoft, Meta and Amazon went into an AI arms race, investing heavily in it. ChatGPT, Bard, Google Gemini have made AI a household name.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/newsmo/video/2023-the-year-of-ai-chatgpt-bard-google-gemini-deepfakes-and-ai-laws-2481957-2023-12-29",
+      "originalUrl": "https://www.indiatoday.in/newsmo/video/2023-the-year-of-ai-chatgpt-bard-google-gemini-deepfakes-and-ai-laws-2481957-2023-12-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202312/ai-290524479-16x9_0.png?VersionId=sFeq08YDZRHmCBumxNESofNjCKtLBkZ3",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/newsmo/video/2023-the-year-of-ai-chatgpt-bard-google-gemini-deepfakes-and-ai-laws-2481957-2023-12-29",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/newsmo/video/2023-the-year-of-ai-chatgpt-bard-google-gemini-deepfakes-and-ai-laws-2481957-2023-12-29",
+      "publishedDateTime": "2023-12-29T11:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-baidus-chatgpt-like-ernie-bot-has-more-than-100-million-users-cto.md",
       "title": "Baidu's ChatGPT-Like Ernie Bot Has More Than 100 Million Users -CTO",
       "excerpt": "BEIJING (Reuters) - Baidu's ChatGPT-like Ernie Bot has garnered more than 100 million users, chief technology officer of the Chinese internet company Wang Haifeng said on Thursday.",
@@ -1373,111 +1469,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-infoworlds-2023-technology-of-the-year-award-winners.md",
-      "title": "InfoWorld’s 2023 Technology of the Year Award winners",
-      "excerpt": "InfoWorld recognizes the year’s best products in software development, cloud computing, data analytics, AI, and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711524/infoworlds-2023-technology-of-the-year-award-winners.html",
-      "originalUrl": "https://www.infoworld.com/article/3711524/infoworlds-2023-technology-of-the-year-award-winners.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/12/toy-2023-logo-100949078-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711524/infoworlds-2023-technology-of-the-year-award-winners.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711524/infoworlds-2023-technology-of-the-year-award-winners.amp.html",
-      "publishedDateTime": "2023-12-15T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-solix-launches-new-enterprise-data-platform-for-the-gen-ai-era.md",
-      "title": "Solix launches new enterprise data platform for the gen AI era",
-      "excerpt": "As its name implies, the CDP acts as a centralized repository that organizes an enterprise's various data assets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/solix-launches-new-enterprise-data-platform-for-the-gen-ai-era/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/solix-launches-new-enterprise-data-platform-for-the-gen-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_multiple_cl_41a255b1-2221-4893-933f-b62cea6e909e.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T08:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI",
         "Microsoft AI"
       ]

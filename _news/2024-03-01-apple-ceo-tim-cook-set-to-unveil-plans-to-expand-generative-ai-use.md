@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-t
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 32
+  - title: "SEC sues ex-CEO AI startup for fraud"
+    excerpt: "Paul Pereira denies making false and misleading statements about the company's performance to boost its stock."
+    publishedDateTime: 2024-02-29T19:30:00Z
+    webUrl: "https://www.accountingtoday.com/news/sec-sues-ex-ceo-ai-startup-alfi-for-fraud"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 17
 
 secured: "nArs9V+qwtQMILbjsfGhh/n07uMel3VTb2pj29e6m2DJR0wXar8djOTMaa8XXKNcDwlcOUoGOU5aG+LoGZ715X77gPEmEASlsNjvgkoGgarUcI6OpHD3FcRSQokQ5WWStS5WVC87Ewf0zdl7AyCSDt8jnH+ZU3Vz8Db7+wcxpQMR7SbPH1QGDmgVqbvNKP2jwkZkIu7nbePin1Cz3gUFEDeCojWZh1A9i2sFG9bZoiTuG+D1I3Iy1RbShTIbW1P0E+5FuPnFLso8ROhUwuYY57b1x5IxES2aYH4hc/G7XR067iABGm3OvkaGcVr9pg1QxoNiRYoXfTjWfZrqggt/6pU0U+xHERQpQmo+vW81TcM=;CW+qefnW9sEIQKpSHVSlNQ=="
 ---

@@ -39,6 +39,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Stellantis llama a revisión a 330.000 jeeps en EE.UU. Esta es la razón."
+    excerpt: "En Estados Unidos, Stellantis llamará a revisión a 338.000 jeeps Grand Cherokee. Descubre cuál es la razón. Source: CNN"
+    publishedDateTime: 2024-02-29T22:37:00Z
+    webUrl: "https://www.cnn.com/videos/spanish/2024/02/29/stellantis-llaman-revision-jeeps-eeuu-cnn-dinero-tv.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/spanish/2024/02/29/stellantis-llaman-revision-jeeps-eeuu-cnn-dinero-tv.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/29/stellantis-llaman-revision-jeeps-eeuu-cnn-dinero-tv.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/240229163035-stellantis-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "mXlEfJp+MgVYXbBPHlH6a9hrtVhqOYj/fmqA84o0jaUmHPdTkqOSEgPdL/fzFfBIiZ+27G4lQPY0zJ09vOrFRnHgKJaXBEpD1/m85m8zOi5BsjZYLj5raLZt1Y7TP6/QvhSl32TCRCkNrQlXOtvvkEvu5B/y4jhNaWhwiW16R/FWHcRukkcoUV0ODcYwEcqQYZ+Zq39WbLIbG4P6xpm6F7Flo6LnyqR51KFGhsfxkM6nku22Ld1s44xWMSbNOw0/rcWyvj+96yGG4lQKa3s+uTxrV+ppGajPzRJhjwx54x1FvOVHsRe1Nd4XhZh3n/Rd68+Ud41BonNSFcInaNJq6QaTNx47vrczuPejMVzM740=;s6R2Lse7SWe6T+zuE6HqEA=="
 ---

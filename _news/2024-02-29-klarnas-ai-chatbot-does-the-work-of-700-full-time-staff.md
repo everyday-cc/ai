@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Klarna's AI does the work of 700 people. What's that really mean?"
+    excerpt: "The Swedish lender says the use of generative AI hasn't affected headcount. But it has also said previously that AI would impact its own hiring decisions."
+    publishedDateTime: 2024-02-29T18:55:00Z
+    webUrl: "https://www.americanbanker.com/payments/news/klarnas-ai-does-the-work-of-700-people-whats-that-really-mean"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 19
 
 secured: "vZgLHorW7njKxe50AaO5BvPj4wmn5ipQPUKePFa4iq3uGnbmdgeKrwxmfE/dpDz1y4KWHn0bjJSqH5QJL9FjtXSI4ideKmCISy1h1P2cYuxmIV4ewYJrOgDAhsJT8Ef/dOXeV/14RoxKEN7hR4txepcUc+sm0fjqbe9eI2YDiydM+TeNWSPH5CCHGJbOtLfkYkiE5Kz/KVpiALcbyoNF9LBhDJb4IALgWtqo4qXcAz3Hg/v0/6NK0pMe/pCe1zkMr2CD+F/PHS+PpXwTBrJ5RgKEDDI6DoDMZm5ktafJOvv0/V58mu6CBwgLiXOffTaacPPQv17agijro4oq106ntraQKSfMHhdytj9poO6e/KM=;/AbHvrDUtbiTGvHyaexh1A=="
 ---

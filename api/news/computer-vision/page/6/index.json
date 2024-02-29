@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-25-when-ai-came-to-town-struggling-cities-face-more-pain-from-artificial-intelligence-boom.md",
+      "title": "When AI Came to Town: Struggling Cities Face More Pain From Artificial Intelligence Boom",
+      "excerpt": "The more that companies adopt AI, of course, the more those companies will look like and be run like the AI companies themselves. With fewer workers around, commercial real estate, already reeling from a shift to work from home, will suffer.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/opinion/when-ai-came-to-town-struggling-cities-face-more-pain-from-artificial-intelligence-boom-71700851558731.html",
+      "originalUrl": "https://tech.hindustantimes.com/opinion/when-ai-came-to-town-struggling-cities-face-more-pain-from-artificial-intelligence-boom-71700851558731.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/11/25/1600x900/pexels-tara-winstead-8386440_1689468297400_1700874752824.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/opinion/when-ai-came-to-town-struggling-cities-face-more-pain-from-artificial-intelligence-boom-71700851558731.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/when-ai-came-to-town-struggling-cities-face-more-pain-from-artificial-intelligence-boom-71700851558731.html",
+      "publishedDateTime": "2023-11-25T12:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-formula-one-trials-ai-to-tackle-track-limits-breaches.md",
+      "title": "Formula One trials AI to tackle track limits breaches",
+      "excerpt": "The AI will sort out the genuine breaches ... violations at turn six was \"completely unsatisfactory\" and a solution needed to be found before the start of next season. Tim Malyon, the FIA's head of remote operations and deputy race director, said the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-tackle-track-limits-breaches-2023-11-23/",
+      "originalUrl": "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-tackle-track-limits-breaches-2023-11-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/7M1TuD42-GQ5WL2UAXs_JwPN_RY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PRVOWK57YVOQ5PAJNQLX23HFYM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-23T16:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-arlo-vs-ring-which-offers-the-best-smart-home-security.md",
       "title": "Arlo vs Ring: Which offers the best smart home security?",
       "excerpt": "If you want a smart home security system, which is the best buy — Arlo or Ring? Or should you go with a third option instead?",

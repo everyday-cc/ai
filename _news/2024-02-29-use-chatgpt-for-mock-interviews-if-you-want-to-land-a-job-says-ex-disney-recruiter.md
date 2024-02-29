@@ -5,10 +5,12 @@ excerpt: "HR executive Simon Taylor told CNBC that job seekers should use ChatGP
 publishedDateTime: 2024-02-29T12:05:00Z
 originalUrl: "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2"
 webUrl: "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2"
+ampWebUrl: "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2?amp"
 type: article
-quality: 43
-heat: 43
-published: false
+quality: 83
+heat: 83
+published: true
 
 provider:
   name: Business Insider
@@ -22,6 +24,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "wCk76AQJh72fv4HyvhO3a+MA9e/VIac1glkFWdaIXrshLiGDK9Od/7edNAtoIcxRT2VOCwmRScdGRo10gx7TF9v9XnSyAUBoZmilz01eI/99LmB7lxMJKyJ45juQM0HdwAUgn8tRCYRE/kLuVI+RG25x9D+iZ0+3zkoK/glU4w0ABP5jvNKD7cdZ+dL5duqHHz8bZi2wy7a9Wg6MxZhn64yHYyGBRCWYcKNdFj2oRnYgAC750lmerltjHhTkde6AAMVoMcD3ILhM4KYov97TSkqMwjQwn8Lp9aB7Gu5T5DFkhXd6W6OWyGI8mrZATpGVlAsWSytZFUxpT3iO6fjii0WPgfAix9MdlslYKMd/OIs=;ui9v1akxeZltnb++3mK/ag=="
+images:
+  - url: "https://i.insider.com/65e05f0790413ab8e1d7c0ef?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "jcFuW2HKTPNFl2N1Xa3AjUuJWjdabvzFcYEjKhN+Wa7eBwvx9AJZEKw7ABfWYo8zzOWZX3q9qjEKgxglzMuLSGV8DBGAFspyI8H57J6JHQk1zLqJEBKJZBN0zWVPyacYAV+n2JZJ6x4VgtEQS+fY1SKxySwjeEd049Q2dVA+AedoiiFvLV2GUp28CN4DgYmuZ5QcZDU5HAKes4kp9NaFUMbNoA23dIm28c1XWFzPOqZRwmnhXmboWQOB1YN97DGWJkfUlBrwrCV2agAlAPh7oi3jJiHkd95LM/0skA79kBVpB1v78SlqTmRL1dNn1IPKRH9vtudj/o+G2qlLkUJSRYCEnmcfzsYLjmYlKzKJ+xA=;EWJfueKTKhiolVd8DYakGA=="
 ---
 

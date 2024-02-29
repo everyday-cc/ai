@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-rec
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -27,15 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition: Coming soon to an airport near you"
-    excerpt: "This passenger screening using facial recognition software and made available to select travelers at La Guardia by Delta Air Lines and the Transportation Security Administration, is just one example of how biometric technology, which uses an individual’s ..."
-    publishedDateTime: 2024-02-25T05:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-coming-soon-to-an-airport-near-you/"
+  - title: "How scientists are using facial-recognition AI to track humpback whales"
+    excerpt: "After being hunted for decades, humpback whales returned to the Pacific Ocean in big numbers. Now, new technology is revealing that underwater heat waves are taking a toll on that recovery."
+    publishedDateTime: 2024-02-29T19:06:00Z
+    webUrl: "https://www.ijpr.org/npr-news/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales"
+    ampWebUrl: "https://www.ijpr.org/npr-news/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales?_amp=true"
+    cdnAmpWebUrl: "https://www-ijpr-org.cdn.ampproject.org/c/s/www.ijpr.org/npr-news/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales?_amp=true"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 34
+      name: Jefferson Public Radio
+      domain: ijpr.org
+    quality: 59
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/94eabe9/2147483647/strip/true/crop/3502x2157+166+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F28%2Fmartin_van_aswegen_mothercalf_maui_1-1-_wide-308a974ad26f270c72b4ee6f9e8ab3587f338a73.jpg"
+        width: 880
+        height: 542
+        isCached: true
+  - title: "How scientists are using facial-recognition AI to track humpback whales"
+    excerpt: "Now, a new study finds that climate change could be slowing that recovery. Using artificial intelligence-powered image recognition, the survey finds the humpback population in the North Pacific Ocean declined 20% from 2012 to 2021. The decline coincides ..."
+    publishedDateTime: 2024-02-29T05:06:00Z
+    webUrl: "https://www.kbia.org/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales"
+    type: article
+    provider:
+      name: KBIA
+      domain: kbia.org
+    quality: 19
 
 secured: "Hq0lwaN342gD/pj8QLngS3UMHIAM7WIXi7aZ4fGP3pegHoiKGhF8/IhXyal3tSZu1b11TPSPtewiq45Bi5Nkd1J12qnSZS0kpNVBHa8AMP+FB+BfnKFGK+2cfiBpIApgPqOj8RCYkFOwevfsYkC8NGS6ey7UM+ZbnQ68/WGovuEjrd8YvYXP8GVdXdgA83fZc5gxyArhgAXZeNECe3rwC9ujwFckZdtnRoeGVi8412KutJwS8No45jwzDy9LoltXqzkLJd/+ckZdKZw8By5BBcJtdpssHvy7qsqxZDpJ59oOpw1ff8Y7PXeGr8pQ5r99kArRQfFVRyW93lYi+orz4nk8le5ztE5kPDjncnk4j0mHkc62ZKAOxj+Mar7mDAivyW6839tzSyEdVOfbS6NXzjebc/wctl2JJiuWIW/aPrLwxvViQbSxfZsxmODIhAGLOpEbBOVtvfyXoBPbM8wyc/X8JOith1tf5UvDaaBX8Qp5caz/xu+xCNqxWu3SuYsPBppSOMp1LLm5LIvKx3np3w==;E2u54DrhAHCWfi2to2u5IQ=="
 ---

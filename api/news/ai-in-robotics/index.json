@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-29-robotics-startup-figure-raises-staggering-675m-and-partners-with-openai.md",
-      "title": "Robotics startup Figure raises staggering $675M and partners with OpenAI",
-      "excerpt": "Excited to share: Figure raises $675M at $2.6B Valuation + OpenAI & Figure signed a collaboration agreement to develop next generation AI models for robots Below are the details: pic.twitter.com/V57nn9P3oA",
+      "path": "_news/2024-03-01-chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker.md",
+      "title": "ChatGPT in Robot Form? OpenAI Partners With Humanoid Robotics Maker",
+      "excerpt": "OpenAI is joining Microsoft, Nvidia, and Jeff Bezos in investing in Figure, a company that's developing human-like robots to rival Tesla's Optimus project.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/robotics-startup-figure-raises-staggering-675m-and-partners-with-openai/",
-      "originalUrl": "https://venturebeat.com/ai/robotics-startup-figure-raises-staggering-675m-and-partners-with-openai/",
+      "webUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
+      "originalUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 316,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/NEW-_DSCF1820_Desktop_10923A__3_.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://i.pcmag.com/imagery/articles/01FnhSXxnrPPY6kLTdhKZHF-1.fit_lim.size_1200x630.v1709238414.jpg",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,58 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T15:26:00Z",
+      "publishedDateTime": "2024-02-29T21:33:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-robotics-startup-figure-raises-675-mln-from-microsoft-nvidia-other-big-techs.md",
+      "title": "Robotics startup Figure raises $675 mln from Microsoft, Nvidia, other big techs",
+      "excerpt": "Robotics startup Figure said on Thursday it had raised $675 million in an early-stage funding from investors including Nvidia , Microsoft and Amazon.com founder Jeff Bezos at a valuation of $2.6 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/",
+      "originalUrl": "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T12:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +94,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -77,58 +122,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-high-speed-humanoid-feels-like-a-step-change-in-robotics.md",
-      "title": "High-speed humanoid feels like a step change in robotics",
-      "excerpt": "You've seen a ton of videos of humanoid robots – but this one feels different. It's Sanctuary's Phoenix bot, with \"the world's best robot hands,\" working totally autonomously at near-human speeds – much faster than Tesla's or Figure's robots.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/sanctuary-phoenix-autonomous-speed-hands/",
-      "originalUrl": "https://newatlas.com/robotics/sanctuary-phoenix-autonomous-speed-hands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/66a92f4/2147483647/strip/true/crop/1313x689+0+93/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcb%2F21%2Faafd2f03426ebf39d412c3ea0cec%2Fscreenshot-2024-02-29-at-2.58.44%20pm.png&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T07:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -295,7 +288,7 @@
       "originalUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -547,7 +540,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -686,7 +679,7 @@
       "originalUrl": "https://www.foxnews.com/tech/construction-workers-being-replaced-by-ai-robot-bricklayers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -727,50 +720,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-amazon-founder-jeff-bezos-joins-microsoft-chatgpt-maker-openai-to-invest-in-this-robotics-company.md",
-      "title": "Amazon founder Jeff Bezos joins Microsoft, ChatGPt maker OpenAI to invest in this robotics company",
-      "excerpt": "ARK Venture Fund, Aliya Capital Partners, and Tamarack are also among the startup's investors ... may surpass larger competitors. Figure AI, based in Sunnyvale, California, develops general-purpose humanoid robots capable of operating in various ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 467,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107974425,width-1280,height-720,resizemode-4/107974425.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms",
-      "publishedDateTime": "2024-02-25T02:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1439,6 +1388,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-viral-career-trend-takes-place-of-interview-small-talk-plus-eyelash-robot-enters-ai-beauty-space.md",
+      "title": "Viral career trend takes place of interview small talk, plus eyelash robot enters AI beauty space",
+      "excerpt": "The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space",
+      "originalUrl": "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/job-interview-newsletter-split.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space.amp",
+      "publishedDateTime": "2024-02-20T20:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "AI in Robotics"
       ]

@@ -55,20 +55,6 @@ related:
         width: 4978
         height: 3323
         isCached: true
-  - title: "Google's Gemini Proves AI Isn't Ready To Replace Your Smart Assistant"
-    excerpt: "Some experts in the field, most notably Bill Gates, now believe that AI is plateauing. We've made the leap to natural language processing, but turning that genuinely impressive capability into a genuinely reliable and useful application remains a hurdle to ..."
-    publishedDateTime: 2024-02-24T19:15:00Z
-    webUrl: "https://www.slashgear.com/1521993/google-gemini-ai-replace-smart-assistant/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
-    images:
-      - url: "https://www.slashgear.com/img/gallery/googles-gemini-proves-ai-isnt-ready-to-replace-your-smart-assistant/l-intro-1708034922.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google explains how Gemini’s AI image generation went wrong, and how it’ll fix it"
     excerpt: "A few weeks ago Google launched a new image generation tool for Gemini (the suite of AI tools formerly known as Bard and Duet) which allowed users to generate all sorts of images from simple text prompts. Unfortunately, Google’s AI tool repeatedly missed ..."
     publishedDateTime: 2024-02-25T23:59:00Z
@@ -193,6 +179,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "A Litany Of Apologies Over Google’s Gemini AI"
+    excerpt: "Alorica, which uses technology to transform customer experience, has a new AI implementation hitting markets today: Real-time Voice Language Translation (ReVoLT). This platform can do real-time audio and voice translation in 75 languages, making it ..."
+    publishedDateTime: 2024-02-29T19:48:00Z
+    webUrl: "https://www.forbes.com/sites/cio/2024/02/29/a-litany-of-apologies-over-googles-gemini-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Google's Gemini AI Gaffe: Sundar Pichai should be fired or resign, says investor Samir Arora"
     excerpt: "Replying to a user on social media site X, Samir Arora said Alphabet CEO Sundar Pichai should ‘be fired or resign’ after being in the lead on AI and ‘let other take over'."
     publishedDateTime: 2024-02-26T07:14:00Z
@@ -297,20 +292,6 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "Mistral’s ‘Le Big Model’ Beats Google’s Gemini Pro, Signs Multi-Year Deal with Microsoft"
-    excerpt: "Alongside Mistral Large, Mistral AI has also introduced Mistral Small, an optimised model designed for low latency workloads. Outperforming Mixtral 8x7B and featuring lower latency, Mistral Small offers a refined solution between Mistral’s open-weight offering and its flagship model."
-    publishedDateTime: 2024-02-26T17:50:00Z
-    webUrl: "https://analyticsindiamag.com/mistrals-le-big-model-beats-googles-gemini-pro-signs-multi-year-deal-with-microsoft/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 30
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/09/mistral-ai.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Move over Gemini and ChatGPT — Meta is releasing 'more responsive' Llama 3 AI model in July"
     excerpt: "Meta is launching its next generation artificial intelligence model Llama 3 this July. It will be a fully open source alternative to the dominance of OpenAI’s GPT-4 and Google’s Gemini. First reported by The Information, the new version of the popular ..."
     publishedDateTime: 2024-02-28T23:59:00Z
@@ -389,6 +370,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 19
+  - title: "Google can’t guarantee its Gemini genAI tool won’t be biased"
+    excerpt: "Google's new text-to-image generator displayed glaring biases after only three weeks online. After taking the tool offline last week, the company said it will never be 100% sure the same issues won't resurface."
+    publishedDateTime: 2024-02-29T15:00:00Z
+    webUrl: "https://www.computerworld.com/article/3713165/google-can-t-guarantee-its-gemini-genai-won-t-be-biased.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 19
   - title: "Google CEO Pichai says Gemini's AI image results \"offended our users\""
     excerpt: "In attempting to avoid a public relations crisis about gender and race, Google managed to run headlong into another controversy over accuracy and history. Gemini, which was previously named Bard, is also an AI chatbot, similar to OpenAI's hit service ChatGPT."
     publishedDateTime: 2024-02-28T19:14:00Z
@@ -398,15 +388,6 @@ related:
       name: KPBS
       domain: kpbs.org
     quality: 19
-  - title: "Google explains what went wrong with Gemini's image-generation capabilities"
-    excerpt: "Following days of widespread criticism and backlash, Google has explained what went wrong with Gemini image generation"
-    publishedDateTime: 2024-02-24T19:22:00Z
-    webUrl: "https://www.androidpolice.com/google-gemini-image-generation-what-went-wrong/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 17
   - title: "What the Gemini Image Generation Fiasco Tells Us About Google’s Approach to AI"
     excerpt: "Following the Gemini image generation fiasco, Google has been accused of anti-white bias. We take a closer look at the underlying issues."
     publishedDateTime: 2024-02-27T23:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/spanish/2024/02/28/toyota-llama-revis
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/28/toyota-llama-revision-tacomoa-pernos-eje-trasero-cnn-dinero-tv.cnn"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Stellantis llama a revisión a 330.000 jeeps en EE.UU. Esta es la razón."
+    excerpt: "En Estados Unidos, Stellantis llamará a revisión a 338.000 jeeps Grand Cherokee. Descubre cuál es la razón. Source: CNN"
+    publishedDateTime: 2024-02-29T22:37:00Z
+    webUrl: "https://www.cnn.com/videos/spanish/2024/02/29/stellantis-llaman-revision-jeeps-eeuu-cnn-dinero-tv.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/spanish/2024/02/29/stellantis-llaman-revision-jeeps-eeuu-cnn-dinero-tv.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/29/stellantis-llaman-revision-jeeps-eeuu-cnn-dinero-tv.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/240229163035-stellantis-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Volkswagen llama a revisión por posibles incendios"
     excerpt: "Volkswagen llama a revisión a más de 260.000 autos por posibles incendios de una bomba de succión dentro del tanque. ¿Cuáles modelos están incluidos?"
     publishedDateTime: 2024-02-25T23:59:00Z

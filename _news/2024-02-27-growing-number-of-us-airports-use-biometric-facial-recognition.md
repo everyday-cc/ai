@@ -19,6 +19,38 @@ topics:
   - AI
 
 related:
+  - title: "Richmond International Airport begins using facial recognition technology"
+    excerpt: "Security checkpoints at the Richmond International Airport have begun using facial recognition technology to confirm the validity of travelers’ identification that confirms their flight"
+    publishedDateTime: 2024-02-29T21:42:00Z
+    webUrl: "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/"
+    ampWebUrl: "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: WRIC
+      domain: wric.com
+    quality: 73
+    images:
+      - url: "https://www.wric.com/wp-content/uploads/sites/74/2024/02/ric-feature-img-new-tech.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "A college is removing its vending machines after a student discovered they were using facial recognition technology"
+    excerpt: "A photo shared on Reddit showed one of the vending machines with an error code suggesting it used facial recognition tech."
+    publishedDateTime: 2024-02-25T18:33:00Z
+    webUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-technology-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-technology-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-technology-2024-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/65db87806080194819fa0401?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Growing number of US airports use biometric facial recognition"
     excerpt: "Spokeo looked at which airports are using facial recognition software for security screenings, according to Customs and Border Protection."
     publishedDateTime: 2024-02-28T09:19:00Z
@@ -33,6 +65,31 @@ related:
         width: 1010
         height: 720
         isCached: true
+  - title: "Ontario university to remove vending machines due to facial recognition technology concerns"
+    excerpt: "A southwestern Ontario university says it will be getting rid of more than two dozen vending machines after students raised concerns about facial recognition technology. The University of Waterloo says it began looking into the issue after seeing students ..."
+    publishedDateTime: 2024-02-27T16:19:00Z
+    webUrl: "https://globalnews.ca/news/10321252/vending-machines-facial-recognition-technology-ontario-waterloo/"
+    ampWebUrl: "https://globalnews.ca/news/10321252/vending-machines-facial-recognition-technology-ontario-waterloo/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10321252/vending-machines-facial-recognition-technology-ontario-waterloo/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 49
+    images:
+      - url: "https://globalnews.ca/wp-content/uploads/2024/02/20240227150220-65de4451cf8eb72713cd07a5jpeg.jpg?quality=85&#038;strip=all"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Facial recognition: Coming soon to an airport near you"
+    excerpt: "This passenger screening using facial recognition software and made available to select travelers at La Guardia by Delta Air Lines and the Transportation Security Administration, is just one example of how biometric technology, which uses an individual’s ..."
+    publishedDateTime: 2024-02-25T05:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-coming-soon-to-an-airport-near-you/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
 
 secured: "V3z/L4+JwiyL0zU27SP3BDSleQOl9KwVddwUu68Yj2BydAua3Y42qC3SPoTzd3ERzM7p707+4z+eHvPgbw2LnPxYqLO48B22KVVU44P4HDXyF4UYzJGaia4AWcnhM1dxqK9meusnmVcyLdafEM8xZjAKYteW65UuSKCKrdcvveAGZR93VDZT1nZ09+mRDmeGuEMpgQSjMOsKLC4ZwoRa26xs/3HfmL1hAgFytme/oShj2RHYQB3Ae519Mz7wg9zDNOZtufufCclUZAElYteoSNZOcoX6nlnlJzQ8JzpmlEuf9j7WOaljh/R4yRs/5gOnyMbmKxYyF5tZDi/jyjIciS1djpQ3w6IOlos7bmoupNKhXuEYekM7yx5FXcMgm5d8fG6hX08VcbrjqD9KcGtOJC6X4pRUXyKL1U8/f1iMwxeabUa78TKuBAiEHAVlpIKlSKAdrOCpWnW8Zl9/NAqrqLyoUTGtv2yoQdOQ3c5BvQDFmdpDBeX9bjywtYKufOiEXHOTwTi2BK6AIsNGrtS85Q==;MwEUSgzml85DIClw/jC2BQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-francisc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "AI Landscape Robot Launched by San Francisco Startup"
+    excerpt: "A robot that uses artificial intelligence can mow yards, as well as perform the edging, trimming and leaf blowing."
+    publishedDateTime: 2024-02-29T21:32:00Z
+    webUrl: "https://www.greenindustrypros.com/business-management/software/article/22888659/electric-sheep-ai-landscape-robot-launched-by-san-francisco-startup"
+    type: article
+    provider:
+      name: Green Industry Pros
+      domain: greenindustrypros.com
+    quality: 54
+    images:
+      - url: "https://img.greenindustrypros.com/files/base/acbm/gip/image/2024/02/mower_robot.65e0f5e66fe34.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 633
+        isCached: true
 
 secured: "wvZvcHeTTaVoVIgLzACEIN/QtJqjPoldTPeAXKo9V9ZfxRuXicBYpGHO8nQky9vVxufq1VxRgUT37+zcm7TaMBok7VXz4a6tG9cZeMrdtdBDkcMRO30vniiZIJbnbuwsinSwl/0NHvsoB2Oa6S12LA2eEw8jF9DvFKIxm43L2CrjOl81UPWQQ9k/22SynsNGGrH9Fve1T9LbSSMJFYLIudykxKV+qhMRA/8TWeWRpzz+4yYooRpk5ASxAnS1GVXdf6mNbQlrdo7P7jnw4ZqvqDau9P2TSl6lFYzz7irUUcC7pNUbhh5dyYqt70hYLMWiorpQ+1IQYadRKkN0ovi0LAydzyWlsZpwN/a5LdM4ETQ=;fkVMIT0FEiUXeQA0S+pF7Q=="
 ---

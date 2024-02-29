@@ -2,6 +2,261 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-15-the-top-esg-trends-in-2024.md",
+      "title": "The top ESG trends in 2024",
+      "excerpt": "Learn four trends that have been taking shape as of late, and what they may mean for your business in the near future.\nThe post The top ESG trends in 2024 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-top-esg-trends-in-2024/",
+      "originalUrl": "https://www.ibm.com/blog/the-top-esg-trends-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-jeffrey-katzenberg-joe-montana-firms-back-ai-marketing-startup.md",
+      "title": "Jeffrey Katzenberg, Joe Montana Firms Back AI Marketing Startup",
+      "excerpt": "Alembic Technologies Inc., a startup that uses artificial intelligence to help companies tell whether their marketing campaigns are working, has raised $14 million from investors including DreamWorks co-founder Jeffrey Katzenberg’s VC firm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-15/jeffrey-katzenberg-joe-montana-firms-back-ai-marketing-startup",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-15/jeffrey-katzenberg-joe-montana-firms-back-ai-marketing-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-waymo-recalls-444-self-driving-vehicles-over-software-error.md",
+      "title": "Waymo recalls 444 self-driving vehicles over software error",
+      "excerpt": "Feb 15 (Reuters) - Alphabet's (GOOGL.O), opens new tab Waymo unit has recalled 444 self-driving vehicles after two minor collisions in quick succession in Arizona ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/waymo-updates-software-over-400-recalled-vehicles-nhtsa-2024-02-15/?user_email=31c5543c1734d25c7206f5fd591525d0295bec6fe84ff82f946a34fe970a1e66",
+      "originalUrl": "https://www.reuters.com/technology/waymo-updates-software-over-400-recalled-vehicles-nhtsa-2024-02-15/?user_email=31c5543c1734d25c7206f5fd591525d0295bec6fe84ff82f946a34fe970a1e66",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology.md",
+      "title": "How Kubota is changing the status quo in agriculture and sustainability with technology",
+      "excerpt": "“It is no exaggeration to say that this initiative has just begun. With IBM, we hope to develop it into a standard in Japan and globally.\"\nThe post How Kubota is changing the status quo in agriculture and sustainability with technology appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
+      "originalUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-retail-technology-and-frontline-workers-delivering-unforgettable-customer-experiences.md",
+      "title": "Retail technology and frontline workers: Delivering unforgettable customer experiences",
+      "excerpt": "The retail industry employs millions of people, and next-generation retail employees will be impacted by the rise of generative AI.\nThe post Retail technology and frontline workers: Delivering unforgettable customer experiences appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
+      "originalUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-google-opens-paris-research-hub-as-france-seeks-bigger-ai-role.md",
+      "title": "Google Opens Paris Research Hub as France Seeks Bigger AI Role",
+      "excerpt": "Alphabet Inc.’s Google opened a new Paris hub for its artificial intelligence research teams, as the French capital stakes its claim to be the European center of the emerging technology. The new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-15/google-opens-paris-research-hub-as-france-seeks-bigger-ai-role",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-15/google-opens-paris-research-hub-as-france-seeks-bigger-ai-role",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T12:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-derwent-investments-pte-ltd-derwent-investments-singapores-ai-fintech-sector-flourishes-amidst-shifting-investment-trends.md",
       "title": "Derwent Investments Pte Ltd: Derwent Investments: Singapore's AI Fintech Sector Flourishes Amidst Shifting Investment Trends",
       "excerpt": "SINGAPORE, SINGAPORE / ACCESSWIRE / February 15, 2024 / Derwent Investments, a leading Singapore-based Wealth Management firm, has released its analysis of the investment landscape in Singapore's fint",
@@ -850,291 +1105,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-uspto-warns-against-blind-reliance-on-artificial-intelligence.md",
-      "title": "USPTO Warns Against Blind Reliance on Artificial Intelligence",
-      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
-      "originalUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI%20as%20business%20person%20lawyer.jpg?h=c4779ecb&itok=-TWDsoa7",
-          "width": 602,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess.md",
-      "title": "UTS Australian Artificial Intelligence Institute (AAII) and VADR Media Collaborate to Combat Cheating in Online Chess",
-      "excerpt": "The University of Technology Sydney (UTS) Australian Artificial Intelligence Institute (AAII) and VADR Media are excited to announce a new research and development partnership aimed at combating cheating in online chess. This collaboration follows VADR ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess-1033068605",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess-1033068605",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/rsrNqmLgv6QYrLC_zKQc5SV6DuEfxp8G1E2hyyhvqv4qCEbH8xe22ZvxlXyeJPYwQs6MMkOrxFW1gzkGo8-8pSO1Yqoid99IAn7QHZd-E78PYu2Exs9I2m5gG82oGgz3YIbvnMoQ0CxTXxA02dBhDQ",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.md",
-      "title": "Waymo issues a voluntary recall on its self-driving vehicle software",
-      "excerpt": "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107370336-17073249282022-12-13t080548z_2114347046_rc2v4y9ikrdb_rtrmadp_0_waymo-san-francisco.jpeg?v=1707324947",
-          "width": 3200,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
-      "publishedDateTime": "2024-02-14T23:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential.md",
-      "title": "ChatGPT Stock Predictions: 3 Robotics & Automation Companies the AI Bot Thinks Have 10X Potential",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the bustling realm of forward-looking investments, robotics stocks stand",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T22:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-tesla-fsd-is-still-a-work-in-progress-amid-tech-challenges-lawsuits.md",
-      "title": "Tesla FSD is still a work in progress amid tech challenges, lawsuits",
-      "excerpt": "Entrepreneurs like Tesla CEO Elon Musk have said self-driving cars will make regular vehicles obsolete, but most Americans are wary. A recent survey found that three out of every four Americans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-fsd",
-      "originalUrl": "https://www.businessinsider.com/tesla-fsd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62f26cf8cc15bf00182f8eb8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-fsd?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fsd?amp",
-      "publishedDateTime": "2024-02-14T22:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-one-year-after-gpt-4-what-generative-ai-means-to-lawyers.md",
-      "title": "One Year After GPT-4: What Generative AI Means to Lawyers",
-      "excerpt": "Dr. Lingfei Wu is a distinguished engineer and entrepreneur known for his contributions in artificial intelligence, machine learning, and natural language processing. He is the Co-founder and CEO of Anytime.AI, a generative AI startup that aims to boost efficiency and effectiveness in the legal field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/therecorder/2024/02/14/one-year-after-gpt-4-what-generative-ai-means-to-lawyers/",
-      "originalUrl": "https://www.law.com/therecorder/2024/02/14/one-year-after-gpt-4-what-generative-ai-means-to-lawyers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/276/2023/09/Lawyers-Technology-Article-202309281619.jpg",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T21:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

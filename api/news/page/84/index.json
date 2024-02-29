@@ -2,6 +2,299 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-12-16-this-artificial-intelligence-ai-stock-looks-dirt-cheap-heres-why.md",
+      "title": "This Artificial Intelligence (AI) Stock Looks Dirt Cheap. Here's Why.",
+      "excerpt": "This is not entirely unreasonable, though, as artificial intelligence (AI) will have myriad applications in the metaverse. In a way, while owning Meta stock for the highly profitable advertising business warrants merit, a position in the company could represent a hedge to other AI plays you might own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-dirt-cheap/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-dirt-cheap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/757919/social-media-networking-likes-facebook-meta-instagram-1.jpg",
+          "width": 5184,
+          "height": 3456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T22:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-intel-focusses-on-ai-at-big-event-and-for-good-reasons.md",
+      "title": "Intel Focusses On AI At Big Event, And For Good Reasons",
+      "excerpt": "Intel says the multi-chiplet Ultra is the “largest architectural change in 40 years.” In addition to 64 new cores (far fewer than AMD or many Arm designs) and the NPU, it includes integrated Wi-FI 6E, CPU frequencies up to 5.1 GHz in Turbo mode and a large 320MB cache.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657c88ad49554836f9e20ad5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/amp/",
+      "publishedDateTime": "2023-12-15T22:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-florida-legislature-considers-creating-artificial-intelligence-advisory-council.md",
+      "title": "Florida Legislature Considers Creating 'Artificial Intelligence Advisory Council'",
+      "excerpt": "Florida Senator Joe Gruters (R) has filed a bill that would create an ‘Artificial Intelligence Advisory Council’ within Florida’s state government.  T",
+      "sourceUrl": null,
+      "webUrl": "https://floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/",
+      "originalUrl": "https://floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://floridianpress.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-20-at-10.55.01-AM-e1626792947894.png",
+          "width": 1200,
+          "height": 868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/amp/",
+      "cdnAmpWebUrl": "https://floridianpress-com.cdn.ampproject.org/c/s/floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/amp/",
+      "publishedDateTime": "2023-12-15T22:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Floridian",
+        "domain": "floridianpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-the-pixel-9-might-come-with-exclusive-pixie-ai-assistant.md",
+      "title": "The Pixel 9 might come with exclusive “Pixie” AI assistant",
+      "excerpt": "The Information reports that Google is working on a new \"Pixie\" AI assistant that will be exclusive to Pixel devices. Pixie will reportedly be powered by Google's new \"Gemini\" AI model. The report says Pixie would launch first on the Pixel 9: \"Eventually,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/reviews/2023/12/google-reportedly-plans-new-pixie-ai-assistant-exclusive-to-pixel-devices/",
+      "originalUrl": "https://arstechnica.com/reviews/2023/12/google-reportedly-plans-new-pixie-ai-assistant-exclusive-to-pixel-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T21:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-ai-gives-birth-to-ai-scientists-say-machine-intelligence-now-capable-of-replicating-without-humans.md",
+      "title": "AI gives birth to AI: Scientists say machine intelligence now capable of replicating without humans",
+      "excerpt": "A group of scientists from across the U.S. claim to have created the first artificial intelligence capable of generating AI without human supervision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans",
+      "originalUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp",
+      "publishedDateTime": "2023-12-15T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-customer-service-trends-winning-organizations-need-to-follow.md",
+      "title": "Customer service trends winning organizations need to follow",
+      "excerpt": "Prioritizing these seven customer service trends can help ensure an organization is prepared to meet changing customer expectations.\nThe post Customer service trends winning organizations need to follow appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/customer-service-trends/",
+      "originalUrl": "https://www.ibm.com/blog/customer-service-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T20:55:37Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-16-news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line.md",
       "title": "News publisher files class action antitrust suit against Google, citing AI’s harms to their bottom line",
       "excerpt": "A new class action lawsuit filed this week in the U.S. District Court in D.C. accuses Google and parent company Alphabet of anticompetitive behavior in",
@@ -938,276 +1231,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2.md",
-      "title": "Krutrim: India’s own AI model launched by OLA, competes with GPT-4 and Llama-2",
-      "excerpt": "In Sanskrit “Krutrim” means artificial, and hence the name. Aggarwal’s AI venture, the Krutrim Si Designs was inaugurated in April 2023. It was set up in partnership with Krishnamurthy Venugopala Tenneti, who is one of the board members of ANI Technologies Ltd, which owns Ola Cabs and Ola Electric.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digit.in/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2/",
-      "originalUrl": "https://www.digit.in/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.digit.in/Krutrim.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/news/general/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2.html/amp/",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2.html/amp/",
-      "publishedDateTime": "2023-12-15T11:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use.md",
-      "title": "AI in healthcare: Duke Health signs pledge for ethical, responsible use",
-      "excerpt": "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
-      "originalUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2023/12/robot-AI-doctor-e1702640075182.jpg",
-          "width": 1262,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
-      "publishedDateTime": "2023-12-15T11:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-the-potential-of-embodied-ai.md",
-      "title": "The Potential Of Embodied AI",
-      "excerpt": "You don't have to necessarily be a technical expert to reap some of the benefits of AI-powered tools in your own business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657b4fcfd2b7da06875045b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/",
-      "publishedDateTime": "2023-12-15T11:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-intel-unveils-new-ai-chips-to-rival-nvidias-dominance-in-ai-industry-intc-stock-up-1.md",
-      "title": "Intel Unveils New AI Chips to Rival Nvidia’s Dominance in AI Industry, INTC Stock Up 1%",
-      "excerpt": "Dubbed Gaudi3, Intel intends to attract generative AI companies like OpenAI away from Nvidia and bolster its stock market performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coinspeaker.com/intel-ai-chips-intc-stock/",
-      "originalUrl": "https://www.coinspeaker.com/intel-ai-chips-intc-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/12/intel-ai-chips-intc-stock.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.coinspeaker.com/intel-ai-chips-intc-stock/amp/",
-      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/intel-ai-chips-intc-stock/amp/",
-      "publishedDateTime": "2023-12-15T11:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "coinspeaker",
-        "domain": "coinspeaker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-bank-of-america-stadium-introduces-facial-recognition-for-express-entry.md",
-      "title": "Bank of America Stadium introduces facial recognition for express entry",
-      "excerpt": "New technology at Bank of America Stadium will allow certain fans to enter the stadium without having to scan their tickets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
-      "originalUrl": "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wfmynews2.com/assets/WCNC/images/f916cab2-7809-4606-a90a-02908ceed316/f916cab2-7809-4606-a90a-02908ceed316_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
-      "cdnAmpWebUrl": "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
-      "publishedDateTime": "2023-12-15T10:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMY News2",
-        "domain": "wfmynews2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-driven-by-ai-micron-sees-robust-chip-demand.md",
-      "title": "Driven by AI, Micron sees robust chip demand",
-      "excerpt": "US-based chipmaker Micron Technology is expecting demand for semiconductors to rise significantly in the next few years, globally and in India, as memory consumption is going up, largely driven by the widespread adoption of technologies like artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.rediff.com/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm",
-      "originalUrl": "https://www.rediff.com/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://im.rediff.com/345-230/money/2023/dec/14nirmala-sitharaman.jpg",
-          "width": 345,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.rediff.com/amp/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm",
-      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm",
-      "publishedDateTime": "2023-12-15T10:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rediff.com",
-        "domain": "rediff.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

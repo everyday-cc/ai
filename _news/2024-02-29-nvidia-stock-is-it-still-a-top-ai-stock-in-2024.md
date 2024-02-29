@@ -293,15 +293,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Nokia and Nvidia partner for AI mobile networks"
-    excerpt: "Telco OEM Nokia plans to develop AI-ready radio access network (RAN) solutions in partnership with GPU darling Nvidia. As part of Nokia's anyRAN effort, the companies will develop cloud-network technology and explore how AI can revolutionize the industry."
-    publishedDateTime: 2024-02-24T20:07:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nokia-and-nvidia-partner-on-ai-mobile-networks/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 19
 
 secured: "Vo6wwhrtVMy5r0fcOfvTucf4TjnRDY/BsCY3jvD2sCuF9QoZwGM2ON6pWu36iw7QjslZ1Bq+LBXu4Mp6UnBaSOlaxlrp4eKnJnQeFmR8YxciqGh40w/MpdMW+p6YkOvVtVYXyBJnh+Vv0eabRgVxNCzgL7o3/Zvwvx9iy0X4rMnMBfhvfU4XlWgujvD4FgT8xq9BXJsOXXUD1OHIQbF7c7fzQlMNLCydZlZpEd9MVUuFoAv8QyhVvvoyjWvKKoDDKDQb78y1vhYB4Dx6O5G3p/13iQ5ltcccGO0idVdNGJ1bcl4VS1n7y9k+KISjTfTh7+0oEslOI1zAadfLOEoiZcuw5p3nC+d8qX3LZQu7t0w=;+RQ10eTCdBntydAhFDka/w=="
 ---

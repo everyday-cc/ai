@@ -89,6 +89,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 32
+  - title: "SEC sues ex-CEO AI startup for fraud"
+    excerpt: "Paul Pereira denies making false and misleading statements about the company's performance to boost its stock."
+    publishedDateTime: 2024-02-29T19:30:00Z
+    webUrl: "https://www.accountingtoday.com/news/sec-sues-ex-ceo-ai-startup-alfi-for-fraud"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 17
 
 secured: "GSYhj0wf9rm9mPq3mI/wq1NPRGIEhaPZaK4Q75wmnkJy4TOGdO6taUJvdrJ5IfcCEtiva35ZBsbzJ3AeElzGHHNZsJvo+1s96WKVEkhPQDQQAAgYdY6qYn5/BdY1+nBBxsXSuMDyiRpu7p8DxeMj42gB8krfcwgLQbXVyYbUjJnAuSRyifpyMOofjEE5Vid4FsEzAVmuC+HoQNHCcU/4FaNuBj5nHIao4LGe0ORpstDOXQWWnYjiyqRDbeCj5Mn1RiGmvvgszI4scAD8BU9WFEbQuYcNOMFJh9ptm+dd4ABZc9CcBu6gCgffzc15Gj7A72Fahp+kOorPDzD3LcrD+1qTASSbF1KUhII5lHBaKLbymXXlRxBErdATO9E/T7NqzBW7i/6UWIr6HCAeMmlO/u+wyXX3ve0DUCV4SDXPGQe/LLPOJz4KdPNJ2n6RJABXKZ0GIEjsdEyaSkl7Y4UVpx+KeC87t29pMRxDhsi8cwizTp+ZUxG9qyBU4qNFTDV6E6vOAjVhPfm2ID4qBDq8yQ==;w3rpiW1OQH2e/7k0xsting=="
 ---

@@ -2,6 +2,301 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-28-please-include-csiro-ai-and-australia-in-the-title-and-any-other-relevant-brands-if-it-makes-sense.md",
+      "title": "Please include CSIRO, AI, and Australia in the Title and any other relevant brands if it makes sense.",
+      "excerpt": "Australia’s CSIRO, with Google and Stone & Chalk, has launched a $500,000 competition to support the development of AI apps in Australia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/csiro-ai-commercialisation-program-australia/",
+      "originalUrl": "https://www.techrepublic.com/article/csiro-ai-commercialisation-program-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_625988548.jpeg",
+          "width": 1400,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T16:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-educators-teaching-ai-literacy-to-students-should-include-ethics-in-their-lesson-plans-scholars-say.md",
+      "title": "Educators teaching AI literacy to students should include ethics in their lesson plans, scholars say",
+      "excerpt": "Assertions about expanding the use of artificial intelligence are typically rooted in one of two schools of thought: \"Be ahead of the curve,\" or, \"Don't fix what isn't broken.\" Whichever side of the coin someone is on, it's clear that the rapidly emerging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
+      "originalUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65d8eb23ce7f1785b2e38c28?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp",
+      "publishedDateTime": "2024-02-27T16:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-elon-musk-unveils-new-footage-of-teslas-optimus-robot-showing-improved-mobility-and-speed.md",
+      "title": "Elon Musk unveils new footage of Tesla's Optimus robot showing improved mobility and speed",
+      "excerpt": "Tesla announced the latest version of Optimus, Gen 2, last December (below). The robot has come a long way since the original Bumblebee model from September",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102044-elon-musk-unveils-new-footage-tesla-optimus-robot.html",
+      "originalUrl": "https://www.techspot.com/news/102044-elon-musk-unveils-new-footage-tesla-optimus-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-27-image-11.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-ai-gpu-hardware.md",
+      "title": "NVIDIA AI GPU customers 'offloading' chips, selling hard-to-buy excess AI GPU hardware",
+      "excerpt": "NVIDIA has greatly improved AI GPU shipments over the last few months, which were swelling out to 8-11 months and now down to a better 3-4 month waiting period. But some AI GPU customers are offloading their high-end AI chips... yeah, they're selling the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/6/96505_6003_nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware_full.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T15:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-how-to-mitigate-the-risks-of-diy-authoritative-dns.md",
+      "title": "How to mitigate the risks of DIY authoritative DNS",
+      "excerpt": "While everyone has their reasons for adopting a DIY system for authoritative DNS, there are some distinct disadvantages to consider. \nThe post How to mitigate the risks of DIY authoritative DNS appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-mitigate-the-risks-of-diy-authoritative-dns/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-mitigate-the-risks-of-diy-authoritative-dns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-ai-market-structure-in-the-future-few-engines-many-applications.md",
+      "title": "AI Market Structure In The Future: Few Engines, Many Applications",
+      "excerpt": "AI will be a large sector but with only a few corporations providing the large language models. Many other companies will provide applications that use the LLMs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/",
+      "originalUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657ca9e7bc7dbcfed2d9bd41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/",
+      "publishedDateTime": "2024-02-27T12:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america.md",
       "title": "AI momentum is underpriced in the options market says Bank of America",
       "excerpt": "Buying Nvidia call options remains a good way to profit from gains in the AI chipmaker’s share price because volatility is being undervalued, according to Bank of America. In a note published Tuesday, the BofA global equity derivatives team observed that ...",
@@ -10,7 +305,7 @@
       "originalUrl": "https://www.marketwatch.com/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -158,6 +453,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-27-microsoft-made-a-16-million-investment-in-mistral-ai.md",
+      "title": "Microsoft made a $16 million investment in Mistral AI",
+      "excerpt": "Yesterday, Mistral AI, a Paris-based AI startup working on foundational models, announced a new large language model that could rival OpenAI’s GPT-4, a chat assistant and a distribution partnership with Microsoft yesterday. But Microsoft and Mistral AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/",
+      "originalUrl": "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 884,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/amp/",
+      "publishedDateTime": "2024-02-27T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-ai-startup-glean-lures-citigroup-as-investor-at-22-billion-valuation-after-revenue-quadruples.md",
       "title": "AI startup Glean lures Citigroup as investor at $2.2 billion valuation after revenue quadruples",
       "excerpt": "Glean is taking on Microsoft with software that can search through internal data and provide corporate users with quick answers to questions",
@@ -217,7 +564,7 @@
       "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -490,58 +837,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure.md",
-      "title": "Microsoft reveals new AI Access Principles for its services and infrastructure",
-      "excerpt": "Microsoft says developers can pick how their AI models are sold, distributed, and used on Microsoft's Azure services. The company claims it will make it easier for developers to switch from Azure to another cloud developer. Also, Microsoft will not use any ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 590,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/05/1685285989_microsoft_story.jpg",
-          "width": 760,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/",
-      "publishedDateTime": "2024-02-26T22:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -929,280 +1224,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-conversational-ai-revolutionizes-the-customer-experience-landscape.md",
-      "title": "Conversational AI revolutionizes the customer experience landscape",
-      "excerpt": "AI can create seamless customer and employee experiences but it’s important to balance automation and human touch, says head of marketing, digital & AI at NICE, Elizabeth Tobey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/",
-      "originalUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/02/Elizabeth-Tobey1200.png?w=1200",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/",
-      "publishedDateTime": "2024-02-26T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-how-to-improve-network-resilience-with-ns1-connect-filter-chains.md",
-      "title": "How to improve network resilience with NS1 Connect Filter Chains",
-      "excerpt": "We’ve put together a quick guide on how to build active-active, active-passive and manual failover systems by using filter chains.\nThe post How to improve network resilience with NS1 Connect Filter Chains appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-improve-network-resilience-with-ns1-connect-filter-chains/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-improve-network-resilience-with-ns1-connect-filter-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-six-generative-ai-predictions-for-2024-and-beyond.md",
-      "title": "Six Generative AI Predictions For 2024 And Beyond",
-      "excerpt": "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-meta-is-seeking-chip-engineers-to-develop-new-ai-and-ml-specialized-accelerators.md",
-      "title": "Meta is seeking chip engineers to develop new AI and ML specialized accelerators",
-      "excerpt": "According to recent job listings posted online, Meta wants to hire highly skilled hardware engineers to develop a new generation of application-specific integrated circuit (ASIC) designs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102023-meta-seeking-chip-engineers-develop-new-ai-ml.html",
-      "originalUrl": "https://www.techspot.com/news/102023-meta-seeking-chip-engineers-develop-new-ai-ml.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-how-metas-llama-3-will-impact-the-future-of-ai.md",
-      "title": "How Meta’s Llama 3 will impact the future of AI",
-      "excerpt": "What we currently know about Llama 3, and how it might affect the next wave of advancements in generative AI models.\nThe post How Meta’s Llama 3 will impact the future of AI appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/llama-3/",
-      "originalUrl": "https://www.ibm.com/blog/llama-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.md",
-      "title": "Meta to set up team to counter disinformation, AI abuse in EU elections",
-      "excerpt": "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European ... data science, engineering, research, operations, content policy and legal teams will focus on combating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107368948-1707137441266-gettyimages-1978494980-raa-metaplat240204_npg9u.jpeg?v=1708952265",
-          "width": 7863,
-          "height": 5242,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html",
-      "publishedDateTime": "2024-02-26T12:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

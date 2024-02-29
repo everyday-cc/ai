@@ -31,48 +31,34 @@ images:
     isCached: true
 
 related:
-  - title: "A Vending Machine Error Revealed Secret Face Recognition Tech"
-    excerpt: "A student investigation at the University of Waterloo uncovered a system that scanned countless undergrads without consent."
-    publishedDateTime: 2024-02-24T22:02:00Z
-    webUrl: "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/"
+  - title: "Richmond International Airport begins using facial recognition technology"
+    excerpt: "Security checkpoints at the Richmond International Airport have begun using facial recognition technology to confirm the validity of travelers’ identification that confirms their flight"
+    publishedDateTime: 2024-02-29T21:42:00Z
+    webUrl: "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/"
+    ampWebUrl: "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: WRIC
+      domain: wric.com
+    quality: 73
     images:
-      - url: "https://media.wired.com/photos/65d91d8d6248d84bf2a999c2/191:100/w_1280,c_limit/vending%20machine%20facial%20recognition.png"
+      - url: "https://www.wric.com/wp-content/uploads/sites/74/2024/02/ric-feature-img-new-tech.jpg?w=1280"
         width: 1280
-        height: 670
+        height: 720
         isCached: true
-  - title: "Facial recognition software discovered in college campus vending machines"
-    excerpt: "The University of Waterloo in Ontario, Canada, began removing its vending machines after discovering facial recognition technology on one of them. The machine's operators and manufacturers"
-    publishedDateTime: 2024-02-25T14:56:00Z
-    webUrl: "https://www.techspot.com/news/102013-facial-recognition-software-discovered-college-campus-vending-machines.html"
+  - title: "Growing number of US airports use biometric facial recognition"
+    excerpt: "Spokeo looked at which airports are using facial recognition software for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-02-28T09:19:00Z
+    webUrl: "https://kvia.com/entertainment/stacker-travel/2024/02/28/growing-number-of-us-airports-use-biometric-facial-recognition/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
+      name: KVIA
+      domain: kvia.com
+    quality: 54
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-24-image-12.jpg"
-        width: 2407
-        height: 1460
-        isCached: true
-  - title: "University to remove vending machines after student claimed they used facial recognition"
-    excerpt: "A university in Canada is set to remove a series of smart vending machines from its campus following concerns over the utilization of facial-recognition technology. The controversy unfolded when a vigilant student captured a photo of an M&M-branded vending ..."
-    publishedDateTime: 2024-02-29T12:09:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 65
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/MixCollage-29-Feb-2024-05-35-PM-4699.jpg"
-        width: 1280
+      - url: "https://kvia.b-cdn.net/2024/02/FacialRL1BR_0.png"
+        width: 1010
         height: 720
         isCached: true
   - title: "Ontario university to remove vending machines due to facial recognition technology concerns"
@@ -91,48 +77,24 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Big Candy Is Watching You: Facial Recognition In Vending Machines Upsets University"
-    excerpt: "The good news is that this probably doesn’t mean that facial recognition and similar personalized information is stored (or sent to the big vaporous mainframe) as this would violate the GDPR and similar data privacy laws, but there is precedence of ..."
-    publishedDateTime: 2024-02-27T04:30:00Z
-    webUrl: "https://hackaday.com/2024/02/27/big-candy-is-watching-you-facial-recognition-in-vending-machines-upsets-university/"
+  - title: "Facial recognition: Coming soon to an airport near you"
+    excerpt: "This passenger screening using facial recognition software and made available to select travelers at La Guardia by Delta Air Lines and the Transportation Security Administration, is just one example of how biometric technology, which uses an individual’s ..."
+    publishedDateTime: 2024-02-25T05:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-coming-soon-to-an-airport-near-you/"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 33
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2024/02/invenda_vending_machine_facial_recognition_error.jpg"
-        width: 1080
-        height: 611
-        isCached: true
-  - title: "University of Waterloo unplugs 29 vending machines amid facial recognition concerns"
-    excerpt: "These vending machines, unbeknown to students, had been using facial recognition to track the age and gender of patrons, as shared by CTV News. However, according to Invenda, the machines use facial analysis and not facial recognition to understand when a ..."
-    publishedDateTime: 2024-02-28T00:04:00Z
-    webUrl: "https://mobilesyrup.com/2024/02/27/university-of-waterloo-vending-machine-facial-recognition/"
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
+  - title: "Growing number of US airports use biometric facial recognition"
+    excerpt: "Spokeo looked at which airports are using facial recognition software for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-02-27T14:13:00Z
+    webUrl: "https://www.miamiherald.com/living/travel/article285979271.html"
     type: article
     provider:
-      name: MobileSyrup
-      domain: mobilesyrup.com
-    quality: 33
-    images:
-      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2024/02/header-waterloo-shutterstock-sized-scaled-1.jpeg"
-        width: 2560
-        height: 1438
-        isCached: true
-  - title: "A Vending Machine in A Canada-based University Was Secretly Stealing Student’s Facial Recognition Data"
-    excerpt: "Students of the Canada-based University of Waterloo were outraged after they found that the vending machines in their university were secretly stealing their facial recognition data. The incident came to light when a student from the university ..."
-    publishedDateTime: 2024-02-27T03:27:00Z
-    webUrl: "https://techreport.com/news/a-vending-machine-in-a-canada-based-university-was-secretly-stealing-students-facial-recognition-data/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 23
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/victoriano-izquierdo-JG35CpZLfVs-unsplash-scaled.jpg?_t=1709033265"
-        width: 2048
-        height: 1366
-        isCached: true
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 34
 
 secured: "R5nZQpbHPpEZMUVuJKoMy1gp4VMHJugi+NBm9wGdPSSO+9QSDwqMU7q8HhrGFfa0MnZx+o/Oezf3m6LCIdmf2mBEXLcK3rHsuC/M6sM7HGpJvWjN2CUbynpqXnGH7Uchiyq01IOoBaZ0fTWyggl9O79KgLHQXWnYt30yT2Tih4Gl5gV+Kw/y3esTUEPnkhRgJ/6REGxi000o+NgM9NCCX+0c/Z3BsfrmaJHCUP86tTYqwkK63zwZ6JiyEUT3zBxCY5hHm6f+Nc/UGEwXowSgroiwqY4pItgNfqW18MBrPIdFV45C0L3eCiTIisP/jZKB2v53LSe9jNHKxVM6Y9a1KvTJHfyOporpvztHIZ5Qt5IyH2+yqEY6sX0+5dklEJlH3yw3s1a4cN5n0pq8ACVYiSd5NhbFnAHueTPC7wuiGYhdRq9isosJ+VYMDE4hFXQ0D00RvDX7BXJTbfBjJx9AOULZT9piE+2lRf3ZTmJtRW2aBV1bwM2sU5/FFLLWv4ivzR3uq48DJWZJ4ur5ae3/4Q==;jJN5lAdpSWokuV96T+mNOg=="
 ---

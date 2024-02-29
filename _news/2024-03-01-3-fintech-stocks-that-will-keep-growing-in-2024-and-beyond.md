@@ -37,6 +37,15 @@ related:
         width: 272
         height: 249
         isCached: true
+  - title: "Why fintech startups need to prioritize email security"
+    excerpt: "The financial sector has been at the forefront of technological development for many decades, but what we call ‘fintech’ was really born as a result of the 2008 financial crisis. Clients lost faith in traditional banking processes,"
+    publishedDateTime: 2024-02-29T18:46:00Z
+    webUrl: "https://techbullion.com/why-fintech-startups-need-to-prioritize-email-security/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
   - title: "GCC Artificial Intelligence Market Share Analysis| Size, Trends, Industry Report 2024-2032"
     excerpt: "The latest report by IMARC Group, titled“ GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2024-2032“ , offers a comprehensive analysis of the industry, which comprises insights on the GCC artificial ..."
     publishedDateTime: 2024-02-28T03:00:00Z

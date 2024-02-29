@@ -36,6 +36,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Klarna news may confirm workers’ worst fears: AI replacement"
+    excerpt: "Klarna claimed that its chatbot’s service is equally as satisfying as human interaction, based on ratings; the fintech company also said that its “AI assistant” has resolved customer issues more quickly and has led to “a 25% drop in repeat ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.hrdive.com/news/klarna-ai-replacing-workers/708971/"
+    type: article
+    provider:
+      name: HR Dive
+      domain: hrdive.com
+    quality: 39
+    images:
+      - url: "https://www.hrdive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
 
 secured: "M4+W4sPSasAsOzfSWMrhBFav9D08HG+7sQXDdNSO47D39sgoQ8cYs9JM3nFingPCq+TQpw90+gBHficwprM6/ObMMZqiKBlTUCm7pSlOxLSokZfsuTyPnwqq81dmvLWOPwAJ5XLX+/6Dbew713NB9O6nrqfooDdig4x2Vf1l/qWZyEKQ+1up8E0jI0kf0ACK7ejuARKLJJzZ1oUgOl52sqj1mjAhgYyzHKSP7EcO29qZd52JRl9CvKHeZwvRtIlG8pyEiUKpDDFAo3n9b2yAn6fCncRQMJXOSFbn6/Rfiv4f+33rQAgfyXFgQ7Y7bzobgAlnAtBOCkLX9RPef2Nq9Cr/K2DutnZKou04Bje/kILTzCRJEIFRmGBMKqv/yV5xKarcL7bal7e7yCMV4jrWcRn8AWkbw4oN4gZnnSQfUpqvSDVfL9o3kpKlC06P2Eb5wY+nz2G+2KiIHQIb0+zFQ4KJx6hKbqK15NdMmrn8A6SWsae0RZfYAMJnUu8WpWNtssnyRanj6pvOQRTNhyYrmQ==;wWWABXHpXQ3My/FLtFoVEQ=="
 ---
