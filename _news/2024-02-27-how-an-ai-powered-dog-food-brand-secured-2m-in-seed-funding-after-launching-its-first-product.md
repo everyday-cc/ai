@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI-powered search engine Perplexity launches an AI-generated daily news podcast"
-    excerpt: "Among Perplexity’s investors are two with ties to Google: Susan Wojcicki, the former CEO of YouTube, and Jeff Dean, Google’s Chief Scientist, focusing on AI advances for Google DeepMind and Google Research. Moreover, when Perplexity announced its ..."
-    publishedDateTime: 2024-02-26T22:58:00Z
-    webUrl: "https://bgr.com/business/ai-powered-search-engine-perplexity-launches-an-ai-generated-daily-news-podcast/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 35
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2022/09/AdobeStock_217516770.jpeg?quality=82&strip=all"
-        width: 2400
-        height: 1596
-        isCached: true
 
 secured: "CpEdw1g2SJk2Lv7w0iGkhi5FL+EdxrR/f+ltMmyX1Xnip+XS2P5N0ln1CFTO8gdT1rjqx6WNJeoJNIizN1P3AqdqFd7wMnz6NHBNgbxEO1FC32du3qmHi2aQt9hbwH+6S505vo+hoolhwkalk9/UfUngDVlbHnbf3nkFMgtBFoT8jxRRl7l9sq3OYzRnrEh3lbT4fbAzpuPtTXHa3kWc2HP7NYODiaj1KM2CpnY/TDwArOWSncUtouSPTdDdeFsq+dlB8dbPVRGDra1/GvmMoeaBxrb7pRODfQEHttzVBPILPkoA17zL6KjAQHWfiJ/HjNLMA9UMAxGSBKV/ttJjLnRIRa5m+Fj+XYGml37YT6/CkadlnGWkE+uAhsVCKxeqQSFQC/kyA8OHHdoBg+Ho2kfSnLdYCYe9x4clS2E2EVkSvBdcV83R4aeQ9o8ltwSA3HRHuRLrnO5DN7cGj9OtMAQuIYZe5l78ZHDpuYhrEJnysgX4JZQaO0vxfIu2Ko4quisf8slxtreNPl65ExfqZg==;uc3TTiiKv//ZHwgFH2Qatw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1107915739/Verisilicon-NPU-IP-Is-Shipped-In-Ove
 webUrl: "https://menafn.com/1107915739/Verisilicon-NPU-IP-Is-Shipped-In-Over-100-Million-AI-Enabled-Chips-Worldwide"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Mena FN
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "VeriSilicon NPU IP is shipped in over 100 million AI-enabled chips worldwide"
+    excerpt: "VeriSilicon today announced that it has reached a milestone achievement with its Neural Network Processor (NPU) IP integrated into over 100 million AI-enabled chips across 10 major application sectors worldwide,"
+    publishedDateTime: 2024-02-29T16:58:00Z
+    webUrl: "https://www.design-reuse.com/news/55786/verisilicon-npu-ip.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 51
+    images:
+      - url: "https://static.designandreuse.com/news_img2/homepage55786/vb.jpg"
+        width: 533
+        height: 292
+        isCached: true
   - title: "VeriSilicon NPU IP is Shipped in Over 100 Million AI-Enabled Chips Worldwide"
     excerpt: "VeriSilicon (688521.SH) today announced that it has reached a milestone achievement with its Neural Network Processor (NPU) IP integrated into over 100 million AI-enabled chips across 10 major application sectors worldwide, including Internet of Things ..."
     publishedDateTime: 2024-02-28T01:11:00Z

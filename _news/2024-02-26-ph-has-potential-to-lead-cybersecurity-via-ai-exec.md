@@ -41,6 +41,15 @@ related:
         width: 1600
         height: 862
         isCached: true
+  - title: "Understanding The Limits Of AI And What This Means For Cybersecurity"
+    excerpt: "4. Incorporate a code of ethics for AI processes. For the most part, lawyers, doctors, airline pilots and other professionals operate under a code of ethics. Why this code exists may have to do with how professions play a central role in the development ..."
+    publishedDateTime: 2024-02-29T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/understanding-the-limits-of-ai-and-what-this-means-for-cybersecurity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "What organizations should know about cybersecurity in the age of artificial intelligence"
     excerpt: "Artificial intelligence (AI) brings many benefits to organizations, from process automation and increased efficiency to enhanced customer experiences. But cybercriminals have the same access to the technology. As it evolves, so do the risks."
     publishedDateTime: 2024-02-26T16:21:00Z

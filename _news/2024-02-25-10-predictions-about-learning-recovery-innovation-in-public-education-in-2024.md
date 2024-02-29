@@ -40,6 +40,29 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "In a First, a Geolocation Privacy Class Action Will Go to a Jury"
+    excerpt: "Digital Recognition Network is scheduled for jury trial on May 17 ... For the first time, geolocation—the identification of the location of an individual or an object using technology—will see its day in court. The named plaintiff representing the ..."
+    publishedDateTime: 2024-02-29T11:27:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/02/29/in-a-first-a-geolocation-privacy-class-action-will-go-to-a-jury/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Pop-Art-License-Plate-with-Synthwave-Eye-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Machine learning innovations and applications in nanotechnology"
+    excerpt: "Machine learning, with its ability to analyze large datasets and identify patterns, is particularly well-suited to address the challenges presented by the vast and complex data generated in nanoscience. Machine learning is a fascinating area of artificial ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.nanowerk.com/spotlight/spotid=64754.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
 
 secured: "EB/ZI+Ksxagq1ZFi3s+CDvS1KYkeU/BcbgaA9RKTg6GWden8DzMnT1xkC+lQtjNjo53gR51Q0LkuyhqOV0AWHAaXCfC7443UI2nuezv/J2w2TkFIiuYpvTYf4LqlfCPHJ5u7mPaytupOc/l/+OgpWhgPEAWUn72Tar8ysossp8K3twvAuOmWPASOZLM/g6jDYSk1ng+AJaVpzyILE/50k1ktRyGmhwiwfxMqHWPp7iEJGfOXXHHp2A2qBIw0NtpAakTz68cwRSmr1C/uhyepBPv8Rwr1HN972g+HVsHproatU4S9ye00Z8YIUCaettZl9M/wy5gBe6Wvp+JJA6MAQkW47dwft4oS1UNF/fga0+nwV2HFL32V3l0jpnKd2FEdtB5wPQ1T0rcL/z4udFhjI42zy5n7czekKUX7S3iOQceAsDfEucGgTVzr5hh184hnoTZUD/v6eDqWYkLBG2XoLVf+a+F0iSCIio2uXVOCMgPkupPyYyjMr0++vquVL4FKM/iB3ZwuErxtFOZjat3v5A==;Eg7vkHdxip6RQL3cSCwX/g=="
 ---

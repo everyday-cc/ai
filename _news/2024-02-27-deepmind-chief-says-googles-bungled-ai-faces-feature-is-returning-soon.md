@@ -103,6 +103,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Google DeepMind’s new generative model makes Super Mario–like games from scratch"
+    excerpt: "Genie learns how to control games by watching hours and hours of video. It could help train next-gen robots too."
+    publishedDateTime: 2024-02-29T12:57:00Z
+    webUrl: "https://www.technologyreview.com/2024/02/29/1089317/google-deepminds-new-generative-model-makes-super-mario-like-games-from-scratch/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 14
 
 secured: "Gql/vDypvT2cH3htPSGr43fwakUPHeXWsZyZiI0Lthld+pfvQ0x7vA4LChiDJzfMsetervNSIACZo0KOUWXd0q6SrBYnrKXDhJuPa/J/3H3FETZk4ZPC9lL6cNERS0S5hNng9dRNdSGAId2vw+rS2f4yXy7SYQvhowmT230kn2yRNxO9fkJfZcjsYyI7frtOxIo6Zj1lvF3DVI+PV3D59euJ+GafRbpXNVV2jpc39EAWQXAismDRCFV3zusP7exo+fivUTPjK8IVD3an24qr5T/iibLgyjLxKh2+lCjHB8zCxFQGPmZaRk5p1W/ZCvPNox78uEHuWW+bpwVT+iyO+t37rCxQtuWlgAWipw49vHbi9ww638GX3cIh8e9eRMGq7u1UVPhJY8NkGoeHPRRMS6bR7MK3RBF78z4XqwKTfNnhV9h1Tw3El/du5DdaLgutveidkOIBxC3tlgwpdI156x3gLsZlf5mQ6zylF0qnELkevEs48UDOPBnsnHcdF3+03ZdT8wNJ+uKXFrb3+Ezt8A==;zDQ5AaEVdUgpYooks8IdoA=="
 ---

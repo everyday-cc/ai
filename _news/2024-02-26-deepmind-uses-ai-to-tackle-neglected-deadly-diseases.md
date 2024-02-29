@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Google DeepMind’s new generative model makes Super Mario–like games from scratch"
+    excerpt: "Genie learns how to control games by watching hours and hours of video. It could help train next-gen robots too."
+    publishedDateTime: 2024-02-29T12:57:00Z
+    webUrl: "https://www.technologyreview.com/2024/02/29/1089317/google-deepminds-new-generative-model-makes-super-mario-like-games-from-scratch/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 14
 
 secured: "423kp4ldrQhWcDbEMzjFUGEZEMNkBVnSmGCyvweKxugKa/L7/SijCco94olKaXwRfRUf3E3YiOOF0G8lEw/kfkZuNTl5UZ9lWCnrYgBmkz98vW7lkDP7LSbcNJUtp84a0lrFK9aCuQjNBdbLzav3rO4V5lJ0FATdyD5PxnZ9FfLes72qE+4xFLcLE8YmbiIvrBJ1lf23w6rNELzHthlRqG23MJ4upqIJIUvhrMD8nIIl5UoyiPbyi6pKSp/RF0MM2U99353o8DBbqKxxKCwlZVc+ZZt42bPg73dk73UGCWBWimelWmaTDwUuMeV8cnFsw7Yn5ULWKwAqkwZ4C8RivEUfYqIKYbxlJ8rpwTsEx1O6vGnYkOiI8MVY+Z1Liv+G64b+vcgDRyonYsDarZeOd6I3wT0aBV0k95xN6zWe9615jyBfSVlauZN1KguALIHTQLxiO94rrsR3sGCWxAsgorK8915U4P8z71XXU2HC6hfyHMPolosTTb86wOKUwDNbby+tmsJarY4A57eAjgruTw==;TasJB8SHK1CGgzC+/CpYQg=="
 ---

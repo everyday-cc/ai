@@ -24,6 +24,17 @@ images:
     height: 274
     isCached: true
 
+related:
+  - title: "Machine Learning Models Predict Mortality Among Dementia Patients"
+    excerpt: "New machine learning tools accurately predicted patient mortality at one, five, three, and 10 years across eight dementia subtypes."
+    publishedDateTime: 2024-02-29T13:00:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-models-predict-mortality-among-dementia-patients"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
+
 secured: "txVAal4g1/NpWDviRvwar+TWiThxe9yWgx8JjRw8bjiEhjGZKhzCIyNu8cBmQVZEzoo5MMy6iiAakDmjzgvX76CcGcnJKbFwKwKHgfDEY/MnaP68HtglEfakv+MHWeLTZeaUR4kjDaVZUBVacSCBkcUWLj46rx4Mi29AR/yPTWB34xsV+XHG7ueZah1DlQhp7qbi3+MkcYcUPcZRrDv3gWd74TnFgOnmOvOZc+2mWxJEssyWqC1bOkE2K0IqRvsafUPM8bcHi5i4f6tDwNtFmV/Ya4+h9VyYtCSbiw8mPBJSfgQbid2MN/B/lS5Dfp5JdrfSMHuIz2NoHRr1FEcoTLTUgt9hEYJQbvviE946l0pYO7V4pTeeKihgWnKoLfVPjLB/OAu7OOnfKOV9V9ONQrvSd96NNnMLvJu51FEv/9DopIMMdTcfpsdLctf7GfLIIFiw9H8yWqtk/W2tPktmgxIPLDS4nq3deEz4BJT0QtW++tapGTHzjuKtA7RkEjb/5O037FByHTrYPUbeVntk3w==;gjKp7vhWYrBn3wzqgaXXGg=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://kvia.com/entertainment/stacker-travel/2024/02/28/growing-n
 webUrl: "https://kvia.com/entertainment/stacker-travel/2024/02/28/growing-number-of-us-airports-use-biometric-facial-recognition/"
 type: article
 quality: 54
-heat: 76
-published: true
+heat: 64
+published: false
 
 provider:
   name: KVIA
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face biometrics growing role in trust raises stakes for fakes"
-    excerpt: "Face biometrics are powering identity checks for employment, air travel, and enterprise access control in some of the most-read stories of the past week."
-    publishedDateTime: 2024-02-24T17:00:00Z
-    webUrl: "https://www.biometricupdate.com/202402/face-biometrics-growing-role-in-trust-raises-stakes-for-fakes"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/04170318/face-biometric-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Growing number of US airports use biometric facial recognition"
     excerpt: "Spokeo looked at which airports are using facial recognition software for security screenings, according to Customs and Border Protection."
     publishedDateTime: 2024-02-27T14:13:00Z

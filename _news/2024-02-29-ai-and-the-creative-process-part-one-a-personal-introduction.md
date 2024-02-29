@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/ai-and-creative-process-part-one-personal-int
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-and-creative-process-part-one-personal-introduction?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Diginomica
@@ -41,15 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Artificial Intelligence and the Significance Crisis"
-    excerpt: "The most likely cause of this is a content blocker on your computer or network. Please allow access to our site, and then refresh this page.  You may then be asked to log in, create an account if you don't already have one,  or subscribe."
-    publishedDateTime: 2024-02-26T21:25:00Z
-    webUrl: "https://www.chronicle.com/article/artificial-intelligence-and-the-significance-crisis"
-    type: article
-    provider:
-      name: The Chronicle of Higher Education
-      domain: chronicle.com
-    quality: 17
 
 secured: "pywIrqTgBk6XM89DxRu8bQ64CgRnDQwKyDTHl79gf+boFLu2KHNHKJk7SXVQD84+ixPrdpDgy8MrPMb7nx8ozssExQaqvPvMMSG2+pO5Z1SDceNnU+RMSWbgRGs06KNGMgUh27AGlJSXfk4UirskkoPMVzn0XHzDCSN/YedD/dkYeYkRd5PStJuDTxioc6Rt3AKt88uxjlbgHZumOgQtMc8Wzz1im5jeP8AgMmSwYuUq5lQlFoVaTevrwZnx2YT4lyk9HkrXQ7LebVUto9kKB2fhU4SmUrk4WfJU3F7rnMhZ5b6KjR5tNNSrk4K2u3zngj1rx3Ar8BYTNKUsiiTm0lgddlhCmRlqLG08JUOVpnQ=;kJEyBZzwnY8DmGgHf9fPww=="
 ---

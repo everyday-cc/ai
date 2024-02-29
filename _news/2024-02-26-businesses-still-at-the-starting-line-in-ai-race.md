@@ -53,19 +53,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dissecting the AI boom through the dotcom lens"
-    excerpt: "The Web was funded by telco CAPEX as hyperscalers are funding the AI buildout. But there was no internet or cloud at the time, so this time the pace is accelerated. Picks and shovels are highly valued at the start The core infrastructure – so-called ..."
-    publishedDateTime: 2024-02-24T16:19:00Z
-    webUrl: "https://siliconangle.com/2024/02/24/dissecting-ai-boom-dotcom-lens/"
+  - title: "iOS 18: AI Server Industry Aiming to Win Business From Apple"
+    excerpt: "AI server makers are hoping to obtain orders from Apple ahead of its highly anticipated unveiling of new AI features later this year, according"
+    publishedDateTime: 2024-02-29T14:01:00Z
+    webUrl: "https://www.macrumors.com/2024/02/29/ios-18-ai-server-industry-aiming-to-win-business/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: MacRumors
+      domain: macrumors.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/AI-dotcom.jpeg"
-        width: 1024
-        height: 1024
+      - url: "https://images.macrumors.com/t/X8Mvv4-ay3fM6NWUohr6lbyLJmM=/1600x/article-new/2022/03/hey-siri-banner-apple.jpg"
+        width: 1600
+        height: 840
         isCached: true
   - title: "How small businesses in The Woodlands can harness AI to save time, boost productivity"
     excerpt: "But you can't use AI unchecked. Using artificial intelligence without being responsible or having human oversight can lead to privacy breaches, ethics concerns and poorer results on Google searches, Banks said. \"There are many companies that have ..."

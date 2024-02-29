@@ -23,20 +23,18 @@ topics:
 
 related:
   - title: "Construction workers being replaced by AI robot bricklayers"
-    excerpt: "Monumental is a startup that offers brick-laying services with its AI-powered robots that can work with humans to fill the labor gap."
-    publishedDateTime: 2024-02-25T07:01:00Z
-    webUrl: "https://cyberguy.com/ai/construction-workers-being-replaced-by-ai-robot-bricklayers/"
-    ampWebUrl: "https://cyberguy.com/ai/construction-workers-being-replaced-by-ai-robot-bricklayers/amp/"
-    cdnAmpWebUrl: "https://cyberguy-com.cdn.ampproject.org/c/s/cyberguy.com/ai/construction-workers-being-replaced-by-ai-robot-bricklayers/amp/"
+    excerpt: "Working all day in the hot sun, bending your back and knees with every brick, hands raw from mortar. Not exactly a career on most young people's dream list. That's where Monumental comes in with ..."
+    publishedDateTime: 2024-02-25T15:00:00Z
+    webUrl: "https://www.foxnews.com/tech/construction-workers-being-replaced-by-ai-robot-bricklayers"
     type: article
     provider:
-      name: CyberGuy
-      domain: cyberguy.com
-    quality: 74
+      name: Fox News
+      domain: foxnews.com
+    quality: 84
     images:
-      - url: "https://cyberguy.com/wp-content/uploads/2024/02/Uncomfortable-reality-leads-to-Vision-Pro-returns-585x390.jpg"
-        width: 585
-        height: 390
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/1-Say-goodbye-to-human-bricklayers-and-hello-to-a-new-breed-of-bricklaying-AI-robots.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "M4+W4sPSasAsOzfSWMrhBFav9D08HG+7sQXDdNSO47D39sgoQ8cYs9JM3nFingPCq+TQpw90+gBHficwprM6/ObMMZqiKBlTUCm7pSlOxLSokZfsuTyPnwqq81dmvLWOPwAJ5XLX+/6Dbew713NB9O6nrqfooDdig4x2Vf1l/qWZyEKQ+1up8E0jI0kf0ACK7ejuARKLJJzZ1oUgOl52sqj1mjAhgYyzHKSP7EcO29qZd52JRl9CvKHeZwvRtIlG8pyEiUKpDDFAo3n9b2yAn6fCncRQMJXOSFbn6/Rfiv4f+33rQAgfyXFgQ7Y7bzobgAlnAtBOCkLX9RPef2Nq9Cr/K2DutnZKou04Bje/kILTzCRJEIFRmGBMKqv/yV5xKarcL7bal7e7yCMV4jrWcRn8AWkbw4oN4gZnnSQfUpqvSDVfL9o3kpKlC06P2Eb5wY+nz2G+2KiIHQIb0+zFQ4KJx6hKbqK15NdMmrn8A6SWsae0RZfYAMJnUu8WpWNtssnyRanj6pvOQRTNhyYrmQ==;wWWABXHpXQ3My/FLtFoVEQ=="

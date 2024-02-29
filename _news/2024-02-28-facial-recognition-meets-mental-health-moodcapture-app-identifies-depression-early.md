@@ -47,12 +47,14 @@ related:
   - title: "HID, CERTIFY Health and CTS align to elevate the patient experience powered by facial recognition"
     excerpt: "HID, the worldwide renowned company in trusted identity solutions has announced a collaborative self-service patient engagement and facial recognition offering designed to enhance healthcare operations and administer an improved patient service at every ..."
     publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/hid-certify-health-cts-align-elevate-patient-experience-powered-facial-recognition-co-823-ga-npr.1709198680.html"
+    webUrl: "https://www.sourcesecurity.com/companies/hid-global/news/hid-certify-health-cts-align-elevate-patient-experience-powered-facial-recognition-co-823-ga-npr.1709198680.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/hid-certify-health-cts-align-elevate-patient-experience-powered-facial-recognition-co-823-ga-npr.1709198680.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/hid-certify-health-cts-align-elevate-patient-experience-powered-facial-recognition-co-823-ga-npr.1709198680.html"
     type: article
     provider:
       name: SourceSecurity
       domain: sourcesecurity.com
-    quality: 6
+    quality: 26
 
 secured: "DI3RpPLgTzG1J6o/3h3q2sH9lvHM4SjR/xPNp8R9QI7pPKO5s/NkwaBTWCaghHWOm3ypDma3KAOKjqf/i5GyGDyFw1oxJ0o0WLvZmjtf4O9yIrJFtoWMljeV2vICINPlBopoa1OqFfI96mYr+Ii3uWRMci9gtosr53UJ205Qb3G3icDa/z5FZZKcordKQv1Q6cdbtIjiJUtMpWtUtS5MOx8aPVkcNKe/h18DbVoJ5e7483d7TZB48sqNoZBMNCrv1UgJNMB3dp5qcRkkpNY1XXFJ7LwT4jq41CYqXcKz1qlNxO165Jr99IOiluh37zr/WZQgI3HGQ7hH9JlWD+i5bviPhsrSb+iwqS1Ynmu5RMc=;UHiLve31zA1q5VK40OZi0w=="
 ---

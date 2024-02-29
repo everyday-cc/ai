@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/29/ai-hallucinations-sa
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/29/ai-hallucinations-said-to-be-proven-as-unavoidably-inevitable-but-dont-unduly-despair-since-they-are-hopefully-detectable-and-likely-correctable/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/29/ai-hallucinations-said-to-be-proven-as-unavoidably-inevitable-but-dont-unduly-despair-since-they-are-hopefully-detectable-and-likely-correctable/amp/"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65e018348a9d23a3965bc17a/0x0.jpg?format=jpg&crop=2812,1873,x245,y0,safe&height=900&width=1600&fit=bounds"
@@ -29,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "Lf8SQ7b4u0okOSGxIkrGytt/MvcCeS7V61ozV6No5xTvtmNh7nfOq84xbqvjFDX5oGLnN6xJWzR/QZnaOKq/0UA4b8bvq/2KusSaLz2GYI3TpYP0AeWoNbdUB7We1Sd59mNUW7+cU7OJ6wdISS6t6sAf65rlOhwuIL3v6vdaTi3ibGkZMcNzXFTW7j4pqTgtxBpONt5J231guSDxndPNOUkCjMRPzacRbWLMjgV5HpY4uPqVqz1JTnaiXr6+YOoAqsfS0dSXrhdxYAbYI/1sZGpfVL9Ao4n1HhXC51W4xkM0hu5LLseVUDi1HbUwLG1q+ATCg8NOqAWDadGOMc2Pw1vlH3ae26CHgurRO4wKaYo=;Fk6rRCrmTq+QAg/av2ENCw=="
+secured: "7xS4Z/S82cEZTsDovGpT7OVw36XBQl+H4nYi5KNtQo9l2+LVlmetiRQgy1pgvisNpMKG8WhTkfNWkpyOtezIUb0ltU+dT/qL4WGrI8SWydaiIBTFGu+Byzea1FgRpzkQ/rxWnWRilxxRbbHvZmhUNL3yxMNot5sQ9+v5aBUSaoqYoZrKXxOktNS6ej/O+Aob4Pfrg6pnwSD37WSTP1iWUA1VE9Ya0nZjZ2V/7R6nAL53giGo4/xmnsmySQNteLjjXPw/ORqENx58R4Bs1T6cxz1YIuiUpU7yMV1JZCbaH2LrvYDrK1Baf3RZ2mmDOnTNtylkRr2qYFckg7puu1kdK4gWZAWywQyCYRNpr8JTfTybfHyHpAsErYIGDkJtOdtLSvncb4JXbVtzlH7U2lAu/jddYvDpZtNk0r0psnOL9XWeZEDNaTq6Jzkh4p0tP5UvcgKhXIkpJb9Q4ka4cdgTXb58xU1VmfsVKB4lmvPcoKjx71LOy/lVQA7gvL57kJW7jI6uKCNvDqz5ZabBeRDbTw==;g5dWyVjXvRZgIQLU9EWXCg=="
 ---
 

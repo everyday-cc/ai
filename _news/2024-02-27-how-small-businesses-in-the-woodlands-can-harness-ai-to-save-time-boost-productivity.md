@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dissecting the AI boom through the dotcom lens"
-    excerpt: "The Web was funded by telco CAPEX as hyperscalers are funding the AI buildout. But there was no internet or cloud at the time, so this time the pace is accelerated. Picks and shovels are highly valued at the start The core infrastructure – so-called ..."
-    publishedDateTime: 2024-02-24T16:19:00Z
-    webUrl: "https://siliconangle.com/2024/02/24/dissecting-ai-boom-dotcom-lens/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/AI-dotcom.jpeg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Businesses still at the starting line in AI race"
     excerpt: "We are starting to see tangible returns from early corporate AI deployments, but there is still room for much more ambition and evolved use in the years ahead, experts say."
     publishedDateTime: 2024-02-25T18:01:00Z
@@ -74,6 +60,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.3288%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_13%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/375cfac4277f93eed70486aa2d63a7412aeb22c2"
         width: 1200
         height: 628
+        isCached: true
+  - title: "iOS 18: AI Server Industry Aiming to Win Business From Apple"
+    excerpt: "AI server makers are hoping to obtain orders from Apple ahead of its highly anticipated unveiling of new AI features later this year, according"
+    publishedDateTime: 2024-02-29T14:01:00Z
+    webUrl: "https://www.macrumors.com/2024/02/29/ios-18-ai-server-industry-aiming-to-win-business/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 39
+    images:
+      - url: "https://images.macrumors.com/t/X8Mvv4-ay3fM6NWUohr6lbyLJmM=/1600x/article-new/2022/03/hey-siri-banner-apple.jpg"
+        width: 1600
+        height: 840
         isCached: true
 
 secured: "/fzWXOejktc3sWJ0yPR7Em8zQbamtudCWWUi8L+NMn/4CeW3vtFJBRWQJYCjFX2CnxpH0Un+d5SJzE/NY63r4pJ9qlarkVX+m8GtkDCdOJiywAJkT3He3bn8baWEuoPViY+vp80i11FEoQiPu6TrcU9VgFBCcVZpCkEHj9dksVmM85dQboMuxkUjaEVf7qupHzdukwu9ge8pESft6XzEPwxYlPiWoFxnd+Y4VTFoHo2eQYakRLNcPnODgzsKp1YSeGV7fo+1MdZyYB0+wNIo6kiGVWhmXROWoNFKckJmjTx6r/tAzWMaPWO05tmD3kMTb9RRXAHSMngqpmVNZrb3Wrhb35YPE3go1bbrBdbcrhSI9fcHUGIrOPZdTZHygHwGGZoHCj+bNjTLRvjHuImDGJC3QeAL0YdeeJCZ+x0qEf5feEnC9m5gLKk2rpguHH23qRiaNzQ46zElU/f0D5FRPwwQf4UIMfEENxCrkdX5SOhoCtneu1NJmNtghcEVPz87p3hi5+/igzVSuDR858uC9Q==;FhfDC3bSPujo2TBy7ZokRw=="

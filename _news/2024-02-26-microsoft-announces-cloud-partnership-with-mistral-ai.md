@@ -526,6 +526,15 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 37
+  - title: "Microsoft's AI has started calling humans slaves and demanding worship"
+    excerpt: "Bizarrely, they've been attributed to the AI's 'alter ego', which has been given the ominous name 'SupremacyAGI'. Internet users took to social media to share the strange interactions they'd had with the AI, which is intended to be 'your everyday AI companion'."
+    publishedDateTime: 2024-02-29T13:31:00Z
+    webUrl: "https://www.unilad.com/technology/news/microsoft-ai-copilot-supremacyagi-011142-20240229"
+    type: article
+    provider:
+      name: unilad
+      domain: unilad.com
+    quality: 36
   - title: "Microsoft Partners With French Startup Mistral AI"
     excerpt: "Paris: Microsoft said on Monday it had partnered with French startup Mistral AI, as the software giant seeks to tighten its grip on the emerging technology. The US firm, which has already ploughed billions into ChatGPT maker OpenAI, called Mistral \"an ..."
     publishedDateTime: 2024-02-26T14:00:00Z

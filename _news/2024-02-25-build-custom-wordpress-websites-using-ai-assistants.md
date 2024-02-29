@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Wordpress Wants to Turn My Old Blog Into an AI Zombie, and It Breaks My Heart"
+    excerpt: "As Tumblr and WordPress prepare to serve their content up as training material for AI, it feels like the spirit of the blog-era internet is dying."
+    publishedDateTime: 2024-02-29T15:24:00Z
+    webUrl: "https://www.pcmag.com/opinions/wordpress-and-tumblr-want-to-turn-my-old-blog-into-an-ai-zombie"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 64
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/07FiLG3RGH4zm683ybnpYyJ-2.fit_lim.size_1200x630.v1709212939.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Tumblr and WordPress data exploited for AI model training"
     excerpt: "Automattic is working on a business deal with Midjourney and OpenAI and has already prepared an initial batch of content to feed their models. An unnamed"
     publishedDateTime: 2024-02-28T15:26:00Z

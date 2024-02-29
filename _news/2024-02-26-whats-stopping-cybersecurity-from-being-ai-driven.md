@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stop
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Understanding The Limits Of AI And What This Means For Cybersecurity"
+    excerpt: "4. Incorporate a code of ethics for AI processes. For the most part, lawyers, doctors, airline pilots and other professionals operate under a code of ethics. Why this code exists may have to do with how professions play a central role in the development ..."
+    publishedDateTime: 2024-02-29T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/understanding-the-limits-of-ai-and-what-this-means-for-cybersecurity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "PH has potential to lead cybersecurity via AI -- exec"
     excerpt: "An executive of Amazon Web Services (AWS) on Monday said there is an opportunity for the Philippines to become a leader in cybersecurity through the use of generative artificial intelligence (AI). During an online press conference,"
     publishedDateTime: 2024-02-26T09:51:00Z

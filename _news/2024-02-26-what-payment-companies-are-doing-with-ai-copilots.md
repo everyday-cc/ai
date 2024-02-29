@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/payments/news/what-payment-companie
 webUrl: "https://www.americanbanker.com/payments/news/what-payment-companies-are-doing-with-ai-copilots"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 740
     height: 492
     isCached: true
+
+related:
+  - title: "Groundbreaking Chinese Ruling Finds AI Company Committed Copyright Infringement"
+    excerpt: "Chinese media reported the Guangzhou Internet Court ruled an AI company committed copyright infringement in its provision of AI-generated text-to-image"
+    publishedDateTime: 2024-02-29T15:27:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/"
+    ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e0b061adf152ee77fb0400/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1404
+        height: 900
+        isCached: true
 
 secured: "YpGNI5kXgQ0p6VdkbmZRljTZRYh9oeiSPEzoBhR9gWfyeGX2iA3IYfLYWpN1HzWVQjyJp2Mg/gUI01XrN2zQVhxxYr9xBBTf/HcwiBoDGlHu8XZUjtf6Iz35ChS+VT4iJhXWt2MCEh7Sj/GL69dCVE4P0R0bjGYs5iNHHQhGr6eGGLXQZAdKPFK0dJ+y3rV5Gw2fl0c+LL33aM1TeMN2vB8ch55bdLHnXKwCdcixgkSgrVfjZp+JEExpvrBAD4amZHkgrC7ks7OnaCIWvXbBjsn5meRy6gvWXvo93zJdj2LteQU+wtb8xJzNd1Nj3r0eeHoIvoHvpvGI6t3xUL4zTTFb+azDlrw/TlFmKQmj45jUE+UwJBMYyjGV7SzAmIUPA6bNGCz5o9HFIS3sfxJqcWD6aq3wQvMOzOylJII19B4AGp4nwxUkP8DZU1eDb3o+TIuaHHpkdk1ovJe+IX0HoHgHK0wDrHrZGJL7JxXcX4igGPZttVA4VnYONbi0UFhwwNA+f0FEXnxEdoy7+5D2Ow==;QQE2GqmhqWlNjcVTGFdm6Q=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 1680
         height: 1120
         isCached: true
+  - title: "Former AMD VP Likens Nvidia to a 'GPU Cartel'"
+    excerpt: "Along those lines, an Nvidia competitor named Groq was mentioned in the article as saying Nvidia is stifling competition by slowing down shipments of AI hardware if it thinks a company is looking elsewhere for its GPU needs due to the long wait times."
+    publishedDateTime: 2024-02-29T12:00:00Z
+    webUrl: "https://www.extremetech.com/gaming/former-amd-vp-likens-nvidia-to-a-gpu-cartel"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "IVVkQzl0826EKtmH/Z8MOi0jphmrih4dTPgEEEdaGjxUaDzk9oQs+Vhej6nN4ox0gkmWfjNV0A9m4yzsg4BoIHOpa1stmbYAJhEYleyqsEIsGWAt0Jfs183dZtBDlPLTowGAoOZJhMEnnbo6xOAneAdOXCQW8HUUKwRATAPF2lutQdNJrOaGgjzHKFraxsVaI3ngGXeyISwXzA9M3jZuo6qreuNL5TgwPHf6hXIKVdpAYPLlbthCJT3ode/SHPfwdUQvVgs/KqXusoTrM516YO+7HusklL7KegCvpISOUKcDITgd6WOpF2klKMUe1BWrH+TFg2r9oxHKerH/Z6T2Ofbm0CrOf7oBNSkbInGeQvigK2JKWa9nhk5AlTRy9fdFVqyiqY3TTxy6NyBvpsSdELqrlW+nJiA5MkcmtxaRZSaWccZkLeMoxskry5G1HpzqXR1yxzShqtDlthIYs80rXYlw/3wOnDZZF1NUaIhX/SWQ+dqkjX0SP02FXkt08cR4dnwDdCcLft+Bir/4RnW+CQ==;AjAoNJvB6EaauGske8Dhzw=="
 ---

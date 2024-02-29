@@ -69,6 +69,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Qualcomm At MWC 2024: Spatial Computing, Loads Of AI And 5G/6G Demos"
+    excerpt: "Analyst Anshel Sag reviews the latest 5G, AI, spatial computing and automotive announcements from Qualcomm at Mobile World Congress Barcelona 2024."
+    publishedDateTime: 2024-02-29T12:57:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2024/02/29/qualcomm-at-mwc-2024-spatial-computing-loads-of-ai-and-5g6g-demos/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "MWC: Qualcomm previews multimodal AI models on Android phone, Windows PC"
     excerpt: "Qualcomm also displayed generative AI features on Snapdragon 8 Gen 3 powered devices from Xiaomi, OPPO, and HONOR. Below are the details"
     publishedDateTime: 2024-02-26T07:02:00Z

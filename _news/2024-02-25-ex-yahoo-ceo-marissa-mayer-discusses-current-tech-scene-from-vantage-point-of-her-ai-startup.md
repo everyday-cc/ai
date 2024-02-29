@@ -19,15 +19,6 @@ topics:
 
 related:
   - title: "Ex-Yahoo CEO Marissa Mayer discusses the current tech scene from vantage point of her AI startup"
-    excerpt: "Former Yahoo CEO Marissa Mayer now runs an artificial intelligence startup called Sunshine that makes an app for managing personal contacts. She recently shared her views on AI and other tech topics."
-    publishedDateTime: 2024-02-24T16:44:00Z
-    webUrl: "https://omaha.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_ad9f1295-1b1e-597d-826d-749d179e643f.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 4
-  - title: "Ex-Yahoo CEO Marissa Mayer discusses the current tech scene from vantage point of her AI startup"
     excerpt: "My fears are somewhat different than some of the people who are worried about AI overlords and things like that ... you ordered a lot of employees who were working from home to start coming into the office regularly. Has the pandemic reshaped your thinking ..."
     publishedDateTime: 2024-02-26T20:48:00Z
     webUrl: "https://fredericksburg.com/news/nation-world/business/marissa-mayer-former-yahoo-ceo-sunshine-startup-ai-current-technology-scene/article_49a8801d-1aae-5b7c-8dbb-871c644a63d5.html"

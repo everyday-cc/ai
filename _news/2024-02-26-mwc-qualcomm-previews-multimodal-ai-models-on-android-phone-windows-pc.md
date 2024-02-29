@@ -67,6 +67,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Qualcomm At MWC 2024: Spatial Computing, Loads Of AI And 5G/6G Demos"
+    excerpt: "Analyst Anshel Sag reviews the latest 5G, AI, spatial computing and automotive announcements from Qualcomm at Mobile World Congress Barcelona 2024."
+    publishedDateTime: 2024-02-29T12:57:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2024/02/29/qualcomm-at-mwc-2024-spatial-computing-loads-of-ai-and-5g6g-demos/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "WISeKey Announces at the Mobile World Congress Comprehensive AI Integration Across All Subsidiaries"
     excerpt: "WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ: WKEY), a global leader in cybersecurity, digital identity, and Internet of Things (IoT) innovations, operating as a holding company,"
     publishedDateTime: 2024-02-28T06:42:00Z

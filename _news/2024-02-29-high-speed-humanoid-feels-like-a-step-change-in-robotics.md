@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/robotics/sanctuary-phoenix-autonomous-speed-h
 webUrl: "https://newatlas.com/robotics/sanctuary-phoenix-autonomous-speed-hands/"
 type: article
 quality: 84
-heat: 84
+heat: 87
 published: true
 
 provider:

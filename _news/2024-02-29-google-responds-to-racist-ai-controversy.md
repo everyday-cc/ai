@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/274140864/google-responds-to-r
 webUrl: "https://www.bignewsnetwork.com/news/274140864/google-responds-to-racist-ai-controversy"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Google Pauses AI Image Creation Amidst Uproar Over Racially Diverse Historical Depictions"
-    excerpt: "Google Gemini halts image generation due to controversial, culturally insensitive depictions of historical figures."
-    publishedDateTime: 2024-02-25T00:53:00Z
-    webUrl: "https://hoodline.com/2024/02/google-pauses-ai-image-creation-amidst-uproar-over-racially-diverse-historical-depictions/"
+  - title: "'We got it wrong': Google CEO Sundar Pichai says 'Gemini AI responses show bias'"
+    excerpt: "Google CEO Sundar Pichai has addressed the ongoing issues with the company's Gemini AI chatbot (previously called Bard), calling some of the responses by the AI chatbot as ‘problematic’ and showing bias. Notably, Google had recently paused the text-to ..."
+    publishedDateTime: 2024-02-28T10:08:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias-11709118937108.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias/amp-11709118937108.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias/amp-11709118937108.html"
     type: article
     provider:
-      name: Hoodline
-      domain: hoodline.com
-    quality: 30
+      name: Mint
+      domain: livemint.com
+    quality: 54
     images:
-      - url: "https://img.hoodline.com/2024/2/google-pauses-ai-image-creation-amidst-uproar-over-racially-diverse-historical-depictions.webp"
-        width: 1200
-        height: 800
+      - url: "https://www.livemint.com/lm-img/img/2024/02/28/1600x900/GERMANY-MSC-104_1709122364632_1709122410471.jpg"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Google CEO blasts ‘unacceptable’ Gemini image generation failure"
+    excerpt: "Alphabet Inc.’s Sundar Pichai emailed staff on Tuesday to address the problematic responses from Google’s Gemini AI engine, describing them as \"completely unacceptable.”"
+    publishedDateTime: 2024-02-28T09:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/28/google-ceo-blasts-unacceptable-gemini-image-generation-failure"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/28/2566662.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Google CEO Pichai blasts 'unacceptable' Gemini image generation failure"
+    excerpt: "Teams are now working around the clock to rectify the issues, Pichai wrote in his note, reviewed by Bloomberg News"
+    publishedDateTime: 2024-02-28T07:14:00Z
+    webUrl: "https://www.business-standard.com/world-news/google-ceo-pichai-blasts-unacceptable-gemini-image-generation-failure-124022800394_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/world-news/google-ceo-pichai-blasts-unacceptable-gemini-image-generation-failure-124022800394_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/google-ceo-pichai-blasts-unacceptable-gemini-image-generation-failure-124022800394_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
 
 secured: "ecpxUlqMF8jIFL2ajQL/qx4OlrChCFU6/TJ37gxFVXnryTdbFnkYiuNMEQtVRmZruPh13l200QGbPSfWYjrpIuFE1UjjtYShOa9pt+BwM1vxASLmdziuJEcOU+Fjk9xikwhzCuxTweTby/cN/dwvihdKUXgb7gfLyX0aHoT0/usWfrs5qf9NRXWLoPycHGNA7xbtIlLD8KtsV+Bv1RexemXOz6X44Uc1eq7uk4lYn3umlf2qw6TvTBxNVFJ5k/7TSpWDRuIhWQChLul+EgV11vi0AA3rfrPGmubyi/ZG6zSTXe5L+N6eYh6MMuBpFua1aqK33XQIxRVb/z1jwevJdbK1mwLzO6prStChAQtHSZA=;2x5W1gbEck+IIhl1fvSxgQ=="
 ---

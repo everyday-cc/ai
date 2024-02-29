@@ -143,49 +143,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-28-growing-number-of-us-airports-use-biometric-facial-recognition.md",
-      "title": "Growing number of US airports use biometric facial recognition",
-      "excerpt": "Spokeo looked at which airports are using facial recognition software for security screenings, according to Customs and Border Protection.",
-      "sourceUrl": null,
-      "webUrl": "https://kvia.com/entertainment/stacker-travel/2024/02/28/growing-number-of-us-airports-use-biometric-facial-recognition/",
-      "originalUrl": "https://kvia.com/entertainment/stacker-travel/2024/02/28/growing-number-of-us-airports-use-biometric-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kvia.b-cdn.net/2024/02/FacialRL1BR_0.png",
-          "width": 1010,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T09:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVIA",
-        "domain": "kvia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-27-us-military-utilizes-ai-in-middle-east-operations-weve-been-using-computer-vision.md",
       "title": "US Military Utilizes AI In Middle East Operations: 'We've Been Using Computer Vision'",
       "excerpt": "Military confirms use of AI in airstrikes in Middle East, highlighting its growing role in combat operations & future of warfare.",
@@ -1357,6 +1314,49 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-scientists-discover-how-oxytocin-influences-memory-in-animals.md",
+      "title": "Scientists discover how oxytocin influences memory in animals",
+      "excerpt": "The cognitive function of mice was then evaluated using the Novel Object Recognition Task (NORT),\" explains Prof. Saitoh. The research emphasizes the significant role of OXT in regulating social ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20240213/Scientists-discover-how-oxytocin-influences-memory-in-animals.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20240213/Scientists-discover-how-oxytocin-influences-memory-in-animals.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hormone-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tim Cook says Apple will \"break new ground\" in generative AI this year, will disclose more details later"
+    excerpt: "Read our ethics statement. What just happened? At Apple's annual shareholder meeting this week, CEO Tim Cook told investors and market watchers that the company is investing heavily in generative AI to make life easier for its customers. He also claimed ..."
+    publishedDateTime: 2024-02-29T08:41:00Z
+    webUrl: "https://www.techspot.com/news/102075-tim-cook-apple-break-new-ground-generative-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 32
 
 secured: "GPqdIF5eJCRUWNUzpauYPeFY3puF496sLJXLNzAeRkiTxbeqiKdP2I0vHtNwcXju2NW6SM4JDm3TBQc1Tee6gSDgot86/klrEt5inaDiYByBogzqr/9CcdqUEQ13YEayda1W1J+y/G5v9qHi8NARxXBAkgKaapJwCzUm6geJFGtHyfCz71i/YOsmoh1l9gehU4W4XqGKzUkAS5wQHW1q3UJRf0pizEfdRwaOQTfh3azCoIJc7xjBrDqaGes9iCBePemDbw3muvHv/gkSAlM6KcDsaLBnhKQigG4e3DU+MWwolPCWHCIKNvx/qCusukP6W2ImH8ufwmIZO+wAJHbfn126dNmNKwb9kx9J7fb9Zxg=;xYOS+dzAvrKa5wXo6bUuig=="
 ---

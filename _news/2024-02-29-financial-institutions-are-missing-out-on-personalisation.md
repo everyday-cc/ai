@@ -39,6 +39,29 @@ related:
         width: 825
         height: 495
         isCached: true
+  - title: "In a First, a Geolocation Privacy Class Action Will Go to a Jury"
+    excerpt: "Digital Recognition Network is scheduled for jury trial on May 17 ... For the first time, geolocation—the identification of the location of an individual or an object using technology—will see its day in court. The named plaintiff representing the ..."
+    publishedDateTime: 2024-02-29T11:27:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/02/29/in-a-first-a-geolocation-privacy-class-action-will-go-to-a-jury/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Pop-Art-License-Plate-with-Synthwave-Eye-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Machine learning innovations and applications in nanotechnology"
+    excerpt: "Machine learning, with its ability to analyze large datasets and identify patterns, is particularly well-suited to address the challenges presented by the vast and complex data generated in nanoscience. Machine learning is a fascinating area of artificial ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.nanowerk.com/spotlight/spotid=64754.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
 
 secured: "/qmtwCydqhKvZCWiCySwWukc/FlMWSVWO+m7Nmo5+2T9zeuWpgKGUjyF13hfwcYesXux1I4soYx2C8cR5r7jO5qEDYXJvNONm/dROxLb9C0tKn6xXitwfsIMKyzftVnZ9fKSCp9ToMH0p80nCXbtF1Mo2QBC8C0lYygSq8T3XJO5b2yoKaJA3RmRUcpQTDtweSnjEfCm1f3t4u24IyfB/9ZVngfO4j9riYkcEJC2i0+8xDfVhNF/rEfj9gGv1cAA2T58AS1069iRmjL6h+5/QxJWxdD92hzifd/yyn5jLmBv5el7G/LBpLNUSHZnFmod+dtb1oZPuLClB6sRIVez3WM0cbmimwZvUVkaksJDZuo=;XSbaU6aFh203EvIpF69Kfw=="
 ---

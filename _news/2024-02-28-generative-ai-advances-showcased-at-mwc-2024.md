@@ -41,6 +41,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "How businesses are actually using generative AI"
+    excerpt: "Tools for lower-skilled workers could be more immediately useful. Some simple applications for things like customer service involve off-the-shelf AI. Most customers’ questions are simple and concern a small number of topics, making it easy for companies ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.economist.com/business/2024/02/29/how-businesses-are-actually-using-generative-ai"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 19
 
 secured: "JPbKLzAEZJhMVv44yskOaKW8JDW82mC/NbJGUdUedf0L/nWOe+u9awvAVgaBTd4Aslk3gRm4Fj50jmk1lUAPucq/hwHWNrb+ch6aCfJGHJf5DjPXaehyyunuxn+BMsWYZgRJFU1f3VwGf2F8ZhCVFYtoD+/B+NqOJR/W0ITw6bSDBqF9Kk6diCYNAl56viAx3VFmW5cKtahXtqA4ZQvhuEeLkHuL57RrgRXF4rAloomUazurLpu/hVBEralAgy+GnlGKE/DHme+X496J4c2hy8ahdrSYzsneCoEQmq99pZSrgxwKK/XkI/Ngn01iAdwyb0zM76gy+lC3GqM7AopF4wI852UKrBeV14tUPM26EDM=;pyz7jfKutW+OE8/ySZIHHQ=="
 ---

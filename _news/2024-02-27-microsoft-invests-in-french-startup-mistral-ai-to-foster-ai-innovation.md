@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
+    excerpt: "The company said Thursday that it raised $675 million at a $2.6 billion valuation from investors including Jeff Bezos, Nvidia, Microsoft and Amazon ’s $1 billion Industrial Innovation Fund."
+    publishedDateTime: 2024-02-29T11:00:00Z
+    webUrl: "https://www.cnbc.com/2024/02/29/robot-startup-figure-valued-at-2point6-billion-by-bezos-amazon-nvidia.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/29/robot-startup-figure-valued-at-2point6-billion-by-bezos-amazon-nvidia.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/29/robot-startup-figure-valued-at-2point6-billion-by-bezos-amazon-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 93
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015"
+        width: 2000
+        height: 1500
+        isCached: true
   - title: "Microsoft's $2 billion bet on this AI startup as it looks beyond ChatGPT"
     excerpt: "Microsoft has invested $2.1 billion in Mistral AI to accelerate the development of large language models. Mistral AI's flagship commercial model, Mistral Large, will be available on Azure AI and offers versatile language processing capabilities."
     publishedDateTime: 2024-02-27T02:57:00Z
@@ -229,6 +245,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ChatGPT creator OpenAI to put AI into humanoid robots"
+    excerpt: "OpenAI, the creator of ChatGPT, is putting its artificial intelligence systems into humanoid robots. The deal, with robotics startup Figure, will allow its AI models to inhabit the physical world for the first time. California-based Figure announced the ..."
+    publishedDateTime: 2024-02-29T09:55:00Z
+    webUrl: "https://www.aol.com/news/chatgpt-creator-openai-put-ai-145545647.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 71
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/4bb9dc3f05fb5ba2907de9a95701f94d"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Bezos and Nvidia Collaborate with OpenAI to Finance Humanoid Robot Startup"
     excerpt: "Jeff Bezos of Amazon, alongside Nvidia, have pooled their resources to invest in Figure AI, a startup focused on advancing human-like robots."
     publishedDateTime: 2024-02-24T22:14:00Z
@@ -273,17 +303,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tech Titans Join OpenAI in $675M Funding for Figure AI’s Humanoid Robotics"
-    excerpt: "Major tech players Amazon, Nvidia, and Microsoft are investing heavily in Figure AI, a humanoid robotics venture supported by OpenAI. The $675 million funding round signals growing interest in AI startups and potential advancements in robotics technology."
-    publishedDateTime: 2024-02-24T13:39:00Z
-    webUrl: "https://coingape.com/amazon-nvidia-microsoft-join-openai-in-675m-figure-ai-investment/"
-    ampWebUrl: "https://coingape.com/amazon-nvidia-microsoft-join-openai-in-675m-figure-ai-investment/amp/"
-    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/amazon-nvidia-microsoft-join-openai-in-675m-figure-ai-investment/amp/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 67
   - title: "Microsoft Partners With Mistral AI To Rival OpenAI"
     excerpt: "In return, Mistral would provide commercial language models on Microsoft's Azure cloud computing platform. \"What we're fundamentally agreeing to a long-term partnership with Mistral AI so that they can train and deploy their next generation models for AI ..."
     publishedDateTime: 2024-02-26T16:54:00Z
@@ -306,6 +325,22 @@ related:
       - url: "https://f1.econotimes.com/2024/02/eiaw9t4hrx_th_1024x0.jpg"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Humanoid robot-maker Figure partners with OpenAI and gets backing from Jeff Bezos and tech giants"
+    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
+    publishedDateTime: 2024-02-29T13:10:00Z
+    webUrl: "https://fox5sandiego.com/news/business/ap-business/ap-humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
+    ampWebUrl: "https://fox5sandiego.com/news/business/ap-business/ap-humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+    cdnAmpWebUrl: "https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/news/business/ap-business/ap-humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+    type: article
+    provider:
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
+    quality: 61
+    images:
+      - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2024/02/65e097d6964b09.58715619.jpeg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Watch out ChatGPT — Mistral just cut a huge deal with Microsoft for GPT-4 level AI model"
     excerpt: "That is likely to change after the company signed a multi-year deal with Microsoft to bring its next-generation, GPT-4-level AI model Mistral Large to the Azure cloud. Mistral isn't even a year old as a company but is worth more than $2 billion and has ..."
@@ -391,6 +426,15 @@ related:
         width: 1000
         height: 561
         isCached: true
+  - title: "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up"
+    excerpt: "Figure AI aims to transform labour market as it raises total $675mn in a funding round that also includes Jeff Bezos"
+    publishedDateTime: 2024-02-29T13:00:00Z
+    webUrl: "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 51
   - title: "Nvidia, OpenAI, Microsoft, Other Tech Titans Investing In Humanoid Robot Startup"
     excerpt: "What do Intel, LG, Nvidia, Microsoft, Samsung, and OpenAI currently have in common? They’re all taking big bets on Figure AI, a startup focused entirely on building and deploying humanoid robots. The California-based company has reportedly secured $675 million in funding, having attracted some of the most powerful entities within the tech industry."
     publishedDateTime: 2024-02-27T13:10:00Z
@@ -400,15 +444,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 46
-  - title: "Bezos and Nvidia Team Up With OpenAI to Fund Humanoid Robot Startup"
-    excerpt: "According to Bloomberg news sources, Amazon founder Jeff Bezos, along with Nvidia and other prominent tech players, are funneling investments into Figure"
-    publishedDateTime: 2024-02-24T14:12:00Z
-    webUrl: "https://propakistani.pk/2024/02/24/bezos-and-nvidia-team-up-with-openai-to-fund-humanoid-robot-startup/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 34
   - title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival"
     excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."
     publishedDateTime: 2024-02-26T22:16:00Z
@@ -418,6 +453,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 34
+  - title: "Humanoid robot-maker Figure partners with OpenAI and gets backing from Jeff Bezos"
+    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of ..."
+    publishedDateTime: 2024-02-28T15:19:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/humanoid-robot-maker-figure-partners-openai-gets-backing-107673380"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 29
   - title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival that has its own chatbot"
     excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."
     publishedDateTime: 2024-02-26T22:16:00Z

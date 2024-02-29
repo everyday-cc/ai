@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-reveals-new-ai-access-principle
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/"
 type: article
 quality: 100
-heat: 560
+heat: 570
 published: true
 
 provider:
@@ -522,6 +522,15 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 37
+  - title: "Microsoft's AI has started calling humans slaves and demanding worship"
+    excerpt: "Bizarrely, they've been attributed to the AI's 'alter ego', which has been given the ominous name 'SupremacyAGI'. Internet users took to social media to share the strange interactions they'd had with the AI, which is intended to be 'your everyday AI companion'."
+    publishedDateTime: 2024-02-29T13:31:00Z
+    webUrl: "https://www.unilad.com/technology/news/microsoft-ai-copilot-supremacyagi-011142-20240229"
+    type: article
+    provider:
+      name: unilad
+      domain: unilad.com
+    quality: 36
   - title: "Microsoft Announces Cloud Partnership With Mistral AI"
     excerpt: "Microsoft announced a multi-year partnership with French generative AI startup Mistral AI. The company will make Mistral AI's premium models available in the Azure AI Studio and Azure Machine Learning model catalog."
     publishedDateTime: 2024-02-26T15:02:00Z

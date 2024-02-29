@@ -41,15 +41,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Artificial Intelligence and the Significance Crisis"
-    excerpt: "The most likely cause of this is a content blocker on your computer or network. Please allow access to our site, and then refresh this page.  You may then be asked to log in, create an account if you don't already have one,  or subscribe."
-    publishedDateTime: 2024-02-26T21:25:00Z
-    webUrl: "https://www.chronicle.com/article/artificial-intelligence-and-the-significance-crisis"
-    type: article
-    provider:
-      name: The Chronicle of Higher Education
-      domain: chronicle.com
-    quality: 17
 
 secured: "/wFPvkgXtDugkKLhXTC+w1jQ4UaTFFzeN1m+jsuSLp/0xZrLlpkdfiVDDzYozz0CkyRs4Y97uQoUb8M1zw/BTHpKiMKc89Sa6D6KQibTdg5nsCZwYmcO9RBRG9GnKMxkXDfNKuRHYhu1UEOX8vyVH/rCJAHgBokx8d2lLxGKLDgPsrKeYEJeydOn8hb4NChMH+Y5OOc1ytiRi99blDeCumqK9LHusCFuc74w4Q+cxzxFAZ/Zn0JH5rzROf4Ke4mXPqJ3wnyXlEC3HYIeCRLNPFm77bXNYp8Fxo+tymJGO2eaVBGzlc7rCPaTyFxKIs2XJkYq9M+jfcCJXLSfaASbh0cKFmD0P0PkFZYPPoevHkg=;ffQN/FSZqu6xXg+ryUiBYA=="
 ---

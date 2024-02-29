@@ -1,0 +1,66 @@
+---
+category: news
+title: "Tim Cook says Apple will \"break new ground\" in generative AI this year, will disclose more details later"
+excerpt: "Read our ethics statement. What just happened? At Apple's annual shareholder meeting this week, CEO Tim Cook told investors and market watchers that the company is investing heavily in generative AI to make life easier for its customers. He also claimed ..."
+publishedDateTime: 2024-02-29T08:41:00Z
+originalUrl: "https://www.techspot.com/news/102075-tim-cook-apple-break-new-ground-generative-ai.html"
+webUrl: "https://www.techspot.com/news/102075-tim-cook-apple-break-new-ground-generative-ai.html"
+type: article
+quality: 32
+heat: -1
+published: false
+
+provider:
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Ethics
+  - AI
+
+related:
+  - title: "Apple CEO Tim Cook says company is 'investing significantly' in generative AI"
+    excerpt: "Tim Cook's remarks at Apple's annual shareholder meeting represent one of the strongest signals that Apple is embracing the generative AI craze."
+    publishedDateTime: 2024-02-28T16:40:00Z
+    webUrl: "https://www.cnbc.com/2024/02/28/apple-annual-shareholder-meeting-2024-ai-investments.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 44
+  - title: "Apple CEO Tim Cook promises big AI push for 2024 — what we know"
+    excerpt: "AI carries its own share of potential pitfalls around ethics, inclusion, and risks. At Wednesday's Apple shareholder meeting, the AFL-CIO’s pension trust had issued a proposal that would have required Apple to issue a report on its ethical use of AI."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.tomsguide.com/ai/apple-ceo-tim-cook-promises-big-ai-push-for-2024-what-we-know"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/5bVodBq8ZhiUbswuQcQZNS-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Apple will ‘break new ground’ in generative AI this year, Tim Cook teases"
+    excerpt: "Apple CEO Tim Cook has a message for Wall Street. He believes Apple “break new ground” on generative AI this year. Cook’s latest AI hype comments came today during Apple’s annual shareholders meeting. During the meeting, a shareholder proposal to release a report on AI and ethics was voted down as expected."
+    publishedDateTime: 2024-02-28T17:35:00Z
+    webUrl: "https://9to5mac.com/2024/02/28/apple-ai-break-new-ground/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 38
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/ios-18-siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "reE+vreAAHhTzcCax1nal61HcumBEKlRb7Y9IibsLSBfdgdv5kJkZ1jjy5XvG+9ert9RiLhsAJWAVSR2/ozAQqtFIRShTHyUv2TC/87R/uwAjxlSfBcm95Nje1KKBOjIxx5dB32sXDUKBzOJwkT7Kouy5ouYxT6GTFXecZe+UZJE7Tjv/jrutjhMegqeYpXTjGx527uEUO3Jeac2mAzJ2Q4DLo7THlqeS6ODdCwdeyyH8HYcjcvNwTwJ0SzdClxOJmuOSb2w/1d0ai7FoAhhXRHUlOhTtNa1t983OI2UVqqyJYmTZ4S0b9RtQHPzSVKgqZTwIx7aLXLNKub0FzA5F6L62bhtz6o5tgVuz3U7SXT/vDNvIrViFZh/de4oLRR2XEAcY8aNerZnFMv/Dgh+Yd/g2aCt+KOQD1bjfnmmygC3JWlC9gddDOV+8PKZxLJIjnj6JBLC0LlofGbTrifrUzupKWLX6q2hI44xETw1rjtMed2w8nUDwQw3vUtDWqnbCJ3qK4SaOfnMO8QUXy347A==;aOZSM5fk1tvcHssv0yhF4Q=="
+---
+
