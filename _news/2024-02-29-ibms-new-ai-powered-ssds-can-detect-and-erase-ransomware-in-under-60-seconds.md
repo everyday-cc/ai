@@ -53,6 +53,15 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "IBM says their latest AI-enhanced storage platform can identify ransomware in under a minute"
+    excerpt: "Read our ethics statement. Forward-looking ... without impacting performance. The new AI-enhanced FlashCore Module 4 (FCM) is even more advanced, continuously monitoring stats gathered from every single I/O to look for anomalies like ransomware starting ..."
+    publishedDateTime: 2024-02-28T16:49:00Z
+    webUrl: "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 38
   - title: "HP’s AI-enhanced Spectre laptops set to transform user experiences"
     excerpt: "HP recently launched its range of AI-enhanced Spectre x360 laptops, built with smart features that elevate performance, collaboration, and security. These AI PCs will change the role of a personal computer by simplifying tasks and enhancing usability for various aspects of life."
     publishedDateTime: 2024-02-27T14:05:00Z

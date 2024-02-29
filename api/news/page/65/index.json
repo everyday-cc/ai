@@ -2,6 +2,169 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2024-01-10-machine-learning-statistics-facts.md",
+      "title": "Machine learning - statistics & facts",
+      "excerpt": "Of the forms of AI used, machine learning is the simplest. Other AI subsects include deep learning, neural networks, and natural language processing. Machine learning uses datasets to categorize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/topics/9583/machine-learning/",
+      "originalUrl": "https://www.statista.com/topics/9583/machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-microsoft-azure-statistics-facts.md",
+      "title": "Microsoft Azure - statistics & facts",
+      "excerpt": "Microsoft Azure's key solutions include data management, media services, machine learning and artificial intelligence (AI), developer tools, and internet of things (IoT) applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/topics/8031/microsoft-azure/",
+      "originalUrl": "https://www.statista.com/topics/8031/microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern.md",
+      "title": "Nvidia extends record run as robust AI chip demand offsets China concern",
+      "excerpt": "Nvidia, which earlier this week unveiled a new set of AI-focused chips designed for the broader consumer market, looks to be getting an extra boost from better-than-expected sales figures from Taiwan Semiconductor. (TSM) - Get Free Report The world's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
+      "originalUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/0/3f/03f69548-f596-5555-9252-c18f8a5954bf/659ebcb499f7d.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-to-its-board-of-trustees.md",
+      "title": "Rensselaer Polytechnic Institute Welcomes IBM’s Dr. Darío Gil to Its Board of Trustees",
+      "excerpt": "Rensselaer Polytechnic Institute (RPI) has announced that Dr. Darío Gil, Senior Vice President and Director of IBM Research, has joined the RPI Board of Trustees for a four-year term effective January 1, 2024. He will sit on the Academic Affairs and Research Committee and Administration and Infrastructure Committee.",
+      "sourceUrl": null,
+      "webUrl": "https://news.rpi.edu/2024/01/10/rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-its-board-trustees",
+      "originalUrl": "https://news.rpi.edu/2024/01/10/rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-its-board-trustees",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RPI News",
+        "domain": "rpi.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona.md",
       "title": "Waymo’s Driverless Cars Are Hitting the Highway Sans Safety Drivers in Arizona",
       "excerpt": "“Cruise’s implosion has left Waymo as the undisputed leader in the driverless taxi market ... especially loves learning about and sharing big ideas and advances in artificial intelligence, computing, robotics, biotech, neuroscience, and space.",
@@ -878,169 +1041,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-duolingo-translator-layoffs-spark-ai-debate.md",
-      "title": "Duolingo Translator Layoffs Spark AI Debate",
-      "excerpt": "Slator is the leading source of news and research for the global translation, localization, and language technology industry. Our Advisory practice is a trusted partner to clients looking for independent analysis. Headquartered in Zurich, Slator has a presence in Asia, Europe, and the US.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/duolingo-translator-layoffs-spark-ai-debate/",
-      "originalUrl": "https://slator.com/duolingo-translator-layoffs-spark-ai-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T10:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-leukaemia-artificial-intelligence-provides-support-in-diagnostics.md",
-      "title": "Leukaemia: artificial intelligence provides support in diagnostics",
-      "excerpt": "IT specialists and physicians at the University of Münster have now published a study showing how a method based on artificial intelligence can be used to predict various genetic features on the basis of high-resolution microscopic images of bone marrow smears.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news826642",
-      "originalUrl": "https://idw-online.de/de/news826642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
-          "width": 498,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T10:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-quasar-markets-launches-feb-2-with-a-pioneering-fintech-platform-that-redefines-the-ai-user-experience.md",
-      "title": "Quasar Markets Launches Feb. 2 with a Pioneering FinTech Platform That Redefines the AI User Experience",
-      "excerpt": "Tampa, Florida, United States - January 8, 2024 — Quasar Markets, a cutting-edge fintech company powered by AI-driven financial market research, is set to launch on February 2. The company aims to redefine the world of finance by changing the way ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/quasar-markets-launches-feb-2-with-a-pioneering-fintech-platform-that-redefines-the-ai-user-experience-1032953621",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/quasar-markets-launches-feb-2-with-a-pioneering-fintech-platform-that-redefines-the-ai-user-experience-1032953621",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T10:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-siemens-and-aws-join-forces-to-democratise-generative-ai.md",
-      "title": "Siemens and AWS join forces to democratise generative AI",
-      "excerpt": "Siemens and Amazon Web Services (AWS) set to are make it easier for businesses of all sizes and industries to build and scale generative artificial intelligence (AI) applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.controlengeurope.com/article/203202/Siemens-and-AWS-join-forces-to-democratise-generative-AI.aspx",
-      "originalUrl": "https://www.controlengeurope.com/article/203202/Siemens-and-AWS-join-forces-to-democratise-generative-AI.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.controlengeurope.com/global/showimage/Article/217183/",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T10:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IML Group",
-        "domain": "controlengeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

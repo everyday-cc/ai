@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-29-mastering-risk-unleashing-the-power-of-data-and-ai-in-strategic-risk-management.md",
+      "title": "Mastering Risk: Unleashing The Power Of Data And AI In Strategic Risk Management",
+      "excerpt": "Consider Palantir's Foundry or AWS SageMaker; these platforms empower organizations to turn data into actionable insights. An insurance company, for example, could utilize AI-driven risk analytics to assess policyholder behavior and market trends ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/mastering-risk-unleashing-the-power-of-data-and-ai-in-strategic-risk-management/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/mastering-risk-unleashing-the-power-of-data-and-ai-in-strategic-risk-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e5071996eeb1b2554af6bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T12:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.md",
       "title": "Streamline PyTorch Machine Learning Workflows With Cloudian And AWS Hybrid Edge",
       "excerpt": "Cloudian contributed enhancements to AWS Labs’ open-source S3-Connector-for-PyTorch. The enhancements enable PyTorch ML algorithms to access data in Cloudian’s HyperStore object storage system via the AWS S3 API. The enhanced S3 connector is available from the GitHub repositories of AWS Labs and Cloudian.",
@@ -1282,49 +1335,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade.md",
-      "title": "2 Artificial Intelligence (AI) Stocks You Can Buy and Hold for the Next Decade",
-      "excerpt": "The launch of OpenAI's ChatGPT in November 2022 reinvigorated interest in AI and highlighted just how far the technology had come. AI can bolster countless industries, among them healthcare, consumer tech, productivity software, cloud computing, and autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23992445/2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23992445/2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/c536e8261b08746be8d931c53801221c/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fb5123919e28c1adbbbed90b22f2c696f.png%26amp%3Bw%3D700",
-          "width": 720,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T06:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
         "images": null,
         "publishers": null,
         "authors": null

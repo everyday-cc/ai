@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/recent-healthcare-related-artifi
 webUrl: "https://www.jdsupra.com/legalnews/recent-healthcare-related-artificial-1356462/"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Leveraging Risk Management Frameworks for AI Solutions in Health Care"
-    excerpt: "As recently described by The New England Journal of Medicine, the liability risks associated with using artificial intelligence (AI) in a health care setting are substantial and have caused consternation among sector participants. To illustrate that point ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/leveraging-risk-management-frameworks-5396076/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "CorroHealth's AI Solution, REVIVE, Targets Small and Zero Balance Accounts to Boost Healthcare Finances"
     excerpt: "the next evolution in intelligent technology targeting a healthcare system's aged receivables (AR). Building on CorroHealth's previous AR platform, REVIVE is re-engineered with artificial intelligence and automation to effectively recover revenue on small ..."

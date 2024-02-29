@@ -2,6 +2,205 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-02-21-chatgpt-is-losing-its-mind-and-no-one-seems-to-know-why.md",
+      "title": "ChatGPT is losing its mind and no one seems to know why",
+      "excerpt": "Users of ChatGPT have shared screenshots of their interactions with the chatbot on social media after it started responding with nonsense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65d62092a3bd891424f8e2e6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp",
+      "publishedDateTime": "2024-02-21T15:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-google-deepmind-forms-a-new-org-focused-on-ai-safety.md",
+      "title": "Google DeepMind forms a new org focused on AI safety",
+      "excerpt": "This morning, Google DeepMind, the AI R&D division behind Gemini and many of Google’s more recent GenAI projects, announced the formation of a new organization, AI Safety and Alignment — made up of existing teams working on AI safety but also broadened ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/",
+      "originalUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/",
+      "publishedDateTime": "2024-02-21T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-neural-networks-made-of-light-jena-research-team-develops-ai-system-in-optical-fibers.md",
+      "title": "Neural Networks Made of Light: Jena Research Team Develops AI System in Optical Fibers",
+      "excerpt": "Artificial intelligence is pivotal in advancing biotechnology ... This fiber is capable of performing the tasks of various neural networks—at the speed of light. \"We utilize a single optical fiber to mimic the computational power of numerous neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/en/news829037",
+      "originalUrl": "https://idw-online.de/en/news829037",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
+          "width": 498,
+          "height": 259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-content-creators-face-uncomfortable-accounting-during-tax-season.md",
+      "title": "Content Creators Face Uncomfortable Accounting During Tax Season",
+      "excerpt": "What Content Creators and Content Creation Companies should consider for tax season and ither accounting areas such as revenue recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/",
+      "originalUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/659ad6221834d9b6fb2041d4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/amp/",
+      "publishedDateTime": "2024-02-21T14:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-from-script-to-distribution-ais-role-in-the-film-world.md",
       "title": "From Script To Distribution: AI's Role In The Film World",
       "excerpt": "AI is also playing a role in trailer creation. For instance, in 2016, IBM Watson used AI to craft a trailer for Morgan by analyzing key film moments, suggesting soundtracks and refining edits. In 2019, Adobe Sensei analyzed past Sundance Film Festival ...",
@@ -1019,207 +1218,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-meet-the-chip-that-uses-light-not-electricity-to-power-ai.md",
-      "title": "Meet the Chip That Uses Light, Not Electricity, to Power AI",
-      "excerpt": "The new chip operates on an entirely different principle, performing calculations at the unparalleled speed of light.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/compare-fibre-PAOv9-7VBMI-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T02:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-uber-eats-to-begin-self-driving-robot-deliveries-in-japan.md",
-      "title": "Uber Eats to begin self-driving robot deliveries in Japan",
-      "excerpt": "Uber announced that its Uber Eats business is partnering with Mitsubishi Electric and delivery robotics company Cartken to begin transporting food using self-driving robots in Japan. The sidewalk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107375734-1708453458974-cut10_043.jpg?v=1708453538",
-          "width": 2400,
-          "height": 1601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html",
-      "publishedDateTime": "2024-02-21T02:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-opinion-openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel.md",
-      "title": "Opinion: OpenAI’s Sam Altman has plans for AI that could mean big money for Intel",
-      "excerpt": "Open AI CEO Sam Altman drew widespread attention recently when he appealed for up to $7 trillion to develop silicon-chip manufacturing capacity that can power artificial intelligence. The unprecedented scope of this vision, equal to more than 20% of U.S ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
-      "originalUrl": "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-806855/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
-      "publishedDateTime": "2024-02-21T01:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-google-bard-now-called-gemini-vs-chatgpt-updated-february-2024.md",
-      "title": "Google Bard (now called Gemini) vs ChatGPT – Updated February 2024",
-      "excerpt": "[Updated Feb 21st, 2024: Google Bard had been renamed to Gemini. There are three different versions of Gemini, and one is called Gemini Pro. This is the version that replaced Bard. The core ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
-      "originalUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/05/Bard-and-OpenAI-Logo.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

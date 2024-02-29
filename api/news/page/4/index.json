@@ -2,6 +2,142 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-26-mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant.md",
+      "title": "Mistral AI releases new model to rival GPT-4 and its own chat assistant",
+      "excerpt": "Finally, Mistral AI is also using today’s news drop to announce a partnership with Microsoft. In addition to Mistral’s own API platform, Microsoft is going to provide Mistral models to its Azure customers. It’s another model in Azure’s model catalo ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
+      "originalUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1630826367.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/",
+      "publishedDateTime": "2024-02-26T15:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-conversational-ai-revolutionizes-the-customer-experience-landscape.md",
+      "title": "Conversational AI revolutionizes the customer experience landscape",
+      "excerpt": "AI can create seamless customer and employee experiences but it’s important to balance automation and human touch, says head of marketing, digital & AI at NICE, Elizabeth Tobey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/",
+      "originalUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/02/Elizabeth-Tobey1200.png?w=1200",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/",
+      "publishedDateTime": "2024-02-26T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-how-to-improve-network-resilience-with-ns1-connect-filter-chains.md",
+      "title": "How to improve network resilience with NS1 Connect Filter Chains",
+      "excerpt": "We’ve put together a quick guide on how to build active-active, active-passive and manual failover systems by using filter chains.\nThe post How to improve network resilience with NS1 Connect Filter Chains appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-improve-network-resilience-with-ns1-connect-filter-chains/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-improve-network-resilience-with-ns1-connect-filter-chains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-six-generative-ai-predictions-for-2024-and-beyond.md",
       "title": "Six Generative AI Predictions For 2024 And Beyond",
       "excerpt": "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students.",
@@ -1062,162 +1198,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing.md",
-      "title": "8 TED Talks To Help You Prepare For The Era Of AI-Driven Spatial Computing",
-      "excerpt": "The Humane AI Pin might not be the device we all use ... Thousands of TED Talks have inspired and sparked ideas and imagination. These TED Talks are the start of a journey to understand Spatial Computing, how it works, and why it's necessary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/",
-      "originalUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dbbe3f64a8766c81ca8d55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/",
-      "publishedDateTime": "2024-02-25T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity.md",
-      "title": "San Francisco's Edge In The AI Race: The Role Of Education And Inclusivity",
-      "excerpt": "This sentiment is echoed by other tech leaders and entrepreneurs who are drawn to San Francisco's unique intellectual community and the advantages it offers for startup success. The city's reputation as a prime location for AI innovation continues to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/",
-      "originalUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65db960e11905f964130f604/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/amp/",
-      "publishedDateTime": "2024-02-25T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations.md",
-      "title": "Vendasta CEO Interview: Roots To Trusted Generative AI Innovations",
-      "excerpt": "This article is an interview and research of Vendasta a rising AI unicorn building trusted AI foundations with a compelling vision to strengthen SMB's globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65db4cadf97a8a71e3bb3ab8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1201,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/",
-      "publishedDateTime": "2024-02-25T15:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
       ]
     }
   ],

@@ -53,20 +53,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Leveraging Risk Management Frameworks for AI Solutions in Health Care"
-    excerpt: "As recently described by The New England Journal of Medicine, the liability risks associated with using artificial intelligence (AI) in a health care setting are substantial and have caused consternation among sector participants. To illustrate that point ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/leveraging-risk-management-frameworks-5396076/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "What the healthcare AI sector wants from Congress"
     excerpt: "Healthcare interests clamoring for congressional action on artificial intelligence would also like lawmakers to remember the Hippocratic oath: First, do no harm. Second, they would like a little protection. Opinions about precisely which needs legislating ..."
     publishedDateTime: 2024-02-27T08:00:00Z

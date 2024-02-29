@@ -2,6 +2,204 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2024-01-26-ola-founders-krutrim-becomes-indias-first-ai-unicorn.md",
+      "title": "Ola founder’s Krutrim becomes India’s first AI unicorn",
+      "excerpt": "On its website, Krutrim says it also plans to develop an in-house capability to manufacture chips optimised for AI compute. TechCrunch reported earlier that Aggarwal’s new venture will explore developing and designing chips. Krutrim is Aggarwal’s third ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/",
+      "originalUrl": "https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-625022782-2.jpg?resize=1200,801",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/amp/",
+      "publishedDateTime": "2024-01-26T08:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms.md",
+      "title": "Explicit AI deepfakes of Taylor Swift have fans and lawmakers up in arms",
+      "excerpt": "Perhaps then it is not surprising to see calls from lawmakers in the U.S., Swift's home country, to further regulate the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms/",
+      "originalUrl": "https://venturebeat.com/ai/explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_eerie_and_foreboding_abstract_image_featuring_a_silhout_df2c0cca-980b-41f4-a5e8-f6d84d95758a.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T06:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-ai-in-2024-riding-the-next-wave-of-transformation.md",
+      "title": "AI in 2024: Riding the next wave of transformation",
+      "excerpt": "the expansion of AI ethics frameworks, and the democratization of capabilities to empower new creators. Let’s look at what’s driving these forces and their sectoral implications. AI models saw their most impressive advancement in 2022 through Large ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/Godrej-2023-07-31T051530.333.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/",
+      "publishedDateTime": "2024-01-26T06:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-how-generative-ai-is-revolutionizing-customer-service.md",
+      "title": "How Generative AI Is Revolutionizing Customer Service",
+      "excerpt": "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/",
+      "publishedDateTime": "2024-01-26T06:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-heads-of-chip-giants-nvidia-tsmc-meet-in-taiwan-as-tight-chip-supply-threatens-to-hinder-ai-boom.md",
       "title": "Heads of chip giants Nvidia, TSMC meet in Taiwan as tight chip supply threatens to hinder AI boom",
       "excerpt": "Nvidia founder Jensen Huang met with TSMC founder Morris Chang and CEO C.C. Wei over dinner in Taipei to discuss chip supply.",
@@ -977,195 +1175,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-apple-is-quietly-stockpiling-startups-and-hunting-for-talent-as-it-fights-for-a-slice-of-the-ai-boom.md",
-      "title": "Apple is quietly stockpiling startups and hunting for talent as it fights for a slice of the AI boom",
-      "excerpt": "Apple has previously taken a cautious approach to the new technology, even as rivals such as Google and Microsoft launched several new AI products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1",
-      "originalUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65043fb4956dba001ace2dcc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp",
-      "publishedDateTime": "2024-01-25T16:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-mro-spare-parts-optimization.md",
-      "title": "MRO spare parts optimization",
-      "excerpt": "MRO processes increase service levels, function safely and sustainably, operate efficiently and reduce unplanned and costly downtime.\nThe post MRO spare parts optimization appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/mro-spare-parts-optimization/",
-      "originalUrl": "https://www.ibm.com/blog/mro-spare-parts-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T16:45:34Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-samsung-plans-to-limit-galaxy-ai-to-2023-devices-and-newer-for-now.md",
-      "title": "Samsung plans to limit Galaxy AI to 2023 devices and newer, for now",
-      "excerpt": "Samsung says Galaxy AI will be restricted to devices released in 2023 and later, for now. It appears that hardware limitations are not the reason why the software won’t run on devices released before 2023. Samsung avoided answering why the Galaxy S23 FE will get Galaxy AI but not the Galaxy S22 series.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/galaxy-ai-limited-to-current-and-last-gen-3407643/",
-      "originalUrl": "https://www.androidauthority.com/galaxy-ai-limited-to-current-and-last-gen-3407643/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Family-2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T16:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-4-skills-that-can-help-companies-thrive-with-ai.md",
-      "title": "4 skills that can help companies thrive with AI",
-      "excerpt": "In-depth knowledge of market dynamics, product-market fit, and understanding your customer have always been essential business skills, but they’re especially critical in the AI era, says Subbaiah.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html",
-      "originalUrl": "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2024/01/3_iStock-1133750811.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1",
-      "publishedDateTime": "2024-01-25T16:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

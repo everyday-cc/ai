@@ -18,45 +18,43 @@ topics:
   - AI
 
 related:
-  - title: "AI and the creative process, part one – a personal introduction"
-    excerpt: "In little over a year, generative AI has become not just commonplace ... [Nearly six percent of total economic activity in the creative sectors alone, says my research.] The application of the law to LLM processes is complex, but the principles remain ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://diginomica.com/ai-and-creative-process-part-one-personal-introduction"
-    ampWebUrl: "https://diginomica.com/ai-and-creative-process-part-one-personal-introduction?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-and-creative-process-part-one-personal-introduction?amp"
+  - title: "Mastering Risk: Unleashing The Power Of Data And AI In Strategic Risk Management"
+    excerpt: "Consider Palantir's Foundry or AWS SageMaker; these platforms empower organizations to turn data into actionable insights. An insurance company, for example, could utilize AI-driven risk analytics to assess policyholder behavior and market trends ..."
+    publishedDateTime: 2024-02-29T12:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/mastering-risk-unleashing-the-power-of-data-and-ai-in-strategic-risk-management/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 66
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-02/IMG_2072.jpeg"
-        width: 640
-        height: 427
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e5071996eeb1b2554af6bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 945
+        height: 630
         isCached: true
-  - title: "Smartphone app uses AI and facial-image processing software to reliably detect the onset of depression"
-    excerpt: "Dartmouth researchers report they have developed the first smartphone application that uses artificial intelligence paired with facial-image processing software to reliably detect the onset of depression before the user even knows something is wrong."
-    publishedDateTime: 2024-02-27T16:51:00Z
-    webUrl: "https://www.news-medical.net/news/20240227/Smartphone-app-uses-AI-and-facial-image-processing-software-to-reliably-detect-the-onset-of-depression.aspx"
+  - title: "Leveraging Risk Management Frameworks for AI Solutions in Health Care"
+    excerpt: "As recently described by The New England Journal of Medicine, the liability risks associated with using artificial intelligence (AI) in a health care setting are substantial and have caused consternation among sector participants. To illustrate that point ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/leveraging-risk-management-frameworks-5396076/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 23
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/depression-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Artificial Intelligence and the Significance Crisis"
-    excerpt: "The most likely cause of this is a content blocker on your computer or network. Please allow access to our site, and then refresh this page.  You may then be asked to log in, create an account if you don't already have one,  or subscribe."
-    publishedDateTime: 2024-02-26T21:25:00Z
-    webUrl: "https://www.chronicle.com/article/artificial-intelligence-and-the-significance-crisis"
+  - title: "'Existential Risks': AI Anxiety Fueling Stream of Shareholder Proposals"
+    excerpt: "“It could be anything regarding how the company intends to use AI, what kind of policies and procedures they have in place, whether they have ethics panels regarding the use of artificial intelligence,” Dumont said. “Shareholders have a lot on their ..."
+    publishedDateTime: 2024-02-27T10:19:00Z
+    webUrl: "https://www.law.com/corpcounsel/2024/02/27/existential-risks-ai-anxiety-fueling-stream-of-shareholder-proposals/"
     type: article
     provider:
-      name: The Chronicle of Higher Education
-      domain: chronicle.com
-    quality: 17
+      name: Law
+      domain: law.com
+    quality: 19
 
 secured: "EIhi6mDUxX8ZT+Z9m5tXBzax1tpebVtLSUs/ps33h4B5XXQaT6TdJoe+7+ETQEU2IomfGPBtJvBCYF/VIUopDI+rjW2OaOxRfDcqVM7ZIaBAW+p/5Iq6rB8tQXJuKrdALZXz7oiA+XW5PtKNa67FOhduplrLnWdvdWRffIx7kDIUEc8neppaD4KyGkFs2GL3Eh3YNGZGtOcKEWKh5l29lvyYMghZziscGB8EQfnnCEkV8B465tsg2Fukf7FgooHqUld+PWXyg5GcqD7uzCbclgD9Mf0cN8GKlERMYLI0zEiVWrt4+sMzIU9ZJeq21Fi6Pjv3JgDGnE25IKg7l9ip6b8XvNyfkKfUUgLuibwDVIMxSL91GnI6qPokg1U0EhHIPHxSY5MaZkigcJ5fayJcNb7Xa9TUbBrqaq0rBR5kfici0YYrcr3ICAAJgTz/qe1O9vJeU3+VG0f7v1UJ50K2YDh67oTEFKX/fbtdjYoZrt03KZnFqn5AKBIB4mI3p40gXd9xafzcQ3yy3BLptpSNTA==;Ci1OxP7lrYzn49l1QEt/Wg=="
 ---

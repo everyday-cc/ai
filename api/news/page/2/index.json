@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-28-the-difference-between-alias-and-cname-and-when-to-use-them.md",
+      "title": "The difference between ALIAS and CNAME and when to use them",
+      "excerpt": "The difference between a CNAME record and an ALIAS record is not in the result, but in how they resolve the target DNS record when queried.\nThe post The difference between ALIAS and CNAME and when to use them appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-difference-between-alias-and-cname-and-when-to-use-them/",
+      "originalUrl": "https://www.ibm.com/blog/the-difference-between-alias-and-cname-and-when-to-use-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T14:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-moving-bits-moving-beliefs-ai-is-about-to-get-physical.md",
+      "title": "Moving Bits – Moving Beliefs! AI Is About To Get Physical",
+      "excerpt": "“It's the kind of laboratory that really applies AI in the real world, where the rubber hits the road,” he told students, in describing the work that LIDS does. “And so we start to think a lot about: how would AI get out of the digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/28/moving-bits--moving-beliefs-ai-is-about-to-get-physical/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/28/moving-bits--moving-beliefs-ai-is-about-to-get-physical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65df41c3ac10db3e71ffba09/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/28/moving-bits--moving-beliefs-ai-is-about-to-get-physical/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/28/moving-bits--moving-beliefs-ai-is-about-to-get-physical/amp/",
+      "publishedDateTime": "2024-02-28T14:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-rethinking-ai-in-the-context-of-sustainability.md",
+      "title": "Rethinking AI In The Context Of Sustainability",
+      "excerpt": "Large language models (LLMs), natural language processing (NLP), machine learning (ML), cognitive AI and a litany of other “hot” artificial intelligence technologies have flooded our discussions since early 2023. From media coverage to overzealous CEOs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65de0c271287e45e3434069a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1501,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/",
+      "publishedDateTime": "2024-02-28T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-how-ai-will-spur-the-democratization-of-technology-in-2024.md",
       "title": "How AI Will Spur The Democratization Of Technology In 2024",
       "excerpt": "A future-proof approach, with consideration for how AI will continue to change and mature, is what will unlock transformational business outcomes in the years ahead.",
@@ -61,7 +206,7 @@
       "originalUrl": "https://www.finextra.com/newsarticle/43767/bank-to-fintech-matchmaker-nayaone-raises-47-million",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -341,8 +486,8 @@
       "title": "Amazon to spend $1 billion on startups that combine AI with robots",
       "excerpt": "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ...",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com",
-      "originalUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com",
+      "webUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/",
+      "originalUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/",
       "featuredContent": null,
       "highlight": null,
       "heat": 104,
@@ -1061,155 +1206,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-educators-teaching-ai-literacy-to-students-should-include-ethics-in-their-lesson-plans-scholars-say.md",
-      "title": "Educators teaching AI literacy to students should include ethics in their lesson plans, scholars say",
-      "excerpt": "Assertions about expanding the use of artificial intelligence are typically rooted in one of two schools of thought: \"Be ahead of the curve,\" or, \"Don't fix what isn't broken.\" Whichever side of the coin someone is on, it's clear that the rapidly emerging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
-      "originalUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65d8eb23ce7f1785b2e38c28?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp",
-      "publishedDateTime": "2024-02-27T16:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-elon-musk-unveils-new-footage-of-teslas-optimus-robot-showing-improved-mobility-and-speed.md",
-      "title": "Elon Musk unveils new footage of Tesla's Optimus robot showing improved mobility and speed",
-      "excerpt": "Tesla announced the latest version of Optimus, Gen 2, last December (below). The robot has come a long way since the original Bumblebee model from September",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102044-elon-musk-unveils-new-footage-tesla-optimus-robot.html",
-      "originalUrl": "https://www.techspot.com/news/102044-elon-musk-unveils-new-footage-tesla-optimus-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-27-image-11.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T15:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-ai-gpu-hardware.md",
-      "title": "NVIDIA AI GPU customers 'offloading' chips, selling hard-to-buy excess AI GPU hardware",
-      "excerpt": "NVIDIA has greatly improved AI GPU shipments over the last few months, which were swelling out to 8-11 months and now down to a better 3-4 month waiting period. But some AI GPU customers are offloading their high-end AI chips... yeah, they're selling the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/6/96505_6003_nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware_full.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T15:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

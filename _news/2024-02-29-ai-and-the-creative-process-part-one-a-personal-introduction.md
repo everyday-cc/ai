@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/ai-and-creative-process-part-one-personal-int
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-and-creative-process-part-one-personal-introduction?amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
     provider:
       name: The Chronicle of Higher Education
       domain: chronicle.com
-    quality: 17
-  - title: "How synthetic data powers AI innovation – and creates new risks"
-    excerpt: "According to a report from the Financial Times, Microsoft, OpenAI and AI startup Cohere have already begun testing synthetic data as a way to increase the performance of LLM production with fewer of these issues. “If you could get all the data that you ..."
-    publishedDateTime: 2024-02-28T14:53:00Z
-    webUrl: "https://siliconangle.com/2024/02/28/synthetic-data-powers-ai-innovation-creates-new-risks/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
     quality: 17
 
 secured: "pywIrqTgBk6XM89DxRu8bQ64CgRnDQwKyDTHl79gf+boFLu2KHNHKJk7SXVQD84+ixPrdpDgy8MrPMb7nx8ozssExQaqvPvMMSG2+pO5Z1SDceNnU+RMSWbgRGs06KNGMgUh27AGlJSXfk4UirskkoPMVzn0XHzDCSN/YedD/dkYeYkRd5PStJuDTxioc6Rt3AKt88uxjlbgHZumOgQtMc8Wzz1im5jeP8AgMmSwYuUq5lQlFoVaTevrwZnx2YT4lyk9HkrXQ7LebVUto9kKB2fhU4SmUrk4WfJU3F7rnMhZ5b6KjR5tNNSrk4K2u3zngj1rx3Ar8BYTNKUsiiTm0lgddlhCmRlqLG08JUOVpnQ=;kJEyBZzwnY8DmGgHf9fPww=="

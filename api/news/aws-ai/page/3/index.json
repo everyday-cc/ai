@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-31-amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results.md",
+      "title": "Amazon earnings preview: AWS, advertising, AI in the spotlight for holiday quarter results",
+      "excerpt": "It is also facing scrutiny from the FTC, which filed a lawsuit against Amazon in September and last week launched an inquiry into Amazon’s investment in AI startup Anthropic. Amazon continues to trim its workforce and recently launched new advertisements ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2024/amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results/",
+      "originalUrl": "https://www.geekwire.com/2024/amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/amazonq2.jpg",
+          "width": 2022,
+          "height": 1408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T08:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-codeium-nabs-65m-for-developer-ai-toolkit.md",
       "title": "Codeium nabs $65M for developer AI toolkit",
       "excerpt": "The goal is to go beyond writing and running code and address tasks in every stage of the software development lifecycle.",
@@ -1318,40 +1370,6 @@
         "AWS AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-executives-meet-your-new-intern-artificial-intelligence.md",
-      "title": "Executives, Meet Your New Intern: Artificial Intelligence",
-      "excerpt": "Organizational shifts prompted by AI are already happening. It’s only a matter of time before it leads to job cuts.",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/2024/01/09/executives-meet-your-new-intern-artificial-intelligence-megatrends-2024/",
-      "originalUrl": "https://skift.com/2024/01/09/executives-meet-your-new-intern-artificial-intelligence-megatrends-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

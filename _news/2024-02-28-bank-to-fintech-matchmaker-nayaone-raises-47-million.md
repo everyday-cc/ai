@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/43767/bank-to-fintech-matchma
 webUrl: "https://www.finextra.com/newsarticle/43767/bank-to-fintech-matchmaker-nayaone-raises-47-million"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Fintech at its Finest: Adding Value with Innovation"
+    excerpt: "In this Roundtable, FinTech Magazine asks Industry Leaders for Their Thoughts on how the Industry’s Leading Technology Platforms are Raising the Bar"
+    publishedDateTime: 2024-02-29T10:26:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-at-its-finest-adding-value-with-innovation"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/7452cf610add2dcde54d536cb86f2ea5:e096529bdab30c8a03c11b9389d7baae/gettyimages-1023848048.jpg.jpg"
+        width: 1200
+        height: 631
         isCached: true
 
 secured: "EDV5mmvfbIeehYABZoDI0J0y7ARlr9Lnj7F5jTIy00RvLoarDcptOd0WqxZsCXPm7GjNmmR05zQbTM0Br25UxGKMoTfRS4iCGdp0T/3/dK7rgnSrNnWfDab2MuqUry/jPwZFmIx1TssQE3aGZEy34dAS/K8Sz7GIAcMVZC6F+vLrxBeXqQBTP6JVpzYiFe0kY1KqiIEA8PqSNd2ACZ0J77rg0kePKmLROjWnaMy+cwFYOQIYHem7HNngOZWL25QNmASgZoTgy/H8MjI2EZWNE+o80JA4/h1R8srnOGiPHCVfUKtjojVlYEQrBMkvlyBD6uKjhmisMNH9WiZrQYBGPDhehAMGQ+PJdtwh+18pNr4R5CTx9x5z6gELtSLccWXYFaUgOW4O9l6+e74T8f85zicX8tnY3AkrTw2Y+OD/UMdRQo4cJizMgv+Rr/4+rclzA/xNmdimYfoejaGnSghXYC7Zt4febt95G5FQFuEUyc285OGgrqeaETLsCwLIW3AIQzj4Rwvwh08lTs5jbYBQgA==;hJ3glgX2PKWjLuLEyHpLXA=="

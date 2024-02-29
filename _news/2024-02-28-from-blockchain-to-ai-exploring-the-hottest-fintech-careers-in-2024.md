@@ -70,15 +70,6 @@ related:
         width: 550
         height: 364
         isCached: true
-  - title: "Decentralized AI On Blockchain Rivals OpenAI's Lead"
-    excerpt: "Decentralized AI projects like Gensyn, OORT, and Bittensor are emerging to accelerate AI development by leveraging decentralization's benefits"
-    publishedDateTime: 2024-02-24T12:33:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2024/02/24/decentralized-ai-on-blockchain-rivals-openais-lead/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "The future is woven with the threads of AI, Edge & blockchain"
     excerpt: "The future is being redefined by the interwoven threads of Edge computing, blockchain, and AI. In the dynamic landscape of India’s SaaS industry, Sudip Banerjee, CTO, APJ, Zscaler, highlights the promising trajectory of growth."
     publishedDateTime: 2024-02-25T11:37:00Z

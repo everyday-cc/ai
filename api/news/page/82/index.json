@@ -2,6 +2,186 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-12-18-how-google-bard-and-gemini-are-different.md",
+      "title": "How Google Bard and Gemini are different",
+      "excerpt": "Thus, many people don’t know fundamental information like how Google’s Bard and Gemini are different. It might not mean much to the average user looking to AI for casual tasks. However ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/google-bard-gemini-different.html",
+      "originalUrl": "https://www.androidheadlines.com/google-bard-gemini-different.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/12/Bard-and-Gemini-Logo-jpg.webp",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/google-bard-gemini-different.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/google-bard-gemini-different.html?amp",
+      "publishedDateTime": "2023-12-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-neural-networks-forecast-fresh-produce-demand.md",
+      "title": "Neural Networks Forecast Fresh Produce Demand",
+      "excerpt": "AI models must cover all these cases in order to reliably predict demand on a daily basis. Experience has shown that for this purpose, artificial neural networks are well-suited to forecasting at both product group and item level. They can interpret and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.supplychainbrain.com/blogs/1-think-tank/post/38639-neural-networks-forecast-fresh-produce-demand",
+      "originalUrl": "https://www.supplychainbrain.com/blogs/1-think-tank/post/38639-neural-networks-forecast-fresh-produce-demand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supplychainbrain.com/ext/resources/2023/12/15/FRUITS-AND-VEGETABLES-PRODUCE-iStock--YelenaYemchuk--1409236261.jpg?height=635&t=1702877174&width=1200",
+          "width": 953,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain",
+        "domain": "supplychainbrain.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-neurophos-secures-72-million-in-funding-round-to-create-energy-efficient-metamaterial-based-optical-ai-chips-for-data-centers.md",
+      "title": "Neurophos Secures $7.2 Million in Funding Round to Create Energy-Efficient Metamaterial-Based Optical AI Chips for Data Centers",
+      "excerpt": "Neurophos, a spinout from Duke University and Metacept Inc., announced it has raised $7.2M in a seed round to productize a breakthrough in both metamaterials and optical AI inference chips. Neurophos' optical metasurfaces are designed for use in data centers and their approach is already shattering world records in computational energy efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Neurophos-Secures-72-Million-in-Funding-Round-to-Create-Energy-Efficient-Metamaterial-Based-Optical-AI-Chips-for-Data-Centers-161885.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Neurophos-Secures-72-Million-in-Funding-Round-to-Create-Energy-Efficient-Metamaterial-Based-Optical-AI-Chips-for-Data-Centers-161885.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos.md",
+      "title": "No, Donald Trump Never Met Martin Luther King Jr. Despite AI Photos",
+      "excerpt": "Have you seen photos of Donald Trump with Dr. Martin Luther King Jr.? They’ve been going viral on social media recently, including on X. But they’re completely fake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657f7eb09cd7ffe25a09a13f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/amp/",
+      "publishedDateTime": "2023-12-17T23:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil.md",
       "title": "A first, PM Modi uses AI to translate speech from Hindi to Tamil",
       "excerpt": "Inaugurates Kashi Tamil Samagam 2. In a first, Prime Minister Narendra Modi on Sunday used artificial intelligence (AI) for real-time translation of his Hindi spe",
@@ -984,204 +1164,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-ai-gives-birth-to-ai-scientists-say-machine-intelligence-now-capable-of-replicating-without-humans.md",
-      "title": "AI gives birth to AI: Scientists say machine intelligence now capable of replicating without humans",
-      "excerpt": "A group of scientists from across the U.S. claim to have created the first artificial intelligence capable of generating AI without human supervision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans",
-      "originalUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp",
-      "publishedDateTime": "2023-12-15T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-customer-service-trends-winning-organizations-need-to-follow.md",
-      "title": "Customer service trends winning organizations need to follow",
-      "excerpt": "Prioritizing these seven customer service trends can help ensure an organization is prepared to meet changing customer expectations.\nThe post Customer service trends winning organizations need to follow appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/customer-service-trends/",
-      "originalUrl": "https://www.ibm.com/blog/customer-service-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T20:55:37Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line.md",
-      "title": "News publisher files class action antitrust suit against Google, citing AI’s harms to their bottom line",
-      "excerpt": "A new class action lawsuit filed this week in the U.S. District Court in D.C. accuses Google and parent company Alphabet of anticompetitive behavior in",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/15/news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line/",
-      "originalUrl": "https://techcrunch.com/2023/12/15/news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1533302708.jpg?w=1200",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/15/news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/15/news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line/amp/",
-      "publishedDateTime": "2023-12-15T20:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-grok-gets-some-competition-chatgpt-gets-depressed-and-more-of-the-top-ai-news-stories-this-week.md",
-      "title": "Grok Gets Some Competition, ChatGPT Gets Depressed, and More of the Top AI News Stories This Week",
-      "excerpt": "What happened with AI this week? Well, the passage of the European Union’s AI Act—a landmark piece of regulation that seeks tackle the potential harms of the AI industry—is a pretty big deal. It could totally reshape how European nations’ relationship to the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969",
-      "originalUrl": "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6e9ec759dc24bf07ae714235d2e5f58b.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T19:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

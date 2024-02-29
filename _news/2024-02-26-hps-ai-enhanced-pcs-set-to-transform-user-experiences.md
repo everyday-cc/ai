@@ -39,6 +39,15 @@ related:
         width: 3747
         height: 2087
         isCached: true
+  - title: "IBM says their latest AI-enhanced storage platform can identify ransomware in under a minute"
+    excerpt: "Read our ethics statement. Forward-looking ... without impacting performance. The new AI-enhanced FlashCore Module 4 (FCM) is even more advanced, continuously monitoring stats gathered from every single I/O to look for anomalies like ransomware starting ..."
+    publishedDateTime: 2024-02-28T16:49:00Z
+    webUrl: "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 38
   - title: "IBM's new AI-powered SSDs can detect, and erase ransomware in under 60 seconds"
     excerpt: "IBM's new self-protecting SSD storage is powered by AI, which will detect and delete ransomware in less than 60 seconds for next-gen security."
     publishedDateTime: 2024-02-29T03:00:00Z

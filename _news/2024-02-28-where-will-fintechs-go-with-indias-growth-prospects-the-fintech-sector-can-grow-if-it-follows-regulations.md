@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 743
         isCached: true
+  - title: "Fintech at its Finest: Adding Value with Innovation"
+    excerpt: "In this Roundtable, FinTech Magazine asks Industry Leaders for Their Thoughts on how the Industry’s Leading Technology Platforms are Raising the Bar"
+    publishedDateTime: 2024-02-29T10:26:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-at-its-finest-adding-value-with-innovation"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/7452cf610add2dcde54d536cb86f2ea5:e096529bdab30c8a03c11b9389d7baae/gettyimages-1023848048.jpg.jpg"
+        width: 1200
+        height: 631
+        isCached: true
 
 secured: "q/74ZiTTkQl51ncpd+MB8y+9Go87IJPJKCN3uiiU5fx3Cy7+B/a+7VsmhUZnzBeRMh2qPi+mnMgA/UqbyfPB258PnM2u2AlkyMpLCIyo2Ev57rrAr2BRRQZbKJZaO232m/nr1kT3oT+3SDGIO9OKBBoLoyY8QLZymzal0qMDekNBez0T2umNcCT8hGEwynKj4kj+9FlDzVGpynFBiBkEOeGv+/Iy1oecJ2ieUK4K5Ina73QGMiJ0Ga52K6/vVmQGRipa3g95vtQilJauwFwk93Fowjv1H47z7Dxgg7kKLcPTYiWS/F7s+srVjxl6H4hj3RIMvJkDQXE5hLW8CQxJHBJPqi3/B5qBwlHPRlytc4c=;lyHNYsbjZMMmox4455njeQ=="
 ---

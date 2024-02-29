@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "University to remove vending machines after student claimed they used facial recognition"
+    excerpt: "A university in Canada is set to remove a series of smart vending machines from its campus following concerns over the utilization of facial-recognition technology. The controversy unfolded when a vigilant student captured a photo of an M&M-branded vending ..."
+    publishedDateTime: 2024-02-29T12:09:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 65
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/MixCollage-29-Feb-2024-05-35-PM-4699.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ontario university to remove vending machines due to facial recognition technology concerns"
     excerpt: "A southwestern Ontario university says it will be getting rid of more than two dozen vending machines after students raised concerns about facial recognition technology. The University of Waterloo says it began looking into the issue after seeing students ..."
     publishedDateTime: 2024-02-27T16:19:00Z
@@ -114,6 +130,6 @@ related:
         height: 1366
         isCached: true
 
-secured: "eFma4Hle+RGMlWoh3Hmw70sauisZTA7wVFLQaN8UIG08M1majhHuvAUisbiX9EHogCYhCZUYsL7vPvJT2ZwGfYoXaIxNT9iMvPbGqwOoMnvfEMW3u6GjFfXGBsQvSoTvDtXc9xwJXtpSl46Mb4iJg4MPfpg1842KmwziCsfjyAb0ifG5v7n2UBY7p9de2wCmHwl7btTEXtZQOAzd3Y7+KKGvYRrk8tI/I9o5JwYW+ChR8WmbxuLAnQX/jXw2i2pInWDLOTFje1R0fJrah1qguLba7m1dfInSNFiieR7k79dShEe1HgK66YT8xkh4HkiB4UQULXjIeqxMcmPfrofuRyVSTo++kLC8FPKuqa1JmDU=;Aoh+o0+TFe2pVS5wjiQ9eg=="
+secured: "rReKvmEh0QTNqaeSkSrJ595DtZii0iyaIDl2u5ICacw/Lv46PCYxaCVebr+UMZ0IzkvfeA2RpTwmVnZKE/vJV338fOg2nnbkq9dOwyVr445LGs+bjN9YLUq0QvBBeOjiXSC/H4iB4N+yB0BoLxsOAeFf504mkrJd9ARGIV/uXjY6/B2VWMftO5XTdpddaFsKsrreeMlijKvQMP+v32A9O81BEAorIO+6jZSVNYSTgVCGDa8ZWs/7Bkgu5dNBPKTpJILp2YLGFZFzviqo2eFpw8ZXly/RjlXdgqvD8T96pnYpYa/raetk1CokVMb/nxOSu7oLTEQ2G5qb4Ru7HuqPbknHuELFbM7MG/axtQ66wnO6gZuvf5OJmLsk5FGt+LQ20+N0BIcYzCTM2AtOSDfgXqp3k39XbKq8JtWVXingjx0GUmkVqVOPrld7huC/yyEJx5ZKBbVnV40Gt6UUKZ4kkZqBVICy8LqA0QRy4g8ZGX2Z/bUjCXah2B//NSnNLl9MeKmn52ZHDKHsh3xbHCCOjw==;BDW6Gne+jLPd/A8mbQ/V6g=="
 ---
 

@@ -2,17 +2,14 @@
 category: news
 title: "'Genuine, helpful, personal service': How people are using artificial intelligence to their advantage in dating"
 excerpt: "As artificial intelligence continues to expand, many are curious how it will affect dating and relationships in general."
-publishedDateTime: 2024-02-22T21:57:00Z
-originalUrl: "https://www.wlwt.com/article/ai-dating-scene/46774460"
-webUrl: "https://www.wlwt.com/article/ai-dating-scene/46774460"
+publishedDateTime: 2024-02-23T00:57:00Z
+originalUrl: "https://www.kcra.com/article/ai-dating-scene/46774460"
+webUrl: "https://www.kcra.com/article/ai-dating-scene/46774460"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: kcra.com
+  domain: kcra.com
 
 topics:
   - AI in Healthcare
@@ -24,6 +21,6 @@ images:
     height: 674
     isCached: true
 
-secured: "Svj/tAl9uBZW1Dn1BXfeIpz5kYewczV9G3C+TnFS7nNb5cGZdrhJd57vEIbi5KS2xarq0lNGhSoC3HV/JuQDwgROZeLE/HlxMPwWEVtT/pGujLHhVRrBK7yuiA7uhHfMdahQew85tJ4o+dIRhlVuIY+DYHMlNAYTUSgQiw0x1ek7tnEVsVtvmSPoZXhdzvJ4w91Aa1oJgwnK44vc2Ivgojk4f7KXr8auVobwYeVL0bLihcfOosRAuT3NNDVZq91Tfmkk//bWoyQoDmGCOcsJd1qEy4M0LRW7mxyoX5zslemUUB18wmuik+zq517jNX+vT2sLc15dSmmaWrDIuP0wN2yEBkKHq4zJXxbAbVmzyN98fzdjdJPEjI+tw0xImpC8y9qfEsFciniOGJdd9dDQd8YJCznE/ap1ckBHIObs7zS2HqSRSr2R5oV5E2y80WD4jFVEO70RexsGPEpxtaCCR+13fG6s6E6vYfkcPqSE4B3Jv3j/cuk26qkvUKd/xEJ/u8K8HG4O0bYac3NgC1AO3A==;eNxCUja12nC7iO1V2cGPcg=="
+secured: "854zAnCwxiO2ngkPEr1E6+kUrern3ajqPmdrzS44z9IJaoyaWOVYZS91ptgN5xZ5ZQ68Hb+bMEYfNXzu7ACQoz9q4dErGRGtDpJvEk7hdrVKwQAIfafsnFd47FqhM4omvVgPDIEiEVC0W8QBFaDn/kvTthBPoNNy2/r4vr+chSr7JC0cEj3se4H/wWHVsiO3z+zIOz/n5tMc3RsnJ8zGft4mKpfMhwiMXL8rzZ2O+4m/+9q4pBlOfQMcgHk4dU9grzTHdhW2xlifUd4rNj5yS6+xHGmvPgnv29Dj7vk7OKGzXa05lC9aQKmh99tRm4qPTZnUmBIMyBcoUjuiV03/yGK/XS//L3Pvt5841jyP4DY=;PF1j+4sAxsL8R+SkNGGWeQ=="
 ---
 

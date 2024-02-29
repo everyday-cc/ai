@@ -598,15 +598,6 @@ related:
       name: Telefonica
       domain: telefonica.com
     quality: 32
-  - title: "Microsoft Will Be One Of The Biggest Beneficiaries Of Artificial Intelligence"
-    excerpt: "Microsoft is uniquely positioned to capitalize on the trends of the future and combine them with its own products. And this combination is likely to result in tremendous value for their customers. In addition, it is likely that Microsoft will gain market ..."
-    publishedDateTime: 2024-02-24T11:15:00Z
-    webUrl: "https://seekingalpha.com/article/4673167-microsoft-will-be-one-of-the-biggest-beneficiaries-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 31
   - title: "FWD Group Partners with Microsoft to Shape the Future of AI-driven Insurance Experiences"
     excerpt: "FWD Group Holdings Limited today announced it is extending its partnership with Microsoft with a four-year agreement to provide access to the latest generative artificial intelligence (AI) innovations while continuing to support FWD’s cloud-first technology strategy."
     publishedDateTime: 2024-02-26T14:11:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Amazon to spend $1 billion on startups that combine AI with robots"
 excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
 publishedDateTime: 2024-02-28T06:48:00Z
-originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
-webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
+originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
+webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
 type: article
 quality: 84
 heat: 104
@@ -53,6 +53,6 @@ related:
       domain: bloomberg.com
     quality: 47
 
-secured: "UzBaXm3l7KDU9d6hW2gUbCpXt65ova+H5oNzmVFju79ZUL2zX+erGFq/YYpS6Zcv6sE5rEFR+CyYJ9EbzBUIPZZYVMRGXHt7qG2cUDPWI56L0ZGdQSaZFIQi3Nvi7UuG2kbNF9lFkQkTER+X+iLHa2O4Ng1+1BjU8IPs7HghEJx+1jI6rsymY10L1Fc5Rd0JKdWMXFgwH50ZusWjlhRXOVR1XRFsk8xPxQevpqPQaW8Y/rWTtJAKCBnyRnNsfFx2B+TCDJ/oMxurMDaAOlErFkvPgAmGWFbG2CEn4dvEZREMew6IrFIAvQC8XCszh2Vts4aU5HoaqeV01lMm3Kn/prZdWZvwGcLcFBHjjSFkSlWaiPwXCQ20gZ8X2iGOMDdzGgbuG9bOePfu6T6PTrWCiin04t577Ozs/xFdZobB/6QJGgDGZwjhRNZlQZZSIFkqOPELJh7nLXWorw1mx0B4YaXg+reUvjkkGxaiTWicyGRuvWEC0SJBa2YhIbraUd+1p/+hC3aku8tg44I8+EH05Q==;iqXtKOXm4vW7zrMggtsTfw=="
+secured: "yfiiVPpDVoCcG7ciqtQLpB2ZWNgxW41B46WvM7VJoc3ChWSQ5N9TwWd5b7SrYEdbJi0sGjCUWxJzN8q4DR36hkTn/BhQLowRsSAW5O3IL9iUPNi73tf7D2EugrWZTiK2+TU1NPjSJaq9jV122XU0e6VdqabMlSGJPnlpnMEPH9tnHhqOsYOxV+Zo3Yo2cRXyDIpqDvYDhe6/fly0WGFDbhlhpal71d2tbM1Os/A96XH5F3sEmvco9EnhiJp06fRbNd8OC6mrtOON6IYVhTnoVx8M9Z+mg5dBMzaj05Ls30CwSBQG2/uya6jjFGxwe+svpKeqNq/k6wV2ZkCRbOCyn7OyVRSZJglx60Ay/cERZmo=;Tw/uA/1KL+rEkp+budXOzw=="
 ---
 

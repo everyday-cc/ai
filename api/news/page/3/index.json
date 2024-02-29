@@ -2,6 +2,155 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-28-educators-teaching-ai-literacy-to-students-should-include-ethics-in-their-lesson-plans-scholars-say.md",
+      "title": "Educators teaching AI literacy to students should include ethics in their lesson plans, scholars say",
+      "excerpt": "Assertions about expanding the use of artificial intelligence are typically rooted in one of two schools of thought: \"Be ahead of the curve,\" or, \"Don't fix what isn't broken.\" Whichever side of the coin someone is on, it's clear that the rapidly emerging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
+      "originalUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65d8eb23ce7f1785b2e38c28?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp",
+      "publishedDateTime": "2024-02-27T16:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-elon-musk-unveils-new-footage-of-teslas-optimus-robot-showing-improved-mobility-and-speed.md",
+      "title": "Elon Musk unveils new footage of Tesla's Optimus robot showing improved mobility and speed",
+      "excerpt": "Tesla announced the latest version of Optimus, Gen 2, last December (below). The robot has come a long way since the original Bumblebee model from September",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102044-elon-musk-unveils-new-footage-tesla-optimus-robot.html",
+      "originalUrl": "https://www.techspot.com/news/102044-elon-musk-unveils-new-footage-tesla-optimus-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-27-image-11.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-ai-gpu-hardware.md",
+      "title": "NVIDIA AI GPU customers 'offloading' chips, selling hard-to-buy excess AI GPU hardware",
+      "excerpt": "NVIDIA has greatly improved AI GPU shipments over the last few months, which were swelling out to 8-11 months and now down to a better 3-4 month waiting period. But some AI GPU customers are offloading their high-end AI chips... yeah, they're selling the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/6/96505_6003_nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware_full.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T15:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-how-to-mitigate-the-risks-of-diy-authoritative-dns.md",
       "title": "How to mitigate the risks of DIY authoritative DNS",
       "excerpt": "While everyone has their reasons for adopting a DIY system for authoritative DNS, there are some distinct disadvantages to consider. \nThe post How to mitigate the risks of DIY authoritative DNS appeared first on IBM Blog.\n",
@@ -95,7 +244,7 @@
       "originalUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -251,7 +400,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/sell-amd-stock-before-the-ai-hype-crashes-and-burns-1033106719",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -354,7 +503,7 @@
       "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -596,7 +745,7 @@
       "originalUrl": "https://www.jdsupra.com/legalnews/recent-healthcare-related-artificial-1356462/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -639,7 +788,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 570,
+      "heat": 560,
       "tags": null,
       "images": [
         {
@@ -1068,142 +1217,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant.md",
-      "title": "Mistral AI releases new model to rival GPT-4 and its own chat assistant",
-      "excerpt": "Finally, Mistral AI is also using today’s news drop to announce a partnership with Microsoft. In addition to Mistral’s own API platform, Microsoft is going to provide Mistral models to its Azure customers. It’s another model in Azure’s model catalo ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
-      "originalUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1630826367.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/",
-      "publishedDateTime": "2024-02-26T15:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-conversational-ai-revolutionizes-the-customer-experience-landscape.md",
-      "title": "Conversational AI revolutionizes the customer experience landscape",
-      "excerpt": "AI can create seamless customer and employee experiences but it’s important to balance automation and human touch, says head of marketing, digital & AI at NICE, Elizabeth Tobey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/",
-      "originalUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/02/Elizabeth-Tobey1200.png?w=1200",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/",
-      "publishedDateTime": "2024-02-26T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-how-to-improve-network-resilience-with-ns1-connect-filter-chains.md",
-      "title": "How to improve network resilience with NS1 Connect Filter Chains",
-      "excerpt": "We’ve put together a quick guide on how to build active-active, active-passive and manual failover systems by using filter chains.\nThe post How to improve network resilience with NS1 Connect Filter Chains appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-improve-network-resilience-with-ns1-connect-filter-chains/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-improve-network-resilience-with-ns1-connect-filter-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

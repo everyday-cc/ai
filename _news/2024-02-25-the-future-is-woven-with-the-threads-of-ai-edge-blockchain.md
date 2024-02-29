@@ -63,15 +63,6 @@ related:
         width: 550
         height: 364
         isCached: true
-  - title: "Decentralized AI On Blockchain Rivals OpenAI's Lead"
-    excerpt: "Decentralized AI projects like Gensyn, OORT, and Bittensor are emerging to accelerate AI development by leveraging decentralization's benefits"
-    publishedDateTime: 2024-02-24T12:33:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2024/02/24/decentralized-ai-on-blockchain-rivals-openais-lead/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "From Blockchain to AI: Exploring the Hottest Fintech Careers in 2024"
     excerpt: "Are you ready to dive into the exciting world of fintech and explore the hottest careers that will shape the industry in 2024? From blockchain to AI, these technologies are revolutionizing how we manage our finances."
     publishedDateTime: 2024-02-28T15:04:00Z

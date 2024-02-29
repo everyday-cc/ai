@@ -50,15 +50,6 @@ related:
       name: The Chronicle of Higher Education
       domain: chronicle.com
     quality: 17
-  - title: "How synthetic data powers AI innovation – and creates new risks"
-    excerpt: "According to a report from the Financial Times, Microsoft, OpenAI and AI startup Cohere have already begun testing synthetic data as a way to increase the performance of LLM production with fewer of these issues. “If you could get all the data that you ..."
-    publishedDateTime: 2024-02-28T14:53:00Z
-    webUrl: "https://siliconangle.com/2024/02/28/synthetic-data-powers-ai-innovation-creates-new-risks/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "/wFPvkgXtDugkKLhXTC+w1jQ4UaTFFzeN1m+jsuSLp/0xZrLlpkdfiVDDzYozz0CkyRs4Y97uQoUb8M1zw/BTHpKiMKc89Sa6D6KQibTdg5nsCZwYmcO9RBRG9GnKMxkXDfNKuRHYhu1UEOX8vyVH/rCJAHgBokx8d2lLxGKLDgPsrKeYEJeydOn8hb4NChMH+Y5OOc1ytiRi99blDeCumqK9LHusCFuc74w4Q+cxzxFAZ/Zn0JH5rzROf4Ke4mXPqJ3wnyXlEC3HYIeCRLNPFm77bXNYp8Fxo+tymJGO2eaVBGzlc7rCPaTyFxKIs2XJkYq9M+jfcCJXLSfaASbh0cKFmD0P0PkFZYPPoevHkg=;ffQN/FSZqu6xXg+ryUiBYA=="
 ---

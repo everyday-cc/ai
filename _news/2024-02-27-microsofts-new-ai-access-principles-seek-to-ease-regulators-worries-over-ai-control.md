@@ -591,15 +591,6 @@ related:
       name: Telefonica
       domain: telefonica.com
     quality: 32
-  - title: "Microsoft Will Be One Of The Biggest Beneficiaries Of Artificial Intelligence"
-    excerpt: "Microsoft is uniquely positioned to capitalize on the trends of the future and combine them with its own products. And this combination is likely to result in tremendous value for their customers. In addition, it is likely that Microsoft will gain market ..."
-    publishedDateTime: 2024-02-24T11:15:00Z
-    webUrl: "https://seekingalpha.com/article/4673167-microsoft-will-be-one-of-the-biggest-beneficiaries-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 31
   - title: "Microsoft Exec Offers Tips For MSPs Building Azure Virtual Desktop Practices"
     excerpt: "45 percent of all IT spend will be on cloud by 2026. 71 percent of companies say they already use AI. The Azure presence is bigger than every other public data center combined: “You take all of Google’s data centers, all of Amazon’s data centers ..."
     publishedDateTime: 2024-02-27T18:15:00Z

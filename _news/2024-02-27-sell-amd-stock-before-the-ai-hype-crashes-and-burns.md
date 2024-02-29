@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sell-amd-stock-bef
 webUrl: "https://markets.businessinsider.com/news/stocks/sell-amd-stock-before-the-ai-hype-crashes-and-burns-1033106719"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -33,6 +33,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Microsoft (NASDAQ:MSFT) clearly capitalized on the generative AI growth trend"
     publishedDateTime: 2024-02-28T11:35:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-why-this-ai-early-mover-will-stay-in-the-fast-lane-1033112036"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "PayPal’s AI Surprise: Why It’s More Than Just a Fintech Stock"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Some traders panic-sold their PayPal (NASDAQ:PYPL) shares after the"
+    publishedDateTime: 2024-02-29T11:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/paypals-ai-surprise-why-its-more-than-just-a-fintech-stock-1033117634"
     type: article
     provider:
       name: Business Insider

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/biz/news.asp?feed=4765"
 webUrl: "https://www.digitimes.com/biz/news.asp?feed=4765"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,28 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Australia announces new 'FinTech for Net Zero' event to highlight sector’s focus on sustainability"
-    excerpt: "FinTech Australia, the national association for the Australian FinTech Startup community has launched a new event aimed at showcasing sustainability-focused fintech companies. Held in partnership with The Australian Trade and Investment Commission,"
-    publishedDateTime: 2024-02-26T22:44:00Z
-    webUrl: "https://itwire.com/science-news/climate/fintech-australia-announces-new-fintech-for-net-zero-event-to-highlight-sector’s-focus-on-sustainability.html"
+  - title: "Ai In Fintech Market Growth, Share, Trends, Analysis Report 2024-2032"
+    excerpt: "Financial firms are adopting artificial intelligence (AI) to automate intricate and repetitive tasks, such as data analysis, risk assessment, and user service. This automation enhances efficiency, reduces operational costs, and minimizes human errors."
+    publishedDateTime: 2024-02-26T02:55:00Z
+    webUrl: "https://menafn.com/1107898432/Ai-In-Fintech-Market-Growth-Share-Trends-Analysis-Report-2024-2032"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?186729"
+        width: 272
+        height: 249
+        isCached: true
+  - title: "GCC Artificial Intelligence Market Share Analysis| Size, Trends, Industry Report 2024-2032"
+    excerpt: "The latest report by IMARC Group, titled“ GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2024-2032“ , offers a comprehensive analysis of the industry, which comprises insights on the GCC artificial ..."
+    publishedDateTime: 2024-02-28T03:00:00Z
+    webUrl: "https://menafn.com/1107909833/GCC-Artificial-Intelligence-Market-Share-Analysis-Size-Trends-Industry-Report-2024-2032"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?267935"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "5 fintech predictions for 2024: A light at the end of the tunnel"
+    excerpt: "2024 feels a lot better than 2023. While there are still some significant macroeconomic and geopolitical headwinds, the dog days of 2023 are behind us and there is some light at the end of the tunnel."
+    publishedDateTime: 2024-02-27T10:28:00Z
+    webUrl: "https://www.finextra.com/the-long-read/956/5-fintech-predictions-for-2024-a-light-at-the-end-of-the-tunnel"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/956.jpg"
+        width: 799
+        height: 449
+        isCached: true
+  - title: "More Than Half the Fintech Industry Seeing Growth from Strong Consumer Demand"
+    excerpt: "Fintech industry resilience during the pandemic has been underscored by a sustained interest in digital financial services."
+    publishedDateTime: 2024-02-26T10:31:00Z
+    webUrl: "https://fintechnews.sg/87888/studies/more-than-half-the-fintech-industry-seeing-growth-from-strong-consumer-demand/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
     quality: 21
     images:
-      - url: "https://itwire.com/media/k2/items/cache/0479e46eb8f30612a33c2f67fe60a88e_M.jpg"
-        width: 375
-        height: 375
+      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/The-Fintech-Industry-is-Resiliently-Looking-Ahead-to-Shape-Inclusive-Finance.jpg"
+        width: 1024
+        height: 567
         isCached: true
-  - title: "Fintech Simetrik Secures US$55m in Series B Funding"
-    excerpt: "Simetrik secures US$55m in Series B funding, pioneering fintech solutions for FinOps, accounting, and FP&A. Explore the global evolution in financial automation"
-    publishedDateTime: 2024-02-26T12:30:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-simetrik-secures-us-55m-in-series-b-funding"
+  - title: "Language Services Market Size, Share, Growth, Opportunity And Global Industry Trends 2024-2032"
+    excerpt: "Machine translation, artificial intelligence, and natural language processing have made significant strides in recent years, enabling faster and more cost-effective translation and localization services. Automation tools are streamlining repetitive tasks ..."
+    publishedDateTime: 2024-02-27T07:14:00Z
+    webUrl: "https://menafn.com/1107905161/Language-Services-Market-Size-Share-Growth-Opportunity-And-Global-Industry-Trends-2024-2032"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: Mena FN
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?299146"
+        width: 324
+        height: 250
+        isCached: true
+  - title: "India’s Fintech M&A Count Hits 30 in 2023, Lending Sector Tops List"
+    excerpt: "Lending Fintech companies accounted for 30% of all Fintech acquisitions in India in 2023, highlighting a shift in market dynamics amid growing regulatory"
+    publishedDateTime: 2024-02-24T18:10:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221865-indias-fintech-ma-count-hits-30-in-2023-lending-sector-tops-list/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 4
 
 secured: "Ff4HTAeHvEgyAG1dpr7GaNe0yWpCh21hDHcXRlEblvbAwxwxylathgTVMubms9zEG5KGuGY9axky/wnvdXRW/DbM832xCNyRS1JR4YSeoHWNh5Fc4opm403+STz9lmz6kNJAMcbJmvA6SGnz1uEnPsSSl5eCNyvoNqG8Nl7yTrd/GzYMUEzOvo1mxgCxgkOpUTPlfbHqR5ZwlD3jzrkwCa+esr6SROUMcz9et7gtSUv/LoyomX4s/ylfPirJIMaIMBYYGB8htIeoTjWAagZVQP/OzjrS6A5f0ON4Rq7qaIImslxeDC3ghvJzTpxKJkzy9gy7VVa0FX8U8Sm3nDT6x7VUgpVeq5FIXDUFvCZ1ufE=;4l7QaqKID2rzYdN6ixl96g=="

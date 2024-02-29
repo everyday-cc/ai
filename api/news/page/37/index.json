@@ -2,6 +2,206 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2024-02-01-new-and-better-ways-to-create-images-with-imagen-2.md",
+      "title": "New and better ways to create images with Imagen 2",
+      "excerpt": "We’re rolling out Imagen 2, a major update to our image generation technology. Try it out today in Bard, Image FX, Search and Vertex AI.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-imagen-2/",
+      "originalUrl": "https://blog.google/technology/ai/google-imagen-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Imagen_SocialShare.width-1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-imagen-2/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-imagen-2/amp/",
+      "publishedDateTime": "2024-02-01T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-try-imagefx-and-musicfx-our-newest-generative-ai-tools-in-labs.md",
+      "title": "Try ImageFX and MusicFX, our newest generative AI tools in Labs",
+      "excerpt": "ImageFX, MusicFX and TextFX help you bring your most creative ideas to life with Google’s latest AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/",
+      "originalUrl": "https://blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/keyframe_fx_hero_FLmAr3b.width-1300.png",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/amp/",
+      "publishedDateTime": "2024-02-01T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-6-common-cloud-migration-problems-and-how-to-solve-them.md",
+      "title": "6 Common Cloud Migration Problems And How To Solve Them",
+      "excerpt": "Caswell points out that if you have data on Azure, Amazon and Google clouds ... cloud-native apps, analytics and machine learning as well as databases, desktops and critical services. “Importantly, for data people, you have the ability to take snapshots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nutanix/2024/02/01/6-common-cloud-migration-problems-and-how-to-solve-them/",
+      "originalUrl": "https://www.forbes.com/sites/nutanix/2024/02/01/6-common-cloud-migration-problems-and-how-to-solve-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b817ae8df6e2ed4037c7f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nutanix/2024/02/01/6-common-cloud-migration-problems-and-how-to-solve-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nutanix/2024/02/01/6-common-cloud-migration-problems-and-how-to-solve-them/amp/",
+      "publishedDateTime": "2024-02-01T14:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro.md",
+      "title": "Google CEO Sundar Pichai confirms Bard Advanced will be Google’s answer to Microsoft’s Copilot Pro",
+      "excerpt": "Microsoft announced Copilot Pro, a subscription-based tier of its AI-powered tool for power users and content creators, offering advanced help. Google",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/articleshow/107332510.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/articleshow/107332510.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107332476,width-1280,height-720,resizemode-4/107332476.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/amp_articleshow/107332510.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/amp_articleshow/107332510.cms",
+      "publishedDateTime": "2024-02-01T14:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-ais-energy-appetite-meeting-the-demand-for-innovation.md",
       "title": "AI's Energy Appetite: Meeting The Demand For Innovation",
       "excerpt": "To fully realize AI’s enormous potential for economic growth, we need to see change in how we address growing power demand.",
@@ -955,196 +1155,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-one-of-google-deepminds-lead-developer-quits-to-launch-ai-startup.md",
-      "title": "One of Google DeepMind’s lead developer quits to launch AI startup",
-      "excerpt": "One of Google DeepMind’s lead developers, Ioannis Antonoglou, has quit the company to launch his own AI startup. This comes as several other lead developers have also left DeepMind recently. The departure of employees to start their own AI startups is seen as a healthy trend by Alphabet and Google CEO Sundar Pichai.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/articleshow/107303112.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/articleshow/107303112.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107303118,width-1280,height-720,resizemode-4/107303118.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms",
-      "publishedDateTime": "2024-02-01T02:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance.md",
-      "title": "Mistral CEO confirms ‘leak’ of new open source AI model nearing GPT-4 performance",
-      "excerpt": "An anonymous user on 4chan posted a link to the miqu-1-70b files on 4chan. The open source model approaches GPT-4 performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/",
-      "originalUrl": "https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_overhead_view_of_the_eiffel_tower_rising_from_a_landsca_d374695a-bca7-4db7-abcd-d30ef5fd0e04.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T01:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-getting-started-with-amazon-titan-text-embeddings.md",
-      "title": "Getting started with Amazon Titan Text Embeddings",
-      "excerpt": "Embeddings play a key role in natural language processing (NLP) and machine learning (ML). Text embedding refers to the process of transforming text into numerical representations that reside in a high-dimensional vector space. This technique is achieved through the use of ML algorithms that enable the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-titan-text-embeddings/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-titan-text-embeddings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/30/ml-15931-image001.png",
-          "width": 721,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T01:06:31Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-3d-printed-pneumatic-modules-replace-electric-controls-in-soft-robots.md",
-      "title": "3D-printed pneumatic modules replace electric controls in soft robots",
-      "excerpt": "A research team develops 3D-printed pneumatic logic modules that control the movements of soft robots using only air pressure. These modules enable logical switching of the air flow and can thus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/02/240201121800.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/02/240201121800.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/earnings/a-for-artificial
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/earnings/a-for-artificial-intelligence-b-for-base-effect-the-a-z-of-q3-earnings-season-12346171.html/amp"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Focus Is On AI for Snowflake's Earnings"
-    excerpt: "Snowflake stock has been on a tear, driven by hopes the cloud-based data warehouse software company will benefit from the generative artificial intelligence trend, and that the pace of corporate spending on cloud computing will pick up."
-    publishedDateTime: 2024-02-28T08:15:00Z
-    webUrl: "https://www.barrons.com/livecoverage/salesforce-snowflake-c3ai-earnings-stock-price/card/the-focus-is-on-ai-for-snowflake-s-earnings-PRH6rwce3DYAjczEotum"
+  - title: "We must start preparing the US workforce for the effects of AI – now"
+    excerpt: "Artificial intelligence can make companies more efficient and workers happier – or cause mass misery. The choice is ours"
+    publishedDateTime: 2024-02-29T10:01:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2024/feb/29/ai-workers-layoffs-surveillance"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2024/feb/29/ai-workers-layoffs-surveillance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/29/ai-workers-layoffs-surveillance"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://images.barrons.com/im-51741212?width=780&height=520"
-        width: 780
-        height: 520
+      - url: "https://i.guim.co.uk/img/media/9dfe84020d3abb792f5711139dc45b643a4e297c/0_0_7331_4401/master/7331.jpg?width=620&quality=85&auto=format&fit=max&s=a282402c34acc4c4a1139c168af54c28"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "VpSA4MFWOMMe0VzDwUzqJlxd0E88hzbK2mgvH+UTQuqlXcOD8V7RTowWZLkyMHjVE2w3aBErb5nJhhyCAQuUsnAnio9pg2eSNzEdi+U8nFnvbZc+x2M8h5OgqpGSbMyO0R+tWbIY31PXnzNK0LKtNmqhJfxAUwiC1KizeYAsi/8XewFAb/2tCoyH+kZ03qkDhV5G2/awoS4Ag9QcdY9ePngN/d9BnAtBEONellraZ/iVw34ODR1kaK+DxG+scUyV7vJbnBkvHyRPsqgtUNIHEv0rqKGfHrXoaNAsixczmXtKqCVfU3HDG/WvwTSqnxIhyUC/X63TaI8tvfuU6aYVgDIDDBu16UC8IVXMP3R9LzI=;p1inIop7xtNTKjAFMiWXQA=="

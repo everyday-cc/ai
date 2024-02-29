@@ -3,12 +3,10 @@ category: news
 title: "HID, CERTIFY Health and CTS align to elevate the patient experience powered by facial recognition"
 excerpt: "HID, the worldwide renowned company in trusted identity solutions has announced a collaborative self-service patient engagement and facial recognition offering designed to enhance healthcare operations and administer an improved patient service at every ..."
 publishedDateTime: 2024-02-28T23:59:00Z
-originalUrl: "https://www.sourcesecurity.com/tags/healthcare-security/news/hid-certify-health-cts-align-elevate-patient-experience-powered-facial-recognition-co-823-ga-npr.1709198680.html"
-webUrl: "https://www.sourcesecurity.com/tags/healthcare-security/news/hid-certify-health-cts-align-elevate-patient-experience-powered-facial-recognition-co-823-ga-npr.1709198680.html"
-ampWebUrl: "https://www.sourcesecurity.com/amp/news/hid-certify-health-cts-align-elevate-patient-experience-powered-facial-recognition-co-823-ga-npr.1709198680.html"
-cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/hid-certify-health-cts-align-elevate-patient-experience-powered-facial-recognition-co-823-ga-npr.1709198680.html"
+originalUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/hid-certify-health-cts-align-elevate-patient-experience-powered-facial-recognition-co-823-ga-npr.1709198680.html"
+webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/hid-certify-health-cts-align-elevate-patient-experience-powered-facial-recognition-co-823-ga-npr.1709198680.html"
 type: article
-quality: 26
+quality: 6
 heat: -1
 published: false
 
@@ -56,6 +54,6 @@ related:
       domain: tmcnet.com
     quality: 26
 
-secured: "DZW68MdhQq+UYaG7AP60thuFwSBiqEJ1ss1eAMfQaMoY3xBKw8GG/r2yOYa7YZ6i2+dA9dMZ6SDKlncxsSoAS4lN6ukG4K+IELpmtxHBJzXN/Pxsr0OOJ6+ihsaVo2RNSp+W3k80ojQBt7rOccP1ZAl6ynZDYg+xc2qhPvKHKTwkrFHTSFhqkRZPxMQl81x6jeKZq2agRICTPzYSK/BSUFOjpKrqAH98uJcoB3Nqx3r5n4GeZs9NBh7gTaGU2OztyPtVHkVckgkrhQB4MBrFpQIj2+wxuGyjXaPSpm8Ax5JoPMiIEbLyXGrs/Epgw/964qK4UFepcH02qdWZagNz+mayMWgNm/PXCYUkuUmwSJ+2/8TuoPBOer700KWF+rHKQrkm1WjXcfGBXxwwpRZ8SA7FohKm43gChqgFJbar87XptHpzdpXnDs7LQ1ysZIETQPDsWwDeKczohb4jh5RxFd3l001piGbqCmIkni680m8AlUyj2EHzxw3tpPyRCY5UWFi8OLg6OEyIhptB5O+rCQ==;8d22RVMyfcLDoEnIRnZs8w=="
+secured: "7d1h3sB5ue5nABOPAptt2LCqd8NzzZKEyohIJ5lv2RoebplEu6SaB1Swj/eZuy3i9rbHm4DN3mLw844KiRobstciLb/360mo9/20LP7Tcvu6d+t8S8nnKXlCwd6aFvN8ksDpzJk1L0W/JGJPoTyzVFRc3uPAJAO3LeT802NHKCA7LDnjkh0q7U+bKzpUQG4JX7uZJVphb2gi1RyUbiLYDzpNXvV9iAY3it4Kq6YesMun5F9SPHycfYC/SjHGk5cUUTQ7mG4WOBznupv+dQleieaSO3s9ZqNClLG9nIpVgJhwdtNq94V9mBOGWNQ8j5Veu+jGqRVM18taH4GdlEHPv6G1pbqEDIXKHAeM3U0yHH2snFqMpHffnDCURCDTz16DxaW5huSkz4D1RAtseSInXtpf7DeMGyzqaicjywR4wP/RDfQYlGqpb2H8JroovWCsFSci03HBu7WUaQoDp2NzXv4D5hPMazbJ2Zb8tcn2ZUUa3OKqAuirJ32y+PWpIv3hypNXsFsBORHXGMjVdKVUuQ==;b6KJnkErCfI770s2yXcDPA=="
 ---
 

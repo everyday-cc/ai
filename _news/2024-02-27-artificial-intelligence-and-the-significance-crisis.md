@@ -48,15 +48,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "How synthetic data powers AI innovation – and creates new risks"
-    excerpt: "According to a report from the Financial Times, Microsoft, OpenAI and AI startup Cohere have already begun testing synthetic data as a way to increase the performance of LLM production with fewer of these issues. “If you could get all the data that you ..."
-    publishedDateTime: 2024-02-28T14:53:00Z
-    webUrl: "https://siliconangle.com/2024/02/28/synthetic-data-powers-ai-innovation-creates-new-risks/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "O+LrSyMmUirSjj/86SOYpQCIGap9ibH25VZNT61Xs4950xIRtEUOEsK1emZb1dfjXEZPx4nQNQQncvbSHKwFf1cZzPj3LOW5Vl2k3otyEqxLFQmau4mDAV5lsKPGORoWogfv08QBI748D9QEWre0o/AgaORjBgqbX7lHXnvNB0KDSUiOp4D0lf7X6BnSDtdfBnVuBpPbdjP1M70cbpdLW3D0uW7sucblx1liHpottrNey7eQBYIgX1MgKIBiH6uQHTU0CISs1BDZ8sYHL2X9qAp4GJr7TD+GtSS7fB9Rf8UAFjK+CSqQ9RKD2zzq6SHLZnp0aBM2QSTyEaS7UF0LqlpEUGpMJVczMCmcSNWFFKs/vS7lRCIYzXfjSjMS2w27JcdGYBKswVCH+ZLXDiqJi1k8Hp4fKBjIVZ7L2XdaByV8RIAd2K6e3b/4kE/aWL7eTMeNARHXxPKDwVoJcowadVzsRymXtugBDFjLRskiOb0etx2G5u8iTCFffUkAe2EbE9VA71PGp+OSd5vOiQm//A==;40ciY8cndJCKe5TgIr3+eg=="
 ---

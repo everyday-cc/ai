@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-29-mastering-risk-unleashing-the-power-of-data-and-ai-in-strategic-risk-management.md",
+      "title": "Mastering Risk: Unleashing The Power Of Data And AI In Strategic Risk Management",
+      "excerpt": "Consider Palantir's Foundry or AWS SageMaker; these platforms empower organizations to turn data into actionable insights. An insurance company, for example, could utilize AI-driven risk analytics to assess policyholder behavior and market trends ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/mastering-risk-unleashing-the-power-of-data-and-ai-in-strategic-risk-management/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/mastering-risk-unleashing-the-power-of-data-and-ai-in-strategic-risk-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e5071996eeb1b2554af6bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T12:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-high-speed-humanoid-feels-like-a-step-change-in-robotics.md",
       "title": "High-speed humanoid feels like a step change in robotics",
       "excerpt": "You've seen a ton of videos of humanoid robots – but this one feels different. It's Sanctuary's Phoenix bot, with \"the world's best robot hands,\" working totally autonomously at near-human speeds – much faster than Tesla's or Figure's robots.",
@@ -113,7 +166,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -203,6 +256,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-abb-eyes-ai-robotics-integration-to-push-growth-in-various-businesses.md",
+      "title": "ABB eyes AI-robotics integration to push growth in various businesses",
+      "excerpt": "ABB Ltd will integrate artificial intelligence with robotics across various sectors in China to sustain robust growth, senior executives of the Swiss-Swedish technology and engineering group said, as AI continues to evolve at an unprecedented pace, transforming numerous industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202402/29/WS65dfdce5a31082fc043b9b69.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202402/29/WS65dfdce5a31082fc043b9b69.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202402/29/65dfdce5a31082fc2b69544d.jpeg",
+          "width": 992,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T01:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -354,7 +450,7 @@
       "originalUrl": "https://diginomica.com/ai-and-creative-process-part-one-personal-introduction",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -385,6 +481,49 @@
       ],
       "topics": [
         "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-dubai-robot-to-detect-e-scooter-cycle-violations.md",
+      "title": "Dubai: Robot to detect e-scooter, cycle violations",
+      "excerpt": "The robot will monitor the use of bicycles and electric scooters. Powered by artificial intelligence, the robot will identify a range of violations, including failure to adhere to personal safety protocols like wearing helmets; scooters parked in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7",
+      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MzcyNjM5ZjctZGU4NC00/11/201209063314qlkc-jpg.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7?amp=1",
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -500,7 +639,7 @@
       "originalUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -836,7 +975,7 @@
       "originalUrl": "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1064,151 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-the-difference-between-alias-and-cname-and-when-to-use-them.md",
-      "title": "The difference between ALIAS and CNAME and when to use them",
-      "excerpt": "The difference between a CNAME record and an ALIAS record is not in the result, but in how they resolve the target DNS record when queried.\nThe post The difference between ALIAS and CNAME and when to use them appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-difference-between-alias-and-cname-and-when-to-use-them/",
-      "originalUrl": "https://www.ibm.com/blog/the-difference-between-alias-and-cname-and-when-to-use-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T14:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-moving-bits-moving-beliefs-ai-is-about-to-get-physical.md",
-      "title": "Moving Bits – Moving Beliefs! AI Is About To Get Physical",
-      "excerpt": "“It's the kind of laboratory that really applies AI in the real world, where the rubber hits the road,” he told students, in describing the work that LIDS does. “And so we start to think a lot about: how would AI get out of the digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/28/moving-bits--moving-beliefs-ai-is-about-to-get-physical/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/28/moving-bits--moving-beliefs-ai-is-about-to-get-physical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65df41c3ac10db3e71ffba09/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/28/moving-bits--moving-beliefs-ai-is-about-to-get-physical/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/28/moving-bits--moving-beliefs-ai-is-about-to-get-physical/amp/",
-      "publishedDateTime": "2024-02-28T14:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-rethinking-ai-in-the-context-of-sustainability.md",
-      "title": "Rethinking AI In The Context Of Sustainability",
-      "excerpt": "Large language models (LLMs), natural language processing (NLP), machine learning (ML), cognitive AI and a litany of other “hot” artificial intelligence technologies have flooded our discussions since early 2023. From media coverage to overzealous CEOs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65de0c271287e45e3434069a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1501,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/",
-      "publishedDateTime": "2024-02-28T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
