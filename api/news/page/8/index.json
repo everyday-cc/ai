@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-02-22-how-to-build-ai-capabilities-across-an-enterprise.md",
+      "title": "How To Build AI Capabilities Across An Enterprise",
+      "excerpt": "Businesses rolling AI out across an enterprise can learn from the masters of making the most of disruption – venture investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d508ffcd2e8c866e062f4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1141,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/",
+      "publishedDateTime": "2024-02-22T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-ai-will-transform-finance-but-not-with-personalised-card-offers.md",
       "title": "AI Will Transform Finance, But Not With Personalised Card Offers",
       "excerpt": "Almost three-quarters of those surveyed identified AI as the most important factor in the development of fintech in the next five years (and almost half of them pointed to embedded finance, open banking and the digital economy as the second most important ...",
@@ -1158,58 +1209,6 @@
         "Meta AI",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-a-comprehensive-list-of-2023-2024-tech-layoffs.md",
-      "title": "A comprehensive list of 2023 & 2024 tech layoffs",
-      "excerpt": "Momentum for a tech sector rebound remains slow to build, outside of bright spots within artificial intelligence and adjacent companies ... Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/21/tech-layoffs-2023-list/",
-      "originalUrl": "https://techcrunch.com/2024/02/21/tech-layoffs-2023-list/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/layoffs.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/21/tech-layoffs-2023-list/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/tech-layoffs-2023-list/amp/",
-      "publishedDateTime": "2024-02-21T21:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

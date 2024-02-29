@@ -48,22 +48,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 34
-  - title: "Report: Apple Abandons Self-Driving Electric Vehicle Initiative, Plans Workforce Reductions"
-    excerpt: "Apple has reportedly terminated its self-driving electric car project permanently, leading to impending layoffs of 'hundreds of employees' within the division. The decision marks a significant shift for the tech giant,"
-    publishedDateTime: 2024-02-28T05:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/articleshow/108061356.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-108061317,width-1280,height-720,resizemode-4/108061317.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "KHcSZoWGsMGYtKDUN1kv/H1uiCuNZImamxSymocK0zqsRRXBpC4ZudtPBe7GFsmyeH6JDF9r2fvxMlf4laUcMkUxGUozWNU86vt4DZQ6aD10rsEoIItah/76wf40NVvTk2gJs3t9J8yU1/Xo+g/I39aIrMK83yacusAUJkPsJ5IeL063ZNTMNVEpP+NH2Ytixjl3aVq4ZqaBYDrMkNA9KMPKwSKwNoCFEVhLnz3WlaYqyxHkFZkw7neI4WhgnYY/U1/n/l0NFU/nZb/x5dRYIcJbhnfmuHIfpMzT/AfSufX4+BIKeMGKf7r95F+GtkXVmP3LrfvUYOguJtQzhnq774j+i0NDFJUf/kubNfKGdfo=;1sMzfa0wlp6yIBgrJW066g=="
 ---

@@ -35,20 +35,6 @@ related:
         width: 4978
         height: 3323
         isCached: true
-  - title: "Google apologizes for ahistorical and inaccurate Gemini AI images: ‘We missed the mark’"
-    excerpt: "After Google's AI chatbot Gemini generated embarrassing and inaccurate images of historical figures, the company apologized and paused the feature, capping a rocky start to its AI ambitions versus rivals like OpenAI."
-    publishedDateTime: 2024-02-24T02:51:00Z
-    webUrl: "https://venturebeat.com/ai/google-apologizes-for-ahistorical-and-inaccurate-gemini-ai-images-we-missed-the-mark/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Vector_art_of_the_Google_emoji_sad_6bc7dd63-fd90-41c3-b706-9a73f5266310-transformed.webp?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Google apologizes for ‘offensive’ AI Gemini image generator"
     excerpt: "Google apologized for its overly diverse artificial intelligence image generator, which appeared unable to depict white people in any fashion."
     publishedDateTime: 2024-02-24T04:06:00Z

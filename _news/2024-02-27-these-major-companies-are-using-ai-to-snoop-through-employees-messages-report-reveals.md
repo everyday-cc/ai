@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Apple Is Scrapping Its Electric Car and Moving Employees to AI"
-    excerpt: "The company canceled a decade-long, multibillion-dollar effort to build an EV and plans to move some employees to its generative AI division."
-    publishedDateTime: 2024-02-27T22:23:00Z
-    webUrl: "https://www.inc.com/chloe-aiello/apple-is-scrapping-its-electric-car-moving-employees-to-ai.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/apple-logo-GettyImages-1863293981_537906_km7yao.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "vsVFEu4TyuvzAnRubXAcVgmOh6XR6CZ9cTEoY19pib6waPH22KN1jlZ0jk0QSGK5v/5MrgzMltV+/ciCFNAyyP+ujuz2zUxqK1yBCyN4JYTbDZz8mBRI/7i6xtZj4nktMhh37+4MK6f+SPam4sX7TumovGhStPHnQ4G4MhGK8d5xi1ptnjlMmLlG37L+OkHJ3MFWFIkdG6Qgh3s/Ksk/197VUsLL/UiSZF2GUkki0NG50F9lCFGXeUsali0mRvo93TJvHA+uklMSAjJWyOZ01kWLLnlUN0B91CxOqCirfNLCVt0+yfpov7xQncKL9eq8Qi7f5RusFegO64rpXmwy1rM/UTFJiYD16StpHmvprE4=;i009WmBoUL4YyC6iYmkEUg=="
 ---

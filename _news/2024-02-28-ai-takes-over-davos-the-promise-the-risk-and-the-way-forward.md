@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

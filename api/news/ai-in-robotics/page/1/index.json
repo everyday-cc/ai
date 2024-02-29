@@ -498,49 +498,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-26-these-major-companies-are-using-ai-to-snoop-on-employees-online-chats.md",
-      "title": "These major companies are using AI to snoop on employees’ online chats",
-      "excerpt": "Mobile, Chevron and Starbucks, are now reportedly monitoring employee conversations on messaging apps using software from a startup A.I. company",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/",
-      "originalUrl": "https://nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/02/photo-illustration-slack-logo-business-7934528.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/amp/",
-      "publishedDateTime": "2024-02-25T18:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2024-02-25-construction-workers-being-replaced-by-ai-robot-bricklayers.md",
       "title": "Construction workers being replaced by AI robot bricklayers",
       "excerpt": "Monumental is a startup that offers brick-laying services with its AI-powered robots that can work with humans to fill the labor gap.",
@@ -592,7 +549,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 437,
+      "heat": 427,
       "tags": null,
       "images": [
         {
@@ -883,6 +840,58 @@
         "name": "Eagle-Tribune",
         "domain": "eagletribune.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-fox-news-ai-newsletter-lizard-like-robot-could-help-navy-prevent-catastrophes.md",
+      "title": "Fox News AI Newsletter: Lizard-like robot could help Navy 'prevent catastrophes'",
+      "excerpt": "MILITARY GAME-CHANGER: A lizard-like robot and other devices relying ... DEEPFAKE BATTLE’: An Israeli AI cybersecurity start-up, Clarity, has developed software to detect and protect against ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes",
+      "originalUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d705d93-3ff3-4ead-a33e-b0a42bc27432/dbc13643-03fe-4e99-947e-db2ba52ac205/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes.amp",
+      "publishedDateTime": "2024-02-21T16:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1343,19 +1352,19 @@
     {
       "path": "_news/2024-02-20-ai-comes-to-the-world-of-beauty-as-eyelash-robot-uses-artificial-intelligence-to-place-fake-lashes.md",
       "title": "AI comes to the world of beauty as eyelash robot uses artificial intelligence to place fake lashes",
-      "excerpt": "and then combines it with artificial intelligence technology, according to Harding. \"And then we use the machine … to create a lot of data, tons and tons of images, and then we can use those ...",
+      "excerpt": "Artificial intelligence is making its way into esthetics ... told Fox News Digital in an interview that the company is using robotics and AI to \"completely transform the experience of eyelash ...",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes",
-      "originalUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes",
+      "webUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
+      "originalUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Robotics-close-up-2.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1363,8 +1372,8 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
       "publishedDateTime": "2024-02-20T10:54:00Z",
       "updatedDateTime": null,
       "provider": {
@@ -1388,9 +1397,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {

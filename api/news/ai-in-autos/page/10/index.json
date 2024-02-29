@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-11-22-letter-driverless-cars-in-search-of-edison-lightbulb-moment.md",
+      "title": "Letter: Driverless cars in search of Edison lightbulb moment",
+      "excerpt": "The “Inside Business” column by Richard Waters (“Cruise’s driverless-car accident ... the problems autonomous vehicles have with artificial intelligence are like those in deep learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/1d8877d9-6f33-4af4-991d-ae9927ea508d",
+      "originalUrl": "https://www.ft.com/content/1d8877d9-6f33-4af4-991d-ae9927ea508d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-gms-driverless-ride-heads-into-a-ditch.md",
       "title": "GM’s driverless ride heads into a ditch",
       "excerpt": "For a while, General Motors' bet on robo-taxi startup Cruise held the promise of creating a serious challenge to electric-car leader Tesla . If there were any question about whether that’s still true,",

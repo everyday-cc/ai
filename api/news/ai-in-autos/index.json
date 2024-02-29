@@ -10,7 +10,7 @@
       "originalUrl": "https://reason.com/2024/02/28/apple-abandons-plans-for-driverless-electric-car-shifts-team-to-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -45,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-28-apple-kills-its-electric-car-project.md",
-      "title": "Apple Kills Its Electric Car Project",
-      "excerpt": "The car, which Apple spent billions of dollars researching, had been intended as a rival to Tesla’s E.V.s, which include autonomous driving features.",
+      "path": "_news/2024-02-28-apple-unplugs-self-driving-electric-car-project-reports-say.md",
+      "title": "Apple unplugs self-driving electric car project, reports say",
+      "excerpt": "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html",
+      "webUrl": "https://www.bbc.com/news/business-68420817",
+      "originalUrl": "https://www.bbc.com/news/business-68420817",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 204,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2024/02/27/multimedia/27apple-car-ltgk/27apple-car-ltgk-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/7ED1/production/_132756423_gettyimages-2009083580.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,16 +67,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T20:47:00Z",
+      "ampWebUrl": "https://www.bbc.com/news/business-68420817.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68420817.amp",
+      "publishedDateTime": "2024-02-28T06:50:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
+        "name": "BBC",
+        "domain": "bbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": null,
       "content": "",

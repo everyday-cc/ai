@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-12-20-can-artificial-intelligence-detect-autism.md",
-      "title": "Can Artificial Intelligence Detect Autism?",
-      "excerpt": "Researchers at Duke University have been exploring whether artificial intelligence (AI) can be used for autism screening in real-world settings, such as primary care. Their goal is to develop an objective,",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/MDM_0008.JPG.jpg?itok=Gh2nMte_",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp",
-      "publishedDateTime": "2023-12-19T22:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-19-the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know.md",
       "title": "The Artificial Intelligence (AI) hit list: Six menacing threats you need to know",
       "excerpt": "By the end of this year already, the market for artificial intelligence (AI) in South Africa is projected to reach a size of $2.4 billion, showing an annual growth rate of 21% between now and 2030. Locally,",
@@ -1398,6 +1355,41 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-ny-lawmakers-looking-to-address-promise-threat-of-artificial-intelligence.md",
+      "title": "NY lawmakers looking to address promise, threat of artificial intelligence",
+      "excerpt": "AI can greatly advance health care and create better jobs, experts say, but it also can create a deeper gulf in income inequality and help erode human rights and freedoms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
+      "originalUrl": "https://www.newsday.com/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
+      "publishedDateTime": "2023-12-05T17:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

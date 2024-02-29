@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-27-alibaba-staffer-offers-a-glimpse-into-building-llms-in-china.md",
+      "title": "Alibaba staffer offers a glimpse into building LLMs in China",
+      "excerpt": "Binyuan Hui, a natural language processing researcher at Alibaba’s large language model team Qwen, shared his daily schedule on X, mirroring a post by OpenAI researcher Jason Wei that went viral recently. The parallel glimpse into their typical day ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/",
+      "originalUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1356364303.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/amp/",
+      "publishedDateTime": "2024-02-27T10:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips.md",
+      "title": "Apple and Tesla veterans plan to help Japan design advanced AI chips",
+      "excerpt": "Tenstorrent, led by Tesla Inc. and Apple Inc. veteran Jim Keller, will license its design for part of Japan's artificial intelligence accelerator and also co-design the overall chip, the two sides ann",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "originalUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "publishedDateTime": "2024-02-27T05:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-digital-digits-airoboticsenergy-converge-reshaping-our-world.md",
       "title": "Digital Digits: AI+Robotics+Energy Converge, Reshaping Our World",
       "excerpt": "The robots reshaping our world are tackling a wide spectrum of tasks, from factory to warehouse, urban and the field to space exploration and beyond.",
@@ -303,7 +390,7 @@
       "originalUrl": "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1116,92 +1203,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more.md",
-      "title": "Mark Zuckerberg's Asia tour: Ambani wedding, sword-making, AI chips and more",
-      "excerpt": "AI chips on agenda? South Korea is home to some of the world’s top tech companies, including Samsung Electronics and SK Hynix. These companies lead the global memory chip industry and are among the few worldwide that produce high-end memory chips ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/articleshow/108005960.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/articleshow/108005960.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-108007276,width-1280,height-720,resizemode-4/108007276.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/amp_articleshow/108005960.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/amp_articleshow/108005960.cms",
-      "publishedDateTime": "2024-02-26T08:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity.md",
-      "title": "How IBM is helping accelerate AI adoption and application centric connectivity",
-      "excerpt": "Three key challenges, and opportunities, to which we must all pay attention, should we expect our industry to remain healthy. \nThe post How IBM is helping accelerate AI adoption and application centric connectivity appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity/",
-      "originalUrl": "https://www.ibm.com/blog/how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

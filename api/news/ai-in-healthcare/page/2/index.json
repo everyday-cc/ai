@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2024-02-14-the-enduring-absurdity-of-artificial-intelligence.md",
-      "title": "The Enduring Absurdity of Artificial Intelligence",
-      "excerpt": "The narrative of Sisyphus, as reimagined by Albert Camus, offers curious insights into this juncture, inviting us to contemplate the essence of our technological pursuits and the inherent absurdity they may entail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T19:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-13-georgia-bill-aims-to-restrict-ai-in-healthcare.md",
       "title": "Georgia bill aims to restrict AI in healthcare",
       "excerpt": "House Bill 887 was introduced to the Georgia House of Representatives by Rep. Mandisha Ann-Marie Thomas to: The bill states insurers cannot use just AI tools for coverage decisions, and any decision made with AI or automation tools should be \"meaningfully reviewed\" by a knowledgeable person who can override the AI's decision.",
@@ -1331,6 +1297,58 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-artificial-intelligence-in-2024-what-it-has-in-store-for-us.md",
+      "title": "Artificial Intelligence In 2024: What It Has In Store For Us",
+      "excerpt": "The end goal of AI is not to eliminate human intervention and automate all of your tasks, but rather to complement your business processes and offer numerous advantages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65578df7f889a02ef53ce298/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 861,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/",
+      "publishedDateTime": "2024-01-31T10:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

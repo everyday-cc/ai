@@ -2,6 +2,160 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2024-01-24-phew-ai-wont-take-your-job-just-yet-mit-data-finds-but-theres-a-caveat.md",
+      "title": "Phew! AI Won't Take Your Job Just Yet, MIT Data Finds — But There's A Caveat",
+      "excerpt": "Researchers at MIT conclude that the fear of job displacement by AI may be exaggerated, as human labor is still cheaper in most cases.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-your-job-just-yet-mit-data-finds-—-but-there-s-a-caveat-1032989145",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-your-job-just-yet-mit-data-finds-—-but-there-s-a-caveat-1032989145",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/AI-CEO_0.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T18:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-ai-startups-margin-profile-could-ding-their-long-term-worth.md",
+      "title": "AI startups’ margin profile could ding their long-term worth",
+      "excerpt": "The fact that Anthropic, a leading AI startup that has raised billions of dollars, reportedly had gross margins of 50% to 55% last December, underscores the costs of building and running modern AI models, and hints that AI-focused startups have a different ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/23/ai-startups-margins-low-valuations/",
+      "originalUrl": "https://techcrunch.com/2024/01/23/ai-startups-margins-low-valuations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/puzzle-ai-triptych-01.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T18:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-what-ai-means-for-networking-infrastructure-in-2024.md",
+      "title": "What AI Means For Networking Infrastructure In 2024",
+      "excerpt": "The giant in the space, of course, is Nvidia, which has the most complete infrastructure stack for AI, including software, chips, data processing units (DPUs), SmartNICs, and networking. One of the ongoing discussions is the role of InfiniBand, a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b039027e9d2a1798f08f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 648,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/",
+      "publishedDateTime": "2024-01-23T18:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-procurement-transformation-why-excellence-matters.md",
       "title": "Procurement transformation: Why excellence matters",
       "excerpt": "Increase profitability, enhance service outcomes, build customer satisfaction and ensure suppliers deliver high-quality goods and services.\nThe post Procurement transformation: Why excellence matters appeared first on IBM Blog.\n",
@@ -1057,135 +1211,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-3-ways-you-can-help-your-student-navigate-artificial-intelligence.md",
-      "title": "3 ways you can help your student navigate artificial intelligence",
-      "excerpt": "Artificial Intelligence (AI) is changing the world as we know it. OpenAI’s ChatGPT became the fastest-growing consumer application in history, after reaching 100 million monthly active users ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T07:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-kaist-research-team-breaks-down-musical-instincts-with-ai.md",
-      "title": "KAIST Research Team Breaks Down Musical Instincts with AI",
-      "excerpt": "A KAIST research team led by Professor Hawoong Jung from the Department of Physics announced to have identified the principle by which musical",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241787",
-      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241787",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/84ba9020-1eab-4167-99b9-bd0d0c3a1951-cover.jpg",
-          "width": 576,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T06:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AlphaGalileo",
-        "domain": "alphagalileo.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization.md",
-      "title": "IGC Proposed Acquisition of a Deep Neural Network and AI Research Related Service and Application Research Organization",
-      "excerpt": "Promoting Transformation of Trading Technology R&D and Service HONG KONG SAR - Media OutReach Newswire - 23 January 2024 - (",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaymail.com/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360",
-      "originalUrl": "https://www.malaymail.com/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.malaymail.com/amp/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360",
-      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360",
-      "publishedDateTime": "2024-01-23T06:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "malaymail",
-        "domain": "malaymail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

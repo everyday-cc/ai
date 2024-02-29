@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
 webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2564047.jpg"
         width: 1240
         height: 826
-        isCached: true
-  - title: "Generative AI Advances Showcased at MWC 2024"
-    excerpt: "The company has introduced an array of applications driven by generative AI and deep learning, including enterprise services and smart living environments. These applications are directly aimed at fulfilling the specific requirements of businesses and consumers."
-    publishedDateTime: 2024-02-27T16:47:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9969068.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Generative AI Advances Showcased at MWC 2024"
     excerpt: "MWC Barcelona, held this year on February 26-29, is one of the global telecommunications sector's pre-eminent expos. It attracts"

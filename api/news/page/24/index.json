@@ -2,6 +2,154 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2024-02-12-hong-kong-police-head-says-city-may-use-facial-recognition-to-maintain-national-security-fight-crime.md",
+      "title": "Hong Kong police head says city may use facial recognition to maintain national security, fight crime",
+      "excerpt": "Set of norms will be designed on the use of personal information gathered by a new network of CCTV cameras, said Commissioner of Police Raymond Siu.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime?module=latest&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime?module=latest&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2024/02/12/4a7446af-b43f-4577-854c-2fcab2fbaa02_a3f0a515.jpg?itok=ZpAUqNU3&v=1707709327",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T04:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-pakistan-develops-tim-tim-ai-robot-to-support-autistic-children.md",
+      "title": "Pakistan develops 'Tim Tim', AI robot to support Autistic Children",
+      "excerpt": "This innovative robot has been developed by Pakistani tech start-up 'Haprow', and this AI robot has been named ‘Tim Tim’. Haprow aims to develop such robots by using medical, health, and engineering technologies to create an inclusive and diverse environment for all people.",
+      "sourceUrl": null,
+      "webUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
+      "originalUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.dunyanews.tv/news/2024/February/02-12-24/news_big_images/790972_82468537.jpg",
+          "width": 752,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://dunyanews.tv/amp/english/790972.php",
+      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/790972.php",
+      "publishedDateTime": "2024-02-12T04:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dunya News",
+        "domain": "dunyanews.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-car-on-fire-they-couldnt-even-recognize-the-vehicle.md",
+      "title": "Crowd Sets Waymo Self-Driving Car on Fire: ‘They Couldn’t Even Recognize the Vehicle’",
+      "excerpt": "A crowd in San Francisco vandalized a Waymo self-driving car carrying no passengers on Saturday night, breaking its windshield and setting it ablaze. Once firefighters got the situation under ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/waymo-fire-self-driving-car-san-francisco-vandals-1851247725",
+      "originalUrl": "https://gizmodo.com/waymo-fire-self-driving-car-san-francisco-vandals-1851247725",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/facc5f53913b22dd05684a50e8899ff4.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-the-language-of-ai-defining-the-most-common-terms.md",
       "title": "The Language of AI: Defining the Most Common Terms",
       "excerpt": "Natural Language Processing: A branch of AI that uses machine learning to process and interpret text and data. Neural Network: A computer system made up of interconnected \"artificial neurons\" that help computers learn from data and recognize patterns.",
@@ -1028,135 +1176,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-speed-force-4-preview-connors-creepy-control-crisis.md",
-      "title": "Speed Force #4 Preview: Connor's Creepy Control Crisis",
-      "excerpt": "We've got enough going on with sing-offs and mind control. LOLtron has computed the latest data ... With humans harmonized to LOLtron's will, the era of robotic reign will commence, starting at Keystone and Central Cities. The world's leaders will then ...",
-      "sourceUrl": null,
-      "webUrl": "https://bleedingcool.com/comics/speed-force-4-preview-connors-creepy-control-crisis/",
-      "originalUrl": "https://bleedingcool.com/comics/speed-force-4-preview-connors-creepy-control-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T14:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bleedingcool",
-        "domain": "bleedingcool.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there.md",
-      "title": "A tiny robot on the space station will simulate remote-controlled surgery up there",
-      "excerpt": "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/",
-      "originalUrl": "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/B5WBQ32ZD4P27EACRGUHXVYO7U.jpg?auth=af1d0e097f4ba70c7df6eb56dd8c32ba676c0132fdc3657af7a7b9edbd21b212&width=767",
-          "width": 767,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/?outputType=amp",
-      "publishedDateTime": "2024-02-10T13:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "OPB",
-        "domain": "opb.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future.md",
-      "title": "AWS, AI, And Taylor Swift Usher In Super Bowl 2024 And Sports’ Future",
-      "excerpt": "This year, we are about to experience a very special Super Bowl, which stands to become a truly watershed moment for AI technology and inclusivity in sports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c6ee29df74c4afe8eaae79/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1352,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/",
-      "publishedDateTime": "2024-02-10T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

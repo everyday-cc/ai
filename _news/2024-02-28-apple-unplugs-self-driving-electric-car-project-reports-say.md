@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Apple unplugs self-driving electric car project, reports say"
-excerpt: "Many employees from the project will be moved to the iPhone maker's artificial intelligence (AI) division, according to Bloomberg News. Apple did not immediately respond to a BBC request for a comment. The Apple car team was reportedly known as the Special ..."
-publishedDateTime: 2024-02-28T00:00:00Z
-originalUrl: "https://www.aol.com/news/apple-unplugs-self-driving-electric-010959244.html"
-webUrl: "https://www.aol.com/news/apple-unplugs-self-driving-electric-010959244.html"
+excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people."
+publishedDateTime: 2024-02-28T06:50:00Z
+originalUrl: "https://www.bbc.com/news/business-68420817"
+webUrl: "https://www.bbc.com/news/business-68420817"
+ampWebUrl: "https://www.bbc.com/news/business-68420817.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68420817.amp"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 74
+heat: 204
+published: true
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: BBC
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b365fd882050850b2c18e7d53c14b2d2"
-    width: 976
-    height: 549
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7ED1/production/_132756423_gettyimages-2009083580.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -38,20 +44,6 @@ related:
       - url: "https://static01.nyt.com/images/2024/02/27/multimedia/27apple-car-ltgk/27apple-car-ltgk-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Behind Apple’s Doomed Car Project: False Starts and Wrong Turns"
-    excerpt: "Internal disagreements over the direction of the Apple car led the effort to sputter for years before it was canceled this week."
-    publishedDateTime: 2024-02-28T23:19:00Z
-    webUrl: "https://www.nytimes.com/2024/02/28/technology/behind-the-apple-car-dead.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/images/2024/02/28/multimedia/28apple-car-zkbt/28apple-car-zkbt-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Apple pull the plug on self-driving electric car project"
     excerpt: "Apple has reportedly decided to cancel its plans to develop electric vehicles (EVs), a project that has been in the works for around a decade."
@@ -83,6 +75,89 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Apple nixes plan for self-driving car to compete with Tesla"
+    excerpt: "Apple has reportedly cancelled plans to build a self-driving vehicle that was supposed to compete with Tesla in the autonomous car market."
+    publishedDateTime: 2024-02-27T22:57:00Z
+    webUrl: "https://www.dexerto.com/tech/apple-nixes-plan-for-self-driving-car-to-compete-with-tesla-2559018/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/07/19/AppleUnsplash@einfachlaurenz.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Apple Is Scrapping Its Electric Car and Moving Employees to AI"
+    excerpt: "The company canceled a decade-long, multibillion-dollar effort to build an EV and plans to move some employees to its generative AI division."
+    publishedDateTime: 2024-02-27T22:23:00Z
+    webUrl: "https://www.inc.com/chloe-aiello/apple-is-scrapping-its-electric-car-moving-employees-to-ai.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/apple-logo-GettyImages-1863293981_537906_km7yao.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Report: Apple Abandons Self-Driving Electric Vehicle Initiative, Plans Workforce Reductions"
+    excerpt: "Apple has reportedly terminated its self-driving electric car project permanently, leading to impending layoffs of 'hundreds of employees' within the division. The decision marks a significant shift for the tech giant,"
+    publishedDateTime: 2024-02-28T05:05:00Z
+    webUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/articleshow/108061356.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108061317,width-1280,height-720,resizemode-4/108061317.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Apple Cancels its Plan to Build Self-Driving Cars, Reports Say"
+    excerpt: "Apple has reportedly canceled all its plans to build and launch self-driving electric vehicles (EVs) exactly after a decade it was rumored to be working on the project. However, the company never publicly acknowledged the project that involved around 2k people."
+    publishedDateTime: 2024-02-28T06:15:00Z
+    webUrl: "https://www.opprairie.com/news/apple-cancels-its-plan-to-build-self-driving-cars-reports-say/108814/"
+    type: article
+    provider:
+      name: The Orland Park Prairie
+      domain: opprairie.com
+    quality: 24
+    images:
+      - url: "https://www.opprairie.com/wp-content/uploads/2024/02/Apple-Car.png"
+        width: 748
+        height: 366
+        isCached: true
+  - title: "Apple cancels self-driving EV project, to lay off workers: Report"
+    excerpt: "The tech giant also scaled back its vision for the self-driving electric vehicle. Initially, the iPhone maker intended to create an automobile with no steering wheel or pedals, allowing passengers to sit facing one another in a limousine-style vehicle."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report"
+    ampWebUrl: "https://glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 24
+  - title: "Apple's self-driving EV car is not coming; project canceled, layoff likely: Report"
+    excerpt: "The Apple car project, at its peak, had a workforce of around 1,400 employees. Some of these employees will be reassigned to Apple's generative AI (GenAI) projects, as the company continues to explore the potential of artificial intelligence."
+    publishedDateTime: 2024-02-28T10:29:00Z
+    webUrl: "https://www.ibtimes.co.in/apples-self-driving-ev-car-not-coming-project-canceled-layoff-likely-report-866425"
+    type: article
+    provider:
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 18
+    images:
+      - url: "https://data1.ibtimes.co.in/en/full/598822/apple-logo-seen-inside-apple-store-palo-alto.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Report: Apple cancels electric car to focus on artificial intelligence"
     excerpt: "Apple has canceled its secretive yearslong plan to develop an autonomous electric car, Bloomberg reported on Tuesday, citing anonymous sources with knowledge of the matter. Why it matters: Many of the engineers developing the car will instead be reassigned to focus on generative AI projects under the company's artificial intelligence division."
     publishedDateTime: 2024-02-27T19:30:00Z
@@ -92,6 +167,20 @@ related:
       name: Axios
       domain: axios.com
     quality: 17
+  - title: "The Apple car is dead: tech giant’s plans ‘Project Titan’ self-driving EV hit the buffers"
+    excerpt: "The 2,000-strong team that was working on the car codenamed Project Titan, which was widely rumoured to be a self-driving electric model, will reportedly be repurposed to work on AI, following some layoffs. It’s not known how many of the Apple car staff ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.autoexpress.co.uk/news/362435/apple-car-dead-tech-giants-plans-project-titan-self-driving-ev-hit-buffers"
+    type: article
+    provider:
+      name: AutoExpress
+      domain: autoexpress.co.uk
+    quality: 15
+    images:
+      - url: "https://media.autoexpress.co.uk/image/private/s--CZGnmfuq--/f_auto,t_primary-image-mobile@1/v1706194981/drivingelectric/2024-01/Apple%20Car_w2kvu7.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Apple Electric Car Project Cancelled After Billions Spent"
     excerpt: "In August 2018, the BBC reported that Apple had 66 road-registered driverless cars, with 111 drivers registered ... instead shifting its efforts to generative artificial intelligence. BREAKING NEWS: Apple cancels the Apple Car project after a decade ..."
     publishedDateTime: 2024-02-27T00:00:00Z
@@ -116,6 +205,6 @@ related:
         height: 836
         isCached: true
 
-secured: "3zDVcUiIYDZBtTzg6rf/F4I5Wmy1CM8IzZwrpBg3uotVXQQQ+bz67FuKI8n02VIIGY9eX8JsQ8lkCUPR1RVjyNnU3J8XpOxyWInEaPNKGCjfarej5F2Sdy/K7rTUH1WerSV2cUzLC6ANZa8l0lpZD/CFLiXLbGzpr26tzvm820CX/ODFTEQnpz0Dwx79UrlTAH43cpiU66WV1aSpH8rXE35w27mEjUVeOiV50Ir1HIKhashx0gLGAaqNUYC6+DtlJ+yGVdM+USPm14aohhL474pW9QFsqSPDMEKN6xnkg5br3FpJZ6wJBLPxj4kNbaMSOmlVq7EUjpZZ3LdhrB1yPdn5ypZJhTZjiSdjv09cCEY=;yVKJ6w1iIXY28y6wm9qZvw=="
+secured: "YKu/wueaP0fLR0KVtNV9j4SokKjGRiZTqqsdZSBYgq0r0OS5wsPkw7cWGhCW05a6wjMT/HW6UhoH00S0SH7EinXLcm87O5NiKHZWxVqBGtjOQ0zuP6PQjl5XUXxTX4qtEmcc4FTvRlTx2WzeS6AAzW2QHd6jX2En5bPt1fm7STnOm6emk4/0cgP+8ETmQrun/qlg31MQscedxIMa6FU1DvGK4t5iWLdjtu8rCQsIab6dZGjdjsELc6tMeeMC/T+o9ctll8tPoqrSlsEeWrTtqJ/jAl6VE1oY6sB84W0imJP5JjjN/iuUiMSbe3+Eu824ORQ7lqkAE4qEdLcOdJT8Bg8kWYqMjVA1VKMEstMA4xo=;zPLcSsr+7OSrrWc5GGzQJA=="
 ---
 

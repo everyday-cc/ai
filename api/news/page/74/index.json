@@ -2,6 +2,161 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-12-23-humane-announces-ai-pin-will-start-shipping-in-march.md",
+      "title": "Humane announces AI Pin will start shipping in March",
+      "excerpt": "Humane has announced that it will start shipping its AI Pin in March 2024, with those who who placed priority orders getting first dibs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/ai-pin-shipment-date-3396904/",
+      "originalUrl": "https://www.androidauthority.com/ai-pin-shipment-date-3396904/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/11/Humane-Ai-Pin-Business.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T19:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-23-grimes-and-her-ai-toy-grok-the-fearless-leaders-of-tomorrow.md",
+      "title": "Grimes And Her AI Toy Grok: The Fearless Leaders Of Tomorrow",
+      "excerpt": "In the maze of AI uncertainty, branding and positioning become even more essential to illuminate the path and help make sense of it all. Enter Grimes and her AI toy Grok.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeetendrsehdev/2023/12/22/grimes-and-her-ai-toy-grok-the-fearless-leaders-of-tomorrow/",
+      "originalUrl": "https://www.forbes.com/sites/jeetendrsehdev/2023/12/22/grimes-and-her-ai-toy-grok-the-fearless-leaders-of-tomorrow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6585ca69f03fcb1a08300c65/0x0.jpg?format=jpg&crop=3999,2250,x0,y199,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeetendrsehdev/2023/12/22/grimes-and-her-ai-toy-grok-the-fearless-leaders-of-tomorrow/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeetendrsehdev/2023/12/22/grimes-and-her-ai-toy-grok-the-fearless-leaders-of-tomorrow/amp/",
+      "publishedDateTime": "2023-12-22T18:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart.md",
+      "title": "Mixtral-8x7B is now available in Amazon SageMaker JumpStart",
+      "excerpt": "Today, we are excited to announce that the Mixtral-8x7B large language model (LLM), developed by Mistral AI, is available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. The Mixtral-8x7B LLM is a pre-trained sparse mixture of expert model, based on a 7-billion",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/22/mistral-sagemaker-jumpstart.jpg",
+          "width": 1005,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T17:15:59Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-23-apple-is-working-on-running-ai-on-iphones-and-ipads.md",
       "title": "Apple is Working on Running AI on iPhones and iPads",
       "excerpt": "Both papers show that, while Apple may not have generative AI products today that are as high-profile as Microsoft’s Copilot or OpenAI’s ChatGPT, Apple still has a hand in the generative AI space. These findings could eventually be incorporated into Siri, Apple’s voice-based assistant that resides on laptops, tablets and phones.",
@@ -1063,143 +1218,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-shopping-while-black-in-the-era-of-artificial-intelligence-lessons-from-a-federal-case-against-rite-aid.md",
-      "title": "Shopping While Black In The Era Of Artificial Intelligence — Lessons From A Federal Case Against Rite Aid",
-      "excerpt": "As a condition of a legal settlement with the Federal Trade Commission, Rite Aid has agreed to discontinue its reliance on AI-powered facial recognition technology in its shoplifting prevention efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-artificial-intelligence---lessons-from-a-federal-case-against-rite-aid/",
-      "originalUrl": "https://www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-artificial-intelligence---lessons-from-a-federal-case-against-rite-aid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6584f1494a460c4e21ffd1ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-artificial-intelligence---lessons-from-a-federal-case-against-rite-aid/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-artificial-intelligence---lessons-from-a-federal-case-against-rite-aid/amp/",
-      "publishedDateTime": "2023-12-22T02:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-from-ai-to-responsible-ai-the-future.md",
-      "title": "From AI to responsible AI – the future?",
-      "excerpt": "As artificial intelligence(AI) takes a wrong turn with the misuse of deepfakes and generative AI, among others, experts believe that responsible AI can aid in this. It is believed it not only fosters trust,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-18T094848.977.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/",
-      "publishedDateTime": "2023-12-22T02:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-3-robotics-stocks-to-automate-your-future-in-2024.md",
-      "title": "3 Robotics Stocks to Automate Your Future in 2024",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to forward-looking investment ideas, few are as relevant as",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-automate-your-future-in-2024-1032920850",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-automate-your-future-in-2024-1032920850",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-22T01:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

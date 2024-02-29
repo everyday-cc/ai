@@ -365,20 +365,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Jeff Bezos, Nvidia join OpenAI in funding humanoid robot startup"
-    excerpt: "Advt The AI robotics industry has been busy lately. Earlier this year, OpenAI-backed Norwegian robotics startup 1X Technologies AS raised $100 million. Vancouver-based Sanctuary AI is developing a humanoid robot called Phoenix. And Tesla Inc. is working on ..."
-    publishedDateTime: 2024-02-24T02:37:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup/107956623"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107956623,imgsize-1171641,width-1200,height=765,overlay-ettelecom/internet/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Microsoft invests in start-up Mistral, debuts AI principles"
     excerpt: "Microsoft president and vice chair Brad Smith outlined a series of principles for the responsible deployment of AI."
     publishedDateTime: 2024-02-26T21:06:00Z

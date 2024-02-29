@@ -35,6 +35,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Investment in fintech anticipated to have a soft start in 2024, finds KPMG’s Pulse of Fintech report"
+    excerpt: "Global fintech investment witnessed a slowdown as investors worldwide chose to preserve their funds. Pulse of Fintech H2’23, K"
+    publishedDateTime: 2024-02-29T01:09:00Z
+    webUrl: "https://menafn.com/1107911434/Investment-in-fintech-anticipated-to-have-a-soft-start-in-2024-finds-KPMGs-Pulse-of-Fintech-report"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 9
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/28/pr_56_535629dd_image_story.jpg"
+        width: 1024
+        height: 1536
+        isCached: true
 
 secured: "Swc6O/iP78oNf5BxkCNaB+Pub/Y4joPsYCgEC9zYp3/AgBU6nvAnR+lUipGwCb9ZDpM6CTAu+FRxHJfIhwzOYcANDcjS9nZKQeQuxMKKSQTREOkc4CJ44JtlrbsoWgakmOJnUN1OsON1JcEd8OiT8enA2a84RqweY7QhcR8NkTMwN+w5/TTbbIPEuNpM7tJ5ZsiKNnyFP3UnNIVlEl4g1OEWLMuB3Xhvu9L3+nRWa5BBVIghwr2FwObDKH6HDc3XFpzLW1zmBAX/0hslWxHo/uQvYi8VlcvDQklhcOSRrWn4vbGgmTykbPsNEH7dx/GMoKIcUaJyqXaU1jAs/3fFo3b8KFV0C9/tGJA/4PN8yHGnLrNYgXEW4xE/80s3mVDGHn4/25TGHynIaKpTylT3cH/5KrB+RtPErilgxcIQD/8lR+m+AC43OG0ANMSxSwPf0XHdbh3+nfje1/PQtTu394giBjKq4IMUU6MEucS5HUrnOp+xOjeu4xVK+Ddt5OOTJRYuvK9sWUfJGOFUEPzBbw==;1wDEmJWqkhK5nMc1EyF3zA=="
 ---

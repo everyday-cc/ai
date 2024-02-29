@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-29-kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality.md",
+      "title": "Kirin Sinha Shares How Generative AI Has Fueled Augmented Reality",
+      "excerpt": "Kirin Sinha, of Illumix, shares the advancements in artificial intelligence that have allowed augmented reality to become much more accessible to everyday consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/yolarobert1/2024/02/28/kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality/",
+      "originalUrl": "https://www.forbes.com/sites/yolarobert1/2024/02/28/kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfd54517391182538dba3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/yolarobert1/2024/02/28/kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yolarobert1/2024/02/28/kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality/amp/",
+      "publishedDateTime": "2024-02-29T00:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-hid-certify-health-and-cts-align-to-elevate-healthcare-with-facial-recognition.md",
       "title": "HID, CERTIFY Health, and CTS align to elevate healthcare with facial recognition",
       "excerpt": "Related To: HID Global AUSTIN, Texas, February 28, 2024 – HID has announced a collaborative self-service patient engagement and facial recognition offering designed to enhance healthcare operations and administer an improved patient service at every ...",
@@ -149,6 +200,57 @@
       ]
     },
     {
+      "path": "_news/2024-02-29-c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast.md",
+      "title": "C3.ai shares pop after company beats estimates, narrows annual revenue forecast",
+      "excerpt": "Software firm C3.ai on Wednesday posted better-than-expected quarterly results and narrowed its full-year revenue forecast range which was still ahead of Wall Street estimates, sending its shares up more than 14% in extended trading. The company also named Hitesh Lath as its chief financial officer, effective March 1, replacing Juho Parkkinen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107241946-1684255273555-sei.jpg?v=1694098121",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "publishedDateTime": "2024-02-28T21:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-the-us-department-of-defense-is-using-ml-algorithms-to-find-airstrike-targets.md",
       "title": "The US Department of Defense is using ML algorithms to find airstrike targets",
       "excerpt": "Since early February, the US Department of Defense has employed ML algorithms to identify targets for over 85 air strikes in Iraq and Syria. According to",
@@ -210,7 +312,7 @@
       "originalUrl": "https://reason.com/2024/02/28/apple-abandons-plans-for-driverless-electric-car-shifts-team-to-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -921,7 +1023,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1099,109 +1201,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-us-enterprise-ai-search-startup-glean-raises-200-mln-plans-hiring-spree.md",
-      "title": "US enterprise AI search startup Glean raises $200 mln, plans hiring spree",
-      "excerpt": "The Palo Alto, California-based startup said it has nearly quadrupled its annual recurring revenue in the past year, serving customers such as Sony Electronics and Databricks. \"Every CIO is trying to figure out the enterprise use cases of generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com",
-      "originalUrl": "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/53TKOLW2FVMNPG6EUUGMPCHD54.jpg",
-          "width": 6026,
-          "height": 4017,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T04:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-enkrypt-ai-raises-235m-to-build-a-visibility-and-security-layer-for-gen-ai.md",
-      "title": "Enkrypt AI raises $2.35M to build a visibility and security layer for Gen AI",
-      "excerpt": "Enkrypt AI stands apart by merging threat detection, privacy, and compliance into a comprehensive toolkit ensuring business adoption of LLMs",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/enkrypt-ai-raises-2-35m-to-build-a-visibility-and-security-layer-for-gen-ai-1033109926",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/enkrypt-ai-raises-2-35m-to-build-a-visibility-and-security-layer-for-gen-ai-1033109926",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1709032727885-0.png",
-          "width": 800,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T03:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms"
 type: article
 quality: 107
-heat: 437
+heat: 427
 published: true
 
 provider:
@@ -365,20 +365,6 @@ related:
       - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/24/e4ba9ee9a6ace9819ce589b5e8bea6e4babae8b29de4bd90e696afefbc88jeff20bezosefbc89e8a2abe78886e69699e585a9e5b9b4e5858de7b9b3e7a885efbc8ce5bc95e799bce786b1e8adb0e38082e6b39.jpg"
         width: 880
         height: 587
-        isCached: true
-  - title: "Jeff Bezos, Nvidia join OpenAI in funding humanoid robot startup"
-    excerpt: "Advt The AI robotics industry has been busy lately. Earlier this year, OpenAI-backed Norwegian robotics startup 1X Technologies AS raised $100 million. Vancouver-based Sanctuary AI is developing a humanoid robot called Phoenix. And Tesla Inc. is working on ..."
-    publishedDateTime: 2024-02-24T02:37:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup/107956623"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107956623,imgsize-1171641,width-1200,height=765,overlay-ettelecom/internet/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup.jpg"
-        width: 1200
-        height: 765
         isCached: true
   - title: "Microsoft invests in start-up Mistral, debuts AI principles"
     excerpt: "Microsoft president and vice chair Brad Smith outlined a series of principles for the responsible deployment of AI."

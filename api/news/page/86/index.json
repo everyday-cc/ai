@@ -2,6 +2,153 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2023-12-14-how-ai-is-impacting-society-and-shaping-the-future.md",
+      "title": "How AI Is Impacting Society And Shaping The Future",
+      "excerpt": "As the dawn of artificial intelligence (AI) transforms industries and societies, we've engaged with visionary founders who are leading the charge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657a5006c207ad19dd8da4dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1439,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/",
+      "publishedDateTime": "2023-12-14T00:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-leadership-next-uaes-minister-of-ai-he-omar-al-olama.md",
+      "title": "Leadership Next: UAE's Minister of AI, H.E. Omar Al Olama",
+      "excerpt": "The world's first Minister of Artificial Intelligence tells Alan Murray why it's essential to have a government role dedicated to AI.",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/leadership-next%3A-uae's-minister-of-ai%2C-h.e.-omar-al-olama/33cdf689-86ad-47f5-8e76-75c8dae0a619",
+      "originalUrl": "https://fortune.com/videos/watch/leadership-next%3A-uae's-minister-of-ai%2C-h.e.-omar-al-olama/33cdf689-86ad-47f5-8e76-75c8dae0a619",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/33cdf689-86ad-47f5-8e76-75c8dae0a619/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/leadership-next%3A-uae's-minister-of-ai%2C-h.e.-omar-al-olama/33cdf689-86ad-47f5-8e76-75c8dae0a619/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/leadership-next%3A-uae's-minister-of-ai%2C-h.e.-omar-al-olama/33cdf689-86ad-47f5-8e76-75c8dae0a619/amp",
+      "publishedDateTime": "2023-12-14T00:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-apple-silicon-m3-pro-competes-with-nvidia-rtx-4090-gpu-in-ai-benchmark-u.md",
+      "title": "Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]",
+      "excerpt": "In a recent test of Apple's MLX machine learning framework, a benchmark shows how the new Apple Silicon Macs compete with Nvidia's RTX 4090.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
+      "originalUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg",
+          "width": 1312,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
+      "publishedDateTime": "2023-12-14T00:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-futuristic-driverless-pods-could-ferry-people-to-hospital-from-bolton-town-centre.md",
       "title": "Futuristic driverless pods could ferry people to hospital from Bolton town centre",
       "excerpt": "Driverless pods could take people from ... Dromos say they will use artificial intelligence to ‘predict traffic volumes and patterns and develops alternative routings for the vehicles to allow ...",
@@ -1039,144 +1186,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-oracle-announces-the-general-availability-of-oracle-databaseazure.md",
-      "title": "Oracle Announces the General Availability of Oracle Database@Azure",
-      "excerpt": "Oracle database services running on Oracle Cloud Infrastructure are deployed directly in Microsoft Azure datacenters AUSTIN, Texas, Dec. 13, 2023",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/oracle-announces-the-general-availability-of-oracle-database-azure-1032896879",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/oracle-announces-the-general-availability-of-oracle-database-azure-1032896879",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T13:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available.md",
-      "title": "Microsoft and Oracle announce that Oracle Database@Azure is now generally available",
-      "excerpt": "We are excited to share that Oracle Database@Azure is generally available in the Azure United States East region, with more regions coming in 2024. You can now use Oracle database services running on Oracle Cloud Infrastructure (OCI) hardware deployed in Azure data centers. This streamlines the migration",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MSC24-India-business-Adobe-550638570-rgb-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-indonesia-to-regulate-ai-balancing-innovation-and-ethics.md",
-      "title": "Indonesia to regulate AI, balancing innovation and ethics",
-      "excerpt": "The Indonesian government will soon issue a regulation on the utilization of artificial intelligence (AI), Minister of Communication and Informatics Budi Arie",
-      "sourceUrl": null,
-      "webUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
-      "originalUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.antaranews.com/cache/800x533/2023/07/05/antarafoto-teknologi-kecerdasan-buatan-untuk-mengurai-kemacetan-jakarta-050723-riv-3.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
-      "cdnAmpWebUrl": "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
-      "publishedDateTime": "2023-12-13T12:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Antara News",
-        "domain": "antaranews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

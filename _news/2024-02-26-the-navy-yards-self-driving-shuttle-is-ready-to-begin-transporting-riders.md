@@ -7,7 +7,7 @@ originalUrl: "https://www.phillyvoice.com/navy-yard-self-driving-shuttle-south-p
 webUrl: "https://www.phillyvoice.com/navy-yard-self-driving-shuttle-south-philly-autonomous-vehicle/"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -19,68 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "Apple cancels self-driving EV project, to lay off workers: Report"
-    excerpt: "The tech giant also scaled back its vision for the self-driving electric vehicle. Initially, the iPhone maker intended to create an automobile with no steering wheel or pedals, allowing passengers to sit facing one another in a limousine-style vehicle."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report"
-    ampWebUrl: "https://glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report?amp=1"
+  - title: "Self-driving, zero-emission van to shuttle people around Philadelphia Navy Yard"
+    excerpt: "The zero-emissions van has been undergoing testing for the past year. The nine-seat, electric-powered van will run from 10 a.m. until 2 p.m. on weekdays."
+    publishedDateTime: 2024-02-27T12:53:00Z
+    webUrl: "https://6abc.com/navy-yard-self-driving-van-driverless-bus-zero-emissions-vehicles-philly-transit/14472492/"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 24
-  - title: "Geely’s EV brand Zeekr in self-driving push with redesigned 001"
-    excerpt: "Self-driving improvement: Zeekr integrated the revamp with roof-top lidar as standard, along with high-definition cameras and ultrasonic radar sensors around its perimeter, allowing the vehicle to spot objects 200 meters away, a combination intended to ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://technode.com/2024/02/28/geelys-ev-brand-zeekr-in-self-driving-push-with-redesigned-001/"
+      name: 6abc News
+      domain: 6abc.com
+    quality: 0
+  - title: "We rode PA’s first electric self-driving shuttle at the Philadelphia Navy Yard"
+    excerpt: "The self-driving shuttle felt like any other bus, stopping and starting smoothly (ok, maybe not like most other buses…) at all intersections. It automatically halts at each designated stop on its route, and automatically slows down if it senses vehicles ..."
+    publishedDateTime: 2024-02-28T06:46:00Z
+    webUrl: "https://technical.ly/software-development/pa-self-driving-shuttle-av-electric-philadelphia-navy-yard/"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 24
-    images:
-      - url: "https://technode.com/wp-content/uploads/2024/02/IMG_5391.jpg"
-        width: 2000
-        height: 1500
-        isCached: true
-  - title: "Robots and happy workers: Productivity surge helps explain US economy's surprising resilience"
-    excerpt: "Artificial intelligence, they note, is only beginning to penetrate ... Some workers supplanted by robots do often struggle to find new work and end up settling for lower pay. Yet history suggests that in the long run, technological improvements actually ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://journalstar.com/news/nation-world/business/economy/us-happy-workers-robots-productivity-economic-resilience-growth/article_b6087364-a49c-5772-8ad5-81244af17a89.html"
-    type: article
-    provider:
-      name: Lincoln Journal Star
-      domain: journalstar.com
-    quality: 23
-  - title: "Apple's self-driving EV car is not coming; project canceled, layoff likely: Report"
-    excerpt: "The Apple car project, at its peak, had a workforce of around 1,400 employees. Some of these employees will be reassigned to Apple's generative AI (GenAI) projects, as the company continues to explore the potential of artificial intelligence."
-    publishedDateTime: 2024-02-28T10:29:00Z
-    webUrl: "https://www.ibtimes.co.in/apples-self-driving-ev-car-not-coming-project-canceled-layoff-likely-report-866425"
-    type: article
-    provider:
-      name: IBTimes India
-      domain: ibtimes.co.in
-    quality: 18
-    images:
-      - url: "https://data1.ibtimes.co.in/en/full/598822/apple-logo-seen-inside-apple-store-palo-alto.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Apple car is dead: tech giant’s plans ‘Project Titan’ self-driving EV hit the buffers"
-    excerpt: "The 2,000-strong team that was working on the car codenamed Project Titan, which was widely rumoured to be a self-driving electric model, will reportedly be repurposed to work on AI, following some layoffs. It’s not known how many of the Apple car staff ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.autoexpress.co.uk/news/362435/apple-car-dead-tech-giants-plans-project-titan-self-driving-ev-hit-buffers"
-    type: article
-    provider:
-      name: AutoExpress
-      domain: autoexpress.co.uk
-    quality: 15
-    images:
-      - url: "https://media.autoexpress.co.uk/image/private/s--CZGnmfuq--/f_auto,t_primary-image-mobile@1/v1706194981/drivingelectric/2024-01/Apple%20Car_w2kvu7.jpg"
-        width: 375
-        height: 210
-        isCached: true
+      name: Technical
+      domain: technical.ly
+    quality: 0
 
 secured: "VtIRUB3z0v6AeJl61v+WTDEv0+btKnySO+76jHzAXV07SvnW77L9Fb3VddoamwZCcXxw2UkZVdKuMnQDkFsZxWadLlBKEz/HlUMqBQVtEVcVXX+oqBErL4Uccq0Ln7dxqJdcXllxli0CT7Mfi+1OCXBvvn2mE5gCh8YIklWY4p6PCxX3p3aLq5bMZLqKpF0zqr3q6mqM5MfGAzJTvnDGM2aPNtM0od9eqmI6Bes6TIO0xHPZqMKHDo8ayPd8B4srMBiHydU/dR2NIeXb5Y90U5QeoygV2A1EHhhoNVD9XsjON3FUqEVjPs1a6AF7gtpCpxgUfA8V/rdxqP0I9JnipkHQQyvnXHifgR1WTdTdJy09Iao609KnrUGRloKcz9SOqfBdSXx5tLbI+ZIpf9tPExw1n/OIDGz/8QpMILx+6i/8iFd6dVTzntYkF4GSWqEVfTGWwqU+m5foYXBkMI8AaorbBZqVnbN4JYbw6znLwgL7Ez9FLBC4Qln8+6J3r5JLK6ftPeDx7XHUBo9EhvKWmg==;ZGuzhnGdFdsW1GfWNQ/U6A=="
 ---

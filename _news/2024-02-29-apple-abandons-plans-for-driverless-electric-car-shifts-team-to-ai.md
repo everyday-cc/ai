@@ -7,7 +7,7 @@ originalUrl: "https://reason.com/2024/02/28/apple-abandons-plans-for-driverless-
 webUrl: "https://reason.com/2024/02/28/apple-abandons-plans-for-driverless-electric-car-shifts-team-to-ai/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -34,22 +34,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 34
-  - title: "Report: Apple Abandons Self-Driving Electric Vehicle Initiative, Plans Workforce Reductions"
-    excerpt: "Apple has reportedly terminated its self-driving electric car project permanently, leading to impending layoffs of 'hundreds of employees' within the division. The decision marks a significant shift for the tech giant,"
-    publishedDateTime: 2024-02-28T05:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/articleshow/108061356.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-108061317,width-1280,height-720,resizemode-4/108061317.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Apple Shifts Gears: Abandons Electric Car Efforts After A Decade; Pivots To Artificial Intelligence"
     excerpt: "Apple Inc has decided to pull the plug on its ambitious decade-long project to develop an electric car, codenamed Project Titan. The decision was disclosed internally on Tuesday, leaving nearly 2,000 employees associated with the project taken aback."
     publishedDateTime: 2024-02-28T04:51:00Z

@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-26-mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more.md",
+      "title": "Mark Zuckerberg's Asia tour: Ambani wedding, sword-making, AI chips and more",
+      "excerpt": "AI chips on agenda? South Korea is home to some of the world’s top tech companies, including Samsung Electronics and SK Hynix. These companies lead the global memory chip industry and are among the few worldwide that produce high-end memory chips ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/articleshow/108005960.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/articleshow/108005960.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-108007276,width-1280,height-720,resizemode-4/108007276.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/amp_articleshow/108005960.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/amp_articleshow/108005960.cms",
+      "publishedDateTime": "2024-02-26T08:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity.md",
+      "title": "How IBM is helping accelerate AI adoption and application centric connectivity",
+      "excerpt": "Three key challenges, and opportunities, to which we must all pay attention, should we expect our industry to remain healthy. \nThe post How IBM is helping accelerate AI adoption and application centric connectivity appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity/",
+      "originalUrl": "https://www.ibm.com/blog/how-ibm-is-helping-accelerate-ai-adoption-and-application-centric-connectivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-ai-chip-startup-deepx-nears-90-million-in-fresh-funding.md",
       "title": "AI chip startup DeepX nears $90 million in fresh funding",
       "excerpt": "AI chip startup DeepX Co. is close to raising 120 billion won ($90 million) in a funding round to accelerate production and bankroll global expansion, according to people familiar with the matter. The South Korean firm has secured 60 billion won from ...",
@@ -584,49 +670,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-26-these-major-companies-are-using-ai-to-snoop-on-employees-online-chats.md",
-      "title": "These major companies are using AI to snoop on employees’ online chats",
-      "excerpt": "Mobile, Chevron and Starbucks, are now reportedly monitoring employee conversations on messaging apps using software from a startup A.I. company",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/",
-      "originalUrl": "https://nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/02/photo-illustration-slack-logo-business-7934528.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/02/25/tech/these-major-companies-are-using-ai-to-snoop-on-employees-online-chats/amp/",
-      "publishedDateTime": "2024-02-25T18:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2024-02-26-8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing.md",
       "title": "8 TED Talks To Help You Prepare For The Era Of AI-Driven Spatial Computing",
       "excerpt": "The Humane AI Pin might not be the device we all use ... Thousands of TED Talks have inspired and sparked ideas and imagination. These TED Talks are the start of a journey to understand Spatial Computing, how it works, and why it's necessary.",
@@ -843,7 +886,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 321,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -1044,7 +1087,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 437,
+      "heat": 427,
       "tags": null,
       "images": [
         {
@@ -1181,58 +1224,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai.md",
-      "title": "As Google Retracts Gemini, Deepak Chopra Reflects On Morality In AI",
-      "excerpt": "No algorithm is morally agnostic. The latest controversy over Google’s Gemini, reiterates that. A conversation with Deepak Chopra on morality, AI and consciousness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65da18ddc87c42bb00cf1eb9/0x0.jpg?format=jpg&crop=2495,1405,x0,y399,safe&height=900&width=1600&fit=bounds",
-          "width": 1598,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/amp/",
-      "publishedDateTime": "2024-02-24T16:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

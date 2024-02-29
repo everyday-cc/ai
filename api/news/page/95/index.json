@@ -2,6 +2,118 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2023-12-07-news-tagged-with-computer-vision.md",
+      "title": "News tagged with computer vision",
+      "excerpt": "Using an approach based on computer vision technology, researchers can work back from COVID-19 mortality data to see how infection rates changed on the day a lockdown or similar measure was ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/tags/computer+vision/",
+      "originalUrl": "https://medicalxpress.com/tags/computer+vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-social-robots-leave-students-wanting-education-researchers-find.md",
+      "title": "Social robots leave students wanting, education researchers find",
+      "excerpt": "Social robots, artificial intelligence (AI) systems designed to interact with humans, are marketed as capable of fulfilling certain human roles. Elementary and middle school students who ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-12-social-robots-students.html",
+      "originalUrl": "https://phys.org/news/2023-12-social-robots-students.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-training-algorithm-breaks-barriers-to-deep-physical-neural-networks.md",
+      "title": "Training algorithm breaks barriers to deep physical neural networks",
+      "excerpt": "Mar. 22, 2021 — Researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231207161444.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231207161444.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-guideline-unveiled-to-make-public-use-of-autonomous-driving-vehicles-safer.md",
       "title": "Guideline unveiled to make public use of autonomous driving vehicles safer",
       "excerpt": "The guideline, issued on Tuesday by the Ministry of Transport, applies to autonomous vehicles for both passenger and freight transportation services such as taxis, buses and trucks. It covers vehicles with various degrees of automation and mandates that they carry at least one driver or security inspector.",
@@ -1045,135 +1157,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-automation-anywhere-announces-collaboration-agreement-with-aws-to-expand-generative-ai-solution-availability-for-customers.md",
-      "title": "Automation Anywhere Announces Collaboration Agreement with AWS to Expand Generative AI Solution Availability for Customers",
-      "excerpt": "In June 2023, Automation Anywhere announced participation in the Amazon SageMaker Jumpstart program, a developer portal that provides pre-trained, open-source models, algorithms, and solutions for a wide range of problem types to help companies get started ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswire.ca/news-releases/automation-anywhere-announces-collaboration-agreement-with-aws-to-expand-generative-ai-solution-availability-for-customers-860371961.html",
-      "originalUrl": "https://www.newswire.ca/news-releases/automation-anywhere-announces-collaboration-agreement-with-aws-to-expand-generative-ai-solution-availability-for-customers-860371961.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/541440/Automation_Anywhere_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-8-best-artificial-intelligence-etfs-to-invest-in.md",
-      "title": "8 Best Artificial Intelligence ETFs To Invest In",
-      "excerpt": "Global X Artificial Intelligence and Technology ETF (AIQ) Global X Robotics and Artificial Intelligence ETF (BOTZ) Global X Artificial Intelligence and Technology ETF (Nasdaq: AIQ) has returned 47 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/8-best-artificial-intelligence-etfs-205332104.html",
-      "originalUrl": "https://www.aol.com/8-best-artificial-intelligence-etfs-205332104.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/dGRN4QGQPzon723VUNgqLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/8b9eb79f9593d38fcbba2c62865b289d",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T14:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-wimi-developed-deep-reinforcement-learning-based-task-scheduling-algorithm-in-cloud-computing.md",
-      "title": "WiMi Developed Deep Reinforcement Learning-Based Task Scheduling Algorithm in Cloud Computing",
-      "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that it developed a deep reinforcement learning-based task scheduling algorithm in cloud computing to improve the performance and resource utilization of cloud computing systems.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-developed-deep-reinforcement-learning-based-task-scheduling-algorithm-in-cloud-computing-1032877874",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-developed-deep-reinforcement-learning-based-task-scheduling-algorithm-in-cloud-computing-1032877874",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -100,20 +100,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 64
-  - title: "Bezos, Nvidia, and OpenAI back humanoid robot startup Figure AI"
-    excerpt: "Figure AI is in the process of securing approximately $675 million in a funding round, reflecting a pre-money valuation of around $2 billion."
-    publishedDateTime: 2024-02-24T01:18:00Z
-    webUrl: "https://www.republicworld.com/tech/artificial-intelligence/bezos-nvidia-and-openai-back-humanoid-robot-startup-figure-ai/"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 54
-    images:
-      - url: "https://img.republicworld.com/rimages/NEW-DSCF1820Desktop10923A3-170875733297316_9.webp"
-        width: 1779
-        height: 1001
-        isCached: true
   - title: "How the AI frenzy put a rocket under chip maker Nvidia"
     excerpt: "Nvidia, the maker of graphics processing units (GPU) revealed last week that it earned $30 billion in annual profit — sales doubled to $61 billion. Nvidia’s stock surged 16.4 per cent to $785.38, valuing the company at $1.9 trillion. The only companies ..."
     publishedDateTime: 2024-02-25T00:19:00Z

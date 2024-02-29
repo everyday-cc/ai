@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-28-apple-unplugs-self-driving-electric-car-project-reports-say.md",
+      "title": "Apple unplugs self-driving electric car project, reports say",
+      "excerpt": "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-68420817",
+      "originalUrl": "https://www.bbc.com/news/business-68420817",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/7ED1/production/_132756423_gettyimages-2009083580.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-68420817.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68420817.amp",
+      "publishedDateTime": "2024-02-28T06:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-us-enterprise-ai-search-startup-glean-raises-200-mln-plans-hiring-spree.md",
+      "title": "US enterprise AI search startup Glean raises $200 mln, plans hiring spree",
+      "excerpt": "The Palo Alto, California-based startup said it has nearly quadrupled its annual recurring revenue in the past year, serving customers such as Sony Electronics and Databricks. \"Every CIO is trying to figure out the enterprise use cases of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com",
+      "originalUrl": "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/53TKOLW2FVMNPG6EUUGMPCHD54.jpg",
+          "width": 6026,
+          "height": 4017,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T04:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-enkrypt-ai-raises-235m-to-build-a-visibility-and-security-layer-for-gen-ai.md",
+      "title": "Enkrypt AI raises $2.35M to build a visibility and security layer for Gen AI",
+      "excerpt": "Enkrypt AI stands apart by merging threat detection, privacy, and compliance into a comprehensive toolkit ensuring business adoption of LLMs",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/enkrypt-ai-raises-2-35m-to-build-a-visibility-and-security-layer-for-gen-ai-1033109926",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/enkrypt-ai-raises-2-35m-to-build-a-visibility-and-security-layer-for-gen-ai-1033109926",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1709032727885-0.png",
+          "width": 800,
+          "height": 569,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T03:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.md",
       "title": "Streamline PyTorch Machine Learning Workflows With Cloudian And AWS Hybrid Edge",
       "excerpt": "Cloudian contributed enhancements to AWS Labs’ open-source S3-Connector-for-PyTorch. The enhancements enable PyTorch ML algorithms to access data in Cloudian’s HyperStore object storage system via the AWS S3 API. The enhanced S3 connector is available from the GitHub repositories of AWS Labs and Cloudian.",
@@ -185,58 +340,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-28-apple-kills-its-electric-car-project.md",
-      "title": "Apple Kills Its Electric Car Project",
-      "excerpt": "The car, which Apple spent billions of dollars researching, had been intended as a rival to Tesla’s E.V.s, which include autonomous driving features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/27/multimedia/27apple-car-ltgk/27apple-car-ltgk-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T20:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-28-inside-the-rocky-marriage-of-hedge-funds-and-top-ai-talent.md",
       "title": "Inside the rocky marriage of hedge funds and top AI talent",
       "excerpt": "But it attracted top talent from tech giants like Microsoft and Uber. The AI research team operated in Seattle and was led by Li Deng, who was poached after spending 17 years at Microsoft, where he led AI research. The team won over stock-picking portfolio ...",
@@ -297,7 +400,7 @@
       "originalUrl": "https://www.techrepublic.com/article/mwc-2024-trends-roundup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1116,93 +1219,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-alibaba-staffer-offers-a-glimpse-into-building-llms-in-china.md",
-      "title": "Alibaba staffer offers a glimpse into building LLMs in China",
-      "excerpt": "Binyuan Hui, a natural language processing researcher at Alibaba’s large language model team Qwen, shared his daily schedule on X, mirroring a post by OpenAI researcher Jason Wei that went viral recently. The parallel glimpse into their typical day ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/",
-      "originalUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1356364303.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/amp/",
-      "publishedDateTime": "2024-02-27T10:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips.md",
-      "title": "Apple and Tesla veterans plan to help Japan design advanced AI chips",
-      "excerpt": "Tenstorrent, led by Tesla Inc. and Apple Inc. veteran Jim Keller, will license its design for part of Japan's artificial intelligence accelerator and also co-design the overall chip, the two sides ann",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
-      "originalUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
-      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
-      "publishedDateTime": "2024-02-27T05:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

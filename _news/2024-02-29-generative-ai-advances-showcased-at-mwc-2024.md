@@ -69,20 +69,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Generative AI Advances Showcased at MWC 2024"
-    excerpt: "The company has introduced an array of applications driven by generative AI and deep learning, including enterprise services and smart living environments. These applications are directly aimed at fulfilling the specific requirements of businesses and consumers."
-    publishedDateTime: 2024-02-27T16:47:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9969068.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "6NltrfdnSXNFYP4QvGGOjer4Ejv7am5D2RBTQA2RUBKRC2qX3HqmLI5939/SSThwto/iSqXuBC1We/+ZD49K1dSrWDw3l5+vCIuFEqA25awboL78b4WuD1rscgeZHcchS77Wx5DwSgojI+m4n3yZ1bmYtU+5UdpRmnwLpk4SdusrZXrimGDnZUQMTUOjzgKIq+hlQLiyWlCERUqFbmPWTz6M3dEtJaUqlp549wYSWCqWIlj3lmrVMfCPfKxrHHg36nlRMdHDaM7aulzRzQrUAjlecmtsVtjHR8gmilGfqqqk2xTpM7G5N5Xxp7l0NL6xHbDJdaK17Lnv86jtvG3pwiWQIDDugfV+J88w552aYV4=;UNGR0r65Z3v7rnXx22xkRw=="
 ---

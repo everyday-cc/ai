@@ -2,6 +2,135 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2024-01-15-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle.md",
+      "title": "Fintech Broadridge Financial Solutions Introduces OpsGPT, a Capability for Transforming Operations Across Post-Trade Lifecycle",
+      "excerpt": "Global Fintech Broadridge Financial Solutions, Inc. (NYSE:BR) announced the launch of OpsGPT, a new capability for operations users, analysts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2024/01/220287-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle/",
+      "originalUrl": "https://www.crowdfundinsider.com/2024/01/220287-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/New-York-Stock-Exchange-1939-trade.jpg",
+          "width": 800,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T21:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement.md",
+      "title": "Fintech Professional Shares Feedback After Testing Digital Bank bunq’s AI Features, which Need A Lot of Improvement",
+      "excerpt": "European Fintech platform bunq, a Dutch digital banking platform, has started describing itself as \"the first AI-powered bank in Europe.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/",
+      "originalUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/amp/",
+      "publishedDateTime": "2024-01-14T21:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-state-of-the-art-ai-supported-telemedicine-mobile-clinic-launched-for-remote-hilly-areas-in-udhampur.md",
+      "title": "State-of-the-art AI-supported Telemedicine Mobile Clinic launched for remote hilly areas in Udhampur",
+      "excerpt": "Science and Technology Jitendra Singh on Sunday launched state-of-the-art, Artificial Intelligence (AI) supported T",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaysiasun.com/news/274094994/state-of-the-art-ai-supported-telemedicine-mobile-clinic-launched-for-remote-hilly-areas-in-udhampur",
+      "originalUrl": "https://www.malaysiasun.com/news/274094994/state-of-the-art-ai-supported-telemedicine-mobile-clinic-launched-for-remote-hilly-areas-in-udhampur",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1705252485.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T16:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-15-why-on-demand-video-learning-is-limited-and-what-to-pursue-instead.md",
       "title": "Why On-Demand Video Learning Is Limited And What To Pursue Instead",
       "excerpt": "Asynchronous learning is flexible, yet it comes with challenges. Learners need access to experts and ways to apply learning. Blended learning is the key.",
@@ -938,136 +1067,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-facial-recognition-could-play-key-role-in-workplace-safety-for-football-players.md",
-      "title": "Facial recognition could play key role in workplace safety for football players",
-      "excerpt": "A survey of football player unions found that fan violence is a growing concern, and tech interventions like facial recognition could help keep players safe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202401/facial-recognition-could-play-key-role-in-workplace-safety-for-football-players",
-      "originalUrl": "https://www.biometricupdate.com/202401/facial-recognition-could-play-key-role-in-workplace-safety-for-football-players",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T21:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages.md",
-      "title": "How Data Extraction Artificial Intelligence Is Helping to Alleviate Health Care Worker Burnout, Staffing Shortages",
-      "excerpt": "Bevey Miner, executive vice president of health care strategy and policy, Consensus Cloud Solutions, shares how extraction artificial intelligence is helping train machine learning models to recognize and extract information from documents,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ajmc.com/view/how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages",
-      "originalUrl": "https://www.ajmc.com/view/how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/ajmc/80f499f29719b6efae44ea2ef1e50fcc3f71e0c2-2880x1526.png?fit=crop&auto=format",
-          "width": 2880,
-          "height": 1526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T21:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-ces-2024-everything-revealed-so-far-from-nvidia-and-sony-to-the-weirdest-reveals-and-helpful-ai.md",
-      "title": "CES 2024: Everything revealed so far, from Nvidia and Sony to the weirdest reveals and helpful AI",
-      "excerpt": "CES 2024 has begun in Las Vegas, and we're keeping track of the biggest reveals from press day as a wave of AI and hardware news is revealed.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/",
-      "originalUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1246002029.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/amp/",
-      "publishedDateTime": "2024-01-12T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

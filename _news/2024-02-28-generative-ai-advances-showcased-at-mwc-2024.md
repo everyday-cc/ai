@@ -25,63 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin"
-    excerpt: "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity."
-    publishedDateTime: 2024-02-27T19:12:00Z
-    webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
+  - title: "Kirin Sinha Shares How Generative AI Has Fueled Augmented Reality"
+    excerpt: "Kirin Sinha, of Illumix, shares the advancements in artificial intelligence that have allowed augmented reality to become much more accessible to everyday consumers."
+    publishedDateTime: 2024-02-29T00:56:00Z
+    webUrl: "https://www.forbes.com/sites/yolarobert1/2024/02/28/kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality/"
+    ampWebUrl: "https://www.forbes.com/sites/yolarobert1/2024/02/28/kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yolarobert1/2024/02/28/kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/humane-ai-pin-fig-a-feb-24.png"
-        width: 1400
-        height: 788
-        isCached: true
-  - title: "Cyber Insights 2024: Artificial Intelligence"
-    excerpt: "AI's progress in 2024 and beyond: 2023 was a year of hype, 2024 brings the beginning of AI reality, and 2025 likely to be its delivery."
-    publishedDateTime: 2024-02-26T16:42:00Z
-    webUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/"
-    ampWebUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 59
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2024/02/Elia-Zaitsev-Crowdstrike.jpeg"
-        width: 258
-        height: 323
-        isCached: true
-  - title: "MWC 2024: Smartphone makers bet on AI to revive sales"
-    excerpt: "South Korean giant Samsung’s stand at the MWC prominently plugged its new premium AI-powered Galaxy S24 range, which allow users to make or receive a call in a language they don’t speak and then receive a live translation of the call both audibly and ..."
-    publishedDateTime: 2024-02-27T05:42:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/27/mwc-2024-smartphone-makers-bet-on-ai-to-revive-sales"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 56
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2564047.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "Generative AI Advances Showcased at MWC 2024"
-    excerpt: "MWC Barcelona, held this year on February 26-29, is one of the global telecommunications sector's pre-eminent expos. It attracts"
-    publishedDateTime: 2024-02-28T16:20:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/generative-ai-advances-showcased-at-mwc-2024-302074406.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2350224/iFLYTEK_MWC.jpg?p=facebook"
-        width: 1600
-        height: 838
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65dfd54517391182538dba3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
 
 secured: "JPbKLzAEZJhMVv44yskOaKW8JDW82mC/NbJGUdUedf0L/nWOe+u9awvAVgaBTd4Aslk3gRm4Fj50jmk1lUAPucq/hwHWNrb+ch6aCfJGHJf5DjPXaehyyunuxn+BMsWYZgRJFU1f3VwGf2F8ZhCVFYtoD+/B+NqOJR/W0ITw6bSDBqF9Kk6diCYNAl56viAx3VFmW5cKtahXtqA4ZQvhuEeLkHuL57RrgRXF4rAloomUazurLpu/hVBEralAgy+GnlGKE/DHme+X496J4c2hy8ahdrSYzsneCoEQmq99pZSrgxwKK/XkI/Ngn01iAdwyb0zM76gy+lC3GqM7AopF4wI852UKrBeV14tUPM26EDM=;pyz7jfKutW+OE8/ySZIHHQ=="

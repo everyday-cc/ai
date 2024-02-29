@@ -2,6 +2,143 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2023-11-20-thanks-to-ai-robots-are-aware-of-their-surroundings.md",
+      "title": "Thanks to AI, Robots Are Aware of Their Surroundings",
+      "excerpt": "Now we’re looking at machine learning and AI algorithms that teach the robot new tasks ... Not a lot the companies are doing that yet, but a lot of start-ups are developing it.” Robots have taken over manufacturing and warehouses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings",
+      "originalUrl": "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/Feature_106.jpg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-the-minds-eye-of-a-neural-network-system.md",
+      "title": "The mind’s eye of a neural network system",
+      "excerpt": "In the background of image recognition software that can ID our friends on social media and wildflowers in our yard are neural networks, a type of artificial intelligence inspired by how own our brains process data. While neural networks sprint through ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.purdue.edu/research/features/stories/the-minds-eye-of-a-neural-network-system/",
+      "originalUrl": "https://www.purdue.edu/research/features/stories/the-minds-eye-of-a-neural-network-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.purdue.edu/research/features/wp-content/uploads/2023/11/gleich-neuralnetworkLO.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Purdue University",
+        "domain": "purdue.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-how-ai-can-be-leveraged-for-diversity-and-inclusion.md",
+      "title": "How AI Can Be Leveraged For Diversity And Inclusion",
+      "excerpt": "In the modern workplace, diversity and inclusion have become more than just buzzwords—they are crucial to fostering innovation, creativity, and a welcoming environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
+      "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655a7b77d4a3a31792aee594/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/",
+      "publishedDateTime": "2023-11-19T20:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-escaped-llama-safely-corralled-by-opp-after-wandering-onto-gta-highway.md",
       "title": "Escaped llama safely corralled by OPP after wandering onto GTA highway",
       "excerpt": "OPP and MTO were able to safely corral and remove a llama that had wandered into live lanes of traffic on Highway 400.",

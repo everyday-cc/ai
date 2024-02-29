@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-09-artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch.md",
+      "title": "Artificial Intelligence: OurCrowd's 20 Verticals For Investors To Watch",
+      "excerpt": "AI seems to be the world’s fastest-growing investment sector. The rush of interest in ChatGPT and similar generative AI platforms has triggered a global wave of funding for the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
+      "originalUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/01/09/screenshot_2024-01-09_at_6.58.18_pm.png?width=1200&height=800&fit=crop",
+          "width": 668,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36555269",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36555269",
+      "publishedDateTime": "2024-01-09T12:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-slow-and-steady-waymo-is-winning-the-self-driving-race.md",
       "title": "Slow-and-Steady Waymo Is Winning the Self-Driving Race",
       "excerpt": "That Waymo now stands ahead of its competitors should serve as a lesson to companies rushing forward with artificial intelligence: A little caution can pay off.",
@@ -1314,51 +1357,6 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai.md",
-      "title": "Augmentive Artificial Intelligence: Rommell Martínez on Valmiz™, Multi-Agent, Human-Centric AI",
-      "excerpt": "A Novel Multi-Agent Human-Centric Approach By: Dawn Zoldi (Colonel USAF Ret.) ASTN Group™, creators of the Valmiz™ Augmentive Artificial Intelligence (AAI) recently cap",
-      "sourceUrl": null,
-      "webUrl": "https://dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/",
-      "originalUrl": "https://dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dronelife.com/wp-content/uploads/2023/12/Artificial-Intelligence-e1703017244404.jpg",
-          "width": 612,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/amp/",
-      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/amp/",
-      "publishedDateTime": "2023-12-19T19:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dronelife",
-        "domain": "dronelife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AI Ethics"
       ]
     }
   ],

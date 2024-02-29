@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Investment in fintech anticipated to have a soft start in 2024, finds KPMG’s Pulse of Fintech report"
+    excerpt: "Global fintech investment witnessed a slowdown as investors worldwide chose to preserve their funds. Pulse of Fintech H2’23, K"
+    publishedDateTime: 2024-02-29T01:09:00Z
+    webUrl: "https://menafn.com/1107911434/Investment-in-fintech-anticipated-to-have-a-soft-start-in-2024-finds-KPMGs-Pulse-of-Fintech-report"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 9
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/28/pr_56_535629dd_image_story.jpg"
+        width: 1024
+        height: 1536
+        isCached: true
   - title: "Investment in fintech anticipated to have a soft start in 2024"
     excerpt: "Given the ongoing regulatory changes and ambitious net zero commitments displayed by governments and businesses, it is likely that ESG-focused fintech solutions will chart an upward trend heading into 2024. Moreover, investor interest in AI continued to ..."
     publishedDateTime: 2024-02-27T00:00:00Z
