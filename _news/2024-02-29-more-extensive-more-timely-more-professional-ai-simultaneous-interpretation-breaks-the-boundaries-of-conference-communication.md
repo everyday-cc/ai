@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 671
         isCached: true
-  - title: "Bristol Scientists Turbocharge Artificial Intelligence in Revolutionary £80 Million National Initiative"
-    excerpt: "Leading mathematicians, engineers and computer scientists at the University of Bristol have joined a new national mission to realise this potential, taking AI applications to uncharted heights in various settings,"
-    publishedDateTime: 2024-02-24T05:13:00Z
-    webUrl: "https://indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
-    ampWebUrl: "https://indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 43
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2024/02/AI-stock-image-article.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "The Program-Level AI Conversations We Should Be Having"
     excerpt: "Affirm their existing program-level learning outcomes and determine if a generative AI-specific outcome is needed. For example, a department might decide to revise their ethics-related program-level learning outcome to reflect a commitment to the ethical ..."
     publishedDateTime: 2024-02-28T00:00:00Z

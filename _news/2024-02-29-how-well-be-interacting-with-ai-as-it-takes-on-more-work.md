@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
       domain: geeky-gadgets.com
     quality: 19
 
-secured: "Ja+ttZWKZqYfi7o+zZIqi6y96cyTrtI8oPPnHjKzC1WSpdVgVl3kcW5P/y3pxMo1OQ665KIrppxFnwdPZ4LXgD4DfMlid755zquK/LidmO4nFKr5MFUGJpgwM3NfYr5d8kl+DdGZDcD05zUNaBFYYPrrN0FumgQXSDSKWsueLTwjjjKzbdFLoIoOc3Y3rLgDnKxkrH/LE4w86cwW12VIZFf1qS4ya8s61yE+KRSP7i0KTkawt2kQ6DIzzdgtKrABH0W/jtJbpSu/JBnP+czvuJZailHc4dCzG/KuNH/7A8qFyOoJxNlKglUjfez3qFqArNylO0zqTdSMyNokeHuZ8hi+2c4RmpMiafNj5/Zqdv0=;OiPilBv3T6ljoj9IdKk4MA=="
+secured: "2MEr6NsfdNfIE2wA/O8d3PSKDvvjEbPipPtL0VITr7XRUNqt5Gca6o4ABOvBpVwQAlq/RpqNAva9RgTxvVsNRHEkQ5BRcXavC/Hh6+TIUSyARHO7uDPbcdY6GAF0DVp/0DdXGyP3KmTBHQBQwI9adfbbRrCr7Fh0I02kWlX0A8+9W018mpOinEPzjprYbYeksN3XnL+nzyh1VKdmuAxlqz0yua8LXiYITBPvCiShTITuvgLG0RFC/qUkAQMYIMG2u+2YeXvCynZQyl5Y/J/mQ5H2MrNUkKz1Kxi62iyukvNGDPhDA2l3NzoETsejuGFu2UVwkbmNqvpBEE+9jvquW/CQOclV+2H4Vhq0C6QRdLCCo8LTRaE60d8mx3cPSsIiE89ZwP1hFS2c7MY/wmQkA2POkfKqGvKrNwvcch9ARA3p8DYM6GTiNZoiyZ5PdD5g1whTXbH8HLHFwyPiAERauHkSTzbfLwCsiS/36dVK+LX6fEebwzjUQQR9oqKHN9n+B9++cyOTavrkjU3L6QcYIQ==;c9qV2bATLV7x73e+7DcxWA=="
 ---
 

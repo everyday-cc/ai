@@ -117,6 +117,20 @@ related:
         width: 1241
         height: 779
         isCached: true
+  - title: "Microsoft partners with OpenAI-rival Mistral for AI models, drawing EU scrutiny"
+    excerpt: "On Monday, Microsoft announced plans to offer AI models from Mistral through its Azure cloud computing platform, which came in conjunction with a 15 million euro non-equity investment in the French firm, which is often seen as a European rival to OpenAI. Since then, the investment deal has faced scrutiny from EU regulators."
+    publishedDateTime: 2024-02-28T20:48:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/02/microsoft-faces-scrutiny-from-eu-after-partnership-with-openai-rival-mistral/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 80
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/microsoft_france_hq-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Microsoft Partners With OpenAI's French Rival Mistral to Make Its AI Models Available on Azure"
     excerpt: "The multi-year deal signals Microsoft's efforts to offer a variety of AI models beyond its biggest bet in OpenAI."
     publishedDateTime: 2024-02-27T09:49:00Z
@@ -132,22 +146,6 @@ related:
       - url: "https://i.gadgets360cdn.com/large/microsoft_ai_reuters_1689769738584.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup"
-    excerpt: "Apart from Jeff Bezos and Nvidia, other technology companies are involved as well. Intel Corp.’s venture capital arm is pouring in $25 million, and LG Innotek is providing $8.5 million. Samsung’s investment group,"
-    publishedDateTime: 2024-02-24T06:19:00Z
-    webUrl: "https://www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-19126871.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-19126871.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/jeff-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup-19126871.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 74
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/12/technology-3389904-1280-1019x573.jpg"
-        width: 1019
-        height: 573
         isCached: true
   - title: "Microsoft invests in Europe's Mistral AI to expand beyond OpenAI"
     excerpt: "Under the deal, Mistral's large language models (LLM) — the technology behind generative AI products — will be available on Microsoft's Azure cloud computing platform, becoming only the second company to host its LLM on the platform after OpenAI."
@@ -406,20 +404,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0414red_DecMaker.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Bezos and Nvidia Partner with OpenAI to Fund Humanoid Robot Startup: Bloomberg"
-    excerpt: "In a bold move signaling a profound shift in the tech landscape, industry titans Amazon.com (AMZN.O), Nvidia (NVDA.O), and others are channelling significant investments into Figure AI, a startup at the forefront of developing human-like robots."
-    publishedDateTime: 2024-02-24T05:51:00Z
-    webUrl: "https://www.goodreturns.in/news/bezos-and-nvidia-partner-with-openai-to-fund-humanoid-robot-startup-bloomberg-1332525.html"
-    type: article
-    provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 50
-    images:
-      - url: "https://www.goodreturns.in/img/2024/02/ai-human12-1708753262.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Nvidia, OpenAI, Microsoft, Other Tech Titans Investing In Humanoid Robot Startup"
     excerpt: "What do Intel, LG, Nvidia, Microsoft, Samsung, and OpenAI currently have in common? They’re all taking big bets on Figure AI, a startup focused entirely on building and deploying humanoid robots. The California-based company has reportedly secured $675 million in funding, having attracted some of the most powerful entities within the tech industry."

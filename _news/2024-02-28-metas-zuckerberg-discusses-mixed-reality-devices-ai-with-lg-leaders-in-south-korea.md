@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Yoon, Zuckerberg discuss AI, digital ecosystem in Seoul"
+    excerpt: "(Presidential Office) President Yoon Suk Yeol met with Mark Zuckerberg, CEO of Meta, formerly Facebook, on Thursday to discuss ways to enhance cooperation in cutting-edge technologies, especially artificial intelligence, upon the US tech giant’s request."
+    publishedDateTime: 2024-02-29T06:04:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20240229050610"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 39
+    images:
+      - url: "https://res.heraldm.com/content/image/2024/02/29/20240229050611_0.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Zuckerberg meets LG, Samsung chiefs in Seoul as Meta ramps up AI ambitions"
     excerpt: "Meta CEO Mark Zuckerberg has discussed cooperation on extended reality devices with LG Electronics executives as part of his visit to South Korea that highlights Meta’s ambitions in artificial intelligence."
     publishedDateTime: 2024-02-28T10:05:00Z

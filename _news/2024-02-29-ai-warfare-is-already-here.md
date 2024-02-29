@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/"
 webUrl: "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -37,6 +37,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/custom/image/5400d872-b3f6-11eb-b554-53386ef890f2.png?resize=600%2C314"
         width: 600
         height: 314
+        isCached: true
+  - title: "Artificial intelligence: The future is already here, and businesses will have to play catch-up"
+    excerpt: "Markham Nolan, a former journalist and co-founder of Noan, which helps companies utilise artificial intelligence, said AI was “a time ... was showcasing Swedish company Furhat’s social robot. Looking a bit like a bust from Will Smith’s I, Robot ..."
+    publishedDateTime: 2024-02-29T05:00:00Z
+    webUrl: "https://www.irishtimes.com/technology/2024/02/29/artificial-intelligence-the-future-is-already-here-and-businesses-will-have-to-play-catch-up/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 27
+    images:
+      - url: "https://www.irishtimes.com/resizer/mSDlpiYpLMXWuQ9ruc0_H27suu4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/SSMGYKMJFULJMUM6CCNQYKI25Y.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "BOvl1mrSwmWoB3riIv/24TurnqZ9qcVjtaMZ/ZvHDc7oyefxiTyJyw82WQPzirPsIU0cNOqw0EdxhHDcLUeax8DQO1iUd7FQUWsgYlAUBEeLzFJ53DgVKz3/KJdfEuU7sv/Cjb1y/fBBLAZfMjJKa98zbIal54x9p4lCb6f0tqHtEhlpGiRmKQhrUvNEyBWCFd8gKbqmJG7vCYfQzmIHdZy1PTYNX/ezS348BCzaLyrqYje7xWxZn0v53Eebf1WUE1TBGSd4oqjrmqxyQB7i3Imqj+C/F7DXfvu20lPYS8ftYCQHbz7fQiqWrXtldxIqlvwVnkHaEKCXM1k04XjbAZ+S8AhaAULkYC0z47qVfSsmMi5Ufv1G6fF0gMeCQkVk4UJBtnH/NgWMNwArkqMxZ5gq6Z589OQ3kr+2JV22XMOhVYL920H1pD3sxGJiju8iHO0rnjZFAvhKMWAPkYrz2VB+B+TTHGicHiIUQDIuYualkfyuAzqedlRei1VYw7V5Q5r3XJwIZp8yFXF7rEMEgA==;hWo2rPUnY3tEMgD4bNVIuA=="

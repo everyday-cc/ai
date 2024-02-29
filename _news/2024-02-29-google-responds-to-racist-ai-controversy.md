@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/274140864/google-responds-to-r
 webUrl: "https://www.bignewsnetwork.com/news/274140864/google-responds-to-racist-ai-controversy"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google warned over AI tool response on Modi"
-    excerpt: "Google's AI tool Gemini's response to a question around Prime Minister Narendra Modi is in direct violation of IT rules as well as several provisions of the criminal code, minister"
-    publishedDateTime: 2024-02-24T06:58:00Z
-    webUrl: "https://www.thehansindia.com/news/national/google-warned-over-ai-tool-response-on-modi-860597"
-    ampWebUrl: "https://www.thehansindia.com/amp/news/national/google-warned-over-ai-tool-response-on-modi-860597"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/national/google-warned-over-ai-tool-response-on-modi-860597"
+  - title: "Google Pauses AI Image Creation Amidst Uproar Over Racially Diverse Historical Depictions"
+    excerpt: "Google Gemini halts image generation due to controversial, culturally insensitive depictions of historical figures."
+    publishedDateTime: 2024-02-25T00:53:00Z
+    webUrl: "https://hoodline.com/2024/02/google-pauses-ai-image-creation-amidst-uproar-over-racially-diverse-historical-depictions/"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
+      name: Hoodline
+      domain: hoodline.com
+    quality: 30
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/09/05/1377954-rajeev-chandrasekhar.jpg"
+      - url: "https://img.hoodline.com/2024/2/google-pauses-ai-image-creation-amidst-uproar-over-racially-diverse-historical-depictions.webp"
         width: 1200
-        height: 720
+        height: 800
         isCached: true
 
 secured: "ecpxUlqMF8jIFL2ajQL/qx4OlrChCFU6/TJ37gxFVXnryTdbFnkYiuNMEQtVRmZruPh13l200QGbPSfWYjrpIuFE1UjjtYShOa9pt+BwM1vxASLmdziuJEcOU+Fjk9xikwhzCuxTweTby/cN/dwvihdKUXgb7gfLyX0aHoT0/usWfrs5qf9NRXWLoPycHGNA7xbtIlLD8KtsV+Bv1RexemXOz6X44Uc1eq7uk4lYn3umlf2qw6TvTBxNVFJ5k/7TSpWDRuIhWQChLul+EgV11vi0AA3rfrPGmubyi/ZG6zSTXe5L+N6eYh6MMuBpFua1aqK33XQIxRVb/z1jwevJdbK1mwLzO6prStChAQtHSZA=;2x5W1gbEck+IIhl1fvSxgQ=="

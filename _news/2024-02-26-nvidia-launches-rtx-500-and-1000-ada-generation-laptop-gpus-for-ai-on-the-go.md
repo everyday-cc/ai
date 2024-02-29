@@ -237,20 +237,6 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "Nvidia and AI fuel market frenzy"
-    excerpt: "Nvidia, which two years ago made most of its money from selling graphics cards for computer games, has now become the world’s third largest company by market value."
-    publishedDateTime: 2024-02-24T05:56:00Z
-    webUrl: "https://www.wsws.org/en/articles/2024/02/24/kelf-f24.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 39
-    images:
-      - url: "https://www.wsws.org/asset/49eb1a00-3ba0-4e35-b8c5-ee263a717b10?rendition=1600x900"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "AI Revolution Sparks Nvidia's Historic Market Cap Achievement"
     excerpt: "NVIDIA's annual profits increased by 769% due to the growing enthusiasm surrounding AI, leading to a surge in its market cap. The demand for advanced chips, driven by the AI boom, could outpace supply if investment doesn't keep up. Bitcoin ETFs have ..."
     publishedDateTime: 2024-02-27T12:01:00Z
@@ -278,6 +264,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/upUivk47vpZ7Cy4kRjUuWB-1200-80.jpg"
         width: 1200
         height: 665
+        isCached: true
+  - title: "Indosat Collaborates with NVIDIA to Enable Sovereign AI Infrastructure"
+    excerpt: "As part of the collaboration with NVIDIA, Lintasarta aims to provide GPU-as-a-Service (Deka GPU) and give customers access to the latest and most powerful artificial intelligence capabilities specifically tailored for high-demand computing tasks, including infrastructure, platform, and bare metal services."
+    publishedDateTime: 2024-02-29T05:49:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/35200-indosat-collaborates-with-nvidia-to-enable-sovereign-ai-infrastructure"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/c5a67e9b7634105976de2330637032f8.jpg?t=20240229_054549"
+        width: 752
+        height: 408
         isCached: true
   - title: "You Don't Have to Buy Nvidia to Benefit From Its Explosive Artificial Intelligence (AI) Growth. You Can Buy These 2 Stocks Instead."
     excerpt: "The artificial intelligence (AI) chip leader scored big as more and more ... Let's take a closer look at each. Amazon's AWS is the world's leading cloud services provider, and it also generally drives overall profitability at the company."

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon to spend $1 billion on startups that combine AI with robots"
-excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than €400 million in technologies that include ..."
-publishedDateTime: 2024-02-28T14:48:00Z
-originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
-webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
+excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
+publishedDateTime: 2024-02-28T06:48:00Z
+originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
+webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
 type: article
 quality: 84
 heat: 104
@@ -53,6 +53,6 @@ related:
       domain: bloomberg.com
     quality: 47
 
-secured: "4Mcv4R6nOolqC/OlPjyFdp4TmhrBdSFl48b8bp3mYCFAoOph2oCQn1qLHrMCjF5U21PrPgYp/M29iStJfxaqRThnXGJ+ntsFQ5wHoYH1VCYuP8Gt+Kw4OI5MLUh//3ge8CEBMjBy28MgTrfFmwgpo/BQhYC3tPJ5ZZm5tHdSw7NZXPI724PuFFuNj6eRXUHbLc6elQn60sSJCgBg5fSNHBo7jXutDq9gipPC8kBUHrQzm9qYOqV+hOShBTvm9t/+G0d9DPHIPlKh4NAj/XF2IClCb2BKhOLIYY5xN4mDr3C6jfJPohUEsD67/tnQhLBeji99AFz2zlChBVcqZJY51dNdBEr7U7EvyP7LMBOBrpYQAiqbIajnfEo/ZIHF8Yi89OcLA6QQCpefSweeHAySN5+3+agMywfGFUMbpM/1sZayndNiiOXCLaiGOBz9tDJjEcCUjGXHqLjoDC7nVqOQ9JoXC9/fBzxQmgWNkTVcitJAxwrS6+WLH5xBpH8PNcQcx7VaxkLqERsgzSMkuQ8WEg==;AQhhCrIE7UvZCYDoOrSoZg=="
+secured: "J41eeN/B55m2RLkq9s7q9JWlBfp4IBRlVmRIITCh1wZGjeeYgcUaQStjWLhf++VGnGY78DKyf4kj/bt4Q70UDE3hDLsJSCFBVPiEg4MBgV+VbWPkkIyky7UAJ+WyiSzh3yVJcCIYDBoJu9w8nXuUbzivdotVz9Dmk7cAwa41x0sEuwTDALCSdwBGEX9wABf7ctsMEHtFiE0CmPGfHFyDhEWQ2HeQEqG1O3/mBxE2AnGO8Aai/E0I2095HAhNG5EX/L/awSzJ6Jbx0ow9RB+UK+4KJA38jzHk+cbl1KJfovVikp1n8+ZHQLirMfYfSXv14FGQIyO2J/VI15E9TgCfHKeR9NCr/wswrcpWbrKo+R0=;w6LNGLnp2V6Uxlditfsa0Q=="
 ---
 

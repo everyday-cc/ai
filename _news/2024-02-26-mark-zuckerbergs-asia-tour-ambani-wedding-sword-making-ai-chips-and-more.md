@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-as
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/amp_articleshow/108005960.cms"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Yoon, Zuckerberg discuss AI, digital ecosystem in Seoul"
+    excerpt: "(Presidential Office) President Yoon Suk Yeol met with Mark Zuckerberg, CEO of Meta, formerly Facebook, on Thursday to discuss ways to enhance cooperation in cutting-edge technologies, especially artificial intelligence, upon the US tech giant’s request."
+    publishedDateTime: 2024-02-29T06:04:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20240229050610"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 39
+    images:
+      - url: "https://res.heraldm.com/content/image/2024/02/29/20240229050611_0.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Meta's Zuckerberg discusses mixed reality devices, AI with LG leaders in South Korea"
     excerpt: "It has also been intensifying AI efforts this year including plans for a custom chip and adding AI functions to products. Zuckerberg is on his first known visit to South Korea in about 10 years. It comes as part of a tour of Asian countries that includes ..."

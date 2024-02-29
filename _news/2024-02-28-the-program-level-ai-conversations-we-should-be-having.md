@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 671
         isCached: true
-  - title: "Bristol Scientists Turbocharge Artificial Intelligence in Revolutionary £80 Million National Initiative"
-    excerpt: "Leading mathematicians, engineers and computer scientists at the University of Bristol have joined a new national mission to realise this potential, taking AI applications to uncharted heights in various settings,"
-    publishedDateTime: 2024-02-24T05:13:00Z
-    webUrl: "https://indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
-    ampWebUrl: "https://indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/bristol-scientists-turbocharge-artificial-intelligence-in-revolutionary-80-million-national-initiative/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 43
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2024/02/AI-stock-image-article.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
     excerpt: "cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation. With the support of AI technology, intelligent translation has ..."
     publishedDateTime: 2024-02-28T15:56:00Z
