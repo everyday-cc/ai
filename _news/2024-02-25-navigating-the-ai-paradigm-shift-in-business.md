@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/rhettpower/2024/02/25/navigating-the-
 webUrl: "https://www.forbes.com/sites/rhettpower/2024/02/25/navigating-the-ai-paradigm-shift-in-business/"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/7c08039/2147483647/strip/true/crop/1281x673+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F1e%2Fd4%2F2668ce2b403e82ecb39505b3aeac%2Fnavigating-the-future-of-banking-fintech-and-ai-1280x720-suni-harford.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Understanding the Hurdles – Why Companies Aren’t Ready for Full AI Integration in Business"
-    excerpt: "AI (artificial intelligence) is the topic that has got the attention of not only tech enthusiasts but also the general public since last year."
-    publishedDateTime: 2024-02-24T04:41:00Z
-    webUrl: "https://dailyhodl.com/2024/02/23/understanding-the-hurdles-why-companies-arent-ready-for-full-ai-integration-in-business/"
-    ampWebUrl: "https://dailyhodl.com/2024/02/23/understanding-the-hurdles-why-companies-arent-ready-for-full-ai-integration-in-business/amp/"
-    cdnAmpWebUrl: "https://dailyhodl-com.cdn.ampproject.org/c/s/dailyhodl.com/2024/02/23/understanding-the-hurdles-why-companies-arent-ready-for-full-ai-integration-in-business/amp/"
-    type: article
-    provider:
-      name: The Daily Hodl
-      domain: dailyhodl.com
-    quality: 49
-    images:
-      - url: "https://dailyhodl.com/wp-content/uploads/2023/11/AI-Focused-Altcoin.jpg"
-        width: 1366
-        height: 800
         isCached: true
   - title: "Dissecting the AI boom through the dotcom lens"
     excerpt: "The Web was funded by telco CAPEX as hyperscalers are funding the AI buildout. But there was no internet or cloud at the time, so this time the pace is accelerated. Picks and shovels are highly valued at the start The core infrastructure – so-called ..."

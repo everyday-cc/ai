@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-29T00:15:00Z
 originalUrl: "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/"
 webUrl: "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 related:
   - title: "Artificial intelligence already plays a part in Kansas City health care, without much regulation"

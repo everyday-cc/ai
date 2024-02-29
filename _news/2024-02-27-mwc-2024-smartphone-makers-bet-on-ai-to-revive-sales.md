@@ -40,22 +40,6 @@ related:
         width: 1400
         height: 788
         isCached: true
-  - title: "Cyber Insights 2024: Artificial Intelligence"
-    excerpt: "AI's progress in 2024 and beyond: 2023 was a year of hype, 2024 brings the beginning of AI reality, and 2025 likely to be its delivery."
-    publishedDateTime: 2024-02-26T16:42:00Z
-    webUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/"
-    ampWebUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 59
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2024/02/Elia-Zaitsev-Crowdstrike.jpeg"
-        width: 258
-        height: 323
-        isCached: true
   - title: "Generative AI Advances Showcased at MWC 2024"
     excerpt: "MWC Barcelona, held this year on February 26-29, is one of the global telecommunications sector's pre-eminent expos. It attracts"
     publishedDateTime: 2024-02-28T16:20:00Z

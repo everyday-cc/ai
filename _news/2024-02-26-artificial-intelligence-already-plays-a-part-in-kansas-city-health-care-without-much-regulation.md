@@ -34,7 +34,7 @@ related:
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
-    quality: 49
+    quality: 51
 
 secured: "ulEMknm3vNBCKl6fJaSSyZnio7qUVdgIL42Y/J/SrcEZVeJkexLgC4tWi/WTJCaoeEnj1XadXI9yASdH6SwixlF4uKPIiIhrXwIFZIbQh5RPkyptBpeVrapJQiYw9q0moFWH0CohjIZkRBCuK6lKAlAr107WWDVgfU6mu9WyEMXZZbmM69pgkjuVNuI+mIL138N0uvkyFEHGqfDjrXYuvaXaNRi4wxpD+4DokfLvaVPvUseWj6+T4T1f2iFr0SEOdVzhvJRPlMA+cLGjAnC+33rX2iM9zDfjhpDGDjUFv/ycSBFcXbUfW7DZ+GmKTjrlP781n7gbCGHnkxEhTwOtsODIGDVk2Bam4/LbSD9k1go=;3T8Oc3K3wVWaNKF7UwCTYw=="
 ---

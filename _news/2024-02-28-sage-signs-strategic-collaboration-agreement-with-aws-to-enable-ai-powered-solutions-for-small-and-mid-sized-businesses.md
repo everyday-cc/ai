@@ -2,17 +2,21 @@
 category: news
 title: "Sage signs Strategic Collaboration Agreement with AWS to enable AI-powered solutions for Small and Mid-Sized Businesses"
 excerpt: "This agreement will significantly enhance how SMBs optimize their operations with generative artificial intelligence (AI) and tackle environmental responsibilities, with Sage Earth now available in AWS Marketplace. Today, SMBs can leverage Sage Intacct in ..."
-publishedDateTime: 2024-02-27T22:36:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61532702-sage-signs-strategic-collaboration-agreement-with-aws-to-enable-ai-powered-solutions-for-small-and-mid-sized-businesses-399.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61532702-sage-signs-strategic-collaboration-agreement-with-aws-to-enable-ai-powered-solutions-for-small-and-mid-sized-businesses-399.htm"
+publishedDateTime: 2024-02-27T16:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sage-signs-strategic-collaboration-agreement-with-aws-to-enable-ai-powered-solutions-for-small-and-mid-sized-businesses-1033109462"
+webUrl: "https://markets.businessinsider.com/news/stocks/sage-signs-strategic-collaboration-agreement-with-aws-to-enable-ai-powered-solutions-for-small-and-mid-sized-businesses-1033109462"
 type: article
-quality: 10
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
@@ -36,6 +40,6 @@ related:
         height: 713
         isCached: true
 
-secured: "C/15TgJgMYhXwKRmSg8FU4Pp/6OHP210qg1bQqQM1jd7W16nIilyZPzktAZfmiH7PMTrRPdiD/5s/Jh9ITxe1InXzeNUF0BPrZ5vLUbUS8Wf/590NwVcyyrVHB9FFp91pc52L81t2S62nKfM2tMtur/JDY2Jqb7JF3bEvUXDlnHkdlcbV5bcoDXggwxzXDky+7KX4hPqeYmwTy+JrERyvp2xydfKYzVciU1eLaVHNufxhmPlVxMoBJROI35MDHIL0ARSe46bTjr9EJ+4FwCgF2UsZYmIiYwYdAxn2bjSJ5w0oG3ez/hmgSQYkWAYx/LVOSlo2suYmbM3zyL3VPrB9agAIl9s5P1Bd65UKo5ZvEg=;XwMEeQzPmqx0bTw1O73fog=="
+secured: "5CGdayQT9wVZp4hkhrI34njNXg2oEJ1zGYusm1rilYdJgGxuKTE2DWF70YzAthvVg4AbflsZ9qH+ozNEFahGyXT5Pvfr41YKRjKoFYG0Mcxp23sOon+2YXqBt6u2sb6VibiRu09ssHq6D08a3jQxjY+C37ZTDHWLfDiADAwbKi6INscKuC1o06p67n44quFEdcB9qYcoZxlUdcaL4S6DO90kwXeIV/2r9Yo7mZGro25kX9hXKe5Jrd/qr0RBQ+dlDHudx/jXQfSTtNsspE3FGP2AsvAeWaeBRQNUd/jVOREdme3VTX8/e8WjA3n1jv+YAI8Q5kodSVWOErsBIndCPLyVA23exnx2aGOBPMIwtSM=;ThmRjgW4YqSMALLxY+7M5g=="
 ---
 

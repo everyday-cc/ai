@@ -39,6 +39,20 @@ related:
         width: 3747
         height: 2087
         isCached: true
+  - title: "IBM's new AI-powered SSDs can detect, and erase ransomware in under 60 seconds"
+    excerpt: "IBM's new self-protecting SSD storage is powered by AI, which will detect and delete ransomware in less than 60 seconds for next-gen security."
+    publishedDateTime: 2024-02-29T03:00:00Z
+    webUrl: "https://www.tweaktown.com/news/96535/ibms-new-ai-powered-ssds-can-detect-and-erase-ransomware-in-under-60-seconds/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 35
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96535_18_ibms-new-ai-powered-ssds-can-detect-and-erase-ransomware-in-under-60-seconds_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "HP’s AI-enhanced Spectre laptops set to transform user experiences"
     excerpt: "HP recently launched its range of AI-enhanced Spectre x360 laptops, built with smart features that elevate performance, collaboration, and security. These AI PCs will change the role of a personal computer by simplifying tasks and enhancing usability for various aspects of life."
     publishedDateTime: 2024-02-27T14:05:00Z

@@ -39,22 +39,6 @@ related:
         width: 1400
         height: 788
         isCached: true
-  - title: "Cyber Insights 2024: Artificial Intelligence"
-    excerpt: "AI's progress in 2024 and beyond: 2023 was a year of hype, 2024 brings the beginning of AI reality, and 2025 likely to be its delivery."
-    publishedDateTime: 2024-02-26T16:42:00Z
-    webUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/"
-    ampWebUrl: "https://www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2024-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 59
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2024/02/Elia-Zaitsev-Crowdstrike.jpeg"
-        width: 258
-        height: 323
-        isCached: true
   - title: "MWC 2024: Smartphone makers bet on AI to revive sales"
     excerpt: "South Korean giant Samsung’s stand at the MWC prominently plugged its new premium AI-powered Galaxy S24 range, which allow users to make or receive a call in a language they don’t speak and then receive a live translation of the call both audibly and ..."
     publishedDateTime: 2024-02-27T05:42:00Z

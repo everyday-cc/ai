@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-genera
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
 type: article
 quality: 70
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google apologizes for ‘offensive’ AI Gemini image generator"
-    excerpt: "Google apologized for its overly diverse artificial intelligence image generator, which appeared unable to depict white people in any fashion."
-    publishedDateTime: 2024-02-24T04:06:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/2875709/google-apologizes-offensive-ai-gemini-image-generator/"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 39
-    images:
-      - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/02/AP24053522088699.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Google's Gemini AI picture generator to relaunch in a ‘few weeks' following mounting criticism of inaccurate images"
     excerpt: "The controversy follows a high-profile rebrand Google announced this month, when it changed the name of its chatbot and rolled out a fresh app and new subscription options. The chatbot and assistant formerly known as Bard, a chief competitor to OpenAI's ..."
     publishedDateTime: 2024-02-25T23:59:00Z

@@ -41,6 +41,22 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "Start-up Street: Can India be at the forefront of AI technology?"
+    excerpt: "As AI makes rapid progress in being integrated across industries, India has a supportive ecosystem to be able to lead with pathbreaking innovations in the field"
+    publishedDateTime: 2024-02-29T04:02:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Canvas-AI-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
 
 secured: "b1L2lkHkzU/hIv7oYniRzM5tpCZY/GuXipmv2CcP2X0q7q7Wg4COFolhePk8gGM3ue/22qZvq/M4oVrKyosNy/pA+M0Z2hbs9x2ao0jFu8lEsrja77iy3ND0x3mpICy1hQz7LPbO8vQHZUV70IS6RvjO2XGRmV9lG2wTX4Nv9mJ1Lv8GwZfbkxSOkmEIktAbgbyf2nRBdG/wRPYrldXVGA0a0X7J8Qf2kvOhkxctNrWGKiI5hDMT5/cePOBxwvICi6Spay/x2DB2jH4rQbXuXGZbaLU8Ep5SxRhLRmIB4TQoAHMPvq2RyyVfVgbPVj2ImZSZF5ObScdFLSLDOn5dOhhrbx3d+/zXRBQpjW47V/kjayeEVhE5/L+CIXzNxpUVfBGvRSvIzIg8r8Jo4968WKEaH5cXlS01VtnZ8N+zNeC4AArQx6/vFyHEJk3lkfd6ddTDe5X32+OFgzcf5DwEnvxNmKERnDbThnO+vKiVcSn9MfhXhRn+ykgW6SkUfV/kFNNIbfzZF0tMRKbh2L6bYw==;JhE9XoLMLwR1eqZn/fm80w=="
 ---

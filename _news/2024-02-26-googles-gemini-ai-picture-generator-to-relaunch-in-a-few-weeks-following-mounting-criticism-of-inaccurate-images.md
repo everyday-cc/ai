@@ -44,20 +44,6 @@ related:
         width: 4978
         height: 3323
         isCached: true
-  - title: "Google apologizes for ‘offensive’ AI Gemini image generator"
-    excerpt: "Google apologized for its overly diverse artificial intelligence image generator, which appeared unable to depict white people in any fashion."
-    publishedDateTime: 2024-02-24T04:06:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/2875709/google-apologizes-offensive-ai-gemini-image-generator/"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 39
-    images:
-      - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/02/AP24053522088699.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Google's Gemini AI picture generator to relaunch in a ‘few weeks' following mounting criticism of inaccurate images"
     excerpt: "Google plans to relaunch its image-generation AI tool in the next “few weeks,” according to Google DeepMind CEO Demis Hassabis."
     publishedDateTime: 2024-02-26T17:27:00Z

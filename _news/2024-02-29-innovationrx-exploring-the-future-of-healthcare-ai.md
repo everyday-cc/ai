@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx
 webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/"
 type: article
 quality: 84
-heat: 124
+heat: 125
 published: true
 
 provider:
