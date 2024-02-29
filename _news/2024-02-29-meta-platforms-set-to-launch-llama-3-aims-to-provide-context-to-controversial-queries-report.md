@@ -36,7 +36,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 43
+  - title: "Meta plans launch of new AI language model Llama 3 in July: Report"
+    excerpt: "Meta Platforms plans to release Llama 3 in July with improved responses to contentious questions and an understanding of controversial queries. Gemini AI paused its image-generation feature. Meta's Llama 2 refuses less controversial questions. Meta plans ..."
+    publishedDateTime: 2024-02-29T07:41:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/meta-plans-launch-of-new-ai-language-model-llama-3-in-july-report/108098685"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108098685,imgsize-125570,width-1200,height=765,overlay-ettelecom/internet/meta-plans-launch-of-new-ai-language-model-llama-3-in-july-report.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
-secured: "WbUoELl26po2E34Hb9LhlUOEWmsa5d9DvKEr9VRDlugi6zps3OmMB8Nq4Cm2J74Ys0Z2RjSZLYfzlJRIwOLR8NNa3/uYcvB94+bIbcUtxRaj9guYKD9gYnCbo/xvq8Jv4iCbu6E5Y03pkDzl2uiGYAr6nkJoVPQoinMhcmhYttJFe92yZiwQdU0sw4lQ2962DtyHQy1mKQwjfdpoQjzCDXw+xwxwHnoINk2pDIBVuH2a8wmmDteDxB1O8GtsHc42pULiWXHIUYVZUMN4obotCHtVQpaHrmGwO252Swxq4C1m0H8gfx7KOxYd8Tas8qDyje9A1TultDlD80PaeZM4Ai2xDCx5xqGIIjkf9irsqhs=;L68pGrRFsLBR4YIfpPhzVw=="
+secured: "vTV235jnAakIWr0nmN1wtHVfToo484h60YYB3DIvA4WC5CO9Iz6c+kRw4p5flhivCsaQeFxwQQ0Jbn54J8GXuXJW0/Hm1ioB9u8pc0fHXSbhEGLoVeQyFurwmxPrrlH70IIt3JsCHwkOXHGVlM89s0qZghPBAM8nqbgLRHCpoOMI0HljN7NKjZNmCNzYGlhGDn6oKi79UGHMaSw46z/r1tCbdnuJLolT6sRMW50Qpw4Gd1zHF3zpZOEIWS0JbplVbJkIbJZQNHHzjOA75CJQLJvomj2t60eubMi9MPQ4EWdfTE/CVS94/tjlHUSC8318nryNsNTEQqKUWpMz9oGleJmT6elkzM77GMfWqC+4zLF8vIMuYYRJoaDnGXOEPEXLWnXKGF9SibpcHDCWZXblca1ztv1s2rf2/DGx3BIXRXtiLU3CgGNnZsvI/WxEbKYjv2F7IDLX8L+lJFZDbsDn5GzA5E6A8+7pqOVUchUHppuleFhAoG21/nuQrBWbjGv9LLh2ROW5Hj+zm2O9yT80ng==;I1jAAajtvS6cEI1hVtvXZw=="
 ---
 

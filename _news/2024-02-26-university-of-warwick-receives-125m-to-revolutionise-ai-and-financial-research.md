@@ -40,6 +40,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "University of Warwick receives £1.25 million to research how AI could change the market for real estate"
+    excerpt: "The University of Warwick has received a £1.25 million grant to study the way the world purchases, sells, rents and handles real estate"
+    publishedDateTime: 2024-02-29T08:14:00Z
+    webUrl: "https://workplaceinsight.net/university-of-warwick-receives-1-25-million-to-revolutionise-ai-and-real-estate/"
+    type: article
+    provider:
+      name: Workplace Insight
+      domain: workplaceinsight.net
+    quality: 23
+    images:
+      - url: "https://workplaceinsight.net/wp-content/uploads/2023/05/DALL·E-2023-05-11-16.45.06-An-abstract-painting-of-a-man-looking-at-lightbulbs-min.png"
+        width: 1000
+        height: 1000
+        isCached: true
 
 secured: "8x/Bk8PcAd4fMmbs98sivrFfLOMSfYVwTuAsL+oqD750S5iEuAUuFUvBHK3OSn4VOVD7JxrlaQ5eO35+p1UpYZpmBuBoQQCjtGuw6jZfO94rtHnhkXB2eFXJyaObqtfSfv8XgNp/qS7lpWR3QMG4lfChJMcGVNCWUlB3DBerzSkWKBViJrixtHYxxiz6aijAq61SnuOsX2d+5kRrvVzxEXRTkBE1EhkpttQC0CIEZ0Ak1DdAH9e/BXJ4sC1ElTmQhxm4xCWHq0v7KbWy9EJhMBi0Rk3Z9cL9yDFaF9HZg4G3iWemWZm/DQQkC5z0XfNM4O8aZDrx8AilvE2212BxmLghWIXGBlqu6e5MbQGnALg=;Px+zYeVHtWlMX1KfsKX5/w=="
 ---

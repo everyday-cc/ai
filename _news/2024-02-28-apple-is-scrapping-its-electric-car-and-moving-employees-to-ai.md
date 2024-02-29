@@ -114,6 +114,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple scraps plans to develop self-driving electric car | What was ‘Project Titan’ all about?"
+    excerpt: "After working on it for 10 years, Apple has decided to cancel its plans to build electric vehicles (EV) just when China’s Xiaomi showcased its Su7 at the mobile world congress in Barcelona. What was reportedly known as the Special Projects Group as part of its chief executive Tim Cook's Project Titan,"
+    publishedDateTime: 2024-02-29T07:27:00Z
+    webUrl: "https://www.moneycontrol.com/news/videos/business/companies/apple-scraps-plans-to-develop-self-driving-electric-car-what-was-project-titan-all-about-12376441.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/videos/business/companies/apple-scraps-plans-to-develop-self-driving-electric-car-what-was-project-titan-all-about-12376441.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/videos/business/companies/apple-scraps-plans-to-develop-self-driving-electric-car-what-was-project-titan-all-about-12376441.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 33
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/Apple-EV-TT.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Apple unplugs its decade-long dream to build self-driving electric cars, company executives announce"
+    excerpt: "Several employees associated with project will reportedly be shifted to company’s generative AI projects while others will be given time to find reassignment to other roles in company"
+    publishedDateTime: 2024-02-29T05:38:00Z
+    webUrl: "https://www.telegraphindia.com/business/apple-drops-ev-project/cid/2003706"
+    ampWebUrl: "https://www.telegraphindia.com/amp/business/apple-drops-ev-project/cid/2003706"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/apple-drops-ev-project/cid/2003706"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 29
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2024/Feb/1709170062_apple.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Apple Cancels its Plan to Build Self-Driving Cars, Reports Say"
     excerpt: "Apple has reportedly canceled all its plans to build and launch self-driving electric vehicles (EVs) exactly after a decade it was rumored to be working on the project. However, the company never publicly acknowledged the project that involved around 2k people."
     publishedDateTime: 2024-02-28T06:15:00Z

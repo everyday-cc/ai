@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Photoroom, An App That Generates AI Images In One Second, Is Now Worth $500 Million"
-    excerpt: "The Paris-based startup raised $43 million in Series B funding and announced a new foundational model faster than other AI models at generating images."
-    publishedDateTime: 2024-02-27T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2024/02/27/photoroom-an-app-that-generates-ai-images-in-one-second-is-now-worth-500-million/"
+  - title: "Inquiry Into Ouster of OpenAI’s Chief Executive Nears End"
+    excerpt: "He regularly covers Facebook and Silicon Valley. More about Mike Isaac Cade Metz writes about artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas of technology. More about Cade Metz OpenAI filed a motion in federal ..."
+    publishedDateTime: 2024-02-28T17:50:00Z
+    webUrl: "https://www.nytimes.com/2024/02/28/technology/open-ai-investigation.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
+      name: The New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/images/2024/02/28/multimedia/28openai-investigate-01-phzc/28openai-investigate-01-phzc-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "esUYkMjgyEcP2tq6reje6U4cSYmYduttEu5LpsN6QemAmdhjFROff9D4i0ifsj4iqSesOXxMfT8NtoLNVjbLZmjl6SHTw5drt9McjDZwO7b/odTS2pe0//BUj7JGeysKnOJonN0tYCxzq5JfdwPSpblsi1uIDaoxUv2mW2UfAbyZ/26gsLp+w5nNPP7TZnSYwjqpN+Zfk2Ndfoct526P3ixdk+H0t4R8AU59A4M7sPjF8boslO555zruimFYUm/kGzbOvvPjozxusdSCc6dpjH38kYtMwbgiAsLU48ETnkAjgXt/HbDxpXQ7eiXde46l/tKlJOer+s1wv0h7YgvKVUyc6qE5nXwCvEStj28Jp/s=;xQIFLOLFzs2G7m9xfbPq1w=="
 ---

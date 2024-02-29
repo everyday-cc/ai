@@ -2,6 +2,126 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2024-01-06-schwarzenegger-for-president-arnold-should-run-and-not-just-because-hed-beat-trump.md",
+      "title": "Schwarzenegger for president? Arnold should run – and not just because he'd beat Trump.",
+      "excerpt": "You also may not realize that, in real life, the door just opened for you to be pulled back into the FUBAR (“F’ed Up Beyond All Recognition”) of our national ... this makes clear that you can run. Who could object without looking like a hypocrite?",
+      "sourceUrl": null,
+      "webUrl": "https://www.palmbeachpost.com/story/opinion/2024/01/06/arnold-schwarzenegger-run-president-2024/72121096007/",
+      "originalUrl": "https://www.palmbeachpost.com/story/opinion/2024/01/06/arnold-schwarzenegger-run-president-2024/72121096007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Palm Beach Post",
+        "domain": "palmbeachpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-6-features-that-could-come-to-google-bard-in-2024.md",
+      "title": "6 Features That Could Come To Google Bard in 2024",
+      "excerpt": "After a slow start, Google Bard is catching up to its AI competitors such as OpenAI’s Chat GPT and 2024 will see the addition of a host of new features to the search giant’s AI product, although it’s not certain which of these features will make it out of development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
+      "originalUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.talkandroid.com/wp-content/uploads/2024/01/Google-Bard.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T22:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "talkandroid.com",
+        "domain": "talkandroid.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-google-is-reportedly-working-on-an-advanced-version-of-its-bard-chatbot.md",
+      "title": "Google Is Reportedly Working on an Advanced Version of Its Bard Chatbot",
+      "excerpt": "Google is seemingly working on developing a more advanced version of its Bard chatbot. Launched in May 2023, Google’s conversational AI bot was designed to be a competitor to ChatGPT but fell flat with many users compared to OpenAI ’s model.",
+      "sourceUrl": null,
+      "webUrl": "https://hypebeast.com/2024/1/google-bard-advanced-ai-chatbot-development",
+      "originalUrl": "https://hypebeast.com/2024/1/google-bard-advanced-ai-chatbot-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F01%2Fgoogle-bard-ai-chatbot-advanced-development-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T22:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-06-report-google-developing-new-version-of-bard-based-on-its-flagship-gemini-ultra-llm.md",
       "title": "Report: Google developing new version of Bard based on its flagship Gemini Ultra LLM",
       "excerpt": "Google LLC is believed to be building a new version of its Bard chatbot that runs on Gemini Ultra, the most advanced large language model the company has created to date.",
@@ -947,154 +1067,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-meet-the-humanoid-robot-that-learns-from-natural-language-mimics-human-emotions.md",
-      "title": "Meet the humanoid robot that learns from natural language, mimics human emotions",
-      "excerpt": "Alter3 is an example of how natural language processing and robotics can work together to create pretty incredible interactions. By using GPT-4, the robot can perform a variety of tasks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions",
-      "originalUrl": "https://www.foxnews.com/tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/1-Meet-Alter3-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions-giving-instructions.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-04T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-what-microsofts-custom-silicon-means-for-azure.md",
-      "title": "What Microsoft’s custom silicon means for Azure",
-      "excerpt": "Microsoft is laying the groundwork for a hardware-accelerated Azure cloud with its own custom AI silicon, Arm server processors, virtualization offload, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.amp.html",
-      "publishedDateTime": "2024-01-04T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-tuam-firm-developing-driverless-car-tech-sees-profits-accelerate-to-462m.md",
-      "title": "Tuam firm developing driverless car tech sees profits accelerate to €46.2m",
-      "excerpt": "Pre-tax profits at the Tuam firm at the cutting edge of driverless car technology almost doubled to €46.25m in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.ie/business/technology/tuam-firm-developing-driverless-car-tech-sees-profits-accelerate-to-462m/a356442349.html",
-      "originalUrl": "https://www.independent.ie/business/technology/tuam-firm-developing-driverless-car-tech-sees-profits-accelerate-to-462m/a356442349.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://focus.independent.ie/thumbor/I72utv8ZttUgDdxrqT2IVIsGjC8=/0x0:2362x1575/2362x1575/prod-mh-ireland/99db576d-c94a-484f-a880-c57ea5806f7d/a5a1be17-d2c5-454f-93c6-4e2aa96579a8/99db576d-c94a-484f-a880-c57ea5806f7d.jpg",
-          "width": 2362,
-          "height": 1575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-04T01:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent.ie",
-        "domain": "independent.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Meta plans launch of new AI language model Llama 3 in July: Report"
+    excerpt: "Meta Platforms plans to release Llama 3 in July with improved responses to contentious questions and an understanding of controversial queries. Gemini AI paused its image-generation feature. Meta's Llama 2 refuses less controversial questions. Meta plans ..."
+    publishedDateTime: 2024-02-29T07:41:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/meta-plans-launch-of-new-ai-language-model-llama-3-in-july-report/108098685"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108098685,imgsize-125570,width-1200,height=765,overlay-ettelecom/internet/meta-plans-launch-of-new-ai-language-model-llama-3-in-july-report.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "4B3EAl4/ld75pAbS4DZUiQrCH04cfJudVBPgO77NpAtgWPCRsxgD3qz/z6YtauVawu+XJ+lMmC6trzFwfS4IrEvEX3DkC5IjlaLX8GZLZhSE+Pzqow65iZRXYVbRJvwKejYKDNut0KHYQfOucLskurddmaUIee2CiFi6ps0SJu9OVE9SJWCk19PrhgFnz01qT1WuiWaiAHtmlU6kc9/bwPKsxevOwEymoEZ8cZKz84Jh4EjxQGtEHRvWZiLNSTiHnvjQgnVK9LSVwO+Yam1ZyitosNf2GKXL55eLBUf4tCEpYRC5C1UNTFlFvudmfyFyNV9il6U8ZZxqHdem481IOtTZmhnAYzjjmOjJFRsBQcs2uo7ZyAkVuEJxO4TcMfCXY9xBJgqSrpi58QnJR3QABRu8gMFCfH+xEI/F6I3twP+50HkrfOAp0ic31d8+MFf4NIcqsC1fb2AX8QSdC2slC3FDSopmqh8qRL6wxd1Xyf42UPkWrbyVgZhUVCdOY8wAF3iRJE0qyUIbW+ChrmV8Bw==;Ps3ORXb0vtuXA4gf1cpu4w=="
 ---

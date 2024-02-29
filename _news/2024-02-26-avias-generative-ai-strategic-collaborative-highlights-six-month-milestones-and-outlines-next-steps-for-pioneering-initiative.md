@@ -33,19 +33,21 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "A Marketer’s Guide To Generative AI Startups"
-    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
-    publishedDateTime: 2024-02-26T08:00:00Z
-    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
+  - title: "Tim Cook Reiterates Ground-Breaking Generative AI Features Will Arrive in 2024"
+    excerpt: "During its annual shareholders meeting, Tim Cook said Apple will \"break new ground\" in Generative AI in 2024. Shareholders also voted down the proposal asking Apple for an AI transparency and ethics report."
+    publishedDateTime: 2024-02-29T00:34:00Z
+    webUrl: "https://beebom.com/tim-cook-ground-breaking-ai-features-2024/"
+    ampWebUrl: "https://beebom.com/tim-cook-ground-breaking-ai-features-2024/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tim-cook-ground-breaking-ai-features-2024/amp/"
     type: article
     provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 39
+      name: Beebom
+      domain: beebom.com
+    quality: 55
     images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2024/01/Americas-next-top-AI-model_Kevvo_comic.jpg"
-        width: 2397
-        height: 2098
+      - url: "https://beebom.com/wp-content/uploads/2024/02/Tim-Cook-Generative-AI-features.jpg"
+        width: 1250
+        height: 750
         isCached: true
   - title: "An update on the BBC’s plans for Generative AI (Gen AI) and how we plan to use AI tools responsibly"
     excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. He's responsible for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"

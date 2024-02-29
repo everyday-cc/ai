@@ -38,19 +38,21 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "A Marketer’s Guide To Generative AI Startups"
-    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
-    publishedDateTime: 2024-02-26T08:00:00Z
-    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
+  - title: "Tim Cook Reiterates Ground-Breaking Generative AI Features Will Arrive in 2024"
+    excerpt: "During its annual shareholders meeting, Tim Cook said Apple will \"break new ground\" in Generative AI in 2024. Shareholders also voted down the proposal asking Apple for an AI transparency and ethics report."
+    publishedDateTime: 2024-02-29T00:34:00Z
+    webUrl: "https://beebom.com/tim-cook-ground-breaking-ai-features-2024/"
+    ampWebUrl: "https://beebom.com/tim-cook-ground-breaking-ai-features-2024/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tim-cook-ground-breaking-ai-features-2024/amp/"
     type: article
     provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 39
+      name: Beebom
+      domain: beebom.com
+    quality: 55
     images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2024/01/Americas-next-top-AI-model_Kevvo_comic.jpg"
-        width: 2397
-        height: 2098
+      - url: "https://beebom.com/wp-content/uploads/2024/02/Tim-Cook-Generative-AI-features.jpg"
+        width: 1250
+        height: 750
         isCached: true
   - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
     excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of ..."

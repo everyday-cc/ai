@@ -2,6 +2,144 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2024-02-06-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "For years, IBM has been developing ways to adapt its AI supercomputer Watson to revolutionize health care, finance, law and academia. IBM’s portfolio of Watson AI solutions includes applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2024/02/artificial-intelligence-stocks-the-10-best-ai-companies-21/",
+      "originalUrl": "https://wtop.com/news/2024/02/artificial-intelligence-stocks-the-10-best-ai-companies-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent.md",
+      "title": "Facebook rules allowing fake Biden “pedophile” video deemed “incoherent”",
+      "excerpt": "A fake video manipulated to falsely depict President Joe Biden inappropriately touching his granddaughter has revealed flaws in Facebook's \"deepfake\" policies, Meta's Oversight Board concluded Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2024/02/facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2024/02/facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-870668326-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T18:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-roblox-adds-instant-text-translation-using-ai-plans-to-apply-the-tech-to-voice-chat.md",
+      "title": "Roblox adds instant text translation using AI, plans to apply the tech to voice chat",
+      "excerpt": "Immensely popular sandbox game Roblox has added real-time text translation to its in-game chat, powered by AI. Its developers are already looking at applying the tech to other multilingual elements in the game, including voice chat that mimics the speaker’s tone and expression.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rockpapershotgun.com/roblox-adds-instant-text-translation-using-ai-plans-to-apply-the-tech-to-voice-chat",
+      "originalUrl": "https://www.rockpapershotgun.com/roblox-adds-instant-text-translation-using-ai-plans-to-apply-the-tech-to-voice-chat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsio.reedpopcdn.com/roblox-text-translation.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T18:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rock Paper Shotgun",
+        "domain": "rockpapershotgun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-successfully-implementing-natural-language-processing-and-genai-with-knowledge-management.md",
       "title": "Successfully implementing natural language processing and GenAI with knowledge management",
       "excerpt": "Experts from Datavid joined KMWorld's webinar, Integrating LLMs With a Private Knowledge Platform, to discuss the benefits, latest advancements, and best practices for integrating AI/LLMs into private knowledge platforms.",
@@ -990,135 +1128,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-whats-standing-in-the-way-of-the-uk-being-an-ai-superpower.md",
-      "title": "What’s standing in the way of the UK being an AI superpower?",
-      "excerpt": "Artificial intelligence (AI) could bring a big economic boost says report, but there are still barriers to overcome",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/366568758/Whats-standing-in-the-way-of-the-UK-being-an-AI-superpower",
-      "originalUrl": "https://www.computerweekly.com/news/366568758/Whats-standing-in-the-way-of-the-UK-being-an-AI-superpower",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-060224-cover-500px.jpg",
-          "width": 500,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T06:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-sea-lion-explained-southeast-asias-first-large-language-model.md",
-      "title": "Sea-Lion explained: Southeast Asia’s first large language model",
-      "excerpt": "The Sea-Lion large language model (LLM) was built to cater to the language and cultural diversity of Southeast Asia, which is currently underserved by existing models that mostly originate from the West.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/feature/Sea-Lion-explained-Southeast-Asias-first-large-language-model",
-      "originalUrl": "https://www.computerweekly.com/feature/Sea-Lion-explained-Southeast-Asias-first-large-language-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-060224-cover-500px.jpg",
-          "width": 500,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T06:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-the-ai-revolution-transforming-supply-chain-and-logistics-with-artificial-intelligence.md",
-      "title": "The AI Revolution: Transforming Supply Chain and Logistics with Artificial Intelligence",
-      "excerpt": "As this vital technology continues to advance at an exponential rate, businesses that embrace AI in their supply chain operations will be well-positioned for long-term success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/38972-the-ai-revolution-transforming-supply-chain-and-logistics-with-artificial-intelligence",
-      "originalUrl": "https://www.supplychainbrain.com/articles/38972-the-ai-revolution-transforming-supply-chain-and-logistics-with-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/2024/01/29/thumb/SCB_Q1_2024_COVER.jpg?crop=1&height=348&t=1707109367&width=271",
-          "width": 271,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T05:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

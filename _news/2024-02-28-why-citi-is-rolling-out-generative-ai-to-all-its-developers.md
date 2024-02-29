@@ -25,19 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Is that giant sucking sound generative AI?"
-    excerpt: "Nonetheless, for anybody serious about developing or implementing gen AI this year, such as vendors and early enterprise adopters, they will likely have to pony up for at least one to two years of GPU capacity commits to get to the head of the line."
-    publishedDateTime: 2024-02-26T15:34:00Z
-    webUrl: "https://siliconangle.com/2024/02/26/giant-sucking-sound-generative-ai/"
+  - title: "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience"
+    excerpt: "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries."
+    publishedDateTime: 2024-02-29T06:50:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "E& UAE partners with AWS to elevate customer experiences with custom Generative AI"
+    excerpt: "In line with the partnership, e& UAE will use Amazon Bedrock and Amazon SageMaker to seamlessly integrate a suite of GenAI use cases, personalising recommendations beyond traditional algorithms. Amazon Bedrock is a fully managed service that offers a ..."
+    publishedDateTime: 2024-02-29T07:01:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 68
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzBlODQxZTUtNWZmYy00/1/ett-png.jpeg?f=3%3A2"
+        width: 605
+        height: 403
+        isCached: true
+  - title: "A Marketer’s Guide To Generative AI Startups"
+    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
+    publishedDateTime: 2024-02-26T08:00:00Z
+    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
+    type: article
+    provider:
+      name: adexchanger
+      domain: adexchanger.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/gpuchase-microsoftimagecreator.jpeg"
-        width: 1019
-        height: 666
+      - url: "https://www.adexchanger.com/wp-content/uploads/2024/01/Americas-next-top-AI-model_Kevvo_comic.jpg"
+        width: 2397
+        height: 2098
+        isCached: true
+  - title: "Teachers learning ways to utilize artificial intelligence"
+    excerpt: "ROCHESTER, Minn. - Artificial intelligence is on the rise and an education forum held by the Southeast Service Cooperative aimed to help teachers navigate how to use AI in a"
+    publishedDateTime: 2024-02-29T01:15:00Z
+    webUrl: "https://www.kimt.com/news/teachers-learning-ways-to-utilize-artificial-intelligence/article_e4ef58c4-d6b0-11ee-b919-e3c02e2bbbef.html"
+    type: article
+    provider:
+      name: KIMT
+      domain: kimt.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kimt.com/content/tncms/assets/v3/editorial/6/3d/63d76dd6-d6b9-11ee-a70f-c7d920fcfc59/65e00559ca8b8.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ZYNt+iuhacbqPFHketLF2iLd0stEnWaI0zjdc2h+dPb1bPSiOVgO7aPhgOJWXaZZ1oZDhdG4MewFL86GF03QSqez3adqipKPBBTKhDm3QPRfKqtPoX1+OzX04D7B1O5O9+NXpoPCP96HpI2ZfojsmrtXf67f8XSaUgIFtg66IMzBH8/WV+zr3g1nxhq8bM+nb1t2W3g/P5oceFBYiP3JulvAPynj3I3EJxZOMsCr5GD4k6mKwMejpjK1duykISydno/4VC1kZAq0ujLL+6DN1oChQPfb2zX8VGPBE87VRtvTEGXzfa1jebtAUGJB+k2H+SK4k8X9hZGAV7qqG6cWTeWN0kpDJ1z1KLV5BdwZjxKLmAIDcjAcV5j7y7b4gD+oEoNKX9ztAkkrAMgs0j9elagzPpX4R/UWO1DYabdE3MtaRaCQw+OQEBHT4z7g2a6KL4yJ8mZ088ucGnRvEE4WbSVEMBViSTQcrlV4VApkP266bqNZyS0F7pGJHoJ7CZMv3f3eR1A97CxWoVPCwpyGFQ==;GdV684H1PPIJ4jtjlLjg1Q=="

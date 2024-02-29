@@ -2,6 +2,161 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-12-30-should-auld-acquaintance-be-robot.md",
+      "title": "Should auld acquaintance be robot",
+      "excerpt": "August marked a year since Amazon announced plans to acquire iRobot in a $1.7 billion deal that some analysts suggested could give the retail giant a big head start in consumer robotics ... Much like the rise of generative AI, if you weren’t following ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/29/should-auld-acquaintance-be-robot/",
+      "originalUrl": "https://techcrunch.com/2023/12/29/should-auld-acquaintance-be-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-879166398.jpeg?resize=1200,801",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/29/should-auld-acquaintance-be-robot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/29/should-auld-acquaintance-be-robot/amp/",
+      "publishedDateTime": "2023-12-29T17:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-30-mits-spark-lab-ponders-better-self-driving-systems-and-more.md",
+      "title": "MIT’s Spark Lab Ponders Better Self-Driving Systems And More",
+      "excerpt": "Over at the MIT Spark lab, Luca Carlone and others are trying to apply these solutions to get us closer to better AI responses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/mits-spark-lab-ponders-better-self-driving-systems-and-more/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/mits-spark-lab-ponders-better-self-driving-systems-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658f0641ffecfa318294d4b6/0x0.jpg?format=jpg&crop=957,539,x0,y23,safe&height=900&width=1600&fit=bounds",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/mits-spark-lab-ponders-better-self-driving-systems-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/29/mits-spark-lab-ponders-better-self-driving-systems-and-more/amp/",
+      "publishedDateTime": "2023-12-29T16:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-atlassian-heads-into-2024-with-cloud-momentum-and-new-ai-capabilities.md",
+      "title": "Atlassian Heads Into 2024 With Cloud Momentum And New AI Capabilities",
+      "excerpt": "Atlassian sees cloud revenue (62% of total revenue) expanding by 25% to 30%, with new generative AI capabilities expected to help drive growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/29/atlassian-heads-into-2024-with-cloud-momentum-and-new-ai-capabilities/",
+      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/29/atlassian-heads-into-2024-with-cloud-momentum-and-new-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658ee135df62059fca1581c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/29/atlassian-heads-into-2024-with-cloud-momentum-and-new-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/12/29/atlassian-heads-into-2024-with-cloud-momentum-and-new-ai-capabilities/amp/",
+      "publishedDateTime": "2023-12-29T15:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-29-the-ai-literacy-act-what-is-it-and-why-should-you-care.md",
       "title": "The AI Literacy Act - What Is It And Why Should You Care?",
       "excerpt": "What is AI Literacy? How should you become AI literate? What is the AI Literacy Act? AI Regulations in the United States.",
@@ -1038,160 +1193,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-startups-are-using-ai-to-predict-responses-to-cancer-drugs.md",
-      "title": "Startups Are Using AI to Predict Responses to Cancer Drugs",
-      "excerpt": "More accurate prognoses and treatments tailored to patients—entrepreneurs claim AI can be harnessed for breakthroughs in beating cancer. One founder is using lab-grown human organs in combination with AI to test drug efficacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startups-are-using-ai-to-predict-responses-to-cancer-drugs-d7fb06eb",
-      "originalUrl": "https://www.wsj.com/articles/startups-are-using-ai-to-predict-responses-to-cancer-drugs-d7fb06eb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-904831/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-28T16:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-pinecones-ceo-is-on-a-quest-to-give-ai-something-like-knowledge.md",
-      "title": "Pinecone's CEO is on a quest to give AI something like knowledge",
-      "excerpt": "Companies have been trying to perform searches across the vectors at the heart of AI for a long time. Is this the focused technology the field has been looking for?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/pinecones-ceo-is-on-a-quest-to-give-ai-something-like-knowledge/",
-      "originalUrl": "https://www.zdnet.com/article/pinecones-ceo-is-on-a-quest-to-give-ai-something-like-knowledge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pinecones-ceo-is-on-a-quest-to-give-ai-something-like-knowledge/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecones-ceo-is-on-a-quest-to-give-ai-something-like-knowledge/",
-      "publishedDateTime": "2023-12-28T12:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-navigate-the-promises-and-risks-of-ai-assisted-coding.md",
-      "title": "Navigate The Promises And Risks Of AI-Assisted Coding",
-      "excerpt": "AI-assisted coding today is imprecise and error-prone. A 2023 study found that popular AI assistants only generate correct code between 31.1% and 65.2% of the cases. A human developer shipping code of such low quality would have a hard time keeping their job, so why do we accept such a low performance rate when it comes to AI?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62dae46f55a065951d9391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/amp/",
-      "publishedDateTime": "2023-12-28T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

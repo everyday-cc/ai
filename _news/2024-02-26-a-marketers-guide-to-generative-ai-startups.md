@@ -25,52 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Six Generative AI Predictions For 2024 And Beyond"
-    excerpt: "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students."
-    publishedDateTime: 2024-02-26T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/"
+  - title: "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience"
+    excerpt: "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries."
+    publishedDateTime: 2024-02-29T06:50:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 82
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
         height: 900
         isCached: true
-  - title: "An update on the BBC’s plans for Generative AI (Gen AI) and how we plan to use AI tools responsibly"
-    excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. He's responsible for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
-    publishedDateTime: 2024-02-28T21:20:00Z
-    webUrl: "https://www.bbc.co.uk/mediacentre/articles/2024/update-generative-ai-and-ai-tools-bbc"
+  - title: "E& UAE partners with AWS to elevate customer experiences with custom Generative AI"
+    excerpt: "In line with the partnership, e& UAE will use Amazon Bedrock and Amazon SageMaker to seamlessly integrate a suite of GenAI use cases, personalising recommendations beyond traditional algorithms. Amazon Bedrock is a fully managed service that offers a ..."
+    publishedDateTime: 2024-02-29T07:01:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 23
+      name: Zawya
+      domain: zawya.com
+    quality: 68
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0f2ssyx.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzBlODQxZTUtNWZmYy00/1/ett-png.jpeg?f=3%3A2"
+        width: 605
+        height: 403
         isCached: true
-  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
-    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of ..."
-    publishedDateTime: 2024-02-26T13:04:00Z
-    webUrl: "https://www.charlotteobserver.com/press-releases/article285939161.html"
+  - title: "Why Citi is rolling out generative AI to all its developers"
+    excerpt: "Helping programmers become more productive, modernizing legacy systems and conducting compliance assessments are among the hundreds of gen AI use cases in production or in the pipeline for Shadman Zafar,"
+    publishedDateTime: 2024-02-28T01:40:00Z
+    webUrl: "https://www.americanbanker.com/news/why-citi-is-rolling-out-generative-ai-to-all-its-developers"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 0
-  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
-    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"
-    publishedDateTime: 2024-02-26T16:04:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article285939161.html"
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/7bbe3eb/2147483647/strip/true/crop/3000x1575+0+204/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fd6%2F07%2F775653d8444aa9c315818244d643%2F402523218.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Teachers learning ways to utilize artificial intelligence"
+    excerpt: "ROCHESTER, Minn. - Artificial intelligence is on the rise and an education forum held by the Southeast Service Cooperative aimed to help teachers navigate how to use AI in a"
+    publishedDateTime: 2024-02-29T01:15:00Z
+    webUrl: "https://www.kimt.com/news/teachers-learning-ways-to-utilize-artificial-intelligence/article_e4ef58c4-d6b0-11ee-b919-e3c02e2bbbef.html"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 0
+      name: KIMT
+      domain: kimt.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kimt.com/content/tncms/assets/v3/editorial/6/3d/63d76dd6-d6b9-11ee-a70f-c7d920fcfc59/65e00559ca8b8.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+2CH2Mat195ldqbhDCg/4k56hdOMwo75dKqGdcqO49zk7bGSKF3njP3pB8PRvigkSdoVvT9XykVoooANTI1NuD5vOK5/QAx4He3y/PFa6gLwzY00zrv41fCiiW22hm+mkhPYxXSmCfVqBp4X81ZlV3iC3iblm05wqYVdS7s2mWwrGR/Ebgwd2umMuAg+CAKPRgmF78BPGEW2kQudSIO8tctIC6QLBcNaqRNRXCcCr5mv2KzdeOUuAlXozRqHYwaRlFH3DiEKOYZHfTSBF5XsZWIp1Ve3SV3IN7N5tboj5sKNsWeuH/lzds/q8oNUQzmaNdKGZvzcxl5sFXZ+h8aJE9cI1eOhEjLYNgHr8QII4ho=;yJfTTvorHmeHXf9FAfBOBA=="
 ---
