@@ -2,6 +2,194 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-12-31-news-tagged-with-deep-learning-algorithms.md",
+      "title": "News tagged with deep learning algorithms",
+      "excerpt": "Northwestern Medicine scientists have developed a deep learning algorithm capable of identifying the location where a genetic process called polyadenylation occurs on the genome, according to ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/tags/deep+learning+algorithms/",
+      "originalUrl": "https://medicalxpress.com/tags/deep+learning+algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-31T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-30-exploring-ai-images-using-the-same-prompt-with-different-models.md",
+      "title": "Exploring AI Images: Using The Same Prompt With Different Models",
+      "excerpt": "An examination of AI image creation and how different models interpret the same prompt. Exploring Firefly, Dall-E, Imagen and Midjourney.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sunilrajaraman/2023/12/29/exploring-ai-images-using-the-same-prompt-with-different-models/",
+      "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2023/12/29/exploring-ai-images-using-the-same-prompt-with-different-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658f5aca708f2075354265e0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1325,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sunilrajaraman/2023/12/29/exploring-ai-images-using-the-same-prompt-with-different-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2023/12/29/exploring-ai-images-using-the-same-prompt-with-different-models/amp/",
+      "publishedDateTime": "2023-12-30T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-30-michael-cohen-admits-he-sent-fake-ai-generated-legal-cases-to-his-lawyer.md",
+      "title": "Michael Cohen Admits He Sent Fake, AI-Generated Legal Cases To His Lawyer",
+      "excerpt": "The former Donald Trump lawyer blamed his own attorney for failing to check the cases before submitting them to the judge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137",
+      "originalUrl": "https://www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/658f1e922200003200ad4169.jpeg?ops=1200_630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137/amp",
+      "publishedDateTime": "2023-12-29T23:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-30-thoughts-on-ai-in-education-learning-a-new-way.md",
+      "title": "Thoughts On AI In Education: Learning A New Way",
+      "excerpt": "Artificial intelligence has a lot of potential and opportunities to optimize teaching and learning processes. We know this, intuitively, but then when you start talking to people who are working on this and get an actual picture of what it looks like – well, it’s a real eye-opener.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in-education-learning-a-new-way/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in-education-learning-a-new-way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658f0800187f67b88db75bca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1595,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in-education-learning-a-new-way/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in-education-learning-a-new-way/amp/",
+      "publishedDateTime": "2023-12-29T17:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-12-30-ai-and-agriculture-better-farming-better-food.md",
       "title": "AI And Agriculture: Better Farming, Better Food",
       "excerpt": "If you think about it, it makes sense – so much of agriculture involves geospatial analysis, and using detailed data to fine-tune systems.",
@@ -1019,196 +1207,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-medbright-ai-announces-closing-of-investment-in-limmi-healthcare-ai-platform.md",
-      "title": "MedBright AI Announces Closing of Investment in Limmi Healthcare AI Platform",
-      "excerpt": "Pursuant to the IP License and Option Agreement, Limmi also granted to MB Licensing Co. the binding and irrevocable option to purchase the Limmi AI Platform (the “ Option ”) on the earlier of: (a) October 16, 2025; and (b) 90 days after a written request by Limmi for MB Licensing Co. to exercise the Option.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/medbright-ai-announces-closing-of-investment-in-limmi-healthcare-ai-platform-1032930995",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/medbright-ai-announces-closing-of-investment-in-limmi-healthcare-ai-platform-1032930995",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-28T22:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films.md",
-      "title": "This Week In XR: Anthropic Raising $750 Million, NY Times Sues Open AI, Cinematic AI Holidays Films",
-      "excerpt": "Curious Refuge Holiday AI Film Award Winners. Curious Refuge, an online community for Cinematic AI, partnered with Epidemic Sound, to sponsor a $7,500 contest for the best short holiday theme made with AI tools. The first place winner ($5000) is Dragged Holidays by Rafael Arinelli, Beto Padreca, and Paula Fernandes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/12/28/this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/12/28/this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658dd61b87d2fcb2f6d701c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/12/28/this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/12/28/this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films/amp/",
-      "publishedDateTime": "2023-12-28T22:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-health-care-up-on-defensive-bias-health-care-roundup.md",
-      "title": "Health Care Up on Defensive Bias -- Health Care Roundup",
-      "excerpt": "Health-care companies rose as traders rotated back to the sector from more cyclical niches of the market. Shares of obesity drug maker Novo Nordisk rose",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/health-care-up-on-defensive-bias-health-care-roundup-c4236497",
-      "originalUrl": "https://www.marketwatch.com/story/health-care-up-on-defensive-bias-health-care-roundup-c4236497",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-up-on-defensive-bias-health-care-roundup-c4236497",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-up-on-defensive-bias-health-care-roundup-c4236497",
-      "publishedDateTime": "2023-12-28T21:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-lg-unveils-ai-powered-wheeling-smart-robot-for-the-home.md",
-      "title": "LG Unveils AI-Powered, Wheeling Smart Robot for the Home",
-      "excerpt": "LG describes the bot, which doesn’t have an official name just yet, as a “moving smart home hub.” The bot comes packed with Qualcomm’s RB5 robotics chip, cameras, speakers and sensors for gauging temperature, humidity and air quality.",
-      "sourceUrl": null,
-      "webUrl": "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview",
-      "originalUrl": "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F12%2Flg-smart-agent-robot-home-preview-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-28T21:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hypebeast",
-        "domain": "hypebeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

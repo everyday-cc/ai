@@ -260,6 +260,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
+  - title: "Microsoft debuts AI-powered Copilot for Finance as it continues company-wide AI push"
+    excerpt: "On Tuesday, the company also disclosed it is working with OpenAI rival Mistral and will begin offering that firm’s AI models via its Azure cloud platform. In its most recent earnings report, Microsoft revealed that AI services contributed 6 percentage ..."
+    publishedDateTime: 2024-02-29T11:17:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-debuts-ai-powered-copilot-161713828.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 64
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/ybCxS43NhQOBa5jkIkbISA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/6b32ce3930fd4f032171c753d4ab7fee"
+        width: 1200
+        height: 740
+        isCached: true
   - title: "You Can Now Replace Google Assistant With Microsoft's Copilot AI"
     excerpt: "A few weeks ago, Google rebranded its AI platform Bard, which is now known as Gemini. Aside from some additional service options, like Gemini Advanced, the company also casually announced that you can now replace Google Assistant on your Android with Gemini."
     publishedDateTime: 2024-02-27T00:00:00Z
@@ -399,6 +413,20 @@ related:
       - url: "https://d.ibtimes.co.uk/en/full/1722534/microsoft.jpg"
         width: 1280
         height: 914
+        isCached: true
+  - title: "Microsoft adds new Copilot features to Windows 11 as AI hype remains high"
+    excerpt: "The updates, which are part of Microsoft’s Copilot preview, are part of the company’s effort to incorporate generative AI across its various product lines beyond its Azure cloud segment. It's also part of a broader industry push to use AI PCs ..."
+    publishedDateTime: 2024-02-29T13:00:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-adds-copilot-features-windows-180034301.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 53
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/ybCxS43NhQOBa5jkIkbISA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/6b32ce3930fd4f032171c753d4ab7fee"
+        width: 1200
+        height: 740
         isCached: true
   - title: "Clifford Chance Rolls Out Microsoft-Partnered AI Strategy Across Whole Firm"
     excerpt: "The latest expansion comes after Clifford Chance became one of the first law firms to develop its own private and secured AI tool—Clifford Chance Assist—developed on Microsoft’s Azure OpenAI platform that was rolled out across the firm in December ..."

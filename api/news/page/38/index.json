@@ -2,6 +2,197 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2024-02-01-6-common-cloud-migration-problems-and-how-to-solve-them.md",
+      "title": "6 Common Cloud Migration Problems And How To Solve Them",
+      "excerpt": "Caswell points out that if you have data on Azure, Amazon and Google clouds ... cloud-native apps, analytics and machine learning as well as databases, desktops and critical services. “Importantly, for data people, you have the ability to take snapshots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nutanix/2024/02/01/6-common-cloud-migration-problems-and-how-to-solve-them/",
+      "originalUrl": "https://www.forbes.com/sites/nutanix/2024/02/01/6-common-cloud-migration-problems-and-how-to-solve-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b817ae8df6e2ed4037c7f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nutanix/2024/02/01/6-common-cloud-migration-problems-and-how-to-solve-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nutanix/2024/02/01/6-common-cloud-migration-problems-and-how-to-solve-them/amp/",
+      "publishedDateTime": "2024-02-01T14:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro.md",
+      "title": "Google CEO Sundar Pichai confirms Bard Advanced will be Google’s answer to Microsoft’s Copilot Pro",
+      "excerpt": "Microsoft announced Copilot Pro, a subscription-based tier of its AI-powered tool for power users and content creators, offering advanced help. Google",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/articleshow/107332510.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/articleshow/107332510.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107332476,width-1280,height-720,resizemode-4/107332476.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/amp_articleshow/107332510.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/amp_articleshow/107332510.cms",
+      "publishedDateTime": "2024-02-01T14:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-ais-energy-appetite-meeting-the-demand-for-innovation.md",
+      "title": "AI's Energy Appetite: Meeting The Demand For Innovation",
+      "excerpt": "To fully realize AI’s enormous potential for economic growth, we need to see change in how we address growing power demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/ais-energy-appetite-meeting-the-demand-for-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/ais-energy-appetite-meeting-the-demand-for-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/659c2d1488df177bd020a272/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1169,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/ais-energy-appetite-meeting-the-demand-for-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/ais-energy-appetite-meeting-the-demand-for-innovation/amp/",
+      "publishedDateTime": "2024-02-01T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-exclusive-ai-healthcare-software-startup-cohere-health-just-raised-50-million.md",
+      "title": "Exclusive: AI healthcare software startup Cohere Health just raised $50 million",
+      "excerpt": "Cohere Health just raised $50 million in Series B funding. The AI startup automates prior authorizations for health insurance plans like Humana.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/exclusive-ai-cohere-health-raises-50-million-series-b-extension-2024-1",
+      "originalUrl": "https://www.businessinsider.com/exclusive-ai-cohere-health-raises-50-million-series-b-extension-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-forging-a-framework-for-central-bank-digital-currencies-and-tokenization-of-other-financial-assets.md",
       "title": "Forging a framework for central bank digital currencies and tokenization of other financial assets",
       "excerpt": "A high performing framework for CBDCs that combines privacy, regulation compliance and advanced resilience.\nThe post Forging a framework for central bank digital currencies and tokenization of other financial assets appeared first on IBM Blog.\n",
@@ -954,187 +1145,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-getting-started-with-amazon-titan-text-embeddings.md",
-      "title": "Getting started with Amazon Titan Text Embeddings",
-      "excerpt": "Embeddings play a key role in natural language processing (NLP) and machine learning (ML). Text embedding refers to the process of transforming text into numerical representations that reside in a high-dimensional vector space. This technique is achieved through the use of ML algorithms that enable the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-titan-text-embeddings/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-titan-text-embeddings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/30/ml-15931-image001.png",
-          "width": 721,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T01:06:31Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-3d-printed-pneumatic-modules-replace-electric-controls-in-soft-robots.md",
-      "title": "3D-printed pneumatic modules replace electric controls in soft robots",
-      "excerpt": "A research team develops 3D-printed pneumatic logic modules that control the movements of soft robots using only air pressure. These modules enable logical switching of the air flow and can thus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/02/240201121800.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/02/240201121800.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives.md",
-      "title": "Artificial intelligence program at Florida medical center rapidly diagnoses, saving lives",
-      "excerpt": "(WPEC) — The evolution of artificial intelligence is changing the way ... Medical Director of Vascular Surgery and Endovascular Therapy Dr. Joseph Ricotta works at DMC. He said the AI program ...",
-      "sourceUrl": null,
-      "webUrl": "https://wsbt.com/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions",
-      "originalUrl": "https://wsbt.com/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wsbt",
-        "domain": "wsbt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-google-bard-finally-gets-a-free-ai-image-generator-heres-how-to-try-it.md",
-      "title": "Google Bard finally gets a free AI image generator – here’s how to try it",
-      "excerpt": "Considering how popular image generating is right now, Google Bard’s recent update that adds AI image generation seems all but inevitable. According to the official Google Bard update page ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/computing/artificial-intelligence/google-bard-finally-gets-a-free-ai-image-generator-heres-how-to-try-it",
-      "originalUrl": "https://www.techradar.com/computing/artificial-intelligence/google-bard-finally-gets-a-free-ai-image-generator-heres-how-to-try-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/M45wF2YrAKDwdearegmHC5-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

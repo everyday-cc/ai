@@ -33,8 +33,13 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 61
+    quality: 83
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-29-image.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
 
-secured: "Ljc+PWIg8i2M49LBAqy2C/miGHL16SdpnN9ct2729v6giNDixqRZYV4uu35UGj/1Gcb8FEKFhSt9Nori6OYlXCyugtjxv7la0lTSIfVfSmSUN7bGpZF7ZNKqYejClAqNZrGSf8AZvvgEQvmuj5CJSx/ryVY8/c4tfLVWsYDMGhopbkt0MPSwVQLts6C1Ul1dcSoVBD2wszW/plfsCZhS5nl4PruJAKtjmBnVqN02bpyoWg3vI7l36Q38vB3tgbaGHtuaAOb6om176cDPb8pE3Uv9rg5O96npdFRCaxZkKdTVtEcGukFQ4w+mpHACnt5nGq/x7M8u2xPt8m56VpiplMcSYOFrlm4/WKgk5GC9rk0=;vfEb66dkzzHs4/5DGQgucg=="
+secured: "GH7iibB2YkiwCna1/n5/2F9ch28BIhukXr81l4LxwBFAxcJ/1dhzMToxbxCUlyIWDsEZXHRTrw/pAJXiRMURA6/xmL9fEOG5+uPd/yLt5OUS/jQw5mmDgfuL5bixCQc51MR1PjfgqtlNm6kR8L52qCPwiC45uZc8dlDJpBzaw2ODn0iNPh22I70ERTxnMhaPNjq3M1ViSEtbkRn72/ylrznEvjZTsOHHocyW1uz/t4Mw92VX9u22+Wj36/2eSXLYUxXnGzGudotQaf5wDcMLmrJoMx/SzIE7mOgLigyl+FpE+AP5bKYF0VQLMcNBfx1OJHT6d9F0tiwjv/0iUe6LF3pUPG4xzCG7S3evuen95mEz1JxWeAeCRh09cWw24ddRsavwLdLPi0x5MXKBIlrB55c0oHDiapb+EPU8+SXQECUIHIzzi3OPZbnsNUWlljLPZ+KlAC75KE27VfQjp+dhtLxFfX2K5X3XLVXb0AV0XH5MjTYuWSbuQvNey34Q+NLOZZXgSYP1H5vCRNJjkpIZeQ==;+j5ta+hvbfwMy1jy4U8s6g=="
 ---
 

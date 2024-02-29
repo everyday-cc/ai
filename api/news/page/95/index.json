@@ -2,6 +2,168 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2023-12-08-allergy-drug-added-to-immunotherapy-benefits-lung-cancer-therapy-in-small-trial.md",
+      "title": "Allergy Drug Added to Immunotherapy Benefits Lung Cancer Therapy in Small Trial",
+      "excerpt": "IL-4 blockade using dupilumab enhanced lung cancer response to checkpoint blockade in mice and in lung cancer patients with treatment-resistant disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/topics/cancer/allergy-drug-added-to-immunotherapy-benefits-lung-cancer-therapy-in-small-trial/",
+      "originalUrl": "https://www.genengnews.com/topics/cancer/allergy-drug-added-to-immunotherapy-benefits-lung-cancer-therapy-in-small-trial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T00:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-driverless-cars-were-once-the-future-now-they-are-on-the-road-to-nowhere.md",
+      "title": "Driverless cars were once the future, now they are on the road to nowhere",
+      "excerpt": "Developing driverless cars has been artificial intelligence’s (AI) greatest test. Today, we can say it has failed miserably, despite the expenditure of tens of billions of dollars in attempts to produce a viable commercial vehicle. Moreover, the recent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/editorials/archives/2023/12/08/2003810303",
+      "originalUrl": "https://www.taipeitimes.com/News/editorials/archives/2023/12/08/2003810303",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/images/2023/12/08/p09-231208-gp.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-french-ai-start-up-mistral-secures-2bn-valuation.md",
+      "title": "French AI start-up Mistral secures €2bn valuation",
+      "excerpt": "French artificial intelligence start-up Mistral has been valued at €2bn in a blockbuster funding round set to close as early as Friday, becoming the latest beneficiary of the investor frenzy to buy into the world’s hottest AI companies. The Paris-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/ea29ddf8-91cb-45e8-86a0-f501ab7ad9bb?trk=public_post_comment-text",
+      "originalUrl": "https://www.ft.com/content/ea29ddf8-91cb-45e8-86a0-f501ab7ad9bb?trk=public_post_comment-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-investors-have-piled-into-ai-startups-following-the-launch-of-chatgpt-here-are-32-pitch-decks-used-by-ai-founders-to-win-over-vcs.md",
+      "title": "Investors have piled into AI startups following the launch of ChatGPT. Here are 32 pitch decks used by AI founders to win over VCs.",
+      "excerpt": "Generative AI, media, and design This startup uses generative AI to speed up the property-buying process. Check out the 14-slide pitch deck Orbital Witness used to raise $9 million. Kinnu helps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2",
+      "originalUrl": "https://www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6572fced0ec98e92f74d67d3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2?amp",
+      "publishedDateTime": "2023-12-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-llama-antibodies-could-pave-the-way-for-new-norovirus-treatments.md",
       "title": "Llama Antibodies Could Pave the Way for New Norovirus Treatments",
       "excerpt": "The unexpected findings reveal that nanobodies could be developed as a therapeutic agent against human norovirus. Llama nanobodies may give an upper hand Llamas and related animals such as camels and alpacas, produce antibodies for protection against ...",
@@ -899,187 +1061,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-accelerating-cloud-native-development-in-microsoft-azure.md",
-      "title": "Accelerating cloud native development in Microsoft Azure",
-      "excerpt": "From GPU support to reference implementations, the latest updates to Azure Container Apps combine Microsoft’s commitment to developer productivity with its latest AI development tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/03/147256163-100250158-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html",
-      "publishedDateTime": "2023-12-07T10:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-who-will-be-the-ai-winners-of-2024-here-are-2-top-contenders.md",
-      "title": "Who Will Be the AI Winners of 2024? Here Are 2 Top Contenders.",
-      "excerpt": "Nowadays, IBM is where you find enterprise-class solutions for computing needs, powered by intelligent cloud computing designs and the Watson AI engine. Leaving the consumer market to other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/07/2-ai-winners-of-2024-and-beyond/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/07/2-ai-winners-of-2024-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/757369/thinking-robot.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T09:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-wimi-developed-explainable-artificial-intelligence-xai-based-fnirs-neuroimage-classification.md",
-      "title": "WiMi Developed Explainable Artificial Intelligence (XAI)-based fNIRS Neuroimage Classification",
-      "excerpt": "WiMi's XAI-based fNIRSfNIRS neuroimage classification system employs two key classification modules, i.e., a one-dimensional sliding-window-based convolutional neural network (CNN ... wimi-developed-explainable-artificial-intelligence-xai-based-fnirs ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-developed-explainable-artificial-intelligence-xai-based-fnirs-neuroimage-classification-1032881677",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-developed-explainable-artificial-intelligence-xai-based-fnirs-neuroimage-classification-1032881677",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-automation-anywhere-announces-collaboration-agreement-with-aws-to-expand-generative-ai-solution-availability-for-customers.md",
-      "title": "Automation Anywhere Announces Collaboration Agreement with AWS to Expand Generative AI Solution Availability for Customers",
-      "excerpt": "The collaboration will make it easier for customers to leverage the full breadth of Automation Anywhere's intelligent automation capabilities through their AWS investments and streamline go-to-market opportunities between the two companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.netindia123.com/netindia/showdetails.asp?id=4146519&cat=Business",
-      "originalUrl": "https://www.netindia123.com/netindia/showdetails.asp?id=4146519&cat=Business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T05:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Net India 123",
-        "domain": "netindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

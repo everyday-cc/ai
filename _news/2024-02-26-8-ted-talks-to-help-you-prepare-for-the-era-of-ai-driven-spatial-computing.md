@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence: Preparing for the EU AI Act"
+    excerpt: "On February 2, 2024, EU member states approved the final text of the EU's Artificial Intelligence Act, providing an official framework for the use of AI. According to the European Parliament, its priority is to \"make sure that AI systems used in the EU are ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-preparing-for-4927482/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 52
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16204_3837.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Welcome to the era of mobile AI"
     excerpt: "When integrated into phones, AI is, to put it simply ... Availability of the service varies by country and language. Accuracy of results is not guaranteed. 3 Live Translate requires a network connection and Samsung Account login. Live Translate is only ..."
     publishedDateTime: 2024-02-27T00:00:00Z

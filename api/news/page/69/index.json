@@ -2,6 +2,188 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2024-01-07-speech-accessibility-project-expands-to-include-als-patients-in-us-and-puerto-rico.md",
+      "title": "Speech Accessibility Project expands to include ALS patients in U.S. and Puerto Rico",
+      "excerpt": "The Speech Accessibility Project has expanded its recruitment and is inviting U.S. and Puerto Rican adults living with amyotrophic lateral sclerosis to participate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20240105/Speech-Accessibility-Project-expands-to-include-ALS-patients-in-US-and-Puerto-Rico.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20240105/Speech-Accessibility-Project-expands-to-include-ALS-patients-in-US-and-Puerto-Rico.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/7/image_28620e4b6b0047f7ab9154b41d739db1-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-07T10:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-07-ces-2024-will-see-ai-in-everything-from-robots-to-laptops-heres-what-to-expect.md",
+      "title": "CES 2024 will see AI in everything from robots to laptops — here's what to expect",
+      "excerpt": "Artificial intelligence fever will be everywhere at CES this year with the technology appearing in everything from smart home products to laptops and robots. The past twelve months have seen an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/features/ces-2024-will-see-ai-in-everything-from-robots-to-laptops-heres-what-to-expect",
+      "originalUrl": "https://www.tomsguide.com/features/ces-2024-will-see-ai-in-everything-from-robots-to-laptops-heres-what-to-expect",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2LtvxawLodfs2okBJ2V8nb-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-2-artificial-intelligence-ai-stocks-down-58-and-69-to-buy-in-2024-and-hold-for-the-long-haul.md",
+      "title": "2 Artificial Intelligence (AI) Stocks Down 58% and 69% to Buy in 2024 and Hold for the Long Haul",
+      "excerpt": "With the artificial intelligence (AI) revolution just starting to unfold and expectations that the Federal Reserve might cut interest rates this year, investors who back the right beaten-down ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/01/06/2-artificial-intelligence-ai-stocks-down-58-and-69/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/06/2-artificial-intelligence-ai-stocks-down-58-and-69/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/759259/a-person-looking-at-charts-on-a-computer.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-06T07:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-meet-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions.md",
+      "title": "Meet the humanoid robot that learns from natural language and mimics human emotions",
+      "excerpt": "Tokyo Researchers have used GPT-4, a large language model, to control the movements and behaviors of Alter3, a humanoid robot.",
+      "sourceUrl": null,
+      "webUrl": "https://cyberguy.com/future-tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions/",
+      "originalUrl": "https://cyberguy.com/future-tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cyberguy.com/wp-content/uploads/2024/01/Meet-Alter3-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CyberGuy",
+        "domain": "cyberguy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-01-06-new-google-bard-leak-reveals-a-ton-of-new-features-headed-for-googles-chatgpt-rival.md",
       "title": "New Google Bard leak reveals a ton of new features headed for Google's ChatGPT rival",
       "excerpt": "Google has some big plans for its Google Bard AI assistant, but while the company is staying tight-lipped on an official launch date for now, a new leak may have blown the lid on a few of the ...",
@@ -896,178 +1078,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-column-excited-about-ai-and-self-driving-cars-a-top-roboticist-is-here-to-burst-your-bubble.md",
-      "title": "Column: Excited about AI and self-driving cars? A top roboticist is here to burst your bubble",
-      "excerpt": "\"the hubris about the coming of self driving cars was at a similar level to the hubris in 2023 about ChatGPT being a step towards AGI (Artificial General Intelligence) being just around the corner.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/column-excited-ai-self-driving-110016853.html",
-      "originalUrl": "https://www.aol.com/news/column-excited-ai-self-driving-110016853.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_la_times_articles_830/95783ca652072cb3089c663f1aa51e38",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T03:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-nku-professors-students-are-building-a-robotic-hand-controlled-by-brain-waves.md",
-      "title": "NKU professors, students are building a robotic hand controlled by brain waves",
-      "excerpt": "Inside a lab at Northern Kentucky University, students and professors from are working on a project to help arm amputees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/local-news/finding-solutions/nku-professors-students-are-building-a-robotic-hand-controlled-by-brain-waves",
-      "originalUrl": "https://www.wcpo.com/news/local-news/finding-solutions/nku-professors-students-are-building-a-robotic-hand-controlled-by-brain-waves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/d231ca4/2147483647/strip/true/crop/632x332+0+22/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F53%2F84%2Fc6a0c9944857afec23ff9b29c007%2Fscreen-shot-2024-01-01-at-10-13-55-pm.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T01:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization.md",
-      "title": "Virtusa Announces Strategic Collaboration with AWS to Accelerate Cloud Data Migration and IT Modernization",
-      "excerpt": "Virtusa Corporation, a global provider of digital strategy, digital engineering, and information technology (IT)",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization/",
-      "originalUrl": "https://www.datanami.com/this-just-in/virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2024/01/Virtusa-298x300.jpg",
-          "width": 298,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-04T16:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-mammotion-introduces-yuka-3d-vision-robotic-mower-with-self-emptying-sweeper-and-lawn-imagery-printing.md",
-      "title": "MAMMOTION Introduces YUKA, 3D Vision Robotic Mower with Self-Emptying Sweeper and Lawn Imagery Printing",
-      "excerpt": "SHENZHEN, China, Jan. 4, 2024 /PRNewswire/ -- MAMMOTION, a leader in robotic outdoor solutions, today unveiled the YUKA - 3D vision robotic lawn mower with a self-emptying sweeper and lawn imagery printing, marking a new era of intelligent, perfect, and artistic lawn care to your fingertips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mammotion-introduces-yuka-3d-vision-robotic-mower-with-/2024/01/04/9940324.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mammotion-introduces-yuka-3d-vision-robotic-mower-with-/2024/01/04/9940324.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2311099/YUKA_robot_lawn_sweeping_mower.jpg",
-          "width": 400,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-04T12:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

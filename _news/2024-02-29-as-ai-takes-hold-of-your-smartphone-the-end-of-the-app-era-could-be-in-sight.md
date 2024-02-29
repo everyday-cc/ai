@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/generative-ai-smartphones-mwc-arti
 webUrl: "https://www.businessinsider.com/generative-ai-smartphones-mwc-artificial-intelligence-assistants-apps-2024-2"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,31 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "AI Could Replace the Apps on Your Phone. I've Seen It With My Own Eyes"
+    excerpt: "A concept phone at MWC demonstrates how AI has the potential to radically transform the way ... You can also find her writing about tech for good, ethics and human rights, the climate crisis, robots, travel and digital culture. She was once described ..."
+    publishedDateTime: 2024-02-29T18:54:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/ai-could-replace-the-apps-on-your-phone-ive-seen-it-with-my-own-eyes/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
+    images:
+      - url: "https://www.cnet.com/a/img/resize/e3da625833bd1d09584b999827b3f167718c7573/hub/2024/02/29/a18fd767-6726-4832-bd9a-fb293d9392a0/brain-ai-deutsche-10.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "I Controlled Honor's Magic 6 Pro Phone With Just My Eyes. It Felt Like Wizardry"
+    excerpt: "You can also find her writing about tech for good, ethics and human rights, the climate crisis, robots, travel and digital culture ... I never did get a spoon to bend or glass of water to fall over with my mind, but I didn't totally lose faith."
+    publishedDateTime: 2024-02-28T20:33:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/i-controlled-honors-magic-6-pro-phone-with-just-my-eyes-it-felt-like-wizardry/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 30
 
 secured: "oGv3z5BrmOr8AbbLpzHJS3DVm0awJ58oRxiXwfxmrItUOHgsavOYl5sgGE3FztYyjLbW2xQvcCaZdDanj2PQkEGPdVFZeZpjqd+8DknAWw0IW5tt9u3Lv7lghZBMUlaQuvl2Pupxd9n1K7Iqec0H5yOsKMvUklApsdG/yqypRM/PH8PorMrpSbKlZoQpBCH+FUhc7LUWKGbsQkHv/dLw0xdgwOXP3XPp5yDke6t4/sy+QKVLxGfbNh9SNZM2trzRveD8i0GRzYRi52y5+Hs6P+QifLiEtMaP+mCUFiZA1jYwCUJyuHre7umHrtv7wM3J+aTg+QHFX+pwPqmx5Z56Rwv2ejHKyBvYBexOfD4ANiA=;1VdrEtzWyKH9KnQa4WxKxg=="
 ---

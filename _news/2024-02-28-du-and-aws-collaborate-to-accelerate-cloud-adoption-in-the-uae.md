@@ -28,9 +28,9 @@ images:
 
 related:
   - title: "Sage signs Strategic Collaboration Agreement with AWS to enable AI-powered solutions for Small and Mid-Sized Businesses"
-    excerpt: "This agreement will significantly enhance how SMBs optimize their operations with generative artificial intelligence (AI) and tackle environmental responsibilities, with Sage Earth now available in AWS Marketplace. Today, SMBs can leverage Sage Intacct in ..."
-    publishedDateTime: 2024-02-27T16:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sage-signs-strategic-collaboration-agreement-with-aws-to-enable-ai-powered-solutions-for-small-and-mid-sized-businesses-1033109462"
+    excerpt: "Today, SMBs can leverage Sage Intacct in AWS Marketplace. With this collaboration, Sage expands its relationship with AWS, enabling SMBs to successfully navigate the complexities of modern finance and address environmental responsibilities with cutting-edge solutions."
+    publishedDateTime: 2024-02-27T22:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sage-signs-strategic-collaboration-agreement-with-aws-to-enable-ai-powered-solutions-for-small-and-mid-sized-businesses-1033109441"
     type: article
     provider:
       name: Business Insider

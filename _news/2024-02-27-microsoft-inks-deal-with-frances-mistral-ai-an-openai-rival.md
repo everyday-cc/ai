@@ -67,6 +67,24 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Robotics startup Figure raises $675 mln from Microsoft, Nvidia, OpenAI"
+    excerpt: "Robotics startup Figure said on Thursday it raised $675 million in a funding round from investors including Nvidia , Microsoft and Amazon.com founder Jeff Bezos at a valuation of $2.6 billion."
+    publishedDateTime: 2024-02-29T15:20:00Z
+    webUrl: "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
+  - title: "Robotics startup Figure raises $675 mln from Microsoft, Nvidia, OpenAI"
+    excerpt: "The launch of ChatGPT by OpenAI has generated interest in AI, with companies investing million of dollars to cash in on the trend. Other companies involved in the Figure funding include OpenAI Startup Fund, Amazon Industrial Innovation Fund, Parkway ..."
+    publishedDateTime: 2024-02-29T16:20:00Z
+    webUrl: "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/?n=@"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
   - title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
     excerpt: "The company said Thursday that it raised $675 million at a $2.6 billion valuation from investors including Jeff Bezos, Nvidia, Microsoft and Amazon ’s $1 billion Industrial Innovation Fund."
     publishedDateTime: 2024-02-29T11:00:00Z
@@ -77,7 +95,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 93
+    quality: 95
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015"
         width: 2000
@@ -452,6 +470,22 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 46
+  - title: "Microsoft's Bold $16 Million Gamble on Mistral AI, the Challenger to GPT-4 and Claude 2 - A Strategic Move or a Risky Bet For Microsoft Shares?"
+    excerpt: "The collaboration highlights the integration of Mistral's AI capabilities into Microsoft's Azure AI platform. Mistral is preparing to provide open and commercial language models on Azure, following in the footsteps of OpenAI. A key focus of this ..."
+    publishedDateTime: 2024-02-29T11:47:00Z
+    webUrl: "https://www.benzinga.com/24/02/37399511/microsofts-bold-16-million-gamble-on-mistral-ai-the-challenger-to-gpt-4-and-claude-2-a-strategic-mov"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37399511"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37399511"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
+    images:
+      - url: "https://cdn.benzinga.com/files/-_1.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Humanoid robot-maker Figure partners with OpenAI and gets backing from Jeff Bezos"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of ..."
     publishedDateTime: 2024-02-28T15:19:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2024/02/28/apple-annual-shareholder-meeting-2
 webUrl: "https://www.cnbc.com/2024/02/28/apple-annual-shareholder-meeting-2024-ai-investments.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Apple CEO Tim Cook set to unveil plans to expand generative AI use"
+    excerpt: "Apple CEO Tim Cook set to announce plans to reveal more about generative artificial intelligence later this year, highlighting its potential for enhancing productivity. Despite slower deployment compared to rivals,"
+    publishedDateTime: 2024-02-29T18:45:00Z
+    webUrl: "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use-11709190395879.html"
+    ampWebUrl: "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/APPLE-LAWSUIT-COMPENSATION-0_1707356185453_1709190574096.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Apple CEO Tim Cook promises big AI push for 2024 — what we know"
     excerpt: "AI carries its own share of potential pitfalls around ethics, inclusion, and risks. At Wednesday's Apple shareholder meeting, the AFL-CIO’s pension trust had issued a proposal that would have required Apple to issue a report on its ethical use of AI."
     publishedDateTime: 2024-02-28T00:00:00Z
@@ -33,6 +49,20 @@ related:
     quality: 39
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/5bVodBq8ZhiUbswuQcQZNS-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Apple to Unveil Ambitious Plan to Integrate Generative AI Later This Year"
+    excerpt: "Despite the defeat, the AFL-CIO's Brandon Rees expressed hope for improved disclosure practices by Apple on AI ethics and usage. The AFL-CIO had requested Apple to report on its AI applications in business operations and reveal any ethical standards ..."
+    publishedDateTime: 2024-02-29T04:37:00Z
+    webUrl: "https://www.gizbot.com/internet/news/apple-to-unveil-ambitious-plan-to-integrate-generative-ai-later-this-year-092117.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 38
+    images:
+      - url: "https://www.gizbot.com/img/2024/02/apple-11-1709180634.jpg"
         width: 1200
         height: 675
         isCached: true

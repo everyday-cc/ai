@@ -2,6 +2,159 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-26-hr-leaders-must-ensure-ai-adoption-is-a-success.md",
+      "title": "HR Leaders Must Ensure AI Adoption Is A Success",
+      "excerpt": "It's a steep learning curve, but the longer we wait to start, the steeper it gets. Because AI adoption requires frontline managers' understanding and cooperation, I believe HR leaders are integral to its success. When the discussion of AI adoption begins ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d8989b0216c468579d5548/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/",
+      "publishedDateTime": "2024-02-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students.md",
+      "title": "PowerSchool PowerBuddy Providing AI PowerUps To Schools And Students",
+      "excerpt": "Harnessing years of data and with a clear conception of what students and teacher need, PowerSchool has introduced a suite of AI tools to enhance its product suite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/",
+      "originalUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d9322c1aa6b470e2297cd7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/amp/",
+      "publishedDateTime": "2024-02-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-whats-stopping-cybersecurity-from-being-ai-driven.md",
+      "title": "What's Stopping Cybersecurity From Being AI-Driven?",
+      "excerpt": "Cybersecurity, with its reliance on big data and moving at the speed of innovation, has one of the most compelling use cases for the latest evolution of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d8c24e9e1d87c92efbf728/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 862,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/",
+      "publishedDateTime": "2024-02-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-german-robotics-startup-raises-43-million-to-automate-smaller-factories.md",
       "title": "German Robotics Startup Raises $43 Million To Automate Smaller Factories",
       "excerpt": "It’s these manufacturers that are the target for RobCo, a startup designing low-cost and modular robots ... led by Lightspeed Venture Partners to help RobCo grow and to develop AI that could make the robots smarter, allowing them to plan out the most ...",
@@ -225,6 +378,58 @@
         "AI Ethics",
         "AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-nvidia-boss-jensen-huang-says-children-shouldnt-learn-to-code-as-ai-can-do-all-the-work.md",
+      "title": "Nvidia boss Jensen Huang says children shouldn't learn to code as AI can do all the work",
+      "excerpt": "Read our ethics statement. A hot potato ... The Nvidia boss believes that AI has made the need to learn programming redundant, and humans should instead focus on more important skills such as biology, education, manufacturing, or farming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html",
+      "originalUrl": "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2022/12/2022-12-29-image-2.jpg",
+          "width": 2000,
+          "height": 1042,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T05:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -677,7 +882,7 @@
       "originalUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1033,205 +1238,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-navigating-the-ai-paradigm-shift-in-business.md",
-      "title": "Navigating The AI Paradigm Shift In Business",
-      "excerpt": "AI can help business leaders make successful decisions, add sustainable strategies to their business operations, and help them adapt to ever-changing markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rhettpower/2024/02/25/navigating-the-ai-paradigm-shift-in-business/",
-      "originalUrl": "https://www.forbes.com/sites/rhettpower/2024/02/25/navigating-the-ai-paradigm-shift-in-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d918195ce4dc7116060068/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T11:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-these-high-flying-artificial-intelligence-ai-stocks-could-sink-20-or-more-over-the-next-12-months-according-to-wall-street.md",
-      "title": "These High-Flying Artificial Intelligence (AI) Stocks Could Sink 20% or More Over the Next 12 Months, According to Wall Street",
-      "excerpt": "But just as the story of the fabled king took a turn for the worse, some of the stocks that have been gold mines for investors just might be headed for a rough patch. These high-flying AI stocks could sink 20% or more over the next 12 months, according to Wall Street.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/25/these-high-flying-artificial-intelligence-ai-stock/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/25/these-high-flying-artificial-intelligence-ai-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/766377/thumb-down.jpg",
-          "width": 2122,
-          "height": 1413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T10:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-amazon-founder-jeff-bezos-joins-microsoft-chatgpt-maker-openai-to-invest-in-this-robotics-company.md",
-      "title": "Amazon founder Jeff Bezos joins Microsoft, ChatGPt maker OpenAI to invest in this robotics company",
-      "excerpt": "ARK Venture Fund, Aliya Capital Partners, and Tamarack are also among the startup's investors ... may surpass larger competitors. Figure AI, based in Sunnyvale, California, develops general-purpose humanoid robots capable of operating in various ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 437,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107974425,width-1280,height-720,resizemode-4/107974425.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms",
-      "publishedDateTime": "2024-02-25T02:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-honor-magicbook-pro-16-ai-powered-laptop-launched-at-mwc-intel-core-ultra-7-rtx-4060-gpu.md",
-      "title": "Honor MagicBook Pro 16 AI-powered laptop launched at MWC: Intel Core Ultra 7 & RTX 4060 GPU",
-      "excerpt": "At the Mobile World Congress (MWC) 2024, Honor introduced the Honor MagicBook Pro 16, an AI-enhanced laptop, alongside their new flagship smartphone, the Magic 6 Pro. The laptop features a sleek metal body, which is just 17.9mm thick and weighs around 1.86kg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/25/honor-magicbook-pro-16-laptop-launched-mwc/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/25/honor-magicbook-pro-16-laptop-launched-mwc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/Screenshot-2024-02-25-210840.png",
-          "width": 1072,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

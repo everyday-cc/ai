@@ -2,6 +2,205 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2024-01-23-eve-the-robot-can-cook-clean-and-guard-your-home.md",
+      "title": "Eve the robot can cook, clean and guard your home",
+      "excerpt": "Kurt “CyberGuy\" Knutsson introduces you to EVE, a smart and versatile humanoid robot that uses a modified version of AI and Chat GPT-4 to handle a variety of tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home",
+      "originalUrl": "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed7f3ed3-7b32-4095-b15c-1b79086a972d/cf9675d4-15da-4a5b-ae91-590bbce4449c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home.amp",
+      "publishedDateTime": "2024-01-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-want-to-improve-rewire-your-brains-neural-pathways.md",
+      "title": "Want To Improve? Rewire Your Brain's Neural Pathways",
+      "excerpt": "Will your brain adjust just because it has the capability and capacity to do so? Not necessarily. You have to want to change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae8254d725061c1c6886e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/amp/",
+      "publishedDateTime": "2024-01-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-hyundai-motor-in-artificial-intelligence-theme-innovation-strategy.md",
+      "title": "Hyundai Motor in artificial intelligence: theme innovation strategy",
+      "excerpt": "How many patents did Hyundai Motor submit related to artificial intelligence last quarter, and how many were granted? Discover the latest information here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/data-insights/hyundai-motor-in-artificial-intelligence-theme-innovation-strategy/",
+      "originalUrl": "https://www.just-auto.com/data-insights/hyundai-motor-in-artificial-intelligence-theme-innovation-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/report-desktop.png",
+          "width": 388,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T10:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-investing-in-artificial-intelligence-ai-stocks-can-be-risky-but-heres-a-spectacular-way-to-do-it.md",
+      "title": "Investing in Artificial Intelligence (AI) Stocks Can Be Risky, but Here's a Spectacular Way to Do It",
+      "excerpt": "Artificial intelligence (AI) was the dominant stock ... t just an internet and cloud computing company -- it's also home to Waymo, an early mover in self-driving technology. Apple might seem ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/01/23/investing-in-ai-stocks-risky-but-heres-way-do-it/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/23/investing-in-ai-stocks-risky-but-heres-way-do-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/762051/a-pot-plant-carved-in-the-shape-of-an-upward-trending-arrow.jpg",
+          "width": 4000,
+          "height": 2666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T10:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-softbank-leads-travelperks-104-million-fundraising-in-a-bet-that-ai-will-reshape-corporate-travel.md",
       "title": "SoftBank leads TravelPerk's $104 million fundraising, in a bet that AI will reshape corporate travel",
       "excerpt": "Barcelona-based corporate travel startup TravelPerk said Tuesday it raised $104 million in a new equity round led by SoftBank's Vision Fund 2.",
@@ -946,168 +1145,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-report-alphabets-x-lab-letting-go-dozens-of-employees-as-part-of-restructuring.md",
-      "title": "Report: Alphabet’s X lab letting go dozens of employees as part of restructuring",
-      "excerpt": "Alphabet Inc.’s X research lab, which incubated Waymo and the Wing delivery drone venture, is reportedly letting go of dozens of employees.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/01/22/report-alphabets-x-lab-letting-go-dozens-employees-part-restructuring/",
-      "originalUrl": "https://siliconangle.com/2024/01/22/report-alphabets-x-lab-letting-go-dozens-employees-part-restructuring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-lawyers-use-of-ai-spurs-ethics-rule-changes.md",
-      "title": "Lawyers' use of AI spurs ethics rule changes",
-      "excerpt": "The Florida Bar on Friday provided lawyers with some clarity on how they can use artificial intelligence without running afoul of ethics rules, following a similar move by the California Bar in November.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/lawyers-use-ai-spurs-ethics-rule-changes-2024-01-22/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/lawyers-use-ai-spurs-ethics-rule-changes-2024-01-22/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T20:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-franz-unveils-allegrograph-cloud-a-managed-service-for-neuro-symbolic-ai-knowledge-graphs.md",
-      "title": "Franz Unveils AllegroGraph Cloud – A Managed Service for Neuro-Symbolic AI Knowledge Graphs",
-      "excerpt": "There is an interesting contradiction in AI between rule-based systems and machine learning. While rule-based systems offer better interpretation and",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2024/01/22/franz-unveils-allegrograph-cloud-a-managed-service-for-neuro-symbolic-ai-knowledge-graphs/",
-      "originalUrl": "https://www.datanami.com/2024/01/22/franz-unveils-allegrograph-cloud-a-managed-service-for-neuro-symbolic-ai-knowledge-graphs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2022/03/neural_net_shutterstock_vs148.jpg",
-          "width": 800,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T20:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-how-to-handle-a-ransomware-attack.md",
-      "title": "How to handle a ransomware attack ",
-      "excerpt": "With ransomware becoming more prevalent, learn how your organization can swiftly respond to these cyberattacks.\nThe post How to handle a ransomware attack  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-respond-to-ransomware-attack/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-respond-to-ransomware-attack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T20:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

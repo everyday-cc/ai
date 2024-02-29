@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Adobe's Music Tool Fills Major Gap in the AI Content-Generating Circle"
+    excerpt: "The current crop of generative AI systems excels at giving people the power to fashion art and other creative content without requiring they have a scrap of talent themselves: you don't have to know how to create a van Gogh-inspired oil painting to go in a company poster, you can just ask an AI to do it."
+    publishedDateTime: 2024-02-29T17:20:00Z
+    webUrl: "https://www.inc.com/kit-eaton/adobes-music-tool-fills-major-gap-in-ai-content-generating-circle.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/adobe-ai-music_537978_z5g6mt.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "A Regulation To Promote Responsible AI In Health Care"
     excerpt: "While we are artificial intelligence (AI) optimists, we also recognize the potential for negative impacts from AI. A primary goal of the HTI-1 final rule is to address these concerns by promoting the development and use of AI in health care that is fair,"
     publishedDateTime: 2024-02-28T14:18:00Z

@@ -40,6 +40,15 @@ related:
         width: 272
         height: 249
         isCached: true
+  - title: "3 Fintech Stocks That Will Keep Growing in 2024 and Beyond"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are changing the way we look at finance. These companies"
+    publishedDateTime: 2024-02-29T16:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-that-will-keep-growing-in-2024-and-beyond-1033119936"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "ASTRI sets up FinTech and ESG Alliance"
     excerpt: "The \"FinTech and ESG Alliance\" marks ASTRI's third alliance formation ... Innovative Mind, and IoT Sensing and AI Technologies. It is applied across six core areas which are Smart City, Financial Technologies, New-Industrialisation and Intelligent ..."
     publishedDateTime: 2024-02-25T23:59:00Z
@@ -96,15 +105,6 @@ related:
         width: 324
         height: 250
         isCached: true
-  - title: "India’s Fintech M&A Count Hits 30 in 2023, Lending Sector Tops List"
-    excerpt: "Lending Fintech companies accounted for 30% of all Fintech acquisitions in India in 2023, highlighting a shift in market dynamics amid growing regulatory"
-    publishedDateTime: 2024-02-24T18:10:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221865-indias-fintech-ma-count-hits-30-in-2023-lending-sector-tops-list/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 4
 
 secured: "RjFcjbwoyEUdpH2qj0wHOKCM97tAlcJSZEx0Ex6LZFIXf+hQce7izNMDdCKYz6JCeqf+SU62f0hxUBpRKyY1nu8ZQTgk8NtXkKpv0+6yHJFYALXkU0Gs8w9t7DTz8L4duwuNzF7Sw3vuZh9ZMleZnu38/zn9wVn5DTmOWS4DW+g/n1x8D+II/NPt9TFaYt+Cv5XX48ac88GEfQ/iEFqq/qrlPcwmv9Om1fHi6AEcZS/AglyLPcNSyW/dKJphQOdSPUaRvazL141mth56k+enc9KGyiCG2zCamiW9HUq71NiK39GinxSIvF6XkT3lAs/8xBnEJ00SsXh7xvqCifFmScECGKf2q9UfqsxdFq44PNo=;2kDa2GD6PcwAS/LQ2znSnQ=="
 ---

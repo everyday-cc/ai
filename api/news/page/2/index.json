@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-29-kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality.md",
+      "title": "Kirin Sinha Shares How Generative AI Has Fueled Augmented Reality",
+      "excerpt": "Kirin Sinha, of Illumix, shares the advancements in artificial intelligence that have allowed augmented reality to become much more accessible to everyday consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/yolarobert1/2024/02/28/kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality/",
+      "originalUrl": "https://www.forbes.com/sites/yolarobert1/2024/02/28/kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfd54517391182538dba3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/yolarobert1/2024/02/28/kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yolarobert1/2024/02/28/kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality/amp/",
+      "publishedDateTime": "2024-02-29T00:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-hid-certify-health-and-cts-align-to-elevate-healthcare-with-facial-recognition.md",
+      "title": "HID, CERTIFY Health, and CTS align to elevate healthcare with facial recognition",
+      "excerpt": "Related To: HID Global AUSTIN, Texas, February 28, 2024 – HID has announced a collaborative self-service patient engagement and facial recognition offering designed to enhance healthcare operations and administer an improved patient service at every ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/53097853/hid-global-hid-certify-health-and-cts-align-to-elevate-healthcare-with-facial-recognition",
+      "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/53097853/hid-global-hid-certify-health-and-cts-align-to-elevate-healthcare-with-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/02/65dfce4da99e5b001e1f8f7f-blobid0_1709098284206.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T00:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-ai-warfare-is-already-here.md",
+      "title": "AI Warfare Is Already Here",
+      "excerpt": "The Maven group set out to assess object recognition tools from different vendors, testing them on drone footage recorded by US Navy SEAL units in Somalia. None performed particularly well, recalls Jane Pinelis, who oversaw the early testing and evaluation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/",
+      "originalUrl": "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T00:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-crunchyrolls-hope-for-ai-generated-subtitles-is-a-disaster-waiting-to-happen.md",
       "title": "Crunchyroll's Hope for AI-Generated Subtitles Is a Disaster Waiting to Happen",
       "excerpt": "But AI won’t do anything of the sort—and a fraught aspect ... or done wholly, through machine translation. Large language models have come a long way in the last year, often distressingly so for creatives in the broader business of writing.",
@@ -449,7 +588,7 @@
       "originalUrl": "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 185,
       "tags": null,
       "images": null,
       "content": "",
@@ -544,7 +683,7 @@
       "originalUrl": "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1062,144 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias.md",
-      "title": "'We got it wrong': Google CEO Sundar Pichai says 'Gemini AI responses show bias'",
-      "excerpt": "Google CEO Sundar Pichai has addressed the ongoing issues with the company's Gemini AI chatbot (previously called Bard), calling some of the responses by the AI chatbot as ‘problematic’ and showing bias. Notably, Google had recently paused the text-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias-11709118937108.html",
-      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias-11709118937108.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2024/02/28/1600x900/GERMANY-MSC-104_1709122364632_1709122410471.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias/amp-11709118937108.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias/amp-11709118937108.html",
-      "publishedDateTime": "2024-02-28T10:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-the-most-popular-neural-network-styles-and-how-they-work.md",
-      "title": "The most popular neural network styles and how they work",
-      "excerpt": "Understanding the basics of neural networks also helps us address deeper questions about the nature of consciousness and what artificial intelligence (in its current incarnation) means for it. Fortunately, the fundamental ideas of neural networks are not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
-      "originalUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/11/10/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large-100934453-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
-      "publishedDateTime": "2024-02-28T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-intels-double-whammy-a-chip-making-duopoly-and-a-huge-ai-advantage.md",
-      "title": "Intel’s Double Whammy: A Chip-Making Duopoly and a Huge AI Advantage",
-      "excerpt": "And since duopolies are nearly always extremely lucrative for the firms that participate in them, Intel’s financial results should get a huge boost once it becomes one-half of a global chip-making duopoly. Meanwhile, the firm’s strong AI chips for ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/intels-double-whammy-a-chip-making-duopoly-and-a-huge-ai-advantage-1033113693",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/intels-double-whammy-a-chip-making-duopoly-and-a-huge-ai-advantage-1033113693",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T09:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

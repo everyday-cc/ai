@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Adobe's Music Tool Fills Major Gap in the AI Content-Generating Circle"
+    excerpt: "The current crop of generative AI systems excels at giving people the power to fashion art and other creative content without requiring they have a scrap of talent themselves: you don't have to know how to create a van Gogh-inspired oil painting to go in a company poster, you can just ask an AI to do it."
+    publishedDateTime: 2024-02-29T17:20:00Z
+    webUrl: "https://www.inc.com/kit-eaton/adobes-music-tool-fills-major-gap-in-ai-content-generating-circle.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/adobe-ai-music_537978_z5g6mt.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "H2O.ai Inaugurates GenAI World for Public Sector to Spur Growth and Innovation of Generative AI for Government Departments and Agencies"
     excerpt: "H2O.ai, an open source leader in Generative AI and machine learning, continues its world tour of bringing GenAI"
     publishedDateTime: 2024-02-28T16:41:00Z

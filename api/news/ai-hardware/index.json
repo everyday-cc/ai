@@ -10,9 +10,18 @@
       "originalUrl": "https://www.techspot.com/news/102072-pc-gpu-shipments-increased-20-last-quarter-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 93,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-29-image.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -41,7 +50,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 Fintech Stocks That Will Keep Growing in 2024 and Beyond"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are changing the way we look at finance. These companies"
+    publishedDateTime: 2024-02-29T16:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-that-will-keep-growing-in-2024-and-beyond-1033119936"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "GCC Artificial Intelligence Market Share Analysis| Size, Trends, Industry Report 2024-2032"
     excerpt: "The latest report by IMARC Group, titled“ GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2024-2032“ , offers a comprehensive analysis of the industry, which comprises insights on the GCC artificial ..."
     publishedDateTime: 2024-02-28T03:00:00Z
@@ -95,15 +104,6 @@ related:
         width: 324
         height: 250
         isCached: true
-  - title: "India’s Fintech M&A Count Hits 30 in 2023, Lending Sector Tops List"
-    excerpt: "Lending Fintech companies accounted for 30% of all Fintech acquisitions in India in 2023, highlighting a shift in market dynamics amid growing regulatory"
-    publishedDateTime: 2024-02-24T18:10:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221865-indias-fintech-ma-count-hits-30-in-2023-lending-sector-tops-list/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 4
 
 secured: "zd4Sw7i7yG5wDofgr8RblutuRermZ707euruLRxEmObeDiq7uXN1q+jIg7yBK7NexlIJ8e7jMCELYM+Rjy2t8gKeDqhKpUSvzj1rGx2mCFNApdrgWoh5v/gWaXX7d3DSITwT18RrrAwUCZi0ftqrX5NMSgmrWFrX6ZDzGHty4702N06Z+Y66RugG6Izm3Zb/i+EHbOodIUM2E0K0x4jsLfPNa9dg/TvnicxzlyjoGLSl6GGXJ0f0BRTwtHYdUucWzqMxUmYWsgaZSqubJ16i3mLPlVExFD6/sYNNlz/rdkWpnSzS47AVg25EZzSraY01vpqHZi48AT6JOCmBr7Vy3bSWDU7jJS7b7EugtAHeEd8=;tEL9fWPyU6ZQSYBN0SNKLQ=="
 ---

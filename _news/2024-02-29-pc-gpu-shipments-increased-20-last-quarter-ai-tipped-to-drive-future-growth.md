@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-29T12:38:00Z
 originalUrl: "https://www.techspot.com/news/102072-pc-gpu-shipments-increased-20-last-quarter-ai.html"
 webUrl: "https://www.techspot.com/news/102072-pc-gpu-shipments-increased-20-last-quarter-ai.html"
 type: article
-quality: 61
-heat: 71
+quality: 83
+heat: 93
 published: true
 
 provider:
@@ -21,6 +21,13 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI Ethics
+
+images:
+  - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-29-image.jpg"
+    width: 2000
+    height: 1125
+    isCached: true
 
 related:
   - title: "GPU Shipments Are Booming Again Just In Time For The AI PC Gold Rush"
@@ -38,6 +45,6 @@ related:
         height: 400
         isCached: true
 
-secured: "zOPJWjgoKh/CMLs/lkddM5yj+VhJ+x5G4Giqd528kQq6+qChfgUbIYoR6WWl20pmjmSDOQBQ9CevYCXFHx4Icw1gHlzPIt6RwOooFyFbAuqbneqaanx5rGTtzjQX2/hNQGVLtiO9GWEscNtPVXAEMF1jsLLahcPCGdNJKxG8DBsWTPO5avzp5qOlbuBa5FEI0WRX5hk6H9g3XJncNhpI5UEeXK2oQ4rmWL/oGKBU71NXBbWN1JDx9B2h8xi7iZKExzaFX60xj5kig8uN4M5NDTCxJvJTiWDVQvFQoxSzm+NkXIjF6xkUgnvjUTAOG7zJFsQmV017M0AEU2Ykmn+5F5BwUosW9AgXCqIqrT8dnpzImQaxdWOfRYFCoK4pxFvmlNv9LU11FEaF8ZEf5RskQFDBXS9ivRpkHSX7ldw9BQeARZ+MmUpg3i9r5P2QRmrwuuR3V8vDIppgfjZHrKCT4E+5bImStfugRAMxDwq07N5zA0GKI1W3a4Q6cLHiw18VJWZCVVf/Z7YzHVu3IRjlBw==;AHgtNuVh7z+wZoN0hZSZ+Q=="
+secured: "PETK6R96PvhUNg9V4tFrXHXDr3+1uvzYiWBuIMSSb7bBJRJIP4gIiccI7Wul/iHi76LnKN7Bm43d0CJ0Wu4wY2yF0ni4cLrexjfUAYQojChlFZDjnvqIjSXl0E0Hq1/7YoZs4H6KTJrAFAxUJ2JGAclBKmY1qXqGa4kwiiRHqZ9ZrI2/iRMUZdpB7kNmBPDT7jgk/+HR9BW8NrcndS1KWL42hlGRKG1sns48Cxswx53yPYTnisz4YlH0h/ASXZBOfZF3QtR/pHpMDOFfWvIlNpbZJWtOKrWefknj9GkF2y5Wxlas31RCyQbGDQ9xd/B0YMVw7zMGI0EEVtttgdbsqGtd6kJvDih6wWdB3m5iLRY=;jnEoXj55Co/48yz8SDf7Xw=="
 ---
 

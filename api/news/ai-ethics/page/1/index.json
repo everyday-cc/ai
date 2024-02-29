@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-01-ai-could-replace-the-apps-on-your-phone-ive-seen-it-with-my-own-eyes.md",
+      "title": "AI Could Replace the Apps on Your Phone. I've Seen It With My Own Eyes",
+      "excerpt": "A concept phone at MWC demonstrates how AI has the potential to radically transform the way ... You can also find her writing about tech for good, ethics and human rights, the climate crisis, robots, travel and digital culture. She was once described ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/ai-could-replace-the-apps-on-your-phone-ive-seen-it-with-my-own-eyes/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/ai-could-replace-the-apps-on-your-phone-ive-seen-it-with-my-own-eyes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e3da625833bd1d09584b999827b3f167718c7573/hub/2024/02/29/a18fd767-6726-4832-bd9a-fb293d9392a0/brain-ai-deutsche-10.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T18:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use.md",
+      "title": "Apple CEO Tim Cook set to unveil plans to expand generative AI use",
+      "excerpt": "Apple CEO Tim Cook set to announce plans to reveal more about generative artificial intelligence later this year, highlighting its potential for enhancing productivity. Despite slower deployment compared to rivals,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use-11709190395879.html",
+      "originalUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use-11709190395879.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/APPLE-LAWSUIT-COMPENSATION-0_1707356185453_1709190574096.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html",
+      "publishedDateTime": "2024-02-29T18:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-data-governance-and-provenance-two-words-that-are-critical-to-the-future-of-generative-ai.md",
       "title": "Data Governance and Provenance: Two words that are critical to the future of generative AI",
       "excerpt": "Provenance refers to knowing the source of where a particular text, an image, a video, a snippet of code or other bit of information comes from,",
@@ -52,6 +147,59 @@
         "AI Ethics",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-pc-gpu-shipments-increased-20-last-quarter-ai-tipped-to-drive-future-growth.md",
+      "title": "PC GPU shipments increased 20% last quarter, AI tipped to drive future growth",
+      "excerpt": "On a quarterly basis, total PC GPU shipments increased 5.9 percent over Q3, but not all the GPU manufacturers benefited from the growth. While Intel's shipments",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102072-pc-gpu-shipments-increased-20-last-quarter-ai.html",
+      "originalUrl": "https://www.techspot.com/news/102072-pc-gpu-shipments-increased-20-last-quarter-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-29-image.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T12:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -115,7 +263,7 @@
       "originalUrl": "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -348,6 +496,58 @@
         "AI Ethics",
         "AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-nvidia-boss-jensen-huang-says-children-shouldnt-learn-to-code-as-ai-can-do-all-the-work.md",
+      "title": "Nvidia boss Jensen Huang says children shouldn't learn to code as AI can do all the work",
+      "excerpt": "Read our ethics statement. A hot potato ... The Nvidia boss believes that AI has made the need to learn programming redundant, and humans should instead focus on more important skills such as biology, education, manufacturing, or farming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html",
+      "originalUrl": "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2022/12/2022-12-29-image-2.jpg",
+          "width": 2000,
+          "height": 1042,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T05:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1318,215 +1518,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-the-ai-alliance-how-to-make-friends-and-influence-ai-policy.md",
-      "title": "The AI Alliance: How To Make Friends And Influence AI Policy",
-      "excerpt": "Goodson discusses the work of the AI Alliance and considers the possible outcomes of several companies being notably absent from its membership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cfcb347d195aa4fef03729/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 870,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/",
-      "publishedDateTime": "2024-02-16T20:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-the-iphone-16-could-feature-major-neural-engine-upgrade-for-on-device-generative-ai-tasks.md",
-      "title": "The iPhone 16 could feature major Neural Engine upgrade for on-device generative AI tasks",
-      "excerpt": "Apple's future generation of iPhone, iPad, and MacBook chips, the M4 and A18, will have an increased number of cores in their improved Neural Engines, writes",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101910-iphone-16-could-feature-major-neural-engine-upgrade.html",
-      "originalUrl": "https://www.techspot.com/news/101910-iphone-16-could-feature-major-neural-engine-upgrade.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-04-image-20.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T11:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution.md",
-      "title": "The Rise Of The Chief AI Officer: Powering AI’s Corporate Revolution",
-      "excerpt": "Explore the critical role of Chief AI Officers (CAIO) in steering companies through the AI revolution, transforming strategies, and securing a competitive edge",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cee0a23b56402c7e6cf6fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/",
-      "publishedDateTime": "2024-02-16T04:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-ai-in-cybersecurity-revolutionizing-safety.md",
-      "title": "AI In Cybersecurity: Revolutionizing Safety",
-      "excerpt": "With AI emerging as both a protector and a possible disruptor in our era, it's crucial to reevaluate our strategies for the future of cybersecurity and data privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62dafcb86452099050d194ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1406,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
-      "publishedDateTime": "2024-02-15T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

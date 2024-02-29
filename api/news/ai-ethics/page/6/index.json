@@ -2,6 +2,199 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-26-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech.md",
+      "title": "Indonesia: Central Bank Issues Ethical Guidelines on AI for Fintech",
+      "excerpt": "Indonesia's central bank, the Financial Services Authority (OJK), has partnered with the country's fintech associations to issue what it describes as ethical",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Bandung-City-Indonesia-fikri-rasyid-unsplash.jpg",
+          "width": 1600,
+          "height": 1457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/amp/",
+      "publishedDateTime": "2023-11-25T22:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence.md",
+      "title": "Unraveling the Technical and Ethical Requirements of Artificial Intelligence",
+      "excerpt": "In the rapidly evolving landscape of technology, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and societies. As the influence of AI continues to grow, it becomes imperative to delve into the technical and ethical considerations that underpin its development and deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/",
+      "originalUrl": "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-23T22:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-a-psychologist-explains-what-mind-reading-ai-can-do-to-us.md",
+      "title": "A Psychologist Explains What ‘Mind-Reading’ AI Can Do To Us",
+      "excerpt": "We are now able to translate human ... a non-invasive “language decoder” that can read brainwaves and interpret what people are thinking in real-time, making it one of the most important developments in the field of human-AI interaction today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/",
+      "originalUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655dc287b2a489c8f85430ab/0x0.jpg?format=jpg&crop=2646,1240,x366,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/",
+      "publishedDateTime": "2023-11-22T15:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-now-that-generative-ai-is-here-where-will-all-the-data-come-from.md",
+      "title": "Now That Generative AI Is Here, Where Will All The Data Come From?",
+      "excerpt": "In fact, they will rely on human feedback more than ever. No matter where it comes from (historical, publicly available, open source or synthetic), AI datasets will continue to be curated at both the macro and micro levels before being used to train a new model and on an ongoing basis once an application has been launched into the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62879c4bc9d8e1a64ac60506/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/amp/",
+      "publishedDateTime": "2023-11-22T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-exploring-ai-artificial-intelligences-development-and-future-potential.md",
       "title": "Exploring AI: Artificial intelligence’s development and future potential",
       "excerpt": "AI ethics in education is a big deal as well. Nadia Pesch, a senior at Lane Tech, said she’s familiar with classmates using Chat GPT to cheat. “I pretty much had every teacher saying ‘Don’ ...",

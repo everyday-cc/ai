@@ -2,6 +2,205 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-22-stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator.md",
+      "title": "Stability announces Stable Diffusion 3, a next-gen AI image generator",
+      "excerpt": "Larger models also require more VRAM on GPU accelerators to run. Since 2022, we've seen Stability launch a progression of AI image-generation models: Stable Diffusion 1.4, 1.5, 2.0, 2.1, XL, XL Turbo, and now 3. Stability has made a name for itself as ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sd3_cham_hero_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T13:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard.md",
+      "title": "I confused Google's most advanced AI - but don't laugh because programming is hard",
+      "excerpt": "Just a quick recap. Google's version of ChatGPT (its generative AI) was called Bard and is now called Gemini Advanced. What Gemini is to ChatGPT, Gemini Advanced is to ChatGPT Plus, including the $20/month fee. I went ahead and signed up for Gemini Advanced, adding it to my collection of monthly AI-related bills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard/",
+      "originalUrl": "https://www.zdnet.com/article/i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1f7efc90cbd9cdf1c80293d289f4ba910da9c26d/2024/02/22/1d55c4f9-6841-4699-a0b8-e4e4092a1857/confused-devgettyimages-1560259012.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard/",
+      "publishedDateTime": "2024-02-22T12:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-samsung-expands-galaxy-ai-features-across-latest-devices-with-one-ui-61-update.md",
+      "title": "Samsung Expands Galaxy AI Features Across Latest Devices with One UI 6.1 Update",
+      "excerpt": "“Our goal with Galaxy AI is not only to pioneer a new era of mobile ... The features include the ability to adjust message tone and translate messages in 13 different languages using Chat Assist. Galaxy users can experience the power of real-time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984",
+      "originalUrl": "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deccanchronicle.com/h-upload/2024/02/22/1076664-new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-news-thumb-1440x9601.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984",
+      "publishedDateTime": "2024-02-22T12:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-nonprofits-and-ai-determining-governance-and-corporate-structures.md",
+      "title": "Nonprofits And AI: Determining Governance And Corporate Structures",
+      "excerpt": "When it comes to emerging technologies like AI, innovative governance models are needed to ensure ... Impartial governance boards overseeing and certifying various dimensions like data practices, ethics reviews, model integrity assessments and adherence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654501b12845116962a18280/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/amp/",
+      "publishedDateTime": "2024-02-22T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry.md",
       "title": "AI Is Getting To Work In The Highly Regulated Investment Management Industry",
       "excerpt": "AI hit employment levels among the feted tech giants with 34,000 job losses this year. The AI “safety first” policy is resonating in the investment management industry.",
@@ -1034,161 +1233,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-silicon-microresonators-for-artificial-neural-networks.md",
-      "title": "Silicon microresonators for artificial neural networks",
-      "excerpt": "Researchers have made significant progress in the development of artificial neural networks using tiny silicon devices called microresonators, paving the way for faster and more energy-efficient ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1035234",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1035234",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-solutions.md",
-      "title": "Vonage and AWS leverage communications and network APIs to deliver solutions",
-      "excerpt": "and its Verify and Number Insights APIs paired with Amazon Rekognition. With this new update, Vonage will further build additional solutions like this that will accelerate bringing the power of network APIs to the market. Among its features, the SIM Swap ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cloudcomputing-news.net/news/2024/feb/22/vonage-and-aws-leverage-communications-and-network-apis-to-deliver-solutions/",
-      "originalUrl": "https://www.cloudcomputing-news.net/news/2024/feb/22/vonage-and-aws-leverage-communications-and-network-apis-to-deliver-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Computing",
-        "domain": "cloudcomputing-news.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-stakeholders-to-discuss-trust-security-and-privacy-in-ai-era.md",
-      "title": "Stakeholders to Discuss Trust, Security and Privacy in AI Era",
-      "excerpt": "Blockchain and the FinTech society have managed to create a new world that is much more inclusive, and full of opportunities. Based on a report by Gartner, which predicted that by 2024, 40 per cent of privacy compliance technology will rely on AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Naira.jpg",
-          "width": 753,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era?amp=1",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era?amp=1",
-      "publishedDateTime": "2024-02-21T23:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-googles-latest-ai-models-are-open-to-anyoneand-can-run-on-a-laptop.md",
-      "title": "Google’s Latest AI Models Are ‘Open’ to Anyone—and Can Run on a Laptop",
-      "excerpt": "Google's Gemma models were built and trained with the same technology used in Gemini, but the models are smaller and will be released under an open license.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/",
-      "originalUrl": "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2024/02/gemma-header.width-1600.format-webp.jpeg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/?amp=1",
-      "publishedDateTime": "2024-02-21T23:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }
