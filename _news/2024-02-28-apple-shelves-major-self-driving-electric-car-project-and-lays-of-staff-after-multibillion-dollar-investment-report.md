@@ -39,6 +39,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Behind Apple’s Doomed Car Project: False Starts and Wrong Turns"
+    excerpt: "Internal disagreements over the direction of the Apple car led the effort to sputter for years before it was canceled this week."
+    publishedDateTime: 2024-02-28T23:19:00Z
+    webUrl: "https://www.nytimes.com/2024/02/28/technology/behind-the-apple-car-dead.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: "https://static01.nyt.com/images/2024/02/28/multimedia/28apple-car-zkbt/28apple-car-zkbt-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Apple pull the plug on self-driving electric car project"
     excerpt: "Apple has reportedly decided to cancel its plans to develop electric vehicles (EVs), a project that has been in the works for around a decade."
     publishedDateTime: 2024-02-28T09:35:00Z
@@ -83,15 +97,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Apple reportedly cancels electric car development to focus on AI"
-    excerpt: "Open AI’s ChatGPT start page. Image source: Jonathan S. Geller It really isn’t surprising to see Apple making a shift like this. While the company has been working on an electric vehicle for years, it doesn’t appear to have been any closer to ..."
-    publishedDateTime: 2024-02-27T19:37:00Z
-    webUrl: "https://bgr.com/tech/apple-reportedly-cancels-electric-car-development-to-focus-on-ai/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
   - title: "Report: Apple cancels electric car to focus on artificial intelligence"
     excerpt: "Apple has canceled its secretive yearslong plan to develop an autonomous electric car, Bloomberg reported on Tuesday, citing anonymous sources with knowledge of the matter. Why it matters: Many of the engineers developing the car will instead be reassigned to focus on generative AI projects under the company's artificial intelligence division."
     publishedDateTime: 2024-02-27T19:30:00Z

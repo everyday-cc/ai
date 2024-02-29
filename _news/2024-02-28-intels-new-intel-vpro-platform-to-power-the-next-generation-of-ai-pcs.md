@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel plans on shipping 100 million CPUs for next-gen AI PCs by 2025"
+    excerpt: "Intel plans on shipping over 100 million processors for AI PCs by 2025, where it's working with Microsoft to try and 'define' the value of an AI PC."
+    publishedDateTime: 2024-02-28T23:13:00Z
+    webUrl: "https://www.tweaktown.com/news/96529/intel-plans-on-shipping-100-million-cpus-for-next-gen-ai-pcs-by-2025/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96529_04_intel-plans-on-shipping-100-million-cpus-for-next-gen-ai-pcs-in-2025_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Intel gets down to business with new vPro Core Ultra processors for the AI PC revolution"
     excerpt: "Intel Core Ultra processors with vPro come with an NPU (Neural Processing Unit) built in to function as an AI accelerator. Conversely, Intel 14th gen with vPro will continue to rely on the CPU or GPU for AI tasks due to them being an older architecture."
     publishedDateTime: 2024-02-27T00:00:00Z

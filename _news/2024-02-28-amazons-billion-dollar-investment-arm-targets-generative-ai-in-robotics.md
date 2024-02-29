@@ -52,15 +52,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How to implement the General Data Protection Regulation (GDPR)"
-    excerpt: "Follow this guide to implement the General Data Protection Regulation (GDPR) within your organization.\nThe post How to implement the General Data Protection Regulation (GDPR) appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-24T00:00:00Z
-    webUrl: "https://www.ibm.com/blog/general-data-protection-regulation-implementation/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "Measuring brain’s response to different musical genres with artificial intelligence"
     excerpt: "A research team from the University of Malaga (Andalusia, Spain) has analyzed how the brain responds to hearing different musical genres and has"
     publishedDateTime: 2024-02-26T08:48:00Z
@@ -131,6 +122,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "oOcW6jNB1H9VsxVd9p6YnFPW23C2bbxjWQ0RNBX/91Y4qt08xIA8THNNKefneAbmBrKBYmxncB473hnKJbijDFYn69zolFnmfIIvH9jaT4k77Rrlgge2K7a7QeQBBa30lXq1UWHbbhfB2ZsKVg2QpByhN+y7u/D9VMgQO/5UBFw2F5i9YhYTuVfEvqXF0KhL8gFxbozJRRYF5SBkBdXB1PDAX+N/AwMcKKGO+vN+jLj9UCN0mSfqYvxHrfpX5MCNhZdvSwAtybLMEzLXr0cauaVrBVTNMvbGJmFzBl5zZvohyHr+ALpHmLWTWJ3OGNy8HzKZG34wEfVtMHNu2UY/0tpnyuGof5j1khgoK9ieJfs=;9mhkpXZ5Fcexl7t1mBk8TQ=="
+secured: "Tm4fXCuMS7cGOH08wWXc72J4M0xirELzDVx1LGOytQUMul+QxLxqh/Sv3MewDwAXQuJN505e9S85eX+t4kkTAAykl10IjNlRG2aCjoaVbmMmXirq1mYGfHtUsnU1R3zewB+UPI+mQs2cx4IpshLKg0bAfdPUBNXI4Sjq9IrolyUGbXNitlLOOeqhqCPGCqHJYg0Q3aYZjyGNW+L5KG+S+cz11ARwkfDgvfytAwM34MfT8Z9hn30udL9sYJLxhFhIB9e7ps0R7+DymsUXcu56NGNNqMrERJpLXFrIPxx0Etn1OwwHt428Spe963kVP4DbxceXOWcH8WIpujE6NqE6TQv5BPNdQjlTZ0jZtvsGpueWskqItRAqb7iugIV+M7ErNq4rzVjLErQ69oTiU/XEOs9I15STeiD2tCbr82HJ0cItZnQsgtzwEnmBk+BFmio3iGWSuWT+K1vVfIeYnjD4Px0OcBSgLXUGcTFn8xdHD4r8k5uartEEtzG8+bjCcS0McwwOnMLLXyokYPGzgwPEeA==;5NYsW1+ad4KUYsGwlCi2IA=="
 ---
 

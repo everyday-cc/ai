@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon to invest in start-ups that combine AI with robotics"
-excerpt: "Separate from its innovation fund, Amazon has committed up to $4bn to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than €400mn in technologies that include industrial robotics ..."
-publishedDateTime: 2024-02-28T03:00:00Z
-originalUrl: "https://www.ft.com/content/7e0e2565-e2d3-4e86-872c-8810633c63b0"
-webUrl: "https://www.ft.com/content/7e0e2565-e2d3-4e86-872c-8810633c63b0"
+excerpt: "Franziska Bossart, head of ecommerce giant’s $1bn innovation fund, vows to increase deals aimed at automating retail network"
+publishedDateTime: 2024-02-28T10:59:00Z
+originalUrl: "https://www.ft.com/content/7e0e2565-e2d3-4e86-872c-8810633c63b0?shareType=nongift"
+webUrl: "https://www.ft.com/content/7e0e2565-e2d3-4e86-872c-8810633c63b0?shareType=nongift"
 type: article
 quality: 69
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: bloomberg.com
     quality: 47
 
-secured: "14wx5x6HgMT/QMPCIckn0IoD+GVLpp2mMDq55y4EOcJWFrAgeYuEI59cbOiqKcmeHyffOKwrBUsrdWR/aKljvLMKauIWRY2fjco6s/fg27dYk2m+Yxer6ZyouW9lD09EfiaLtZKaQ6v9FKo3OaFnVX5QU72HlZkQOgjjFOjJFw7/h3XdyNTcFFhVI6OarCrcOnajAVACKnPETY2NY+kqtr+wGTtgN641HoHyo9A+M7QIILm4+Mh1DK+eS/uCoTFijtFfMWWhK/wfmf6jk1wA+H/vddertdXwmAvsVUKWm8bKoRA8BbuvF1HgypP3CieHgnyWa2Rz/j8TlJBvHXbyd0g8I0eIjqFYSscdjyW2Km1QIjhtXZqGGbRBH9D6RmeiPDvhR2zTOd3H/3gMH3i5JyzDgwPeU4Y7sYkPF9VGIvyIAgz7KqW7cg2vAlupM9qftn30Oxq2t+vHrTugRitNO2CjTN/GSkwWl5BHPdwQAwFcYhXWqUkPrUY8WHUVQW9d0uNhvVm8xLWu6e7n+of7yg==;UKEgCTTkIJcIxVzO1pksDQ=="
+secured: "Z3qQK8JM8Lqv5cgNWZ73WdhwMe4EKfmZI+1kNhMzeDPXPNp0I+ckm0H3AM9OpMi3El38CNwqw4h4edzNp1GNxUl4QzRNyRBLTG594KQJ60Q9CFynQK1AgM1bpVtdCzge0PvgmR76VVbbSvHHghi8WhSrkQp6fihK+J5hAigIa2eROk08yWXicUNhS9xdkzoYQfBCI5QCjJMb1AbsiTEZVX3q/0yvobHJgGKrquzTxb3h+xkbzY4xXPXh0F25qQwg5qzM5QzenaTEPsDafegjp2cTWp/f+FfQe48w5rO/cUUJxgLJgm8G4MJFd5GNv8XZ66E6YVzvZhWx99y5skeOmED/nNTwHb+rvk+HVJTRLpg=;Zu2WsdvLiawcpgrIcy2zkw=="
 ---
 

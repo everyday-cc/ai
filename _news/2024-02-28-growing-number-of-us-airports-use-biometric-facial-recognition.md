@@ -7,7 +7,7 @@ originalUrl: "https://kvia.com/entertainment/stacker-travel/2024/02/28/growing-n
 webUrl: "https://kvia.com/entertainment/stacker-travel/2024/02/28/growing-number-of-us-airports-use-biometric-facial-recognition/"
 type: article
 quality: 54
-heat: 74
+heat: 76
 published: true
 
 provider:

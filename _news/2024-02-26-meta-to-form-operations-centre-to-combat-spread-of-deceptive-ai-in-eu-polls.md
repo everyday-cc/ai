@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fears of AI threat to democratic elections"
+    excerpt: "Fears of AI threat to democratic elections on linkedin (opens in a new window)"
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.ft.com/content/65464e5b-2f14-4eab-b79a-bab22ae12010"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b999ca0-23f5-4cd0-a19d-36a382376032.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1"
+        width: 700
+        height: 1047
+        isCached: true
   - title: "What every business leader should know about artificial intelligence, automation and accounting"
     excerpt: "It’s not uncommon for a business to have different software systems that don’t share information because they operate in silos. An executive could pull data from Enterprise Resource Planning and Customer Relationship Management systems but because the ..."
     publishedDateTime: 2024-02-25T23:59:00Z

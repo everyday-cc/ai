@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platf
 webUrl: "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -43,7 +43,16 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "HP’s AI-enhanced Spectre laptops set to transform user experiences"
+    excerpt: "HP recently launched its range of AI-enhanced Spectre x360 laptops, built with smart features that elevate performance, collaboration, and security. These AI PCs will change the role of a personal computer by simplifying tasks and enhancing usability for various aspects of life."
+    publishedDateTime: 2024-02-27T14:05:00Z
+    webUrl: "https://timesofindia.indiatimes.com/spotlight/hps-ai-enhanced-pcs-set-to-transform-user-experiences/articleshow/108008262.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
-secured: "rhh8QCjJaQK+WGHEGLTSwsW6DEnNwWxYCC3a4r4Qbp99PFBPtg+X9Fo2zcZnpb0YjQu+R5a4ZDJvRrTF9Yzd2p3i+aR1Q6Fp38p5Sma7HAsyAQ87TLGCCjrMIoMwRSYNyp0ozZw/Q8OHH73teGajb3YEO1CK/2q4oKcd+ptfRjlZx1HiFRbkZmHUutE7o1SVZFpC4McxErYwOkUc0dS2P2G8Mw0kdlewDqoYIW8VLR5nrVXmApuM6CriSnAWFilPrnMZCnhDGBPhloOZi1OoM7qVTxS3MEvLlUvFL4FF0PQYNlaQGKu1xOBmMiUMbwc6CQDMuTQBGQL7Macce98K0ZVuvLW6OycwYg+vk/IDe50=;jyDO1UvmMhEOgRrZBQhQaw=="
+secured: "/+ciS0AI6l3v+vGsPM15CPbtRSWc0hyo5EQhlllTnwtNkV9cpX8AvzeDAJrzhfmeI3tOnetOzKLTndJGCp0vyXlW6IZzpHz3AzW4PkbTWJyd/DcQNpZs/ge3N272XtPK6hZ+mU1SR2ngXsnEQpYxHHtxHXwLcLH10m/0lC50olM8QlG7W83ok+uVMmMDkhbNYUyjRskNoc9xnQPFpKsCJdrh+hs6XyfPU7e54m4JkrUAIehfWSt7uol8PO8JnYZEnuuc3YhN37o2yyUhYA/Y1bj91hJBl8X55Wp1OqIpX3eds8NPapTHcajl2k1cfdcJxcO8qM/eRdFqTeYMHo1dTgoAKsdCkRoHyiBEcUFxxVle9juMGv8XllS5Q3K8f7F4vVAwaMA0CB2LXcwhLpeWYRqEp8fiuY8SC25kQ8TOx6xIlzS21NQRMH1wFt9C9XPhAijTMB+OehuvC0/sNFsmQIzlvvn+KQRfs6i/oD+xRDk3CD5jjtsIgVJ66EW18opKNeToXkfv/D8F2NBHdAm2jw==;GmikM2IC/vWJzpmGXTQSxw=="
 ---
 

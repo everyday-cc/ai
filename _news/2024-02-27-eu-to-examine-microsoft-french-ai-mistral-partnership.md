@@ -163,22 +163,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Epic and Microsoft Azure: How to Ensure a Successful Cloud Migration"
-    excerpt: "Migrating an electronic health record system’s workloads to the cloud can optimize costs and improve reliability, scalability and security."
-    publishedDateTime: 2024-02-23T23:17:00Z
-    webUrl: "https://healthtechmagazine.net/article/2024/02/epic-and-microsoft-azure-how-ensure-successful-cloud-migration"
-    ampWebUrl: "https://healthtechmagazine.net/article/2024/02/epic-and-microsoft-azure-how-ensure-successful-cloud-migration?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2024/02/epic-and-microsoft-azure-how-ensure-successful-cloud-migration?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 74
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202402/GettyImages-1305444255_cropt.jpg?itok=uXy1hMVj"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "MC Explains: All about Microsoft-Mistral AI deal and why it has got EU worried"
     excerpt: "Launched in May 2023 byformer Google DeepMind and Meta researchers Arthur Mensch, Timothee Lacroix, and Guillaume Lample, the company garnered major attention even before its first product. One of the most enduring pieces of financial advice is to never ..."
     publishedDateTime: 2024-02-28T04:43:00Z

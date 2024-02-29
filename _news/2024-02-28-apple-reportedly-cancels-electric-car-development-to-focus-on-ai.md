@@ -18,96 +18,80 @@ topics:
   - AI
 
 related:
-  - title: "Apple Kills Its Electric Car Project"
-    excerpt: "The car, which Apple spent billions of dollars researching, had been intended as a rival to Tesla’s E.V.s, which include autonomous driving features."
-    publishedDateTime: 2024-02-27T20:47:00Z
-    webUrl: "https://www.nytimes.com/2024/02/27/technology/apple-ends-electric-car-plan.html"
+  - title: "Recent Healthcare-Related Artificial Intelligence Developments"
+    excerpt: "AI is here to stay. The development and use of artificial intelligence (“AI”) is rapidly growing in the healthcare landscape with no signs of slowing down. From a governmental perspective, many federal agencies are embracing the possibilities of AI."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/recent-healthcare-related-artificial-1356462/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
+      name: JD Supra
+      domain: jdsupra.com
     quality: 54
     images:
-      - url: "https://static01.nyt.com/images/2024/02/27/multimedia/27apple-car-ltgk/27apple-car-ltgk-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.2105_3135.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Apple pull the plug on self-driving electric car project"
-    excerpt: "Apple has reportedly decided to cancel its plans to develop electric vehicles (EVs), a project that has been in the works for around a decade."
-    publishedDateTime: 2024-02-28T09:35:00Z
-    webUrl: "https://bmmagazine.co.uk/news/apple-pull-the-plug-on-self-driving-electric-car-project/"
-    ampWebUrl: "https://bmmagazine.co.uk/news/apple-pull-the-plug-on-self-driving-electric-car-project/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/apple-pull-the-plug-on-self-driving-electric-car-project/?amp"
+  - title: "Why healthcare lags on AI, per Amazon"
+    excerpt: "Healthcare lags behind other industries in its adoption of artificial intelligence, largely because it lacks training capacity, according to a study commissioned by Amazon Web Services. Here are seven other things to know from the survey of 412 healthcare ..."
+    publishedDateTime: 2024-02-26T21:09:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-lags-on-ai-per-amazon.html"
     type: article
     provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 44
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2024/02/shutterstock_231155773-scaled.jpg"
-        width: 850
-        height: 567
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Apple cancels secretive electric car project in shift to focus on AI"
-    excerpt: "Apple has cancelled its efforts to build an electric car as it pivots to focus research funding on generative artificial intelligence, according to a person familiar with the matter."
-    publishedDateTime: 2024-02-27T21:15:00Z
-    webUrl: "https://www.ft.com/content/78bc9f62-8450-45c0-8c59-c5d87a122825"
+  - title: "Leveraging Risk Management Frameworks for AI Solutions in Health Care"
+    excerpt: "As recently described by The New England Journal of Medicine, the liability risks associated with using artificial intelligence (AI) in a health care setting are substantial and have caused consternation among sector participants. To illustrate that point ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/leveraging-risk-management-frameworks-5396076/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: JD Supra
+      domain: jdsupra.com
     quality: 39
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fca2f7cd2-3478-46d0-98d1-72175db893f4.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "Apple unplugs self-driving electric car project, reports say"
-    excerpt: "Many employees from the project will be moved to the iPhone maker's artificial intelligence (AI) division, according to Bloomberg News. Apple did not immediately respond to a BBC request for a comment. The Apple car team was reportedly known as the Special ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.aol.com/news/apple-unplugs-self-driving-electric-010959244.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b365fd882050850b2c18e7d53c14b2d2"
-        width: 976
-        height: 549
-        isCached: true
-  - title: "Report: Apple cancels electric car to focus on artificial intelligence"
-    excerpt: "Apple has canceled its secretive yearslong plan to develop an autonomous electric car, Bloomberg reported on Tuesday, citing anonymous sources with knowledge of the matter. Why it matters: Many of the engineers developing the car will instead be reassigned to focus on generative AI projects under the company's artificial intelligence division."
-    publishedDateTime: 2024-02-27T19:30:00Z
-    webUrl: "https://www.axios.com/2024/02/27/apple-electric-car-generative-artificial-intelligence"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
-  - title: "Apple Electric Car Project Cancelled After Billions Spent"
-    excerpt: "In August 2018, the BBC reported that Apple had 66 road-registered driverless cars, with 111 drivers registered ... instead shifting its efforts to generative artificial intelligence. BREAKING NEWS: Apple cancels the Apple Car project after a decade ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/02/apple-electric-car-project-cancelled-after-billions-spent.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 4
-  - title: "Apple shelves major self-driving electric car project and lays of staff after multibillion dollar investment – report"
-    excerpt: "Apple is reportedly planning to shut shop on its long-announced multibillion-dollar autonomous electric car project. Bloomberg reported citing sources within the tech giant that many staff involved in developing the ambitious vehicle are now being moved to work on the company’s generative artificial intelligence projects."
-    publishedDateTime: 2024-02-28T04:13:00Z
-    webUrl: "https://www.aol.com/news/apple-shelves-major-self-driving-041325998.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 1
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/5090da368318224effa2a538aff509d0"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
         width: 1200
-        height: 836
+        height: 900
         isCached: true
+  - title: "CorroHealth's AI Solution, REVIVE, Targets Small and Zero Balance Accounts to Boost Healthcare Finances"
+    excerpt: "the next evolution in intelligent technology targeting a healthcare system's aged receivables (AR). Building on CorroHealth's previous AR platform, REVIVE is re-engineered with artificial intelligence and automation to effectively recover revenue on small ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.healthcaredive.com/press-release/20240227-corrohealths-ai-solution-revive-targets-small-and-zero-balance-accounts/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 38
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1709054015/press_release/assets/header_images/REVIVE_Press_Release_Graphic4_h5ypaj.jpg"
+        width: 2000
+        height: 933
+        isCached: true
+  - title: "What the healthcare AI sector wants from Congress"
+    excerpt: "Healthcare interests clamoring for congressional action on artificial intelligence would also like lawmakers to remember the Hippocratic oath: First, do no harm. Second, they would like a little protection. Opinions about precisely which needs legislating ..."
+    publishedDateTime: 2024-02-27T08:00:00Z
+    webUrl: "https://www.modernhealthcare.com/politics-policy/healthcare-ai-congress-legislation-regulation"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
+  - title: "Do Patients Know When AI Is Assisting in Health Care?"
+    excerpt: "When you message your health care provider about an appointment, a prescription refill, or to answer a question, is artificial intelligence or a person actually answering? In some cases, it’s hard to tell."
+    publishedDateTime: 2024-02-27T19:59:00Z
+    webUrl: "https://www.webmd.com/a-to-z-guides/news/20240227/do-patients-know-when-ai-is-assisting-in-health-care"
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 19
 
 secured: "nFJjnv7MWQ6lu/5+pUvXk4xJ4mTn+Dnunt2zjxrmUZ5c2NNJ8yQoTE1n8nXzveO3Auq8CY0/qVHosGW5HLpGkP+00/DpIxpExCzxX6A2iJ28QlbqQn1UxRW7gKHeFsTjwVB4RCTIswNx1AoJ5uiAWudHbo4mU7otoIrGOuAgSBYNEf3l/HlbGEE2W47gYctto5rRWXWZvscfdl4IvS5m8t5Yux7doAd7k5I1k8prsoaGzuXcsnBQCgNrBD9cFh1B9vgh3innYVnX06tMd/q8uaxmFI+XNKbZoNYADqzLfAXxjv0FkQjcXILdDi9ZyxuOfsPnyiRU1Aw3ODxCQSgmMAHcFoF8UyKxyDiPnmi+pT5KTdSiFFQo8pn08Hgv7KRc+VSNQf51PZunyPa6uOJ/h5EX95GYb3PfPLGxmhpbr0ps0MvF+r20Lgd+RNhoB4BNVM5BO5YUET58GscWraQM166WqaC4DvLN7MxqzZfK2Cq1LCgY3yoJWs4vtqocPxhNLyVgyAAn5Z1az+/zDl2LGA==;ac/zGIS3dvWky/FWurGiTw=="
 ---

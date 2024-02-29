@@ -66,15 +66,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How to implement the General Data Protection Regulation (GDPR)"
-    excerpt: "Follow this guide to implement the General Data Protection Regulation (GDPR) within your organization.\nThe post How to implement the General Data Protection Regulation (GDPR) appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-24T00:00:00Z
-    webUrl: "https://www.ibm.com/blog/general-data-protection-regulation-implementation/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "Companies Need To Get Onboard The Generative AI Train"
     excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
     publishedDateTime: 2024-02-25T19:21:00Z

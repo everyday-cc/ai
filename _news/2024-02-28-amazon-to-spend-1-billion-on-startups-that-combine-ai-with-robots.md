@@ -30,9 +30,9 @@ images:
 
 related:
   - title: "Amazon to invest in start-ups that combine AI with robotics"
-    excerpt: "Separate from its innovation fund, Amazon has committed up to $4bn to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than €400mn in technologies that include industrial robotics ..."
-    publishedDateTime: 2024-02-28T03:00:00Z
-    webUrl: "https://www.ft.com/content/7e0e2565-e2d3-4e86-872c-8810633c63b0"
+    excerpt: "Franziska Bossart, head of ecommerce giant’s $1bn innovation fund, vows to increase deals aimed at automating retail network"
+    publishedDateTime: 2024-02-28T10:59:00Z
+    webUrl: "https://www.ft.com/content/7e0e2565-e2d3-4e86-872c-8810633c63b0?shareType=nongift"
     type: article
     provider:
       name: The Financial Times

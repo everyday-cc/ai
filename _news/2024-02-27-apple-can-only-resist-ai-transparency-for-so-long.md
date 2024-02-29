@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3713302/apple-can-only-resist-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Computerworld
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple investors reject call for ethics transparency on company’s AI use"
+    excerpt: "Discovery Inc. Apple Inc. shareholders rejected a labor-backed request for an artificial intelligence transparency report, which would have delved into whether the company is using the technology ethically. The proposal, submitted by AFL-CIO Equity Index ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 54
+    images:
+      - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Apple Investors Reject Bid for Transparency on AI Risks, Ethics"
     excerpt: "Apple shareholders rejected a bid seeking more information about how the tech giant uses artificial intelligence and what ethical guidelines it’s adopted to navigate the technology."
     publishedDateTime: 2024-02-28T17:26:00Z

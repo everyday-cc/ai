@@ -59,15 +59,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How to implement the General Data Protection Regulation (GDPR)"
-    excerpt: "Follow this guide to implement the General Data Protection Regulation (GDPR) within your organization.\nThe post How to implement the General Data Protection Regulation (GDPR) appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-24T00:00:00Z
-    webUrl: "https://www.ibm.com/blog/general-data-protection-regulation-implementation/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "Measuring brain’s response to different musical genres with artificial intelligence"
     excerpt: "A research team from the University of Malaga (Andalusia, Spain) has analyzed how the brain responds to hearing different musical genres and has"
     publishedDateTime: 2024-02-26T08:48:00Z

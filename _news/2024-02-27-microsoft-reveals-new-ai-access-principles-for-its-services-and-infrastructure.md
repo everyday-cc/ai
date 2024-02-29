@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-reveals-new-ai-access-principle
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/"
 type: article
 quality: 100
-heat: 580
+heat: 570
 published: true
 
 provider:
@@ -150,22 +150,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/robot_writing_on_a_notepad-e1708964969795.jpg?w=1200&strip=all"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Epic and Microsoft Azure: How to Ensure a Successful Cloud Migration"
-    excerpt: "Migrating an electronic health record system’s workloads to the cloud can optimize costs and improve reliability, scalability and security."
-    publishedDateTime: 2024-02-23T23:17:00Z
-    webUrl: "https://healthtechmagazine.net/article/2024/02/epic-and-microsoft-azure-how-ensure-successful-cloud-migration"
-    ampWebUrl: "https://healthtechmagazine.net/article/2024/02/epic-and-microsoft-azure-how-ensure-successful-cloud-migration?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2024/02/epic-and-microsoft-azure-how-ensure-successful-cloud-migration?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 74
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202402/GettyImages-1305444255_cropt.jpg?itok=uXy1hMVj"
-        width: 1440
-        height: 500
         isCached: true
   - title: "EU To Examine Microsoft, French AI Mistral Partnership"
     excerpt: "Microsoft said Monday it sealed a \"multi-year partnership\" that would allow Mistral to use its platforms including Azure AI, which enables businesses to build apps using AI. A Microsoft spokesperson said the company was pouring 15-million-euros ($16 ..."

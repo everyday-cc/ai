@@ -7,7 +7,7 @@ originalUrl: "https://www.columbiamissourian.com/news/artificial-intelligence-al
 webUrl: "https://www.columbiamissourian.com/news/artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation/article_e6ac8c68-d4f3-11ee-b2fc-f73e851137ae.html"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 600
     height: 314
     isCached: true
+
+related:
+  - title: "AI Warfare Is Already Here"
+    excerpt: "The Maven group set out to assess object recognition tools from different vendors, testing them on drone footage recorded by US Navy SEAL units in Somalia. None performed particularly well, recalls Jane Pinelis, who oversaw the early testing and evaluation ..."
+    publishedDateTime: 2024-02-29T00:15:00Z
+    webUrl: "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
 
 secured: "ulEMknm3vNBCKl6fJaSSyZnio7qUVdgIL42Y/J/SrcEZVeJkexLgC4tWi/WTJCaoeEnj1XadXI9yASdH6SwixlF4uKPIiIhrXwIFZIbQh5RPkyptBpeVrapJQiYw9q0moFWH0CohjIZkRBCuK6lKAlAr107WWDVgfU6mu9WyEMXZZbmM69pgkjuVNuI+mIL138N0uvkyFEHGqfDjrXYuvaXaNRi4wxpD+4DokfLvaVPvUseWj6+T4T1f2iFr0SEOdVzhvJRPlMA+cLGjAnC+33rX2iM9zDfjhpDGDjUFv/ycSBFcXbUfW7DZ+GmKTjrlP781n7gbCGHnkxEhTwOtsODIGDVk2Bam4/LbSD9k1go=;3T8Oc3K3wVWaNKF7UwCTYw=="
 ---

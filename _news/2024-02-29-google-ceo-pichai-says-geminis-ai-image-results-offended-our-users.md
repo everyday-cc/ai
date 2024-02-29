@@ -106,6 +106,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "Google CEO acknowledges bias in Gemini AI, vows swift action"
+    excerpt: "Users express concern while Google takes swift action to address issues with its AI model–Gemini, pledging structural changes."
+    publishedDateTime: 2024-02-28T23:22:00Z
+    webUrl: "https://interestingengineering.com/science/google-ceo-admits-bias-in-ai-tool-and-promises-remedy"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://cms.interestingengineering.com/wp-content/uploads/2024/02/Screenshot-2024-02-28-171031-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Sundar Pichai blasts Google staff for offending customers with Gemini AI bias: ‘To be clear, that’s totally unacceptable’"
     excerpt: "The debate around misinformation and its more malicious cousin, disinformation, has now shifted from the news media to AI companies. Meanwhile, the head start Google held after acquiring DeepMind a decade ago has seemingly evaporated as OpenAI continues to ..."
     publishedDateTime: 2024-02-28T09:33:00Z

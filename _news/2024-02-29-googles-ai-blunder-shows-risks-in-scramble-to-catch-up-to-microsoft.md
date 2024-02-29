@@ -325,15 +325,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup, Bloomberg reports"
-    excerpt: "Nvidia (NVDA.O), opens new tab and other big technology names are investing in startup Figure AI that develops human-like robots, Bloomberg News reported on Friday, citing people with knowledge of ..."
-    publishedDateTime: 2024-02-23T23:32:00Z
-    webUrl: "https://www.reuters.com/technology/bezos-nvidia-join-openai-funding-humanoid-robot-startup-bloomberg-reports-2024-02-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
   - title: "Watch out ChatGPT — Mistral just cut a huge deal with Microsoft for GPT-4 level AI model"
     excerpt: "That is likely to change after the company signed a multi-year deal with Microsoft to bring its next-generation, GPT-4-level AI model Mistral Large to the Azure cloud. Mistral isn't even a year old as a company but is worth more than $2 billion and has ..."
     publishedDateTime: 2024-02-28T00:00:00Z
@@ -361,20 +352,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/microsoftsecurity.jpeg"
         width: 1024
         height: 848
-        isCached: true
-  - title: "Bezos and Nvidia join OpenAI in funding humanoid robot startup"
-    excerpt: "Jeff Bezos, Nvidia and other big technology names are investing in a business that’s developing human-like robots, according to people with knowledge of the situation, part of a scramble to find new applications for artificial intelligence. The startup ..."
-    publishedDateTime: 2024-02-24T00:00:00Z
-    webUrl: "https://www.japantimes.co.jp/business/2024/02/24/tech/bezos-nvidia-openai/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 54
-    images:
-      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/24/282434.jpg"
-        width: 1000
-        height: 643
         isCached: true
   - title: "Bezos, Nvidia join OpenAI in funding robot startup"
     excerpt: "The AI robotics industry has been busy lately. Earlier this year, OpenAI-backed Norwegian robotics startup 1X Technologies AS raised US$100 million. Vancouver-based Sanctuary AI is developing a humanoid robot called Phoenix. And Tesla Inc. is working on a ..."
@@ -446,15 +423,6 @@ related:
         width: 1000
         height: 561
         isCached: true
-  - title: "Bezos, Microsoft join OpenAI in humanoid robot startup"
-    excerpt: "Jeff Bezos, Microsoft and other big technology names are investing in a business, Figure, that's developing humanlike robots."
-    publishedDateTime: 2024-02-23T23:15:00Z
-    webUrl: "https://www.seattletimes.com/business/bezos-microsoft-join-openai-in-humanoid-robot-startup/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 51
   - title: "Bezos and Nvidia Partner with OpenAI to Fund Humanoid Robot Startup: Bloomberg"
     excerpt: "In a bold move signaling a profound shift in the tech landscape, industry titans Amazon.com (AMZN.O), Nvidia (NVDA.O), and others are channelling significant investments into Figure AI, a startup at the forefront of developing human-like robots."
     publishedDateTime: 2024-02-24T05:51:00Z
@@ -515,6 +483,6 @@ related:
       domain: itc.ua
     quality: 26
 
-secured: "USYyM4StmAa8iA4o1JUdAcXfDqgrbwLzgJvDVyV7etGR385FALDe9SCNiMfyRVf656nTP8vGJfb1uaMnwByko8wqpzl632fGalzZfzd9zEL1kLBbOygO6fQJnghIe+G43s8OCYy9nKi/WD1WPxFPRnhwIbURnwbyFUbOX7yw0hCOR607mZ5o6K+1/oVMkqik0an9OROTjer0ovCppJgtLSIAdBfvmoZgoVDNimot3Hq/E0S2F3E9VBbAXF9ssct19ww/j8xz7xMiycfJpZevMnMLxoVoEMaStH5vUiLwzyW73RIORslrzd4rxzHj7CCceL+h95S0of5Mmu9AzrRAy+Zj9hLxudtjuSCnKn4SnLE=;7a2qmX3/qu/nMza4tsyR0A=="
+secured: "Hq+Pu60HBob8kvwj5e+9zOsebLRn0DT+c+7fSY/DjKMXWyYDyi2gYPcQjuhMDN38JginSifw7RUC7RHyOUdJbiVmZwU9LiV87WeaDAphJTeGS/l4VYZBnqApNkq5eCg1iqxlOQ3HFlfzguhKM7wKYVpSptqTAQv/AR+2zVeNQSNhudMMcQTHa7aqZ929COHCxV8RTh4a5kGjbf3gAoX93X+9v4AVTxMQx4TC/Ld51tA8cdmeaYoV5uff8z0Dj4xRjs7V/eDgjGF2A2uzmXVh6IfBlGDkXJswObosnVPSjwf9LKS+Fs6gn2Gq5iRx/lOY0ClxsQHRFBzU2idHie1NuSwGaHQgrHJEDlSjG/nWwjrnAw0gMlAtTB9R7yvhjiVSUuchXlXUjUtiNdwLwx/LMYpzBKo8WLGAffwa/l8g6YSQv4+yhDgXxHLqXfgMQJ/hVEYiHOTk2Zz/iDxJoMF8IBQuLooFmEgy9EyqB/wt2qy6TJIwKddze3dHU6SBl3mcBBrZDEuiiKaUaaWH9Opz/g==;8Zt4MmTAQNYAPTrWX6jgog=="
 ---
 

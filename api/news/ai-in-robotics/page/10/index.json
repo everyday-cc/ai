@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-11-29-robotics-seminar-salah-bazzi-of-northeastern-on-human-control-of-dynamically-complex-objects-128.md",
+      "title": "Robotics Seminar: Salah Bazzi of Northeastern on Human Control of Dynamically Complex Objects 12/8",
+      "excerpt": "Bio: Salah Bazzi is an Associate Research Scientist in the Institute for Experiential Robotics at Northeastern University. The overarching goal of his research is to understand the underlying principles of human sensorimotor control, specifically complex ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.uml.edu/myuml/submissions/2023/2023-11-29-00-01-12-robotics-seminar-salah-bazzi-nort.aspx",
+      "originalUrl": "https://www.uml.edu/myuml/submissions/2023/2023-11-29-00-01-12-robotics-seminar-salah-bazzi-nort.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uml.edu/images/about-uc-opt_tcm18-191308.jpg?w=x",
+          "width": 1400,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UMass Lowell",
+        "domain": "uml.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-the-social-side-of-ai-think-carefully-about-the-future.md",
       "title": "The Social Side Of AI: Think Carefully About The Future",
       "excerpt": "But AI is going to be social, too – it's going to have a social context. One way to explain that is that with ‘humans in the loop’ and assistive AI, the AI has to be able to interact with humans in particular ways. So what about the social end of AI research?",

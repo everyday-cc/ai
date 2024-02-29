@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Apple investors reject call for ethics transparency on company’s AI use"
+    excerpt: "Discovery Inc. Apple Inc. shareholders rejected a labor-backed request for an artificial intelligence transparency report, which would have delved into whether the company is using the technology ethically. The proposal, submitted by AFL-CIO Equity Index ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 54
+    images:
+      - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "V6kzdojtre6IU5CQw0zQ6qZnsssqZ0ImrN/q/mJLMv8Sc59KJfDR9KooeM4X6gsH9yBDXNWlzrVTWyjqlPCnl9TE/cT7qVHDdjOVfDe8XYAtUrfBJ1rsYtiIqpTdEBjSJfLdjKBUPipmIE5He7WhFuF6jc2zFLMMY49eKq8tmwVCRsoJKzDuHUyAhFkc11/oeIQxPwMvHIVuQcIUqqvypYFutvKj6PUUTt/FQtvslLQFggWd2jULsm7wLjwgau9AxKVn7R69Jb63D2wU9L8R/6qeZWtRzMBviZtKR/ffbfTTWvYP3aigZ4akQeIGD1dCw7dLMsaRmJNGLwg3UYaAWgZAw3VSX+wIY0DGGokaF5wJA5gGxdZCi9LY9fwMK2kaFrzCO8LNCChfdBGtsFQnbwKZGcddSaxvtJQqusuMW3OUDQFjZ6Z/rT01kbQjfYT/UuVevuamua1URs5o79pm7IRXfTLPizHaBPbWYW6IfnrHKrzuLOml+kRV+wDAsTION2E8CIUI6wSxJSR+NrVmtQ==;dgWh6HdsSD1l89AyFby4/Q=="
 ---

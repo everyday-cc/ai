@@ -324,15 +324,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Bezos, Nvidia join OpenAI in funding humanoid robot startup, Bloomberg reports"
-    excerpt: "Nvidia (NVDA.O), opens new tab and other big technology names are investing in startup Figure AI that develops human-like robots, Bloomberg News reported on Friday, citing people with knowledge of ..."
-    publishedDateTime: 2024-02-23T23:32:00Z
-    webUrl: "https://www.reuters.com/technology/bezos-nvidia-join-openai-funding-humanoid-robot-startup-bloomberg-reports-2024-02-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
   - title: "Watch out ChatGPT — Mistral just cut a huge deal with Microsoft for GPT-4 level AI model"
     excerpt: "That is likely to change after the company signed a multi-year deal with Microsoft to bring its next-generation, GPT-4-level AI model Mistral Large to the Azure cloud. Mistral isn't even a year old as a company but is worth more than $2 billion and has ..."
     publishedDateTime: 2024-02-28T00:00:00Z
@@ -360,20 +351,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/F.1H7F2M4DXRglwyRuPTgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/2fea2e3c147a598fc72acc917a4e3082"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Bezos and Nvidia join OpenAI in funding humanoid robot startup"
-    excerpt: "Jeff Bezos, Nvidia and other big technology names are investing in a business that’s developing human-like robots, according to people with knowledge of the situation, part of a scramble to find new applications for artificial intelligence. The startup ..."
-    publishedDateTime: 2024-02-24T00:00:00Z
-    webUrl: "https://www.japantimes.co.jp/business/2024/02/24/tech/bezos-nvidia-openai/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 54
-    images:
-      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/24/282434.jpg"
-        width: 1000
-        height: 643
         isCached: true
   - title: "Bezos, Nvidia join OpenAI in funding robot startup"
     excerpt: "The AI robotics industry has been busy lately. Earlier this year, OpenAI-backed Norwegian robotics startup 1X Technologies AS raised US$100 million. Vancouver-based Sanctuary AI is developing a humanoid robot called Phoenix. And Tesla Inc. is working on a ..."
@@ -445,15 +422,6 @@ related:
         width: 1000
         height: 561
         isCached: true
-  - title: "Bezos, Microsoft join OpenAI in humanoid robot startup"
-    excerpt: "Jeff Bezos, Microsoft and other big technology names are investing in a business, Figure, that's developing humanlike robots."
-    publishedDateTime: 2024-02-23T23:15:00Z
-    webUrl: "https://www.seattletimes.com/business/bezos-microsoft-join-openai-in-humanoid-robot-startup/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 51
   - title: "Bezos and Nvidia Partner with OpenAI to Fund Humanoid Robot Startup: Bloomberg"
     excerpt: "In a bold move signaling a profound shift in the tech landscape, industry titans Amazon.com (AMZN.O), Nvidia (NVDA.O), and others are channelling significant investments into Figure AI, a startup at the forefront of developing human-like robots."
     publishedDateTime: 2024-02-24T05:51:00Z

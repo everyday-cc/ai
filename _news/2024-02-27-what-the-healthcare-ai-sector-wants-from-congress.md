@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Recent Healthcare-Related Artificial Intelligence Developments"
+    excerpt: "AI is here to stay. The development and use of artificial intelligence (“AI”) is rapidly growing in the healthcare landscape with no signs of slowing down. From a governmental perspective, many federal agencies are embracing the possibilities of AI."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/recent-healthcare-related-artificial-1356462/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.2105_3135.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Why healthcare lags on AI, per Amazon"
     excerpt: "Healthcare lags behind other industries in its adoption of artificial intelligence, largely because it lacks training capacity, according to a study commissioned by Amazon Web Services. Here are seven other things to know from the survey of 412 healthcare ..."
     publishedDateTime: 2024-02-26T21:09:00Z
@@ -33,38 +47,52 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Azalea Health Unveils Artificial Intelligence Strategy to Enhance Healthcare Workflows"
-    excerpt: "Azalea Health, a leading provider of fully-integrated cloud-based healthcare IT solutions and services, today announced its revolutionary approach to artificial intelligence (AI) designed to enhance the efficiency,"
-    publishedDateTime: 2024-02-27T12:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9968480.htm"
+  - title: "Leveraging Risk Management Frameworks for AI Solutions in Health Care"
+    excerpt: "As recently described by The New England Journal of Medicine, the liability risks associated with using artificial intelligence (AI) in a health care setting are substantial and have caused consternation among sector participants. To illustrate that point ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/leveraging-risk-management-frameworks-5396076/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
-  - title: "QubeHealth Plans Up To $9 Mn Raise For Launching Healthcare In App Marketplace, AI Integration"
-    excerpt: "Healthcare-focused fintech startup QubeHealth is looking to raise between $6-$9 Mn as a part of its Series A funding round."
-    publishedDateTime: 2024-02-26T13:48:00Z
-    webUrl: "https://inc42.com/buzz/qubehealth-plans-up-to-9-mn-raise-for-new-feature-ai-deployment/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 24
-  - title: "As artificial intelligence aims to transform health care, soon your doctor may consult an AI algorithm before deciding on your treatment"
-    excerpt: "Sahani is a co-founder of UW’s Institute of Medical Data Science, which supports health care-related artificial intelligence initiatives. Founded last year in Seattle, the institute hopes to provide research, education and funding to get AI into ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.spokesman.com/stories/2024/feb/27/as-artifical-intelligence-aims-to-transform-health/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 23
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
     images:
-      - url: "https://thumb.spokesman.com/iDlseXsKdK6KgwNP9qd1w-w7lTM=/1200x630/smart/media.spokesman.com/photos/2024/02/26/63d303450c829.hires.jpg"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
         width: 1200
-        height: 630
+        height: 900
         isCached: true
+  - title: "CorroHealth's AI Solution, REVIVE, Targets Small and Zero Balance Accounts to Boost Healthcare Finances"
+    excerpt: "the next evolution in intelligent technology targeting a healthcare system's aged receivables (AR). Building on CorroHealth's previous AR platform, REVIVE is re-engineered with artificial intelligence and automation to effectively recover revenue on small ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.healthcaredive.com/press-release/20240227-corrohealths-ai-solution-revive-targets-small-and-zero-balance-accounts/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 38
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1709054015/press_release/assets/header_images/REVIVE_Press_Release_Graphic4_h5ypaj.jpg"
+        width: 2000
+        height: 933
+        isCached: true
+  - title: "Do Patients Know When AI Is Assisting in Health Care?"
+    excerpt: "When you message your health care provider about an appointment, a prescription refill, or to answer a question, is artificial intelligence or a person actually answering? In some cases, it’s hard to tell."
+    publishedDateTime: 2024-02-27T19:59:00Z
+    webUrl: "https://www.webmd.com/a-to-z-guides/news/20240227/do-patients-know-when-ai-is-assisting-in-health-care"
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 19
+  - title: "Apple reportedly cancels electric car development to focus on AI"
+    excerpt: "Open AI’s ChatGPT start page. Image source: Jonathan S. Geller It really isn’t surprising to see Apple making a shift like this. While the company has been working on an electric vehicle for years, it doesn’t appear to have been any closer to ..."
+    publishedDateTime: 2024-02-27T19:37:00Z
+    webUrl: "https://bgr.com/tech/apple-reportedly-cancels-electric-car-development-to-focus-on-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
 
 secured: "6Jlq0cnvhoaEuuuVrOd+BgdJqvGm8nCaNSd1sf8SFLA6TVKnyovtgkjmO+upASN4EmBTcfFnuUzMtq2k3+JoQ1r7ijNlUZrqhd+yOvQhVbqXVyo0HvjQ//XBEfuxdoBJzeJN4jaao5OXtdXa+C6axp2FEj5dfdFZJ/sIo2fdFluOjU0qHsYJfgVX6PeHbRS/3CCaTffzQ2ce9/g135KJFW+YO3GKUQBJ5bZWxJnlseYhwInDN//hCAwWjGwBS71ULKLQAy7aeunmmjMvdoeV3O/Zw1HD54IURypmCGJYrrIhXJDuXzYohKcixoebdI116h28w+XhYU5xNw1hY8M1eRfHmfzx9rRrJnpMm3gWcdqubUB/vhaG2kE1glCgUzysbUtmCAnPIlxInbK2FqwRbBGfrO8Ppftk2G2bujZ+1nKCQH7OF7/QhPvmj5HytLLJ7TC5WmwbrIZOtzyiq4tii1pgLmKCXisN9SlTA2uif/3DzN3zGJxbNzCiMu2t+tOBBeyfuP0ZvzrDRgQJbKNYKg==;BWDI7I7ewSxKFmgQENJnpQ=="
 ---

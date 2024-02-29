@@ -110,20 +110,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 34
-  - title: "Google apologizes over Gemini image generation inaccuracies"
-    excerpt: "Google LLC has apologized after its Gemini chatbot generated images that incorrectly depicted racially diverse characters in historical contexts."
-    publishedDateTime: 2024-02-23T23:19:00Z
-    webUrl: "https://siliconangle.com/2024/02/23/google-apologizes-gemini-image-generation-inaccuracies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Gemini.png"
-        width: 759
-        height: 428
-        isCached: true
   - title: "The Google Gemini integration in Messages is now official"
     excerpt: "Since the start of the year, we've come across multiple reports of Google Gemini (formerly Bard) integrating with Google Messages. This particular feature addition is now official, with Google announcing Gemini for Google Messages (in beta) as part of its ..."
     publishedDateTime: 2024-02-25T23:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcdfw.com/news/business/money-report/google-ceo-tells-e
 cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/business/money-report/google-ceo-tells-employees-gemini-ai-blunder-unacceptable/3473609/?amp=1"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "Google CEO acknowledges bias in Gemini AI, vows swift action"
+    excerpt: "Users express concern while Google takes swift action to address issues with its AI model–Gemini, pledging structural changes."
+    publishedDateTime: 2024-02-28T23:22:00Z
+    webUrl: "https://interestingengineering.com/science/google-ceo-admits-bias-in-ai-tool-and-promises-remedy"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://cms.interestingengineering.com/wp-content/uploads/2024/02/Screenshot-2024-02-28-171031-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google CEO Pichai says Gemini's AI image results \"offended our users\""
     excerpt: "In attempting to avoid a public relations crisis about gender and race, Google managed to run headlong into another controversy over accuracy and history. Gemini, which was previously named Bard, is also an AI chatbot, similar to OpenAI's hit service ChatGPT."
     publishedDateTime: 2024-02-28T19:14:00Z

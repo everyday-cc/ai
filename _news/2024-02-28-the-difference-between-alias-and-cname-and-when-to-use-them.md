@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-difference-between-alias-and-cname-an
 webUrl: "https://www.ibm.com/blog/the-difference-between-alias-and-cname-and-when-to-use-them/"
 type: article
 quality: 82
-heat: 82
+heat: 84
 published: true
 
 provider:

@@ -2,11 +2,13 @@
 category: news
 title: "Explained: Google DeepMind’s Genie, an AI model that creates virtual worlds from image prompts"
 excerpt: "This AI model could soon enable users to create their own video games. Here’s why this experimental model is revolutionary."
-publishedDateTime: 2024-02-27T13:49:00Z
-originalUrl: "https://indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/lite/"
-webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/lite/"
+publishedDateTime: 2024-02-27T13:58:00Z
+originalUrl: "https://indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/"
+webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/"
+ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/lite/"
 type: article
-quality: 22
+quality: 62
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://images.indianexpress.com/2024/02/Untitled-design-5-27.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "DeepMind uses AI to tackle neglected deadly diseases"
@@ -96,6 +104,6 @@ related:
         height: 826
         isCached: true
 
-secured: "KeGeZnviURCmeWiuc++Dt8Gb4xLrkjlx39rj04viStWkY26dXMdfH7csrC5YYSy9x25QPrj74eh4WYGSdLJkMsndxMkLCtK5NmxeNZsC486WDy2Vm2CohxYNnMEZjDGkBjjLkrVBE45jDX/GfKlIqmNbe3ixycDK0um+TPvmD3+h+B6zv4j8oqjuI56aAfSD17dHUo5VESnPKqqDLhmJx+OcOO3XuICl5u9G1k3CPTjAyqS6ySUspesw6v0K+MOA9iVj1Al9LeQrPIbpCx6hpM1saeXYkBW07llbfm11ldISMGP+Nl5Kl6MlDYUdrst4OAau4SxDAbVORWjuCE0S7ajtFrqx8Uz0B7JNdX2zIPk7hybpUNKlTP8pvfGHvTgsn/HOUztZXH1T4gJAAqgbtmZ9puucVrfBWRlxhPyRRu1AC7QfAoxnhcdntjK63hXICRJd0FUlv5uxSE53KfHFtuelqpr1ySSXbvncDHqvfpacgJ8JlNfNKJ7Xz2fwY/8ZXiAK9MGkXjTQCHpNwRXupQ==;nSWLvi7KfGEE8OuBavDfqA=="
+secured: "IJRdhZvJCHVNQL29dJt13K66Qvyepz6Xxbs7e2Aytffy/etiaT3tcah63VMCZGF9wIQkG+ooCKSX2ocpJ/imvYurpmcEiSzsqf1v1uveml/L0eL6I46X4EZph42svush2V65t5LTc6KOX5eBJEkJj1utxVfhe+SHAyRriAp8evXd4kDg/I/MHiJQihqEzsbibDvIlOuTUE7Wa8TAstB0mk3vamXKOPlPirewlm5oWB0U+izCTvs4a5FD6mJeGsAmurx+lKGhiXB4xQswx6Sy2CBuR+ScOoQG+aH32IQ1u5EA9W5vHk0G/KKVnAN0aQBVnp9XSoqTP9wsyM9bgw5B2uJM5GnwrdDpQGV71cDoJ7c=;AGhcOejc/wMfTEBcuG25Jw=="
 ---
 

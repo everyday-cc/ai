@@ -67,6 +67,20 @@ related:
         width: 842
         height: 428
         isCached: true
+  - title: "Intel plans on shipping 100 million CPUs for next-gen AI PCs by 2025"
+    excerpt: "Intel plans on shipping over 100 million processors for AI PCs by 2025, where it's working with Microsoft to try and 'define' the value of an AI PC."
+    publishedDateTime: 2024-02-28T23:13:00Z
+    webUrl: "https://www.tweaktown.com/news/96529/intel-plans-on-shipping-100-million-cpus-for-next-gen-ai-pcs-by-2025/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96529_04_intel-plans-on-shipping-100-million-cpus-for-next-gen-ai-pcs-in-2025_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
 
 secured: "giLgrhqdzgcAnIlhtVpJIpao4OWR9fE+NsrLR9YJxmeSic41cvTcHauMWxZTImKzVlmGsV2qg29zyjORMKGYVmtIupEp0n/i+fYGuh9TgxdR2gd6718TR/rWz4h3TMBDFFDdiBzFw/gydHJxdz0G9P5+Rmis+DX8QUu2i1h0KPyqqjsepDkWah9IKQWlD7pJHqSlOVlD0hIGymiqFrwXYKT2vrsw+hxOPgMe5ANGUQ3B8W+VrC5HIFtAOS70pJTCv0cYbIGT8Rdy8rLWSSqChNdOHFzE086mHzkfGPdluqXbouj/ffyzxig2ct07VtjVXasK7I/oP7JKUqscdTkckWX6Svbn2sIvr/LrzaBmE+w=;BstL2BJzms8QpuelhLW1jQ=="
 ---

@@ -19,52 +19,31 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Why healthcare lags on AI, per Amazon"
-    excerpt: "Healthcare lags behind other industries in its adoption of artificial intelligence, largely because it lacks training capacity, according to a study commissioned by Amazon Web Services. Here are seven other things to know from the survey of 412 healthcare ..."
-    publishedDateTime: 2024-02-26T21:09:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-lags-on-ai-per-amazon.html"
+  - title: "HID, CERTIFY Health, and CTS align to elevate healthcare with facial recognition"
+    excerpt: "Related To: HID Global AUSTIN, Texas, February 28, 2024 – HID has announced a collaborative self-service patient engagement and facial recognition offering designed to enhance healthcare operations and administer an improved patient service at every ..."
+    publishedDateTime: 2024-02-29T00:28:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/53097853/hid-global-hid-certify-health-and-cts-align-to-elevate-healthcare-with-facial-recognition"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Security
+      domain: securityinfowatch.com
+    quality: 51
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "What the healthcare AI sector wants from Congress"
-    excerpt: "Healthcare interests clamoring for congressional action on artificial intelligence would also like lawmakers to remember the Hippocratic oath: First, do no harm. Second, they would like a little protection. Opinions about precisely which needs legislating ..."
-    publishedDateTime: 2024-02-27T08:00:00Z
-    webUrl: "https://www.modernhealthcare.com/politics-policy/healthcare-ai-congress-legislation-regulation"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
-  - title: "QubeHealth Plans Up To $9 Mn Raise For Launching Healthcare In App Marketplace, AI Integration"
-    excerpt: "Healthcare-focused fintech startup QubeHealth is looking to raise between $6-$9 Mn as a part of its Series A funding round."
-    publishedDateTime: 2024-02-26T13:48:00Z
-    webUrl: "https://inc42.com/buzz/qubehealth-plans-up-to-9-mn-raise-for-new-feature-ai-deployment/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 24
-  - title: "As artificial intelligence aims to transform health care, soon your doctor may consult an AI algorithm before deciding on your treatment"
-    excerpt: "Sahani is a co-founder of UW’s Institute of Medical Data Science, which supports health care-related artificial intelligence initiatives. Founded last year in Seattle, the institute hopes to provide research, education and funding to get AI into ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.spokesman.com/stories/2024/feb/27/as-artifical-intelligence-aims-to-transform-health/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 23
-    images:
-      - url: "https://thumb.spokesman.com/iDlseXsKdK6KgwNP9qd1w-w7lTM=/1200x630/smart/media.spokesman.com/photos/2024/02/26/63d303450c829.hires.jpg"
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/02/65dfce4da99e5b001e1f8f7f-blobid0_1709098284206.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Meets Mental Health: MoodCapture App Identifies Depression Early"
+    excerpt: "For the study, the researchers enlisted 177 participants for a 90-day trial designed to use their front-facing camera to capture facial images throughout their daily lives and while the participants answered a survey question with, “I have felt ..."
+    publishedDateTime: 2024-02-27T21:59:00Z
+    webUrl: "https://www.labroots.com/trending/technology/26744/facial-recognition-meets-mental-health-moodcapture-app-identifies-depression-2"
+    ampWebUrl: "https://www.labroots.com/trending/technology/26744/facial-recognition-meets-mental-health-moodcapture-app-identifies-depression-2/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/26744/facial-recognition-meets-mental-health-moodcapture-app-identifies-depression-2/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 33
 
 secured: "ALjrdf2xIZzKSsiKewTyqZQTdBuRsWyyXpHgA4MsQR11l8bE2RWTrKImN0ggdZgIP/lwai+RKWM0/9eVVPXltI+71U5bSRJyIfK8leyQ/cncv5GueY88Je8tiVUT0Qi44GAp/FbUTh6BDhgKsKudOOHpPqgqVvcRzOzY/TJhQ2L1KKCMR4MdKKq//kwf848+Pb9gFa+pkhopXicXFgCse1yMGHmuxpZQfUKed5bD4oePN/hHjZ5fmArfWRAopX/wj1I+iskKf+Kh2GZpnqk6tCWKsuyDa0J1gSA9wUMeLx4qioxG1E778hj/D/4cb1DtUnveIoQQYtZ9KoF36ZrGQoVQVYQChfODDhS+yFkwrhI=;8UbXNx8pmCsDY3XYEPgMnQ=="
 ---

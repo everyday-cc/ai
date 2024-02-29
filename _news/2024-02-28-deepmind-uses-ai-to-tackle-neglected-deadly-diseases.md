@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Explained: Google DeepMind’s Genie, an AI model that creates virtual worlds from image prompts"
+    excerpt: "This AI model could soon enable users to create their own video games. Here’s why this experimental model is revolutionary."
+    publishedDateTime: 2024-02-27T13:58:00Z
+    webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/"
+    ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 62
+    images:
+      - url: "https://images.indianexpress.com/2024/02/Untitled-design-5-27.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google DeepMind's Open Endedness Team has created Genie, an AI that generates 2D playable platformer"
     excerpt: "Tim Rocktaschel states that Genie is a 'foundation world model' that has been trained by watching 200,000 hours of 2D platformers."
     publishedDateTime: 2024-02-27T05:45:00Z
@@ -91,15 +107,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Explained: Google DeepMind’s Genie, an AI model that creates virtual worlds from image prompts"
-    excerpt: "This AI model could soon enable users to create their own video games. Here’s why this experimental model is revolutionary."
-    publishedDateTime: 2024-02-27T13:49:00Z
-    webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 22
 
 secured: "AYWMBkAxbydDEv9isVhXSFFF9jg98bVLlIEfCbcqUuX4S1GtIZ9O9lSchzfQgg0Y5dVmEPFvHON2AiklbWm4jldZeofHa11zjIm5xhGe8jW+iddEPL8j9zcFQwDJg6A1xjE+wwoQvGY+3Kk43NzzpKxQ8K7a3yq1ZKIoIlkSRGeJbfixoXwwNXVBj1PLuf1I5YtVEqyt0HMLa42SENDpxqY6f8Yv74qvqI65vMz8STiRyWBtmL8ywFU28yeBcv4wOg/2HRJH/bCuX+YzqpDGKmH8X9Mz0N8ZTuowrqS4//zYd0WU1qm8avO5iScI55BkoqTExgl/bwo/bu8E1IZxF8ioYnxmVlI7oJc2xLwV2aQ=;C7w+achKnXFB6DK+oie5/w=="
 ---
