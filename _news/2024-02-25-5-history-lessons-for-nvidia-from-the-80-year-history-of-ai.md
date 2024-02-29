@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/amp/"
 type: article
 quality: 91
-heat: 311
+heat: 301
 published: true
 
 provider:
@@ -303,15 +303,6 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
-  - title: "Nvidia's surge ripples across stock market - lifting AI, tech and semiconductor ETFs"
-    excerpt: "The Global X Robotics & Artificial Intelligence ETF BOTZ, which has around $3 billion of assets under management, closed 4.4% higher, according to FactSet data. Megacap semiconductor company ..."
-    publishedDateTime: 2024-02-24T10:44:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20240224201/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 12
 
 secured: "xjJftGrJJZ1SfGkqbnmNX+gvZ1ZmT22nR80BlXmhIyhj6hjQFf8SMFLM6cxPS+mMn4g7LyLWjBhG4NIQuL5FD3QqC/pZbb2uUoLvPEv8pu4QTeLEosiN8Tz82qeImMHga7yo3lmi5L1H778wcvtFWwGaZTnLNyqKTF1JtY9Xyou62yD7XcNymR7oeFj44KW3AQ3XfRSnYbXEQjrI8388nAIfdwIRtipr+bMOzQXY7hnmzn/krBTjkokizM9lFeJvR+LErnnfshRZaLzT0nYW1bWffyNsmK8Wquvq/9gSUpfJh4ZzQSZB2siZ214aqqs2ANYb6XgR0dWbm6pqdQYgA25Ia7rTFWa3dEnEGSzlTVkJzUXPO8srDIgKIWUDZYufcYxLokOO2ZlCqCY/sfAf3VguvxqD+mEjMTJ6RpfzTquFdU59/li2BnzgDomhr4Zg2Oim/LtABpxwigqCq2JpANFFyFLSbgHIdA/Z25pDDlo9zZ0I8YiOa+sgasIMOH9J9Z0mawoOMIBcdH34XXsDLQ==;JsIlDb2cm8Hy4QwISQLB3A=="
 ---

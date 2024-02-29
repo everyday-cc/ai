@@ -40,6 +40,22 @@ related:
         width: 1119
         height: 630
         isCached: true
+  - title: "Understanding Large Language Models (LLMs) Powering AI Chatbots"
+    excerpt: "This is what we call generative AI. The Large Language Model ... they perform well in language understanding tasks such as sentiment analysis, language translation, and dense text summarization. LLMs interact with users in conversational situations ..."
+    publishedDateTime: 2024-02-29T09:28:00Z
+    webUrl: "https://www.dqindia.com/dqdeeptech/understanding-large-language-models-llms-powering-ai-chatbots-4129597"
+    ampWebUrl: "https://www.dqindia.com/dqdeeptech/understanding-large-language-models-llms-powering-ai-chatbots-4129597"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dqdeeptech/understanding-large-language-models-llms-powering-ai-chatbots-4129597"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/RuopIl34Fzta68477w2k.jpg"
+        width: 1048
+        height: 675
+        isCached: true
   - title: "Google’s Large Language Models on Android Smartphones by 2025"
     excerpt: "Google expects that its currently available Gemini large language model, will begin to get embedded into devices starting next year."
     publishedDateTime: 2024-02-26T12:58:00Z

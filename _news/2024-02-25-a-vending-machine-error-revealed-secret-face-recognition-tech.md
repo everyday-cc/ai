@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/facial-recognition-vending-machine-err
 webUrl: "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://globalnews.ca/wp-content/uploads/2024/02/20240227150220-65de4451cf8eb72713cd07a5jpeg.jpg?quality=85&#038;strip=all"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Big Candy Is Watching You: Facial Recognition In Vending Machines Upsets University"
+    excerpt: "The good news is that this probably doesn’t mean that facial recognition and similar personalized information is stored (or sent to the big vaporous mainframe) as this would violate the GDPR and similar data privacy laws, but there is precedence of ..."
+    publishedDateTime: 2024-02-27T04:30:00Z
+    webUrl: "https://hackaday.com/2024/02/27/big-candy-is-watching-you-facial-recognition-in-vending-machines-upsets-university/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 33
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2024/02/invenda_vending_machine_facial_recognition_error.jpg"
+        width: 1080
+        height: 611
         isCached: true
   - title: "University of Waterloo unplugs 29 vending machines amid facial recognition concerns"
     excerpt: "These vending machines, unbeknown to students, had been using facial recognition to track the age and gender of patrons, as shared by CTV News. However, according to Invenda, the machines use facial analysis and not facial recognition to understand when a ..."

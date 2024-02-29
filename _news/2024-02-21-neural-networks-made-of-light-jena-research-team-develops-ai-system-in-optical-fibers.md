@@ -2,13 +2,10 @@
 category: news
 title: "Neural Networks Made of Light: Jena Research Team Develops AI System in Optical Fibers"
 excerpt: "Artificial intelligence is pivotal in advancing biotechnology ... This fiber is capable of performing the tasks of various neural networks—at the speed of light. \"We utilize a single optical fiber to mimic the computational power of numerous neural ..."
-publishedDateTime: 2024-02-21T15:01:00Z
-originalUrl: "https://idw-online.de/en/news829037"
-webUrl: "https://idw-online.de/en/news829037"
+publishedDateTime: 2024-02-21T15:47:00Z
+originalUrl: "https://idw-online.de/de/news829037"
+webUrl: "https://idw-online.de/de/news829037"
 type: article
-quality: 46
-heat: 46
-published: false
 
 provider:
   name: idw
@@ -24,6 +21,6 @@ images:
     height: 259
     isCached: true
 
-secured: "at1NK+XmPHjhljAi4NzADBZmvG8GmvSGks/XKXFiEXmavUyAZEY5pKCkRnS/MjwhKbBrTgLDefFQITd9SjbG4PPCgacTxPeith/QtUTb8XOkQBjVW+/1/B+wri0wO2xGa7vIU7R57ZqC9AElOJnPP3QhhHRqpKNAavN4oFaxZ5AGPVw0XC7CcsURTSLxrmKcUX6w32duc/UgALo/dmvzMgxJ7akWGkrnQZt+OgtA5zCdPaKlMeoXN7NJkBAvE6FHXlN/54MDJPZ7t0FVLFmrYebwxQ5JuToboO2aatG8Akk/CioMPu5eYtsxCa66kRdiG0AxV5adtHtvSDgyS2kcssh3eLzb+rR4OIiHQqhsUX0=;SjkuJfacxojODwOtO9HMfg=="
+secured: "ZUsZSnb8TIq9O0/9PmoowdRcDWhEl+HXwHq4Qrb2Yyc5GA4DqAYwE7s1OJY+h4mlYsT4Goxhoexo/Yz+KNtMZsi/Nmkdc24EhBjnWSE+wrc/wfMr2g3/P9ta2Z8M+0A/C6mbNdwB5/LiAKBDh6xRpIfZiOywKI/OzmauhqvXywtE5V0U2VAf24Cz8HR7oYqsxz67ujdcn13IcqffUEbmvSIc4O/o7305YpulUZFKJ+sSSm7ngtcTvdleaNKzioJ1yHuBJyzdtqqTGCTt7RD9+9qMMcUxPsGKPLiEjR1MB4DOPusnvV/SejXTMbIOVr5bryT7vBWxkjDozVuy+r0cDBICAE9xzk0Lwxy4ThO9nsA=;IdBqGedibyMbzvJTiH/YZw=="
 ---
 

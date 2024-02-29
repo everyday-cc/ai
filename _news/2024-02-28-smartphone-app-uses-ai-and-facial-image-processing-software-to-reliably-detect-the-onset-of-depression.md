@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20240227/Smartphone-app-uses-AI-
 webUrl: "https://www.news-medical.net/news/20240227/Smartphone-app-uses-AI-and-facial-image-processing-software-to-reliably-detect-the-onset-of-depression.aspx"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,42 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "AI and the creative process, part one – a personal introduction"
+    excerpt: "In little over a year, generative AI has become not just commonplace ... [Nearly six percent of total economic activity in the creative sectors alone, says my research.] The application of the law to LLM processes is complex, but the principles remain ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://diginomica.com/ai-and-creative-process-part-one-personal-introduction"
+    ampWebUrl: "https://diginomica.com/ai-and-creative-process-part-one-personal-introduction?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-and-creative-process-part-one-personal-introduction?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2024-02/IMG_2072.jpeg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Artificial Intelligence and the Significance Crisis"
+    excerpt: "The most likely cause of this is a content blocker on your computer or network. Please allow access to our site, and then refresh this page.  You may then be asked to log in, create an account if you don't already have one,  or subscribe."
+    publishedDateTime: 2024-02-26T21:25:00Z
+    webUrl: "https://www.chronicle.com/article/artificial-intelligence-and-the-significance-crisis"
+    type: article
+    provider:
+      name: The Chronicle of Higher Education
+      domain: chronicle.com
+    quality: 17
+  - title: "How synthetic data powers AI innovation – and creates new risks"
+    excerpt: "According to a report from the Financial Times, Microsoft, OpenAI and AI startup Cohere have already begun testing synthetic data as a way to increase the performance of LLM production with fewer of these issues. “If you could get all the data that you ..."
+    publishedDateTime: 2024-02-28T14:53:00Z
+    webUrl: "https://siliconangle.com/2024/02/28/synthetic-data-powers-ai-innovation-creates-new-risks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "/wFPvkgXtDugkKLhXTC+w1jQ4UaTFFzeN1m+jsuSLp/0xZrLlpkdfiVDDzYozz0CkyRs4Y97uQoUb8M1zw/BTHpKiMKc89Sa6D6KQibTdg5nsCZwYmcO9RBRG9GnKMxkXDfNKuRHYhu1UEOX8vyVH/rCJAHgBokx8d2lLxGKLDgPsrKeYEJeydOn8hb4NChMH+Y5OOc1ytiRi99blDeCumqK9LHusCFuc74w4Q+cxzxFAZ/Zn0JH5rzROf4Ke4mXPqJ3wnyXlEC3HYIeCRLNPFm77bXNYp8Fxo+tymJGO2eaVBGzlc7rCPaTyFxKIs2XJkYq9M+jfcCJXLSfaASbh0cKFmD0P0PkFZYPPoevHkg=;ffQN/FSZqu6xXg+ryUiBYA=="
 ---

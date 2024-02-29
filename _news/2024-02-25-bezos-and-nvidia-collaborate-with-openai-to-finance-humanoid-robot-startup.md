@@ -228,6 +228,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Microsoft Invests in Mistral, Shaking Up the AI Landscape"
+    excerpt: "Microsoft and Mistral AI have partnered to offer the French startup's AI models to the masses via Microsoft's Azure cloud computing platform. While Microsoft has a strong partnership with OpenAI, it's expanding its AI investments by collaborating with ..."
+    publishedDateTime: 2024-02-29T09:23:00Z
+    webUrl: "https://www.dqindia.com/news/microsoft-invests-in-mistral-shaking-up-the-ai-landscape-4129511"
+    ampWebUrl: "https://www.dqindia.com/news/microsoft-invests-in-mistral-shaking-up-the-ai-landscape-4129511"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/microsoft-invests-in-mistral-shaking-up-the-ai-landscape-4129511"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 74
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/post_banners/wp-content/uploads/2024/01/Microsoft-Unveils-Copilot-Key-on-Windows-11-A-Leap-Towards-AI-Powered-PCs.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft president commits to Azure open platform for AI"
     excerpt: "Brad Smith sets out Microsoft’s ambitions to make Azure the best platform to host foundational AI models, and train and run AI applications."
     publishedDateTime: 2024-02-27T06:15:00Z

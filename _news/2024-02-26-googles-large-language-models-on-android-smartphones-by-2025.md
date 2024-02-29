@@ -33,6 +33,22 @@ related:
         width: 1119
         height: 630
         isCached: true
+  - title: "Understanding Large Language Models (LLMs) Powering AI Chatbots"
+    excerpt: "This is what we call generative AI. The Large Language Model ... they perform well in language understanding tasks such as sentiment analysis, language translation, and dense text summarization. LLMs interact with users in conversational situations ..."
+    publishedDateTime: 2024-02-29T09:28:00Z
+    webUrl: "https://www.dqindia.com/dqdeeptech/understanding-large-language-models-llms-powering-ai-chatbots-4129597"
+    ampWebUrl: "https://www.dqindia.com/dqdeeptech/understanding-large-language-models-llms-powering-ai-chatbots-4129597"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dqdeeptech/understanding-large-language-models-llms-powering-ai-chatbots-4129597"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/RuopIl34Fzta68477w2k.jpg"
+        width: 1048
+        height: 675
+        isCached: true
   - title: "The Vulnerabilities and Security Threats Facing Large Language Models"
     excerpt: "Explore the vulnerabilities of large language models like GPT-3 and ChatGPT, and discover strategies to protect against adversarial attacks, data poisoning, model theft, and infrastructure vulnerabilities,"
     publishedDateTime: 2024-02-28T16:44:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/43767/bank-to-fintech-matchma
 webUrl: "https://www.finextra.com/newsarticle/43767/bank-to-fintech-matchmaker-nayaone-raises-47-million"
 type: article
 quality: 54
-heat: 75
+heat: 74
 published: true
 
 provider:

@@ -298,15 +298,6 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
-  - title: "Nvidia's surge ripples across stock market - lifting AI, tech and semiconductor ETFs"
-    excerpt: "The Global X Robotics & Artificial Intelligence ETF BOTZ, which has around $3 billion of assets under management, closed 4.4% higher, according to FactSet data. Megacap semiconductor company ..."
-    publishedDateTime: 2024-02-24T10:44:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20240224201/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 12
 
 secured: "YdFqDGzY0QBLRTQVzp0Awt/sIE4UEceBNdf3pEfzrzOJA7lJLtiujw1VEdbAEQ+whvUhpteg0N1JPaHqY0s7msqh1BOOrfIeKMebZSUM/bWq9WmShcVHOQtLH3bSHFle9xcZdSL5lwPj1k5/Q0hph3YWeEChn5yd3H7JAw+qijTINlKiL1NtgFpX8admPs25SBhK8OWrLg06zOJOiivXcz0fQUhOm6ADKNjJE/i7lpTfVcHnGjoC5vH/t+wRfLuPDmZst6OHas1scFeVsTLLzmqOr6EIQkhWJQbL6sc3Kxykkt/FS8UnX4eZEHiVSWm6l+nWajgKPQAly2oCpn/fiar9dn4FCINLaF3xvCnf4mg=;9bKhA1V9j8qsrk8ET05tvA=="
 ---
