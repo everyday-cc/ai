@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Lightning vs. Devils February 25 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. When the New Jersey Devils meet the Tampa Bay Lightning at Prudential Center on Sunday (the puck drops at 1:00 PM ET), Jack Hughes and Brayden Point will be two of the top players to watch. Nikita Kucherov is an important ..."
+    publishedDateTime: 2024-02-25T06:21:00Z
+    webUrl: "https://www.wtoc.com/sports/betting/2024/02/25/lightning-vs-devils-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: WTOC-TV
+      domain: wtoc.com
+    quality: 22
+    images:
+      - url: "https://gray-wtoc-prod.cdn.arcpublishing.com/resizer/v2/UFGLTQM2WRMOTNLIFA72DKZGTI.jpg?auth=decc9684e5ae5ebe86eb05dc246eb69b3dd7ed10fdb5650b0b258b5a48180838&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Marquette vs. Xavier March 9 Tickets & Start Time"
     excerpt: "Saturday's Big East slate includes the Xavier Musketeers (13-13, 7-8 Big East) playing the Marquette Golden Eagles (20-6, 11-4 Big East) at 5:00 PM ET on FOX. If you're looking to catch this game in person, head to StubHub or Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-02-25T04:23:00Z

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Former ‘Vanderpump Rules’ star Rachel Leviss files revenge porn suit against Tom Sandoval, Ariana Madix"
+    excerpt: "Former “Vanderpump Rules” star Rachel Leviss has filed a lawsuit against Tom Sandoval and Ariana Madix, accusing her ex-costars of revenge porn and intentional infliction of emotional"
+    publishedDateTime: 2024-02-29T19:56:00Z
+    webUrl: "https://www.nydailynews.com/2024/02/29/rachel-leviss-revenge-porn-lawsuit-tom-sandoval-ariana-madix/"
+    ampWebUrl: "https://www.nydailynews.com/2024/02/29/rachel-leviss-revenge-porn-lawsuit-tom-sandoval-ariana-madix/amp/"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/2024/02/29/rachel-leviss-revenge-porn-lawsuit-tom-sandoval-ariana-madix/amp/"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 43
+    images:
+      - url: "https://www.nydailynews.com/wp-content/uploads/2024/02/3-splitter-copy-6.jpeg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "‘Vanderpump Rules' alum Raquel Leviss sues Tom Sandoval and Ariana Madix for revenge porn"
     excerpt: "\"Due to a narrative fomented by Bravo, Evolution [production company], and the cast, Leviss became an object of public scorn and ridicule ... and the rest of the cast enjoyed unseen levels of public recognition and professional opportunity."
     publishedDateTime: 2024-03-01T00:00:00Z

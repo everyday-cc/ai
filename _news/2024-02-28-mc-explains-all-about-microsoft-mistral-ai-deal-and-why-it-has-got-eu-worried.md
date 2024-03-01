@@ -391,6 +391,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "New Microsoft-Backed Startup Wants to Make AI Work As Intended"
+    excerpt: "Big companies like OpenAI and Alphabet Inc.'s Google are increasingly directing workers, money and computing power toward the problem. And Anthropic, an OpenAI competitor, has put it at the heart of its development of Claude, a product it bills as a safer kind of AI chatbot."
+    publishedDateTime: 2024-03-01T01:38:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/new-microsoft-backed-startup-wants-to-make-ai-work-as-intended-71709231700078.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/new-microsoft-backed-startup-wants-to-make-ai-work-as-intended-71709231700078.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/new-microsoft-backed-startup-wants-to-make-ai-work-as-intended-71709231700078.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/03/01/1600x900/technology-5254039_1280_1708614115364_1709256923936.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Canada’s Seneca Polytechnic set to integrate Microsoft Azure AI"
     excerpt: "Seneca Polytechnic announced it will integrate Azure OpenAI to develop an AI tutor that supports enhanced learning of course material and simulated, personalized job interviews based on job postings. Seneca students will be among the first in Canada to ..."
     publishedDateTime: 2024-02-25T23:59:00Z

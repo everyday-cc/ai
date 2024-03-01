@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/vanderpu
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/vanderpump-rules-alum-raquel-leviss-sues-tom-sandoval-and-ariana-madix-for-revenge-porn/5183400/?amp=1"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former ‘Vanderpump Rules’ star Rachel Leviss files revenge porn suit against Tom Sandoval, Ariana Madix"
+    excerpt: "Former “Vanderpump Rules” star Rachel Leviss has filed a lawsuit against Tom Sandoval and Ariana Madix, accusing her ex-costars of revenge porn and intentional infliction of emotional"
+    publishedDateTime: 2024-02-29T19:56:00Z
+    webUrl: "https://www.nydailynews.com/2024/02/29/rachel-leviss-revenge-porn-lawsuit-tom-sandoval-ariana-madix/"
+    ampWebUrl: "https://www.nydailynews.com/2024/02/29/rachel-leviss-revenge-porn-lawsuit-tom-sandoval-ariana-madix/amp/"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/2024/02/29/rachel-leviss-revenge-porn-lawsuit-tom-sandoval-ariana-madix/amp/"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 43
+    images:
+      - url: "https://www.nydailynews.com/wp-content/uploads/2024/02/3-splitter-copy-6.jpeg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Scandoval Lawsuit: Rachel Leviss Suing ‘Vanderpump Rules’ Stars Tom Sandoval and Ariana Madix for Revenge Porn"
     excerpt: "The cheating scandal that rocked “Vanderpump Rules” is now being taken to court. Rachel Leviss has filed a lawsuit against Tom Sandoval and Ariana Madix for eavesdropping, revenge porn, invasion of privacy and intentional infliction of emotional distress."
     publishedDateTime: 2024-02-29T20:09:00Z
@@ -37,6 +53,6 @@ related:
       domain: aol.com
     quality: 0
 
-secured: "PgAKnjuzozQFsL8cd5S997P1UOWey+vFMjb2UwvAWBno7tAMwT7KOycxn6X632xU8wtG2MjgP22CQqyRAtMM011qBfpIGUfIISrmNVqSZiggdBUmrVOV9gVTKmv0QqLRC2WMIc0FOYyj7cgL3iOrzd+sLiWpn8xCSZ0RJDm1COeXkUoL+1K2laJhvc24S94UXcaDvRryJOJpTmtvtEDSOyCeLXLwIhnFXmgct304/Ewt/TouKPT84/gMG3/YCz7oWspv9ysBbG2AIOwQSCjfMvNM0MRH1DjqPkSbqvBV7e0TUFPzy9cz31WO4OiGGsQ4F6oJKcOlPJsekTXpQbMfD62wzdaGnetz0iiuHXaVaI4=;xYzVDX0JQ/iEMiiJfyWKPA=="
+secured: "mei9VT+hJCWcEZ2hdTKTW+2dMmgUt8in/FjKIIknaBOBZ9k88VEHgLEFKwh5CnNvSKu1YSgiiQrp+WhWsZKZkTy+zkax/WQhD9+WY3m/WQ+NEXWr1td8F6kfJTMugFEyEFA7fJNL7gjxTskriVRCsB/KmBPlZdPZTEnUOadC8ZAyPyZeAiM9oner9/9FnRUirY/gm+cLNHFTFP2Gh1VVrzWGWAL8umImkTY4dvl7byf8XjZR+mjyNwUosSiVCOwL8YCIxVlgGlbsuUa8rOS1JET3qJiuBncjA1PUMPkdtuxAnqg2bXyUOkj1bjWMWUK0CPUENlXEysECHwlHMBsw307j+s2MbKzmNqSZ/+gS+LWlQ4JiOCpTlHZdOOZ8P+n8BO5oMUglfJlqt5ibeTIT7MW/l1VzQ2qBEAPkPnFZauWwyn8A29nz9yEFM9xzeFauGRm9UqtLMt0SwaVYtYZCtHjKf3pgT2G77sU51SEUgCmxpeEYPndsbeVovf8ZvREQc+wBgY5Dw6WlfNDbnqWJuQ==;sTSYnHNmL/Ld+G1hOio6gA=="
 ---
 

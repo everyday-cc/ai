@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Lightning vs. Devils February 25 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. When the New Jersey Devils meet the Tampa Bay Lightning at Prudential Center on Sunday (the puck drops at 1:00 PM ET), Jack Hughes and Brayden Point will be two of the top players to watch. Nikita Kucherov is an important ..."
+    publishedDateTime: 2024-02-25T06:21:00Z
+    webUrl: "https://www.wtoc.com/sports/betting/2024/02/25/lightning-vs-devils-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: WTOC-TV
+      domain: wtoc.com
+    quality: 22
+    images:
+      - url: "https://gray-wtoc-prod.cdn.arcpublishing.com/resizer/v2/UFGLTQM2WRMOTNLIFA72DKZGTI.jpg?auth=decc9684e5ae5ebe86eb05dc246eb69b3dd7ed10fdb5650b0b258b5a48180838&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ohio State vs. Rutgers March 10 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Ohio State Buckeyes (15-12, 5-11 Big Ten) play a fellow Big Ten squad, the Rutgers Scarlet Knights (14-13, 6-10 Big Ten), on Sunday, March 10, 2024 at Jersey Mike's Arena. The game will tip off at 2:00 PM ET and is ..."
     publishedDateTime: 2024-02-25T23:15:00Z

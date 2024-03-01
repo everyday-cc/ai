@@ -294,6 +294,57 @@
       ]
     },
     {
+      "path": "_news/2024-03-01-canada-lawyer-under-fire-for-submitting-fake-cases-created-by-ai-chatbot.md",
+      "title": "Canada lawyer under fire for submitting fake cases created by AI chatbot",
+      "excerpt": "Chong Ke, from Vancouver, under investigation after allegedly using ChatGPT to cite case law – but those cases did not exist",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai?ref=mc.news",
+      "originalUrl": "https://www.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai?ref=mc.news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1b45223823af90a16d52ba01337b9e85da635acb/0_101_4338_2603/master/4338.jpg?width=620&quality=85&auto=format&fit=max&s=43b13e2355f57d44ad13ca18835eb670",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai",
+      "publishedDateTime": "2024-02-29T20:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-artificial-intelligence-stocks-buoyed-by-c3ai-results-soundhound-on-tap.md",
       "title": "Artificial intelligence stocks buoyed by C3.ai results; SoundHound on tap",
       "excerpt": "Artificial intelligence-related stocks were largely in the green on Thursday as investors awaited fourth-quarter results from SoundHound AI (SOUN), slated to be",
@@ -1197,58 +1248,6 @@
         "AWS AI",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-use-chatgpt-for-mock-interviews-if-you-want-to-land-a-job-says-ex-disney-recruiter.md",
-      "title": "Use ChatGPT for mock interviews if you want to land a job, says ex-Disney recruiter",
-      "excerpt": "HR executive Simon Taylor told CNBC that job seekers should use ChatGPT's voice feature to practice answering interview questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2",
-      "originalUrl": "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e05f0790413ab8e1d7c0ef?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2?amp",
-      "publishedDateTime": "2024-02-29T12:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

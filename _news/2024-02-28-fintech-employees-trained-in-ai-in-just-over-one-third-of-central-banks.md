@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "Fintech NayaOne Acquires $4.7M, Will Boost Sandbox Platform"
+    excerpt: "Valley Ventures’ Managing Partner, Neal Kapur sheds light on the tangible edge NayaOne provides: “Our collaboration has dramatically streamlined how we vet fintech vendors, positioning us well ahead in the Digital Transformation and AI race.”"
+    publishedDateTime: 2024-02-29T21:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/222053-fintech-nayaone-acquires-4-7m-will-boost-sandbox-platform/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 24
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/02/Sandbox-1024x680.jpg"
+        width: 1024
+        height: 680
+        isCached: true
 
 secured: "wb+Y7UT9n5fRjXjJY8pcsx1FmL9nggvszozUPEEJZizBhPyBQNmMT90AnOhQwjF3g9sRQQOTzXaopeLOBuT79UHuhsvhdf976pVYy9fIVWA6AVI5ArmyZiVeQgejQCGyUgSOaF8Xmr/G4Bn2CUqOvhKB4Rp5+/yfafoBKt8UD9+7QjHDQtkpqqsoENNuoEc3rCKCpO7StyV5mH3OQ2tIN2769c3Lw/SwmXC2tnR9z4tQLvERHMkK95q9sdUtysNbIM8MQbXTEv+Y7sTDyE8jLmSW3+Dd9bEYzMBhnmqs8gaIWgRvCnm/0fWv0hpkq7BU0FtycjelcYqoA7fkFQgBMWvkIU+knVrBvwU75jzG6V3HC1G+Ji21E1oNVpFIkjhEZqKSnPq4FKjHBQluQrmXoO/Qjc1IXtfoGoYq+BzgMEC88nPwqQB0eK8hfxYoyj/S2900xVGL3KzNid0MnKiUXamkA9181pJ+Jwj4/wwxeZBvEGb5OjS2IMSLRlWLTaobLKe6z6f1J1y7kBYWeMRBfA==;ADBc+2W0z9ayNkIzvEdCDg=="
 ---

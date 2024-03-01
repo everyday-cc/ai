@@ -382,6 +382,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "New Microsoft-Backed Startup Wants to Make AI Work As Intended"
+    excerpt: "Big companies like OpenAI and Alphabet Inc.'s Google are increasingly directing workers, money and computing power toward the problem. And Anthropic, an OpenAI competitor, has put it at the heart of its development of Claude, a product it bills as a safer kind of AI chatbot."
+    publishedDateTime: 2024-03-01T01:38:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/new-microsoft-backed-startup-wants-to-make-ai-work-as-intended-71709231700078.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/new-microsoft-backed-startup-wants-to-make-ai-work-as-intended-71709231700078.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/new-microsoft-backed-startup-wants-to-make-ai-work-as-intended-71709231700078.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/03/01/1600x900/technology-5254039_1280_1708614115364_1709256923936.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "MC Explains: All about Microsoft-Mistral AI deal and why it has got EU worried"
     excerpt: "Launched in May 2023 byformer Google DeepMind and Meta researchers Arthur Mensch, Timothee Lacroix, and Guillaume Lample, the company garnered major attention even before its first product. One of the most enduring pieces of financial advice is to never ..."
     publishedDateTime: 2024-02-28T04:43:00Z

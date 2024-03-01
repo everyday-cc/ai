@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/artificial-intelligence/study-ai-chatbots-
 webUrl: "https://www.govtech.com/artificial-intelligence/study-ai-chatbots-may-cause-problems-during-elections"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "How AI health care chatbots learn from the questions of an Indian women’s organization"
-    excerpt: "Can a chatbot reach more women with accurate, nonjudgmental and private advice about reproductive health? A pilot program is betting on it."
-    publishedDateTime: 2024-02-29T18:14:00Z
-    webUrl: "https://omaha.com/news/nation-world/business/health-care/ai-health-care-chatbot-india/article_2165cba2-a222-5dad-8d85-23e67893fd23.html"
+  - title: "Canada lawyer under fire for submitting fake cases created by AI chatbot"
+    excerpt: "Chong Ke, from Vancouver, under investigation after allegedly using ChatGPT to cite case law – but those cases did not exist"
+    publishedDateTime: 2024-02-29T20:09:00Z
+    webUrl: "https://www.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai?ref=mc.news"
+    ampWebUrl: "https://amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 31
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/2/16/2165cba2-a222-5dad-8d85-23e67893fd23/65d8c4fd732c1.preview.jpg?crop=1616%2C848%2C0%2C213&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/1b45223823af90a16d52ba01337b9e85da635acb/0_101_4338_2603/master/4338.jpg?width=620&quality=85&auto=format&fit=max&s=43b13e2355f57d44ad13ca18835eb670"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Popular chatbots generating false election information could mislead voters"
-    excerpt: "AI tools are generating false and misleading information about elections, which could affect voter turnout, according to new research."
-    publishedDateTime: 2024-02-28T19:31:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/2894120/chatbots-false-election-information-could-mislead-voters/"
+  - title: "Klarna’s AI chatbot does the work of 700 full-time staff"
+    excerpt: "The buy now, pay later group Klarna is using an AI-powered chatbot to handle two thirds of its customer service inquiries, doing the equivalent work of 700 full-time agents. The Swedish fintech, which has 150 million customers worldwide, collaborated with ..."
+    publishedDateTime: 2024-02-28T22:49:00Z
+    webUrl: "https://www.thetimes.co.uk/article/klarnas-ai-chatbot-does-the-work-of-700-full-time-staff-nbmd2qwnp?trk=public_post_comment-text"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 2
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F273585e7-2058-488d-9f18-fe10010ac386.jpg?crop=5000%2C2812%2C0%2C344&resize=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Air Canada’s Chatbot: Why RAG Is Better Than An LLM For Facts"
+    excerpt: "a company should strongly question whether there is any conceivable benefit to having a chatbot feature on their public-facing website rather than a highly capable search functionality which could still use natural language processing to provide more ..."
+    publishedDateTime: 2024-02-28T07:29:00Z
+    webUrl: "https://hackaday.com/2024/02/28/air-canadas-chatbot-why-rag-is-better-than-an-llm-for-facts/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 19
 
 secured: "dISDrvsfzETtn0O37w5GGgYKbTJkbO0sMCPbW1sgQc2UL4eSTqegA6DcTRc99TkGwxwJ2OPVj75UJ9UJjzKHsN1L4etR7Y4FAfCwebr0wLJAR2S7q0iC0O8GgRhhHKPK8079wXeQd/utyd9j+SJba9l9E8tmkWMU1o0ogIlzkQgLrLj9LdnZHCraRE6JAZMH//GLpjhUP1g/BUZdjjzP0WCe7SQH1y8Agl4WFUnZvcqXM2kiFbvet5zdFR9IGGA/WxRhbNRx218Cs2rekCKKmdHQTYd/Ibz1oIdqhTJeaKIL8GAD/Lw9+fvus96XPHo1a9ma8CKXvVUx558Ll5cl+szBIVYAoKpUseG3rmbyIDNv7o0aa1qPpVldaS/Kb3tFd57fAWRbKtKJY7108KuJEz70D/I/s7RWz4NDxkMvCQ/OGbscEtTXwUHyiqABCCK08WzctrZXkXD4zIYjPyLkhGtT37sycNdd3TJ+3c4OTcu3cirCNZ6CGntPlEL9moycfB7KS7UoIqWgg8UbZW8Tbg==;sH7FWepLgHULHattquYljg=="
 ---

@@ -110,20 +110,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 63
-  - title: "The AI chip behind Nvidia’s supersonic stock rally"
-    excerpt: "Demand for Nvidia’s H100 is so great that some customers are having to wait as long as six months to receive it."
-    publishedDateTime: 2024-02-25T02:02:00Z
-    webUrl: "https://www.moneyweb.co.za/news/tech/nvidia-h100-this-is-the-chip-behind-ais-supersonic-stock-rally/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 54
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2024/02/407967706-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Why is There a Shortage of Nvidia AI Chips?"
     excerpt: "TSMC’s (Taiwan Semiconductor) 2.5D advanced packaging CoWoS (Chip on wafer and wafer on substrate) technology is currently the primary technology used for AI chips. The production capacity of CoWoS packaging technology is a major bottleneck in AI chip ..."
     publishedDateTime: 2024-02-25T18:40:00Z

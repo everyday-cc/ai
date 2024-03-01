@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-29T16:49:00Z
 originalUrl: "https://www.law.com/legaltechnews/2024/02/29/in-an-ai-inundated-world-attorney-intelligence-cant-be-artificial-12-considerations-to-raise-ai-iq/"
 webUrl: "https://www.law.com/legaltechnews/2024/02/29/in-an-ai-inundated-world-attorney-intelligence-cant-be-artificial-12-considerations-to-raise-ai-iq/"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - Microsoft AI
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Intelligence-767x633.jpg"
@@ -25,6 +26,6 @@ images:
     height: 633
     isCached: true
 
-secured: "NtvLcLJ9tJN3xskxNsau2Zhhgx/8tt9K8QKbXkL47LNrFZmNfh/6HXs1xWPX0QmgfJV76MYAIBKNqzkrmk90RvT2+IluyhTEvKqZCYxI+LJ8Tq/cO7ERkWY5S465CQ3xrmYhf3aCHKlbCNyA4YcoHu6YQyTUDEBVBlXm+ByPNw8QR8NofRtu8jj5XOj7fdvqyeoM889W3j74qcDFTtvjFF0Tp1n9ZYksqwOuQjG3V0HqsWtI3aS3T/Q9AzlKsGxMXw/E50Pc4ooLj82B1Ipe6KdVrP/0rJ6pSspwv2eezO0K5IYCL4doLZ8PVXZ1ifzvUBPhr6EzhJU/9DyE8BEGifOg/mHxSk0+ct7dinolI5Q=;t6YaioBp5Q2Dk2yUep00bg=="
+secured: "iniFRU3YrhHUZ5Y5WliwNpoG1Hl3BaAICid0VC+NEfPdvRK5kIMCARgg1dcm3joXRbQvRGpHq+KfqnQ8bs1TErfL+rXYnTklGcjp5rZlUudQgi8z2Qa7nU3MLCJ+U7JpSbryxcxS7JVheLkJ2/9MYmwfjzzdPYL6lKvIexyno49am6q9vtRkMUE13/LrdUruWT+HUzJ9FmVAnPMGdgbFiUDH/GJIRuEtlJLvza8ZzZGHGpn9rFd3Myl8+ZTeLCJ8rB+z706OKVpcZG45yn/+acswZ3HgJCXkQOsbIiGNGGtHIDU+x4TGxCtEGg60gFsfhzLGiPVNOkyHo3ZIZQZwyHGo8oSbNO8YhMf7i+S90zG6z73P+JWTjenSZmYBEIUDd76lZqwd9Ci6MSuew80cGzktqoADrZ3gntJo5e6cVyzQXasEOW4EBYabk3Cyo+DG9vZwaK277cOvv7Mmh0a0QqGXqR2mYCpesrupP84XHRPZEI5sfGucAR94VdlalnSIYvRqXoJKQWT7M92Kv1YwFg==;pQBT6fWpIQ0gbd+WiFZiew=="
 ---
 

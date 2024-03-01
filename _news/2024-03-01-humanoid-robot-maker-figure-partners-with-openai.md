@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Humanoid robot-maker Figure partners with OpenAI"
-excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-publishedDateTime: 2024-03-01T00:00:00Z
-originalUrl: "https://wiscnews.com/news/nation-world/science-technology-artificial-intelligence-robotics-bezos/article_c2190023-3242-5f2c-be82-4deb48bdce40.html"
-webUrl: "https://wiscnews.com/news/nation-world/science-technology-artificial-intelligence-robotics-bezos/article_c2190023-3242-5f2c-be82-4deb48bdce40.html"
+excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
+publishedDateTime: 2024-02-29T22:30:00Z
+originalUrl: "https://billingsgazette.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_bd72d72d-3614-5c24-a69b-4d0a9120da5f.html"
+webUrl: "https://billingsgazette.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_bd72d72d-3614-5c24-a69b-4d0a9120da5f.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WiscNews
-  domain: wiscnews.com
+  name: Billings Gazette
+  domain: billingsgazette.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/c/21/c2190023-3242-5f2c-be82-4deb48bdce40/65e1032a48182.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/b/d7/bd72d72d-3614-5c24-a69b-4d0a9120da5f/65e103262b5db.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -38,22 +38,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/01FnhSXxnrPPY6kLTdhKZHF-1.fit_lim.size_1200x630.v1709238414.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Amazon founder Jeff Bezos joins Microsoft, ChatGPt maker OpenAI to invest in this robotics company"
-    excerpt: "ARK Venture Fund, Aliya Capital Partners, and Tamarack are also among the startup's investors ... may surpass larger competitors. Figure AI, based in Sunnyvale, California, develops general-purpose humanoid robots capable of operating in various ..."
-    publishedDateTime: 2024-02-25T02:19:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/articleshow/107974427.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-founder-jeff-bezos-joins-microsoft-openai-to-invest-in-robotics-company/amp_articleshow/107974427.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 107
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107974425,width-1280,height-720,resizemode-4/107974425.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Robotics startup Figure raises staggering $675M and partners with OpenAI"
     excerpt: "Excited to share: Figure raises $675M at $2.6B Valuation + OpenAI & Figure signed a collaboration agreement to develop next generation AI models for robots Below are the details: pic.twitter.com/V57nn9P3oA"
@@ -261,6 +245,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Companies team up to put artificial intelligence systems in humanoid robots"
+    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
+    publishedDateTime: 2024-03-01T01:31:00Z
+    webUrl: "https://www.yorkdispatch.com/story/money/business/2024/02/29/companies-team-up-to-put-artificial-intelligence-systems-in-humanoid-robots/72797744007/"
+    type: article
+    provider:
+      name: The York Dispatch
+      domain: yorkdispatch.com
+    quality: 34
   - title: "Daily Digest: Chime dinged for customer service; AI robotics firm rakes in $675M, inks new OpenAI partnership"
     excerpt: "Airwallex, a global payments and financial startup, announced the expansion of its global leadership ... Figure and OpenAI have entered into a collaboration agreement to develop next generation AI models for humanoid robots, combining OpenAI's research ..."
     publishedDateTime: 2024-02-29T17:02:00Z
@@ -280,6 +273,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "wpPaMD0vLNkdtcoZWx6XzC2gxC2e7K4uQm1PygCfs4EQR6FScmRGFmslNcLSHkCDxdyc7Fodab8USgYylJbM1xXOszvtSpn8nlJ+7lpaIBUlRIiJDTPRKpByKNWcVGOFLWlFLrEkJ75lYOfMH42/3UkGB4gRvSCQLzPP95mRFr06aFI3iGgzfGDZuF+eJy9OY6FbFSJ0MsJk0ki4NXD1js/NErdnRtB8NTseLPcBZlBdiD4OWxVHL4K64knJkq1xskGEvwHyegRRuPowdL/etdIKVVP8LmW6lSSfrft3Fm8/RPT9CYIxIlfA3AqCYXqY47NpgKyvHiSS/gcRMEv3Yy3QWcOBx7y6TlqHBCp7/P4=;TRa2/rd7PDRuqYeiN1Qaog=="
+secured: "osfuwjhyhRMYEDyLKYkIxj6BCSa7u8jv+iaItGZ6MU9uHvlMCw8Az6MvbCeQCpp/WpEgVqhfMlqLXiJs7DHGtuxR5ql/pLYatbOoalcobRByR4juuwf0qjq66E4PQGmlLMMorE9/vrDMJiy+xXjohfayuaiot2MzL8N7Lw355c/MSFhW1IieSqy8Wg+fdOgr4UAAq7XpfFvek4+WoeMeNoCbpg7Ca8ujjKjiUVdB9WEFBO4WgkOoDNfHw/JT8M5ylQMvAlDQrq2Y4NP4Oif8zGcH7wZSWBpHqVs8c5xtzQTj1+kMFHbpfFY/yHf4SY7G3bxwhiUCLZ3TEmfxdkLkZkp+yHnXd0+BuQo4EOzsFK8=;aOvM2K4qWJ6t2HZhV/yJlQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2024-02-07-is-this-the-year-artificial-intelligence-dominates-healthcare.md",
+      "title": "Is This the Year Artificial Intelligence Dominates Healthcare?",
+      "excerpt": "Artificial intelligence (AI) is well suited to improving healthcare outcomes. Some companies are already starting to use AI to help advance drug discovery and development. \"Where do I think the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/07/artificial-intelligence-ai-dominates-health/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/07/artificial-intelligence-ai-dominates-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/761653/ai-health-care-stock-investment.jpg",
+          "width": 2122,
+          "height": 1415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T05:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-meta-to-label-ai-generated-images-from-google-openai-and-adobe.md",
       "title": "Meta to label AI-generated images from Google, OpenAI and Adobe",
       "excerpt": "Meta has also added a feature for people to disclose when they share AI-generated video or audio and failing to do so would attract penalties, the company said.",
@@ -1066,49 +1118,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-how-ai-could-change-our-relationship-with-religion.md",
-      "title": "How AI could change our relationship with religion",
-      "excerpt": "The AI was able to decipher and translate the ancient Greek word for “purple” on the scroll. Other ancient texts from the Indian sub-continent, for example, are in the Sanskrit language or ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/how-ai-could-change-our-relationship-with-religion-222079",
-      "originalUrl": "https://theconversation.com/how-ai-could-change-our-relationship-with-religion-222079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/572802/original/file-20240201-15-4uwnfw.jpg?ixlib=rb-1.1.0&rect=0%2C155%2C3840%2C1920&q=45&auto=format&w=1356&h=668&fit=crop",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T12:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

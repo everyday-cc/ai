@@ -2,6 +2,59 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2024-02-16-how-ai-can-strengthen-digital-security.md",
+      "title": "How AI can strengthen digital security",
+      "excerpt": "We’re launching the AI Cyber Defense Initiative to help transform cybersecurity and use AI to reverse the dynamic known as the “Defender’s Dilemma”",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/safety-security/google-ai-cyber-defense-initiative/",
+      "originalUrl": "https://blog.google/technology/safety-security/google-ai-cyber-defense-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MSC_Keyword_Cover_3.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-working-together-to-address-ai-risks-and-opportunities-at-msc.md",
       "title": "Working together to address AI risks and opportunities at MSC",
       "excerpt": "For 60 years, the Munich Security Conference has brought together world leaders, businesses, experts and civil society for frank discussions about strengthening and safe…",
@@ -1138,58 +1191,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-why-soundhound-ai-stock-jumped-over-50-this-week.md",
-      "title": "Why SoundHound AI Stock Jumped Over 50% This Week",
-      "excerpt": "Nvidia disclosed a $3.7 million stake in the speech recognition developer. The AI chip leader has invested in several companies over the last year. Major restaurant chains are using SoundHound's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/15/why-soundhound-ai-stock-jumped-over-50-this-week/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/15/why-soundhound-ai-stock-jumped-over-50-this-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/765516/ai-computer-chip.png",
-          "width": 3078,
-          "height": 1730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T14:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

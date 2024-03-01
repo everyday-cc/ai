@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/klarnas-ai-chatbot-does-the-wor
 webUrl: "https://www.thetimes.co.uk/article/klarnas-ai-chatbot-does-the-work-of-700-full-time-staff-nbmd2qwnp?trk=public_post_comment-text"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,28 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Klarna Says Its New AI Assistant Is Outperforming Customer Service Representatives"
-    excerpt: "Klarna has a new employee of the month: artificial intelligence. The Swedish fintech giant quietly launched an AI assistant around four weeks ago that has since handled 2.3 million conversations, accounting for roughly two-thirds of Klarna's customer ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.inc.com/ben-sherry/klarna-says-its-new-ai-assistant-is-outperforming-customer-service-representatives.html"
+  - title: "Canada lawyer under fire for submitting fake cases created by AI chatbot"
+    excerpt: "Chong Ke, from Vancouver, under investigation after allegedly using ChatGPT to cite case law – but those cases did not exist"
+    publishedDateTime: 2024-02-29T20:09:00Z
+    webUrl: "https://www.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai?ref=mc.news"
+    ampWebUrl: "https://amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 33
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/klarna-ai-customer-service-inc-1211180744_537892_yunydw.jpg"
-        width: 1024
-        height: 576
+      - url: "https://i.guim.co.uk/img/media/1b45223823af90a16d52ba01337b9e85da635acb/0_101_4338_2603/master/4338.jpg?width=620&quality=85&auto=format&fit=max&s=43b13e2355f57d44ad13ca18835eb670"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Klarna's AI does the work of 700 people. What's that really mean?"
-    excerpt: "The Swedish lender says the use of generative AI hasn't affected headcount. But it has also said previously that AI would impact its own hiring decisions."
-    publishedDateTime: 2024-02-29T18:55:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/klarnas-ai-does-the-work-of-700-people-whats-that-really-mean"
+  - title: "Study: AI Chatbots May Cause Problems During Elections"
+    excerpt: "In a year when more than 50 countries are holding national elections, a new study shows the risks posed by the rise of artificial intelligence chatbots in disseminating harmful information to voters."
+    publishedDateTime: 2024-02-28T18:40:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/study-ai-chatbots-may-cause-problems-during-elections"
     type: article
     provider:
-      name: American Banker
-      domain: americanbanker.com
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/aed2476/2147483647/strip/true/crop/940x457+0+87/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F39%2F30%2F39f6bdf361c3c6d991ccb20a8241%2Fchatbots.jpg"
+        width: 1440
+        height: 700
+        isCached: true
+  - title: "Air Canada’s Chatbot: Why RAG Is Better Than An LLM For Facts"
+    excerpt: "a company should strongly question whether there is any conceivable benefit to having a chatbot feature on their public-facing website rather than a highly capable search functionality which could still use natural language processing to provide more ..."
+    publishedDateTime: 2024-02-28T07:29:00Z
+    webUrl: "https://hackaday.com/2024/02/28/air-canadas-chatbot-why-rag-is-better-than-an-llm-for-facts/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
     quality: 19
 
 secured: "vZgLHorW7njKxe50AaO5BvPj4wmn5ipQPUKePFa4iq3uGnbmdgeKrwxmfE/dpDz1y4KWHn0bjJSqH5QJL9FjtXSI4ideKmCISy1h1P2cYuxmIV4ewYJrOgDAhsJT8Ef/dOXeV/14RoxKEN7hR4txepcUc+sm0fjqbe9eI2YDiydM+TeNWSPH5CCHGJbOtLfkYkiE5Kz/KVpiALcbyoNF9LBhDJb4IALgWtqo4qXcAz3Hg/v0/6NK0pMe/pCe1zkMr2CD+F/PHS+PpXwTBrJ5RgKEDDI6DoDMZm5ktafJOvv0/V58mu6CBwgLiXOffTaacPPQv17agijro4oq106ntraQKSfMHhdytj9poO6e/KM=;/AbHvrDUtbiTGvHyaexh1A=="
