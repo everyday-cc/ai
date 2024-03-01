@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bleepingcomputer.com/news/security/malicious-ai-models-o
 cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/malicious-ai-models-on-hugging-face-backdoor-users-machines/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Hugging Face, the GitHub of AI, hosted code that backdoored user devices"
+    excerpt: "An exploit that opens a device to such tampering, however, is a major breach of researcher ethics and demonstrates that, just like code submitted to Github and other developer platforms, models available on AI sites can pose serious risks if not carefully ..."
+    publishedDateTime: 2024-03-01T10:02:00Z
+    webUrl: "https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/exploit-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
 
 secured: "fsudIkgTNAS8WPoTy0aUdVnRAX3E2BZLD7lzbttSNQaItjjUhpurH1zuui9s3umKo35VqkDUIZYCvKZUUb/jaHJNJJ4EnY6BYJd7dS1ol6MyWk60Dfd70u3bhozmIoLBLDwnET0lNX7ajwKlvPJge2OqCmhtszeX9xdcXePIW+dvyrF1Wc5dhnlaz7eSpiPvXLlV0vAMQzMcEknpUnO/9dhy0GAWq30xT8NUuPE9VY+s+tiqPsJ1jVFqPDb8rYnByOzvJq0/15lavinexLPN5O3lNdf6J2fJgXXBBR+WBmfkSBMG/j8PxPkeGtJFIYgDUm0tPq+Xh2fT27AE+U3dqH3bAtUjMd1mxA+mmmCmKmEBuTeI8b7lTM2it8uXC2xCM5Bqkotw2tYiahQszYMOvNuSSW8pLlAwxSb7uEuc2aQYHAxdpKH9EoIRcDVoGqmFq56sNQU2dclSAuaH4QXAwFT+a7bxLffMc6lN+l/NyE+xag2Njb8e25FPGhTSQlnh0P86HbqX5qhurJDqtb2z5w==;cgPniFVNbWnnQq/6J2cPig=="
 ---

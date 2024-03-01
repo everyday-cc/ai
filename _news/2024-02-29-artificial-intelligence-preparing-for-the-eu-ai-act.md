@@ -24,35 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "8 TED Talks To Help You Prepare For The Era Of AI-Driven Spatial Computing"
-    excerpt: "The Humane AI Pin might not be the device we all use ... Thousands of TED Talks have inspired and sparked ideas and imagination. These TED Talks are the start of a journey to understand Spatial Computing, how it works, and why it's necessary."
-    publishedDateTime: 2024-02-25T18:01:00Z
-    webUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/"
-    ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/"
+  - title: "We must start preparing the US workforce for the effects of AI – now"
+    excerpt: "Artificial intelligence can make companies more efficient and workers happier – or cause mass misery. The choice is ours"
+    publishedDateTime: 2024-02-29T10:01:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2024/feb/29/ai-workers-layoffs-surveillance"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2024/feb/29/ai-workers-layoffs-surveillance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/29/ai-workers-layoffs-surveillance"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dbbe3f64a8766c81ca8d55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://i.guim.co.uk/img/media/9dfe84020d3abb792f5711139dc45b643a4e297c/0_0_7331_4401/master/7331.jpg?width=620&quality=85&auto=format&fit=max&s=a282402c34acc4c4a1139c168af54c28"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Welcome to the era of mobile AI"
-    excerpt: "When integrated into phones, AI is, to put it simply ... Availability of the service varies by country and language. Accuracy of results is not guaranteed. 3 Live Translate requires a network connection and Samsung Account login. Live Translate is only ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://mg.co.za/partner-content/2024-02-27-welcome-to-the-era-of-mobile-ai/"
+  - title: "A for artificial intelligence, B for base effect: The A-Z of Q3 earnings season"
+    excerpt: "However, company managements enthusiastically tried to brighten the mood during the post-earning concalls by deploying the hottest buzzword in town — artificial intelligence. Analysts, meanwhile, urge investors to resist the temptation of counting the ..."
+    publishedDateTime: 2024-02-26T02:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/earnings/a-for-artificial-intelligence-b-for-base-effect-the-a-z-of-q3-earnings-season-12346171.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/earnings/a-for-artificial-intelligence-b-for-base-effect-the-a-z-of-q3-earnings-season-12346171.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/earnings/a-for-artificial-intelligence-b-for-base-effect-the-a-z-of-q3-earnings-season-12346171.html/amp"
     type: article
     provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 39
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 53
     images:
-      - url: "https://mg.co.za/wp-content/uploads/2024/02/image001-1.jpg"
-        width: 813
-        height: 508
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Q2-earnings-Auto-Sector.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "OnDCAXRi/u4O+3zhvpcMZbD8B6LkxQN4BgWT+XM1EX3zCjyDFwst6v8uPSCc4hItjnRUjnJTPomYuPlNMsQVdEKYtPfDR2gLUG3T3M3O2t3ycXwLKWHc8RXZThYpW1WLDmTe1S6Act4qRO6l/0+p7tdesE9AurOr1qqIhux4y9vrbFyNnjqMYBb2BZexAIJ/vb5tr7YLMoPXKSYy0te3SrnL1Aau0U88SuLbgYOyyPsT5kvVCo115Zrxc2alrrdmXDBDqSJZpBf1GZf98FmGAlbaCckO1PTfRJtW9e8bMhoz1lMyXPXDDPjl63Sz1qJALPaidNHb7iXZXzlzz9+/gB224dUnRgLCxyoS12PF0xs=;R3JImVfM0zfhyhMpB7RDZw=="

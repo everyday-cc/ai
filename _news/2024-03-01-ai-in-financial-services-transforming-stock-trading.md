@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-fina
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Legal transparency in AI finance: facing the accountability dilemma in digital decision-making"
+    excerpt: "Like hidden gears whirring behind the Emerald City facade, AI algorithms are transforming finance by unlocking efficiencies, predicting trends and personalizing financial experiences. From fighting fraud to streamlining transactions,"
+    publishedDateTime: 2024-03-01T16:58:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/legal-transparency-ai-finance-facing-accountability-dilemma-digital-decision-2024-03-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 52
   - title: "HP’s AI-enhanced PCs set to transform user experiences"
     excerpt: "Moreover, the transformation of audio and video content, including streaming, stands out as AI enhances editing capabilities, language translation, and overall engagement. Leading the charge in this technological revolution is HP, a company known for its ..."
     publishedDateTime: 2024-02-26T09:44:00Z
@@ -55,6 +64,6 @@ related:
         height: 580
         isCached: true
 
-secured: "IjhlVnTbHOhLcpgbp5cheYa5DoreHtkbVxE7q8rlrEDW6qYoFEgTGh8dx9lFUnwJWDTeTV+Eor/UT5RdNfGyJ9kvwQ365MjDe5h1S7BO1aNTaxuDiPoF9RE7mHqqfAeC6snqyCfGKq+NUfPz1kf1YVx/FzHZC+HPGuHAB5ozBsgfejHguVlHJ0QvCSI129/1F22FUQt7txXJhkto/Z9w3h5JUT8/bLbfB+FGVj6YdD3O5E+lSkwpojLnqi6SJKPwKckO8bHkdSALl3cE4BvPWeh3ADudhhrGEaba+iSW2MwgKw9MfIW2R+58Uo2/26z9FKJJCn1t6F1L3/nga2nJrzpeuTIW8ff6C8N7LG/dMS4=;1dPw3/bLhX/vSL29OSpUIg=="
+secured: "yJEAziBCwgA0JlKGUkMaR9BiaG31ID9NeXuNbZAl0yNAghFtClgziveuoKQoOWvMqGsygOcjhf8s6wmk6ILMAZckI/a1hzTUnvlo43G7zGrB9xAH05Lrzns+7kqkUK9G/CFOCMKC1i5PxLuVOvdN3vZLX2EfCvkwA9W5IbXEDA9UxnJZq0x/iqVJJniIF2H13QRkuBHkdtaNtB07AFmZPv3M6oUQc5YElbKfbamXB4O2KfeA+GGASnMvvYzPZ2EL714FmPObNNLNClxm/Qu72vqCye521ZlS2okao/DO2kuwiGxr5d0xjZdTDCOiYsPdHLVuwtfHnEJ31FvNaBu6gbd6+dR0HlURBjRTp8x0EZM=;grO0dzrmJrkpWjSFGjpSIw=="
 ---
 

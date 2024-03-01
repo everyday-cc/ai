@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-22-build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract.md",
+      "title": "Build a vaccination verification solution using the Queries feature in Amazon Textract",
+      "excerpt": "Amazon Textract is a machine learning (ML) service that enables automatic extraction of text, handwriting, and data from scanned documents, surpassing traditional optical character recognition (OCR). It can identify, understand, and extract data from tables and forms with remarkable accuracy. Presently,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/10/ML-11666-image001-1120x630.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T16:54:50Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-ai-technology-gives-a-voice-to-those-with-speech-disabilities.md",
+      "title": "AI Technology Gives A Voice To Those With Speech Disabilities",
+      "excerpt": "Voiceitt recognizes and translates speech by people with an underlying medical condition that means their speech is hard to understand.",
+      "sourceUrl": null,
+      "webUrl": "https://nocamels.com/2024/01/ai-technology-gives-a-voice-to-those-with-speech-disabilities/",
+      "originalUrl": "https://nocamels.com/2024/01/ai-technology-gives-a-voice-to-those-with-speech-disabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nocamels.com/wp-content/uploads/2024/01/ezri2fre239f2scd.jpg",
+          "width": 1140,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-voice-search-seo-practices-optimizing-for-the-future-of-search.md",
       "title": "Voice Search SEO Practices: Optimizing For The Future Of Search",
       "excerpt": "I believe that adapting strategies to optimize content for voice search should be one of the highest priorities for small-business owners.",
@@ -1254,74 +1350,6 @@
       "provider": {
         "name": "The Washington Post",
         "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-raz-memory-cell-phone-allows-people-with-impaired-speech-to-speak-and-be-understood-using-their-own-voice.md",
-      "title": "RAZ Memory Cell Phone Allows People with Impaired Speech to Speak and be Understood Using their Own Voice",
-      "excerpt": "CABIN JOHN, Md.--(BUSINESS WIRE)--RAZ Mobility (www.razmobility.com), is integrating speech recognition technology for non-standard speech into its RAZ Memory Cell Phone. For the first time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240110198584/en/RAZ-Memory-Cell-Phone-Allows-People-with-Impaired-Speech-to-Speak-and-be-Understood-Using-their-Own-Voice",
-      "originalUrl": "https://www.businesswire.com/news/home/20240110198584/en/RAZ-Memory-Cell-Phone-Allows-People-with-Impaired-Speech-to-Speak-and-be-Understood-Using-their-Own-Voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-duolingo-translator-layoffs-spark-ai-debate.md",
-      "title": "Duolingo Translator Layoffs Spark AI Debate",
-      "excerpt": "Slator is the leading source of news and research for the global translation, localization, and language technology industry. Our Advisory practice is a trusted partner to clients looking for independent analysis. Headquartered in Zurich, Slator has a presence in Asia, Europe, and the US.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/duolingo-translator-layoffs-spark-ai-debate/",
-      "originalUrl": "https://slator.com/duolingo-translator-layoffs-spark-ai-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T10:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
         "images": null,
         "publishers": null,
         "authors": null

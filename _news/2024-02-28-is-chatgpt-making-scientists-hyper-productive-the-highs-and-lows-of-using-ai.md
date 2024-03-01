@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI programming languages power today’s innovations like ChatGPT. These are some of the most popular"
+    excerpt: "Prioritizing ethics and understanding the true implications of AI are also critical. But since AI technology is changing so rapidly, soft skills can be argued to be even more important than technical capabilities. Some of the critical skills Singh Ahuja ..."
+    publishedDateTime: 2024-03-01T18:27:00Z
+    webUrl: "https://fortune.com/education/articles/ai-programming-languages/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 72
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2024/02/AI-programming-languages-GettyImages-1518874007-e1709244825422.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Latest ChatGPT lawsuits highlight backup legal theory against AI platforms"
     excerpt: "In the plethora of copyright lawsuits against artificial intelligence developers, a pair of complaints filed on Wednesday against OpenAI and related defendants stands out."
     publishedDateTime: 2024-02-29T21:20:00Z
@@ -51,14 +65,14 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Stock Spotlight: 3 Picks ChatGPT Urges You Not to Miss"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT was one of the big stories of 2023. As part of the generative"
-    publishedDateTime: 2024-02-27T18:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stock-spotlight-3-picks-chatgpt-urges-you-not-to-miss-1033109018"
+  - title: "New Malware Worm Can Poison ChatGPT, Gemini-Powered Assistants"
+    excerpt: "Generative AI models aren't immune to viruses. A new worm can target AI-powered assistants and break some of Gemini and ChatGPT's security features, research reveals."
+    publishedDateTime: 2024-03-01T13:54:00Z
+    webUrl: "https://www.pcmag.com/news/malware-worm-poison-chatgpt-gemini-powered-assistants"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: PC Magazine
+      domain: pcmag.com
     quality: 49
 
 secured: "j0enWh+wS567ZLF8Gc6t7evtRKqapIMyJoAOKaeM0B5dlfu47W2fJvLFW+peMiFk+UNyOLiyaZSI46ajehKGXCiru5u6oA27ISXomxg/+gGlsfOiKq8+yf9Trq9ams7CbtONx2w5Xrq0fNJyuUTP7wdZh09evJrp1zndB1kAXeYhdGjtUL+KoKxbUpUMSE87wSQEDi23K0UDclvNtLz8YeNEbGEJgUJrTYXfNBPpKtYDISIF27buW1i6Ex/qEOOlVpU81FWymcvk0t21Lmwko6mh16Bl3vwovtH1QEskBPvEmjbwv9ESlJL0w7LfnAZtrcMsjGerkWjfZGuL0pHs0gkKEbkGnz2NHrwB4Vta+TCEfeyPqk6bHZHhIkhHikQQTtTJvnqI+IyNgWgR2by0AY6KCj/bUkIo3o7rEjt25+1KU0bW68s8tvpMiQ7BZMwvB7dwUAV5os7wYeAp0cCfeB+J6Nx7p7BL76lIt84CgY663Lr9Sb28SfhfCxn4rdhzdeYyOCY3P9Iri4DlUSYTHQ==;rE6QGA5nWNj0bKeDzdaKTg=="

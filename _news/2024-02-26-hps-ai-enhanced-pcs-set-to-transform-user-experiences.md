@@ -50,6 +50,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Legal transparency in AI finance: facing the accountability dilemma in digital decision-making"
+    excerpt: "Like hidden gears whirring behind the Emerald City facade, AI algorithms are transforming finance by unlocking efficiencies, predicting trends and personalizing financial experiences. From fighting fraud to streamlining transactions,"
+    publishedDateTime: 2024-03-01T16:58:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/legal-transparency-ai-finance-facing-accountability-dilemma-digital-decision-2024-03-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 52
 
 secured: "2r4WZFuU55JomDG/obA95wziI/lR+2MohPM4zigFWrEWEaulnZTXUOMq9WTdAeB1T9XNNTO3Nap6F4Hi8RQY9AtKccYleMUkR8H0YT4gx9BBhihlcV2xm96//VPd2sRFSwA6wwKaObvTxl4KGUg35BESMBthwh+tkehOkPoDR6o+SswLcAsEjFaoc+7w9Kr5AfxCA2sgVg/1rqepgA5Gfir9MGuDc45SgeYL9UiI9t99JcUCMhvtsD7atooUJsI6hDkqPov4+9eZPlNhRJ37710c+ZuAn5qStilXnIeZRb6VA53HVcvbDDijEkbqj7Y0tR5BCpn063p2c3MlCuEnh8/xzd8O+KQ7mq5iwsuTBz4=;YSUx++B+35MCry3TsoDM4Q=="
 ---

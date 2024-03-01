@@ -23,15 +23,36 @@ topics:
   - AI
 
 related:
-  - title: "Baidu Buy Rating Affirmed on Strong Financials and AI Growth Potential"
-    excerpt: "Baidu (BIDU – Research Report), the Communication Services sector company ... with a significant contribution from Gen-AI technology—which now accounts for 5% of Baidu’s total revenues—bolsters confidence in the company’s future earnings before ..."
-    publishedDateTime: 2024-03-01T00:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-buy-rating-affirmed-on-strong-financials-and-ai-growth-potential-1033122456"
+  - title: "Why Snowflake Reeled In AI Hype"
+    excerpt: "“With the onslaught of generative AI, Snowflake needs a hard-driving technologist to navigate the challenges the new world represents,” said Slootman on the call. The departing CEO, who denied rumors of his potential departure last year, will remain chairman of the board."
+    publishedDateTime: 2024-03-01T17:26:00Z
+    webUrl: "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/"
+    ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e21d7d1ef2712dca54a75e/0x0.jpg?format=jpg&crop=3998,2248,x0,y206,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "The Focus Is On AI for Snowflake's Earnings"
+    excerpt: "Snowflake stock has been on a tear, driven by hopes the cloud-based data warehouse software company will benefit from the generative artificial intelligence trend, and that the pace of corporate spending on cloud computing will pick up."
+    publishedDateTime: 2024-02-28T08:15:00Z
+    webUrl: "https://www.barrons.com/livecoverage/salesforce-snowflake-c3ai-earnings-stock-price/card/the-focus-is-on-ai-for-snowflake-s-earnings-PRH6rwce3DYAjczEotum"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+    images:
+      - url: "https://images.barrons.com/im-51741212?width=780&height=520"
+        width: 780
+        height: 520
+        isCached: true
 
 secured: "iyjAHZebwSEVCYtVBHy5V8tjrPff2t2+uGTtNveFuio7M3nwNrGBfPpv77gIUCfqFtzAbwMQANwFRSNmrbLRwutRGyi1OSqKqnnevOxqJ956wO7bLtC1VnCufVCIxo4FEuFkGSbK0nD4ewmJ2WqtA3snq/UmRKVXenchOnU9juN6+1b4Agl54vkFYm0YAaue/186rMem1GQyrO2kjA9Z3KpzLrB9Jy09qmftP4Fc4MAT6D0KGDQEdD+Q9wPKIWdeA6N33RVBeFSRHg+kXFoyKgibr57MtUklcB3YWyxtXo9PT3H02Exz6HcWMViPAxcA51brEeNkeDuaJaoetJK0t0Mk9vQLvr8ltHHuN4eoZfM=;clTNoWYHB1hszh82ovDD/g=="
 ---

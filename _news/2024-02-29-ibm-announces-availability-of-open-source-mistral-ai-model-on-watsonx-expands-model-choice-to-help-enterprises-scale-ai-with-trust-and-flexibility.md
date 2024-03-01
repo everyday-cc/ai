@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and Samsung SDS transform enterprise mobility with zero-touch technology"
-    excerpt: "The importance of Watson AI to enterprise mobility Central to Zero Touch Mobility is the integration of Watson AI, IBM’s flagship cognitive computing platform. With its natural language interface and advanced analytics capabilities, Watson enables ..."
-    publishedDateTime: 2024-02-26T23:53:00Z
-    webUrl: "https://siliconangle.com/2024/02/26/ibm-samsung-streamlining-enterprise-mobility-zero-touch-technology-mwc24/"
+  - title: "IBM Introduces Mixtral-8x7B to watsonx, Delivering Rapid, LLM-Based Insights"
+    excerpt: "IBM is announcing that Mixtral-8x7B-the popular, open source large language model (LLM) developed by Mistral AI-is available on the watsonx AI and Data platform. Now offering an enhanced version of Mixtral-8x7B,"
+    publishedDateTime: 2024-03-01T18:49:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Introduces-Mixtral-8x7B-to-watsonx-Delivering-Rapid-LLM-Based-Insights-162864.aspx"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 21
+      name: dbta
+      domain: dbta.com
+    quality: 36
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Ruth-Sun-and-David-Kinlough-MWC-2024.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "vuEGs498S+ggIsENApJwfY3d1KA7DLyVr1QeGIob17vp2mkgFPvEHv2GgfDuZgQNvET1EDIWMkKdlQEcU1BrSkgeWyPoIPAGjEavhqULyBoh2gR2EVUMWlYpWhRfJY/kBmT337Ul40+N1UybvAXLCKGeO2iyl0r/TcJDHubHwZPp6bXLRsMYDpNMt1okNTYMzLPciAwZVsXIaTzkyTK+UpDJ5RLVbCodeqXmcyUvcxxvhfqZIE0XE5OJ/hfT80L72LLN8l0L6hApShK8sk5eeLCTON9f4ADauOmIcMRX3g+jttZJwlTjugKny8fB81CXsr1gWqRbJonE196SoYwf4DqP2J5gw24lMB1QCntq8U4=;hzsgLZO2mfp7syxe4mIj0A=="

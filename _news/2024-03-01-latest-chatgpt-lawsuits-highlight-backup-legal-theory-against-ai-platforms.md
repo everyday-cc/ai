@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/legal/transactional/column-latest-chatgpt-
 webUrl: "https://www.reuters.com/legal/transactional/column-latest-chatgpt-lawsuits-highlight-backup-legal-theory-against-ai-2024-02-29/"
 type: article
 quality: 62
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "AI programming languages power today’s innovations like ChatGPT. These are some of the most popular"
+    excerpt: "Prioritizing ethics and understanding the true implications of AI are also critical. But since AI technology is changing so rapidly, soft skills can be argued to be even more important than technical capabilities. Some of the critical skills Singh Ahuja ..."
+    publishedDateTime: 2024-03-01T18:27:00Z
+    webUrl: "https://fortune.com/education/articles/ai-programming-languages/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 72
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2024/02/AI-programming-languages-GettyImages-1518874007-e1709244825422.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "\"Yo peeps\": ChatGPT is the latest translation of the Bible"
     excerpt: "The man behind the Bible's latest translation spoke with CBS News Miami's Tania Francois about how it came to fruition."
     publishedDateTime: 2024-03-01T03:45:00Z
@@ -53,14 +67,14 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Stock Spotlight: 3 Picks ChatGPT Urges You Not to Miss"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT was one of the big stories of 2023. As part of the generative"
-    publishedDateTime: 2024-02-27T18:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stock-spotlight-3-picks-chatgpt-urges-you-not-to-miss-1033109018"
+  - title: "New Malware Worm Can Poison ChatGPT, Gemini-Powered Assistants"
+    excerpt: "Generative AI models aren't immune to viruses. A new worm can target AI-powered assistants and break some of Gemini and ChatGPT's security features, research reveals."
+    publishedDateTime: 2024-03-01T13:54:00Z
+    webUrl: "https://www.pcmag.com/news/malware-worm-poison-chatgpt-gemini-powered-assistants"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: PC Magazine
+      domain: pcmag.com
     quality: 49
 
 secured: "5I1by/3jDpnmHAMaKf5JUR67HvZcwsQ+xK9FVWI+LNouszTZhmizPHi+/AT1UY7+N4A+ohv7P+1C1rQp1HfMQJTxWZgPCrQCBwaObC72fWZx6VrFD0WFjATh6+4MouO6CS4c/r0zhT2dFMMu/wfzhU9b8wULwvweaWBmtWSdJEuzP4xBMiPXC7TYA2PrdrJPcLeXS1k4qCkU7uuLZb2yn8MM9jCXjbGycc92e+TfyPUt0kjF05IsYX1V0aBi30fwQ+a6yMrxePKyhpfcaNUpACk89P+R0jYN6t5dFktYGcZd0VAUrO1aJsqVp1rd7dqhcV7wDSg3iRLqsGfbXrjYS9OgHEuOQ4a3TSxRkhT9aK15Fq+oEcjQzRaJcw4RgWxIS+xEa88leigPCVdYffZR4utaypnuhVxNk7VNH61z6ysME9AH0FwwT+y3fNNQJ56ERkIqivEEe8/bFG6xFDXKS7R0+1NEsiDR2qAFAIciXbywvxbSzkHw347pul3OsBNdtWFR9TDTgh8O0kA9fFZDIw==;kO7vgDsvrkZIjLiSAWnWzw=="

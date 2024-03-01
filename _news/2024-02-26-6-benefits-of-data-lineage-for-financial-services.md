@@ -38,6 +38,15 @@ related:
         width: 1354
         height: 900
         isCached: true
+  - title: "Legal transparency in AI finance: facing the accountability dilemma in digital decision-making"
+    excerpt: "Like hidden gears whirring behind the Emerald City facade, AI algorithms are transforming finance by unlocking efficiencies, predicting trends and personalizing financial experiences. From fighting fraud to streamlining transactions,"
+    publishedDateTime: 2024-03-01T16:58:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/legal-transparency-ai-finance-facing-accountability-dilemma-digital-decision-2024-03-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 52
   - title: "HP’s AI-enhanced PCs set to transform user experiences"
     excerpt: "Moreover, the transformation of audio and video content, including streaming, stands out as AI enhances editing capabilities, language translation, and overall engagement. Leading the charge in this technological revolution is HP, a company known for its ..."
     publishedDateTime: 2024-02-26T09:44:00Z

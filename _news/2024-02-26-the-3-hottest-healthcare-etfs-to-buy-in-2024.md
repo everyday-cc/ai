@@ -22,6 +22,22 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Best AI ETFs in March 2024"
+    excerpt: "This ETF debuted in September 2016, tracking the Indxx Global Robotics & Artificial Intelligence Thematic Index. It holds companies that are poised to benefit from increased adoption of not only ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-etfs/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 39
+    images:
+      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/08/09032927/GettyImages-1495043596.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "i8JNJ+FDEPB/Ps1U0tiLnWp/EdxwQVyC/pOPo0ALSqto2/e6B4g9sQ9QhoQNvkD7hjB5AUqr0dnxGAosqerNiNcv+758YNLYSDjWP175zYaTfgmoFtFN6WWVdODL1FjCU5dqxHYu6ehoKfCuvqXUEfsp1jNNw/c7xI07jnDoBOjPmlXAiuMfLLagWtv9vtF1QljpGP8Es5Qji3ec74YgmQfc2hziHGyBoUhSaDCEHt8F2BjggiVEV6MOR7LwXi2E8ctV+iwmz88gYxmmuOczUOJ4DpEWaF2abNyRkPbBm7+3SZvrANfx6htbr8vFkQPcjcRfjTMVLYmTol+UEFbIiHsRD5kDecd9aaXhkimhIOZr3mVOToVtTBwCq5RNI97fe+wfc8p7Rtn9UY3PcW4oLQuP+NN2nfAjESG7GtgGBL4sn2Oy3YUFSMtE5DkFx1XJ+fdWkeijAqn+AlovkcjBGDL+hOsjjbLlvIDRiJAfwfsVCnLMrQiU7kQHJ1cy6EZK5jXYMhNFGDQgDyi4SKHMkA==;2wmzt192NYlFA9X1tVuuHg=="
 ---
 

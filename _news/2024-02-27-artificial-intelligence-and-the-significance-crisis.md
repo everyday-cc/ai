@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-26T21:25:00Z
 originalUrl: "https://www.chronicle.com/article/artificial-intelligence-and-the-significance-crisis"
 webUrl: "https://www.chronicle.com/article/artificial-intelligence-and-the-significance-crisis"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Data Governance and Provenance: Two words that are critical to the future of generative AI"

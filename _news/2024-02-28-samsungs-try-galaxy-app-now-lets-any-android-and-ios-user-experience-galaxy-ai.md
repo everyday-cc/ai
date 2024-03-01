@@ -29,63 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung becomes first to introduce 12-stack HBM3E amid high demand from AI"
-    excerpt: "All three are planning to increase their production output of HBM this year, with the downcycle of the memory chip market seemingly over, and to meet the high demand from the popularity of AI, which has increased demand for GPUs __ especially those made by ..."
-    publishedDateTime: 2024-02-27T02:23:00Z
-    webUrl: "https://www.zdnet.com/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
+  - title: "You can now try Galaxy AI on any Android phone to see just how good it is"
+    excerpt: "Samsung has updated its Try Galaxy experience to support Android phones, so users can now try One UI 6.1 on their phones. Read on!"
+    publishedDateTime: 2024-02-27T12:35:00Z
+    webUrl: "https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 68
     images:
-      - url: "https://www.zdnet.com/a/img/resize/6f7adb4d553815944a1149614dfcb6143622d884/2024/02/27/fe7919e2-c351-438f-bacb-65dc120d8ae4/hbm3e-12h.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Just-Circle-It-lying-on-chair.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Will Samsung introduce Galaxy AI to budget phones?"
-    excerpt: "As Samsung Electronics is expected to roll out its new Galaxy A series this month, anticipation is growing on whether the mid-range smartphone models will feature the tech giant’s latest artificial intelligence features."
-    publishedDateTime: 2024-03-01T07:55:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20240301050172"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240301050172"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240301050172"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 59
-    images:
-      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F03%2F01%2F20240301050138_0.jpg"
-        width: 630
-        height: 419
-        isCached: true
-  - title: "Samsung presents Galaxy AI Vision at MWC 2024 with latest products and services"
-    excerpt: "Visitors to be offered powerful first-hand experiences across Galaxy S24 series, expanded product ecosystem and Samsung Connected Health, all powered by Galaxy AI"
-    publishedDateTime: 2024-02-27T07:51:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 55
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTFmN2FiNzctNzJlYS00/0/2024mwcgalaxyai_2-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Samsung and Micron prep advanced HBM3E 3D chips for memory-intensive applications"
-    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. Forward-looking: The AI boom is in full swing, and chip manufacturers are bringing new, advanced memory technologies to the table. Next-generation High Bandwidth Memory (HBM ..."
-    publishedDateTime: 2024-02-28T14:10:00Z
-    webUrl: "https://www.techspot.com/news/102061-samsung-micron-prep-advanced-hbm3e-3d-chips-memory.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 44
   - title: "Try Galaxy app from Samsung lets you experience Galaxy AI on any smartphone"
     excerpt: "The Try Galaxy is a progressive web application that simulates Samsung OneUI 6.1 interface and provides users with tutorials and interactive features"
     publishedDateTime: 2024-02-28T06:22:00Z
@@ -97,20 +54,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 37
-  - title: "Micron's 1.2TB/s HBM3E Production Kicks Into High Gear As AI Demand Skyrockets"
-    excerpt: "HBM3E will be part of NVIDIA's H200 Tensor Core GPUs that are slated to ship in the second quarter of this year."
-    publishedDateTime: 2024-02-26T14:14:00Z
-    webUrl: "https://hothardware.com/news/micron-12tbs-hbm3e-production-high-gear-ai-demand"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 35
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/63987/content/hero-micron-hbm3e.jpg"
-        width: 708
-        height: 400
-        isCached: true
 
 secured: "fhabDfLllIDpryNE+pj/BCuwmr4Gb9vSIuLKJfgUrKTnsARYa8FnHLOUzHuNu6FK4X6rTciDYHYmVGP2+mj92VzOnURFA4KZNSPgfXgdOj36gzSFGZ5oIp/XkcJ2Q6GX9tjqtz6tfNqS1XcLBTzK3KWbM2catOqoOHfksZrN1BHdYPaBMMOK6PMobZWMGvm4711n3S6440VoNrT6HwIEvcxwCsVEQRIbqojNj4+nDHCst0bM3iNfh+FU/6aapxIyLVtGe1FnleksUjJIpHbAQ0jcV9/WAqqo5X6rCbXhgMUI2p43z8H3THbRKqhTs+tPlOtrqtQtTzLwJjZFVdrR/rmL3orwmzvZpQ6fOO33rMs=;3+j6u/MXmHsux7Tu7GPD+w=="
 ---

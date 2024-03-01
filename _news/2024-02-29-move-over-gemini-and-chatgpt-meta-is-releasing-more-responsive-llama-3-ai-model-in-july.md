@@ -314,6 +314,20 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 34
+  - title: "Weekly AI recap: Musk sues OpenAI, Google (sorta) apologizes for Gemini controversy"
+    excerpt: "Elon Musk filed a lawsuit on Thursday against OpenAI and its founder, Sam Altman, claiming that the company has abandoned its founding mission to build AI that benefits humanity and has instead chosen to prioritize its own financial interests."
+    publishedDateTime: 2024-03-01T17:47:00Z
+    webUrl: "https://www.thedrum.com/news/2024/03/01/weekly-ai-recap-musk-sues-openai-google-sorta-apologizes-gemini-controversy"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 33
+    images:
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/adobestock_588907775_editorial_use_only.jpeg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "The Google Gemini integration in Messages is now official"
     excerpt: "Since the start of the year, we've come across multiple reports of Google Gemini (formerly Bard) integrating with Google Messages. This particular feature addition is now official, with Google announcing Gemini for Google Messages (in beta) as part of its ..."
     publishedDateTime: 2024-02-25T23:59:00Z

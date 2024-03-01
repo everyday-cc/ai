@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offlo
 webUrl: "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why is There a Shortage of Nvidia AI Chips?"
-    excerpt: "TSMC’s (Taiwan Semiconductor) 2.5D advanced packaging CoWoS (Chip on wafer and wafer on substrate) technology is currently the primary technology used for AI chips. The production capacity of CoWoS packaging technology is a major bottleneck in AI chip ..."
-    publishedDateTime: 2024-02-25T18:40:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/02/why-is-there-a-shortage-of-nvidia-ai-chips.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 54
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-25-at-9.34.39-AM-1.jpg"
-        width: 1500
-        height: 1172
-        isCached: true
   - title: "NVIDIA is the 'GPU cartel', will delay shipments if AI GPU customers talk to AI GPU competitors"
     excerpt: "NVIDIA is reportedly delaying AI GPU shipments if it finds out its customer is talking to AI GPU competitors like AMD or Intel, according to a new report from The Wall Street Journal. Jonathan Ross, CEO of rival chip startup Groq, told The Wall Street ..."
     publishedDateTime: 2024-02-27T12:37:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "AWS launches program to boost AI and tech competency for small and medium businesses"
 excerpt: "Amazon Web Services (AWS) recently launched a new program aimed at helping small- and medium-sized businesses build competencies in areas like artificial intelligence (AI), the cloud and other skillsets to be more competitive. \"Small businesses often don ..."
-publishedDateTime: 2024-02-19T07:18:00Z
-originalUrl: "https://www.aol.com/aws-launches-program-boost-ai-151834099.html"
-webUrl: "https://www.aol.com/aws-launches-program-boost-ai-151834099.html"
+publishedDateTime: 2024-02-19T10:18:00Z
+originalUrl: "https://www.aol.com/finance/aws-launches-program-boost-ai-151834099.html"
+webUrl: "https://www.aol.com/finance/aws-launches-program-boost-ai-151834099.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "jXmbIi0QGWxQVkjvfSxKMhbfZu0U/zHBkmrEN4KyyfZOoSpFc9P7EsnYfKHPvQ//vjYbItyQYgkUCW6uk/pPnOcBHfeTeoQFUNar6oW6ildrwz7+sQjkYjylcZk3+Q/f5wPb3SGZBaqF1K9aEGC3m/io1tNgJyIIREYtZ1fljw98QO8fCHv3UFXVuwWGbXWHnB3S16/ioFmbY+aaWwXy0WFjkbq5iyF/u8o39DWnzzswXmsaVudhpXBLsy1k5YoNEAEC9uoCQuwObOIZ/Ae2rTyfvCoGGsSNr8IVBADj5oj3ALItkPOoyTiq4x/q2gyNk98uUDcz0dnw7OH7bCvOmB43hPhoOj4Ka537PB6xp1eHrTNo0WRQFu3m0Q677MSS/166P82wh3UFccx1JEyTAPZvXCzRAo2m3efpnQpX5gtOwwdoOpe0uXeM81MmKU74Uh4waS9NZ9cB6Rkbrn7LOjHbeflZBrxuz8Wd1aMs+N1ToQvCqrzPwgAGxtggp3klqUZ3mZJOw6M3zJqt1Mdo9A==;G16q4jdd9p9NzQQUAh/1Dg=="
+secured: "iEsIIVBvOI2/I35Du1hgjjqB4mkPn0zmjWfZdkhxq/U+yJCTsANHfYjQ/RXsj82Crw7HLN3n8zNRSztRYWNLzwjcFJ23pEsDCqvX/3uPg1j8rYjWUK4o6PMynU/cmuWZghYoRa6yqN/KVPEu6nfy/+HrkiEojdGhed3iw7AsZEcCw8jQ1o921gExRY1IfB5yScCPmJC5vYKKqD/6aqgVf2cONxSvejXQNTUmeQ2t+uho0rJWOpMzfKUbvIYgvvz8HtQ6qGd+Zrv/k1p8colJjQI6KCCPR40gD4EBv0GBXX+ymaVd5yosKQxmy2hpoOIM0EC3pBrrtt5hLc0imLoju9cQRVWRVzQ/wPcIoLhKuZ4=;uCgWluRclJDLBuOJA9q+KA=="
 ---
 

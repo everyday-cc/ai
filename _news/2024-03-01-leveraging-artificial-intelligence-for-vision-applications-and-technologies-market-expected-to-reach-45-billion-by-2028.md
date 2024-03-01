@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Leveraging Artificial Intelligence for Vision Applications and Technologies Market Expected to Reach $45 Billion By 2028"
-excerpt: "PALM BEACH, Fla., March 01, 2024 (GLOBE NEWSWIRE) -- FN Media Group News Commentary - Artificial Intelligence (AI) technology is growing in numerous markets especially in vision enabled technologies. AI computer vision has numerous emerging applications in ..."
-publishedDateTime: 2024-03-01T14:39:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/24477134/leveraging-artificial-intelligence-for-vision-applications-and-technologies-market-expected-to-reach-45-billion-by-2028/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/24477134/leveraging-artificial-intelligence-for-vision-applications-and-technologies-market-expected-to-reach-45-billion-by-2028/"
+excerpt: "FN Media Group News Commentary - Artificial Intelligence (AI) technology is growing in numerous markets especially in vision enabled technologies. AI computer vision has numerous emerging applications in several fields,"
+publishedDateTime: 2024-03-01T14:50:00Z
+originalUrl: "https://www.investorideas.com/news/2024/technology/03011Artificial-Intelligence.asp"
+webUrl: "https://www.investorideas.com/news/2024/technology/03011Artificial-Intelligence.asp"
 type: article
-quality: 0
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: Investor ideas
+  domain: investorideas.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.investorideas.com/images/logos/twitter-icon.gif"
+    width: 500
+    height: 500
+    isCached: true
 
 related:
   - title: "NLP Is Expected To Foster The Global Artificial Intelligence In Education Market"
@@ -29,6 +35,6 @@ related:
       domain: menafn.com
     quality: 46
 
-secured: "5PEw0ggzslSulcTR69hDMvITdp4dLoSDYNSD/R4ZqEUkG05i9VSjVe73vgTE+SJXf8XNdhhwF4kXnVJ38pmyX24sv3NyDvBkGpvEKN3AlKJlkRCWzvkmEFiJ1qbKLtUlSf5ruJPouZJ2elDPSkkXA3JSd6hcCAz5AW1Qy2aC7ZZPxFQ8Zn4NpoNYz1d2UmEO4pYYCkrbR/YVmvNI8jubh++u5E/vtFzEorybJystOi8UWOt7iYB5XN55NRp/o4j1TuHjVmZSQGKGgsKsg6poA4os+3kyTX/9ECMC3Kx0oWLMPuW0DlKcU6XFmWmrVpRxLFJ+EgIN0Lyukrzx2L1sW9z2+1tt9hnAm3YhvEIXvag=;9mPWHBl7lvAjPiVvVh+Kbg=="
+secured: "RAo+ApuxXXtrkokv+dSyG5+UGHLFhWos+RXIldIcHsdE/mTsmIe8lB+lmhUCuPyEotixZDzb0eB7KbS8gzVftT02Cwmj4jauxTBZwaI2Tf1fYRIvV2Cwi2mYGm3q23t03flwZsFe3qrqJDmOB1pwJbO36zVNp2iYAOubuhVmrlczmfxHzsBiiJ1ul6gBg126kfh3vo+0NJzm6CPhJrSLXxfC0wSlj2EfqRkuwOuuEsINQzzSKFnD6Aiv/cB9dQufCAIUhtjliYXWBhlLo+abIsDmgIppoe4HU1mpwaq6FoKZCmkpwrdRyypnq6Hl778an13Z3XMrX2KBbGsVRWEaJnuDCa8pEHrBo5e1DzSvMH4=;gJaRuXRrRNHDee4YNKAvOw=="
 ---
 

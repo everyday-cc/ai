@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why is There a Shortage of Nvidia AI Chips?"
-    excerpt: "TSMC’s (Taiwan Semiconductor) 2.5D advanced packaging CoWoS (Chip on wafer and wafer on substrate) technology is currently the primary technology used for AI chips. The production capacity of CoWoS packaging technology is a major bottleneck in AI chip ..."
-    publishedDateTime: 2024-02-25T18:40:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/02/why-is-there-a-shortage-of-nvidia-ai-chips.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 54
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-25-at-9.34.39-AM-1.jpg"
-        width: 1500
-        height: 1172
-        isCached: true
 
 secured: "qeZURIclHg6v752fc7KznHo+JeBQ0HZ9n2dPUsI/3spexI2etHvgh7Kh6oGmHgp+GpKRnbhYKynXHdZLetQtxIBqm/upZtpqyEkzI/zwFE/vUoQDlZxjsfWEeY8brC6Kp/fJ5TNgtifIovHwz4fswoHZU5l6aGPs1AGLVoFWYwj5b1WFWPs356ApcGGfqAlMKGWEWxBWS2MSJXF/5p20VXLSwibK7d4V8AAyVZElhGP6TCWE4YVjfAoHOoIbCo2FoEp6Z0MDtWJXT776OZHolyNXRReSthIpkawKzxbkus2W0/1IAlZDquiCA8hdwRQFB87qvfUoIqVst5CbTL9v4eOqY5GZ2CrfLxOxE/mPovNZgOQtU0pwbIDevk2DWzL2sREhYavo1ZPm6RPWpEXFs0G1R4ziyC+FjmBH+wOksi1lBkcnhQ5iXHY98zG2J1M4VHe3FsbP2zTMBKHMin9Wy6BWFG9eSlJ5areCRPkGauMzXoBNtr+Vq0cOZvv0zXj+OTKv4hMwhdDbLvU9nepvyQ==;6OLuox4ILSQ4sXHlr+XtwA=="
 ---

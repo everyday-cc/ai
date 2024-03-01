@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2024/feb/29/ai-workers-lay
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/29/ai-workers-layoffs-surveillance"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -45,6 +45,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Q2-earnings-Auto-Sector.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Artificial Intelligence: Preparing for the EU AI Act"
+    excerpt: "On February 2, 2024, EU member states approved the final text of the EU's Artificial Intelligence Act, providing an official framework for the use of AI. According to the European Parliament, its priority is to \"make sure that AI systems used in the EU are ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-preparing-for-4927482/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 52
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16204_3837.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "Kqwm82wIvSGBe11vPdVll6AJO/Ss6gTAVx72qchO8oxC02VEkEhFh6L+3dHEVTc9gwOf2tK4xRRwPV/AEOaGSXRzozdKhGfrO8BIBPYWHwqPi1TeD9Fvls7M9E1HLkFUPHhpzbO1wNzfoKH0hmsTnBzsl9p1yml5xmZ64smKJQiVILpq94WSDi5sigN5FlB6APtfw+0he2IPAKOJH4+JwwnLTRpeo22ETbMwZyYFBl5mLr+IeiliRhz7mgtyjFlqTSsVZLEryKWTP4QuRGB6r1GxHLriAVGv7krPSbqcuZwTobHVCInN5sV8n1g91wcweiRvdnwhEAp3F70fTwEnwyfxyMXZ4I6+hBhteM9Hrb73NZKbC0Y8uZh4HuKLKvfz6zNzxieEeZYT6Myyg6+3AiMFCS6eRhiREQsWwXBlh+j/U758oT/+3bGY4Wg9A+bLQo1tSm3QQbCFUGEdZ5uf8efc6Z7IML7mt7XO8GBUEYt1WAxBsr/P0WalAYirEEs3Peddn9yJF+LgxJZRPTlYbQ==;cUiEWmF0dj3w/0mgJU4lmg=="

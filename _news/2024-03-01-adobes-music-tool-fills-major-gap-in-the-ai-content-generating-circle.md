@@ -136,6 +136,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Should Government Guide the Use of Generative AI?"
+    excerpt: "As governments grapple with how to roll out generative AI — or whether they even should — policies in Seattle, New Jersey and California aim to to be broad, easy to understand and relevant in the face of change."
+    publishedDateTime: 2024-03-01T17:52:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/how-should-government-guide-the-use-of-generative-ai"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/afe4518/2147483647/strip/true/crop/840x408+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fcf%2Ffd%2F29f76a70498c85452948c62c3322%2Fweb-art-ai-policy-1.jpg"
+        width: 1440
+        height: 700
+        isCached: true
   - title: "A Regulation To Promote Responsible AI In Health Care"
     excerpt: "While we are artificial intelligence (AI) optimists, we also recognize the potential for negative impacts from AI. A primary goal of the HTI-1 final rule is to address these concerns by promoting the development and use of AI in health care that is fair,"
     publishedDateTime: 2024-02-28T14:18:00Z

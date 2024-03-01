@@ -42,6 +42,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Artificial Intelligence: Preparing for the EU AI Act"
+    excerpt: "On February 2, 2024, EU member states approved the final text of the EU's Artificial Intelligence Act, providing an official framework for the use of AI. According to the European Parliament, its priority is to \"make sure that AI systems used in the EU are ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-preparing-for-4927482/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 52
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16204_3837.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "VpSA4MFWOMMe0VzDwUzqJlxd0E88hzbK2mgvH+UTQuqlXcOD8V7RTowWZLkyMHjVE2w3aBErb5nJhhyCAQuUsnAnio9pg2eSNzEdi+U8nFnvbZc+x2M8h5OgqpGSbMyO0R+tWbIY31PXnzNK0LKtNmqhJfxAUwiC1KizeYAsi/8XewFAb/2tCoyH+kZ03qkDhV5G2/awoS4Ag9QcdY9ePngN/d9BnAtBEONellraZ/iVw34ODR1kaK+DxG+scUyV7vJbnBkvHyRPsqgtUNIHEv0rqKGfHrXoaNAsixczmXtKqCVfU3HDG/WvwTSqnxIhyUC/X63TaI8tvfuU6aYVgDIDDBu16UC8IVXMP3R9LzI=;p1inIop7xtNTKjAFMiWXQA=="
 ---

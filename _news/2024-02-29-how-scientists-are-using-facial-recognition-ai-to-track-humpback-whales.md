@@ -36,14 +36,19 @@ related:
         height: 240
         isCached: true
   - title: "How scientists are using facial-recognition AI to track humpback whales"
-    excerpt: "After being hunted for decades, humpback whales returned to the Pacific Ocean in big numbers. Now, new technology is revealing that underwater heat waves are taking a toll on that recovery."
-    publishedDateTime: 2024-03-01T02:06:00Z
-    webUrl: "https://www.kalw.org/npr-news/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales"
+    excerpt: "Now, a new study finds that climate change could be slowing that recovery. Using artificial intelligence-powered image recognition, the survey finds the humpback population in the North Pacific Ocean declined 20% from 2012 to 2021. The decline coincides ..."
+    publishedDateTime: 2024-02-29T19:26:00Z
+    webUrl: "https://www.kcrw.com/news/shows/npr/npr-story/1234718984"
     type: article
     provider:
-      name: KALW
-      domain: kalw.org
-    quality: 19
+      name: KCRW
+      domain: kcrw.com
+    quality: 39
+    images:
+      - url: "https://media.npr.org/assets/img/2024/02/28/martin_van_aswegen_mothercalf_maui_1-1-_wide-308a974ad26f270c72b4ee6f9e8ab3587f338a73.jpg"
+        width: 3834
+        height: 2157
+        isCached: true
 
 secured: "oU8F0F4/brp1USLOiPgdV4BwiRrOIQljArzdHx26jsFpmEQk6pz5WCjGJQHCaiusWpGRYxFjMEIxYixWeOHQo2e0qDI1PDrsVn5GkXzbtCBQ1UEpJ8fPy7iQjJ8MQHrFk+vaFeU8Cjkm/vd3oalG3PpyhLNcQxk/yxwfpNNd2mJbVljmEDPuzTS3m29oVOvypfkdx9o3EvAlZfaDxloZDic4hWR8kQ3RkdeMjVMfr5LJeILxEbMK3d2BUkNr3zUCvHkmOj2Gj1FvA+k4aF9Ry5Kyb5MStJKnzeo2VFhSpHbvSKslxcqKpjipGN4+nupgkslRrCmq1tjVwYyvZ6DaMFm/Gdt/VNh/DPLtQdygwrkykg+geJNy85jxklJatVKIXu7d+0bR7pQtpEmOm0Lmg6LFyu1M9qH8RfbIKWugHSqbrvKpN1N0Oww1hg2KK2iZtZ27EmQHWfzzJB0dsU+R75X5IeyYwYW8Q10tv7T79le++p+K1pk1CrTgxLh3uigWzp0D83g5SmUCNTB2OMaPgA==;SUU3k8WY8eVHOL6ryDqtvQ=="
 ---

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung unveils new memory chip with 'highest-capacity to date' for AI"
+    excerpt: "The South Korean chip giant claimed the HBM3E 12H \"raises both performance and capacity by more than 50%.\" \"The industry's AI service providers are increasingly requiring HBM with higher capacity ..."
+    publishedDateTime: 2024-02-27T05:49:00Z
+    webUrl: "https://www.cnbc.com/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107092512-1658451020614-gettyimages-1241746860-AFP_32DY37A.jpeg?v=1658451030"
+        width: 4727
+        height: 3016
+        isCached: true
   - title: "Samsung becomes first to introduce 12-stack HBM3E amid high demand from AI"
     excerpt: "All three are planning to increase their production output of HBM this year, with the downcycle of the memory chip market seemingly over, and to meet the high demand from the popularity of AI, which has increased demand for GPUs __ especially those made by ..."
     publishedDateTime: 2024-02-27T02:23:00Z
@@ -42,70 +58,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/6f7adb4d553815944a1149614dfcb6143622d884/2024/02/27/fe7919e2-c351-438f-bacb-65dc120d8ae4/hbm3e-12h.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Samsung’s Try Galaxy App now lets any Android and iOS user experience Galaxy AI"
-    excerpt: "Samsung's Try Galaxy app now lets Android & iOS users preview Galaxy S24 AI features virtually, aiming to showcase its innovative One UI 6.1."
-    publishedDateTime: 2024-02-27T22:45:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/27/samsung-try-galaxy-android-ios-users-galaxy-ai-features/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 65
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/Samsung-Galaxy-AI.jpg"
-        width: 720
-        height: 540
-        isCached: true
-  - title: "Will Samsung introduce Galaxy AI to budget phones?"
-    excerpt: "As Samsung Electronics is expected to roll out its new Galaxy A series this month, anticipation is growing on whether the mid-range smartphone models will feature the tech giant’s latest artificial intelligence features."
-    publishedDateTime: 2024-03-01T07:55:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20240301050172"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240301050172"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240301050172"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 59
-    images:
-      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F03%2F01%2F20240301050138_0.jpg"
-        width: 630
-        height: 419
-        isCached: true
-  - title: "Samsung and Micron prep advanced HBM3E 3D chips for memory-intensive applications"
-    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. Forward-looking: The AI boom is in full swing, and chip manufacturers are bringing new, advanced memory technologies to the table. Next-generation High Bandwidth Memory (HBM ..."
-    publishedDateTime: 2024-02-28T14:10:00Z
-    webUrl: "https://www.techspot.com/news/102061-samsung-micron-prep-advanced-hbm3e-3d-chips-memory.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 44
-  - title: "Try Galaxy app from Samsung lets you experience Galaxy AI on any smartphone"
-    excerpt: "The Try Galaxy is a progressive web application that simulates Samsung OneUI 6.1 interface and provides users with tutorials and interactive features"
-    publishedDateTime: 2024-02-28T06:22:00Z
-    webUrl: "https://www.business-standard.com/technology/apps/try-galaxy-app-from-samsung-lets-you-experience-galaxy-ai-on-any-smartphone-124022800327_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/apps/try-galaxy-app-from-samsung-lets-you-experience-galaxy-ai-on-any-smartphone-124022800327_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/apps/try-galaxy-app-from-samsung-lets-you-experience-galaxy-ai-on-any-smartphone-124022800327_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
-  - title: "Micron's 1.2TB/s HBM3E Production Kicks Into High Gear As AI Demand Skyrockets"
-    excerpt: "HBM3E will be part of NVIDIA's H200 Tensor Core GPUs that are slated to ship in the second quarter of this year."
-    publishedDateTime: 2024-02-26T14:14:00Z
-    webUrl: "https://hothardware.com/news/micron-12tbs-hbm3e-production-high-gear-ai-demand"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 35
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/63987/content/hero-micron-hbm3e.jpg"
-        width: 708
-        height: 400
         isCached: true
 
 secured: "xO+ayvWr9QUlEOy90EyI2wNCz4iUK4gpCrufKMXZxJ5LUZqSzYYkAhFqef+zcma20WgWe1691/pADTYk+ZfHKII8q+9XAX60e/egn0g3sixEzRU/HHZYhVJ+BAbC1VdRYZHvrCFzBQXEvTl5DQOd+TYP+44A9J8h0kBZqJKKUteE/ThXF7fhTw7Uyz/lt1LYrj25wzFZfqO9GF+lKcKdahRzds2bvNtk6cNuDgLTOcKOFUs06MQ//jhMDbrNuYcieCwDV+4pqItCZD+UzqjcGC9rF+GPI74fm/sqDwK/73a2bCxHfFWLxTcGSHQ4gobLm+S10yCxti3fTcM01jZ5ihYpFuwjEHypDPoFnN9J9So=;Zybym1lUsF6wStCijXeO/Q=="
