@@ -87,6 +87,20 @@ related:
         width: 2000
         height: 1500
         isCached: true
+  - title: "OpenAI and Microsoft focus on robotics with Figure AI deal"
+    excerpt: "Figure AI said it will also leverage Microsoft Azure for AI infrastructure, training, and storage. The tech giant supported OpenAI on its development of ChatGPT – one of the major products that launched the recent focus on generative AI technology."
+    publishedDateTime: 2024-03-01T10:47:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/figure-ai-openai-microsoft-funding-humanoid-robotics"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 86
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/figure-ai.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "High-speed humanoid feels like a step change in robotics"
     excerpt: "You've seen a ton of videos of humanoid robots – but this one feels different. It's Sanctuary's Phoenix bot, with \"the world's best robot hands,\" working totally autonomously at near-human speeds – much faster than Tesla's or Figure's robots."
     publishedDateTime: 2024-02-29T07:15:00Z
@@ -248,15 +262,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 55
-  - title: "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up"
-    excerpt: "Figure AI aims to transform labour market as it raises total $675mn in a funding round that also includes Jeff Bezos"
-    publishedDateTime: 2024-02-29T13:00:00Z
-    webUrl: "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 51
   - title: "Nvidia, OpenAI, Microsoft, Other Tech Titans Investing In Humanoid Robot Startup"
     excerpt: "What do Intel, LG, Nvidia, Microsoft, Samsung, and OpenAI currently have in common? They’re all taking big bets on Figure AI, a startup focused entirely on building and deploying humanoid robots. The California-based company has reportedly secured $675 million in funding, having attracted some of the most powerful entities within the tech industry."
     publishedDateTime: 2024-02-27T13:10:00Z
@@ -326,6 +331,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "KyvmzKfqOofSbyxIg2kgii/FOFPv7pIAo60bDulbwg8Yk2mHAsdMWLi9Sw2IrMnZC9Ccbbv7iESkPCa3itgJU/eLaIHcm6sGiSvg7XC720fVBNdXlgfzgxwa00W9FF7oLH3vfGB+tw8rty9Qfo9ubxK24H6E49xzpWLWivl1SyYsw7tiVb8FCbsN4FV8qxhuycPT7X7mldGeCsNo5wiedmcIq2Q2dPGcch+grYysJClm7VQRwN1jyd8DIn9jLV0+7ho04yul7b7G7Kd/hMy4svqJmJGUhtnfw0PFStLnQTdZcLNW738M1Dftayw4PZtJJuls+izK5LcaSBbwu1eZ08qlWnH+d9B1bdTFdNZgG/w=;gR/CCtwbjSPBHmBETOmW1w=="
+secured: "eIe+x89fLc39PIws8Ldb9KjimsaBhintZiPSqR0e4FaHRAAQ69KwpmtsnFWIo9a/cKMKCctuGG+sq70UoIBDiL/pwlHsC8cJbaEybFQ3a802NTxolVcYRvXyIPW5AWnfis2xbpIWQJ5QgcHpj//ls6fqw54wW0MeOXs1KF+AGiBl/LYhpHco8+IW8U02gfD/cQdG23kpnh4WO/qdsKnU4bQv9HyTvBD5pRUeN5oV/vh2ezjiGKFohY152Myg6+WwPeJ9jFuf2+r9aTbi6Jr++cm7w0/eRQMqnIBibkuMij0bOcJ+9myPNAtMDyBzo5ZQYTQsYBK3wWWrMG+MS+Yr9l1Scmz5GIuXupKkG61Rhf4=;2lT2jOuKnxY4k4yLMOFSAA=="
 ---
 

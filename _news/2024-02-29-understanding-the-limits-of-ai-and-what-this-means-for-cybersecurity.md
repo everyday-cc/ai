@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Why cybersecurity skills are coveted in fintech"
+    excerpt: "In areas such as AI and cybersecurity, those with the necessary skills and ... that new solutions are found to deal with online fraud, particularly within the fintech sector. While the above stats sound positive, the one thing getting in the way of the ..."
+    publishedDateTime: 2024-03-01T10:02:00Z
+    webUrl: "https://www.finextra.com/the-long-read/959/why-cybersecurity-skills-are-coveted-in-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/959.jpg"
+        width: 799
+        height: 449
+        isCached: true
   - title: "German delegation explores investment opportunities in Qatar's AI, HealthTech, FinTech, cybersecurity sectors"
     excerpt: "BVMW GCC Office in Doha has taken a significant step towards enhancing trade co-operation between Germany and Qatar by organising a"
     publishedDateTime: 2024-02-28T17:33:00Z

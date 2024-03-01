@@ -22,6 +22,17 @@ topics:
   - Meta AI
   - AI
 
+related:
+  - title: "Baidu’s Strong Earnings and AI-Driven Growth Outlook Prompt Buy Rating"
+    excerpt: "CMB International Securities analyst Saiyi HE maintained a Buy rating on Baidu (BIDU – Research Report) yesterday and set a ... financial performance and strategic focus on generative AI to drive future growth. Baidu’s fourth-quarter results for ..."
+    publishedDateTime: 2024-03-01T00:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-s-strong-earnings-and-ai-driven-growth-outlook-prompt-buy-rating-1033122457"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+
 secured: "gLn8d87DmeGpOltkj7AYkBY6Lar3TtPyWqxe+NhC6J9CSrk2WQ1tNEFj/L7FsZfdrdCmWn33AUPkF0mMKue9PRANrtrYhMe39aCqNv8xVPPYRPBTIpusv5Pgn2Z9odkUanhwHccexUWtVlFxY36aPxctP7Zvhzl6RZ2uzHxCKO3Yuw9DWn+HZvNOeAgFiv9WYwSpAfcxT7SBqaNBi4fMmKThMO/WL6kmkJR7wqWmOoCLnDXSCT/FxeE2OSgPJreLXZUsRDIrcpn2QccEwo8W3s4BI2Wd+1kYGDBD5mBH8Xasuy6XorR3k+PgCO8ERY9wiAFLmZtDS3d03TwCbrk1IagDW4wkaHCnw3m/NZ3HbEg=;VA0wo1JTP/5i7av39+uKng=="
 ---
 

@@ -73,15 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This 1 Number May Ensure Nvidia's Artificial Intelligence (AI) Chip Dominance"
-    excerpt: "Today, Nvidia controls more than 80% of the AI chip market, so the company has a clear advantage. But at the same time, rivals are doing what they can to chip away at Nvidia's lead."
-    publishedDateTime: 2024-02-25T10:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-1-number-may-ensure-nvidias-artificial-intelligence-ai-chip-dominance"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 78
   - title: "How Nvidia Came to Rule AI"
     excerpt: "This week we chart the rise of Nvidia, the company whose chips, servers, and data centers have fueled the growth of artificial intelligence."
     publishedDateTime: 2024-02-29T13:00:00Z
@@ -96,15 +87,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "How a Shifting AI Chip Market Will Shape Nvidia’s Future"
-    excerpt: "The technology behind generative AI like ChatGPT has exploded, fueling a demand for chips that can handle the processing power these programs need. WSJ visited Amazon’s chip lab to see how these ..."
-    publishedDateTime: 2024-02-25T10:30:00Z
-    webUrl: "https://www.wsj.com/tech/ai/how-a-shifting-ai-chip-market-will-shape-nvidias-future-f0c256b1"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
   - title: "Nvidia AI GPU buyers are selling surplus hardware as supply constraints ease"
     excerpt: "Late last year, Amazon rolled out shorter-term GPU rentals for clients that only need AI processing for a single job. Storing hardware is also costly, especially if it isn't being put to use. Rather than sit on it and wait around for it to become obsolete ..."
     publishedDateTime: 2024-02-27T14:36:00Z

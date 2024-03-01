@@ -41,6 +41,20 @@ related:
         width: 1501
         height: 900
         isCached: true
+  - title: "Here Come the AI Worms"
+    excerpt: "Security researchers created an AI worm in a test environment that can automatically spread between generative AI agents—potentially stealing data and sending spam emails along the way."
+    publishedDateTime: 2024-03-01T08:59:00Z
+    webUrl: "https://www.wired.com/story/here-come-the-ai-worms/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/65e0e13fef1050f96f06c160/191:100/w_1280,c_limit/security_ai_worm_email_spam.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "cfJUBWYCr0lLXSpyp5e0lTvxfPZU9dqueMdMMYHRJyDokqv1NHHUJ+pQkkYW+V3cuKUAy471lsYlDJqkN0RV5YYM4ZKwq9CwYlUwfnEAbNE1v9rnSmTCF9p8P/AxXQ2K5O8Q9rRbuqu6Wo4dw0ahEG5QQHON8SF+DmMUKs9ZDFM070cLU1ZJp1tbegV5HCh0TYDHNtkbGIFQCbtU5OBNOf6mWU7dzYtfWsMRsZg0rUSh5jIH0RzqjbTjeYFPcqLZJ97A4H7TArM7J91Tz/CVNyyN5KyXgEKh0pxokuZwgUh5q7Fs61HyXKinwmqpFH83TJ+UyA323gEmBQjNupX7tzllhcR4J4267k7/+lJroKY=;jIGApVDgN1akvI4ExwgbOg=="
 ---

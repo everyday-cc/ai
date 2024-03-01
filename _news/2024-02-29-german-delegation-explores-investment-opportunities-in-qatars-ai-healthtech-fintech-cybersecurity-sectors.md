@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Why cybersecurity skills are coveted in fintech"
+    excerpt: "In areas such as AI and cybersecurity, those with the necessary skills and ... that new solutions are found to deal with online fraud, particularly within the fintech sector. While the above stats sound positive, the one thing getting in the way of the ..."
+    publishedDateTime: 2024-03-01T10:02:00Z
+    webUrl: "https://www.finextra.com/the-long-read/959/why-cybersecurity-skills-are-coveted-in-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/959.jpg"
+        width: 799
+        height: 449
+        isCached: true
 
 secured: "DPiK6z5dIl1ZAFsHoZAfvR1S1OAfceBpR6PrHdVtAEfAI4nQeDWxS40wHRh4fcdCTIMf+uPvoVo+T0XOis+Z5WzA+VCEwhkyfGTX2zMeGnwkeFwReYNoL95cYgOckKV3HW6ACprp3s8TEB8BStp4UM+S2S5f50wABuacb9qFzXlLq23JtNa63AqGGDSLxOcTIFVMpplAgZisqab+T2OfBu41/ZyvSbcE89amkd8uvmH6bV8iG9GoIOxnx6qdBkh4TPIMjQvL8qT3rfzmwngoKnSeB8p54F0c1v7ehgxeRleuhosm7QG/xhqvjubVScdxoIJ0LrE6ql69tz5O9jLymwFFOZ00ZKeoptCffBdZr4t1fb0iPVadpGmDB6TJ9UOwldqYEUClBU06/reuBYO23RuPNzZVDJBLfgPkTnETaiOssQhen2hL6uwU3crQ5icUaSxvI6feGUkWin+m3NG3KNw5g4f3mjtK9A++oZ2/jvXbc6O5tNv2HV4apou9Z79rxTB6hRaWQyhnzsMpQKDb/A==;wIOf8KvOl7hKpJbJBtwOCw=="
 ---

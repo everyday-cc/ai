@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 62
-  - title: "Apple Introduces ChatGPT Like Tool – Ask AI; Here’s What It Can Do"
-    excerpt: "After a long-time secrecy on Artificial Intelligence, Apple's new 'Ask AI', which resembles OpenAI's ChatGPT. Here are all its features."
-    publishedDateTime: 2024-02-25T09:30:00Z
-    webUrl: "https://www.india.com/technology/apple-introduces-chatgpt-like-tool-ask-ai-heres-what-it-can-do-6747265/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 56
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2024/02/IDC-Story-30-1.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Is ChatGPT making scientists hyper-productive? The highs and lows of using AI"
     excerpt: "About 55% of the respondents to the Nature survey felt that a major benefit of generative AI is its ability to edit and translate writing for researchers whose first language is not English. Similarly, in a poll by the European Research Council (ERC ..."
     publishedDateTime: 2024-02-28T00:00:00Z

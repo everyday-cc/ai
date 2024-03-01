@@ -163,7 +163,7 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/Gemini-1-0--since-its-release-in-December--is-avai_1708940818688_1709239719726.jpeg"
         width: 1600

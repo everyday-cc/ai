@@ -44,9 +44,9 @@ related:
         height: 682
         isCached: true
   - title: "Raquel Leviss is suing her 'Vanderpump Rules' co-stars. Here's why"
-    excerpt: "Due to a narrative deliberately fomented by Bravo, Evolution, and the cast, Leviss became an object of public scorn and ridicule ... and the rest of the cast enjoyed unseen levels of public recognition and professional opportunity,” it reads."
-    publishedDateTime: 2024-03-01T02:19:00Z
-    webUrl: "https://www.aol.com/raquel-leviss-suing-her-vanderpump-071907990.html"
+    excerpt: "Rachel Leviss, formerly Raquel, is suing her former \"Vanderpump Rules\" castmates Tom Sandoval and Ariana Madix. Here's what the lawsuit says."
+    publishedDateTime: 2024-03-01T09:19:00Z
+    webUrl: "https://www.aol.com/news/raquel-leviss-suing-her-vanderpump-071907990.html"
     type: article
     provider:
       name: AOL

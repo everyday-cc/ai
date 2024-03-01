@@ -68,15 +68,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This 1 Number May Ensure Nvidia's Artificial Intelligence (AI) Chip Dominance"
-    excerpt: "Today, Nvidia controls more than 80% of the AI chip market, so the company has a clear advantage. But at the same time, rivals are doing what they can to chip away at Nvidia's lead."
-    publishedDateTime: 2024-02-25T10:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-1-number-may-ensure-nvidias-artificial-intelligence-ai-chip-dominance"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 78
   - title: "Nvidia Stock: Is It Still A Top AI Stock In 2024?"
     excerpt: "Those applications require specialized hardware and software, such as high-powered processors, memory chips, solid-state drives and robust AI development platforms. The table below shows how these stocks have performed year to date and over the last three ..."
     publishedDateTime: 2024-02-28T16:38:00Z
@@ -105,15 +96,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "How a Shifting AI Chip Market Will Shape Nvidia’s Future"
-    excerpt: "The technology behind generative AI like ChatGPT has exploded, fueling a demand for chips that can handle the processing power these programs need. WSJ visited Amazon’s chip lab to see how these ..."
-    publishedDateTime: 2024-02-25T10:30:00Z
-    webUrl: "https://www.wsj.com/tech/ai/how-a-shifting-ai-chip-market-will-shape-nvidias-future-f0c256b1"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
   - title: "Nvidia briefly hits $2trn valuation as demand for AI chips soars"
     excerpt: "AI is a gift that keeps generating for Nvidia as it rides on a high after demand for its chips soars globally. Nvidia briefly hit the $2trn valuation mark for the first time on Friday (23 February) soon after its latest earnings call that forecasted a ..."
     publishedDateTime: 2024-02-26T11:00:00Z

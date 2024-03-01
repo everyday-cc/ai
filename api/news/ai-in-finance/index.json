@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-28-bank-to-fintech-matchmaker-nayaone-raises-47-million.md",
-      "title": "Bank-to-fintech matchmaker NayaOne raises $4.7 million",
-      "excerpt": "NayaOne, a Sandbox-as-a-Service platform that helps to match financial institutions with fintechs, has raised $4.7 million.",
+      "path": "_news/2024-02-27-navigating-the-future-of-banking-fintech-and-ai.md",
+      "title": "Navigating the future of banking, fintech and AI",
+      "excerpt": "What are the best use cases for generative AI in banking and fintech? What do banks and fintechs need to do to keep up with technology advances and not get left behind? We invited two long-time experts on finance and technology -- Luis Valdich, managing ...",
       "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/43767/bank-to-fintech-matchmaker-nayaone-raises-47-million",
-      "originalUrl": "https://www.finextra.com/newsarticle/43767/bank-to-fintech-matchmaker-nayaone-raises-47-million",
+      "webUrl": "https://www.americanbanker.com/leaders/navigating-the-future-of-banking-fintech-and-ai",
+      "originalUrl": "https://www.americanbanker.com/leaders/navigating-the-future-of-banking-fintech-and-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 234,
       "tags": null,
       "images": [
         {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/p12-e1569593647184.jpg",
-          "width": 480,
-          "height": 270,
+          "url": "https://arizent.brightspotcdn.com/dims4/default/7c08039/2147483647/strip/true/crop/1281x673+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F1e%2Fd4%2F2668ce2b403e82ecb39505b3aeac%2Fnavigating-the-future-of-banking-fintech-and-ai-1280x720-suni-harford.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T10:20:00Z",
+      "publishedDateTime": "2024-02-27T12:42:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
+        "name": "American Banker",
+        "domain": "americanbanker.com",
         "images": null,
         "publishers": null,
         "authors": null

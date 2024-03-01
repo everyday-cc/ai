@@ -8,7 +8,7 @@ webUrl: "https://www.livemint.com/opinion/online-views/googles-gemini-opens-our-
 ampWebUrl: "https://www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai/amp-11709207534655.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai/amp-11709207534655.html"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Google AI
 
 images:
   - url: "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/Gemini-1-0--since-its-release-in-December--is-avai_1708940818688_1709239719726.jpeg"
@@ -457,6 +458,6 @@ related:
       domain: hindustantimes.com
     quality: 4
 
-secured: "voDMKO9kL1/slTQu+vUWuGWmnxOcL8hGPKQFrdUrTW4D+gRfxSGX9dLXCHc2QA2T77PpaCvOU/TTCCvfePaEaYRuU4llnIFTHXBZN/vmKdkRNJQ57GB76c8xKXNmXUugx12M4qgNJ1XFHxZeISVYFVjr2QKT2Q4qoyoq58pwbofdwiankE+fDUAtsptlfSo+754Opuxh4+TDsOnSRGkoED3LM6a7BOyMnW1v/I+pZMAkjr0OhAn9gT6q1xOGJGMPYEkBmgbAuIw12nvMpZYF/Vs6jZTJ5frozQ8VhuPXHejb6d8I8tSKU6Zw5AZGTrVHzuU02hyPpXjcEkftmiIcuZG4Ly1P4eNzUiCySLMy5NM=;Drbw6oDhKMa8L8HtMw9/lQ=="
+secured: "dClWcr2/RVyCEa+piLzrkw1q43whZO+TU2e4Q6G/lL674pRHOScC6yLONAwcVVfwcn+DI/Z2Vue01iXdWvrDLYG7+nDrdzZAR9ymyMQ3b4XUT/msVDlWt1LlbSXItk2o4YOCEIYdmIgEG5KEODBaXGmiSWrCyjJgghphxCULzkgbn2gi2pwWvdNc0rYwmsnqoAubUZpas8TRnZh3gpg4+z76DJ8zWu0O9iGJ7ixfNYei8rAIErZ96DLIsT8kDoepy666Gk/t9pJQpATVK2A1tKpte0A246mLEfofrjUpegHuyNQCWCujpet2LHn419l+EFz+mgO3qSL0DId+Bc0MZ0fLB12H3bUStBQV6GRQBRpZqpkQUkcWFq9T+fk+cemBjFqA3jouBzvF6i23g5RP+PA4mKszZ94kxeL4XU5shA72CDORQyX7MsWN18zkvVMNRliYSZ11Pe9a2bAVQu9O2s43O8ExTezlS33360VMYMmSb9cQ4GjCdYerAis0sUJ61uuh1Pth/o86WszEoJMNjQ==;t+E62v2T7zsT18wD0BgrUQ=="
 ---
 

@@ -449,6 +449,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up"
+    excerpt: "Microsoft, OpenAI and Nvidia are among the investors backing a Silicon Valley start-up that aims to introduce artificial intelligence-powered humanoid robots to the workforce and transform the global labour market. Figure AI said on Thursday it had raised ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0?trk=public_post_comment-text"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 71
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcd08ec8e-679b-4b48-b1ff-daa0e7b93721.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Canada’s Seneca Polytechnic set to integrate Microsoft Azure AI"
     excerpt: "Seneca Polytechnic announced it will integrate Azure OpenAI to develop an AI tutor that supports enhanced learning of course material and simulated, personalized job interviews based on job postings. Seneca students will be among the first in Canada to ..."
     publishedDateTime: 2024-02-25T23:59:00Z
@@ -897,6 +911,20 @@ related:
       - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-270224-cover-500px.jpg"
         width: 500
         height: 354
+        isCached: true
+  - title: "Microsoft-Mistral AI deal raises concerns, European telecom standardisation elections launched"
+    excerpt: "The government completely lacks coherence.” – centrist Senator Catherine Morin-Desailly told Euractiv, commenting on the Mistral AI – Microsoft deal Story of the week: The announcement of Paris-based company Mistral AI’s first commercial distribution partnership with US Big Tech Microsoft drew reactions from politicians in Brussels and Paris."
+    publishedDateTime: 2024-03-01T09:43:00Z
+    webUrl: "https://www.euractiv.com/section/digital/news/microsoft-mistral-ai-deal-raises-concerns-european-telecom-standardisation-elections-launched/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 44
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2024/03/Tech-Brief-1536x864-1-1-800x450.png"
+        width: 800
+        height: 450
         isCached: true
   - title: "Microsoft Just Invested in This French AI Startup to Capitalize on 'Entirely New Businesses'"
     excerpt: "The company has announced a multi-year partnership with Paris-based artificial intelligence startup Mistral, whose new flagship large ... reportedly seeks to diversify its partnerships with AI companies beyond OpenAI, in which the company has invested ..."

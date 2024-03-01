@@ -51,20 +51,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 62
-  - title: "Apple Introduces ChatGPT Like Tool – Ask AI; Here’s What It Can Do"
-    excerpt: "After a long-time secrecy on Artificial Intelligence, Apple's new 'Ask AI', which resembles OpenAI's ChatGPT. Here are all its features."
-    publishedDateTime: 2024-02-25T09:30:00Z
-    webUrl: "https://www.india.com/technology/apple-introduces-chatgpt-like-tool-ask-ai-heres-what-it-can-do-6747265/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 56
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2024/02/IDC-Story-30-1.png"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "j0enWh+wS567ZLF8Gc6t7evtRKqapIMyJoAOKaeM0B5dlfu47W2fJvLFW+peMiFk+UNyOLiyaZSI46ajehKGXCiru5u6oA27ISXomxg/+gGlsfOiKq8+yf9Trq9ams7CbtONx2w5Xrq0fNJyuUTP7wdZh09evJrp1zndB1kAXeYhdGjtUL+KoKxbUpUMSE87wSQEDi23K0UDclvNtLz8YeNEbGEJgUJrTYXfNBPpKtYDISIF27buW1i6Ex/qEOOlVpU81FWymcvk0t21Lmwko6mh16Bl3vwovtH1QEskBPvEmjbwv9ESlJL0w7LfnAZtrcMsjGerkWjfZGuL0pHs0gkKEbkGnz2NHrwB4Vta+TCEfeyPqk6bHZHhIkhHikQQTtTJvnqI+IyNgWgR2by0AY6KCj/bUkIo3o7rEjt25+1KU0bW68s8tvpMiQ7BZMwvB7dwUAV5os7wYeAp0cCfeB+J6Nx7p7BL76lIt84CgY663Lr9Sb28SfhfCxn4rdhzdeYyOCY3P9Iri4DlUSYTHQ==;rE6QGA5nWNj0bKeDzdaKTg=="
 ---

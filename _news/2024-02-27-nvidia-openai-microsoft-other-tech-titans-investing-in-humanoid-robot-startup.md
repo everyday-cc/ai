@@ -82,6 +82,20 @@ related:
         width: 2000
         height: 1500
         isCached: true
+  - title: "OpenAI and Microsoft focus on robotics with Figure AI deal"
+    excerpt: "Figure AI said it will also leverage Microsoft Azure for AI infrastructure, training, and storage. The tech giant supported OpenAI on its development of ChatGPT – one of the major products that launched the recent focus on generative AI technology."
+    publishedDateTime: 2024-03-01T10:47:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/figure-ai-openai-microsoft-funding-humanoid-robotics"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 86
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/figure-ai.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "High-speed humanoid feels like a step change in robotics"
     excerpt: "You've seen a ton of videos of humanoid robots – but this one feels different. It's Sanctuary's Phoenix bot, with \"the world's best robot hands,\" working totally autonomously at near-human speeds – much faster than Tesla's or Figure's robots."
     publishedDateTime: 2024-02-29T07:15:00Z
@@ -257,15 +271,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up"
-    excerpt: "Figure AI aims to transform labour market as it raises total $675mn in a funding round that also includes Jeff Bezos"
-    publishedDateTime: 2024-02-29T13:00:00Z
-    webUrl: "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 51
   - title: "Dimensions Research GPT – evidence-based research insights for ChatGPT platform users"
     excerpt: "Users can get AI-generated answers to research related questions on the GPT platform informed by Dimensions’ huge database, making ChatGPT more research-specific for topic exploration. Available to users of both free and paid Dimensions Analytics web ..."
     publishedDateTime: 2024-02-28T05:30:00Z

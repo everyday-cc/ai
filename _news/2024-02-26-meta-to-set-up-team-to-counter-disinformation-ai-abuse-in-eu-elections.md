@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-d
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "How AI Is Being Used to Influence and Disrupt the Election"
-    excerpt: "Here are all the ways AI has already become a factor in the 2024 election and what’s being done to limit the damage."
-    publishedDateTime: 2024-02-25T10:00:00Z
-    webUrl: "https://nymag.com/intelligencer/article/how-ai-deepfakes-influence-disrupt-trump-biden-2024-election.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 37
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/732/156/ebb083ce988a517701be5d4d0f71f5fd5f-trump-AI.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Fears of AI threat to democratic elections"
     excerpt: "Fears of AI threat to democratic elections on linkedin (opens in a new window)"

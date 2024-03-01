@@ -23,6 +23,50 @@ topics:
   - AI
 
 related:
+  - title: "Navigating the future of banking, fintech and AI"
+    excerpt: "What are the best use cases for generative AI in banking and fintech? What do banks and fintechs need to do to keep up with technology advances and not get left behind? We invited two long-time experts on finance and technology -- Luis Valdich, managing ..."
+    publishedDateTime: 2024-02-27T12:42:00Z
+    webUrl: "https://www.americanbanker.com/leaders/navigating-the-future-of-banking-fintech-and-ai"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 54
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/7c08039/2147483647/strip/true/crop/1281x673+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F1e%2Fd4%2F2668ce2b403e82ecb39505b3aeac%2Fnavigating-the-future-of-banking-fintech-and-ai-1280x720-suni-harford.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fintech employees trained in AI in just over one-third of central banks"
+    excerpt: "The majority of central banks do not train staff in artificial intelligence (AI), the Fintech Benchmarks 2024 finds. Only 13 (37.1%) of 35 central banks say they offer such training. Seventeen (48.6%) jurisdictions say they do not. However, five (14.3%) central banks say they have such plans in the works."
+    publishedDateTime: 2024-02-28T10:11:00Z
+    webUrl: "https://www.centralbanking.com/benchmarking/fintech/7960900/fintech-employees-trained-in-ai-in-just-over-one-third-of-central-banks"
+    type: article
+    provider:
+      name: Central Banking
+      domain: centralbanking.com
+    quality: 54
+    images:
+      - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-08/benchmark-banner-FINTECH-2024.jpg?itok=tZCXaiT6"
+        width: 1200
+        height: 743
+        isCached: true
+  - title: "2024 Tech Trends Projections for Indian Fintech Industry"
+    excerpt: "The Indian fintech industry for the year 2024, authored by Narendra Babu, the Chief Technology Officer at PayU. It outlines six key trends, including the integration of advanced technologies."
+    publishedDateTime: 2024-03-01T09:53:00Z
+    webUrl: "https://www.dqindia.com/business-technologies/2024-tech-trends-projections-for-indian-fintech-industry-4168256"
+    ampWebUrl: "https://www.dqindia.com/business-technologies/2024-tech-trends-projections-for-indian-fintech-industry-4168256"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/business-technologies/2024-tech-trends-projections-for-indian-fintech-industry-4168256"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/hPhwpXCD6Gnfl50cqL8z.jpg"
+        width: 1162
+        height: 675
+        isCached: true
   - title: "Ai In Fintech Market Growth, Share, Trends, Analysis Report 2024-2032"
     excerpt: "Financial firms are adopting artificial intelligence (AI) to automate intricate and repetitive tasks, such as data analysis, risk assessment, and user service. This automation enhances efficiency, reduces operational costs, and minimizes human errors."
     publishedDateTime: 2024-02-26T02:55:00Z
@@ -37,6 +81,34 @@ related:
         width: 272
         height: 249
         isCached: true
+  - title: "IBM’s AI vision: Navigating the future of industry with LLMs"
+    excerpt: "Join IBM's Stephen Rose for a deep dive into AI's transformative role in business and strategic implementation challenges."
+    publishedDateTime: 2024-02-27T21:33:00Z
+    webUrl: "https://siliconangle.com/2024/02/27/revolutionizing-industries-ai-strategic-insights-opportunities-ibm-mwc24/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Stephen-Rose-general-manager-of-global-industries-at-IBM-AI-focus.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Beijing goes all out to fund AI tech"
+    excerpt: "In January, Beijing established four funds focused on robotics, AI, pharmaceuticals and the information industry. Among these, the AI fund has a targeted total size of 10 billion yuan, with an initial target size of 4 billion yuan, as reported by Chinese media outlet Chinastarmarket.cn."
+    publishedDateTime: 2024-03-01T01:06:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202403/01/WS65e12a0fa31082fc043b9e8b.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202403/01/65e12a0fa31082fc2b6965a7.jpeg"
+        width: 838
+        height: 558
+        isCached: true
   - title: "Why fintech startups need to prioritize email security"
     excerpt: "The financial sector has been at the forefront of technological development for many decades, but what we call ‘fintech’ was really born as a result of the 2008 financial crisis. Clients lost faith in traditional banking processes,"
     publishedDateTime: 2024-02-29T18:46:00Z
@@ -46,19 +118,21 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 36
-  - title: "GCC Artificial Intelligence Market Share Analysis| Size, Trends, Industry Report 2024-2032"
-    excerpt: "The latest report by IMARC Group, titled“ GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2024-2032“ , offers a comprehensive analysis of the industry, which comprises insights on the GCC artificial ..."
-    publishedDateTime: 2024-02-28T03:00:00Z
-    webUrl: "https://menafn.com/1107909833/GCC-Artificial-Intelligence-Market-Share-Analysis-Size-Trends-Industry-Report-2024-2032"
+  - title: "Where will fintechs go? With India’s growth prospects, the fintech sector can grow if it follows regulations"
+    excerpt: "Consider 2021—the world is emerging out of the Covid-19 shock, digital technologies are changing the way customers interact with institutions, and data and AI are changing how ... Skip to two years down, and fintech funding has seen significant reduction."
+    publishedDateTime: 2024-02-27T23:19:00Z
+    webUrl: "https://www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/"
+    ampWebUrl: "https://www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/lite/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 31
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 25
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?267935"
-        width: 444
-        height: 250
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "ASTRI sets up FinTech and ESG Alliance"
     excerpt: "The \"FinTech and ESG Alliance\" marks ASTRI's third alliance formation ... Innovative Mind, and IoT Sensing and AI Technologies. It is applied across six core areas which are Smart City, Financial Technologies, New-Industrialisation and Intelligent ..."
@@ -74,6 +148,48 @@ related:
         width: 599
         height: 380
         isCached: true
+  - title: "Anyone nostalgic for the pre-SVB fintech era?"
+    excerpt: "In the UK, KPMG’s Pulse of Fintech, a biannual report on fintech investment trends, saw fintech investment down 34 per cent in 2023, while retaining a lead in Europe. KPMG also found that total fintech investment in the Emea region dropped to $24.5bn in 2023, down from $49.6bn in 2022 and the lowest level of fintech funding in seven years."
+    publishedDateTime: 2024-02-28T09:08:00Z
+    webUrl: "https://www.thebanker.com/Anyone-nostalgic-for-the-pre-SVB-fintech-era-1709108803"
+    type: article
+    provider:
+      name: The Banker
+      domain: thebanker.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https://www.thebanker.com/var/ezflow_site/storage/images/media/images/liz-headshot-july-23/12744001-1-eng-GB/Liz-headshot-July-23.jpg?source=specialist-tb-article&width=816"
+        width: 816
+        height: 459
+        isCached: true
+  - title: "Fintech at its Finest: Adding Value with Innovation"
+    excerpt: "In this Roundtable, FinTech Magazine asks Industry Leaders for Their Thoughts on how the Industry’s Leading Technology Platforms are Raising the Bar"
+    publishedDateTime: 2024-02-29T10:26:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-at-its-finest-adding-value-with-innovation"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/7452cf610add2dcde54d536cb86f2ea5:e096529bdab30c8a03c11b9389d7baae/gettyimages-1023848048.jpg.jpg"
+        width: 1200
+        height: 631
+        isCached: true
+  - title: "My Wedding Whizz: Irish firm using AI and fintech to streamline wedding planning and digital gifting"
+    excerpt: "It’s an all-in-one digital management tool that pulls everything together in one place for the couple, and also incorporates a fintech element to facilitate the stress-free handling of deposits, payments and cash gifts,” Downes says. [ ‘Only gamble I ..."
+    publishedDateTime: 2024-02-29T05:45:00Z
+    webUrl: "https://www.irishtimes.com/business/2024/02/29/irish-company-using-ai-and-fintech-to-streamline-wedding-planning-and-digital-gifting/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 24
+    images:
+      - url: "https://www.irishtimes.com/resizer/QZXAnJ2zSc4VmkpPx0Gcp6fNcRE=/1200x630/filters:format(jpg):quality(70):focal(1774x763:1784x773)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JP5IUYRLE5A4NGXZFOHAPRI6MU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "More Than Half the Fintech Industry Seeing Growth from Strong Consumer Demand"
     excerpt: "Fintech industry resilience during the pandemic has been underscored by a sustained interest in digital financial services."
     publishedDateTime: 2024-02-26T10:31:00Z
@@ -88,34 +204,61 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Latin America Artificial Intelligence Market 2024-2032: Industry Growth, Size, Share, Trends, Analysis And Research Report"
-    excerpt: "IMARC Group's report titled”  Latin America Artificial Intelligence Market Report by Type (Narrow/Weak Artificial Intelligence, General/Stro"
-    publishedDateTime: 2024-03-01T08:16:00Z
-    webUrl: "https://menafn.com/1107920709/Latin-America-Artificial-Intelligence-Market-2024-2032-Industry-Growth-Size-Share-Trends-Analysis-And-Research-Report"
+  - title: "FinTech Australia announces new 'FinTech for Net Zero' event to highlight sector’s focus on sustainability"
+    excerpt: "FinTech Australia, the national association for the Australian FinTech Startup community has launched a new event aimed at showcasing sustainability-focused fintech companies. Held in partnership with The Australian Trade and Investment Commission,"
+    publishedDateTime: 2024-02-26T22:44:00Z
+    webUrl: "https://itwire.com/science-news/climate/fintech-australia-announces-new-fintech-for-net-zero-event-to-highlight-sector’s-focus-on-sustainability.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 21
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/0479e46eb8f30612a33c2f67fe60a88e_M.jpg"
+        width: 375
+        height: 375
+        isCached: true
+  - title: "Investment in fintech anticipated to have a soft start in 2024, finds KPMG’s Pulse of Fintech report"
+    excerpt: "Global fintech investment witnessed a slowdown as investors worldwide chose to preserve their funds. Pulse of Fintech H2’23, K"
+    publishedDateTime: 2024-02-29T01:09:00Z
+    webUrl: "https://menafn.com/1107911434/Investment-in-fintech-anticipated-to-have-a-soft-start-in-2024-finds-KPMGs-Pulse-of-Fintech-report"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 13
+    quality: 9
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?116087"
-        width: 333
-        height: 250
+      - url: "https://menafn.com/updates/pr/2024-02/28/pr_56_535629dd_image_story.jpg"
+        width: 1024
+        height: 1536
         isCached: true
-  - title: "Language Services Market Size, Share, Growth, Opportunity And Global Industry Trends 2024-2032"
-    excerpt: "Machine translation, artificial intelligence, and natural language processing have made significant strides in recent years, enabling faster and more cost-effective translation and localization services. Automation tools are streamlining repetitive tasks ..."
-    publishedDateTime: 2024-02-27T07:14:00Z
-    webUrl: "https://menafn.com/1107905161/Language-Services-Market-Size-Share-Growth-Opportunity-And-Global-Industry-Trends-2024-2032"
+  - title: "Investment in fintech anticipated to have a soft start in 2024"
+    excerpt: "Given the ongoing regulatory changes and ambitious net zero commitments displayed by governments and businesses, it is likely that ESG-focused fintech solutions will chart an upward trend heading into 2024. Moreover, investor interest in AI continued to ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/investment-in-fintech-anticipated-to-have-a-soft-start-in-2024-jyawstbu"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 12
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?299146"
-        width: 324
-        height: 250
-        isCached: true
+      name: Zawya
+      domain: zawya.com
+    quality: 4
+  - title: "F|T: The FinTech Times – BC court upholds ban on crypto mining, Sequoia backpedals Klarna ousting"
+    excerpt: "Vancouver-based FinTech startup Levr.ai has secured $1 million CAD in seed financing to continue scaling its artificial intelligence (AI)-powered loan software for small businesses. The seed round comes a year after Levr.ai raised $1-million in pre-seed ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-bc-court-upholds-ban-on-crypto-mining-sequoia-backpedals-klarna-ousting/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 0
+  - title: "Fintech Sandbox Announces Global Lineup for Demo Day 10 Bringing Together Innovative Fintech Startups Solving Complex Challenges"
+    excerpt: "Marking its Tenth Year, Nonprofit's Data Access Residency Features Startups Delivering Innovations in Artificial Intelligence, RegTech/Compliance, Investing, and MoreBOSTON, MA / ACCESSWIRE / February"
+    publishedDateTime: 2024-02-29T14:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61549940-fintech-sandbox-announces-global-lineup-for-demo-day-10-bringing-together-innovative-fintech-startups-solving-complex-challenges-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "DiF1Wo+MbXcYz6NlYosfpzaVP1YI+xxoPhoee3UAAR6qfabOYcpyReA/Y4ayloX4Q2V+TdBbdNggcLkD4e8FTVLcULt/Oxfb8AFIY07nClXtWjihEHJKsIKDPfrvqdc1nyUSLNcjD3A1AeymMoXe9LUIorwF9NtsAOnhjeUFR8W3uSbceat7IgARYdCwGTySnUL2ERVhqyiyj1TdDNa6cn9hQTcsQyWCZ+7yZLwuYcokkW42pMdYH+pyibfpB68qfkCIRGXJYvNXz6FndRATmEEs2My0vvfFbmfNpGteelChSi8G6zxJ7B3hu9d7vQaHKmeDNYrkOJJsZIR17EhUvNmmqv8D4Kk0ieQgARvgrqIRUCBsAWkJR6ydN2MkyGec9QgN4D94P1t2DM66I4RsB+Ak2tjewsJRcaZJcfbNfGoaBdJLNNPR4hE7gH3BEMCsSdQmW0aC9XgD9uqzp5wUheQytUKsuXHIm9i3bcbKY1BRebVc/8xAuscO1VTEyJZ8rtS8mHzzYVQcHrUPu0ToGQ==;0ScGZ+TxcFEZNMc1qT1Qjw=="
 ---

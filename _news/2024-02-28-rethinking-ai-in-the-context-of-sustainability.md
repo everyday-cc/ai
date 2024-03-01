@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Here Come the AI Worms"
+    excerpt: "Security researchers created an AI worm in a test environment that can automatically spread between generative AI agents—potentially stealing data and sending spam emails along the way."
+    publishedDateTime: 2024-03-01T08:59:00Z
+    webUrl: "https://www.wired.com/story/here-come-the-ai-worms/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/65e0e13fef1050f96f06c160/191:100/w_1280,c_limit/security_ai_worm_email_spam.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "The murky world of AI training"
     excerpt: "AI companies have also inadvertently hired children and teenagers to perform these roles, reported Wired, because tasks are \"often outsourced to gig workers, via online crowdsourcing platforms\". Ethics demands aside, the creators of AI models are concerned ..."
     publishedDateTime: 2024-02-28T00:00:00Z

@@ -24,6 +24,24 @@ images:
     height: 384
     isCached: true
 
+related:
+  - title: "US lawmakers urge President Biden to withhold 'recognition' of Pakistan's new govt until 'credible' poll rigging probe is conducted"
+    excerpt: "Citing \"strong evidence\" of election rigging in Pakistan, a group of influential lawmakers, including Muslim legislators, belonging to the ruling Democratic Party has urged US President Joe Biden to withhold \"recognition ... in political speech or activity ..."
+    publishedDateTime: 2024-03-01T10:00:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/us-lawmakers-urge-president-biden-to-withhold-recognition-of-pakistans-new-govt-until-credible-poll-rigging-probe-is-conducted-12384441.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/us-lawmakers-urge-president-biden-to-withhold-recognition-of-pakistans-new-govt-until-credible-poll-rigging-probe-is-conducted-12384441.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/us-lawmakers-urge-president-biden-to-withhold-recognition-of-pakistans-new-govt-until-credible-poll-rigging-probe-is-conducted-12384441.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 14
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/joe-biden-us-bbo.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "5hcp5YbcURh5TMqUPYwXenrTK7Z2XfuWC+gkAo4rAtGcuHWyzmtOpmuilwqb9r9UcwbhNlOyvfpO32y9MHvuOdHN+YfedKTcomOHwc3I32T0FXG4Onz0SBzV6FzOyWNVhBDA2BQ2uI9/9ob7X1boAPSrrViKprvy+2cC5n7h+U9hJgmqHxpUaFgl5SmohrFN3iogoVzt89bYdj+Xf5zwJDO8wYmL9/H4CKYU8ELog1tYIlcVYnIb4EDq4txQVh9sdnT6FyttSrm93uxKoNYNZC5cq7JeBewqGnZaQY+Gg4cyiNNTVKxBvGLxFw5h+xz4RyohTZhJXyvl2yExyjCmhLnRMgfvzwk0j9E5BCSr12p/hXD1qUfe2LfJdv6i2kfpdc/DXxmbc73h4tO+QVujT5FD6OC7T610MUQbyZ603SEX5Tl+6aymAQkpy7MLaG43vGDzB0QTR4Cpd/gVi5jqGOiXyl0o8mUR1t8aznXU9TdKXnWS17A5XhfpJU+imlQwxvqcl5kMvGyWghQGTz6KpA==;mhFvvmSMrq+QSzjAvgwR5w=="
 ---
 
