@@ -77,6 +77,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft’s ‘Copilot for Finance’ aims to revolutionize the spreadsheet with AI"
+    excerpt: "Microsoft unveils AI-powered finance assistant Copilot for Finance, promising major efficiency gains through workflow automation but faces data privacy and security challenges."
+    publishedDateTime: 2024-02-29T23:00:00Z
+    webUrl: "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Modern_art_of_the_Microsoft_Excel_spreadsheet_f04aba4b-e5b4-42c2-a3a3-d49749990db4-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Microsoft and Mistral AI reveal partnership to help boost its AI large language models"
     excerpt: "Today, Microsoft revealed a multi-year partnership with France-based Mistral AI. In the post on its Azure blog, Microsoft said that the collaboration with Mistral AI will allow its large language models to be used on Microsoft's Azure AI supercomputing ..."
     publishedDateTime: 2024-02-26T16:32:00Z
@@ -207,6 +221,20 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1850859244.jpg?quality=85"
         width: 5472
         height: 3648
+        isCached: true
+  - title: "Mistral AI makes waves with deals across tech giants including Microsoft, IBM"
+    excerpt: "Paris-based startup Mistral AI has cemented itself as a rising star in the artificial intelligence world, landing major partnerships with IBM, Microsoft, and others just one year after its founding. The fledgling company is moving fast to commercialize ..."
+    publishedDateTime: 2024-02-29T12:45:00Z
+    webUrl: "https://venturebeat.com/ai/mistral-ai-makes-waves-with-deals-across-tech-giants-including-microsoft-ibm/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_The_letter_M_pixel_art_set_against_a_backdrop_of_comp_d20af6a7-9ba2-4759-bba8-3c2d7b034c5c-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
   - title: "Mistral partners with Microsoft, announces new large AI model with chat app"
     excerpt: "In MMLU tests, Mistral Large had an accuracy of 81.2%, sitting behind GPT-4’s, but doing much better than Llama 2 70B and Gemini Pro 1.0."

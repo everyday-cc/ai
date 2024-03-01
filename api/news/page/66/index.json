@@ -2,6 +2,40 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2024-01-10-deepmind-spin-off-aims-to-halve-drug-discovery-times-following-big-pharma-deals.md",
+      "title": "DeepMind spin-off aims to halve drug discovery times following Big Pharma deals",
+      "excerpt": "Chief of Google’s AI unit and Isomorphic Labs spells out targets following $3bn Eli Lilly-Novartis partnerships",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/a08e4ad9-5277-4860-9df2-d5df2ad1e57d",
+      "originalUrl": "https://www.ft.com/content/a08e4ad9-5277-4860-9df2-d5df2ad1e57d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T06:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-beatbot-to-make-waves-at-ces-2024-by-unveiling-worlds-first-all-in-one-intelligent-pool-cleaning-robot.md",
       "title": "Beatbot To Make Waves At CES 2024 By Unveiling World's First All-In-One Intelligent Pool Cleaning Robot",
       "excerpt": "With significant advances in efficiency, performance and power, Beatbot AquaSense Pro is truly, The One Pool Robot to Rule Them All.",
@@ -1033,49 +1067,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-how-to-find-out-if-facial-recognition-is-being-used-where-you-shop.md",
-      "title": "How to find out if facial recognition is being used where you shop",
-      "excerpt": "AI is watching. It sounds like something from a sci-fi movie.But if you go shopping at some big chain stores, you may be under the watchful",
-      "sourceUrl": null,
-      "webUrl": "https://local12.com/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "originalUrl": "https://local12.com/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://local12.com/resources/media/d62bea90-86f1-4b19-92a7-1929ec5f1d0a-large16x9_OH_FACIALRECOGNITION_frame_1443.jpeg",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://local12.com/amp/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "cdnAmpWebUrl": "https://local12-com.cdn.ampproject.org/c/s/local12.com/amp/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "publishedDateTime": "2024-01-09T15:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local 12 WKRC Cincinnati",
-        "domain": "local12.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

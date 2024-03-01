@@ -2,6 +2,49 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2023-12-13-how-the-eu-ai-act-regulates-artificial-intelligence-what-it-means-for-cybersecurity.md",
+      "title": "How the EU AI Act regulates artificial intelligence: What it means for cybersecurity",
+      "excerpt": "On December 8, 2023, after more than 36 hours of negotiations, European Union lawmakers agreed on the details of a new law to regulate artificial intelligence. The document, dubbed the AI Act, is one of the first attempts in the world to establish a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html",
+      "originalUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.csoonline.com/wp-content/uploads/2023/12/hemicycle_of_louise_weiss_building_of_the_european_parliament_strasbourg-100624123-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/",
+      "publishedDateTime": "2023-12-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-lego-fortnite-how-to-find-loot-llamas.md",
       "title": "LEGO Fortnite: How to Find Loot Llamas",
       "excerpt": "In LEGO Fortnite, you can explore a vast world that sometimes offers surprises, such as treasures and supply drops, but if you're lucky, you'll come across a Loot Llama. If you are having problems ...",
@@ -1107,57 +1150,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-hr-has-a-central-role-in-ais-impact-on-smes.md",
-      "title": "HR Has A Central Role In AI's Impact On SMEs",
-      "excerpt": "HR teams at small and medium-sized enterprises are well positioned to ensure AI technology is implemented successfully.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/12/hr-has-a-central-role-in-ais-impact-on-smes/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/12/hr-has-a-central-role-in-ais-impact-on-smes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6514465e8d87e14a63636b0e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1233,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/12/hr-has-a-central-role-in-ais-impact-on-smes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/12/hr-has-a-central-role-in-ais-impact-on-smes/amp/",
-      "publishedDateTime": "2023-12-12T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

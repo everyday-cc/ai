@@ -92,6 +92,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robotics startup Figure raises $675 million from Microsoft, Nvidia, OpenAI"
+    excerpt: "Sunnyvale, California-based Figure also signed a collaboration with OpenAI to develop generative artificial intelligence for its humanoid robots. Other companies involved in this external round includes OpenAI Startup Fund,"
+    publishedDateTime: 2024-02-29T18:21:00Z
+    webUrl: "https://www.aol.com/news/robotics-startup-figure-raises-675-130229260.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 84
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/8c70e7441196b7a02e364701b80a4efc"
+        width: 800
+        height: 533
+        isCached: true
   - title: "ChatGPT creator OpenAI to put AI into humanoid robots"
     excerpt: "OpenAI, the creator of ChatGPT, is putting its artificial intelligence systems into humanoid robots. The deal, with robotics startup Figure, will allow its AI models to inhabit the physical world for the first time. California-based Figure announced the ..."
     publishedDateTime: 2024-02-29T09:55:00Z
@@ -203,14 +217,14 @@ related:
   - title: "Humanoid robot-maker Figure partners with OpenAI"
     excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
     publishedDateTime: 2024-02-29T22:30:00Z
-    webUrl: "https://billingsgazette.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_bd72d72d-3614-5c24-a69b-4d0a9120da5f.html"
+    webUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
     type: article
     provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
+      name: wacotrib
+      domain: wacotrib.com
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/b/d7/bd72d72d-3614-5c24-a69b-4d0a9120da5f/65e103262b5db.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/6/f4/6f4165a2-aaf3-519e-8386-e4b92a995101/65e10329eddb8.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

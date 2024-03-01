@@ -157,7 +157,7 @@
       "originalUrl": "https://www.bbc.com/news/business-68420817",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -181,6 +181,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-openai-seeks-to-dismiss-parts-of-the-new-york-timess-lawsuit.md",
+      "title": "OpenAI Seeks to Dismiss Parts of The New York Times’s Lawsuit",
+      "excerpt": "The artificial intelligence start-up argued that its online chatbot, ChatGPT, is not a substitute for a New York Times subscription.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/27/multimedia/27openai-suit-blpk/27openai-suit-blpk-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T20:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1369,49 +1421,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-alphabets-waymo-recalled-vehicles-to-update-automated-driving-software.md",
-      "title": "Alphabet's Waymo recalled vehicles to update automated driving software",
-      "excerpt": "The ADS systems, which had versions released prior to Dec. 20, may inaccurately predict the movement of a towed vehicle, according to the agency. Waymo has updated the software free of charge and all affected vehicles were repaired by Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-200252,msid-107723122/file-photo-waymo-rider-only-robotaxi-test-ride-in-san-francisco.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms",
-      "publishedDateTime": "2024-02-15T11:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

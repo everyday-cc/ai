@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-02-18-can-ai-porn-be-ethical.md",
+      "title": "Can AI porn be ethical?",
+      "excerpt": "As demand for responsive sexbots grows, some developers are trying to thread the needle between fully neutered and fully uncensored AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=mc.news",
+      "originalUrl": "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=mc.news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e1f0c65bfdf81f113d5dfea096747039fd9f29a9/13_0_2667_1600/master/2667.jpg?width=620&quality=85&auto=format&fit=max&s=10ec8daedbde6f1ba1f256a0aebef810",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn",
+      "publishedDateTime": "2024-02-18T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-02-18-facial-recognition-coming-soon-to-an-airport-near-you.md",
       "title": "Facial Recognition: Coming Soon to an Airport Near You",
       "excerpt": "This passenger screening using facial recognition software and made available to select travelers at La Guardia by Delta Air Lines and the Transportation Security Administration, is just one example of how biometric technology, which uses an individual’s ...",
@@ -1130,40 +1182,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-hartford-healthcare-launches-new-center-to-use-artificial-intelligence-in-hospitals.md",
-      "title": "Hartford HealthCare launches new center to use artificial intelligence in hospitals",
-      "excerpt": "Officials said the Center for AI Innovation in Healthcare is the first in CT and one of a few in the U.S., with it used now for scheduling and patient stays.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/recordjournal/article/hartford-healthcare-ai-artificial-intelligence-18668344.php",
-      "originalUrl": "https://www.stamfordadvocate.com/recordjournal/article/hartford-healthcare-ai-artificial-intelligence-18668344.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T18:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

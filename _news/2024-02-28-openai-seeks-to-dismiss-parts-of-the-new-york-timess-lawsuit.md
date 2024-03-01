@@ -7,8 +7,8 @@ originalUrl: "https://www.nytimes.com/2024/02/27/technology/openai-new-york-time
 webUrl: "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The New York Times
@@ -27,6 +27,22 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Elon Musk sues OpenAI over AI threat"
+    excerpt: "OpenAI is not so open now, Musk claims, following the closed source release of the company's artificial general intelligence technology under Microsoft."
+    publishedDateTime: 2024-03-01T04:22:00Z
+    webUrl: "https://www.courthousenews.com/elon-musk-sues-openai-over-ai-threat/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 39
+    images:
+      - url: "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2023/03/chatgpt-output.jpg/w=3000"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "mK5Qh2hE0U7JtpcDyezf4QpJLfjH7tjOYJtS4gNnHDulPYoJsaxtsgn8EHDc13W7HBPGyQMby/KNJF5W68w6Tfza4tHs/uY5qXPGFZ75bFpz229F7gJcbTdk2J7E1CoAn7kklsJGxRXwLoox8KE05IRGTvdwtn4wAK0ER6QlmGHpNrvU/6gasXWp/x0bV8qHBEqz7CRsIK2sACHh7t2Zjj9XHQXtpgOA+MEI1xCdX6jQ4fF9VRDVw8RvEGbEIJ4rvctj+WyEMX91g2E0cSLezQ66ec/tC0+fM48YqJSFiqP6SZOPP+IGVv840JRSm+dueLMMKNpde8ZPHS5tr4Q+4N+HU+dcK5i1ItCf9On8f04=;cldk7K0lcTX3LP61XWhTjA=="
 ---

@@ -2,6 +2,48 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2024-01-26-send-app-gets-personalized-artificial-intelligence-feature.md",
+      "title": "Send app gets personalized artificial intelligence feature",
+      "excerpt": "Iconic Hearts — the company behind apps including Noteit, Starmatch and Locksmith — has announced that its Sendit app has launched a personalized artificial intelligence (AI) feature that chats with your friends for you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/",
+      "originalUrl": "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mactech.com/wp-content/uploads/2024/01/SendIt-1024x690.jpg",
+          "width": 1024,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/",
+      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/",
+      "publishedDateTime": "2024-01-26T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacTech",
+        "domain": "mactech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-a-tidal-wave-of-financial-empowerment-is-coming.md",
       "title": "A Tidal Wave Of Financial Empowerment Is Coming",
       "excerpt": "The recent wave of consumer advocacy tools is an enormous improvement, but it’s about to be weaponized by generative AI in ways that will transform the market.",
@@ -1143,48 +1185,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-customer-experience-examples-that-drive-value.md",
-      "title": "Customer experience examples that drive value",
-      "excerpt": "Discover some proven customer experience examples that organizations can use to improve customer loyalty and grow value.\nThe post Customer experience examples that drive value appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/customer-experience-examples/",
-      "originalUrl": "https://www.ibm.com/blog/customer-experience-examples/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T20:39:42Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -41,6 +41,22 @@ related:
         width: 2407
         height: 1460
         isCached: true
+  - title: "Canada University To Remove Vending Machines Over Facial Recognition Tech"
+    excerpt: "A university in Canada is set to remove a series of smart vending machines from its campus following concerns over the use of facial recognition technology in secret. According to The Guardian, the controversy unfolded when a student captured a photo of ..."
+    publishedDateTime: 2024-03-01T04:05:00Z
+    webUrl: "https://www.ndtv.com/world-news/canada-university-to-remove-vending-machines-over-facial-recognition-tech-5154528"
+    ampWebUrl: "https://www.ndtv.com/world-news/canada-university-to-remove-vending-machines-over-facial-recognition-tech-5154528/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/canada-university-to-remove-vending-machines-over-facial-recognition-tech-5154528/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://c.ndtvimg.com/2024-03/ie1611mo_vending-machine-generic_625x300_01_March_24.jpeg?ver-20240117.07"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "Complaints filed with privacy commissioner over facial recognition vending machines"
     excerpt: "Two complaints have been filed with the Office of the Information and Privacy Commissioner of Ontario over facial recognition software in smart vending machines on ..."
     publishedDateTime: 2024-02-29T23:28:00Z

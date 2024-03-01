@@ -2,6 +2,49 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2023-11-30-what-the-data-says-about-americans-views-of-artificial-intelligence.md",
+      "title": "What the data says about Americans’ views of artificial intelligence",
+      "excerpt": "From detecting cancer on a medical scan to drafting an essay for a school assignment, artificial intelligence is increasingly shaping the way Americans live. Pew Research Center surveys show that Americans are increasingly cautious about the growing role of AI in their lives generally.",
+      "sourceUrl": null,
+      "webUrl": "https://finchannel.com/what-the-data-says-about-americans-views-of-artificial-intelligence/117756/america/2023/11/",
+      "originalUrl": "https://finchannel.com/what-the-data-says-about-americans-views-of-artificial-intelligence/117756/america/2023/11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://finchannel.com/wp-content/uploads/2023/11/artificial-intelligence-AI-copy.jpg",
+          "width": 900,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T08:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial",
+        "domain": "finchannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-robotics-stocks-bot-is-mans-best-friend.md",
       "title": "Robotics Stocks: Bot is Man’s Best Friend",
       "excerpt": "From the first weaving loom to today’s AI-powered surgical robots, modern human history evolves around ... permitted automation (not to be confused with mere automatization), i.e., computerized control of previously human-led tasks.",
@@ -1097,49 +1140,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-m-dcps-students-can-apply-for-new-artificial-intelligence-magnet-program.md",
-      "title": "M-DCPS students can apply for new Artificial Intelligence Magnet Program",
-      "excerpt": "Artificial intelligence (AI), a cutting-edge programming technology, has arrived at Miami-Dade County Public Schools (M-DCPS). “I enjoy learning about the new codes, new concepts in AI and how computers can help people,",
-      "sourceUrl": null,
-      "webUrl": "https://communitynewspapers.com/kendallgazette/m-dcps-students-can-apply-for-new-artificial-intelligence-magnet-program/",
-      "originalUrl": "https://communitynewspapers.com/kendallgazette/m-dcps-students-can-apply-for-new-artificial-intelligence-magnet-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://communitynewspapers.com/wp-content/uploads/2023/11/M-DCPS-is-teaching-AI-featured-min.jpg",
-          "width": 777,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T18:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami's Community Newspapers",
-        "domain": "communitynewspapers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

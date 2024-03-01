@@ -2,6 +2,50 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-12-18-facebook-whistleblower-docs-how-ai-is-hurting-india-and-indians.md",
+      "title": "Facebook whistleblower docs: How AI is hurting India – and Indians",
+      "excerpt": "Users need to understand that since many platforms are developed outside of India, their preparedness to understand and manage nuances of language, culture, and regions fall short. Engineers are playi",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/",
+      "originalUrl": "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/12/artificial.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/",
+      "publishedDateTime": "2023-12-18T08:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-in-a-first-ai-based-tool-used-to-translate-pm-modis-speech.md",
       "title": "In A First, AI-Based Tool Used To Translate PM Modi's Speech",
       "excerpt": "Prime Minister Narendra Modi's speech at an event in Uttar Pradesh's Varanasi yesterday was translated in real-time using artificial intelligence (AI) technology.",
@@ -1068,49 +1112,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-global-ai-conclave-talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar.md",
-      "title": "Global AI Conclave: Talent, not chips, key to India's AI future, says Rajeev Chandrasekhar",
-      "excerpt": "The government is working 24/7 to propel India's digital economy to trillion dollars in size by 2026, Rajeev Chandrasekhar said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/12/Rajeev-770x371.jpg",
-          "width": 770,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp",
-      "publishedDateTime": "2023-12-16T09:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

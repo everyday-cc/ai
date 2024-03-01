@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Creighton vs. Villanova March 9 Tickets & Start Time"
-    excerpt: "Saturday's Big East schedule includes the Villanova Wildcats (15-11, 8-7 Big East) versus the Creighton Bluejays (20-7, 11-5 Big East) at 2:30 PM ET on FOX. If you're looking to attend this matchup in person, head to StubHub or Ticketmaster to purchase your tickets!"
-    publishedDateTime: 2024-02-25T04:24:00Z
-    webUrl: "https://www.wowt.com/sports/betting/2024/03/09/creighton-vs-villanova-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WOWT.com
-      domain: wowt.com
-    quality: 22
-    images:
-      - url: "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/v2/OXJGNJJ2MROAHHFSBJRZRC6BPM.jpg?auth=3439832cdb44f3b21c7abeac4364b596932c561b0f120df20b4850cb6cddd07c&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Kansas vs. Houston March 9 Tickets & Start Time"
-    excerpt: "The Kansas Jayhawks (20-6, 8-5 Big 12) face a fellow Big 12 team, the Houston Cougars (24-3, 11-3 Big 12), on Saturday, March 9, 2024 at Fertitta Center. The game will begin at 4:00 PM ET and is available via ESPN."
-    publishedDateTime: 2024-02-25T04:24:00Z
-    webUrl: "https://www.kwch.com/sports/betting/2024/03/09/kansas-vs-houston-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KWCH
-      domain: kwch.com
-    quality: 22
-    images:
-      - url: "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/v2/IWFL7WKY7VN5LECY3OE26FJ6NM.jpg?auth=68553fc860b0ac4ead03115e7abf146566264f4fc1b24a26b15017bc42ef81b0&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Lightning vs. Devils February 25 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. When the New Jersey Devils meet the Tampa Bay Lightning at Prudential Center on Sunday (the puck drops at 1:00 PM ET), Jack Hughes and Brayden Point will be two of the top players to watch. Nikita Kucherov is an important ..."
     publishedDateTime: 2024-02-25T06:21:00Z
@@ -66,20 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Marquette vs. Xavier March 9 Tickets & Start Time"
-    excerpt: "Saturday's Big East slate includes the Xavier Musketeers (13-13, 7-8 Big East) playing the Marquette Golden Eagles (20-6, 11-4 Big East) at 5:00 PM ET on FOX. If you're looking to catch this game in person, head to StubHub or Ticketmaster to purchase your tickets!"
-    publishedDateTime: 2024-02-25T04:23:00Z
-    webUrl: "https://www.wbay.com/sports/betting/2024/03/09/marquette-vs-xavier-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WBAY
-      domain: wbay.com
-    quality: 22
-    images:
-      - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/v2/TEMY2ZH2YVOP3GJTHK36NYKFKM.jpg?auth=fe03af73bf84fa1d9072da274bbcb2e47707513ea59f75c810d8acbbf868f6f7&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Ohio State vs. Rutgers March 10 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Ohio State Buckeyes (15-12, 5-11 Big Ten) play a fellow Big Ten squad, the Rutgers Scarlet Knights (14-13, 6-10 Big Ten), on Sunday, March 10, 2024 at Jersey Mike's Arena. The game will tip off at 2:00 PM ET and is ..."
     publishedDateTime: 2024-02-25T23:15:00Z
@@ -91,6 +49,34 @@ related:
     quality: 22
     images:
       - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/v2/TSN5B5LMI5LLTEABBTERLQE3UE.jpg?auth=6b4d43d2c0a26249959cb0f7010063592f89f2860e3f4260305ee69850ac5bf6&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Predators vs. Senators February 27 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The Nashville Predators' Filip Forsberg and the ... Alabama A&M March 2 Women's Basketball Tickets & Start Time North Alabama vs. Central Arkansas March 2 Women's Basketball Tickets & Start Time Auburn vs."
+    publishedDateTime: 2024-02-27T06:22:00Z
+    webUrl: "https://www.wsfa.com/sports/betting/2024/02/27/predators-vs-senators-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: WSFA
+      domain: wsfa.com
+    quality: 22
+    images:
+      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/LU74SZ3IZZKN7JGU5ZNM465ZTQ.jpg?auth=fbf29b2890740aa87b74a8b237ca56f83afd6bd268525458e262210b61b341f4&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Stars vs. Avalanche February 27 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The Colorado Avalanche's Mikko Rantanen and the ... Utah Valley March 2 Women's Basketball Tickets & Start Time Houston Christian vs. Texas A&M-Commerce March 2 Women's Basketball Tickets & Start Time TCU vs."
+    publishedDateTime: 2024-02-27T06:21:00Z
+    webUrl: "https://www.kwtx.com/sports/betting/2024/02/27/stars-vs-avalanche-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: KWTX
+      domain: kwtx.com
+    quality: 22
+    images:
+      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/WIABIVFRFJKHDAJW6BGVEUOAGQ.jpg?auth=4b5bdddd25d685b49c846930f68689908cf1e39a89ace4cf1c991e603df68e83&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

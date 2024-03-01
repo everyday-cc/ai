@@ -2,6 +2,40 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2023-12-08-ms-driven-transparity-ai-services-promise-intelligence-over-artifice.md",
+      "title": "MS-driven Transparity AI Services promise Intelligence over Artifice",
+      "excerpt": "Using Transparity to explore AI use cases that will improve team efficiency and employee experience, BMT is now \"actively engaged in exploring bespoke AI solutions built in the Microsoft Cloud alongside Microsoft's co-pilot offerings\", says Simon Willmore, Head of Digital Strategy at BMT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ms-driven-transparity-ai-services-promise-intelligence-over-/2023/12/08/9930657.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ms-driven-transparity-ai-services-promise-intelligence-over-/2023/12/08/9930657.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T09:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-aws-reinvent-2023-7-takeaways-from-the-big-annual-event.md",
       "title": "AWS re:Invent 2023: 7 takeaways from the big annual event",
       "excerpt": "At the AWS re:Invent conference last week, the spotlight was focused on artificial intelligence, with the new generative AI assistant, Amazon Q, debuting as the star of the show. But there was ...",
@@ -1047,49 +1081,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-advanced-micro-devices-projects-45b-ai-chip-market-in-2023-analysts-say-chipmaker-maturing-fast-after-gpu-launch.md",
-      "title": "Advanced Micro Devices Projects $45B AI Chip Market In 2023: Analysts Say Chipmaker 'Maturing Fast' After GPU Launch",
-      "excerpt": "Advanced Micro Devices launches Instinct MI300X Data Center GPU targeting AI and ML workloads. AMD increases its 2027 data center accelerator TAM from around $150bn to around $400bn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/12/36142456/advanced-micro-devices-projects-45b-ai-chip-market-in-2023-analysts-take-a-look-at-",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/12/36142456/advanced-micro-devices-projects-45b-ai-chip-market-in-2023-analysts-take-a-look-at-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/12/07/amd-headquarters-santa-clara.site_.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36142456",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36142456",
-      "publishedDateTime": "2023-12-07T16:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Apple Is Behind in AI—and Investors Are Getting Impatient"
+    excerpt: "The iPhone maker is expected to unveil AI tools at its June developer conference after it has lagged behind tech peers with clearer AI strategies."
+    publishedDateTime: 2024-02-29T09:30:00Z
+    webUrl: "https://www.wsj.com/tech/ai/apple-investors-grow-impatient-on-artificial-intelligence-3f934e1e?mod=hp_featst_pos4"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "1 Exceptional AI Chip Stock Investors Need to Know About in 2024"
     excerpt: "But in recent years, it pivoted its portfolio to address \"mature\" semiconductor manufacturing processes related to power, sensors, and other less advanced technologies (but still integral to the whole AI narrative). These chip types remained in high demand ..."
     publishedDateTime: 2024-02-25T14:35:00Z

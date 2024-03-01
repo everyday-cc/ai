@@ -2,6 +2,49 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-12-01-xiao-i-presents-at-fortune-global-forum-2023-commercializing-hua-zang-universal-large-language-model-in-diverse-scenarios.md",
+      "title": "Xiao-I Presents at Fortune Global Forum 2023, Commercializing Hua Zang Universal Large Language Model in Diverse Scenarios",
+      "excerpt": "Mr. Hui Yuan, the Chairman of the Board and CEO of Xiao-I Corporation (NASDAQ: AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, took the stage alongside distinguished speakers to share a practical application of Hua Zang Universal Large Language Model (\"LLM\") and provide an in-depth exploration of the cutting-edge advancements in generative AI at the Fortune Global Forum 2023,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-presents-at-fortune-global-forum-2023-commercializing-hua-zang-universal-large-language-model-in-diverse-scenarios-1032865840",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-presents-at-fortune-global-forum-2023-commercializing-hua-zang-universal-large-language-model-in-diverse-scenarios-1032865840",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T11:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-how-voice-assistant-will-impact-our-lives-in-the-years-to-come.md",
       "title": "How Voice Assistant Will Impact Our Lives in the Years to Come",
       "excerpt": "The advancement in technology continuously brings ease and enjoyment to our lives. Machines have already changed how we work all day and tired us out, but voice assistants have emerged as",
@@ -994,49 +1037,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-bipartisan-bill-to-bar-tsa-from-using-facial-recognition-in-airports-introduced.md",
-      "title": "Bipartisan bill to bar TSA from using facial recognition in airports introduced",
-      "excerpt": "A federal bipartisan bill to bar the TSA from using biometric data collected through facial recognition technology at U.S. airports has been introduced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wibw.com/2023/11/30/bipartisan-bill-bar-tsa-using-facial-recognition-airports-introduced/",
-      "originalUrl": "https://www.wibw.com/2023/11/30/bipartisan-bill-bar-tsa-using-facial-recognition-airports-introduced/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wibw-prod.cdn.arcpublishing.com/resizer/v2/GQU4RWK3CVCUBPHOLOUGJE7GRY.jpg?auth=e137510118becdb28d05d639268b6458893c6d81340504eadd3b617de5a5d28a&width=800&height=450&smart=true",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wibw.com/2023/11/30/bipartisan-bill-bar-tsa-using-facial-recognition-airports-introduced/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2023/11/30/bipartisan-bill-bar-tsa-using-facial-recognition-airports-introduced/?outputType=amp",
-      "publishedDateTime": "2023-11-30T19:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WIBW",
-        "domain": "wibw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

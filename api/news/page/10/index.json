@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-02-22-google-launches-gemma-a-family-of-open-source-lightweight-ai-models-for-developers.md",
+      "title": "Google Launches Gemma, a Family of Open-Source Lightweight AI Models for Developers",
+      "excerpt": "Gemma’s open-source AI models are built from the same research and technology used to create the Gemini models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465",
+      "originalUrl": "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/google_gemma_ai_1708588635642.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp",
+      "publishedDateTime": "2024-02-22T07:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-backed-by-chinese-carmaker-great-wall-haomo-raises-14m-for-autonomous-driving-tech.md",
       "title": "Backed by Chinese carmaker Great Wall, Haomo raises $14M for autonomous driving tech",
       "excerpt": "After a few years of funding frenzy, autonomous driving companies in China are experiencing a slowdown in investment. Some companies are still hauling in",
@@ -1159,58 +1202,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-fox-news-ai-newsletter-lizard-like-robot-could-help-navy-prevent-catastrophes.md",
-      "title": "Fox News AI Newsletter: Lizard-like robot could help Navy 'prevent catastrophes'",
-      "excerpt": "MILITARY GAME-CHANGER: A lizard-like robot and other devices relying ... DEEPFAKE BATTLE’: An Israeli AI cybersecurity start-up, Clarity, has developed software to detect and protect against ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes",
-      "originalUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d705d93-3ff3-4ead-a33e-b0a42bc27432/dbc13643-03fe-4e99-947e-db2ba52ac205/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes.amp",
-      "publishedDateTime": "2024-02-21T16:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

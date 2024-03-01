@@ -2,6 +2,57 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2024-01-22-palworld-accused-of-being-an-ai-product-with-no-evidence-so-far.md",
+      "title": "‘Palworld’ Accused Of Being ‘An AI Product,’ With No Evidence So Far",
+      "excerpt": "Palworld has been accused of using GenAI based on past Pocket Pair behavior, but is there any hard evidence that's the case at this point?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae763a4a628c4f4b6663a0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1224,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/amp/",
+      "publishedDateTime": "2024-01-22T13:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-the-dynamic-forces-behind-data-center-re-transformation.md",
       "title": "The dynamic forces behind data center re-transformation ",
       "excerpt": "Advancements in hardware and software, as well as increased focus on sustainability, are driving rapid transformation of data centers.\nThe post The dynamic forces behind data center re-transformation  appeared first on IBM Blog.\n",
@@ -1098,58 +1149,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-the-future-of-work-in-the-age-of-generative-ai-insights-from-davos.md",
-      "title": "The Future Of Work In The Age Of Generative AI: Insights From Davos",
-      "excerpt": "The Oliver Wyman Forum’s new report, How Generative AI is Transforming Business and Society, shows a staggering pace of adoption. In less than a year, 55% of people globally are using gen AI for their work. ChatGPT reached mass adoption in ten months, while the internet took 17 years, smartphones took 21 years, and electricity took 37 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/",
-      "originalUrl": "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ad8be9269af150bc29665b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/",
-      "publishedDateTime": "2024-01-21T20:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

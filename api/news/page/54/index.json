@@ -2,6 +2,58 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2024-01-22-the-future-of-work-in-the-age-of-generative-ai-insights-from-davos.md",
+      "title": "The Future Of Work In The Age Of Generative AI: Insights From Davos",
+      "excerpt": "The Oliver Wyman Forum’s new report, How Generative AI is Transforming Business and Society, shows a staggering pace of adoption. In less than a year, 55% of people globally are using gen AI for their work. ChatGPT reached mass adoption in ten months, while the internet took 17 years, smartphones took 21 years, and electricity took 37 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/",
+      "originalUrl": "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ad8be9269af150bc29665b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/",
+      "publishedDateTime": "2024-01-21T20:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-how-to-use-artificial-intelligence-today-text-to-speech-technology.md",
       "title": "How To Use Artificial Intelligence Today: Text-To-Speech Technology",
       "excerpt": "Chat GPT is a powerful tool - don’t get me wrong, but it is not the whole of what AI is capable of at the moment.",
@@ -1094,57 +1146,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change.md",
-      "title": "How AI-generated digital twins are speeding up the race to beat climate change",
-      "excerpt": "Climactic cofounder Raj Kapoor and Vibrant Planet VP Dr. Chelsey Walden-Schreiner discuss the intersectionality of AI and climate tech.",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change/52a45e1f-7509-4b1e-b6d3-1a03bc019afe",
-      "originalUrl": "https://fortune.com/videos/watch/how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change/52a45e1f-7509-4b1e-b6d3-1a03bc019afe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/52a45e1f-7509-4b1e-b6d3-1a03bc019afe/Images/posterImage-ver1-1280x720.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change/52a45e1f-7509-4b1e-b6d3-1a03bc019afe/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change/52a45e1f-7509-4b1e-b6d3-1a03bc019afe/amp",
-      "publishedDateTime": "2024-01-20T08:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

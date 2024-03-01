@@ -2,6 +2,50 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2024-01-17-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics.md",
+      "title": "Tesla: Continuing The Short Bet, As Bull Thesis Depends Too Much On AI And Robotics",
+      "excerpt": "We will see more hype around AI/robotics, but there is no timeline for when Tesla will deliver products. Read why I decided to continue short bet on TSLA stock.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4663303-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics",
+      "originalUrl": "https://seekingalpha.com/article/4663303-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1584500014/image_1584500014.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T15:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-jfrog-aws-team-up-for-machine-learning-in-the-cloud.md",
       "title": "JFrog, AWS team up for machine learning in the cloud",
       "excerpt": "The JFrog Amazon SageMaker integration incorporates machine learning models into the software development lifecycle.",
@@ -1083,40 +1127,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-maximizing-ai-growth-using-incentives-to-unlock-unutilized-gpu-resources.md",
-      "title": "Maximizing AI Growth: Using Incentives to Unlock Unutilized GPU Resources",
-      "excerpt": "With AI expected to add trillions of dollars to global economic growth by 2030, the question on everyone’s mind is how to deal with the uncertain supply of graphics processing unit (GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/maximizing-ai-growth-using-incentives-to-unlock-unutilized-gpu-resources",
-      "originalUrl": "https://www.nasdaq.com/articles/maximizing-ai-growth-using-incentives-to-unlock-unutilized-gpu-resources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T19:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

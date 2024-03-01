@@ -2,6 +2,50 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2023-12-09-i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner.md",
+      "title": "I pitted Google Bard with Gemini Pro vs ChatGPT — here’s the winner",
+      "excerpt": "Google has incorporated its new AI large language model, Gemini Pro, into its popular chatbot, Bard. With this comes the promise that it will perform at least as well, if not better, than OpenAI's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/features/i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner",
+      "originalUrl": "https://www.tomsguide.com/features/i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5izKezBiWMfNnrFVFC7uYM-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-09-ibm-goes-big-on-data-observability-with-databandai-acquisition.md",
       "title": "IBM Goes Big On Data Observability With Databand.ai Acquisition",
       "excerpt": "IBM expects that Databand.ai, along with IBM Observability by Instana APM and IBM Watson Studio, will help position IBM to address the full spectrum of IT data observability to find bad data ...",
@@ -1130,40 +1174,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-ms-driven-transparity-ai-services-promise-intelligence-over-artifice.md",
-      "title": "MS-driven Transparity AI Services promise Intelligence over Artifice",
-      "excerpt": "Using Transparity to explore AI use cases that will improve team efficiency and employee experience, BMT is now \"actively engaged in exploring bespoke AI solutions built in the Microsoft Cloud alongside Microsoft's co-pilot offerings\", says Simon Willmore, Head of Digital Strategy at BMT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ms-driven-transparity-ai-services-promise-intelligence-over-/2023/12/08/9930657.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ms-driven-transparity-ai-services-promise-intelligence-over-/2023/12/08/9930657.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T09:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

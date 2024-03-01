@@ -81,15 +81,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Facial recognition: Coming soon to an airport near you"
-    excerpt: "This passenger screening using facial recognition software and made available to select travelers at La Guardia by Delta Air Lines and the Transportation Security Administration, is just one example of how biometric technology, which uses an individual’s ..."
-    publishedDateTime: 2024-02-25T05:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-coming-soon-to-an-airport-near-you/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 34
 
 secured: "V3z/L4+JwiyL0zU27SP3BDSleQOl9KwVddwUu68Yj2BydAua3Y42qC3SPoTzd3ERzM7p707+4z+eHvPgbw2LnPxYqLO48B22KVVU44P4HDXyF4UYzJGaia4AWcnhM1dxqK9meusnmVcyLdafEM8xZjAKYteW65UuSKCKrdcvveAGZR93VDZT1nZ09+mRDmeGuEMpgQSjMOsKLC4ZwoRa26xs/3HfmL1hAgFytme/oShj2RHYQB3Ae519Mz7wg9zDNOZtufufCclUZAElYteoSNZOcoX6nlnlJzQ8JzpmlEuf9j7WOaljh/R4yRs/5gOnyMbmKxYyF5tZDi/jyjIciS1djpQ3w6IOlos7bmoupNKhXuEYekM7yx5FXcMgm5d8fG6hX08VcbrjqD9KcGtOJC6X4pRUXyKL1U8/f1iMwxeabUa78TKuBAiEHAVlpIKlSKAdrOCpWnW8Zl9/NAqrqLyoUTGtv2yoQdOQ3c5BvQDFmdpDBeX9bjywtYKufOiEXHOTwTi2BK6AIsNGrtS85Q==;MwEUSgzml85DIClw/jC2BQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2024-01-16-amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand.md",
+      "title": "AMD shares jump 7% and head for highest close since 2021 on AI chip demand",
+      "excerpt": "AMD is one of two major producers of graphics processing units, which were created for advanced computer games and are now key to artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcbayarea.com/news/national-international/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3424231/",
+      "originalUrl": "https://www.nbcbayarea.com/news/national-international/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3424231/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcbayarea.com/2024/01/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcbayarea.com/news/business/money-report/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3424231/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/business/money-report/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3424231/?amp=1",
+      "publishedDateTime": "2024-01-16T11:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Bay Area",
+        "domain": "nbcbayarea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-do-you-need-gpus-for-generative-ai-systems.md",
       "title": "Do you need GPUs for generative AI systems?",
       "excerpt": "There is so much interest in GPUs for generative AI deployment and for some good reasons. However, in some cases, they are overkill and too expensive.",
@@ -1074,58 +1117,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3.md",
-      "title": "My Top 10 Revolutionary Discoveries At CES 2024: AI, Robotics, Web3",
-      "excerpt": "This year's CES, a melting pot of over 130,000 technology enthusiasts and innovators, showcased over 3,500 exhibits that spanned the spectrum of human ingenuity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a2251d942c9448505f31f4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 992,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/amp/",
-      "publishedDateTime": "2024-01-14T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

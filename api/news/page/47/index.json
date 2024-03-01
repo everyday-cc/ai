@@ -2,6 +2,48 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2024-01-25-customer-experience-examples-that-drive-value.md",
+      "title": "Customer experience examples that drive value",
+      "excerpt": "Discover some proven customer experience examples that organizations can use to improve customer loyalty and grow value.\nThe post Customer experience examples that drive value appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/customer-experience-examples/",
+      "originalUrl": "https://www.ibm.com/blog/customer-experience-examples/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T20:39:42Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back.md",
       "title": "‘Not Going Away’: A Star Greenberg Traurig Litigator Lost Her Voice. AI Brought It Back",
       "excerpt": "Lori Cohen achieved an impressive 58 defense verdicts before suddenly and inexplicably losing her voice. Now, with the help of her long-time trial technologist and friend Gerard Buitrago, she’s harnessing the power of AI to get back in the courtroom.",
@@ -1141,59 +1183,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations.md",
-      "title": "Generative AI In Healthcare And Life Sciences: Positive Impacts And Ethical Considerations",
-      "excerpt": "Let's explore generative AI's potential to reshape healthcare and life sciences as well as the ethical considerations that must be understood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62db0023bea32ba6199391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/",
-      "publishedDateTime": "2024-01-25T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

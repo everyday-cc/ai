@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-08-1-artificial-intelligence-ai-growth-stock-with-more-upside-than-nvidia-to-buy-now-according-to-wall-street.md",
+      "title": "1 Artificial Intelligence (AI) Growth Stock With More Upside Than Nvidia to Buy Now, According to Wall Street",
+      "excerpt": "Some analysts have called artificial intelligence (AI) the fourth industrial revolution, citing its potential to improve productivity and efficiency with predictive insights and automation. Similar to the third industrial revolution -- which was driven by digital technologies like the internet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL/pressreleases/23926494/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL/pressreleases/23926494/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/8e7684296fe079a184271a11ff614dad/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f764162%252falphabet-revenue-wheel.png%26amp%3Bw%3D700",
+          "width": 3512,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T11:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn.md",
       "title": "Don’t wear Apple Vision Pro while piloting a self-driving Tesla, officials warn",
       "excerpt": "But, as The New York Times asks, are people legitimately attempting to use the headset while driving, or is it all a stunt? \"Several of the videos taken in cars appear staged, and in many, it is clear that someone other than the driver is recording,\" writes Jesus Jiménez for The New York Times. \"The videos are not widespread.\"",
@@ -1252,41 +1295,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware.md",
-      "title": "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware",
-      "excerpt": "Tesla CEO Elon Musk plans to buy chips from Advanced Micro Devices (AMD) for artificial intelligence, in addition to Nvidia hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
-      "publishedDateTime": "2024-01-27T09:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-12-02-unpacking-fresh-signals-from-aws-on-storage-processing-and-llm-strategy.md",
+      "title": "Unpacking fresh signals from AWS on storage, processing and LLM strategy",
+      "excerpt": "The key unveiling on storage is the new Amazon S3 Express One Zone storage class. It’s been designed to deliver up to 10x better performance than the standard class, all while handling requests in the hundreds of thousands per second and maintaining single-digit millisecond latency, according to Thurai.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/12/01/unpacking-fresh-signals-aws-storage-processing-llm-strategy-supercloud5/",
+      "originalUrl": "https://siliconangle.com/2023/12/01/unpacking-fresh-signals-aws-storage-processing-llm-strategy-supercloud5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T22:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-02-heres-what-aws-revealed-about-its-generative-ai-strategy-at-reinvent-2023.md",
       "title": "Here's what AWS revealed about its generative AI strategy at re:Invent 2023",
       "excerpt": "AWS CEO Adam Selipsky and other top executives at the company’s annual re:Invent conference revealed updates and new products aimed at challenging offerings from Microsoft, Oracle, Google, and IBM.",
@@ -998,49 +1032,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-xiao-i-presents-at-fortune-global-forum-2023-commercializing-hua-zang-universal-large-language-model-in-diverse-scenarios.md",
-      "title": "Xiao-I Presents at Fortune Global Forum 2023, Commercializing Hua Zang Universal Large Language Model in Diverse Scenarios",
-      "excerpt": "Mr. Hui Yuan, the Chairman of the Board and CEO of Xiao-I Corporation (NASDAQ: AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, took the stage alongside distinguished speakers to share a practical application of Hua Zang Universal Large Language Model (\"LLM\") and provide an in-depth exploration of the cutting-edge advancements in generative AI at the Fortune Global Forum 2023,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-presents-at-fortune-global-forum-2023-commercializing-hua-zang-universal-large-language-model-in-diverse-scenarios-1032865840",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-presents-at-fortune-global-forum-2023-commercializing-hua-zang-universal-large-language-model-in-diverse-scenarios-1032865840",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T11:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
