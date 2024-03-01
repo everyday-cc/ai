@@ -48,6 +48,20 @@ related:
         width: 2000
         height: 1001
         isCached: true
+  - title: "Figure AI Raises $675 million to Commercialise Humanoid Robots"
+    excerpt: "Figure AI Inc. a company that builds multi-purpose humanoid form robots just raised $675 million in Series B funding, reaching a valuation of $2.6 billion, the company announced yesterday."
+    publishedDateTime: 2024-03-01T08:18:00Z
+    webUrl: "https://analyticsindiamag.com/figure-ai-raises-675-million-to-commercialise-humanoid-robots/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2022/10/tesla-humanoid-copy.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "H8oZqPC/rNg5paGBjojVke4AGbqIbcodDH1UMlmjvNRRi5A90rN9r3eN+RfneSeaOXV5ytA9dZeq2YSeRd3PMlARxe/DTOeuO1Po1doDFGYcWc34zVPqYoyrSHYoSoT9dF6hmSMGNV++eFLYVQxs92yQitVT6uIIg5uFkmKNuNn4nd2JDqjvTbTXepogljK5fs/XIgkkLBO+JkMGDLuizmO149GLBlwrR/UtpV2WMp+ULvYNwZk+3MKPZQmzqf6JYwQOkn6Oi2mnwPe1eWW/dLZ/9rDC1UJyvITebQvcEsqhqtobLOVlwZPwTCtO9tmI/OldGqeUpYPA+Bkh4ET3rq8tINnF5XbaDlAsNLaxtWo=;oh4HiqNG316KJjq0OT9OrA=="
 ---

@@ -162,6 +162,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "NVIDIA and Microsoft-backed humanoid robot maker signs with OpenAI to make robot brains"
+    excerpt: "A humanoid robot manufacturer has announced it's closed a deal with ChatGPT-maker OpenAI to put its technology inside human-like robots."
+    publishedDateTime: 2024-03-01T08:01:00Z
+    webUrl: "https://www.tweaktown.com/news/96574/nvidia-and-microsoft-backed-humanoid-robot-maker-signs-with-openai-to-make-brains/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 63
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96574_651165615_nvidia-and-microsoft-backed-humanoid-robot-maker-signs-deal-to-put-openai-tech-into-brains_full.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Jeff Bezos, Nvidia Back $2 Billion Humanoid Robot Venture with OpenAI, Microsoft: Report"
     excerpt: "Jeff Bezos, Nvidia Corp., and other major technology companies are investing in a company that develops humanoid robots as part of a scramble to discover new applications for artificial intelligence,"
     publishedDateTime: 2024-02-25T12:19:00Z
@@ -208,6 +222,17 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "OpenAI collaborates with robotics firm Figure AI, to share next-gen AI models for humanoids"
+    excerpt: "The collaboration will combine OpenAI’s research with Figure’s deep understanding of robotics both hardware and software."
+    publishedDateTime: 2024-03-01T05:43:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
   - title: "AI Startup Making Humanoid Robots Raises $675 Million With Bezos, Nvidia in Funding Round"
     excerpt: "Jeff Bezos, Nvidia and Microsoft are betting a humanlike robot could be one of the hot new developments in artificial intelligence. They are among a group of investors, including OpenAI, that invested $675 million in an AI robotics company called Figure ..."
     publishedDateTime: 2024-02-29T19:04:00Z
@@ -258,6 +283,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Jeff Bezos, tech giants"
+    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.semissourian.com/story/3031054.html"
+    type: article
+    provider:
+      name: Southeast Missourian
+      domain: semissourian.com
+    quality: 44
+    images:
+      - url: "https://www.semissourian.com/photos/39/36/50/3936500-G.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Bay Area robotics startup Figure AI quintuples funding with $675 million from OpenAI, Nvidia, Jeff Bezos"
     excerpt: "Initially bootstrapped by founder and CEO Brett Adcock, Figure AI now has major backers including OpenAI, Nvidia, Microsoft and Jeff Bezos. It also has a deal with BMW."
     publishedDateTime: 2024-02-29T15:48:00Z

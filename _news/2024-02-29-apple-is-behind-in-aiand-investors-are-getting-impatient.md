@@ -3,8 +3,8 @@ category: news
 title: "Apple Is Behind in AI—and Investors Are Getting Impatient"
 excerpt: "The iPhone maker is expected to unveil AI tools at its June developer conference after it has lagged behind tech peers with clearer AI strategies."
 publishedDateTime: 2024-02-29T09:30:00Z
-originalUrl: "https://www.wsj.com/tech/ai/apple-investors-grow-impatient-on-artificial-intelligence-3f934e1e?mod=hp_featst_pos4"
-webUrl: "https://www.wsj.com/tech/ai/apple-investors-grow-impatient-on-artificial-intelligence-3f934e1e?mod=hp_featst_pos4"
+originalUrl: "https://www.wsj.com/tech/ai/apple-investors-grow-impatient-on-artificial-intelligence-3f934e1e?mod=itp_wsj"
+webUrl: "https://www.wsj.com/tech/ai/apple-investors-grow-impatient-on-artificial-intelligence-3f934e1e?mod=itp_wsj"
 type: article
 quality: 47
 heat: -1
@@ -41,6 +41,6 @@ related:
       domain: theglobeandmail.com
     quality: 34
 
-secured: "u3LEQOaLM5FhDWEhFsoyEV4RPqBCt7EpwEK/Y/1EeE5LhI13Z35f+MbIZQuHa9KCCsEjU+OrZxS1ZMxt82dcPIQak3fi3lL0fqXHjKe2xSpgsgY50ckfda0/kTSkXzHbDpCHFpWXH6pm50xrjy60i3n04P7Wgf8/vCYIGSt32WqwiyG2zRyw7Xg6adf2zPtvy3Rh7g26YjG1MWocKTYqHsNlXlPWuVJTQzJG+OsiI7A0AONGlVMvJ/A01SUeeFmvO4QIgEoa67vsrNv6ef7mC+ioXQCv7KidCcglr9P3b6JFmK5QZdonvurjhEwsdVqd8eOTYqkI+qTyE/yjlUpV1Gbe4hTOGM6vcFSMPpf/nh/zkVh6JkNtjjxaeO4mu1AEebkGZzkprLI7hZ6RGYuuLNwC7/jsAsSu/KzOd4xqoJXfytxH/4wO4Q7KU33i1IaroCHxfyY/WQZNfJQmOX8KHC9s8UjRyucEUDhuRGqABDG6mdqWijb1oQ5OwavDHtx+rjMwXdc9HypThdbfWSQE8g==;drYWZKWw0bWdu93Cjv/uSw=="
+secured: "kFZkQc1SfMR4yt+QO8pZxHvUAtQYDlQjBff+L6JyI5gkVW7pL+XGTH5+mg9aEJ5AbhgIKzd0kPruUAbCKwi3rT+Xw2FgWh0oa2vsnYgmZyx8YnrAUgdSutHBp/P5ekp5OVOQc4k47heFUNPHBGOkB+i/TKKb9GcRx40/xyu5jArK+/Q28N3c0/iPpZVg+zdarsxIqMyrmaR2iuQonaY+nQddJcTb67tE1exeQn+G9ZCZb4GoA9D377DJnZoMYxrr//NHT8SXjp8i1SDrF/LXz8CxZjq6egCI6MaAcgzokibf6JPoTTOqRp+L/RNds0/TyZGDmnMJ1E0JHi9kb8YZxohST0dkdUdt7bUIGj/o2RFqFEN8Bn4BeKcFXGW5Ng8TpRXc+NH2HRGV5VhXapSfpVfvwXl5rfmshIzn75Z8A/MWlZTOpjmNaEfsSko/3jkFNRVqbNxgznpCZrnyVLwTyM72eAnKETo8UHXnj+LA8wrgjZVejU9Oj3dSmCz1hctitO9Qg+ywZTNOthjrsjyOHQ==;OEOff7Nznrwzi+QOyOPulw=="
 ---
 

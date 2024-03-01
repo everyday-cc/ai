@@ -25,7 +25,7 @@ related:
   - title: "Apple Is Behind in AI—and Investors Are Getting Impatient"
     excerpt: "The iPhone maker is expected to unveil AI tools at its June developer conference after it has lagged behind tech peers with clearer AI strategies."
     publishedDateTime: 2024-02-29T09:30:00Z
-    webUrl: "https://www.wsj.com/tech/ai/apple-investors-grow-impatient-on-artificial-intelligence-3f934e1e?mod=hp_featst_pos4"
+    webUrl: "https://www.wsj.com/tech/ai/apple-investors-grow-impatient-on-artificial-intelligence-3f934e1e?mod=itp_wsj"
     type: article
     provider:
       name: Wall Street Journal

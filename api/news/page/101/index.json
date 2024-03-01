@@ -2,6 +2,92 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-12-05-ai-networks-are-more-vulnerable-to-malicious-attacks-than-previously-thought.md",
+      "title": "AI networks are more vulnerable to malicious attacks than previously thought",
+      "excerpt": "Artificial intelligence tools hold promise for applications ranging from autonomous vehicles to the interpretation of medical images. However, a new study finds these AI tools are more vulnerable than previously thought to targeted attacks that effectively force AI systems to make bad decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231204135128.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231204135128.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T01:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-nvidia-warned-redesign-a-gpu-for-ai-for-china-us-government-will-stop-them-the-next-day.md",
+      "title": "NVIDIA warned: redesign a GPU for AI for China, US government will stop them the next day",
+      "excerpt": "US Commerce Secretary Gina Raimondo has warned that we 'cannot' let China get the most powerful AI chips in the world, throws shade at NVIDIA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/4/94723_01_nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day_full.png",
+          "width": 1500,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T00:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-a-deep-learning-framework-for-drugdrug-interactions-and-drugtarget-interactions-prediction.md",
       "title": "A deep-learning framework for drug–drug interactions and drug–target interactions prediction",
       "excerpt": "Quantitative Biology has recently published an article titled \"DeepDrug: A general graph-based deep learning framework for drug–drug interactions and drug–target interactions prediction\" that shows DeepDrug learns the comprehensive structure-based and ...",
@@ -1006,92 +1092,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-ai-ethics-is-there-a-necessity-for-the-us-to-field-lethal-autonomous-weapon-systems-laws.md",
-      "title": "AI ethics - is there a necessity for the US to field Lethal Autonomous Weapon Systems (LAWS)?",
-      "excerpt": "The primary ethical argument in favor of Lethal Autonomous Weapon Systems (LAWS) been results-oriented: their potential precision and reliability might enable better respect for international law and human ethical values, resulting in fewer adverse humanitarian consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws",
-      "originalUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg",
-          "width": 640,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws?amp",
-      "publishedDateTime": "2023-12-04T15:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-a-focus-on-fintech.md",
-      "title": "A focus on fintech",
-      "excerpt": "Dean Oliver Yao is beginning his first year at the helm of UD's business college with a focus on the seismic shift of fintech",
-      "sourceUrl": null,
-      "webUrl": "https://www.udel.edu/udaily/2023/december/oliver-yao-shares-vision-lerner-fintech/",
-      "originalUrl": "https://www.udel.edu/udaily/2023/december/oliver-yao-shares-vision-lerner-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.udel.edu/content/dam/udelImages/udaily/2023/december/fb-oliver-yao-800x420.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T15:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University of Delaware",
-        "domain": "udel.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-11-20-live-fire-cooking-arrives-in-aventura-with-amalfi-llama.md",
+      "title": "Live-Fire Cooking Arrives in Aventura With Amalfi Llama",
+      "excerpt": "He's referring to his latest venture: the Amalfi Llama, a wood-fire-inspired coastal Italian restaurant set to open next month in Aventura. Since opening his first restaurant in Mexico City in 2007, Gomez and his groups have nearly 60 restaurants to their name across both the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.browardpalmbeach.com/restaurants/the-amalfi-llama-is-coming-to-aventura-16407684",
+      "originalUrl": "https://www.browardpalmbeach.com/restaurants/the-amalfi-llama-is-coming-to-aventura-16407684",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.browardpalmbeach.com/images/air/newsletter-insiders-bpb.png",
+          "width": 438,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Times Broward-Palm Beach",
+        "domain": "browardpalmbeach.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-escaped-llama-safely-corralled-by-opp-after-wandering-onto-gta-highway.md",
       "title": "Escaped llama safely corralled by OPP after wandering onto GTA highway",
       "excerpt": "OPP and MTO were able to safely corral and remove a llama that had wandered into live lanes of traffic on Highway 400.",

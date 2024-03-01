@@ -117,20 +117,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Unlocking Fusion Energy’s Future With Artificial Intelligence"
-    excerpt: "A Princeton-led team has developed an AI model to predict and avert plasma instabilities in fusion reactors, showcasing real-time control improvements and setting the stage for more reliable fusion energy production."
-    publishedDateTime: 2024-02-25T08:17:00Z
-    webUrl: "https://scitechdaily.com/unlocking-fusion-energys-future-with-artificial-intelligence/"
+  - title: "The future of artificial intelligence in trucking"
+    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 37
-    images:
-      - url: "https://scitechdaily.com/images/Nuclear-Fusion-Energy-Reactor-Plasma-Art-Concept-Illustration.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 19
 
 secured: "TFefNp7ri3nm0D8JdYnfheoF7efS1UXvUGW0v8eczvf1bhWYlARqxc1rdd3w40q2VtFeD4aVVsodqznZUS/pTufZ1Q7m448IkMKYZyhygHwGlfTJwjWEx6KFIoo/UUnPxl2j8/jEJmxnjTpU9cFuFCp5a1p5Yi45E7lzisDDci0CWUIpCVG0Oq8Iby+cKTf6Y9YiFpg/zLYo18kff3jEwAzawxXZo4H6zBQ7N0ilPg5XTc/OZvd7pcsydOfmUk3zjkIR+If9PssIU96gv1HHZD3pVMmRdt6i1RuBwRigtNG35kaeiOCgbjSG4ZMnpkzGDkmgampe8SsV6jMd9zQuHqq3Wk/pl26XbiDj7oYM9QWemk3YFctWx2SzQ2RMGPaUYmQwrLlR6hrusw5+/P5LIlBwpFtD3QYZQZKzTdsKbw17JCUatNgW5qW1bkGeEf+N2qVwuwFctI70sVLkyrWJN5Jz0MS1QNEKSYxPgAknefBnS2kD6+Bn/r1Y+aYhskbnXKnVCoPDLfFph1RCdV+YBw==;vw2kA0hoyHLD3XcSOCDPBQ=="
 ---

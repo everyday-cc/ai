@@ -191,6 +191,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mistral AI makes waves with deals across tech giants including Microsoft, IBM"
+    excerpt: "Paris-based startup Mistral AI has cemented itself as a rising star in the artificial intelligence world, landing major partnerships with IBM, Microsoft, and others just one year after its founding. The fledgling company is moving fast to commercialize ..."
+    publishedDateTime: 2024-02-29T12:45:00Z
+    webUrl: "https://venturebeat.com/ai/mistral-ai-makes-waves-with-deals-across-tech-giants-including-microsoft-ibm/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_The_letter_M_pixel_art_set_against_a_backdrop_of_comp_d20af6a7-9ba2-4759-bba8-3c2d7b034c5c-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Microsoft showcases next-generation AI and computing at Nvidia GTC"
     excerpt: "Nvidia GTC takes place March 18 – 21 in San Jose, CA and virtually. In person and on-demand sessions, live discussions and hands-on demos will offer a look at the core Azure AI services and technologies that power some of the world’s largest and most ..."
     publishedDateTime: 2024-02-26T07:30:00Z
@@ -232,20 +246,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1850859244.jpg?quality=85"
         width: 5472
         height: 3648
-        isCached: true
-  - title: "Mistral AI makes waves with deals across tech giants including Microsoft, IBM"
-    excerpt: "Paris-based startup Mistral AI has cemented itself as a rising star in the artificial intelligence world, landing major partnerships with IBM, Microsoft, and others just one year after its founding. The fledgling company is moving fast to commercialize ..."
-    publishedDateTime: 2024-02-29T12:45:00Z
-    webUrl: "https://venturebeat.com/ai/mistral-ai-makes-waves-with-deals-across-tech-giants-including-microsoft-ibm/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_The_letter_M_pixel_art_set_against_a_backdrop_of_comp_d20af6a7-9ba2-4759-bba8-3c2d7b034c5c-transformed.webp?w=1200&strip=all"
-        width: 1200
-        height: 672
         isCached: true
   - title: "Mistral partners with Microsoft, announces new large AI model with chat app"
     excerpt: "In MMLU tests, Mistral Large had an accuracy of 81.2%, sitting behind GPT-4’s, but doing much better than Llama 2 70B and Gemini Pro 1.0."
@@ -838,6 +838,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "AWS, Microsoft, Nvidia lead high-powered AI RAN initiative"
+    excerpt: "A high-powered group of service providers, hyperscalers and telecommunication equipment vendors have formed a new initiative focused on driving the use of artificial intelligence (AI) into the radio access network (RAN) ecosystem. This work will include ..."
+    publishedDateTime: 2024-02-29T11:46:00Z
+    webUrl: "https://www.sdxcentral.com/articles/news/aws-microsoft-nvidia-lead-high-powered-ai-ran-initiative/2024/02/"
+    type: article
+    provider:
+      name: SDxCentral
+      domain: sdxcentral.com
+    quality: 51
   - title: "MWC: Long-lost Metaswitch team at Microsoft, taps AI for call fraud protection"
     excerpt: "Microsoft announced a product that stems from its investment in Metaswitch. The UAE operator e& (formerly known as Etisalat) is now using Microsoft&nbsp | Jason Zander, EVP of strategic missions and tech at Microsoft,"
     publishedDateTime: 2024-02-26T03:00:00Z

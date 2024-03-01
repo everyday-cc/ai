@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2024-01-12-abb-expands-stake-in-next-gen-ai-powered-robotics-with-acquisition-of-sevensense.md",
-      "title": "ABB Expands Stake in Next-Gen AI-Powered Robotics with Acquisition of Sevensense",
-      "excerpt": "Swiss start-up Sevensense's 3D vision navigation technology to boost ABB's AMR portfolio and drive smarter factories and warehouses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.packworld.com/machinery/robotics/news/22883815/abb-abb-acquires-sevensense-to-expand-stake-in-nextgen-aipowered-robotics",
-      "originalUrl": "https://www.packworld.com/machinery/robotics/news/22883815/abb-abb-acquires-sevensense-to-expand-stake-in-nextgen-aipowered-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.packworld.com/files/base/pmmi/all/image/2024/01/ABB_Sevensense.65a0777131390.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 862,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Packaging World",
-        "domain": "packworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-12-ces-2024-older-seniors-are-happily-living-with-aiin-the-form-of-chatty-robot-elliq.md",
       "title": "CES 2024: Older seniors are happily living with AI—in the form of chatty robot ElliQ",
       "excerpt": "But it's probably not the generation that would first come to mind. ElliQ, a voice-operated, AI-enabled care companion robot, is gaining traction with ... This is primarily used to better control the context and flow of the conversation, decide when ...",
@@ -1269,6 +1226,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-04-meet-the-humanoid-robot-that-learns-from-natural-language-mimics-human-emotions.md",
+      "title": "Meet the humanoid robot that learns from natural language, mimics human emotions",
+      "excerpt": "Alter3 is an example of how natural language processing and robotics can work together to create pretty incredible interactions. By using GPT-4, the robot can perform a variety of tasks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions",
+      "originalUrl": "https://www.foxnews.com/tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/1-Meet-Alter3-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions-giving-instructions.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-04T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

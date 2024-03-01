@@ -82,6 +82,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 78
+  - title: "How Nvidia Came to Rule AI"
+    excerpt: "This week we chart the rise of Nvidia, the company whose chips, servers, and data centers have fueled the growth of artificial intelligence."
+    publishedDateTime: 2024-02-29T13:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-634/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/65dfba3e82529b73aa508215/191:100/w_1280,c_limit/Gadget-Lab-Jensen-Huang-Gear-GettyImages-1730512657.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "How a Shifting AI Chip Market Will Shape Nvidia’s Future"
     excerpt: "The technology behind generative AI like ChatGPT has exploded, fueling a demand for chips that can handle the processing power these programs need. WSJ visited Amazon’s chip lab to see how these ..."
     publishedDateTime: 2024-02-25T10:30:00Z
@@ -186,6 +200,24 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Wall Street hunts for more AI gold after Nvidia’s soaring rally"
+    excerpt: "It has also spurred Wall Street to search for other AI-focused companies in hopes of catching outsized moves. Whether investors are looking at the broader chip industry or betting on firms elsewhere in the value chain, they agree on one thing: AI is here ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.reuters.com/technology/wall-street-hunts-more-ai-gold-after-nvidias-soaring-rally-2024-03-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+  - title: "Analysis-Wall Street Hunts for More AI Gold After Nvidia’s Soaring Rally"
+    excerpt: "Shares of Nvidia - whose chips are the gold standard in the AI industry - are up about 60% this year after tripling in 2023. The run has pushed its market value to roughly $2 trillion, making it the third-largest U.S. company by market cap after Microsoft ..."
+    publishedDateTime: 2024-03-01T01:03:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-03-01/analysis-wall-street-hunts-for-more-ai-gold-after-nvidias-soaring-rally"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
   - title: "3 AI Stocks for Your March Must-Buy List (Hint: None Are Nvidia)"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is still the hottest trend in 2024. After"
     publishedDateTime: 2024-02-28T15:37:00Z

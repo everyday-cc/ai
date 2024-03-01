@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Youngstown Board of Control OKs $682,097 self-driving bus"
+    excerpt: "The city’s board of control approved a $682,097 contract to buy a 10-seat self-driving bus that is part of a major downtown improvement project. The board voted 3-0 Thursday to enter into a contract with Transdev Services of Lombard,"
+    publishedDateTime: 2024-03-01T05:48:00Z
+    webUrl: "https://www.vindy.com/news/local-news/2024/03/youngstown-board-of-control-oks-682097-self-driving-bus/"
+    type: article
+    provider:
+      name: The Vindicator
+      domain: vindy.com
+    quality: 4
+
 secured: "cYFr8YbRqNgVdw2efc6vX74uAX4rBXkdxfp025Em5M6kowvjtbRpaKnL/8K5isV6FvpYXp3Q2WDCdKcpkzSgCNFaDRJa0Nebjjfwy9sWvz0T0KKTzTTLLx9lOm3YZ0X6qhGn14Qr+HkgaeHDdho6nVb6CnCx9JgT/IWb1W1fv/M5BHNMcuKBEobGVrCG3tUGEXnyeiKPrCFlu5id12AGqaFVF+kxwIg9it+gwcym+ITeEmr4/wK3rxIRCa9YnBadllCNooUDYV2BuVoNxlES1EQcvq9sXjw+z0eZVLB+ZOOWUAwrVuCs6ogGJfwkrfHcewTh+K+97rmSumJkCMZjpLKIn8wVuef2qQpqDM7hSuo=;o11pulL9VkylJ3uZ/tjqFA=="
 ---
 

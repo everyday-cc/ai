@@ -70,6 +70,15 @@ related:
         width: 550
         height: 364
         isCached: true
+  - title: "HIVE Digital Technologies Tops 2024 TSX Venture 50 in Technology, Leading In Blockchain and AI Infrastructure"
+    excerpt: "This news release constitutes a 'designated news release' for the purposes of the Company's amended and restated prospectus supplement dated"
+    publishedDateTime: 2024-03-01T06:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hive-digital-technologies-tops-2024-tsx-venture-50-in-technology-leading-in-blockchain-and-ai-infrastructure-1033121757"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
   - title: "The future is woven with the threads of AI, Edge & blockchain"
     excerpt: "The future is being redefined by the interwoven threads of Edge computing, blockchain, and AI. In the dynamic landscape of India’s SaaS industry, Sudip Banerjee, CTO, APJ, Zscaler, highlights the promising trajectory of growth."
     publishedDateTime: 2024-02-25T11:37:00Z

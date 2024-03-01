@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Raquel Leviss is suing her 'Vanderpump Rules' co-stars. Here's why"
+    excerpt: "Due to a narrative deliberately fomented by Bravo, Evolution, and the cast, Leviss became an object of public scorn and ridicule ... and the rest of the cast enjoyed unseen levels of public recognition and professional opportunity,” it reads."
+    publishedDateTime: 2024-03-01T02:19:00Z
+    webUrl: "https://www.aol.com/raquel-leviss-suing-her-vanderpump-071907990.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/P2YabdeamHvUtuaaXN0sWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/aol_the_today_show_594/4f4d7b1ee2c66e51b14bc1cab43cc644"
+        width: 1199
+        height: 674
+        isCached: true
 
 secured: "j6COFIdb7uz9kv7hSfccLHikyny7gr5JAIxWYJBp2kLmazcnIPfTFleR1FJpy0ZymBeINGCHULKj6Vg3DSqgCfrrvQKKVZuYlAQVkr5NUlGCCehicxwlyAVxuPltkfL8sglYDsvx7zb8p/+tAWPbSgR6EoI0uslXbJ02KfgSx6Ij6nvM7E8DYPENQSLleLsN2QAGJsveTXslLgjnxzf76zsyfjzHyGbM2CNEUBS82mUw+K/nuxfMTirxEVRdsXEMLh8s/C3GTzOkleBEY/aXBNEq7JI86BHeIMaDWDUZ0Fbse1wn4GZrIKyWTnN/FM4itwEF1RwjC+ALvXG+EwSXuthyJYdbAnF8r/6xaAa3Y6Blx0SKw+KT7kBa1yVRbx+k8USMxqU6kynFqoLyWv7GM5/WBrVr00sHd2u7G69HpXMVylw3do+fE8uPMy2iuSwo2iJsWNXJ1SmsFybcnM7xUAN8sQuPoZrn4dgJ8DbRA7gni+ml2suxIcHU7k/00R0n1rO8zkAhwFcjAixSBNhHrA==;5e5fqBXbsQfBYB1hcOe2bQ=="
 ---

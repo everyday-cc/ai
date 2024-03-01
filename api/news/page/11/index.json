@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2024-02-22-empowerly-secures-15m-for-its-college-counseling-services.md",
+      "title": "Empowerly secures $15M for its college counseling services",
+      "excerpt": "Empowerly, an edtech startup that specializes in college counseling and career guidance services, raised $15 million in a recent funding round led by Edtech startup Empowerly raised $15 million in a recent funding round led by Conductive Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/",
+      "originalUrl": "https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/12/graduate.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/amp/",
+      "publishedDateTime": "2024-02-21T17:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-fox-news-ai-newsletter-lizard-like-robot-could-help-navy-prevent-catastrophes.md",
       "title": "Fox News AI Newsletter: Lizard-like robot could help Navy 'prevent catastrophes'",
       "excerpt": "MILITARY GAME-CHANGER: A lizard-like robot and other devices relying ... DEEPFAKE BATTLE’: An Israeli AI cybersecurity start-up, Clarity, has developed software to detect and protect against ...",
@@ -1194,58 +1246,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-you-can-now-use-your-voice-to-launch-galaxy-ai-features.md",
-      "title": "You can now use your voice to launch Galaxy AI features",
-      "excerpt": "You can activate live translation, summarization functionality ... Bixby’s support for Galaxy AI features is available in all the assistant’s supported languages, including English, Chinese, French, German, Korean, and Spanish.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/",
-      "originalUrl": "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-GalaxyAI-Transcription-Summary.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T07:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

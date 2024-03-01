@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-12-sas-intelligent-planning-suite-now-available-on-aws.md",
+      "title": "SAS Intelligent Planning Suite now available on AWS",
+      "excerpt": "SAS, a global leader in AI and analytics, has launched SAS Intelligent Planning Suite powered by Amazon Web Services (AWS). The",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/sas-intelligent-planning-suite-now-available-on-aws/",
+      "originalUrl": "https://www.datanami.com/this-just-in/sas-intelligent-planning-suite-now-available-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T16:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-brainbox-ai-joins-the-aws-partner-network-to-bring-its-ai-driven-emissions-reduction-technology-to-aws-real-estate-retail-customers.md",
       "title": "BrainBox AI Joins the AWS Partner Network to Bring its AI-driven Emissions Reduction Technology to AWS Real Estate & Retail Customers",
       "excerpt": "\"With AWS at the core of our AI-driven solutions and technology infrastructure, BrainBox AI is honored to join the APN,\" said Jean-Simon Venne, Co-founder and Chief Technology Officer at BrainBox AI.",
@@ -1324,59 +1358,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas.md",
-      "title": "Use Amazon DocumentDB to build no-code machine learning solutions in Amazon SageMaker Canvas",
-      "excerpt": "We are excited to announce the launch of Amazon DocumentDB (with MongoDB compatibility) integration with Amazon SageMaker Canvas, allowing Amazon DocumentDB customers to build and use generative AI and machine learning (ML) solutions without writing code. Amazon DocumentDB is a fully managed native JSON",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/15/documentdb-sagemaker.jpg",
-          "width": 1006,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T17:51:37Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

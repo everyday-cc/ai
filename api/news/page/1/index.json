@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-01-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps.md",
+      "title": "e& UAE to Deploy AWS Amazon Bedrock and SageMaker GenAI Apps",
+      "excerpt": "UAE yesterday announced a partnership with Amazon Web Services (AWS) to deploy advanced generative artificial intelligence (GenAI) technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/35216-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/35216-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/d4e68f72b2c8a639e4dacdec9c9f9f84.jpg?t=20240301_070414",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T07:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-dell-soundhound-ai-and-3-stocks-to-watch-heading-into-friday.md",
+      "title": "Dell, SoundHound AI And 3 Stocks To Watch Heading Into Friday",
+      "excerpt": "With U.S. stock futures trading higher this morning on Friday, some of the stocks that may grab investor focus today are as follows:",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dell-soundhound-ai-and-3-stocks-to-watch-heading-into-friday-1033121837",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dell-soundhound-ai-and-3-stocks-to-watch-heading-into-friday-1033121837",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/03/01/dell_-_logo.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T07:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-googles-ai-first-strategy-brings-vector-support-to-cloud-databases.md",
+      "title": "Google's AI-First Strategy Brings Vector Support To Cloud Databases",
+      "excerpt": "Google’s move towards native support for vector storage in existing databases simplifies building enterprise GenAI applications relying on data stored in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/03/01/googles-ai-first-strategy-brings-vector-support-to-cloud-databases/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/03/01/googles-ai-first-strategy-brings-vector-support-to-cloud-databases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e164c8dc9b212627792945/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/03/01/googles-ai-first-strategy-brings-vector-support-to-cloud-databases/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/03/01/googles-ai-first-strategy-brings-vector-support-to-cloud-databases/amp/",
+      "publishedDateTime": "2024-03-01T05:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-ai-cryptocurrencies-are-the-frontier-to-watch-in-2024.md",
       "title": "AI Cryptocurrencies Are The Frontier To Watch In 2024",
       "excerpt": "Cryptocurrency is the cornerstone for constructing AI systems that engender trust and reliability in their operations, heralding a new era of technological advancement.",
@@ -10,7 +156,7 @@
       "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -113,7 +259,7 @@
       "originalUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -156,7 +302,7 @@
       "originalUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
       "featuredContent": null,
       "highlight": null,
-      "heat": 336,
+      "heat": 368,
       "tags": null,
       "images": [
         {
@@ -333,48 +479,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-artificial-intelligence-stocks-buoyed-by-c3ai-results-soundhound-on-tap.md",
-      "title": "Artificial intelligence stocks buoyed by C3.ai results; SoundHound on tap",
-      "excerpt": "Artificial intelligence-related stocks were largely in the green on Thursday as investors awaited fourth-quarter results from SoundHound AI (SOUN), slated to be",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/4074097-artificial-intelligence-stocks-buoyed-by-c3ai-results-soundhoud-on-tap",
-      "originalUrl": "https://seekingalpha.com/news/4074097-artificial-intelligence-stocks-buoyed-by-c3ai-results-soundhoud-on-tap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561797/image_1464561797.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T19:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1141,112 +1245,6 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-pc-gpu-shipments-increased-20-last-quarter-ai-tipped-to-drive-future-growth.md",
-      "title": "PC GPU shipments increased 20% last quarter, AI tipped to drive future growth",
-      "excerpt": "On a quarterly basis, total PC GPU shipments increased 5.9 percent over Q3, but not all the GPU manufacturers benefited from the growth. While Intel's shipments",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102072-pc-gpu-shipments-increased-20-last-quarter-ai.html",
-      "originalUrl": "https://www.techspot.com/news/102072-pc-gpu-shipments-increased-20-last-quarter-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-29-image.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T12:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-mastering-risk-unleashing-the-power-of-data-and-ai-in-strategic-risk-management.md",
-      "title": "Mastering Risk: Unleashing The Power Of Data And AI In Strategic Risk Management",
-      "excerpt": "Consider Palantir's Foundry or AWS SageMaker; these platforms empower organizations to turn data into actionable insights. An insurance company, for example, could utilize AI-driven risk analytics to assess policyholder behavior and market trends ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/mastering-risk-unleashing-the-power-of-data-and-ai-in-strategic-risk-management/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/mastering-risk-unleashing-the-power-of-data-and-ai-in-strategic-risk-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e5071996eeb1b2554af6bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T12:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
         "IBM AI"
       ]
     }

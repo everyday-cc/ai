@@ -1,32 +1,27 @@
 ---
 category: news
-title: "AI chip startup DeepX nears $90 million in fresh funding"
+title: "AI Chip Startup DeepX Nears $90 Million in Fresh Funding"
 excerpt: "AI chip startup DeepX Co. is close to raising 120 billion won ($90 million) in a funding round to accelerate production and bankroll global expansion, according to people familiar with the matter. The South Korean firm has secured 60 billion won from ..."
-publishedDateTime: 2024-02-26T07:46:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html"
-webUrl: "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-chip-startup-deepx-nears-90-million-in-fresh-funding-12351071.html/amp"
+publishedDateTime: 2024-02-25T23:59:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2024-02-26/ai-chip-startup-deepx-is-close-to-raising-90-million-in-funding"
+webUrl: "https://www.bloomberg.com/news/articles/2024-02-26/ai-chip-startup-deepx-is-close-to-raising-90-million-in-funding"
 type: article
-quality: 76
-heat: 76
-published: true
+quality: 64
+heat: 64
+published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI Hardware
-  - AI in Robotics
+  - AI
 
-images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2023/04/397635018.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "yhktc96XsqGRitwv/uUzYyeG4RAXTejh19CIoDI0CjGAWNCAuAzHGuK9IDNUXHBU4OP9AtDSDYuTk+xK/f2T6MhQj1JBXmW6dgx+2QLmiz/z5j7y+D/Zk9Z3i8stOq0VyeWqX03UJaj5oV96ICcTNBcgKn9bqDD3o49I7pxs2CIO718n0gLKFTZkqSk7A05UILQIRUoDwR35Dj5jGUu7u71eiOabIWGUQX6d05+rta7XLRa4VG15q6YL7Lo+l7YMgeKDDnmgj5BE0X66mKZQ2AaERHqCz9DgBHb18Bk5xCVVawuX9SwZeW6Ekj8Ot5uHzDecPKgckyXqix+OPkvK8hKiSAPhg3EcmkOwej0VcAs=;s1tv+rdVznzSt2kqkipP5w=="
+secured: "oAy2IWYO+yY6ldjXBbvYlZuGwcR0HlEpsA7jrruPSYNA3tpTUekV1W11dxrGHOfLtXhqR0VCdS9a4B1yuctkZPi3YkV06LhCSBPn1h+pOKtvAYUV3Kn/AbNSLAO636BdTV3L6y1+c7DOWE2HqgeJBq2gEDjD5AkSnKYpvie5ofXaEvFnN7YHoYFGinw/a2K/y2AAbH+Rq9yqYihait0+z4c1Fbr0E5Ur6i2p6ilFdXdWjBT7x96nER6rqsLdb0s1DeTSWpZ+KRML3ztaqyFaBhAdBJr0uc+NIZ1Oym7C3mFPqBYM5PTirNByOE2B3XBsAkQcVippLDbut9Z9048b2WK+xcUYMow9ijFvzBJTE9c=;uWuG2LFmQbMeDkMG0ktzhg=="
 ---
 

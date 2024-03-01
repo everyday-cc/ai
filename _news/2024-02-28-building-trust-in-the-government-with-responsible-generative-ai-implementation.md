@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/building-trust-in-the-government-with-res
 webUrl: "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/"
 type: article
 quality: 95
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Generative AI in Litigation"
+    excerpt: "When using generative AI in the litigation process, counsel must ensure compliance with ethical rules while applying their own legal judgment and experience. Counsel should: Consult their jurisdiction’s ethics or professional conduct rules, opinions ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.reuters.com/practical-law-the-journal/litigation/generative-ai-litigation-2024-03-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
   - title: "Measuring brain’s response to different musical genres with artificial intelligence"
     excerpt: "A research team from the University of Malaga (Andalusia, Spain) has analyzed how the brain responds to hearing different musical genres and has"
     publishedDateTime: 2024-02-26T08:48:00Z

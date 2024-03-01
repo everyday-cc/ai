@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "New Haven Public Schools using AI tool to develop five-year plan"
+    excerpt: "Superintendent Madeline Negrón and district leadership presented their progress in developing the strategic operating plan to the Board of Alders on Wednesday. They are surveying community members with the AI program Thought Exchange."
+    publishedDateTime: 2024-03-01T06:31:00Z
+    webUrl: "https://yaledailynews.com/blog/2024/03/01/new-haven-public-schools-using-ai-tool-to-develop-five-year-plan/"
+    type: article
+    provider:
+      name: Yale Daily News
+      domain: yaledailynews.com
+    quality: 19
   - title: "Advocates Voice Concerns As Bill Restricting Hemp Clears Wyoming Senate, Heads To House"
     excerpt: "By cutting through the overload of information in today's market, HW brings its clients unparalleled recognition and brand awareness. HW is where breaking news, insightful content and actionable information converge."
     publishedDateTime: 2024-02-29T14:15:00Z

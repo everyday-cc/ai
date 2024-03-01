@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lightning vs. Devils February 25 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. When the New Jersey Devils meet the Tampa Bay Lightning at Prudential Center on Sunday (the puck drops at 1:00 PM ET), Jack Hughes and Brayden Point will be two of the top players to watch. Nikita Kucherov is an important ..."
-    publishedDateTime: 2024-02-25T06:21:00Z
-    webUrl: "https://www.wtoc.com/sports/betting/2024/02/25/lightning-vs-devils-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WTOC-TV
-      domain: wtoc.com
-    quality: 22
-    images:
-      - url: "https://gray-wtoc-prod.cdn.arcpublishing.com/resizer/v2/UFGLTQM2WRMOTNLIFA72DKZGTI.jpg?auth=decc9684e5ae5ebe86eb05dc246eb69b3dd7ed10fdb5650b0b258b5a48180838&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Ohio State vs. Rutgers March 10 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Ohio State Buckeyes (15-12, 5-11 Big Ten) play a fellow Big Ten squad, the Rutgers Scarlet Knights (14-13, 6-10 Big Ten), on Sunday, March 10, 2024 at Jersey Mike's Arena. The game will tip off at 2:00 PM ET and is ..."
     publishedDateTime: 2024-02-25T23:15:00Z
@@ -77,20 +63,6 @@ related:
     quality: 22
     images:
       - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/WIABIVFRFJKHDAJW6BGVEUOAGQ.jpg?auth=4b5bdddd25d685b49c846930f68689908cf1e39a89ace4cf1c991e603df68e83&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Grambling vs. Alabama State March 9 Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Saturday's SWAC schedule includes the Alabama State Hornets (3-22) against the Grambling Tigers (17-8), at 3:00 PM ET. Watch college basketball, other live sports and more on Fubo! Use our link to sign up for a free trial."
-    publishedDateTime: 2024-02-25T06:52:00Z
-    webUrl: "https://www.ksla.com/sports/betting/2024/03/09/grambling-vs-alabama-state-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KSLA
-      domain: ksla.com
-    quality: 20
-    images:
-      - url: "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/v2/DPXTLIKTXFNFNADRX37XADT5BE.jpg?auth=c46e24d4772c7ffa36c501273d80fe798fe4b38b618f30553056ac16bc309e90&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

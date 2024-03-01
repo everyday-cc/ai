@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Raquel Leviss is suing her 'Vanderpump Rules' co-stars. Here's why"
+    excerpt: "Due to a narrative deliberately fomented by Bravo, Evolution, and the cast, Leviss became an object of public scorn and ridicule ... and the rest of the cast enjoyed unseen levels of public recognition and professional opportunity,” it reads."
+    publishedDateTime: 2024-03-01T02:19:00Z
+    webUrl: "https://www.aol.com/raquel-leviss-suing-her-vanderpump-071907990.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/P2YabdeamHvUtuaaXN0sWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/aol_the_today_show_594/4f4d7b1ee2c66e51b14bc1cab43cc644"
+        width: 1199
+        height: 674
+        isCached: true
   - title: "Scandoval Lawsuit: Rachel Leviss Suing ‘Vanderpump Rules’ Stars Tom Sandoval and Ariana Madix for Revenge Porn"
     excerpt: "The cheating scandal that rocked “Vanderpump Rules” is now being taken to court. Rachel Leviss has filed a lawsuit against Tom Sandoval and Ariana Madix for eavesdropping, revenge porn, invasion of privacy and intentional infliction of emotional distress."
     publishedDateTime: 2024-02-29T20:09:00Z

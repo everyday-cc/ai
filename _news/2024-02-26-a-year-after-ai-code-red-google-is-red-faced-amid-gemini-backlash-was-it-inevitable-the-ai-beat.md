@@ -171,6 +171,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Google's Gemini opens our eyes to who we really are: Guinea pigs for gen AI"
+    excerpt: "Google's new chatbot is not too woke, but too rushed. Rather than waiting for regulation to catch up with constantly evolving technology, it is for tech firms to invest in AI safety and quality."
+    publishedDateTime: 2024-03-01T08:28:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai-11709207534655.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai/amp-11709207534655.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai/amp-11709207534655.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/Gemini-1-0--since-its-release-in-December--is-avai_1708940818688_1709239719726.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "A Litany Of Apologies Over Google’s Gemini AI"
     excerpt: "Alorica, which uses technology to transform customer experience, has a new AI implementation hitting markets today: Real-time Voice Language Translation (ReVoLT). This platform can do real-time audio and voice translation in 75 languages, making it ..."
     publishedDateTime: 2024-02-29T19:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3713023/the-most-popular-neural-ne
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 93
 published: true
 
 provider:

@@ -81,6 +81,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Will Students Benefit From Facial Recognition? No."
+    excerpt: "The headline of the lead article in the Feb. 27, 2024, edition of Inside Higher Ed says, “Facial Recognition Heads to Class. Will Students Benefit?” I have an answer to the question posed at the end: no. No, facial recognition will not benefit students."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/just-visiting/2024/02/29/surveillance-tech-has-no-place-classroom"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "V3z/L4+JwiyL0zU27SP3BDSleQOl9KwVddwUu68Yj2BydAua3Y42qC3SPoTzd3ERzM7p707+4z+eHvPgbw2LnPxYqLO48B22KVVU44P4HDXyF4UYzJGaia4AWcnhM1dxqK9meusnmVcyLdafEM8xZjAKYteW65UuSKCKrdcvveAGZR93VDZT1nZ09+mRDmeGuEMpgQSjMOsKLC4ZwoRa26xs/3HfmL1hAgFytme/oShj2RHYQB3Ae519Mz7wg9zDNOZtufufCclUZAElYteoSNZOcoX6nlnlJzQ8JzpmlEuf9j7WOaljh/R4yRs/5gOnyMbmKxYyF5tZDi/jyjIciS1djpQ3w6IOlos7bmoupNKhXuEYekM7yx5FXcMgm5d8fG6hX08VcbrjqD9KcGtOJC6X4pRUXyKL1U8/f1iMwxeabUa78TKuBAiEHAVlpIKlSKAdrOCpWnW8Zl9/NAqrqLyoUTGtv2yoQdOQ3c5BvQDFmdpDBeX9bjywtYKufOiEXHOTwTi2BK6AIsNGrtS85Q==;MwEUSgzml85DIClw/jC2BQ=="
 ---

@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Dell, SoundHound AI And 3 Stocks To Watch Heading Into Friday"
+    excerpt: "With U.S. stock futures trading higher this morning on Friday, some of the stocks that may grab investor focus today are as follows:"
+    publishedDateTime: 2024-03-01T07:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dell-soundhound-ai-and-3-stocks-to-watch-heading-into-friday-1033121837"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/03/01/dell_-_logo.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Artificial intelligence stocks buoyed by C3.ai results; SoundHound on tap"
     excerpt: "Artificial intelligence-related stocks were largely in the green on Thursday as investors awaited fourth-quarter results from SoundHound AI (SOUN), slated to be"
     publishedDateTime: 2024-02-29T19:01:00Z
@@ -45,15 +59,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Dell's Results Boosted by Demand for AI-Optimized Servers"
-    excerpt: "Dell Technologies reported a double-digit increase in adjusted net income for the fourth quarter as demand for its AI-optimized servers heated up. The PC-maker on Thursday said its bottom line, adjusted for one-time items,"
-    publishedDateTime: 2024-02-29T21:07:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-02-29-2024/card/dell-s-results-boosted-by-demand-for-ai-optimized-servers-CPzlbsGLImdubJRwVXha?mod=lctimeline_finance"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "SoundHound AI Stock Up 176% YTD, Boosted By Nvidia, SoftBank, And 3 Other Key Catalysts"
     excerpt: "SoundHound AI (SOUN) up 18% in pre-market trading due to recent events, including Nvidia's investment. Known for voice-enabled AI and music recognition technology."
     publishedDateTime: 2024-02-27T14:14:00Z

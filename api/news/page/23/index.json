@@ -2,6 +2,92 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2024-02-14-san-mateo-county-wants-to-keep-driverless-cars-away-for-now.md",
+      "title": "San Mateo County wants to keep driverless cars away for now",
+      "excerpt": "Those who follow the driverless car business said there is also likely some public backlash as machines and artificial intelligence make a deeper move into our lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcbayarea.com/news/local/peninsula/san-mateo-county-driverless-vehicles/3452602/",
+      "originalUrl": "https://www.nbcbayarea.com/news/local/peninsula/san-mateo-county-driverless-vehicles/3452602/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcbayarea.com/2024/02/smc-driverless-0213.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcbayarea.com/news/local/peninsula/san-mateo-county-driverless-vehicles/3452602/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/peninsula/san-mateo-county-driverless-vehicles/3452602/?amp=1",
+      "publishedDateTime": "2024-02-13T17:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Bay Area",
+        "domain": "nbcbayarea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-graduates-land-top-financial-tech-jobs-through-a-unique-program-at-the-university-of-delaware.md",
+      "title": "Graduates Land Top Financial Tech Jobs Through a Unique Program at the University of Delaware",
+      "excerpt": "The rise of ChatGPT and other GenAI platforms has caused a major disruption in the education sector. While GenAI technology offers incredible promise for",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2024/02/13/unique-program-at-the-university-of-delaware-lands-top-financial-jobs-for-graduates/",
+      "originalUrl": "https://www.datanami.com/2024/02/13/unique-program-at-the-university-of-delaware-lands-top-financial-jobs-for-graduates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2017/05/graduates_Shutterstock_Syda-Productions.jpg",
+          "width": 1000,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T17:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-georgia-bill-aims-to-restrict-ai-in-healthcare.md",
       "title": "Georgia bill aims to restrict AI in healthcare",
       "excerpt": "House Bill 887 was introduced to the Georgia House of Representatives by Rep. Mandisha Ann-Marie Thomas to: The bill states insurers cannot use just AI tools for coverage decisions, and any decision made with AI or automation tools should be \"meaningfully reviewed\" by a knowledgeable person who can override the AI's decision.",
@@ -1114,101 +1200,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice.md",
-      "title": "Don't tell your AI anything personal, Google warns in new Gemini privacy notice",
-      "excerpt": "AI apps like Gemini come with a risk, which Google's new privacy warning illustrates perfectly. Here's the information Google is collecting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
-      "originalUrl": "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5a403441036ea3857a6a84f1c6db005438ecbf9f/2024/02/08/52d7fe00-8b52-4e52-9214-96dd0222cb60/gemini.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
-      "publishedDateTime": "2024-02-13T09:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-online-content-moderation-tools-market-booming-with-top-key-players-executing-different-strategies-and-plans.md",
-      "title": "Online Content Moderation Tools Market Booming With Top Key Players Executing Different Strategies And Plans",
-      "excerpt": "Our report delivers an in-depth grasp of market dynamics, empowering businesses to make informed decisions and tap into fresh opportunities. Additionally, through Porter’s Five Forces Analysis, the report sheds light on the competitive terrain, enabling market participants to discern diverse competitive scenarios and strategize accordingly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.opprairie.com/news/online-content-moderation-tools-market-booming-with-top-key-players-executing-different-strategies-and-plans/47078/",
-      "originalUrl": "https://www.opprairie.com/news/online-content-moderation-tools-market-booming-with-top-key-players-executing-different-strategies-and-plans/47078/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.opprairie.com/wp-content/uploads/2024/02/Space-based-Nuclear-Weapon.png",
-          "width": 563,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T09:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Orland Park Prairie",
-        "domain": "opprairie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -33,6 +33,15 @@ images:
     isCached: true
 
 related:
+  - title: "Latest ChatGPT lawsuits highlight backup legal theory against AI platforms"
+    excerpt: "In the plethora of copyright lawsuits against artificial intelligence developers, a pair of complaints filed on Wednesday against OpenAI and related defendants stands out."
+    publishedDateTime: 2024-02-29T21:20:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/column-latest-chatgpt-lawsuits-highlight-backup-legal-theory-against-ai-2024-02-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 62
   - title: "Apple Introduces ChatGPT Like Tool – Ask AI; Here’s What It Can Do"
     excerpt: "After a long-time secrecy on Artificial Intelligence, Apple's new 'Ask AI', which resembles OpenAI's ChatGPT. Here are all its features."
     publishedDateTime: 2024-02-25T09:30:00Z

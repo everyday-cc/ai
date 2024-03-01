@@ -77,6 +77,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "HIVE Digital Technologies Tops 2024 TSX Venture 50 in Technology, Leading In Blockchain and AI Infrastructure"
+    excerpt: "This news release constitutes a 'designated news release' for the purposes of the Company's amended and restated prospectus supplement dated"
+    publishedDateTime: 2024-03-01T06:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hive-digital-technologies-tops-2024-tsx-venture-50-in-technology-leading-in-blockchain-and-ai-infrastructure-1033121757"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
 
 secured: "pDc1I//zWv4xLe3CTiX9pukuyoBq++sPwK23GaLVOaglKZ/u2B/V2NIkCKMC6EKwJgZSNcJbxLsLeqF9G0G7g/0ngZlltpsbhJl9nlxbiagVox1YjpoOOFzOfxvXCZ2NhO0JJltHflNnqTBlH3LEoDi1QRdpPe7kEOsnaRT0fNFZ/llwBjqgxXJmD/iGt3J8GHLwe4Loftuvm1+wgszWWdCzAq6WF1hXHWCq4a1oL9bn2z91igx30OEP2iEznVpwesqLb3rFmig6c64lpZKMnYzC17hrcXmiHJhs9WIUBr7nkZX2eoekjhndwLU/b0K82rG8OBtHa7bDl0jMgSjB601e8SKbZs6/OohW9GgTylGU62wk4GwlLuEAbl+U57eZTnNwzA2+ohAqCmzTnSEkBr4r6okptyLfj7McARME/GMeqyc9z8Wcn1s5TxS3VLsWNWBbZ9MB/xIuAfScD0B6Us3kx865X80N752RoXK7sEK6FpVEFViUHTjc3LyM4y9awqJsiSBMm1EVrQun8Qo4/w==;DQEuvSs5mPJUxQeMA/1QKA=="
 ---

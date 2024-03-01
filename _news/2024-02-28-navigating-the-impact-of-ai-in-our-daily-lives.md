@@ -110,20 +110,15 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Unlocking Fusion Energy’s Future With Artificial Intelligence"
-    excerpt: "A Princeton-led team has developed an AI model to predict and avert plasma instabilities in fusion reactors, showcasing real-time control improvements and setting the stage for more reliable fusion energy production."
-    publishedDateTime: 2024-02-25T08:17:00Z
-    webUrl: "https://scitechdaily.com/unlocking-fusion-energys-future-with-artificial-intelligence/"
+  - title: "The future of artificial intelligence in trucking"
+    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 37
-    images:
-      - url: "https://scitechdaily.com/images/Nuclear-Fusion-Energy-Reactor-Plasma-Art-Concept-Illustration.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 19
   - title: "How Will Artificial Intelligence Impact Jobs? A Labor Economist Weighs In"
     excerpt: "Investing in advanced AI capabilities and complementary infrastructure can steer labor market effects in a positive direction."
     publishedDateTime: 2024-02-27T20:32:00Z

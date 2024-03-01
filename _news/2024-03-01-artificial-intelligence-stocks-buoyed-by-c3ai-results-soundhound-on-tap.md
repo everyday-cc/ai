@@ -7,8 +7,8 @@ originalUrl: "https://seekingalpha.com/news/4074097-artificial-intelligence-stoc
 webUrl: "https://seekingalpha.com/news/4074097-artificial-intelligence-stocks-buoyed-by-c3ai-results-soundhoud-on-tap"
 type: article
 quality: 51
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Seeking Alpha
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dell, SoundHound AI And 3 Stocks To Watch Heading Into Friday"
+    excerpt: "With U.S. stock futures trading higher this morning on Friday, some of the stocks that may grab investor focus today are as follows:"
+    publishedDateTime: 2024-03-01T07:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dell-soundhound-ai-and-3-stocks-to-watch-heading-into-friday-1033121837"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/03/01/dell_-_logo.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "3 AI Stocks Bound to Make it Big in 2024"
     excerpt: "The tech company carved a niche for itself in the industry and has always had an edge in the sector. It is working on providing AI chips. In fact, several organizations — including Microsoft (NASDAQ:MSFT) — are using AMD chips. Nvidia can’t meet the ..."
     publishedDateTime: 2024-02-27T15:54:00Z
@@ -41,15 +55,6 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
-  - title: "Dell's Results Boosted by Demand for AI-Optimized Servers"
-    excerpt: "Dell Technologies reported a double-digit increase in adjusted net income for the fourth quarter as demand for its AI-optimized servers heated up. The PC-maker on Thursday said its bottom line, adjusted for one-time items,"
-    publishedDateTime: 2024-02-29T21:07:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-02-29-2024/card/dell-s-results-boosted-by-demand-for-ai-optimized-servers-CPzlbsGLImdubJRwVXha?mod=lctimeline_finance"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
     quality: 47
   - title: "SoundHound AI Stock Up 176% YTD, Boosted By Nvidia, SoftBank, And 3 Other Key Catalysts"
     excerpt: "SoundHound AI (SOUN) up 18% in pre-market trading due to recent events, including Nvidia's investment. Known for voice-enabled AI and music recognition technology."

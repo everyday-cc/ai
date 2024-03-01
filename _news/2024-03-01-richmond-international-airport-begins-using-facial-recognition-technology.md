@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wric.com/news/local-news/henrico-county/richmond-interna
 cdnAmpWebUrl: "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://globalnews.ca/wp-content/uploads/2024/02/20240227150220-65de4451cf8eb72713cd07a5jpeg.jpg?quality=85&#038;strip=all"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Will Students Benefit From Facial Recognition? No."
+    excerpt: "The headline of the lead article in the Feb. 27, 2024, edition of Inside Higher Ed says, “Facial Recognition Heads to Class. Will Students Benefit?” I have an answer to the question posed at the end: no. No, facial recognition will not benefit students."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/just-visiting/2024/02/29/surveillance-tech-has-no-place-classroom"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Growing number of US airports use biometric facial recognition"
     excerpt: "Spokeo looked at which airports are using facial recognition software for security screenings, according to Customs and Border Protection."

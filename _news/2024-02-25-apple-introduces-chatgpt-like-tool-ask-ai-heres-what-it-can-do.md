@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Latest ChatGPT lawsuits highlight backup legal theory against AI platforms"
+    excerpt: "In the plethora of copyright lawsuits against artificial intelligence developers, a pair of complaints filed on Wednesday against OpenAI and related defendants stands out."
+    publishedDateTime: 2024-02-29T21:20:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/column-latest-chatgpt-lawsuits-highlight-backup-legal-theory-against-ai-2024-02-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 62
   - title: "Is ChatGPT making scientists hyper-productive? The highs and lows of using AI"
     excerpt: "About 55% of the respondents to the Nature survey felt that a major benefit of generative AI is its ability to edit and translate writing for researchers whose first language is not English. Similarly, in a poll by the European Research Council (ERC ..."
     publishedDateTime: 2024-02-28T00:00:00Z
