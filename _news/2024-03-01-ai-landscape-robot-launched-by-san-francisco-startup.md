@@ -7,7 +7,7 @@ originalUrl: "https://www.greenindustrypros.com/business-management/software/art
 webUrl: "https://www.greenindustrypros.com/business-management/software/article/22888659/electric-sheep-ai-landscape-robot-launched-by-san-francisco-startup"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 633
     isCached: true
+
+related:
+  - title: "Global fintech Airwallex expands Americas HQ, plans hiring in San Francisco"
+    excerpt: "After arriving in San Francisco in 2021, Airwallex is moving from WeWork offices to more permanent space in the city for its Americas HQ."
+    publishedDateTime: 2024-03-01T21:07:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2024/03/01/airwallex-americas-headquarters-san-francisco.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "ilGKFN2EAWtzfl2yEhdnh30SyMlt82iv+T3BVCl2oq+ckSSj91ZZST2TPO7BClQrwSZXfGsiuBWP7rf7v3OQFDytvrdG+qib/ov4fnzqcc4YV0BcRaMGe+7zym/xlbAsxoQl6A+Vcj7dob3jXqpyaECD6rrfVNcgLp2SM/NwOCqG51YTAEPjHMtbhmqiJ4h7brWcJKcBtVc8TYnyP6SxKXuLhANZmvtu6h1+qaNVMh8lcKSiLtau0jZDL/pimNjPCnkwoi4/GEXlsvqm1riWzp1awwwEFIzaQGbunKeNrGwqcy5GEIvu83PVNDUzea9J7bFIkummeVpbNJfliVkT5MnKhyLkR4PkBdZ/yRwGTsDFedVJc7Q/TqP2TAZRBOVYdI2Z/pJqoWBj1MdofGbSt4mgFgKKgqjrlFcICAMMWFkN1ktf9rVHb5FO4xkzYbaN4l1nPlnp+PXju9WH5+mYDW9x1hVOE8ywoShKEALG0q4I0Ig3NfVnN2dReutP8CyyZHsxCGxkjzs/LbYdU+3NdQ==;QtSm1X/2M47AGBP9+I0Smw=="
 ---

@@ -117,6 +117,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Dell says on-prem is the future of AI"
+    excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
+    publishedDateTime: 2024-03-01T21:24:00Z
+    webUrl: "https://www.ciodive.com/news/dell-ai-pc-servers-on-prem-refresh-cycle/709100/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
   - title: "The future of artificial intelligence in trucking"
     excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
     publishedDateTime: 2024-03-01T00:00:00Z

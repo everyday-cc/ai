@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Silicon Valley humanoid robot-maker partners with OpenAI and gets backing from Jeff Bezos and tech giants"
-excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-publishedDateTime: 2024-03-01T07:25:00Z
-originalUrl: "https://www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
-webUrl: "https://www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
-ampWebUrl: "https://www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+excerpt: "Sunnyvale -based Figure announced the partnership along with $675 million in venture capital funding from a group that includes Amazon founder Jeff Bezos as well as Microsoft, chipmaker Nvidia and"
+publishedDateTime: 2024-03-01T15:06:00Z
+originalUrl: "https://www.siliconvalley.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
+webUrl: "https://www.siliconvalley.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
+ampWebUrl: "https://www.siliconvalley.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Silicon Valley
+  domain: siliconvalley.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.eastbaytimes.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
+  - url: "https://www.siliconvalley.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
     width: 1024
     height: 682
     isCached: true
@@ -139,6 +139,15 @@ related:
     provider:
       name: BBC
       domain: bbc.com
+    quality: 79
+  - title: "$675 Million For Humanoid ChatGPT Robot, Ideogram Gen AI Raises $80 Million"
+    excerpt: "Ideogram Text-to-Image Midjourney competitor Raises $80 M. This values the company well north of $1 Billion. Andressen Horowitz led the round. Ideogram 1.0 has an amazingly effective feature called Magic Prompt, which created the image above."
+    publishedDateTime: 2024-03-01T18:27:00Z
+    webUrl: "https://www.forbes.com/sites/charliefink/2024/03/01/675-million-for-humanoid-chatgpt-robot-ideogram-gen-ai-raises-80-million/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 79
   - title: "ChatGPT creator OpenAI to put AI into humanoid robots"
     excerpt: "OpenAI, the creator of ChatGPT, is putting its artificial intelligence systems into humanoid robots. The deal, with robotics startup Figure, will allow its AI models to inhabit the physical world for the first time. California-based Figure announced the ..."
@@ -262,14 +271,14 @@ related:
   - title: "Humanoid robot-maker Figure partners with OpenAI"
     excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
     publishedDateTime: 2024-02-29T22:30:00Z
-    webUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
+    webUrl: "https://madison.com/news/nation-world/science-technology-artificial-intelligence-robotics-bezos/article_acfdce56-8e89-5ce0-abea-f0ca26820aa0.html"
     type: article
     provider:
-      name: wacotrib
-      domain: wacotrib.com
+      name: Madison.com
+      domain: madison.com
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/6/f4/6f4165a2-aaf3-519e-8386-e4b92a995101/65e10329eddb8.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/cf/acfdce56-8e89-5ce0-abea-f0ca26820aa0/65e1032714789.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -342,6 +351,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "Bjt7op8JlYL+YC9P0YKSYr7L4Wibt955+upYWC1t/xLA7dbyXrozqFyWBR/QNRhkc2+HFuKsDTd+hwrvebNzpV5pC0t0wOlxIWzJnx9RAe9WHqjEcpM5iFSrbXbs4Cvvyxf12/cc9C/mCq1yoOyx/VdepKHy364ZNYtC/NHippXv/7C1+oHg2fYbAuxdtVB03QLyyFHs1tXVVoZ+Nx5jfFgKWeA8h1ZSCS8qOEKNYouQmwa6KX/FDuTJPMlSMmQG1hgbsnjQuNXhrBt7PhYfl8cIRdY5jeQaPOq7DNAphIFcMfMOTR081SeHcLDSZU67FAVuUEcL7Q8sKEJFNO09VPTeW670WzaJJ4w+O87YG2AaYGvm2vY5HBY0rBA3kACZ0m+6ziTDVSmp4nWvpDDJv5YnXCYTHPtM42taCmmNtaFyH+oSVG42HTMOYNISjySKZQ4dOS0TWqFvQGjbWnzkQ0//5feOS7JYx/3yUzqs/rmrvwQKCDXPGSpthl43n2umJ/cmbeAAWsqNrFc+7NYeXg==;Qh4iwIq4PKt6X3AHFdHLBQ=="
+secured: "9vTOVCHyDBgV8Jgj7l+c6SGouHuzAK6zSET6y4JEypeaTR8hZpadJ31gZjxKJQ8yjgh+Ks9KsP5YG4Fe7RpVzi2HlJ0mp7mhR6DtQg0laouvIaQsz80Q/cUi+fB/q6etysaC02HSQPsCnXuVXtAl+Aj1aFnIn28g0OsDU68d8G/leMCIQCY6jrHe1UXvAkfZzqqmqPHkW4v6DpZ1RZZiheeYpXVCTbN9tUXpAblO+ZgoZDUvuF/GDOuIuF0igWWNs350IhuUIW0zOSf3WILRmYF12om/C7uTemtHi30aV+ySv6nFjoLzj/CiMeSAhygSurFcgA/br0yE2cE3dmhJVTwXwf/DlOoUvQ0dF8kRlIc=;yDZUPXXcid6+2qXCcNA33Q=="
 ---
 

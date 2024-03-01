@@ -37,6 +37,20 @@ related:
         width: 1121
         height: 630
         isCached: true
+  - title: "Knowledge Bases for Amazon Bedrock now supports hybrid search"
+    excerpt: "At AWS re:Invent 2023, we announced the general availability of Knowledge Bases for Amazon Bedrock. With a knowledge base, you can securely connect foundation models (FMs) in Amazon Bedrock to your company data for fully managed Retrieval Augmented Generation (RAG). In a previous post, we described how"
+    publishedDateTime: 2024-03-01T22:29:55Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/01/knowledge-bases-for-bedrock-hybrid-search-1117x630.jpg"
+        width: 1117
+        height: 630
+        isCached: true
 
 secured: "Dyyk5vkYCBMC0lodm0BgJs2XTW7un3aQJujVNEf0ME/Rw5TXoNjFf75kj/V0EtbRl7davewxmXJaeEOEaEi7sp9LsRM1hAawNp4TeyexIP8Vl00AX2nqA87+BPWFo81NtG75PDOBs2LX1pDGlnTcpgkGleQuf5BIqEKj3bLtPreAnbMwPiysfrfWs89YqYZ3pe8jYKBnfDfz++8+11USyQ1m4G/wJUL6tTO340Hbway+tisgVm7gNQCWGLkbTlpHpvpMKMscHfyvkrqzU7XfQOWqmdevCDh4/O+YMeAg9UOKz8ovPCXUkbjj6iRgsVA/aJBW0Q7A5C7+WWtNj8sCzIFjp48Fn5pZCXNfUPivgWg=;QJttasaGq93l2+WHUWYAgA=="
 ---

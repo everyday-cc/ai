@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tech Jumps as AI Rally Resumes -- Tech Roundup"
+    excerpt: "Shares of technology companies rose as an artificial-intelligence rally gathered momentum. The Nasdaq Composite built on a closing record high"
+    publishedDateTime: 2024-03-01T21:44:00Z
+    webUrl: "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cki89RZHTw3PpvpMwspfPXprhq9a8ywH1xz70zPT5FW+23puHIDpkAJzDGV2l1eXHv+jvdhipoU9aPxvUiW4FwjEbsOgGYMImjOL+3GJWnKY+lNKMUYkWzDkyLn533hTOP9LDGXL+JfzByGQXDg56BPDwTYqnpJDlqg3o8ynHlTrWHQPtcik1xf38EVjfPxjXpLQicAG9MbY1GgfIUKCRpxZnoSXlTy3r//kDiOsW4Hux45x82+3FcXHWvdcUNygHOAhxFA3i//nSm+br5FC15XgjB296Ap/n1dbOZfvWzwOV72uyXaRbwPHyAt25Tg19gtzjvhoheFoBfn3qJA8Wn/Gl/lvcO5wXdW+pModbeoImZEFvZ9bOyjaX5ugCd8twMZ9Kit9BmcAJIlLTq2CGf8miKDCJGNKTS2BvfBu813QTyNhdjuK/uiQ6CQ5GeN4T+zE1sxIHNjPltWPZM6q4iOYojSMossszk6xAEcrmdOZW5AAwsBNOc5+Irt8V6HTWeq8B2uXDfEAtx5LD/lhFQ==;fHWzT1r/zFC6EpIRtFyUUQ=="
 ---

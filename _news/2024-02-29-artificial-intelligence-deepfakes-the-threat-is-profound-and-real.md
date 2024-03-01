@@ -7,7 +7,7 @@ originalUrl: "https://www.berkshireeagle.com/opinion/columnists/destructive-deep
 webUrl: "https://www.berkshireeagle.com/opinion/columnists/destructive-deepfake-artificial-intelligence-abuses-threaten-already-fragile-national-well-being/article_bc9161ba-d656-11ee-9ee1-672531e9657d.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "UK’s enemies could use AI deepfakes to try to rig election, says James Cleverly"
-    excerpt: "Home secretary, who is due to meet US tech bosses, says states such as Russia and Iran could target other countries as well"
-    publishedDateTime: 2024-02-25T21:46:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2024/feb/25/uks-enemies-could-use-ai-deepfakes-to-try-to-rig-election-says-james-cleverly"
-    ampWebUrl: "https://amp.theguardian.com/uk-news/2024/feb/25/uks-enemies-could-use-ai-deepfakes-to-try-to-rig-election-says-james-cleverly"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2024/feb/25/uks-enemies-could-use-ai-deepfakes-to-try-to-rig-election-says-james-cleverly"
+  - title: "How real is the existential threat from AI?"
+    excerpt: "Terminator-style threats from AI do not currently exist, so why is money and political heft being thrown at a problem that isn't real?"
+    publishedDateTime: 2024-02-29T18:05:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m001xdg5"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
     images:
-      - url: "https://i.guim.co.uk/img/media/cd7e8356ab471ae12656d3a60e031735ee8f597d/0_0_3956_2374/master/3956.jpg?width=620&quality=85&auto=format&fit=max&s=53663c069d7c37519d48e358cc4cb243"
-        width: 620
-        height: 372
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0d2xj11.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "0iipht3ra/w+1ef7YjEkefsxSR6b763rR1rUoPf2xOPTrNwjRiR+BqQxLoqFKsfz6t+d70DD/2iIWHbpb1r2zWvmcC7giIDz5U6yj28TZCcGqLPNSZSNe2N1xcDXGLKVhL97e6SQEZtw/nLJYdasLdtbwZ1jqNVx+nL78n+MNSFByBMY+L+z65AvVXX8jj9OMBqJDzk782dM06AUSX8ip5U30aIQbuLEaRjmKx7laTImk37lOgd7+BLzqww291AGNteimlRSJ8HS5zygut96SBgSaRroQh2HbkjovVIOGmlInchKcDwsRu2dLLI4jEUZTFws0WwAV8yK6QKi/f6zMse1QHWNN3NjD1Z5Ki4zbFc=;N3Bokvxj1IUVhp8ef1vmsQ=="

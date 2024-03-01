@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Healthcare Compliance Enforcement Trends to Watch in 2024"
+    excerpt: "firms’ ownership structures New regulations addressing the use of artificial intelligence in healthcare In short, 2024 promises to be an especially busy year for chief compliance officers, chief risk officers, and their counsel across many sectors and ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/healthcare-compliance-enforcement-3715041/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15118_1308.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "jiUAwkdoDID4jdOqOBV/hpYFifYDtxVfG7OJIhc9lV07UCndvoaDhB1apumCsqTvKV7y4OaNEbZEW1Ra+0nVV8VyOJAazUgpp4nQ3fuYBqYd0xNDpGssxbRIdF/93EbljjD1GXZ7JaG5NKms4xuzhR30fs3cfyIC0uBtWSpzbej457vCU4Jz2GNEntYtGyxpF7sufSO1vv3YlaHczhZ0PR3+vUSQ23u+YXwvbUmeqeTKmJC3X35uMF0JOCG/T2v0kzgahh9dOH0H0JqhfxsZo+bIyZGypfFUzOTj9ubDCKiddcwvCiRyjJ0DgQxs+RCKumIrKhCCUruyjK0Qjs5qehxvGuHzLJX3hjn5yC8YB2A=;FPx0dEE1XO/9mlt7xN8dog=="
 ---

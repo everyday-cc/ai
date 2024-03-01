@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Is there anything AI can’t do?"
+    excerpt: "The truly mind-boggling thing is how early we are in our journey with AI. The current-generation technology is the ... have thrown $10 million at the venture, proving once again that in the tech world, ethics can be as flexible as your funding is solid."
+    publishedDateTime: 2024-03-01T20:05:00Z
+    webUrl: "https://techcrunch.com/2024/03/01/is-there-anything-ai-cant-do/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
 
 secured: "lbhcqlbOBOj4YUVNn9TYt/05OWDd5GSEDy8zjEH2mlyfE4yDvNOypyHEuNq9euhQagb6aerNOuQhFIGYsr/9gnJzkga8eCMb+BkP7EB1HethAYegg7X7oPyzrXkWUlnUkVs6Gs7q40IUALRtNIT1Un2/3GnA4XrLMj+7kCmVvwIzodiLYjm5bpjLLBaBV2XjocaGHU4swyvZpK4J+uQtyAcjCI76+4aQmuHefp8F7sgyJFnLXc6hBaoc0dbtfDSiVxV5lu3DJeo5u3juePBsdhxoQPDXlLPBL1ra6fMGfWmd99DHoeD/Zg8HVsjyG+gUYmRyxoopVpSn/+p6cl4kEIMelL0EOAzgIx0zLNu1BlGN8cYK9K47wvGdFY3ONGWuEF9hjGSVI371GsE5J0NUv/+Ya6Ptn6E2u3If8ulyqiYoc4rei2FdPBHqOXqIeeRj7SX9q+gGSBO9O0vJlgmSw7nnR9gGCw1JMiDpElKCyAwWQJGbzPNW1F81DfjwpKN29uihIm/2cgq8REuKYgYc1A==;jUJC1FPutp2batnGJMQlPw=="
 ---

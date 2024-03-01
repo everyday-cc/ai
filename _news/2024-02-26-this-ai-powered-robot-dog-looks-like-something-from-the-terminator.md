@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/?amp"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
       name: Philippine Daily Inquirer
       domain: inquirer.net
     quality: 52
+  - title: "Is there anything AI can’t do?"
+    excerpt: "The truly mind-boggling thing is how early we are in our journey with AI. The current-generation technology is the ... have thrown $10 million at the venture, proving once again that in the tech world, ethics can be as flexible as your funding is solid."
+    publishedDateTime: 2024-03-01T20:05:00Z
+    webUrl: "https://techcrunch.com/2024/03/01/is-there-anything-ai-cant-do/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
 
 secured: "107G8J8hHGBlUREPtccybNp5hr1eXIdOHV0W08AzWdZxLe9ZUMBqTXyHMzpEbOeyKmKsXhGKEpJ5Y2l7bXzL00HQ5k+BNLNa5wsRsI+Uw3zmOuM0++dgz50AGF7KY2iSCeaH0u0l8hDq4feRxueBaTAkKkKkN8vklGLYWXx6FqFG7G+55e9eIGb7jNWp+j3+GWuSZuZiIdkptDmW+ciNpRmWSIyh3m5vdIrR4nzr3otpvjyAMGFlBtfSN0oBM92fvE22ww+WJL9SHxT7t5sKFJ08+reOUVQI2g0irYxWZoOhIoWuIVAamKYEGiHc70hzwlecZezKRv2zZ60gZ2mQ3//qS96lusnsSWgXrSL912o=;RSN7933k+SPjYahqfIybBA=="
 ---

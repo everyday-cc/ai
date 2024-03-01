@@ -91,15 +91,6 @@ related:
         width: 260
         height: 260
         isCached: true
-  - title: "Companies Need To Get Onboard The Generative AI Train"
-    excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
-    publishedDateTime: 2024-02-25T19:21:00Z
-    webUrl: "https://www.forbes.com/sites/sylvainduranton/2024/02/25/companies-need-to-get-onboard-the-generative-ai-train/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Why The Generative AI Stock Bubble Is Not Poised To Pop"
     excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
     publishedDateTime: 2024-03-01T13:45:00Z

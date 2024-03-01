@@ -34,20 +34,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 92
-  - title: "AI startup 'Figure AI' scores $675M from Bezos, Nvidia, and others to advance humanoid robots"
-    excerpt: "Figure AI develops human-like robots powered by artificial intelligence. It raised around $675 million in a recent funding round, with Amazon founder Jeff Bezos and Nvidia"
-    publishedDateTime: 2024-02-25T19:56:00Z
-    webUrl: "https://www.techspot.com/news/102017-ai-startup-figure-ai-scores-675m-bezos-nvidia.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 75
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-25-image-3.jpg"
-        width: 2000
-        height: 1001
-        isCached: true
   - title: "Bezos, Nvidia Join $675 Million Funding Round for a Startup Making Humanoid AI-Powered Robots"
     excerpt: "With a billionaire backing the project, it sounds more like a Hollywood pitch deck than real life. But it is real."
     publishedDateTime: 2024-02-26T18:52:00Z

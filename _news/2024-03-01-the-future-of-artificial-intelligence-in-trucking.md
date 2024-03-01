@@ -118,6 +118,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Dell says on-prem is the future of AI"
+    excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
+    publishedDateTime: 2024-03-01T21:24:00Z
+    webUrl: "https://www.ciodive.com/news/dell-ai-pc-servers-on-prem-refresh-cycle/709100/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
   - title: "How Will Artificial Intelligence Impact Jobs? A Labor Economist Weighs In"
     excerpt: "Investing in advanced AI capabilities and complementary infrastructure can steer labor market effects in a positive direction."
     publishedDateTime: 2024-02-27T20:32:00Z

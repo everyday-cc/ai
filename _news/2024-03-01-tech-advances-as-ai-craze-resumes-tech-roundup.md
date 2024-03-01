@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tech-advances-as-ai-craze-resu
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-advances-as-ai-craze-resumes-tech-roundup-577acf5e"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tech Jumps as AI Rally Resumes -- Tech Roundup"
+    excerpt: "Shares of technology companies rose as an artificial-intelligence rally gathered momentum. The Nasdaq Composite built on a closing record high"
+    publishedDateTime: 2024-03-01T21:44:00Z
+    webUrl: "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "US Chipmakers Want More Subsidies As AI Shapes The Semiconductor Industry"
     excerpt: "Leading chipmakers, including Nvidia Corp and Advanced Micro Devices, Inc (NASDAQ:AMD), have earned breakthroughs in AI technology chips courtesy of the U.S. and global Big Tech companies splurging on expanding their AI moat. Analysts tout the chip ..."
     publishedDateTime: 2024-02-27T14:14:00Z

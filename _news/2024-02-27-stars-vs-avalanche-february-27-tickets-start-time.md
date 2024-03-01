@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ohio State vs. Rutgers March 10 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Ohio State Buckeyes (15-12, 5-11 Big Ten) play a fellow Big Ten squad, the Rutgers Scarlet Knights (14-13, 6-10 Big Ten), on Sunday, March 10, 2024 at Jersey Mike's Arena. The game will tip off at 2:00 PM ET and is ..."
-    publishedDateTime: 2024-02-25T23:15:00Z
-    webUrl: "https://www.13abc.com/sports/betting/2024/03/10/ohio-state-vs-rutgers-buy-college-basketball-tickets/"
+  - title: "Amazon Coupon Codes for February 2024"
+    excerpt: "Amazon Prime is Amazon’s membership service which offers free delivery on millions of eligible items. Certain products are eligible for free one-day delivery to select postcodes in Sydney and ..."
+    publishedDateTime: 2024-02-28T08:22:00Z
+    webUrl: "https://www.techradar.com/coupons/amazon-au"
     type: article
     provider:
-      name: 13abc
-      domain: 13abc.com
-    quality: 22
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
     images:
-      - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/v2/TSN5B5LMI5LLTEABBTERLQE3UE.jpg?auth=6b4d43d2c0a26249959cb0f7010063592f89f2860e3f4260305ee69850ac5bf6&width=1200&height=600&smart=true"
+      - url: "https://cdn.mos.cms.futurecdn.net/QZRQci2tJrQzHG6UqLQDyX-1200-80.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "SMU vs. UAB March 10 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The SMU Mustangs (19-9 ... UTSA vs. Temple March 10 Tickets & Start Time Prairie View A&M vs. Texas Southern March 9 Tickets & Start Time UT Rio Grande Valley vs. Southern Utah March 9 Tickets & Start Time"
-    publishedDateTime: 2024-02-25T23:15:00Z
-    webUrl: "https://www.kwtx.com/sports/betting/2024/03/10/smu-vs-uab-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KWTX
-      domain: kwtx.com
-    quality: 22
-    images:
-      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/WSAQERU27ZO6JDTBVDHVPLNLEM.jpg?auth=ee287d4e27f17cd9be1b7e3002f37b937d73f3439b184840a89fa2c55b28f4d8&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
+        height: 675
         isCached: true
   - title: "Predators vs. Senators February 27 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Nashville Predators' Filip Forsberg and the ... Alabama A&M March 2 Women's Basketball Tickets & Start Time North Alabama vs. Central Arkansas March 2 Women's Basketball Tickets & Start Time Auburn vs."

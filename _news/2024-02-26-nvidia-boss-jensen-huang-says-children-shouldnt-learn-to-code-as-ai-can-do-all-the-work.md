@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-chil
 webUrl: "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia: The mother of all artificial intelligence"
+    excerpt: "These chips enable artificial intelligence (AI) applications as well as machine learning capabilities, which is today’s buzzword in the technology industry. But it is not that NVDA was born yesterday that it has now reached the pinnacle of success but ..."
+    publishedDateTime: 2024-03-01T20:47:00Z
+    webUrl: "https://www.thestar.com.my/business/insight/2024/03/02/nvidia-the-mother-of-all-artificial-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 19
   - title: "How $68bn AI king Jensen Huang spoke no English, worked at Denny’s but could be bigger than Elon Musk: ‘American dream’"
     excerpt: "GPU chips have fueled the AI revolution and transformed Nvidia into a $1.9 trillion company — worth three times more than Musk’s Tesla. And like Jobs, he lives to work. “He didn’t really do anything but Apple,” a Silicon Valley source."
     publishedDateTime: 2024-02-29T18:45:00Z

@@ -102,15 +102,6 @@ related:
         width: 260
         height: 260
         isCached: true
-  - title: "Companies Need To Get Onboard The Generative AI Train"
-    excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
-    publishedDateTime: 2024-02-25T19:21:00Z
-    webUrl: "https://www.forbes.com/sites/sylvainduranton/2024/02/25/companies-need-to-get-onboard-the-generative-ai-train/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI: balancing innovation and regulation"
     excerpt: "By embracing responsible AI practices and leveraging the power of AI strategically, organisations can thrive in the new regulatory environment"
     publishedDateTime: 2024-02-28T12:18:00Z

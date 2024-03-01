@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Compliance Enforcement Trends to Watch in 2024"
+    excerpt: "firms’ ownership structures New regulations addressing the use of artificial intelligence in healthcare In short, 2024 promises to be an especially busy year for chief compliance officers, chief risk officers, and their counsel across many sectors and ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/healthcare-compliance-enforcement-3715041/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15118_1308.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "i8JNJ+FDEPB/Ps1U0tiLnWp/EdxwQVyC/pOPo0ALSqto2/e6B4g9sQ9QhoQNvkD7hjB5AUqr0dnxGAosqerNiNcv+758YNLYSDjWP175zYaTfgmoFtFN6WWVdODL1FjCU5dqxHYu6ehoKfCuvqXUEfsp1jNNw/c7xI07jnDoBOjPmlXAiuMfLLagWtv9vtF1QljpGP8Es5Qji3ec74YgmQfc2hziHGyBoUhSaDCEHt8F2BjggiVEV6MOR7LwXi2E8ctV+iwmz88gYxmmuOczUOJ4DpEWaF2abNyRkPbBm7+3SZvrANfx6htbr8vFkQPcjcRfjTMVLYmTol+UEFbIiHsRD5kDecd9aaXhkimhIOZr3mVOToVtTBwCq5RNI97fe+wfc8p7Rtn9UY3PcW4oLQuP+NN2nfAjESG7GtgGBL4sn2Oy3YUFSMtE5DkFx1XJ+fdWkeijAqn+AlovkcjBGDL+hOsjjbLlvIDRiJAfwfsVCnLMrQiU7kQHJ1cy6EZK5jXYMhNFGDQgDyi4SKHMkA==;2wmzt192NYlFA9X1tVuuHg=="
 ---

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden urged to withhold Pak govt’s ‘recognition’"
+    excerpt: "Citing “strong evidence” of election rigging in Pakistan, a group of influential lawmakers, including Muslim legislators, belonging to the ruling Democratic Party has urged US President Joe Biden to withhold “recognition” of a new government in ..."
+    publishedDateTime: 2024-03-01T21:02:00Z
+    webUrl: "https://www.dailypioneer.com/2024/world/biden-urged-to-withhold-pak-govt---s----recognition---.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 24
+    images:
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
+        height: 325
+        isCached: true
   - title: "US lawmakers urge President Biden to withhold 'recognition' of Pakistan's new govt until 'credible' poll rigging probe is conducted"
     excerpt: "Citing \"strong evidence\" of election rigging in Pakistan, a group of influential lawmakers, including Muslim legislators, belonging to the ruling Democratic Party has urged US President Joe Biden to withhold \"recognition ... in political speech or activity ..."
     publishedDateTime: 2024-03-01T10:00:00Z
@@ -57,6 +71,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "US lawmakers call on Biden to withhold recognition of Pakistan's new government"
+    excerpt: "Over two dozen members of Congress want the Biden administration to conduct an audit of Pakistan's recent election"
+    publishedDateTime: 2024-03-01T19:02:00Z
+    webUrl: "https://www.middleeasteye.net/news/us-lawmakers-call-biden-withhold-recognition-pakistan-new-government"
+    type: article
+    provider:
+      name: Middle East Eye
+      domain: middleeasteye.net
+    quality: 0
 
 secured: "5hcp5YbcURh5TMqUPYwXenrTK7Z2XfuWC+gkAo4rAtGcuHWyzmtOpmuilwqb9r9UcwbhNlOyvfpO32y9MHvuOdHN+YfedKTcomOHwc3I32T0FXG4Onz0SBzV6FzOyWNVhBDA2BQ2uI9/9ob7X1boAPSrrViKprvy+2cC5n7h+U9hJgmqHxpUaFgl5SmohrFN3iogoVzt89bYdj+Xf5zwJDO8wYmL9/H4CKYU8ELog1tYIlcVYnIb4EDq4txQVh9sdnT6FyttSrm93uxKoNYNZC5cq7JeBewqGnZaQY+Gg4cyiNNTVKxBvGLxFw5h+xz4RyohTZhJXyvl2yExyjCmhLnRMgfvzwk0j9E5BCSr12p/hXD1qUfe2LfJdv6i2kfpdc/DXxmbc73h4tO+QVujT5FD6OC7T610MUQbyZ603SEX5Tl+6aymAQkpy7MLaG43vGDzB0QTR4Cpd/gVi5jqGOiXyl0o8mUR1t8aznXU9TdKXnWS17A5XhfpJU+imlQwxvqcl5kMvGyWghQGTz6KpA==;mhFvvmSMrq+QSzjAvgwR5w=="
 ---

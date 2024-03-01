@@ -105,15 +105,6 @@ related:
         width: 260
         height: 260
         isCached: true
-  - title: "Companies Need To Get Onboard The Generative AI Train"
-    excerpt: "According to a recent BCG survey, 85% of the leaders of large companies plan to increase their AI budget in 2024."
-    publishedDateTime: 2024-02-25T19:21:00Z
-    webUrl: "https://www.forbes.com/sites/sylvainduranton/2024/02/25/companies-need-to-get-onboard-the-generative-ai-train/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Why The Generative AI Stock Bubble Is Not Poised To Pop"
     excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
     publishedDateTime: 2024-03-01T13:45:00Z
@@ -184,6 +175,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "PWIyJX7ORRJy7A6/R2meKFwxrnghojXGenC+l06EP/qCMmTHnj6D3DnKo/3hrSkSHVCtHYlHQopTessuYo7ZBW820A0fJJx2AqoW7zSlrR/rQpgy+jxsNakEJSPFtCB1GDVcCbP/gi4l4B0VHLTbm8gpWdJo/t1a7DEO+XAW0JtbYNUjCqD8jPV+7xm7FkOgi7sdXAjL0SwKsiVJgsHXBR6dIGldMO5cOjrB9QkDZ8b1oNcTEI/jptYimr/BT99wogPigqD5YSy2SgZApHrT6dsl8LcDBmAPSUqShesNijub9AO4Xi4UgwqLASczGI3gJRk7la7oVi+XjfX4/4T4FpN/fEXIYirQne2A6xFlXCU=;0Xm+gFVit6kqyFjXLYgQyA=="
+secured: "SNZriCXoqFHWWzCU46X8d4IBpnya/vUB7NzZO1Q2F5fGv2obZljQI9SUvtZRKyw0PPAus8pegmaOVVFsgcRzx8YVxRxTkeoYmV+RkUIaaK8YKMrMjXuCoviiQmtcKpUM9EhLS5+/HCTf2G892+m7VEDzlnFYj+x7BuC6yN+a42VWWjGPZBtI9A6bdeWIfe1Ea5K/WpbUzhwgAi1vKaVsKhiYSmmaDGWFc81CLC/C4OTadipt2/zHoYheSzJgEozOtaOl49lIXMcAuh4G9wn6oXSRiXg3+eYZUSpYwhPLM7Sh6sjfj8i30/b1dLBpvCvVNL+Izijzc0JGNJS/QUG+Qm57H1uYenRJrWx9yPbe0EjUC9TQmuZjIsNc3mw6ujk9lZgUIy7W0SZIYG2JRTnkz28Pgfh+CaG9bUr0Z8oqprRWaLtXThi6+vUVkY623mLDInW1YEpdx10hvjaQBy51doC2ipsbzU7AWLpHNqt4w5P9pAc3iQk4g0CJ4bGiA5FmLTH3uuBmvoY6o8Sy4nIy9Q==;LtYnEZf1gSA+e2/ky5sD+w=="
 ---
 

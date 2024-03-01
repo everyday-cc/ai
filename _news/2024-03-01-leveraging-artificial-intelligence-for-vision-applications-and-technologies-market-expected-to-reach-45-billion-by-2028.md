@@ -34,6 +34,20 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 46
+  - title: "Leveraging Artificial Intelligence For Vision Applications And Technologies Market Expected To Reach $45 Billion By 2028"
+    excerpt: "FN Media Group News Commentary - Artificial Intelligence (AI) technology is growing in numerous markets especially in vision enabled technologies. A"
+    publishedDateTime: 2024-03-01T19:46:00Z
+    webUrl: "https://menafn.com/1107923709/Leveraging-Artificial-Intelligence-For-Vision-Applications-And-Technologies-Market-Expected-To-Reach-45-Billion-By-2028"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?72929"
+        width: 386
+        height: 250
+        isCached: true
 
 secured: "RAo+ApuxXXtrkokv+dSyG5+UGHLFhWos+RXIldIcHsdE/mTsmIe8lB+lmhUCuPyEotixZDzb0eB7KbS8gzVftT02Cwmj4jauxTBZwaI2Tf1fYRIvV2Cwi2mYGm3q23t03flwZsFe3qrqJDmOB1pwJbO36zVNp2iYAOubuhVmrlczmfxHzsBiiJ1ul6gBg126kfh3vo+0NJzm6CPhJrSLXxfC0wSlj2EfqRkuwOuuEsINQzzSKFnD6Aiv/cB9dQufCAIUhtjliYXWBhlLo+abIsDmgIppoe4HU1mpwaq6FoKZCmkpwrdRyypnq6Hl778an13Z3XMrX2KBbGsVRWEaJnuDCa8pEHrBo5e1DzSvMH4=;gJaRuXRrRNHDee4YNKAvOw=="
 ---

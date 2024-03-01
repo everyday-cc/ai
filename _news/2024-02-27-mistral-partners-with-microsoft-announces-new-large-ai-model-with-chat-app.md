@@ -234,6 +234,20 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "AI Robotics Startup Attracting $675M from Nvidia, OpenAI, Microsoft, Bezos"
+    excerpt: "Start up robotics company Figure, founded in 2022 and based in Sunnyvale, CA, is in the process of attracting $675 million in venture funding from the likes of Amazon founder Jeff Bezos, Microsoft, Intel,"
+    publishedDateTime: 2024-03-01T20:58:00Z
+    webUrl: "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 84
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2024/03/Figure-robotic-image-2-1-0324.png"
+        width: 600
+        height: 299
+        isCached: true
   - title: "Microsoft invests in startup Mistral AI, outlines broader AI access principles"
     excerpt: "The company announced a multi-year partnership and an investment of undisclosed size in French startup Mistral AI as an example of its approach. Mistral AI will be able to train and deploy its AI models via Microsoft’s data centers, and Microsoft will ..."
     publishedDateTime: 2024-02-26T10:24:00Z

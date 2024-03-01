@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-st
 webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Elon Musk Wants Billions to Fund His Secretive AI Startup, xAI"
+    excerpt: "The company would reportedly be valued up to $20 billion, despite only having one product under its belt so far."
+    publishedDateTime: 2024-03-01T21:40:00Z
+    webUrl: "https://www.inc.com/sam-blum/elon-musk-wants-billions-to-fund-his-secretive-ai-startup-xai.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/elon-musk-inc-1948569318_538043_ndfgft.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "7c0SV5CmxEPmgB3KZofeIdWTNd8ng2NsJNa4ed0OKNRs6EdRmHCXsgPx1pP/0TWySk6eGdfQ76WnifTUDiVn+PN+OaWnyLclAjGNBZSMGub26mRoxWEs6EIPLqspsw5SIWQk0WfOjMD9FLSPbG8uT6/+IEkWrIvflUAT8LHxshUYxCw75IPf4SG+TSLxsHsw0cuz6S2/7tc1X1wunIvw7z7RHB/os07Cq2xm7HDeX4JKAPmW6HaPMtik7nx5dfvld2vClgMfSeHcoF0c7OgpaIA9qLYgI1dL5hG1RWxRhJ+M8fBg81xN/3dKcxWrWZm44OZ6PzVPT9c3xC11vvrwBeZLd99nvS0k0oJHoDnrOQsqA1sa2bmF9MjdCwOIHBabtmzdbqXdmy0AoW5gcSPA7Y0tI+u5VYLH3C+VfB07B4v3KNHzmy3m9GPGTd9+ksAlfvMBQ9yYWMdKZfhOBYX1P1WnYiPYfo5i2aYuPkbRW+oMa6JbiAYphwhYUBgdR5GzGr0cW6aSTOFF+Qk8Lh4qZg==;idGaBC9F5HTJ6jZNUHRmjQ=="
 ---
