@@ -61,6 +61,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "In a First, a Geolocation Privacy Class Action Will Go to a Jury"
+    excerpt: "Digital Recognition Network is scheduled for jury trial on May 17 ... For the first time, geolocation—the identification of the location of an individual or an object using technology—will see its day in court. The named plaintiff representing the ..."
+    publishedDateTime: 2024-02-29T22:47:00Z
+    webUrl: "https://www.law.com/2024/02/29/in-a-first-a-geolocation-privacy-class-action-will-go-to-a-jury/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Pop-Art-License-Plate-with-Synthwave-Eye-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "ThP2rh8G87JvRNfxzgGt0Kh6CeXrP2LDyADJ2+BKPukJgNHjd2V/Vf8OHYeVh42cC/4lfMLlKuyAniKpURYihG75QHQbjF04eQnDPAU1gOsDHm4j6X3DLbZwVWeBlNOYvsGolNTey02MEU69nST4jjLsc2V0b/IIvnnvNzTKy9Ua5QAXHFVCIgC6SW2lNVN8cWFeTjgcXe/dzRsFoIkG6mG08L2674fp2yQDjAzwk5kgoTgH04p9fpJZy/tkC4cuYToWp3kJdf3WgckTHk2tP1qfGs3e29ZJ/D/YwtMXTFhVe71nWZp3MmLfYgqBoTyT7PLuTWlBC9cJap/0hVWpOjtNlor8upoGkoQuk/Tg1C0=;2AHVj9RKoCDJn6sHSM/DOQ=="
 ---

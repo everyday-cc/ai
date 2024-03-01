@@ -220,6 +220,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 55
+  - title: "Humanoid robot-maker Figure partners with OpenAI"
+    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://wiscnews.com/news/nation-world/science-technology-artificial-intelligence-robotics-bezos/article_c2190023-3242-5f2c-be82-4deb48bdce40.html"
+    type: article
+    provider:
+      name: WiscNews
+      domain: wiscnews.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/c/21/c2190023-3242-5f2c-be82-4deb48bdce40/65e1032a48182.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia, OpenAI, Microsoft, Other Tech Titans Investing In Humanoid Robot Startup"
     excerpt: "What do Intel, LG, Nvidia, Microsoft, Samsung, and OpenAI currently have in common? They’re all taking big bets on Figure AI, a startup focused entirely on building and deploying humanoid robots. The California-based company has reportedly secured $675 million in funding, having attracted some of the most powerful entities within the tech industry."
     publishedDateTime: 2024-02-27T13:10:00Z

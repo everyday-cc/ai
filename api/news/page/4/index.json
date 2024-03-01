@@ -2,6 +2,145 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-27-how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker.md",
+      "title": "How Axfood enables accelerated machine learning throughout the organization using Amazon SageMaker",
+      "excerpt": "This is a guest post written by Axfood AB.&nbsp; In this post, we share how Axfood, a large Swedish food retailer, improved operations and scalability of their existing artificial intelligence (AI) and machine learning (ML) operations by prototyping in close collaboration with AWS experts and using Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/16/ML-15027-model-build-pipeline-2.jpg",
+          "width": 1253,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T17:51:48Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-intel-aims-to-deliver-chips-for-100-million-ai-pcs-by-2025.md",
+      "title": "Intel aims to deliver chips for 100 million AI PCs by 2025",
+      "excerpt": "Intel Vice President of Client Computing Group David Feng said his company expects to deliver 40 million AI PCs this year and 60 million next year -- more than 20% of the projected total global PC market in 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025",
+      "originalUrl": "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F8%2F4%2F47334888-1-eng-GB%2F2024-01-08T220541Z_1510761602_RC2YD5ADZUKN_RTRMADP_3_TECH-AI+%281%29.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T17:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.md",
+      "title": "Foldable models, artificial intelligence and other MWC proposals to boost cell phone sales",
+      "excerpt": "At the Mobile World Congress, the eagerness of smartphone brands to find new products to boost sales after two years of decline is evident",
+      "sourceUrl": null,
+      "webUrl": "https://english.elpais.com/technology/2024-02-27/foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.html",
+      "originalUrl": "https://english.elpais.com/technology/2024-02-27/foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.english.elpais.com/resizer/nlcLf1dzuKxKMl7Dd9nPnCszTs4=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/PMG2LDYE4BGDFAUCTYCRGBRX6A.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://english.elpais.com/technology/2024-02-27/foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.html?outputType=amp",
+      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/technology/2024-02-27/foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.html?outputType=amp",
+      "publishedDateTime": "2024-02-27T16:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "El País in English",
+        "domain": "elpais.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-please-include-csiro-ai-and-australia-in-the-title-and-any-other-relevant-brands-if-it-makes-sense.md",
       "title": "Please include CSIRO, AI, and Australia in the Title and any other relevant brands if it makes sense.",
       "excerpt": "Australia’s CSIRO, with Google and Stone & Chalk, has launched a $500,000 competition to support the development of AI apps in Australia.",
@@ -168,7 +307,7 @@
       "originalUrl": "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -253,7 +392,7 @@
       "originalUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -754,7 +893,7 @@
       "originalUrl": "https://www.zdnet.com/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1078,153 +1217,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-apple-can-only-resist-ai-transparency-for-so-long.md",
-      "title": "Apple can only resist AI transparency for so long",
-      "excerpt": "The idea that decisions of huge consequential impact could be made by machines on the basis of principles and ethics that are not transparently shared or open to examination cannot stand. The shareholder proposal warns against AI being used to undermine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.html",
-      "originalUrl": "https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/02/11/apple-keynote-craig-federighi-100941727-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.amp.html",
-      "publishedDateTime": "2024-02-26T16:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-ai-can-power-the-green-energy-transition.md",
-      "title": "AI Can Power The Green Energy Transition",
-      "excerpt": "The emergence of AI intersects with the energy transition. There is an opportunity for this emerging technology to accelerate the move to greener energy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
-      "originalUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dcb93b7d0e3d22afce25a9/0x0.jpg?format=jpg&crop=3552,1999,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
-      "publishedDateTime": "2024-02-26T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant.md",
-      "title": "Mistral AI releases new model to rival GPT-4 and its own chat assistant",
-      "excerpt": "Finally, Mistral AI is also using today’s news drop to announce a partnership with Microsoft. In addition to Mistral’s own API platform, Microsoft is going to provide Mistral models to its Azure customers. It’s another model in Azure’s model catalo ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
-      "originalUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1630826367.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/",
-      "publishedDateTime": "2024-02-26T15:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

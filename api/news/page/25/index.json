@@ -2,6 +2,91 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2024-02-12-ai-will-boil-the-oceans.md",
+      "title": "AI Will Boil The Oceans",
+      "excerpt": "My article, “AMD And Nvidia Will Boil The Oceans ” got a lot of attention, and now Sam Altman, CEO of OpenAI, has confirmed that by reportedly looking for $7 trillion dollars to go to the next level in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
+      "originalUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637def592ce2893446588243/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
+      "publishedDateTime": "2024-02-12T15:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-google-ai-bard-renamed-to-gemini-introducing-subscription-and-app.md",
+      "title": "Google AI ‘Bard’ Renamed to ‘Gemini’, Introducing Subscription and App",
+      "excerpt": "Google Bard is now Google Gemini. This transition comes with a new mobile app and Gemini Advanced subscription with access",
+      "sourceUrl": null,
+      "webUrl": "https://techacute.com/google-ai-bard-renamed-to-gemini-introducing-subscription-and-app/",
+      "originalUrl": "https://techacute.com/google-ai-bard-renamed-to-gemini-introducing-subscription-and-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T15:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techacute.com",
+        "domain": "techacute.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire.md",
       "title": "AI field trips and why we should stop setting self-driving cars on fire",
       "excerpt": "This morning, we have an interesting mix of stories that bring technology, politics and AI together in unique ways that's well worth diving deep into.",
@@ -1040,110 +1125,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.md",
-      "title": "Crowd sets Waymo self-driving car ablaze in San Francisco",
-      "excerpt": "A crowd vandalized a Waymo self-driving vehicle and set it on fire in San Francisco on Saturday, said Waymo, which is owned by Alphabet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107371968-17076799512024-02-11t184546z_1479943353_rc2a06a3oscq_rtrmadp_0_waymo-san-francisco.jpeg?v=1707679980",
-          "width": 2200,
-          "height": 1238,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "publishedDateTime": "2024-02-11T17:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-how-ai-and-software-can-improve-semiconductor-chips-accenture-interview.md",
-      "title": "How AI and software can improve semiconductor chips | Accenture interview",
-      "excerpt": "Thanks to AI, one of these days we'll be talking about chips with trillions of transistors on them, according to Accenture.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-and-software-can-improve-semiconductor-chips-accenture-interview/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-and-software-can-improve-semiconductor-chips-accenture-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/accenture-Tech-Vision-2024-Infographic_v5-01.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T16:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

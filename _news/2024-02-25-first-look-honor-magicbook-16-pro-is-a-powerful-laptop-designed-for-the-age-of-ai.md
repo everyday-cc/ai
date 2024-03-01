@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/honor-magicbook-16-pro-hands-on-3
 webUrl: "https://www.androidauthority.com/honor-magicbook-16-pro-hands-on-3419116/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Honor MagicBook Pro 16 AI-powered laptop launched at MWC: Intel Core Ultra 7 & RTX 4060 GPU"
-    excerpt: "At the Mobile World Congress (MWC) 2024, Honor introduced the Honor MagicBook Pro 16, an AI-enhanced laptop, alongside their new flagship smartphone, the Magic 6 Pro. The laptop features a sleek metal body, which is just 17.9mm thick and weighs around 1.86kg."
-    publishedDateTime: 2024-02-25T00:00:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/25/honor-magicbook-pro-16-laptop-launched-mwc/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 74
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/Screenshot-2024-02-25-210840.png"
-        width: 1072
-        height: 741
-        isCached: true
   - title: "Huawei HONOR MagicBook Pro 16 AI laptop"
     excerpt: "Complementing the processors is the NVIDIA GeForce RTX 40 series Laptop GPU, which ensures smooth graphics and efficient multitasking capabilities. But the AI in this laptop does more than just enhance its power; it also improves how users interact with ..."
     publishedDateTime: 2024-02-25T23:59:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-w
 webUrl: "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker"
 type: article
 quality: 116
-heat: 316
+heat: 326
 published: true
 
 provider:
@@ -216,6 +216,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 55
+  - title: "Humanoid robot-maker Figure partners with OpenAI"
+    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://wiscnews.com/news/nation-world/science-technology-artificial-intelligence-robotics-bezos/article_c2190023-3242-5f2c-be82-4deb48bdce40.html"
+    type: article
+    provider:
+      name: WiscNews
+      domain: wiscnews.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/c/21/c2190023-3242-5f2c-be82-4deb48bdce40/65e1032a48182.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up"
     excerpt: "Figure AI aims to transform labour market as it raises total $675mn in a funding round that also includes Jeff Bezos"
     publishedDateTime: 2024-02-29T13:00:00Z
@@ -271,6 +285,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "2rMB7rYi4ad8gRcNPmS7236adFqSqiaSMhnBq2KWGNHUjpcknyEsv5c3nrBs/AOYsTHJIkCslHfOOzK4bPCNWbjJ+0vvBOdsaCsCQW/R4CGy5/D9bPwBuSlr5PvY0CkEUrVGTIJENTha5KC2/8H9r8OMHvgv88wo9wBuB+AcicahMOgOdeHI3hvU8gTP5MoVGmeEC2S/qzvKyV7/oLTJLUHqOaBxfUQrx0AEZeDEwwklfklzrhUUhWiutw4q/iJFdV9XB3Za11GUDqe8IjAZQVj91B/Ik8G4iaetWVQqkaZGrCgnHS/2T9NuRV/Gvekjjrpo67M8+7wHNuZj4fd+4wYGa/uVjUPO7z1KAX9k0ew=;9dWoXtmMG8aVzc/LbKP/5g=="
+secured: "hf+EELTANApEvgP1OZElYu+vX4lu35QFmIDZgkFT3FmffCkkMVCcMaLRDJzN8eDIAMsgwExuJ4U7eBz3u/J1TBhp4iQPbpldd+sTVshqBfCbCybZNN6ciaVp2VUI99fNkc9D80SUADpbnC69+KtRwsnOQAbbMbkaSpcxmSItIQehOL1Tf2NI4ZDXAtmQzW+VQfLdBFKyeY8wCmcBxxoDjH5P+RhPOUvj8Udt1quEffPPKLOAwbSuV59ewJeJt0XoKlduFOBtoPbuxFO1r7T6v62qbZ6fRuFwVwikqxl+Sz7mEcXm/uHQDNWc4bjYmy4ESw5hJFu09CR4Q5OZgxmjvH9kYCsynCQ7VzQhiYgEfIM+NeJNp3UZbjE6ZTigCgAbCn3VVT5lfBGLspnmG7sLjgatvZx0yMXB3FojteB/4XNvy2O4SLcmayqPvQ/7q/pSJeECggPFTXjp5IeiyXs6M9n4Wuw+NmaC6xP464utr3Zmg5bZtm93ukYaLcvVO2UScnZiGrs0Twd+DJxhDh9owA==;iIMdsuhhElbxPA5QI0cIhQ=="
 ---
 

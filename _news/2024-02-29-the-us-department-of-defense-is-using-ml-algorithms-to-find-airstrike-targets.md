@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/102066-us-department-defense-using-m
 webUrl: "https://www.techspot.com/news/102066-us-department-defense-using-ml-algorithms-find-airstrike.html"
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:

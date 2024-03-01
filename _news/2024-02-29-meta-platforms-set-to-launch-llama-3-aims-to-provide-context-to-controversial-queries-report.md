@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Plans Launch of New AI Language Model Llama 3 in July, the Information Reports"
-    excerpt: "Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by users,"
-    publishedDateTime: 2024-02-28T16:31:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-28/meta-plans-launch-of-new-ai-language-model-llama-3-in-july-the-information-reports"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 43
   - title: "Meta plans launch of new AI language model Llama 3 in July: Report"
     excerpt: "Meta Platforms plans to release Llama 3 in July with improved responses to contentious questions and an understanding of controversial queries. Gemini AI paused its image-generation feature. Meta's Llama 2 refuses less controversial questions. Meta plans ..."
     publishedDateTime: 2024-02-29T07:41:00Z

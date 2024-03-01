@@ -2,6 +2,83 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2024-01-14-how-fintech-has-gone-mainstream.md",
+      "title": "How fintech has gone mainstream",
+      "excerpt": "Last year, financial technology (fintech) finally went mainstream. Here are some examples that underline my case.",
+      "sourceUrl": null,
+      "webUrl": "https://moneyweek.com/investments/tech-stocks/how-fintech-has-gone-mainstream",
+      "originalUrl": "https://moneyweek.com/investments/tech-stocks/how-fintech-has-gone-mainstream",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Ux3UMRW2YPerefgGhzJhwT-1200-80.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T00:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-14-ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity.md",
+      "title": "AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity.",
+      "excerpt": "the IMF has developed an AI Preparedness Index that measures readiness in areas such as digital infrastructure, human-capital and labor-market policies, innovation and economic integration, and regulation and ethics. The human-capital and labor-market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity",
+      "originalUrl": "https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Monetary Fund",
+        "domain": "imf.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-14-best-robot-vacuum-deals-save-on-roomba-shark-and-others.md",
       "title": "Best robot vacuum deals: save on Roomba, Shark, and others",
       "excerpt": "It also has AI-controlled AIVI 3D 2.0 obstacle ... the Roomba is made with the smart home in mind. The iRobot Roomba 694 is one of the most popular Roomba robot vacuums. It features a minimal ...",
@@ -963,101 +1040,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-timekettles-x1-makes-language-translation-effortless-with-ai-driven-interpretation.md",
-      "title": "Timekettle's X1 Makes Language Translation Effortless With AI-Driven Interpretation",
-      "excerpt": "The AI powering the X1 will mimic the voice ... lets up to 20 people have a conversation in five different languages with real-time translation. Notably, it works for both in-person and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1490692/timekettle-x1-voice-language-translator-ai/",
-      "originalUrl": "https://www.slashgear.com/1490692/timekettle-x1-voice-language-translator-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/timekettles-x1-makes-language-translation-effortless-with-ai-driven-interpretation/l-intro-1704989646.jpg",
-          "width": 1600,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T18:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship.md",
-      "title": "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship",
-      "excerpt": "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republic-online.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_91538c37-4441-5db5-b764-db893897c54f.html",
-      "originalUrl": "https://www.republic-online.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_91538c37-4441-5db5-b764-db893897c54f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/republic-online.com/content/tncms/assets/v3/editorial/2/69/26994866-02ca-5fa5-b0df-e47730d34ef6/65a24a7597ea5.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T17:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami County Republic",
-        "domain": "republic-online.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

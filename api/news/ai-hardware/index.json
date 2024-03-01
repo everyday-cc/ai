@@ -238,6 +238,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-28-10-best-graphics-cards-of-2024-finding-the-best-gpu-for-gaming.md",
+      "title": "10 best graphics cards of 2024: finding the best GPU for gaming",
+      "excerpt": "The previous GPU champion, the RTX 3090 Ti ... On top of that, the card also supports Intel's XeSS upscaling feature, which uses AI to upscale your games and improve performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
+      "originalUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/01/12gb-rtx-3080-review-07.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/best-graphics-cards/?amp",
+      "publishedDateTime": "2024-02-28T09:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-intels-double-whammy-a-chip-making-duopoly-and-a-huge-ai-advantage.md",
       "title": "Intel’s Double Whammy: A Chip-Making Duopoly and a Huge AI Advantage",
       "excerpt": "And since duopolies are nearly always extremely lucrative for the firms that participate in them, Intel’s financial results should get a huge boost once it becomes one-half of a global chip-making duopoly. Meanwhile, the firm’s strong AI chips for ...",
@@ -488,7 +540,7 @@
       "originalUrl": "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -531,7 +583,7 @@
       "originalUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -671,7 +723,7 @@
       "originalUrl": "https://www.zdnet.com/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -982,58 +1034,6 @@
         "AI Hardware",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-these-high-flying-artificial-intelligence-ai-stocks-could-sink-20-or-more-over-the-next-12-months-according-to-wall-street.md",
-      "title": "These High-Flying Artificial Intelligence (AI) Stocks Could Sink 20% or More Over the Next 12 Months, According to Wall Street",
-      "excerpt": "But just as the story of the fabled king took a turn for the worse, some of the stocks that have been gold mines for investors just might be headed for a rough patch. These high-flying AI stocks could sink 20% or more over the next 12 months, according to Wall Street.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/25/these-high-flying-artificial-intelligence-ai-stock/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/25/these-high-flying-artificial-intelligence-ai-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/766377/thumb-down.jpg",
-          "width": 2122,
-          "height": 1413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T10:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {

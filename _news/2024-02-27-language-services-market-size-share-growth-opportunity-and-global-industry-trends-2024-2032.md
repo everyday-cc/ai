@@ -85,20 +85,6 @@ related:
         width: 599
         height: 380
         isCached: true
-  - title: "5 fintech predictions for 2024: A light at the end of the tunnel"
-    excerpt: "2024 feels a lot better than 2023. While there are still some significant macroeconomic and geopolitical headwinds, the dog days of 2023 are behind us and there is some light at the end of the tunnel."
-    publishedDateTime: 2024-02-27T10:28:00Z
-    webUrl: "https://www.finextra.com/the-long-read/956/5-fintech-predictions-for-2024-a-light-at-the-end-of-the-tunnel"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/956.jpg"
-        width: 799
-        height: 449
-        isCached: true
   - title: "More Than Half the Fintech Industry Seeing Growth from Strong Consumer Demand"
     excerpt: "Fintech industry resilience during the pandemic has been underscored by a sustained interest in digital financial services."
     publishedDateTime: 2024-02-26T10:31:00Z

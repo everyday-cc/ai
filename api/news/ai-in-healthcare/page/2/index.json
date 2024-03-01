@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-14-artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot.md",
+      "title": "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot",
+      "excerpt": "The generative artificial intelligence boom has led to the emergence of more companion chatbots NEW YORK -- A few months ago, Derek Carrier started seeing someone and became infatuated.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/amid-artificial-intelligence-boom-ai-girlfriends-boyfriends-making-107216988",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/amid-artificial-intelligence-boom-ai-girlfriends-boyfriends-making-107216988",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T11:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-roundtable-healthcare-organizations-put-generative-ai-under-the-microscope.md",
       "title": "Roundtable: Healthcare Organizations Put Generative AI Under the Microscope",
       "excerpt": "The good, the bad and the unpredictable? Four industry experts discuss the role of generative artificial intelligence in healthcare and its potential.",
@@ -1277,40 +1311,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives.md",
-      "title": "Artificial intelligence program at Florida medical center rapidly diagnoses, saving lives",
-      "excerpt": "(WPEC) — The evolution of artificial intelligence is changing the way ... Medical Director of Vascular Surgery and Endovascular Therapy Dr. Joseph Ricotta works at DMC. He said the AI program ...",
-      "sourceUrl": null,
-      "webUrl": "https://wsbt.com/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions",
-      "originalUrl": "https://wsbt.com/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wsbt",
-        "domain": "wsbt.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

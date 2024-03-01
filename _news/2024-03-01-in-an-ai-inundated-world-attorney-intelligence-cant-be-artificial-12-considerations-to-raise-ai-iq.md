@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-29T16:49:00Z
 originalUrl: "https://www.law.com/legaltechnews/2024/02/29/in-an-ai-inundated-world-attorney-intelligence-cant-be-artificial-12-considerations-to-raise-ai-iq/"
 webUrl: "https://www.law.com/legaltechnews/2024/02/29/in-an-ai-inundated-world-attorney-intelligence-cant-be-artificial-12-considerations-to-raise-ai-iq/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Intelligence-767x633.jpg"

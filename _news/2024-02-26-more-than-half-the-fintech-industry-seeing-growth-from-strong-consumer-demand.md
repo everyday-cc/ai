@@ -85,20 +85,6 @@ related:
         width: 599
         height: 380
         isCached: true
-  - title: "5 fintech predictions for 2024: A light at the end of the tunnel"
-    excerpt: "2024 feels a lot better than 2023. While there are still some significant macroeconomic and geopolitical headwinds, the dog days of 2023 are behind us and there is some light at the end of the tunnel."
-    publishedDateTime: 2024-02-27T10:28:00Z
-    webUrl: "https://www.finextra.com/the-long-read/956/5-fintech-predictions-for-2024-a-light-at-the-end-of-the-tunnel"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/956.jpg"
-        width: 799
-        height: 449
-        isCached: true
   - title: "Language Services Market Size, Share, Growth, Opportunity And Global Industry Trends 2024-2032"
     excerpt: "Machine translation, artificial intelligence, and natural language processing have made significant strides in recent years, enabling faster and more cost-effective translation and localization services. Automation tools are streamlining repetitive tasks ..."
     publishedDateTime: 2024-02-27T07:14:00Z

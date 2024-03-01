@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-28T23:59:00Z
 originalUrl: "https://www.medpagetoday.com/special-reports/features/108954"
 webUrl: "https://www.medpagetoday.com/special-reports/features/108954"
 type: article
-quality: 12
-heat: -1
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - Meta AI
   - AI
+
+images:
+  - url: "https://assets.medpagetoday.net/media/images/108xxx/108954.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "QubeHealth Plans Up To $9 Mn Raise For Launching Healthcare In App Marketplace, AI Integration"
@@ -29,6 +35,6 @@ related:
       domain: inc42.com
     quality: 24
 
-secured: "vwTB3BSMzyX7OrZZs3A1rVmoZWxwlQbRinRHx2hgJYjatLPLo/XSH/bhvLH8STflsQRpZog/qbTdAufgtomJC71D2DZBe8S25K62Vqi7Wja1vclP85usF5UX0Ov+FdUWgefhzyJZ/LZJCIOt+DDvZClV+WyslQDOeP0siDO+X5Gm3pG0Ok8PiRV2EUOmqyhphhhU2OKVF08wWLnNGUKkIw2G4PtdHNECBcZWHEw19oKpElomGS8eYEoGxluAQDflqWFES+UWysN/2VNYJJ+Pc/ZbCRI+ppbhMPWogU1ra5AJMBXA50asvr0QQxi0XU+kx4zxKEh0+gJVzFiCMm0IHp+r0pcSgNZUqfx4gUQCeH8=;MA1f/ZH5A+iGkM3IZ1BLkg=="
+secured: "djZUOh/e9V4XLhi6pJwwm1d4Lg4w5Vd3zI3Dulh3OtrsOYS1qO/YYtI0G2xLWPjag5BAJO4T/lYqqcedMnQlkO09jaHAImUfkwv/9AlzRiK4NR2tHt1rDw0JM3P69ANVjaWsSyhk8J89ltbrQariDL6sDNQUfLAa6AlspxhdNY3+vF0a3YCkcLTL3YwkO/7CKYuSxJWW9NY8/ycAPicins1Ez/FDr7lBUyblyH57RMM0vufO2d9uDuoAq5lbiHYCXS4AUUkP3x2Nk4CVi8xL4nbIEYBeaflJGznKpo7mNXDQ9fWL8L0e69q3RikL4nZVXoX6SQjcezoOrf0JCLiMmvH8nqNvMJ5aiGY8j9NJxhM=;FZB4c3dfart10qpDOoasNw=="
 ---
 

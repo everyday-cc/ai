@@ -2,6 +2,92 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2024-02-16-working-together-to-address-ai-risks-and-opportunities-at-msc.md",
+      "title": "Working together to address AI risks and opportunities at MSC",
+      "excerpt": "For 60 years, the Munich Security Conference has brought together world leaders, businesses, experts and civil society for frank discussions about strengthening and safe…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/safety-security/working-together-to-address-ai-risks-and-opportunities-at-msc/",
+      "originalUrl": "https://blog.google/technology/safety-security/working-together-to-address-ai-risks-and-opportunities-at-msc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Shield.width-1300.jpg",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/safety-security/working-together-to-address-ai-risks-and-opportunities-at-msc/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/safety-security/working-together-to-address-ai-risks-and-opportunities-at-msc/amp/",
+      "publishedDateTime": "2024-02-16T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-a-degree-in-artificial-intelligence-penn-becomes-first-ivy-to-offer-ai-major-for-undergrads.md",
+      "title": "A degree in artificial intelligence: Penn becomes first Ivy to offer AI major for undergrads",
+      "excerpt": "Intro courses include \"Introduction to Artificial Intelligence\" and \"Data, Systems, Decisions\" while other required classes consist of \"Control For Autonomous Robots,\" \"Natural Language Processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/education/2024/02/15/penn-ai-degree-program/72616551007/",
+      "originalUrl": "https://www.usatoday.com/story/news/education/2024/02/15/penn-ai-degree-program/72616551007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T23:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-scientists-aghast-at-bizarre-ai-rat-with-huge-genitals-in-peer-reviewed-article.md",
       "title": "Scientists aghast at bizarre AI rat with huge genitals in peer-reviewed article",
       "excerpt": "The article in question is titled \"Cellular functions of spermatogonial stem cells in relation to JAK/STAT signaling pathway,\" which was authored by three researchers in China, including the corresponding author Dingjun Hao of Xi’an Honghui Hospital. It was published online Tuesday in the journal Frontiers in Cell and Developmental Biology.",
@@ -1104,90 +1190,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-6-ways-to-elevate-the-salesforce-experience-for-your-users.md",
-      "title": "6 Ways to elevate the Salesforce experience for your users",
-      "excerpt": "In this article, explore six ways you can elevate your Salesforce experience for customers, partners and employees.\nThe post 6 Ways to elevate the Salesforce experience for your users appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/6-ways-to-elevate-the-salesforce-experience-for-your-users/",
-      "originalUrl": "https://www.ibm.com/blog/6-ways-to-elevate-the-salesforce-experience-for-your-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-how-to-achieve-kubernetes-observability-principles-and-best-practices.md",
-      "title": "How to achieve Kubernetes observability: Principles and best practices",
-      "excerpt": "Learn how Kubernetes observability works, and how organizations can use it to optimize cloud-native IT architectures.\nThe post How to achieve Kubernetes observability: Principles and best practices appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/kubernetes-observability/",
-      "originalUrl": "https://www.ibm.com/blog/kubernetes-observability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

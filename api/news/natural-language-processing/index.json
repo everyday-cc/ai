@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-29-generative-ai-and-the-big-buzz-about-small-language-models.md",
+      "title": "Generative AI and the big buzz about small language models",
+      "excerpt": "They process massive amounts of information to execute natural language processing (NLP) tasks that approximate human speech in response to prompts. As such, they are ideal for pulling from vast amounts of data to generate a wide range of content ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/",
+      "originalUrl": "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_580417436_Preview.jpeg?w=1200&strip=all",
+          "width": 1000,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T14:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-crunchyrolls-hope-for-ai-generated-subtitles-is-a-disaster-waiting-to-happen.md",
       "title": "Crunchyroll's Hope for AI-Generated Subtitles Is a Disaster Waiting to Happen",
       "excerpt": "But AI won’t do anything of the sort—and a fraught aspect ... or done wholly, through machine translation. Large language models have come a long way in the last year, often distressingly so for creatives in the broader business of writing.",
@@ -166,7 +218,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 291,
+      "heat": 281,
       "tags": null,
       "images": [
         {
@@ -1473,59 +1525,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution.md",
-      "title": "The Rise Of The Chief AI Officer: Powering AI’s Corporate Revolution",
-      "excerpt": "Explore the critical role of Chief AI Officers (CAIO) in steering companies through the AI revolution, transforming strategies, and securing a competitive edge",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cee0a23b56402c7e6cf6fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/",
-      "publishedDateTime": "2024-02-16T04:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Ethics"
       ]
     }
   ],

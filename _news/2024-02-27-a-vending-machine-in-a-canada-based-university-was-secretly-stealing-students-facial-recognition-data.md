@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Complaints filed with privacy commissioner over facial recognition vending machines"
+    excerpt: "Two complaints have been filed with the Office of the Information and Privacy Commissioner of Ontario over facial recognition software in smart vending machines on ..."
+    publishedDateTime: 2024-02-29T23:28:00Z
+    webUrl: "https://kitchener.ctvnews.ca/complaints-filed-with-privacy-commissioner-over-facial-recognition-vending-machines-1.6790047"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 48
+    images:
+      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/2/22/vending-machine-facial-recognition-1-6779840-1708642383265.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "Big Candy Is Watching You: Facial Recognition In Vending Machines Upsets University"
     excerpt: "The good news is that this probably doesn’t mean that facial recognition and similar personalized information is stored (or sent to the big vaporous mainframe) as this would violate the GDPR and similar data privacy laws, but there is precedence of ..."
     publishedDateTime: 2024-02-27T04:30:00Z

@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-27-apple-can-only-resist-ai-transparency-for-so-long.md",
+      "title": "Apple can only resist AI transparency for so long",
+      "excerpt": "The idea that decisions of huge consequential impact could be made by machines on the basis of principles and ethics that are not transparently shared or open to examination cannot stand. The shareholder proposal warns against AI being used to undermine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.html",
+      "originalUrl": "https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/02/11/apple-keynote-craig-federighi-100941727-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.amp.html",
+      "publishedDateTime": "2024-02-26T16:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-ai-can-power-the-green-energy-transition.md",
+      "title": "AI Can Power The Green Energy Transition",
+      "excerpt": "The emergence of AI intersects with the energy transition. There is an opportunity for this emerging technology to accelerate the move to greener energy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
+      "originalUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dcb93b7d0e3d22afce25a9/0x0.jpg?format=jpg&crop=3552,1999,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
+      "publishedDateTime": "2024-02-26T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant.md",
+      "title": "Mistral AI releases new model to rival GPT-4 and its own chat assistant",
+      "excerpt": "Finally, Mistral AI is also using today’s news drop to announce a partnership with Microsoft. In addition to Mistral’s own API platform, Microsoft is going to provide Mistral models to its Azure customers. It’s another model in Azure’s model catalo ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
+      "originalUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1630826367.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/",
+      "publishedDateTime": "2024-02-26T15:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-conversational-ai-revolutionizes-the-customer-experience-landscape.md",
       "title": "Conversational AI revolutionizes the customer experience landscape",
       "excerpt": "AI can create seamless customer and employee experiences but it’s important to balance automation and human touch, says head of marketing, digital & AI at NICE, Elizabeth Tobey.",
@@ -83,57 +230,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-six-generative-ai-predictions-for-2024-and-beyond.md",
-      "title": "Six Generative AI Predictions For 2024 And Beyond",
-      "excerpt": "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -707,6 +803,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-26-market-downturn-3-artificial-intelligence-ai-stocks-to-buy-with-1000-and-hold-forever.md",
+      "title": "Market Downturn? 3 Artificial Intelligence (AI) Stocks to Buy With $1,000 and Hold Forever",
+      "excerpt": "Some of the leading artificial intelligence (AI) stocks come to mind here. Here are three stocks that investors can buy for under $1,000 and confidently hold for the long term. Consider nibbling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/26/market-downturn-artificial-intelligence-ai-stock/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/26/market-downturn-artificial-intelligence-ai-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/766231/big-data-analyst-ai-research.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T05:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
       "title": "DeepMind uses AI to tackle neglected deadly diseases",
       "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ...",
@@ -1059,143 +1207,6 @@
         "AI Hardware",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management.md",
-      "title": "GHMC Adopts AI Facial Recognition for Sanitation Staff Attendance Management",
-      "excerpt": "Hyderabad: The GHMC has decided to use an artificial intelligence-driven mobile-based facial recognition biometric system to manage the attendance of staff in its sanitation wing. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "originalUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanchronicle.com/h-upload/2024/02/04/1074120-ghmc.jpg",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "publishedDateTime": "2024-02-25T21:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition.md",
-      "title": "3 Robotics Stocks That Could Be Multibaggers in the Making: February Edition",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As technology continues to advance at an unprecedented pace, robotics stands",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition-1033099946",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition-1033099946",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T19:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing.md",
-      "title": "8 TED Talks To Help You Prepare For The Era Of AI-Driven Spatial Computing",
-      "excerpt": "The Humane AI Pin might not be the device we all use ... Thousands of TED Talks have inspired and sparked ideas and imagination. These TED Talks are the start of a journey to understand Spatial Computing, how it works, and why it's necessary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/",
-      "originalUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dbbe3f64a8766c81ca8d55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/",
-      "publishedDateTime": "2024-02-25T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

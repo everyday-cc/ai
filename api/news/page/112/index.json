@@ -2,6 +2,92 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2023-11-28-aws-announces-amazon-q-to-reimagine-the-future-of-work.md",
+      "title": "AWS Announces Amazon Q to Reimagine the Future of Work",
+      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be t ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/aws-announces-amazon-q-to-reimagine-the-future-of-work/article_e16f797f-3d88-5442-864a-015272743a9b.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/aws-announces-amazon-q-to-reimagine-the-future-of-work/article_e16f797f-3d88-5442-864a-015272743a9b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-jinjun-xiong-talks-to-host-cory-nealon-about-ai-for-social-good.md",
+      "title": "Jinjun Xiong talks to host Cory Nealon about AI for social good",
+      "excerpt": "Speaker 2: This is Jeopardy. The IBM challenge. Cory Nealon: Yes, Big Blue's groundbreaking Watson program achieved a historic milestone in artificial intelligence by besting the game show's greatest champions. Watson's victory signaled a new era of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/news/faculty-experts.host.html/content/shared/university/news/ub-reporter-articles/podcast/Xiong-AI-social-good.detail.html",
+      "originalUrl": "https://www.buffalo.edu/news/faculty-experts.host.html/content/shared/university/news/ub-reporter-articles/podcast/Xiong-AI-social-good.detail.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalo.edu/etc/designs/ubcms/clientlibs-main/images/ub-social.png.img.512.auto.png/1615975623771.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-28-tech-mahindra-and-aws-partner-to-amplify-fan-sporting-experience-globally.md",
       "title": "Tech Mahindra and AWS Partner to Amplify Fan Sporting Experience Globally",
       "excerpt": "The platform will also use AWS native services, AWS Elemental MediaLive, AWS Elemental MediaConvert, Amazon Kinesis Data Streams, Amazon Managed Blockchain, and Amazon SageMaker. You want to cultivate an amiable atmosphere at work with your team.",
@@ -1071,101 +1157,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-beyond-efficiency-unleashing-business-transformation-through-generative-ais-hidden-potential.md",
-      "title": "Beyond Efficiency: Unleashing Business Transformation Through Generative AI's Hidden Potential",
-      "excerpt": "Generative AI's revolution extends beyond the obvious and into the realm of cultural transformation, ethics, societal impact and inclusivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/beyond-efficiency-unleashing-business-transformation-through-generative-ais-hidden-potential/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/beyond-efficiency-unleashing-business-transformation-through-generative-ais-hidden-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655e3705f6bec1d370244d65/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/beyond-efficiency-unleashing-business-transformation-through-generative-ais-hidden-potential/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/27/beyond-efficiency-unleashing-business-transformation-through-generative-ais-hidden-potential/amp/",
-      "publishedDateTime": "2023-11-27T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles.md",
-      "title": "The Best AI Tools of 2023: A Review with Bruno Centano from Global Triangles",
-      "excerpt": "AI is everywhere these days, and it’s getting smarter and more powerful every year. But how do you choose the best AI tools for your needs? Whether you’re a developer, a marketer, a designer, or just a curious enthusiast,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles/",
-      "originalUrl": "https://techbullion.com/the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-27-at-4.46.28-pm-1000x600.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-27T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

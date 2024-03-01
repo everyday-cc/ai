@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-28-4-smart-technologies-modernizing-sourcing-strategy.md",
+      "title": "4 smart technologies modernizing sourcing strategy",
+      "excerpt": "Organizations with strategic sourcing mindsets look beyond price and cost savings-centered supplier selection initiatives.\nThe post 4 smart technologies modernizing sourcing strategy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/sourcing-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/sourcing-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T16:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-meet-verdie-an-electric-ai-powered-robot-that-can-do-all-your-landscaping-video.md",
+      "title": "Meet Verdie – An electric, AI-powered robot that can do all your landscaping [Video]",
+      "excerpt": "Electric Sheep – an artificial intelligence and robotics company specializing in large-scale landscaping operations, has announced a new autonomous robot to its fleet – Verdie. This electric robot can work alongside Electric Sheep’s other products ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2024/02/28/meet-verdie-electric-ai-powered-robot-autonomous-landscaping-video/",
+      "originalUrl": "https://electrek.co/2024/02/28/meet-verdie-electric-ai-powered-robot-autonomous-landscaping-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/Landscaping-robot-Verdie.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T16:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-the-evolution-of-rugby-a-journey-into-the-future-with-ai.md",
       "title": "The Evolution Of Rugby: A Journey Into The Future With AI",
       "excerpt": "Imagine where tradition meets cutting-edge technology, where the raw physicality and strategic depth of rugby are enhanced by the power of AI. Well, it's already here.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -206,7 +300,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -394,7 +488,7 @@
       "originalUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -434,6 +528,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-10-best-graphics-cards-of-2024-finding-the-best-gpu-for-gaming.md",
+      "title": "10 best graphics cards of 2024: finding the best GPU for gaming",
+      "excerpt": "The previous GPU champion, the RTX 3090 Ti ... On top of that, the card also supports Intel's XeSS upscaling feature, which uses AI to upscale your games and improve performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
+      "originalUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/01/12gb-rtx-3080-review-07.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/best-graphics-cards/?amp",
+      "publishedDateTime": "2024-02-28T09:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -992,7 +1138,7 @@
       "originalUrl": "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1076,145 +1222,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker.md",
-      "title": "How Axfood enables accelerated machine learning throughout the organization using Amazon SageMaker",
-      "excerpt": "This is a guest post written by Axfood AB.&nbsp; In this post, we share how Axfood, a large Swedish food retailer, improved operations and scalability of their existing artificial intelligence (AI) and machine learning (ML) operations by prototyping in close collaboration with AWS experts and using Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/16/ML-15027-model-build-pipeline-2.jpg",
-          "width": 1253,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T17:51:48Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-intel-aims-to-deliver-chips-for-100-million-ai-pcs-by-2025.md",
-      "title": "Intel aims to deliver chips for 100 million AI PCs by 2025",
-      "excerpt": "Intel Vice President of Client Computing Group David Feng said his company expects to deliver 40 million AI PCs this year and 60 million next year -- more than 20% of the projected total global PC market in 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025",
-      "originalUrl": "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F8%2F4%2F47334888-1-eng-GB%2F2024-01-08T220541Z_1510761602_RC2YD5ADZUKN_RTRMADP_3_TECH-AI+%281%29.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T17:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.md",
-      "title": "Foldable models, artificial intelligence and other MWC proposals to boost cell phone sales",
-      "excerpt": "At the Mobile World Congress, the eagerness of smartphone brands to find new products to boost sales after two years of decline is evident",
-      "sourceUrl": null,
-      "webUrl": "https://english.elpais.com/technology/2024-02-27/foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.html",
-      "originalUrl": "https://english.elpais.com/technology/2024-02-27/foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.english.elpais.com/resizer/nlcLf1dzuKxKMl7Dd9nPnCszTs4=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/PMG2LDYE4BGDFAUCTYCRGBRX6A.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://english.elpais.com/technology/2024-02-27/foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.html?outputType=amp",
-      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/technology/2024-02-27/foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.html?outputType=amp",
-      "publishedDateTime": "2024-02-27T16:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "El País in English",
-        "domain": "elpais.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

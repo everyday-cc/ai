@@ -33,6 +33,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Harvesting innovation: The story behind Tortuga’s autonomous harvesting robots"
+    excerpt: "Learn how Tortuga AgTech is innovating with autonomous harvesting solutions for grapes, tomatoes, and strawberries."
+    publishedDateTime: 2024-02-29T23:37:00Z
+    webUrl: "https://www.therobotreport.com/harvesting-innovation-the-story-behind-tortugas-autonomous-harvesting-robots/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 65
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2024/02/episode-143-featuredRobotics.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "AI Innovators: 3 Future Stock Leaders to Watch Now"
     excerpt: "Recently, more and more companies are offering AI-powered solutions and products every day to ride the wave of AI stocks. Yet for investors, this can be confusing, as just because a company claims to incorporate AI, doesn’t necessarily mean profitability."
     publishedDateTime: 2024-02-28T10:31:00Z

@@ -54,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -171,6 +171,58 @@
         "name": "JD Supra",
         "domain": "jdsupra.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-market-downturn-3-artificial-intelligence-ai-stocks-to-buy-with-1000-and-hold-forever.md",
+      "title": "Market Downturn? 3 Artificial Intelligence (AI) Stocks to Buy With $1,000 and Hold Forever",
+      "excerpt": "Some of the leading artificial intelligence (AI) stocks come to mind here. Here are three stocks that investors can buy for under $1,000 and confidently hold for the long term. Consider nibbling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/26/market-downturn-artificial-intelligence-ai-stock/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/26/market-downturn-artificial-intelligence-ai-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/766231/big-data-analyst-ai-research.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T05:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1345,40 +1397,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot.md",
-      "title": "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot",
-      "excerpt": "The generative artificial intelligence boom has led to the emergence of more companion chatbots NEW YORK -- A few months ago, Derek Carrier started seeing someone and became infatuated.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/amid-artificial-intelligence-boom-ai-girlfriends-boyfriends-making-107216988",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/amid-artificial-intelligence-boom-ai-girlfriends-boyfriends-making-107216988",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T11:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

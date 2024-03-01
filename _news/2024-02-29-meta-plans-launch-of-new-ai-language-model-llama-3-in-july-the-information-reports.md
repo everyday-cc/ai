@@ -23,36 +23,57 @@ topics:
   - AI
 
 related:
-  - title: "Meta Platforms set to launch Llama 3, aims to provide context to controversial queries: Report"
-    excerpt: "Meta Platforms plans to launch Llama 3 in July, aiming to enhance its AI language model's response to contentious queries. Llama 3 seeks to address Llama 2's limitations and interpret technical questions more accurately,"
-    publishedDateTime: 2024-02-29T06:00:00Z
-    webUrl: "https://www.livemint.com/ai/meta-platforms-set-to-launch-llama-3-aims-to-provide-context-to-controversial-queries-report-11709185937398.html"
-    ampWebUrl: "https://www.livemint.com/ai/meta-platforms-set-to-launch-llama-3-aims-to-provide-context-to-controversial-queries-report/amp-11709185937398.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/meta-platforms-set-to-launch-llama-3-aims-to-provide-context-to-controversial-queries-report/amp-11709185937398.html"
+  - title: "Generative AI and the big buzz about small language models"
+    excerpt: "They process massive amounts of information to execute natural language processing (NLP) tasks that approximate human speech in response to prompts. As such, they are ideal for pulling from vast amounts of data to generate a wide range of content ..."
+    publishedDateTime: 2024-02-29T14:23:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 47
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/im-921501_1707304698633_1709186131544.jpg"
-        width: 1600
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_580417436_Preview.jpeg?w=1200&strip=all"
+        width: 1000
+        height: 571
+        isCached: true
+  - title: "Six Generative AI Predictions For 2024 And Beyond"
+    excerpt: "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students."
+    publishedDateTime: 2024-02-26T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Meta plans launch of new AI language model Llama 3 in July: Report"
-    excerpt: "Meta Platforms plans to release Llama 3 in July with improved responses to contentious questions and an understanding of controversial queries. Gemini AI paused its image-generation feature. Meta's Llama 2 refuses less controversial questions. Meta plans ..."
-    publishedDateTime: 2024-02-29T07:41:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/meta-plans-launch-of-new-ai-language-model-llama-3-in-july-report/108098685"
+  - title: "An update on the BBC’s plans for Generative AI (Gen AI) and how we plan to use AI tools responsibly"
+    excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. He's responsible for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
+    publishedDateTime: 2024-02-28T21:20:00Z
+    webUrl: "https://www.bbc.co.uk/mediacentre/articles/2024/update-generative-ai-and-ai-tools-bbc"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
+      name: BBC
+      domain: bbc.co.uk
+    quality: 23
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-108098685,imgsize-125570,width-1200,height=765,overlay-ettelecom/internet/meta-plans-launch-of-new-ai-language-model-llama-3-in-july-report.jpg"
-        width: 1200
-        height: 765
+      - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0f2ssyx.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Mistral AI Advances AI Accessibility: Unveils Mistral Large and Mistral Small Language Models, Integration with Azure Platform"
+    excerpt: "Mistral AI, an AI company, has introduced Mistral Large, its latest advanced language model, offering top-tier reasoning capabilities and multiling"
+    publishedDateTime: 2024-02-26T19:46:00Z
+    webUrl: "https://news.europawire.eu/mistral-ai-advances-ai-accessibility-unveils-mistral-large-and-mistral-small-language-models-integration-with-azure-platform/eu-press-release/2024/02/26/20/35/28/130787/"
+    type: article
+    provider:
+      name: EuropaWire
+      domain: europawire.eu
+    quality: 6
 
 secured: "4B3EAl4/ld75pAbS4DZUiQrCH04cfJudVBPgO77NpAtgWPCRsxgD3qz/z6YtauVawu+XJ+lMmC6trzFwfS4IrEvEX3DkC5IjlaLX8GZLZhSE+Pzqow65iZRXYVbRJvwKejYKDNut0KHYQfOucLskurddmaUIee2CiFi6ps0SJu9OVE9SJWCk19PrhgFnz01qT1WuiWaiAHtmlU6kc9/bwPKsxevOwEymoEZ8cZKz84Jh4EjxQGtEHRvWZiLNSTiHnvjQgnVK9LSVwO+Yam1ZyitosNf2GKXL55eLBUf4tCEpYRC5C1UNTFlFvudmfyFyNV9il6U8ZZxqHdem481IOtTZmhnAYzjjmOjJFRsBQcs2uo7ZyAkVuEJxO4TcMfCXY9xBJgqSrpi58QnJR3QABRu8gMFCfH+xEI/F6I3twP+50HkrfOAp0ic31d8+MFf4NIcqsC1fb2AX8QSdC2slC3FDSopmqh8qRL6wxd1Xyf42UPkWrbyVgZhUVCdOY8wAF3iRJE0qyUIbW+ChrmV8Bw==;Ps3ORXb0vtuXA4gf1cpu4w=="
 ---

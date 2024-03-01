@@ -37,6 +37,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Harvesting innovation: The story behind Tortuga’s autonomous harvesting robots"
+    excerpt: "Learn how Tortuga AgTech is innovating with autonomous harvesting solutions for grapes, tomatoes, and strawberries."
+    publishedDateTime: 2024-02-29T23:37:00Z
+    webUrl: "https://www.therobotreport.com/harvesting-innovation-the-story-behind-tortugas-autonomous-harvesting-robots/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 65
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2024/02/episode-143-featuredRobotics.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
     excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
     publishedDateTime: 2024-02-28T14:42:00Z

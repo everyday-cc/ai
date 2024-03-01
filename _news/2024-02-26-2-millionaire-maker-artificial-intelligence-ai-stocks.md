@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "These High-Flying Artificial Intelligence (AI) Stocks Could Sink 20% or More Over the Next 12 Months, According to Wall Street"
-    excerpt: "But just as the story of the fabled king took a turn for the worse, some of the stocks that have been gold mines for investors just might be headed for a rough patch. These high-flying AI stocks could sink 20% or more over the next 12 months, according to Wall Street."
-    publishedDateTime: 2024-02-25T10:51:00Z
-    webUrl: "https://www.fool.com/investing/2024/02/25/these-high-flying-artificial-intelligence-ai-stock/"
+  - title: "Market Downturn? 3 Artificial Intelligence (AI) Stocks to Buy With $1,000 and Hold Forever"
+    excerpt: "Some of the leading artificial intelligence (AI) stocks come to mind here. Here are three stocks that investors can buy for under $1,000 and confidently hold for the long term. Consider nibbling ..."
+    publishedDateTime: 2024-02-26T05:09:00Z
+    webUrl: "https://www.fool.com/investing/2024/02/26/market-downturn-artificial-intelligence-ai-stock/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 56
+    quality: 74
     images:
-      - url: "https://g.foolcdn.com/editorial/images/766377/thumb-down.jpg"
-        width: 2122
-        height: 1413
+      - url: "https://g.foolcdn.com/editorial/images/766231/big-data-analyst-ai-research.jpg"
+        width: 3840
+        height: 2160
         isCached: true
-  - title: "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic"
-    excerpt: "The growing adoption of artificial intelligence (AI) has sent shares of companies involved in the proliferation of this technology soaring over 16 months or so, with many names seeing a parabolic rise in their stock prices. A parabolic move is a rapid rise ..."
-    publishedDateTime: 2024-02-29T14:47:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/24435107/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 32
 
 secured: "NB1v2ATxVbVtNLdM+hL1yDgri3/BiY8NVpd+McbvZ+OtYGG8km/nQGw0BSmdjFe9ZuvDHLhdr2MI8cbbOwJJB0tBPjGkmv7RfriB0qcgBKyDn8CrvTVigK644N5gEUivzA8Nb46wFSQx+7N4STEP/zxMgH+dk5ElQVDDVy64ymIC7ThhvefhYikO5R37xV1ZSFj75eUTtaDI3Xdv30zGoZEZwT4Nrf83/e7jC6Jq/dUzK+RkV1UuS7CtLNBWjXBxe54I/2sYVOYTcdKvqLXVEIZ1ZX+d6u0Ps/WJP2o01zM1pmehYZcWdqLVJs6I8ZVcG5XYtqIfIpxHRjoRNtt1DoxSNS66pNQhiCEJ6VkgnQg=;KeihVK1l/hcIpU7fuSpKGw=="
 ---

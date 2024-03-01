@@ -211,6 +211,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 55
+  - title: "Humanoid robot-maker Figure partners with OpenAI"
+    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://wiscnews.com/news/nation-world/science-technology-artificial-intelligence-robotics-bezos/article_c2190023-3242-5f2c-be82-4deb48bdce40.html"
+    type: article
+    provider:
+      name: WiscNews
+      domain: wiscnews.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/c/21/c2190023-3242-5f2c-be82-4deb48bdce40/65e1032a48182.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up"
     excerpt: "Figure AI aims to transform labour market as it raises total $675mn in a funding round that also includes Jeff Bezos"
     publishedDateTime: 2024-02-29T13:00:00Z
@@ -266,6 +280,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "/AYehVHmfiLhbuCKWZKp8++BYUwO8B5oVkUaCvUP0lO7GzPqgxf3F6NRbdyO519q+uBzIrb525eisXWimVTysfPEYh7l4bga2JaCQ6OFDxaYussBk/DydMp5yafi/B98YCIduRci0lC/6uNRH+NUX+g3IIaxqrGIU0DDlU0l1jkuRg63oTqwRzMLql1v/HESvtBkkfpQ3oR+4wRSUXGqbCE9nbmsyL4234roJ9unZLUg08ToW4CUprLh7uHQL23lNaf0O97q3OB7+5w5/mVjsEh62Onidhu5X7BL6PwcTYHZd393bJJl/WzfEYckPtH06Fyfa6nc8ssHdqNgjmVdwEgHc9tHK6ptHU2EB1rDuyc=;uAt+kXBguQX7Yfkta3cPSQ=="
+secured: "5TgqCZeda5lchFcoRm6QnDwg+KJcBPf1ejVUxCqIfRbSaYNDbA9vde9q23qmZx7Jp9pPfW5DecWEtnEkmKzZoqDhZ/CesxV4lo824EfbC/ooJwiyo42MrQkcCRRsvfjd/VJx6tzLlPGoULUiTBTzhNqrtQbZbIUAwgx8s6xiD6VqjNKv2NFSANtzkOoiKS0ow7B+U6rKTWWEyt6ncCzsthdf6Y+h7dbPgXKdRtzwLchoDui8845kIJd6/PEmy18ziCxdIkGwTBU0tkXzRQoXk0HeI1HYLN1OtMb7RiBlin3IphTYOlVRMgBBMj1g3AchV7NIE7QVGTB/lRaFsFdWc56rg64OViBOJ7+h1RPTrA8q0u/czWTmyRwt0mbHm471Lg5TGdM+GForHPuWzY2PVnmf3UQ4lN1qpJjeOweuRaGFUdVFl3wBddGvjQn1wTCaGZ5fvVUUXPVw1P9r2o6e2H/w/8m2eatdHGHR9eY0JQ92NMGYcvsf7qBTnCL6FHJ4Tixu4G/d7Sh8yYel4Mqv/Q==;CfMb6qeTMbD9lblGg35m+w=="
 ---
 

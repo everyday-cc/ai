@@ -29,19 +29,19 @@ images:
 related:
   - title: "How scientists are using facial-recognition AI to track humpback whales"
     excerpt: "After being hunted for decades, humpback whales returned to the Pacific Ocean in big numbers. Now, new technology is revealing that underwater heat waves are taking a toll on that recovery."
-    publishedDateTime: 2024-02-29T19:06:00Z
-    webUrl: "https://www.ijpr.org/npr-news/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales"
-    ampWebUrl: "https://www.ijpr.org/npr-news/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales?_amp=true"
-    cdnAmpWebUrl: "https://www-ijpr-org.cdn.ampproject.org/c/s/www.ijpr.org/npr-news/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales?_amp=true"
+    publishedDateTime: 2024-02-29T23:06:00Z
+    webUrl: "https://www.wunc.org/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales"
+    ampWebUrl: "https://www.wunc.org/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales?_amp=true"
+    cdnAmpWebUrl: "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales?_amp=true"
     type: article
     provider:
-      name: Jefferson Public Radio
-      domain: ijpr.org
+      name: WUNC
+      domain: wunc.org
     quality: 59
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/94eabe9/2147483647/strip/true/crop/3502x2157+166+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F28%2Fmartin_van_aswegen_mothercalf_maui_1-1-_wide-308a974ad26f270c72b4ee6f9e8ab3587f338a73.jpg"
-        width: 880
-        height: 542
+      - url: "https://npr.brightspotcdn.com/dims4/default/8406358/2147483647/strip/true/crop/511x287+0+112/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F29%2Fgettyimages-1251791995_sq-f46827de65a9dd5c6b92e7d43ede680fe1d9e336.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "How scientists are using facial-recognition AI to track humpback whales"
     excerpt: "Now, a new study finds that climate change could be slowing that recovery. Using artificial intelligence-powered image recognition, the survey finds the humpback population in the North Pacific Ocean declined 20% from 2012 to 2021. The decline coincides ..."

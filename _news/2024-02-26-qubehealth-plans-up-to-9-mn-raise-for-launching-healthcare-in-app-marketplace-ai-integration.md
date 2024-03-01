@@ -7,7 +7,7 @@ originalUrl: "https://inc42.com/buzz/qubehealth-plans-up-to-9-mn-raise-for-new-f
 webUrl: "https://inc42.com/buzz/qubehealth-plans-up-to-9-mn-raise-for-new-feature-ai-deployment/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -28,7 +28,12 @@ related:
     provider:
       name: MedPage Today
       domain: medpagetoday.com
-    quality: 12
+    quality: 32
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/108xxx/108954.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "jwDLsOHMxYwx5ZTXF9mmaD9wr2Y8c1wHwzUSGGNzBEgmUgPFv5ZLOoaTgfwJROLAs/X/OVcqMXzPo0RxRwlxch6jaTYtFrI0hU6yIHglPF9J+P6d5jDxBo21mywfvCb0NKxfN1lUK/9T9sD5AjHQypXGU+K/01r99S7jJ+UvzHC5/ZRVV0kSFqrYR1Y8RxBw07prFiS1Q9/aTUYqQ0MKNunTW8Wtggvl3ergfqza5O8SsREimL/wCcKIBp8KMZxbdVkCDKKySQXqsBjcEyCCpQhjdLlT9plsqa8/IkzvcWJXmKSdp7E6hHsUSAsldS+YpvftpJJRuQt1nZvIFt5msM/xF1CozQ69iXZSFzmTaklTMB3Q229hHhYFZ4Ki0pUUpkeYvp6j/TJYL2QGs4KS8fqmR2GDtcVrVSaLqJ9DM4sZEnJXlZudAgaU8Ka0g37hYR/KDsdJogXiUBlH0xHcGAkHymbO5MH24W94Zx0zRxwIm6memuachX9ADeI66bG5vRJMov5UhDEPZ3pDDnxbaw==;Akk7lVaPDKR2y8uVtdiYZQ=="
 ---

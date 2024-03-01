@@ -76,20 +76,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 44
-  - title: "Samsung Galaxy S23 WILL Get Galaxy AI Next Month"
-    excerpt: "Here’s a quick rundown of what you’ll be able to do with Samsung’s Galaxy AI ... Real-time Call Translation: The update will enable real-time translation during calls, allowing users to understand conversations in foreign languages without language ..."
-    publishedDateTime: 2024-02-25T00:00:00Z
-    webUrl: "https://www.knowyourmobile.com/news/samsung-galaxy-s23-will-get-galaxy-ai-next-month/"
-    type: article
-    provider:
-      name: Know Your Mobile
-      domain: knowyourmobile.com
-    quality: 39
-    images:
-      - url: "https://www.knowyourmobile.com/wp-content/uploads/2024/01/Samsung-Galaxy-AI.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Micron's 1.2TB/s HBM3E Production Kicks Into High Gear As AI Demand Skyrockets"
     excerpt: "HBM3E will be part of NVIDIA's H200 Tensor Core GPUs that are slated to ship in the second quarter of this year."
     publishedDateTime: 2024-02-26T14:14:00Z

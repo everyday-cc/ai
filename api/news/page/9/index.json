@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-23-justice-department-taps-former-kamala-harris-adviser-as-1st-ever-artificial-intelligence-officer.md",
+      "title": "Justice Department taps former Kamala Harris adviser as 1st-ever artificial intelligence officer",
+      "excerpt": "The Justice Department named its first-ever official focused on artificial intelligence (AI) on Thursday in anticipation of the rapidly evolving technology's impact on the criminal justice system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/justice-department-taps-former-kamala-harris-adviser-first-ever-artificial-intelligence-officer",
+      "originalUrl": "https://www.foxnews.com/politics/justice-department-taps-former-kamala-harris-adviser-first-ever-artificial-intelligence-officer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/340/340/Danielle-Wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/justice-department-taps-former-kamala-harris-adviser-first-ever-artificial-intelligence-officer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/justice-department-taps-former-kamala-harris-adviser-first-ever-artificial-intelligence-officer.amp",
+      "publishedDateTime": "2024-02-22T16:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-google-halts-ai-tools-ability-to-produce-images-of-people-after-backlash-over-historically-inaccurate-depictions-of-race.md",
+      "title": "Google halts AI tool’s ability to produce images of people after backlash over historically inaccurate depictions of race",
+      "excerpt": "The incident is also yet another setback for Google as it races to take on OpenAI and other players in the competitive generative AI space. In February, shortly after introducing its generative AI tool — then called Bard and since renamed Gemini ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
+      "originalUrl": "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1835957780.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
+      "publishedDateTime": "2024-02-22T16:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap.md",
       "title": "Care.com Founder Launches AI Startup Aimed At $10.9 Trillion Labor Gap",
       "excerpt": "Their story and journey create powerful references in helping us understand how to pave the path forward for gender parity and address this seismic gap.",
@@ -1155,109 +1259,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-ai-tool-to-aid-organ-transplants-nominated-for-nhs-award.md",
-      "title": "AI tool to aid organ transplants nominated for NHS award",
-      "excerpt": "A method using artificial intelligence (AI) to assess potential transplant organs has been shortlisted for a national NHS award. Known as OrQA - Organ Quality Assessment - the technology scans images of organs to look at suitability for kidney and liver transplants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365",
-      "originalUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2313/production/_132697980_optheatre.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365.amp",
-      "publishedDateTime": "2024-02-22T06:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run.md",
-      "title": "2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run",
-      "excerpt": "TSMC's revenue in January 2024 increased substantially, and the trend is here to stay thanks to the robust demand for AI chips. SoundHound AI shares have shot up big time of late, and the company's potential growth could help it sustain the rally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/765982/artificial-intelligence-ai-on-circuit-board.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T05:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
